@@ -1,0 +1,98 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Arryn
+| Image       = Hugh profile.jpg
+| Birth       = The [[Vale of Arryn]]
+| Death       = [[298 AC]]{{Dateref|Game of Thrones: Season 1}}<br>[[King's Landing]], the [[Crownlands]]
+| House       = 
+| Affiliation = [[House Arryn]]
+| Titles      = [[Knighthood|Ser]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Vale of Arryn|Valemen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 1|1]]
+| Appearances = 2 episodes {{Below|Appearances}}
+| First       = "[[Cripples, Bastards, and Broken Things]]"
+| Last        = "[[The Wolf and the Lion]]" {{Corpse}}
+| DeathEp     = "Cripples, Bastards, and Broken Things"
+| Actor       = [[Jefferson Hall]]
+}}
+{{Quote|Ah, a knight. They strut around like roosters down here. Even the ones who have never seen an arrow coming their way.|[[Eddard Stark]] on Hugh's lack of manners|Cripples, Bastards, and Broken Things}}
+Ser '''Hugh of the Vale''' was a freshly made [[Knighthood|knight]] from the [[Vale of Arryn]]. 
+
+==Biography==
+===Background===
+Hugh served as Lord [[Jon Arryn]]'s [[squire]] for four years before the latter's death. After Arryn's death, Hugh was knighted for his loyal service by King [[Robert Baratheon]]. When [[Lysa Arryn]] returned to the [[Eyrie]] with her son, Ser Hugh elected to remain in [[King's Landing]] in the King's service.{{Ref|GOT104}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+[[Eddard Stark]] sends [[Jory Cassel]] to quiz Ser Hugh about [[Assassination of Jon Arryn|Jon Arryn's death]]. Ser Hugh refuses to talk to Jory since he isn't a knight.{{Ref|GOT104}}
+
+Ser Hugh takes part in the [[tournament]] to celebrate Eddard's arrival. He is killed by a splintered lance during a joust with [[Gregor Clegane]].{{Ref|GOT104}}
+
+[[File:Silent Sisters.png|thumb|Hugh's body is prepared for burial.]]
+[[Barristan Selmy]] stands the knight's vigil for Ser Hugh overnight. Eddard ponders how Hugh could afford arms and armor so soon after being knighted. While Selmy theorizes that maybe Lord Arryn left him some money, Ned suspects that Hugh was involved in Lord Arryn's death. [[Varys]] later agrees that this is the most likely explanation, and that the [[House Lannister|Lannisters]] ordered him killed to prevent him talking (Ser Gregor is in the Lannisters' service).{{Ref|GOT105}}
+
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+Lysa's revelation about Jon Arryn's death refutes Eddard and Varys's assumption.{{Ref|GOT405}}
+
+==Quotes==
+===Spoken about Hugh===
+{{Dialogue a-b|Petyr Baelish|Do you know Ser Hugh of the Vale? Not surprising. Until recently he was only a squire – Jon Arryn's squire. He was knighted almost immediately after his master's untimely death.|Eddard Stark|Knighted for what?|Eddard Stark's unanswered question.|Cripples, Bastards, and Broken Things}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Ser Hugh is a reasonably effective warrior, but is newly-proud and slightly drunk on his achievement of becoming a knight.
+
+[[Petyr Baelish|Littlefinger]] tells Ned about Hugh and three other people, who belonged to Jon Arryn's household, and remained in King's Landing after his death. Ned assigns Jory to question all the four, and he does. The conversation between Jory and Hugh is about the same as in the show, but occurs off-screen, because they are not POV characters.
+
+[[Jeyne Poole]] cries hysterically at Hugh's death, but [[Sansa Stark|Sansa]] just watches the scene with a strange fascination. She thinks she should cry too, but does not. She finds it sad that the young knight will be soon forgotten, and no songs will be sung for him.
+
+Following Hugh's death, Barristan Selmy tells Ned that he apparently had a mother in the [[Vale of Arryn|Vale]]. Ned orders that Hugh's armor will be sent to his mother.
+
+[[Sandor Clegane|The Hound]] tells Sansa that Hugh was a fool, and should have never participated the tourney, since he had no money, no squire, no one to help him with the armor; his gorget wasn't fastened properly, and Gregor noticed that. The Hound states that Hugh's death was not an accident, but does not explicitly say whether Gregor meant to silence Hugh, or it was simply due to his murderous nature.
+
+When [[Pycelle]] is accused by [[Tyrion Lannister|Tyrion]] of Jon Arryn's death, he claims Hugh did it, and that Varys and [[Cersei Lannister|Cersei]] will concur with Pycelle about Hugh's guilt.
+
+Upon being knighted, Hugh's sigil is a blue field bordered in crescent moons.
+
+In view of the revelation about Jon Arryn's death in ''A Storm of Swords'', [[George R.R. Martin]] was asked who ordered Hugh's death - Cersei or Littlefinger. He answered ambiguously "It could very well have been either of the two, that's for you to decide. But, it could also just have been a Gregor thing. He's a murderous brute, and really needs no reason to kill someone".<ref>[https://www.westeros.org/Citadel/SSM/Entry/Asshai.com_Interview_in_Barcelona/ So Spake Martin, July 28, 2012]</ref>
+
+==Appearances==
+*{{GOT|Cripples, Bastards, and Broken Things}}
+*{{GOT|The Wolf and the Lion}} {{Corpse}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Arryn}}
+
+<!--Categories-->
+[[Category:Ennobled commoners]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Knights]]
+[[Category:Servants and retainers of House Arryn]]
+[[Category:Squires]]
+[[Category:Valemen]]
+
+<!--Languages-->
+[[de:Hugh (Grünes Tal)]]
+[[es:Hugh]]
+[[fr:Hugh]]
+[[ru:Хью из Долины]]
+[[zh:修夫]]

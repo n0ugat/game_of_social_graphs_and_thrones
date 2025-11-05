@@ -1,0 +1,59 @@
+{{Canonicity|Canon}}
+{{ConjectureInfo}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Blackfyre
+| Image     = 
+| Arms      = 
+| Words     = 
+| Titles    = 
+| Seat      = 
+| Region    = 
+| Head      = 
+| Heir      = 
+| Overlords = {[[House Blackfyre]]}
+| Vassals   = 
+| Religion  = 
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Strickland'''{{Ref|GOT801}}{{Note|Harry's surname is Strickland.}} is an [[exile]]d [[noble house]] from [[Westeros]]. Their last known [[Lordship|lord]] was [[Harry Strickland]], captain of the [[Golden Company]].
+
+==History==
+===Background===
+House Strickland supported [[House Blackfyre]] in one of the [[Blackfyre Rebellion]]s. As a result, they were exiled to [[Essos]].
+
+===[[Game of Thrones: Season 8|''Game of Thrones'': Season 8]]===
+Captain [[Harry Strickland]] is hired by [[Cersei Lannister]] to fight against [[Daenerys Targaryen]] in the [[Last War]].<ref>"[[Winterfell (Game of Thrones)|Winterfell]]"</ref>
+
+Harry Strickland is killed by [[Grey Worm]] during the [[Battle of King's Landing]]. The fate of his House is unknown.<ref>"[[The Bells]]"</ref>
+
+==Members==
+*{[[Harry Strickland]]}, captain of the [[Golden Company]]. Killed by [[Grey Worm]] during the [[Battle of King's Landing]].
+
+==Military==
+When Harry Strickland was the head of both the Golden Company and House Strickland, the 20,000 men of the company served as the ''de facto'' military of the House.
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Lord Strickland fought for [[Daemon Blackfyre]] in the Blackfyre Rebellion. After the [[Battle of Redgrass Field|Battle of the Redgrass Field]], he fled with [[Knighthood|Ser]] [[Aegor Rivers]] across the [[Narrow Sea|narrow sea]]. Since then, four generations of Stricklands have served in the Golden Company.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+{{DEFAULTSORT:Strickland, House}}
+[[Category:Exiled houses]]
+[[Category:House Strickland| ]]
+[[Category:Houses from Westeros]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[ru:Стрикленды]]

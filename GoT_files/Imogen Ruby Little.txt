@@ -1,0 +1,35 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Imogen Ruby Little.jpg
+| Birth   = York, England
+| Death   = 
+| Role    = [[Daenerys Targaryen]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]]
+| Credits = "[[The Queen Who Ever Was]]"
+| First   = 
+| Last    = 
+}}
+'''Imogen Ruby Little''' is an English actress, stuntwoman, aerialist and contortionist. She has worked on the film ''{{WPS|Scott and Sid}}'' and the television series ''{{WPS|The Gentlemen (2024 TV series)|The Gentlemen}}'' and ''{{WPS|3 Body Problem (TV series)|3 Body Problem}}''.
+
+Little plays [[Daenerys Targaryen]] in the [[House of the Dragon: Season 2|second season]] of ''[[House of the Dragon]]''.<ref>[https://www.instagram.com/p/C-TKHHKo-Ka/?img_index=1 imogen 🦁 (@imogenrubyy) • Instagram photos and videos]</ref>
+
+==Credits==
+{{House of the Dragon: Season 2||||||||yes}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb|# = 7522292}}
+*{{Twitter|# = imogennruby}}
+*{{Instagram|# = imogenrubyy}}
+*{{Linkedin|/in/imogen-ruby-little-57769012b}}
+
+<!--Categories-->
+{{DEFAULTSORT:Little, Imogen Ruby}}
+[[Category:Uncredited cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Imogen Ruby Little]]

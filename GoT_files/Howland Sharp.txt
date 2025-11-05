@@ -1,0 +1,58 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Targaryen
+| Image       = Howland Sharp.png
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[House Targaryen/House of the Dragon|House Targaryen]]{{Ref|HOTD103}}
+| Titles      = [[Knighthood|Ser]]<ref>[https://redanianintelligence.com/2021/10/14/hbos-game-of-thrones-prequel-house-of-the-dragon-casts-priest-and-others/ Redanian Intelligence: UPDATED: HBO's Game of Thrones prequel House of the Dragon casts High Priest and others]</ref><br>[[Royal Huntsman]]{{Ref|HOTD103}}
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 1|1]]
+| Appearances = "[[Second of His Name]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Edward Rowe]]
+}}
+Ser '''Howland Sharp''' is a [[Knighthood|knight]] sworn to [[House Targaryen/House of the Dragon|House Targaryen]].
+
+==Biography==
+===Background===
+Howland is [[Viserys I Targaryen|King Viserys]]'s [[Royal Huntsman]].{{Ref|HOTD103}}
+
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+Howland oversees the royal hunt in the [[Kingswood]] on Prince [[Aegon II Targaryen|Aegon]]'s second [[nameday]].{{Ref|HOTD103}}
+
+==In the books==
+In ''[[Fire & Blood]]'', there is no character named Howland Sharp. In the ''[[A Song of Ice and Fire]]'' novels, there is a House Sharp from the [[Iron Islands]], but it is unlikely that Howland is a member of this house. [[Ironborn]] knights are very rare (only occurring in houses following the [[Faith of the Seven]] rather than the [[Drowned God]]), and it is even rarer still that a nobleman from the Iron Islands would join a mainlander's retinue as a sworn sword.
+
+==Appearances==
+*{{HOTD|Second of His Name}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House Targaryen/House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Sharp, Howland}}
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Knights]]
+[[Category:Servants and retainers of House Targaryen]]
+[[Category:Westerosi]]
+
+<!--Languages-->
+[[ru:Хоуленд Шарп]]

@@ -1,0 +1,32 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Jamie-Sives-200.jpg
+| Birth   = August 14, 1973 {{Age|1973|8|14}}<br>Lochend, Edinburgh, Scotland
+| Death   = 
+| Role    = [[Jory Cassel]]
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 1|1]]
+| Credits = 5 episodes {{Below|Credits}}
+| First   = "[[Winter Is Coming]]"
+| Last    = "[[The Wolf and the Lion]]"
+}}
+'''Jamie Sives''' (born 1973) is a Scottish actor. He has a long list of TV and film credits, including recent appearances in ''[[wikipedia:Get Him to the Greek|Get Him to the Greek]]'' and ''[[wikipedia:Clash of the Titants (2009 film)|Clash of the Titans]]'' and as Captain Reynolds in the ''[[wikipedia:Doctor Who|Doctor Who]]'' episode ''[[wikipedia:Tooth and Claw (Doctor Who)|Tooth and Claw]]''. He also appeared in ''[[wikipedia:The Passion (film)|The Passion]]'' alongside [[Joseph Mawle]].
+
+In ''[[Game of Thrones]]'' he played the role of [[Jory Cassel]]. He was confirmed in the role via Twitter on 11 July 2010.
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 1|yes|yes|yes|yes|yes}}
+
+==See also==
+*{{WP}}
+*{{Template:IMDb
+|# = 0803397}}
+* [http://sweetonsigmafilms.blogspot.com/2011/03/jamie-sives-on-jory-his-fellow-scots.html An interview with Jamie Sives in March 2011.]
+
+[[de:Jamie Sives]]
+[[fr:Jamie Sives]]
+[[ru:Джейми Сивз]]
+{{DEFAULTSORT:Sives, Jamie}}
+[[Category:Guest starring cast members of Game of Thrones]]

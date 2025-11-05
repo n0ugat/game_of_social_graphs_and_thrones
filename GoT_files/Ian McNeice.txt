@@ -1,0 +1,28 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Ian-McNeice-200.jpg
+| Birth   = October 2, 1950 {{Age|1950|10|2}}<br>Basingstoke, Hampshire, England
+| Death   = 
+| Role    = [[Illyrio Mopatis]]
+| Series  = ''[[Game of Thrones]]''
+| Season  = 
+| Credits = [[Pilot (Game of Thrones)|Pilot]] {{Unreleased}}
+| First   = 
+| Last    = 
+}}
+[[Image:Ian McNeice as Illyrio.jpg|thumb|200px|right|Ian McNeice as Illyrio Mopatis in the unscreened pilot.]]
+'''Ian McNeice''' (born 2 October 1950) is a British actor. He first came to attention as Harcourt in the iconic 1980s BBC miniseries ''[[wikipedia:Edge of Darkness|Edge of Darkness]]''. Amongst his many other roles are the Baron [[wikipedia:Vladimir Harkonnen|Vladimir Harkonnen]] in the miniseries ''[[wikipedia:Frank Herbert's Dune|Dune]]'' and its sequel, ''[[wikipedia:Frank Herbert's Children of Dune|Children of Dune]]'', the newsreader/town crier in [[HBO]]'s ''[[wikipedia:Rome (TV series)|Rome]]'' and as a doctor in ''[[wikipedia:From Hell (film)|From Hell]]''. He has also played the role of [[wikipedia:Winston Churchill|Winston Churchill]] several times, including three times during the 2010 season of ''[[wikipedia:Doctor Who|Doctor Who]]''.
+
+In ''[[Game of Thrones]]'', McNeice played the role of [[Illyrio Mopatis]] in the unscreened [[Pilot (Game of Thrones)|pilot]]. He was confirmed in the role on 20 October 2009. On 16 September 2010 it was confirmed that McNeice could not reprise the role in the series itself due to a scheduling conflict that could not be resolved. He was replaced by [[Roger Allam]].
+
+==See also==
+*{{WP}}
+*{{IMDb|# = 0573862}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+{{DEFAULTSORT:McNeice, Ian}}
+[[Category:Cast members of the pilot of Game of Thrones]]

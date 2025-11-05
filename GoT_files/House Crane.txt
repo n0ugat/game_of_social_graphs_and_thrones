@@ -1,0 +1,59 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Image}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Bronn
+| Image     = 
+| Arms      = A vee of golden cranes on pale blue{{Note|While the cranes are identifiable, the colors are not clearly visible in the source. They are thus conjectural and subject to change.|name=Colors}}
+| Words     = 
+| Titles    = 
+| Seat      = [[Red Lake]]
+| Region    = [[Reach]]
+| Head      = 
+| Heir      = 
+| Overlords = {[[House Gardener]]} {{C|pre-[[Aegon's Conquest]]}}<br>{[[House Tyrell]]} {{C|[[1 AC|1]]{{Dateref|Aegon's Conquest}}-[[304 AC]]}}{{Dateref|Game of Thrones: Season 7}}<br>[[Bronn's house]]
+| Vassals   = 
+| Religion  = [[Faith of the Seven]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Crane'''{{Con|TWOI&F}} of [[Red Lake]] is a [[noble house]] of the [[Reach]]. Their sigil displays a chevron of five gold cranes on a pale blue field.<ref>[[:File:HotD Far East Map.jpg]]</ref>{{Note|name=Colors}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, House Crane was founded by Rose of Red Lake, a daughter of Garth Greenhand, the legendary High King of the [[First Men]]. The women of House Crane are said to be [[Warg|skinchangers]] with the ability to control cranes.{{Bookref|TWOI&F|7|7}}
+
+House Crane joined the [[Reach|Kingdom of the Reach]] during the reign of King Garth III Gardener.{{Bookref|TWOI&F|7|7|2}} Their seat, Red Lake, was the site of a battle during a [[House Lannister|Lannister]] invasion of the Reach.{{Bookref|TWOI&F|7|6}}
+
+The Cranes are a part of [[Renly Baratheon]]'s army during the [[War of the Five Kings]].{{Bookref|ACOK|22}} Ser Parmen Crane joins Renly's [[Kingsguard#Renly Baratheon's Kingsguard|Rainbow Guard]] as "Parmen the Purple."{{Bookref|ACOK|Appendix}} After Renly's death, he joins [[Stannis Baratheon|Stannis]],{{Bookref|ACOK|42}} though other members of House Crane are present at the royal court in [[King's Landing]].{{Bookref|ASOS|16}}
+
+===Known members===
+*Rose of Red Lake, a legendary skinchanger and daughter of Garth Greenhand, founder of House Crane.{{Bookref|TWOI&F|7|7|1}}
+*Ellard Crane, a squire in the court of [[Jaehaerys I Targaryen]].{{Bookref|F&B|11}}
+*Ser Vortimer Crane, the [[master-at-arms]] at [[Highgarden]].{{Bookref|AGOT|Appendix}}
+*Ser Parmen Crane, the Purple, one of Renly Baratheon's Rainbow Guard.{{Bookref|ACOK|22}}
+*Lady Melara Crane, wife of Lord Alester Florent.{{Bookref|AFFC|Appendix}}
+*Ser Rycherd Crane, a knight.{{Bookref|ACOK|Appendix}}
+**[[Rylene Florent]], his wife.{{Bookref|AFFC|Appendix}}
+*Meredyth Crane, nicknamed Merry, a [[Handmaiden|lady attendant]] to [[Margaery Tyrell]].{{Bookref|ASOS|16}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Houses from the Reach}}
+
+<!--Categories-->
+{{DEFAULTSORT:Crane, House}}
+[[Category:House Crane| ]]
+[[Category:Houses from the Reach]]
+[[Category:Houses of First Men origin]]
+[[Category:Vassal houses]]

@@ -1,0 +1,72 @@
+{{Canonicity|Canon}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Bronn
+| Image     = House Fossoway.svg
+| Arms      = Or, an apple gules slipped proper and leaved vert{{Guideref|The Aftermath of Unclean Methods}} <br> {{C|A red apple on a golden field}}
+| Words     = 
+| Titles    = 
+| Seat      = [[Cider Hall]]
+| Region    = [[Reach]]
+| Head      = 
+| Heir      = 
+| Overlords = [[Bronn's house]]<br>{[[House Baratheon of Dragonstone]]} {{C|[[299 AC|299]]{{Dateref|Game of Thrones: Season 2}}-[[302 AC]]}}{{Dateref|Game of Thrones: Season 5}}<br>{[[House Tyrell]]} {{C|[[1 AC|1]]{{Dateref|Aegon's Conquest}}-299 AC}}{{Dateref|Game of Thrones: Season 2}}<br>{[[House Gardener]]} {{C|pre-[[Aegon's Conquest]]}}
+| Vassals   = 
+| Religion  = [[Faith of the Seven]]
+| Cadets    = [[House Fossoway of New Barrel]]
+| Founded   = [[Age of Heroes]]
+| Died      = 
+| Weapon    = 
+}}
+'''House Fossoway'''{{Ref|GOT606}}{{Note|Symun's surname is Fossoway.}} of Cider Hall is a vassal house from the [[Reach]] that holds fealty to [[House Tyrell]]. Their seat is [[Cider Hall]] and their sigil is a red apple on a gold field.
+
+==History==
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+House Fossoway follows its liege lords, House Tyrell, in pledging support to [[Renly Baratheon|Renly]]'s claim to the [[Iron Throne]]. Following [[Assassination of Renly Baratheon|Renly's death]], however, the Fossoways do not follow their Tyrell overlords, but instead go over to [[Stannis Baratheon|Stannis]]. They participate in the [[Battle of the Blackwater]].<ref>Season 2 Bluray: War of the Five Kings feature</ref>
+
+==Members==
+*[[Symun Fossoway]], betrothed to Lady [[Talla Tarly]].
+
+===Historical members===
+*Ser {[[Steffon Fossoway]]}, a [[Knighthood|knight]] during the reign of [[Daeron II Targaryen]].
+*{[[Raymun Fossoway]]}, Steffon's cousin.
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, House Fossoway of Cider Hall is commonly referred as the red-apple Fossoways, to differentiate them from the [[Cadet branch|other branch]] of the house, the "green apple" Fossoways of New Barrel, who split from the red apples sometime after 209 AC. Their motto is not mentioned in the books; according to semi-canon sources, it is "A Taste of Glory".
+
+After Stannis's defeat at the Battle of the Blackwater, they bend the knee to [[Joffrey Baratheon|Joffrey]].{{Bookref|ACOK|65}}
+
+===Known members===
+*Ser Tanton Fossoway
+*Ser {Bryan Fossoway}. Slain at the [[Battle of the Blackwater]] by [[Lothor Brune]]{{Bookref|ACOK|65}}
+*Ser {Edwyd Fossoway}. Slain at the Battle of the Blackwater by Lothor Brune{{Bookref|ACOK|65}}
+The familiar relations among the above is unknown.
+
+With unspecified familiar relationship to the main branch there are also:
+*Ser Franklyn Flowers, "the Bastard of Cider Hall". A sellsword, a member of the [[Golden Company]].{{Bookref|ADWD|24}}
+*Leonette Fossoway, married to Ser [[Garlan Tyrell]] (the elder brother of [[Margaery Tyrell|Margaery]] and [[Loras Tyrell|Loras]]).{{Bookref|ASOS|Appendix}} It is unclear whether she belongs to the red or the green apple branches of the house.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|House Fossoway of Cider Hall}}
+
+<!--Navboxes-->
+{{Houses from the Reach}}
+
+<!--Categories-->
+{{DEFAULTSORT:Fossoway, House}}
+[[Category:House Fossoway| ]]
+[[Category:Houses from the Reach]]
+[[Category:Houses of First Men origin]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[de:Haus Fossowey]]
+[[fr:Maison Fossovoie]]
+[[pt-br:Casa Fossoway]]
+[[ru:Фоссовеи]]

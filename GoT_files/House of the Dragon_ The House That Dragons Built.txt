@@ -1,0 +1,66 @@
+{{DISPLAYTITLE:''House of the Dragon: The House That Dragons Built''}}
+{{Television series
+| Title      = ''House of the Dragon:<br><small>The House That Dragons Built</small>''
+| Type       = Built
+| Image      = {{PAGENAME}}.png
+| Format     = 
+| Seasons    = [[House of the Dragon: The House That Dragons Built: Season 1|1]] {{*}} [[House of the Dragon: The House That Dragons Built: Season 2|2]]{{HBOref|THTDB}}
+| Episodes   = 18{{HBOref|THTDB}}
+| Premiere   = "[[Episode 01]]"{{HBOref|THTDB}}
+| Finale     = 
+| Network    = [[HBO Max]]{{HBOref|THTDB}}
+| First      = August 21, 2022{{Listref|THTDB}}
+| Final      = 
+| Runtime    = 20{{Ref|THTDB103}}-26 minutes{{Ref|THTDB101}} {{C|per episode}}
+| Starring   = 
+| Creator    = 
+| Producers  = 
+| Writers    = 
+| Directors  = 
+| Composer   = 
+| Production = 
+| Wrapped    = 
+| Based      = 
+| Year       = 
+}}
+'''''House of the Dragon: The House That Dragons Built'''''{{Ref|THTDB101}} is a web documentary series on [[HBO Max]] about the making of ''[[House of the Dragon]]''.
+
+==Description==
+{{Description|THTDB}}
+
+==Seasons==
+{| {{Prettytable}}
+! Season
+! Episodes
+! Premiere date
+! Finale date
+|-
+| style="text-align: center;" | [[House of the Dragon: The House That Dragons Built: Season 1|1]]{{HBOref|THTDB1}}
+| style="text-align: center;" | 10{{HBOref|THTDB1}}
+| style="text-align: center;" | August 21, 2022{{Listref|THTDB}}
+| style="text-align: center;" | October 23, 2022{{Listref|THTDB}}
+|-
+| style="text-align: center;" | [[House of the Dragon: The House That Dragons Built: Season 2|2]]{{HBOref|THTDB2}}
+| style="text-align: center;" | 8{{HBOref|THTDB2}}
+| style="text-align: center;" | June 16, 2024{{Listref|THTDB}}
+| style="text-align: center;" | August 4, 2024{{Listref|THTDB}}
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{HBO|house-of-the-dragon-the-house-that-dragons-built}}
+*{{HBO Max|shows/6ebc8e70-17b0-4a1a-a340-af7d8ce63a82}}
+*{{IMDb title|# = 26761151|title = The House That Dragons Built}}
+
+<!--Navboxes-->
+{{House of the Dragon: The House That Dragons Built}}
+{{House of the Dragon}}
+
+<!--Categories-->
+[[Category:Documentaries of House of the Dragon|House That Dragons Built]]
+[[Category:Documentaries released in 2022|8.21]]
+[[Category:House of the Dragon: The House That Dragons Built| ]]
+[[Category:Web documentary series]]
+[[Category:Web series released in 2022|8.21]]

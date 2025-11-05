@@ -1,0 +1,105 @@
+{{DISPLAYTITLE:''House of the Dragon: The House That Dragons Built'': Season 1}}
+{{Season
+| Season     = 1
+| Type       = Built
+| Image      = {{PAGENAME}}.jpg
+| Episodes   = 10{{HBOref|THTDB1}}
+| Premiere   = "[[Episode 01]]"{{HBOref|THTDB1}}
+| Finale     = "[[Episode 10]]"{{HBOref|THTDB1}}
+| Network    = [[HBO Max]]{{HBOref|THTDB}}
+| First      = August 21, 2022{{Listref|THTDB}}
+| Final      = October 23, 2022{{Listref|THTDB}}
+| Runtime    = 20{{Ref|THTDB103}}-26 minutes{{Ref|THTDB101}} {{C|per episode}}
+| Home       = 
+| Starring   = 
+| Producers  = 
+| Writers    = 
+| Directors  = 
+| Production = 
+| Wrapped    = 
+| Year       = 
+| Previous   = 
+| Next       = [[House of the Dragon: The House That Dragons Built: Season 2|Season 2]]{{HBOref|THTDB}}
+}}
+'''''House of the Dragon: The House That Dragons Built'': Season 1'''{{HBOref|THTDB1}} is the first season of ''[[House of the Dragon: The House That Dragons Built]]''. It consists of ten episodes. It premiered with "[[Episode 01]]" on August 21, 2022 on [[HBO Max]], and concluded with "[[Episode 10]]" on October 23, 2022.
+
+==Description==
+{{Description|THTDB1}}
+
+==Episodes==
+{| {{Prettytable}}
+! Episode
+! Image
+! Title
+! Release date
+|-
+| style="text-align: center;" | 1{{HBOref|THTDB101}}
+| [[File:THTDB101.jpg|150px]]
+| "[[Episode 01]]"{{HBOref|THTDB101}}
+| August 21, 2022{{Listref|THTDB}}
+|-
+| style="text-align: center;" | 2{{HBOref|THTDB102}}
+| [[File:THTDB102.jpg|150px]]
+| "[[Episode 02]]"{{HBOref|THTDB102}}
+| August 28, 2022{{Listref|THTDB}}
+|-
+| style="text-align: center;" | 3{{HBOref|THTDB103}}
+| [[File:THTDB103.jpg|150px]]
+| "[[Episode 03]]"{{HBOref|THTDB103}}
+| September 4, 2022{{Listref|THTDB}}
+|-
+| style="text-align: center;" | 4{{HBOref|THTDB104}}
+| [[File:THTDB104.jpg|150px]]
+| "[[Episode 04]]"{{HBOref|THTDB104}}
+| September 11, 2022{{Listref|THTDB}}
+|-
+| style="text-align: center;" | 5{{HBOref|THTDB105}}
+| [[File:THTDB105.jpg|150px]]
+| "[[Episode 05]]"{{HBOref|THTDB105}}
+| September 18, 2022{{Listref|THTDB}}
+|-
+| style="text-align: center;" | 6{{HBOref|THTDB106}}
+| [[File:THTDB106.jpg|150px]]
+| "[[Episode 06]]"{{HBOref|THTDB106}}
+| September 25, 2022{{Listref|THTDB}}
+|-
+| style="text-align: center;" | 7{{HBOref|THTDB107}}
+| [[File:THTDB107.jpg|150px]]
+| "[[Episode 07]]"{{HBOref|THTDB107}}
+| October 2, 2022{{Listref|THTDB}}
+|-
+| style="text-align: center;" | 8{{HBOref|THTDB108}}
+| [[File:THTDB108.jpg|150px]]
+| "[[Episode 08]]"{{HBOref|THTDB108}}
+| October 9, 2022{{Listref|THTDB}}
+|-
+| style="text-align: center;" | 9{{HBOref|THTDB109}}
+| [[File:THTDB109.jpg|150px]]
+| "[[Episode 09]]"{{HBOref|THTDB109}}
+| October 16, 2022{{Listref|THTDB}}
+|-
+| style="text-align: center;" | 10{{HBOref|THTDB110}}
+| [[File:THTDB110.jpg|150px]]
+| "[[Episode 10]]"{{HBOref|THTDB110}}
+| October 23, 2022{{Listref|THTDB}}
+|}
+
+==Gallery==
+<gallery bordersize="none">
+The House That Dragons Built Trailer / House of the Dragon (HBO)
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{HBO|house-of-the-dragon-the-house-that-dragons-built/season-1}}
+
+<!--Navboxes-->
+{{House of the Dragon: The House That Dragons Built}}
+{{House of the Dragon}}
+
+<!--Categories-->
+[[Category:House of the Dragon: The House That Dragons Built: Season 1| ]]
+[[Category:Seasons of House of the Dragon: The House That Dragons Built|1]]
+[[Category:Seasons released in 2022|8.21]]

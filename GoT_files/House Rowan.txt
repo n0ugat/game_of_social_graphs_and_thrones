@@ -1,0 +1,61 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Bronn
+| Image     = House Rowan.svg
+| Arms      = Argent, a tree eradicated or{{Ref|HOTD102}} <br> {{C|A golden tree with its roots visible on a silver field}}
+| Words     = 
+| Titles    = Lord of Goldengrove
+| Seat      = [[Goldengrove]]
+| Region    = [[Reach]]
+| Head      = 
+| Heir      = 
+| Overlords = [[Bronn's house]]<br>{[[House Tyrell]]} {{C|[[1 AC|1]]{{Dateref|Aegon's Conquest}}-[[304 AC]]}}{{Dateref|Game of Thrones: Season 7}}<br>{[[House Gardener]]} {{C|pre-[[Aegon's Conquest]]}}
+| Vassals   = [[House Osgrey]]
+| Religion  = [[Faith of the Seven]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Rowan'''{{Con|ASOIAF}} of [[Goldengrove]] is a vassal house that holds fealty to Lord [[Bronn]] of Highgarden. Their seat is Goldengrove, which is located north of [[Highgarden]].
+
+==History==
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+A [[Knighthood|knight]] of House Rowan presents himself as a candidate to replace the recently deceased Ser [[Ryam Redwyne]] on the [[Kingsguard/House of the Dragon|Kingsguard]].{{Ref|HOTD102}}
+
+==In the books==
+In the  ''[[A Song of Ice and Fire]]'' novels, House Rowan is a powerful family and one of the most powerful families of the [[Reach]]. Their dominions extend all along the northern borders. The Rowans are the Marshalls of the Northmarch, a title once held by [[House Osgrey]] who are now their bannermen. The Rowans trace their descents from [[Garth the Gardener|Garth Greenhand]], through his daughter Rowan Gold-Tree. The House is ruled by Lord Mathis Rowan.
+
+===Members===
+*Lord Mathis Rowan, Lord of Goldengrove, Marshall of the Northmarch.
+**Lady Bethany Redwyne, his wife.
+***His three unnamed children, one of whom is a girl.
+
+With unspecified familiar relations with the lord of the house:
+*Rhonda Rowan, married to Ser Baelor Hightower, heir to the Hightower.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Houses from the Reach}}
+
+<!--Categories-->
+{{DEFAULTSORT:Rowan, House}}
+[[Category:House Rowan| ]]
+[[Category:Houses from the Reach]]
+[[Category:Houses of First Men origin]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[fr:Maison Rowan]]
+[[pt-br:Casa Rowan]]
+[[ru:Рованы]]

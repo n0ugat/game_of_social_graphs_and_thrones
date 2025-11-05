@@ -1,0 +1,75 @@
+{{Canonicity|Canon}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Stark
+| Image     = House Dustin.svg
+| Arms      = Or, two battle-axes in saltire, blades argent rusted proper and hafts sable; in chief a crown of the same <br> {{C|Two rusted battle-axes beneath a black crown on a yellow field}}
+| Words     = 
+| Titles    = Lord of Barrowton
+| Seat      = [[Barrowton]]
+| Region    = [[North]]
+| Head      = Lady [[Barbrey Dustin]]
+| Heir      = 
+| Overlords = [[House Stark]]<br>[[House Bolton]] {{C|[[300 AC|300]]{{Dateref|Game of Thrones: Season 3}}-[[303 AC]]}}{{Dateref|Game of Thrones: Season 6}}
+| Vassals   = 
+| Religion  = [[Old Gods]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+{{Quote|Barrowton, my lord. House Dustin. Two crossed longaxes, beneath a black crown.|[[Arya Stark]] to [[Tywin Lannister]]|The Ghost of Harrenhal}}
+'''House Dustin'''{{Ref|GOT205}} of [[Barrowton]] is a noble vassal house that holds fealty to [[House Stark]] of [[Winterfell]]. They control Barrowton, a settlement in the [[Barrowlands]], north of [[Blazewater Bay]].
+
+The only known member of House Dustin is the Lady of the house, [[Barbrey Dustin]].
+
+==History==
+===[[House of the Dragon: Season 2|''House of the Dragon'': Season 2]]===
+House Dustin declares for the [[Blacks]] during the [[Dance of the Dragons]].<ref name="Intro">[[:File:Season 2 Opening Credits - House of The Dragon - Season 2 - HBO|Season 2 Opening Credits | House of The Dragon | Season 2 | HBO]]</ref>
+
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+While serving as a cupbearer to [[Tywin Lannister|Tywin]] at [[Harrenhal]], [[Arya Stark|Arya]] initially claims to be from [[Maidenpool]]. However, Tywin catches her out in her lie when she cannot identify the sigil of House Mooton. She admits to being from the [[North]] instead, claiming to be a stonemason's daughter from [[Barrowton]]. She describes House Dustin's sigil perfectly, convincing Tywin.<ref>"[[The Ghost of Harrenhal]]"</ref>
+
+Tywin later criticizes Arya's pronunciation of "My lord." He says that she sounds highborn, but Arya counters that her mother served as a handmaid to [[Barbrey Dustin|Lady Dustin]] for many years and taught her how to speak properly.<ref>"[[A Man Without Honor]]"</ref>
+
+==Members==
+*Lady [[Barbrey Dustin]], the Lady of Barrowton
+
+===Ancestors===
+*Lord {[[Roderick Dustin]]}, the Lord of [[Barrowton]] during the [[Dance of the Dragons]]
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, House Dustin are the rulers of Barrowton. They have a vassal house of their own, House Stout of Goldgrass. House Dustin is ruled by Lady [[Barbrey Dustin]], widow of Willam Dustin, who was one of the five Northmen killed in the [[Skirmish at the Tower of Joy]].
+
+[[Brandon Stark]] was fostered during his youth at Barrowton by House Dustin and Barbrey Ryswell was besotted by him. She hoped to marry him, but this was dashed when he was betrothed to [[Catelyn Stark|Catelyn Tully]]. Barbrey instead was left to marry Lord William Dustin, whose lands are on the eastern border of House Ryswell's. Following William's death at the end of the rebellion, it isn't clear if he had any heirs, as Lady Barbrey appears to rule Barrowton in his name. As a result, Lady Barbrey leads House Dustin to closely follow neighboring House Ryswell in political decisions, as its current lord, Rodrik, is her own father.
+
+Lady Dustin holds a grudge against [[Eddard Stark]] for not bringing her husband's bones north with him so she could bury him at his ancestral home.
+
+The Dustins, alongside the Ryswells, are the first to declare for House Bolton when Lord Roose is named Warden of the North, due to the kinship between them, and perhaps also because Lady Dustin hates the Starks. They are among the very few truly loyal vassals House Bolton has, while many of the other Northern houses deeply hate the Boltons and would gladly welcome a chance to destroy them (indeed some of them join Stannis for that reason). Even Ramsay knows to be careful around members of these two houses: with them, he is always courteous and smiling; what he is behind closed doors, however, is something else.
+
+The Dustins and Ryswells assist the Bolton's to [[Siege of Moat Cailin|retake Moat Cailin]]: they surprise the ironborn on the Fever River, burning their longships; as a result, the ironborn garrison at the fortress is left without reinforcements and without means of escape.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Houses from the North}}
+
+<!--Categories-->
+{{DEFAULTSORT:Dustin, House}}
+[[Category:House Dustin| ]]
+[[Category:Houses from the North]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[de:Haus Dustin]]
+[[es:Casa Dustin]]
+[[fr:Maison Dustin]]
+[[ru:Дастины]]
+[[zh:达斯丁家族]]

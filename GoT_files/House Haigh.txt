@@ -1,0 +1,63 @@
+{{Canonicity|Canon}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Frey
+| Image     = House Haigh.svg
+| Arms      = Tenné, on a bend sinister or a pitchfork of four tines sable <br> {{C|A black pitchfork on a golden diagonal bar, on a russet field}}
+| Words     = 
+| Titles    = 
+| Seat      = 
+| Region    = [[Riverlands]]
+| Head      = 
+| Heir      = 
+| Overlords = [[House Frey]]<br>{[[House Baratheon of Dragonstone]]} {{C|[[301 AC|301]]{{Dateref|Game of Thrones: Season 4}}-[[302 AC]]}}{{Dateref|Game of Thrones: Season 5}}
+| Vassals   = 
+| Religion  = [[Faith of the Seven]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Haigh'''{{Ref|GOT403}} is a knightly house from the [[Riverlands]] sworn to [[House Frey]].
+
+==History==
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+[[Davos Seaworth|Davos]] reports to [[Stannis Baratheon|Stannis]] that he has managed to secure the support of some noble houses, among them House Haigh.{{Ref|GOT403}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, House Haigh is a loyal vassal of House Frey. Their sigil is a black pitchfork on a golden bar sinister on russet. They participate in the [[Red Wedding]], fighting on the side of their liege lords.
+
+===Known members===
+*Ser Leslyn Haigh, a knight. Lost half an ear while capturing [[Greatjon Umber]] at the Red Wedding.
+**Lady Perriane Frey, his wife.
+***Ser Harys Haigh, his eldest son and heir.
+****Walder Haigh, Ser Harys's son.
+***Ser Donnel Haigh, his second son.
+***Alyn Haigh, a squire.
+
+==Gallery==
+<gallery>
+House Haigh heraldry Season 5 Histories and Lore.png|The heraldry of House Haigh at the Tourney at Harrenhal.
+</gallery>
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Houses from the Riverlands}}
+
+<!--Categories-->
+{{DEFAULTSORT:Haigh, House}}
+[[Category:Houses from the Riverlands]]
+[[Category:Knightly houses]]
+
+<!--Languages-->
+[[fr:Maison Foin]]
+[[pl:Ród Haigh]]
+[[ru:Хэи]]

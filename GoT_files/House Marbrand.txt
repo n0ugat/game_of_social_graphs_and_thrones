@@ -1,0 +1,72 @@
+{{Canonicity|Canon}}
+{{References}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Lannister
+| Image     = House Marbrand.svg
+| Arms      = A burning tree, orange on smoke
+| Words     = "Burning Bright"
+| Titles    = 
+| Seat      = [[Ashemark]]
+| Region    = [[Westerlands]]
+| Head      = Lord [[Damon Marbrand]]
+| Heir      = Ser [[Addam Marbrand]]
+| Overlords = [[House Lannister]]
+| Vassals   = 
+| Religion  = [[Faith of the Seven]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Marbrand'''{{Ref|GOT206}} of [[Ashemark]] is a vassal [[Noble house|house]] that holds fealty to [[House Lannister]] of [[Casterly Rock]]. Their lands are in the hilly area where the [[Tumblestone]] begins.
+
+The current head of the family is [[Damon Marbrand]]. The Marbrand [[Heraldry|sigil]] is a burning tree, orange on smoke. Their [[house words]] are "Burning Bright."
+
+==Members==
+{{Tree list}}
+*Lord [[Damon Marbrand]], the current head of the family.
+**Ser [[Addam Marbrand]], his eldest son and heir.
+{{Tree list/end}}
+
+With unspecified familiar relationship to the main branch there is also:
+
+*Lady {[[Jeyne Marbrand]]}, wife of {[[Tytos Lannister]]}.
+*[[Darlessa Marbrand]], wife of {[[Tygett Lannister]]}.
+
+===Historical members===
+*Ser {[[Lorent Marbrand]]}, a [[Knighthood|knight]] of the [[Kingsguard]] of [[Viserys I Targaryen]] and [[Rhaenyra Targaryen]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the Marbrands are loyal vassals of House Lannister. Ser Addam Marbrand is a childhood friend of [[Jaime Lannister]] and a principal officer in the Lannister army.
+
+House Marbrand is also closely tied to Lannisters through marriage: Jeyne Marbrand was the wife of [[Tytos Lannister]] and mother of all five of his children, including Tywin and Kevan. Thus all of the Lannister characters who appear in the TV series have some blood relationship with the Marbrands. Tywin's younger brother Tygett also married Darlessa Marbrand - Tygett died of a pox before the novels begin, and Darlessa is his widow, as well as the mother of his son Tyrek Lannister, a [[squire]] of King [[Robert Baratheon|Robert]] who was cut from the series.
+
+A historical member of the House is [[Knighthood|Ser]] Lorent Marbrand, a [[Knighthood|knight]] of the [[Kingsguard]] who served during the reign of King Viserys I Targaryen and chose to side with [[Rhaenyra Targaryen]] during the Dance of the Dragons.  He later became [[Lord Commander of the Kingsguard|Lord Commander]] of her Queensguard, succeeding Ser Steffon Darklyn, before dying in the riots in [[King's Landing]].
+
+==Gallery==
+<gallery>
+House Marbrand tourney.jpg|The banner of House Marbrand (center) at the [[Tournament|Tourney of the Hand]] in "[[The Wolf and the Lion]]".
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{House Marbrand}}
+{{Houses from the Westerlands}}
+
+<!--Categories-->
+{{DEFAULTSORT:Marbrand, House}}
+[[Category:House Marbrand| ]]
+[[Category:Houses from the Westerlands]]
+[[Category:Houses of Andal origin]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[de:Haus Marbrand]]
+[[fr:Maison Marpheux]]
+[[ru:Марбранды]]

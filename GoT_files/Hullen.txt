@@ -1,0 +1,53 @@
+{{Canonicity|Non}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Stark
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[House Stark]]
+| Titles      = Horse master
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Northmen|Northern]]
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = 
+| Appearances = [[Pilot (Game of Thrones)|Pilot]] {{C|unreleased; script}}
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Hullen''' is the horse master serving [[House Stark]] at [[Winterfell]].
+
+==Behind the scenes==
+Hullen appears in a version of the ''[[Game of Thrones]]'' [[Pilot (Game of Thrones)|pilot]] script.{{Scriptref|GOT100}} It is unknown if he appears in the final version of the pilot, and he does not appear in "[[Winter Is Coming]]."
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Hullen is the master of horse at Winterfell. His son, Harwin, is a member of [[Eddard Stark]]'s household guard.{{Bookref|AGOT|1}}
+
+Hullen is present when the six [[Direwolf|direwolves]] are discovered.{{Bookref|AGOT|1}} He later accompanies Ned to [[King's Landing]], where he is killed when Ned is [[Massacre in the Red Keep|arrested]].{{Bookref|AGOT|50}}
+
+==Appearances==
+*{{GOT|Pilot}} {{Unreleased}} {{Script}} {{Nc}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+[[Category:Individuals from Game of Thrones]]
+[[Category:Northmen]]
+[[Category:Servants and retainers of House Stark]]
+[[Category:Smallfolk]]

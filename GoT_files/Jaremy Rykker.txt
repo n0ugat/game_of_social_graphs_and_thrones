@@ -1,0 +1,82 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Leftimage  = Unknown.svg
+| Leftlink   = 
+| Rightimage = Night's Watch.svg
+| Rightlink  = Night's Watch
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = Jaremy Rykker.jpg
+| Birth       = In [[Duskendale]]
+| Death       = 
+| House       = 
+| Affiliation = [[Night's Watch]]
+| Titles      = [[Knighthood|Ser]]<br>Acting [[First Ranger]] {{C|in place of [[Benjen Stark]]}}
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Crownlands|Crownlander]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 1|1]]
+| Appearances = "[[You Win or You Die]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Jeffrey O'Brien]]
+}}
+{{Quote|Rangers, with me!|Jaremy to the new Rangers|You Win or You Die}}
+Ser '''Jaremy Rykker'''{{Con|ASOIAF}} is an officer in the rangers of the [[Night's Watch]].
+
+==Biography==
+===Background===
+Ser Jaremy Rykker is an officer in the rangers of the Night's Watch. He is acting [[First Ranger]] when [[Benjen Stark]] is away from the [[Wall]].{{Ref|GOT107}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+Ser Jaremy attends the induction of new recruits into the [[Night's Watch]]. He is the acting first ranger in the absence of [[Benjen Stark]], and summons the recruits assigned to the rangers after the [[Jeor Mormont|Lord Commander]]'s speech. He leads an escort for [[Jon Snow|Jon]] and [[Samwell Tarly|Sam]] when they go [[Beyond the Wall|north of the Wall]] to take their vows in the [[Godswood]]. He embraces his newly sworn brothers after they take their vows. They discover the bodies of rangers [[Othor]] and [[Jafer Flowers]] near the Godswood and return them to [[Castle Black]]. The dead men had accompanied Benjen on his scouting mission beyond the Wall.{{Ref|GOT107}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Ser Jaremy is an officer in the rangers of the [[Night's Watch]]. He attends the officers meeting with [[Tyrion Lannister|Tyrion]], and recalls being sent to the [[Wall]] by [[Tywin Lannister|Tywin]] after fighting for [[House Targaryen]] in the [[Sack of King's Landing]] during [[Robert's Rebellion]].{{Bookref|AGOT|21}} 
+
+It is Ser Jaremy rather than Ser Alliser who challenges Sam about his decision to take his vows in the Godswood.{{Bookref|AGOT|48}} He does not participate in the escort to the Godswood. He identifies the bodies when they are returned to Castle Black.{{Bookref|AGOT|52}}
+
+Ser Jaremy and four other men are killed by the wight [[Jafer Flowers]]. Jaremy manages to hack the wight's head off, but is killed when the headless corpse pulls his own dagger from its sheath and buries it in his bowels.{{Bookref|AGOT|60}}
+
+Given that Ser Jaremy is not shown to be killed in the episode, it is possible that he simply wasn't killed in the TV continuity.
+
+==Appearances==
+*{{GOT|You Win or You Die}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Night's Watch}}
+
+<!--Categories-->
+{{DEFAULTSORT:Rykker, Jaremy}}
+[[Category:Crownlanders]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Knights]]
+[[Category:Nobles]]
+[[Category:Rangers of the Night's Watch]]
+
+<!--Languages-->
+[[de:Jaremy Rykker]]
+[[fr:Jaremy Rykker]]
+[[ru:Джереми Риккер]]

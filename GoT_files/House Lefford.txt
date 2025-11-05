@@ -1,0 +1,83 @@
+{{Canonicity|Canon}}
+{{References}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Lannister
+| Image     = House Lefford.svg
+| Arms      = A golden pile in dexter and a yellow sun in sinister on dark blue
+| Words     = 
+| Titles    = 
+| Seat      = [[Golden Tooth]]
+| Region    = [[Westerlands]]
+| Head      = Lord [[Leo Lefford]]
+| Heir      = 
+| Overlords = [[House Lannister]]
+| Vassals   = 
+| Religion  = [[Faith of the Seven]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+{{Quote|House Lefford, who guards the Golden Tooth, the eastern pass through the mountains and the old and frequent chaos of the Seven Kingdoms. Though after [[Robb Stark]]'s recent incursions... perhaps we need a new gatekeeper.|[[Tywin Lannister]]|The Westerlands}}
+'''House Lefford'''{{Ref|H&L315}} of the [[Golden Tooth]] is a vassal house that holds fealty to [[House Lannister]] of [[Casterly Rock]]. Their lands are the main entrance to the Westerlands from the east, and the current head of the family is [[Leo Lefford]]. The Lefford sigil is a golden pile on sky blue, a sun to the right in the sky.
+
+==History==
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+A Lefford knight travels to [[King's Landing]] to participate in the [[Heir's Tournament]], he is defeated by a [[House Mallister|Mallister]] knight.{{Ref|HOTD101}}
+
+A member of House Lefford swears allegiance to King [[Aegon II Targaryen|Aegon II]] at the start of the [[Dance of the Dragons]].{{Ref|HOTD109}}
+
+===[[House of the Dragon: Season 2|''House of the Dragon'': Season 2]]===
+Lord [[Jason Lannister]] starts amassing the armies of the [[Westerlands]], including the forces of House Lefford, at the [[Golden Tooth]].{{Ref|HOTD201}}
+
+House Lefford has prepared 500 [[men-at-arms]] for the march to [[Harrenhal]].{{Ref|HOTD206}}
+
+==Members==
+*Lord [[Leo Lefford]], the current head of the house.
+
+===Historical members===
+*Lord {[[Humfrey Lefford]]}, head of the house during the [[Dance of the Dragons]].
+
+==In the books==
+[[File:House Lefford ASOIAF.svg|thumb|200px|right|The Lefford coat of arms in the ''A Song of Ice and Fire'' novels: a golden inverted pile on sky-blue, a yellow sun in the first.]]
+In the ''[[A Song of Ice and Fire]]'' novels, House Lefford of the Golden Tooth is a noble house from the Westerlands. Their coat of arms is a golden inverted pile on a sky blue field, a yellow sun in the first. The seat of the House is at the Golden Tooth. The castle controls the main entrance to the Westerlands from the east.
+
+===Known members===
+*Lord {Leo Lefford}, drowned during the [[Battle of the Fords#In the books|Battle of the Fords]].
+*Lady Alysanne Lefford, Leo's heiress.
+
+With unspecified familiar relationship to the main branch there are also:
+
+*Leonella Lefford, the wife of [[Lothar Frey]]. She has four daughters: Tysane, Walda, Emberlei and Leana.
+*Lady Myranda Lefford, the wife of Ser {[[Stafford Lannister]]}. She has three children: Ser Daven, Cerenna and Myrielle.
+
+==Gallery==
+<gallery>
+House Lefford tourney.jpg|The banner of House Lefford (center, blue and yellow) at the [[Tournament|Tourney of the Hand]] in "[[Cripples, Bastards, and Broken Things]]".
+Redwyne Tarly and Lefford heraldry PW.jpg|House Lefford banner (right) at the [[Purple Wedding]]
+Golden Tooth.png|[[Golden Tooth]], seat of House Lefford
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{House Lefford}}
+{{Houses from the Westerlands}}
+
+<!--Categories-->
+{{DEFAULTSORT:Lefford, House}}
+[[Category:House Lefford| ]]
+[[Category:Houses from the Westerlands]]
+[[Category:Houses of Andal origin]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[de:Haus Leffert]]
+[[fr:Maison Lefford]]
+[[pl:Ród Lefford]]
+[[ru:Леффорды]]

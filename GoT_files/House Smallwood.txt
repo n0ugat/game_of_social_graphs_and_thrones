@@ -1,0 +1,72 @@
+{{Canonicity|Canon}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Tully
+| Image     = 
+| Arms      = 
+| Words     = 
+| Titles    = 
+| Seat      = [[Acorn Hall]]
+| Region    = [[Riverlands]]
+| Head      = Lord [[Theomar Smallwood]]
+| Heir      = 
+| Overlords = [[House Vance]]
+| Vassals   = 
+| Religion  = [[Faith of the Seven]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Smallwood'''{{Ref|GOT504}}{{Note|Lord Smallwood's surname is Smallwood.}} of [[Acorn Hall]] is a vassal house from the [[Riverlands]]. They are sworn to [[House Vance]].
+
+==History==
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+[[Samwell Tarly|Sam]] presents some paperwork to Lord Commander [[Jon Snow]], consisting of requests to various lords, among them Lord Smallwood, to send new recruits to the [[Night's Watch]].{{Ref|GOT504}}
+
+==Members==
+*Lord [[Theomar Smallwood]], the head of the house.
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, House Smallwood is a noble house sworn to House Vance of Wayfarer's Rest. Their sigil is six brown acorns, 3-2-1, on yellow and their motto is "From These Beginnings." 
+
+===Known members===
+* Lord Theomar Smallwood, Lord of Acorn Hall.
+**Lady Ravella Swann, his wife.
+** Carellen Smallwood, their daughter.
+** an unknown son who died at the age of seven.
+
+Members with unspecified kinship to the main branch:
+
+*{Thoren Smallwood}, a ranger and senior officer of the [[Night's Watch]]. Killed by a [[wight]]-bear at the [[fight at the Fist]].
+
+An historical member of the house, Myles Smallwood, was a [[Hand of the King]] ​who was renowned for his courage.  He was a disaster as the Hand and now a warning to those who become Hands.
+
+During the [[War of the Five Kings]], House Smallwood follows their liege lord against [[House Lannister]], while Lady Ravella sends Carellen to her great-aunt at a motherhouse in [[Oldtown]]. Acorn Hall, in the meantime, serves as safe haven for the [[Brotherhood Without Banners]].
+
+Smallwood men are present at the camps outside the [[Twins]] prior to the [[Red Wedding]]; following the massacre, Lord Theomar is among the Riverlords who bend the knee to the [[Iron Throne]].
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Smallwood}}
+{{Houses from the Riverlands}}
+
+<!--Categories-->
+{{DEFAULTSORT:Smallwood, House}}
+[[Category:House Smallwood| ]]
+[[Category:Houses from the Riverlands]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[de:Haus Kleinwald]]
+[[fr:Maison Petibois]]
+[[ru:Смолвуды]]
+[[zh:斯莫伍德家族]]

@@ -1,0 +1,47 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Jefferson-Hall-200.jpg
+| Birth   = December 6, 1977 {{Age|1977|12|6}}<br>Coventry, West Midlands, England
+| Death   = 
+| Role    = [[Hugh of the Vale]]<br>[[Tyland Lannister]]<br>[[Jason Lannister]]
+| Series  = ''[[Game of Thrones]]''<br>''[[House of the Dragon]]''
+| Season  = ''Game of Thrones'':<br>[[Game of Thrones: Season 1|1]]<br>''House of the Dragon'':<br>[[House of the Dragon: Season 1|1]] {{*}} [[House of the Dragon: Season 2|2]] {{*}} [[House of the Dragon: Season 3|3]]
+| Credits = 15 episodes {{Below|Credits}}
+| First   = "[[Cripples, Bastards, and Broken Things]]"
+| Last    = 
+}}
+'''Jefferson Hall''' (born 6 December 1977), also known as '''Robert Hall''', is an English actor. In ''[[Game of Thrones]]'' he played Ser [[Hugh of the Vale]].
+
+He appeared in the BBC/FX period drama series ''Taboo'', along with his ''Game of Thrones'' co-stars [[Jonathan Pryce]], [[Nicholas Blane]], [[Oona Chaplin]], [[Roger Ashton-Griffiths]], and [[Mark Gatiss]].
+
+Despite his previous role on ''Game of Thrones'', Hall appears in ''[[House of the Dragon]]'' in the starring role of the twin brothers Ser [[Tyland Lannister]] and Lord [[Jason Lannister]].<ref>https://www.hollywoodreporter.com/tv/tv-news/game-of-thrones-house-of-the-dragon-graham-mctavish-1235020054/</ref>
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 1||||yes|yes}}
+
+===Starring===
+{{House of the Dragon: Season 1|||yes|yes|yes|yes||yes|yes}}
+{{House of the Dragon: Season 2|yes|yes|yes|yes|yes|yes||yes}}
+{{House of the Dragon: Season 3}}
+
+==See also==
+*{{WP|Jefferson Hall (actor)}}
+*{{IMDb|# = 2131630}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Hall, Jefferson}}
+[[Category:Guest starring cast members of Game of Thrones]]
+[[Category:Starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[de:Jefferson Hall]]
+[[fr:Jefferson Hall]]
+[[ru:Джефферсон Холл]]

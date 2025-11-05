@@ -1,0 +1,23 @@
+{{Crew
+|Image = James O'Donnell.jpg
+|dateofbirth = {{WPS|January 20}}, {{WPS|1968}}
+|birthplace = {{WPS|London}}, {{WPS|England}}, {{WPS|United Kingdom}}
+|job = Set Supervisor<br>Stunt Performer
+|imdb = http://www.imdb.com/name/nm0640769
+|twitter = }}
+'''James O'Donnell''' (born January 20, 1968), also known as '''James O'Dee''' and '''Jimmy O'Dee''', is an English stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a set supervisor in the [[Game of Thrones: Season 1|first season]] episodes "[[Winter Is Coming]]", "[[The Kingsroad]]", "[[Lord Snow]]", "[[Cripples, Bastards, and Broken Things]]", "[[A Golden Crown]]", "[[You Win or You Die]]", "[[The Pointy End]]", "[[Baelor]]" and "[[Fire and Blood]]" and a stunt performer in the [[Game of Thrones: Season 2|second season]] episodes "[[The North Remembers]]", "[[The Night Lands]]", "[[What Is Dead May Never Die]]", "[[Garden of Bones (episode)|Garden of Bones]]", "[[The Ghost of Harrenhal]]", "[[The Old Gods and the New]]", "[[A Man Without Honor]]", "[[Blackwater]]" and "[[Valar Morghulis]]".
+
+==Credits==
+===Set supervisor===
+{{Game of Thrones: Season 1|yes|yes|yes|yes||yes|yes|yes|yes|yes}}
+
+===Stunts===
+{{Game of Thrones: Season 2|yes|yes|yes|yes|yes|yes||yes|yes}}
+
+==See also==
+*{{IMDb
+|# = 0640769}}
+{{DEFAULTSORT:O'Donnell, James}}
+[[Category:Stunt performers of Game of Thrones]]

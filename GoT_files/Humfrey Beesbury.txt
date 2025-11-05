@@ -1,0 +1,65 @@
+{{Canonicity|Canon}}
+{{Spoiler|AKOTSK}}
+{{BookConjecture}}
+{{Heraldry
+| Image = House Beesbury.svg
+| Link  = House Beesbury
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Hightower
+| Image       = 
+| Birth       = At [[Honeyholt]]
+| Death       = 
+| House       = [[House Beesbury|Beesbury]]
+| Affiliation = 
+| Titles      = [[Knighthood|Ser]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Andals|Andal]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+Ser '''Humfrey Beesbury'''{{Con|D&EN}} is a [[Knighthood|knight]] of [[House Beesbury]] during the reign of [[Daeron II Targaryen|Daeron II]].{{Ref|H&L416}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Humfrey is the brother-in-law of Ser [[Humfrey Hardyng]].
+
+==Appearances==
+*{{H&L|Justice of the Seven Kingdoms}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|AKOTSK}}
+
+<!--Navboxes-->
+{{House Beesbury}}
+
+<!--Categories-->
+{{DEFAULTSORT:Beesbury, Humfrey}}
+[[Category:Individuals from Histories & Lore]]
+[[Category:Individuals from the Reach]]
+[[Category:Knights]]
+[[Category:Members of House Beesbury|Humfrey Beesbury]]
+
+<!--Languages-->
+[[fr:Humphrey des Essaims]]
+[[ru:Хамфри Бисбери]]

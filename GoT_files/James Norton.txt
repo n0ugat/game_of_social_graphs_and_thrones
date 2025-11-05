@@ -1,0 +1,29 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = James Norton.jpg
+| Birth   = James Geoffrey Ian Norton<br>July 18, 1985 {{Age|1985|7|18}}<br>Lambeth, London, England
+| Death   = 
+| Role    = [[Ormund Hightower]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 3|3]]
+| Credits = [[House of the Dragon: Season 3, Episode 4|Season 3, Episode 4]]
+| First   = 
+| Last    = 
+}}
+'''James Norton''' is a British actor who will be playing [[Ormund Hightower]] in [[House of the Dragon: Season 3|''House of the Dragon'': Season 3]].{{Webref|name=JN |author=Joe Otterson |date=January 31, 2025 |url=https://variety.com/2025/tv/news/house-of-the-dragon-season-3-cast-james-norton-ormund-hightower-1236292789/ |title=‘House of the Dragon’ Season 3 Casts James Norton as Ormund Hightower (EXCLUSIVE) |website=Variety |access-date=February 1, 2025 }} Norton is best known for his roles in ''Happy Valley'' and ''Grantchester'', as well as ''McMafia'' and the 2016 miniseries adaptation of ''War & Peace'' as Andrei Bolkonsky. In the upcoming BBC historical drama series ''King and Conqueror'', Norton appears as Harold Godwinson opposite [[Nikolaj Coster-Waldau]] as William the Conqueror.
+
+==Credits==
+===Starring===
+{{House of the Dragon: Season 3||||yes}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{WP|James Norton (actor)}}
+*{{IMDb|#=3584268}}
+
+<!--Categories-->
+{{DEFAULTSORT:Norton, James}}
+[[Category:Starring cast members of House of the Dragon]]

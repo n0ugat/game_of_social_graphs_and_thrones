@@ -1,0 +1,57 @@
+{{Canonicity|Canon}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Baratheon
+| Image     = 
+| Arms      = 
+| Words     = 
+| Titles    = 
+| Seat      = 
+| Region    = [[Stormlands]]
+| Head      = 
+| Heir      = 
+| Overlords = [[House Baratheon]]<br>{[[House Baratheon of Dragonstone]]} {{C|[[301 AC|301]]{{Dateref|Game of Thrones: Season 4}}-[[302 AC]]}}{{Dateref|Game of Thrones: Season 5}}
+| Vassals   = 
+| Religion  = [[Faith of the Seven]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Peasebury'''{{Ref|GOT403}} is a vassal house from the [[Stormlands]] that holds fealty to [[House Baratheon]].
+
+==History==
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+[[Davos Seaworth|Davos]] reports to [[Stannis Baratheon|Stannis]] he has managed to secure the support of some noble houses, among them House Peasebury.{{Ref|GOT403}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, House Peasebury is a noble house from the Stormlands, seated at the castle of Poddingfield. 
+
+Only one member of the house is mentioned in the novels: Robin Peasebury, lord of Poddingfield.
+
+During the [[War of the Five Kings]], Lord Peasebury declares for [[Renly Baratheon]] and goes over to Stannis after [[Assassination of Renly Baratheon|Renly's death]].
+
+Following the [[Battle of the Blackwater]], while several Stormlords [[Bending the knee|bend the knee]] to [[Joffrey Baratheon|Joffrey]], House Peasebury remains loyal to Stannis.
+
+Lord Robin Peasebury accompanies Stannis to the north. During the [[Battle in the ice#In the books|march to Winterfell]], four of his men are caught [[cannibalism|cannibalizing]] dead bodies and are executed at Stannis's order. Much to Lord Peasebury's embarrassment, there are rumors that he surely knew what his men were doing, and might even have shared in their feasts. When he calls Justin Massey craven, the latter retorts "Better a craven than a cannibal".
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Houses from the Stormlands}}
+
+<!--Categories-->
+{{DEFAULTSORT:Peasebury,House}}
+[[Category:Houses from the Stormlands]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[fr:Maison Cossepois]]
+[[ru:Пизбери]]

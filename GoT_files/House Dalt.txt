@@ -1,0 +1,62 @@
+{{Canonicity|Canon}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Martell
+| Image     = House Dalt.svg
+| Arms      = Purpure, nine bezants in three rows of three, increasing to base <br> {{C|Three rows of yellow circles, representing lemons, increasing in size towards the bottom, on a purple field}}
+| Words     = 
+| Titles    = Knight of Lemonwood
+| Seat      = [[Lemonwood]]
+| Region    = [[Dorne]]
+| Head      = Ser [[Deziel Dalt]]
+| Heir      = 
+| Overlords = [[House Martell]]
+| Vassals   = 
+| Religion  = [[Faith of the Seven]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+{{Quote|Wild lemons on a purple field: House Dalt of Lemonwood|[[Podrick Payne]]|Two Swords}}
+'''House Dalt'''{{Ref|GOT401}} of [[Lemonwood]] is a knightly house which holds fealty to [[House Martell]] of [[Dorne]]. Their heraldry contains yellow wild lemons strewn on a purple field.
+
+==History==
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+[[File:401 Dornish heraldry.png|thumb|right|250px|House Dalt banner (front left) - wild yellow lemons on a purple field.]]
+A House Dalt banner is seen amongst the delegation of Dornish lords who accompany [[Oberyn Martell]] to [[King's Landing]].<ref>"[[Two Swords]]"</ref>
+
+==Known members==
+*Ser [[Deziel Dalt]], the [[Knighthood|Knight]] of Lemonwood.
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, House Dalt's seat is at Lemonwood, located on the southern bank of the mouth of the [[Greenblood]] River. As a result, they are "Salty Dornishmen": when the [[Rhoynar]] migrated to Dorne a thousand years ago, they primarily settled around the coasts and river valleys, and in these places their bloodlines had the largest impact. Salty Dornishmen tend to have olive skin, dark hair and eyes, and somewhat short but lithe stature. The coasts of Dorne also enjoy a fair amount of trade with the nearby [[Free Cities]] across the [[Narrow Sea]].
+
+The heraldry of House Dalt apparently refers to the fact that Dorne, the southernmost of the Seven Kingdoms, is the only region in Westeros where citrus fruits grow. The lemons for [[Sansa Stark]]'s [[lemon cake]]s have to be imported from Dorne.
+
+House Dalt is a knightly House, not a lordly House (meaning they do not have the authority to dispense justice and executions). However, they are still considered one of the more powerful Houses from Dorne.
+
+The members of House Dalt at the time of the novels are:
+*Ser Deziel Dalt, the Knight of Lemonwood.
+*Ser Andrey Dalt, his brother and heir. Called Drey.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Houses from Dorne}}
+
+<!--Categories-->
+{{DEFAULTSORT:Dalt, House}}
+[[Category:House Dalt| ]]
+[[Category:Houses from Dorne]]
+[[Category:Knightly houses]]
+
+<!--Languages-->
+[[de:Haus Dalt]]
+[[fr:Maison Dalt]]
+[[pl:Ród Dalt]]
+[[ru:Дальты]]

@@ -1,0 +1,269 @@
+{{DISPLAYTITLE:''House of the Dragon''}}
+{{SameName|television series|house known as the House of the Dragon|House Targaryen}}
+{{Television series
+| Title      = ''{{PAGENAME}}''
+| Type       = Dragon
+| Image      = {{PAGENAME}}.png
+| Format     = Live-action{{Ref|HOTD101}}
+| Seasons    = [[House of the Dragon: Season 1|1]] {{*}} [[House of the Dragon: Season 2|2]] {{*}} [[House of the Dragon: Season 3|3]] {{*}} [[House of the Dragon: Season 4|4]]{{Webref|name=Variety |author=Jennifer Maas |date=August 5, 2024 |url=https://variety.com/2024/tv/news/house-of-the-dragon-end-season-4-1236095543/ |title=‘House of the Dragon’ to End With Season 4, Season 3 to Begin Production in Early 2025 |website=Variety |access-date=August 6, 2024 }}
+| Episodes   = 34<ref name="Variety" /> {{C|18 aired}}{{HBOref|HOTD}}
+| Premiere   = "[[The Heirs of the Dragon]]"{{HBOref|HOTD}}
+| Finale     = 
+| Network    = [[HBO]]{{HBOref|HOTD}}<br>[[HBO Max]]{{HBOref|HOTD}}
+| First      = August 21, 2022{{Listref|HOTD}}
+| Final      = 
+| Runtime    = 54{{Ref|HOTD102}}-70 minutes{{Ref|HOTD208}} {{C|per episode}}
+| Starring   = {{Collapse|[[Paddy Considine]]{{Ref|HOTD101}}<br>[[Matt Smith]]{{Ref|HOTD101}}<br>[[Emma D'Arcy]]{{Ref|HOTD101}}<br>[[Olivia Cooke]]{{Ref|HOTD106}}<br>[[Rhys Ifans]]{{Ref|HOTD101}}<br>[[Steve Toussaint]]{{Ref|HOTD101}}<br>[[Eve Best]]{{Ref|HOTD101}}<br>[[Fabien Frankel]]{{Ref|HOTD101}}<br>[[Matthew Needham]]{{Ref|HOTD103}}<br>[[Sonoya Mizuno]]{{Ref|HOTD101}}<br>[[Milly Alcock]]{{Ref|HOTD101}}<br>[[Emily Carey]]{{Ref|HOTD101}}<br>[[Graham McTavish]]{{Ref|HOTD101}}<br>[[Tom Glynn-Carney]]{{Ref|HOTD108}}<br>[[Ewan Mitchell]]{{Ref|HOTD108}}<br>[[Phia Saban]]{{Ref|HOTD108}}<br>[[Harry Collett]]{{Ref|HOTD108}}<br>[[Bethany Antonia]]{{Ref|HOTD108}}<br>[[Phoebe Campbell]]{{Ref|HOTD108}}<br>[[Jefferson Hall]]{{Ref|HOTD103}}<br>[[Freddie Fox]]{{Ref|HOTD203}}<br>[[Gayle Rankin]]{{Ref|HOTD203}}<br>[[Charlie Gordon]]{{Webref|name=Leak |author=Gravemaster |date=March 13, 2025 |url=https://redanianintelligence.com/2025/03/13/major-character-leak-from-house-of-the-dragon-season-3/ |title=Major Character Leak From House of the Dragon Season 3 |website=Redanian Intelligence |access-date=July 18, 2025 }}<br>[[Kurt Egyiawan]]{{Ref|HOTD201}}<br>[[Abubakar Salim]]{{Ref|HOTD201}}<br>[[Clinton Liberty]]{{Ref|HOTD202}}<br>[[Tom Bennett]]{{Ref|HOTD202}}<br>[[Kieran Bew]]{{Ref|HOTD201}}<br>[[Tom Taylor]]{{Ref|HOTD201}}<br>[[Ellora Torchia]]{{Ref|HOTD202}}<br>[[Simon Russell Beale]]{{Ref|HOTD203}}}}
+| Creator    = [[Ryan Condal]]{{Ref|HOTD101}}<br>[[George R.R. Martin]]{{Ref|HOTD101}}
+| Producers  = {{Collapse|[[Miguel Sapochnik]]{{Ref|HOTD101}}<br>Ryan Condal{{Ref|HOTD101}}<br>George R.R. Martin{{Ref|HOTD101}}<br>[[Ron Schmidt]]{{Ref|HOTD101}}<br>[[Jocelyn Diaz]]{{Ref|HOTD101}}<br>[[Sara Hess]]{{Ref|HOTD101}}<br>[[Vince Gerardis]]{{Ref|HOTD101}}<br>[[Kevin de la Noy]]{{Ref|HOTD201}}<br>[[Melissa Bernstein]]{{Ref|HOTD201}}<br>[[Alan Taylor]]{{Ref|HOTD201}}<br>[[Loni Peristere]]{{Ref|HOTD201}}<br><br>'''Co-executive producers'''<br>[[Greg Yaitanes]]{{Ref|HOTD101}}<br>[[David Hancock]]{{Ref|HOTD101}}<br>[[Charmaine DeGraté]]{{Ref|HOTD101}}<br>[[Ira Parker]]{{Ref|HOTD101}}<br>[[Philippa Goslett]]{{Ref|HOTD201}}<br>[[Trina E. Siopy]]{{Ref|HOTD201}}}}
+| Writers    = Ryan Condal{{Ref|HOTD101}}<br>[[Gabe Fonseca]]{{Ref|HOTD103}}<br>Ira Parker{{Ref|HOTD104}}<br>Charmaine DeGraté{{Ref|HOTD105}}<br>Sara Hess{{Ref|HOTD106}}<br>[[Kevin Lau]]{{Ref|HOTD107}}<br>[[Eileen Shim]]{{Ref|HOTD108}}<br>David Hancock{{Ref|HOTD203}}<br>[[Ti Mikkel]]{{Ref|HOTD205}}
+| Directors  = Miguel Sapochnik{{Ref|HOTD101}}<br>Greg Yaitanes{{Ref|HOTD102}}<br>[[Clare Kilner]]{{Ref|HOTD104}}<br>[[Geeta Vasant Patel]]{{Ref|HOTD108}}<br>Alan Taylor{{Ref|HOTD201}}<br>[[Andrij Parekh]]{{Ref|HOTD206}}<br>Loni Peristere{{Ref|HOTD207}}<br>[[Nina Lopez-Corrado]]{{Webref|name=NLC |author=Gravemaster |date=January 30, 2025 |url=https://redanianintelligence.com/2025/01/30/house-of-the-dragon-season-3-gets-a-new-director/ |title=House of the Dragon Season 3 Gets a New Director |website=Redanian Intelligence |access-date=January 31, 2025 }}
+| Composer   = [[Ramin Djawadi]]{{Ref|HOTD101}}
+| Production = March 26, 2021<ref>[https://www.instagram.com/poplarparry93/ poplarparry93 on Instagram: "Thats a wrap for Grips and Standbys on House of the Dragon, Fire Unit, Season One. March 26th - Today!"]</ref>
+| Wrapped    = 
+| Based      = ''[[Fire & Blood]]''{{Ref|HOTD101}}<br>by George R.R. Martin{{Ref|HOTD101}}
+| Year       = [[101 AC]]{{Dateref|Great Council at Harrenhal}} {{C|Season 1 prologue}}{{Ref|HOTD101}}<br>[[112 AC|112]]{{Dateref|The Heirs of the Dragon}}-[[132 AC]]{{Dateref|House of the Dragon: Season 2}}
+}}
+{{Quote|The only thing that could tear down the House of the Dragon was itself.|[[Rhaenyra Targaryen]]|The Heirs of the Dragon}}
+'''''House of the Dragon'''''{{HBOref|HOTD}}{{Note|Official translations<br />{{*}} Portuguese: ''A Casa do Dragão''<br/>{{*}} Spanish: ''La Casa del Dragón''}} is the second live-action television series of the ''[[World of Westeros]]''. It is the second installment of the franchise overall. It was ordered by [[HBO]] in October 2019. The prequel goes back approximately [[101 AC|200 years]] to center on the beginning of the end of the once all-powerful [[House Targaryen/House of the Dragon|dynasty]] that dominated the [[Seven Kingdoms]] of [[Westeros]].{{Webref|name=Greenlight |author=Dominic Patten, Nellie Andreeva |date=October 29, 2019 |url=https://deadline.com/2019/10/game-of-thrones-new-series-house-of-the-dragons-targaryen-hbo-max-greenlight-1202771886/ |title=‘Game Of Thrones’ Prequel ‘House Of The Dragon’ Gets Straight To Series Order From HBO |website=Deadline |access-date=December 6, 2023 }}
+
+[[Ryan Condal]] and [[Miguel Sapochnik]] serve as showrunners and executive producers. [[George R.R. Martin]], [[Vince Gerardis]], [[Sara Hess]], and [[Ron Schmidt]] also serve as executive producers, with [[Greg Yaitanes]] as co-executive producer.<ref name="HBO">[https://www.hbo.com/house-of-the-dragon ''House of the Dragon'' | Official Website for the HBO Series | HBO.com]</ref>
+
+The [[House of the Dragon: Season 1|first season]] premiered on August 21, 2022, followed by the [[House of the Dragon: Season 2|second season]] on June 16, 2024. A day earlier, the series was renewed for a [[House of the Dragon: Season 3|third season]], set to begin production in early 2025.
+
+==Premise==
+{{Premise|HOTD}}
+
+==Seasons==
+{| {{Prettytable}}
+! Season
+! Episodes
+! Premiere date
+! Finale date
+|-
+| style="text-align: center;" | [[House of the Dragon: Season 1|1]]{{HBOref|HOTD1}}
+| style="text-align: center;" | 10{{HBOref|HOTD1}}
+| style="text-align: center;" | August 21, 2022{{Listref|HOTD}}
+| style="text-align: center;" | October 23, 2022{{Listref|HOTD}}
+|-
+| style="text-align: center;" | [[House of the Dragon: Season 2|2]]{{HBOref|HOTD}}
+| style="text-align: center;" | 8{{HBOref|HOTD2}}
+| style="text-align: center;" | June 16, 2024{{Listref|HOTD}}
+| style="text-align: center;" | August 4, 2024{{Listref|HOTD}}
+|-
+| style="text-align: center;" | [[House of the Dragon: Season 3|3]]{{HBOref|HOTD3}}
+| style="text-align: center;" | 8<ref name="Variety" />
+| style="text-align: center;" | 2026{{Webref|name=Orsi |author=Nellie Andreeva |date=February 12, 2025 |url=https://deadline.com/2025/02/house-of-the-dragon-season-3-game-of-thrones-spinoff-knight-renewed-1236285772/ |title=HBO Drama Chief Touts Big ‘House Of The Dragon’ Season 3 Battle, Talks ‘Knight Of The 7 Kingdoms’ 3-Season Plan, Teases New ‘Game Of Thrones’ Spinoff |website=Deadline |access-date=February 20, 2025 }}
+| style="text-align: center;" | 2026<ref name="Orsi" />
+|-
+| style="text-align: center;" | [[House of the Dragon: Season 4|4]]<ref name="Variety" />
+| style="text-align: center;" | 8<ref name="Variety" />
+| style="text-align: center;" | 
+| style="text-align: center;" | 
+|}
+
+==Cast==
+{{Main|Starring cast (House of the Dragon)}}
+
+===House Targaryen===
+{{Main|House Targaryen/House of the Dragon}}
+*[[Paddy Considine]] as King [[Viserys I Targaryen]], the [[King of the Andals and the Rhoynar and the First Men]].{{Webref|name=Paddy Considine |author=Nellie Andreeva |date=October 5, 2020 |url=https://deadline.com/2020/10/house-of-the-dragon-paddy-considine-cast-star-hbo-game-of-thrones-prequel-series-1234591696/ |title=‘House Of the Dragon’: Paddy Considine To Star As King Viserys Targaryen In HBO’s ‘Game Of Thrones’ Prequel |website=Deadline |access-date=December 6, 2023 }}
+*[[Siân Brooke]] as Queen [[Aemma Arryn]], Viserys's first wife.
+*[[Matt Smith]] as Prince [[Daemon Targaryen]], the younger brother and heir presumptive of King Viserys.
+*[[Emma D'Arcy]] and [[Milly Alcock]] as Princess [[Rhaenyra Targaryen]], the first-born child of King Viserys.
+*[[Tom Glynn-Carney]] and [[Ty Tennant]] as Prince [[Aegon II Targaryen|Aegon Targaryen]].<ref name="warnermedia2">https://pressroom.warnermedia.com/us/bio/house-dragon-character-descriptions</ref>
+*[[Ewan Mitchell]] and [[Leo Ashton]] as Prince [[Aemond Targaryen]].<ref name="warnermedia2" />
+*[[Phia Saban]] and [[Evie Allen]] as Princess [[Helaena Targaryen]].<ref name="warnermedia2" />
+*[[Charlie Gordon]] as Prince [[Daeron Targaryen]].
+*[[Bethany Antonia]] and [[Shani Smethurst]] as Lady [[Baela Targaryen]].<ref name="warnermedia2" />
+*[[Phoebe Campbell]] and [[Eva Ossei-Gerning]] as Lady [[Rhaena Targaryen]].<ref name="warnermedia2" />
+
+===House Hightower===
+{{Main|House Hightower/House of the Dragon}}
+*[[Rhys Ifans]] as Ser [[Otto Hightower]], the [[Hand of the King]] to King Viserys.{{Webref|name=deadline2 |author=Nellie Andreeva |date=February 11, 2021 |url=https://deadline.com/2021/02/house-of-the-dragon-rhys-ifans-steve-toussaint-eve-best-sonoya-mizuno-cast-game-of-thrones-prequel-hbo-lord-corlys-velaryon-sea-snake-1234692290/ |title=‘House Of the Dragon’: Rhys Ifans, Steve Toussaint, Eve Best & Sonoya Mizuno Join HBO’s ‘Game of Thrones’ Prequel |website=Deadline |access-date=December 6, 2023 }}
+*[[Olivia Cooke]] and [[Emily Carey]] as [[Alicent Hightower]], the daughter of Otto.
+*[[Steffan Rhodri]] as Lord [[Hobert Hightower]], the Lord of [[Oldtown]].
+*[[Freddie Fox]] as Ser [[Gwayne Hightower]], the son of Otto and brother to Alicent.
+*[[James Norton]] as Lord [[Ormund Hightower]], the son and heir of Lord Hobert Hightower.
+
+===House Velaryon===
+{{Main|House Velaryon}}
+*[[Steve Toussaint]] as Lord [[Corlys Velaryon]], "the Sea Snake," the [[Lord of the Tides]].<ref name="deadline2" />
+*[[Eve Best]] as Princess [[Rhaenys Targaryen]], "the Queen Who Never Was," the wife of Lord Corlys.<ref name="deadline2" />
+*[[Nanna Blondell]], [[Savannah Steyn]], and [[Nova Foueillis-Mosé]] as Lady [[Laena Velaryon]], the daughter of Lord Corlys and Princess Rhaenys.<ref name="warnermedia" />
+*[[John Macmillan]], [[Theo Nate]], and [[Matthew Carver]] as Ser [[Laenor Velaryon]], the son of Lord Corlys and Princess Rhaenys.<ref name="warnermedia" />
+*[[Wil Johnson]] as Ser [[Vaemond Velaryon]], the younger brother of Lord Corlys and commander in the Velaryon navy.{{Webref|name=warnermedia |author=Unknown author |date=October 5, 2021 |url=https://press.wbd.com/us/media-release/hbo-releases-first-official-teaser-house-dragon |title=HBO Releases First Official Teaser For HOUSE OF THE DRAGON |website=Warner Bros. Discovery |access-date=December 6, 2023 }}
+*[[Harry Collett]] and [[Leo Hart]] as Prince [[Jacaerys Velaryon]].<ref name="warnermedia2" />
+*[[Elliot Grihault]] and [[Harvey Sadler]] as Prince [[Lucerys Velaryon]].
+*[[Oscar Eskinazi]] as Prince [[Joffrey Velaryon]].
+
+===House Strong===
+{{Main|House Strong}}
+*[[Gavin Spokes]] as Lord [[Lyonel Strong]], the [[Lord of Harrenhal]] and [[Master of Laws]] to King Viserys.{{Webref|name=deadline3 |author=Alexandra Del Rosario |date=September 24, 2021 |url=https://deadline.com/2021/09/house-of-the-dragon-ryan-corr-jefferson-hall-david-horovitch-cast-game-of-thrones-prequel-series-1234843598/ |title=‘House Of The Dragon’: Ryan Corr, Jefferson Hall & David Horovitch Among 7 Cast In ‘Game of Thrones’ Prequel Series |website=Deadline |access-date=December 6, 2023 }}
+*[[Ryan Corr]] as Ser [[Harwin Strong]], "Breakbones," the eldest son of Lord Lyonel and heir to [[Harrenhal]].<ref name="deadline3" />
+*[[Matthew Needham]] as [[Larys Strong]], the younger son of Lord Lyonel.<ref name="deadline3" />
+*[[Simon Russell Beale]] as Ser [[Simon Strong]], the uncle of Lyonel Strong and great-uncle of Larys and Harwin, who serves as castellan of [[Harrenhal]].
+*[[Graeme McKnight]] as [[Paxter Strong]], a cousin of Harwin and Larys.
+
+===House Lannister===
+{{Main|House Lannister/House of the Dragon}}
+*[[Jefferson Hall]] as Lord [[Jason Lannister]], the [[Master of Casterly Rock]] and twin to Ser Tyland.<ref name="deadline3" />
+*Jefferson Hall as Ser [[Tyland Lannister]], twin to Lord Jason.<ref name="deadline3" />
+
+===House Baratheon===
+{{Main|House Baratheon/House of the Dragon}}
+*[[Julian Lewis Jones]] as Lord [[Boremund Baratheon]], [[Lord of Storm's End]].
+*[[Roger Evans]] as [[Borros Baratheon]], Boremund's son and heir.
+
+===House Stark===
+*[[Tom Taylor]] as [[Cregan Stark]], [[Lord of Winterfell]] and [[Warden of the North]].
+
+===In King's Landing===
+*[[Fabien Frankel]] as Ser [[Criston Cole]], the common-born son of the steward to the [[Lord of Blackhaven]].{{Webref|name=Fabien Frankel |author=George R.R. Martin |date=April 15, 2021 |url=https://georgerrmartin.com/notablog/2021/04/15/comes-a-swordsman/ |title=Comes A Swordsman |website=Not A Blog |access-date=December 6, 2023 }}
+*[[Sonoya Mizuno]] as [[Mysaria]], the most trusted ally of Prince Daemon.<ref name="deadline2" />
+*[[David Horovitch]] as Grand Maester [[Mellos]], a trusted advisor to King Viserys.<ref name="deadline3" />
+*[[Graham McTavish]] as Ser [[Harrold Westerling]], the [[Lord Commander of the Kingsguard]].<ref name="deadline3" />
+*[[Garry Cooper]] as Ser [[Ryam Redwyne]], Harrold's predecessor.
+*[[Anthony Flanagan]] as Ser [[Steffon Darklyn]], a knight of the [[Kingsguard]].
+*[[Luke Tittensor]] as Ser [[Arryk Cargyll]], a knight of the Kingsguard, twin to Ser Erryk.
+*[[Elliott Tittensor]] as Ser [[Erryk Cargyll]], a knight of the Kingsguard, twin to Ser Arryk.
+*[[Max Wrottesley]] as Ser [[Lorent Marbrand]], a knight of the Kingsguard.
+*[[Vincent Regan]] as Ser [[Rickard Thorne]], a knight of the Kingsguard.
+*[[Bill Paterson]] as Lord [[Lyman Beesbury]], the [[Lord of Honeyholt]] and [[Master of Coin]] to King Viserys.<ref name="deadline3" />
+*[[Kurt Egyiawan]] as [[Orwyle]], a [[Order of Maesters|maester]].<ref>[https://loucoulson.co.uk/talent/kurt-egyiawan#cv Kurt Egyiawan's CV]</ref>
+*[[Paul Kennedy]] as Lord [[Jasper Wylde]], the head of [[House Wylde]].
+*[[Maddie Evans]] as [[Dyana]], a servant of [[Aegon II Targaryen|Aegon]] and [[Helaena Targaryen]].
+*[[Mark Stobbart]] as [[Cheese]], a ratcatcher in the Red Keep.
+*[[Sam C. Wilson]] as [[Blood]], a member of the City Watch of King's Landing.
+*[[Tom Bennett]] as [[Ulf]], a denizen of Kings Landing known as a sot and raconteur among the smallfolk. 
+*[[Kieran Bew]] as [[Hugh]], a blacksmith from King's Landing.
+*[[Ellora Torchia]] as [[Kat]], Hugh’s wife and a devoted mother to their sick daughter. 
+
+===On Dragonstone===
+*[[Phil Daniels]] as [[Gerardys]], a maester.
+*[[Jordon Stevens]] as [[Elinda Massey]], a trusted handmaiden to Rhaenyra.
+*[[Nicholas Jones]] as Lord [[Bartimos Celtigar]], the head of [[House Celtigar]].
+*[[Michael Elwyn]] as Lord [[Simon Staunton]], the head of [[House Staunton]].
+*[[Jamie Kenna]] as Ser [[Alfred Broome]], the most senior knight of Dragonstone, sworn to House Targaryen.
+*[[James Dreyfus]] as Lord [[Gormon Massey]], the head of [[House Massey]] and father to Rhaenyra's lady in waiting, Elinda.
+
+===On Driftmark===
+*[[Solly McLeod]] as Ser [[Joffrey Lonmouth]], "the Knight of Kisses," a sworn sword of House Velaryon.
+*[[Abubakar Salim]] as [[Alyn of Hull]], a sailor in the Velaryon fleet.
+*[[Clinton Liberty]] as [[Addam of Hull]], older brother of Alyn. 
+
+===In the Riverlands===
+*[[Archie Barnes]] as Lord [[Oscar Tully]], the Lord of [[Riverrun]] afte the death of his grandsir, Lord [[Grover Tully]].
+*[[Gayle Rankin]] as [[Alys Rivers]], a healer who resides at Harrenhal.
+*[[Jack Parry-Jones]] and [[Alfie Todd]] as Ser [[Willem Blackwood]], the regent of [[Raventree Hall]] who once sought Rhaenyra's favor.
+*[[Tim Faraday]] as Lord [[Amos Bracken]], the Lord of the [[Stone Hedge]]. 
+*[[Antonio Magro]] as Lord [[Petyr Piper]], the Lord of [[Pinkmaiden]].
+*[[Turlough Convery]] as Lord [[Walys Mooton]], the Lord of [[Maidenpool]].
+
+===In the Vale===
+*[[Amanda Collin]] as [[Jeyne Arryn]], Lady of the Eyrie, Defender of the Vale, Wardeness of the East.
+*[[Rachel Redford]] as [[Rhea Royce]], Daemon's first wife and heir to [[Runestone]].
+*[[Owen Oakeshott]] as [[Gerold Royce]], Rhea's cousin.
+
+==Crew==
+===Producers===
+*[[Ryan Condal]]: co-creator, showrunner, executive producer
+*[[George R.R. Martin]]: co-creator, executive producer
+*[[Miguel Sapochnik]]: showrunner, {{C|season 1}} executive producer
+*[[Vince Gerardis]]: executive producer {{C|co-executive in season 1}}
+*[[Sara Hess]]: executive producer
+*[[Ron Schmidt]]: executive producer {{C|season 1}}
+*[[Jocelyn Diaz]]: executive producer {{C|season 1}}
+*[[Alan Taylor]]: executive producer {{C|season 2}}
+*[[Melissa Bernstein]]: executive producer {{C|season 2}}
+*[[Kevin de la Noy]]: executive producer {{C|season 2}}
+*[[Loni Peristere]]: executive producer {{C|season 2}}
+*[[Ira Parker]]: co-executive producer {{C|season 1}}
+*[[Greg Yaitanes]]: co-executive producer {{C|season 1}}
+*[[David Hancock]]: co-executive producer
+
+===Writers===
+*[[Ryan Condal]]: episodes [[The Heirs of the Dragon|1]], [[The Rogue Prince|2]], [[Second of His Name|3]], [[The Black Queen|10]], [[A Son for a Son|11]], and [[The Red Dragon and the Gold|14]]
+*[[Gabe Fonseca]]: episode 3
+*[[Ira Parker]]: [[King of the Narrow Sea (episode)|episode 4]]
+*[[Charmaine DeGraté]]: [[We Light the Way|episode 5]]
+*[[Sara Hess]]: episodes [[The Princess and the Queen|6]], [[The Green Council|9]], [[Rhaenyra the Cruel|12]], and [[The Queen Who Ever Was|18]]
+*[[Kevin Lau]]: [[Driftmark (episode)|episode 7]]
+*[[Eileen Shim]]: episodes [[The Lord of the Tides|8]] and [[Smallfolk (episode)|16]]
+*[[David Hancock]]: episodes [[The Burning Mill|13]] and [[The Red Sowing|17]]
+*[[Ti Mikkel]]: [[Regent (episode)|episode 15]]
+
+===Directors===
+*[[Miguel Sapochnik]]: episodes [[The Heirs of the Dragon|1]], [[The Princess and the Queen|6]], and [[Driftmark (episode)|7]]
+*[[Greg Yaitanes]]: episodes [[The Rogue Prince|2]], [[Second of His Name|3]], and [[The Black Queen|10]]
+*[[Clare Kilner]]: episodes [[King of the Narrow Sea (episode)|4]], [[We Light the Way|5]], [[The Green Council|9]], [[Rhaenyra the Cruel|12]], [[Regent (episode)|15]], [[House of the Dragon: Season 3, Episode 2|20]], [[House of the Dragon: Season 3, Episode 3|21]], and [[House of the Dragon: Season 3, Episode 4|22]]{{Webref|name=Directors |author=Redanian Intelligence |date=April 1, 2025 |url=https://x.com/RedanianIntel/status/1907019308317708715 |title=House of the Dragon S3 directors and their episodes  |website=𝕏 |access-date=April 2, 2025 }}
+*[[Geeta Vasant Patel]]: episodes [[The Lord of the Tides|8]], [[The Burning Mill|13]], and [[The Queen Who Ever Was|18]]
+*[[Alan Taylor]]: episodes [[A Son for a Son|11]] and [[The Red Dragon and the Gold|14]]
+*[[Andrij Parekh]]: episodes [[Smallfolk (episode)|16]] and [[House of the Dragon: Season 3, Episode 8|26]]
+*[[Loni Peristere]]: episodes [[The Red Sowing|17]], [[House of the Dragon: Season 3, Episode 1|19]], and [[House of the Dragon: Season 3, Episode 6|24]]<ref name="Directors" />
+*[[Nina Lopez-Corrado]]: episodes [[House of the Dragon: Season 3, Episode 5|23]] and [[House of the Dragon: Season 3, Episode 7|25]]<ref name="Directors" />
+
+===Cinematographers===
+Each cinematographer (director of photography) is paired with a specific director's filming unit:
+*[[Fabian Wagner]] {{C|with Miguel Sapochnik}}
+*[[Pepe Avila del Pino]] {{C|with Greg Yaitanes}}
+*[[Alejandro Martínez]] {{C|with Clare Kilner}}
+*[[Catherine Goldschmidt]] {{C|with Geeta Vasant Patel}}
+
+===Staff===
+*[[Ramin Djawadi]]: composer
+*[[Jany Temime]]: costume designer
+*[[Jim Clay]]: production designer
+*[[Tim Porter]]: film editor
+*[[Crispin Green]]: film editor
+*[[Lauren DeSantis]]: virtual production coordinator
+*[[Simon Brindle]]: costume armor supervisor
+*[[David J. Peterson]]: language consultant
+*[[Michael Dawson]]: visual effects supervisor
+*[[Daren Bailey]]: marine coordinator
+*[[Steve Weightman]]: key grip
+*[[Jack Parry]]: best boy grip
+*[[Clive Williams]]: Libra Head technician
+*[[Kate Rhodes James]]: casting director
+
+==Production==
+The concept for ''House of the Dragon'' was first pitched by [[George R.R. Martin]] in the summer of 2016,{{Webref|name=Dragons |author=George R.R. Martin |date=October 30, 2019 |url=https://georgerrmartin.com/notablog/2019/10/30/the-dragons-take-wing/ |title=The Dragons Take Wing |website=Not A Blog |access-date=October 31, 2019 }} with the working title ''[[The Dance of the Dragons]]''. It was initially helmed by [[Carly Wray]], and then by [[Bryan Cogman]], and finally [[Ryan Condal]] and [[Miguel Sapochnik]].{{Webref|name=THR |author=James Hibberd |date=July 19, 2022 |url=https://www.hollywoodreporter.com/tv/tv-features/house-of-the-dragon-game-of-thrones-prequels-1235181929/ |title=Inside ‘House of the Dragon’: The Epic Mission to Make the Next ‘Game of Thrones’ |website=The Hollywood Reporter |access-date=December 6, 2023 }} With the launch of [[HBO Max]] in May 2020, the ''House of the Dragon'' prequel is based on Martin's bestselling ''[[Fire & Blood]]''. The first installment in the prequel book series was published in November 2018. It received a 10-episode straight-to-series order. Miguel Sapochnik directed the pilot and additional episodes.
+
+The title of the show derives from a passage from ''A Game of Thrones'' Chapter 3, Daenerys I: ''The water was scalding hot, but Daenerys did not flinch or cry out. She liked the heat. It made her feel clean. Besides, her brother had often told her that it was never too hot for a Targaryen. "Ours is the house of the dragon," he would say. "The fire is in our blood."
+
+George R.R. Martin has stated that it will take four 10-episode seasons to do the Dance of the Dragons justice,{{Webref|name=Musings |author=George R.R. Martin |date=October 11, 2022 |url=https://georgerrmartin.com/notablog/2022/10/11/random-musings/ |title=Random Musings |website=Not A Blog |access-date=December 6, 2023 }} However, season 2 ran for 8 episodes, compared to season 1's 10-episode run.
+
+==Filming locations==
+{{Main|Filming locations (House of the Dragon)}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|House of the Dragon|''House of the Dragon''}}
+*{{HBO|house-of-the-dragon}}
+*{{HBO Max|show/c68e69d7-9317-428a-a615-cdf8fe5a2e06}}
+*{{IMDb title|#=11198330}}
+*{{WP|House of the Dragon|''House of the Dragon''}}
+
+<!--Navboxes-->
+{{House of the Dragon}}
+{{World of Westeros}}
+
+<!--Categories-->
+[[Category:House of the Dragon| ]]
+[[Category:Live-action television series]]
+[[Category:Television series released in 2022|8.21]]
+
+<!--Languages-->
+[[de:House of the Dragon]]
+[[es:House of the Dragon]]
+[[fr:House of the Dragon]]
+[[it:House of the Dragon]]
+[[pl:Ród smoka]]
+[[pt-br:House of the Dragon]]
+[[ru:Дом Дракона]]
+[[uk:Дім Дракона]]

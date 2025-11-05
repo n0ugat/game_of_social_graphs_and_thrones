@@ -1,0 +1,72 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Stark
+| Image       = Jacks.jpg
+| Birth       = In the [[North]]
+| Death       = 
+| House       = 
+| Affiliation = [[House Stark]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Northmen|Northern]]
+| Religion    = [[Old Gods]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 2|2]]
+| Appearances = 2 episodes {{Below|Appearances}}
+| First       = "[[The Old Gods and the New]]"
+| Last        = "[[A Man Without Honor]]"
+| DeathEp     = 
+| Actor       = [[Paul Caddell]]
+}}
+{{Quote|We caught the Kingslayer.|Jacks to [[Catelyn Stark]]|A Man Without Honor}}
+'''Jacks''' is a guardsman sworn to [[House Stark]] fighting for King [[Robb Stark]] in the [[War of the Five Kings]].
+
+==Biography==
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+He alerts [[Catelyn Stark]] to the recapture of Ser [[Jaime Lannister]], clashing with her sworn sword [[Brienne of Tarth|Brienne]] over entering her tent unannounced. He then accompanies Catelyn as she confronts Lord [[Rickard Karstark]] and convinces him to await the return of King [[Robb Stark]] to give him justice for Jaime's murder of [[Torrhen Karstark]]. Jacks glares at the Kingslayer as he thanks Lady Catelyn for her intervention.{{Ref|GOT207}}
+
+==Quotes==
+===Spoken by Jacks===
+{{dialogue a-b-a-b-a|Jacks|Lady Stark!|Brienne of Tarth|No farther.|Keep your hands off me, woman.|Don't enter without an invitation, ''man''!|Forgive me.|Jacks acquiesces to [[Brienne of Tarth]].|A Man Without Honor}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Jacks is a similar minor character. He is a member of the household guard at Winterfell.
+
+Jacks is one of the guards who accompany [[Eddard Stark]] to [[King's Landing]]. He and [[Varly]] escort Eddard when he visits the armorer [[Tobho Mott]] and discovers [[Gendry Baratheon|Gendry]], one of [[Robert Baratheon]]'s bastard.
+
+He is one of the few survivors of the [[Massacre in the Red Keep|massacre of the Stark household]]. He is later sent with [[Alton Lannister#In the books|Cleos Frey]] to the Starks' camp, to deliver [[Tyrion Lannister]]'s counterterms and Eddard's bones. He is then put under the command of [[Hallis Mollen]].
+
+He is sent north with Hallis Mollen's men to escort Eddard's bones back to Winterfell. Before they reach [[Moat Cailin]], however, the [[Ironborn invasion of the North|ironborn invade the North]]. It is unknown what has become of Jacks and the rest of the party; unlike in the show, Eddard's bones have not been brought yet to Winterfell.
+
+==Appearances==
+*{{GOT|The Old Gods and the New}}
+*{{GOT|A Man Without Honor}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Stark}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Men-at-arms]]
+[[Category:Northmen]]
+[[Category:Servants and retainers of House Stark]]
+[[Category:Smallfolk]]
+
+<!--Languages-->
+[[fr:Jacks]]
+[[ru:Джекс]]

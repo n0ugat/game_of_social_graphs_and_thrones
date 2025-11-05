@@ -1,0 +1,87 @@
+{{DISPLAYTITLE:''House of the Dragon: The House That Dragons Built'': Season 2}}
+{{Season
+| Season     = 2
+| Type       = Built
+| Image      = {{PAGENAME}}.jpg
+| Episodes   = 8{{HBOref|THTDB2}}
+| Premiere   = "[[Episode 1 (House of the Dragon: The House That Dragons Built)|Episode 1]]"{{HBOref|THTDB2}}
+| Finale     = "[[Episode 8]]"{{HBOref|THTDB2}}
+| Network    = [[HBO Max|Max]]{{HBOref|THTDB}}
+| First      = June 16, 2024{{Listref|THTDB}}
+| Final      = August 4, 2024{{Listref|THTDB}}
+| Runtime    = 20 minutes{{Ref|THTDB201}} {{C|per episode}}
+| Home       = 
+| Starring   = 
+| Producers  = 
+| Writers    = 
+| Directors  = 
+| Production = 
+| Wrapped    = 
+| Year       = 
+| Previous   = [[House of the Dragon: The House That Dragons Built: Season 1|Season 1]]{{HBOref|THTDB}}
+| Next       = 
+}}
+'''''House of the Dragon: The House That Dragons Built'': Season 2'''{{HBOref|THTDB2}} is the second season of ''[[House of the Dragon: The House That Dragons Built]]''. It consists of eight episodes. It premiered with "[[Episode 1 (House of the Dragon: The House That Dragons Built)|Episode 1]]" on June 16, 2024 on [[HBO Max|Max]], and concluded with "[[Episode 8]]" on August 4, 2024.
+
+==Description==
+{{Description|THTDB2}}
+
+==Episodes==
+{| {{Prettytable}}
+! Episode
+! Image
+! Title
+! Release date
+|-
+| style="text-align: center;" | 1{{HBOref|THTDB201}}
+| [[File:THTDB201.jpg|150px]]
+| "[[Episode 1 (House of the Dragon: The House That Dragons Built)|Episode 1]]"{{HBOref|THTDB201}}
+| June 16, 2024{{Listref|THTDB}}
+|-
+| style="text-align: center;" | 2{{HBOref|THTDB202}}
+| [[File:THTDB202.jpg|150px]]
+| "[[Episode 2 (House of the Dragon: The House That Dragons Built)|Episode 2]]"{{HBOref|THTDB202}}
+| June 23, 2024{{Listref|THTDB}}
+|-
+| style="text-align: center;" | 3{{HBOref|THTDB203}}
+| [[File:THTDB203.jpg|150px]]
+| "[[Episode 3 (House of the Dragon: The House That Dragons Built)|Episode 3]]"{{HBOref|THTDB203}}
+| June 30, 2024{{Listref|THTDB}}
+|-
+| style="text-align: center;" | 4{{HBOref|THTDB204}}
+| [[File:THTDB204.jpg|150px]]
+| "[[Episode 4 (House of the Dragon: The House That Dragons Built)|Episode 4]]"{{HBOref|THTDB204}}
+| July 7, 2024{{Listref|THTDB}}
+|-
+| style="text-align: center;" | 5{{HBOref|THTDB205}}
+| [[File:THTDB205.jpg|150px]]
+| "[[Episode 5 (House of the Dragon: The House That Dragons Built)|Episode 5]]"{{HBOref|THTDB205}}
+| July 14, 2024{{Listref|THTDB}}
+|-
+| style="text-align: center;" | 6{{HBOref|THTDB206}}
+| [[File:THTDB206.jpg|150px]]
+| "[[Episode 6 (House of the Dragon: The House That Dragons Built)|Episode 6]]"{{HBOref|THTDB206}}
+| July 21, 2024{{Listref|THTDB}}
+|-
+| style="text-align: center;" | 7{{HBOref|THTDB207}}
+| [[File:THTDB207.jpg|150px]]
+| "[[Episode 7 (House of the Dragon: The House That Dragons Built)|Episode 7]]"{{HBOref|THTDB207}}
+| July 28, 2024{{Listref|THTDB}}
+|-
+| style="text-align: center;" | 8{{HBOref|THTDB208}}
+| [[File:THTDB208.jpg|150px]]
+| "[[Episode 8]]"{{HBOref|THTDB208}}
+| August 4, 2024{{Listref|THTDB}}
+|}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House of the Dragon: The House That Dragons Built}}
+{{House of the Dragon}}
+
+<!--Categories-->
+[[Category:House of the Dragon: The House That Dragons Built: Season 2| ]]
+[[Category:Seasons of House of the Dragon: The House That Dragons Built|2]]
+[[Category:Seasons released in 2024|6.16]]

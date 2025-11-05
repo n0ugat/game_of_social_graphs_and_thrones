@@ -1,0 +1,76 @@
+{{Canonicity|Canon}}
+{{References}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Lannister
+| Image     = House Crakehall.svg
+| Arms      = A white boar on brown
+| Words     = "None So Fierce"
+| Titles    = Lord of Crakehall
+| Seat      = [[Crakehall]]
+| Region    = [[Westerlands]]
+| Head      = Lord [[Desmond Crakehall]]
+| Heir      = 
+| Overlords = [[House Lannister]]
+| Vassals   = 
+| Religion  = [[Faith of the Seven]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Crakehall'''{{Ref|HOTD102}} of [[Crakehall]] is a vassal house that holds fealty to [[House Lannister]] of [[Casterly Rock]]. Their lands are located at the [[Searoad]], at the south of the Westerlands, between [[Sunset Sea|the sea]] and a large forest. The current head of the family is Desmond Crakehall. The Crakehall sigil is a white boar on brown. Their [[house words]] are "None So Fierce."
+
+==Known members==
+*Lord [[Desmond Crakehall]], Lord of Crakehall.
+*Ser [[Roland Crakehall]], a [[Knighthood|knight]] whose status is uncertain.
+*Ser {[[Burton Crakehall]]}, Roland's brother. Died during the [[War of the Five Kings]].
+
+===Ancestors===
+*Ser {[[Roland Crakehall (Kingsguard)|Roland Crakehall]]}, a knight of the [[Kingsguard]] of [[Daeron II Targaryen|Daeron II]] and [[Aerys Targaryen (son of Daeron II)|Aerys I]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the Crakehalls are known for their uncommon robustness.
+
+===Known members===
+* Lord [[Roland Crakehall]], the current Lord of Crakehall. Participated in the [[Sack of King's Landing]]. He and Ser [[Elys Westerling]] found Jaime standing over the body of [[Aerys II Targaryen|the Mad King]].
+**Ser Tybolt Crakehall, his eldest son and heir to Crakehall.
+**Ser Lyle Crakehall, his second son, called the "Strongboar". Participated in the [[Second siege of Riverrun|siege of Riverrun]].
+**Ser Merlon Crakehall, his third son.
+*Ser {[[Burton Crakehall]]}, his brother. Killed [[Beric Dondarrion]], but was later killed by the [[Brotherhood Without Banners|Brotherhood]].
+
+With unspecified familiar relationship with the lord of the house there are also:
+
+*Lord {Sumner Crakehall}, Lord of Crakehall during [[Robert's Rebellion]]. [[Jaime Lannister]] was his squire in his youth. Died around 281 AC.
+*Shiera Crakehall, the wife of Ser Damion Lannister. Mother to Lucion and Lanna Lannister.
+*{Amarei Crakehall}, the third wife of Lord [[Walder Frey]]. Mother to seven Freys (Hosteen, Lythene, Symond, Danwell, Merrett, Geremy, and Raymund).
+*Melesa Crakehall, wife of the second son (Lyonel) of the second son (Emmon) of Lord Walder Frey. With no progeny.
+
+==Gallery==
+<gallery>
+House Crakehall tourney.jpg|The banner of House Crakehall (center) at the [[Tournament|Tourney of the Hand]] in "[[The Wolf and the Lion]]".
+House_Crakehall.png|HBO Viewer's Guide icon for House Crakehall
+Crakehall heraldry.png|Crakehall Heraldry from the In-Episode Guide
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{Houses from the Westerlands}}
+
+<!--Categories-->
+{{DEFAULTSORT:Crakehall, House}}
+[[Category:House Crakehall| ]]
+[[Category:Houses from the Westerlands]]
+[[Category:Houses of First Men origin]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[de:Haus Rallenhall]]
+[[fr:Maison Crakehall]]
+[[pl:Ród Crakehall]]
+[[ru:Крейкхоллы]]

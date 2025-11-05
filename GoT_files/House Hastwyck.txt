@@ -1,0 +1,53 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Bronn
+| Image     = House Hastwyck.svg
+| Arms      = Barry vert and argent <br> {{C|Alternating olive and ivory horizontal bars}}
+| Words     = 
+| Titles    = 
+| Seat      = 
+| Region    = [[Reach]]
+| Head      = 
+| Heir      = 
+| Overlords = [[Bronn's house]]<br>{[[House Tyrell]]} {{C|[[1 AC|1]]{{Dateref|Aegon's Conquest}}-[[304 AC]]}}{{Dateref|Game of Thrones: Season 7}}<br>{[[House Gardener]]} {{C|pre-[[Aegon's Conquest]]}}
+| Vassals   = 
+| Religion  = [[Faith of the Seven]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Hastwyck'''{{Con|TWOI&F}} is a [[noble house]] from the [[Reach]]. Their sigil is barry olive and ivory.{{Ref|H&L803}}
+
+==History==
+Ser [[Morgil Hastwyck]] was killed by [[Prince]] [[Aemon Targaryen (son of Viserys II)|Aemon the Dragonknight]] in a [[trial by combat]] after slandering [[King|Queen]] [[Naerys Targaryen]] with the encouragement of [[Aegon IV Targaryen|King Aegon IV]].{{Ref|H&L803}}
+
+==Historical members==
+*Ser {[[Morgil Hastwyck]]}, throat slit by [[Aemon Targaryen (son of Viserys II)|Aemon the Dragonknight]] at [[King's Landing]].
+
+==In the books==
+In ''[[The World of Ice & Fire]]'', House Hastwyck is the same. According to ''The Citadel'', their words are "None so Dutiful".
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Houses from the Reach}}
+
+<!--Categories-->
+{{DEFAULTSORT:Hastwyck, House}}
+[[Category:House Hastwyck| ]]
+[[Category:Houses from the Reach]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[fr:Maison Piquemèche]]
+[[ru:Хаствики]]

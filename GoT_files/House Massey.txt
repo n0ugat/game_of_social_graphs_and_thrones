@@ -1,0 +1,83 @@
+{{Canonicity|Canon}}
+{{ConjectureInfo}}
+{{References}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Targaryen
+| Image     = House Massey.svg 
+| Arms      = A triple spiral; blue, green and red{{Ref|HOTD207}}
+| Words     = 
+| Titles    = [[Lordship|Lord of Stonedance]]
+| Seat      = [[Stonedance]]
+| Region    = [[Crownlands]]
+| Head      = Lord [[Gormon Massey]]
+| Heir      = [[Gormon Massey's son]]
+| Overlords = [[House Targaryen/House of the Dragon|House Targaryen]]
+| Vassals   = 
+| Religion  = [[Faith of the Seven]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Massey'''{{Ref|HOTD101}}{{Note|Lord Massey's surname is Massey.}} of [[Stonedance]] is a [[noble house]] in the [[Crownlands]], sworn to the [[Iron Throne]].
+
+==Known members==
+*Lord [[Gormon Massey]], the head of the house and the Lord of Stonedance.
+**[[Gormon Massey's son|His eldest son]] and heir. Serving a [[Knighthood|knight]] of [[House Tarly]] as a [[squire]]. Betrothed to [[Elinor Stokeworth]].
+**[[Elinda Massey]], his only daughter. A [[Handmaiden|lady-in-waiting]] to [[Rhaenyra Targaryen]].
+**[[Emmon Massey]], his youngest son. A student at the [[Citadel]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the coat-of-arms of House Massey is a triple spiral; red, green, and blue, on white. Originally of the [[First Men]], their founder Maldon Massey built [[Stonedance]] and ruled Massey's Hook as a vassal to the [[Storm King]] Durran the Ravenfriend. During the reign of Durwald I "the Fat," the Masseys broke away from the [[Stormlands]] and established their own kingdom, claiming the mouth of the [[Blackwater Rush]] river. In the [[coming of the Andals]], the Storm King Qarlton II "the Conqueror" laid siege to Stonedance and eventually killed King Josua Massey, bringing their lands back under [[House Durrandon|Durrandon]] dominion. Less than two years later, the [[Andals|Andal]] warlord Togarion [[House Bar Emmon|Bar Emmon]] married Josua's daughter and expelled the Durrandons from Stonedance, installing Josua's son as a puppet ruler. Eventually, the Andals made peace with the Durrandons and married with them.
+
+During [[Aegon's Conquest]], the Masseys were once again vassals of House Durrandon. When Aegon finally invaded however, the Masseys instantly supported him rather than Storm King [[Argilac Durrandon|Argilac the Arrogant]], as they had closer ties with [[Dragonstone]] than with [[Storm's End]]. After the Conquest, Triston Massey was named King Aegon's [[Master of Laws|master of laws]], and the Masseys were brought under direct Targaryen rule as a house of the [[Crownlands]].
+
+Lord Lucifer Massey fought for [[Maegor Targaryen|Maegor I Targaryen]] in his [[Trial by seven of Maegor Targaryen|trial of seven]], in which he was killed by Ser [[Harys Horpe]] of the [[Faith Militant|Warrior's Sons]].
+
+The Masseys marched on [[Whitewalls]] with [[Brynden Rivers]] to put down the [[Second Blackfyre Rebellion]].
+
+===Known members===
+*Wallace Massey, a [[Steward (Night's Watch)|steward]] of the [[Night's Watch]] and the squire of Ser [[Denys Mallister]]
+*Ser Justin Massey, one of the "[[Selyse Baratheon|queen]]'s men", a knight in service to [[Stannis Baratheon]]
+*An unidentified [[Tournament|tourney]] knight who participates in the tourney celebrating [[Eddard Stark]]'s appointment as the [[Hand of the King]]
+
+===Historical members===
+*Lord Maldon Massey, founder
+*King Justin Massey, known as Justin Milk-Eye, a pirate
+*King Josua Massey, known as Softspear, the last king of House Massey
+**His daughter, who became queen to King Togarion Bar Emmon
+**His son, who ruled Stonedance as Togarion's puppet
+*Lord Triston Massey, Lord of Stonedance and master of laws to Aegon I Targaryen
+*Alarra Massey, wife of Aethan Velaryon
+*Lord Lucifer Massey, Lord of Stonedance, who died for Maegor I Targaryen in a [[Trial by seven|trial of seven]]
+*Lord Massey, who died from a fever in 47 AC
+**His two eldest sons, who also died from a fever
+**Lord Albin Massey, his third son and successor, master of laws to [[Jaehaerys I Targaryen]]
+*Lord Gormon Massey, Lord of Stonedance and supporter of Rhaenyra Targaryen
+**Elinda Massey, exact relation to Gormon unknown, a lady-in-waiting to Rhaenyra
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{House Massey}}
+{{Houses from the Crownlands/House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Massey, House}}
+[[Category:House Massey| ]]
+[[Category:Houses from the Crownlands]]
+[[Category:Houses of First Men origin]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[fr:Maison Massey]]
+[[pl:Ród Massey]]
+[[ru:Масси]]

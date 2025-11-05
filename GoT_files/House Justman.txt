@@ -1,0 +1,58 @@
+{{Canonicity|Canon}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Westeros
+| Image     = 
+| Arms      = 
+| Words     = 
+| Titles    = [[King of the Rivers and Hills]]
+| Seat      = 
+| Region    = [[Riverlands]]
+| Head      = 
+| Heir      = 
+| Overlords = 
+| Vassals   = 
+| Religion  = 
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+{{Quote|Even when the [[Riverlands]] finally united under the kings of House Justman, the unusual silence of peace attracted the [[Stormlands|Stormlords]], [[Westerlands|Westermen]] and those bloody [[Ironborn]] to try and take our grain, gold and women.|[[Brynden Tully]]|Riverrun (short)}}
+'''House Justman'''{{Ref|H&L617}} is an extinct great house that once ruled the [[Riverlands]] as [[King of the Rivers and Hills|Kings of the Rivers and Hills]].
+
+==History==
+House Justman successfully united the [[Riverlands]], though it was not a peaceful reign, as the region still came under attack by forces from the [[Stormlands]], the [[Westerlands]] and the [[Iron Islands]].{{Ref|H&L617}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, House Justman was founded after the [[coming of the Andals]] by Benedict Rivers, a bastard from Houses [[House Blackwood|Blackwood]] and [[House Bracken|Bracken]]. He defeated the kings of the [[Trident]] over thirty years, crowning himself afterwards. He was a wise king, becoming known as Benedict the Just, which inspired the name of House Justman. He extended his rule to [[Maidenpool]] and the [[Neck]], while his son Benedict II spread his to [[Duskendale]], [[Rosby]] and the mouth of [[Blackwater Rush]].
+
+House Justman ruled for almost three hundred years, with King Bernarr II being the last of its line. Bernarr II's sons were murdered by King [[Qhored Hoare]], the [[King of the Iron Islands]], in the Guest Keep of [[Pyke]], which was afterwards known as the Bloody Keep. Bernarr rose against the [[ironborn]] but was defeated, with the Riverlands falling into anarchy for the next century.
+
+The Riverlands were eventually conquered by the [[Storm King]] Arlan III Durrandon, with various pretenders unsuccessfully claiming to be river kings. Among them was Lucifer Justman, whose blood relation to House Justman was never confirmed.
+
+Semi-canon sources claim their sigil to be golden scales within a blue a double tressure on a white field.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Justman}}
+{{Great Houses of Westeros}}
+{{Houses from the Riverlands}}
+
+<!--Categories-->
+{{DEFAULTSORT:Justman, House}}
+[[Category:Extinct houses]]
+[[Category:Great Houses]]
+[[Category:House Justman| ]]
+[[Category:Houses from the Riverlands]]
+[[Category:Royal houses]]
+
+<!--Languages-->
+[[de:Haus Gerechtermann]]
+[[fr:Maison Lejuste]]
+[[ru:Джастмены]]

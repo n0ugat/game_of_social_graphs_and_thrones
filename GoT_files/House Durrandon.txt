@@ -1,0 +1,70 @@
+{{Canonicity|Canon}}
+{{References}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Baratheon
+| Image     = {{COA|House Durrandon|large}}
+| Arms      = Or, a stag rampant sable, gorged with a crown proper <br> {{C|A crowned black stag on a golden field}}
+| Words     = "Ours is the Fury"
+| Titles    = [[Storm King]]
+| Seat      = [[Storm's End]]
+| Region    = [[Stormlands]]
+| Head      = 
+| Heir      = 
+| Overlords = 
+| Vassals   = 
+| Religion  = [[Faith of the Seven]]<br>[[Old Gods]] {{C|pre-[[coming of the Andals]]}}
+| Cadets    = 
+| Founded   = [[Age of Heroes]]<br>by {[[Durran Godsgrief]]}
+| Died      = Death of {[[Argella Baratheon|Argella Durrandon]]}<br>{{C|bloodline survives matrilineally in [[House Baratheon]]}}
+| Weapon    = 
+}}
+'''House Durrandon'''{{Ref|C&R01}} of [[Storm's End]] is a former [[Great House]] of [[Westeros]]. It ruled over the [[Stormlands]] until [[Aegon's Conquest]]. It also held much of the [[Riverlands]] until they lost them to [[House Hoare]]. The head of House Durrandon held the title of [[Storm King]]. Their [[house words]] were "Ours is the Fury."
+
+The house was founded by [[Durran Godsgrief]], a legendary figure from the [[Age of Heroes]]. The last King of the Durrandon dynasty was [[Argilac Durrandon|Argilac the Arrogant]]. House Durrandon is extinct in name only; its heraldry, words, and family tradition survive through [[House Baratheon]], which descends directly from Argilac's daughter [[Argella Baratheon|Argella]].
+
+==Shared sigil==
+The shared heraldry with [[House Baratheon]] is explained in the books.
+
+During Aegon's Conquest, [[Orys Baratheon]], one of [[Aegon I Targaryen]]'s fiercest generals and rumored to be his bastard brother, slew [[Argilac Durrandon|Argilac the Arrogant]], the last of the Storm Kings, during the battle "[[Last Storm]]". For this accomplishment, Orys was made Lord of Storm's End and was permitted by Aegon to found House Baratheon. Orys took the sigil and words of the defeated House Durrandon as his own and cemented his rule over the Stormlands by marrying [[Argella Baratheon|Argella Durrandon]], the daughter of the fallen Argilac. Argella was the last survivor of House Durrandon, and is officially extinct, but its female bloodline lived on in the Baratheon dynasty.
+
+==Members==
+*King {[[Durran Godsgrief]]}, the founder of House Durrandon, and a legendary figure from the Age of Heroes.
+**Queen {[[Elenei]]}, his wife. According to legend, she was a former goddess who gave up her immortality to be with Durran.
+*King {[[Argilac Durrandon]]}, called "Argilac the Arrogant", the last of the Storm Kings.
+**Lady {[[Argella Baratheon]]} née Durrandon, his daughter. She married Orys Baratheon after he killed her father, and she was the mother of Orys's children.
+
+==Family tree==
+{{Durrandon tree}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, House Durrandon was the dynasty that claimed descent from Durran Godsgrief, the first Storm King and founder of Storm's End. King Arrec of House Durrandon was the last Storm King who ruled the [[Riverlands]], conquered by his ancestors three hundred years before, losing it to the [[ironborn]] led by King [[Harwyn Hoare|Harwyn Hardhand]] of [[House Hoare]].
+
+House Durrandon seemingly left no other known surviving branches, and is officially extinct, but its female bloodline lived on in the Baratheon dynasty.
+
+House Wensington from the Stormlands includes three black stags in their sigil, suggesting that they may have some relation to the Durrandons or the Baratheons.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Durrandon}}
+{{Great Houses of Westeros}}
+{{Houses from the Stormlands}}
+
+<!--Categories-->
+{{DEFAULTSORT:Durrandon, House}}
+[[Category:Extinct houses]]
+[[Category:Great Houses]]
+[[Category:House Durrandon| ]]
+[[Category:Houses from the Stormlands]]
+[[Category:Houses of First Men origin]]
+[[Category:Royal houses]]
+
+<!--Languages-->
+[[de:Haus Durrandon]]
+[[fr:Maison Durrandon]]
+[[ru:Дюррандоны]]

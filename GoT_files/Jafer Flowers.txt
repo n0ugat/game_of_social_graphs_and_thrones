@@ -1,0 +1,85 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Night's Watch.svg
+| Link  = Night's Watch
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = Jafer Flowers.jpg
+| Birth       = 
+| Death       = [[298 AC]]{{Dateref|Game of Thrones: Season 1}}<br>[[Haunted Forest]], [[beyond the Wall]]{{Ref|GOT108}} {{C|alive}}<br>298 AC{{Dateref|Game of Thrones: Season 1}}<br>[[Castle Black]], the [[Wall]]{{Ref|GOT108}}
+| House       = 
+| Affiliation = [[Night's Watch]]<br>[[White Walkers]] {{C|in death}}
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Andals|Andal]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 1|1]]
+| Appearances = "[[The Pointy End]]" {{Corpse}}
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = Unidentified
+}}
+{{Quote|The other one is Jafer Flowers, my lord.|[[Othell Yarwyck]] to [[Jeor Mormont]]|The Pointy End}}
+'''Jafer Flowers''' was a [[ranger]] of the [[Night's Watch]] and was killed while beyond the [[Wall]]. His body was found and returned to [[Castle Black]]. 
+
+==Biography==
+===Background===
+Jafer Flowers is a ranger in the Night's Watch. His name, Flowers, suggests that he was a [[bastard]] from the [[Reach]] before joining the Watch. He and [[Othor]] accompanied [[Benjen Stark]]'s ranging mission beyond the Wall. Both Jafer and Othor are killed while on this mission.{{Ref|GOT107}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+[[Ghost]] finds Jafer's severed hand in the [[Haunted Forest]].{{Ref|GOT107}} The corpses of Othor and the rest of Jafer are found [[beyond the Wall]] by [[Samwell Tarly|Sam]], [[Jon Snow|Jon]], and a party led by [[Othell Yarwyck]]. They return the corpses to Castle Black and suggest they be burned, but [[Lord Commander of the Night's Watch|Lord Commander]] [[Jeor Mormont]] decides to let Maester [[Aemon]] examine them first.{{Ref|GOT108}}
+
+At night, the corpses rise as [[wight]]s. While Othor attacks Mormont, Flowers causes trouble elsewhere before being put down and burned. Both bodies are re-burned the next day, to be sure. Sam notes that according to a book he found in Aemon's library, the touch of the [[White Walkers]] can animate the dead.{{Ref|GOT108}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Jafer Flowers's background is the same as in the show. 
+
+Jafer's wight attacked the main castle garrison. It killed five men, among them Ser [[Jaremy Rykker]], and continued to attack even after having its head cut off - it was only subdued after being chopped to pieces by a dozen swordsmen.{{Bookref|AGOT|60}}
+
+Unlike in the series, when the bodies of Othor and Jafer were brought to Castle Black, both corpses had blue eyes - different from the eye color they had in their lives.
+
+Jafer's severed hand, which was torn by Ghost, continued to twitch and stir long after Jafer was destroyed. [[Alliser Thorne]] took it to [[King's Landing]], but it had rotted away while he was waiting for an audience.{{Bookref|ACOK|25}}
+
+==Appearances==
+*{{GOT|The Pointy End}} {{Corpse}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Night's Watch}}
+
+<!--Categories-->
+{{DEFAULTSORT:Flowers, Jafer}}
+[[Category:Bastards]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Individuals from the Reach]]
+[[Category:Rangers of the Night's Watch]]
+[[Category:Wights]]
+
+<!--Languages-->
+[[de:Jafer Blumen]]
+[[es:Jafer Flores]]
+[[fr:Jafer Flowers]]
+[[nl:Jafer Bloemen]]
+[[pl:Jafer Flowers]]
+[[ru:Яфер Флауэрс]]
+[[zh:杰佛·佛花]]

@@ -1,0 +1,30 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = 
+| Birth   = Stockton-on-Tees, County Durham, England
+| Death   = 
+| Role    = Director
+| Series  = 
+| Season  = 
+| Credits = ''[[Game of Thrones: The Last Watch]]''
+| First   = 
+| Last    = 
+}}
+'''Jeanie Finlay''' is a British artist and filmmaker. She directed ''[[Game of Thrones: The Last Watch]]''.{{HBOref|tlw}}
+
+==Credits==
+===Director===
+*''[[Game of Thrones: The Last Watch]]''
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb|#=1420141}}
+*{{Twitter|#=JeanieFinlay}}
+*{{WP}}
+
+<!--Categories-->
+{{DEFAULTSORT:Finlay, Jeanie}}
+[[Category:Directors of Game of Thrones: The Last Watch]]

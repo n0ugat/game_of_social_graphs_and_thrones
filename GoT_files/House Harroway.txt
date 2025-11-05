@@ -1,0 +1,55 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{References}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Tully
+| Image     = House Harroway.svg
+| Arms      = Per bend sinister rayonne tenné and sable, a castle counterchanged <br> {{C|A castle, split orange and black on a top-right to bottom-left diagonal, on a field split black and orange on the same}}
+| Words     = 
+| Titles    = [[Lord of Harrenhal]]
+| Seat      = [[Harrenhal]]
+| Region    = [[Riverlands]]
+| Head      = 
+| Heir      = 
+| Overlords = 
+| Vassals   = 
+| Religion  = [[Faith of the Seven]]
+| Cadets    = 
+| Founded   = 
+| Died      = [[Faith Militant uprising]]
+| Weapon    = 
+}}
+'''House Harroway'''{{Con|TWOI&F}} of Harrenhal is an extinct noble house of the [[Riverlands]]. Their sigil was per bend sinister orange and black rayonne, a castle counterchanged.
+
+Their seat was the castle of [[Harrenhal]], which was granted to them after the extinction of [[House Qoherys]]. However, the Harroways also died out, and the castle was passed on to [[House Towers]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, House Harroway's backstory is the same. There is a town, called [[Lord Harroway's Town]], that is named after a former lord of the house.
+
+King [[Maegor Targaryen|Maegor the Cruel]]'s second wife was [[Alys Harroway]].
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Houses from the Riverlands}}
+
+<!--Categories-->
+{{DEFAULTSORT:Harroway, House}}
+[[Category:Extinct houses]]
+[[Category:House Harroway| ]]
+[[Category:Houses from the Riverlands]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[fr:Maison Herpivoie]]
+[[pl:Ród Harroway]]
+[[pt-br:Casa Harroway]]
+[[ru:Харровеи]]

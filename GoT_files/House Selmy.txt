@@ -1,0 +1,75 @@
+{{Canonicity|Canon}}
+{{References}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Baratheon
+| Image     = House Selmy.svg
+| Arms      = Dark brown, three stalks of yellow wheat
+| Words     = 
+| Titles    = [[Knighthood#Types of knights|Knight of Harvest Hall]]
+| Seat      = [[Harvest Hall]]
+| Region    = [[Stormlands]]
+| Head      = 
+| Heir      = 
+| Overlords = [[House Baratheon]]
+| Vassals   = 
+| Religion  = [[Faith of the Seven]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Selmy'''{{Ref|GOT106}}{{Note|Barristan's surname is Selmy.}} of [[Harvest Hall]] is a minor vassal house from the [[Stormlands]] that holds fealty to [[House Baratheon]] of [[Storm's End]].
+
+==Known members==
+*Ser {[[Lyonel Selmy]]}, a [[Knighthood|knight]] of [[Harvest Hall]].
+**Ser {[[Barristan Selmy]]}, his son. Known as "Barristan the Bold." Former [[Lord Commander of the Kingsguard]] of [[Robert Baratheon]]. Since being dismissed by [[Joffrey Baratheon]], he tracked down [[Daenerys Targaryen]] and swore his loyalty to her, joining her Queensguard. Slain when fighting the [[Sons of the Harpy]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, House Selmy is a house sworn to Storm's End. Their seat is Harvest Hall and their sigil is three stalks of yellow wheat on brown.
+
+At the [[parley]] with [[Stannis Baratheon|Stannis]] and [[Catelyn Stark|Catelyn]], [[Renly Baratheon|Renly]] braggingly lists all the houses that support him, among them House Selmy.{{Bookref|ACOK|31}}
+
+Ser Barristan Selmy is by far the House's most famous member. The current lord of Harvest Hall is his great-nephew Arstan, but nothing is known about him except his name and title.
+
+So far in the books, Ser Barristan is alive.
+
+===Known members===
+*Ser Lyonel Selmy, Knight of Harvest Hall.
+**Ser Barristan Selmy, his son.
+*Lord Arstan Selmy, current Lord of Harvest Hall, Lyonel's great-grandson and Barristan's great-nephew.
+
+==Gallery==
+<gallery>
+Selmy-Reference.PNG|The sigil of House Selmy as depicted in ''Histories & Lore''
+Selmy sigil Conquest and Rebellion.png|The sigil of House Selmy as depicted in ''[[Game of Thrones: Conquest & Rebellion: An Animated History of the Seven Kingdoms]]''
+410 White Book Barristan Selmy's page.png|House Selmy's heraldry on Ser Barristan's entry in the ''[[Book of Brothers]]'' in Season 4:  three stalks of yellow wheat on a brown field.
+Selmy sigil season 8 book of brothers.png|House Selmy's heraldy on Ser Barristan's entry in the ''Book of Brothers'' in Season 8
+</gallery>
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Houses from the Stormlands}}
+
+<!--Categories-->
+{{DEFAULTSORT:Selmy, House}}
+[[Category:House Selmy| ]]
+[[Category:Houses from the Dornish Marches]]
+[[Category:Houses from the Stormlands]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[de:Haus Selmy]]
+[[fr:Maison Selmy]]
+[[lt:Selmy giminė]]
+[[nl:Huis Selmy]]
+[[ru:Селми]]
+[[zh:赛尔弥家族]]

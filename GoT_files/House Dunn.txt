@@ -1,0 +1,46 @@
+{{Canonicity|Non}}
+{{ConjectureInfo}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Tyrell
+| Image     = 
+| Arms      = 
+| Words     = 
+| Titles    = 
+| Seat      = 
+| Region    = [[Reach]]
+| Head      = 
+| Heir      = 
+| Overlords = [[House Tyrell]]
+| Vassals   = 
+| Religion  = [[Faith of the Seven]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Dunn'''{{Scriptref|GOT510}}{{Note|Tom's surname is Dunn.}} is a [[noble house]] from the [[Reach]].
+
+==Members==
+*{[[Tom Dunn]]}, a member of the [[Night's Watch]].
+
+==Behind the scenes==
+House Dunn is only mentioned in the script for "[[Mother's Mercy]]."{{Scriptref|GOT510}} In the filmed version, the line mentioning it is cut.{{Ref|GOT510}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, House Dunn is among the Reach houses that declare for [[Renly Baratheon]] during the [[War of the Five Kings]].{{Bookref|ACOK|31}} According to a semi-canon source, their coat of arms is per pale black and pink, a countercharged two-headed pelican.<ref>https://www.westeros.org/Citadel/Heraldry/Houses/7/</ref>
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+{{DEFAULTSORT:Dunn, House}}
+[[Category:House Dunn| ]]
+[[Category:Houses from the Reach]]
+[[Category:Vassal houses]]

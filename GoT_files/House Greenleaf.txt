@@ -1,0 +1,52 @@
+{{Canonicity|Non}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Stark
+| Image     = 
+| Arms      = 
+| Words     = 
+| Titles    = 
+| Seat      = 
+| Region    = [[North]]
+| Head      = 
+| Heir      = 
+| Overlords = {[[House Umber]]}
+| Vassals   = 
+| Religion  = [[Old Gods]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Greenleaf'''{{Ref|GOT104}}{{Note|Marya and Mickon's surname is Greenleaf.}} is a [[North]]ern noble house, vassals of [[House Umber]].
+
+==History==
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+Two members of House Greenleaf are recorded in the entry of [[Finn Umber]] in ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]''.{{Ref|GOT104}}
+
+==Members==
+===Historical members===
+*{[[Mickon Greenleaf]]}, a warden at the [[Last Hearth]]
+**{[[Marya Greenleaf]]}, his daughter, who married {[[Finn Umber]]}
+
+==In the books==
+House Greenleaf is referenced only in the TV adaptation of ''[[A Song of Ice and Fire]]'' and has no corresponding counterpart in the books.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{Houses from the North}}
+
+<!--Categories-->
+{{DEFAULTSORT:Greenleaf, House}}
+[[Category:House Greenleaf| ]]
+[[Category:Houses from the North]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[fr:Maison Greenleaf]]
+[[ru:Гринлифы]]

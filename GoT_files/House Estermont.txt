@@ -1,0 +1,84 @@
+{{Canonicity|Canon}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Baratheon
+| Image     = 
+| Arms      = A dark green sea turtle on pale green<ref>[[:File:HOTD S2 BTS Heraldry.png]]</ref>
+| Words     = 
+| Titles    = [[Lordship|Lord of Greenstone]]
+| Seat      = [[Greenstone]]
+| Region    = [[Stormlands]]
+| Head      = 
+| Heir      = 
+| Overlords = [[House Baratheon]]<br>{[[House Baratheon of Dragonstone]]} {{C|[[299 AC|299]]{{Dateref|Game of Thrones: Season 2}}-[[302 AC]]}}{{Dateref|Game of Thrones: Season 5}}
+| Vassals   = 
+| Religion  = [[Faith of the Seven]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Estermont'''<ref>[[:File:House Baratheon lineage page 3.png]]</ref> of [[Greenstone]] is a vassal house from the [[Stormlands]] that holds fealty to [[House Baratheon]]. Their seat is Greenstone, a castle located on the island of [[Estermont]] in the [[Narrow Sea]].
+
+==History==
+===[[House of the Dragon: Season 2|''House of the Dragon'': Season 2]]===
+House Estermont follows their [[House Baratheon/House of the Dragon|liege lord]] in declaring for the [[Greens]] during the [[Dance of the Dragons]].{{Ref|HOTD201}}
+
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+During the [[War of the Five Kings]], House Estermont, along with most noble houses of the Stormlands, pledges support to [[Renly Baratheon|Renly]]'s claim to the [[Iron Throne]]. Following [[Assassination of Renly Baratheon|Renly's death]], the Estermonts go over to [[Stannis Baratheon|Stannis]] and participate in the [[Battle of the Blackwater]].{{Guideref|The Aftermath of Unclean Methods}}
+
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+While sailing south from King's Landing to [[Dorne]], [[Jaime Lannister|Jaime]] asks the ship's captain if the island on the horizon is Estermont; he is corrected that it is actually [[Tarth]].{{Ref|GOT504}}
+
+==Known members==
+*Ser {[[Leon Estermont]]}, a [[Knighthood|knight]] of the [[Kingsguard]] of [[Aegon II Targaryen]]. Killed in a [[Riot in King's Landing|riot]] in [[King's Landing]].
+*Lady {[[Cassana Baratheon|Cassana Estermont]]}, wife of Lord [[Steffon Baratheon]] of [[Storm's End]] and mother of [[Robert Baratheon|Robert]], [[Stannis Baratheon|Stannis]], and [[Renly Baratheon]].
+
+==Behind the scenes==
+[[George R.R. Martin]] uses a turtle as his personal sigil, having kept turtles as pets when he was a child.<ref>http://www.makinggameofthrones.com/production-diary/2012/7/14/seven-moments-from-the-game-of-thrones-comic-con-panel-that.html</ref>
+
+In the audio commentary track for "[[Fire and Blood]]", [[D.B. Weiss]] revealed that they cut the flag for House Estermont because "we cut the turtle out, we didn't want to see a turtle."
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Lady Cassana had many siblings including two brothers. The elder, Lord Eldon Estermont, is about 70 years old and head of House Estermont, and the younger, Ser Lomas Estermont, has a son, Ser Andrew. Ser Andrew Estermont had previously been Stannis’s squire for numerous years.
+
+The first time [[Cersei Lannister|Cersei]] became aware of her husband's infidelity was when they repaid a visit to the Estermonts. she was miserable the entire fortnight they spent with the Estermonts while Robert enjoyed hunting, hawking, drinking, and play fighting with his maternal uncles and male cousins. He also took to reconnecting and comforting a female cousin, whose father and husband died in the [[Siege of Storm's End]] and eventually spent the night with her. That same night, [[Jaime Lannister|Jaime]] offered to kill Robert, but Cersei said she wanted him "horned" instead. She likes to think that was the night when her son [[Joffrey Baratheon|Joffrey]] was conceived.
+
+Following the [[Battle of the Blackwater]], Lord Eldon bends the knee to King Joffrey, though some members of House Estermont remain loyal to Stannis.
+
+===Members===
+*{Lord Estermont}, former Lord of Greenstone. An ancient man. Old-fashioned and cautious.
+*Lord Eldon Estermont, Lord of Greenstone.
+**Ser Aemon Estermont, Eldon's son and heir.
+***Ser Alyn Estermont, Aemon's son.
+*Ser Lomas Estermont, in some sources Eldon's brother, in others - Eldon's son.
+**Ser Andrew Estermont, Lomas's son.
+*Lady {Cassana Estermont}, wife to Lord Steffon Baratheon and the mother of, Robert, Stannis, and Renly. Killed in a shipwreck during a storm in Shipbreaker Bay along with her husband.
+
+With unspecified familiar relationship to the main branch of the house, there is also:
+
+*An unnamed female cousin, one of [[Robert Baratheon]]'s lovers.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Estermont}}
+{{Houses from the Stormlands}}
+
+<!--Categories-->
+{{DEFAULTSORT:Estermont, House}}
+[[Category:House Estermont| ]]
+[[Category:Houses from the Stormlands]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[fr:Maison Estremont]]
+[[pl:Ród Estermont]]
+[[ru:Эстермонты]]

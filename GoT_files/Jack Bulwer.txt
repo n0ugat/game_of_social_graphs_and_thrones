@@ -1,0 +1,72 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Leftimage  = House Bulwer.svg
+| Leftlink   = House Bulwer
+| Rightimage = Night's Watch.svg
+| Rightlink  = Night's Watch
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = Black Jack Bulwer.jpg
+| Birth       = [[Blackcrown]], the [[Reach]]{{Con|AWOIAF}}
+| Death       = [[301 AC]]{{Dateref|Game of Thrones: Season 4}}<br>[[Mole's Town]], the [[Gift]]{{Ref|GOT408}}
+| House       = [[House Bulwer|Bulwer]]
+| Affiliation = [[Night's Watch]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = Black Jack
+| Culture     = [[Andals|Andal]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 4|4]]
+| Appearances = "[[The Mountain and the Viper]]"
+| First       = 
+| Last        = 
+| DeathEp     = "The Mountain and the Viper"
+| Actor       = [[Cormac McDonagh]]
+}}
+{{Dialogue a-b-a-b|Grenn|We just cower in here while they slaughter our brothers?|Edd|Our brother had orders to stay at Castle Black.|Oh, so it's alright, then?! Black Jack and Kegs and Mully chopped to pieces because they broke the rules?!|I didn't say it was alright! I'm saying they shouldn't have been there.|[[Grenn]] and [[Eddison Tollett]]|The Mountain and the Viper}}
+'''Jack Bulwer''',{{Con|ASOIAF}} nicknamed '''Black Jack''', was a [[ranger]] of the [[Night's Watch]].
+
+==Biography==
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+Along with [[Kegs]] and [[Mully]], he travels to the [[Prostitution|brothel]] in [[Mole's Town]]. They sit drinking and listening to a [[Mole's Town whore|whore]] belching out the melodies to popular songs. Jack correctly guesses that she is belching "[[The Bear and the Maiden Fair]]." She compliments him on his hearing, but quips that it is a shame that he has a hangnail for a penis. They are later slaughtered when a group of [[Free Folk|wildlings]] led by [[Tormund]] and [[Styr]] [[Sack of Mole's Town|attack]] the village. News of their deaths soon reaches [[Castle Black]].{{Ref|GOT408}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Jack Bulwer survives the [[battle for the Wall]]. At some point he's named [[First Ranger]]. Later, [[Jon Snow|Jon]] sends him and eight more rangers, among them [[Alliser Thorne]], to range beyond the Wall. Bulwer and two of the others (Garth Greyfeather and Hairy Hal) are killed by the wildling raider known as the Weeper, and their eyeless heads are brought to Castle Black.
+
+==Appearances==
+*{{GOT|The Mountain and the Viper}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Night's Watch}}
+
+<!--Categories-->
+{{DEFAULTSORT:Bulwer, Jack}}
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Individuals from the Reach]]
+[[Category:Members of House Bulwer|Jack Bulwer]]
+[[Category:Nobles]]
+[[Category:Rangers of the Night's Watch]]
+
+<!--Languages-->
+[[fr:Jack Bulwer]]
+[[ru:Чёрный Джек Балвер]]

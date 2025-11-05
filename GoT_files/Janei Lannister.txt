@@ -1,0 +1,64 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Lannister.svg
+| Link  = House Lannister
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Lannister
+| Image       = 
+| Birth       = [[285 AC|285]]-[[286 AC]]{{Dateref|Janei Lannister}} (age 19-20){{Dateref|Game of Thrones: Season 8}}<br>[[Casterly Rock]]
+| Death       = 
+| House       = [[House Lannister|Lannister]]
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Westerlands|Westermen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = {[[Kevan Lannister]]}
+| Mother      = [[Dorna Lannister|Dorna Swyft]]
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = {[[Lancel Lannister]]}<br>{[[Martyn Lannister]]}<br>{[[Willem Lannister]]}
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Janei Lannister''' is the daughter of [[Kevan Lannister|Kevan]] and [[Dorna Lannister]], the younger sister of [[Lancel Lannister|Lancel]] and [[Martyn Lannister|Martyn]] and the older sister of [[Willem Lannister]].<ref name="finalebook">[https://www.makinggameofthrones.com/production-diary/season-8-episode-6-series-finale-props-song-of-ice-and-fire See] the family tree of [[House Lannister]] in Archmaester [[Ebrose]]'s ''[[A Song of Ice and Fire (Ebrose)|A Song of Ice and Fire]]'' (as featured in "[[The Iron Throne]]")</ref>
+
+==Family==
+{{Lannister tree}}
+
+==Behind the scenes==
+Janei is featured in the family tree of House Lannister in Archmaester [[Ebrose]]'s ''[[A Song of Ice and Fire (Ebrose)|A Song of Ice and Fire]]''.<ref name="finalebook" /> She is not mentioned or featured elsewhere in the series.
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Janei is only listed in the appendices, not appearing in the story itself. She is the youngest child of Kevan and Dorna.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Lannister}}
+
+<!--Categories-->
+{{DEFAULTSORT:Lannister, Janei}}
+[[Category:Individuals from Game of Thrones]]
+[[Category:Members of House Lannister|Janei Lannister]]
+[[Category:Westermen]]
+
+<!--Languages-->
+[[ru:Жанея Ланнистер]]

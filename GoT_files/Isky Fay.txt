@@ -1,0 +1,36 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Isky Fay.jpg
+| Birth   = 
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = "[[Second of His Name]]"
+| First   = 
+| Last    = 
+}}
+'''Isky Fay''' is a stuntman and actor.
+
+In ''[[House of the Dragon]]'', he was a stunt performer in the [[House of the Dragon: Season 1|first season]] episode "[[Second of His Name]]".
+
+==Credits==
+===Stunts===
+{{House of the Dragon: Season 1|||yes}}
+
+==See also==
+*{{IMDb
+|# = 5474459}}
+*{{Instagram
+|# = iskyfay}}
+*{{Facebook
+|# = iskyf}}
+*{{YouTube
+|# = channel/UCmVgnu9WkkqUQR6RJPa1cyQ}}
+*{{Vimeo
+|# = iskyf}}
+*{{Linkedin
+|# = /in/isky-fay-30672a105}}
+{{DEFAULTSORT:Fay, Isky}}
+[[Category:Stunt performers of House of the Dragon]]

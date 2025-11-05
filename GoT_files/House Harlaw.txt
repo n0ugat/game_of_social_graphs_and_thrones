@@ -1,0 +1,63 @@
+{{Canonicity|Canon}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Greyjoy
+| Image     = House Harlaw.svg
+| Arms      = Sable, a scythe argent <br> {{C|A silver scythe on a black field}}
+| Words     = 
+| Titles    = [[Lordship|Lord of Harlaw]]
+| Seat      = [[Ten Towers]]
+| Region    = [[Iron Islands]]
+| Head      = 
+| Heir      = 
+| Overlords = {[[House Hoare]]} {{C|pre-[[Aegon's Conquest]]}}<br>[[House Greyjoy]]
+| Vassals   = [[House Kenning]]
+| Religion  = [[Drowned God]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Harlaw'''{{Guideref|Viewer's Guide}}{{Note|Alannys Greyjoy's maiden name is Harlaw.}} of [[Ten Towers]] is a vassal house that holds fealty to [[House Greyjoy]] of [[Pyke]]. Their seat is Ten Towers located on [[Harlaw]], the easternmost of the [[Iron Islands]].
+
+==History==
+House Harlaw was in service to [[House Hoare]] during the reign of [[Qhorwyn Hoare]]. After the [[kingsmoot]] elected his formerly banished son [[Harwyn Hoare]] as [[King of the Iron Islands]], he gathered the armies of the [[Iron Islands]], including those of House Harlaw and [[House Drumm]] and attacked the mainland of [[Westeros]].{{Ref|H&L602}}
+
+==Members==
+*{[[Alannys Greyjoy|Alannys Harlaw]]}, the wife of [[Balon Greyjoy]] and mother of [[Rodrik Greyjoy|Rodrik]], [[Maron Greyjoy|Maron]], [[Yara Greyjoy|Yara]], and [[Theon Greyjoy]].{{Guideref|Viewer's Guide}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, House Harlaw is a powerful family with strong ties to the Greyjoys. They have several branches along the island of Harlaw, as well as several vassals. The sigil of House Harlaw is a silver scythe on black. 
+
+The current head of the family is Lord Rodrik Harlaw, brother of Lady [[Alannys Greyjoy|Alannys Harlaw]], called Rodrik the Reader for his passion for books (a habit that other ironmen find strange and unmanly).{{Bookref|AFFC|11}} House Harlaw also possesses [[Nightfall]], a [[Valyrian steel]] sword that previously belonged to [[Dalton Greyjoy]].{{Bookref|AFFC|29}}
+
+As one of the wealthiest and most powerful families in the Iron Islands, House Harlaw has multiple [[cadet branch]]es:
+*House Harlaw of Harlaw Hall
+*House Harlaw of Grey Garden
+*House Harlaw of Tower of Glimmering
+*House Harlaw of Harridan Hill
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{Houses from the Iron Islands}}
+
+<!--Categories-->
+{{DEFAULTSORT:Harlaw, House}}
+[[Category:House Harlaw| ]]
+[[Category:Houses from the Iron Islands]]
+[[Category:Houses of First Men origin]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[de:Haus Harlau]]
+[[fr:Maison Harloi]]
+[[pt-br:Casa Harlaw]]
+[[ru:Харлоу]]

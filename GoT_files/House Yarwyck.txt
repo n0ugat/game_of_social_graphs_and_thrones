@@ -1,0 +1,52 @@
+{{Canonicity|Canon}}
+{{References}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Lannister
+| Image     = 
+| Arms      = 
+| Words     = 
+| Titles    = 
+| Seat      = 
+| Region    = [[Westerlands]]
+| Head      = 
+| Heir      = 
+| Overlords = [[House Lannister]]
+| Vassals   = 
+| Religion  = [[Faith of the Seven]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Yarwyck'''{{Ref|GOT407}}{{Note|Othell's surname is Yarwyck.}} is a noble house of the [[Westerlands]]. They hold fealty as vassals to [[House Lannister]] of [[Casterly Rock]].
+
+==Members==
+*{[[Othell Yarwyck]]}, former First Builder of the [[Night's Watch]]. Executed for mutinying against [[Lord Commander of the Night's Watch|Lord Commander]] [[Jon Snow]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, House Yarwyck is briefly mentioned, and its only known member is Othell Yarwyck. They blazon their arms with two bronze halberds crossed between four red diamonds, on white. 
+
+In ''A Feast for Crows'', men of House Yarwyck accompany the corpse of [[Tywin Lannister]] back to [[Casterly Rock]].
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Houses from the Westerlands}}
+
+<!--Categories-->
+{{DEFAULTSORT:Yarwyck, House}}
+[[Category:House Yarwyck| ]]
+[[Category:Houses from the Westerlands]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[de:Haus Yarwyck]]
+[[ru:Ярвики]]

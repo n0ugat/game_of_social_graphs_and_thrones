@@ -1,0 +1,49 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Targaryen
+| Image       = Jerard.png
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = 
+| Titles      = 
+| AKA         = 
+| Culture     = [[Crownlands|Crownlander]]{{Ref|HOTD201}}
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 2|2]]
+| Appearances = "[[A Son for a Son]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Rasmus Hardiker]]
+}}
+'''Jerard''' is a shepherd who resides in the [[Crownlands]].
+
+==Biography==
+===[[House of the Dragon: Season 2|''House of the Dragon'': Season 2]]===
+On the cusp of winter, a tenth of Jerard's flock is taken by the Crown. Jerard travels to the [[Red Keep]] to petition to King [[Aegon II Targaryen|Aegon II]] for the return of his sheep. Counsel from [[Otto Hightower]] leads Aegon to refuse Jerard's request.{{Ref|HOTD201}}
+
+==Appearances==
+*{{HOTD|A Son for a Son}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+[[Category:Crownlanders]]
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Shepherds]]
+
+<!--Languages-->
+[[fr:Jerard]]
+[[ru:Джерард]]
+[[uk:Джерард]]

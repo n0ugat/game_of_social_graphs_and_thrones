@@ -1,0 +1,72 @@
+{{Canonicity|Canon}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Arryn
+| Image     = House Corbray.svg
+| Arms      = Three black ravens in flight holding three red hearts, on white
+| Words     = 
+| Titles    = [[Lordship|Lord of Heart's Home]]<br>King of the [[Fingers]] {{C|historical}}
+| Seat      = [[Heart's Home]]
+| Region    = [[Vale of Arryn]]
+| Head      = 
+| Heir      = 
+| Overlords = [[House Arryn]]
+| Vassals   = 
+| Religion  = [[Faith of the Seven]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = [[Lady Forlorn]]
+}}
+[[Image:Vale heraldry.jpg|thumb|A Lord Corbray wearing a tunic displaying House Corbray's heraldry.]]
+'''House Corbray'''{{Ref|H&L402}} of [[Heart's Home]] is a vassal house which holds fealty to [[House Arryn]] of the [[Eyrie]].
+
+==History==
+The Corbrays are descended from [[Andals]], and are proud to hold one of the purest Andal bloodlines in Westeros. A [[Petyr Baelish's great-grandfather|Braavosi sellsword]] in service to House Corbray resettled in the Vale of Arryn. His great-grandson is Lord [[Petyr Baelish]].{{Ref|H&L316}}
+
+==Known members==
+*Ser [[Vance Corbray]], a [[Knighthood|knight]].
+
+===Ancestors===
+*King {[[Qyle Corbray]]}, a king during the Andal Invasion of the Vale.
+*Ser {[[Gwayne Corbray]]}, knight of the [[Kingsguard]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the Corbrays are an old but poor house. They hold the [[Valyrian steel]] blade known as [[Lady Forlorn]]. Their seat is [[Heart's Home]].
+
+The heraldry of House Corbray in the books is three black ravens in flight, each holding a separate red heart, on a white field.
+
+===Known members===
+*Lord Lyonel Corbray, the Lord of Heart's Home. A childless man of forty-odd years.
+*Ser Lyn Corbray, his eldest brother and heir. A quarrelsome knight, secretly on Littlefinger's payroll.
+*Ser Lucas Corbray, his brother.
+
+==Gallery==
+<gallery>
+Corbray knights.png|Two knights of House Corbray
+Corbray surcoat.png|A surcoat displaying the arms of House Corbray
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{Houses from the Vale of Arryn}}
+
+<!--Categories-->
+{{DEFAULTSORT:Corbray, House}}
+[[Category:House Corbray| ]]
+[[Category:Houses from the Vale of Arryn]]
+[[Category:Houses of Andal origin]]
+[[Category:Royal houses]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[de:Haus Corbray]]
+[[fr:Maison Corbray]]
+[[pl:Ród Corbray]]
+[[pt-br:Casa Corbray]]
+[[ru:Корбреи]]

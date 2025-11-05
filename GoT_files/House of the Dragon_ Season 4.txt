@@ -1,0 +1,119 @@
+{{DISPLAYTITLE:''House of the Dragon'': Season 4}}
+{{PureConjecture}}
+{{Season
+| Season     = 4
+| Type       = Dragon
+| Image      = 
+| Episodes   = 8{{Webref|name=Variety |author=Jennifer Maas |date=August 5, 2024 |url=https://variety.com/2024/tv/news/house-of-the-dragon-end-season-4-1236095543/ |title=‘House of the Dragon’ to End With Season 4, Season 3 to Begin Production in Early 2025 |website=Variety |access-date=August 6, 2024 }}
+| Premiere   = [[House of the Dragon: Season 4, Episode 1|Season 4, Episode 1]]<ref name="Variety" />
+| Finale     = [[House of the Dragon: Season 4, Episode 8|Season 4, Episode 8]]<ref name="Variety" />
+| Network    = 
+| First      = 
+| Final      = 
+| Runtime    = 
+| Home       = 
+| Starring   = 
+| Producers  = [[Ryan Condal]]{{Webref|name=NAB |author=George R.R. Martin |date=December 6, 2023 |url=https://georgerrmartin.com/notablog/2023/12/06/a-visit-to-old-blighty/ |title=A Visit to Old Blighty |website=Not a Blog |access-date=December 7, 2023 }}<br>[[George R.R. Martin]]<ref name="NAB" /><br>[[Miguel Sapochnik]] {{Credited}}{{Webref|name=THR |author=James Hibberd, Borys Kit |date=August 31, 2022 |url=https://www.hollywoodreporter.com/tv/tv-news/house-of-the-dragon-miguel-sapochnik-leaving-1235208276/ |title=‘House of the Dragon’ Shake-Up: Co-Showrunner Miguel Sapochnik Leaving Hit Series (Exclusive) |website=The Hollywood Reporter |access-date=December 7, 2023 }}
+| Writers    = Ryan Condal<ref name="NAB" /><br>[[Philippa Goslett]]<ref name="NAB" /><br>[[David Hancock]]<ref name="NAB" /><br>[[Sara Hess]]<ref name="NAB" /><br>[[Ti Mikkel]]<ref name="NAB" />
+| Directors  = 
+| Production = 
+| Wrapped    = 
+| Year       = 
+| Previous   = [[House of the Dragon: Season 3|Season 3]]<ref name="NAB" />
+| Next       = 
+}}
+'''''House of the Dragon'': Season 4''' is the fourth and final season of ''[[House of the Dragon]]''. It will consist of eight episodes. It is based on ''[[Fire & Blood]]'' by [[George R.R. Martin]].
+
+==Premise==
+{{Premise|HOTD4}}
+
+==Episodes==
+{| {{Prettytable}}
+! Episode
+! Image
+! Title
+! Air date
+|-
+| style="text-align: center;" | 1<ref name="Variety" />
+| [[File:Title card (House of the Dragon).png|150px]]
+| [[House of the Dragon: Season 4, Episode 1|Season 4, Episode 1]]<ref name="Variety" />
+| 
+|-
+| style="text-align: center;" | 2<ref name="Variety" />
+| [[File:Title card (House of the Dragon).png|150px]]
+| [[House of the Dragon: Season 4, Episode 2|Season 4, Episode 2]]<ref name="Variety" />
+| 
+|-
+| style="text-align: center;" | 3<ref name="Variety" />
+| [[File:Title card (House of the Dragon).png|150px]]
+| [[House of the Dragon: Season 4, Episode 3|Season 4, Episode 3]]<ref name="Variety" />
+| 
+|-
+| style="text-align: center;" | 4<ref name="Variety" />
+| [[File:Title card (House of the Dragon).png|150px]]
+| [[House of the Dragon: Season 4, Episode 4|Season 4, Episode 4]]<ref name="Variety" />
+| 
+|-
+| style="text-align: center;" | 5<ref name="Variety" />
+| [[File:Title card (House of the Dragon).png|150px]]
+| [[House of the Dragon: Season 4, Episode 5|Season 4, Episode 5]]<ref name="Variety" />
+| 
+|-
+| style="text-align: center;" | 6<ref name="Variety" />
+| [[File:Title card (House of the Dragon).png|150px]]
+| [[House of the Dragon: Season 4, Episode 6|Season 4, Episode 6]]<ref name="Variety" />
+| 
+|-
+| style="text-align: center;" | 7<ref name="Variety" />
+| [[File:Title card (House of the Dragon).png|150px]]
+| [[House of the Dragon: Season 4, Episode 7|Season 4, Episode 7]]<ref name="Variety" />
+| 
+|-
+| style="text-align: center;" | 8<ref name="Variety" />
+| [[File:Title card (House of the Dragon).png|150px]]
+| [[House of the Dragon: Season 4, Episode 8|Season 4, Episode 8]]<ref name="Variety" />
+| 
+|}
+
+==Cast==
+===Starring===
+Starring cast members whose characters survive the events of [[House of the Dragon: Season 3|''House of the Dragon'': Season 3]] are expected to return for this season.
+
+==Crew==
+===Producers===
+*[[Ryan Condal]]: co-creator, showrunner, executive producer<ref name="NAB" />
+*[[George R.R. Martin]]: co-creator, executive producer<ref name="NAB" />
+*[[Miguel Sapochnik]]: executive producer {{Credited}}<ref name="THR" />
+
+===Writers===
+*[[Ryan Condal]]<ref name="NAB" />
+*[[Philippa Goslett]]<ref name="NAB" />
+*[[David Hancock]]<ref name="NAB" />
+*[[Sara Hess]]<ref name="NAB" />
+*[[Ti Mikkel]]<ref name="NAB" />
+
+==Production==
+On December 6, 2023, George R.R. Martin revealed that he, Ryan Condal, and the writing staff ([[Sara Hess]], [[Ti Mikkel]], [[David Hancock]], and [[Philippa Goslett]]) had discussed and worked on the [[House of the Dragon: Season 3|third]] and fourth seasons of ''House of the Dragon''.<ref name="NAB" />
+
+On August 5, 2024, Ryan Condal confirmed that the series would conclude with the fourth season.<ref name="Variety" />
+
+==In the books==
+Like earlier seasons, this season will be adapted from ''[[Fire & Blood]]'', the history of [[House Targaryen]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|House of the Dragon - Season 4}}
+
+<!--Navboxes-->
+{{House of the Dragon}}
+{{World of Westeros}}
+
+<!--Categories-->
+[[Category:House of the Dragon: Season 4| ]]
+[[Category:Seasons of House of the Dragon|4]]
+[[Category:Seasons with undetermined release dates]]
+
+<!--Languages-->
+[[ru:Дом Дракона: Сезон 4]]

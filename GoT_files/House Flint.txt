@@ -1,0 +1,75 @@
+{{Canonicity|Canon}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Stark
+| Image     = 
+| Arms      = 
+| Words     = 
+| Titles    = [[Lordship|Lord]] of Widow's Watch
+| Seat      = [[Widow's Watch]]
+| Region    = [[North]]
+| Head      = 
+| Heir      = 
+| Overlords = [[House Stark]]
+| Vassals   = 
+| Religion  = [[Old Gods]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Flint'''{{Ref|H&L507}}{{Note|Rodrik's surname is Flint.}} of [[Widow's Watch]] is a [[noble house]] in the [[North]]. They hold fealty to [[House Stark]] of [[Winterfell]]. Their sigil is unknown. Their seat is Widow's Watch, a castle that extends to the northern peninsula known as the [[Bite]].
+
+==History==
+===[[Game of Thrones: Season 6|''Game of Thrones'': Season 6]]===
+Their lands are seen in a map during the Starks' war council.{{Ref|GOT605}}
+
+==Known members==
+*Lord {[[Rodrik Flint]]}, a former [[Lord Commander of the Night's Watch]]. Tried to become the [[King-Beyond-the-Wall]].{{Ref|H&L507}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there are four noble houses called House Flint:
+
+*House Flint of the mountains, also known as the First Flints
+*House Flint of Breakstone Hill, possibly extinct
+*House Flint of Flint's Finger
+*House Flint of Widow's Watch
+
+House Flint of Widow's Watch is a noble house from Widow's Watch in the east of the north. They are probably the most powerful branch of House Flint. While the Flints of the mountains claim to be the oldest of the Flints, a semi-canon source states the Flints of Widow's Watch are the senior branch of the extended Flint family, which includes the mountain Flints and House Flint of Flint's Finger.
+
+Neither their arms or their words appear in the text. A semi-canon source blazons their banner as a blue field strewn with whitecaps, on a yellow chief with the crested line a pair of blue eyes and gives their motto as "Ever Vigilant".
+
+Lady Lyessa Flint is the head of the house. She makes no appearance in the novels, only mentioned very briefly.
+
+Robin Flint, Lyessa's son, was one of [[Robb Stark]]'s personal guards. He was killed in the [[Red Wedding]] by a group of [[House Frey|Freys]].
+
+===Known members===
+*Lady Lyessa Flint, Lady of Widow's Watch.
+**{Robin Flint}, her grown son. Slain at the Red Wedding.
+With unspecified familiar relationship to the main branch:
+*Ser {Byam Flint}, a member of the [[Night's Watch]]. Apparently died during the [[Mutiny at Craster's Keep]].
+*{Danny Flint}. Disguised herself as a boy to join the Night's Watch, but ended up raped and murdered at the [[Nightfort]] by unknown people.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|House Flint of Widow's Watch}}
+
+<!--Navboxes-->
+{{Houses from the North}}
+
+<!--Categories-->
+{{DEFAULTSORT:Flint, House}}
+[[Category:House Flint| ]]
+[[Category:Houses from the North]]
+[[Category:Houses of First Men origin]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[fr:Maison Flint]]
+[[pt-br:Casa Flint]]
+[[ru:Флинты]]

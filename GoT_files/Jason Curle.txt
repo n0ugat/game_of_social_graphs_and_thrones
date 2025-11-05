@@ -1,0 +1,27 @@
+{{Crew
+|Image = Jason Curle.jpg
+|dateofbirth = 
+|birthplace = 
+|job = Stunt Performer
+|imdb = https://www.imdb.com/name/nm2655938/
+|twitter = https://twitter.com/oddessy_uk/}}
+'''Jason Curle''' is a stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 4|fourth season]] episodes "[[Two Swords]]", "[[The Watchers on the Wall]]" and "[[The Children]]", the [[Game of Thrones: Season 5|fifth season]] episode "[[Sons of the Harpy (episode)|Sons of the Harpy]]", the [[Game of Thrones: Season 6|sixth season]] episode "[[Battle of the Bastards (episode)|Battle of the Bastards]]" and the [[Game of Thrones: Season 7|seventh season]] episodes "[[Dragonstone (episode)|Dragonstone]]", "[[Stormborn]]", "[[The Queen's Justice]]", "[[Eastwatch]]", "[[Beyond the Wall (episode)|Beyond the Wall]]" and "[[The Dragon and the Wolf]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 4|yes||||||||yes|yes}}
+{{Game of Thrones: Season 5||||yes}}
+{{Game of Thrones: Season 6|||||||||yes}}
+{{Game of Thrones: Season 7|yes|yes|yes||yes|yes|yes}}
+
+==See also==
+*{{IMDb
+|# = 2655938}}
+*{{Twitter
+|# = oddessy_uk}}
+*{{Instagram
+|# = oddessy}}
+{{DEFAULTSORT:Curle, Jason}}
+[[Category:Stunt performers of Game of Thrones]]

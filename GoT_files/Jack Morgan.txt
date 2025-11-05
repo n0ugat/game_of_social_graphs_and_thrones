@@ -1,0 +1,27 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Jack Morgan.jpg
+| Birth   = 
+| Death   = 
+| Role    = Lannister soldier
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 8|8]]
+| Credits = "[[The Bells]]"
+| First   = 
+| Last    = 
+}}
+'''Jack Morgan''' is an actor. He is known for his portrayal of {{WPS|George Harrison}} in ''{{WPS|Lennon Naked}}''.
+
+In ''[[Game of Thrones]]'', he portrayed a Lannister Soldier in the [[Game of Thrones: Season 8|eighth season]] episode "[[The Bells]]".
+
+==Credits==
+{{Game of Thrones: Season 8|||||yes}}
+
+==See also==
+*{{IMDb
+|# = 3799115}}
+
+==References==
+{{Reflist}}{{DEFAULTSORT:Morgan, Jack}}
+[[Category:Guest starring cast members of Game of Thrones]]

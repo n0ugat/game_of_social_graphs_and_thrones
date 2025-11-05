@@ -1,0 +1,53 @@
+{{Stub}}
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Kingdoms
+| Image   = Ira Parker.jpg
+| Birth   = 
+| Death   = 
+| Role    = Co-executive producer<br>Writer<br>Co-creator<br>Showrunner<br>Executive producer
+| Series  = ''[[House of the Dragon]]''<br>''[[A Knight of the Seven Kingdoms]]''
+| Season  = ''House of the Dragon'':<br>[[House of the Dragon: Season 1|1]]<br>''A Knight of the Seven Kingdoms'':<br>[[A Knight of the Seven Kingdoms: Season 1|1]]
+| Credits = 7 episodes {{Below|Credits}}
+| First   = "[[King of the Narrow Sea (episode)|King of the Narrow Sea]]"
+| Last    = 
+}}
+'''Ira Parker''' is an American screenwriter and producer. He was a member of the writing staff on ''[[House of the Dragon]]'' for its [[House of the Dragon: Season 1|first season]].
+
+Parker is the showrunner of ''[[A Knight of the Seven Kingdoms]]''.<ref name="KnightandSquire">[https://georgerrmartin.com/notablog/2023/04/14/a-knight-and-a-squire/ George R.R. Martin | Not A Blog | A Knight and a Squire, April 14, 2023]</ref>
+
+==Biography==
+Ira Parker worked as a staff writer on ''Rogue'' (2015), ''Four in the Morning'' (2016), and ''The Last Ship'' (2016-2018). He then worked as a writer/co-executive producer on ''Better Things'' (2019-2020).
+
+==Credits==
+===Co-executive producer===
+*{{HOTD|Season 1}}
+
+===Writer===
+{{House of the Dragon: Season 1||||yes}}
+{{A Knight of the Seven Kingdoms: Season 1|yes}}
+
+===Co-creator/showrunner/executive producer===
+*{{AKOTSK|Season 1}}<ref name="KnightandSquire" />
+
+==See also==
+*{{IMDb|# = 6358299}}
+*{{Twitter|# = iraparker1}}
+*{{Linkedin|# = /in/ira-parker-3743816}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{A Knight of the Seven Kingdoms}}
+
+<!--Categories-->
+{{DEFAULTSORT:Parker, Ira}}
+[[Category:Co-creators of A Knight of the Seven Kingdoms]]
+[[Category:Co-executive producers of House of the Dragon]]
+[[Category:Showrunners of A Knight of the Seven Kingdoms]]
+[[Category:Writers of A Knight of the Seven Kingdoms]]
+[[Category:Writers of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Ira Parker]]

@@ -1,0 +1,89 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Bracken.svg
+| Link  = House Bracken
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Tully
+| Image       = Humfrey Bracken.png
+| Birth       = 
+| Death       = [[116 AC|116]]{{Dateref|King of the Narrow Sea}}-[[132 AC]]{{Dateref|House of the Dragon: Season 2}}
+| House       = [[House Bracken|Bracken]]{{Ref|HOTD104}}
+| Affiliation = [[House Tully]]
+| Titles      = 
+| AKA         = 
+| Culture     = [[Riverlands|Rivermen]]{{Ref|HOTD104}}
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = [[Amos Bracken]]{{Con|F&B}}<br>{[[Jerrel Bracken]]}{{Ref|HOTD104}}
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 1|1]]
+| Appearances = "[[King of the Narrow Sea (episode)|King of the Narrow Sea]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Chris David Storer]]
+}}
+Lord '''Humfrey Bracken''' was the head of [[House Bracken]] during the reign of [[Viserys I Targaryen]].
+
+==Biography==
+===Background===
+Humfrey is the head of [[House Bracken]]. He has a son, [[Jerrel Bracken|Jerrel]].{{Ref|HOTD104}}
+
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+Humfrey accompanies his son to [[Storm's End]], where Jerrel is among several lords and lordlings vying for the hand of [[Rhaenyra Targaryen]]. When Jerrel is slain by [[Willem Blackwood]] in a duel, Humfrey clutches his son as he dies.{{Ref|HOTD104}}
+
+==Family==
+{{Bracken tree}}
+
+==In the books==
+In ''[[Fire & Blood]]'', Humfrey hosted Rhaenyra at [[Stone Hedge]] when she visited the [[riverlands]] in 112 AC, during her tour to find a suitable marriage candidate. He had two known sons: Ser [[Amos Bracken]], and a [[bastard]], Ser Raylon Rivers. Like in the TV series, his son (Amos) dueled a [[House Blackwood|Blackwood]] (Samwell), but neither was killed.
+
+At the outbreak of the [[Dance of the Dragons]], Humfrey declared for King [[Aegon II Targaryen]]. In response, Lord Samwell Blackwood, who had declared for Rhaenyra, sent raiders to attack Bracken lands. Humfrey despatched Bracken forces, commanded by Amos, to invade Blackwood lands in retaliation. With the greater part of House Bracken's strength gone, [[Daemon Targaryen]] led a [[Blacks|Black]]-loyal army of Riverlords out of the [[Taking of Harrenhal|newly captured]] [[Harrenhal]] to attack Stone Hedge, taking Humfrey and his family prisoner.
+
+Amos was killed and the Bracken forces defeated at the [[Battle at the Burning Mill|Battle of the Burning Mill]]. When Raylon led the survivors back to Stone Hedge and found the Blacks in control of the castle, he surrendered to Daemon to save his father's life.{{Bookref|F&B|15}}
+
+==Appearances==
+*{{HOTD|King of the Narrow Sea}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Succession box-->
+{{S-start}}
+{{Succession box
+ | title  = Head of [[House Bracken]]
+ | years  = 
+ | with   = 
+ | before = Unknown
+ | after  = [[Amos Bracken]]
+}}
+{{S-end}}
+
+<!--Navboxes-->
+{{House Bracken/House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Bracken, Humfrey}}
+[[Category:Bannermen of House Tully]]
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Members of House Bracken|Humfrey Bracken]]
+[[Category:Lords]]
+[[Category:Rivermen]]
+
+<!--Languages-->
+[[es:Humfrey Bracken/House of the Dragon]]
+[[fr:Humfrey Bracken]]
+[[ru:Хамфри Бракен]]

@@ -1,0 +1,73 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Bracken.svg
+| Link  = House Bracken
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Tully
+| Image       = Jerrel Bracken.png
+| Birth       = 
+| Death       = [[116 AC]]{{Dateref|King of the Narrow Sea}}<br>[[Storm's End]], the [[Stormlands]]{{Ref|HOTD104}}
+| House       = [[House Bracken|Bracken]]{{Ref|HOTD104}}
+| Affiliation = 
+| Titles      = 
+| AKA         = 
+| Culture     = [[Riverlands|Rivermen]]{{Ref|HOTD104}}
+| Religion    = 
+| Father      = {[[Humfrey Bracken]]}{{Ref|HOTD104}}
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 1|1]]
+| Appearances = "[[King of the Narrow Sea (episode)|King of the Narrow Sea]]" 
+| First       = 
+| Last        = 
+| DeathEp     = "King of the Narrow Sea"
+| Actor       = [[Gabriel Scott]]
+}}
+{{Quote|The princess has a dragon, you dumb c***.|Jerrel Bracken|King of the Narrow Sea (episode)}}
+'''Jerrel Bracken''' was a member of [[House Bracken]] during the reign of [[Viserys I Targaryen|Viserys I]].
+
+==Biography==
+===Background===
+Jerrel is a son of Lord [[Humfrey Bracken]] of [[Stone Hedge]].{{Ref|HOTD104}}
+
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+When [[Rhaenyra Targaryen]]'s tour of the realm reaches [[Storm's End]], he is among the suitors gathered to seek the princess's favor. While a fellow suitor, [[Willem Blackwood]], speaks to Rhaenyra, Jerrel taunts and mocks him and his house. Rhaenyra and the crowd laugh at his comments, and Rhaenyra remarks that she might grow to like Jerrel. This prompts Willem to leave, at which Jerrel calls him a craven, causing the boy to draw his sword. Jerrel draws a dagger in response, and a duel ensues. Though Jerrel initially has the upper hand, knocking Willem to the floor, he is quickly defeated and fatally stabbed in the gut. His father embraces him as he coughs blood and dies.{{Ref|HOTD104}}
+
+==Family==
+{{Bracken tree}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels and ''[[Fire & Blood]]'', there is no character named Jerrel, either of House Bracken or otherwise. Jerrel may be based on Amos Bracken, another son of Humfrey Bracken who defeated (but did not kill) a Blackwood, Lord Samwell Blackwood, in a duel for Rhaenyra's hand.
+
+==Appearances==
+*{{HOTD|King of the Narrow Sea}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|Amos Bracken}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{House Bracken/House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Bracken, Jerrel}}
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Members of House Bracken|Jerrel Bracken]]
+[[Category:Rivermen]]
+
+<!--Languages-->
+[[es:Jerrel Bracken]]
+[[fr:Jerrel Bracken]]
+[[ru:Джеррел Бракен]]

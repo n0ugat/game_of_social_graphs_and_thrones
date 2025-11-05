@@ -1,0 +1,53 @@
+{{Canonicity|Non}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Bronn
+| Image     = 
+| Arms      = 
+| Words     = 
+| Titles    = [[Lordship|Lord of Uplands]]
+| Seat      = [[Uplands]]
+| Region    = [[Reach]]
+| Head      = 
+| Heir      = 
+| Overlords = [[Bronn's house]]<br>{[[House Tyrell]]} {{C|[[1 AC|1]]{{Dateref|Aegon's Conquest}}-[[304 AC]]}}{{Dateref|Game of Thrones: Season 7}}<br>{[[House Gardener]]} {{C|pre-[[Aegon's Conquest]]}}
+| Vassals   = 
+| Religion  = [[Faith of the Seven]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Mullendore'''<ref>[[:File:Catspaw Lineages.jpg]]</ref> of [[Uplands]] is a vassal house from the [[Reach]] that holds fealty to Lord [[Bronn]] of [[Highgarden]].
+
+==History==
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+[[Martyna Mullendore]] is mentioned in ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]'' as the wife of [[William Baratheon]], an early member of [[House Baratheon]].<ref>''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]'' prop ([https://www.factinate.com/wp-content/uploads/2018/02/Catspaw-Season-1.png see image], Willam's entry is in the lower right)</ref>
+
+==Members==
+*{[[Martyna Mullendore]]} - wife of [[William Baratheon]], an early member of House Baratheon.
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, House Mullendore is one of the principal houses of the Reach, sworn to [[House Hightower]]. In the [[Dance of the Dragons]], House Mullendore supported the [[blacks]], going against their Hightower overlords. During the [[War of the Five Kings]], House Mullendore initially declared for [[Renly Baratheon]], but went over to [[Stannis Baratheon]] following Renly's death. After the [[Battle of the Blackwater]], House Mullendore bent the knee to [[Joffrey Baratheon]].
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Houses from the Reach}}
+
+<!--Categories-->
+{{DEFAULTSORT:Mullendore, House}}
+[[Category:House Mullendore| ]]
+[[Category:Houses from the Reach]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[fr:Maison Mullendore]]
+[[ru:Маллендоры]]

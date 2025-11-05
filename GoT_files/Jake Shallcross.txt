@@ -1,0 +1,30 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Jake Shallcross.jpg
+| Birth   = 
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = "[[The Green Council]]"
+| First   = 
+| Last    = 
+}}
+'''Jake Shallcross''' is a stuntman.
+
+In ''[[House of the Dragon]]'', he was a stunt performer in the [[House of the Dragon: Season 1|first season]] episode "[[The Green Council]]".
+
+==Credits==
+===Stunts===
+{{House of the Dragon: Season 1|||||||||yes}}
+
+==See also==
+*{{IMDb
+|# = 10859107}}
+*{{Instagram
+|# = jakeshallcross}}
+*{{YouTube
+|# = user/FromJaka}}
+{{DEFAULTSORT:Shallcross, Jake}}
+[[Category:Stunt performers of House of the Dragon]]

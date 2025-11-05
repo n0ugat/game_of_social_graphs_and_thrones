@@ -1,0 +1,83 @@
+{{Episode
+| Title    = {{PAGENAME}}
+| Type     = Telltale
+| Image    = ATGS01.png
+| Season   = 
+| Episode  = 1
+| Date     = December 2, 2014{{Webref|name=PRN |author=Telltale, Inc. |date=December 2, 2014 |url=https://www.prnewswire.com/news-releases/game-of-thrones-a-telltale-games-series-season-premiere-now-available-for-download-300003156.html |title='Game of Thrones®: A Telltale Games Series' Season Premiere Now Available For Download |website=PR Newswire |access-date=February 3, 2024 }} {{C|PC, Mac, PlayStation 4}}<br>December 3, 2014<ref name="PRN" /> {{C|Xbox One, Xbox 360}}<br>December 4, 2014<ref name="PRN" /> {{C|iOS}}<br>December 9, 2014<ref name="PRN" /> {{C|PlayStation 3}}
+| Runtime  = 
+| Writer   = Andrew Grant{{Ref|ATGS01}}
+| Director = Martin Montgomery{{Ref|ATGS01}}
+| Year     = [[300 AC/Non-canon|300 AC]]{{Dateref|Iron From Ice}}
+| Previous = 
+| Next     = "[[The Lost Lords]]"{{Ref|ATGS02}}
+}}
+"'''Iron From Ice'''"{{Ref|ATGS01}} is the first episode of ''[[Game of Thrones: A Telltale Games Series]]''. It premiered on December 2, 2014. It was written by Andrew Grant and directed by Martin Montgomery.
+
+==Premise==
+{{Premise|ATGS01}}
+
+==Cast==
+*[[Lena Headey]] as [[Cersei Lannister]]
+*[[Peter Dinklage]] as [[Tyrion Lannister]]
+*[[Natalie Dormer]] as [[Margaery Tyrell]]
+*[[Iwan Rheon]] as [[Ramsay Bolton|Ramsay Snow]]
+*Daniel Kendrik{{Sic|Daniel Kendrick}} as Gared Tuttle
+*Martha Mackintosh as Mira Forrester
+*Christopher Nelson as Ethan Forrester
+*JB Blanc as Malcolm Forrester,{{Sic|Malcom Branfield}} Thermund, Father Tuttle
+*Robin Atkin Downes as Lord Forrester & Duncan Tuttle
+*David Franklin as Maester Ortengryn
+*Brian George as Ser Royland Degore
+*Alastair James as Britt
+*Geoff Leesley as Lord Whitehill & Norren
+*Natasha Loring as Sera
+*Yuri Lowenthal as Tom & Erik
+*Matthew Mercer as Bowen
+*Lara Pulver as Lady Forrester
+*Molly Stone as Talia Forrester
+*Louis Suc as Ryon Forrester
+
+==Gallery==
+===Videos===
+<gallery bordersize="none">
+Game of Thrones: A Telltale Games Series - Ep 1: 'Iron From Ice' Launch Trailer
+Game of Thrones - A Telltale Games Series
+Game of Thrones - A Telltale Games Series (2)
+Game of Thrones: A Telltale Games Series - Ep 1: 'Iron From Ice' Launch Trailer (2)
+</gallery>
+
+===Images===
+<gallery>
+IFI Pre-Release 1.png
+IFI Pre-Release 2.png
+IFI Pre-Release 3.png
+IFI Pre-Release 4.png
+IFI Pre-Release 5.png
+IFI Pre-Release 6.png
+IFI Pre-Release 7.png
+</gallery>
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{TTGOT}}
+
+<!--Navboxes-->
+{{Game of Thrones: A Telltale Games Series}}
+{{Game of Thrones}}
+
+<!--Categories-->
+[[Category:Episodes directed by Martin Montgomery]]
+[[Category:Episodes of Game of Thrones: A Telltale Games Series| 01]]
+[[Category:Episodes released in 2014|C.02]]
+[[Category:Episodes written by Andrew Grant]]
+
+<!--Languages-->
+[[de:Eisen aus Eis (Episode)]]
+[[fr:De la Glace naît le Fer]]
+[[ru:Железо изо льда]]

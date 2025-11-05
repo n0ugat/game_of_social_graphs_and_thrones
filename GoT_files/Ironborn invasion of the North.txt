@@ -1,0 +1,323 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{War
+| Title      = {{PAGENAME}}
+| Type       = Thrones
+| Part       = the [[War of the Five Kings]]
+| Image      = Reekridingmoat.png
+| Previous   = 
+| Concurrent = 
+| Next       = 
+| Beginning  = [[299 AC]]{{Dateref|Game of Thrones: Season 2}}
+| End        = [[303 AC]]{{Dateref|Game of Thrones: Season 6}}
+| Place      = [[North]]
+| Outcome    = Northern victory
+*The [[Ironborn]] temporarily seize [[Winterfell]], [[Deepwood Motte]] and [[Moat Cailin]]
+*Winterfell is burnt to the ground
+*[[Theon Greyjoy]] is taken captive by the Boltons
+*Deepwood Motte and Moat Cailin are retaken
+*The invaders are killed or driven away from the North
+| Factions1  = {{COA|House Greyjoy|s}}<br>[[Iron Islands]]<br>{{C|[[House Greyjoy]]}}<br><br>{{COA|House Kenning|s}}<br>[[House Kenning]]
+| Factions2  = {{COA|House Stark|s}}<br>[[North|Kingdom of the North]]<br>{{C|[[House Stark]]}}<br><br>{{COA|House Cassel|s}}<br>[[House Cassel]]<br><br>{{COA|House Bolton|s}}<br>[[House Bolton]]<br><br>{{COA|House Glover|s}}<br>[[House Glover]]<br><br>{{COA|House Tallhart|s}}<br>[[House Tallhart]]
+| Factions3  = 
+| Factions4  = 
+| Factions5  = 
+| Factions6  = 
+| Leaders1   = {{COA|House Greyjoy|i}} King [[Balon Greyjoy]]<br>{{COA|House Greyjoy|i}} Princess [[Yara Greyjoy]]<br>{{COA|House Greyjoy|i}} Prince [[Theon Greyjoy]] {{C|POW}}<br>[[Dagmer]] {{Executed}}<br>{{COA|House Kenning|i}} Captain [[Ralf Kenning]] †
+| Leaders2   = {{COA|House Stark|i}} King [[Robb Stark]] †<br>{{COA|House Cassel|i}} Ser [[Rodrik Cassel]] {{Executed}}<br>{{COA|House Bolton|i}} [[Ramsay Bolton]]<br>{{COA|House Glover|i}} Lord [[Robett Glover]]
+| Leaders3   = 
+| Leaders4   = 
+| Leaders5   = 
+| Leaders6   = 
+| Events     = [[Fall of Moat Cailin|Moat Cailin (I)]] {{*}} [[Fight at Torrhen's Square|Torrhen's Square]] {{*}} [[Attack on Deepwood Motte|Deepwood Motte (I)]] {{*}} [[Capture of Winterfell|Winterfell (I)]] {{*}} [[Sack of Winterfell|Winterfell (II)]] {{*}} [[Assault on the Dreadfort|Dreadfort]] {{*}} [[Siege of Moat Cailin|Moat Cailin (II)]] {{*}} [[Fight by Deepwood Motte|Deepwood Motte (II)]]
+}}
+{{Quote|The Ironborn will reave and pillage as it was in the old days all along the Northern coast. We'll spread our dominion across the green lands, securing the Neck and everything above. Every stronghold will yield to us one by one.|Balon Greyjoy announces his plan of invasion|What Is Dead May Never Die}}
+The '''Ironborn invasion of the North''' was a military campaign orchestrated by [[Balon Greyjoy]], who crowned himself [[King of the Iron Islands]], to conquer the [[North]]; it took place during the [[War of the Five Kings]], independently and simultaneously with the battles between the [[House Stark|Starks]], [[House Baratheon|Baratheons]] and [[House Lannister|Lannisters]] south of the [[Neck]].
+
+==History==
+===Background===
+Approximately nine years after the unsuccessful [[Greyjoy Rebellion]], in the midst of the War of the Five Kings, [[Theon Greyjoy]] advises [[Robb Stark]], who declared himself [[King in the North]] in open rebellion against King [[Joffrey Baratheon|Joffrey]], to form an alliance with his father Balon in order to use the naval forces of the [[Iron Islands]] against the Lannisters. Robb initially disapproves of the idea, reminding Theon that the Ironborn fought [[Eddard Stark|his father]], but Theon claims that he can make his father listen to him. Theon also assures Robb that his father raised him to be an honorable man, and they can avenge him together.
+
+[[Catelyn Stark|Catelyn]] disapproves of the idea, expressing her distrust of Balon to Robb and reminding him exactly what he told Theon earlier: that his father had to go to war to end Balon's rebellion. Robb, however, chooses to listen to Theon.<ref>"[[The North Remembers]]"</ref>
+
+Robb sends Theon to the Iron Islands as an envoy on his behalf in order to offer Balon his terms of alliance against the Lannisters. Balon welcomes his son very frigidly and scornfully rejects Robb's offer, burning the parchment. Balon instead chooses to crown himself King of the Iron Islands once more.<ref>"[[The Night Lands]]"</ref>
+
+Balon reveals to Theon and [[Yara Greyjoy|Yara]] his plan of invasion: since Robb has taken all the Northern armies to the south, the [[North]] is ripe for taking. Balon assigns Yara to take thirty longships and seize [[Deepwood Motte]]. Much to Theon's humiliation and frustration, he is given a very minor role: to take one ship and harry the [[Stony Shore]]. Balon does not care much about [[Winterfell]], and is in no hurry to seize it as the Ironborn are stronger at sea than on land against mainland armies.
+
+Theon tries to dissuade his father of the whole plan, pointing out that Robb won't give up the North so easily; on the other hand, if they accept an alliance with the Starks, they'll be granted [[Casterly Rock]]. Balon dismisses Theon's words as nonsense, reminding him that Ironborn are not subjects or slaves, and they do not need favors - they take what is theirs. Balon also doubts Theon's loyalty and prowess. Theon explodes in rage, bluntly reminding his father how his previous campaign failed, and how he bent his knee to King Robert and gave Theon away. Balon's only response is a slap in Theon's face, then he leaves. Yara harshly tells her brother that he must choose on which side he is.
+
+Later, Theon composes a letter to Robb to forewarn him of the imminent invasion. He thinks it over and eventually destroys the letter, thus missing his first chance to do what is right, and choosing instead to become Robb's enemy and partake in his family's campaign to conquer the North.<ref>"[[What Is Dead May Never Die]]"</ref>
+
+Theon boards his given ship, the ''[[Sea Bitch]]'', meeting his crew members, who initially do not respect him, and his first mate [[Dagmer]]. Dagmer prompts Theon to ignore his father's orders and seize Winterfell instead, in order to win the respect of his men and the Ironborn in general.<ref name=":0">"[[The Ghost of Harrenhal]]"</ref>
+
+===[[Fall of Moat Cailin]]===
+Balon dispatches the [[Iron Fleet]] through the [[Blazewater Bay]] to seize Moat Cailin, effectively cutting off the Northern army south of the [[Neck]] from its own lands, thus preventing Robb from marching back home in the event that he decides to deal with the Ironborn invaders.<ref>Season 2 bluray: War of the Five Kings feature: Greyjoy Battle Plans</ref>
+
+In the show, Balon does not give anyone specific orders (at least not on-screen) to capture Moat Cailin; it is accomplished off-screen and is not explicitly mentioned in the show until much later in [[Game of Thrones: Season 4|Season 4]], by [[Roose Bolton]].<ref name=":1">"[[The Lion and the Rose]]"</ref>
+
+===[[Attack on Deepwood Motte]]===
+Yara, leading a force of at least 500 men, [[Attack on Deepwood Motte|seizes Deepwood Motte]]; it does not occur on-screen, but can be deduced from Theon's command to send a raven to Deepwood Motte, ordering his sister to bring 500 men to Winterfell<ref name=":2">"[[The Old Gods and the New]]"</ref> and his statement "My sister's in Deepwood Motte".<ref name=":3">"[[A Man Without Honor]]"</ref> Yara and her troops imprison and brutalize the [[House Glover|Glovers]] and their subjects.<ref name="E57">"[[The Broken Man]]"</ref>
+
+Similarly to the capture of Moat Cailin, no specific details are given in the show about the size of the opposing troops and casualties in respect of that military action.
+
+===[[Fight at Torrhen's Square]] and [[capture of Winterfell]]===
+Theon's crew attacks [[Torrhen's Square]] as a diversion. Ser [[Rodrik Cassel]] reports [[Bran Stark|Bran]] about the attack; Bran falls for the trick and orders Ser Rodrik to fight the attackers. Ser Rodrik takes 200 men and marches to Torrhen's Square.<ref name=":0" />
+
+While Ser Rodrik is away, Theon and twenty men seize the sparsely-defended Winterfell. Maester [[Luwin]] manages to send a distress message through a raven. Later, Theon orders him to send one raven to [[Pyke]] informing his father of his victory, and a second raven to Deepwood Motte to order Yara to bring 500 men to Winterfell.
+
+Ser Rodrik is captured by Theon's men while returning from Torrhen's Square; he manages to kill two Ironborn before he is overpowered. Despite Bran's pleading, Theon executes him after Ser Rodrik repeatedly disrespects him in front of his men.<ref name=":2" />
+
+Bran and [[Rickon Stark|Rickon]] escape from Winterfell with [[Osha]], [[Hodor]] and [[Summer|their]] [[Shaggydog|direwolves]]. Theon hunts for them, but in vain. To cover his failure, he kills [[Billy|two]] [[Jack|orphans]] and hangs their charred bodies over Winterfell.<ref name=":3" />
+
+===[[Sack of Winterfell]]===
+Roose Bolton informs Robb about the capture of Winterfell and Ser Rodrik's death, based on Maester Luwin's message and additional messages from the [[White Harbor]], [[Barrowton]] and the [[Dreadfort]]. Robb intends to return to the North at once; unfortunately, he accepts Roose's advice to send [[Ramsay Bolton|Ramsay]] instead to retake Winterfell. Robb emphasizes that saving his brothers is top priority, and that Theon must be brought to him alive, so he can execute him personally.<ref name=":2" />
+
+Yara arrives at Winterfell but does not bring any reinforcements. She taunts and teases Theon for his incompetence and foolish actions that have turned every man in the North against him. Yara also explains to Theon that capturing Winterfell was erroneous both strategically and logistically, since the castle is miles away from the sea. She urges Theon to go with her, but the arrogant fool refuses to listen to reason, missing another chance to save himself from a fate which is perhaps worse than death.
+
+Roose reports to Robb that Ramsay is a few days' march from Winterfell. Robb orders him to send a word to Ramsay, that the Ironborn who surrender - will be allowed to return safely to their homes, except Theon. Roose comments that Theon's men will probably turn against him once they hear the offer.<ref>"[[The Prince of Winterfell]]"</ref>
+
+Ramsay, with a host of 500 men, besieges Winterfell. Maester Luwin advises Theon either to run away or to take the black. Theon rejects both options, stating that even in the improbable case that he makes it home he will be regarded as a coward, and if he attempts to join the [[Night's Watch|Watch]] - [[Jon Snow]] will surely kill him. Thus Theon misses his last chance and seals his fate, since any of those options would have been much better than being at Ramsay's mercy.
+
+Theon assembles his men in the courtyard of Winterfell. He tries to raise the morale by making a loud speech about the courage of the Ironborn and the eternal glory they will be granted. His men appear to support him, but then he is knocked unconscious by Dagmer. The Ironborn depart from Winterfell to deliver Theon to the Bolton army. Ramsay and the Bolton men then put Winterfell to the torch; the castle residents are killed, captured or flee.
+
+The Stark boys and their companions come out of their hiding place, finding Winterfell ruined. Luwin advises them to go to the [[Wall]]. After Osha gives Luwin the gift of mercy, they leave.<ref>"[[Valar Morghulis]]"</ref>
+
+Ramsay breaks his promise to the Ironborn and kills them all by [[Flaying|flaying]],<ref name=":4">"[[Mhysa]]"</ref> except Theon who is brought to the Dreadfort for Ramsay's "entertainments".<ref name=":5">"[[Dark Wings, Dark Words]]"</ref>
+
+Ramsay sends false messages to his father, claiming that the Ironborn torched Winterfell and put all of its inhabitants to the sword, then fled all before his force arrived there, and it is unknown where Theon and the Stark boys are. Roose informs Robb of those false news.<ref name=":5" />
+
+===[[Assault on the Dreadfort]]===
+Ramsay sends Balon a taunting letter, in which he reveals that Theon is held prisoner at the Dreadfort, and demands that all the Ironborn leave the North within a month. Balon is indifferent to his son's fate, but Yara is determined to save him.<ref name=":4" />
+
+Yara gathers a crew of fifty Ironborn and sails to the Dreadfort. She fails to free her brother since he refuses to escape; he has grown mentally enslaved to his cruel master so much that he thinks it is one of Ramsay's mind games, and insists that he is "Reek", not Theon. Yara has no choice but to retreat, leaving Theon in his captivity.<ref>"[[The Laws of Gods and Men]]"</ref>
+
+===[[Siege of Moat Cailin]]===
+Roose states that as long as the Ironborn hold Moat Cailin, the Bolton troops are trapped south of the Neck. He orders Ramsay to reclaim the fortress.<ref name=":1" />
+
+Ramsay sends the Ironborn garrison a false offer of surrender terms, using Theon as the messenger, promising that if they surrender - they will be free to leave. [[Ralf Kenning]], the commander of the garrison, rejects the offer, but is killed by [[Adrack Humble]]. The Ironborn yield to Ramsay, and all of them are subsequently flayed alive - the same way Ramsay dealt with the Ironborn who occupied Winterfell.
+
+===[[Fight by Deepwood Motte]]===
+The Glovers, with help from the [[House Bolton|Boltons]],<ref name="E57" /> eventually attack and retake Deepwood Motte from the Ironborn who occupied it, killing them all. Balon and Yara are soon informed about that.<ref name=":7">"[[Home]]"</ref>
+
+Since Deepwood Motte has been the last Northern stronghold held by the Ironborn, its liberation effectively marks the end of Balon's occupation of the North; all the Ironborn invaders (except Theon) have been killed or driven out.
+
+===Aftermath===
+The invasion, similarly to the Greyjoy Rebellion, cannot be considered even as a pyrrhic victory, but as a total failure: all the Northern strongholds seized by the Ironborn were eventually retaken, and the Ironborn were driven out of the North entirely.
+
+It is unknown how many casualties the Ironborn have totally suffered throughout the invasion; Yara's harsh criticism to her father implies that the Ironborn's losses have been significant.
+
+As for the Northerners' casualties: based on [[Robett Glover]]'s words, it is heavily implied that many civilians have been killed, alongside an unknown number of soldiers. In view of the Ironborn's brutal nature, they have presumably pillaged any village they occupied/traversed through, killing its inhabitants.  
+
+Following the liberation of Deepwood Motte, Yara realizes - though too late - that they should have never invaded the North in the first place, since the Ironborn's primary strength is at the seas, but they cannot hold lands and castles against mainland armies; she explains that to her father, and also reminds him the outcome of his previous campaign, which cost the lives of two of her brothers. Balon, however, insists on continuing the campaign and plans to order his captains to seize more lands in the North.
+
+Soon afterwards, [[Assassination of Balon Greyjoy|Balon is killed]] by his brother [[Euron Greyjoy|Euron]]. Euron has no special interest in the North; he intends to conquer all of Westeros.<ref name=":7" />
+
+In retrospect, the plan of the invasion shows that Balon was not a total ignorant about strategy: for instance, he recognized the importance of Moat Cailin and Deepwood Moat as key locations in the North. Yet he has repeated the same mistakes he did in [[Greyjoy Rebellion|his previous campaign]], and made more severe mistakes:
+* He focused only on the short-term achievements, failing to plan anything beyond the capturing of the aforementioned strongholds and the harrying of the coastline.
+* He overestimated his forces and underestimated his opponents.
+* He rejected an alternative plan (Robb's offer) without even considering it and evaluating its advantages in comparison to his plan.
+* Finally, he stubbornly refused to acknowledge that his plan has utterly failed.
+Of note, Theon has made exactly the same mistakes, on a smaller scale, in respect of the seizure of Winterfell. Neither the father nor the son had any idea about that resemblance between them.
+
+The people of the North have mixed feelings about Robb's failure to help them:
+*The [[House Mormont|Mormonts]] remain loyal to the Starks, as written in the letter [[Lyanna Mormont]] sends [[Stannis Baratheon|Stannis]].<ref>"[[The House of Black and White]]"</ref>
+*Robett Glover resents Robb (not without a good reason) for not saving his family from the Ironborn, and as a result he refuses to support Jon and [[Sansa Stark|Sansa]] in the [[Battle of the Bastards|battle against the Boltons]].<ref name="E57" />
+*The [[House Cerwyn|Cerwyns]] and [[House Manderly|Manderlys]] also refuse the call of the Starks, though not for the reason Robett Glover has.
+
+Eventually, however, the Glovers, Cerwyns, Manderlys and other Northern houses pledge allegiance to House Stark and proclaim Jon the [[King in the North]].<ref>"[[The Winds of Winter]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the invasion is significantly different than in the show in most of its aspects, stages and chronology:
+*In the novels, the invasion has a very significant effect on the events south of the Neck, particularly in respect of the Starks; in fact, Theon unwittingly serves as a catalyst of the [[Red Wedding]], as specified hereinafter. In the show, the invasion has no such effect.
+*The background is moderately different than in the show.
+*The harrying of the Stony Shore and the capture of Torrhen's Square have been totally omitted from the show.
+*The capture of Moat Cailin and capture of Deepwood Motte happen off-screen, almost without any specific details, similarly to the show.
+*The capture of Winterfell and the siege of Moat Cailin happen in the novels similarly to the show, with minor changes.
+*The fight at Torrhen's Square, the sack of Winterfell and the fight by Deepwood Motte are significantly different than in the show.
+*The unsuccessful assault on the Dreadfort does not happen in the novels.
+*In the novels, Ramsay (initially disguised as his servant "Reek") becomes involved in the plotline much earlier than in the show, even before the invasion begins, and plays a prominent part in the sack of Winterfell; in the show, most of his actions during the fall and sack of Winterfell are performed by Dagmer, in contrast to his very minor role in the books; Dagmer never even comes to Winterfell.
+*In the show, Victarion's character has been omitted.
+*In the novels, Balon's death and the subsequent kingsmoot occur at much earlier point, while the ironborn still hold Moat Cailin and Deepwood Motte; in the show, Balon dies after those strongholds have been retaken and the invasion has effectively ended.
+
+The invasion is mainly narrated from Theon's POV, and also from the POV of Bran and Asha (Yara Greyjoy's name in the novels).
+
+Similarly to the show, of all the stages of the invasion, the main focus in the novels is on the fall and the sack of Winterfell.
+
+===Background===
+In the beginning of ''A Clash of Kings'', Robb tells Catelyn that Theon will soon sail to the Iron Islands, to deliver his offer of alliance. Catelyn frowns upon the idea of forming an alliance with Balon Greyjoy, and objects even more firmly to sending Theon as an envoy. Robb reminds her that Theon saved Bran's life, but it does not change Catelyn's opinion; she urges Robb to send someone else to Pyke, and keep Theon close to him. Unfortunately, Robb does not listen to her; that turns to be his second serious mistake (the first is leaving the North sparsely defended), in addition to the many mistakes he will make in the future, among them breaching the pact with the [[House Frey|Freys]].
+
+In retrospect, Catelyn was right: the invasion would have probably occurred regardless of Theon's position and whereabouts, in view of the frigid welcome he received and the fact that the longships were ready for sail when he arrived at Pyke; no other ironborn, however, would have acted so foolishly as he did - seizing Winterfell and allegedly killing the Stark boys, the two actions which have triggered a chain of events that resulted in the Red Wedding.
+
+Theon arrives at Pyke, behaving pompously, certain of his status as heir to Pyke and the Iron Islands. Soon he is deflated, as his father and uncle [[Aeron Greyjoy|Aeron]] treat him very frigidly, and his sister makes fun of him both in private and in public, in presence of nearly 400 ironborn.
+
+Balon assembles his children and brothers at his solar, and gives them orders as followed:
+
+*Theon is given eight ships to harry the Stony Shore, raid the fishing villages and sink any ships he chances to meet, accompanied by Aeron and Dagmer. Theon feels as if he has been slapped: not only he is sent to do a reaver's work, but his command will be purely nominal, with Aeron and Dagmer along.
+*Similarly to the show, Asha is assigned to take thirty longships and seize Deepwood Motte. With both [[Robett Glover|Robett]] and [[Galbart Glover|Galbart]] warring in the south, the castle is lightly defended, and once it falls - the ironborn will have a secure base in the heart of the North. Again, Theon feels frustration, thinking that he should have been given the task, since he visited there several times.
+*Victarion is assigned with the main thrust - to capture Moat Cailin. Balon is aware that the Neck is the key to the kingdom, and once the ironborn hold Moat Cailin - Robb will not be able to win back to the North; if he is foolish enough to try, his enemies will seal the south end of the causeway behind him, and he will be hopelessly trapped.
+
+Balon does not plan to seize Winterfell, at least not immediately. He knows that most of the Northern lords have gone south with Robb, and those who have remained behind are the cravens, old men, and green boys; he is certain that they will yield or fall, one by one. He estimates that Winterfell may defy the ironborn for a year, but it won't matter, for the rest shall be theirs.
+
+As a precaution, Balon orders to detain the ''[[Myraham]]'' and other merchant ships at [[Lordsport]], to make certain that no word of the hosting of the longships reaches the mainland before the ironborn are ready to strike.
+
+Unlike in the show, Theon never attempts to dissuade his father of the invasion, nor does he contemplate forewarning Robb.
+
+===Harrying of the Stony Shore===
+The invasion plan is set in motion as Theon and his crew begin raiding the Stony Shore: he brings his ships up to the shore at night, then leaps from the prow with a longaxe in his hand, leading his men into a sleeping fishing village. Since the village residents are weak and defenseless, they are no match for the ironborn. The village is burnt to the ground; the men are put to the sword, except a handful that Theon allows to flee to bring the word to Torrhen's Square; their wives and daughters are claimed for [[Salt wife|salt wives]], those who are young enough and fair; the crones and the ugly ones are raped and killed, or taken for [[thrall]]s if they have useful skills and do not seem likely to cause trouble.
+
+Soon, rumors spread about unidentified raiders in longships, plundering fishing villages at the Stony Shore, raping and burning. Leobald Tallhart, the castellan of Torrhen's Square, makes a serious mistake of sending his nephew Benfred to drive the raiders away, instead of sending soldiers from the castle garrison. Benfred and his men - a group of young inexperienced lads - act very carelessly, singing and talking loudly, and do not send scouts ahead. In a crook of a road, the ironborn ambush the party, first loosing a flight of arrows from concealed positions; Theon then leads his men into hand-to-hand combat, massacring the Northerners. At his command, Benfred is captured alive and brought for questioning. Benfred (who formerly befriended Theon) defiantly spits at his face, calls him "''turncloak''", curses him and [[Drowned God|his god]], and promises that Robb will gut and feed him to [[Grey Wind|his wolf]]. Aeron tells his nephew that Benfred must be die. Theon leaves it to his uncle to drown Benfred.
+
+In sharp contrast to the great excitement Theon felt at the end of the [[Battle of Whispering Wood|battle in the Whispering Wood]], in which he encountered fully-armed skilled warriors (not unarmed harmless villagers or inexperienced youths) - his two aforementioned "glorious victories" leave a bad taste in his mouth; he feels as if he and his men have slaughtered sheep.
+
+While the ironborn loot the bodies, Theon bitterly thinks that his actions will benefit his sister only: since their father let no word of the hosting escape the Iron Islands, Theon's raiding along the Stony Shore will be put down to sea raiders out for plunder; the Northmen will not realize their true peril, not until the Deepwood Motte and Moat Cailin are under attack; eventually Asha will win all the glory, and no one will remember Theon was there too. Theon shares his frustration with Dagmer, and the latter encourages him by promising that other wars will come, and he shall do his great deeds. Theon persuades Dagmer to stray from his father's orders.
+
+Theon gives Aeron the command over six of his eight ships for continuing the raiding along the coast, leaving at his command only 250 men (at most).{{Note|Dagmer tells Theon that his sister has four or five times the men they have; since Asha has 1,000 men, Theon has a force of between 200 - 250 men.}} He orders Dagmer to take most of his force, march to Torrhen's Square and make a lot of noise as a diversion, while he intends to seize Winterfell with thirty men.
+
+===[[Fight at Torrhen's Square#in the books|The fight at Torrhen's Square]]===
+Dagmer marches to Torrhen's Square. Soon Winterfell is notified about the "attack". Ser Rodrik unwisely takes most of the garrison of Winterfell (600 men) and marches there; that proves to be a serious mistake, as Maester Luwin realizes too late. Reinforced with 300 men of [[House Cerwyn]], Ser Rodrik easily defeats the ironborn, causing them heavy casualties (the exact number is not mentioned in the novels); Dagmer and the remnants of his force retreat back to the Stony Shore. In the meantime, Theon executes his plan.
+
+===The fall of Moat Cailin and Deepwood Motte===
+The majority of the Iron Fleet, under the command of Victarion, [[Fall of Moat Cailin#In the books|seizes Moat Cailin]], thus preventing the Northern lords in the south from returning to their seats; Asha, leading a force of 1,000 men, [[Attack on Deepwood Motte#In the books|seizes Deepwood Motte]] within a month, allowing the Greyjoys to control the Northern [[Sunset Sea]] and establish a secure base in the heart of the North.
+
+The aforementioned military actions occur off-screen, similarly to the show. There is no mentioning in the novels about the size of the garrison in either stronghold, nor about the casualties that the ironborn and the defenders have suffered.
+
+===[[Capture of Winterfell#in the books|Capture of Winterfell]]===
+Eight days after Ser Rodrik has gone with most of the garrison of Winterfell, Theon and his thirty men capture Winterfell. In compliance with [[Jojen Reed]]'s dream, Alebelly the guard, Septon Chayle and [[Mikken]] are killed by the ironborn at Theon's command. Following his father's habit of styling himself pompous titles, Theon arrogantly declares himself as "[[Prince of Winterfell]]".
+
+At that point, the Reeds and two grandsons of [[Walder Frey|Lord Frey]], "Big" Walder and "Little" Walder, are at Winterfell. Maester Luwin manages to send a distress message to the White Harbor.
+
+A prisoner named "Reek" (actually Ramsay in disguise) is released by Theon and becomes his servant.
+
+[[Tyrion Lannister|Tyrion]] receives a report about the capture of Winterfell. He expects Robb to turn north, reasoning that if he cannot defend his own home and hearth - he is no sort of king at all (Catelyn tells Robb later the same thing). Tyrion underestimates, though, Robb's determination to avenge his father's death - at the expense of his subjects' lives.
+
+Robb, too, receives reports about the invasion, but being so absorbed in his vendetta against the Lannisters - he turns a deaf ear to them, totally indifferent to the suffering of the common folk who have been ravaged by the ironborn; this is his third mistake in a row. Even when he receives reports about the capture of Winterfell, he does not send even one soldier back (unlike in the show, Roose Bolton never suggests Robb to send Ramsay, and the "liberation" of Winterfell is performed without Robb's knowledge or consent), because, as he explains Catelyn in the third novel, he foolishly trusted the treacherous Theon to act rationally and spare his brothers - and was indifferent about the safety of the servants with whom he lived for years. Robb's indifference to his subjects' distress eventually backfires at him.
+
+Bran and Rickon escape, accompanied by their direwolves, Hodor, Osha and the Reeds; two ironborn guards, [[Drennan]] and Squint, are killed during the escape. Theon searches for them in vain. "Reek" suggests to kill two miller's sons as a cover up, and Theon agrees; the boys (and their mother) are killed at Theon's command, and their charred bodies are brought to Winterfell. The three ironborn who participated the vile deed ([[Gelmarr]], [[Aggar]] and Gynir Rednose) are later killed by "Reek" at Theon's command, to make certain they do not reveal the true identities of the victims; since Theon needs a scapegoat, he falsely accuses [[Farlen]] and executes him, adding one more name to the long list of innocent people whom he had killed or otherwise harmed, either personally or by his subordinates.
+
+The news about the alleged murder of the Stark boys soon spread all over the North and other regions of Westeros, reaching [[King's Landing]] and [[Harrenhal]]. [[Arya Stark|Arya]] is heartbroken to hear the news, though she incorrectly thinks the Lannisters are responsible.
+
+Upon hearing that Robb has lost the North, his brothers and Winterfell - and the news about [[battle of the Blackwater|Stannis's defeat]] and about the recently-formed alliance between the [[House Tyrell|Tyrells]] and the Lannisters - the Frey officers have second thoughts about supporting Robb; they believe that Robb's cause is lost and that he must yield (they do not actually abandon Robb until he breaches the marriage pact, though). They share their doubts with Roose Bolton, who does not reveal to them his personal opinion; in the third novel, he reveals to [[Jaime Lannister|Jaime]] that he has already decided at that point to switch sides, exactly for those reasons. In order to weaken Robb's host, Roose treacherously causes the destruction of Northern troops at [[Duskendale]] (one third of the Starks' infantry) and at the [[Ruby Ford]] (about 2,000 men).
+
+Ser Rodrik rallies Northern forces (from Houses [[House Tallhart|Tallhart]], Cerwyn, Manderly, [[House Hornwood|Hornwood]], [[House Flint|Flint]] and [[House Karstark|Karstark]]), nearly 2,000 soldiers. He sends a report from [[Castle Cerwyn]] to Robb and Catelyn about the capture of Winterfell and the alleged murder of Bran and Rickon, then marches back to Winterfell.
+
+The news about Bran and Rickon have a devastating effect on Robb and Catelyn, driving them to act recklessly and irrationally: at [[Riverrun]], Catelyn releases Jaime, desperately hoping to exchange him for [[Sansa Stark|Sansa]]; at the [[Crag]], injured Robb is "comforted" by [[Talisa Stark#In the books|Jeyne Westerling]], and feels honor-bound to marry her. Those ill-advised actions subsequently cost Robb the Karstark and the Frey troops, and [[Red Wedding|much more]]. Thus Theon unwittingly serves as a catalyst of the Red Wedding. In the show, by contrast, there is no connection between Theon's actions and the events that result in the Red Wedding; Robb's and Catelyn's motives are totally different (Robb marries Talisa of love; Catelyn releases Jaime to prevent [[Rickard Karstark]] from killing him).
+
+Many disasters - among them the Red Wedding - could have been prevented, had Robb returned to the North as soon as he received reports about the invasion: even if he had reached Winterfell too late, he'd still have had the Freys, Karstarks and Boltons on his side, wouldn't have met Jeyne Westerling, and the Red Wedding would have never occurred. At such scenario Robb might have lost all the lands he conquered (as Roose warns him in the show) and eventually found himself caught between the Lannisters and ironborn; yet it would have been much better position than how things turned to be.
+
+===[[Sack of Winterfell#in the books|Sack of Winterfell]]===
+
+Theon sends his father, sister and Victarion requests for reinforcements; Balon and Victarion do not even bother to answer. Asha finally arrives at Winterfell with pathetically small reinforcements (ten men). She chides and taunts Theon for his stupidity and unnecessary cruelty, urging him to leave before Ser Rodrik arrives, but the arrogant fool insists on holding his "prize". Eventually Asha grows tired of trying to knock some sense into Theon's thick skull, and leaves him to stew in his own juice.
+
+"Reek" approaches Theon, suggesting to bring at least 200 men as reinforcements. Theon does not trust the blackguard, but agrees to let him go, because he has no other choice.
+
+Theon grows furious and frustrated, in view of all the mishaps, losses and humiliations he has suffered lately. He takes it out on his bedwarmer [[Kyra#In the books|Kyra]]: he rapes her very brutally and furiously; when he finally lets go of her, she is sobbing, her neck and breasts covered with bruises and bite marks.
+
+Theon assembles his men and gives them permission to leave before Ser Rodrik arrives. [[Wex Pyke#In the books|Wex]], [[Black Lorren]], [[Harrag#In the books|Harrag]] and fourteen others choose to stay; the rest (among them [[Stygg]] and [[Urzen]]) leave.
+
+Ser Rodrik's force arrives and encircles the castle. Theon confronts Ser Rodrik, arrogantly claiming that the ironborn hold the entire North (a very unrealistic statement). Ser Rodrik calls him "''Theon Turncloak''" (this becomes Theon's derogatory nickname), and promises that if the ironborn surrender, those who have murdered no children will be free to walk away, but Theon shall be held for King Robb's justice. Theon draws Ser Rodrik's attention to the castle wall, where his daughter Beth is held, a noose around her neck. Theon threatens that if the besiegers are still before the gate when the sun sets - Beth will be hung, followed by the rest of the hostages every dawn and every dusk. Then he returns to Winterfell.
+
+Maester Luwin approaches Theon, advising him to yield and take the black. Theon considers the advice positively and does not take into consideration that Jon may kill him as a payback; typically for him, he does not consider the advice as a chance to redeem himself, but thinks only about all the benefits and "bonuses" he can gain while serving at the Watch, including bedding [[Free Folk|wildling]] women.
+
+"Reek" arrives with 600 Dreadfort soldiers, pretending to join the besiegers. Soon his soldiers slaughter the besiegers in a surprise attack, taking them totally off-guard, killing its three commanders (Ser Rodrik, Leobald Tallhart and [[Cley Cerwyn]]).
+
+Theon, believing himself saved, opens the gates and allows the "saviors" inside. Then "Reek" reveals his true identity to Theon. He punches Theon and orders his men "Save me the Freys [the two grandsons of Lord Frey], and burn the rest. Burn it, burn it all".
+
+Winterfell is put to the torch by the Dreadfort soldiers; most of its occupants - ironborn and the Starks' servants alike - are slain. Wex is the only ironborn who is neither killed nor captured by the Boltons; he hides in the [[godswood]], witnessing the atrocities that Ramsay and his men commit.
+
+Theon, Kyra and seven of the household of Winterfell (among them [[Old Nan]], [[Palla]] and Beth Cassel) are taken captive by Ramsay. Lord Frey's grandsons are brought to the Dreadfort as guests.
+
+After coming out of their hiding place, the Stark boys and their companions split, in compliance with maester Luwin's advice: Bran, Hodor, the Reeds and Summer go north; Osha, Rickon and Shaggydog go to the isle of [[Skagos]], secretly followed by Wex.
+
+It is unclear whether Ramsay acted at his father's orders (once Theon freed him, he could have made contact with Roose from the Dreadfort), or acted on his own and only later reported his father. The outcome is the same: the "liberation" of Winterfell has been performed without Robb's consent or knowledge.
+
+Some time later, Asha comes to Winterfell, searching for her brother. She finds only mutilated, unrecognizable dead bodies, partly eaten by scavengers. She assumes Theon is dead, though she cannot be certain. It seems to her that the Northmen fought amongst themselves - rather accurate description of the battle.
+
+[[Lothar Frey]] and Roose falsely inform Robb that the ironborn destroyed Winterfell and killed its occupants and Ser Rodrik, and that Ramsay saved the day by taking Theon and the survivors to the Dreadfort.
+
+Of the ironborn who have occupied Winterfell, a total of twenty-one have been killed: two during the escape of the Stark boys, three by Ramsay at Theon's command, and sixteen by the Dreadfort soldiers.
+
+===The capture of Torrhen's Square===
+Some time (it is not mentioned exactly when) after Ser Rodrik marches to Winterfell with most of the Tallhart garrison, Dagmer and his surviving men return to Torrhen's Square and seize the sparsely-defended castle. No specific details are given in the books about that military action.
+
+===Balon's offers of alliance===
+Balon, pretentiously styling himself as "King of the Isles and the North" (although the ironborn have conquered a very small part of the whole North), writes to the [[Small Council]], inviting [[Joffrey Baratheon|Joffrey]] to send an envoy to the Iron Islands, to fix the borders between their realms and discuss a possible alliance. Tyrion receives the letter and thinks it over: the ironborn's longships may be a great help against Stannis's fleet, but they are thousands of leagues away on the wrong side of Westeros; moreover, Tyrion is far from certain that he wants to give away half the realm. He contemplates taking Balon's offer to the council, but eventually dismisses it from his mind.
+
+Some time later, Balon writes another letter to the Small Council, this time offering the Lannisters terms of alliance: he asks that they recognize his kingship and grant him everything north of the Neck.
+
+[[Tywin Lannister|Tywin]] explains the situation to the council: the ironborn have conquered the Neck, Moat Cailin, Deepwood Motte and most of the Stony Shore; Robb's heirs are (allegedly) dead; Winterfell has fallen; Balon's longships command the sunset sea, and are well placed to menace [[Lannisport]], [[Fair Isle]] and even [[Highgarden]], should the Lannisters and their allies provoke Balon.
+
+[[Paxter Redwyne]] and [[Mace Tyrell]] consider Balon's offer as very reasonable: the ironborn's longships can reinforce the [[Redwyne fleet]] and give them sufficient strength at sea to assault [[Dragonstone]]. As for Balon's demands: there is nothing north of the Neck that any sane man would want, so if Balon prepares to trade swords and sails for stone and snow - it is acceptable; Balon will finish the Northmen while the Lannisters and the [[House Tyrell|Tyrells]] finish Stannis.
+
+Tywin, similarly to Tyrion, is not ready to give up half the kingdom so easily; since Balon is already fighting the Starks, why pay him for what he has given for free? Tywin decides not to answer Balon immediately, but wait till a better option may present itself.
+
+===[[Assassination of Balon Greyjoy#in the books|Balon's death]] and the [[Kingsmoot on Old Wyk#in the books|kingsmoot on Old Wyk]]===
+Not long after sending the second aforementioned offer of alliance, Balon dies, allegedly by falling off a bridge during a storm.{{Note|In "The Forsaken" sample chapter of the sixth novel it is revealed that Euron had Balon killed, presumably by hiring [[Faceless Men|a faceless man]] for that purpose.}} The captain of the ''Myraham'' informs Robb about Balon's death.
+
+At that point, Catelyn urges Robb to return home and fight off the ironborn. Robb agrees, but it is too late: he has lost his brothers, the North, Winterfell, [[Jaime Lannister|his most important captive]], the Freys, the Karstarks, the Boltons (as he finds out too late) and a large number of soldiers due to Roose's treachery. He is slightly encouraged by the news about Balon's death and comes up with a plan to liberate Moat Cailin, but [[Red Wedding|is killed]] before he can execute it.
+
+Following the [[battle for the Wall]], Stannis informs Jon that although the ironborn are fighting amongst themselves since Balon's death, they still hold Moat Cailin, Deepwood Motte, Torrhen's Square and most of the Stony Shore.
+
+Euron tries to take over the Iron Islands, but Aeron foils him by holding a kingsmoot. Asha and Victarion return to the Iron Islands to participate the kingsmoot, leaving skeletal garrisons at the strongholds they seized.
+
+Theon is still held captive at the Dreadfort, and has no idea about his father's death and the kingsmoot. Only two ironborn (Lord Sawane Botley and the maester of [[House Goodbrother]]) mention him as a candidate; most of the ironborn do not care if he is dead or alive. 
+
+At that point, Asha realizes that the whole idea of the invasion has been wrong, since the North is too large for the ironborn to hold, and too full of Northmen; the ironborn can control the seas with their longships, not the mainland. Correctly concluding that soon the ironborn are about to lose everything they won, Asha comes up with the idea to make peace with the North. She discusses that with her captive [[Sybelle Glover|Lady Glover]], who promises that if the ironborn hand back Deepwood Motte, Torrhen's Square and Moat Cailin - the Northmen will cede the ironborn [[Sea Dragon Point]] and all the Stony Shore; an exchange of hostages will seal the pact. Asha tries to persuade Victarion to make peace with the North, but he rejects the idea.
+
+At the kingsmoot, Asha announces her platform - to make peace with the North. She reminds the attending ironborn of the unnecessary casualties they have suffered, and shows the "treasures" they have gained by the invasion: pebbles, pinecones and turnips; she emphasizes that has also been the outcome of her father's [[Greyjoy Rebellion|previous ill-planned campaign]]. Many ironborn see the wisdom in Asha's words and vote for her; Victarion gains about the same number of supporters, but eventually Euron is elected to be the king.
+
+Euron has plans to conquer all of Westeros, and is by no means as poor strategist as Balon was; he does not have any particular interest in the North, and does not send there any reinforcements. Instead, he focuses his attention on much more prosperous target - the [[Reach]], and at the same time sends the Iron Fleet to the [[Slaver's Bay]], under the command of Victarion, to bring him [[Daenerys Targaryen|Daenerys]] and her dragons.
+
+===[[Siege of Moat Cailin#in the books|Siege of Moat Cailin]]===
+The siege of Moat Cailin happens in the books very similarly to the show, except that Ralf Kenning is nearly dead when Theon arrives there, and the latter gives him the gift of mercy. The ironborn who objects (and is subsequently killed by Adrack Humble) to Ramsay's false offer is Dagon Codd.
+
+By the time Theon arrives at Moat Cailin, the garrison consists of sixty-seven ironborn; they all perish, sixty-three of whom are flayed alive by the Boltons.
+
+===[[Fight by Deepwood Motte#in the books|Fight by Deepwood Motte]]===
+Following Euron's coronation, Asha returns to Deepwood Motte, with four ships and 200 men. Soon she receives a taunting letter from Ramsay, threatening to kill any ironborn who remain at the North, and implying that Theon is alive and held prisoner at the Dreadfort. Asha feels sorry for her brother, but does not attempt to rescue him.
+
+Stannis, following Jon's advice, attacks Deepwood Motte. His host, reinforced by the fierce Northern mountain clans and [[House Mormont]], destroys nearly all of Asha's troops and ships. Asha and the very few ironborn survivors are taken captive; Deepwood Motte is restored to House Glover. The victory grants Stannis credibility in the eyes of the people of the North, and many survivors of Northern houses join his host, increasing its number of soldiers to about 5,000.
+
+At that point, Stannis has enough manpower to liberate Torrhen's Square too, thus complete the purge of the North of its ironborn invaders. Asha promises Stannis she can make Dagmer yield (though she is uncertain he will obey her), but Stannis refuses, stating that Torrhen's Square is not important, and instead marches to Winterfell to [[Battle in the ice|deal with the Boltons]]. After more than a month, Asha and Theon are reunited, as Stannis's prisoners.
+
+===Aftermath===
+
+Similarly to the show, the ironborn have gained very little and suffered heavy casualties throughout the invasion: at least 280 ironborn (not including the unknown number of casualties that Dagmer's force suffered) have been killed; more might have killed during the capture of Moat Cailin and Deepwood Motte, but it is not mentioned in the novels.
+
+Technically, the invasion has not ended yet, as Dagmer still holds Torrhen's Square; practically, his relatively small force (which is unlikely to be reinforced) hardly poses any threat against the North.
+
+The people of the North have always hated the ironborn for centuries of reaving and raiding along the Stony Shore; as a result of the invasion, mainly the specific atrocities performed by Theon, the hatred toward the ironborn has greatly increased; several of Stannis's subordinates make it very clear to Asha, during the march to Winterfell.
+
+In "''A Dance with Dragons''", [[Davos Seaworth|Davos]] arrives at the White Harbor in order to gain Lord [[Wyman Manderly]]'s support. One of the attending Freys, Rhaegar, states: "Robb Stark betrayed us all. He abandoned the North to the cruel mercies of the ironmen to carve out a fairer kingdom for himself along the [[Trident]]. Then he abandoned the riverlords who had risked much and more for him, breaking his marriage pact with my [[Walder Frey|grandfather]] to wed the first western wench who caught his eye". Despite the Freys' crude lies about the Red Wedding, Rhaegar's words accurately describe Robb's indifference to his subjects' distress while they have been ravaged by the ironborn.
+
+Objectively, it would have been natural for the people of the North to hold a grudge against the Starks for the reasons Rhaegar Frey mentioned; actually, at least three Northern houses - the Mormonts, Glovers and Manderlys - remain loyal to House Stark. Robett Glover, who has a good reason to resent Robb similarly to his show analogous character, makes it clear to Davos he is still loyal to the Starks.
+
+[[Barbrey Dustin|Lady Dustin]] and [[Alys Karstark]] resent the Starks, though not for Robb's lack of reaction to the ironborn invasion: Lady Dustin - because [[Eddard Stark|Eddard]] did not bring her late husband's bones to be buried at his ancestral home; Alys - for [[Rickard Karstark|her father]]'s death (since Jon greatly helped and protected Alys from those who sought to do her ill, she may change her mind in the future, though).
+
+It is yet to be seen whether other Northerners, especially those who have been harmed by the ironborn (the Tallharts and the residents of the Stony Shore) are still loyal to House Stark.
+
+==Gallery==
+<gallery>
+File:Theon 2x06.png|Theon captaining his first ship.
+File:Bran surrenders Winterfell.jpg|Greyjoys's [[Capture of Winterfell|take]] [[Winterfell]].
+File:S04E8 - Moat Cailin.png|The [[Ironborn]] hold Moat Cailin against Northern armies. 
+File:Yara Greyjoy, Greyjoy warriors (Mhysa).jpg|Yara commands the best killers on the Iron Islands.
+File:Yara leads troops.png|[[Yara Greyjoy|Yara]] leads Ironborn to [[Assault on the Dreadfort|attack]] the [[Dreadfort]].
+File:Yara arrives.jpg|Yara arrives at Winterfell with her forces.
+</gallery>
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{War of the Five Kings}}
+
+<!--Categories-->
+[[Category:Ironborn invasion of the North| ]]
+[[Category:War of the Five Kings]]
+[[Category:Wars]]
+
+<!--Languages-->
+[[ru:Вторжение железнорождённых на Север]]

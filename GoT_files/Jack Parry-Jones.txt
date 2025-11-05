@@ -1,0 +1,31 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Jack Parry-Jones.jpg
+| Birth   = Merthyr Tydfil, South Wales, UK
+| Death   = 
+| Role    = [[Willem Blackwood]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]]
+| Credits = 3 episodes {{Below|Credits}}
+| First   = "[[The Red Dragon and the Gold]]"
+| Last    = 
+}}
+'''Jack Parry-Jones''' is a Welsh actor. He has appeared in the television series ''{{WPS|Da Vinci's Demons}}'', ''{{WPS|Holby City}}'', ''{{WPS|The Crown (TV series)|The Crown}}'', ''{{WPS|Our Girl}}'', ''{{WPS|Death in Paradise (TV series)|Death in Paradise}}'' and ''{{WPS|Hijack (TV series)|Hijack}}''.
+
+Parry-Jones plays [[Willem Blackwood]] in the [[House of the Dragon: Season 2|second season]] of ''[[House of the Dragon]]''.
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 2||||yes|yes||yes}}
+
+==External links==
+*{{IMDb|# = 5777855}}
+*{{Instagram|# = jackparryj}}
+
+<!--Categories-->
+{{DEFAULTSORT:Parry-Jones, Jack}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Jack Parry-Jones]]

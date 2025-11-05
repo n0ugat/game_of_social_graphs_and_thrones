@@ -1,0 +1,82 @@
+{{Tab (House of the Dragon)}}
+{{Canonicity|Canon}}
+{{Subpage|HOTD}}
+{{House
+| Title     = House Tully
+| Type      = Tully
+| Image     = House Tully.svg
+| Arms      = A leaping trout, silver, over a wavy white-blue-white fess on per fess mud red and blue
+| Words     = "Family, Duty, Honor"
+| Titles    = [[Lord of Riverrun]]<br>[[Lord Paramount of the Trident|Lord Paramount of the Riverlands]]
+| Seat      = [[Riverrun]]
+| Region    = [[Riverlands]]
+| Head      = Lord [[Oscar Tully]]{{Ref|HOTD206}}
+| Heir      =
+| Overlords = [[House Targaryen/House of the Dragon|House Targaryen]]<br>{[[House Hoare]]} {{C|formerly}}
+| Vassals   = [[House Blackwood]]<br>[[House Bracken]]<br>[[House Darry]]<br>[[House Frey]]<br>{[[House Harroway]]}<br>[[House Lothston]]<br>[[House Mallister]]<br>[[House Mooton]]<br>{[[House Qoherys]]}<br>[[House Smallwood]]<br>[[House Strong]]<br>{[[House Towers]]}<br>[[House Whent]]
+| Religion  = [[Faith of the Seven]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+{{Quote|House Tully is a fish with no head.|Daemon Targaryen|The Red Dragon and the Gold}}
+'''House Tully'''{{Ref|GOT106}} of [[Riverrun]] is one of the [[Great House]]s of [[Westeros]]. They were granted dominion over the lands surrounding the [[Trident]] river by the [[House Targaryen/House of the Dragon|Targaryens]] when they [[Aegon's Conquest|conquered]] the [[Seven Kingdoms]], and have ruled the [[Riverlands]] since.
+
+==History==
+===Background===
+House Tully rose to prominence during [[Aegon's Conquest]]. Lord [[Edmyn Tully]] rebelled against the [[King of the Iron Islands]], [[Harren Hoare|Harren the Black]], to support the invading [[House Targaryen/House of the Dragon|House Targaryen]]. Edmyn's fellow riverlords followed his lead. When [[Aegon I Targaryen|Aegon Targaryen]] established his rule from the [[Iron Throne]], he rewarded Edmyn by elevating the Tullys to [[Lord Paramount of the Trident|Lords Paramount of the Trident]].
+
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+A member of House Tully travels to [[King's Landing]] to participate in the [[Heir's Tournament]].{{Ref|HOTD101}}
+
+The [[Small Council]] discusses a land dispute in the [[Riverlands]] between [[House Blackwood]] and [[House Bracken]], as the ailing Lord [[Grover Tully|Grover]] is unable to handle the issue, [[Grover Tully's son|his son]] now ruling Riverrun in all but name.{{Ref|HOTD106}}
+
+At the [[Green Council]], Ser [[Otto Hightower]] refers to Riverrun as one of their allies, and commands [[raven]]s be sent to them.{{Ref|HOTD109}} At the [[Black Council]], Maester [[Gerardys]] also sends ravens to Lord [[Grover Tully]], while Prince [[Daemon Targaryen]] announces his intentions to personally treat with him.{{Ref|HOTD110}}
+
+===[[House of the Dragon: Season 2|''House of the Dragon'': Season 2]]===
+At the beginning stages of the [[Dance of the Dragons]], House Tully remains undeclared and has not sided with the [[Blacks]] or the [[Greens]].{{Ref|HOTD201}}
+
+==Members==
+*Lord {[[Grover Tully]]}, the Lord of Riverrun and Lord Paramount of the Trident. Died of an illness.
+**{[[Grover Tully's son|Son]]}
+***Lord [[Oscar Tully]], Grover's grandson and successor.
+
+==In the books==
+{{Main|House Tully#In the books}}
+
+==Gallery==
+<gallery>
+File:Tully Shield.jpg
+File:2x7 Oscar Tully Still.jpg|[[Oscar Tully]] bearing his family's sigil on his gorget.
+File:2x8 Daemon Targaryen Still.jpg|House Tully soldiers flanking [[Daemon Targaryen]] at [[Harrenhal]], surrounded by other Rivermen. One of the soldiers bears the Tully coat of arms.
+File:House-of-the-dragon-season-2-episode-7-13.jpg|Lord [[Oscar Tully|Oscar]] has Tully soldiers take Sir [[Willem Blackwood|Willem]] into custody.
+File:Edmyn Tully becomes Lord Paramount.png|[[Edmyn Tully]] raised to [[Lord Paramount of the Trident|Lord Paramount]] by [[Aegon the Conqueror]].
+File:2x8 Daemon and Rhaenyra Still 1.jpg|Tully troops in Daemon's army.
+File:2x8 Daemon and Rhaenyra Still 3.jpg|Tully bannermen kneel to [[Rhaenyra Targaryen|Rhaenyra]].
+</gallery>
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|House Tully}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{House Tully/House of the Dragon}}
+{{Great Houses of Westeros/House of the Dragon}}
+{{Houses from the Riverlands/House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Tully, House}}
+[[Category:Great Houses]]
+[[Category:House Tully| ]]
+[[Category:Houses from the Riverlands]]
+[[Category:Houses of First Men origin]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[ru:Талли/Дом Дракона]]

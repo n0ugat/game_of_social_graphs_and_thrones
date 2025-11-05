@@ -1,0 +1,23 @@
+{{Crew
+|Image = Ivan Mica.png
+|dateofbirth = 
+|birthplace = {{WPS|Slovakia}}
+|job = Stunt Performer
+|imdb = http://www.imdb.com/name/nm0583984
+|twitter = }}
+'''Ivan Mica''' is a Slovakian stuntman.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 1|first season]] episodes "[[The Wolf and the Lion]]" and "[[The Pointy End]]" and the [[Game of Thrones: Season 6|sixth season]] episode "[[Battle of the Bastards (episode)|Battle of the Bastards]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 1||||||yes||yes}}
+{{Game of Thrones: Season 6|||||||||yes}}
+
+==See also==
+*{{IMDb
+|# = 0583984}}
+*{{Facebook
+|# = ivan.mica.9}}
+{{DEFAULTSORT:Mica, Ivan}}
+[[Category:Stunt performers of Game of Thrones]]

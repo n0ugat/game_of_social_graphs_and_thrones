@@ -1,0 +1,43 @@
+{{Canonicity|Canon}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Lannister
+| Image     = 
+| Arms      = 
+| Words     = 
+| Titles    = 
+| Seat      = [[Feastfires]]
+| Region    = [[Westerlands]]
+| Head      = 
+| Heir      = 
+| Overlords = [[House Lannister]]
+| Vassals   = 
+| Religion  = 
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Prester'''{{Guideref|Viewer's Guide}} of [[Feastfires]] is a [[Noble house|vassal house]] that holds fealty to [[House Lannister]] of [[Casterly Rock]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, House Prester is the same. Their sigil is a red ox on ermine and their motto is "Tireless."
+
+===Known members===
+*Lord Garrison Prester, Lord of Feastfires.
+**Ser Forley Prester, his cousin.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Houses from the Westerlands}}
+
+<!--Categories-->
+{{DEFAULTSORT:Prester, House}}
+[[Category:House Prester| ]]
+[[Category:Houses from the Westerlands]]
+[[Category:Vassal houses]]

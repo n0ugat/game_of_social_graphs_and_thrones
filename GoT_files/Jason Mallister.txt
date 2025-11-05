@@ -1,0 +1,77 @@
+{{Canonicity|Canon}}
+{{Distinguish|Jason Lannister}}
+{{Heraldry
+| Image = House Mallister.svg
+| Link  = House Mallister
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Tully
+| Image       = Jason-Mallister.png
+| Birth       = At [[Seagard]]
+| Death       = 
+| House       = [[House Mallister|Mallister]]
+| Affiliation = [[House Tully]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Riverlands|Rivermen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|My eldest brother, Rodrik, led a frontal assault on Seagard, a town built to protect the mainland from us. After ferocious fighting beneath the city walls he was slain by Lord Jason Mallister, and his men defeated.|[[Theon Greyjoy]]|Greyjoy Rebellion - Theon Greyjoy}}
+Lord '''Jason Mallister''' is the head of [[House Mallister]]. He is a loyal bannerman of [[House Tully]].
+
+==Biography==
+During the [[Greyjoy Rebellion]], Lord Jason led the victorious defense of his ancestral seat of [[Seagard]] against an [[Assault on Seagard|attack of ironborn forces]], led by [[Rodrik Greyjoy]], and killed him.{{Ref|H&L202}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Lord Jason Mallister is a loyal bannerman of House Tully. He has at least one son, named Patrek.
+
+As a young knight, Lord Jason participated in a tourney at [[Storm's End]], where he was defeated by [[Rhaegar Targaryen|Rhaegar]]. During the early stage of [[Robert's Rebellion]], he attended the wedding of [[Eddard Stark]] and [[Catelyn Stark|Catelyn Tully]], giving them lavish gifts.{{Bookref|AGOT|28}} He participated in the [[Battle of the Trident]], slaying three of Rhaegar's bannermen, thus avenging the death of his kinsman Jeffory Mallister, who had been killed under orders of the [[Aerys II Targaryen|Mad King]].{{Bookref|AGOT|29}}
+
+Lord Jason takes part in the [[Tournament#Tourney of the Hand|Tourney of the Hand]];{{Bookref|AGOT|29}} later, during the [[War of the Five Kings]], he takes part in the [[Battle of Whispering Wood|battle in the Whispering Wood]]{{Bookref|AGOT|63}} and the liberation of [[Riverrun]] at the [[Battle of the Camps]].{{Bookref|AGOT|69}} He returns to Seagard after [[Robb Stark|Robb]] is declared the [[King in the North]].
+
+Lord Jason is one of the seven nobles who are chosen to launch the funeral boat of [[Hoster Tully]].{{Bookref|ASOS|35}} Jason meets Robb on his march north to the [[Twins]]. Robb orders him to send two ships into the [[Neck]], one carrying [[Galbart Glover]] and the other [[Maege Mormont]], to find [[Greywater Watch]].{{Bookref|ASOS|45}}
+
+In the fourth novel, Jason is forced to surrender Seagard to the [[House Frey|Freys]], since they threaten to kill his son Patrek, who was taken captive at the [[Red Wedding]].{{Bookref|AFFC|38}} Currently he and his son are imprisoned in Seagard.
+
+==Appearances==
+*{{H&L|Greyjoy Rebellion - Theon Greyjoy}} {{Mentioned}}
+*{{H&L|The Greyjoy Rebellion}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Mallister}}
+
+<!--Categories-->
+{{DEFAULTSORT:Mallister, Jason}}
+[[Category:Bannermen of House Tully]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Lords]]
+[[Category:Members of House Mallister|Jason Mallister]]
+[[Category:Rivermen]]
+
+<!--Languages-->
+[[de:Jason Mallister]]
+[[pl:Jason Mallister]]
+[[pt-br:Jason Mallister]]
+[[ru:Джейсон Маллистер]]

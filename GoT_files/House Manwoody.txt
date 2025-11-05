@@ -1,0 +1,69 @@
+{{Canonicity|Canon}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Martell
+| Image     = House Manwoody.svg
+| Arms      = Sable, a death's head argent crowned or <br> {{C|A golden crown atop a skull on a black field}}
+| Words     = 
+| Titles    = [[Lordship|Lord of Kingsgrave]]
+| Seat      = [[Kingsgrave]]
+| Region    = [[Dorne]]
+| Head      = 
+| Heir      = 
+| Overlords = [[House Martell]]
+| Vassals   = 
+| Religion  = [[Faith of the Seven]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+{{Quote|A crowned skull: The Manwoodys of Kingsgrave.|[[Podrick Payne]]|Two Swords}}
+'''House Manwoody'''{{Ref|GOT401}}{{Note|Referred to as "Manwoodys."}} of [[Kingsgrave]] is a vassal house which holds fealty to [[House Martell]] of [[Dorne]]. Their seat is the fortress Kingsgrave, in the passes of the [[Red Mountains]] along Dorne's borders.
+
+House Manwoody's sigil is a white skull wearing a golden crown, on a black field.
+
+==History==
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+[[File:401 Dornish heraldry.png|thumb|House Manwoody banner (second from the left) - a white skull wearing a golden crown, on a black field.]]
+[[File:Manwoody heraldry GOT exhibition.jpg|thumb|Behind-the-scenes photo of a Manwoody banner.]]
+A House Manwoody banner is seen amongst the delegation of Dornish lords who accompany [[Oberyn Martell]] to [[King's Landing]].<ref>"[[Two Swords]]"</ref>
+
+==Known members==
+*{[[Albin Manwoody]]}, Sworn Brother of the [[Night's Watch]] and former [[king]] of the lands around Kingsgrave.
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, House Manwoody's castle seat guards the western of the two passes that lead through the [[Red Mountains]] into Dorne, known as the Prince's Pass. While House Fowler's seat at Skyreach is further south near the top of the pass, Kingsgrave is located further north, about halfway through the mountains. As a result, the Manwoodys are marcher lords, always the first line of defense in the frequent border wars which occurred in the Dornish marches between Dorne, the [[Stormlands]], and the [[Reach]]. The name "Kingsgrave" as well as the Manwoody sigil - a crowned skull - refer to the fact that an old [[King of the Reach]] was slain in battle there centuries ago.
+
+As they are located deep within the Red Mountains, the Manwoodys are presumably "Stony Dornishmen" - those with the least [[Rhoynar]] bloodlines. Instead, the Stony Dornishmen are primarily composed of the same [[First Men]]/[[Andals|Andal]] ethnic mixture as the rest of southern Westeros. As a result, Stony Dornishmen tend to be tall and light-haired.
+
+===Known members===
+*Lord Dagos Manwoody: Lord of Kingsgrave.
+**Mors Manwoody, his eldest son and heir.
+**Dickon Manwoody, his second son.
+*Ser Myles Manwoody, his brother.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Houses from Dorne}}
+
+<!--Categories-->
+{{DEFAULTSORT:Manwoody, House}}
+[[Category:House Manwoody| ]]
+[[Category:Houses from Dorne]]
+[[Category:Royal houses]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[de:Haus Mannkraft]]
+[[fr:Maison Forrest]]
+[[pt-br:Casa Manwoody]]
+[[ru:Манвуди]]

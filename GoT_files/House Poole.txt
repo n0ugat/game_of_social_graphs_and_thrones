@@ -1,0 +1,61 @@
+{{Canonicity|Canon}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Stark
+| Image     = 
+| Arms      = 
+| Words     = 
+| Titles    = 
+| Seat      = 
+| Region    = [[North]]
+| Head      = 
+| Heir      = 
+| Overlords = [[House Stark]]
+| Vassals   = 
+| Religion  = [[Old Gods]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Poole'''{{Ref|GOT104}}{{Note|Jeyne's surname is Poole.}} is a minor [[Noble house|vassal house]] of the [[North]]. They serve [[House Stark]] of [[Winterfell]].
+
+==Known members==
+*{[[Vayon Poole]]}, Steward of [[Winterfell]]. Slain during the [[Massacre in the Red Keep|purge of the Stark household]].
+** [[Jeyne Poole]], his daughter, missing after the purge of the Stark household. Her fate is unknown.
+** Four other daughters{{Ref|GOT104}}
+
+==Family tree==
+{{Poole tree}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, House Poole is a lesser House in service of House Stark of Winterfell. Their sigil is a blue plate on white, with a grey tressure.
+
+There is no mentioning in the books that Jeyne has any siblings (according to the TV series she has four sisters), but it is not said in the books either that she was an only child.
+
+===Known members===
+*{Vayon Poole}, the steward of Winterfell.
+**Jeyne Poole, his daughter. Forced by the Lannisters to impersonate [[Arya Stark]] and to marry [[Ramsay Bolton]]. Recently escaped from the Boltons, and currently is in [[Stannis Baratheon|Stannis]]'s camp, soon to be sent to [[Castle Black]].
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Houses from the North}}
+
+<!--Categories-->
+{{DEFAULTSORT:Poole, House}}
+[[Category:House Poole| ]]
+[[Category:Houses from the North]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[de:Haus Pool]]
+[[fr:Maison Poole]]
+[[ru:Пули]]

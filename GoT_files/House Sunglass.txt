@@ -1,0 +1,61 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Targaryen
+| Image     = House Sunglass.svg
+| Arms      = Seven golden seven-pointed stars in a ring on white<ref name="Shield">[[:File:SOHN Sunglass Shield.png]]</ref>
+| Words     = 
+| Titles    = 
+| Seat      = [[Sweetport]]
+| Region    = [[Crownlands]]
+| Head      = 
+| Heir      = 
+| Overlords = [[House Targaryen/House of the Dragon|House Targaryen]]
+| Vassals   = 
+| Religion  = [[Faith of the Seven]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Sunglass'''{{Con|ASOIAF}} of [[Sweetport]] is a [[noble house]] from the [[Crownlands]]. Their heraldry displays a ring of seven gold seven-pointed stars on a white field.<ref name="Shield" />
+
+==History==
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+[[Man-at-arms|Men-at-arms]] from House Sunglass take part in the [[War for the Stepstones]].{{Ref|HOTD103}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the seat of House Sunglass is Sweetport Sound in or along [[Blackwater Bay]]. They are among the vassals of [[Stannis Baratheon]].
+
+===Known members===
+*Lord {Guncer Sunglass}, Lord of Sweetport Sound, a pious follower of the Faith. Burned alive at [[Selyse Baratheon]]'s orders as a sacrifice to [[Lord of Light|R'hllor]].
+**Lord Sunglass, his unnamed brother and heir, the new Lord of Sweetport Sound. Self-exiled in [[Volantis]] for fear of being burned by [[Melisandre]].
+
+==Gallery==
+<gallery>
+File:SOHN Sunglass Shield.png|A kite shield displaying the arms of House Sunglass.
+File:SOHN Velaryon Army Still.jpg|House Sunglass knight in the [[Stepstones]].
+</gallery>
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Houses from the Crownlands/House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Sunglass, House}}
+[[Category:House Sunglass| ]]
+[[Category:Houses from the Crownlands]]
+[[Category:Houses from the Narrow Sea]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[fr:Maison Solverre]]

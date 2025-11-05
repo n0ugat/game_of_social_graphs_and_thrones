@@ -1,0 +1,63 @@
+{{Canonicity|Canon}}
+{{ConjectureInfo}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Lannister
+| Image     = 
+| Arms      = 
+| Words     = 
+| Titles    = Lord of Silverhill
+| Seat      = [[Silverhill]]
+| Region    = [[Westerlands]]
+| Head      = [[Lord Serrett]]
+| Heir      = 
+| Overlords = [[House Lannister]]
+| Vassals   = 
+| Religion  = [[Faith of the Seven]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Serrett'''{{Ref|GOT206}}{{Note|Lord Serrett's surname is Serrett.}} of [[Silverhill]] is a vassal house that holds fealty to [[House Lannister]] of [[Casterly Rock]]. Their lands are located in the woodlands southeast of [[Casterly Rock]] and south of [[Deep Den]].
+
+==History==
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+[[Lord Serrett]] is mentioned in a letter on [[Tywin Lannister]]'s table at [[Harrenhal]] on troop movements.{{Ref|GOT206}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the House Serrett is the Lords of Silverhill. Their sigil is a peacock in his pride on a field of cream. Their words are ''I Have No Rival''.
+
+A very few members of the house appear in the novels, and their role is very minor.
+
+When the [[House Lannister|Lannister]] host assembles for the [[battle on the Green Fork]], Lord Serrett (whose first name is not mentioned) and his retainers are among the bannermen who ride alongside [[Kevan Lannister|Kevan]]. After the battle, [[Tyrion Lannister|Tyrion]] mentions Lord Serrett as one of the people who could be a better choice than himself for the office of [[Hand of the King]].
+
+In ''A Feast for Crows'', when [[Brienne of Tarth|Brienne]] arrives at [[Maidenpool]], she notices that the serjeant at the gates wears the peacock sigil of House Serrett.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Houses from the Westerlands}}
+
+<!--Categories-->
+{{DEFAULTSORT:Serrett, House}}
+[[Category:House Serrett| ]]
+[[Category:Houses from the Westerlands]]
+[[Category:Houses of Andal origin]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[de:Haus Serrett]]
+[[es:Casa Serrett]]
+[[fr:Maison Serrett]]
+[[it:Casa Serrett]]
+[[nl:Huis Serret]]
+[[ru:Серретты]]
+[[zh:沙略特家族]]

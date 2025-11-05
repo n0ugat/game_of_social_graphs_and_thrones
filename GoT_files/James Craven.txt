@@ -1,0 +1,29 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = James Craven.jpg
+| Birth   = 
+| Death   = 
+| Role    = [[Joren Stark]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]]
+| Credits = "[[A Son for a Son]]"
+| First   = 
+| Last    = 
+}}
+'''James Craven''' is an actor. He has appeared in the television series ''{{WPS|Coronation Street}}'' and ''{{WPS|Geek Girl (TV series)|Geek Girl}}''.
+
+Craven plays [[Joren Stark]] in the [[House of the Dragon: Season 2|second season]] of ''[[House of the Dragon]]''.
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 2|yes}}
+
+==External links==
+*{{IMDb|# = 13591092}}
+*{{Spotlight|# = 9097-9056-3430}}
+*{{Twitter|# = james.t.craven}}
+
+<!--Categories-->
+{{DEFAULTSORT:Craven, James}}
+[[Category:Co-starring cast members of House of the Dragon]]

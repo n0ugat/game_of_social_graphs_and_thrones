@@ -1,0 +1,85 @@
+{{Canonicity|Canon}}
+{{Spoiler|HOTD}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Baratheon
+| Image     = House Dondarrion.svg
+| Arms      = Forked purple lightning on a black field speckled with 4-pointed stars
+| Words     = 
+| Titles    = [[Lord of Blackhaven]]
+| Seat      = [[Blackhaven]]
+| Region    = [[Stormlands]]
+| Head      = 
+| Heir      = 
+| Overlords = [[House Baratheon]]
+| Vassals   = {[[House Cole]]}
+| Religion  = 
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+{{Quote|For thousands of years the Storm Kings fought the Gardener kings of the Reach and various families of Dorne... for control of the Dornish Marches, just below the Red Mountains. The fighting didn't stop until Dorne married into the Seven Kingdoms, a mere hundred years ago. But still the houses of the Stormlands, such as the Dondarrions, guard the Boneway, the mountain pass into the Marches, against any Dornish incursion.|Brienne of Tarth|The Stormlands}}
+'''House Dondarrion'''{{Ref|GOT106}}{{Note|Beric's surname is Dondarrion.}} of [[Blackhaven]] is a vassal house that holds fealty to [[House Baratheon]] of [[Storm's End]]. Their lands are located within the [[Dornish Marches]], a region of the [[Stormlands]] that lies to the north of [[Dorne]]. The head of the house is the [[Lord of Blackhaven]].
+
+House Dondarrion was ruled by Lord [[Beric Dondarrion]], a charismatic and popular young lord, noted for his skill at [[Tournament|tourneys]]. House Dondarrion's sigil is a forked purple lightning bolt on a black sky speckled with four-pointed stars.
+
+==History==
+House Dondarrion is a vassal house of [[House Baratheon]]. During the period of incessant warfare in Westeros before [[Aegon's Conquest]] and after it, the Dondarrions were charged with guarding the [[Boneway]] against any raids by the [[Dornishmen]].{{Ref|H&L314}} During the reign of [[Aerys II Targaryen]], the lord and lady of House Dondarrion were abducted by the [[Bandit Lords of the Marches]] and kept hostage in the [[Diamond Cave]]. They were rescued by Ser [[Gwayne Gaunt]]{{Note|The paragraph mentioning this event is erroneously placed in Arthur Dayne's entry. The opening sentence calling him the "thirdborn son to Lord Symon of House Gaunt" makes it apparent that this paragraph was meant for Gwayne Gaunt's entry.}} who killed all the outlaws.{{Ref|GOT806}}
+
+Following Lord [[Beric Dondarrion]]'s final death,{{Ref|GOT803}} the current status of the house is unknown.
+
+==Members==
+*Lord {[[Beric Dondarrion]]}, [[Lord of Blackhaven]], head of the house. Sent to the [[Riverlands]] by [[Eddard Stark]] to bring the king's justice to Ser [[Gregor Clegane]]. Now the leader of the [[Brotherhood Without Banners]]. Killed by [[wight]]s during the [[Battle of Winterfell]].
+
+===Historical members===
+*Lord {[[Simon Dondarrion]]}, head of the house during the reign of [[Jaehaerys I Targaryen]].
+**Lord {[[Beric Dondarrion (son of Simon)|Beric Dondarrion]]}, his son and successor. Head of the house during the reign of King [[Viserys I Targaryen]].
+*Ser {[[Arlan Dondarrion]]}, fought against [[Dorne|Dornish]] incursions. Knighted future [[Lord Commander of the Kingsguard|Lord Commander]] Ser [[Criston Cole]].
+*Ser {[[Manfred Dondarrion]]}, a [[Knighthood|knight]] during the reign of [[Daeron II Targaryen]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, House Dondarrion was founded by a messenger who brought the word of an impending attack by Dorne to the Storm King. The messenger was attacked by two Dornishmen, but a freak bolt of lightning killed both of them, allowing the messenger to complete his task.
+
+A century before the events of the series, House Dondarrion was charged by the King to root out a bandit warlord known as the Vulture King, who had established a hideaway in the [[Red Mountains]]. The Dondarrions, allied to the neighboring [[House Caron]] of [[Nightsong]], took eight hundred horse and four thousand foot soldiers into the mountains to complete the mission. Ser [[Duncan the Tall]] took part in this mission as a small boy and [[squire]] to Ser Arlan of [[Pennytree]].
+
+Lord Beric Dondarrion is young, handsome, and popular, known for his valor, steadfastness, and reliability.
+
+==Gallery==
+<gallery>
+File:DondarrionSigil.jpg|House Dondarrion sigil, from [[Histories & Lore: Season 3|''Histories & Lore'': Season 3]].
+File:House Dondarrion.svg
+File:KOTNS Beric Dondarrion Still.jpg|Lord Beric during King [[Viserys I Targaryen|Viserys I]] time. 
+File:DondarrionFireSword.png|Lord Beric during the [[War of the Five Kings]].
+</gallery>
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{House Dondarrion}}
+{{Houses from the Stormlands}}
+
+<!--Categories-->
+{{DEFAULTSORT:Dondarrion, House}}
+[[Category:House Dondarrion| ]]
+[[Category:Houses from the Dornish Marches]]
+[[Category:Houses from the Stormlands]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[de:Haus Dondarrion]]
+[[es:Casa Dondarrion]]
+[[fr:Maison Dondarrion]]
+[[it:Casa Dondarrion]]
+[[nl:Huis Dondarrion]]
+[[pl:Ród Dondarrion]]
+[[pt-br:Casa Dondarrion]]
+[[ru:Дондаррионы]]
+[[zh:唐德利恩家族]]

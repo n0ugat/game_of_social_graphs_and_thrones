@@ -1,0 +1,34 @@
+{{DISPLAYTITLE:Introducing ''The Official Game of Thrones: House of the Dragon Podcast''}}
+{{Episode
+| Title    = Introducing ''The Official Game of Thrones: House of the Dragon Podcast''
+| Type     = Podcast
+| Image    = TOGOTPHOTD100.jpg
+| Season   = 1
+| Episode  = 
+| Date     = July 24, 2022{{Listref|TOGOTPHOTD}}
+| Runtime  = 3:01{{HBOref|TOGOTPHOTD}}
+| Writer   = 
+| Director = 
+| Year     = 
+| Previous = 
+| Next     = "[[Everything We Know About House of the Dragon (with Paddy Considine and Matt Smith)|Everything We Know About ''House of the Dragon'' (with Paddy Considine and Matt Smith)]]"{{Listref|TOGOTPHOTD}}
+}}
+"'''Introducing ''The Official Game of Thrones: House of the Dragon Podcast'''''"{{HBOref|TOGOTPHOTD}} is the trailer episode of the [[The Official Game of Thrones Podcast: House of the Dragon: Season 1|first season]] of ''[[The Official Game of Thrones Podcast: House of the Dragon]]''. It was released on July 24, 2022.
+
+==Description==
+{{Description|TOGOTPHOTD100}}
+
+==Gallery==
+<gallery bordersize="none">
+Official Game of Thrones Podcast: House of the Dragon Trailer (HBO)
+</gallery>
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{The Official Game of Thrones Podcast: House of the Dragon}}
+
+<!--Categories-->
+[[Category:Episodes of The Official Game of Thrones Podcast: House of the Dragon: Season 1| 00]]
+[[Category:Episodes released in 2022|7.24]]

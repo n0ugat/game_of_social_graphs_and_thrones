@@ -1,0 +1,96 @@
+{{DISPLAYTITLE:Jaehaerys Targaryen {{C|son of Aegon II}}}}
+{{Canonicity|Canon}}
+{{Update|"[[Rhaenyra the Cruel]]" and "[[The Burning Mill]]"}}
+{{Heraldry
+| Image = House Targaryen.svg
+| Link  = House Targaryen/House of the Dragon
+}}
+{{Character
+| Title       = Jaehaerys Targaryen
+| Type        = Greens
+| Image       = Jaehaerys Targaryen S2.png
+| Birth       = [[128 AC]]{{Dateref|Jaehaerys and Jaehaera Targaryen}}
+| Death       = [[132 AC]]{{Dateref|House of the Dragon: Season 2}} (aged 4)<br>[[Red Keep]], [[King's Landing]]{{Ref|HOTD201}}
+| House       = [[House Targaryen/House of the Dragon|Targaryen]]{{Guideref|Character Guide}}
+| Affiliation = [[Greens]]{{Ref|HOTD109}}
+| Titles      = [[Prince]]
+| AKA         = 
+| Culture     = [[Valyrians|Valyrian]]{{Ref|HOTD109}}
+| Religion    = 
+| Father      = [[Aegon II Targaryen]]{{Guideref|Character Guide}}
+| Mother      = [[Helaena Targaryen]]{{Guideref|Character Guide}}
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 1|1]] {{*}} [[House of the Dragon: Season 2|2]]
+| Appearances = 4 episodes {{Below|Appearances}}
+| First       = "[[The Green Council]]"
+| Last        = "[[The Burning Mill]]" {{Corpse}} {{Vision}}
+| DeathEp     = "[[A Son for a Son]]"
+| Actor       = [[Jude Rock]] {{C|Season 2}}
+}}
+Prince '''Jaehaerys Targaryen''' was a [[prince]] of the [[House Targaryen/House of the Dragon|Targaryen dynasty]], the son of [[Aegon II Targaryen]] and [[Helaena Targaryen]].
+
+==Biography==
+===Background===
+Jaehaerys was the son and heir of King [[Aegon II Targaryen]] and Queen [[Helaena Targaryen]]. He is the twin brother of Princess [[Jaehaera Targaryen]].<ref>[https://www.hbo.com/house-of-the-dragon/character-guide#aegon-targaryen Targaryen Family Tree: Aegon Targaryen]</ref>
+
+Young Jaehaerys was named after Viserys's grandfather, the great old King [[Jaehaerys I Targaryen]].
+
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+Jaehaerys is playing with his sister as their mother is doing her needlework.{{Ref|HOTD109}}
+
+The [[Greens]] orchestrate a successful [[Coup in King's Landing|coup]] to set aside Viserys's chosen heir, Jaehaerys's half-aunt [[Rhaenyra Targaryen|Rhaenyra]], in favor of Aegon II. Jaehaerys thereby becomes heir to the Iron Throne, having previously been eighth in the line of succession.{{Ref|HOTD109}}
+
+===[[House of the Dragon: Season 2|''House of the Dragon'': Season 2]]===
+Aegon II enters the [[Red Keep]]'s nursery, searching for Jaehaerys. Helaena informs him that Jaehaerys is in the library, and asks Aegon not to interrupt his "custom". At his father's insistence, Jaehaerys accompanies him to a meeting of the [[Green Council]]. He amuses himself by stealing [[Tyland Lannister]]'s marble of office, much to his father's entertainment and Tyland's annoyance. Aegon further embarrasses Tyland by suggesting he should give Jaehaerys a pony ride on his back, but [[Alicent Hightower|Alicent]] puts an end to the matter, and an annoyed Aegon sends Jaehaerys off with one of his retainers.{{Ref|HOTD201}}
+
+A few nights later, Jaehaerys is [[Assassination of Jaehaerys Targaryen|murdered in his bed]] by [[Blood]] and [[Cheese]] in retaliation for his cousin [[Lucerys Velaryon]]'s murder at the hands of his uncle, [[Aemond Targaryen]] (Jaehaerys was not the intended target, but Blood and Cheese's employer, [[Daemon Targaryen|Daemon]] had assured them another prince of Aegon's blood would suffice if Aemond could not be targeted). After Helaena reluctantly points him out to the assassins to save his sister, Blood and Cheese hold him down and behead him, as Daemon had demanded the head as proof for the other half of their payment. Helaena flees the scene with Jaehaera to her mother's bedchamber, informing Alicent in a state of shock that Jaehaerys is dead.{{Ref|HOTD201}}
+
+==Family==
+{{Targaryen tree (House of the Dragon)}}
+
+==In the books==
+In ''[[Fire & Blood]]'', Jaehaerys was born in 123 AC, the twin brother of Jaehaera. He was larger and healthier than his sister, but was born with six fingers on his left hand, and six toes on each foot, a physical defect which was considered somewhat of an embarrassment to the [[greens]].
+
+==Appearances==
+*{{TDOD}} {{Illustrated}}
+*{{HOTD|The Lord of the Tides}} {{Indirect}}
+*{{HOTD|The Green Council}}
+*{{HOTD|A Son for a Son}}
+*{{HOTD|Rhaenyra the Cruel}} {{Corpse}}
+*{{HOTD|The Burning Mill}} {{Corpse}} {{Vision}}
+*{{HOTD|The Red Dragon and the Gold}} {{Mentioned}}
+*{{HOTD|Regent}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{House Targaryen/House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Targaryen, Jaehaerys}}
+[[Category:Crownlanders]]
+[[Category:Greens]]
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Individuals from The Dance of Dragons]]
+[[Category:Members of House Targaryen|Jaehaerys Targaryen]]
+[[Category:Princes]]
+
+<!--Languages-->
+[[de:Jaehaerys Targaryen (Sohn von Aegon II.)]]
+[[es:Jaehaerys Targaryen/House of the Dragon]]
+[[fr:Jaehaerys Targaryen]]
+[[pl:Jaehaerys Targaryen (syn Aegona II]]
+[[ru:Джейхейрис Таргариен (сын Эйгона II)]]
+[[uk:Джехеріс Тарґеріен (син Еґона II)]]

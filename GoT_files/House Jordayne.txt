@@ -1,0 +1,71 @@
+{{Canonicity|Canon}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Martell
+| Image     = House Jordayne.svg
+| Arms      = Chequy argent and vert, a feather or <br> {{C|A golden feather on a checkered white and green field}}
+| Words     = 
+| Titles    = [[Lordship|Lord of the Tor]]
+| Seat      = [[Tor]]
+| Region    = [[Dorne]]
+| Head      = 
+| Heir      = 
+| Overlords = [[House Martell]]
+| Vassals   = 
+| Religion  = [[Faith of the Seven]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Jordayne'''{{Ref|H&L509}}{{Note|Referred to as "Jordaynes."}} of the [[Tor]] is a vassal house which holds fealty to [[House Martell]] of [[Dorne]]. Their sigil is a golden quill on checkered white and green.
+
+==History==
+===Background===
+The Jordaynes were among the houses defeated by [[Mors Martell]] and [[Nymeria]] during [[Nymeria's War]].<ref>"[[Dorne (short)|Dorne]]"</ref>
+
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+[[File:401 Dornish heraldry.png|thumb|right|250px|House Jordayne banners (center) - a golden quill on a checkered background of light and dark green squares.]]
+House Jordayne's banners are amongst those of the Dornish envoy that travels to [[King's Landing]] to attend the wedding of [[Joffrey Baratheon|Joffrey]] and [[Margaery Tyrell|Margaery]].<ref>"[[Two Swords]]"</ref>
+
+==Behind the scenes==
+The name of the house is an homage to Robert Jordan, author of ''The Wheel of Time'' novels and a friend of [[George R.R. Martin]]. The lord is called "Trebor" which is "Robert" backwards. "Jordayne" is similar to "Jordan" and "Tor" is Jordan's publisher.
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, House Jordayne are also vassals to House Martell. They are ruled by Lord Trebor Jordayne. According to a semi-canon source, their words are "Let it be Written".
+
+In ''A Storm of Swords'', [[Oberyn Martell]] is accompanied to King's Landing by Lord Trebor's daughter Myria.
+
+===Known members===
+*Lord Trebor Jordayne, Lord of the Tor.
+**Myria Jordayne, his daughter and heir to the Tor.
+
+===Historical members===
+*Lord Jordayne during the [[First Dornish War]]. Died shortly before his castle was surrendered to King [[Aegon I Targaryen]].
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Houses from Dorne}}
+
+<!--Categories-->
+{{DEFAULTSORT:Jordayne, House}}
+[[Category:House Jordayne| ]]
+[[Category:Houses from Dorne]]
+[[Category:Houses of Andal origin]]
+[[Category:Royal houses]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[de:Haus Jordayn]]
+[[es:Casa Jordayne]]
+[[fr:Maison Jordayne]]
+[[ru:Джордейны]]
+[[zh:乔戴恩家族]]

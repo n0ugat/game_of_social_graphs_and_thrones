@@ -1,0 +1,76 @@
+{{Canonicity|Canon}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Crownlander
+| Image     = 
+| Arms      = 
+| Words     = 
+| Titles    = [[Lord of Harrenhal]] {{C|dispossessed}}
+| Seat      = [[Harrenhal]] {{C|dispossessed}}
+| Region    = [[Crownlands]]<br>[[Riverlands]] {{C|formerly}}
+| Head      = 
+| Heir      = 
+| Overlords = 
+| Vassals   = 
+| Religion  = 
+| Cadets    = 
+| Founded   = [[298 AC]]{{Dateref|Game of Thrones: Season 1}}<br>by {[[Janos Slynt]]}
+| Died      = 
+| Weapon    = 
+}}
+'''House Slynt'''{{Ref|GOT108}}{{Note|Janos's surname is Slynt.}} is a former [[noble house]] of the [[Seven Kingdoms]]. It held fealty directly to King [[Joffrey Baratheon]], who ordered the founding of the house as a reward for [[Janos Slynt]]'s assistance against [[Eddard Stark]], who desired to place [[Stannis Baratheon]] upon the [[Iron Throne]].
+
+==History==
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 2]]===
+As a reward for his service for [[House Lannister]], Janos Slynt is named the Lord of Harrenhal by the king and his [[Small Council]].{{Ref|GOT108}}
+
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+Harrenhal is granted to Lord [[Petyr Baelish]], and House Slynt has no seat.
+
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+Janos is executed for insubordination by [[Lord Commander of the Night's Watch|Lord Commander]] Jon Snow. After his death, House Slynt's status remains uncertain.
+
+==Members==
+[[File:Season_two_Janos_Slynt.jpg|thumb|Janos Slynt was the short-lived Lord of Harrenhal.]]
+*Lord {[[Janos Slynt]]}, the head of the family and former Lord of [[Harrenhal]]. Executed for insubordination by [[Lord Commander of the Night's Watch|Lord Commander]] [[Jon Snow]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, House Slynt is founded as a reward for Janos Slynt's assistance in arresting Eddard Stark. Janos takes for his sigil a bloody spear, gold on a night-black field.
+
+[[Tywin Lannister]] ridicules both Slynt's ascension to lordship, and his choice of sigil when he hears of it, commenting that a "bloody meat cleaver would be more appropriate", given the fact that Slynt himself was the lowborn son of a butcher. At Tywin's order, Tyrion dismisses Janos when he arrives in the capital, exiling him to the Night's Watch and stripping his family of Harrenhal - which he never actually set foot in. Tyrion felt Janos wasn't trustworthy enough to keep around the royal court, but he did allow Janos's children to keep their recently ennobled status. "House Slynt" therefore continued to nominally exist, but possessed no lands. Tyrion said that he would try to find lesser lands for Janos's sons to hold but it is unclear if he ever did. Otherwise, Janos's sons continue to appear as hangers-on at the royal court.
+
+===Members===
+*{Lord Janos Slynt}
+**Lord Morros Slynt, his eldest son, inherits his father's title after the latter is sent to the Wall.
+**Jothos Slynt, his second son and Morros' heir.
+**Danos Slynt, his youngest son.
+**A daughter.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Houses from the Crownlands}}
+
+<!--Categories-->
+{{DEFAULTSORT:Slynt, House}}
+[[Category:House Slynt| ]]
+[[Category:Houses from the Crownlands]]
+[[Category:Houses from the Riverlands]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[de:Haus Slynt]]
+[[es:Casa Slynt]]
+[[fr:Maison Slynt]]
+[[nl:Huis Slink]]
+[[pl:Ród Slynt]]
+[[pt-br:Casa Slynt]]
+[[ru:Слинты]]
+[[zh:史林特家族]]

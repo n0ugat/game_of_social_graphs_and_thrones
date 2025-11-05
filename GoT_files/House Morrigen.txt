@@ -1,0 +1,62 @@
+{{Canonicity|Canon}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Baratheon
+| Image     = House Morrigen.svg
+| Arms      = A black crow in flight on storm-green
+| Words     = 
+| Titles    = [[Lordship|Lord of Crow's Nest]]
+| Seat      = [[Crow's Nest]]
+| Region    = [[Stormlands]]
+| Head      = 
+| Heir      = 
+| Overlords = [[House Baratheon]]
+| Vassals   = 
+| Religion  = [[Faith of the Seven]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Morrigen'''{{Ref|H&L502}}{{Note|Damon's surname is Morrigen.}} of [[Crow's Nest]] is a [[noble house]] of the [[Stormlands]], and vassals to [[House Baratheon]]. Their [[Heraldry|sigil]] is a black crow in flight on a storm-green field.
+
+==Members==
+===Historical members===
+[[File:HL5 Maegor trial of seven versus Damon Morrigen.png|thumb|Ser Damon Morrigen leading the Faith Millitant during the [[trial by seven of Maegor Targaryen]].]]
+*Ser {[[Damon Morrigen]]}, a [[Knighthood|knight]] who commanded the [[Faith Militant]] during its [[Faith Militant uprising|uprising]]. He challenged [[Maegor Targaryen]] to a [[Trial by seven of Maegor Targaryen|trial of seven]], and was killed by him.{{Ref|H&L502}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, House Morrigen is among the Stormlords who declare for [[Renly Baratheon]] and later go over to [[Stannis Baratheon|Stannis]]. Unlike most Stormlords that bend the knee to [[Joffrey Baratheon|Joffrey]] after the [[Battle of the Blackwater]], House Morrigen remains loyal to Stannis.
+
+House Morrigen has a rivalry with [[House Connington]].
+
+The known members of House Morrigen are:
+
+*Lord Lester Morrigen, Lord of Crow's Nest.
+*Ser Richard Morrigen, Lester's younger brother and heir.
+*Ser {Guyard Morrigen}, known as "Guyard the Green", a sworn brother of Renly Baratheon's Rainbow Guard. Slain at the battle of the Blackwater.
+
+They blazon their arms with a black crow in flight on a storm-green field. Their words have not been revealed in the books.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Houses from the Stormlands}}
+
+<!--Categories-->
+{{DEFAULTSORT:Morrigen, House}}
+[[Category:House Morrigen| ]]
+[[Category:Houses from the Stormlands]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[fr:Maison Morrigen]]
+[[pl:Ród Morrigen]]
+[[ru:Морригены]]

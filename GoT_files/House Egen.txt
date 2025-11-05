@@ -1,0 +1,56 @@
+{{Canonicity|Canon}}
+{{References}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Arryn
+| Image     = 
+| Arms      = 
+| Words     = 
+| Titles    = 
+| Seat      = 
+| Region    = [[Vale of Arryn]]
+| Head      = 
+| Heir      = 
+| Overlords = [[House Arryn]]
+| Vassals   = 
+| Religion  = [[Faith of the Seven]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Egen'''{{Ref|GOT105}}{{Note|Vardis's surname is Egen.}} is a noble house from the [[Vale of Arryn]], sworn to [[House Arryn]], the [[Defender of the Vale|Defenders of the Vale]].
+
+==Known members==
+*Ser {[[Vardis Egen]]}, [[captain of the guard]] at the [[Eyrie]]. Slain in trial by combat by the sellsword [[Bronn]] while championing for Lord [[Robin Arryn]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Ser Vardis Egen is stated as having one young son. Their sigil is a yellow sun, white crescent moon, and silver star on blue chief above white. Their words are "By Day or Night".
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Houses from the Vale of Arryn}}
+
+<!--Categories-->
+{{DEFAULTSORT:Egen, House}}
+[[Category:House Egen| ]]
+[[Category:Houses from the Vale of Arryn]]
+[[Category:Houses of Andal origin]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[de:Haus Egen]]
+[[es:Casa Egen]]
+[[fr:Maison Egen]]
+[[it:Casa Egen]]
+[[nl:Huis Egen]]
+[[ru:Игены]]
+[[zh:伊根家族]]

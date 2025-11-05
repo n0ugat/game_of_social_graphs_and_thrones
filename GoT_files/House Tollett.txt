@@ -1,0 +1,64 @@
+{{Canonicity|Canon}}
+{{References}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Royce
+| Image     = 
+| Arms      = 
+| Words     = 
+| Titles    = 
+| Seat      = 
+| Region    = [[Vale of Arryn]]
+| Head      = 
+| Heir      = 
+| Overlords = [[House Royce]]
+| Vassals   = 
+| Religion  = [[Faith of the Seven]]
+| Cadets    = 
+| Founded   = [[Coming of the Andals]]
+| Died      = 
+| Weapon    = 
+}}
+'''House Tollett'''{{Webref|name=WIC |author=David Harris (Razor) |date=May 3, 2019 |url=https://winteriscoming.net/2019/05/03/game-thrones-curtain-call-ben-crompton-eddison-tollett/ |title=Curtain Call: Ben Crompton |website=Winter is Coming |access-date=February 23, 2024 }}{{Note|Eddison's surname is Tollett.}} is a [[Noble house|vassal house]] from the [[Vale of Arryn|Vale]]. It holds fealty to [[House Royce]] of [[Runestone]].
+
+==Members==
+*Ser {[[Torgold Tollett]]}, an [[Andals|Andal]] [[Knighthood|knight]] who fought in the [[Battle of the Seven Stars]].
+*[[Lord Commander of the Night's Watch|Lord Commander]] {[[Eddison Tollett]]}, known as "Dolorous Edd", a former [[Steward (Night's Watch)|steward]] of the [[Night's Watch]] and acting [[Lord Commander of the Night's Watch|Lord Commander]] after [[Jon Snow]] abdicated the position. Edd is apparently from a lesser branch of House Tollett. Killed by a [[wight]] during the [[Battle of Winterfell]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, House Tollett is a House sworn to [[House Royce]] of [[Runestone]]. Their seat is the Grey Glen, their [[Heraldry|sigil]] is a pily grey and black, and their [[House words|words]] are "When All is Darkest". The current Lord of the Grey Glen is Uthor Tollett.
+
+Dolorous Edd is apparently a member of a lesser branch of House Tollett, as he frequently makes comments indicating that he grew up in poverty, and his family were essentially living on the same level as peasants.
+
+===Known members===
+*Lord Uthor Tollett, Lord of the Grey Glen.
+*Ser Andrew Tollett, a young knight of the Grey Glen.
+
+With unspecified familiar relationship to the main branch:
+*Eddison Tollett, a steward of the Night's Watch, known as "Dolorous Edd".
+**{Unnamed brother of Eddison}, killed by a bear.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{Houses from the Vale of Arryn}}
+
+<!--Categories-->
+{{DEFAULTSORT:Tollett, House}}
+[[Category:House Tollett| ]]
+[[Category:Houses from the Vale of Arryn]]
+[[Category:Houses of Andal origin]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[de:Haus Tollett]]
+[[fr:Maison Tallett]]
+[[pt-br:Casa Tollett]]
+[[ru:Толлетты]]

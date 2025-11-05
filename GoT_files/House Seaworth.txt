@@ -1,0 +1,96 @@
+{{Canonicity|Canon}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Baratheon
+| Image     = House Seaworth.svg
+| Arms      = Grey, a white ship contourny with black sails displaying an onion proper
+| Words     = 
+| Titles    = 
+| Seat      = 
+| Region    = [[Stormlands]]
+| Head      = Lord [[Davos Seaworth]]
+| Heir      = 
+| Overlords = [[House Baratheon]]<br>{[[House Baratheon of Dragonstone]]} {{C|[[299 AC|299]]{{Dateref|Game of Thrones: Season 2}}-[[302 AC]]}}{{Dateref|Game of Thrones: Season 5}}<br>[[House Stark]] {{C|302{{Dateref|Game of Thrones: Season 5}}-[[305 AC]]}}{{Dateref|Game of Thrones: Season 8}}
+| Vassals   = 
+| Religion  = 
+| Cadets    = 
+| Founded   = [[281 AC]]{{Dateref|Robert's Rebellion}}<br>by [[Davos Seaworth]]
+| Died      = 
+| Weapon    = 
+}}
+{{Dialogue a-b|Stannis Baratheon|Some highborn fools call you Onion Knight and think they insult you. So you take the onion for your sigil, sew it on your coat, fly the onion flag.|Davos Seaworth|My son wishes me to change it. Three mermen with tridents, something like that.|Stannis praises Davos.|The Prince of Winterfell}}
+'''House Seaworth'''{{Ref|GOT607}} is a [[noble house]] that held fealty to [[House Baratheon of Dragonstone]] and later to [[House Stark]] of [[Winterfell]]. Their lands are located in the [[Stormlands]]. Their home is a small but cozy keep near the sea.
+
+House Seaworth is ruled by the landed [[Knighthood|knight]] Ser [[Davos Seaworth]], the so-called "Onion Knight", a reformed smuggler formerly in the service of Lord [[Stannis Baratheon]] at [[Dragonstone]]. His [[Marriage|wife]] [[Marya Seaworth|Marya]] is usually found at their keep.
+
+==History==
+===Background===
+House Seaworth came into existence after [[Robert's Rebellion]]. Davos, a smuggler infamous on the [[Narrow Sea]] for being able to smuggle anything anywhere, transported a cargo hold full of onions into the besieged castle of [[Storm's End]], keeping the garrison alive until the war was over. Stannis Baratheon rewarded Davos by [[Knighthood|knighting]] him and giving him lands, though he also insisted on taking the tips of the fingers on Davos's right hand in compensation for his smuggling. Davos judged this fair, since it bought him and his family a more secure future, one he could never have imagined, much less earned for them on his own.<ref>[http://viewers-guide.hbo.com/game-of-thrones/season2/#!/guide/houses/sbaratheon/davos-seaworth/ HBO viewers guide, season 2 guide to houses, House Baratheon of Dragonstone, Davos Seaworth entry]</ref>
+
+=== [[Game of Thrones: Season 6|''Game of Thrones'': Season 2]] ===
+House Seaworth is among the houses that support [[Stannis Baratheon]]'s claim to the [[Iron Throne]].
+
+=== [[Game of Thrones: Season 6|''Game of Thrones'': Season 6]] ===
+Following the [[Battle of the Bastards]], Davos declares House Seaworth's support for [[House Stark]] and [[Jon Snow]] as the newly crowned [[King in the North]].<ref>"[[The Winds of Winter]]"</ref>
+
+==Members==
+{{Tree list}}
+*Lord [[Davos Seaworth]], the founder and head of the family. Called the "Onion Knight", a former smuggler, landed knight, and [[Hand of the King]] to [[Stannis Baratheon]]. Later named [[Master of Ships]] to King [[Bran Stark|Bran I the Broken]].
+**Lady [[Marya Seaworth]], his wife.
+***{[[Matthos Seaworth]]}, their son and heir. Killed during the [[Battle of the Blackwater]].
+{{Tree list/end}}
+
+==Family tree==
+{{Seaworth tree}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the full name of Davos's House is House Seaworth of Cape Wrath.
+
+Davos has seven sons; the oldest five serve in Stannis's army, while the younger two are still children. In the TV series, the five elder sons have been functionally condensed into Matthos, and no other children have appeared or been mentioned.
+
+===Known members===
+*Lord Davos Seaworth, the Onion Knight.
+**Marya Seaworth, his wife. A carpenter's daughter.
+***{Dale Seaworth}, his eldest son. Captain of the ''Wraith''. Killed at the Battle of the Blackwater.
+****Dale's unnamed wife
+***{Allard Seaworth}, his second son. Captain of the ''Lady Marya''. Killed at the Battle of the Blackwater.
+***{Matthos Seaworth}, his third son. Second of the ''[[Black Betha]]''. Killed at the Battle of the Blackwater.
+***{Maric Seaworth}, his fourth son. Oarmaster of the ''[[Fury]]''. Killed at the Battle of the Blackwater.
+***Devan Seaworth, his fifth son and heir. Squire to King Stannis. Currently is in [[Castle Black]], attending [[Melisandre]].
+***Stannis Seaworth, his sixth son. A boy of nine.
+***Steffon Seaworth, his seventh son. A boy of six.
+
+==Gallery==
+<gallery>
+Seaworth Credits sigil.png|The sigil of House Seaworth as seen in the [[Opening credits (Game of Thrones)|opening credits]].
+</gallery>
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Seaworth}}
+{{Houses from the Stormlands}}
+
+<!--Categories-->
+{{DEFAULTSORT:Seaworth, House}}
+[[Category:House Seaworth| ]]
+[[Category:Houses from the Stormlands]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[de:Haus Seewert]]
+[[es:Casa Seaworth]]
+[[fr:Maison Mervault]]
+[[it:Casa Seaworth]]
+[[nl:Huis Zeewaard]]
+[[pl:Ród Seaworth]]
+[[pt-br:Casa Seaworth]]
+[[ru:Сиворты]]
+[[zh:席渥斯家族]]

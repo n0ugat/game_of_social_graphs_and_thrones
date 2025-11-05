@@ -1,0 +1,56 @@
+{{Canonicity|Canon}}
+{{References}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Lannister
+| Image     = House Payne.svg
+| Arms      = Checkered purple and white, within each square a golden coin
+| Words     = 
+| Titles    = 
+| Seat      = 
+| Region    = [[Westerlands]]
+| Head      = 
+| Heir      = 
+| Overlords = [[House Lannister]]
+| Vassals   = 
+| Religion  = [[Faith of the Seven]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+{{Quote|House Payne provides us loyal servants.|Lord [[Tywin Lannister]]|The Westerlands}}
+'''House Payne'''{{Ref|H&L315}} is a vassal house that holds fealty to [[House Lannister]] of [[Casterly Rock]]. It is divided into several branches.
+
+House Payne's [[heraldry]] consists of purple and white chequy with gold coins in the checks.
+
+==Members==
+* Ser [[Ilyn Payne]], the [[King's Justice]]. Status uncertain.
+* Ser [[Podrick Payne]], a [[Knighthood|knight]] of the [[Kingsguard]] of [[Bran Stark|Bran I the Broken]]. A distant cousin of Ser Ilyn from a lesser branch of the family.
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, House Payne is noted as a valued vassal of the Lannisters. Ser Ilyn Payne was a loyal and stalwart warrior in the service of [[Tywin Lannister]] and commander of his personal guard. His tongue was torn out with hot pincers at the order of the [[Aerys II Targaryen|Mad King]], after Ilyn was overheard suggesting that Tywin really ruled the realm (as [[Hand of the King]]) rather than the insane monarch; Tywin wasn't in a position to protest. After the rebellion overthrew the Mad King, [[Robert Baratheon]] made Ilyn the King's Justice (head executioner) as a favor to Tywin.
+
+Podrick is the only other member of the family to appear. He is a very distant cousin of Ser Ilyn's from a different branch of the family. Podrick initially serves as [[Tyrion Lannister|Tyrion]]'s squire; during the [[Battle of the Blackwater]], he saves Tyrion from being killed by Ser [[Mandon Moore]]. After Tyrion escapes from prison, Pod looks for him but eventually joins [[Brienne of Tarth|Brienne]] in her search for [[Sansa Stark|Sansa]] and becomes her squire.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Houses from the Westerlands}}
+
+<!--Categories-->
+{{DEFAULTSORT:Payne, House}}
+[[Category:House Payne| ]]
+[[Category:Houses from the Westerlands]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[de:Haus Payn]]
+[[fr:Maison Payn]]
+[[pl:Ród Payne]]
+[[pt-br:Casa Payne]]
+[[ru:Пейны]]

@@ -1,0 +1,67 @@
+{{Canonicity|Canon}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Tully
+| Image     = House Mooton.svg
+| Arms      = Argent, a fish hauriant embowed contourné gules within an orle or <br> {{C|A salmon on a white field, surrounded by a thin golden border}}
+| Words     = 
+| Titles    = [[Lordship|Lord of Maidenpool]]
+| Seat      = [[Maidenpool]]
+| Region    = [[Riverlands]]
+| Head      = 
+| Heir      = 
+| Overlords = [[House Tully]]
+| Vassals   = 
+| Religion  = [[Faith of the Seven]]<br>[[Old Gods]] {{C|pre-[[coming of the Andals]]}}
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+{{Dialogue a-b-a|Tywin|And who are the Lords of Maidenpool? Remind me.|Arya|House Mooton, my lord.|And what is their sigil? A red salmon. I think a Maidenpool girl would remember that.|Tywin Lannister and Arya Stark|The Ghost of Harrenhal}}
+'''House Mooton'''{{Ref|GOT205}} of [[Maidenpool]] is a vassal house that holds fealty to [[House Tully]] of [[Riverrun]]. They control Maidenpool, a port town near the border between the [[Riverlands]] and the [[Crownlands]], on the Bay of Crabs. Their sigil is a red salmon to sinister within a gold tressure on white.{{Ref|GOT205}}{{Ref|HOTD104}}
+
+==History==
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+[[Lord Mooton]] travels to [[Storm's End]] to put himself forward as a suitor to Princess [[Rhaenyra Targaryen]].{{Ref|HOTD104}}
+
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+To protect her identity, [[Arya Stark|Arya]] claims to be from Maidenpool while serving as [[Tywin Lannister|Tywin]]'s [[cupbearer]] at [[Harrenhal]]. Tywin catches her out in her lie when she cannot identify the sigil of House Mooton.{{Ref|GOT205}}
+
+==Members==
+*{[[Lord Mooton]]}, the head of House Mooton during the reign of King [[Viserys I Targaryen]].
+*Lord {[[Walys Mooton]]}, the head of House Mooton during the [[Dance of the Dragons]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, House Mooton are the rulers of Maidenpool. According to semi-canon sources, their motto is "Wisdom and Strength." Their current lord is William Mooton.
+
+===Known members===
+*Lord William Mooton, Lord of Maidenpool.
+**Eleanor Mooton, his eldest daughter and heir, married to [[Dickon Tarly]].
+**{At least two sons}
+**At least one younger daughter
+*Ser {Myles Mooton}, his brother. Slain during [[Robert's Rebellion]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{House Mooton}}
+{{Houses from the Riverlands/House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Mooton, House}}
+[[Category:House Mooton| ]]
+[[Category:Houses from the Riverlands]]
+[[Category:Houses of First Men origin]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[de:Haus Muton]]
+[[fr:Maison Mouton]]
+[[pt-br:Casa Mooton]]
+[[ru:Мутоны]]
+[[zh:慕顿家族]]

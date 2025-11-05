@@ -1,0 +1,47 @@
+{{Canonicity|Canon}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Greyjoy
+| Image     = 
+| Arms      = 
+| Words     = 
+| Titles    = 
+| Seat      = 
+| Region    = [[Iron Islands]]
+| Head      = 
+| Heir      = 
+| Overlords = {[[House Hoare]]} {{C|pre-[[Aegon's Conquest]]}}<br>[[House Greyjoy]]
+| Vassals   = 
+| Religion  = [[Drowned God]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Sparr'''{{Guideref|Great Wyk}} is a vassal house from the [[Iron Islands]] that holds fealty to [[House Greyjoy]]. Their seat is located of the island of [[Great Wyk]], the largest of the Iron Isles.
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, House Sparr rules over a part of Great Wyk, with their lands being six leagues from [[Hammerhorn]], seat of [[House Goodbrother]]. Their sigil is an oak saltire on blue. Their current lord is a hatchet-faced old man with watery eyes known as "The Sparr".
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Houses from the Iron Islands}}
+
+<!--Categories-->
+{{DEFAULTSORT:Sparr, House}}
+[[Category:House Sparr| ]]
+[[Category:Houses from the Iron Islands]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[de:Haus Sparr]]
+[[es:Casa Sparr]]
+[[fr:Maison Sparr]]
+[[it:Casa Sparr]]
+[[pt-br:Casa Sparr]]
+[[zh:斯帕家族]]

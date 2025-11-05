@@ -1,0 +1,20 @@
+{{Crew
+|Image = 
+|dateofbirth = 
+|birthplace = 
+|job = Stunt Performer
+|imdb = https://www.imdb.com/name/nm7430736/
+|twitter = }}
+'''Jésus López''' is a stuntman.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 6|sixth season]] episode "[[Battle of the Bastards (episode)|Battle of the Bastards]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 6|||||||||yes}}
+
+==See also==
+*{{IMDb
+|# = 7430736}}
+{{DEFAULTSORT:López, Jésus}}
+[[Category:Stunt performers of Game of Thrones]]

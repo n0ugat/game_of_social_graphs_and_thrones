@@ -1,0 +1,67 @@
+{{Canonicity|Canon}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Baratheon
+| Image     = House Cole.svg
+| Arms      = Ten black pellets on scarlet
+| Words     = 
+| Titles    = [[Steward|Steward of Blackhaven]]
+| Seat      = [[Blackhaven]]
+| Region    = [[Stormlands]]
+| Head      = [[Criston Cole's father]]
+| Heir      = 
+| Overlords = [[House Dondarrion]]
+| Vassals   = 
+| Religion  = [[Faith of the Seven]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+{{Quote|When your father named me to his Kingsguard, it was the highest honor any Cole had ever known.|Criston Cole to [[Rhaenyra Targaryen]]|Second of His Name}}
+'''House Cole'''{{Ref|HOTD101}} of [[Blackhaven]] is a minor [[Noble house|house]] in the [[Dornish Marches]]. They serve [[House Dondarrion]] as [[steward]]s of Blackhaven. Although they are called a noble house and have their own coat of arms, they are considered lowborn. At least one [[Criston Cole|member]] of House Cole is of [[Dornishmen|Dornish]] descent.{{Guideref|Criston Cole}}
+
+==History==
+Little is known of House Cole except that they serve as stewards to [[House Dondarrion]] at [[Blackhaven]].{{Guideref|Criston Cole}} They have no hereditary lands or titles.<ref>[https://www.hbo.com/house-of-the-dragon ''House of the Dragon'' | Official Website for the HBO Series | HBO.com]</ref>
+
+==Members==
+{{Tree list}}
+*[[Criston Cole's father]], the steward of Blackhaven and head of House Cole.
+**Ser [[Criston Cole]], his son. [[Lord Commander of the Kingsguard]] and [[Hand of the King]] of [[Aegon II Targaryen]]. Known as "Kingmaker."
+{{Tree list/end}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the status of House Cole is uncertain. During the time span of the events described in the novels, there are two known characters whose surname is Cole:
+*Dick Cole, an exile serving with the [[Golden Company]].
+*Will Cole, an exile serving with the Golden Company.
+It is uncertain whether the aforementioned Dick and Will actually belong to House Cole, because in the free companies a man can call himself whatever he chooses. It is also not stated whether they are related to each other.
+
+==Gallery==
+<gallery>
+File:House-Cole-Square.PNG
+File:House Cole totem.png|House Cole totem in the Kingsguard candidacy. 
+File:Criston Cole Official Guide.jpg|Ser [[Criston Cole|Criston]] during King [[Viserys I Targaryen|Viserys I]] time.
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{House Cole}}
+{{Houses from the Stormlands/House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Cole, House}}
+[[Category:House Cole| ]]
+[[Category:Houses from the Dornish Marches]]
+[[Category:Houses from the Stormlands]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[de:Haus Kraut]]
+[[fr:Maison Cole]]
+[[pl:Ród Cole]]
+[[ru:Коли]]

@@ -1,0 +1,48 @@
+{{Canonicity|Canon}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Greyjoy
+| Image     = 
+| Arms      = 
+| Words     = 
+| Titles    = 
+| Seat      = 
+| Region    = [[Iron Islands]]
+| Head      = 
+| Heir      = 
+| Overlords = {[[House Hoare]]} {{C|pre-[[Aegon's Conquest]]}}<br>[[House Greyjoy]]
+| Vassals   = 
+| Religion  = [[Drowned God]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Merlyn'''{{Guideref|Great Wyk}} is a vassal house from the [[Iron Islands]] that holds fealty to [[House Greyjoy]]. Their seat is located on the island of [[Great Wyk]], the largest of the Iron Islands.
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, House Merlyn is seated at Pebbleton, in Great Wyk. They blazon their arms with twining waterspouts, green on white. Their current lord is Meldred Merlyn, also known as "the Merlyn".
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Houses from the Iron Islands}}
+
+<!--Categories-->
+{{DEFAULTSORT:Merlyn, House}}
+[[Category:House Merlyn| ]]
+[[Category:Houses from the Iron Islands]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[de:Haus Merlyn]]
+[[es:Casa Merlyn]]
+[[fr:Maison Merlyn]]
+[[it:Casa Merlyn]]
+[[pt-br:Casa Merlyn]]
+[[ru:Мерлины]]
+[[zh:梅林家族]]

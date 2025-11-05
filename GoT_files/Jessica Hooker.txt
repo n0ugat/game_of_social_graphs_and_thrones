@@ -1,0 +1,40 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Jessica Hooker.jpg
+| Birth   = 
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[Game of Thrones]]''<br>''[[House of the Dragon]]''
+| Season  = ''Game of Thrones'':<br>[[Game of Thrones: Season 8|8]]<br>''House of the Dragon'':<br>[[House of the Dragon: Season 2|2]]
+| Credits = 3 episodes {{Below|Credits}}
+| First   = "[[The Long Night]]"
+| Last    = 
+}}
+'''Jessica Hooker''' is an stuntwoman and actress.
+
+In ''[[Game of Thrones]]'', she was a stunt performer in the [[Game of Thrones: Season 8|eighth season]] episode "[[The Long Night]]" and "[[The Bells]]".
+
+In ''[[House of the Dragon]]'', she was a stunt performer in the [[House of the Dragon: Season 2|second season]] episode "[[The Red Sowing]]".
+
+==Credits==
+===Stunts===
+====''[[Game of Thrones]]''====
+{{Game of Thrones: Season 8|||yes||yes}}
+
+====''[[House of the Dragon]]''====
+{{House of the Dragon: Season 2|||||||yes}}
+
+==See also==
+*{{IMDb
+|# = 8500023}}
+*{{Facebook
+|# = jessica.stewart09}}
+*{{YouTube
+|# = channel/UCe137OZkjSbVRIsIgrd7nTA}}
+
+==References==
+{{reflist}}
+{{DEFAULTSORT:Hooker, Jessica}}
+[[Category:Stunt performers of Game of Thrones]]
+[[Category:Stunt performers of House of the Dragon]]

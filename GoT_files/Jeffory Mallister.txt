@@ -1,0 +1,66 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = House Mallister.svg
+| Link  = House Mallister
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Tully
+| Image       = H&L 1x11 King's Landing.png
+| Birth       = [[Seagard]], the [[Riverlands]]
+| Death       = [[281 AC]]{{Dateref|Robert's Rebellion}}<br>[[King's Landing]], the [[Crownlands]]
+| House       = [[House Mallister|Mallister]]
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Riverlands|Rivermen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Jeffory Mallister'''{{Con|ASOIAF}} was a companion of [[Brandon Stark]] in the time leading up to [[Robert's Rebellion]].
+
+==Biography==
+Jeffory accompanied Brandon Stark to [[King's Landing]], demanding justice from King [[Aerys II Targaryen]] after Prince [[Rhaegar Targaryen]] had allegedly kidnapped Brandon's sister [[Lyanna Stark]]. In response, the king executed the group.{{Ref|H&L111}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Jeffory Mallister's background and fate are the same.
+
+==Appearances==
+*{{H&L|Mad King Aerys - House Baratheon}} {{Illustrated}}
+*{{H&L|Mad King Aerys - House Stark}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Mallister}}
+
+<!--Categories-->
+{{DEFAULTSORT:Mallister, Jeffory}}
+[[Category:Individuals from Histories & Lore]]
+[[Category:Members of House Mallister|Jeffory Mallister]]
+[[Category:Rivermen]]
+
+<!--Languages-->
+[[ru:Джеффори Маллистер]]

@@ -1,0 +1,69 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Arryn.svg
+| Link  = House Arryn
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Arryn
+| Image       = 
+| Birth       = At the [[Eyrie]]
+| Death       = 
+| House       = [[House Arryn|Arryn]]
+| Affiliation = [[House Targaryen]]
+| Titles      = [[Lord of the Eyrie]]<br>[[Defender of the Vale]]<br>[[Warden of the East]]
+| Predecessor = 
+| Successor   = {[[Jon Arryn]]}
+| AKA         = 
+| Culture     = [[Vale of Arryn|Valemen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = {[[Jon Arryn]]}<br>{[[Alys Arryn]]}<br>{[[Ronnel Arryn (son of Jasper)|Ronnel Arryn]]}
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+Lord '''Jasper Arryn''' was the head of [[House Arryn]].
+
+==Biography==
+Jasper was the head of [[House Arryn]]. He had three children: [[Jon Arryn|Jon]], [[Alys Arryn|Alys]], and [[Ronnel Arryn (son of Jasper)|Ronnel]].{{Guideref|Viewer's Guide}}
+
+==Family==
+{{Arryn tree}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Jasper's family is the same.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Arryn}}
+
+<!--Categories-->
+{{DEFAULTSORT:Arryn, Jasper}}
+[[Category:Bannermen of House Targaryen]]
+[[Category:Defenders of the Vale|Jasper Arryn]]
+[[Category:Individuals from Game of Thrones]]
+[[Category:Lords of the Eyrie|Jasper Arryn]]
+[[Category:Members of House Arryn|Jasper Arryn]]
+[[Category:Valemen]]
+[[Category:Wardens of the East]]
+
+<!--Languages-->
+[[de:Jasper Arryn]]
+[[ru:Джаспер Аррен]]

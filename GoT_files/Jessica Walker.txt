@@ -1,0 +1,35 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Jessica Walker.jpg
+| Birth   = 
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]]
+| Credits = 2 episodes {{Below|Credits}}
+| First   = "[[The Burning Mill]]"
+| Last    = 
+}}
+'''Jessica Walker''' is a dancer, stuntwoman and actress.
+
+In ''[[House of the Dragon]]'', she was a stunt performer in the [[House of the Dragon: Season 2|second season]] episodes "[[The Burning Mill]]" and "[[The Queen Who Ever Was]]".
+
+==Credits==
+===Stunts===
+{{House of the Dragon: Season 2|||yes|||||yes}}
+
+==See also==
+*{{IMDb
+|# = 13852595}}
+*{{Twitter
+|# = jessicawalkeruk}}
+*{{Instagram
+|# = afroismassive}}
+*{{YouTube
+|# = channel/UCKAw4QPgVj4Ou5gmTj2zjzQ}}
+*{{Linkedin
+|# = /in/jessica-walker-891a5088}}
+
+{{DEFAULTSORT:Walker, Jessica}}
+[[Category:Stunt performers of House of the Dragon]]

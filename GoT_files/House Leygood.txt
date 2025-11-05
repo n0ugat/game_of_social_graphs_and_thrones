@@ -1,0 +1,64 @@
+{{Canonicity|Canon}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Bronn
+| Image     = House Leygood.svg
+| Arms      = Tenné, three lightning flashes palewise sable{{Note|Although the thunderbolts are mentioned in "[[The Lion and the Rose]]," the colors and exact amount of thunderbolts are book conjecture.}} <br> {{C|Three black thunderbolts on an orange field}}
+| Words     = 
+| Titles    = 
+| Seat      = 
+| Region    = [[Reach]]
+| Head      = 
+| Heir      = 
+| Overlords = [[Bronn's house]]<br>{[[House Tyrell]]} {{C|[[1 AC|1]]{{Dateref|Aegon's Conquest}}-[[304 AC]]}}{{Dateref|Game of Thrones: Season 7}}<br>{[[House Gardener]]} {{C|pre-[[Aegon's Conquest]]}}
+| Vassals   = 
+| Religion  = [[Faith of the Seven]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Leygood'''{{Ref|GOT402}}{{Note|Bronn refers to a knight named Leygood.}} is a vassal house from the [[Reach]] that holds fealty to Lord [[Bronn]] of [[Highgarden]].
+
+==History==
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+[[Bronn]] mentions to [[Jaime Lannister|Jaime]] he's having an affair with the wife of a [[Leygood|knight of House Leygood]]. He mentions that the knight's sigil consisted of thunderbolts.{{Ref|GOT402}}
+
+==Members==
+*[[Leygood]], a knight.
+**His wife. Had a secret affair with [[Bronn]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, no member of House Leygood has been mentioned by name, and the house itself is mentioned only once: in ''A Feast for Crows'', when Brienne arrives at the market of [[Duskendale]], she notices among the merchandise a shield that bears the sigil of House Leygood.{{Bookref|AFFC|9}}
+
+The house is briefly mentioned in ''The Hedge Knight'' (the first of the [[Dunk & Egg novellas]]), ''[[The World of Ice & Fire]]'', and in ''[[Fire & Blood]]''.
+
+===Historical members===
+*Lord Leygood, one of the Caltrops.
+**Ser Lucas Leygood, his son, Commander of the City Watch.
+*Ser Simon Leygood, a knight during the reign of [[Aerys Targaryen (son of Daeron II)|Aerys I Targaryen]].
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{Houses from the Reach}}
+
+<!--Categories-->
+{{DEFAULTSORT:Leygood, House}}
+[[Category:House Leygood| ]]
+[[Category:Houses from the Reach]]
+[[Category:Houses of Andal origin]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[de:Haus Flurgut]]
+[[fr:Maison Bonleu]]
+[[pt-br:Casa Leygood]]
+[[ru:Лейгуды]]

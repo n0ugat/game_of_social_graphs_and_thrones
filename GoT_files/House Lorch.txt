@@ -1,0 +1,59 @@
+{{Canonicity|Canon}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Lannister
+| Image     = 
+| Arms      = 
+| Words     = 
+| Titles    = 
+| Seat      = 
+| Region    = [[Westerlands]]
+| Head      = 
+| Heir      = 
+| Overlords = [[House Lannister]]
+| Vassals   = 
+| Religion  = [[Faith of the Seven]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Lorch'''{{Ref|GOT203}}{{Note|Amory's surname is Lorch.}} is a knightly house of the [[Westerlands]]. They are sworn to [[House Lannister]] of [[Casterly Rock]].
+
+==History==
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+Ser [[Amory Lorch]] fights for [[House Lannister]] during the [[War of the Five Kings]].{{Ref|GOT203}}
+
+==Members==
+*Ser {[[Amory Lorch]]}, a knight in the service of Lord [[Tywin Lannister]]. Poisoned by [[Jaqen H'ghar]] at [[Arya Stark]]'s behest.
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the only known members of House Lorch are Ser Amory and Ser Lorent Lorch. Ser Amory serves as the castellan of [[Harrenhal]] in the absence of [[Tywin Lannister]].
+
+==Gallery==
+<gallery>
+Amory 2x03.jpg|Ser Amory Lorch in "[[What Is Dead May Never Die]]."
+</gallery>
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Houses from the Westerlands}}
+
+<!--Categories-->
+{{DEFAULTSORT:Lorch, House}}
+[[Category:House Lorch| ]]
+[[Category:Houses from the Westerlands]]
+[[Category:Knightly houses]]
+
+<!--Languages-->
+[[de:Haus Lorch]]
+[[fr:Maison Lorch]]
+[[ru:Лорхи]]

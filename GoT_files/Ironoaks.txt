@@ -1,0 +1,47 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Waynwood.svg
+| Link  = House Waynwood
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Arryn
+| Image        = 
+| Type         = Castle
+| Status       = 
+| Location     = The [[Vale of Arryn]], [[Westeros]]
+| Population   = 
+| Rulers       = [[House Waynwood]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Ironoaks'''{{Ref|C&R07}} is a castle in the [[Vale of Arryn]]. The castle is located east of the Eyrie.<ref>"[[House Arryn, Kings of the Vale]]"</ref> It is the seat of [[House Waynwood]]. House Waynwood are one of the major vassals that hold fealty to [[House Arryn]] of the [[Eyrie]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Ironoaks, also known as Ironoaks Castle, is the seat of [[House Waynwood]] in the Vale of Arryn. It is east from the Eyrie and west of Old Anchor and is situated by a lake.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Vale of Arryn}}
+{{House Waynwood}}
+
+<!--Categories-->
+[[Category:Castles of the Vale of Arryn]]
+[[Category:House Waynwood]]
+
+<!--Languages-->
+[[de:Eiseneichen]]
+[[es:Roble de Hierro]]
+[[fr:Chênes-en-fer]]
+[[nl:IJzereik]]
+[[pl:Żelazne Dęby]]
+[[ru:Железная Дубрава]]
+[[zh:铁橡城]]

@@ -1,0 +1,28 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Ivo Popovic.jpg
+| Birth   = 
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 2|2]]
+| Credits = "[[The Old Gods and the New]]"
+| First   = 
+| Last    = 
+}}
+'''Ivo Popovic''' is a stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 2|second season]] episode "[[The Old Gods and the New]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 2||||||yes}}
+
+==See also==
+*{{IMDb
+|# = 5026595}}
+*{{Facebook
+|# = ivo.popovic.54}}
+{{DEFAULTSORT:Popovic, Ivo}}
+[[Category:Stunt performers of Game of Thrones]]

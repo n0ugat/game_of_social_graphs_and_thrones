@@ -1,0 +1,58 @@
+{{Canonicity|Non}}
+{{Heraldry
+| Image = House Casterly.svg
+| Link  = House Casterly
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Bloodmoon
+| Image       = 
+| Birth       = [[Age of Heroes]]{{Note|''[[Bloodmoon]]'' was set during the Age of Heroes. Ianthe Casterly was a human, therefore she must have been born in this age.}}
+| Death       = 
+| House       = [[House Casterly|Casterly]]{{Webref|name=Ianthe |author=Wake the Dragon |date=February 18, 2024 |url=https://twitter.com/WtDasoiaf/status/1759431208776143064 |title=Rosy McEwen as the Casterly princess Ianthe on set in Italy in 2019! |website=X |access-date=February 19, 2024 }}
+| Allegiance  = 
+| Titles      = [[Prince]]ss<ref name="Ianthe" />
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[Bloodmoon]]'' {{Rejected}}
+| Season      = 
+| Appearances = [[Pilot (Bloodmoon)|Pilot]] {{Unreleased}}
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Rosy McEwen]]
+}}
+'''Ianthe Casterly''' was a [[prince]]ss of [[House Casterly]] who lived during the [[Age of Heroes]]. She was a relative of Lady [[Morven Casterly|Morven]], [[Aurelia Casterly|Aurelia]], and the [[Casterly king]].
+
+==Behind the scenes==
+On July 21, 2020, ''Redanian Intelligence'' revealed that [[Rosy McEwen]] had portrayed a character named Ianthe in ''[[Bloodmoon]]'', the rejected ''[[Game of Thrones]]'' [[World of Westeros|prequel]] [[Pilot (Bloodmoon)|pilot]].{{Webref|name=Redanian |author=Gravemaster |date=July 21, 2020 |url=https://redanianintelligence.com/2020/07/21/new-tidbits-about-the-cancelled-game-of-thrones-prequel-leaf/ |title=The cancelled Game of Thrones prequel featured a character from the original show and other new tidbits |website=Redanian Intelligence |access-date=March 30, 2023 }} On February 18, 2024, Wake the Dragon revealed that Ianthe was a Casterly princess.<ref name="Ianthe" />
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels and its supplementary material, there is no mention of a character named Ianthe Casterly. The character was invented by [[Jane Goldman]] for ''Bloodmoon''.
+
+==Appearances==
+*{{BM|Pilot}} {{Unreleased}} {{Nc}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{House Casterly}}
+{{Bloodmoon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Casterly, Ianthe}}
+[[Category:Individuals from Bloodmoon]]
+[[Category:Members of House Casterly|Ianthe Casterly]]
+[[Category:Princesses]]

@@ -1,0 +1,53 @@
+{{Canonicity|Canon}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Stark
+| Image     = House Dormand.svg
+| Arms      = Cendrée, a dagger sable<ref name="Auction">https://entertainment.ha.com/itm/movie-tv-memorabilia/props/tywin-lannister-charles-dance-leather-bound-histories-of-the-greater-and-lesser-houses-book-from-game-of-thrones/a/7366-89163.s?ic4=GalleryView-Thumbnail-071515#</ref> <br> {{C|A black dagger on a gray field}}
+| Words     = Faithful and True<ref name="Auction" />
+| Titles    = 
+| Seat      = [[Dormand Hall]]<ref name="Auction" />
+| Region    = [[North]]
+| Head      = Lord [[Marlyn Dormand]]
+| Heir      = 
+| Overlords = [[House Stark]]
+| Vassals   = 
+| Religion  = [[Old Gods]]
+| Cadets    = 
+| Founded   = [[7 AC]]<br>by [[Artys Dormand]]<ref name="Auction" />
+| Died      = 
+| Weapon    = 
+}}
+{{Quote|This letter, detailing our infantry movements was meant for Lord Damon of House Marbrand; it was sent to Lord Marlyn of House Dormand!|[[Tywin Lannister]] to his bannerman [[Amory Lorch]]|The Old Gods and the New}}
+'''House Dormand'''{{Ref|GOT206}} of [[Dormand Hall]]<ref name="Auction" /> is a [[Noble house|vassal house]] that holds fealty to [[House Stark]] of [[Winterfell]].
+
+==History==
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+During the [[War of the Five Kings]], a letter detailing the infantry movements of [[House Lannister]]'s forces was accidentally sent to [[Lordship|Lord]] [[Marlyn Dormand|Marlyn]] of House Dormand, instead of Lord [[Damon Marbrand]], due to the illiteracy of [[Amory Lorch]].{{Ref|GOT206}}
+
+==Members==
+*Lord [[Marlyn Dormand]], the current head of the family.
+
+===Historical members===
+*Ser {[[Artys Dormand]]}, a landed knight and founder of the house.<ref name="Auction" />
+**Lord {[[Torrhen Dormand]]}, his son and successor. Raised to lordship some years after inheriting Dormand Hall.<ref name="Auction" />
+
+==In the books==
+No House Dormand or Lord Marlyn are mentioned in the ''[[A Song of Ice and Fire]]'' novels.
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{Houses from the North}}
+
+<!--Categories-->
+{{DEFAULTSORT:Dormand, House}}
+[[Category:House Dormand| ]]
+[[Category:Houses from the North]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[de:Haus Dormand]]
+[[fr:Maison Dormand]]
+[[ru:Дорманды]]

@@ -1,0 +1,68 @@
+{{Tab (World of Westeros)}}
+{{Canonicity|Canon}}
+{{Subpage|AKOTSK}}
+{{House
+| Title     = House Targaryen
+| Type      = Targaryen
+| Image     = House Targaryen.svg
+| Arms      = A red three-headed dragon on black
+| Words     = "Fire and Blood"{{Note|[[High Valyrian]]: ''Perzys Ānogār''|name=Words}}
+| Titles    = [[Dragonlord]] {{C|historical}}<br>[[Lord of Dragonstone]] {{C|historical}}<br>[[King of the Andals and the Rhoynar and the First Men]]<br>[[Lord of the Seven Kingdoms]]<br>[[Protector of the Realm]]<br>[[Prince of Dragonstone]]
+| Seat      = [[Dragonstone]] {{C|historical}}<br>[[Aegonfort]] {{C|historical}}<br>[[Red Keep]]
+| Estates   = [[Summerhall]]
+| Region    = [[Valyrian peninsula]] {{C|historical}}<br>[[Crownlands]]
+| Head      = King [[Daeron II Targaryen]]
+| Heir      = Prince [[Baelor Targaryen]]
+| Overlords = 
+| Vassals   = Great Houses:<br>[[House Arryn]]<br>[[House Baratheon]]<br>[[House Greyjoy]]<br>[[House Lannister]]<br>[[House Martell]]<br>[[House Stark]]<br>[[House Tully]]<br>[[House Tyrell]]
+----
+Crownlands:<br>[[House Bar Emmon]]<br>[[House Blount]]<br>[[House Brune]]<br>[[House Buckwell]]<br>[[House Cargyll]]<br>[[House Celtigar]]<br>[[House Darklyn]]<br>[[House Farring]]<br>[[House Gaunt]]<br>[[House Massey]]<br>[[House Rosby]]<br>[[House Staunton]]<br>[[House Stokeworth]]<br>[[House Sunglass]]<br>[[House Thorne]]<br>[[House Velaryon]]
+| Religion  = [[Old Gods of Valyria]] {{C|historical}}<br>[[Faith of the Seven]]
+| Cadets    = 
+| Founded   = Unknown {{C|Targaryen family}}<br>[[2 BC]]{{Dateref|Aegon's Conquest}}<br>by {[[Aegon I Targaryen|Aegon the Conqueror]]} {{C|House Targaryen}}
+| Died      = 
+| Weapon    = [[Blackfyre]] {{C|lost}}<br>[[Dark Sister]]<br>[[Valyrian steel dagger]]
+}}
+'''House Targaryen'''{{Ref|GOT101}}{{Note|[[High Valyrian]]: ''Targārio Lentrot''}} of [[King's Landing]], known poetically as the '''House of the Dragon''',{{Ref|HOTD101}} is the royal [[Noble house|house]] of the [[Seven Kingdoms]] of [[Westeros]]. [[2 BC|Two centuries]] ago, House Targaryen [[Aegon's Conquest|conquered and unified]] the realm under the leadership of [[Aegon I Targaryen|Aegon the Conqueror]] and his sister-queens [[Visenya Targaryen|Visenya]] and [[Rhaenys Targaryen (sister of Aegon I)|Rhaenys]].
+
+The Targaryens are of pureblood [[Valyrians|Valyrian]] descent. Their [[Heraldry|sigil]] is a three-headed red [[dragon]] on a black field, and their [[House words|words]] are "Fire and Blood."{{Note|name=Words}}
+
+==Relationships==
+===Members===
+{{Tree list}}
+*King [[Daeron II Targaryen]], twelfth [[King of the Andals and the Rhoynar and the First Men]].
+*Queen [[Myriah Martell]], his wife. A Dornish princess of [[House Martell]].
+**Prince [[Baelor Targaryen|Baelor "Breakspear" Targaryen]], their first son. The heir to the Iron Throne, and [[Hand of the King]] to his father.
+**Prince [[Aerys Targaryen (son of Daeron II)|Aerys Targaryen]], their second son.
+**Prince [[Rhaegel Targaryen]], their third son.
+**Prince [[Maekar Targaryen]], their fourth son.
+
+==Family tree==
+{{Targaryen tree (A Knight of the Seven Kingdoms)}}
+
+==In the books==
+{{Main|House Targaryen#In the books}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|House Targaryen}} {{Spoilers|HOTDAKOTSK}}
+
+<!--Navboxes-->
+{{House Targaryen/A Knight of the Seven Kingdoms}}
+{{Great Houses of Westeros/A Knight of the Seven Kingdoms}}
+{{Houses from the Crownlands/A Knight of the Seven Kingdoms}}
+
+<!--Categories-->
+{{DEFAULTSORT:Targaryen, House}}
+[[Category:Families from Valyria]]
+[[Category:Great Houses]]
+[[Category:House Targaryen| ]]
+[[Category:Houses from the Crownlands]]
+[[Category:Houses from the Narrow Sea]]
+[[Category:Houses of Valyrian origin]]
+[[Category:Royal houses]]

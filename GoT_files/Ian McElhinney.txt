@@ -1,0 +1,88 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Ian-McElhinney-200.jpg
+| Birth   = August 19, 1948 {{Age|1948|8|19}}<br>Belfast, Northern Ireland
+| Death   = 
+| Role    = [[Barristan Selmy]]
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 1|1]] {{*}} [[Game of Thrones: Season 3|3]] {{*}} [[Game of Thrones: Season 4|4]] {{*}} [[Game of Thrones: Season 5|5]]
+| Credits = 24 episodes {{Below|Credits}}
+| First   = "[[Lord Snow]]"
+| Last    = "[[Kill the Boy]]"
+}}
+'''Ian McElhinney''' (born 1948) is a Northern Irish actor. He has a long list of TV and film credits, including roles in ''[[wikipedia:Hornblower (TV series)|Hornblower]]'', ''[[wikipedia:Cold Feet (TV series)|Cold Feet]]'', ''[[wikipedia:Queer as Folk|Queer as Folk]]'' and ''[[wikipedia:The Tudors (TV series)|The Tudors]]''.
+
+==On ''Game of Thrones''==
+
+In ''[[Game of Thrones]]'' he is playing the role of Ser [[Barristan Selmy]]. He was announced in the role on 12 July 2010.
+
+Some of the actors on the TV series prefer to learn about the story through the script, one season at a time. For example [[Julian Glover]], who plays [[Pycelle]], has made it a point in his career that when he is filming literary adaptations, it is the task of the writers to translate the story from page to screen, and he doesn't want to second guess them. In contrast, Ian McElhinney has thoroughly read through the book series and is quite familiar with its internal history - which is entirely fitting, given that Ser Barristan is one of the older characters in the story and spent over forty years at the royal court, and personally experienced many of the major political events of the past half-century. For example when Barristan is recalling Daenerys's dead older brother [[Rhaegar Targaryen]] (in Season 3 episode 3 "[[Walk of Punishment (episode)|Walk of Punishment]]"), "Rhaegar" was more than just a name to McElhinney: he knew from the books just how well Barristan knew Prince Rhaegar, and how earnestly reverent he was of the man.
+
+Barristan dies in Season 5 episode 4 "[[Sons of the Harpy (episode)|Sons of the Harpy]]", though he does not die at this point in the books and is alive at the end of the fifth novel.  Preview chapters show that Barristan is involved in a large battle at the beginning of the sixth novel, which he might not survive, so it is unclear if this is an extreme condensation of his book storyline.  
+
+Whatever the case, McElhinney realized his character was probably going to die before the writers could inform him:  having read the books, when he got the filming dates for his Season 5 schedule, he was surprised that Barristan was only getting about half a season's worth of material, when he actually had quite a lot more scenes at this point in the novels and becomes a POV character.  He then asked the line producer to confirm the dates and ask the writers if he was being written out; Benioff and Weiss then called him on the phone to confirm that Barristan was indeed being killed off. 
+
+As McElhinney said:
+
+:"I'm disappointed. But I think you have to accept—as I have accepted—that the demands of TV are different than the demand of book writing. With TV there’s a pressure to create a number of high points. One of the big things about this series—it's true in the books and even more true in the series—is the surprise element, the shocks. They've got to keep that up because people expect that. You can’t predict anything but what you can predict is that there will be surprises."<ref>[http://www.ew.com/article/2015/05/01/ser-barristan-dead-thrones ]</ref>
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 1|||yes|yes|yes|yes|yes|yes}}
+{{Game of Thrones: Season 3|yes||yes|yes|yes||yes|yes|yes|yes}}
+{{Game of Thrones: Season 4|yes||note|yes|yes|yes||yes||yes}}
+<nowiki>*</nowiki> Uncredited
+{{Game of Thrones: Season 5|yes||yes|yes|yes}}
+
+==Filmography==
+*Lamb - Maguire (1985)
+*The End of the World Man - Architecht (1986)
+*A Prayer for the Dying - Lodger (1987)
+*Wipe Out - Max Raines (1988)
+*Streetwise - Denny Moss (1989)
+*The Playboys - Joe Cassidy (1992)
+*The Bill - Mickey Felcher (1992)
+*Blind Justice - Father Malone (1994)
+*Small Faces - Uncle Andrew (1996)
+*Hamlet - Barnardo (1996)
+*Wokenwell - Sgt. Duncan Bonney (1997)
+*Divorcing Jack - Alfie Stewart (1998)
+*Maisie Raine - C. S. Jack Freeman (1998-1999)
+*Queer as Folk - Clive Jones (1999-2000)
+*Hornblower - Captain Hammond (2001-2003)
+*Cold Feet - Bill Williams (2003)
+*Doctors - Howard Brackley (2003)
+*The Clinic - Joseph McGarry (2003)
+*The Tudors - Pope Clement VII (2007)
+*Closing the Ring - Cathal Thomas (2007)
+*City of Ember - Builder (2008)
+*Leap Year - Priest (2010)
+*Game of Thrones - [[Barristan Selmy]] (2011)
+*The Fall - Morgan Monroe (2012)
+*Titanic: Blood and Steel - Sir Henry Carlton (2012)
+*Derry Girls - Joe Mccool (2018)
+
+==See also==
+* {{WP}}
+*{{Template:IMDb
+|# = 0568400}}
+*{{Template:Twitter
+|# = SerIanMc}}
+
+==References==
+{{reflist}}
+
+<!--Navboxes-->
+{{Histories & Lore}}
+
+<!--Categories-->
+{{DEFAULTSORT:McElhinney, Ian}}
+[[Category:Cast members of Histories & Lore]]
+[[Category:Guest starring cast members of Game of Thrones]]
+
+<!--Languages-->
+[[de:Ian McElhinney]]
+[[fr:Ian McElhinney]]
+[[pl:Ian McElhinney]]
+[[ru:Иэн МакЭлхинни]]

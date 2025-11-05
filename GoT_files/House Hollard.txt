@@ -1,0 +1,57 @@
+{{Canonicity|Canon}}
+{{References}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Lannister
+| Image     = House Hollard.svg
+| Arms      = Barry pink and red, three golden crowns on a blue chief
+| Words     = 
+| Titles    = 
+| Seat      = 
+| Region    = [[Crownlands]]
+| Head      = 
+| Heir      = 
+| Overlords = {[[House Darklyn]]} {{C|pre-[[Defiance of Duskendale]]}}
+| Vassals   = 
+| Religion  = [[Faith of the Seven]]
+| Cadets    = 
+| Founded   = 
+| Died      = [[301 AC]]{{Dateref|Game of Thrones: Season 4}}
+| Weapon    = 
+}}
+{{Quote|House Hollard was strong once. House on the rise.|[[Dontos Hollard]]|Two Swords}}
+'''House Hollard'''{{Ref|GOT201}} is an extinct vassal house of the [[Crownlands]], once holding fealty to [[House Darklyn]] of [[Duskendale]]. The house was once powerful, but over the years it fell into disgrace.
+
+==Known members==
+[[Image:Dontos.jpg|thumb|Ser Dontos Hollard's breast-plate displays the heraldry of House Hollard.]]
+*Ser {[[Symon Hollard]]}, a knight. Killed by Ser [[Barristan Selmy]] in revenge for the death of Ser [[Gwayne Gaunt]] during the [[Defiance of Duskendale]].
+*{Robin Hollard}, a squire. When King [[Aerys II Targaryen]] was taken prisoner at the start of the Defiance of Duskendale, Robin mocked and taunted the captive king, even daring to pull on the king's beard. After the Defiance was suppressed, Robin was taken back to [[King's Landing]] as a prisoner and tortured to death in the [[Red Keep]]'s dungeons on Aerys's orders.
+*Ser {[[Dontos Hollard]]}, called "Dontos the Red", the last living member of the family. Served at the [[Red Keep]] as King [[Joffrey Baratheon]]'s fool since Joffrey's [[nameday]] [[Tournament|tourney]], to which Dontos showed up drunk. Killed by crossbowmen serving Lord [[Petyr Baelish]] after helping [[Sansa Stark]] escape the [[Purple Wedding]] at Baelish's command (and promise of payment), marking the extinction of the House.
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, House Hollard was an ancient house sworn to House Darklyn, having three daughters wedded to Darklyn kings during the [[Age of Heroes]]. Following the [[Defiance of Duskendale]], the entire House was executed at [[Aerys II Targaryen|Aerys II]]'s command, except for the infant Dontos Hollard, who was allowed to live at Ser [[Barristan Selmy|Barristan Selmy's]] request.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Houses from the Crownlands}}
+
+<!--Categories-->
+{{DEFAULTSORT:Hollard, House}}
+[[Category:Extinct houses]]
+[[Category:House Hollard| ]]
+[[Category:Houses from the Crownlands]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[de:Haus Hollard]]
+[[fr:Maison Hollard]]
+[[pt-br:Casa Hollard]]
+[[ru:Холларды]]

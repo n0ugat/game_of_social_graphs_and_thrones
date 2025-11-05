@@ -1,0 +1,76 @@
+{{Canonicity|Canon}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Targaryen
+| Image     = House Staunton.svg
+| Arms      = Two black wings and a golden crown on a white field beneath checkered black and white<ref name="BTS">[[:File:Staunton shield clear.png]]</ref>
+| Words     = 
+| Titles    = 
+| Seat      = [[Rook's Rest]]
+| Region    = [[Crownlands]]
+| Head      = Lord [[Simon Staunton]]
+| Heir      = 
+| Overlords = [[House Targaryen/House of the Dragon|House Targaryen]]
+| Vassals   = 
+| Religion  = [[Faith of the Seven]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Staunton'''{{Ref|HOTD110}}{{Note|Gerardys mentions a declaration from Staunton.}} of [[Rook's Rest]] is a noble house from the [[Crownlands]]. Their heraldry displays a black pair of wings with a gold crown on a white field, beneath a black and white checkered chief.<ref name="BTS" />
+
+==History==
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+[[Man-at-arms|Men-at-arms]] from House Staunton take part in the [[War for the Stepstones]].{{Ref|HOTD103}}
+
+Lord [[Simon Staunton]] declares for [[Rhaenyra Targaryen|Rhaenyra]] at the start of the [[Dance of the Dragons]] and is named to the [[Black Council]].{{Ref|HOTD110}}
+
+=== [[House of the Dragon: Season 2|House of the Dragon Season 2]] ===
+When [[Baela Targaryen|Baela]] informs the Council she witnessed [[Criston Cole]] marching a Green army through the Crownlands, Simon fears that Cole may target Rook's Rest on his march to confront Prince [[Daemon Targaryen|Daemon]] at [[Harrenhal]] and requests Rhaenyra's leave to depart Dragonstone so he may return to his seat and fortify it.<ref>''[[House of the Dragon]]'': [[House of the Dragon: Season 2|Season 2]], Episode 3: "[[The Burning Mill]]" (2024).</ref>
+
+Simon commands the garrison of Rook's Rest when Criston Cole's Green army [[Battle at Rook's Rest|besiege]] it, and witness the aerial dragon battle between [[Meleys]], [[Sunfyre]], and [[Vhagar]]. Rook's Rest is ultimately captured.<ref>''[[House of the Dragon]]'': [[House of the Dragon: Season 2|Season 2]], Episode 4: "[[The Red Dragon and the Gold]]" (2024)</ref>
+
+==Historical members==
+*Lord [[Simon Staunton]], head of the house during the [[Dance of the Dragons]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, House Staunton's [[House words|words]] and sigil are unknown, though according to semi-canon sources the latter is two black wings upon a white fess on checkered black and grey.
+
+During [[Jaehaerys Targaryen's uprising]], Lord Staunton remained loyal to [[Maegor Targaryen|King Maegor]] but eventually surrendered the [[Red Keep]] to [[Jaehaerys I Targaryen|Jaehaerys]]. He, along with Lord Darklyn and Jordan Towers, was imprisoned in the [[Black Cells|black cells]] and later pardoned by Jaehaerys. Lord Staunton spoke with the king when the latter resided at [[Dragonstone]].
+
+Lord Staunton's daughter Cassella was murdered by Androw Farman at Dragonstone in 54 AC. Five years later, Lord Staunton died of the Shivers along with his wife and children.
+
+Lord Symond Staunton was [[Aerys II Targaryen]]'s [[Master of Laws|master of laws]]. He attempted to outlaw [[Tournament|tourneys]].
+
+==Gallery==
+<gallery>
+File:TBQ Staunton Luke Jace and Erryk Still.jpg|Lord Simon at the Black Council.
+File:Simon Staunton at Battle at Rook's Rest..png|Lord Simon commands defence of Rook's Rest.
+File:House Staunton garrison.png|House Staunton soldiers.
+File:House Staunton Archers loosing volleys on the Green army..png|House Staunton archers firing on Green army.
+</gallery>
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{House Staunton}}
+{{Houses from the Crownlands/House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Staunton, House}}
+[[Category:House Staunton| ]]
+[[Category:Houses from the Crownlands]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[fr:Maison Staunton]]
+[[nl:Huis Stanten]]
+[[ru:Стонтоны]]

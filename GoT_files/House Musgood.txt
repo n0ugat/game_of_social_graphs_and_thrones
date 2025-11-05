@@ -1,0 +1,51 @@
+{{Canonicity|Canon}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Baratheon
+| Image     = 
+| Arms      = 
+| Words     = 
+| Titles    = 
+| Seat      = 
+| Region    = [[Stormlands]]
+| Head      = 
+| Heir      = 
+| Overlords = [[House Baratheon]]<br>{[[House Baratheon of Dragonstone]]} {{C|[[301 AC|301]]{{Dateref|Game of Thrones: Season 4}}-[[302 AC]]}}{{Dateref|Game of Thrones: Season 5}}
+| Vassals   = 
+| Religion  = [[Faith of the Seven]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Musgood'''{{Ref|GOT403}} is a vassal house from the [[Stormlands]] that holds fealty to [[House Baratheon]].
+
+==History==
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+[[Davos Seaworth|Davos]] reports to [[Stannis Baratheon|Stannis]] he managed to secure the support of some noble houses, among them House Musgood.{{Ref|GOT403}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, House Musgood has only been mentioned very briefly. According to "[[The Citadel]]", their sigil is a golden pavilion on blue and a green laurel crown on white, quartered.
+
+The only known member of the house is Jack Musgood, who was [[Lord Commander of the Night's Watch]] during the invasion of [[Raymun Redbeard]], [[King-Beyond-the-Wall]]. He was first known as Jolly Jack. He didn't notice Raymun's invasion and was known after that as Sleepy Jack.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Houses from the Stormlands}}
+
+<!--Categories-->
+{{DEFAULTSORT:Musgood, House}}
+[[Category:Houses from the Stormlands]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[fr:Maison Mossegonde]]
+[[ru:Масгуды]]

@@ -1,0 +1,83 @@
+{{Canonicity|Canon}}
+{{References}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Tully
+| Image     = House Darry.svg 
+| Arms      = Tenné, a plough Sable contourné handled by a ploughman proper, habited in a cap and tunic vert, hose azure, maintaining a whip of the second {{Ref|HOTD207}} <br> {{C|A ploughman, wearing a green cap and tunic and blue hose, holding a whip and pushing a plough, both black, on a brown field}}
+| Words     = 
+| Titles    = 
+| Seat      = 
+| Region    = [[Riverlands]]
+| Head      = 
+| Heir      = 
+| Overlords = [[House Tully]]
+| Vassals   = 
+| Religion  = [[Faith of the Seven]]
+| Cadets    = 
+| Founded   = 
+| Died      = [[War of the Five Kings]]
+| Weapon    = 
+}}
+'''House Darry'''{{Ref|H&L411}}{{Note|Jonothor's surname is Darry.}} is an extinct vassal house that held fealty to [[House Tully]] of [[Riverrun]].
+
+==Members==
+*{[[Lord Darry]]}, the head of House Darry during the [[Dance of the Dragons]].
+*Lord {[[Raymun Darry]]}, former head of the family. Killed by Ser [[Gregor Clegane]] during the [[Battle at the Mummer's Ford]].
+*Ser {[[Willem Darry]]}, a [[Knighthood|knight]] loyal to [[House Targaryen]]. Died of old age.
+*Ser {[[Jonothor Darry]]}, Willem's brother and a member of the [[Kingsguard]] of [[Aerys II Targaryen]]. Killed during [[Robert's Rebellion]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, House Darry is a noble house of [[First Men]] origin seated at Castle Darry in the [[Riverlands]]. Their sigil is a black plowman on a brown field.
+
+Historically, they had been one of the more prominent and powerful houses of the [[Trident]], until the fall of [[House Targaryen]]. Since [[Aegon's Conquest]], they have been noted Targaryen loyalists, supporting [[Daeron II Targaryen]] over [[Daemon Blackfyre]] during the [[Blackfyre Rebellion]]. A knight known as the Demon of Darry became [[Lord Commander of the Kingsguard]].
+
+House Darry fought on the Targaryen side during [[Robert's Rebellion]]. Their Tully overlords were among the leading rebel families, but the Riverlands Houses were heavily divided in the war. Ser Jonothor Darry was a member of the Mad King's Kingsguard, and perished at the [[Battle of the Trident]]. Following the war, the Darrys lost half of their lands, most of their wealth, and almost all of their power. At Daenerys's wedding to Khal Drogo, Viserys muses that the Darrys are among the major remaining Targaryen loyalists they can count on if they invade the Seven Kingdoms.
+
+During the march south following [[Eddard Stark]]'s elevation to [[Hand of the King]], the royal party stays at Castle Darry, much to the chagrin of Lord Raymun Darry, who had lost three brothers at the Trident. After [[Gregor Clegane]] begins raiding the Riverlands, Lord Raymun is among the delegation sent by Lord [[Hoster Tully]] to demand justice from the [[Iron Throne]] and it is he who identifies the Mountain as the leader of the "brigands". Lord Raymun joins the host led by [[Beric Dondarrion]] and [[Thoros]] of [[Myr]], but is killed by the Mountain in the [[Battle at the Mummer's Ford]]. Castle Darry is later occupied by Lannister forces.
+
+Raymun's son Lyman, a boy of eight years, becomes the new Lord of Darry and is present at [[Riverrun]] following the [[Battle of the Camps]] and proclaims [[Robb Stark]] as the [[King in the North]]. Castle Darry is later liberated when Robb gives the Riverlords leave to reclaim their seats, but only for a fortnight, as Gregor Clegane descends upon Castle Darry and puts all occupants to the sword, among them Lord Lyman himself, thus extinguishing House Darry. The sole male survivor of House Darry is a bastard cousin of Lord Lyman. Several female-line descendants also exist, among them several Freys, leading to bickering about who the Lannisters should award the remaining Darry lands.
+
+===Known members===
+*Ser {Raymun Darry}, Lord of Darry. Slain at the Battle at the Mummer's Ford.
+**{Lyman Darry}, his son and heir. Slain at the Sack of Darry.
+*Ser Raymun's three elder brothers, who died during the Battle of the Trident.
+
+With unspecified familiar relationship to the main branch of the house there are also:
+
+*Ser {Willem Darry}, master-at-arms of the Red Keep before Robert's Rebellion. He departed to [[Dragonstone (island)|Dragonstone]] with Queen [[Rhaella Targaryen]] and Prince [[Viserys Targaryen (son of Aerys II)|Viserys]], and later fled with Viserys and Princess [[Daenerys Targaryen|Daenerys]] to [[Braavos]]. Died in Braavos from illness.
+*Ser {Jonothor Darry}, a knight of King Aerys II Targaryen's Kingsguard. Brother to Ser Willem. Died at the Trident.
+*Lady Mariya Darry, wife of Merrett Frey, the ninth son of Lord [[Walder Frey]]. Mother to Amerei, [[Walda Bolton|Fat Walda]], Marissa and "Little" Walder.
+*Lady Jeyne Darry, Mariya's younger sister. Married to Ser [[Alton Lannister#In the books|Cleos Frey]]. Mother to Tywin and Willem.
+*An unnamed bastard cousin.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{House Darry}}
+{{Houses from the Riverlands}}
+
+<!--Categories-->
+{{DEFAULTSORT:Darry, House}}
+[[Category:Extinct houses]]
+[[Category:House Darry| ]]
+[[Category:Houses from the Riverlands]]
+[[Category:Houses of First Men origin]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[de:Haus Darry]]
+[[es:Casa Darry]]
+[[fr:Maison Darry]]
+[[it:Casa Darry]]
+[[nl:Huis Darring]]
+[[pl:Ród Darry]]
+[[ru:Дарри]]
+[[zh:戴瑞家族]]

@@ -1,0 +1,51 @@
+{{Canonicity|Canon}}
+{{References}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Ghiscari
+| Image     = 
+| Arms      = 
+| Words     = 
+| Titles    = 
+| Seat      = [[Yunkai]]
+| Region    = [[Slaver's Bay]]
+| Head      = 
+| Heir      = 
+| Overlords = 
+| Vassals   = 
+| Religion  = [[Ghiscari religion]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+{{Quote|Now comes the noble Razdal mo Eraz, of that ancient and honorable house.|[[Missandei]]|The Bear and the Maiden Fair (episode)}}
+The '''House of Eraz'''{{Ref|GOT307}}{{Note|Razdal's surname is Eraz.}} is one of the noble [[Slavery|slaver]] families from the city of [[Yunkai]].
+
+==Known members==
+*{[[Razdal mo Eraz]]}, one of the [[Wise Masters]] of Yunkai. Killed by [[Grey Worm]]
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the envoy sent by the Wise Masters to [[parley]] with [[Daenerys Targaryen|Daenerys]] is called Grazdan mo Eraz.
+
+===Known members===
+*Grazdan mo Eraz, slaver and diplomat
+*{Gorzhak zo Eraz}, also known as "Pudding Face", slaver and commander. Slain by the Tattered Prince during the [[second siege of Meereen]].
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+{{DEFAULTSORT:Eraz, House of}}
+[[Category:House of Eraz| ]]
+[[Category:Houses from Yunkai]]
+[[Category:Noble houses]]
+
+<!--Languages-->
+[[pt-br:Casa de Eraz]]

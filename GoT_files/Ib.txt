@@ -1,0 +1,76 @@
+{{Canonicity|Canon}}
+{{Region
+| Title      = {{PAGENAME}}
+| Theme      = Westeros
+| Image      = Ib.png
+| Type       = Island
+| Location   = [[Ibben]], [[Shivering Sea]]
+| Geography  = Sub-arctic, mountains and forests, some tundra plains
+| Population = 
+| Rulers     = 
+| Culture    = [[Ibbenese]]
+| Religion   = 
+| Military   = 
+| Capital    = [[Port of Ibben]]
+| Castles    = 
+| Cities     = 
+| Towns      = 
+| Villages   = 
+| Places     = 
+| Founded    = 
+}}
+{{Quote|The men of Ib are short, thick and hairy.|[[Euron Greyjoy]]|The Summer Sea}}
+'''Ib'''{{Ref|H&L603}} is an island off the northeastern coast of [[Essos]], surrounded by the polar waters of the [[Shivering Sea]]. It is several thousand miles east of [[Westeros]]. It is one of the largest islands in the [[known world]], and part of the archipelago of [[Ibben]].
+
+In its remote location and harsh living conditions, the local [[Ibbenese]] are a hardy folk who maintain a large fleet of whaling ships which spread far across the world's oceans. Ibbenese whaling ships visit ports in both Westeros and the [[Free Cities]], and are even seen as far south as the [[Summer Isles]].
+
+==Geography==
+[[Image:Ibben.png|thumb|left|200px|A map showing the location of Ibben off the coast of Essos. Ib is the largest island of Ibben.]]
+Although far away from mainland Essos, Ib is much too small to be considered a continent in its own right, so it is loosely considered part of Essos. It has a much colder climate than the [[Dothraki Sea]].
+
+The island is very large, apparently near in size to [[Dorne]] or the [[Disputed Lands]]. It is irregularly shaped but is more or less longest along a line running from southwest to northeast. Ib is at roughly the same longitude as [[Vaes Dothrak]] and [[Qarth]], loosely almost as wide on a map as the [[Red Waste]] is. The island is slightly north of the latitude of [[White Harbor]] in the [[North]], but its most northern point does not extend much farther than [[Skagos]].
+
+Despite these vast distances, the whale-hunting Ibbenese travel very far across the world's oceans, trading across much of Essos and sometimes in [[Westeros]] as well. The [[Port of Ibben]] is on the island's south-eastern coast.
+
+==People==
+{{Main|Ibbenese}}
+[[File:HL6 Ibbenese whaling ship deck.png|thumb|Ibbenese sailors carving up a whale carcass on the deck of their ship.]]
+The Ibbenese are a hardy folk who gain their livelihood from the sea, in large fishing fleets and particularly whaling fleets. Ibbenese whaling ships are found as far away as the [[Narrow Sea]] and even the [[Summer Sea]]. Adapted to the cold climate, they are very stocky and hairy.<ref>"[[The Summer Sea]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Ib is home to a hardy race of sailors. The Ibbenese are an {{WPS|Inuit}}-like people adapted to the cold, frequently described as hairy and short. They chew whale blubber to keep their metabolism high in the cold temperatures. They principally trade in whale blubber and meat.
+
+Ib has mountains and large forests on the west and east coasts, but also plains and tundras where mammoths roam. The mountains are rich in gold, iron, and tin, and the forests provide abundant timber, amber, and animal pelts. The northern seas are filled with marine life harvested by their large fishing fleets. Agricultural production is understandably limited: even the best lands are limited to goat-herding.
+
+The island's principal city is the Port of Ibben, on its south coast. The north part of the island is cold and sparsely-inhabited, and [[mammoth]]s are said to exist on the island as well. Any foreigners who dock at the Port of Ibben are legally obliged to remain within its confines; venturing beyond into the heart of the island is forbidden without express invitation (rarely given) and must be done in the company of an Ibbenese host. The only other city mentioned on the isle is the much smaller Ib Nor on the north coast, which seems of little note.
+
+In ancient times Ib was ruled by a series of god-kings, but in the aftermath of the [[Doom of Valyria]] they were overthrown for unknown reasons. The god-kings were then replaced by a council of [[magister]]s, like those that rule several of the [[Free Cities]]. In Ib it is known as the Shadow Council, whose members are chosen by the Thousand, an assembly of wealthy merchant guildsmen, nobles, and priests.
+
+The Ibbenese have colonized several smaller nearby islands, chief of which is Far Ib, between Ib and mainland Essos, but it started out as a penal colony and is overall a smaller and bleaker place.
+
+The Ibbenese have settlements along the remote northern coast of Essos, particularly the [[Footprint]], a woodland region immediately to their south, between the coast and Vaes Dothrak. In prior centuries of expansion the Dothraki warred extensively with the Ibbenese, who stubbornly refused to submit or offer tribute. Nonetheless the tide of these conflicts turned against them and most of their settlements were burned. They were not completely driven out, however, and a few heavily fortified lumber-producing settlements still cling to the coasts, chief among them New Ibbish. Fundamentally the Dothraki cannot totally defeat the Ibbenese, because their main base of territory is an island, and the Dothraki are not a seafaring people.
+
+The Ibbenese maintain smaller or more temporary settlements across the rest of Essos's northern coast, often as resupply bases for their whaling and fishing fleets. In the west, they have claimed lands as far as the [[Axe]], due north from [[Qohor]], which they vie for control over with [[Lorath]] and [[Norvos]]. To the east their ships have sailed as far as the Thousand Isles, encountering one or two ports of the [[Jogos Nhai]] and their kin, but otherwise there are no other major ports in these bleak eastern stretches, so even the Ibbenese have ventured no farther. Ibbenese explorers and chartmakers have found no other lands north of Ib in the Shivering Sea, only inhospitable polar ice.
+
+Originally, [[George R.R. Martin]] stated that Ib is roughly the same size as {{WPS|Iceland}}. This was apparently revised by the time he developed the full world maps from 2012 to 2014, in which it appears quite large, and the ''World of Ice and Fire'' sourcebook (2014) states that it is the second-largest island in the known world (the largest is [[Great Moraq]], across the straits from Qarth, forming the western edge of the [[Jade Sea]]).
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Known world}}
+{{Central Essos}}
+
+<!--Categories-->
+[[Category:Ib| ]]
+[[Category:Ibben]]
+[[Category:Islands]]
+
+<!--Languages-->
+[[de:Ib]]
+[[es:Ib]]
+[[nl:Ib]]
+[[ru:Иб]]

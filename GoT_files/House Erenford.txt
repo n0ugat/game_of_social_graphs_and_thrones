@@ -1,0 +1,48 @@
+{{Canonicity|Canon}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Frey
+| Image     = 
+| Arms      = 
+| Words     = 
+| Titles    = 
+| Seat      = 
+| Region    = [[Riverlands]]
+| Head      = 
+| Heir      = 
+| Overlords = [[House Frey]]
+| Vassals   = 
+| Religion  = [[Faith of the Seven]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Erenford'''{{Guideref|Viewer's Guide}}{{Note|Joyeuse Frey's maiden name is Erenford.}} is a knightly house of the [[Riverlands]]. They are sworn to [[House Frey]] of the [[Twins]].
+
+==Known members==
+*Lady {[[Joyeuse Frey]]}, the eighth wife of Lord [[Walder Frey]].{{Guideref|Viewer's Guide}} Killed by [[Catelyn Stark]] during the [[Red Wedding]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, House Erenford is a lesser knightly house sworn to House Frey. Their sigil is a golden heron, beak and legs black, standing with a silver fish in its beak, on pink.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Houses from the Riverlands}}
+
+<!--Categories-->
+{{DEFAULTSORT:Erenford, House}}
+[[Category:House Erenford| ]]
+[[Category:Houses from the Riverlands]]
+[[Category:Knightly houses]]
+
+<!--Languages-->
+[[ru:Эренфорды]]

@@ -1,0 +1,58 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{References}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Tully
+| Image     = House Towers.svg
+| Arms      = White, five black towers within a double tressure red and black
+| Words     = 
+| Titles    = [[Lord of Harrenhal]]
+| Seat      = [[Harrenhal]]
+| Region    = [[Riverlands]]
+| Head      = 
+| Heir      = 
+| Overlords = [[House Tully]]
+| Vassals   = 
+| Religion  = [[Faith of the Seven]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Towers'''{{Con|TWOI&F}} of [[Harrenhal]] is an extinct noble house of the [[Riverlands]]. Their sigil was five black towers on white, surrounded by a double tressure red and black.
+
+Their seat was the castle of [[Harrenhal]], which was granted to them after the extinction of [[House Harroway]]. However, the Towers also died out, and the castle was passed on to [[House Strong]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, House Towers' backstory is the same.
+
+==Gallery==
+<gallery>
+Towers sigil.png|Sigil of House Towers from ''[[Histories & Lore]]''.
+</gallery>
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|House Towers of Harrenhal}}
+
+<!--Navboxes-->
+{{Houses from the Riverlands}}
+
+<!--Categories-->
+{{DEFAULTSORT:Towers, House}}
+[[Category:Extinct houses]]
+[[Category:House Towers| ]]
+[[Category:Houses from the Riverlands]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[fr:Maison Tourelles]]
+[[pl:Ród Towers]]
+[[pt-br:Casa Towers]]
+[[ru:Тауэрсы]]

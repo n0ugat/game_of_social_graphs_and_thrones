@@ -1,0 +1,28 @@
+{{Cast
+|Title = Ian Davies
+|Image = Ian Davies.jpg
+|birthplace = {{WPS|London}}, {{WPS|England}}, {{WPS|United Kingdom|UK}}
+|role = [[Morgan (The Broken Man)|Morgan]]
+|status = 
+|First = "[[The Broken Man]]"
+|Last = "[[No One]]"
+|imdb = https://www.imdb.com/name/nm7424139/
+|twitter = https://www.twitter.com/IanDavidDavies_
+}}
+'''Ian Davies''' is an English actor. He will appear in the upcoming films ''{{WPS|The Brothers Grimsby}}'' and ''{{WPS|The Huntsman: Winter's War}}''.
+
+In ''[[Game of Thrones]]'', he portrays [[Morgan (The Broken Man)|Morgan]] in the [[Game of Thrones: Season 6|sixth season]].<ref>[http://www.spotlight.com/interactive/cv/1/M189834.html/ Spotlight - Ian Davies CV]</ref>
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 6|||||||yes|yes}}
+
+==See also==
+*{{IMDb
+|# = 7424139}}
+*{{Twitter|# = IanDavidDavies_}}
+
+==References==
+{{Reflist}}[[fr:Ian Davies]]
+{{DEFAULTSORT:Davies, Ian}}
+[[Category:Guest starring cast members of Game of Thrones]]

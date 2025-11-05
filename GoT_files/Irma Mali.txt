@@ -1,0 +1,28 @@
+{{Cast
+|Title = Irma Mali
+|Image = Irma Mali.png
+| dateofbirth= 
+| birthplace= 
+|role = Braavosi prostitute
+|status = 
+| Appearances= "[[The Dance of Dragons (episode)|The Dance of Dragons]]"
+|imdb = http://www.imdb.com/name/nm3392227/
+|twitter = https://twitter.com/irma_mali}}'''Irma Malinauskaitė "Mali"''' is a Lithuanian actress and model. She is best known for her roles in the short films ''Searching for Ten'' and ''Taxi'', and the film ''The Callback Queen''.
+
+She portrays a Braavosi prostitute in the [[Game of Thrones: Season 5|Season 5]] episode "[[The Dance of Dragons (episode)|The Dance of Dragons]]".
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 5|||||||||yes}}
+
+==See also==
+*{{Template:IMDb
+|# = 3392227}}
+*{{Template:Twitter
+|# = irma_mali}}
+
+==References==
+{{Reflist}}{{DEFAULTSORT:Mali, Irma}}
+
+[[lt:Irma Mali]]
+[[Category:Guest starring cast members of Game of Thrones]]

@@ -1,0 +1,46 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = James Faulkner.jpg
+| Birth   = James Sebastian Faulkner<br>July 18, 1948 {{Age|1948|7|18}}<br>Hampstead, London, England
+| Death   = 
+| Role    = [[Randyll Tarly]]
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 6|6]] {{*}} [[Game of Thrones: Season 7|7]]
+| Credits = 5 episodes {{Below|Credits}}
+| First   = "[[Blood of My Blood]]"
+| Last    = "[[Eastwatch]]"
+}}
+'''James Sebastian Faulkner''' (born 18 July 1948) is an actor who has been cast as [[Randyll Tarly]] in the [[Game of Thrones: Season 6|sixth season]].
+
+Recently Faulkner has been well-known for playing Lord Sinderby on ''Downton Abbey'', and also Pope Sixtus IV on ''Da Vinci's Demons''.
+
+Over his long career Faulkner has appeared in ''X-Men: First Class'', ''MI-5'', ''Tatort'', ''Highlander'', ''La Femme Nikita'', ''Covington Cross'' and ''The Hound of the Baskervilles'' (Granada). He also appeared in ''Bridget Jones's Diary'' and its sequel.
+
+Faulkner notably co-starred in the classic series ''I, Claudius'' as Herod Agrippa ([[George R.R. Martin]] has said that he is a huge fan of ''I, Claudius'').
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 6||||||yes}}
+{{Game of Thrones: Season 7||yes|yes|yes|yes}}
+
+==See also==
+*{{WP|James Faulkner (actor)|James Faulkner}}
+*{{IMDb
+|# = 0269077}}
+*{{Twitter
+|# = jamessfaulkner}}
+
+<!--Navboxes-->
+{{Histories & Lore}}
+
+<!--Categories-->
+{{DEFAULTSORT:Faulkner, James}}
+[[Category:Cast members of Histories & Lore]]
+[[Category:Guest starring cast members of Game of Thrones]]
+
+<!--Languages-->
+[[de:James Faulkner]]
+[[fr:James Faulkner]]
+[[pl:James Faulkner]]
+[[ru:Джеймс Фолкнер]]

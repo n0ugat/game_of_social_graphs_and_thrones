@@ -1,0 +1,67 @@
+{{Canonicity|Canon}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Stark
+| Image     = 
+| Arms      = 
+| Words     = 
+| Titles    = Master of Torrhen's Square{{Con|ASOIAF}}
+| Seat      = [[Torrhen's Square]]
+| Region    = [[North]]
+| Head      = 
+| Heir      = 
+| Overlords = [[House Stark]]<br>{[[House Bolton]]} {{C|[[300 AC|300]]{{Dateref|Game of Thrones: Season 3}}-[[303 AC]]}}{{Dateref|Game of Thrones: Season 6}}
+| Vassals   = 
+| Religion  = [[Old Gods]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Tallhart'''{{Ref|GOT205}}{{Note|Referred to as the "House of Tallhart."}} of [[Torrhen's Square]] is a vassal house that holds fealty to [[House Stark]] of [[Winterfell]]. House Tallhart's lands are south-west of Winterfell. Their seat is Torrhen's Square.
+
+==History==
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+[[Theon Greyjoy|Theon]] consults with [[Dagmer]] how he can prove himself as a true Iron Islander. Theon mentions that Torrhen's Square lies near to the [[Stony Shore]]; Dagmer says that the seat of House Tallhart is more worthy prize than raiding fishermen's villages.<ref>"[[The Ghost of Harrenhal]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, House Tallhart is a masterly house sworn to the Starks of Winterfell as Masters of Torrhen's Square. According to a semi-canon source, House Tallhart descends from the [[First Men]].
+
+In the novels, House Tallhart's heraldry consists of three green sentinel trees on a brown background. The TV series changed this to one green sentinel tree, on a white background.{{Cite}}
+
+===Known members===
+*Ser {Helman Tallhart}, the head of the family and Master of Torrhen's Square. Slain in the Battle of [[Duskendale]].{{Bookref|ASOS|37}}
+**{Benfred Tallhart}, Helman's eldest son and heir. Slain by the [[ironborn]] during the harrying of the [[Stony Shore]].{{Bookref|ACOK|37}}
+**Eddara Tallhart, Helman's only daughter. Held captive by the ironborn at Torrhen's Square.{{Bookref|AFFC|Appendix}}
+*{Leobald Tallhart}, Helman's brother and Castellan of Torrhen's Square. Slain by [[Ramsay Bolton|Ramsay Snow]] during the [[Sack of Winterfell#In the books|Sack of Winterfell]].{{Bookref|ACOK|66}}
+*Berena Tallhart, his wife of [[House Hornwood]]. Held captive by the ironborn at Torrhen's Square.{{Bookref|AFFC|Appendix}}
+***Brandon Tallhart, their eldest son. Held captive by the ironborn at Torrhen's Square.{{Bookref|AFFC|Appendix}}
+***Beren Tallhart, their younger son. Held captive by the ironborn at Torrhen's Square.{{Bookref|AFFC|Appendix}}
+
+In ''A Dance with Dragons'', following the [[fight by Deepwood Motte]], House Tallhart is one of the northern houses who join [[Stannis Baratheon|Stannis]] in [[Battle in the ice#In the books|his campaign against the Boltons]].{{Bookref|ADWD|35}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Houses from the North}}
+
+<!--Categories-->
+{{DEFAULTSORT:Tallhart, House}}
+[[Category:House Tallhart| ]]
+[[Category:Houses from the North]]
+[[Category:Houses of First Men origin]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[de:Haus Tallhart]]
+[[es:Casa Tallhart]]
+[[fr:Maison Tallhart]]
+[[ru:Толхарты]]
+[[zh:陶哈家族]]

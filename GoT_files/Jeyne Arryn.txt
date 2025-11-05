@@ -1,0 +1,101 @@
+{{Canonicity|Canon}}
+{{Update|"[[Smallfolk]]" and "[[The Red Sowing]]"}}
+{{Heraldry
+| Image  = House Arryn.svg
+| Link   = House Arryn/House of the Dragon
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Arryn
+| Image       = Jeyne Arryn.png
+| Birth       = 
+| Death       = 
+| House       = [[House Arryn/House of the Dragon|Arryn]]{{Ref|HOTD105}}
+| Affiliation = [[House Targaryen/House of the Dragon|House Targaryen]]<br>[[Blacks]]{{Ref|HOTD201}}
+| Titles      = [[Lord of the Eyrie|Lady of the Eyrie]]{{Webref|name=WBD |author=Unknown author |date=Unknown date |url=https://press.wbd.com/us/bio/house-dragon-s2-character-descriptions |title=House of the Dragon S2 <nowiki>|</nowiki> Character Descriptions |website=Warner Bros. Discovery |access-date=June 5, 2024 }}<br>[[Defender of the Vale]]<br>[[Warden of the East|Wardeness of the East]]
+| AKA         = Maiden of the Vale<ref name="WBD" />
+| Culture     = [[Vale of Arryn|Valemen]]{{Ref|HOTD105}}
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 2|2]] {{*}} [[House of the Dragon: Season 3|3]]
+| Appearances = 4 episodes {{Below|Appearances}}
+| First       = "[[Regent (episode)|Regent]]"
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Amanda Collin]]
+}}
+{{Quote|I mislike feeling powerless.|Jeyne Arryn|Regent (episode)}}
+Lady '''Jeyne Arryn''', called the '''Maiden of the Vale''',<ref name="WBD" /> is the head of [[House Arryn/House of the Dragon|House Arryn]], [[Lord of the Eyrie|Lady of the Eyrie]], [[Defender of the Vale]], and [[Warden of the East|Wardeness of the East]] during the reign of [[Viserys I Targaryen|Viserys I]] and the [[Dance of the Dragons]].
+
+==Biography==
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+Following the suspicious death of [[Rhea Royce]], [[Daemon Targaryen|Daemon]] proclaims at the wedding of [[Rhaenyra Targaryen|Rhaenyra]] and [[Laenor Velaryon]] that he will fly to the [[Eyrie]] at once and petition Lady Jeyne to instate him as [[Yorbert Royce]]'s new heir, as Rhea died without heirs of her own.{{Ref|HOTD105}} This proves unsuccessful, as Daemon is later living in exile in [[Pentos]].{{Ref|HOTD106}}
+
+Because of their shared blood through [[Aemma Arryn]], Rhaenyra anticipates that Lady Arryn will declare for her at the start of the [[Dance of the Dragons]]. She sends her son [[Jacaerys Velaryon|Jacaerys]] to treat with her.{{Ref|HOTD110}}
+
+===[[House of the Dragon: Season 2|''House of the Dragon'': Season 2]]===
+[[Jacaerys Velaryon|Jacaerys]] successfully treats with Lady Arryn. She pledges the forces of the [[Vale of Arryn|Vale]] to the cause of the [[Blacks]], under the condition that a [[Dragonrider|dragonrider]] must protect the Vale.{{Ref|HOTD201}}
+[[File:2x7 Jeyne Arryn Still.jpg|thumb|Lady Jeyne and her knights. ]]
+Lady Arryn speaks with [[Rhaena Targaryen|Rhaena]], stating that the Eyrie is impregnable, unless it is attacked dragons. Rhaena responds that in exchange for Lady Arryn's promise of 15,000 soldiers, Rhaenyra promised protection, and fulfilled her promise by sending two dragons to the Vale. Unimpressed, Lady Arryn points out that these dragons are still young, and she cannot afford waiting till they grow up.{{Ref|HOTD205}}
+
+==Behind the scenes==
+Jeyne Arryn's character description reads as follows:
+:''"The cunning Maiden of the Vale, Lady of the Eyrie, and head of House Arryn."''<ref name="WBD" />
+
+==In the books==
+In ''[[Fire & Blood]]'', Jeyne Arryn became Lady of the Eyrie as a child, during the reign of King [[Jaehaerys I Targaryen]]. She unexpectedly inherited the seat after her father and older brothers were killed at the hands of the [[Stone Crows]]. During her minority, Lord Yorbert Royce ruled as her regent, who also went to the [[Great Council at Harrenhal|Great Council of 101 AC]] in her stead. Her regency eventually ended when she came of age and her rule over the Vale continued throughout the reign of [[Viserys I Targaryen]]. Throughout Jeyne's reign, her rule was contested many times by male relatives and cousins, who sought to claim the Eyrie for themselves. On three separate occasions she successfully put down open rebellions by them. 
+
+Rhaenyra's mother was [[Aemma Arryn]], the only child of Lord Rodrik Arryn and his second wife [[Daella Targaryen]] (a younger sister of Viserys's parents). The exact relationship between Rodrik and Jeyne's unnamed father is unclear, but he was probably Rodrik's eldest son from his first marriage. If this was the case, then Jeyne's father was Aemma's half-brother, making Jeyne and Rhaenyra half first cousins. 
+
+Jeyne was three years older than Rhaenyra and the legal age of adulthood in Westeros is sixteen, thus her regency presumably ended around 110 AC. In 115 AC she was described as ruling in her own right, when she heard Daemon's request to inherit Runestone after Lady Rhea died; Jeyne not only dismissed his claim, but also warned him that he was unwelcome in the Vale. This age difference might be different in the TV series, as some characters such as Rhaenyra were aged-up but others such as Alicent were not.
+
+==Appearances==
+*{{TDOD}} {{Text}}
+*{{HOTD|We Light the Way}} {{Mentioned}}
+*{{HOTD|The Black Queen}} {{Mentioned}}
+*{{HOTD|A Son for a Son}} {{Mentioned}}
+*{{HOTD|The Burning Mill}} {{Mentioned}}
+*{{HOTD|Regent}}
+*{{HOTD|Smallfolk}}
+*{{HOTD|The Red Sowing}}
+
+===Forthcoming===
+{{Collapse|
+*{{HOTD|Season 3, Episode 4}}{{Webref|name=Leak |author=Gravemaster |date=March 13, 2025 |url=https://redanianintelligence.com/2025/03/13/major-character-leak-from-house-of-the-dragon-season-3/ |title=Major Character Leak From House of the Dragon Season 3 |website=Redanian Intelligence |access-date=July 18, 2025 }} {{Unreleased}}
+}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{House Arryn/House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Arryn, Jeyne}}
+[[Category:Bannermen of House Targaryen]]
+[[Category:Blacks]]
+[[Category:Defenders of the Vale|Jeyne Arryn]]
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Individuals from The Dance of Dragons]]
+[[Category:Lords of the Eyrie|Jeyne Arryn]]
+[[Category:Members of House Arryn|Jeyne Arryn]]
+[[Category:Ruling ladies]]
+[[Category:Valemen]]
+[[Category:Wardens of the East|Jeyne Arryn]]
+
+<!--Languages-->
+[[es:Jeyne Arryn/House of the Dragon]]
+[[fr:Jeyne Arryn]]
+[[pl:Jeyne Arryn]]
+[[ru:Джейн Аррен]]
+[[uk:Джейн Арін]]

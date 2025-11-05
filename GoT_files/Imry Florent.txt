@@ -1,0 +1,85 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Florent.svg
+| Link  = House Florent
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Baratheon
+| Image       = Imry Florent.png
+| Birth       = At [[Brightwater Keep]]
+| Death       = 
+| House       = [[House Florent|Florent]]
+| Affiliation = [[House Baratheon of Dragonstone]]
+| Titles      = [[Knighthood|Ser]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Andals|Andal]]
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = {[[Axell Florent]]}<br>{[[Selyse Baratheon]]}
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 2|2]]
+| Appearances = "[[Blackwater]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Gordon Mahn]]
+}}
+{{Quote|We're too far from the gates. The fire... their archers... hundreds will die.|Imry Florent to Stannis Baratheon|Blackwater}}
+Ser '''Imry Florent''' is a member of [[House Florent]] and brother of [[Axell Florent]] and Queen [[Selyse Baratheon|Selyse]], the wife of King [[Stannis Baratheon]].
+
+==Biography==
+===Background===
+Ser Imry Florent is a member of [[House Florent]] of [[Brightwater Keep]], a noble house sworn to [[House Tyrell]] of the [[Reach]]. However, due to his sister Selyse's marriage to Stannis, the Florents declare for Stannis in the [[War of the Five Kings]].{{Ref|GOT209}}
+
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+During the [[Battle of the Blackwater]], Ser Imry accompanies Stannis aboard the King's flagship, the ''[[Fury]]''. After much of Stannis's fleet is destroyed with [[wildfire]], Stannis orders his forces to disembark. Ser Imry warns Stannis that hundreds will die trying to reach the shore. The king replies that it will actually be thousands, but is the first to climb down to a ferry boat.{{Ref|GOT209}}
+
+As the king's flagship was not engulfed in wildfire during the battle, his fate and whereabouts are unknown.{{Ref|GOT209}}
+
+==Family==
+{{Florent tree}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Ser Imry Florent, like the rest of House Florent, declares for Stannis after the death of [[Renly Baratheon]].
+
+At the Battle of the Blackwater, Ser Imry is given command of Stannis's fleet as Lord High Captain and leads it blindly into [[Blackwater Rush]], instead of sending scouts as [[Davos Seaworth|Davos]] advises him. He is killed in the battle when the flagship ''Fury'' is engulfed in wildfire.
+
+Stannis is not saddened over Ser Imry's death. He regards Ser Imry as "that fool of Florent who sailed my fleet into the jaws of a trap".
+
+==Appearances==
+*{{GOT|Blackwater}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Florent}}
+{{House Baratheon of Dragonstone}}
+
+<!--Categories-->
+{{DEFAULTSORT:Florent, Imry}}
+[[Category:Bannermen of House Baratheon of Dragonstone]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Individuals from the Reach]]
+[[Category:Knights]]
+[[Category:Members of House Florent|Imry Florent]]
+
+<!--Languages-->
+[[de:Imry Florent]]
+[[fr:Imry Florent]]
+[[pl:Imry Florent]]
+[[ru:Имри Флорент]]
+[[zh:伊姆瑞·佛罗伦]]

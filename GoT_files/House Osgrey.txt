@@ -1,0 +1,61 @@
+{{Canonicity|Canon}}
+{{Spoiler|AKOTSK}}
+{{ConjectureInfo}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Bronn
+| Image     = 
+| Arms      = 
+| Words     = 
+| Titles    = 
+| Seat      = [[Standfast]]
+| Region    = [[Reach]]
+| Head      = 
+| Heir      = 
+| Overlords = [[House Rowan]]
+| Vassals   = 
+| Religion  = [[Faith of the Seven]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Osgrey'''{{Ref|GOT806}}{{Note|Eustace's surname is Osgrey.}} of [[Standfast]] is a [[noble house]] in the [[Reach]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, House Osgrey rules Standfast as vassals to [[House Rowan]] of [[Goldengrove]]. Their coat-of-arms is a chequy lion, green and gold rampant on a white field. Founded at least a thousand years before [[Aegon's Conquest]], they once served as Marshalls of the Northmarch under [[House Gardener]]. They were one of the most powerful houses in the Reach, with four castles in their domain and over a hundred vassals of their own. The largest of their castles, [[Coldmoat]], was built by [[Lordship|Lord]] Perwyn Osgrey. Other domains included everything from Nunny to Cobble Cover, the Leafy Lake, the Horseshoe Hills, Derring Downs, Standfast, and the towns of Dosk, Little Dosk, and Brandybottom. They intermarried with many [[great house]]s throughout [[Westeros]] including the [[House Florent|Florents]], [[House Swann|Swanns]], [[House Tarbeck|Tarbecks]], [[House Hightower|Hightowers]], and [[House Blackwood|Blackwoods]]. During an invasion of the Reach by the [[Westerlands|Kingdom of the Rock]], Ser Wilbert Osgrey and [[King of the Rock|King]] Lancel IV [[House Lannister|Lannister]] killed each other, repelling the invasion.
+
+The Osgreys lost Coldmoat to House Webber when Lord Ormond Osgrey publicly sided with the [[Faith Militant|Poor Fellows and Warrior's Sons]] in the [[Faith Militant uprising]] and spoke out against [[Maegor Targaryen|Maegor the Cruel]]. They also lost their lordship, becoming [[Knighthood#Types of knights|landed knights]] of Standfast instead. A cadet branch of the same name at Leafy Lake went extinct by [[History#The Blackfyre Rebellions|210 AC]].
+
+===Historical members===
+*Lord Perwyn Osgrey, known as Perwyn the Proud, the builder of Coldmoat
+*Ser Wilbert Osgrey, known as the Little Lion, who fought and killed (and was killed by) King Lancel IV Lannister
+*Lord Ormond Osgrey, the Lord of Coldmoat during the Faith Militant uprising
+*Lady Clarice Osgrey, aunt to Lord Unwin Peake and mistress of Queen [[Jaehaera Targaryen]]'s household
+*Ser [[Eustace Osgrey]], Knight of Standfast
+**His wife, committed suicide after the Blackfyre Rebellion
+***Ser Edwyd Osgrey, their firstborn son, died upon the Redgrass Field
+***Ser Harrold Osgrey, their secondborn son, died upon the Redgrass Field
+***Addam Osgrey, their thirdborn son, died upon the Redgrass Field
+***Alysanne Osgrey, their daughter, joined the [[Silent Sisters]]
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|AKOTSK}}
+
+<!--Navboxes-->
+{{Houses from the Reach}}
+
+<!--Categories-->
+{{DEFAULTSORT:Osgrey, House}}
+[[Category:House Osgrey| ]]
+[[Category:Houses from the Reach]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[ru:Осгреи]]

@@ -1,0 +1,70 @@
+{{Tab (House of the Dragon)}}
+{{Canonicity|Canon}}
+{{Subpage|HOTD}}
+{{House
+| Title     = House Greyjoy
+| Type      = Greyjoy
+| Image     = House Greyjoy.svg
+| Arms      = A golden kraken on black
+| Words     = "We Do Not Sow"
+| Titles    = [[Lord of the Iron Islands]]<br>[[King of Salt and Rock]]<br>[[Son of the Sea Wind]]<br>[[Lord Reaper of Pyke]]
+| Seat      = [[Pyke]]
+| Region    = [[Iron Islands]]
+| Head      = Lord [[Dalton Greyjoy]]
+| Heir      = 
+| Overlords = {[[House Hoare]]} {{C|formerly}}<br>[[House Targaryen/House of the Dragon|House Targaryen]]
+| Vassals   = [[House Blacktyde]]<br>[[House Botley]]<br>[[House Drumm]]<br>[[House Goodbrother]]<br>[[House Harlaw]]<br>[[House Merlyn]]<br>[[House Sparr]]
+| Religion  = [[Drowned God]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Greyjoy'''{{Ref|GOT203}} of [[Pyke]] is a [[Great House]] of [[Westeros]]. They rule over the [[Iron Islands]], a harsh and bleak collection of islands off the west coast of Westeros, from the castle at [[Pyke (island)|Pyke]]. The head of the house is the [[Lord Reaper of Pyke]].
+
+==History==
+===Background===
+House Greyjoy is one of the [[Great House]]s of [[Westeros]]. Their lands are the [[Iron Islands]] off the west coast of the continent. They rule from their castle [[Pyke]] from the [[Pyke (island)|island of the same name]]. The Iron Islands are harsh and bleak and the Greyjoys have traditionally survived by raiding their neighbors. They have always had plans to conquer the mainland, as their ancient tradition of reaving and plundering made them dominant in the waters. The head of the house is the [[Lord Reaper of Pyke]].<ref name="House Greyjoy viewers guide">[http://viewers-guide.hbo.com/game-of-thrones/season2/#!/guide/houses/greyjoy/ HBO viewers guide, season 2 guide to houses, House Greyjoy entry]</ref>
+
+House Greyjoy boasts descent from the [[Grey King]], a legendary [[King of the Iron Islands]] said to have ruled for a thousand years and taken a mermaid as his wife. Like the vast majority of [[Ironborn]], they worship the [[Drowned God]]. The Ironborn would never follow a hereditary ruler; instead they would choose their own monarchs from the Kingsmoot.
+
+===[[House of the Dragon: Season 2|''House of the Dragon'': Season 2]]===
+At the onset of the [[Dance of the Dragons]], Grand Maester [[Orwyle]] suggests offering the position of [[Master of Ships]] to Dalton Greyjoy, in order to fill the vacant seat on the [[Small Council]].{{Ref|HOTD201}}
+
+As the [[Velaryon fleet]]'s [[blockade of the Gullet]] continues to cause food shortages and public anger in King's Landing, when Prince [[Aemond Targaryen]] proposes a military alliance with the [[Triarchy]] for naval aid to break the blockade, Dowager Queen [[Alicent Hightower]] asks what has come of their letters to House Greyjoy, hoping to use the ironborn for naval power instead. Orwyle confirms that his ravens have gone unanswered, to which Lord [[Jasper Wylde]] notes Lord Dalton Greyjoy is biding his time for his best advantage.{{Ref|HOTD206}}
+
+==Members==
+*Lord [[Dalton Greyjoy]], the [[Lord of the Iron Islands]] and [[Lord Reaper of Pyke]].
+
+==In the books==
+{{Main|House Greyjoy#In the books}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|House Greyjoy}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{House Greyjoy/House of the Dragon}}
+{{Great Houses of Westeros/House of the Dragon}}
+{{Houses from the Iron Islands/House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Greyjoy, House}}
+[[Category:Great Houses]]
+[[Category:House Greyjoy| ]]
+[[Category:Houses from the Iron Islands]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[de:Haus Graufreud]]
+[[es:Casa Greyjoy]]
+[[fr:Maison Greyjoy]]
+[[it:Casa Greyjoy]]
+[[nl:Huis Grauwvreugd]]
+[[pl:Ród Greyjoy]]
+[[pt-br:Casa Greyjoy]]
+[[ro:Casa Greyjoy]]
+[[ru:Грейджои]]
+[[zh:葛雷乔伊家族]]

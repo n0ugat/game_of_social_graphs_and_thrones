@@ -1,0 +1,21 @@
+{{Crew
+|Image = 
+|dateofbirth = 
+|birthplace = 
+|job = Stunt Performer<br>Stunt Coordinator
+|imdb = http://www.imdb.com/name/nm0471683
+|twitter = }}
+'''Ivo Kristof''' is a stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 2|second season]] episode "[[The Old Gods and the New]]" and a stunt coordinator in the [[Game of Thrones: Season 4|fourth season]] episodes "[[Two Swords]]", "[[The Lion and the Rose]]", "[[Breaker of Chains]]", "[[Oathkeeper (episode)|Oathkeeper]]", "[[First of His Name]]", "[[Mockingbird]]", "[[The Mountain and the Viper]]" and "[[The Children]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 2||||||yes}}
+{{Game of Thrones: Season 4|yes|yes|yes|yes|yes||yes|yes||yes}}
+
+==See also==
+*{{IMDb
+|# = 0471683}}
+{{DEFAULTSORT:Kristof, Ivo}}
+[[Category:Stunt performers of Game of Thrones]]

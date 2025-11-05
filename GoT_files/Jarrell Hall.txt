@@ -1,0 +1,26 @@
+{{Crew
+|Image = Jarrell Hall.jpg
+|dateofbirth = {{WPS|December 12th}}, {{WPS|1985}}
+|birthplace = {{WPS|Shreveport}}, {{WPS|Louisiana}}
+|job = Stunt Performer
+|imdb = https://www.imdb.com/name/nm8129620/
+|twitter = https://twitter.com/OhMrHall}}
+'''Jarrell Richard Hall''' (born December 12th, 1985) is an American actor and stuntman.
+
+In ''[[Game of Thrones]]'', he was a motion capture performer in the [[Game of Thrones: Season 8|eighth season]] episodes "[[The Long Night]]", "[[The Bells]]" and "[[The Iron Throne]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 8|||yes||yes|yes}}
+
+==See also==
+*{{IMDb
+|# = 8129620}}
+*{{Twitter
+|# = OhMrHall}}
+*{{Instagram
+|# = ohmrhall}}
+*{{Facebook
+|# = JarrellRHall}}
+{{DEFAULTSORT:Hall, Jarrell}}
+[[Category:Stunt performers of Game of Thrones]]

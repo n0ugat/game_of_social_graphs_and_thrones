@@ -1,0 +1,63 @@
+{{Canonicity|Canon}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Stark
+| Image     = House Mazin.svg
+| Arms      = Chequy argent and azure, each azure check charged with a bezant <br> {{C|White and blue checkers, with a golden plate in each blue check}}
+| Words     = 
+| Titles    = 
+| Seat      = 
+| Region    = [[North]]
+| Head      = [[Lord Mazin]]
+| Heir      = 
+| Overlords = [[House Stark]]
+| Vassals   = 
+| Religion  = [[Old Gods]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+{{Quote|There are more than three other Houses in the North — Glover, Mormont, Cerwyn, Mazin, Hornwood. Two dozen more. Together they equal all the others. We can start small and build.|[[Jon Snow]] to [[Sansa Stark]] and [[Davos Seaworth]]|The Door}}
+'''House Mazin'''{{Ref|GOT605}} is a [[noble house]] in the [[North]]. They blazon [[Heraldry|their arms]] with blue and white chequy with gold plates inside the blue.
+
+==History==
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+[[Samwell Tarly|Sam]] presents some paperwork to Lord Commander [[Jon Snow]] consisting of requests to various noble houses to send new recruits to the [[Night's Watch]]. A few Houses can spare any men during the [[War of the Five Kings]], so the Watch is left scraping the bottom of the barrel: the requests are mostly to minor lords that Jon says he hasn't even heard of, including Lord Mazin.<ref>"[[Sons of the Harpy (episode)|Sons of the Harpy]]"</ref>
+
+=== [[Game of Thrones: Season 6|''Game of Thrones'': Season 6]] ===
+While making plans to retake the North, Jon lists the Mazins as one of the Houses that have not yet declared for the [[House Bolton]].<ref>"[[The Door]]"</ref>
+[[File:Sigil-Mazin.png|thumb|The sigil of House Mazin is shown in the Stark battle camp (bottom right).]]
+Jon and Sansa are successful in recruiting House Mazin to their cause against [[House Bolton]]. They supply 143 fighting men.<ref>"[[The Broken Man]]"</ref>
+
+Mazin men fight alongside Jon Snow during the [[Battle of the Bastards]], and are victorious.<ref>"[[Battle of the Bastards (episode)|Battle of the Bastards]]"</ref>
+
+==Members==
+*[[Lord Mazin]], head of the House.
+
+==Behind the scenes==
+Just as the "[[House Caulfield]]" and "[[House Wibberley]]" mentioned in the same scene are inside references (to producer [[Bernadette Caulfield]] and the scriptwriters Cormac and Marianne Wibberley respectively), the name "Mazin" is a reference to Craig Mazin, a friend of showrunners [[David Benioff]] and [[D.B. Weiss]], who gave them advice upon seeing the [[Pilot (Game of Thrones)|pilot]] that led them to refilm it.
+
+In "Sons of the Harpy," the on-screen subtitles misspell the name as "Mayzen." Bryan Cogman later confirmed that the correct spelling in the script is "Mazin."<ref>[https://twitter.com/b_cogman/status/720770780561166337 Bryan Cogman Twitter]</ref> In "The Door," the name is spelled correctly in the subtitles as "Mazin."
+
+When asked, Craig Mazin said the words of House Mazin are "sooner or later, we will enrage you". He also stated that he knows what the blue and white checked pattern with the gold roundels means, but did not divulge the meaning.<ref>[https://www.reddit.com/r/asoiaf/comments/4og0oz/crow_business_just_a_short_psa_of_two_new_flairs/d4cciqa/?context=8&depth=9 Craig Mazin on Reddit]</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no mention of any House Mazin. The show itself makes a joke about this, when Jon Snow remarks in "Sons of the Harpy" that he has "never even heard of these people."
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{Houses from the North}}
+
+<!--Categories-->
+{{DEFAULTSORT:Mazin, House}}
+[[Category:House Mazin| ]]
+[[Category:Houses from the North]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[de:Haus Meysen]]
+[[fr:Maison Mazin]]
+[[ru:Мейзины]]

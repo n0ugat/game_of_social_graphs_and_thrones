@@ -1,0 +1,61 @@
+{{Canonicity|Canon}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Baratheon
+| Image     = 
+| Arms      = A yellow haystack on orange{{Guideref|The Aftermath of Unclean Methods}}
+| Words     = 
+| Titles    = [[Lordship|Lord of Haystack Hall]]
+| Seat      = [[Haystack Hall]]
+| Region    = [[Stormlands]]
+| Head      = 
+| Heir      = 
+| Overlords = [[House Baratheon]]<br>{[[House Baratheon of Dragonstone]]} {{C|[[299 AC|299]]{{Dateref|Game of Thrones: Season 2}}-[[302 AC]]}}{{Dateref|Game of Thrones: Season 5}}
+| Vassals   = 
+| Religion  = [[Faith of the Seven]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Errol'''{{Guideref|The Aftermath of Unclean Methods}} of [[Haystack Hall]] is a vassal house from the [[Stormlands]] that holds fealty to [[House Baratheon]].
+
+==History==
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+House Errol, along with most noble houses of the Stormlands, pledge support to [[Renly Baratheon]]'s claim to the [[Iron Throne]].{{Guideref|The Aftermath of Unclean Methods}}
+
+Following the [[Assassination of Renly Baratheon|Renly's death]], the Errols go over to [[Stannis Baratheon|Stannis]] and participate in the [[Battle of the Blackwater]].{{Guideref|The Aftermath of Unclean Methods}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, House Errol's history is the same.
+
+===Known members===
+*Lady {Shyra Errol}, Lady of Haystack Hall.
+*Lord Sebastion Errol, Lord of Haystack Hall, Shyra's successor.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Houses from the Stormlands}}
+
+<!--Categories-->
+{{DEFAULTSORT:Errol, House}}
+[[Category:House Errol| ]]
+[[Category:Houses from the Stormlands]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[de:Haus Errol]]
+[[es:Casa Errol]]
+[[fr:Maison Errol]]
+[[it:Casa Errol]]
+[[nl:Huis Errol]]
+[[ru:Эрролы]]
+[[zh:埃洛尔家族]]

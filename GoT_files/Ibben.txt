@@ -1,0 +1,57 @@
+{{Canonicity|Canon}}
+{{References}}
+{{SameName|archipelago|city|Port of Ibben}}
+{{Region
+| Title      = {{PAGENAME}}
+| Theme      = Westeros
+| Image      = Ibben.png
+| Type       = Archipelago
+| Location   = [[Shivering Sea]]
+| Geography  = 
+| Population = 
+| Rulers     = 
+| Culture    = [[Ibbenese]]
+| Religion   = 
+| Military   = 
+| Capital    = [[Port of Ibben]]
+| Castles    = 
+| Cities     = 
+| Towns      = 
+| Villages   = 
+| Places     = [[Ib]]
+| Founded    = 
+}}
+'''Ibben'''{{Mapref|Viewer's Guide}} is an archipelago in the [[Shivering Sea]], off the northeastern coast of [[Essos]]. Its largest island, [[Ib]], is home to the [[Port of Ibben]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the known named islands of Ibben are Ib and Far Ib, the latter of which is known to have been used as a place of [[exile]] for Ibben's worst criminals.
+
+It is believed that Ibben as a nation was founded by the Hairy Men, an ancient warrior culture from the grasslands of Essos. The modern [[Ibbenese]] are supposedly descendants of this culture.
+
+In antiquity, Ibben was ruled by a long dynasty of God-Kings from a stone castle in the Port of Ibben, the nation's capital city. During this time, Ibben maintained close relations with the [[Kingdom of Sarnor]], though the two nations also went to war with one another on occasion. Ibben also conquered and (according to some) committed genocide in the Kingdom of the Ifequevron. On the coast of Essos directly south of Ibben, a port-city named Ibbish was established. The Ibbenese empire in Essos was as large as Ib itself.
+
+During the [[Century of Blood]], Ibben warred against the [[Dothraki]]. This resulted in the destruction of Ibbish, which is now known as Vaes Aresak. New Ibbish was later established to the northeast of Vaes Aresak. Some time after this, the Ibbenese monarchy was overthrown and replaced by the Shadow Council, an oligarchy similar to the [[magister]] councils of the [[Free Cities]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Known world}}
+{{Nations}}
+
+<!--Categories-->
+[[Category:Essos]]
+[[Category:Ibben| ]]
+[[Category:Islands]]
+[[Category:Nations]]
+[[Category:Shivering Sea]]
+
+<!--Languages-->
+[[it:Ibben]]
+[[pl:Ibben]]
+[[ru:Иббен]]
+[[uk:Іббен]]
+[[zh:伊班岛]]

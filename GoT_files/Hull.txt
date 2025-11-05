@@ -1,0 +1,42 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Velaryon.svg
+| Link  = House Velaryon
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Velaryon
+| Image        = 
+| Type         = Port town
+| Status       = 
+| Location     = [[Driftmark]], [[Blackwater Bay]]
+| Population   = 
+| Rulers       = [[House Velaryon]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Hull'''{{Ref|HOTD202}} is a port town on the coast of [[Driftmark]].
+
+==In the books==
+In ''[[Fire & Blood]]'', Hull is located beneath the walls of [[Castle Driftmark]], the former seat of [[House Velaryon]]. It was formed from three separate fishing villages that grew in size thanks to the wealth brought by [[Corlys Velaryon]] on his voyages.{{Bookref|F&B|12}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{Crownlands}}
+
+<!--Categories-->
+[[Category:Driftmark]]
+[[Category:Harbors]]
+[[Category:House Velaryon]]
+[[Category:Towns]]
+
+<!--Languages-->
+[[ru:Халл]]

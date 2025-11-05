@@ -1,0 +1,30 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = James Horan.jpg
+| Birth   = 
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = 2 episodes {{Below|Credits}}
+| First   = "[[Second of His Name]]"
+| Last    = 
+}}
+'''James Horan''' is a stuntman.
+
+In ''[[House of the Dragon]]'', he was a stunt performer in the [[House of the Dragon: Season 1|first season]] episodes "[[Second of His Name]]" and "[[The Green Council]]".
+
+==Credits==
+===Stunts===
+{{House of the Dragon: Season 1|||yes||||||yes}}
+
+==See also==
+*{{IMDb
+|# = 11189004}}
+*{{Instagram
+|# = horantkd}}
+*{{Linkedin
+|# = /in/james-horan-34948946}}
+{{DEFAULTSORT:Horan, James}}
+[[Category:Stunt performers of House of the Dragon]]

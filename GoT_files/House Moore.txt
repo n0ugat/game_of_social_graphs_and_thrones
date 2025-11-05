@@ -1,0 +1,50 @@
+{{Canonicity|Canon}}
+{{References}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Arryn
+| Image     = 
+| Arms      = 
+| Words     = 
+| Titles    = 
+| Seat      = 
+| Region    = [[Vale of Arryn]]
+| Head      = 
+| Heir      = 
+| Overlords = [[House Arryn]]
+| Vassals   = 
+| Religion  = [[Faith of the Seven]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Moore'''{{Ref|GOT210}}{{Note|Mandon's surname is Moore.}} is a vassal house from the [[Vale of Arryn|Vale]]. It holds fealty to [[House Arryn]].
+
+==Members==
+* Ser {[[Mandon Moore]]}, a [[Knighthood|knight]] of the [[Kingsguard]]. Killed by [[Podrick Payne]] during the [[Battle of the Blackwater]] for attempting to murder [[Tyrion Lannister]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, House Moore is a vassal House sworn to the [[Eyrie]]. Their sigil is three bronze spearheads on white with a bronze border embattled.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Houses from the Vale of Arryn}}
+
+<!--Categories-->
+{{DEFAULTSORT:Moore, House}}
+[[Category:House Moore| ]]
+[[Category:Houses from the Vale of Arryn]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[de:Haus Moor]]
+[[ru:Муры]]

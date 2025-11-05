@@ -1,0 +1,57 @@
+{{Canonicity|Canon}}
+{{References}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Baratheon
+| Image     = House Wylde.svg
+| Arms      = A blue-green maelstrom on gold
+| Words     = 
+| Titles    = 
+| Seat      = [[Rain House]]
+| Region    = [[Stormlands]]
+| Head      = 
+| Heir      = 
+| Overlords = [[House Baratheon]]
+| Vassals   = 
+| Religion  = [[Faith of the Seven]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Wylde'''{{Guideref|Jasper Wylde}}{{Note|Jasper's surname is Wylde.}} of [[Rain House]] is a vassal house which holds fealty to [[House Baratheon]] of [[Storm's End]].
+
+==Known members==
+*Lord [[Jasper Wylde]], [[Master of Laws]] during the reign of [[Viserys I Targaryen]] and [[Aegon II Targaryen]].
+*Ser {[[Willem Wylde]]}, a [[Knighthood|knight]] of the [[Kingsguard]] of [[King of the Andals and the Rhoynar and the First Men|King]] [[Daeron II Targaryen]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, House Wylde is a noble house from [[Rain House]] in the Stormlands. It is one of the principal houses sworn to House Baratheon. According to semi-canon sources they blazon their arms with a blue-green maelstrom on gold.
+
+==Gallery==
+<gallery>
+Willem Wylde.png|Ser [[Willem Wylde]].
+</gallery>
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{House Wylde}}
+{{Houses from the Stormlands}}
+
+<!--Categories-->
+{{DEFAULTSORT:Wylde, House}}
+[[Category:House Wylde| ]]
+[[Category:Houses from the Stormlands]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[fr:Maison Wylde]]
+[[ru:Уайлды]]

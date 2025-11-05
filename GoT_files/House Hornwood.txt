@@ -1,0 +1,88 @@
+{{Canonicity|Canon}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Stark
+| Image     = House Hornwood.svg
+| Arms      = Tenné, a moose's skull cabossed sable <br> {{C|A black moose's skull on an orange field}}
+| Words     = "Righteous in Wrath"
+| Titles    = [[Lordship|Lord of the Hornwood]]
+| Seat      = [[Hornwood]]
+| Region    = [[North]]
+| Head      = [[Lord Hornwood]]
+| Heir      = 
+| Overlords = [[House Stark]]
+| Vassals   = 
+| Religion  = [[Old Gods]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+{{Dialogue a-b|Bran|Righteous in Wrath.|Luwin|House Hornwood.|Bran Stark and Luwin|The Wolf and the Lion}}
+'''House Hornwood'''{{Ref|GOT105}} of [[Hornwood]] is a vassal house that holds fealty to [[House Stark]] of [[Winterfell]]. Their lands are southeast of Winterfell, located in a forested region. The Hornwood lands border the holdings of [[House Manderly]] to the south and [[House Bolton]] to the northeast.
+
+The Hornwood sigil is a black moose head on an orange field. Their [[house words]] are "Righteous in Wrath."<ref name=":0">"[[The Wolf and the Lion]]"</ref> They accompanied [[Robb Stark]] when he called his bannermen.<ref>"[[The Pointy End]]"</ref> House Hornwood were also one of the few Northern houses to answer the call of Jon Snow's efforts to retake Winterfell, and subsequently fought in the [[Battle of the Bastards]].
+
+==History==
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+[[Bran Stark|Bran]] recites the motto of House Hornwood during a lesson with Maester [[Luwin]].<ref name=":0" />
+
+===[[Game of Thrones: Season 6|''Game of Thrones'': Season 6]]===
+While making plans to retake the North, [[Jon Snow]] lists the Hornwoods as one of the houses that have not yet declared for [[House Bolton]].<ref>"[[The Door]]"</ref> The Hornwoods agree to join the Starks, supplying two hundred men for the reformed Stark army,<ref>"[[The Broken Man]]"</ref> and participate in the [[Battle of the Bastards]].<ref>"[[Battle of the Bastards (episode)|Battle of the Bastards]]"</ref>
+
+===[[Game of Thrones: Season 8|''Game of Thrones'': Season 8]]===
+House Hornwood is one of the Northern houses to fight in the [[Battle of Winterfell]].<ref>"[[The Long Night]]"</ref> They also go on to fight in the [[Battle of King's Landing]].<ref>"[[The Bells]]"</ref>
+
+==Members==
+*[[Lord Hornwood]], head of the house.
+
+==In the books==
+In ''[[A Song of Ice and Fire]]'' novels, House Hornwood is a loyal vassal of the Starks. House Bolton is said to have designs on their fertile lands.
+
+When [[Robb Stark]] summoned his bannermen, Lord Halys Hornwood and his son Daryn went to [[Winterfell]] and joined his army. Daryn became one of Robb's personal guards. Both of them were killed in the subsequent battles.
+
+Once [[Ramsay Bolton|Ramsay Snow]] learned about the death of Halys and Daryn, he kidnapped Lady Donella, raped her, and forced her to marry him and to sign a will naming him the sole heir of the Hornwood lands. Then he locked her in a cell and did not bring her food. When Ser [[Rodrik Cassel]] arrived to save her, it was too late: she starved to death after chewing several of her fingers.
+
+In ''A Dance with Dragons'', following the [[fight by Deepwood Motte]], House Hornwood is one of the northern houses who join [[Stannis Baratheon|Stannis]] in [[Battle in the ice#In the books|his campaign against the Boltons]].{{Bookref|ADWD|35}}
+
+===Known members===
+*Lord {Halys Hornwood}, the head of the family. Slain at the [[battle on the Green Fork]].
+**Lady {Donella Manderly}, Halys's wife of [[House Manderly]]. Starved to death by Ramsay Snow.
+***{Daryn Hornwood}, Halys's son and heir. Slain by [[Jaime Lannister]] at the [[Battle of Whispering Wood|battle in the Whispering Wood]].
+**Larence Snow, the [[Bastard]] of Hornwood, Halys's illegitimate son. Fostered at [[Deepwood Motte]].
+*Lady Berena Hornwood, Halys's sister, wed to Leobald Tallhart. Currently held captive by the [[ironborn]] at [[Torrhen's Square]].
+
+==Gallery==
+<gallery>
+House Hornwood tourney.jpg|The banner of House Hornwood at the [[Tournament|Tourney of the Hand]] in "[[The Wolf and the Lion]]".
+vlcsnap-2016-06-20-15h12m22s19.png|A Hornwood banner used in the Battle of the Bastards.
+Hornwood heraldry in episode guide.png|House Hornwood heraldry, from the HBO in-episode guide.
+House Hornwood.png|HBO viewers guide icon for House Hornwood.
+House Hornwood soldiers.png|Hornwood cavalry at the Battle of the Bastards
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{Houses from the North}}
+
+<!--Categories-->
+{{DEFAULTSORT:Hornwood, House}}
+[[Category:House Hornwood| ]]
+[[Category:Houses from the North]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[de:Haus Hornwald]]
+[[es:Casa Hornwood]]
+[[fr:Maison Corbois]]
+[[it:Casa Hornwood]]
+[[nl:Huis Hoornwoud]]
+[[pl:Ród Hornwood]]
+[[pt-br:Casa Hornwood]]
+[[ru:Хорнвуды]]
+[[zh:霍伍德家族]]

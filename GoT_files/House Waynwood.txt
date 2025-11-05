@@ -1,0 +1,77 @@
+{{Canonicity|Canon}}
+{{References}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Arryn
+| Image     = House Waynwood.svg
+| Arms      = A black broken wheel on green
+| Words     = 
+| Titles    = 
+| Seat      = [[Ironoaks]]
+| Region    = [[Vale of Arryn]]
+| Head      = Lady [[Anya Waynwood]]
+| Heir      = 
+| Overlords = [[House Arryn]]
+| Vassals   = [[House Hardyng]]{{Con|ASOIAF}}
+| Religion  = [[Faith of the Seven]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Waynwood'''{{Ref|GOT408}}{{Note|Petyr Baelish refers to Waynwood as a great house of the Vale.}} of [[Ironoaks]] is a vassal house which holds fealty to [[House Arryn]] of the [[Vale of Arryn|Vale]]. It is one of the major houses of Vale of Arryn, its head is the widowed Lady [[Anya Waynwood]].
+
+House Waynwood's [[heraldry]] consists of a black broken wheel on green.
+
+==Members==
+*Lady [[Anya Waynwood]], head of the house.
+**Ser [[Donnel Waynwood]], her son. A knight.
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the Waynwoods are powerful vassals of House Arryn. Their seat is the castle of Ironoaks, east of the Eyrie on the coast of the [[Narrow Sea]]. They are known for their insistence on ceremony.
+
+The members of House Waynwood at the time of the novels are:
+*Lady Anya Waynwood, Lady of Ironoaks. An elderly woman.
+**Ser Morton Waynwood, her eldest son and heir.
+***Ser Roland Waynwood, Ser Morton's son and Lady Anya's grandson.
+**Ser Donnel Waynwood, her second son. Knight of the Gate.
+**Wallace Waynwood, her youngest son.
+
+With unspecified familial relationship to the main branch there are also:
+*Carolei Waynwood, married to Ser Geremy Frey.
+*{Marsella Waynwood}, the third wife of Ser [[Stevron Frey]]. Died in childbirth
+
+==Gallery==
+<gallery>
+Vale heraldry.jpg|A lord (left) wearing a tunic displaying House Waynwood's heraldry.
+</gallery>
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Waynwood}}
+{{Houses from the Vale of Arryn}}
+
+<!--Categories-->
+{{DEFAULTSORT:Waynwood, House}}
+[[Category:House Waynwood| ]]
+[[Category:Houses from the Vale of Arryn]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[de:Haus Waynwald]]
+[[es:Casa Waynwood]]
+[[fr:Maison Vanbois]]
+[[it:Casa Waynwood]]
+[[nl:Huis Wagenholt]]
+[[pl:Ród Waynwood]]
+[[pt-br:Casa Waynwood]]
+[[ru:Уэйнвуды]]
+[[zh:韦伍德家族]]

@@ -1,0 +1,88 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Free
+| Image       = IzembaroHBOPromotionalImage.jpg
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Braavos]]i
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 6|6]]
+| Appearances = 3 episodes {{Below|Appearances}}
+| First       = "[[The Door]]" 
+| Last        = "[[No One]]"
+| DeathEp     = 
+| Actor       = [[Richard E. Grant]]
+}}
+{{Quote|Oh we're all thinkers now, are we? Full to the tits with ideas. You have ideas, I have ideas, he has ideas. Why should my ideas have anymore value than yours, simply because I have been doing this my whole life? Who's anyone to judge my work? This is my profession, I know what I'm doing! You have no right to an opinion.|Izembaro to [[Lady Crane]]|Blood of My Blood}}
+'''Izembaro''' is the lead mummer of a [[Braavos]]i theatre troupe.
+
+==Biography==
+===Background===
+[[File:The Door 27.jpg|thumb|Izembaro portrays Robert Baratheon.]]
+Izembaro is the leading mummer and the playwright of The Gate,{{Cite}} a theatre troupe. He is a huge presence on stage and rather nasty to his company when off-stage.{{Ref|GOT605}}
+
+===[[Game of Thrones: Season 6|''Game of Thrones'': Season 6]]===
+In ''[[The Bloody Hand]]'', a farcical account of the events preceding the [[War of the Five Kings]], Izembaro plays [[Robert Baratheon|King Robert Baratheon]]. After the performance, he chides [[Bianca]] for wanting her role expanded and for not "ringing true" on stage.{{Ref|GOT605}}
+
+In the second act of the play, Izembaro plays [[Tywin Lannister|Tywin]]. When he retires backstage, he says that he found the day's crowd particularly bad, and complains that they were "worse than animals". [[Lady Crane]] tries to suggest a change to the script, so he mocks her for trying to rise above her station, and claims she has no right to an opinion because he has been acting all his life. He watches in bemused shock as [[Arya Stark|Arya]] spills Crane's drink and accuses [[Bianca]] of wanting Crane dead.{{Ref|GOT606}}
+
+Izembaro later loses both Bianca, whose face has been mutilated by a vengeful Crane, and Lady Crane herself who has been killed by the [[Waif]].{{Ref|GOT608}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Izembaro is also the leader of a theater troupe in Braavos, called "The Gate". Not unlike in the show, he has a penchant for portraying kings. According to Marro, if the specific play has no king in it, Izembaro would sooner not stage it at all.
+
+The theatre playhall is a building in poor shape, located in a seedy area, close by the edge of Drowned Town, between the Outer Harbor and the Purple Harbor. The rival playhouses - the Dome and the Blue Lantern - are located in better neighborhoods and attract people of higher class, but Izembaro prefers it that way: he claims that the location of the Gate attracts large crowds of sailors and whores, thus its incomes are higher.
+
+Izembaro hates it when the mummers wear his costumes in the streets, except Wendeyne, to whom he allows to wear any costume she wants in exchange for sex.
+
+After Arya performs [[Thin man#In the books|her first assassination]] successfully, the Kindly Man orders her to go to Izembaro to begin her first apprenticeship, and she does. It is unknown yet what her next assignment is, and why she needs to join Izembaro's theatre - she is not ordered to kill [[Lady Crane|Lady Stork]] or any of the mummers (not yet anyway). While she is there, she notices Rafford and kills him (to avenge [[Lommy]]'s death), without being ordered to.
+
+The Gate consists of the following actors:
+* Izembaro
+* The Snapper, wardrobe mistress
+* [[Lady Crane#In the books|Lady Stork]]
+* Big [[Brusco]]
+* [[Bobono]], a dwarf
+* Marro
+* Daena
+* "[[Arya Stark|Mercedene/Mercy]]"
+* Wendeyne
+
+==Appearances==
+*{{GOT|The Door}}
+*{{GOT|Blood of My Blood}}
+*{{GOT|No One}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+*{{HBO|game-of-thrones/cast-and-crew/izembaro}}
+
+<!--Categories-->
+[[Category:Braavosi]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Mummers]]
+
+<!--Languages-->
+[[de:Izembaro]]
+[[es:Izembaro]]
+[[ja:イーザンバロー]]
+[[nl:Izembaro]]
+[[ru:Изембаро]]
+[[zh:伊兹巴洛]]

@@ -1,0 +1,49 @@
+{{Canonicity|Canon}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Tully
+| Image     = House Vance.svg
+| Arms      = Quarterly argent and sable; 1st and 4th a dragon sable, incensed of the same, tail nowed, that in the 1st contourné; 2nd and 3rd an annulet or enclosing two eyes in pale of the same{{Ref|HOTD208}} <br> {{C|In the top-left and bottom-right corners, a black dragon breathing fire with its tail curled. In the top-right and bottom-left corners, two eyes within a ring, all gold.}}
+| Words     = 
+| Titles    = 
+| Seat      = [[Wayfarer's Rest]]{{Con|ASOIAF}}
+| Region    = [[Riverlands]]
+| Head      = 
+| Heir      = 
+| Overlords = [[House Tully]]
+| Vassals   = [[House Smallwood]]
+| Religion  = 
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Vance'''{{Con|ASOIAF}} of [[Wayfarer's Rest]] is a [[Noble house|vassal house]] of the [[Riverlands]].
+
+==History==
+===[[House of the Dragon: Season 2|''House of the Dragon'': Season 2]]===
+House Vance is part of [[Daemon Targaryen]]'s army during the [[Dance of the Dragons]].{{Ref|HOTD208}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there are two houses of the name Vance, one of [[Atranta]] and another of Wayfarer's Rest. The sigil of the Vances of Atranta is a quartered white dragon and green towers on black and white. Both branches lord over wider domains and can field greater armies than their overlords of [[House Tully]]. It is unknown if the Vances of Atranta exist in the TV series, as only the sigil of the Wayfarer's Rest Vances has appeared so far.
+
+The name 'Vance' is based on author [[wikipedia:Jack Vance|Jack Vance]], whom [[George R.R. Martin]] greatly admires.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|House Vance of Wayfarer's Rest}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{Houses from the Riverlands/House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Vance, House}}
+[[Category:House Vance| ]]
+[[Category:Houses from the Riverlands]]
+[[Category:Houses of Andal origin]]
+[[Category:Vassal houses]]

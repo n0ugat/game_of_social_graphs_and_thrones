@@ -1,0 +1,69 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Mallister.svg
+| Link  = House Mallister
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Tully
+| Image       = Jaremy Mallister.jpg
+| Birth       = 
+| Death       = [[300 AC]]{{Dateref|Game of Thrones: Season 3}}<br>[[Harrenhal]], the [[Riverlands]]{{Ref|GOT301}}
+| House       = [[House Mallister|Mallister]]
+| Affiliation = [[House Tully]]
+| Titles      = [[Knighthood|Ser]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Riverlands|Rivermen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 3|3]]
+| Appearances = "[[Valar Dohaeris]]" {{Corpse}}
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = Unidentified
+}}
+{{Quote|Ser Jaremy. My father's bannerman.|[[Catelyn Stark]] upon finding Ser Jaremy's body.|Valar Dohaeris}}
+Ser '''Jaremy Mallister''' was a [[Knighthood|knight]] and member of [[House Mallister]]. He was a loyal bannerman of [[House Tully]].
+
+==Biography==
+===[[Game of Thrones: Season 3|''Game of Thrones'': Season 3]]===
+Ser Jaremy was among the prisoners of the joint [[North|Northern]]-[[Riverlands]] army held captive at [[Harrenhal]]. Before abandoning the castle, Ser [[Gregor Clegane]] had all the prisoners put to the sword. When the Northern army, led by [[Robb Stark]], discovered the corpses, [[Catelyn Stark]] recognizes Ser Jaremy.{{Ref|GOT301}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no mention of a member of House Mallister named Jaremy.
+
+==Appearances==
+*{{GOT|Valar Dohaeris}} {{Corpse}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{House Mallister}}
+
+<!--Categories-->
+{{DEFAULTSORT:Mallister, Jaremy}}
+[[Category:Bannermen of House Tully]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Knights]]
+[[Category:Members of House Mallister|Jaremy Mallister]]
+[[Category:Rivermen]]
+
+<!--Languages-->
+[[de:Jaremy Mallister]]
+[[es:Jaremy Mallister]]
+[[fr:Jaremy Mallister]]
+[[pt-br:Jaremy Mallister]]
+[[ru:Джереми Маллистер]]

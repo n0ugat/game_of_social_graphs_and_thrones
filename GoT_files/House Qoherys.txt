@@ -1,0 +1,67 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Image}}
+{{References}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Tully
+| Image     = Qoherys sigil.png
+| Arms      = A flaming saltire, red and yellow, between 4 white skulls, on black
+| Words     = 
+| Titles    = [[Lord of Harrenhal]]
+| Seat      = [[Harrenhal]]
+| Region    = [[Riverlands]]
+| Head      = 
+| Heir      = 
+| Overlords = [[House Tully]]
+| Vassals   = 
+| Religion  = [[Faith of the Seven]]<br>[[Old Gods of Valyria]] {{C|historical}}
+| Cadets    = 
+| Founded   = [[2 BC]]{{Dateref|Aegon's Conquest}}<br>by {[[Quenton Qoherys]]}
+| Died      = 
+| Weapon    = 
+}}
+'''House Qoherys'''{{Con|TWOI&F}} of [[Harrenhal]] is an extinct noble house of the [[Riverlands]]. Their sigil was a flaming saltire, red and yellow, between four white skulls, on black.
+
+Their seat was the castle of Harrenhal, which was granted to their founder, the Targaryen general [[Quenton Qoherys]], by [[Aegon I Targaryen|Aegon the Conqueror]] as a reward for his service in [[Aegon's Conquest]]. However, House Qoherys eventually became extinct, and the castle was passed on to [[House Harroway]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, House Qoherys' backstory is the same. They were battle-companions of Aegon the Conqueror, and like [[House Targaryen]] they were of [[Valyrians|Valyrian]] descent.
+
+Quenton Qoherys had previously served as the [[master-at-arms]] at [[Dragonstone]]. His line did not last long, however. He was succeeded by his grandson Gargon, known as Gargon the Guest due to his habit of visiting every wedding in his domain and claiming the lord's right of first night that allowed him to bed the bride.
+
+During a rebellion by Harren the Red, self-proclaimed grandson of [[Harren Hoare|Harren the Black]], the father of a maid whose virginity had been taken by Gargon allowed Harren to enter Harrenhal. Harren then gelded and murdered Gargon, and all of the castle's inhabitants were put to the sword, rendering House Qoherys extinct. They were replaced as the rulers of Harrenhal by House Harroway.
+
+===Historical members===
+*Lord Quenton Qoherys, founder of the house.
+**His first wife, who died to spotted fever.
+***Two sons.
+****His grandson Lord Gargon Qoherys, called Gargon the Guest, the last of the house.
+**His second wife, a daughter of Lord [[Edmyn Tully]] of [[Riverrun]].
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Houses from the Riverlands}}
+
+<!--Categories-->
+{{DEFAULTSORT:Qoherys, House}}
+[[Category:Extinct houses]]
+[[Category:House Qoherys| ]]
+[[Category:Houses from the Riverlands]]
+[[Category:Houses of Valyrian origin]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[de:Haus Qoherys]]
+[[fr:Maison Qoherys]]
+[[it:Casa Qoherys]]
+[[pt-br:Casa Qoherys]]
+[[ru:Квохерисы]]

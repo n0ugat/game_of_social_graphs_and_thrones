@@ -1,0 +1,112 @@
+{{DISPLAYTITLE:House Stark {{C|short}}}}
+{{Short
+| Title    = House Stark
+| Type     = Lore
+| Image    = H&L120.png
+| Season   = 1
+| Short    = 20
+| Date     = March 6, 2012{{Webref|name=Blu-ray |author=Jacob Klein |date=March 4, 2012 |url=https://hbowatch.com/game-of-thrones-dvd-blu-ray-available-56/ |title=Game of Thrones DVD & Blu-Ray Available 3/6! |website=HBO Watch |access-date=December 15, 2023 }}
+| Runtime  = 3 minutes{{Ref|H&L120}}
+| Narrator = [[Bran Stark]]{{Boxref|GOT1}}<br>[[Robb Stark]]{{Boxref|GOT1}}
+| Writer   = [[Bryan Cogman]]{{Webref|name=Cogman |author=Dan Selcke |date=September 20, 2017 |url=https://winteriscoming.net/2017/09/20/bryan-cogman-is-developing-a-fifth-game-of-thrones-prequel-series-for-hbo/ |title=Bryan Cogman is developing a fifth Game of Thrones prequel series for HBO |website=Winter is Coming |access-date=December 14, 2023 }}
+| Director = 
+| Previous = "[[The Sack of King's Landing - House Lannister]]"{{Boxref|GOT1}}
+| Next     = "[[House Baratheon (short)|House Baratheon]]"{{Boxref|GOT1}}
+}}
+"'''House Stark'''"{{Boxref|GOT1}} is the twentieth short of the [[Histories & Lore: Season 1|first season]] of ''[[Histories & Lore]]''. It is the twentieth short of the series overall. It was released on March 6, 2012 in ''[[Game of Thrones: The Complete First Season]]''. It was narrated by [[Isaac Hempstead-Wright]] as [[Bran Stark]] and [[Richard Madden]] as [[Robb Stark]], and written by [[Bryan Cogman]].
+
+==Premise==
+{{Premise|H&L120}}
+
+==Narration==
+'''Bran Stark''': ''The [[House Stark|Starks]] of [[Winterfell]] trace their descent to the [[First Men]] in the [[Age of Heroes]].''
+
+''The family's founder was [[Brandon the Builder]] who, in the aftermath of the [[Long Night]], helped establish the [[Night's Watch]].''
+
+''Legend has it, he enlisted the aid of [[giants]] and the powerful [[magic]] of the [[Children of the Forest]] to raise the mighty [[Wall]], which has protected the realm for generations.''
+
+''He went on to build the ancestral seat of Winterfell and reigned as the first [[King in the North]].''
+
+'''Robb Stark''': ''The Starks reigned as kings for thousands of years, even withstanding the [[Coming of the Andals|invasion]] of the [[Andals]]. As the southern kingdoms fell, and the Children were driven away, the [[North]] stood strong, maintaining its religious customs and its way of life.''
+
+''Eventually, the reign of the Kings of Winter came to an end with the [[Aegon's Conquest|coming]] of [[Aegon I Targaryen|Aegon the Conqueror]]. After Aegon and his [[dragon]]s destroyed the armies of the [[Reach]] and the [[Westerlands|Rock]] at the [[Field of Fire]], King [[Torrhen Stark]] [[bending the knee|bent the knee]] and swore fealty to the [[House Targaryen|Targaryen dynasty]] in order to spare the destruction of Winterfell and [[Northmen|his people]].''
+
+''He was forever after known as "the King Who Knelt." As a reward for his submission, Aegon named Torrhen [[Lord of Winterfell]] and [[Warden of the North]].''
+
+'''Bran Stark''': ''The Starks take great pride in their history and traditions. It is one of the few noble houses that still keeps the [[Old Gods]]; a sacred [[weirwood]] lives large in Winterfell's [[godswood]].''
+
+''Its ancestral sword, [[Ice]], was forged in ancient [[Old Valyria|Valyria]] and passed down through the generations. House Stark remains steadfast in its support of the [[Night's Watch]], even as the once illustrious order has fallen on hard times.''
+
+''Much like their sigil, the grey [[direwolf]], House Stark is the stuff of legend in the North and throughout the [[Seven Kingdoms]]...''
+
+'''Bran and Robb Stark''': ''...and their family words, "Winter Is Coming" serve as a reminder of their beginnings...''
+
+'''Robb Stark''': ''...in the wake of the Long Night and a grim portent of things to come.''
+
+==Appearances==
+===Individuals===
+* [[King in the North|King]] [[Brandon the Builder]]
+* King [[Torrhen Stark]], the "King Who Knelt"
+* King [[Aegon I Targaryen]], the "Conqueror"
+
+===Locations===
+* The [[Wall]]
+* The [[North]]
+** [[Winterfell]]
+* [[Beyond the Wall]] {{Mentioned}}
+* [[Reach|Kingdom of the Reach]] {{Mentioned}}
+* [[Westerlands|Kingdom of the Rock]] {{Mentioned}}
+* ​[[Old Valyria|Valyria]] {{Mentioned}}
+===Events===
+*[[Age of Heroes]] {{Mentioned}}
+*​[[Long Night]] {{Mentioned}}
+*[[Aegon's Conquest]]
+**​​[[Field of Fire]]
+*[[Coming of the Andals]] {{Mentioned}}
+===​Institutions===
+*[[Night's Watch]]
+===Cultures===
+*​[[First Men]]
+*[[Andals]]​ {{Mentioned}}
+===​Races===
+*[[Giants]]
+*[[Children of the Forest]] {{Mentioned}}
+===Religions===
+*​[[Old Gods]]
+**​[[Godswood]]​
+===​Titles===
+*[[King in the North]]
+*[[Lord of Winterfell]]
+*[[Warden of the North]]
+===Miscellaneous===
+*[[Magic]] {{Mentioned}}
+*[[Weirwood]]
+*[[Ice]]
+*[[Direwolf]]​
+
+==Cast==
+*[[Isaac Hempstead-Wright]] as [[Bran Stark]]
+*[[Richard Madden]] as [[Robb Stark]]
+
+==Gallery==
+<gallery bordersize="none">
+House Stark
+</gallery>
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{Histories & Lore}}
+
+<!--Categories-->
+[[Category:Shorts narrated by Bran Stark]]
+[[Category:Shorts narrated by Robb Stark]]
+[[Category:Shorts of Histories & Lore: Season 1| 20]]
+[[Category:Shorts released in 2012|3.06T]]
+[[Category:Shorts written by Bryan Cogman]]
+
+<!--Languages-->
+[[de:Haus Stark (Gesamtführer durch Westeros)]]
+[[fr:Maison Stark (Histoires & Traditions)]]
+[[pt-br:Casa Stark (Guia Completo para Westeros)]]

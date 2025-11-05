@@ -1,0 +1,66 @@
+{{Canonicity|Canon}}
+{{Spoiler|AKOTSK}}
+{{Heraldry
+| Image = Unknown.svg
+| Link  = 
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Arryn
+| Image       = 
+| Birth       = In the [[Vale of Arryn]]
+| Death       = 
+| House       = [[House Hardyng|Hardyng]]
+| Affiliation = 
+| Titles      = [[Knighthood|Ser]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Vale of Arryn|Valemen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[A Knight of the Seven Kingdoms]]''
+| Season      = [[A Knight of the Seven Kingdoms: Season 1|1]]
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Ross Anderson]]
+}}
+Ser '''Humfrey Hardyng'''{{Webref|name=redintel |author=Gravemaster |date=July 26, 2024 |url=https://redanianintelligence.com/2024/07/26/a-knight-of-the-seven-kingdoms-adds-4-more-to-its-cast-including-humfrey-hardyng/ |title=A Knight of the Seven Kingdoms Adds 4 More To Its Cast, Including Humfrey Hardyng |website=Redanian Intelligence |access-date=August 13, 2024 }} is a [[Knighthood|knight]] during the reign of [[Daeron II Targaryen|Daeron II]].{{Ref|H&L416}}
+
+==In the books==
+In the [[Dunk & Egg novellas]], Humfrey Hardyng was a renowned [[Tournament|tourney]] knight and the brother-in-law of [[Humfrey Beesbury]].
+
+In 208 AC, he won a great mêlée at [[Maidenpool]] in which he defeated Ser [[Donnel of Duskendale]], as well as Lords [[House Arryn|Arryn]] and [[House Royce|Royce]].
+
+==Appearances==
+*{{H&L|Justice of the Seven Kingdoms}} {{Indirect}}
+
+===Forthcoming===
+{{Collapse|
+*{{AKOTSK|Season 1}} {{Unreleased}}
+}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|AKOTSK}}
+
+<!--Categories-->
+{{DEFAULTSORT:Hardyng, Humfrey}}
+[[Category:Individuals appearing in A Knight of the Seven Kingdoms]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Knights]]
+[[Category:Members of House Hardyng|Humfrey Hardyng]]
+[[Category:Nobles]]
+[[Category:Valemen]]
+
+<!--Languages-->
+[[pl:Humfrey Hardyng]]

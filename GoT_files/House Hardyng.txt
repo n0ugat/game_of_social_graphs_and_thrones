@@ -1,0 +1,62 @@
+{{Canonicity|Canon}}
+{{Spoiler|AKOTSK}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Arryn
+| Image     = House Hardyng.svg
+| Arms      = A field of red and white diamonds{{Con|ASOIAF}}
+| Words     = 
+| Titles    = 
+| Seat      = 
+| Estates   = 
+| Region    = [[Vale of Arryn]]
+| Head      = 
+| Heir      = 
+| Overlords = [[House Waynwood]]{{Con|ASOIAF}}
+| Vassals   = 
+| Religion  = 
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Hardyng'''{{Note|Humfrey's surname is Hardyng.}} is a noble house from the [[Vale of Arryn]]. They are sworn to [[House Waynwood]].{{Con|ASOIAF}}
+
+==Known members==
+*Ser [[Humfrey Hardyng]],{{Webref|name=redintel |author=Gravemaster |date=July 26, 2024 |url=https://redanianintelligence.com/2024/07/26/a-knight-of-the-seven-kingdoms-adds-4-more-to-its-cast-including-humfrey-hardyng/ |title=A Knight of the Seven Kingdoms Adds 4 More To Its Cast, Including Humfrey Hardyng |website=Redanian Intelligence |access-date=August 13, 2024 }} a [[Knighthood|knight]] during the reign of [[Daeron II Targaryen]].{{Ref|H&L416}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, House Hardyng is a house of landed knights sworn to House Waynwood. By the fourth book, [[Petyr Baelish|Littlefinger]] suggests marrying Harrold Hardyng to [[Sansa Stark|Sansa]] (masquerading as Littlefinger's bastard daughter "Alayne Stone"). Harrold is [[House Arryn]]'s heir due to the uncertain health of [[Robin Arryn]] (called Robert in the books). It is implied Littlefinger will "help" Robert die, making Harrold the new Lord of the Vale, which would also make Sansa Lady of the Vale by marriage.{{Bookref|AFFC|41}}
+
+In the [[Dunk & Egg novellas]], Ser [[Humfrey Hardyng]] is a renowned [[Tournament|tourney]] knight of the family.
+
+===Known members===
+*Ser Harrold Hardyng, called Harry the Heir. A ward of Lady [[Anya Waynwood]].
+**Alys Stone, his two years old bastard daughter by a lowborn woman called Cissy, Harrold's former mistress.{{Bookref|TWOW|Alayne I}}
+**Unborn bastard by Saffron, the daughter of a spice merchant, Harrold's current mistress.{{Bookref|TWOW|Alayne I}}
+With unspecified familiar relationship to the main branch there are also:
+*Deana Hardyng, the wife of Walton Frey (third son of [[Stevron Frey]]). They have three children together; Steffon, Walda and Bryan Frey.
+
+===Historical members===
+*Ser Humfrey Hardyng, a participant at the tourney at [[Ashford Meadow]].
+*Unnamed landed knight, the father of Harrold Hardyng.
+**Unknown Waynwood, his wife, the youngest daughter of Ser Elys Waynwood and Alys Arryn.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|AKOTSK}}
+
+<!--Navboxes-->
+{{Houses from the Vale of Arryn}}
+
+<!--Categories-->
+{{DEFAULTSORT:Hardyng, House}}
+[[Category:House Hardyng| ]]
+[[Category:Houses from the Vale of Arryn]]
+[[Category:Houses of Andal origin]]
+[[Category:Vassal houses]]

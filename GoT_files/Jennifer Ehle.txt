@@ -1,0 +1,31 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Jennifer Ehle.jpg
+| Birth   = Jennifer Anne Ehle<br>December 29, 1969 {{Age|1969|12|29}}<br>Winston-Salem, North Carolina, United States
+| Death   = 
+| Role    = [[Catelyn Stark]]
+| Series  = ''[[Game of Thrones]]''
+| Season  = 
+| Credits = [[Pilot (Game of Thrones)|Pilot]] {{Unreleased}}
+| First   = 
+| Last    = 
+}}
+'''Jennifer Anne Ehle''' (born 29 December 1969) is an English-American actress who has worked in television, film and on stage. She is best known for her portrayal of the [[wikipedia:Jane Austen|Jane Austen]] character [[wikipedia:Elizabeth Bennett|Elizabeth Bennet]] in the BBC's 1995 mini-series ''[[wikipedia:Pride and Prejudice (1995 TV series)|Pride and Prejudice]]''.
+
+Jennifer Ehle was originally cast in [[HBO]]'s ''[[Game of Thrones]]'' as [[Catelyn Stark]], which was announced on 3 August 2009. Ehle played the role in the unscreened [[Pilot (Game of Thrones)|pilot]] filmed in late 2009, but HBO subsequently announced she was leaving the project on 19 March 2010, shortly after the series was picked up. [[Michelle Fairley]] replaced her in the role of Catelyn Stark, and Ehle's scenes from the pilot had to be redone. Initially, no official reason was given for Ehle's departure, but later messages on the Twitter website suggest it was an amicable and mutually-agreed-upon decision. In a subsequent interview, Ehle said that she loved the books and the project, but that it was too soon after the birth of her daughter and she didn't want to commit to such a long-running role while raising a family.<ref>[http://www.thedailybeast.com/articles/2011/09/22/jennifer-ehle-on-a-gifted-man-game-of-thrones-pride-prejudice-colin-firth.html The Daily Beast]</ref>
+
+==See also==
+*{{WP}}
+*{{IMDb|# = 0000383}}
+
+==References==
+{{Reflist|2}}
+
+<!--Categories-->
+{{DEFAULTSORT:Ehle, Jennifer}}
+[[Category:Cast members of the pilot of Game of Thrones]]
+
+<!--Languages-->
+[[de:Jennifer Ehle]]
+[[ru:Дженнифер Или]]

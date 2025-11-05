@@ -1,0 +1,30 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Jeanie Bacharach.jpg
+| Birth   = Jeanie Bacharach Burke
+| Death   = 
+| Role    = Casting director
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]] {{*}} [[House of the Dragon: Season 3|3]]
+| Credits = 
+| First   = 
+| Last    = 
+}}
+'''Jeanie Bacharach Burke''' is a casting director on the [[House of the Dragon: Season 2|second season]] of ''[[House of the Dragon]]''.
+
+==Credits==
+===Casting director===
+*{{HOTD|Season 2}}<ref>https://productionlist.com/production/house-dragon-season-2/</ref>
+*{{HOTD|Season 3}} {{Unreleased}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb|#=0045385}}
+*{{Instagram|#=jeaniebacharachburke}}
+
+<!--Categories-->
+{{DEFAULTSORT:Bacharach, Jeanie}}
+[[Category:Production staff members of House of the Dragon]]

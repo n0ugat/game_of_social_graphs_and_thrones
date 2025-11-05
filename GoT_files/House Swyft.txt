@@ -1,0 +1,71 @@
+{{Canonicity|Canon}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Lannister
+| Image     = House Swyft.svg
+| Arms      = Yellow, a blue bantam rooster
+| Words     = "Awake! Awake!"
+| Titles    = 
+| Seat      = [[Cornfield]]
+| Region    = [[Westerlands]]
+| Head      = Ser [[Harys Swyft]]
+| Heir      = 
+| Overlords = [[House Lannister]]
+| Vassals   = 
+| Religion  = [[Faith of the Seven]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Swyft'''{{Guideref|Viewer's Guide}} of [[Cornfield]] is a vassal house that holds fealty to [[House Lannister]] of [[Casterly Rock]]. Their seat is Cornfield, located north-east of [[Crakehall]] and south of [[Clegane's Keep]]. They are landed knights rather than a full noble house.<ref>[http://viewers-guide.hbo.com/game-of-thrones/season1/#!/locations/cornfield/]</ref>
+
+Their sigil is a blue bantam rooster on yellow. Their [[house words]] are "Awake! Awake!"
+
+==Members==
+*Ser [[Harys Swyft]], the head of the house.
+**Lady [[Dorna Lannister|Dorna Swyft]], his daughter. Married to Ser [[Kevan Lannister]].<ref name="House Lannister viewers guide">[http://viewers-guide.hbo.com/game-of-thrones/season2/#!/guide/houses/lannister/ HBO viewers guide, season 2 guide to houses, House Lannister entry]</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, House Swyft is counted as a strong vassal and ally of House Lannister. However, [[Tyrion Lannister|Tyrion]] considers Ser Harys to be a chinless craven and lickspittle of little worth; the other Lannisters also have a negative opinion about him. Dorna is described as "equally chinless" as her father.
+
+House Swyft joined their Lannister lieges in siding with King [[Aegon II Targaryen]] during the Dance of the Dragons. At this time they were a full [[noble house]], but by the time the series begins they are a [[Noble house|knightly house]]. How the Swyfts lost their lordship is unknown.
+
+===Known members===
+* Ser Harys Swyft, the Knight of Cornfield
+** His eldest daughter, [[Dorna Lannister]]. Married to Ser [[Kevan Lannister]].
+** His son and heir, Ser Steffon Swyft.
+*** His daughter, Joanna Swyft.
+** His youngest daughter, Shierle Swyft.
+
+==Gallery==
+<gallery>
+House Swyft.jpg|House Swyft heraldry at the Tourney of the Hand
+House-Swyft-Banner-From-Making-Game-of-Thrones-1200x800.jpg|House Swyft banner from the [http://www.makinggameofthrones.com/production-diary/50-surprising-things-season-1-pt-2 Making Game of Thrones blog]
+House Swyft.png|The icon of House Swyft from the HBO viewers guide.
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Swyft}}
+{{Houses from the Westerlands}}
+
+<!--Categories-->
+{{DEFAULTSORT:Swyft, House}}
+[[Category:House Swyft| ]]
+[[Category:Houses from the Westerlands]]
+[[Category:Knightly houses]]
+
+<!--Languages-->
+[[de:Haus Swyft]]
+[[es:Casa Swyft]]
+[[fr:Maison Swyft]]
+[[it:Casa Swyft]]
+[[nl:Huis Vlugh]]
+[[ru:Свифты]]
+[[zh:史威佛家族]]

@@ -1,0 +1,59 @@
+{{Canonicity|Canon}}
+{{References}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Crownlander
+| Image     = 
+| Arms      = 
+| Words     = 
+| Titles    = 
+| Seat      = 
+| Region    = [[Crownlands]]
+| Head      = 
+| Heir      = 
+| Overlords = [[King of the Andals and the Rhoynar and the First Men|King of the Andals and the First Men]]<br>[[House Lannister]] {{C|[[303 AC|303]]{{Dateref|Game of Thrones: Season 6}}-[[305 AC]]}}{{Dateref|Game of Thrones: Season 8}}<br>{[[House Baratheon of King's Landing]]} {{C|[[281 AC|281]]{{Dateref|Robert's Rebellion}}-303 AC}}{{Dateref|Game of Thrones: Season 6}}<br>[[House Targaryen]] {{C|[[1 AC|1]]{{Dateref|Aegon's Conquest}}-281 AC}}{{Dateref|Robert's Rebellion}}
+| Vassals   = 
+| Religion  = [[Faith of the Seven]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Thorne'''{{Ref|GOT104}}{{Note|Alliser's surname is Thorne.}} is a vassal house to [[House Targaryen]]. It is located within the [[Crownlands]] and holds fealty directly to the elected monarchs of the [[Seven Kingdoms|Six Kingdoms]].
+
+==Members==
+*Ser {[[Rickard Thorne]]}, a [[Knighthood|knight]] of the [[Kingsguard]] of [[Aegon II Targaryen]].
+*Ser {[[Alliser Thorne]]}, a sworn brother of the [[Night's Watch]], former [[master-at-arms]] of [[Castle Black]] and [[First Ranger]]. Executed for mutinying against Lord Commander [[Jon Snow]].
+
+==In the books==
+As a vassal house sworn to [[King's Landing]], House Thorne contributed troops to the defense of the city during the [[Sack of King's Landing]]. Ser Alliser Thorne was on the walls when the [[House Lannister|Lannister]] troops stormed the [[Red Keep]]. He was wounded and captured; [[Tywin Lannister|Tywin]] gave him the choice between taking the black or being executed, and he chose the former.
+
+Nothing else is known about the house, save its arms - a silver flail on a red background - and the fact that it still exists.
+
+A historical member of the house is Ser Rickard Thorne, a [[Knighthood|knight]] of the [[Kingsguard]] who served during the reign of King [[Viserys I Targaryen|Viserys I]], and chose to side with King [[Aegon II Targaryen|Aegon II]] during the [[Dance of the Dragons]].
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{House Thorne}}
+{{Houses from the Crownlands}}
+
+<!--Categories-->
+{{DEFAULTSORT:Thorne, House}}
+[[Category:House Thorne| ]]
+[[Category:Houses from the Crownlands]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[de:Haus Thorn]]
+[[fr:Maison Thorne]]
+[[pl:Ród Thorne]]
+[[ru:Торны]]
+[[uk:Дім Торн]]

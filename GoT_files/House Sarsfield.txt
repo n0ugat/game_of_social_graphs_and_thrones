@@ -1,0 +1,62 @@
+{{Canonicity|Canon}}
+{{References}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Lannister
+| Image     = 
+| Arms      = 
+| Words     = 
+| Titles    = Lord of Sarsfield
+| Seat      = [[Sarsfield]]
+| Region    = [[Westerlands]]
+| Head      = 
+| Heir      = 
+| Overlords = [[House Lannister]]
+| Vassals   = 
+| Religion  = [[Faith of the Seven]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Sarsfield'''{{Ref|GOT310}}{{Note|Eldrick's surname is Sarsfield.}} of [[Sarsfield]] is a [[noble house]] of the [[Westerlands]] that holds fealty to [[House Lannister]] of [[Casterly Rock]].
+
+==Members==
+*Ser [[Eldrick Sarsfield]], a [[Knighthood|knight]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, House Sarsfield is rarely mentioned. It blazons its arms with a green arrow on a white bend on the green. According to semi-canon sources, its words are "True to the Mark".
+
+According to ''The World of Ice & Fire'', House Sarsfield was formed by the union of [[First Men]] and [[Andals|Andal]] nobles during the [[coming of the Andals]].
+
+===Known members===
+*Ser Melwyn Sarsfield.
+**Shierle Swyft, his wife, daughter of Ser [[Harys Swyft]].
+
+With unspecified familiar relationship to the main branch of the house:
+
+*{Unnamed squire} who accompanied [[Polliver]] and the [[Tickler]] when they encountered [[Arya Stark]] and [[Sandor Clegane|the Hound]] at the [[Inn at the Crossroads]]. Killed by Arya during the [[Brawl in a tavern in the Riverlands|ensuing brawl]].
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Houses from the Westerlands}}
+
+<!--Categories-->
+{{DEFAULTSORT:Sarsfield, House}}
+[[Category:House Sarsfield| ]]
+[[Category:Houses from the Westerlands]]
+[[Category:Houses of Andal origin]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[fr:Maison Sarschamp]]
+[[pl:Ród Sarsfield]]
+[[ru:Сарсфилды]]

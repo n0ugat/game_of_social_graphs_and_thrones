@@ -1,0 +1,64 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{War
+| Title      = {{PAGENAME}}
+| Type       = Westeros
+| Part       = 
+| Image      = 
+| Previous   = [[Battle Beneath the Gods Eye]]
+| Concurrent = [[Faith Militant uprising]]
+| Next       = [[Great Council at Harrenhal]]
+| Beginning  = [[48 AC]]{{Dateref|Maegor Targaryen death}}
+| End        = 48 AC{{Dateref|Maegor Targaryen death}}
+| Place      = [[Seven Kingdoms]]
+| Outcome    = Rebel victory
+*Death of King [[Maegor Targaryen]]
+*[[Jaehaerys I Targaryen|Prince Jaehaerys]] is crowned King Jaehaerys I
+| Factions1  = {{COA|House Targaryen|s}}<br>[[House Targaryen]]<br>{{C|[[Jaehaerys I Targaryen|Jaehaerys]]'s faction}}<br><br>{{COA|House Velaryon|s}}<br>[[House Velaryon]]<br><br>{{COA|House Baratheon|s}}<br>[[House Baratheon]]<br><br>{{COA|House Lannister|s}}<br>[[House Lannister]]<br><br>{{COA|House Tyrell|s}}<br>[[House Tyrell]]<br><br>{{COA|House Arryn|s}}<br>[[House Arryn]]
+| Factions2  = {{COA|House Targaryen|s}}<br>[[Iron Throne]]<br>{{C|[[House Targaryen]];<br>[[Maegor Targaryen|Maegor]]'s faction}}
+| Factions3  = 
+| Factions4  = 
+| Factions5  = 
+| Factions6  = 
+| Leaders1   = {{COA|House Targaryen|i}} [[Prince]] [[Jaehaerys I Targaryen|Jaehaerys Targaryen]]<br>{{COA|House Targaryen|i}} [[King|Queen]] [[Rhaena Targaryen (daughter of Aenys)|Rhaena Targaryen]]<br>{{COA|House Velaryon|i}} [[Lord of the Tides|Lord]] [[Daemon Velaryon]]
+| Leaders2   = {{COA|House Targaryen|i}} [[King of the Andals and the Rhoynar and the First Men|King]] [[Maegor Targaryen]]
+| Leaders3   = 
+| Leaders4   = 
+| Leaders5   = 
+| Leaders6   = 
+| Events     = 
+}}
+{{Quote|Finally, House Baratheon declared for Maegor's own nephew as the rightful king. The Lannisters, Tyrells, and Arryns soon joined, adding more than half the might of Westeros to the prince and his two dragons.|[[Varys]]|Maegor the Cruel (short)}}
+In the late reign of [[King of the Andals and the Rhoynar and the First Men|King]] [[Maegor Targaryen]], his nephew [[Prince]] [[Jaehaerys I Targaryen|Jaehaerys]] was declared the rightful king by [[House Baratheon]]. More than half of [[Westeros]] participated in this '''uprising'''.<ref name="Maegor">"[[Maegor the Cruel (short)|Maegor the Cruel]]"</ref>
+
+==History==
+===Prelude===
+After the death of King [[Aenys Targaryen]], Prince Maegor returned from [[exile]] and demanded the [[Iron Throne]]. Some time later during the [[Faith Militant uprising]], his nephew [[Aegon Targaryen (son of Aenys)|Aegon]], [[Prince of Dragonstone]], raised an army of [[Westerlands|westermen]] and marched on [[King's Landing]]. Before Prince Aegon could get there in time, Maegor ordered his bannermen to attack the rebel prince's host from all sides while he mounted [[Balerion|Balerion the Black Dread]]. Maegor's army [[Battle Beneath the Gods Eye|met]] Aegon's beneath the [[Gods Eye]], easily defeating the significantly larger host by killing Aegon and his dragon [[Quicksilver]], crippling the army's morale. Thus ended the uprising for the rightful heir. His siblings, however, Jaehaerys included, still remained.<ref name="Maegor"/>
+
+===Uprising===
+In the final days of Maegor's reign, House Baratheon declared Prince Jaehaerys Targaryen the rightful king, and Houses Lannister, Tyrell, and Arryn soon followed. The [[lord admiral]], [[Daemon Velaryon]], gave the [[royal fleet]] to Prince Jaehaerys. Meanwhile in King's Landing [[King|Queen]] [[Rhaena Targaryen (daughter of Aenys)|Rhaena Targaryen]], one of Maegor's Black Brides, stow away from the Red Keep on her dragon [[Dreamfyre]], while [[Grand Maester]] [[Benifer]] fled the capital. Jaehaerys' rebellion was short-lived, as Maegor was found dead on the Iron Throne with his wrists cut and one of the swords pointing through his neck.<ref name="Maegor"/>
+
+===Aftermath===
+After the uprising, Prince Jaehaerys was crowned King Jaehaerys I. He made several reconciliations with enemies made by Maegor and Aenys, quickly earning the name "Jaehaerys the Conciliator".
+
+==In the books==
+In ''[[Fire & Blood]]'', this uprising is the same.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Faith Militant uprising}}
+
+<!--Categories-->
+[[Category:48 AC]]
+[[Category:Wars]]
+
+<!--Languages-->
+[[ru:Восстание Джейхейриса Таргариена]]

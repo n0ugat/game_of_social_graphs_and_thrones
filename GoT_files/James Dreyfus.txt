@@ -1,0 +1,34 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = James Dreyfus.jpg
+| Birth   = James Louis de Zogheb Dreyfus<br>October 9, 1968 {{Age|1968|8|9}}<br>Islington, London, England
+| Death   = 
+| Role    = [[Gormon Massey]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]]
+| Credits = 6 episodes {{Below|Credits}}
+| First   = "[[A Son for a Son]]"
+| Last    = 
+}}
+'''James Louis de Zogheb Dreyfus''' (born 9 October 1968) is an English actor.
+
+Dreyfus plays [[Gormon Massey]] in the [[House of the Dragon: Season 2|second season]] of ''[[House of the Dragon]]''.{{Webref|name=WBDcharlist |author=Unknown author |date=Unknown date |url=https://press.wbd.com/us/bio/house-dragon-s2-character-descriptions |title=House of the Dragon S2 <nowiki>|</nowiki> Character Descriptions |website=Warner Bros. Discovery |access-date=June 5, 2024 }}
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 2|yes||yes|yes|yes|yes|yes}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{WP}}
+*{{IMDb|#=0237834}}
+
+<!--Categories-->
+{{DEFAULTSORT:Dreyfus, James}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:James Dreyfus]]

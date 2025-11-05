@@ -1,0 +1,33 @@
+{{DISPLAYTITLE:''House of the Dragon: DracARys''}}
+{{Game
+| Title     = ''House of the Dragon:<br><small>DracARys</small>''
+| Type      = Dragon
+| Image     = House of the Dragon Dracarys.webp
+| Episodes  = 
+| Date      = July 20, 2022 {{C|early access}}<br>July 25, 2022
+| Platforms = Mobile
+| Designer  = 
+| Voice     = 
+| Years     = 
+| Website   = https://www.hbo.com/house-of-the-dragon
+}}
+'''''House of the Dragon: DracARys''''' is an augmented reality app in which the user raises a personalized virtual [[dragon]]. It was released on App Store and Google Play on July 25, 2022. Early access was given to attendees at San Diego Comic-Con on July 20. The app serves as promotional material for the [[House of the Dragon: Season 1|first season]] of ''[[House of the Dragon]]''.<ref>https://www.hbo.com/house-of-the-dragon</ref>
+
+==Gallery==
+<gallery bordersize="none">
+HOTD: DracARys App Commercial / House of the Dragon (HBO)
+</gallery>
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House of the Dragon}}
+
+<!--Categories-->
+[[Category:Games based on House of the Dragon|DracARys]]
+[[Category:Games released in 2022|7.25]]
+[[Category:Mobile games]]
+
+<!--Interwiki-->
+[[pt-br:House of the Dragon: DracARys]]

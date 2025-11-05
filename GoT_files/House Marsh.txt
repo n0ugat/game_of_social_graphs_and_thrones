@@ -1,0 +1,56 @@
+{{Canonicity|Canon}}
+{{References}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Stark
+| Image     = 
+| Arms      = 
+| Words     = 
+| Titles    = 
+| Seat      = 
+| Region    = [[North]]
+| Head      = 
+| Heir      = 
+| Overlords = [[House Reed]]
+| Vassals   = 
+| Religion  = [[Old Gods]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Marsh'''{{Ref|GOT107}}{{Note|Bowen's surname is Marsh.}} is a vassal house from the [[Neck]]. They are sworn to [[House Reed]] of [[Greywater Watch]].
+
+==Members==
+*{[[Bowen Marsh]]}, former [[First Steward]] of the [[Night's Watch]]. Executed for [[Mutiny at Castle Black|mutinying]] against [[Lord Commander of the Night's Watch|Lord Commander]] [[Jon Snow]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, House Marsh are crannogmen sworn to House Reed. Their sigil is ten green frogs, 4-3-2-1, on yellow.
+
+Bowen Marsh is the only member of the house is mentioned in the novels.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Houses from the North}}
+
+<!--Categories-->
+{{DEFAULTSORT:Marsh, House}}
+[[Category:Crannogmen|House Marsh]]
+[[Category:House Marsh| ]]
+[[Category:Houses from the Neck]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[de:Haus Marsh]]
+[[es:Casa Marsh]]
+[[ru:Марши]]
+[[zh:马尔锡家族]]
+[[Category:Houses from the North]]

@@ -1,0 +1,51 @@
+{{Canonicity|Canon}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Westeros
+| Image     = 
+| Arms      = 
+| Words     = 
+| Titles    = 
+| Seat      = 
+| Region    = 
+| Head      = [[Lord Wibberley]]
+| Heir      = 
+| Overlords = 
+| Vassals   = 
+| Religion  = 
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Wibberley'''{{Ref|GOT504}}{{Note|Lord Wibberley's surname is Wibberley.}} is a [[noble house]] from [[Westeros]].
+
+==History==
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+[[Samwell Tarly|Sam]] presents some paperwork to Lord Commander [[Jon Snow]], consisting of requests to various noble houses to send new recruits to the [[Night's Watch]]. A few Houses can spare any men during the [[War of the Five Kings]], so the Watch is left scraping the bottom of the barrel: the requests are mostly to minor lords that Jon says he hasn't even heard of, including Lord Wibberley.{{Ref|GOT504}}
+
+==Members==
+*[[Lord Wibberley]], head of the house.
+
+==Behind the scenes==
+The House names mentioned in "Sons of the Harpy" are in-joke references to friends of the TV writers: "[[House Caulfield]]" (specifically "Lady Caulfield") for [[Bernadette Caulfield]], a producer on the TV show; "[[House Mazin]]" refers to Craig Mazin, a fellow scriptwriter who gave the showrunners advice on the unscreened [[Pilot (Game of Thrones)|pilot]]; similarly, "House Wibberley" is a reference to Cormac and Marianne Wibberley, a married team of scriptwriters who are also friends of the TV show writers.<ref>[https://twitter.com/clmazin/status/720763097967755265 Craig Mazin Twitter]</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no mention of any House Wibberley. The episode itself makes a joke about this when Jon Snow remarks that he has "never even heard of these people".
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Categories-->
+{{DEFAULTSORT:Wibberley, House}}
+[[Category:House Wibberley| ]]
+[[Category:Houses from Westeros]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[de:Haus Weberley]]
+[[fr:Maison Wibberley]]
+[[ru:Уибберли]]

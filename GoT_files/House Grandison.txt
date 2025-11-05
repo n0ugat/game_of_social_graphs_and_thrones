@@ -1,0 +1,56 @@
+{{Canonicity|Canon}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Baratheon
+| Image     = House Grandison.svg
+| Arms      = A black sleeping lion on yellow
+| Words     = 
+| Titles    = 
+| Seat      = [[Grandview]]
+| Region    = [[Stormlands]]
+| Head      = 
+| Heir      = 
+| Overlords = [[House Baratheon]]
+| Vassals   = 
+| Religion  = [[Faith of the Seven]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Grandison'''{{Ref|GOT806}}{{Note|Harlan's surname is Grandison.}} of [[Grandview]] is a vassal house from the [[Stormlands]] that holds fealty to [[House Baratheon]]. Their sigil is a black sleeping [[lion]] on a yellow field.
+
+==History==
+House Grandison was one of the three loyalist houses that defied their liege lord, [[Robert Baratheon]], at the beginnings of [[Robert's Rebellion]]. Along with two other noble houses, House Grandison was defeated at the [[Battle of Summerhall]] in the course of a single day.{{Ref|H&L314}}
+
+==Members==
+*Ser {[[Harlan Grandison]]}, a [[Knighthood|knight]] of the [[Kingsguard]] of [[Aerys II Targaryen]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, House Grandison is a vassal house sworn to [[Storm's End]]. Their seat is Grandview and their words are "Rouse Me Not". 
+
+Ser Harlan Grandison, an old knight, served in the [[Kingsguard]] of [[Aerys II Targaryen|Aerys II]]. He died in his sleep at the [[White Sword Tower]], and was replaced by [[Jaime Lannister]]. 
+
+The current head of the family is Lord Hugh Grandison, an old man dubbed Greybeard.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Houses from the Stormlands}}
+
+<!--Categories-->
+{{DEFAULTSORT:Grandison, House}}
+[[Category:House Grandison| ]]
+[[Category:Houses from the Stormlands]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[fr:Maison Grandison]]
+[[ru:Грандисоны]]

@@ -1,0 +1,73 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Lefford.svg
+| Link  = House Lefford
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Lannister
+| Image       = 2x06 Humfrey Lefford Profile.png
+| Birth       = 
+| Death       = 
+| House       = [[House Lefford|Lefford]]
+| Affiliation = [[House Lannister/House of the Dragon|House Lannister]]<br>[[Greens]]
+| Titles      = 
+| AKA         = 
+| Culture     = [[Westerlands|Westermen]]
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 2|2]]
+| Appearances = 2 episodes {{Below|Appearances}}
+| First       = "[[Smallfolk (episode)|Smallfolk]]"
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Daniel Fathers]]
+}}
+{{Quote|We are ready to march at your command, my lord.|Humfrey Lefford to [[Jason Lannister]]|Smallfolk (episode)}} 
+Lord '''Humfrey Lefford''' is the head of [[House Lefford]] during the [[Dance of the Dragons]].<ref>https://www.spotlight.com/4774-6726-1962</ref>
+
+==Biography==
+===Background===
+Humfrey Lefford is the head of [[House Lefford]] during the [[Dance of the Dragons]]. He is a vassal of [[House Lannister]].
+
+===[[House of the Dragon: Season 2|''House of the Dragon'': Season 2]]===
+Lord Humfrey meets with his liege lord, Lord [[Jason Lannister]] at the Lefford seat of [[Golden Tooth]]. Humfrey has raised five hundred men, while Jason raised a thousand [[knight]]s of his own, by his own admission seven times as many archers and [[Man-at-arms|men-at-arms]], along with two caged male [[Lion|lions]]. Humfrey proclaims he is ready to march to the [[Riverlands]] at Jason's command, predicting he seeks to take [[Harrenhal]] as soon as he can. Jason, instead, orders Humfrey to send a message to [[Tyland Lannister]] in [[King's Landing]] and tell him they are ready to march, as soon as Prince [[Aemond Targaryen]] joins them with [[Vhagar]]. Slightly confused, Humfrey asks his liege lord what he intends to do until Aemond answers. Jason decides to stay at the Golden Tooth.{{Ref|HOTD206}}
+
+Lord Humfrey, Lord Jason, and their army march across the [[Riverlands]] as they prepare to face [[Daemon Targaryen|Daemon]]'s army at Harrenhal.{{Ref|HOTD208}}
+
+==In the books==
+In ''[[Fire & Blood]]'', the elderly Lord Humfrey was a cautious and hesitant military commander. He declared for Aegon II at the start of the [[Dance of the Dragons]] and was a commander in the Lannister army.
+
+==Appearances==
+*{{HOTD|Smallfolk}}
+*{{HOTD|The Queen Who Ever Was}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{House Lefford/House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Lefford, Humfrey}}
+[[Category:Bannermen of House Lannister]]
+[[Category:Greens]]
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Lords]]
+[[Category:Members of House Lefford|Humfrey Lefford]]
+[[Category:Westermen]]
+
+<!--Languages-->
+[[fr:Humfrey Lefford]]
+[[ru:Хамфри Леффорд]]
+[[uk:Хамфрі Лефод]]

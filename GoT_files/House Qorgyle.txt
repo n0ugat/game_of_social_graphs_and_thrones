@@ -1,0 +1,72 @@
+{{Canonicity|Canon}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Martell
+| Image     = House Qorgyle.svg
+| Arms      = Sanguine, three scorpions sable, one and two <br> {{C|Three black scorpions on a dark red field}}
+| Words     = 
+| Titles    = [[Lordship|Lord of Sandstone]]
+| Seat      = [[Sandstone]]
+| Region    = [[Dorne]]
+| Head      = 
+| Heir      = 
+| Overlords = [[House Martell]]
+| Vassals   = 
+| Religion  = [[Faith of the Seven]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Qorgyle'''{{Ref|H&L509}}{{Note|Referred to as the "Qorgyles."}} of [[Sandstone]] is a vassal house which holds fealty to [[House Martell]] of [[Dorne]]. Their heraldry consists of three black scorpions on a red field.
+
+==History==
+===Background===
+The Qorgyles were among the houses defeated by [[Mors Martell]] and [[Nymeria]] during [[Nymeria's War]].<ref>"[[Dorne (short)|Dorne]]"</ref>
+
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+The banner of House Qorgyle is seen amongst the delegation of Dornish lords who accompany [[Oberyn Martell]] to [[King's Landing]].<ref>"[[Two Swords]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, House Qorgyle - along with House Uller - are "Sandy Dornishmen", from the harsh central desert of Dorne. Their home is an oasis amidst the sands. When the [[Rhoynar]] migrated to Dorne a thousand years ago, they settled primarily on the coasts and in the river valleys, and as a result this is where their impact upon Dorne's ethnic makeup was greatest. In contrast, the Rhoynar barely settled in the Red Mountains of western Dorne, where whose inhabitants are still mostly descended from the same [[First Men]]/[[Andals|Andal]] stock as the rest of southern Westeros. The Rhoynar ethnic makeup therefore forms a gradient from east to west in Dorne, forming three loose categories: the "Salty Dornishmen" of the coasts are mostly descended from the Rhoynar, while the "Stony Dornishmen" of the mountains who have little or no Rhoynar ancestry. The third major group are the "Sandy Dornishmen" of the central deserts, who possess an intermediate mix of Rhoynar and First Men/Andal ancestry. Ironically, despite having less Rhoynar blood, the Sandy Dornishmen actually have darker skin than the Salty Dornishmen, because their ancestors were burned and bronzed by the desert sun for hundreds of years.
+
+Oberyn Martell fostered as a [[Ward]] of House Qorgyle at Sandstone when he was a child. As a result, the Qorgyles are considered staunch allies of the Martells in the current generation.
+
+A member of House Qorgyle was [[Jeor Mormont]]'s immediate predecessor as [[Lord Commander of the Night's Watch]], though he has died by the time the novels begin.
+
+===Known members===
+*Lord Quentyn Qorgyle, Lord of Sandstone.
+**Ser Gulian Qorgyle, his eldest son and heir to Sandstone.
+**Ser Arron Qorgyle, his second son.
+
+==Gallery==
+<gallery>
+401 Qorgyle heraldry.jpg|A banner displaying House Qorgyle's heraldry above Podrick's head.
+Qorgyle banner.png|The banner of House Qorgyle.
+</gallery>
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Houses from Dorne}}
+
+<!--Categories-->
+{{DEFAULTSORT:Qorgyle, House}}
+[[Category:House Qorgyle| ]]
+[[Category:Houses from Dorne]]
+[[Category:Houses of Andal origin]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[de:Haus Qorgyl]]
+[[es:Casa Qorgyle]]
+[[fr:Maison Qorgyle]]
+[[ru:Кворгилы]]
+[[zh:科格尔家族]]

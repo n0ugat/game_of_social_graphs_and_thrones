@@ -1,0 +1,58 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Order of Maesters.svg
+| Link  = Order of Maesters
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Citadel
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[Order of Maesters]]
+| Titles      = Maester
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Maester Jellicoe proved that the city began as a trading post. Where ships from Valyria, Old Ghis and the Summer Isles put in to replenish their provisions and make repairs.|[[Pycelle]]|Oldtown (short)}}
+'''Jellicoe''' was a [[Order of Maesters|maester]] of the [[Citadel]].
+
+==Biography==
+Jellicoe claimed that the settlement that later became [[Oldtown]] began as a trading post where ships from [[Old Valyria|Valyria]], [[Old Ghis]] and the [[Summer Isles]] put in to replenish provisions and conduct repairs.{{Ref|H&L612}}
+
+==In the books==
+In ''The World of Ice & Fire'', Maester Jellicoe supposedly lived among the [[Children of the Forest]]. Based on his theory about the foundation of [[Oldtown]], he dated the city to the [[Dawn Age]] before the arrival of the [[First Men]] in [[Westeros]].
+
+==Appearances==
+*{{H&L|Oldtown}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+[[Category:Individuals from Histories & Lore]]
+[[Category:Maesters]]
+[[Category:Westerosi]]
+
+<!--Languages-->
+[[ru:Джеллико]]

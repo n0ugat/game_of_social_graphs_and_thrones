@@ -1,0 +1,43 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Bloodmoon
+| Image   = Jamie-Campbell-Bower-200.jpg
+| Birth   = James Metcalfe Campbell Bower<br>November 22, 1988 {{Age|1988|11|22}}<br>London, England
+| Death   = 
+| Role    = [[Waymar Royce]]<br>[[Lann the Clever]]
+| Series  = ''[[Game of Thrones]]''<br>''[[Bloodmoon]]'' {{Rejected}}
+| Season  = 
+| Credits = 2 episodes {{Below|Credits}}
+| First   = [[Pilot (Game of Thrones)|Pilot]] <small>(''Game of Thrones''; unreleased)</small>
+| Last    = [[Pilot (Bloodmoon)|Pilot]] <small>(''Bloodmoon''; unreleased)</small>
+}}
+'''Jamie Metcalfe Campbell Bower''' (born 22 November 1988) is an English actor, musician, and model. He is arguably best known for his role as Caius in ''[[wikipedia:The Twilight Saga: New Moon|The Twilight Saga: New Moon]]'' also as Number 11-12 in ''[[wikipedia:The Prisoner (2009 miniseries)|The Prisoner]]'', and in the up-and-coming City of Bones film as semi-protaginist, Jace Wayland. He portrayed [[wikipedia:Gellert Grindelwald|Gellert Grindelwald]] in ''{{WPS|Harry Potter and the Deathly Hallows – Part 1}}'' and ''{{WPS|Fantastic Beasts: The Crimes of Grindelwald}}''.
+
+[[File:Jamie as Waymar.jpg|thumb|left|Bower as [[Waymar Royce]] in the unaired pilot]]
+He portrayed [[Lann the Clever]] in the [[Pilot (Bloodmoon)|pilot]] of ''[[Bloodmoon]]''.{{Webref|name=Lann |author=Wake the Dragon |date=February 18, 2024 |url=https://twitter.com/WtDasoiaf/status/1759440092576235882 |title=Jamie Campbell Bower as Lann the Clever, a prisoner of House Stark and the ancestor of House Lannister! |website=X |access-date=February 19, 2024 }}
+
+In ''[[Game of Thrones]]'' Campbell Bower was supposed to be playing Ser [[Waymar Royce]]. He was confirmed in the role on 20 October 2009, and played in the unscreened [[Pilot (Game of Thrones)|pilot]]. However, he was replaced by [[Rob Ostlere]] for the series proper. Campbell Bower has gone on to play [[wikipedia:King Arthur|King Arthur]] in the drama series ''[[wikipedia:Camelot (TV series)|Camelot]]''.
+
+==Credits==
+*{{GOT|Pilot}}
+*{{BM|Pilot}}
+
+==See also==
+*{{WP}}
+*{{IMDb|# = 2570429}}
+*{{Twitter|# = Jamiebower}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{Bloodmoon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Bower, Jamie Campbell}}
+[[Category:Cast members of the pilot of Bloodmoon]]
+[[Category:Cast members of the pilot of Game of Thrones]]
+
+<!--Languages-->
+[[de:Jamie Campbell Bower]]
+[[ru:Джейми Кэмпбелл Бауэр]]

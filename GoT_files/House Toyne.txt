@@ -1,0 +1,63 @@
+{{Canonicity|Canon}}
+{{References}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Baratheon
+| Image     = 
+| Arms      = 
+| Words     = 
+| Titles    = 
+| Seat      = 
+| Region    = [[Stormlands]]
+| Head      = 
+| Heir      = 
+| Overlords = [[House Baratheon]]
+| Vassals   = 
+| Religion  = [[Faith of the Seven]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Toyne'''{{Ref|GOT103}}{{Note|Barristan refers to Simon Toyne as "Toyne."}} is an extinct [[noble house]] from the [[Stormlands]].
+
+==Known members==
+*Ser {[[Terrence Toyne]]}, a knight of the [[Kingsguard]] of [[Aegon IV Targaryen]]. Executed for sleeping with one of the king's mistresses.
+*{[[Simon Toyne]]}, leader of the band of outlaws known as the [[Kingswood Brotherhood]]. Killed by Ser [[Barristan Selmy]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, House Toyne fell from grace after Ser Terrence Toyne of the Kingsguard was beheaded under orders of [[Aegon IV Targaryen]], for having an affair with one of the King's mistresses. His brothers tried to avenge his death but were stopped by Prince Aemon the Dragonknight, though the latter lost his life in the process. Afterward, the brothers Toyne were also executed for treason. 
+
+Some members of House Toyne went into exile across the [[Narrow Sea]], where they joined [[House Blackfyre]] in their repeated attempts to unseat [[House Targaryen]] from the Iron Throne.
+
+Their sigil is a winged heart, black on gold, within a black bordure embattled. Their words are "Fly High, Fly Far".
+
+===Historical members===
+*Ser Terrence Toyne, a knight of Aegon IV Targaryen's Kingsguard.
+*Simon Toyne, the leader of the Kingswood Brotherhood.
+*Myles Toyne, a captain-general of the [[Golden Company]]. Succeeded by [[Harry Strickland]]
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Houses from the Stormlands}}
+
+<!--Categories-->
+{{DEFAULTSORT:Toyne, House}}
+[[Category:Extinct houses]]
+[[Category:House Toyne| ]]
+[[Category:Houses from the Stormlands]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[de:Haus Toyn]]
+[[fr:Maison Tignac]]
+[[ru:Тойны]]
+[[zh:托因家族]]

@@ -1,0 +1,33 @@
+{{DISPLAYTITLE:''Jade Compendium''}}
+{{Canonicity|Canon}}
+The '''''Jade Compendium'''''<ref name="Still">[[:File:GoT-Sn7 FirstLook 04.jpg]]</ref> is a book, written by [[Colloquo Votar]]. It is a collection of stories and reports about the lands around the [[Jade Sea]], such as [[Qarth]] and more distant [[Yi Ti]].
+
+==History==
+===[[Game of Thrones: Season 7|''Game of Thrones'': Season 7]]===
+[[File:GoT-Sn7 FirstLook 04.jpg|thumb|[[Gilly]] reading a page from a history book which mentions the ''Jade Compendium''.]]
+The ''Jade Compendium'' is mentioned on a page that [[Gilly]] is seen reading in a history book.{{Ref|GOT701}}<ref name="Still" />
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the ''Jade Compendium'' was written by Colloquo Votar, an adventurer from [[Volantis]]. Many [[Order of Maesters|maesters]] consider it the authoritative work (available to men in [[Westeros]]) on the lands around the Jade Sea.
+
+''The World of Ice & Fire'' (an in-universe history textbook by Maester Yandel) is primarily written from the perspective of an educated man in Westeros, with little knowledge of the lands east of the [[Dothraki]] and the [[Bone Mountains]]: only a brief outline is presented, with citations from the ''Jade Compendium'', with "Yandel" (the author avatar) referring anyone who wants to know more about Qarth, Yi Ti, and beyond to read the full text of the ''Jade Compendium''.
+
+Legends from Yi Ti and [[Asshai]] are mentioned in the ''Jade Compendium'' about [[Azor Ahai]], the legendary hero who according to their tales ended the [[Long Night]], wielding a flaming sword called [[Lightbringer]].
+
+The ''Jade Compendium'' was first mentioned in the main novels, in the fourth book, after [[Stannis Baratheon|Stannis]] arrives at [[Castle Black]]. Maester [[Aemon]] is skeptical of [[Melisandre]]'s claims that Stannis is Azor Ahai reborn, so he asks [[Samwell Tarly|Sam]] to bring him a rare copy of it that he has kept in the castle's library. Sam re-reads parts of it to the blind Aemon, including the detail that the sword Lightbringer is supposed to both glow ''and'' radiate heat - yet Stannis's sword "Lightbringer" (which Melisandre worked some magic on) only glows, not giving off heat. This seems to confirm Aemon's doubts about Stannis and Melisandre.{{Bookref|AFFC|5}}
+
+Aemon leaves the Wall with Sam and Gilly in the novels on their voyage to [[Oldtown]], though he dies in transit (in the TV version he died at Castle Black soon before they left). As he departs, Aemon tells [[Jon Snow]] that he left a book for him in his chambers with some important information he needs to know. By the fifth novel when Jon's storyline picks up again, he mentions that he read the copy of ''Jade Compendium'' that Aemon left for him, including the legends about Azor Ahai. As with Aemon, the detail that the real Lightbringer is supposed to radiate heat leads Jon to doubt that Stannis is really Azor Ahai reborn.{{Bookref|ADWD|10}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Jade Compendium|''Jade Compendium''}}
+
+<!--Categories-->
+[[Category:Texts]]
+
+<!--Languages-->
+[[de:Jadekompendium]]
+[[fr:Compendium de Jade]]
+[[ru:Нефритовый компендиум]]

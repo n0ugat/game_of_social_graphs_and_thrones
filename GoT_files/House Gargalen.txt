@@ -1,0 +1,62 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Image}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Martell
+| Image     = 
+| Arms      = Gold, a red cockatrice
+| Words     = 
+| Titles    = 
+| Seat      = [[Salt Shore]]
+| Region    = [[Dorne]]
+| Head      = 
+| Heir      = 
+| Overlords = [[House Martell]]
+| Vassals   = 
+| Religion  = [[Faith of the Seven]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Gargalen'''{{Con|ASOIAF}} of [[Salt Shore]] is a [[Noble house|vassal house]] which holds fealty to [[House Martell]] of [[Dorne]]. Their seat is at Salt Shore, the southernmost castle in [[Westeros]]. House Gargalen's heraldry is a red cockatrice on a golden field.
+
+==History==
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+[[Joffrey Baratheon|Joffrey]] mentions Salt Shore to [[Sansa Stark|Sansa]], saying how lords will travel to their wedding from [[Last Hearth]] in the north to Salt Shore in the south.{{Ref|GOT106}}
+
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+[[File:401 Gargalen heraldry.jpg|thumb|200px|At far right, blurry and not in focus, a banner displaying House Gargalen's heraldry (a red cockatrice on a gold field).]]
+A House Gargalen banner is seen amongst the delegation of Dornish lords who accompany Prince [[Oberyn Martell]] to [[King's Landing]].{{Ref|GOT401}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, House Gargalen rules Salt Shore. Prince [[Doran Martell]] squired for Lord Tremond Gargalen in his youth. 
+
+Lord Gargalen is among the Dornish nobles that accompany Oberyn Martell to King's Landing.
+
+===Known members===
+*Lord Tremond Gargalen, the Lord of Salt Shore.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Houses from Dorne}}
+
+<!--Categories-->
+{{DEFAULTSORT:Gargalen, House}}
+[[Category:House Gargalen| ]]
+[[Category:Houses from Dorne]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[de:Haus Gargalen]]
+[[fr:Maison Gargalen]]
+[[ru:Гаргалены]]

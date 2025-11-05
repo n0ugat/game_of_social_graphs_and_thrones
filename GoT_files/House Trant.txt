@@ -1,0 +1,55 @@
+{{Canonicity|Canon}}
+{{References}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Baratheon
+| Image     = 
+| Arms      = 
+| Words     = 
+| Titles    = 
+| Seat      = 
+| Region    = [[Stormlands]]
+| Head      = 
+| Heir      = 
+| Overlords = [[House Baratheon]]
+| Vassals   = 
+| Religion  = [[Faith of the Seven]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Trant'''{{Ref|GOT301}}{{Note|Meryn's surname is Trant.}} is a vassal house from the [[Stormlands]] that holds fealty to [[House Baratheon]].
+
+==Members==
+[[File:Meryn-Trant-201.jpg|thumb|Ser Meryn Trant, a member of House Trant.]]
+*Ser {[[Meryn Trant]]}, a [[Knighthood|knight]] of the [[Kingsguard]]. Killed by [[Arya Stark]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, House Trant is a vassal house sworn to [[Storm's End]]. Their seat is Gallowsgrey (according to a semi-canon source), their sigil is a hanged man, sable, on a field of blue, and their words are "So End Our Foes".
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Houses from the Stormlands}}
+
+<!--Categories-->
+{{DEFAULTSORT:Trant, House}}
+[[Category:House Trant| ]]
+[[Category:Houses from the Stormlands]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[de:Haus Trant]]
+[[es:Casa Trant]]
+[[fr:Maison Trant]]
+[[it:Casa Trant]]
+[[ru:Трэнты]]
+[[zh:特兰家族]]

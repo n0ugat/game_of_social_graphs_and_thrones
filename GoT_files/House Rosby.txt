@@ -1,0 +1,72 @@
+{{Canonicity|Canon}}
+{{References}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Crownlander
+| Image     = House Rosby.svg
+| Arms      = Three red chevronels on ermine{{Ref|HOTD204}}
+| Words     = 
+| Titles    = Lord of Rosby
+| Seat      = [[Rosby]]
+| Region    = [[Crownlands]]
+| Head      = Lord [[Gyles Rosby]]
+| Heir      = 
+| Overlords = [[King of the Andals and the Rhoynar and the First Men|King of the Andals and the First Men]]<br>[[House Lannister]] {{C|[[303 AC|303]]{{Dateref|Game of Thrones: Season 6}}-[[305 AC]]}}{{Dateref|Game of Thrones: Season 8}}<br>{[[House Baratheon of King's Landing]]} {{C|[[281 AC|281]]{{Dateref|Robert's Rebellion}}-303 AC}}{{Dateref|Game of Thrones: Season 6}}<br>[[House Targaryen]] {{C|[[1 AC|1]]{{Dateref|Aegon's Conquest}}-281 AC}}{{Dateref|Robert's Rebellion}}
+| Vassals   = 
+| Religion  = [[Faith of the Seven]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Rosby'''{{Ref|THTDB204}} of [[Rosby]] is a vassal house that holds fealty directly to the elected monarchs of the [[Seven Kingdoms|Six Kingdoms]]. Their seat is the eponymous town of Rosby, located in the [[Crownlands]], north of [[King's Landing]].
+
+==Members==
+*Lord [[Gyles Rosby]], an ever present figure in the court at the [[Red Keep]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, House Rosby was one of the first to kneel to [[Aegon I Targaryen|Aegon the Conqueror]]. Rosbys are not known for their robustness, tending to be sickly persons. Bethany Rosby is the deceased sixth wife of Lord [[Walder Frey]] and mother to five Freys including [[Olyvar Frey|Olyvar]] and [[Roslin Tully|Roslin Frey]]. According to the semi-canonical ''A Song of Ice and Fire Roleplaying Campaign Guide: A Game of Thrones Edition'' from [[wikipedia:Green Ronin Publishing|Green Ronin Publishing]] Bethany Rosby is Lord Gyles Rosby's daughter.
+
+During the [[First Dornish War]], Jon Rosby briefly ruled [[Dorne]] as [[Warden]] of the Sands, in addition to governing [[Sunspear]] as [[castellan]] in King Aegon's name.
+
+Their blazon consists of three red chevronels on ermine. Their motto is not mentioned in the books. 
+
+===Members===
+*Lord {Gyles Rosby}, Lord of Rosby and [[Master of Coin]]. Died of an illness in the [[Red Keep]]
+**{Two unnamed wives}
+With unknown familiar relationship with the main branch:
+*Lady {Bethany Rosby}, the late sixth wife of Lord [[Walder Frey]]. Mother of Perwyn, Benfrey, Willamen, [[Olyvar Frey|Olyvar]], and [[Roslin Tully|Roslin Frey]].
+
+===Historical members===
+*Lord {Jon Rosby}, Lord of Rosby, [[Castellan]] of [[Sunspear]], and [[Warden]] of the Sands. Killed in the Defenestration of Sunspear during the [[First Dornish War]].
+*Ser {Rayford Rosby}, a [[Knighthood|knight]]. Fought and died for King [[Maegor Targaryen]] during his [[Trial by seven of Maegor Targaryen|trial by seven]] in 42 AC.
+
+==Gallery==
+<gallery>
+File:Rosby and Stokeworth soldiers.png
+File:OT2 Greens.png
+</gallery>
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{Houses from the Crownlands}}
+
+<!--Categories-->
+{{DEFAULTSORT:Rosby, House}}
+[[Category:House Rosby| ]]
+[[Category:Houses from the Crownlands]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[fr:Maison Rosby]]
+[[pl:Ród Rosby]]
+[[pt-br:Casa Rosby]]
+[[ru:Росби (дом)]]

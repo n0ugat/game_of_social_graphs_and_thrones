@@ -1,0 +1,26 @@
+{{Crew
+|Image = James Embree.jpg
+|dateofbirth = {{WPS|February 20}}, {{WPS|1978}}
+|birthplace = {{WPS|London}}, {{WPS|England}}, {{WPS|United Kingdom}}
+|job = Stunt Performer<br>Stunt Double for [[Iain Glen]]
+|imdb = https://www.imdb.com/name/nm1415490/
+|twitter = }}
+'''James Embree''' (born February 20, 1978) is an English stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 5|fifth season]] episodes "[[Kill the Boy]]", "[[The Gift]]" and "[[The Dance of Dragons (episode)|The Dance of Dragons]]".
+
+He was also a stunt double for [[Iain Glen]] in the [[Game of Thrones: Season 5|fifth season]] episodes "[[Sons of the Harpy (episode)|Sons of the Harpy]]", "[[Kill the Boy]]", "[[The Gift]]" and "[[The Dance of Dragons (episode)|The Dance of Dragons]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 5||||yes|yes||yes||yes}}
+
+==See also==
+*{{IMDb
+|# = 1415490}}
+*{{YouTube
+|# = channel/UCwBLyF31D2ff2ji3LPmXa_g}}
+*{{Linkedin
+|# = /company/20631804}}
+{{DEFAULTSORT:Embree, James}}
+[[Category:Stunt performers of Game of Thrones]]

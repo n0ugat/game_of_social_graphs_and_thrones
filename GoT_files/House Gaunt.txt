@@ -1,0 +1,62 @@
+{{Canonicity|Canon}}
+{{References}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Crownlander
+| Image     = House Gaunt.svg
+| Arms      = Three black lances upright on pink, between black flaunches
+| Words     = 
+| Titles    = 
+| Seat      = 
+| Region    = [[Crownlands]]
+| Head      = Lord [[Symon Gaunt]]
+| Heir      = 
+| Overlords = [[King of the Andals and the Rhoynar and the First Men|King of the Andals and the First Men]]<br>[[House Lannister]] {{C|[[303 AC|303]]{{Dateref|Game of Thrones: Season 6}}-[[305 AC]]}}{{Dateref|Game of Thrones: Season 8}}<br>{[[House Baratheon of King's Landing]]} {{C|[[281 AC|281]]{{Dateref|Robert's Rebellion}}-303 AC}}{{Dateref|Game of Thrones: Season 6}}<br>[[House Targaryen]] {{C|[[1 AC|1]]{{Dateref|Aegon's Conquest}}-281 AC}}{{Dateref|Robert's Rebellion}}
+| Vassals   = 
+| Religion  = [[Faith of the Seven]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Gaunt'''{{Ref|GOT806}} is a vassal house from the [[Crownlands]]. It directly holds fealty to the elected monarchs of the [[Seven Kingdoms|Six Kingdoms]].
+
+==Members==
+* Lord [[Symon Gaunt]], the head of House Gaunt.
+* Ser {[[Gwayne Gaunt]]}, a [[Knighthood|knight]] of the [[Kingsguard]] during the reign of [[Aerys II Targaryen]]. Killed by Ser {[[Symon Hollard]]} during the [[Defiance of Duskendale]]. Ser {[[Barristan Selmy]]} avenged his death.
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, little is mentioned about House Gaunt other than their sigil and Ser Gwayne's death.
+
+Incidentally, George R.R. Martin has said that the narrative of the novel series is ''loosely'' inspired by the real-life War of the Roses, a succession war in England during the late fifteenth century. Much of the war centered around who was the rightful heir to King Edward III: "John of Gaunt" was Edward III's third son, and his descendants were the House of Lancaster (which produced kings Henry IV, Henry V, and Henry VI). John of Gaunt was so-called because he was born in the city of Ghent in Flanders, and at the time "Ghent" was rendered into English spelling as "Gaunt."
+
+==Gallery==
+<gallery>
+Gaunt.jpg|House Gaunt's heraldry on Ser Gwayne's entry in the ''[[Book of Brothers]]'': three black lances upright on pink, between black flaunches.
+</gallery>
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Houses from the Crownlands}}
+
+<!--Categories-->
+{{DEFAULTSORT:Gaunt, House}}
+[[Category:House Gaunt| ]]
+[[Category:Houses from the Crownlands]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[de:Haus Hager]]
+[[es:Casa Gaunt]]
+[[fr:Maison Gaunt]]
+[[it:Casa Gaunt]]
+[[ru:Гонты]]
+[[zh:戈特家族]]

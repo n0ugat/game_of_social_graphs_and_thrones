@@ -1,0 +1,59 @@
+{{Canonicity|Canon}}
+{{References}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Baratheon
+| Image     = 
+| Arms      = 
+| Words     = 
+| Titles    = 
+| Seat      = [[Felwood]]
+| Region    = [[Stormlands]]
+| Head      = 
+| Heir      = 
+| Overlords = [[House Baratheon]]
+| Vassals   = 
+| Religion  = [[Faith of the Seven]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Fell'''{{Ref|HOTD109}} of [[Felwood]] is a [[noble house]] in the [[Stormlands]]. They hold fealty to [[House Baratheon/House of the Dragon|House Baratheon]] of [[Storm's End]].
+
+==Members==
+*[[Lady Fell]], a supporter of [[Rhaenyra Targaryen]] at the outset of the [[Dance of the Dragons]].
+*Ser [[Willis Fell]], a [[Knighthood|knight]] of the [[Kingsguard]] of [[Aegon II Targaryen]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the arms of House Fell are blazoned per fess, a white crescent moon in the first above a green field, a sprucetree line between.
+
+House Fell fought against the army of [[Orys Baratheon]] during [[Aegon's Conquest]], taking part in an ambush on Orys at the [[Wendwater]].
+
+During the [[First Dornish War]], Lord Fell was smothered by [[Dornishmen|Dornish]] assassins in a brothel.
+
+Lady Fell was executed for refusing to renounce her oath to [[Rhaenyra Targaryen]] and swear fealty to [[Aegon II Targaryen|Aegon II]].
+
+House Fell remained loyal to [[House Targaryen/House of the Dragon|House Targaryen]] at the start of [[Robert's Rebellion]]. After [[Robert Baratheon|Robert]] killed Lord Fell in single combat at [[Summerhall]], his son Silveraxe joined Robert's side.
+
+Lord Harwood Fell participates in [[Stannis Baratheon]]'s [[Battle in the ice|campaign against the Boltons]]. He dies from a chill after falling into a river during their march to [[Winterfell]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{House Fell}}
+{{Houses from the Stormlands/House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Fell, House}}
+[[Category:House Fell| ]]
+[[Category:Houses from the Stormlands]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[fr:Maison Fell]]
+[[ru:Феллы]]

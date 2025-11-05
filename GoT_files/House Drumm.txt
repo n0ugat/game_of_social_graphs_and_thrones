@@ -1,0 +1,64 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Greyjoy
+| Image     = House Drumm.svg
+| Arms      = Gules, a dexter skeletal hand appaumy couped argent <br> {{C|A skeletal hand on a red field.}}
+| Words     = 
+| Titles    = 
+| Seat      = 
+| Region    = [[Iron Islands]]
+| Head      = 
+| Heir      = 
+| Overlords = {[[House Hoare]]} {{C|pre-[[Aegon's Conquest]]}}<br>[[House Greyjoy]]
+| Vassals   = 
+| Religion  = [[Drowned God]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Drumm'''{{Con|ASOIAF}} is a vassal house from the [[Iron Islands]] that holds fealty to [[House Greyjoy]].
+
+==History==
+House Drumm was in service to [[House Hoare]] during the reign of [[Qhorwyn Hoare]]. After the [[kingsmoot]] elected his formerly banished son [[Harwyn Hoare]] as [[King of the Iron Islands]], he gathered the armies of the [[Iron Islands]], including those of House Drumm and [[House Harlaw]] and attacked the mainland of [[Westeros]].{{Ref|H&L602}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, House Drumm is a noble house from the Iron Islands. They own a longship named ''Thunderer''.
+
+The Drumms own a [[Valyrian steel]] sword, Red Rain, which was taken from a [[Knighthood|knight]] years ago by Hilmar the Cunning with wits and a wooden cudgel.{{Bookref|AFFC|19}} Due to the name and the color of the sword, it is possible the sword belonged to [[House Reyne]].
+
+The Drumms hold the title "Lord of [[Old Wyk]]", suggesting they have some type of sovereignty over the whole island and its other houses, such as the Stonehouses. During the [[Greyjoy Rebellion]], the Drumms would have commanded the defense of their island against the host led by Ser [[Barristan Selmy]].
+
+When [[Theon Greyjoy]] arrives at [[Pyke]], his uncle [[Aeron Greyjoy|Aeron]] tells him [[Dagmer|Dagmer Cleftjaw]] has gone to Old Wyk to summon the Stonehouses and the Drumms.{{Bookref|ACOK|11}}
+
+At the kingsmoot, Lord Dunstan Drumm claims the [[Salt Throne|Seastone Chair]] for himself. His champions are his sons, Denys and Donnel, and Andrik the Unsmiling. Aeron thinks his champions are notable and Dustan starts speaking well. However, he fact that he talks too much of his family's past glories, and that the contents of his chests only contain bronze, diminish his support.{{Bookref|AFFC|19}}
+
+===Known members===
+*Lord Dunstan Drumm, Lord of Old Wyk.
+**Denys Drumm, his eldest son and heir.
+**Donnel Drumm, his second son.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Houses from the Iron Islands}}
+
+<!--Categories-->
+{{DEFAULTSORT:Drumm, House}}
+[[Category:Houses from the Iron Islands]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[fr:Maison Timbal]]
+[[pl:Ród Drumm]]
+[[pt-br:Casa Drumm]]
+[[ru:Драммы]]

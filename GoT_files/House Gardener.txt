@@ -1,0 +1,67 @@
+{{Canonicity|Canon}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Gardener
+| Image     = House Gardener.svg
+| Arms      = Argent, a hand appaumy couped vert <br> {{C|An open green hand on a white field}}
+| Titles    = [[King of the Reach]]
+| Seat      = [[Highgarden]]
+| Region    = [[Reach]]
+| Head      = 
+| Heir      = 
+| Overlords = 
+| Vassals   = [[House Ashford]]<br>[[House Caswell]]<br>[[House Florent]]<br>[[House Fossoway]]<br>[[House Hastwyck]]<br>[[House Hightower]]<br>[[House Leygood]]<br>[[House Manderly]]<br>[[House Merryweather]]<br>[[House Mullendore]]<br>[[House Redwyne]]<br>[[House Rowan]]<br>[[House Tarly]]<br>[[House Tyrell]]
+| Religion  = [[Faith of the Seven]]<br>[[Old Gods]] {{C|pre-[[coming of the Andals]]}}
+| Cadets    = 
+| Founded   = [[Dawn Age]]<br>by {[[Garth the Gardener]]}
+| Died      = [[2-1 BC]]{{Dateref|Aegon's Conquest}}<br>[[Field of Fire]]
+| Weapon    = 
+}}
+{{Quote|For over a thousand the years the Greenhand's sons and grandsons ruled the Reach as House Gardener; the offshoots of his daughters grew as vast and powerful houses in their own right.|[[Margaery Tyrell]]|House Tyrell (short)}}
+'''House Gardener'''{{Ref|H&L102}} of [[Highgarden]] is an extinct [[Great House]] of [[Westeros]], dating back to the time in which the [[First Men]] ruled the entire continent. Prior to [[Aegon's Conquest]], they ruled as [[King of the Reach|Kings]] of the [[Reach]].<ref>[http://viewers-guide.hbo.com/game-of-thrones/season1/#!/guide/houses/tyrell/ HBO Viewer's Guide Season 1, House Tyrell]</ref> Their [[heraldry]] depicted a green hand on a white field.
+
+Its founder was [[Garth the Gardener|Garth Greenhand]], who wore a crown of vines and flowers and was said to have made the land bloom. Many of the noble houses of the Reach, including [[House Tyrell]] and [[House Florent]], trace their descent to him.<ref>"[[The Age of Heroes]]"</ref>
+
+The Gardeners became extinct when [[Aegon I Targaryen|Aegon the Conqueror]] invaded Westeros. The King of the Reach, [[Mern IX Gardener|Mern IX]], joined forces with the [[King of the Rock]], [[Loren I Lannister|Loren I]], to challenge the invaders. In the battle, that became known as the [[Field of Fire]], King Mern died incinerated when Aegon unleashed his three dragons, [[Vhagar]], [[Meraxes]] and [[Balerion]] the Black Dread, against the combined forces of the Reach and the Rock.<ref>"[[House Lannister (short)|House Lannister]]"</ref> [[Harlen Tyrell]], the [[steward]] of Highgarden, surrendered the castle to Aegon, and he was afterward made [[Lord Paramount of the Reach]] and [[Warden of the South]].
+
+==In the books==
+[[File:Garth's crown.png|thumb|left|250px|The crown of the Gardener kings.]] 
+House Gardener is one of only three Great Houses which ever went extinct, the other two being [[House Durrandon]] of the [[Stormlands]] and [[House Hoare]] of the [[Iron Islands]]. The Durrandon and Hoare bloodlines were extinguished in the male line, but they did survive in the female line. The daughter of the last Durrandon king was married by the founder of [[House Baratheon]], so there is some continuity with its replacement, and apparently no surviving Durrandon relatives could challenge the resulting Baratheon line. In the Iron Islands, House Volmark is said to descend from House Hoare in the female line, but due to the odd elective kingship practices of the ironborn, they do not have a particularly better claim to rule than [[House Greyjoy]].
+
+House Gardener, however, had intermarried with many of the other noble Houses of the Reach, making them younger branches of the main Gardener line. These include the Florents and Tyrells, as well as the Rowans and Oakhearts. The Tyrells can only claim descent from the Gardeners through the female line, however, the Florents are directly descended from the Gardeners through a male line (a younger Gardener brother married a Florent at one point). Because the Tyrells willingly surrendered Highgarden, however, the Targaryens skipped over the Florents to appoint the Tyrells as rulers of the Reach. This makes the situation in the Reach quite unique among the Seven Kingdoms, because the deposed former Great House isn't exactly "extinct" (despite being formally disestablished) and there are other Houses that actually possess a superior claim to rule based on male-line descent than the current ruling House. This situation has resulted in the Tyrells ''generally'' following a policy of towing the Targaryen line during their rule.
+
+==Gallery==
+<gallery>
+Mern gardener.jpg|King [[Mern IX Gardener]], holding a shield displaying the green hand sigil of House Gardener.
+SigilReference-Gardener.png|Banner of House Gardener displaying their green hand sigil.
+</gallery>
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Gardener}}
+{{Great Houses of Westeros}}
+{{Houses from the Reach}}
+
+<!--Categories-->
+{{DEFAULTSORT:Gardener, House}}
+[[Category:Extinct houses]]
+[[Category:Great Houses]]
+[[Category:House Gardener| ]]
+[[Category:Houses from the Reach]]
+[[Category:Houses of First Men origin]]
+[[Category:Royal houses]]
+
+<!--Languages-->
+[[de:Haus Gärtner]]
+[[fr:Maison Jardinier]]
+[[pl:Ród Gardener]]
+[[pt-br:Casa Gardener]]
+[[ru:Гарденеры]]
