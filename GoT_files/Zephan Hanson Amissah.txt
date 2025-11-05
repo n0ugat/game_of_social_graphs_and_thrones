@@ -1,0 +1,32 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Bloodmoon
+| Image   = Zephan Hanson Amissah.jpg
+| Birth   = 
+| Death   = 
+| Role    = Enclave boy
+| Series  = ''[[Bloodmoon]]'' {{Rejected}}
+| Season  = 
+| Credits = [[Pilot (Bloodmoon)|Pilot]] {{Unreleased}}
+| First   = 
+| Last    = 
+}}
+'''Zephan Hanson Amissah''' is an actor.
+
+He portrayed an enclave boy in the [[Pilot (Bloodmoon)|pilot]] of ''[[Bloodmoon]]''.<ref>[https://redanianintelligence.com/2020/07/21/new-tidbits-about-the-cancelled-game-of-thrones-prequel-leaf/ The cancelled Game of Thrones prequel featured a character from the original show and other new tidbits - Redanian Intelligence]</ref>
+
+==See also==
+*{{IMDb|# = 9437175}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{Bloodmoon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Amissah, Zephan Hanson}}
+[[Category:Cast members of the pilot of Bloodmoon]]
+
+<!--Languages-->
+[[de:Zephan Hanson Amissah]]

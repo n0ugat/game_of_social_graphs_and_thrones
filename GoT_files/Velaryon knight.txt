@@ -1,0 +1,55 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Velaryon
+| Image       = Velaryon knight.png
+| Birth       = 
+| Death       = [[115 AC]]{{Dateref|Second of His Name}}<br>[[Bloodstone]], the [[Stepstones]]{{Ref|HOTD103}}
+| House       = 
+| Affiliation = [[House Velaryon]]{{Ref|HOTD103}}
+| Titles      = [[Knighthood|Ser]]
+| AKA         = 
+| Culture     = [[Crownlands|Crownlander]]{{Ref|HOTD103}}
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 1|1]]
+| Appearances = "[[Second of His Name]]"
+| First       = 
+| Last        = 
+| DeathEp     = "Second of His Name"
+| Actor       = [[Aron von Andrian]]
+}}
+{{Quote|House Velaryon is coming for you! The Sea Snake will have your poxy fucking head! No, no, no. No, please! Fuck you, Prince Drahar! Fuck your whore mother and bastard father!|Velaryon knight|Second of His Name}}
+A '''Velaryon knight''' fought in the [[War for the Stepstones]].
+
+==Biography==
+===Background===
+He is a [[Knighthood|knight]] sworn to [[House Velaryon]].{{Ref|HOTD103}}
+
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+At [[Bloodstone]], the knight is staked by [[Craghas Drahar]] to be eaten by carnivorous crabs. Before the execution can continue, [[Daemon Targaryen]] arrives on [[Caraxes]] and the Crabfeeder flees inside a cave. The knight is relieved, shouting for Daemon to save him, but he is crushed when Caraxes lands directly on top of him.{{Ref|HOTD103}}
+
+==Appearances==
+*{{HOTD|Second of His Name}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Categories-->
+[[Category:Crownlanders]]
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Knights]]
+[[Category:Servants and retainers of House Velaryon]]
+
+<!--Languages-->
+[[ru:Рыцарь Веларионов]]

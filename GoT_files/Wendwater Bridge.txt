@@ -1,0 +1,33 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Crownlander
+| Image        = 
+| Type         = Bridge
+| Status       = 
+| Location     = [[Wendwater]], the [[Crownlands]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = 
+| Places       = 
+| Founded      = 
+}}
+'''Wendwater Bridge'''{{Ref|THTDB201}} is a crossing of the [[Wendwater]] river in the [[Crownlands]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Wendwater Bridge was the site of the Battle of Wendwater Bridge during the [[Fourth Blackfyre Rebellion]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Battle of Wendwater Bridge}} {{Spoilers|AKOTSK}}
+
+<!--Navboxes-->
+{{Crownlands}}
+
+<!--Categories-->
+[[Category:Bridges]]
+[[Category:Crownlands]]

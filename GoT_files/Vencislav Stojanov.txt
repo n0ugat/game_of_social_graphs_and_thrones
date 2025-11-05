@@ -1,0 +1,20 @@
+{{Crew
+|Image = 
+|dateofbirth = 
+|birthplace = 
+|job = Stunt Performer
+|imdb = http://www.imdb.com/name/nm1516554
+|twitter = }}
+'''Vencislav Zlatkov Stojanov''' is a stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 5|fifth season]] episodes "[[Hardhome (episode)|Hardhome]]" and "[[The Dance of Dragons (episode)|The Dance of Dragons]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 5||||||||yes|yes}}
+
+==See also==
+*{{IMDb
+|# = 1516554}}
+{{DEFAULTSORT:Stojanov, Vencislav}}
+[[Category:Stunt performers of Game of Thrones]]

@@ -1,0 +1,62 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Bracken.svg
+| Link  = House Bracken
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Tully
+| Image       = 
+| Birth       = At [[Stone Hedge]]
+| Death       = 
+| House       = [[House Bracken|Bracken]]
+| Affiliation = 
+| Titles      = [[Knighthood|Ser]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Riverlands|Rivermen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Dialogue a-b|Bronn|Lollys will be marrying Ser Wyllis Bracken. We made a deal, your sister and I.|Jaime Lannister|I would have advised against that.|[[Bronn]] and [[Jaime Lannister]]|The House of Black and White}}
+Ser '''Wyllis Bracken''' is a [[Knighthood|knight]] from the [[Riverlands]] and a member of [[House Bracken]].
+
+==Biography==
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+[[Jaime Lannister|Jaime]] tells [[Bronn]] that [[Cersei Lannister|Cersei]] has broken the arrangement to wed [[Lollys Stokeworth]] to him; instead, Lollys will marry Ser Wyllis.{{Ref|GOT502}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no mention of a character named Ser Wyllis Bracken, and Bronn is the one who marries Lollys Stokeworth.
+
+==Appearances==
+*{{GOT|The House of Black and White}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House Bracken}}
+
+<!--Categories-->
+{{DEFAULTSORT:Bracken, Wyllis}}
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Knights]]
+[[Category:Members of House Bracken|Wyllis Bracken]]
+[[Category:Rivermen]]
+
+<!--Languages-->
+[[de:Willis Bracken]]
+[[ru:Уиллис Бракен]]

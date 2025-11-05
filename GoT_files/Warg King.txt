@@ -1,0 +1,57 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Westeros
+| Image       = 
+| Birth       = 
+| Death       = Killed at [[Sea Dragon Point]]
+| House       = 
+| Affiliation = 
+| Titles      = Warg King
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[First Men]]
+| Religion    = [[Old Gods]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|The last Warg King was slain at Sea Dragon Point along with all his sons and beasts.|[[Sansa Stark]]|Northern Allegiances to House Stark}}
+The '''Warg King''' was one of the many [[King]]s of the [[First Men]].
+
+==Biography==
+The Warg King opposed the rule of [[House Stark]]'s rule of the [[North]] during the [[Thousand Years War]]. He was killed alongside all of his sons and [[Warg|beasts]] at [[Sea Dragon Point]].{{Ref|H&L609}}
+
+==In the books==
+In ''The World of Ice & Fire'', the Warg King was a [[Warg|skinchanger]] and a monarch who ruled after the [[Long Night]] in what later became known as the [[North]]. Documents at the [[Nightfort]] indicate that he ruled [[Sea Dragon Point]] and allied himself with the [[Children of the Forest]], though they were defeated by the [[King in the North|Kings of Winter]] of [[House Stark]]. Once the Starks killed him along with his sons, beasts and [[greenseer]]s, they took his daughters as prizes.
+
+==Appearances==
+*{{H&L|Northern Allegiances to House Stark}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+[[Category:Individuals from Histories & Lore]]
+[[Category:Kings]]
+[[Category:Northmen]]
+[[Category:Wargs]]
+
+<!--Languages-->
+[[fr:Roi Garou]]
+[[ru:Король-Варг]]
+[[uk:Варг Король]]

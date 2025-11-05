@@ -1,0 +1,38 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Martell
+| Image        = Wyl Pin.png
+| Type         = Castle
+| Status       = 
+| Location     = [[Dorne]], [[Westeros]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Wyl'''{{Guideref|Map of Westeros}} is a castle in [[Dorne]], the region of [[Westeros]] controlled by [[House Martell]] of [[Sunspear]]. The castle is located south-west of [[Storm's End]] and is the northern-most castle to hold fealty to Sunspear.
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Wyl is the seat of House Wyl. It is located near the northern end of the [[Boneway]]. House Wyl has tunneled beneath their castle to link caverns for greater defense.
+
+==Appearances==
+*{{GOT|Dragonstone}} {{Map}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Wyl (castle)}}
+
+<!--Navboxes-->
+{{Dorne}}
+
+<!--Categories-->
+[[Category:Castles of Dorne]]
+
+<!--Languages-->
+[[ru:Виль]]

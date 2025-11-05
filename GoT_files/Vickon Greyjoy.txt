@@ -1,0 +1,68 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Greyjoy.svg
+| Link  = House Greyjoy
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Greyjoy
+| Image       = Vickon greyjoy.jpg
+| Birth       = [[Pyke]], the [[Iron Islands]]
+| Death       = 
+| House       = [[House Greyjoy|Greyjoy]]
+| Affiliation = [[House Hoare]]<br>[[House Targaryen]]
+| Titles      = [[Lord of the Iron Islands]]<br>[[King of Salt and Rock]]<br>[[Son of the Sea Wind]]<br>[[Lord Reaper of Pyke]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Ironborn]]
+| Religion    = [[Drowned God]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = {[[Goren Greyjoy]]}
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|After Aegon and his dragons burned our last king, Harren the Black, and broke our armies, the defeated Ironborn chose my ancestor, Vickon Greyjoy, as Lord of the Iron Islands, not king.|[[Euron Greyjoy]]|The Kingsmoot}}
+Lord '''Vickon Greyjoy''' was the head of [[House Greyjoy]] and the [[Lord Reaper of Pyke]] during the reign of King [[Harren Hoare|Harren the Black]] of [[House Hoare]].
+
+==Biography==
+After Harren and his line were burned alive by [[Aegon I Targaryen|Aegon the Conqueror]] and his [[Balerion|dragon inside]] his castle of [[Harrenhal]] during [[Aegon's Conquest|his conquest]], the [[Ironborn]] were expelled from the [[Riverlands]] back to the [[Iron Islands]]. In exchange for their allegiance, Aegon allowed the Ironborn to choose their new leader. They chose Vickon Greyjoy: his House was one of the most prominent in the Isles, claiming descent from the legendary [[Grey King]]. However, he was made Lord of the Iron Islands, not a King. Because of this, the [[kingsmoot]] continued to just crown Vickon's descendants as their leader.{{Ref|H&L209}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Vickon Greyjoy's story is the same.
+
+==Appearances==
+*{{H&L|House Greyjoy}} {{Illustrated}}
+*{{H&L|The Kingsmoot}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Greyjoy}}
+
+<!--Categories-->
+{{DEFAULTSORT:Greyjoy, Vickon}}
+[[Category:Bannermen of House Targaryen]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Ironborn]]
+[[Category:Lords of the Iron Islands|Vickon Greyjoy]]
+[[Category:Lords Reaper of Pyke|Vickon Greyjoy]]
+[[Category:Members of House Greyjoy|Vickon Greyjoy]]
+
+<!--Languages-->
+[[de:Vickon Graufreud]]
+[[fr:Vickon Greyjoy]]
+[[ru:Викон Грейджой]]

@@ -1,0 +1,30 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Tracey-Anne Lilles.jpg
+| Birth   = 
+| Death   = 
+| Role    = Goodwife
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]]
+| Credits = "[[Regent (episode)|Regent]]"
+| First   = 
+| Last    = 
+}}
+'''Tracey-Anne Lilles''' is a British actress, producer, and director.
+
+Lilles plays a goodwife in the [[House of the Dragon: Season 2|second season]] of ''[[House of the Dragon]]''.<ref>https://twitter.com/RedanianIntel/status/1690599207046975488</ref>
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 2|||||yes}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb|#=3077654}}
+
+<!--Categories-->
+{{DEFAULTSORT:Lilles, Tracey-Anne}}
+[[Category:Co-starring cast members of House of the Dragon]]

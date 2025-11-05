@@ -1,0 +1,58 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Free
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Lys]]ene{{Con|ASOIAF}}
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = [[Lynesse Hightower (daughter of Leyton)|Lynesse Hightower]]{{Ref|GOT104}}
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Dialogue a-b-a|Jorah Mormont|I had no money and an expensive wife.|Daenerys Targaryen|And where is she now?|In another place, with another man.|[[Jorah Mormont]] mentions the whereabouts of his estranged wife|Cripples, Bastards, and Broken Things}}
+'''Tregar Ormollen'''{{Con|ASOIAF}} is a [[Lys]]ene merchant lord. [[Lynesse Hightower (daughter of Leyton)|Lynesse Hightower]], the estranged wife of [[Jorah Mormont]], is his concubine.{{Ref|GOT104}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Tregar Ormollen's backstory is the same. He shares his manse in Lys with Lynesse Hightower, one of his many concubines- but even his lawful wife fears her.{{Bookref|ACOK|12}}
+
+In ''A Dance with Dragons'', Jorah tells [[Tyrion Lannister|Tyrion]] that Tregar threatened to enslave him for debt, unless he gave Lynesse up and left the city; Jorah had no choice but to comply.{{Bookref|ADWD|27}}
+
+==Appearances==
+*{{GOT|Cripples, Bastards, and Broken Things}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+{{DEFAULTSORT:Ormollen, Tregar}}
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Lyseni]]
+[[Category:Merchants]]
+
+<!--Languages-->
+[[ru:Трегар Ормоллен]]

@@ -1,0 +1,68 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Stark
+| Image       = Season one Varly.jpg
+| Birth       = 
+| Death       = [[298 AC]]{{Dateref|Game of Thrones: Season 1}}<br>[[Throne room]], [[King's Landing]]{{Ref|GOT107}}
+| House       = 
+| Affiliation = [[House Stark]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Northmen|Northern]]
+| Religion    = [[Old Gods]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 1|1]]
+| Appearances = "[[You Win or You Die]]"
+| First       = 
+| Last        = 
+| DeathEp     = "You Win or You Die"
+| Actor       = [[Graham Charles]]
+}}
+{{Quote|Stop!|Varly to the [[Royal Steward]]|You Win or You Die}}
+'''Varly'''{{Con|ASOIAF}} was a guardsman sworn to [[House Stark]].
+
+==Biography==
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+Varly accompanies [[Eddard Stark]] south when he becomes the [[Hand of the King]]. He warns the [[Royal Steward]] to stay back when he surprises them in the corridor. He accompanies Eddard to the throne room to confront [[Joffrey Baratheon]]. He is killed by men of the [[City Watch of King's Landing|City Watch]] when they [[Massacre in the Red Keep|betray]] Eddard.{{Ref|GOT107}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Varly is a guardsman sworn to House Stark. He is killed by [[Janos Slynt]] during the [[Massacre in the Red Keep]] as his fellow guards are massacred by the Gold Cloaks.
+
+==Appearances==
+*{{GOT|You Win or You Die}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Stark}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Men-at-arms]]
+[[Category:Northmen]]
+[[Category:Servants and retainers of House Stark]]
+[[Category:Smallfolk]]
+
+<!--Languages-->
+[[de:Varly]]
+[[fr:Varly]]
+[[ro:Varly]]
+[[ru:Варли]]
+[[zh:瓦利]]

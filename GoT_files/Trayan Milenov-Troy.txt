@@ -1,0 +1,37 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Kingdoms
+| Image   = Trayan Milenov-Troy.jpg
+| Birth   = 
+| Death   = 
+| Role    = Stunt performer<br>Fight coordinator
+| Series  = ''[[Game of Thrones]]''<br>''[[A Knight of the Seven Kingdoms]]''
+| Season  = ''Game of Thrones'':<br>[[Game of Thrones: Season 5|5]] {{*}} [[Game of Thrones: Season 7|7]]<br>''A Knight of the Seven Kingdoms'':<br>[[A Knight of the Seven Kingdoms: Season 1|1]]
+| Credits = 8 episodes {{Below|Credits}}
+| First   = "[[Hardhome (episode)|Hardhome]]"
+| Last    = 
+}}
+'''Trayan Milenov-Troy''' is a stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 5|fifth season]] episodes "[[Hardhome (episode)|Hardhome]]" and "[[The Dance of Dragons (episode)|The Dance of Dragons]]," and the [[Game of Thrones: Season 7|seventh season]] episodes "[[Stormborn]]," "[[The Queen's Justice]]," "[[The Spoils of War]]," "[[Eastwatch]]," "[[Beyond the Wall (episode)|Beyond the Wall]]," and "[[The Dragon and the Wolf]]."
+
+In ''[[A Knight of the Seven Kingdoms]]'', he was a fight coordinator in upcoming episodes.
+
+==Credits==
+===''[[Game of Thrones]]''===
+{{Game of Thrones: Season 5||||||||yes|yes}}
+{{Game of Thrones: Season 7||yes|yes|yes|yes|yes|yes}}
+
+===''[[A Knight of the Seven Kingdoms]]''===
+{{A Knight of the Seven Kingdoms: Season 1}}
+
+==External links==
+*{{IMDb|# = 1241852}}
+*{{Instagram|# = troystunt}}
+*{{Vimeo|# = user14539278}}
+*{{YouTube|# = channel/UCYulxX6q0SEsKuiFlyYs6ug}}
+
+<!--Categories-->
+{{DEFAULTSORT:Milenov-Troy, Trayan}}
+[[Category:Stunt performers of A Knight of the Seven Kingdoms]]
+[[Category:Stunt performers of Game of Thrones]]

@@ -1,0 +1,70 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = House Targaryen.svg
+| Link  = House Targaryen/House of the Dragon
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Targaryen
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = [[House Targaryen/House of the Dragon|Targaryen]]{{Guideref|Jaehaerys I Targaryen}}
+| Affiliation = 
+| Titles      = [[Prince]]ss
+| AKA         = 
+| Culture     = [[Valyrians|Valyrian]]
+| Religion    = 
+| Father      = {[[Jaehaerys I Targaryen]]}{{Guideref|Jaehaerys I Targaryen}}
+| Mother      = {[[Alysanne Targaryen]]}{{Guideref|Jaehaerys I Targaryen}}
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|King Jaehaerys ruled over half a century of peace while his children drove him to the edge of madness... his daughters, in particular.|[[Lyonel Strong]]|Second of His Name}}
+Princess '''Viserra Targaryen'''{{Con|F&B}} was the tenth child of King [[Jaehaerys I Targaryen|Jaehaerys I]] and Good Queen [[Alysanne Targaryen|Alysanne]].{{Guideref|Jaehaerys I Targaryen}}
+
+==Family==
+{{Targaryen tree (House of the Dragon)}}
+
+==In the books==
+In ''[[Fire & Blood]]'', Viserra was born in 71 AC. She was said to be the most beautiful of Jaehaerys and Alysanne's daughters. She was vain, high-spirited, and sly.
+
+In 86 AC she was betrothed to Theomore Manderly, the Lord of White Harbor. To break the betrothal, and to potentially become queen, she attempted to seduce her older brother [[Baelon Targaryen (son of Jaehaerys I)|Baelon]], who promptly sent her away.
+
+In 87 AC, shortly before she was to leave for White Harbor, she escaped for "one last night of laughter" with a group of [[Lordship|lordlings]] and [[Knighthood|knights]]. They competed in a drunken horse race back to the [[Red Keep]], and Viserra collided with the horse of one of her friends, throwing her from her saddle into a wall and breaking her neck.
+
+==Appearances==
+*{{HOTD|Second of His Name}} {{Indirect}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Targaryen/House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Targaryen, Viserra}}
+[[Category:Crownlanders]]
+[[Category:Individuals mentioned in House of the Dragon]]
+[[Category:Members of House Targaryen|Viserra Targaryen]]
+[[Category:Princesses]]
+
+<!--Languages-->
+[[ru:Визерра Таргариен]]

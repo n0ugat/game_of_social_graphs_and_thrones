@@ -1,0 +1,88 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Lannister.svg
+| Link  = House Lannister
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Lannister
+| Image       = Willem-3x05.jpg
+| Birth       = [[286 AC]]{{Dateref|Willem Lannister}}<br>[[Casterly Rock]]
+| Death       = [[300 AC]]{{Dateref|Game of Thrones: Season 3}} (aged 14)<br>[[Riverrun]]
+| House       = [[House Lannister|Lannister]]
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Westerlands|Westermen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = {[[Kevan Lannister]]}
+| Mother      = [[Dorna Lannister|Dorna Swyft]]
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = {[[Lancel Lannister]]}<br>{[[Martyn Lannister]]}<br>[[Janei Lannister]]
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 3|3]]
+| Appearances = 2 episodes {{Below|Appearances}}
+| First       = "[[Walk of Punishment (episode)|Walk of Punishment]]"
+| Last        = "[[Kissed by Fire]]"
+| DeathEp     = "Kissed by Fire"
+| Actor       = [[Timothy Gibbons]]
+}}
+{{Quote|Is this a rescue?|Willem Lannister to [[Rickard Karstark]]|Kissed by Fire}}
+'''Willem Lannister''', along with his brother [[Martyn Lannister|Martyn]], was a [[squire]] in the Lannister army. Both were younger sons of [[Kevan Lannister]], and younger brothers of [[Lancel Lannister|Lancel]].
+
+==Biography==
+===[[Game of Thrones: Season 3|''Game of Thrones'': Season 3]]===
+Willem and his brother Martyn are captured by the forces of [[House Tully]] led by [[Edmure Tully]] at the [[Battle of the Fords]]. The two are kept as [[hostage]]s at [[Riverrun]].{{Ref|GOT303}}
+
+After [[Robb Stark|Robb]] visits Riverrun to attend [[Hoster Tully|his grandfather]]'s funeral, Willem and Martyn are visited in their cell by [[Talisa Stark|Talisa]], who tends to Martyn's wounded hand. Willem looks on in silence while Martyn asks if the tales told among the Lannisters about Robb turning into a wolf at night or devouring his enemies are true. Earlier, Robb criticizes Edmure for the Battle of the Stone Mill and concludes that Willem and Martyn are not valuable enough to exchange for [[Sansa Stark|his]] [[Arya Stark|sisters]].{{Ref|GOT303}}
+
+Martyn and Willem are later murdered inside their cells by [[Rickard Karstark]] and five other men, in retribution for the death of his [[Torrhen Karstark|son]] by [[Jaime Lannister|Jaime]].{{Ref|GOT305}}
+
+==Quotes==
+===Spoken about Willem===
+{{Dialogue a-b-a-b|Robb Stark|[[Tywin Lannister]] has my sisters. Have I sued for peace?|Edmure Tully|No.|Do you think ''he'll'' sue for peace because we have his...[[Tytos Lannister|father's]] brother's great-grandsons?|No.|[[Robb Stark]] dismisses Martyn and Willem's value as hostages.|Walk of Punishment (episode)}}
+{{Dialogue a-b-a-b-a|Robb Stark|It took five of you to murder two unarmed [[Squire|squires]].|Rickard Karstark|Not murder, your grace. Vengeance.|Vengeance? Those boys didn't kill your sons. I saw [[Harrion Karstark|Harrion]] die on the battlefield and [[Torrhen Karstark|Torrhen]]...|Was strangled by [[Jaime Lannister|the Kingslayer]]. They were his kin.|They were BOYS!|[[Rickard Karstark]]'s unsuccessful justification for murdering Willem and [[Martyn Lannister]]|Kissed by Fire}}
+
+==Family==
+{{Lannister tree}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Willem and Martyn are the twin sons of Kevan, and younger brothers of Lancel.
+
+Willem and his cousin Tion Frey (son of [[Genna Lannister]] and Emmon Frey) are captured at the [[Battle of Whispering Wood|battle in the Whispering Wood]] (while Martyn is captured at the [[Battle of Oxcross]]).{{Bookref|AGOT|63}} Later, Willem and Tion are killed by Rickard Karstark.{{Bookref|ASOS|20}}
+
+==Appearances==
+*{{GOT|Walk of Punishment}}
+*{{GOT|Kissed by Fire}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Lannister}}
+
+<!--Categories-->
+{{DEFAULTSORT:Lannister, Willem}}
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Members of House Lannister|Willem Lannister]]
+[[Category:Squires]]
+[[Category:Westermen]]
+
+<!--Languages-->
+[[de:Willem Lennister]]
+[[es:Willem Lannister]]
+[[fr:Willem Lannister]]
+[[nl:Willem Lannister]]
+[[pl:Willem Lannister]]
+[[ru:Уиллем Ланнистер]]
+[[zh:威廉·兰尼斯特]]

@@ -1,0 +1,57 @@
+{{DISPLAYTITLE:White Walker 1 {{C|Beyond the Wall}}}}
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Character
+| Title       = White Walker
+| Type        = Walker
+| Image       = White Walker 1 Beyond the Wall.png
+| Birth       = 
+| Death       = [[304 AC]]{{Dateref|Game of Thrones: Season 7}}<br>[[Beyond the Wall]]{{Ref|GOT706}}
+| House       = 
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[White Walkers]]
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 7|7]]
+| Appearances = "[[Beyond the Wall (episode)|Beyond the Wall]]"
+| First       = 
+| Last        = 
+| DeathEp     = "Beyond the Wall"
+| Actor       = 
+}}
+{{Dialogue a-b|Jorah Mormont|When you killed the White Walker, almost all the dead that followed it fell. Why? |Jon Snow|Maybe he was the one who turned them.|[[Jorah Mormont]] and [[Jon Snow]] discuss the White Walker|Beyond the Wall (episode)}}
+This '''White Walker''' was leading a group of [[wight]]s when they were attacked by a group led by [[Jon Snow]], who killed him in the skirmish.
+
+==Biography==
+===[[Game of Thrones: Season 7|''Game of Thrones'': Season 7]]===
+The White Walker leads a group of [[wight]]s and becomes distracted when he notices a nearby campfire. His group is then ambushed by a group consisting of [[Jon Snow]], [[Tormund]], [[Jorah Mormont]], [[Sandor Clegane]], [[Beric Dondarrion]], [[Thoros]], [[Gendry Baratheon|Gendry]] and several [[Free Folk|wildlings]]. During the ensuing fight he battles against Jon, who kills him with his [[Valyrian steel]] sword [[Longclaw]], causing all but [[Captured wight|one]] of the remaining wights from his group to be destroyed.{{Ref|GOT706}}
+
+==Appearances==
+*{{GOT|Beyond the Wall}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|Others}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:White Walkers]]
+
+<!--Languages-->
+[[de:Weißer Wanderer (Jenseits der Mauer)]]
+[[ru:Белый ходок 1 (За Стеной)]]

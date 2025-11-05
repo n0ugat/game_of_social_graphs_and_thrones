@@ -1,0 +1,58 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Tully
+| Image       = 608 Tully Bannerman.png
+| Birth       = In the [[Riverlands]]
+| Death       = 
+| House       = 
+| Affiliation = [[House Tully]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Riverlands|Rivermen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 6|6]]
+| Appearances = "[[No One]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Sam Redford]]
+}}
+{{Dialogue a-b|Brynden Tully|I'll have your head before I surrender Riverrun.|Tully bannerman|You are not lord of this castle, my lord.|The bannerman defies [[Brynden Tully]] and allows [[Edmure Tully]] to enter Riverrun.|No One}}
+A '''Tully bannerman''' is in service to [[House Tully]].
+
+==Biography==
+===Background===
+He is a bannerman in service to [[House Tully]] and is with [[Brynden Tully]]'s forces which have retaken [[Riverrun]].{{Ref|GOT608}}
+
+===[[Game of Thrones: Season 6|''Game of Thrones'': Season 6]]===
+When Lord [[Edmure Tully]] comes to the drawbridge and demands entry, the Tully bannerman is inclined to obey. The Blackfish orders him not to lower the drawbridge since Edmure is [[Jaime Lannister|Jaime Lannister's]] hostage and this must be a ruse. The bannerman debates the matter with the Blackfish and then reminds him that he is not [[Lord of Riverrun]]. The Blackfish silently concedes and the bannerman orders the drawbridge lowered.{{Ref|GOT608}}
+
+After Edmure enters the castle, he orders the bannerman to oversee the surrender of weapons and the entry of the Frey and Lannister forces, as well as the arrest of the Blackfish. The bannerman looks at his lord in disbelief but does as commanded.{{Ref|GOT608}}
+
+==Appearances==
+*{{GOT|No One}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House Tully}}
+
+<!--Categories-->
+[[Category:Bannermen of House Tully]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Rivermen]]
+
+<!--Languages-->
+[[ru:Командир Талли (Никто)]]

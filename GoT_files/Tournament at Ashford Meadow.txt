@@ -1,0 +1,54 @@
+{{Canonicity|Canon}}
+{{Spoiler|AKOTSK}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Kingdoms
+| Part          = 
+| Image         = 
+| Previous      = [[Blackfyre Rebellion]]
+| Concurrent    = 
+| Next          = [[War of the Ninepenny Kings]]
+| Date          = [[209 AC]]{{Dateref|A Knight of the Seven Kingdoms: Season 1}}
+| Place         = [[Ashford Meadow]]{{Webref|name=GRRM |author=George R.R. Martin |date=April 14, 2023 |url=https://georgerrmartin.com/notablog/2023/04/14/a-knight-and-a-squire/ |title=A Knight and a Squire |website=Not a Blog |access-date= April 14, 2023}}
+| Outcome       = 
+| Factions1     = 
+| Factions2     = 
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = 
+| Leaders2      = 
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = 
+| Participants2 = 
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = 
+| Casualties2   = 
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+A '''tournament at Ashford Meadow'''<ref name="GRRM" /> was where Ser [[Duncan the Tall]] met a boy named [[Egg]] in [[209 AC]].
+
+==In the books==
+In the [[Dunk & Egg novellas]], the tourney at [[Ashford Meadow]] is depicted in ''[[The Hedge Knight (novella)|The Hedge Knight]]''.
+
+==Appearances==
+===Forthcoming===
+{{Collapse|
+*{{AKOTSK|Season 1}}<ref name="GRRM" /> {{Unreleased}}
+}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|Tourney at Ashford Meadow}} {{Spoilers|AKOTSK}}
+
+<!--Categories-->
+[[Category:209 AC]]
+[[Category:Tournaments|Ashford Meadow]]

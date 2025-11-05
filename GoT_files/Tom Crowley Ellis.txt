@@ -1,0 +1,29 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Tom Crowley Ellis.jpg
+| Birth   = 
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]] {{*}} [[House of the Dragon: Season 2|2]]
+| Credits = 4 episodes {{Below|Credits}}
+| First   = "[[Second of His Name]]"
+| Last    = 
+}}
+'''Thomas Crowley-Ellis''' is a stuntman.
+
+In ''[[House of the Dragon]]'', he was a stunt performer in the [[House of the Dragon: Season 1|first season]] episode "[[Second of His Name]]", "[[We Light the Way]]" and "[[The Green Council]]" and the [[House of the Dragon: Season 2|second season]] episode "[[Rhaenyra the Cruel]]".
+
+==Credits==
+===Stunts===
+{{House of the Dragon: Season 1|||yes||yes||||yes}}
+{{House of the Dragon: Season 2||yes}}
+
+==See also==
+*{{IMDb
+|# = 11004743}}
+*{{YouTube
+|# = channel/UC-cmp1SHIyZnz8uLYu9KqRg}}
+{{DEFAULTSORT:Crowley Ellis, Tom}}
+[[Category:Stunt performers of House of the Dragon]]

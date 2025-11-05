@@ -1,0 +1,26 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Kingdoms
+| Image   = Tom Vaughan-Lawlor.jpg
+| Birth   = November 4, 1977 {{Age|1977|11|4}}<br>Dundrum, Dublin, Ireland
+| Death   = 
+| Role    = [[Plummer]]
+| Series  = ''[[A Knight of the Seven Kingdoms]]''
+| Season  = [[A Knight of the Seven Kingdoms: Season 1|1]]
+| First   = 
+| Last    = 
+}}
+'''Tom Vaughan-Lawlor''' (born November 4, 1977) is an Irish actor.
+
+In ''[[A Knight of the Seven Kingdoms]]'', Vaughan-Lawlor portrays [[Plummer]].
+
+==Credits==
+{{A Knight of the Seven Kingdoms: Season 1}}
+
+==External links==
+*{{WP}}
+*{{IMDb|#=2534167}}
+
+<!--Categories-->
+{{DEFAULTSORT:Vaughan-Lawlor, Tom}}
+[[Category:Cast members of unknown billing of A Knight of the Seven Kingdoms]]

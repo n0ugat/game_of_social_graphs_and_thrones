@@ -1,0 +1,68 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Stark
+| Image       = Tomard.jpg
+| Birth       = In the [[North]]
+| Death       = 
+| House       = 
+| Affiliation = [[House Stark]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Northmen|Northern]]
+| Religion    = [[Old Gods]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 1|1]]
+| Appearances = "[[You Win or You Die]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Phil Dixon]]
+}}
+{{Dialogue a-b|Eddard Stark|You will sail to Dragonstone tonight. You will place this in the hand of Stannis Baratheon. Not his steward, not his captain of the guard, and not his wife. Only Stannis himself.|Tomard|Yes, my lord.|Eddard Stark and Tomard|You Win or You Die}}
+'''Tomard'''{{Con|ASOIAF}} is a [[Man-at-arms|guardsman]] sworn to [[House Stark]].
+
+==Biography==
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+He accompanies [[Eddard Stark]] south to [[King's Landing]] when he becomes [[Hand of the King]], and is usually seen guarding him with [[Jory Cassel]]. He is with Eddard when [[Renly Baratheon]] brings news of [[Robert Baratheon]]'s hunting injury. Eddard instructs Tomard to hand deliver a letter to [[Stannis Baratheon]]. Tomard is not present when Eddard and the majority of his guard are killed.{{Ref|GOT107}} He escapes from the capital and successfully delivers the letter, thus he is one of very few (if any) of the Stark household to have survived the [[Massacre in the Red Keep]].{{Ref|GOT201}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Tomard is nicknamed Fat Tom. He is easily fooled and prone to stating the obvious. He becomes the Captain of [[Eddard Stark]]'s personal guard, following the death of [[Jory Cassel]] and the departure of Jory's replacement Alyn with Lord [[Beric Dondarrion]]. 
+
+As in the show, Tomard is entrusted to deliver a letter to [[Stannis Baratheon]], but is explicitly told to do so during a sea journey North with Eddard's daughters. Unlike in the show, [[Massacre in the Red Keep|he is killed along with the majority of the guards]] when Eddard is betrayed by [[Petyr Baelish|Littlefinger]] in the Throne Room. The letter is taken from his body, and later presented to [[Sansa Stark]] as an "evidence" to her father's alleged treason.
+
+==Appearances==
+*{{GOT|You Win or You Die}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Stark}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Men-at-arms]]
+[[Category:Northmen]]
+[[Category:Servants and retainers of House Stark]]
+[[Category:Smallfolk]]
+
+<!--Languages-->
+[[fr:Tomard]]
+[[ru:Томард]]
+[[zh:托马德]]

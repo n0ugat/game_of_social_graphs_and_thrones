@@ -1,0 +1,40 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Martell
+| Image        = Vulture's Roost Pin.png
+| Type         = Castle
+| Status       = 
+| Location     = [[Dorne]], [[Westeros]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = 
+| Places       = 
+| Founded      = 
+}}
+'''Vulture's Roost'''{{Guideref|Map of Westeros}} is a ruined castle in [[Dorne]], the region controlled by [[House Martell]] of [[Sunspear]]. The castle is located in the north-west of Dorne on the border with the [[Stormlands]]. It is located east of [[Nightsong]] and west of [[Wyl]], within the [[Red Mountains]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Vulture's Roost is in the same location, near the source of the Wyl river, deep in the Red Mountains. The name of the house that owned the castle has not been given.
+
+==Appearances==
+*{{GOT|Dragonstone}} {{Map}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Dorne}}
+
+<!--Categories-->
+[[Category:Castles of Dorne]]
+[[Category:Ruins]]
+
+<!--Languages-->
+[[ru:Насест Стервятника]]
+[[zh:鹰穴堡]]

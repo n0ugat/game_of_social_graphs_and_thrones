@@ -1,0 +1,41 @@
+{{Canonicity|Canon}}
+{{ConjectureInfo}}
+{{Species
+| Title   = {{PAGENAME}}
+| Theme   = Westeros
+| Image   = 
+| Type    = Reptile
+| Status  = Extant
+| Diet    = Obligate carnivore
+| Habitat = Jungles and swamps
+| Range   = [[Wyvern Point]], [[Sothoryos]]
+| Origin  = 
+}}
+'''Wyverns'''<ref>[[:File:HotD Far East Map.jpg]]</ref> are a species of animal inhabiting [[Wyvern Point]] in [[Sothoryos]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, wyverns are predatory winged reptiles related to [[dragon]]s and wyrms. Although they do not breathe fire and are on average smaller than dragons, they are much more aggressive. Called the "tyrants of the southern skies," wyverns are known to hunt above the swamps and jungles of the eponymous Wyvern Point and beyond in Sothoryos. Septon [[Barth]] speculated in his book ''Dragons, Wyrms, and Wyverns: Their Unnatural History'' that the [[Bloodmagic|bloodmages]] of the [[Valyrian Freehold]] used wyverns to create dragons.{{Bookref|TWOI&F|8|3|4}}
+
+In 56 AC, when Aerea Targaryen and the dragon [[Balerion]] had been missing for two years, Lord Rego Draz reported to the [[Small Council|small council]] that a dragon had been displayed in the [[fighting pit]]s of [[Astapor]]. Septon Barth declared that it was a wyvern, easily passed off as a dragon to audiences that had never seen a dragon before.{{Bookref|F&B|10}}
+
+===Known species===
+*Brindled wyverns, marked by their green and white scales. They may grow up to thirty feet in length.{{Bookref|TWOI&F|8|3|4}}
+*Brownbellies, arguably the most dangerous species of wyvern. They are no larger than monkeys, but hunt in packs of hundreds.{{Bookref|TWOI&F|8|3|4}}
+*Shadow-wings, the most feared species of wyvern, as their night black scales and wings make them invisible in the dark.{{Bookref|TWOI&F|8|3|4}}
+*Swamp wyverns, a more reclusive species. They are able to grow larger than brindled wyverns.{{Bookref|TWOI&F|8|3|4}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+*{{WP}}
+
+<!--Navboxes-->
+{{Animals and plants}}
+
+<!--Categories-->
+[[Category:Animals]]
+
+<!--Languages-->
+[[fr:Vouivre]]

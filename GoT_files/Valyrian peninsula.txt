@@ -1,0 +1,70 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Region
+| Title      = {{PAGENAME}}
+| Theme      = Westeros
+| Image      = Slaver's Bay.png
+| Type       = Peninsula
+| Location   = Southern coast of central [[Essos]]
+| Geography  = North:<br>Warm Mediterranean climate
+----
+South:<br>Devastated volcanic islands
+| Population = 
+| Rulers     = [[Valyrian Freehold]] {{C|historical}}
+| Culture    = [[Valyrians|Valyrian]]
+| Religion   = [[Old Gods of Valyria]]
+| Military   = 
+| Capital    = [[Old Valyria]]
+| Castles    = 
+| Cities     = [[Elyria]] {{*}} [[Mantarys]] {{*}} [[Oros]] {{*}} [[Tolos]] {{*}} [[Tyria]]
+| Towns      = 
+| Villages   = 
+| Places     = [[Fourteen Flames]] {{*}} [[Lands of the Long Summer]] {{*}} [[Sea of Sighs]] {{*}} [[Smoking Sea]]
+| Founded    = 
+}}
+The '''Valyrian peninsula'''{{Con|TWOI&F}}{{Note|[[High Valyrian]]: ''Valyrio hygyrion''}} is a large, wide headland extending south from [[Essos]] into the [[Summer Sea]], the heartland of the now extinct [[Valyrian Freehold]] and the location of its capital city, [[Old Valyria|Valyria]]. Partially destroyed in the [[Doom of Valyria|Doom]], with many islands formed and low-lying areas flooded, becoming the [[Smoking Sea]].{{Ref|H&L108}}
+
+The Valyrian peninsula separates the [[Free Cities]] to the west from [[Slaver's Bay]] to the east. Following the Doom, it is sparsely inhabited. Only three major cities exist, all at the north end which were far away from the Doom when it struck: [[Mantarys]], [[Tolos]], and [[Elyria]].
+
+==Geography==
+[[File:Pre-Doom Valyrian Peninsula.png|thumb|The Valyrian peninsula as it was before the Doom occurred 400 years ago.]]
+[[File:Post-Doom Valyrian Peninsula.png|thumb|The Valyrian peninsula after the Doom of Valyria.]]
+The Valyrian peninsula was shattered in the Doom, caused by the cataclysmic eruption of the [[Fourteen Flames]], the chain of volcanic mountains that ringed Old Valyria. Vast amounts of land fell into the sea, with the surviving remnants becoming islands separated by water. Volcanic activity continues even four centuries after the original eruptions, with the water often turning poisonous and giving off fumes which can kill.
+
+The city of Valyria itself remains on the central island. Though ruined, it is still somewhat intact and a tempting target for looters and treasure-seekers. However, raiding the ruins is extremely hazardous and most who travel to Valyria never return.
+
+===Surrounding seas===
+*The [[Smoking Sea]] separates the islands of Valyria from the peninsula to the north.
+*The [[Summer Sea]] lies off the southern edge of the region.
+*The [[Gulf of Grief]] separates the ruins of Valyria from [[Ghiscar]] to the east.
+*[[Slaver's Bay]] lies to the north-east of the area, north of the Gulf of Grief
+*The [[Sea of Sighs]] is an inland sea in the northern part of the Valyrian peninsula.
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the Valyrian peninsula remains largely deserted.  At its northernmost end are the only three surviving colony cities:  [[Mantarys]], [[Tolos]], and [[Elyria]].  Tolos and Elyria are on the east coast (in fact Elyria is on an off-shore island), on the western shores of [[Slaver's Bay]], so after the Doom they fell into the economic and cultural orbit of the Ghiscari cities to the east such as [[Meereen]]. In the present day Tolos and Elyria are therefore thought of as more of an extension of "Slaver's Bay" than the Valyrian peninsula. Mantarys, however, is located in the interior, up in the mountains, where it has become very isolated, and gained an ill repute as a city of monsters, assassins, and poisoners. Travelers generally avoid the dangerous overland route between the Free Cities and Slaver's Bay that passes through Mantarys, known as the "Demon Road", in favor of going the long way by ship around the peninsula - making sure to put a large distance between their vessels and the mainland, as none dare sail through the Smoking Sea.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Known world}}
+{{Valyrian peninsula}}
+{{Slaver's Bay}}
+
+<!--Categories-->
+[[Category:Essos]]
+[[Category:Peninsulas]]
+[[Category:Valyrian peninsula| ]]
+
+<!--Languages-->
+[[de:Valyrische Halbinsel]]
+[[fr:Péninsule valyrienne]]
+[[pl:Półwysep Valyriański]]
+[[ru:Валирийский полуостров]]
+[[uk:Півострів Валірія]]

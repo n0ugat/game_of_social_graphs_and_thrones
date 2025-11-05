@@ -1,0 +1,60 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Order of Maesters.svg
+| Link  = Order of Maesters
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Citadel
+| Image       = Weyland.jpg
+| Birth       = 
+| Death       = [[304 AC]]{{Dateref|Game of Thrones: Season 7}}<br>The [[Citadel]], [[Oldtown]]{{Ref|GOT701}}
+| House       = 
+| Affiliation = [[Order of Maesters]]
+| Titles      = Maester
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 7|7]]
+| Appearances = "[[Dragonstone (episode)|Dragonstone]]" {{Corpse}}
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Maester Weyland. A drinker's liver if ever I saw one!|[[Ebrose]]|Dragonstone (episode)}}
+'''Weyland''' was a [[Order of Maesters|maester]] of the [[Citadel]].
+
+==Biography==
+===[[Game of Thrones: Season 7|''Game of Thrones'': Season 7]]===
+Weyland's body was examined following his death by [[Archmaester]] [[Ebrose]] and [[Samwell Tarly]], who removed his organs for inspection. Ebrose suspected that Weyland's excessive drinking had been the cause of his death.{{Ref|GOT701}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no character named Weyland.
+
+==Appearances==
+*{{GOT|Dragonstone}} {{Corpse}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Maesters]]
+[[Category:Westerosi]]
+
+<!--Languages-->
+[[fr:Weyland]]
+[[ru:Вейланд]]

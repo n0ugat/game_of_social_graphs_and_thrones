@@ -1,0 +1,29 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Tom Cullen.jpg
+| Birth   = Thomas Cullen<br>17 July, 1985 {{Age|1985|7|17}}<br>Aberystwyth, Dyfed, Wales
+| Death   = 
+| Role    = [[Luthor Largent]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 3|3]]
+| Credits = 
+| First   = 
+| Last    = 
+}}
+'''Thomas Cullen''' is a Welsh actor and director. He has appeared in films such as ''{{WPS|Castle in the Ground}}'', ''{{WPS|Barbarians (2021 film)|Barbarians}}'' and ''{{WPS|My Happy Ending (film)|My Happy Ending}}'' and television series such as ''{{WPS|Black Mirror}}'', ''{{WPS|Downton Abbey}}'', ''{{WPS|Orphan Black}}'', ''{{WPS|Gunpowder (TV series)|Gunpowder}}'', ''{{WPS|Genius (American TV series)|Genius}}'' and ''{{WPS|Becoming Elizabeth}}''.
+
+In ''[[House of the Dragon]]'', he will portray [[Luthor Largent]] in the [[House of the Dragon: Season 3|third season]].{{Webref|name=Deadline |author=Lynette Rice |date=April 23, 2025 |url=https://deadline.com/2025/04/house-of-the-dragon-casts-tom-cullen-hoplin-sibtain-barry-sloan-season-3-1236374920/ |title=‘House Of The Dragon’ Casts Tom Cullen, Joplin Sibtain & Barry Sloane For Season 3 |website=Deadline |access-date=April 23, 2025 }}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{WP|Tom Cullen}}
+*{{IMDb|#=3665787}}
+*{{Twitter|tom_cullen}}
+*{{Instagram|#=tom_cullen}}
+
+<!--Categories-->
+{{DEFAULTSORT:Cullen, Tom}}
+[[Category:Cast members of unknown billing of House of the Dragon]]

@@ -1,0 +1,61 @@
+{{Canonicity|Non}}
+{{Heraldry
+| Leftimage  = House Dunn.svg
+| Leftlink   = House Dunn
+| Rightimage = Night's Watch.svg
+| Rightlink  = Night's Watch
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = 
+| Birth       = 
+| Death       = [[302 AC]]{{Dateref|Game of Thrones: Season 5}} at [[Hardhome]]<br>Died in the [[Massacre at Hardhome]]
+| House       = [[House Dunn|Dunn]]
+| Affiliation = [[Night's Watch]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Andals|Andal]]
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Tom Dunn''' was a member of the [[Night's Watch]].
+
+==Biography==
+Tom was among the Night's Watchmen who didn't escape the [[Massacre at Hardhome]].{{Scriptref|GOT510}}
+
+==Behind the scenes==
+Tom is mentioned in the script for "[[Mother's Mercy]]."{{Scriptref|GOT510}} In the filmed version, the line mentioning him is cut.{{Ref|GOT510}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no character named Tom Dunn. No members of [[House Dunn]] have appeared or been mentioned as of ''A Dance with Dragons''.
+
+==Appearances==
+*{{GOT|Mother's Mercy}} {{Scriptm}} {{Ncm}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Categories-->
+{{DEFAULTSORT:Dunn, Tom}}
+[[Category:Individuals from Game of Thrones]]
+[[Category:Individuals from the Reach]]
+[[Category:Members of House Dunn|Tom Dunn]]
+[[Category:Men of the Night's Watch]]

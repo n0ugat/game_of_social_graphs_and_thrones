@@ -1,0 +1,64 @@
+{{Canonicity|Non}}
+{{Heraldry
+| Leftimage  = House Royce.svg
+| Leftlink   = House Royce
+| Rightimage = Night's Watch.svg
+| Rightlink  = Night's Watch
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = House Royce lineage.jpeg
+| Birth       = [[205 AC]]{{Dateref|Wayrick Royce}}{{Dateref|Game of Thrones: Season 8}}<br>[[Runestone]], the [[Vale of Arryn]]<ref name="s1prop">''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]'' prop from Season 1</ref>
+| Death       = 
+| House       = [[House Royce|Royce]]
+| Affiliation = [[Night's Watch]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Vale of Arryn|Valemen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = {[[Donal Royce]]}
+| Mother      = {[[Priscilla Royce]]}
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Wayrick Royce''' was a member of [[House Royce]] and a brother of the [[Night's Watch]].
+
+==Biography==
+Wayrick Royce was the secondborn son of [[Donal Royce]] and [[Priscilla Royce]]. At the age of eighteen, he joined the [[Night's Watch]].<ref name = "s1prop"/>
+
+==Behind the scenes==
+Wayrick Royce is mentioned in the section on House Royce in the Season 1 prop for ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]''. The section on House Royce never appears on-screen in the TV series, as its planned appearance, where [[Eddard Stark]] would have read from it, was cut.
+
+==In the books==
+Wayrick Royce is referenced only in the TV adaptation of ''[[A Song of Ice and Fire]]'' and has no corresponding counterpart in the books.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{House Royce}}
+
+<!--Categories-->
+{{DEFAULTSORT:Royce, Wayrick}}
+[[Category:Individuals from Game of Thrones]]
+[[Category:Members of House Royce|Wayrick Royce]]
+[[Category:Men of the Night's Watch]]
+[[Category:Valemen]]
+
+<!--Languages-->
+[[ru:Уэйрик Ройс]]

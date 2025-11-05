@@ -1,0 +1,58 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Targaryen.svg
+| Link  = House Targaryen/House of the Dragon
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Targaryen
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = [[House Targaryen/House of the Dragon|Targaryen]]
+| Affiliation = 
+| Titles      = [[Prince]]ss
+| AKA         = 
+| Culture     = [[Valyrians|Valyrian]]
+| Religion    = 
+| Father      = {[[Aenys Targaryen|Aenys I Targaryen]]}
+| Mother      = {[[Alyssa Velaryon]]}
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = {[[Rhaena Targaryen (daughter of Aenys)|Rhaena Targaryen]]}<br>{[[Aegon Targaryen (son of Aenys)|Aegon Targaryen]]}<br>{[[Jaehaerys I Targaryen]]}<br>{[[Alysanne Targaryen]]}<br>{[[Viserys Targaryen (son of Aenys)|Viserys Targaryen]]}
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+Princess '''Vaella Targaryen''' was a daughter of King [[Aenys Targaryen|Aenys I Targaryen]] and Queen [[Alyssa Velaryon]].{{Ref|THTDB202}}
+
+==Family==
+{{Targaryen tree (Aegon's Conquest)}}
+
+==In the books==
+In ''[[Fire & Blood]]'', Vaella was the youngest child of Aenys and Alyssa. She was born in 39 AC and died in the cradle.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Vaella Targaryen (daughter of Aenys I)}}
+
+<!--Navboxes-->
+{{House Targaryen/House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Targaryen, Vaella}}
+[[Category:Crownlanders]]
+[[Category:Individuals from House of the Dragon]]
+[[Category:Members of House Targaryen|Vaella Targaryen]]
+[[Category:Princesses]]
+
+<!--Languages-->
+[[pl:Vaella Targaryen (córka Aenysa I)]]
+[[uk:Вейела Тарґеріен]]

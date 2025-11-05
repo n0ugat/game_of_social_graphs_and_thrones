@@ -1,0 +1,77 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = House Mooton.svg
+| Link  = House Mooton
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Tully
+| Image       = 2x7 Walys Mooton Infobox.png
+| Birth       = 
+| Death       = 
+| House       = [[House Mooton|Mooton]]<ref name="Mooton">https://twitter.com/redanianintel/status/1711344924191256843</ref>
+| Affiliation = [[House Tully/House of the Dragon|House Tully]]<br>[[Blacks]]
+| Titles      = [[Lordship|Lord]] of [[Maidenpool]]
+| AKA         = 
+| Culture     = [[Riverlands|Rivermen]]
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 2|2]]
+| Appearances = 2 episodes {{Below|Appearances}}
+| First       = "[[Regent (episode)|Regent]]"
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Turlough Convery]]<ref name="Mooton" />
+}}
+Lord '''Walys Mooton'''{{Con|F&B}} is the Lord of [[Maidenpool]] and head of [[House Mooton]] during the [[Dance of the Dragons]].<ref name="Mooton" />
+
+==Biography==
+===[[House of the Dragon: Season 2|''House of the Dragon'': Season 2]]===
+Walys Mooton and three other riverlords arrive at [[Harrenhal]] to complain to [[Daemon Targaryen|Daemon]] about the [[Raids on Bracken lands|atrocities]] performed by the [[House Blackwood|Blackwoods]] at the [[House Bracken|Brackens]]' lands. He says that punishing [[Amos Bracken|Lord Bracken]] for a treason is one thing, but not in such manner, and furiously points out "those beasts" proudly carried the banner of [[House Targaryen/House of the Dragon|House Targaryen]].{{Ref|HOTD205}}
+
+Lord Mooton is tasked by [[Rhaenyra Targaryen|Rhaenyra]] to reclaim [[Rook's Rest]] for the [[Blacks]].{{Ref|HOTD206}}
+
+After the death of Lord Grover, the riverlords are summoned once again to Harrenhal. At a meeting in the castle's [[godswood]], Lord Mooton witnesses the execution of Ser [[Willem Blackwood]].{{Ref|HOTD207}}
+
+==In the books==
+In ''[[Fire & Blood]]'', Walys had two younger brothers, the eldest of whom was his heir presumptive Manfryd.
+
+==Appearances==
+*{{HOTD|Regent}}
+*{{HOTD|Smallfolk}} {{Mentioned}}
+*{{HOTD|The Red Sowing}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{House Mooton}}
+
+<!--Categories-->
+{{DEFAULTSORT:Mooton, Walys}}
+[[Category:Bannermen of House Tully]]
+[[Category:Blacks]]
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Lords]]
+[[Category:Members of House Mooton|Walys Mooton]]
+[[Category:Rivermen]]
+
+<!--Languages-->
+[[es:Walys Mooton/House of the Dragon]]
+[[fr:Walys Monton]]
+[[pl:Walys Mooton]]
+[[ru:Уолис Мутон]]

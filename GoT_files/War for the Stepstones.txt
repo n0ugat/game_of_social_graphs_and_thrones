@@ -1,0 +1,112 @@
+{{Canonicity|Canon}}
+{{War
+| Title      = {{PAGENAME}}
+| Type       = Dragon
+| Part       = 
+| Image      = SOHN Stepstones.png
+| Previous   = [[Occupation of Dragonstone]]
+| Concurrent = [[Year of the Red Spring]]
+| Next       = [[Dance of the Dragons]]
+| Beginning  = *[[112 AC]]{{Dateref|The Heirs of the Dragon}} {{C|phase I}}
+*[[126 AC]]{{Dateref|The Princess and the Queen}} {{C|phase II}}
+| End        = *[[115 AC]]{{Dateref|Second of His Name}} {{C|phase I}}
+*[[132 AC]]{{Dateref|The Black Queen}} {{C|phase II}}
+| Place      = [[Stepstones]], [[Narrow Sea]]
+| Outcome    = *Velaryon victory {{C|phase I}}
+**The Triarchy is driven from the Stepstones
+**Death of [[Craghas Drahar]]
+**[[Daemon Targaryen]] rules as [[King of the Narrow Sea]] for a year
+*Velaryon victory {{C|phase II}}
+**House Velaryon assumes full control of the Stepstones
+| Factions1  = {{COA|House Velaryon|s}}<br>[[House Velaryon]]<br><br>{{COA|House Bar Emmon|s}}<br>[[House Bar Emmon]]<br><br>{{COA|House Celtigar|s}}<br>[[House Celtigar]]<br><br>{{COA|House Staunton|s}}<br>[[House Staunton]]<br><br>{{COA|House Sunglass|s}}<br>[[House Sunglass]]
+| Factions2  = [[Triarchy]]<br><br>{{COA|House Martell|s}}<br>[[Dorne]]<br>{{C|[[House Martell]]}}
+| Factions3  = 
+| Factions4  = 
+| Factions5  = 
+| Factions6  = 
+| Leaders1   = {{COA|House Velaryon|i}} Lord [[Corlys Velaryon]]<br>{{COA|House Velaryon|i}} Ser [[Vaemond Velaryon]]<br>{{COA|House Velaryon|i}} Ser [[Laenor Velaryon]]<br>{{COA|House Lonmouth|i}} Ser [[Joffrey Lonmouth]]<br>{{COA|Daemon Targaryen|i}} Prince [[Daemon Targaryen]]
+| Leaders2   = Prince-admiral [[Craghas Drahar]] †<br>General [[Racallio Ryndoon]]<br>{{COA|House Martell|i}} Prince [[Qoren Martell]]
+| Leaders3   = 
+| Leaders4   = 
+| Leaders5   = 
+| Leaders6   = 
+| Events     = [[Siege of Bloodstone|Bloodstone]]
+}}
+{{Quote|Four ships have now been lost. The last one was flying my banner. The Stepstones have now grown into a conflagration, yet you sit here and dither about court business.|Corlys Velaryon|The Rogue Prince}}
+The '''War for the Stepstones'''{{Guideref|Vaemond Velaryon}} was a conflict for control of the [[Stepstones]], an archipelago in the [[Narrow Sea]] between the Broken Arm of [[Dorne]] and the [[Disputed Lands]] of [[Essos]]. 
+
+In and of themselves the rocky islands are worthless, but they control the vital sea lanes passing in and out of the Narrow Sea to the east coast of [[Westeros]] and the northern [[Free Cities]]. Long infested by pirates, they were finally driven out by the [[Triarchy]] - a triple-alliance between the Free Cities of [[Myr]], [[Lys]], and [[Tyrosh]]. The Triarchy themselves, however, soon began raiding Westerosi shipping going through the Stepstones, provoking a private war with [[House Velaryon]], which possessed the largest fleet in the Seven Kingdoms.
+
+==History==
+===Prelude===
+[[File:Triarchy.png|thumb|The Triarchy is a triple-alliance between Myr, Lys, and Tyrosh. The Stepstones are the island chain between Tyrosh and [[Dorne]].]]
+In [[112 AC]],{{Dateref|The Heirs of the Dragon}} the ninth year of [[Viserys I Targaryen]]'s reign in [[Westeros]], the [[Free Cities]] of [[Lys]], [[Myr]], and [[Tyrosh]] united to form the [[Triarchy]]. The Triarchy quickly looked westward and conquered the Stepstones under the leadership of [[prince]]-admiral [[Craghas Drahar]], destroying the various pirate kingdoms that had taken form there. Although this was initially welcome news to most of the royal court in Westeros, [[Corlys Velaryon]] grew increasingly worried at the prospect of losing access to the shipping lanes through the Stepstones and being beggared as a result.{{Ref|HOTD101}}
+
+Six months later,{{Dateref|The Rogue Prince}} the situation became much worse than Corlys had anticipated: the Triarchy was now attacking Westerosi ships in the region without provocation, already sinking four ships including one of the [[Velaryon fleet]]. Corlys pressured Viserys to go to war immediately, but the king thought the realm ill-prepared for a war with the Free Cities, preferring instead to act with caution and take time to make common cause with the Triarchy's enemies in [[Pentos]] and [[Volantis]]. Without the king's leave, Corlys returned to [[Driftmark]] to prepare for an invasion of the Stepstones, inviting Prince [[Daemon Targaryen]] to join him.{{Ref|HOTD102}}
+
+===The war===
+[[File:OT Stepstones 2.png|thumb|Sailors are staked out and fed to the crabs.|left]]
+====[[Siege of Bloodstone]]====
+In [[115 AC]],{{Dateref|Second of His Name}} three years after the war began, the [[House Velaryon|Velaryon]] forces [[siege of Bloodstone|besieged the Triarchy at Bloodstone]]. Daemon rode [[Caraxes]] to the island, following an assault by Velaryon troops, who were summarily defeated. Velaryon survivors, among them a [[Velaryon knight]], were hammered into debris on the beach so that Craghas could feed them to crabs. When Daemon arrived in the night, Caraxes burned the Triarchy's foot soldiers on the beach, before they retreated into the caves of [[Bloodstone]]. From there, they launched flaming arrows at Daemon and Caraxes, wounding Daemon and forcing him and his dragon to retreat.{{Ref|HOTD103}}[[File:House-of-the-Dragon-Caraxes-on-the-Stepstones.jpg|thumb|Caraxes burns Triarchy corsairs.|left]]By the time of Prince [[Aegon II Targaryen|Aegon Targaryen]]'s second [[nameday]], the War for the Stepstones was taking a heavy toll on Velaryon forces, with the new [[Master of Ships]] [[Tyland Lannister]] informing King [[Viserys I Targaryen]] of the situation, though he dismissed it as it was his son's nameday. Shortly after the nameday, Viserys received a message from [[Vaemond Velaryon]] requesting aid from the Crown. Although Viserys was initially against sending reinforcements, he was persuaded to do so by [[Alicent Hightower|his wife]]. Later, Viserys sent Ser [[Addam]] and a contingent of [[House Targaryen/House of the Dragon|House Targaryen]] soldiers to bring his letter to Daemon with haste.{{Ref|HOTD103}}
+
+When Addam arrived, Corlys assembled his men and his war council on [[Dwarfstone]] to strategize and regroup, while Daemon and Caraxes provided cover for a trio of Velaryon ships that sailed near Bloodstone. The Velaryon ships were attacked despite Caraxes burning the island, and one sustained heavy damage from a fireball. Daemon returned and went to the war council, and Addam gave him the letter. Daemon beat Addam and personally rowed to Bloodstone to confront Craghas and his troops. Waving a white flag of surrender, Daemon fooled Craghas and several soldiers into thinking that he surrendered, before he attacked the soldiers and sprinted towards the "Crabfeeder." Craghas ordered his men to attack him, and a [[Triarchy lieutenant]] ordered his bowmen to fire their arrows while Daemon fought against the soldiers.{{Ref|HOTD103}}[[File:KOTNS Daemon Still 5.jpg|left|thumb|Following his victory, Prince Daemon is crowned King of the Narrow Sea. ]]
+
+Eventually, Daemon was injured and surrounded, but his distraction allowed for Velaryon forces to land unnoticed on Bloodstone and attack the Triarchy, while [[Laenor Velaryon]] rode [[Seasmoke]] and attacked the Triarchy from the skies. Craghas retreated back into his cave, but was chased by Daemon, who eventually emerged bloodied and with the upper half of a bisected Craghas, finally defeating the Crabfeeder.{{Ref|HOTD103}} Eventually, Daemon is crowned as [[King of the Narrow Sea]].{{Ref|HOTD104}}
+====The war continues====
+In [[126 AC]],{{Dateref|The Princess and the Queen}} ten years after Daemon's victory, the [[Small Council]] receives alarming reports about the recent developments at the Stepstones: since Daemon never bothered to station soldiers there to hold the ground or to build any fortifications, the Triarchy has formed an alliance with [[Dorne]], seeking to retake the Stepstones. There are also rumors about [[Racallio Ryndoon|a giant Tyroshi general]].{{Ref|HOTD106}}
+[[File:The Sea Snake under repair.jpg|thumb|The Sea Snake sustained heavy damage in the War for the Stepstones.]]
+The Triarchy is defeated again. The crown gains a lot of income from customs since the settling of the Stepstones, but the fighting is resumed six years later in [[132 AC]].{{Dateref|The Lord of the Tides}} After being away from Driftmark for that period, Corlys is lured into an ambush and is severely injured by a corsair, and is sent home.{{Ref|HOTD108}} However, the Velaryon forces prevail and the Triarchy is once more driven from the Stepstones. The victors immediately garrison the islands and prepare to blockade the shipping lanes, assuming full control of the region. Corlys returns to Westeros to aid [[Rhaenyra Targaryen]] in the [[Dance of the Dragons]], announcing that the Narrow Sea is now hers.{{Ref|HOTD110}}
+
+==Gallery==
+<gallery>
+File:HOTD103.jpg|[[Daemon Targaryen|Daemon]], [[Vaemond Velaryon|Vaemond]] and [[Laenor Velaryon|Laenor]] in the Stepstones.
+File:OT Flames.png|[[Craghas Drahar|Crabfeeder]] hides in the caves of [[Bloodstone]] to protect against dragonfire.
+File:OT Torch.png|[[Craghas Drahar|Crabfeeder]] forces sabotage the [[Velaryon fleet|Velaryon navy.]]
+File:OT Stepstones.png|Siege of Bloodstone - Beeches
+File:WA Seasmoke.png|[[Laenor Velaryon|Laenor]] and [[Seasmoke]] attack [[Triarchy]] controlled [[Bloodstone]].
+File:Hotd Corlys men.jpg|Corlys leading his soldiers into battle.
+File:SOHN Vaemond Laenor Joffrey Corlys.jpg|War table of the Stepstones.
+</gallery>
+
+==Quotes==
+
+: '''Corlys''': "''The Crabfeeder is backed by powerful entities within the Free Cities who wish to see Westeros weakened. And the King's failures have allowed him to accumulate strength. If those shipping lanes fall, my house will be crippled, and I will not have Driftmark beggared while our King idles himself with feasts and balls and tourneys!''"
+: '''Daemon''': "''I will speak of my brother as I wish. You will not.''"
+: '''Corlys''': "''Waiting in the Stepstones is a chance for you to prove your worth to any who might yet doubt it. We are the realm's second sons, Daemon. Our worth is not given. It must be made.''"
+: — Corlys and Daemon
+
+==In the books==
+In ''[[Fire & Blood]]'', the background of the conflict is about the same, except that the Triarchy never sank any Westerosi ships, and Corlys did not demand Viserys to take action against the Triarchy. Laenor and Seasmoke did not participate in the conflict.
+
+The reason for the conflict was that Craghas and his partners repeatedly increased the tolls till the merchants could not afford to pay them, and Lys even took as a toll people (among them Lady [[Johanna Swann]]) to serve in its pleasure houses. Corlys persuaded Daemon, who was eager for gold and glory, to joined forces in order to put an end to Triarchy's rule over the Stepstones. In contrast to the show, Viserys did not object, on the contrary: he was pleased that his troublesome brother would be busy far away from the court, so he financially supported his preparations (though he did not send direct military aid). Daemon easily rallied an army of landless adventurers and second sons.
+
+Corlys and Daemon began their invasion of the Stepstones in 106 AC. Two years later, after winning many battles, Daemon beheaded Craghas Drahar in single combat. By 109 AC, Daemon's army controlled all but two of the islands, and Corlys's fleets took firm control of the waters between. During this period of victory, Daemon declared himself King of the Stepstones and the Narrow Sea.
+
+This was not the end of the war, though: in 110 AC, the Triarchy formed an alliance with [[Dorne]] and sent to the Stepstones a fresh invasion force under the command of general [[Racallio Ryndoon]]. The fighting resumed.
+
+In the following years, the war continued in a confused manner, each party temporarily gaining the upper hand over the other.
+
+Corlys did not win the war in the book. The war for the Stepstones ended when Daemon abandoned it upon hearing of the death of his wife [[Rhea Royce]] in 115 AC, and the islands once again became a haven for pirates claiming Daemon's former title as Kings of the Narrow Sea.
+
+The war is never named in the books, but the ''[[House of the Dragon]]'' Official Guide adopted the conjectural title "War for the Stepstones" from A Wiki of Ice and Fire.{{Guideref|Vaemond Velaryon}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{Wars}}
+
+<!--Categories-->
+[[Category:War for the Stepstones| ]]
+[[Category:Wars|Stepstones]]
+
+<!--Languages-->
+[[fr:Guerre pour les Degrés de Pierre]]
+[[it:Guerra per le Stepstones]]
+[[ru:Война за Ступени]]

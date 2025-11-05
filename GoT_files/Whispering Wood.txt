@@ -1,0 +1,55 @@
+{{Canonicity|Canon}}
+{{Region
+| Title      = {{PAGENAME}}
+| Theme      = Tully
+| Image      =
+<gallery>
+Whispering Wood.jpg|Appearance
+Whispering Wood.png|Location
+</gallery>
+| Type       = Forest
+| Location   = The [[Riverlands]], [[Westeros]]
+| Geography  = Woodland, evergreen
+| Population = 
+| Rulers     = 
+| Culture    = 
+| Religion   = 
+| Military   = 
+| Capital    = 
+| Castles    = 
+| Cities     = 
+| Towns      = 
+| Villages   = 
+| Places     = 
+| Founded    = 
+}}
+{{Dialogue a-b|Olenna Tyrell|And you took your army, your real army, and went where they weren't?|Jaime Lannister|As Robb Stark did to me at Whispering Wood. There are always lessons in failures.|[[Olenna Tyrell]] and [[Jaime Lannister]] discuss the [[Battle of Whispering Wood]]|The Queen's Justice}}
+'''Whispering Wood'''{{Ref|GOT210}} is a forest in the [[Riverlands]], located northwest of [[Riverrun]] along the [[Red Fork]] of the [[Trident]].
+
+==History==
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+The [[Battle of Whispering Wood]] occurred here, during which [[Robb Stark]] lured [[Jaime Lannister]]'s army into a trap and annihilated it, capturing the Kingslayer himself, thus lifting Jaime's siege of Riverrun.<ref>"[[Baelor]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels the Whispering Wood is northwest of Riverrun. It is named for the whispers of Robb Stark's army as they waited for Jaime Lannister.
+
+The first season HBO viewers guide showed the Whispering Wood to the north-west of Riverrun. The second season map, however, positions it east of [[Seagard]]. The initial [[Game of Thrones: Season 2|Season 2]] viewer's guide map seems to have been in error, because the HBO Viewer's Guide "Battleground [[Westeros]]" feature released later in Season 2 positioned Whispering Wood as immediately north-west of Riverrun, as in the books.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Riverlands}}
+
+<!--Categories-->
+[[Category:Forests]]
+[[Category:Riverlands]]
+
+<!--Languages-->
+[[de:Wisperwald]]
+[[fr:Bois-aux-Murmures]]
+[[ru:Шепчущий лес]]
+[[uk:Шепочучий ліс]]

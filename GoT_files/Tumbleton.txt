@@ -1,0 +1,40 @@
+{{Canonicity|Canon}}
+{{References}}
+{{Distinguish|Tumblestone}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Bronn
+| Image        = Tumbleton Pin.png
+| Type         = Castle
+| Status       = 
+| Location     = The [[Reach]], [[Westeros]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+{{Quote|We should make for Tumbleton. My brother will have room.|[[Kat]]|Regent (episode)}}
+'''Tumbleton'''{{Ref|HOTD205}} is a castle and town in the [[Reach]], the region controlled by [[House Tyrell]] of [[Highgarden]]. The castle is located north-east of Highgarden, close to the headwaters of the [[Mander]]. It is located in the extreme northeast of the Reach, very close to the border with the [[Crownlands]]. It is not far to the southwest of [[King's Landing]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Tumbleton is the seat of House Footly.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Reach}}
+
+<!--Categories-->
+[[Category:Castles of the Reach]]
+
+<!--Languages-->
+[[de:Stolperstadt]]
+[[fr:Chutebourg]]
+[[ru:Тамблтон]]

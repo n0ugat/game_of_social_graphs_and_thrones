@@ -1,0 +1,51 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Tom Glynn-Carney.jpg
+| Birth   = February 7, 1995 {{Age|1995|2|7}}<br>Salford, Greater Manchester, England
+| Death   = 
+| Role    = [[Aegon II Targaryen]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]] {{*}} [[House of the Dragon: Season 2|2]] {{*}} [[House of the Dragon: Season 3|3]]
+| Credits = 11 episodes {{Below|Credits}}
+| First   = "[[The Lord of the Tides]]"
+| Last    = 
+}}
+'''Tom Glynn-Carney''' (born 7 February 1995) is an English actor and musician. He is known for his roles as Peter in ''{{WPS|Dunkirk (film)|Dunkirk}}'', {{WPS|Henry Percy (Hotspur)|Henry "Hotspur" Percy}} in ''{{WPS|The King (2019 film)|The King}}'', and as J. R. R. Tolkien's childhood friend  Christopher Wiseman in ''{{WPS|Tolkien (film)| Tolkien}}''.
+
+Outside of acting, Glynn-Carney is a musician and the lead singer of the indie-folk band ''Sleep Walking Animals''.
+
+He portrays King [[Aegon II Targaryen]] in ''[[House of the Dragon]]''.
+
+Glynn-Carney first spoke about playing the role the Spring 2022 issue of ''Wonderland'':
+
+:''"It's definitely one of the darker roles I've played. It's a very, very complex character. One minute we love him, then the next we hate him, but I'm really enjoying that sort of back and forth aspect of the role. It's a tricky thing to play, but it's rewarding in so many ways."''<ref>[https://winteriscoming.net/2022/04/04/house-of-the-dragon-aegon-ii-targaryen-darker-roles-played-tom-glynn-carney/ ]</ref>
+
+==Credits==
+===Starring===
+{{House of the Dragon: Season 1||||||||yes|yes}}
+{{House of the Dragon: Season 2|yes|yes|yes|yes|yes|yes|yes|yes}}
+{{House of the Dragon: Season 3||||yes}}
+
+==See also==
+*{{WP}}
+*{{IMDb|# = 6077951}}
+*{{Twitter|# = @TGlynnCarney}}
+*{{Instagram|#=mrglynncarney}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House of the Dragon}}
+{{House of the Dragon: Inside the Episode}}
+
+<!--Categories-->
+{{DEFAULTSORT:Glynn-Carney, Tom}}
+[[Category:Commentators of House of the Dragon: Inside the Episode]]
+[[Category:Starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[de:Tom Glynn-Carney]]
+[[fr:Tom Glynn-Carney]]
+[[pl:Tom Glynn-Carney]]

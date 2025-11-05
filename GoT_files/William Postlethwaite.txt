@@ -1,0 +1,24 @@
+{{Cast
+|Title = William Postlethwaite
+|Image = William Postlethwaite.jpg
+|birthplace = {{WPS|Shropshire}}, {{WPS|England}}
+|dateofbirth = {{WPS|1989}}
+|role = [[Theo]]
+|status = 
+|Appearances = "[[Dragonstone (episode)|Dragonstone]]"
+|imdb = http://www.imdb.com/name/nm5037475/}}
+'''William John Postlethwaite''' is an English actor. He is the son of the late {{WPS|Pete Postlethwaite}} and has appeared in television series such as ''{{WPS|Midsomer Murders}}'' and ''{{WPS|Holby City}}''.
+
+In ''[[Game of Thrones]]'' he portrayed [[Theo]] in "[[Dragonstone (episode)|Dragonstone]]".
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 7|yes}}
+
+==See also==
+*{{IMDb
+|# = 5037475}}
+{{DEFAULTSORT:Postlethwaite, William}}
+[[de:William Postlethwaite]]
+[[ru:Уильям Постлетуэйт]]
+[[Category:Guest starring cast members of Game of Thrones]]

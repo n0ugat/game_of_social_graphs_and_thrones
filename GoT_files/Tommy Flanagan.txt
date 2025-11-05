@@ -1,0 +1,29 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Tommy Flanagan.jpg
+| Birth   = Thomas Flanagan<br>July 3, 1965 {{Age|1965|7|3}}<br>Easterhouse, Glasgow, Scotland
+| Death   = 
+| Role    = [[Roderick Dustin]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 3|3]]
+| Credits = 
+| First   = 
+| Last    = 
+}}
+'''Thomas Flanagan''' is a Scottish actor. He is best known for portrayed Filip "Chibs" Telford in the television series ''{{WPS|Sons of Anarchy}}''. He has also appeared in films such as ''{{WPS|Braveheart}}'', ''{{WPS|Face/Off}}'', ''{{WPS|Gladiator (2000 film)|Gladiator}}'', ''{{WPS|Sin City (film)|Sin City}}'' and ''{{WPS|Guardians of the Galaxy Vol. 2}}'' and television series such as ''{{WPS|Peaky Blinders (TV series)|Peaky Blinders}}'', ''{{WPS|Gotham (TV series)|Gotham}}'', ''{{WPS|Wu Assassins}}'' and ''{{WPS|Westworld (TV series)|Westworld}}''.
+
+In ''[[House of the Dragon]]'', he will portray [[Roderick Dustin]] in the [[House of the Dragon: Season 3|third season]].{{Webref|name=Northmen |author=Nick Romano |date=March 31, 2025 |url=https://ew.com/house-of-the-dragon-casts-roderick-dustin-sons-of-anarchy-star-exclusive-11701464 |title=''House of the Dragon'' season 3 casts 2 northmen, including fan-favorite 'Roddy the Ruin' (exclusive) |website=Entertainment Weekly |access-date=April 1, 2025 }}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{WP|Tommy Flanagan (actor)|Tommy Flanagan}}
+*{{IMDb|#=0281107}}
+*{{Instagram|#=tommyflanaganofficial}}
+*{{Facebook|#=TommyFlanaganOfficial}}
+
+<!--Categories-->
+{{DEFAULTSORT:Flanagan, Tommy}}
+[[Category:Cast members of unknown billing of House of the Dragon]]

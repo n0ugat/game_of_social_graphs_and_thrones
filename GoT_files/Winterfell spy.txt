@@ -1,0 +1,45 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Stark
+| Image       = Winterfell spy Littlefinger (Eastwatch).png
+| Birth       = In the [[North]]
+| Death       = 
+| House       = 
+| Affiliation = [[House Stark]]<br>{[[Petyr Baelish]]}
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Northmen|Northern]]
+| Religion    = [[Old Gods]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 7|7]]
+| Appearances = "[[Eastwatch]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Adele Smyth-Kennedy]]
+}}
+A servant girl in [[Winterfell]] works as a '''spy''' for [[Petyr Baelish|Littlefinger]].
+
+==Biography==
+===[[Game of Thrones: Season 7|''Game of Thrones'': Season 7]]===
+While spying on Littlefinger herself, [[Arya Stark|Arya]] overlooks a conversation between the girl and Littlefinger from a distance; she is too far to hear what they say. Littlefinger gives the girl a coin, and she leaves.{{Ref|GOT705}}
+
+==Appearances==
+*{{GOT|Eastwatch}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Northmen]]
+[[Category:Spies]]

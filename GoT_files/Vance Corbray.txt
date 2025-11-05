@@ -1,0 +1,71 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Corbray.svg
+| Link  = House Corbray
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Arryn
+| Image       = Vance Corbray.png
+| Birth       = At [[Heart's Home]]
+| Death       = 
+| House       = [[House Corbray|Corbray]]
+| Affiliation = 
+| Titles      = [[Knighthood|Ser]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Vale of Arryn|Valemen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 4|4]]
+| Appearances = "[[The Mountain and the Viper]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Richard Doubleday]]
+}}
+{{Quote|Your secret is safe with us, my lady.|Ser Vance to [[Sansa Stark]]|The Mountain and the Viper}}
+Ser '''Vance Corbray''' is a [[Knighthood|knight]] of [[House Corbray]], a [[noble house]] sworn to [[House Arryn]] of the [[Eyrie]].
+
+==Biography==
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+Ser Vance, along with Lord [[Yohn Royce]] and Lady [[Anya Waynwood]], sits on a tribunal to investigate the death of [[Lysa Arryn]]. Like the other judges, Ser Vance assumes foul play on [[Petyr Baelish|Littlefinger]]'s part. During the tribunal, Ser Vance is made aware that Littlefinger's niece, "Alayne", is actually [[Sansa Stark|Sansa]], but he agrees to keep her secret and accepts her testimony that Lysa committed suicide.{{Ref|GOT408}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no character named Ser Vance Corbray. There are two known Corbray knights, brothers to Lord Lyonel Corbray, Ser Lyn and Ser Lucas. Ser Lyn is a noted warrior, and is also known to be a homosexual. Vance is most likely based off Lyn, as he was the Corbray present at the meeting between Petyr Baelish and the Vale lords.
+
+Lord Yohn Royce and the other present Vale lords do not inquire about Lysa's death, but demand that Littlefinger leaves the Vale and lets them look after Lysa's son. During the conversation, Lyn Corbray comments "All this talk makes me ill. Littlefinger will talk you out of your smallclothes if you listen long enough. The only way to settle his sort is with steel". He draws his sword. The lords are shocked and embarrassed at that improper behavior, and apologize to Littlefinger. That puts them in a defensive position, which Littlefinger takes full advantage of, to make them grant him one year of wardship over Robert Arryn.
+
+After the lords leave, Littlefinger reveals to Sansa that Lyn Corbray is on his payroll, as she suspected. He pretends to be Littlefinger's implacable enemy, thus fooling the Vale lords.
+
+==Appearances==
+*{{GOT|The Mountain and the Viper}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Lyonel Corbray}}
+*{{AWOIAF|Lyn Corbray}}
+*{{AWOIAF|Lucas Corbray}}
+
+<!--Categories-->
+{{DEFAULTSORT:Corbray, Vance}}
+[[Category:Bannermen of House Arryn]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Knights]]
+[[Category:Members of House Corbray|Vance Corbray]]
+[[Category:Valemen]]
+
+<!--Languages-->
+[[de:Vance Corbray]]
+[[es:Vance Corbray]]
+[[fr:Vance Corbray]]
+[[ru:Вэнс Корбрей]]

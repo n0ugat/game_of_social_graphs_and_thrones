@@ -1,0 +1,74 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Slaver's Bay.svg
+| Link  = Sons of the Harpy
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Ghiscari
+| Image       = Vala.png
+| Birth       = In [[Meereen]]
+| Death       = 
+| House       = 
+| Affiliation = [[Sons of the Harpy]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Ghiscari]] {{C|[[Meereen]]ese}}
+| Religion    = [[Ghiscari religion]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = [[Dom]]
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 5|5]] {{*}} [[Game of Thrones: Season 6|6]]
+| Appearances = 3 episodes {{Below|Appearances}}
+| First       = "[[The Wars To Come]]"
+| Last        = "[[Oathbreaker]]"
+| DeathEp     = 
+| Actor       = [[Meena Rayann]]
+}}
+{{Quote|Yes, you’re a true liberator, aren’t you? You won’t torture me, you’ll just threaten my son.|Vala to [[Varys]]|Oathbreaker}}
+'''Vala''' is a prostitute living in [[Meereen]] and a secret member of the [[Sons of the Harpy]].
+
+==Biography==
+===Background===
+Vala is a [[Prostitution|prostitute]] in [[Meereen]] who is secretly in league with the [[Sons of the Harpy]], a resistance movement against [[Daenerys Targaryen]].{{Ref|GOT501}}
+
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+Vala is approached by [[White Rat]], an [[Unsullied]], who has been repeatedly frequenting her. White Rat pays her, then stops her from disrobing and removing his trousers - as a [[eunuch]] he is unable to have intercourse - instead having her lie behind him and caress him as she hums a melody to him. However, she is in league with the Sons of the Harpy and, as he is distracted, one of them enters the room and slits his throat. Vala and the murderer watch as White Rat quickly bleeds to death.{{Ref|GOT501}}
+
+Later on, she aids the Sons of the Harpy in setting a trap for several Unsullied, among them [[Grey Worm]], which leads to the death of Ser [[Barristan Selmy]].{{Ref|GOT504}}
+
+===[[Game of Thrones: Season 6|''Game of Thrones'': Season 6]]===
+Eventually, the Unsullied find and apprehend Vala. She is brought before [[Varys]] in the [[Great Pyramid of Meereen]], who interrogates her for information on the Sons of the Harpy. It seems that Vala became a prostitute to get close to Unsullied and Second Sons on the Sons of the Harpy's behalf, expressing vehement hatred for Daenerys and her soldiers, whom she sees as destroying Meereen. She initially refuses Varys, believing that the eunuch wishes to torture her, though he assures her this is not the case and will only lead to misinformation from her. Instead, Varys calmly backs her into a corner with knowledge of her young son, [[Dom]], and how bad his life must be if he loses his mother. When the Spider promises safe passage to [[Pentos]] for Vala and her son, as well as a generous bag of silver to buy a new life, she agrees to cooperate. She tells him that the masters of [[Astapor]], [[Yunkai]], and [[Volantis]] fund the Sons of the Harpy.{{Ref|GOT603}}
+
+==Behind the scenes==
+The character first appeared in Season 5 but was not given a name until Season 6.
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no character named Vala. Stalwart Shield, White Rat's equivalent, repeatedly visits a brothel to have women lie with and hold him. There is no mention if he has a preferred prostitute. Also, there is no indication if any of the prostitutes were in league with the Sons of the Harpy during the attack in which he was killed.
+
+Strictly speaking, "vala" in [[High Valyrian]] means "man" (like how the name "Adam" literally means "man"), but an entirely separate word is used for "woman", "abrar". This might be pure coincidence and not necessarily incongruent - after all, Slaver's Bay was founded by the Ghiscari, and there have been a large influx of new words and names from foreign lands due to importing large numbers of slaves, so a few homonyms between the local dialect and proper High Valyrian would probably happen.
+
+==Appearances==
+*{{GOT|The Wars To Come}}
+*{{GOT|Sons of the Harpy}}
+*{{GOT|Oathbreaker}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Meereenese]]
+[[Category:Prostitutes]]
+[[Category:Sons of the Harpy]]
+
+<!--Languages-->
+[[de:Vala]]
+[[fr:Vala]]
+[[ru:Вала]]

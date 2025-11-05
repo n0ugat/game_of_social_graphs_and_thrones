@@ -1,0 +1,94 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Thrones
+| Part          = the [[War of the Five Kings]]
+| Image         = Execution of petyr s7.jpg
+| Previous      = [[Dragonpit Summit]]<br><small>([[Last War]])</small><br>[[Assassinations at the Twins]]<br><small>([[War of the Five Kings]])</small>
+| Concurrent    = 
+| Next          = [[Breaching of the Wall]]
+| Date          = [[304 AC]]{{Dateref|Game of Thrones: Season 7}}
+| Place         = [[Winterfell]], the [[North]]
+| Outcome       = *Execution of [[Petyr Baelish]] for his crimes against the [[North]] and the [[Vale of Arryn|Vale]]
+*Extinction of House Baelish
+*[[War of the Five Kings]] finally brought to an end
+| Factions1     = {{COA|House Stark|small}} '''The [[North]]'''<br><small>([[House Stark]])</small><br><br>{{COA|House Royce|small}} [[House Royce]]<br><small>(representing [[House Arryn]])</small>
+| Factions2     = {{COA|House Baelish|small}} [[House Baelish]] †
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = {{COA|Sansa Stark|i}} [[Lord of Winterfell|Lady]] [[Sansa Stark]]
+| Leaders2      = {{COA|House Baelish|i}} [[Lord of Harrenhal|Lord]] [[Petyr Baelish]]
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = {{COA|House Stark|i}} [[Arya Stark]]<br>{{COA|House Stark|i}} [[Bran Stark]]<br>{{COA|House Royce|i}} [[Lord of Runestone|Lord]] [[Yohn Royce]]
+| Participants2 = {{COA|House Baelish|i}} Lord Petyr Baelish {{Executed}}
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = None
+| Casualties2   = [[Petyr Baelish]] {{Executed}}
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Quote|You stand accused of murder. You stand accused of treason. How do you answer these charges... Lord Baelish?|[[Sansa Stark]]|The Dragon and the Wolf}}
+The '''trial of Petyr Baelish''' was the event that marked the closing of the [[War of the Five Kings]]. It is held in the great hall of [[Winterfell]] by [[Lord of Winterfell|Lady of Winterfell]] [[Sansa Stark]], with [[Arya Stark]] and [[Bran Stark]], against [[Petyr Baelish]], the nominal [[Lord of Harrenhal]] and the [[Lord Protector]] of the [[Vale of Arryn|Vale]]. It is witnessed by the [[Order of Maesters|Maester]] [[Wolkan]], [[Lord of Runestone|Lord]] [[Yohn Royce]] and multiple [[House Stark|Stark]] and [[House Arryn|Arryn]] [[Man-at-arms|men]].
+
+== History ==
+=== Prelude ===
+Sansa and Baelish talk about [[Jon Snow]] and [[Daenerys Targaryen|Daenerys]] forming an alliance, with Baelish suggesting that Jon should be unnamed as [[King in the North]].
+
+Sansa knows that Arya would not tolerate it and that she is now a killer, having trained with the [[Faceless Men]], whom Baelish only knows by reputation. Baelish explains that when he wants to understand a person's motive, he plays 'a little game' and plants the seed that Arya wants Sansa dead for apparently betraying their family and to replace her as Lady of Winterfell.
+
+===The trial===
+Sansa has Arya brought to the great hall in front of the lords of the North and the Vale. Addressing Arya, Sansa states her desire to protect the North and House Stark. She then proceeds to state the accusations of murder and [[treason]], asking how these charges are answered. Because she continues to look at Arya, it appears she is directing her question to her sister, but Sansa then adds, "Lord Baelish", revealing it is he who truly stands accused.
+
+Taken by surprise, Baelish tells Sansa that he's confused. Sansa starts with the simplest charge: that Baelish murdered their aunt [[Lysa Arryn|Lysa]] by pushing her through the Moon Door<ref>"[[Mockingbird]]"</ref> and asks if he denies it. Because Sansa herself was a witness to Lysa's murder, Baelish admits to it but claims he did it to protect Sansa. She refutes his claim by making her own: he did it to gain control of the Vale.
+
+The next charge laid against Petyr is that he orchestrated the [[Assassination of Jon Arryn]] by giving Lysa [[Tears of Lys]], which she used to poison him.<ref>"[[First of His Name]]"</ref> Asked whether he denies this charge as well, Baelish avoids a direct response by explaining that Lysa's state of mind made her see enemies everywhere, implying that Lysa acted alone.
+
+Sansa accuses Baelish of having her aunt send a letter to [[Eddard Stark|Eddard]] and [[Catelyn Stark]], claiming the [[House Lannister|Lannisters]] murdered Jon Arryn.<ref>"[[Winter Is Coming]]"</ref> The result of the letter set events into motion that started a feud between House Stark and House Lannister, eventually culminating in the [[War of the Five Kings]]. This accusation, if true, would make Baelish the true instigator of the war. This time, Petyr directly denies knowledge of the letter.
+
+The final charge is that Baelish [[Massacre in the Red Keep|conspired]] with [[Cersei Lannister|Cersei]] and [[Joffrey Baratheon|Joffrey]] to betray their father, which led to his imprisonment<ref>"[[You Win or You Die]]"</ref> and ultimately his [[Execution of Eddard Stark|execution]],<ref>"[[Baelor]]"</ref> on false charges of treason. Now clearly angry, Sansa asks Petyr if he denies it. Baelish denies it, stating that none of them saw what happened, and thus there is no case against him. However, Bran, having seen Baelish's crimes through his powers in the [[Sight]], says that Baelish held a knife to Ned's throat and repeats what he told Ned when he betrayed him, "I did warn you not to trust me", leaving Baelish speechless and shocked.
+
+Arya, wearing the [[Valyrian steel dagger]] that an [[Catspaw|assassin]] used to try and kill Bran, draws it for all to see and reminds Baelish he told Catelyn that it belonged to [[Tyrion Lannister|Tyrion]],<ref>"[[Lord Snow]]"</ref> which was another of his many lies: the dagger, in fact, belonged to Baelish himself.{{Note|Littlefinger never denied the dagger originally belonged to him; on the contrary, he told outright to Ned and Catelyn "There's only one dagger like this in all of the Seven Kingdoms. It's mine". He lied about the identity of the person to whom he lost the dagger in a bet, which was not Tyrion (but Robert, as revealed in the books).}}
+
+With the court against him, Baelish pleads that he has known Sansa since she was a child and that he's always protected her, to which Sansa retorts that he sold her to the [[House Bolton|Boltons]].<ref>"[[Sons of the Harpy (episode)|Sons of the Harpy]]"</ref> When Baelish asks if they can speak alone (presumably to try to manipulate Sansa into freeing or exonerating him), Sansa repeats his words of 'playing a little game' to assume the worst of someone, thus assuming the worst reason Baelish has for turning Sansa and Arya against each other, deducing that he did the same to Catelyn and Lysa. Baelish protests, demanding a chance to defend himself, but is ignored.
+
+As Baelish realizes that he won't be able to talk his way out of this, he commands Lord Royce to escort him back to the Eyrie as the Lord Protector of the Vale. Given the specific crimes Littlefinger committed against [[House Arryn]], however, Lord Royce no longer recognizes Baelish's authority, and thus refuses, having long distrusted Baelish and knowing that he is a bad influence on [[Robin Arryn]]. Out of options and now terrified, Baelish pleads with Sansa for his life, confessing his love publicly for her and for Catelyn, though Sansa points out that despite this, he still betrayed both of them. Sharing a look with her sister, Sansa sentences him to death and callously thanks Baelish for all his lessons, which she vows to never forget. As Baelish tries to speak one final time, Arya, with his former dagger still drawn in her hand, walks up and swiftly slits his throat with it before stepping back and sheathing it. Everyone present in the great hall watches as the former Master of Coin, and the true mastermind behind all the chaos in the realm, bleeds out and slumps to the floor, finally dead.<ref>"[[The Dragon and the Wolf]]"</ref>
+
+===Aftermath===
+With Baelish's death, House Baelish is rendered extinct, and all who died on both sides of the War of the Five Kings as a result of his ambition and deceit, including the Starks, Lannisters, Boltons, Freys, Greyjoys, Arryns, Tyrells and Tullys are avenged.
+
+With Baelish dead, Cersei, [[Euron Greyjoy]] and the [[Night King]] are left as the final remaining enemies of House Stark.
+
+==Behind the scenes==
+*Objectively, the trial has been a mere show, similarly to Tyrion's trials (except that Tyrion was innocent on [[First trial by combat of Tyrion Lannister|both]] [[Court trial of Tyrion Lannister|occasions]]), in every aspect of it:
+**No objective witness was brought. The only potential witness that the Starks could have summoned to testify to one of the crimes Littlefinger was charged with was the Hound, who witnessed the [[massacre in the Red Keep]]. Had the Starks summoned the Hound, he might have provided indisputable testimony in regards to Littlefinger's actions.
+**No incriminating evidence has been presented to support the accusations. The dagger itself was worthless as an evidence, because it should have been linked by an objective witness to any of the crimes Littlefinger was charged with.
+**Bran's ability to see past events was inadmissible and inconclusive testimony, since it could not be either verified or refuted, similarly to a testimony given under hypnosis or even hearsay.
+**While accusing Littlefinger of Lysa's death, Sansa ignores that she had previously given a different version of these events to the lords of the Vale, including Lord Royce, claiming that Lysa had killed herself.<ref>"[[The Mountain and the Viper]]"</ref> That perjury disqualified her as a witness; moreover, the fact she was personally harmed by Littlefinger's deeds - as she herself said - disqualified her as a judge.
+*Another vile deed of Littlefinger's left out by Sansa that might have cost her life was using her, without her consent or knowledge, as an accomplice/scapegoat in respect of [[Purple Wedding|Joffrey's assassination]]. Had Sansa been caught by the Lannister guards while wearing the incriminating evidence (the necklace), she would have probably been convicted of the murder alongside Tyrion.
+*Littlefinger had also later informed Cersei of Sansa's whereabouts after he delivered her to the Boltons, leaving out the part that it was ''he'' who brought her to them. He also made a proposition to Cersei of using the knights of the Vale to mop up whoever won the impending [[Battle in the ice|battle]] between the Boltons and [[Stannis Baratheon|Stannis]] in exchange for rulership of the North, which Cersei agreed to on the condition that he bring her Sansa's head.<ref>"[[Unbowed, Unbent, Unbroken]]"</ref> All of this could also have been brought to light due to Bran's abilities but was left out.
+*A much more plausible accusation for Arya to have made against Littlefinger (even though her only "evidence" would have again been the Sight) was that he conspired with Tyrion to manipulate their mother into freeing [[Jaime Lannister|Jaime]], thus weakening the Starks' position and causing a division among their ranks, by lying that Arya was being held captive along with Sansa.<ref>"[[What Is Dead May Never Die]]"</ref><ref>"[[Garden of Bones (episode)|Garden of Bones]]"</ref>
+*Normally, Littlefinger might have managed to use his sharp wit and quick tongue to talk his way out of the "trial", by pointing out the aforementioned flaws in the testimonies against him; he could have also demanded a [[trial by combat]], as Tyrion did in his unfair trials (it is unlikely someone at the room would have volunteered to fight for Littlefinger, but anyone in such position would grab at any straw, no matter how flimsy). The reason he failed to defend himself might have beeen that he was caught offguard, things happened too fast, that he could not gather his thoughts and think of anything better than begging and using his authority as Lord of the Vale.
+*The one person whose presence does not make this trial a complete show is Lord Royce. Although Sansa had lied to him earlier, he later confronted Littlefinger upon hearing that she was wed to [[Ramsay Bolton]], and Baelish responded by nearly manipulating her impressionable cousin Robin Arryn into having Royce killed under false pretenses.<ref>"[[Book of the Stranger]]"</ref> Sansa could have saved face with Royce by addressing this incident as well due to the Sight, but no mention of it is made. Alternatively, it's possible that Royce realized Sansa's deception earlier and decided to disregard it, as the trial was the perfect excuse to get rid of Littlefinger for good.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{War of the Five Kings}}
+
+<!--Categories-->
+[[Category:304 AC]]
+[[Category:Trials|Petyr Baelish]]
+[[Category:War of the Five Kings]]
+
+<!--Languages-->
+[[de:Gerichtsprozess von Petyr Baelish]]
+[[fr:Procès de Petyr Baelish]]
+[[ru:Суд над Петиром Бейлишем]]

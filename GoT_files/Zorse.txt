@@ -1,0 +1,49 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Species
+| Title   = {{PAGENAME}}
+| Theme   = Westeros
+| Image   = Zorses.png
+| Type    = Mammal
+| Status  = Active
+| Diet    = Herbivore
+| Habitat = Deserts
+| Range   = 
+| Origin  = [[Jogos Nhai]]
+}}
+{{Quote|The striped black-and-white [[horse]]s of the [[Jogos Nhai]] are harmless enough.|[[Jorah Mormont]]|Vaes Dothrak (short)}}
+'''Zorses'''{{Con|ASOIAF}} are a species of black-and-white [[horse]]s bred by the [[Jogos Nhai]]. They are sold in the Eastern Market of [[Vaes Dothrak]].<ref>"[[Vaes Dothrak (short)|Vaes Dothrak]]"</ref>
+
+==Behind the scenes==
+*In the real world, zorses are specifically the offspring of male zebras and female horses, and like most hybrid species, are infertile and cannot reproduce.
+*It's also mentioned that zebras do exist (in a form) in Sothoryos and are black on white striped. Zorses are believed (or do) have white stripes on black, conversely.
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, zorses are striped black-and-white equines native to [[Essos]] who are known to be fierce and foul-tempered. They were originally created by breeding horses with a striped, horse-like animal found in southern [[Yi Ti]] and on the island of [[Leng]], but later came to be bred as their own species. They are supposedly capable of surviving for many months on weeds and devil grass and travel over long distances without food or water. For these reasons they are the favored mounts of the Jogos Nhai, as the plains of their homeland are far less fertile than the [[Dothraki Sea]] to the west, and thus cannot support large bands of nomads.
+
+Members of the Brave Companions, the [[Mercenary|sellsword]] company led by [[Locke|Vargo Hoat]], likely transported zorses to [[Westeros]] as their personal mounts when they were brought over by [[Tywin Lannister]]. Hoat ties [[Jaime Lannister]] and [[Brienne of Tarth]] to the pommel of his saddle and drags them around the fortress with his zorse.
+
+Zorses seem to be unknown in Westeros even among the most well-educated. [[Arya Stark]], who sees the Brave Companions riding them at [[Harrenhal]], is unfamiliar with them despite having a good education and being well acquainted with horses. However, [[Order of Maesters|maesters]] are aware of them.
+
+[[Daenerys Targaryen]] sees zorses being sold in the Eastern Market of Vaes Dothrak. She is later given one as a gift by the Jogos Nhai in [[Qarth]], though she later sells it along with other gifts in order to gather enough wealth to petition the [[Pureborn]].
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+*{{WP|Zebroid}}
+
+<!--Navboxes-->
+{{Animals and plants}}
+
+<!--Categories-->
+[[Category:Animals]]
+
+<!--Languages-->
+[[de:Zerde]]
+[[pt-br:Zorses]]
+[[ru:Ездовые зебры]]

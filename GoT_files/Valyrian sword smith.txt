@@ -1,0 +1,58 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Free
+| Image       = Valyrian steel smith.jpg
+| Birth       = In [[Volantis]]
+| Death       = 
+| House       = 
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Volantis|Volantene]]
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 4|4]]
+| Appearances = "[[Two Swords]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Tommy Dunne]]
+}}
+{{Quote|There are three living smiths who know how to re-work Valyrian steel. The finest of them was in Volantis. He came here to King's Landing at my invitation.|[[Tywin Lannister]]|Two Swords}}
+A '''Valyrian sword smith '''is the most skilled smith in the [[known world]].
+
+==Biography==
+===Background===
+Established on [[Volantis]], he is the most skilled smith in the [[known world]]. He is one of only three smiths in the world who can re-work [[Valyrian steel]].{{Ref|GOT401}}
+
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+At the request of [[Tywin Lannister|Tywin]], he travels to [[King's Landing]], melts down [[House Stark]]'s Valyrian steel greatsword [[Ice]], and re-forges it into two smaller swords. Tywin gives [[Oathkeeper|one]] of these to [[Jaime Lannister|Jaime]], and the [[Widow's Wail|other]] to [[Joffrey Baratheon|Joffrey]].{{Ref|GOT401}}
+
+==Behind the scenes==
+The smith is played by behind-the-scenes artisan and weaponsmith Tommy Dunne, who forges the weapons used in the series.
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Ice is re-forged by [[Tobho Mott]] rather than a smith from Volantis. The knowledge of reworking Valyrian steel is still a closely guarded secret, but by the smiths of [[Qohor]], who number much more than three. The sword smith in the episode is not stated to be Volantene, only established there, so it's possible he could still be Qohorik.
+
+==Appearances==
+*{{GOT|Two Swords}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+[[Category:Blacksmiths]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Volantenes]]
+
+<!--Languages-->
+[[ru:Кузнец из Волантиса]]

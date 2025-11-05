@@ -1,0 +1,32 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Tully
+| Image        = 
+| Type         = Castle
+| Status       = 
+| Location     = [[Riverlands]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Willow Wood'''{{Ref|THTDB201}} is a castle in the [[Riverlands]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Willow Wood is the seat of House Ryger.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Riverlands}}
+
+<!--Categories-->
+[[Category:Castles of the Riverlands]]

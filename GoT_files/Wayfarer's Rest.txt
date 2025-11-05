@@ -1,0 +1,42 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Vance.svg
+| Link  = House Vance
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Tully
+| Image        = 
+| Type         = Castle
+| Status       = 
+| Location     = [[Riverlands]]
+| Population   = 
+| Rulers       = [[House Vance]]{{Con|ASOIAF}}
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Wayfarer's Rest'''<ref>[[:File:Cersei Westeros Map Puzzle.jpg]]</ref> is a castle in the [[Riverlands]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Wayfarer's Rest is the seat of a branch of [[House Vance]]. Its name is a reference to Liane the Wayfarer from ''The Dying Earth'' by Jack Vance.
+
+Captives from the [[Battle of Oxcross]], including Ser Lymond Vikary, are held at Wayfarer's Rest.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Riverlands}}
+
+<!--Categories-->
+[[Category:Castles of the Riverlands]]
+[[Category:House Vance]]

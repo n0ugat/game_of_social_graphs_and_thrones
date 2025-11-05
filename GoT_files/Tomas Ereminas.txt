@@ -1,0 +1,22 @@
+{{Crew
+|Image = Tomas Ereminas.jpg
+|dateofbirth = 
+|birthplace = 
+|job = Stunt Performer
+|imdb = https://www.imdb.com/name/nm5210879/
+|twitter = }}
+'''Tomas Ereminas''' is a stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 1|first season]] episodes "[[The Wolf and the Lion]]" and "[[The Pointy End]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 1|||||yes|||yes}}
+
+==See also==
+*{{IMDb
+|# = 1029292}}
+*{{Facebook
+|# = tomas.ereminas.5}}
+{{DEFAULTSORT:Ereminas, Tomas}}
+[[Category:Stunt performers of Game of Thrones]]

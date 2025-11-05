@@ -1,0 +1,37 @@
+{{Canonicity|Canon}}
+{{Spoiler|AKOTSK}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Tully
+| Image        = 
+| Type         = Castle
+| Status       = 
+| Location     = The [[Riverlands]], [[Westeros]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Whitewalls''',{{Ref|THTDB201}} or '''Whitewalls Castle''',{{Ref|H&L706}} was a castle in the [[Riverlands]], near the [[Gods Eye]]. 
+
+==In the books==
+Whitewalls was ruled by House Butterwell. The castle was very beautiful, made from carved white marble imported from the [[Vale of Arryn]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Whitewalls}} {{Spoilers|AKOTSK}}
+
+<!--Navboxes-->
+{{Riverlands}}
+
+<!--Categories-->
+[[Category:Castles of the Riverlands]]
+
+<!--Languages-->
+[[de:Weißstein]]
+[[ru:Белые Стены]]

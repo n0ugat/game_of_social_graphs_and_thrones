@@ -1,0 +1,91 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Egen.svg
+| Link  = House Egen
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Arryn
+| Image       = Vardis profile.jpg
+| Birth       = The [[Vale of Arryn]]
+| Death       = [[298 AC]]{{Dateref|Game of Thrones: Season 1}}<br>The [[Eyrie]], the [[Vale of Arryn]]
+| House       = [[House Egen|Egen]]
+| Affiliation = [[House Arryn]]
+| Titles      = [[Knighthood|Ser]]<br>[[Captain of the guard]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Vale of Arryn|Valemen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 1|1]]
+| Appearances = 2 episodes {{Below|Appearances}}
+| First       = "[[The Wolf and the Lion]]"
+| Last        = "[[A Golden Crown]]"
+| DeathEp     = "A Golden Crown"
+| Actor       = [[Brendan McCormack]]
+}}
+{{Quote|My lady, I would gladly fight the Imp's champion for you.|Vardis Egen to [[Lysa Arryn]]|A Golden Crown}}
+Ser '''Vardis Egen''' was the [[captain of the guard]] at the [[Eyrie]]. 
+
+==Biography==
+===Background===
+Vardis Egen was captain of [[Jon Arryn]]'s personal guard in [[King's Landing]] and then became captain of the guard in the Eyrie for [[Robin Arryn]] and his mother, [[Lysa Arryn]]. He is a knight of some reputation, but is no longer a young man.{{Ref|GOT105}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+Vardis leads the group of knights who meet [[Catelyn Stark|Catelyn]] and her prisoner [[Tyrion Lannister|Tyrion]] before she enters the Eyrie. Lysa orders Tyrion imprisoned in the sky cells.{{Ref|GOT105}}
+
+After spending some time in a sky cell, Tyrion demands a [[First trial by combat of Tyrion Lannister|trial by combat]]. Though many men offer to fight as Lysa's champion, she asks Ser Vardis to represent [[House Arryn]], and he accepts. In the ensuing duel, he is killed and thrown through the Moon Door by [[Bronn]].{{Ref|GOT106}}
+
+[[File:Bronn defeats Vardis.jpg|thumb|Vardis is thrown through the Moon Door.]]
+Lysa snaps angrily to Bronn that he didn't fight with honor. The sellsword agrees, before pointing to the Moon Door and noting that Ser Vardis did, which is effectively what got him killed.{{Ref|GOT106}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Ser Vardis Egen is an extremely loyal servant and retainer of [[House Arryn]]. He had been the captain of the guard when Jon Arryn was [[Hand of the King]]. He is described as heavy, square, plain-faced, silver-haired, and having no humor. He has one young son.
+
+In the battle with Bronn, Vardis loses not only because he is a bit older and slower than Bronn, but also because Lysa gives him Jon Arryn's great sword to defend the honor of the House, which is a heavier and unfamiliar blade. 
+
+In contrast to the show, Bronn kills Vardis without pushing him out of the Moon Door (which is set in the wall, not in the floor).
+
+==Gallery==
+<gallery>
+Vale knights.jpg|Ser Vardis leads a column of [[Knighthood|knights]] flying the banner of House Arryn through the [[Vale of Arryn|Vale]]. Promotional image from "[[The Wolf and the Lion]]". 
+Tyrion, Cat and Vardis at the Eyrie.jpg|Ser Vardis and [[Catelyn Stark]] present [[Tyrion Lannister]] at the [[Eyrie]]. Promotional image from "The Wolf and the Lion".
+Vardis Egen.jpeg|Ser Vardis prepares to duel [[Bronn]].
+</gallery>
+
+==Appearances==
+*{{GOT|The Wolf and the Lion}}
+*{{GOT|A Golden Crown}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Arryn}}
+
+<!--Categories-->
+{{DEFAULTSORT:Egen, Vardis}}
+[[Category:Captains of the guard]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Knights]]
+[[Category:Members of House Egen|Vardis Egen]]
+[[Category:Servants and retainers of House Arryn]]
+[[Category:Valemen]]
+
+<!--Languages-->
+[[de:Vardis Egen]]
+[[fr:Vardis Egen]]
+[[ru:Вардис Иген]]

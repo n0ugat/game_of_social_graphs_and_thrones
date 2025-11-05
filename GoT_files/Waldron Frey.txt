@@ -1,0 +1,89 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Frey.svg
+| Link  = House Frey
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Frey
+| Image       = 
+| Birth       = The [[Twins]], the [[Riverlands]]
+| Death       = [[303 AC]]{{Dateref|Game of Thrones: Season 6}}<br>The Twins, the Riverlands
+| House       = [[House Frey|Frey]]
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Riverlands|Rivermen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = {[[Walder Frey]]}
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = {[[Stevron Frey]]}<br>{[[Lothar Frey]]}<br>{[[Olyvar Frey]]}<br>[[Roslin Tully]]<br>[[Arwaya Frey]]<br>[[Walda Frey (The Rains of Castamere)|Walda Frey]]<br>[[Derwa Frey]]<br>[[Waldra Frey]]<br>[[Shirei Frey]]
+----
+[[Bastard]] paternal half-siblings:<br>{[[Walder Rivers]]}<br>{[[Ryger Rivers]]}
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Dialogue a-b|Catelyn Stark|And Arya will marry his son Waldron when they both come of age.|Robb Stark|She won't be happy about that.|[[Catelyn Stark|Catelyn]] and [[Robb Stark]] discussing Waldron.|Baelor}}
+'''Waldron Frey''' was one of the many sons of [[Walder Frey]].
+
+==Biography==
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+When [[Catelyn Stark|Catelyn]] negotiates with [[Walder Frey]] to gain permission for [[Robb Stark|Robb]] and his army to pass the [[Twins]], Walder demands that [[Arya Stark|Arya]] will marry his son Waldron. Catelyn and Robb accept his terms.{{Ref|GOT109}}
+
+===[[Game of Thrones: Season 7|''Game of Thrones'': Season 7]]===
+Unless he died sometime during the [[War of the Five Kings]], Waldron is supposedly [[Assassinations at the Twins|murdered]], along with his other male family members, by Arya, in retaliation for the [[Red Wedding]].{{Ref|GOT701}}
+
+==Family==
+{{Frey tree}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Arya is betrothed to Elmar Frey. The character has been renamed for the television series. Elmar is the twenty-second son of Lord Walder Frey and the fourth born to Lord Walder's seventh wife, Annara Farring. Elmar is the older brother of [[Shirei Frey]], the youngest child that Lord Walder had with Annara Farring. He is nine years old.
+
+Elmar encounters Arya several times in [[Harrenhal]] and tries to boss her around, while mentioning proudly that he is trueborn son of lord Frey and is going to marry a princess - both of them are unaware that Arya is that princess. Arya is unimpressed and does not comply to him. After being informed that Robb breached the pact with the Freys, Elmar tells Arya whiningly that his father told him he had to marry someone else, or to become a [[septon]]. Arya has no sympathy to him.
+
+Elmar appears briefly in the third novel, serving as the [[cupbearer]] when [[Roose Bolton]] hosts [[Jaime Lannister|Jaime]] and [[Brienne of Tarth|Brienne]] at Harrenhal. Roose tells them that Elmar was to wed Arya Stark, but Lord Frey had no choice but to break the betrothal when Robb betrayed him.
+
+Elmar does not appear in the novels afterwards.
+
+In the German dub of the TV series the name Elmar was used instead of Waldron.
+
+==Appearances==
+*{{GOT|Baelor}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|Elmar Frey}}
+
+<!--Navboxes-->
+{{House Frey}}
+
+<!--Categories-->
+{{DEFAULTSORT:Frey, Waldron}}
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Members of House Frey|Waldron Frey]]
+[[Category:Rivermen]]
+
+<!--Languages-->
+[[de:Elmar Frey]]
+[[es:Elmar Frey]]
+[[fr:Waldron Frey]]
+[[nl:Elmar Frey]]
+[[pl:Elmar Frey]]
+[[ro:Waldron Frey]]
+[[ru:Уолдрон Фрей]]
+[[zh:艾尔玛·佛雷]]

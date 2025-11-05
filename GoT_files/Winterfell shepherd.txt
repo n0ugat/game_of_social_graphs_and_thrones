@@ -1,0 +1,73 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Stark
+| Image       = Winterfell shepherd.jpg
+| Birth       = 
+| Death       = [[299 AC]]{{Dateref|Game of Thrones: Season 2}}<br>The [[North]]{{Ref|GOT208}}
+| House       = 
+| Affiliation = [[House Stark]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Northmen|Northern]]
+| Religion    = [[Old Gods]]
+| Father      = 
+| Mother      = 
+| Spouse      = {Wife}
+| Lovers      = 
+| Issue       = 3 sons
+----
+Adoptive sons:<br>{[[Jack]]}<br>{[[Billy]]}
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 2|2]]
+| Appearances = 2 episodes {{Below|Appearances}}
+| First       = "[[The Ghost of Harrenhal]]"
+| Last        = "[[A Man Without Honor]]"
+| DeathEp     = "[[The Prince of Winterfell]]" {{C|fate confirmed}}
+| Actor       = [[Donagh Deeney]]
+}}
+{{Quote|And it's not just thieves, my lord. There's wolves in them hills now, more than I ever seen. They come down in the night and they kill my sheep. My three sons is away fighting for your brother, my lord. They'll fight, keep fighting till they're told to go home. I have no one to man my flock now. Only me. I can't keep watch all day and all night.|The shepherd explains his hardships to [[Bran Stark]]|The Ghost of Harrenhal}}
+This unnamed man was a '''shepherd''' who owed his lands to [[House Stark]] of [[Winterfell]]. 
+
+==Biography==
+===Background===
+He and his family lived in the lands of [[House Stark]] of [[Winterfell]]. His sons fought in the army of [[Robb Stark]] in the [[War of the Five Kings]].{{Ref|GOT205}}
+
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+In the great hall of Winterfell, [[Bran Stark|Bran]] holds court for his people. The shepherd reports being unable to tend to his flock, since his three sons fight in the south. Bran offers to assign two orphans, [[Billy]] and [[Jack]], from [[Winter town|Winterfell's outlying town]] to aid him. The shepherd gratefully accepts, saying that his wife always wanted more children.{{Ref|GOT205}}
+
+[[File:Farmer.jpg||thumb|Theon asks the shepherd about Bran and Rickon.]]
+Winterfell is later [[Capture of Winterfell|seized]] by [[Theon Greyjoy]]. Bran and Rickon escape and pass close by to the shepherd's farm. Theon tracks them there and brutally questions the shepherd who denies having seen them. [[Dagmer]] finds nutshells and tells Theon to send [[Luwin]] back to Winterfell. Theon later returns to Winterfell with the charred corpses of two boys, pretending that they are the Stark princes.{{Ref|GOT207}}
+
+Theon intends to compensate the shepherd for his trouble, but Dagmer reveals to Theon that he killed the shepherd and his wife to prevent them from revealing that the two corpses were those of the orphans.{{Ref|GOT208}}
+
+==In the books==
+In ''A Clash of Kings'', in which most of Season 2 is based, there's no shepherd that adopts two orphans. Instead, there's a miller and his wife from Winterstown, whose two sons are killed at Theon's command to facilitate an identical ruse. The wife, who desperately begs for mercy, is also killed at Theon's command. It is unknown what has become of the miller, who was not at home while his family was murdered.
+
+==Appearances==
+*{{GOT|The Ghost of Harrenhal}}
+*{{GOT|A Man Without Honor}}
+*{{GOT|The Prince of Winterfell}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{House Stark}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Northmen]]
+[[Category:Servants and retainers of House Stark]]
+[[Category:Shepherds]]
+[[Category:Smallfolk]]
+
+<!--Languages-->
+[[ru:Пастух из Винтерфелла]]

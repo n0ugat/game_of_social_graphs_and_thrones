@@ -1,0 +1,21 @@
+{{Template:Cast
+|Title = Tom Fava
+|Image = Tom Fava.jpg
+|role = [[Street tough 1|Street tough]]
+|status = 
+|imdb = http://www.imdb.com/name/nm4344228/|twitter = https://twitter.com/favaflave|Appearances = "[[The House of Black and White]]"}}
+'''Tom Fava''' is an English actor.
+
+In ''[[Game of Thrones]]'', he portrayed a [[Street tough 1|street tough]] in the episode "[[House of Black and White]]".
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 5||yes}}
+
+==​See also==
+*{{Template:IMDb
+|# = 4344228}}
+*{{Twitter
+|# = favaflave}}
+{{DEFAULTSORT:Fava, Tom}}
+[[Category:Guest starring cast members of Game of Thrones]]

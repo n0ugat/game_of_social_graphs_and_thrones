@@ -1,0 +1,70 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Greyjoy
+| Image       = 
+| Birth       = The [[Iron Islands]], the [[Seven Kingdoms]]
+| Death       = [[299 AC]]{{Dateref|Game of Thrones: Season 2}}<br>[[Winterfell]], the [[North]]
+| House       = 
+| Affiliation = [[House Greyjoy]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Ironborn]]
+| Religion    = [[Drowned God]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 2|2]]
+| Appearances = "[[Valar Morghulis]]"
+| First       = 
+| Last        = 
+| DeathEp     = "[[Mhysa]]" {{C|fate confirmed}}
+| Actor       = 
+}}
+{{Quote|Aggar and Gelmarr! Wex and Urzen! Stygg and Black Lorren!|[[Theon Greyjoy|Theon]] lists his comrades.|Valar Morghulis}}
+'''Urzen''' was an [[Ironborn]] raider and a member of the ''[[Sea Bitch]]'' crew. He took part in the [[capture of Winterfell]] during the [[War of the Five Kings]].
+
+==Biography==
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+Urzen is present when [[Theon Greyjoy|Theon]] gives a speech encouraging his crew to resist the [[Northmen]] led by [[Ramsay Bolton|Ramsay Snow]], and to die a glorious death.{{Ref|GOT210}}
+
+===[[Game of Thrones: Season 3|''Game of Thrones'': Season 3]]===
+[[Balon Greyjoy|Balon]] and [[Yara Greyjoy]] learn that the Ironborn captured at Winterfell were all [[Flaying|flayed]] alive on Ramsay's orders, despite being promised mercy if they surrendered.{{Ref|GOT310}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Urzen's background is the same. He is among the ironborn who raid the [[Stony Shore]] and part of the force that [[Capture of Winterfell|captures Winterfell]].
+
+As Theon's position becomes hopeless, he tells the ironborn they can leave and join [[Yara Greyjoy|his sister]]'s troops at [[Deepwood Motte]] or stay and fight with him against the Northmen, who will arrive soon to retake Winterfell. Urzen is among those who choose to leave.
+
+Urzen is not mentioned in the books afterwards.
+
+==Appearances==
+*{{GOT|Valar Morghulis}}
+*{{GOT|Mhysa}} {{Indirect}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Greyjoy}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Ironborn]]
+[[Category:Servants and retainers of House Greyjoy]]
+
+<!--Languages-->
+[[de:Urzen]]
+[[ru:Урзен]]

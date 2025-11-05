@@ -1,0 +1,37 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Will Dent.jpg
+| Birth   = William Dent
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[Game of Thrones]]''<br>''[[House of the Dragon]]''
+| Season  = ''Game of Thrones'':<br>[[Game of Thrones: Season 8|8]]<br>''House of the Dragon'':<br>[[House of the Dragon: Season 1|1]] {{*}} [[House of the Dragon: Season 2|2]]
+| Credits = 5 episodes {{Below|Credits}}
+| First   = "[[The Bells]]"
+| Last    = 
+}}
+'''William Dent''' is a stuntman.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 8|eighth season]] episode "[[The Bells]]".
+
+In ''[[House of the Dragon]]'', he was a stunt performer in the [[House of the Dragon: Season 1|first season]] episode "[[Second of His Name]]" and the [[House of the Dragon: Season 2|second season]] episodes "[[A Son for a Son]]", "[[The Red Dragon and the Gold]]" and "[[The Red Sowing]]".
+
+==Credits==
+===Stunts===
+====''[[Game of Thrones]]''====
+{{Game of Thrones: Season 8|||||yes}}
+
+====''[[House of the Dragon]]''====
+{{House of the Dragon: Season 1|||yes}}
+{{House of the Dragon: Season 2|yes|||yes|||yes}}
+
+==See also==
+*{{IMDb
+|# = 4847893}}
+
+==References==
+{{reflist}}
+{{DEFAULTSORT:Dent, Will}}
+[[Category:Stunt performers of Game of Thrones]]
+[[Category:Stunt performers of House of the Dragon]]

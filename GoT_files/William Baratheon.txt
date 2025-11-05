@@ -1,0 +1,81 @@
+{{Canonicity|Non}}
+{{Heraldry
+| Image = House Baratheon.svg
+| Link  = House Baratheon
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Baratheon
+| Image       = House Baratheon lineage.jpg
+| Birth       = [[23 AC]]{{Dateref|William Baratheon}}<br>[[Storm's End]], the [[Stormlands]]{{Ref|GOT106}}
+| Death       = [[83 AC]]{{Dateref|William Baratheon death}} (aged 60)
+| House       = [[House Baratheon|Baratheon]]{{Ref|GOT106}}
+| Affiliation = 
+| Titles      = [[Lord of Storm's End]]{{Ref|GOT106}}<br>[[Lord Paramount of the Stormlands]]{{Ref|GOT106}}
+| AKA         = 
+| Culture     = [[Stormlands|Stormlander]]{{Ref|GOT106}}
+| Religion    = 
+| Father      = {[[Serac Baratheon]]}{{Ref|GOT106}}
+| Mother      = {[[Monica Baratheon|Monica Velaryon]]}{{Ref|GOT106}}
+| Spouse      = {[[Martyna Mullendore]]}{{Ref|GOT106}}
+| Lovers      = 
+| Issue       = {[[William Baratheon (son of William)|William Baratheon]]}{{Ref|GOT106}}<br>{[[Jon Baratheon]]}{{Ref|GOT106}}<br>{[[Martyn Baratheon]]}{{Ref|GOT106}}<br>{[[Mace Baratheon]]}{{Ref|GOT106}}<br>{[[Orys Baratheon (son of William)|Orys Baratheon]]}{{Ref|GOT106}}<br>{[[Theodor Baratheon]]}{{Ref|GOT106}}<br>{[[Bryte Baratheon]]}{{Ref|GOT106}}<br>{[[Tommax Baratheon]]}{{Ref|GOT106}}<br>{[[Brune Baratheon]]}{{Ref|GOT106}}<br>{[[Gude Baratheon]]}{{Ref|GOT106}}<br>{[[Lex Baratheon]]}{{Ref|GOT106}}<br>{[[Wineiri Baratheon]]}{{Ref|GOT106}}<br>{[[Miriam Baratheon]]}{{Ref|GOT106}}<br>{[[Argalia Baratheon]]}{{Ref|GOT106}}
+| Siblings    = 
+| Arms        = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''William Baratheon''' was an early member of [[House Baratheon]].
+
+==Biography==
+===Background===
+William was the son of [[Serac Baratheon|Serac]] and [[Monica Baratheon]]. Together with his wife [[Martyna Mullendore]], William had fifteen children, twelve sons and three daughters. He died of heart problems at sixty years old.<ref name=bookprop>''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]'' prop ([https://www.factinate.com/wp-content/uploads/2018/02/Catspaw-Season-1.png see image], William's entry is in the lower right)</ref>
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+He is mentioned in his father's entry in ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]''.{{Ref|GOT106}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no such character.
+
+==Appearances==
+*{{GOT|A Golden Crown}} {{Text}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Succession box-->
+{{S-start}}
+{{Succession box
+ | title  = [[Lord of Storm's End]] and [[Lord Paramount of the Stormlands]]
+ | years  = [[73 AC|73]] - [[83 AC]]
+ | with   = 
+ | before = [[Serac Baratheon]]
+ | after  = Unknown
+}}
+{{S-end}}
+
+<!--Navboxes-->
+{{House Baratheon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Baratheon, William}}
+[[Category:Bannermen of House Targaryen]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Lords of Storm's End|William Baratheon]]
+[[Category:Lords Paramount of the Stormlands|William Baratheon]]
+[[Category:Members of House Baratheon|William Baratheon]]
+[[Category:Stormlanders]]
+
+<!--Languages-->
+[[de:William Baratheon]]
+[[es:William Baratheon]]
+[[fr:William Baratheon]]
+[[ru:Уильям Баратеон]]

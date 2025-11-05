@@ -1,0 +1,71 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Leftimage  = House Mudd.svg
+| Leftlink   = House Mudd
+| Rightimage = Night's Watch.svg
+| Rightlink  = Night's Watch
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = Tristan Mudd.png
+| Birth       = At [[Oldstones]]
+| Death       = 
+| House       = [[House Mudd|Mudd]]
+| Affiliation = [[Night's Watch]]
+| Titles      = [[Lord Commander of the Night's Watch]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[First Men]]
+| Religion    = [[Old Gods]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Tristan Mudd, Mad [[Marq Rankenfell]], [[Robin Hill]]. Each nearly destroyed us with their foolishness.|Ser [[Alliser Thorne]]|The Lord Commanders}}
+'''Tristan Mudd''' was a [[Lord Commander of the Night's Watch]].
+
+==Biography==
+Tristan Mudd at some point joined the [[Night's Watch]], and eventually rose to become its [[Lord Commander of the Night's Watch|Lord Commander]]. He is remembered as one of the worst to hold the title.{{Ref|H&L507}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, his story is the same.
+
+==Appearances==
+*{{H&L|The Lord Commanders}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Mudd}}
+{{Night's Watch}}
+
+<!--Categories-->
+{{DEFAULTSORT:Mudd, Tristan}}
+[[Category:Individuals from Histories & Lore]]
+[[Category:Lords Commander of the Night's Watch]]
+[[Category:Members of House Mudd|Tristan Mudd]]
+[[Category:Rivermen]]
+
+<!--Languages-->
+[[de:Tristan Schlamm]]
+[[es:Tristan Mudd]]
+[[fr:Tristan d'Alluve]]
+[[nl:Tristan Modde]]
+[[ru:Тристан Мадд]]
+[[zh:崔斯坦·穆德]]

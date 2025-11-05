@@ -1,0 +1,28 @@
+{{Cast
+| Title= Tony Flynn
+| Image= Tony Flynn.jpg
+| birthdate = 
+| birthplace = {{WPS|Ireland}}
+| role= Night's Watch man
+| status= 
+| imdb= http://www.imdb.com/name/nm0283642/
+| twitter= 
+| First = "[[The Red Woman]]"
+| Last ="[[Home]]" 
+}}'''Tony Flynn''' is an Irish actor. He has appeared in the film ''{{WPS|Some Mother's Son }}'' and television series such as ''{{WPS|The Tudors}}'' and ''{{WPS|The Fall (TV series)|The Fall}}''.
+
+In ''[[Game of Thrones]]'', he portrayed a Night's Watch man in [[Game of Thrones: Season 6|Season 6]].
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 6|yes|yes}}
+
+==See also==
+*{{IMDb
+|# = 0283642}}
+
+==References==
+{{Reflist}}
+[[ro:Tony Flynn]]
+{{DEFAULTSORT:Flynn, Tony}}
+[[Category:Guest starring cast members of Game of Thrones]]

@@ -1,0 +1,44 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Jordayne.svg
+| Link  = House Jordayne
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Martell
+| Image        = The Tor Pin.png
+| Type         = Castle
+| Status       = 
+| Location     = [[Dorne]], [[Westeros]]
+| Population   = 
+| Rulers       = [[House Jordayne]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+The '''Tor'''{{Guideref|Map of Westeros}} is a castle in [[Dorne]], the region of [[Westeros]] that is controlled by [[House Martell]] of [[Sunspear]]. The castle is located in the north of Dorne on the shore of the [[Sea of Dorne]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the Tor is the seat of House Jordayne, one of the most powerful Dornish houses.
+
+In the novels, [[George R.R. Martin]] named this castle and its house as a tribute to fellow fantasy author [[wikipedia:Robert Jordan|Robert Jordan]], author of the ''[[wikipedia:The Wheel of Time|Wheel of Time]]'' series. Tor Books are the publishers of the ''Wheel of Time'' books and the head of House Jordayne is Lord Trebor (a palindrome of 'Robert').
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Dorne}}
+
+<!--Categories-->
+[[Category:Castles of Dorne]]
+[[Category:House Jordayne]]
+
+<!--Languages-->
+[[de:Der Fels]]
+[[ru:Тор]]
+[[uk:Тор]]

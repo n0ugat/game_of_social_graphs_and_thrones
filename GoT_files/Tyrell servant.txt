@@ -1,0 +1,53 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Tyrell
+| Image       = Tyrell-server-3x02.jpg
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[House Tyrell]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Andals|Andal]]
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 3|3]]
+| Appearances = "[[Dark Wings, Dark Words]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Will Rastall]]
+}}
+{{Dialogue a-b|Servant|The cheese will be served after the cakes, my lady.|Olenna Tyell|The cheese will be served when I want it served. And I want it served now.|Olenna Tyrell orders the servant |Dark Wings, Dark Words}}
+This '''Tyrell servant''' worked as a food server for [[House Tyrell]] in [[King's Landing]].
+
+==Biography==
+===Background===
+He works as a food server for [[House Tyrell]] in [[King's Landing]]. He wears the same color and fabric as the rest of House Tyrell's servants, suggesting he was brought from [[Highgarden]] and not simply employed by the [[Red Keep]].{{Ref|GOT302}}
+
+===[[Game of Thrones: Season 3|''Game of Thrones'': Season 3]]===
+He waits on [[Olenna Tyrell]] and her retinue when [[Margaery Tyrell]] arrives to introduce [[Sansa Stark]] to her grandmother so they can learn about King [[Joffrey Baratheon]]'s true character. Lady Olenna demands to know if he intends to bring them [[Food and drink|food]] or starve them to death. A few minutes later, she berates him for insisting that he follow protocol and only serve cheese after the [[Lemon cake|lemon cakes]], and orders him to bring her the cheese dish immediately. Her harsh treatment of him may have been to ensure he was not present during Sansa's confession. After the confession, he brings a bowl of cheese much to Lady Olenna's delight.{{Ref|GOT302}}
+
+==Appearances==
+*{{GOT|Dark Wings, Dark Words}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Individuals from the Reach]]
+[[Category:Servants and retainers of House Tyrell]]
+[[Category:Smallfolk]]
+
+<!--Languages-->
+[[ru:Слуга Тиреллов]]

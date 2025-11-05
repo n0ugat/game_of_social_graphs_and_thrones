@@ -1,0 +1,41 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Tully
+| Image        = Wendish Town Pin.png
+| Type         = Town
+| Status       = 
+| Location     = The [[Riverlands]], [[Westeros]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Wendish Town'''{{Guideref|Map of Westeros}} is a town in the [[Riverlands]], the region controlled by [[House Tully]] of [[Riverrun]]. It is located north of Riverrun, near the [[Blue Fork]] of the [[Trident]] and south of [[Seagard]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Wendish Town is sacked at the outset of the [[War of the Five Kings]]. [[House Lannister|Lannister]] raiders, led by [[Gregor Clegane|the Mountain]], slip across the border and attack the town. The inhabitants retreat to the holdfast, but the raiders burn it. As the townsfolk flee, they are shot down with arrows.
+
+Ser Raymun Darry tells of the attack to [[Eddard Stark]]; Eddard sends Lord [[Beric Dondarrion]] to bring the Mountain to justice.
+
+The town is noted as the home of the popular song ''On a Misty Morn'', one of the songs in the repertoire of the bard [[Marillion]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Riverlands}}
+
+<!--Categories-->
+[[Category:Riverlands]]
+[[Category:Towns]]
+
+<!--Languages-->
+[[de:Wendisch]]
+[[ru:Вендский городок]]

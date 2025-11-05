@@ -1,0 +1,34 @@
+{{DISPLAYTITLE:Winterfell {{C|''The Game Revealed''}}}}
+{{Episode
+| Title    = Winterfell
+| Type     = Revealed
+| Image    = TGR801.jpg
+| Season   = 8
+| Episode  = 1
+| Date     = April 16, 2019{{Listref|TGR78}}
+| Runtime  = 16 minutes{{Appleref|TGR801}}
+| Writer   = 
+| Director = 
+| Year     = 
+| Previous = "[[Episode 7]]"{{Listref|TGR}}
+| Next     = "[[A Knight of the Seven Kingdoms (The Game Revealed)|A Knight of the Seven Kingdoms]]"{{Listref|TGR}}
+}}
+"'''Winterfell'''" is the first episode of the [[The Game Revealed: Season 8|third season]] of ''[[The Game Revealed]]''. It is the thirteenth episode of the series overall. It was released on April 16, 2019.
+
+==Description==
+{{Description|TGR801}}
+
+==Gallery==
+<gallery bordersize="none">
+Game of Thrones / Season 8 Episode 1 / Game Revealed (HBO)
+</gallery>
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{The Game Revealed}}
+
+<!--Categories-->
+[[Category:Episodes of The Game Revealed: Season 8| 01]]
+[[Category:Episodes released in 2019|4.16]]

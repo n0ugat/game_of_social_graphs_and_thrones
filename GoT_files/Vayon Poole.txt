@@ -1,0 +1,82 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Poole.svg
+| Link  = House Poole
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Stark
+| Image       = Vayon Poole.jpg
+| Birth       = The [[North]]{{Con|AWOIAF}}
+| Death       = [[298 AC]]{{Dateref|Game of Thrones: Season 1}}<br>[[Red Keep]], [[King's Landing]]{{Ref|GOT108}}
+| House       = [[House Poole|Poole]]
+| Affiliation = [[House Stark]]
+| Titles      = [[Steward]] of [[Winterfell]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Northmen|Northern]]
+| Religion    = [[Old Gods]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = [[Jeyne Poole]]<br>4 other daughters
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 1|1]]
+| Appearances = "[[The Pointy End]]"
+| First       = 
+| Last        = 
+| DeathEp     = "The Pointy End"
+| Actor       = [[Matthew Scurfield]]
+}}
+{{Quote|If you break anything, the septa will have my head.|Vayon Poole, referring to [[Mordane]], ordering two [[House Stark|Stark]] servants|The Pointy End}}
+'''Vayon Poole''' served [[House Stark]] as the [[Steward]] of [[Winterfell]].
+
+==Biography==
+===Background===
+Vayon Poole serves House Stark as the Steward of Winterfell. He is the father of five daughters, one of whom, [[Jeyne Poole]], is [[Sansa Stark|Sansa]]'s best friend.{{Ref|GOT104}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+When [[Luwin]] approaches [[Catelyn Stark|Catelyn]] to talk about the costs of the royal visit to Winterfell and the need to replace the members of the household that accompanied [[Eddard Stark|Eddard]] to [[King's Landing]], she, grieving for [[Bran Stark|Bran]], tells Luwin to have Poole see to the task. Luwin notes that Poole also went south with Lord Stark.{{Ref|GOT102}}
+
+Poole is later killed by [[House Lannister|Lannister]] men during the [[Massacre in the Red Keep|purge of the Stark household]] ordered by King [[Joffrey Baratheon|Joffrey]] after Eddard tries to remove him from the [[Iron Throne|throne]]. He is attacked and killed while he and his men are packing for an evacuation Eddard has ordered in anticipation of his move against Joffrey.{{Ref|GOT108}}
+
+==Family==
+{{Poole tree}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Vayon Poole's background and death are the same.
+
+There is no mentioning in the books that Vayon had any children in addition to Jeyne, though it is not said explicitly either that Jeyne was his only child.
+
+==Appearances==
+*{{GOT|The Kingsroad}} {{Mentioned}}
+*{{GOT|The Pointy End}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Stark}}
+
+<!--Categories-->
+{{DEFAULTSORT:Poole, Vayon}}
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Members of House Poole|Vayon Poole]]
+[[Category:Northmen]]
+[[Category:Servants and retainers of House Stark]]
+[[Category:Stewards]]
+
+<!--Languages-->
+[[de:Vayon Pool]]
+[[nl:Vayon Poel]]
+[[pl:Vayon Poole]]
+[[ru:Вейон Пуль]]

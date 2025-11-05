@@ -1,0 +1,46 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Flint.svg
+| Link  = House Flint
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Stark
+| Image        = Widow's Watch.png
+| Type         = Castle
+| Status       = 
+| Location     = The [[North]], [[Westeros]]
+| Population   = 
+| Rulers       = [[House Flint]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Old Gods]]
+| Places       = 
+| Founded      = 
+}}
+'''Widow's Watch'''{{Ref|GOT402}} is a castle in the [[North]]. It is the seat of [[House Flint]] of Widow's Watch, a vassal house holding fealty to [[House Stark]] of [[Winterfell]]. Widow's Watch is located on a peninsula extending into the northern mouth of the [[Bite]]. It is south-east of Winterfell.
+
+==History==
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+Widow's Watch is seen on a map of the North that [[Roose Bolton]] has in the [[Dreadfort]], when he is pointing at [[Moat Cailin]] to the west.{{Ref|GOT402}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Widow's Watch is in the same location. It is the stronghold of arguably the more powerful of the two cadet branches of House Flint, the other branch being based at [[Flint's Finger]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{North}}
+
+<!--Categories-->
+[[Category:Castles of the North]]
+[[Category:House Flint]]
+
+<!--Languages-->
+[[de:Witwenwacht]]
+[[ru:Вдовий Дозор]]
+[[zh:寡妇望]]

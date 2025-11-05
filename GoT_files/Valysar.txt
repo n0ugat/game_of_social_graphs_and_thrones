@@ -1,0 +1,39 @@
+{{Canonicity|Canon}}
+{{References}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Free
+| Image        = Valysar.png
+| Type         = Town
+| Status       = 
+| Location     = The [[Rhoyne]], [[Essos]]
+| Population   = 
+| Rulers       = [[Triarchs of Volantis]]
+| Institutions = 
+| Military     = 
+| Religion     = 
+| Places       = 
+| Founded      = 
+}}
+'''Valysar'''{{Mapref|Viewer's Guide}} is a town in western [[Essos]]. The city is located north-west of [[Volantis]] on the western bank of the [[Rhoyne]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Valysar is a vassal town of [[Volantis]]. As it is located on the western side of the river, it does not have any fear of the [[Dothraki]] or a need to pay them tribute, unlike its sister-city of [[Selhorys]] to the north. Valysar is a middling-sized town by the standards of the [[Free Cities]], but would be a small city by [[Westeros]]i standards.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Known world}}
+{{Free Cities}}
+
+<!--Categories-->
+[[Category:Towns]]
+[[Category:Volantis]]
+
+<!--Languages-->
+[[ru:Валисар]]
+[[uk:Валісар]]

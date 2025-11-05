@@ -1,0 +1,20 @@
+{{Crew
+|Image = Zdravko Jurkin.jpg
+|dateofbirth = 
+|birthplace = 
+|job = Stunt Performer
+|imdb = http://www.imdb.com/name/nm5020211/
+|twitter = }}
+'''Zdravko Jurkin''' is a stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 4|fourth season]] episode "[[The Mountain and the Viper]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 4||||||||yes}}
+
+==See also==
+*{{IMDb
+|# = 5020211}}
+{{DEFAULTSORT:Jurkin, Zdravko}}
+[[Category:Stunt performers of Game of Thrones]]

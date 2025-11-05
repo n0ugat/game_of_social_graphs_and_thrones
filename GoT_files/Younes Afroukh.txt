@@ -1,0 +1,30 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Younes Afroukh.jpg
+| Birth   = December 1, 1972 {{Age|1972|12|1}}<br>Marrakech, Morocco
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 1|1]]
+| Credits = "[[Winter Is Coming]]"
+| First   = 
+| Last    = 
+}}
+'''Younes Afroukh''' (born December 1, 1972) is a Morrocan stuntman.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 1|first season]] episode "[[Winter Is Coming]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 1|yes}}
+
+==See also==
+*{{IMDb
+|# = 5569981}}
+*{{Instagram
+|# = younestunt}}
+*{{Linkedin
+|# = /in/younesafroukh}}
+{{DEFAULTSORT:Afroukh, Younes}}
+[[Category:Stunt performers of Game of Thrones]]

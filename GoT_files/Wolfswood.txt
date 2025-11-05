@@ -1,0 +1,60 @@
+{{Canonicity|Canon}}
+{{Region
+| Title      = {{PAGENAME}}
+| Theme      = Stark
+| Image      =
+<gallery>
+Wolfswoodpic1.png|Appearance
+Wolfswood.png|Location
+</gallery>
+| Type       = Forest
+| Location   = The [[North]], [[Westeros]]
+| Geography  = Woodland, evergreen
+| Population = 
+| Rulers     = 
+| Culture    = 
+| Religion   = 
+| Military   = 
+| Capital    = 
+| Castles    = 
+| Cities     = 
+| Towns      = 
+| Villages   = 
+| Places     = 
+| Founded    = 
+}}
+The '''Wolfswood'''{{Guideref|Map of Westeros}} is a forest in the [[North]]. It is located just north of [[Winterfell]] and extends for some three hundred miles north and west to the [[Bay of Ice]]. [[Deepwood Motte]] is located north-west of Winterfell on the other side of the Wolfswood, close to the [[Bay of Ice]].
+
+The area is controlled mostly by [[House Glover]] of Deepwood Motte.
+
+==History==
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+[[Bran Stark]] is attacked by [[Free Folk|wildlings]] (one of them being [[Osha]]) in the Wolfswood, before being rescued by [[Robb Stark|Robb]] and [[Theon Greyjoy|Theon]].<ref>"[[A Golden Crown]]"</ref>
+
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+During the [[battle in the ice]] Stannis' army retreats into the Wolfswood, where the Bolton Cavalry pursues and annihilates them.
+
+==In the books==
+[[File:2x1 Night's Watch Still.jpg|thumb|Night's Watch travelling the Wolfswood.]]
+In the ''[[A Song of Ice and Fire]]'' novels, the Wolfswood is so-named for the numerous wolves that live within its eaves. The forest is settled by crofters, foresters and hunters. House Glover of Deepwood Motte controls much of the territory of the Wolfswood. Sub-vassals of the Glovers who also live in the Wolfswood include House Forrester, House Woods, House Branch, and House Bole. Despite these woodsmen, overall the forest is thinly populated, wild and untamed.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{North}}
+
+<!--Categories-->
+[[Category:Forests]]
+[[Category:House Glover]]
+[[Category:North]]
+
+<!--Languages-->
+[[de:Wolfswald]]
+[[pl:Wilczy Las]]
+[[ru:Волчий лес]]
+[[uk:Вовчий ліс]]
+[[zh:狼林]]

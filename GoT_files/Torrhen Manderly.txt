@@ -1,0 +1,56 @@
+{{Canonicity|Canon}}
+{{Spoiler|HOTD}}
+{{Heraldry
+| Image = House Manderly.svg
+| Link  = House Manderly
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Stark
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = [[House Manderly|Manderly]]
+| Affiliation = [[House Stark]]
+| Titles      = [[Knighthood|Ser]]
+| AKA         = 
+| Culture     = [[Northmen|Northern]]
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 3|3]]
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Dan Fogler]]
+}}
+Ser '''Torrhen Manderly''' is a [[Knighthood|knight]] who lived during the [[Dance of the Dragons]].{{Ref|TDOD}}
+
+==In the books==
+In ''[[Fire & Blood]]'', Torrhen Manderly was a knight of [[House Manderly]] and the second son of Lord Desmond Manderly..
+
+==Appearances==
+*{{TDOD}} {{C|illustrated or mentioned indirectly}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Categories-->
+{{DEFAULTSORT:Manderly, Torrhen}}
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Individuals from The Dance of Dragons]]
+[[Category:Knights]]
+[[Category:Members of House Manderly]]
+
+<!--Languages-->
+[[pl:Torrhen Manderly]]

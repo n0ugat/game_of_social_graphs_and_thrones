@@ -1,0 +1,76 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{War
+| Title      = {{PAGENAME}}
+| Type       = Westeros
+| Part       = 
+| Image      = H&L610.png
+| Previous   = 
+| Concurrent = 
+| Next       = [[Long Night]]
+| Beginning  = c. [[11700 BC]]{{Dateref|First Men}}
+| End        = c. [[11200 BC]]{{Dateref|Pact}}
+| Place      = [[Westeros]]
+| Outcome    = The [[Pact]]
+*Peace is established between the [[Children of the Forest]] and the [[First Men]] 
+*The [[White Walkers]] are created from captured humans as part of an Children effort to combat the First Men
+| Factions1  = [[First Men]]
+| Factions2  = [[Children of the Forest]]<br>[[White Walkers]]
+| Factions3  = 
+| Factions4  = 
+| Factions5  = 
+| Factions6  = 
+| Leaders1   = [[First King]]
+| Leaders2   = [[Night King]]
+| Leaders3   = 
+| Leaders4   = 
+| Leaders5   = 
+| Leaders6   = 
+| Events     = [[Pact|Isle of Faces]]
+}}
+{{Quote|Twelve thousand years ago, the First Men came from the eastern continent, crossing a land-bridge called the Arm of Dorne. Riding their great horses and wielding weapons of bronze, they cut down the Children's forests and weirwoods. A terrible war raged between the Children and the First Men that lasted for centuries.|[[Bran Stark]]|The Children of the Forest, the First Men, and the Andals}}
+The '''war of the First Men and the Children of the Forest''' was a centuries-long conflict between the non-human [[Children of the Forest]] and the [[First Men]] who migrated to [[Westeros]] [[11700 BC|twelve thousand years ago]].
+
+==History==
+===Prelude===
+[[File:ChildrenOfTheForestGreenseer.png|left|thumb|The Children of the Forest.]]The vast continent of Westeros was originally inhabited by a diminutive non-human race known as the Children of the Forest. Aboriginal and few in number, they were nonetheless very woodcrafty and their wise men wielded powerful magic abilities. Twelve thousand years ago the first humans to live on Westeros, known as the First Men, migrated to Westeros from the eastern continent [[Essos]], across a land bridge known as the [[Arm of Dorne]]. The arrival of the First Men marked the beginning of the "Dawn Age" of Westeros.
+
+===War===
+[[File:CuttingDownAWeirwood.png|thumb|The First Men cut down weirwoods.]]The First Men began encroaching on the forests of the Children, cutting and clearing land to use for agriculture. The First Men cut down the Children's sacred [[weirwood]] trees, infuriating them. The Children fought back against the tide of the First Men's migration throughout Westeros, in a series of conflicts lasting two thousand years.
+
+[[File:AlphaStark.png|thumb|The First Men battle with the Children of the Forest.]]
+
+The Children of the Forest were never numerous, and they did not possess much technology, wielding blades and arrowheads made out of [[dragonglass|obsidian]] stone, while their woven bark armors were no match for the First Men's bronze weapons. This gave men the advantage in their fight, and made many of the Children believe that they might become extinct under the onslaught. However, the Children remained fierce fighters who knew their woods well and they did possess one advantage that men knew nothing of: [[magic]]. Using these powers, they unleashed beasts of all kinds against the First Men, but even that was not enought to turn the tide.
+
+The [[greenseer]]s of the Children of the Forest used their powerful magic to shatter the Arm of Dorne, and the ocean rose up and swallowed most of the land bridge. The few remnants became an island chain between Westeros and Essos known as the [[Stepstones]]. However, the destruction of the Arm of Dorne ultimately did not stop the advance of the First Men.
+
+As the First Men moved up north, the Children of the Forest attempted once again to use the ocean to halt their advance. They called upon the "[[hammer of waters]]" to shatter the [[Neck]] and break the continent in two. However, the Children only succeeded in flooding the land, filling it with bogs and swamps, but not enough to submerge it beneath the sea.
+
+At some point during the conflict, a group of Children of the Forest decided on a new deterrent against the advancing First Men. Utilizing powerful, untested magic, the Children of the Forest captured a First Men to utilize him in the creation of the first [[White Walkers|White Walker]]. The Children would utilize these powerful now former-humans in the war to turn the tide. As some point before or after the conclusion of conflict with the [[Pact]], the White Walkers broke free from the control of the Children of the Forest and disappeared into the [[Land of Always Winter]].
+
+===The Pact===
+{{Main|Pact}}
+[[File:ThePact.png|thumb|The two races join hands in peace.]]
+After two thousand years of conflict, the two sides had fought to a standstill. The two races tired of the centuries of bloodshed, and representatives of both groups came together on an island in the middle of a great lake in central Westeros, known as [[Gods Eye]]. There they forged a lasting peace known as the Pact: the open lands were granted to humanity, while the deep forests were to remain the undisturbed domain of the Children. The First Men were forbidden from ever cutting down a sacred weirwood tree again. To commemorate the Pact, the Children of the Forest carved a face into every weirwood tree on the island (making each a [[heart tree]]), and forever after the island has been known as the [[Isle of Faces]].
+
+The peace between the two races would endure another four thousand years, even enduring the invasion of the [[White Walkers]] two thousand years later. However, six thousand years ago the [[Andals]] invaded Westeros, conquering the First Men and killing the Children of the Forest wherever they encountered them, and converted most of the people of Westeros into the religion of the [[Faith of the Seven]].{{Ref|H&L101}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|War of the First Men and the children of the forest}}
+
+<!--Navboxes-->
+{{Wars}}
+
+<!--Categories-->
+[[Category:Wars|First Men and the Children of the Forest]]
+
+<!--Languages-->
+[[de:Zeitalter der Dämmerung]]
+[[fr:Guerre des Premiers Hommes et des Enfants de la Forêt]]
+[[ru:Война первых людей и детей леса]]

@@ -1,0 +1,52 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Yronwood.svg
+| Link  = House Yronwood
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Martell
+| Image        = Yronwood Pin.png
+| Type         = Castle
+| Status       = 
+| Location     = [[Dorne]], [[Westeros]]
+| Population   = 
+| Rulers       = [[House Yronwood]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Yronwood'''{{Guideref|Map of Westeros}} is a castle in [[Dorne]], the region controlled by [[House Martell]] of [[Sunspear]]. The castle is located in the north-west of Dorne, near the [[Sea of Dorne]].
+
+==Behind the scenes==
+Following [[George R.R. Martin]]'s spelling convention that the letter "Y" can stand for any vowel in the English language, "Yronwood" is apparently pronounced "Iron-wood".<ref>[http://youtu.be/cgRJmX_osHI?t=8m45s Westeros.org: Dorne]</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Yronwood is the seat of House Yronwood. It is located near the southern end of the Boneway. Prince Quentyn Martell, the oldest son, but not heir under Dornish law, of Prince Doran Martell, was fostered at Yronwood for many years.
+
+==Appearances==
+*{{H&L|Poisons}} {{Illustrated}}
+*{{GOT|Dragonstone}} {{Map}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Dorne}}
+
+<!--Categories-->
+[[Category:Castles of Dorne]]
+[[Category:House Yronwood]]
+
+<!--Languages-->
+[[de:Isenwald]]
+[[es:Palosanto]]
+[[fr:Ferboys]]
+[[pl:Yronwood]]
+[[ru:Айронвуд]]
+[[uk:Айронвуд]]

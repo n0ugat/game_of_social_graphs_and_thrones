@@ -1,0 +1,64 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Lannister.svg
+| Link  = House Lannister
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Lannister
+| Image       = 
+| Birth       = [[Casterly Rock]]
+| Death       = 
+| House       = [[House Lannister|Lannister]]
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Westerlands|Westermen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = {[[Tytos Lannister]]}
+| Mother      = {[[Jeyne Marbrand]]}
+| Spouse      = [[Darlessa Marbrand]]
+| Lovers      = 
+| Issue       = [[Tyrek Lannister]]
+| Siblings    = {[[Tywin Lannister]]}<br>{[[Kevan Lannister]]}<br>[[Gerion Lannister]]<br>[[Genna Lannister]]
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Tygett Lannister''' was the youngest son of [[Tytos Lannister|Tytos]] and [[Jeyne Marbrand|Jeyne Lannister]] and a younger brother of [[Tywin Lannister|Tywin]] and [[Kevan Lannister]].<ref name="finalebook">[https://www.makinggameofthrones.com/production-diary/season-8-episode-6-series-finale-props-song-of-ice-and-fire See] the family tree of [[House Lannister]] in Archmaester [[Ebrose]]'s ''[[A Song of Ice and Fire (Ebrose)|A Song of Ice and Fire]]'' (as featured in "[[The Iron Throne]]")</ref>
+
+==Family==
+{{Lannister tree}}
+
+==Behind the scenes==
+Tygett is featured in the family tree of House Lannister in Archmaester [[Ebrose]]'s ''[[A Song of Ice and Fire (Ebrose)|A Song of Ice and Fire]]''.<ref name="finalebook" /> He is not mentioned or featured elsewhere in the series.
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Tygett's genealogy and relation to the other Lannisters are the almost the same. Though he is the youngest brother per the season 8 prop's genealogy, he is the second-youngest in the book series, older than Gerion. 
+
+Tygett had a stormy relationship with his oldest brother, Tywin, who overshadowed all of his siblings, but he was kind to [[Tyrion Lannister|Tyrion]]. Whereas [[Kevan Lannister|Kevan]] has always been obedient and loyal to Tywin, and Gerion almost feuded with him, Tygett tried to become independent of him and his own man, but he never matched Tywin, which made him angrier as the years went by. 
+
+In contrast to the novels, in which Tygett is mentioned very scantly, there is plenty of information about him in ''The World of Ice & Fire'': when he was ten years old, he fought in the [[War of the Ninepenny Kings]], killing four men, including a knight of the [[Golden Company]]. Tywin and Kevan earned knighthoods from the war, but Tygett was too young to earn his spurs; his courage and skill were remarked upon, though. According to a semi-canon source, he served as a squire when Tywin suppressed the [[Reyne-Tarbeck revolt|revolt of Houses Tarbeck and Reyne]], and eventually was knighted. Tywin tried to name him as the [[Master-at-arms]] at the [[Red Keep]], but [[Aerys II Targaryen|Aerys]] chose Ser [[Willem Darry]] instead.
+
+Tygett died of a pox some years before the beginning point of the series. He was survived by his only son Tyrek, who served as a squire for King [[Robert Baratheon]], alongside his cousin [[Lancel Lannister|Lancel]]. Tyrek mysteriously disappeared at the [[riots in King's Landing]], and his body was never found.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Lannister}}
+
+<!--Categories-->
+{{DEFAULTSORT:Lannister, Tygett}}
+[[Category:Individuals from Game of Thrones]]
+[[Category:Members of House Lannister|Tygett Lannister]]
+[[Category:Westermen]]

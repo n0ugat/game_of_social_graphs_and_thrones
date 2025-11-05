@@ -1,0 +1,64 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Royce.svg
+| Link  = House Royce
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Royce
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = [[House Royce|Royce]]
+| Affiliation = [[House Arryn]]
+| Titles      = [[Lord of Runestone]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Vale of Arryn|Valemen]]
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+Lord '''Yorbert Royce''' is the [[Lord of Runestone]] during the reign of [[Viserys I Targaryen|Viserys I]]. His relation to his heir, [[Rhea Royce]], is unknown.
+
+==Behind the scenes==
+Yorbert is mentioned in the script for "[[The Heirs of the Dragon]]."{{Scriptref|HOTD101}} He is not mentioned in the final version,{{Ref|HOTD101}} but his existence is implied in "[[We Light the Way]]" when [[Rhea Royce]] is said to have "stood to inherit Runestone" rather than being the ruling Lady of Runestone.{{Ref|HOTD105}} The Character Guide confirms that in the TV series, Rhea was the heir to Runestone and never inherited the castle,{{Guideref|Rhea Royce}} meaning Lord Yorbert lives much longer than in the books; by the starting point of the TV series, 112 AC,{{Dateref|The Heirs of the Dragon}} Yorbert has already been dead for at least nine years in the books.{{Bookref|F&B|12}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Yorbert was the Lord of Runestone during the late reign of [[Jaehaerys I Targaryen|Jaehaerys I]]. He served as [[regent]] and [[Lord Protector]] of the [[Vale of Arryn|Vale]] for the underage Lady [[Jeyne Arryn]], attending the [[Great Council at Harrenhal|Great Council of 101 AC]] in her stead.
+
+By 103 AC, Yorbert had been succeeded by his heir, Lady Rhea Royce.{{Bookref|F&B|12}}
+
+==Appearances==
+*{{HOTD|The Heirs of the Dragon}} {{Scriptm}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+{{DEFAULTSORT:Royce, Yorbert}}
+[[Category:Individuals from House of the Dragon]]
+[[Category:Lords of Runestone|Yorbert Royce]]
+[[Category:Members of House Royce|Yorbert Royce]]
+[[Category:Valemen]]
+
+<!--Languages-->
+[[ru:Йорберт Ройс]]

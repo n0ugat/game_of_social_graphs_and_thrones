@@ -1,0 +1,37 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Wil Johnson IMDB.jpg
+| Birth   = Wilbert Charles Johnson<br>April 18, 1965 {{Age|1965|4|18}}<br>Muswell HIll, London, England
+| Death   = 
+| Role    = [[Vaemond Velaryon]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = 4 episodes {{Below|Credits}}
+| First   = "[[Second of His Name]]"
+| Last    = "[[The Lord of the Tides]]"
+}}
+'''Wilbert Charles Johnson''' (born 18 April 1965) is an English actor who has had notable television roles in ''Waking the Dead'' and ''Emmerdale''. He portrays [[Vaemond Velaryon]] in [[House of the Dragon: Season 1|Season 1]] of ''[[House of the Dragon]]''<ref>[https://pressroom.warnermedia.com/us/media-release/hbo-releases-first-official-teaser-house-dragon]</ref>.
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1|||yes||yes||yes|yes}}
+
+==See also==
+*{{WP}}
+*{{IMDb|# = 0426435}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House of the Dragon: Inside the Episode}}
+
+<!--Categories-->
+{{DEFAULTSORT:Johnson, Wil}}
+[[Category:Co-starring cast members of House of the Dragon]]
+[[Category:Commentators of House of the Dragon: Inside the Episode]]
+
+<!--Languages-->
+[[de:Wil Johnson]]
+[[fr:Wil Johnson]]

@@ -1,0 +1,47 @@
+{{Canonicity|Canon}}
+{{War
+| Title      = {{PAGENAME}}
+| Type       = Westeros
+| Part       = 
+| Image      = House Tarly (Histories & Lore) - Vulture Hunt.PNG
+| Previous   = [[First Dornish War]]
+| Concurrent = 
+| Next       = [[Faith Militant uprising]]<br>[[Battle Beneath the Gods Eye]]
+| Beginning  = 
+| End        = 
+| Place      = [[Dornish Marches]], [[Westeros]]
+| Outcome    = Iron Throne victory
+| Factions1  = {{COA|House Targaryen|s}}<br>[[Iron Throne]]<br>{{C|[[House Targaryen]]}}<br><br>{{COA|House Baratheon|s}}<br>[[House Baratheon]]<br><br>{{COA|House Tyrell|s}}<br>[[House Tyrell]]<br><br>{{COA|House Tarly|s}}<br>[[House Tarly]]
+| Factions2  = Rebels of the [[Dornish Marches]]
+| Factions3  = 
+| Factions4  = 
+| Factions5  = 
+| Factions6  = 
+| Leaders1   = {{COA|House Targaryen|i}} [[King of the Andals and the Rhoynar and the First Men|King]] [[Aenys Targaryen|Aenys I Targaryen]]<br>{{COA|House Baratheon|i}} [[Lord of Storm's End|Lord]] [[Orys Baratheon]] †<br>{{COA|House Tarly|i}} Lord [[Samwell Tarly (lord)|Samwell Tarly]]
+| Leaders2   = The [[Vulture King]] †
+| Leaders3   = 
+| Leaders4   = 
+| Leaders5   = 
+| Leaders6   = 
+| Events     = 
+}}
+The '''Vulture Hunt'''{{Ref|H&L616}} was the crackdown of the [[Vulture King]], a [[Dornishmen|Dornish]] rebel who defied the authority of the [[Iron Throne]]  in the [[Dornish Marches]]. Lord [[Samwell Tarly (lord)|Samwell "Savage Sam" Tarly]] played a key role in putting down the rebellion.<ref>"[[House Tarly (short)|House Tarly]]"</ref>
+
+==In the books==
+The books elaborate the scope of the rebellion and identity of the key combatants. The Vulture King was mainly able to rebel because [[House Martell]], itself in defiance of the Iron Throne, largely ignored the insurrection. [[Orys Baratheon]] - the former [[Hand of the King]] to Aegon the Conqueror and a veteran of the [[First Dornish War]] - led the houses of the Dornish Marches in the crackdown of the rebellion, and was mortally wounded in a duel with one of the rebels.<ref>''The World of Ice and Fire'', Andals in the Stormlands</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Wars}}
+
+<!--Categories-->
+[[Category:Wars]]
+
+<!--Languages-->
+[[fr:Chasse au Vautour]]
+[[ru:Охота на Стервятника]]

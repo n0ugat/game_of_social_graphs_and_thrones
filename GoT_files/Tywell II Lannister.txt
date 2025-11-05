@@ -1,0 +1,67 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = House Lannister.svg
+| Link  = House Lannister
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Lannister
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = [[House Lannister|Lannister]]
+| Affiliation = 
+| Titles      = [[King of the Rock]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[First Men]]/[[Andals|Andal]]
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = {Son}
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+King '''Tywell II Lannister'''{{Con|TWOI&F}} was a [[King of the Rock]], identified by some as the king who was served his own son in a pie by the legendary [[Rat Cook]].
+
+==Biography==
+===Background===
+According to legend, a king and his son once visited the [[Nightfort]], where the latter was killed and served to his oblivious father in a pie. The king enjoyed the pie so much that he asked for a second helping.{{Ref|GOT310}}
+
+===[[Game of Thrones: Season 3|''Game of Thrones'': Season 3]]===
+[[Bran Stark|Bran]] tells the legend of the Rat Cook to [[Meera Reed|Meera]] and [[Jojen Reed|Jojen]].{{Ref|GOT310}}
+
+==In the books==
+In ''[[The World of Ice & Fire]]'', the legend is the same. In some tellings, the king was [[Oswell I Arryn]], not Tywell II Lannister.{{Bookref|TWOI&F|7|1}}
+
+==Appearances==
+*{{GOT|Mhysa}} {{Indirect}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Kings of Westeros}}
+
+<!--Categories-->
+{{DEFAULTSORT:Lannister, Tywell II}}
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Kings of the Rock|Tywell II Lannister]]
+[[Category:Members of House Lannister|Tywell II Lannister]]
+[[Category:Westermen]]

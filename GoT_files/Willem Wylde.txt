@@ -1,0 +1,69 @@
+{{Canonicity|Canon}}
+{{Spoiler|AKOTSK}}
+{{BookConjecture}}
+{{Heraldry
+| Leftimage  = House Wylde.svg
+| Leftlink   = House Wylde
+| Rightimage = Kingsguard.svg
+| Rightlink  = Kingsguard
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Targaryen
+| Image       = 
+| Birth       = At [[Rain House]]
+| Death       = 
+| House       = [[House Wylde|Wylde]]
+| Affiliation = [[Kingsguard]]
+| Titles      = [[Knighthood|Ser]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Andals|Andal]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+Ser '''Willem Wylde'''{{Con|D&EN}} is a member of the [[Kingsguard]] of [[Daeron II Targaryen]].{{Ref|H&L416}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Ser Willem Wylde was a member of the Kingsguard during the reign of [[King of the Andals and the Rhoynar and the First Men|King]] Daeron II Targaryen. When a place opened in the Kingsguard, Daeron gave the position to Ser Willem. Daeron either did not know or willfully ignored his father [[Aegon IV Targaryen|Aegon IV]]'s promise to Ser Quentyn Ball that he would be raised to the Kingsguard. This was one of the contributing factors to Ser Quentyn siding with [[Daemon Blackfyre]] during the [[Blackfyre Rebellion]].
+
+==Appearances==
+*{{H&L|Justice of the Seven Kingdoms}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|AKOTSK}}
+
+<!--Navboxes-->
+{{House Wylde}}
+{{Kingsguard of Daeron II Targaryen}}
+
+<!--Categories-->
+{{DEFAULTSORT:Wylde, Willem}}
+[[Category:Individuals from Histories & Lore]]
+[[Category:Kingsguard of Daeron II Targaryen]]
+[[Category:Knights]]
+[[Category:Members of House Wylde|Willem Wylde]]
+[[Category:Stormlanders]]
+
+<!--Languages-->
+[[fr:Willem Wylde]]
+[[ru:Уиллем Уайлд]]

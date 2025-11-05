@@ -1,0 +1,71 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Lannister.svg
+| Link  = House Lannister
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Lannister
+| Image       = Tywald Lannister.png
+| Birth       = [[Casterly Rock]]
+| Death       = 
+| House       = [[House Lannister|Lannister]]
+| Affiliation = 
+| Titles      = [[Knighthood|Ser]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Westerlands|Westermen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = {[[Tytos Lannister]]}<br>{[[Tion Lannister]]}
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Lady Ellyn Reyne was betrothed to my great uncle, but when he fell in battle Lady Ellyn sought comfort in his twin brother's bed, beating out the other woman he had promised to marry.|[[Jaime Lannister]]|The Rains of Castamere (Histories & Lore)}}
+Ser '''Tywald Lannister''' was a [[Knighthood|knight]] of [[House Lannister]], the brother of [[Tytos Lannister|Tytos]] and [[Tion Lannister]].
+
+==Biography==
+Tywald Lannister was betrothed to Lady [[Ellyn Reyne]]. Once he fell in battle, Ellyn seduced his twin brother [[Tion Lannister|Tion]], despite the fact that he was already betrothed to another woman.{{Ref|H&L708}}
+
+==Family==
+{{Lannister tree}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Tywald Lannister was the son of Lord Gerold Lannister, "the Golden", and his second wife Lady Rohanne Webber. He fought on the side of King [[Maekar Targaryen]] during the Peake Uprising in 233 AC and was fatally wounded by a spear at Starpike. He was [[Knighthood|knighted]] by Prince [[Aegon Targaryen (son of Maekar)|Aegon Targaryen]] as he lay dying in his brother [[Tion Lannister|Tion]]'s arms. He asked his brother to "take care of Lady Ellyn" with his dying words, which later led Lord Gerold to agree to a betrothal between Tion and Ellyn.
+
+==Appearances==
+*{{H&L|The Rains of Castamere}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Lannister}}
+
+<!--Categories-->
+{{DEFAULTSORT:Lannister, Tywald}}
+[[Category:Individuals from Histories & Lore]]
+[[Category:Knights]]
+[[Category:Members of House Lannister|Tywald Lannister]]
+[[Category:Westermen]]
+
+<!--Languages-->
+[[de:Tywald Lennister]]
+[[es:Tywald Lannister]]
+[[fr:Tywald Lannister]]
+[[nl:Tywald Lannister]]
+[[ru:Тайвальд Ланнистер]]
+[[zh:泰沃德·兰尼斯特]]

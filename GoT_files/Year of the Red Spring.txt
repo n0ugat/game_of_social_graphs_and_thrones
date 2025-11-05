@@ -1,0 +1,71 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Dragon
+| Part          = 
+| Image         = DM Funeral Still.jpg
+| Previous      = [[Siege of Bloodstone]]{{Ref|HOTD103}}
+| Concurrent    = [[War for the Stepstones]]{{Ref|HOTD106}}
+| Next          = [[Dance of the Dragons]]{{Ref|HOTD109}}
+| Date          = [[126 AC]]{{Dateref|The Princess and the Queen}}{{Dateref|Driftmark}}
+| Place         = 
+| Outcome       = *Fire at [[Harrenhal]]{{Ref|HOTD106}}
+**Death of [[Lyonel Strong|Lyonel]] and [[Harwin Strong]]{{Ref|HOTD106}}
+**Accession of [[Larys Strong]] as [[Lord of Harrenhal]]{{Ref|HOTD107}}
+**[[Otto Hightower]] restored as [[Hand of the King]]{{Ref|HOTD107}}
+*Death of [[Laena Velaryon]]{{Ref|HOTD106}}
+**[[Aemond Targaryen]] claims [[Vhagar]]{{Ref|HOTD107}}
+**Aemond loses an eye at the hands of [[Lucerys Velaryon]] during a brawl{{Ref|HOTD107}}
+*[[Exile]] and believed death of [[Laenor Velaryon]]{{Ref|HOTD107}}
+**[[Rhaenyra Targaryen]] marries [[Daemon Targaryen]]{{Ref|HOTD107}}
+| Factions1     = 
+| Factions2     = 
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = 
+| Leaders2      = 
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = 
+| Participants2 = 
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = 
+| Casualties2   = 
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+The '''Year of the Red Spring'''{{Con|TWOI&F}} is a name that describes the year [[126 AC]].{{Dateref|The Princess and the Queen}}{{Dateref|Driftmark}}
+
+==In the books==
+In ''[[Fire & Blood]]'', the year 120 AC is remembered by this name. It was so-named for the high amount of tragic deaths and accidents that occurred within that year:
+*A fire at [[Harrenhal]], claiming the lives of [[Lyonel Strong|Lyonel]] and [[Harwin Strong]].
+*[[Laena Velaryon]]'s death in childbirth.
+*The death of Laena's son, an hour after her.
+*[[Aemond Targaryen]]'s confrontation with his nephews [[Jacaerys Velaryon|Jacaerys]], [[Lucerys Velaryon|Lucerys]], and [[Joffrey Velaryon]], in which he lost an eye.
+*[[Laenor Velaryon]]'s fatal duel with [[Qarl Correy]].
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==Gallery==
+<gallery>
+File:Dreamfyre-and-Sunfyre.-9144886.jpg|[[Dragon|Dragons]] gathering at [[High Tide]] for Laena's funeral.
+File:TPATQ Men-at-arms.png|The bodies of [[Lyonel Strong|Lord Lyonel]] and [[Harwin Strong|Ser Harwin]] following the fire.
+File:DM Laenor and Qarl Still 2.jpg|Supposed demise of [[Laenor Velaryon|Ser Laenor]] by [[Qarl Correy|Ser Qarl]].
+</gallery>
+
+==External links==
+*{{AWOIAF|120 AC}}
+
+<!--Categories-->
+[[Category:126 AC| ]]
+[[Category:Years|Red Spring]]
+
+<!--Languages-->
+[[ru:Год Красной Весны]]

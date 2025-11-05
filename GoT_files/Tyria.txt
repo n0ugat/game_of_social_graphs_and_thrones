@@ -1,0 +1,42 @@
+{{Canonicity|Canon}}
+{{References}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Westeros
+| Image        = Tyria Pin.png
+| Type         = City
+| Status       = Ruined
+| Location     = [[Valyrian peninsula]], [[Essos]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = 
+| Places       = [[Library of Tyria]]
+| Founded      = by the [[Valyrian Freehold]]
+}}
+[[File:Slaver's Bay.png|thumb|200px|Tyria is located at the north end of an island in the center of the [[Smoking Sea]].]]
+'''Tyria'''<ref>[https://dedalvs.com/work/house-of-the-dragon/misc/shrubbery_v4.pdf ''Shrubbery'' version 4 | dedalvs.com]</ref> is a former city of the [[Valyrian Freehold]]. It was laid waste in the Doom of Valyria. Its ruins are now located on the same island as the ruins of Valyria itself, across the [[Smoking Sea]] from [[Oros]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Tyria is connected by a Valyrian road to the ruins of the capital city of Valyria.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Known world}}
+{{Valyrian peninsula}}
+
+<!--Categories-->
+[[Category:Ruined cities]]
+[[Category:Tyria| ]]
+[[Category:Valyrian peninsula]]
+
+<!--Languages-->
+[[pl:Tyria]]
+[[ru:Тирия]]
+[[uk:Тириа]]

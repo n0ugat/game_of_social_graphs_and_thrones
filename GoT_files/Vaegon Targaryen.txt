@@ -1,0 +1,81 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = House Targaryen.svg
+| Link  = House Targaryen/House of the Dragon
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Targaryen
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = [[House Targaryen/House of the Dragon|Targaryen]]{{Guideref|Jaehaerys I Targaryen}}
+| Affiliation = 
+| Titles      = [[Prince]]
+| AKA         = 
+| Culture     = [[Valyrians|Valyrian]]
+| Religion    = 
+| Father      = {[[Jaehaerys I Targaryen]]}{{Guideref|Jaehaerys I Targaryen}}
+| Mother      = {[[Alysanne Targaryen]]}{{Guideref|Jaehaerys I Targaryen}}
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+Prince '''Vaegon Targaryen'''{{Con|F&B}} was the seventh child of King [[Jaehaerys I Targaryen|Jaehaerys I]] and Good Queen [[Alysanne Targaryen|Alysanne]].{{Guideref|Jaehaerys I Targaryen}}
+
+==Biography==
+Vaegon's claim to the throne was briefly considered among 13 other claimants at the [[Great Council at Harrenhal]]. Only Prince [[Viserys I Targaryen|Viserys]] and Princess [[Rhaenys Targaryen|Rhaenys]] gained considerable support, however.{{Ref|HOTD101}}
+
+==Family==
+{{Targaryen tree (House of the Dragon)}}
+
+==In the books==
+In ''[[Fire & Blood]]'', Vaegon was born in 63 AC. He was exceedingly bookish, and people around him considered him sour. Having never claimed a [[dragon]], he was called "Vaegon the Dragonless."
+
+It was assumed that he would marry his sister [[Daella Targaryen|Daella]], but Vaegon showed no interest in her. In 73 AC, he insulted Daella to tears after one of the queen's companions asked when the two would marry. His older sister [[Alyssa Targaryen|Alyssa]] poured a flagon of wine over his head for that, to which Vaegon replied that she had wasted [[Food and drink#Wines|Arbor gold]].
+
+At the king's request, Prince [[Baelon Targaryen (son of Jaehaerys I)|Baelon]] started training Vaegon at arms. Even after a year Vaegon did not improve, having neither the talent nor the interest. On their final session, Baelon made Vaegon fight their sister Alyssa, hoping that the prospect of losing to a girl would make him put in more effort. Alyssa mocked and danced around him in the yard, and finally Vaegon threw down his sword and stormed off.
+
+[[Grand Maester]] Elysar once gave Vaegon a pornographic book, hoping it might increase Vaegon's interest in women. He kept the book, but showed no change in behavior.
+
+In 78 AC, the king and queen sent Vaegon off to the [[Citadel]] of [[Oldtown]] to become an [[archmaester]] (Grand Maester Elysar firmly stated that Vaegon did not have what it takes to be a household [[Order of Maesters|maester]]). He was apparently pleased by this, as Jaehaerys told Alysanne that he thought Vaegon had almost smiled. He eventually earned a ring, rod, and mask of yellow gold, signifying an expertise in mathematics or economics.
+
+In 101 AC, after the death of Prince Baelon, Vaegon was supposedly offered the title of [[Prince of Dragonstone]] by the king, which he refused. It was Vaegon who then proposed the [[Great Council at Harrenhal|Great Council of 101 AC]]. Despite his disinterest in the throne, and his vows as a maester disinheriting him, his claim was briefly discussed at the Great Council as all possible options besides Viserys, Rhaenys, and [[Laenor Velaryon|Laenor]] were left open for discussion.
+
+Vaegon is not mentioned in ''Fire & Blood'' after the Great Council. It is unknown whether he lived during the [[Dance of the Dragons]]: it is physically plausible, as he would have been only 66 years old by the outbreak of the civil war in 129 AC.
+
+==Appearances==
+*{{HOTD|The Heirs of the Dragon}} {{Indirect}}
+*{{HOTD|Second of His Name}} {{Indirect}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Targaryen/House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Targaryen, Vaegon}}
+[[Category:Crownlanders]]
+[[Category:Individuals mentioned in House of the Dragon]]
+[[Category:Members of House Targaryen|Vaegon Targaryen]]
+[[Category:Princes]]
+
+<!--Languages-->
+[[ru:Вейгон Таргариен]]

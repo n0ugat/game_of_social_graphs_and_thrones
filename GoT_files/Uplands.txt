@@ -1,0 +1,47 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Mullendore.svg
+| Link  = House Mullendore
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Bronn
+| Image        = 
+<gallery>
+701 BtS Map Uplands.png|Appearance
+Uplands Pin.png|Location
+</gallery>
+| Type         = Castle
+| Status       = 
+| Location     = The [[Reach]], [[Westeros]]
+| Population   = 
+| Rulers       = [[House Mullendore]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Uplands'''{{Ref|GOT701}} is a castle ruled by [[House Mullendore]] in the [[Reach]], the region controlled by [[House Tyrell]] of [[Highgarden]]. The castle is located south of Highgarden and due east of [[Oldtown]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Uplands is the seat of House Mullendore. It is located due east of Oldtown on a tributary of the [[Honeywine]], amongst the foothills of the [[Red Mountains]] (which give it its name). House Mullendore is a vassal of [[House Hightower]] of Oldtown rather than the Tyrells directly.
+
+Ser Mark Mullendore of Uplands was a noted [[Knighthood|knight]] in the service of [[Renly Baratheon]], noted for his trained black-and-white monkey. He switched allegiance to [[Stannis Baratheon]] after Renly's death. He lost an arm in the [[Battle of the Blackwater]] and was taken prisoner by the [[House Lannister|Lannisters]]. He bent the knee and swore fealty back to the [[Iron Throne]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Reach}}
+
+<!--Categories-->
+[[Category:Castles of the Reach]]
+[[Category:House Mullendore]]
+
+<!--Languages-->
+[[de:Hohenau]]
+[[ru:Нагорье]]

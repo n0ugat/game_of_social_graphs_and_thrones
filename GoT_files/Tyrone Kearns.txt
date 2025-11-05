@@ -1,0 +1,27 @@
+{{Cast
+| Title = Tyrone Kearns
+| Image = Tyrone Kearns.jpg
+| dateofbirth = 
+| birthplace = {{WPS|Manchester}}, {{WPS|England}}, {{WPS|United Kingdom}}
+| role = Brotherhood member
+| status = 
+| Appearances = 
+| First = "[[Dark Wings, Dark Words]]
+| Last ="[[No One]]" 
+| imdb = http://www.imdb.com/name/nm6044736/
+| twitter = https://twitter.com/actortk}}'''Tyrone Kearns''' is an English actor. He has appeared in the television series ''{{WPS|Camelot (TV series)|Camelot}}'', ''{{WPS|Vikings (TV series)|Vikings}}'', ''{{WPS|Love/Hate (TV series)|Love/Hate}}'' and ''{{WPS|Halo: Nightfall}}'' and the film ''{{WPS|Dracula Untold}}''.
+
+In ''[[Game of Thrones]]'', he portrays a Brotherhood member. He appears, uncredited, in the [[Game of Thrones: Season 3|third season]] and returns in the [[Game of Thrones: Season 6|sixth season]].
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 3||yes|yes|yes|yes|yes}}
+{{Game of Thrones: Season 6||||||||yes}}
+
+==See also==
+*{{IMDb
+|# = 6044736}}
+*{{Twitter
+|# = actortk}}
+{{DEFAULTSORT:Kearns, Tyrone}}
+[[Category:Uncredited cast members of Game of Thrones]]

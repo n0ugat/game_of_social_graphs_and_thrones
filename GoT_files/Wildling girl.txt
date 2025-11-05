@@ -1,0 +1,61 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Wildling
+| Image       = Wight.png
+| Birth       = 
+| Death       = [[298 AC]]{{Dateref|Game of Thrones: Season 1}}<br>The [[Haunted Forest]], [[beyond the Wall]]{{Ref|GOT101}}
+| House       = 
+| Affiliation = [[White Walkers]] {{C|in death}}
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Free Folk]]
+| Religion    = [[Old Gods]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 1|1]] {{*}} [[Game of Thrones: Season 4|4]]
+| Appearances = 2 episodes {{Below|Appearances}}
+| First       = "[[Winter Is Coming]]"
+| Last        = "[[The Lion and the Rose]]" {{Vision}}
+| DeathEp     = 
+| Actor       = [[Claire Wright]]
+}}
+{{Quote|They even killed the children!|[[Will]]|Winter Is Coming}}
+A '''wildling girl''' was a [[wight]] in the [[Haunted Forest]].
+
+==Biography==
+===Background===
+She was originally a member of the [[Free Folk]] before turning into a wight.{{Ref|GOT101}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+During his investigation of a [[Free Folk|wildling]] camp, [[Will]] of the [[Night's Watch]] observes her corpse nailed to a tree. A short time later, he sees her again, now standing and walking; she turns to him, and is revealed to have the blue eyes of a [[wight]]. Will flees before she reacts in any way.{{Ref|GOT101}}
+
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+When [[Bran Stark|Bran]] is on the other side of the [[Wall]], he uses the [[Sight]] on a [[heart tree]] and sees the wildling girl in his vision.{{Ref|GOT402}}
+
+==Appearances==
+*{{GOT|Winter Is Coming}} {{Corpse}}
+*{{GOT|The Lion and the Rose}} {{Corpse}} {{Vision}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Categories-->
+[[Category:Free Folk]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Wights]]
+
+<!--Languages-->
+[[de:Wildlingsmädchen]]
+[[ro:Fata sălbatică]]
+[[ru:Одичалая девочка]]

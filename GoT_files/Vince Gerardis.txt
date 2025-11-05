@@ -1,0 +1,51 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Westeros
+| Image   = Vince Gerardis Premiere.webp
+| Birth   = 
+| Death   = 
+| Role    = Co-executive producer<br>Executive producer
+| Series  = ''[[Game of Thrones]]''<br>''[[Bloodmoon]]'' {{Rejected}}<br>''[[House of the Dragon]]''<br>''[[A Knight of the Seven Kingdoms]]''
+| Season  = ''Game of Thrones'':<br>[[Game of Thrones: Season 1|1]] {{*}} [[Game of Thrones: Season 2|2]] {{*}} [[Game of Thrones: Season 3|3]] {{*}} [[Game of Thrones: Season 4|4]] {{*}} [[Game of Thrones: Season 5|5]] {{*}} [[Game of Thrones: Season 6|6]] {{*}} [[Game of Thrones: Season 7|7]] {{*}} [[Game of Thrones: Season 8|8]]<br>''House of the Dragon'':<br>[[House of the Dragon: Season 1|1]] {{*}} [[House of the Dragon: Season 2|2]] {{*}} [[House of the Dragon: Season 3|3]]<br>''A Knight of the Seven Kingdoms'':<br>[[A Knight of the Seven Kingdoms: Season 1|1]]
+| Credits = 97 episodes {{Below|Credits}}
+| First   = "[[Winter Is Coming]]"
+| Last    = 
+}}
+'''Vince Gerardis''' is an Emmy-winning co-executive producer on ''[[Game of Thrones]]'' and ''[[House of the Dragon]]''. He is [[George R.R. Martin]]'s manager.<ref>https://variety.com/2021/tv/news/george-rr-martins-wild-cards-tv-series-peacock-1234927339/</ref>
+
+Previously, he was executive producer of ''Flashforward''. He is executive producer of upcoming televisions series ''Red Mars'' and ''The 4th Kingdom''.
+
+==Credits==
+===Co-executive producer===
+*{{GOT|Season 1}}
+*{{GOT|Season 2}}
+*{{GOT|Season 3}}
+*{{GOT|Season 4}}
+*{{GOT|Season 5}}
+*{{GOT|Season 6}}
+*{{GOT|Season 7}}
+*{{GOT|Season 8}}
+*''[[Bloodmoon]]'' {{Rejected}}
+*{{HOTD|Season 1}}
+
+===Executive producer===
+*{{HOTD|Season 2}}
+*{{HOTD|Season 3}} {{Unreleased}}
+*{{AKOTSK|Season 1}} {{Unreleased}}
+
+==See also==
+*{{IMDb|#=1136210}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+{{DEFAULTSORT:Gerardis, Vince}}
+[[Category:Co-executive producers of Game of Thrones]]
+[[Category:Executive producers of A Knight of the Seven Kingdoms]]
+[[Category:Executive producers of Bloodmoon]]
+[[Category:Executive producers of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Vince Gerardis]]
+[[ru:Винс Джерардис]]

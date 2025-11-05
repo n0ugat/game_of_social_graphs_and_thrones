@@ -1,0 +1,75 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Leftimage  = House Dayne.svg
+| Leftlink   = House Dayne
+| Rightimage = Night's Watch.svg
+| Rightlink  = Night's Watch
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = Vorian Dayne.png
+| Birth       = At [[Starfall]]
+| Death       = 
+| House       = [[House Dayne|Dayne]]
+| Affiliation = [[Night's Watch]]
+| Titles      = [[Knighthood|Ser]]<br>[[King of the Torrentine]] {{C|deposed}}
+| Predecessor = 
+| Successor   = 
+| AKA         = Sword of the Evening
+| Culture     = [[Dornishmen|Dornish]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Vorian Dayne, who was a king, and the greatest knight in Dorne before he was defeated by Nymeria. Because of his honor, and his prowess, she sent him to the Wall in golden fetters and took his heir as her husband.|[[Eddard Stark]]|House Dayne (short)}}
+King '''Vorian Dayne''' was the last [[King of the Torrentine]] and ruled as the head of [[House Dayne]] during [[Nymeria's War]].
+
+==Biography==
+Vorian wielded the Dayne ancestral sword [[Dawn]] and was renowned as the greatest knight in [[Dorne]]. He fought against Princess [[Nymeria]] but was ultimately defeated. Due to his honor and prowess, Nymeria spared him and sent him and five other defeated kings to the [[Wall]] in golden fetters. Nymeria married Vorian's heir, [[Davos Dayne|Davos]].{{Ref|H&L509}}{{Ref|H&L613}}
+
+==In the books==
+In ''The World of Ice & Fire'', Vorian Dayne's story is the same, except it was never mentioned that he was defeated by Nymeria herself, nor did he wield Dawn.
+
+==Appearances==
+*{{H&L|Dorne}} {{Indirect}}
+*{{H&L|House Dayne}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Dayne}}
+{{Kings of Westeros}}
+{{Night's Watch}}
+
+<!--Categories-->
+{{DEFAULTSORT:Dayne, Vorian}}
+[[Category:Dornishmen]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Kings]]
+[[Category:Knights]]
+[[Category:Lords of Starfall|Vorian Dayne]]
+[[Category:Members of House Dayne|Vorian Dayne]]
+[[Category:Men of the Night's Watch]]
+
+<!--Languages-->
+[[de:Vorian Dayn]]
+[[es:Vorian Dayne]]
+[[it:Vorian Dayne]]
+[[nl:Vorian Dayn]]
+[[ru:Вориан Дейн]]

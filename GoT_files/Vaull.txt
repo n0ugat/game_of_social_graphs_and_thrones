@@ -1,0 +1,66 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Leftimage  = Order of Maesters.svg
+| Leftlink   = Order of Maesters
+| Rightimage = Night's Watch.svg
+| Rightlink  = Night's Watch
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[Order of Maesters]]<br>[[Night's Watch]]
+| Titles      = Maester
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|I can assure you that the closest Maester Vaull ever got to a wildling was this very library.|Maester [[Aemon]]|The Watchers on the Wall}}
+'''Vaull''' was a [[Order of Maesters|maester]] serving the [[Night's Watch]] at [[Castle Black]], long since dead.
+
+==Biography==
+===Background===
+Vaull was the maester serving at Castle Black at some point in time, before Maester [[Aemon]] (who himself became the maester of Castle Black about seventy years ago). He may have lived several centuries ago.{{Ref|GOT409}}
+
+Maester Vaull is famous for writing a rather alarmist book about the [[Free Folk|wildlings]]. It describes the various wildling tribes in lurid and salacious detail, giving horrific details of how wildling raiders butchered and tortured their victims.{{Ref|GOT409}}
+
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+After the [[Sack of Mole's Town]], [[Samwell Tarly|Sam]] reads Vaull's book in Castle Black's library. Aemon joins him and asks what he is reading, and Sam admits that it is Maester Vaull's book. Aemon accurately guesses that Sam is reading Vaull's account because he fears for the safety of [[Gilly]], the wildling girl he fell in love with but left in Mole's Town, hoping she would be safe there.{{Ref|GOT409}}
+
+Aemon assures Sam that the closest that Vaull ever got to a wildling was the very library they are in now. Sam counters that his descriptions must still be true, because Vaull based it on first-hand interviews with survivors of wildling raids. Aemon chides Sam that these were just tall tales told by frightened survivors, and that the wildlings must tell similarly horrific stories about the terrifying Night's Watch.{{Ref|GOT409}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no mention of a maester named Vaull. There is also no mention of who any of the maesters before Aemon were at Castle Black, though in its centuries-long history there were certainly many.
+
+==Appearances==
+*{{GOT|The Watchers on the Wall}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Maesters of the Night's Watch]]
+[[Category:Westerosi]]
+
+<!--Languages-->
+[[de:Faull]]
+[[ru:Фоулл]]

@@ -1,0 +1,105 @@
+{{Short
+| Title    = {{PAGENAME}}
+| Type     = Lore
+| Image    = H&L308.png
+| Season   = 3
+| Short    = 8
+| Date     = February 18, 2014{{Webref|name=Blu-ray |author=Jacob Klein |date=June 24, 2013 |url=https://hbowatch.com/game-of-thrones-season-3-blu-ray-dvd-release-date-confiremd/ |title=Game of Thrones Season 3 Blu-Ray & DVD Release Date Confirmed |website=HBO Watch |access-date=December 15, 2023 }}
+| Runtime  = 3 minutes{{Ref|H&L308}}
+| Narrator = [[Bran Stark]]{{Boxref|GOT3}}
+| Writer   = [[Dave Hill]]{{Webref|name=Hill |author=Vanessa Cole |date=July 22, 2017 |url=https://web.archive.org/web/20201111213241/https://watchersonthewall.com/game-thrones-writer-dave-hill-gives-behind-scenes-look-creative-process/ |title=Game of Thrones writer Dave Hill gives a behind the scenes look at the creative process |website=Watchers on the Wall |access-date=December 15, 2023 }}
+| Director = 
+| Previous = "[[Lord of Light (short)|Lord of Light]]"{{Boxref|GOT3}}
+| Next     = "[[The Red Keep]]"{{Boxref|GOT3}}
+}}
+"'''Wargs and the Sight'''"{{Boxref|GOT3}} is the eighth short of the [[Histories & Lore: Season 3|third season]] of ''[[Histories & Lore]]''. It is the fifty-first short of the series overall. It was released on February 18, 2014 in ''[[Game of Thrones: The Complete Third Season]]''. It was narrated by [[Isaac Hempstead-Wright]] as [[Bran Stark]] and written by [[Dave Hill]].
+
+==Premise==
+{{Premise|H&L308}}
+
+==Narration==
+'''Bran Stark''': ''Growing up, my sister [[Sansa Stark|Sansa]] loved stories with princesses and knights, but I always wanted to be scared. When my turn came, I would ask [[Old Nan]] to tell us of magic and monsters.''
+
+''Long ago, when the world was new, the [[Children of the Forest]] sang the song of the earth, and the earth listened.''
+
+''[[Magic]] was strong in those days, and the Children could commune with all the beasts of the forests, streams, and air. The greatest of them could even leave their bodies to hunt, swim, and fly in the skins of animals.''
+
+''They were the first [[warg]]s.''
+
+''Then, the [[First Men]] came with [[War of the First Men and the Children of the Forest|fire and sword]]. They burned the [[weirwood]]s and cut down the Children. Calling on dark magic, the Children raised the sea and shattered the [[Arm of Dorne|land bridge]] that the First Men had crossed into [[Dorne]].''
+
+''When that failed, the Children brought down the [[hammer of waters]] upon the [[Neck]], flooding and transforming it into the bog it is today. After peace came, the two races shared the land and the [[Old Gods|Children's gods]] for thousands of years.''
+
+''Now comes the good part. Nobody knows how or why, but the magic of the Children began to emerge in men. Maybe one child in a thousand would be born a warg. Fewer still would be born with the [[Sight]]. Old Nan would not speak of it, and [[Order of Maesters|Maester]] [[Luwin]] never believed in it.''
+
+''But with it, the Children could know of events far away and even those still to come.''
+
+''Some say the Sight was the Children's most powerful and terrible secret and helped turn the tide during the [[Long Night]].''
+
+''Magic has since fled our world. Among the [[smallfolk]], any child suspected of being a warg will be left out to die. [[Beyond the Wall]], though, a careless hunter might still find his prey has claws and teeth. A man's mind to guide them, for the [[Free Folk|wildlings]] have a [[White Walkers|different idea of monsters]].''
+
+''But even wildlings keep their distance from a warg because (and here Old Nan would lean in close and whisper) how can you tell if the man is wearing the beast or the beast is wearing the man?''
+
+''Now Old Nan has no more tales, and Maester Luwin will never scoff again.''
+
+''That's fine. I don't like scary stories anymore because I'm in one.''
+
+==Appearances==
+===Individuals===
+* [[Sansa Stark]] {{Mentioned}}
+* [[Old Nan]]
+* [[Order of Maesters|Maester]] [[Luwin]]
+* [[Osha]]
+* [[Hodor]]
+
+===Locations===
+* [[Dorne]]
+** [[Arm of Dorne]] {{Mentioned}}
+* The [[Neck]]
+* [[Beyond the Wall]]
+
+===Events===
+*[[War of the First Men and the Children of the Forest]]
+** [[Hammer of waters]]​
+* [[Coming of the Andals]]
+* [[Long Night]]
+
+===Races===
+* [[Children of the Forest]]
+* [[First Men]]
+* [[White Walkers]] {{Indirect}}
+* [[Wight]] {{Indirect}}
+
+===Religions===
+* [[Old Gods]]
+
+===Miscellaneous===
+* [[Raven]]
+* [[Magic]]
+* [[Warg]]
+* [[Sight]]
+* [[Smallfolk]]
+
+==Cast==
+*[[Isaac Hempstead-Wright]] as [[Bran Stark]]
+
+==Gallery==
+<gallery bordersize="none">
+Wargs and the Sight
+</gallery>
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{Histories & Lore}}
+
+<!--Categories-->
+[[Category:Shorts narrated by Bran Stark]]
+[[Category:Shorts of Histories & Lore: Season 3| 08]]
+[[Category:Shorts released in 2014|2.18H]]
+[[Category:Shorts written by Dave Hill]]
+
+<!--Languages-->
+[[fr:Zomans, Vervoyants, Visions (Histoires & Traditions)]]
+[[pt-br:Wargs e a Visão]]

@@ -1,0 +1,78 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = House Darry.svg
+| Link  = House Darry
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Targaryen
+| Image       = 
+| Birth       = At Castle Darry
+| Death       = 
+| House       = [[House Darry|Darry]]
+| Affiliation = [[House Targaryen]]
+| Titles      = [[Knighthood|Ser]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Riverlands|Rivermen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = {[[Jonothor Darry]]}
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Robert dispatched me to... deal with the last surviving Targaryen children. But before I arrived, a loyal knight smuggled them across the Narrow Sea to safety.|[[Stannis Baratheon]]|Dragonstone (Histories & Lore)}}
+Ser '''Willem Darry'''{{Con|ASOIAF}} was a [[Knighthood|knight]] of [[House Darry]] who remained loyal to [[House Targaryen]] during [[Robert's Rebellion]].
+
+==Biography==
+Following the [[Sack of King's Landing]] and the birth of [[Daenerys Targaryen|Daenerys]], Ser Willem smuggled her and [[Viserys Targaryen (son of Aerys II)|Viserys]] across the [[Narrow Sea]] to the [[Free Cities]], before [[Stannis Baratheon|Stannis]] arrived to seize [[Dragonstone]].{{Ref|H&L213}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Willem Darry was the [[master-at-arms]] at the [[Red Keep]]; he was appointed by the [[Aerys II Targaryen|Mad King]] deliberately to spite [[Tywin Lannister|Tywin]], who had nominated his younger brother [[Tygett Lannister|Tygett]]. He was the brother of Ser [[Jonothor Darry]] of the Kingsguard. He was a grey bear of a man who was half-blind. He had a gruff, kind voice and big wrinkled hands, soft as old leather. Daenerys has fond memories of Ser Willem, noting that while the servants were terrified of him bellowing orders at them, he was always kind to her.
+
+After Aerys's death during the [[Sack of King's Landing]] and [[Rhaella Targaryen|Rhaella]]'s death during labor, the garrison of Dragonstone considered selling Viserys and the infant Daenerys to the [[Robert Baratheon|new king]]. However, before they could come to a decision, Ser Willem and four loyal men smuggled Viserys and Daenerys from the island and fled to safety in [[Braavos]]. However, Ser Willem was old and some years later he became sick and died, leaving Viserys and Daenerys to fend for themselves.
+
+In ''A Game of Thrones'', while dreaming of his [[Skirmish at the Tower of Joy|confrontation]] with Aerys's surviving Kingsguard at the [[Tower of Joy]], [[Eddard Stark]] remarks that he'd expected them to have joined Willem on Dragonstone to protect Queen Rhaella and Prince Viserys. Ser Oswell Whent acknowledges Willem as a good, loyal man, but insists they had their own duty. 
+
+In ''A Feast for Crows'' and ''A Dance with Dragons'', it is revealed Ser Willem and [[Doran Martell]] signed a secret pact of alliance between [[Dorne]] and [[House Targaryen]] in Braavos. The alliance was to be sealed by a marriage between Viserys and Princess Arianne Martell. Ser Willem never told Viserys (nor Daenerys) about the pact; Viserys died unaware, and Daenerys only learns of it many years later, when Quentyn Martell arrives at [[Meereen]] to propose a marriage between the two of them, given that Viserys is dead.{{Bookref|AFFC|40}}{{Bookref|ADWD|43}}
+
+==Appearances==
+*{{H&L|Dragonstone}} {{Mentioned}}
+*{{C&R|The Last Dragons}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Darry}}
+
+<!--Categories-->
+{{DEFAULTSORT:Darry, Willem}}
+[[Category:Individuals from Game of Thrones: Conquest & Rebellion: An Animated History of the Seven Kingdoms]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Knights]]
+[[Category:Members of House Darry|Willem Darry]]
+[[Category:Rivermen]]
+[[Category:Servants and retainers of House Targaryen]]
+
+<!--Languages-->
+[[fr:Willem Darry]]
+[[pt-br:Willem Darry]]
+[[ru:Уиллем Дарри]]

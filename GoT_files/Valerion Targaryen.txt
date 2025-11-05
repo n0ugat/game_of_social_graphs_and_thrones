@@ -1,0 +1,65 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = House Targaryen.svg
+| Link  = House Targaryen/House of the Dragon
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Targaryen
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = [[House Targaryen/House of the Dragon|Targaryen]]{{Guideref|Jaehaerys I Targaryen}}
+| Affiliation = 
+| Titles      = [[Prince]]
+| AKA         = 
+| Culture     = [[Valyrians|Valyrian]]
+| Religion    = 
+| Father      = {[[Jaehaerys I Targaryen]]}{{Guideref|Jaehaerys I Targaryen}}
+| Mother      = {[[Alysanne Targaryen]]}{{Guideref|Jaehaerys I Targaryen}}
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+Prince '''Valerion Targaryen'''{{Con|F&B}} was the twelfth child of King [[Jaehaerys I Targaryen|Jaehaerys I]] and Good Queen [[Alysanne Targaryen|Alysanne]].{{Guideref|Jaehaerys I Targaryen}}
+
+==Family==
+{{Targaryen tree (House of the Dragon)}}
+
+==In the books==
+In ''[[Fire & Blood]]'', Valerion was born in 77 AC after a difficult labor that left the queen bedridden for half a year. He was sickly, and almost as small as his brother [[Gaemon Targaryen|Gaemon]] at birth. He died in 78 AC, just short of his first [[nameday]].
+
+==Appearances==
+*{{HOTD|Second of His Name}} {{Indirect}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Targaryen/House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Targaryen, Valerion}}
+[[Category:Crownlanders]]
+[[Category:Individuals mentioned in House of the Dragon]]
+[[Category:Members of House Targaryen|Valerion Targaryen]]
+[[Category:Princesses]]
+
+<!--Languages-->
+[[ru:Валерион Таргариен]]

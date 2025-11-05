@@ -1,0 +1,22 @@
+{{Crew
+|Image = Tomás Ordóñez.jpg
+|dateofbirth = 
+|birthplace = 
+|job = Stunt Performer
+|imdb = https://www.imdb.com/name/nm0649592/
+|twitter = }}
+'''Tomás Ordóñez López''' is a stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 7|seventh season]] episodes "[[The Spoils of War]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 7||||yes}}
+
+==See also==
+*{{IMDb
+|# = 0649592}}
+*{{Facebook
+|# = tomas.ordonezlopez.3}}
+{{DEFAULTSORT:Ordóñez, Tomás}}
+[[Category:Stunt performers of Game of Thrones]]

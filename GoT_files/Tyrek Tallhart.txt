@@ -1,0 +1,60 @@
+{{Canonicity|Non}}
+{{Heraldry
+| Image = House Tallhart.svg
+| Link  = House Tallhart
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Stark
+| Image       = Umber lineage.jpg
+| Birth       = At [[Torrhen's Square]]
+| Death       = 
+| House       = [[House Tallhart|Tallhart]]
+| Affiliation = [[House Stark]]
+| Titles      = [[Lordship|Lord]] of Torrhen's Square
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Northmen|Northern]]
+| Religion    = [[Old Gods]]
+| Father      = 
+| Mother      = 
+| Spouse      = {[[Petra Tallhart]]}
+| Lovers      = 
+| Children    = {[[Hollys Umber]]}
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+Lord '''Tyrek Tallhart''' was a member of [[House Tallhart]].
+
+==Biography==
+===Background===
+Tyrek married Lady [[Petra Tallhart]], with whom he had the daughter [[Hollys Umber|Hollys]].{{Ref|GOT104}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+He is mentioned in ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]''.{{Ref|GOT104}}
+
+==Appearances==
+*{{GOT|Cripples, Bastards, and Broken Things}} {{Text}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+{{DEFAULTSORT:Tallhart, Tyrek}}
+[[Category:Bannermen of House Stark]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Members of House Tallhart|Tyrek Tallhart]]
+[[Category:Northmen]]
+
+<!--Languages-->
+[[de:Tyrek Tallhart]]
+[[es:Tyrek Tallhart]]
+[[fr:Tyrek Tallhart]]
+[[ru:Тирек Толхарт]]

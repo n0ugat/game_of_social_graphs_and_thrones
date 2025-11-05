@@ -1,0 +1,32 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Vincent Wang.jpg
+| Birth   = March 29, 1968 {{Age|1968|3|29}}<br>Wusu, Xinjiang, China
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = "[[Second of His Name]]"
+| First   = 
+| Last    = 
+}}
+'''Vincent Wang''' (born March 29, 1968) is a Chinese stuntman and actor.
+
+In ''[[House of the Dragon]]'', he was a stunt performer in the [[House of the Dragon: Season 1|first season]] episode "[[Second of His Name]]".
+
+==Credits==
+===Stunts===
+{{House of the Dragon: Season 1|||yes}}
+
+==See also==
+*{{IMDb
+|# = 0911058}}
+*{{Twitter
+|# = vincentwang99}}
+*{{Facebook
+|# = vincent.wang.167189}}
+*{{Linkedin
+|# = /in/vincent-wang-241a0b3a}}
+{{DEFAULTSORT:Wang, Vincent}}
+[[Category:Stunt performers of House of the Dragon]]

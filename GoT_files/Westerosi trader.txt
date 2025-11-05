@@ -1,0 +1,48 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Thrones
+| Image       = Westerosi-trader-TheBrokenMan.jpg
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 6|6]]
+| Appearances = "[[The Broken Man]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Kevin Horsham]]
+}}
+{{Quote|You're Westerosi.|[[Arya Stark]]|The Broken Man}}
+A '''Westerosi trader '''is from [[Westeros]].
+
+==Biography==
+===[[Game of Thrones: Season 6|''Game of Thrones'': Season 6]]===
+The Westerosi trader is speaking with his companion concerning the [[Ironborn]] fleet's recent arrival at [[Slaver's Bay]], when he is approached by [[Arya Stark|Arya]], who recognizes him as a Westerosi due to his usage of the [[Common Tongue]]. She then pays him with two bags of coins in order to secure passage for her journey back to Westeros.{{Ref|GOT607}}
+
+==Appearances==
+*{{GOT|The Broken Man}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Westerosi]]
+
+<!--Languages-->
+[[ru:Вождь одичалых]]

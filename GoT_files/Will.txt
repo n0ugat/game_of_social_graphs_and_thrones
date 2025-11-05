@@ -1,0 +1,100 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Night's Watch.svg
+| Link  = Night's Watch
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = Will1.jpg
+| Birth       = The [[Riverlands]], [[Westeros]]
+| Death       = [[298 AC]]{{Dateref|Game of Thrones: Season 1}}<br>Near [[Winterfell]], the [[North]]
+| House       = 
+| Affiliation = [[Night's Watch]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Riverlands|Rivermen]]
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 1|1]]
+| Appearances = "[[Winter Is Coming]]"
+| First       = 
+| Last        = 
+| DeathEp     = "Winter Is Coming"
+| Actor       = [[Bronson Webb]]
+}}
+{{Quote|I know I broke my oath. I know I'm a deserter. I should have gone back to the Wall and warned them, but... I saw what I saw... I saw the White Walkers.|Will to [[Eddard Stark]]|Winter Is Coming}}
+'''Will''' was a [[ranger]] in the [[Night's Watch]]. After an encounter with the [[White Walkers]] beyond the [[Wall]], Will [[Desertion|deserted]] the Watch, and was eventually captured and later [[Execution|executed]] by [[Eddard Stark]].
+
+==Biography==
+===Background===
+Will was a ranger of the Night's Watch. He was [[Smallfolk|not of noble birth]], but was posthumously described by [[Benjen Stark]] as a reliable soldier, a "true ranger".{{Ref|GOT101}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+[[File:Waymar_Royce,_Gared_&_Will.jpg|thumb|180x180px|Rangers Gared, Ser Waymar Royce and Will depart Castle Black on a ranging beyond the Wall.]]
+Will, along with [[Knighthood|Ser]] [[Waymar Royce]] and [[Gared]], departs from the [[Wall]] to investigate reports of [[Free Folk|wildlings]] in the [[Haunted Forest]] which lies [[beyond the Wall]]. He discovers a number of wildling corpses dismembered and arranged in a strange, ritualistic fashion on the ground. Nearby, he also finds a dead [[wildling girl]] pinned to a tree. Will reports to his companions and leads them back to the scene but the corpses have vanished. Gared sends Will to find the bodies.{{Ref|GOT101}}
+
+While Will searches for the wildling corpses, he notices the wildling girl who now is a [[wight]] and stalks him through the trees. Terrified, he runs away from the Wight but arrives to the horrid scene to witness a [[White Walker (Winter Is Coming)|White Walker]] brutally beheading Gared. The White Walker tosses the severed head at Will's feet.{{Ref|GOT101}}
+
+Will is later found south of the Wall near [[Winterfell]], apparently having gone renegade. He is apprehended and brought before Eddard for justice. Will claims that his companions have been brutally killed by the White Walkers and he fled in terror. Eddard does not believe the story and executes Will as a deserter, beheading him with his [[Valyrian steel]] sword, [[Ice]].{{Ref|GOT101}}
+
+Later, at the feast welcoming [[Robert Baratheon]] to Winterfell, Eddard asks Benjen if he knew the deserter whom he executed. Benjen responds that the deserter was just a lad and was tough, a true ranger.{{Ref|GOT101}}
+
+Lord commander [[Jeor Mormont]] tells [[Tyrion Lannister|Tyrion]] about Will's execution and that he swore he had seen a White Walker killing his companions.{{Ref|GOT103}}
+
+==Quotes==
+===Spoken about Will===
+{{Dialogue a-b|Eddard Stark|The boy I beheaded... Did you know him?|Benjen Stark|Of course I did. Just a lad. But he was tough, Ned. A true [[Ranger]].|[[Benjen Stark|Benjen]] and [[Eddard Stark|Ned]] talk about Will.|Winter Is Coming}}
+
+==Behind the scenes==
+*After playing the role in the unscreened [[Pilot (Game of Thrones)|pilot]], it appeared that Webb would be unavailable to reprise the character for re-shoots and would have to be recast. However, it was later confirmed that Webb would indeed be returning to the role.
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Will is famed for his skills as a tracker and a hunter, a result of his previous career as a poacher. Nobody can move more silent through the forest than Will. After being caught killing a Mallister buck by Lord [[Jason Mallister]]'s woodsmen, he chose to take the black over losing a hand. He has been at the [[Wall]] for four years when the events of the books begin.
+
+In the TV series, some of Will and [[Gared]]'s story roles have been switched around from the books.
+
+==Gallery==
+<gallery>
+Will 1x01.jpg|Will in the haunted forest in "[[Winter Is Coming]]".
+Will.jpg|Will in "Winter Is Coming".
+</gallery>
+
+==Appearances==
+*{{GOT|Pilot}} {{Unreleased}} {{Nc}}
+*{{GOT|Winter Is Coming}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+*{{AWOIAF|Gared}}
+
+<!--Navboxes-->
+{{Night's Watch}}
+
+<!--Categories-->
+[[Category:Deserters of the Night's Watch]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Rangers of the Night's Watch]]
+[[Category:Rivermen]]
+[[Category:Smallfolk]]
+
+<!--Languages-->
+[[de:Will]]
+[[es:Will]]
+[[fr:Will]]
+[[ru:Уилл]]
+[[zh:威尔]]

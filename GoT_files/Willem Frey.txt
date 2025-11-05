@@ -1,0 +1,84 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Frey.svg
+| Link  = House Frey
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Frey
+| Image       = 
+| Birth       = The [[Twins]], the [[Riverlands]]
+| Death       = [[303 AC]]{{Dateref|Game of Thrones: Season 6}}<br>The Twins, the Riverlands
+| House       = [[House Frey|Frey]]
+| Affiliation = 
+| Titles      = [[Knighthood|Ser]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Riverlands|Rivermen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = Wife
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|I went to Willem Frey's wedding?|[[Jaime Lannister]] to his cousin, [[Alton Lannister|Alton]]|A Man Without Honor}}
+Ser '''Willem Frey''' was a member of [[House Frey]] and a [[Knighthood|knight]] whose wedding was celebrated with a tournament.
+
+==Biography==
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+[[Alton Lannister]] recalls squiring for [[Jaime Lannister|Jaime]] at a tournament, the same day Willem's wedding was held.{{Ref|GOT207}}
+
+===[[Game of Thrones: Season 3|''Game of Thrones'': Season 3]]===
+A [[Riverlands traveller]] tells [[Locke]] that he saw Jaime fight in a tournament at Willem Frey's wedding.{{Ref|GOT302}}
+
+===[[Game of Thrones: Season 7|''Game of Thrones'': Season 7]]===
+He is supposedly murdered, along with his other male family members, by [[Arya Stark|Arya]], in retaliation for the [[Red Wedding]].{{Ref|GOT701}}
+
+==Family==
+{{Frey tree}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is a character named Willem Frey, but he is a young grandson of Lord [[Walder Frey]], the second son of Cleos Frey (the analogous character of [[Alton Lannister]]) and Jeyne Darry. This "Willem Frey" is only ten years old, thus was never married. He serves as a page at [[Ashemark]]. He has not made an appearance in the books so far, only mentioned in the appendices.
+
+==Appearances==
+*{{GOT|A Man Without Honor}} {{Mentioned}}
+*{{GOT|Dark Wings, Dark Words}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Frey}}
+
+<!--Categories-->
+{{DEFAULTSORT:Frey, Willem}}
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Knights]]
+[[Category:Members of House Frey|Willem Frey]]
+[[Category:Rivermen]]
+
+<!--Languages-->
+[[de:Willem Frey]]
+[[es:Willem Frey]]
+[[fr:Willem Frey]]
+[[it:Willem Frey]]
+[[nl:Willem Frey]]
+[[pl:Willem Frey]]
+[[ru:Уиллем Фрей]]
+[[zh:威廉·佛雷]]

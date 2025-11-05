@@ -1,0 +1,88 @@
+{{Canonicity|Canon}}
+{{Animal
+| Title       = {{PAGENAME}}
+| Type        = Velaryon
+| Image       = Vermax Official Guide 2.jpg
+| Species     = [[Dragon]]
+| Birth       = 
+| Death       = 
+| AKA         = 
+| Affiliation = [[Jacaerys Velaryon]]{{Ref|HOTD106}}
+| Family      = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 1|1]]
+| Appearances = 4 episodes {{Below|Appearances}}
+| First       = "[[The Princess and the Queen]]"
+| Last        = 
+| DeathEp     = 
+}}
+{{Quote|It's good you're here, young prince. You're needed to patrol the skies on Vermax.|Daemon Targaryen|The Black Queen}}
+'''Vermax'''{{Note|[[High Valyrian]]: ''Vermaks''}}{{Note|<small>VƎR</small>-maks}} is a [[dragon]] that belongs to [[House Targaryen]] during the reign of King [[Viserys I Targaryen]]. He is bonded to [[Jacaerys Velaryon]].
+
+==Biography==
+===Background===
+Vermax hatched around the same time as [[Tessarion]]{{Ref|HOTD208}} and bonded with [[Jacaerys Velaryon|Jacaerys]] from a young age. He has olive-green scales, orange eyes, and orange frills.{{Ref|HOTD106}}
+
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+In the [[Dragonpit]], [[Jacaerys Velaryon]] trains Vermax to heel and to breathe fire onto a goat under the supervision of the [[Dragonkeepers]] with [[Lucerys Velaryon]], [[Aegon II Targaryen|Aegon Targaryen]], and [[Aemond Targaryen]] as their audience.{{Ref|HOTD106}}
+[[File:TBQ Dragons.png|thumb|[[Meleys]], Vermax and [[Arrax]] leaving [[Dragonstone]].]]
+After the coronation of Queen [[Rhaenyra Targaryen]], Jacaerys and Vermax start to fly to the [[Eyrie]] and to [[Winterfell]] to affirm the supports of [[House Arryn/House of the Dragon|House Arryn]] and [[House Stark/House of the Dragon|House Stark]].{{Ref|HOTD110}}
+
+===[[House of the Dragon: Season 2|''House of the Dragon'': Season 2]]===
+Vermax waits near the shores of the [[Trident]] while [[Jacaerys Velaryon|Jacaerys]] negotiates safe passage for [[House Stark]] with [[House Frey]].{{Ref|HOTD205}}
+
+Vermax flies around [[Dragonstone (island)|Dragonstone]] with [[Moondancer]] as [[Rhaenyra Targaryen|Rhaenyra]] and [[Mysaria]] discuss the impending war against the [[Greens]].{{Ref|HOTD208}}
+
+==In the books==
+In ''[[Fire & Blood]]'', Vermax is the mount of Jacaerys Velaryon.
+
+==Gallery==
+<gallery>
+File:S1 Vermax Concept Art.jpg|Vermax concept art.
+File:TPATQ Vermax 3.png|Vermax killing sheep.
+File:TPATQ Vermax.png|Vermax strained by Dragonkeepers.
+File:Vermax at the Twins.png|Vermax at the Twins.
+File:Moondancer and Vermax.png
+</gallery>
+
+==Appearances==
+*{{TDOD}} {{Illustrated}}
+*{{HOTD|The Princess and the Queen}}
+*{{HOTD|The Black Queen}}
+*{{HOTD|A Son for a Son}} {{Mentioned}}
+*{{HOTD|Rhaenyra the Cruel}} {{Mentioned}}
+*{{HOTD|Regent}}
+*{{HOTD|Smallfolk}} {{Indirect}}
+*{{HOTD|The Red Sowing}} {{Mentioned}}
+*{{HOTD|The Queen Who Ever Was}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+*{{TOG|dragon-index#vermax}}
+
+<!--Navboxes-->
+{{Dragons/House of the Dragon}}
+
+<!--Categories-->
+[[Category:Blacks]]
+[[Category:Dragons of House Targaryen]]
+[[Category:Dragons of House Velaryon]]
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Individuals from The Dance of Dragons]]
+
+<!--Languages-->
+[[de:Vermax]]
+[[es:Vermax]]
+[[fr:Vermax]]
+[[it:Vermax]]
+[[nl:Vermax]]
+[[pl:Vermax]]
+[[ru:Вермакс]]
+[[uk:Вермакс]]
+[[zh:沃马克斯]]

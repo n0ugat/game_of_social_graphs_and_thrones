@@ -1,0 +1,82 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = Unknown.svg
+| Link  = 
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Tully
+| Image       = 104 Willis Wode.png
+| Birth       = The [[Riverlands]], [[Westeros]]
+| Death       = [[298 AC]]{{Dateref|Game of Thrones: Season 1}}<br>The [[Eastern Road]], the [[Vale of Arryn]]
+| House       = 
+| Affiliation = [[House Whent]]
+| Titles      = [[Knighthood|Ser]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Riverlands|Rivermen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 1|1]]
+| Appearances = 2 episodes {{Below|Appearances}}
+| First       = "[[Cripples, Bastards, and Broken Things]]"
+| Last        = "[[The Wolf and the Lion]]"
+| DeathEp     = "The Wolf and the Lion"
+| Actor       = [[Ryan McKenna]]
+}}
+{{Quote|You, Ser... Is that the black bat of Harrenhal I see embroidered on your coat?|[[Catelyn Stark]]|Cripples, Bastards, and Broken Things}}
+Ser '''Willis Wode'''{{Con|ASOIAF}} was a [[Knighthood|knight]] in the service of [[House Whent]]. He helps [[Catelyn Stark]] to apprehend [[Tyrion Lannister]] and dies defending her during her passage through the [[Vale of Arryn]].
+
+==Biography==
+===Background===
+Ser Willis Wode is sworn to the service of [[House Whent]] of [[Harrenhal]], a vassal house to [[House Tully]]. He is traveling the [[Kingsroad]] following the Tourney of the Hand. He carries a shield emblazoned with the black bat of Harrenhal.{{Ref|GOT104}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+Willis is drinking with another man at the [[Inn at the Crossroads]] when [[Tyrion Lannister|Tyrion]] arrives on his way south. [[Catelyn Stark|Catelyn]] is also in the inn and Tyrion recognizes her. She turns to the men of her [[Hoster Tully|father]]'s bannermen to help her to take Tyrion into custody, accusing him of attempting to murder [[Bran Stark|her son]]. Catelyn announces that she will return Tyrion to Winterfell to await the King's justice. Ser Willis draws his sword and threatens Tyrion.{{Ref|GOT104}}
+
+[[File:Tyrion in the inn.png|thumb|Tyrion taken prisoner.]] 
+He accompanies Catelyn east into the [[Vale of Arryn]], her actual destination. Among the party are the captive Tyrion, the two Lannister men-at-arms who were traveling with Tyrion, Catelyn and her escort Ser [[Rodrik Cassel]], the [[Mercenary|sellsword]] [[Bronn]], the singer [[Marillion]], a [[Kurleket|man]] of [[House Bracken]] and six other swordsmen loyal to [[House Tully]]. The party are attacked by warriors from the [[hill tribes]]. Ser Willis dies defending Catelyn. Catelyn, Tyrion, Rodrik, Bronn, Marillion, and two others survive the attack and continue to the Eyrie.{{Ref|GOT105}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Ser Willis Wode is a hedge knight sworn to the service of Lady Shella Whent. He is a stiff necked and stolid man. In contrast to his show counterpart, he survives the journey to the Eyrie, and is present at the duel between [[Vardis Egen]] and [[Bronn]].
+
+In ''A Feast for Crows'', when [[Jaime Lannister]] goes to resolve the [[Second siege of Riverrun|siege of Riverrun]], he passes through the land owned by Wode and his brother, but finds the area devastated by the war and abandoned save for a few outlaws.
+
+==Gallery==
+<gallery>
+Willis Wode.jpg|Ser Willis at the [[Inn at the Crossroads]]. His shield bearing the sigil of House Whent is by his feet.
+</gallery>
+
+==Appearances==
+*{{GOT|Cripples, Bastards, and Broken Things}}
+*{{GOT|The Wolf and the Lion}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+{{DEFAULTSORT:Wode, Willis}}
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Knights]]
+[[Category:Nobles]]
+[[Category:Rivermen]]
+[[Category:Servants and retainers of House Whent]]
+
+<!--Languages-->
+[[de:Willis Wod]]
+[[fr:Willis Guède]]
+[[ru:Уиллис Уод]]

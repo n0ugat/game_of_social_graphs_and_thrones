@@ -1,0 +1,69 @@
+{{DISPLAYTITLE:White Walker {{C|Hardhome}}}}
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Character
+| Title       = White Walker
+| Type        = Walker
+| Image       = WhiteWalker s5e8.jpg
+| Birth       = 
+| Death       = [[302 AC]]{{Dateref|Game of Thrones: Season 5}}<br>[[Hardhome]], [[beyond the Wall]]{{Ref|GOT508}}
+| House       = 
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[White Walkers]]
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 5|5]] {{*}} [[Game of Thrones: Season 6|6]]
+| Appearances = 2 episodes {{Below|Appearances}}
+| First       = "[[Hardhome (episode)|Hardhome]]"
+| Last        = "[[Blood of My Blood]]" {{Vision}}
+| DeathEp     = "Hardhome"
+| Actor       = [[Tim Loane]]
+}}
+{{Dialogue a-b-a-b|Samwell Tarly|But… you killed a White Walker.|Jon Snow|With Longclaw. I saw them shatter steel axes like they were glass. But Longclaw…|...Is Valyrian steel. How many Valyrian steel swords are left in the Seven Kingdoms?|Not enough.|[[Jon Snow]] and [[Samwell Tarly]] discuss the abilities of [[Longclaw]]|Mother's Mercy}}
+This '''White Walker''' was one of the [[Night King]]'s lieutenants and one of the commanders of the growing [[wight]] army that marched on [[Hardhome]], the last remaining [[Free Folk|wildling]] settlement.
+
+He participated in the [[massacre at Hardhome]] during which he killed [[Loboda]], the new [[Magnar]] of the [[Thenns]], before he was killed by [[Jon Snow]], [[Lord Commander of the Night's Watch]].
+
+==Biography==
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+[[File:WW-fight.jpg|thumb|The White Walker fights Jon Snow.]]
+During the attack on Hardhome, while Jon and [[Loboda]] search for a bag of [[dragonglass]] weapons inside a burning [[Free Folk|wildling]] hut, the White Walker gives chase, extinguishing the flames with his mere presence. Loboda tries to fight him to buy Jon time to retrieve the dragon glass but upon contact with the Walker's [[crystal sword]] his axe shatters. Loboda is slain by the White Walker. Jon, though plainly outmatched, takes on the Walker with two ordinary swords but they shatter as well. Desperately scrambling away from the creature, Jon finds his sword, [[Longclaw]], and reflexively raises it to block the Walker’s killing blow. However, instead of shattering, Longclaw successfully blocks the strike from the Walker's spear, which shocks them both. Capitalizing on the Walker's shock, Jon lands a blow on the White Walker, causing him to instantly shatter into a cloud of icy dust and fragments.{{Ref|GOT508}}
+
+His death is observed by the [[Night King]], who continues to watch Jon with interest, having finally seen something approaching actual resistance to the White Walkers' march.{{Ref|GOT508}}
+
+==Gallery==
+<gallery>
+White Walker s5e8.jpg|The Walker enters the hut.
+</gallery>
+
+==Appearances==
+*{{GOT|Hardhome}}
+*{{GOT|Blood of My Blood}} {{Vision}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|Others}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:White Walkers]]
+
+<!--Languages-->
+[[de:Weißer Wanderer (Hartheim)]]
+[[fr:Marcheur Blanc (Durlieu)]]
+[[ru:Белый ходок (Суровый Дом)]]

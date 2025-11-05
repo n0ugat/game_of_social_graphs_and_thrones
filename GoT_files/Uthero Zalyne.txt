@@ -1,0 +1,59 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Free
+| Image       = 
+| Birth       = [[Braavos]], the [[Free Cities]]
+| Death       = 
+| House       = 
+| Affiliation = 
+| Titles      = [[Sealord of Braavos]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Braavos]]i
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|For over a hundred years, Braavos hid itself from the eyes of the world, who called it the Secret City. Using a dye derived from a local snail, our captains stained their sails purple to hide their stolen Valyrian ships. Our merchants carried false charts and lied when questioned about their home port. Eventually, one sealord, our elected ruler, decided enough time had passed, and initiated the unmasking of Braavos to the world and to Valyria.|[[Tycho Nestoris]]|Braavos (short)}}
+'''Uthero Zalyne'''{{Con|TWOI&F}} was a [[Sealord of Braavos]].
+
+==Biography==
+During Uthero's tenure as Sealord, he [[Unmasking|revealed the existence of Braavos]] to the surrounding world, including the [[Valyrian Freehold]]. As restitution for the ships stolen from the Valyrians by the [[Slavery|slaves]] who had founded Braavos, Uthero sent envoys from the [[Iron Bank of Braavos]] to pay the [[Valyrians]]. However, Braavos refused to pay for the slaves themselves. The revelation of Braavos' existence became known as the "Unmasking", and is celebrated annually in Braavos.{{Ref|H&L504}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, his story is the same.
+
+==Appearances==
+*{{H&L|Braavos}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+{{DEFAULTSORT:Zalyne, Uthero}}
+[[Category:Braavosi]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Sealords of Braavos]]
+
+<!--Languages-->
+[[ru:Утеро Залине]]

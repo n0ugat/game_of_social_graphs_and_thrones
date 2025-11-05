@@ -1,0 +1,38 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Baratheon
+| Image        = 
+| Type         = Town
+| Status       = 
+| Location     = The [[Stormlands]], [[Westeros]]
+| Population   = 
+| Rulers       = [[House Baratheon]] {{C|by proxy}}
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = Weeping Tower {{C|possibly}}
+| Founded      = 
+}}
+The '''Weeping Town'''{{Ref|THTDB201}} is a town in the [[Stormlands]], to the south-east of the [[Rainwood]] and along the [[Sea of Dorne]]. It possibly contains a seat for a [[noble house]], called the '''Weeping Tower'''.{{Ref|GOT701}}
+
+==History==
+===[[Game of Thrones: Season 7|''Game of Thrones'': Season 7]]===
+The Weeping Town appears on [[Cersei Lannister|Cersei]]'s map of [[Westeros]] in the courtyard of [[Maegor's Holdfast]], marked as "Weeping Tower."<ref>"[[Dragonstone (episode)|Dragonstone]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the Weeping Town is a market town ruled by House Whitehead. It includes three inns: the Broken Shield, the Loon, and the Drunken Dornishman. The town was named for [[King of the Andals and the Rhoynar and the First Men|King]] [[Daeron I Targaryen]], as it is the place his corpse was brought after his death in the [[Conquest of Dorne]]. It is also unclear in the books whether the "Weeping Tower" exists within the town, or if this is just a typing error.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Stormlands}}
+
+<!--Categories-->
+[[Category:Harbors]]
+[[Category:Stormlands]]
+[[Category:Towns]]

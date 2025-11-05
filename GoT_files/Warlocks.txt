@@ -1,0 +1,68 @@
+{{Canonicity|Canon}}
+{{SameName|magic practitioners|short|The Warlocks}}
+{{Organization
+| Title       = {{PAGENAME}}
+| Theme       = Westeros
+| Image       = H&L219.png
+| Type        = Magic practitioners
+| Status      = Active
+| Symbol      = 
+| Words       = 
+| Center      = [[House of the Undying]], [[Qarth]]
+| Leader      = 
+| Affiliation = 
+| Religion    = 
+| Military    = 
+| Founded     = 
+}}
+{{Quote|Once, the Warlocks truly were mighty. Or so they would have us believe.|[[Xaro Xhoan Daxos]]|The Warlocks}}
+The '''Warlocks''',{{Ref|GOT205}} also known as the '''Warlocks of Qarth''',{{Ref|GOT205}} are a group of [[magic]] practitioners based in the city of [[Qarth]]. They gather at the [[House of the Undying]] and are recognizable by their blue lips, caused by their custom of drinking a substance known as [[shade of the evening]].
+
+Similar to the [[Alchemists' Guild]] of the [[Seven Kingdoms]], the warlocks' power and prestige have waned over the years, and some of the Qartheen elite regard them with a contempt. Nevertheless, the Warlocks still hold a permanent seat among the [[Thirteen]], the ruling council of Qarth.
+
+==History==
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+[[File:Pyat profile.jpg|thumb|Pyat Pree, representative of the Warlocks before the Thirteen]]
+After centuries of decline, the magical power of the warlocks grew stronger in the weeks following the hatching of [[Daenerys Targaryen]]'s [[dragon]]s. Some time after her arrival in Qarth, the Warlocks, through [[Pyat Pree]], form an alliance with [[Xaro Xhoan Daxos]] to kidnap both the dragons and Daenerys herself in exchange for their aid in making Xaro the [[King of Qarth]].
+
+Since their magic was strongest in the presence of the dragons, and they were strongest in hers, they planned to keep both her and the dragons prisoner in the House of the Undying. Daenerys, however foils their plans when her dragons kill Pyat Pree and Xaro Xhoan Daxos. She escapes the House of the Undying afterwards and, shortly after, leaves Qarth by ship.
+
+===[[Game of Thrones: Season 3|''Game of Thrones'': Season 3]]===
+[[File:Unidentified_warlock_S3_Ep1.png|thumb|A warlock sent to Astapor to assassinate Daenerys Targaryen]]
+Several weeks later, a warlock with the appearance of a [[Warlock (Valar Dohaeris)|young girl]] attempts to assassinate Daenerys at [[Astapor]], employing a [[manticore]] hidden inside a wooden hollow sphere. The attack, however, is foiled by Ser [[Barristan Selmy]], though the would-be assassin escapes, after revealing her identity to Daenerys.<ref>"[[Valar Dohaeris]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, warlocks are known to dress in long, beaded robes. Their leaders are the Undying Ones, who dwell in seclusion in the House of the Undying; these warlocks have drank so much Shade-of-the-evening that not only their lips but their entire flesh is ripe violet blue, their nails are nearly black, and even the whites of their eyes are blue.
+
+Similarly to the Alchemists' Guild of the Seven Kingdoms, the warlocks' power and prestige have waned over the years to the point that a common saying in Qarth concerning the warlocks is "A warlock's house is built of bones and lies" while the House of the Undying is known as the "Palace of Dust." Even so, the Warlocks are feared and respected throughout the East; many enter the 'Palace of Dust', but none leave again.
+
+In ''A Clash of Kings'', Daenerys turns to the Warlocks after she's refused aid by the Pureborn, the ruling elite of Qarth. Daenerys's dragons kill the Undying Ones to save their "mother" from the ancient warlocks. After Daenerys leaves the House of the Undying, many Qartheen factions, including the warlocks, call for Daenerys to be killed and one of them sends a Sorrowful Man to assassinate her. Pyat Pree also gathers the remaining warlocks to work ill on Daenerys.
+
+In ''A Feast for Crows'', [[Euron Greyjoy]] tells his brother Victarion that he captured once four warlocks; one of them threatened him, so Euron killed and [[cannibalism|fed him to the other three]].
+
+The TV series changed the Sorrowful Man assassin hired by one of the Qartheen factions to a warlock who appeared as a young girl, though both attempted to kill her with a poisonous [[Manticore]]. Also, in the books, the assassination attempt occurred as Daenerys was leaving the docks of Qarth, while the TV series slightly changed this by having it occur at Astapor's docks just as she arrived ''from'' Qarth.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Qarth}}
+
+<!--Categories-->
+[[Category:Magic]]
+[[Category:Organizations]]
+[[Category:Qartheen culture]]
+[[Category:Warlocks| ]]
+
+<!--Languages-->
+[[de:Hexenmeister]]
+[[es:Brujo]]
+[[fr:Conjurateurs]]
+[[pl:Zasmuceni]]
+[[pt-br:Magos]]
+[[ru:Колдуны Кварта]]
+[[uk:Чаклуни]]
+[[zh:男巫]]

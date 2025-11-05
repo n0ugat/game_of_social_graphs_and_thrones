@@ -1,0 +1,52 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Stark
+| Image       = Wintertownman.jpg
+| Birth       = In the [[winter town]]
+| Death       = 
+| House       = 
+| Affiliation = [[House Stark]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Northmen|Northman]]
+| Religion    = [[Old Gods]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 5|5]]
+| Appearances = "[[Kill the Boy]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Raymond Keane]]
+}}
+{{Dialogue a-b|Brienne|Did you know Lord Eddard?|Winter town man|I knew him. And his father before him. The Starks are gone now.|The man reminisces to [[Brienne of Tarth]]|Kill the Boy}}
+A '''winter town man''' is a resident of the [[winter town]].
+
+==Biography==
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+[[Brienne of Tarth]] and [[Podrick Payne]] arrive at an inn near Winterfell looking for [[Sansa Stark|Sansa]]. Their conversation is interrupted by the Winter town man who pledge loyalty to House Stark. Brienne convinces the man to get a message through to Sansa to light a candle in the highest tower of the Broken Tower if she needs help. The message is later carried through to Sansa's [[Old woman|maid]] who tells Sansa.{{Ref|GOT505}}
+
+==Appearances==
+*{{GOT|Kill the Boy}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Servants and retainers of House Bolton]]
+[[Category:Servants and retainers of House Stark]]
+[[Category:Smallfolk]]
+
+<!--Languages-->
+[[ru:Хозяин постоялого двора]]
+[[Category:Northmen]]

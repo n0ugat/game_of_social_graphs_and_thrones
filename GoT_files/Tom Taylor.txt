@@ -1,0 +1,40 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Tom Taylor.jpg
+| Birth   = July 16, 2001 {{Age|2001|7|16}}<br>Surrey, England
+| Death   = 
+| Role    = [[Cregan Stark]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]]
+| Credits = "[[A Son for a Son]]"
+| First   = 
+| Last    = 
+}}
+'''Tom Taylor''' (born 16 July 2001) is an English actor. He has appeared in films such as ''{{WPS|The Dark Tower (2017 film)|The Dark Tower}}'' and ''{{WPS|The Kid Who Would Be King}}'' and television series such as ''{{WPS|Casualty (TV series)|Casualty}}'', ''{{WPS|Doctor Foster (TV series)|Doctor Foster}}'', ''{{WPS|The Last Kingdom (TV series)|The Last Kingdom}}'', ''{{WPS|Us (British TV series)|Us}}'', and ''{{WPS|The Bay (TV series)|The Bay}}''.
+
+Taylor plays [[Cregan Stark]] in the [[House of the Dragon: Season 2|second season]] of ''[[House of the Dragon]]''.<ref>[https://wikiofthrones.com/the-last-kingdom-actor-tom-taylor-joins-house-of-the-dragon-season-2 The Last Kingdom actor Tom Taylor joins House of the Dragon Season 2 - Wiki of Thrones]</ref>
+
+==Credits==
+===Starring===
+{{House of the Dragon: Season 2|yes}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{WP|Tom Taylor (actor)}}
+*{{IMDb|# = 6999211}}
+*{{Twitter|# = TomTaylor1607}}
+*{{Instagram|# = tomtaylor1607}}
+
+<!--Navboxes-->
+{{House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Taylor, Tom}}
+[[Category:Starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Tom Taylor]]
+[[pl:Tom Taylor]]

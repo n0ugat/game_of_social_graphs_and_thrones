@@ -1,0 +1,42 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Arryn
+| Image        = 
+<gallery>
+701 BtS Map Wickenden.png|Appearance
+Wickendon Pin.png|Location
+</gallery>
+| Type         = Town
+| Status       = 
+| Location     = The [[Vale of Arryn]], [[Westeros]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Wickenden'''{{Ref|GOT701}} is a town in the [[Vale of Arryn]], the region controlled by [[House Arryn]] of the [[Eyrie]]. The town is on the southern coast of the Vale, just across the bay from [[Maidenpool]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, it is the seat of House Waxley and is on the northern edge of the Bay of Crabs.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Vale of Arryn}}
+
+<!--Categories-->
+[[Category:Towns]]
+[[Category:Vale of Arryn]]
+
+<!--Languages-->
+[[de:Wickenden]]
+[[pt-br:Tocalar]]
+[[ru:Уикенден]]

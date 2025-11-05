@@ -1,0 +1,33 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Tully
+| Image        = 
+| Type         = Town
+| Status       = 
+| Location     = [[Riverlands]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Tumbler's Falls'''{{Ref|THTDB201}} is a town in the [[Riverlands]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Tumbler's Falls is the site of a rampage by a group of [[northmen]] during the [[War of the Five Kings]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Riverlands}}
+
+<!--Categories-->
+[[Category:Riverlands]]
+[[Category:Towns]]

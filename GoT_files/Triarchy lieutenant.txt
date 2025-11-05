@@ -1,0 +1,51 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Free
+| Image       = Triarchy lieutenant.png
+| Birth       = 
+| Death       = [[115 AC]]{{Dateref|Second of His Name}}<br>[[Bloodstone]], the [[Stepstones]]{{Ref|HOTD103}}
+| House       = 
+| Affiliation = [[Triarchy]]{{Ref|HOTD103}}
+| Titles      = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 1|1]]
+| Appearances = "[[Second of His Name]]"
+| First       = 
+| Last        = 
+| DeathEp     = "Second of His Name"
+| Actor       = [[Chris Jarman]]
+}}
+{{Quote|Nock… draw… loose!|Triarchy lieutenant|Second of His Name}}
+A '''Triarchy lieutenant''' fought in the [[War for the Stepstones]].
+
+==Biography==
+===Background===
+He is an officer in the [[Triarchy]]'s military.{{Ref|HOTD103}}
+
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+The lieutenant commands a group of archers during the assault in the [[siege of Bloodstone]]. He fails numerous attempts to kill [[Daemon Targaryen]], who survives three arrows. [[Laenor Velaryon]] later arrives on his [[dragon]] [[Seasmoke]], who burns the lieutenant and his men alive.{{Ref|HOTD103}}
+
+==Appearances==
+*{{HOTD|Second of His Name}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Categories-->
+[[Category:Essosi]]
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Triarchy]]

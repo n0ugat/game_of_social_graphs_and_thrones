@@ -1,0 +1,37 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = William Willoughby.jpg
+| Birth   = William Willoughby
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[Game of Thrones]]''<br>''[[House of the Dragon]]''
+| Season  = ''Game of Thrones'':<br>[[Game of Thrones: Season 1|1]] {{*}} [[Game of Thrones: Season 7|7]] {{*}} [[Game of Thrones: Season 8|8]]<br>''House of the Dragon'':<br>[[House of the Dragon: Season 1|1]]
+| Credits = 17 episodes {{Below|Credits}}
+| First   = "[[Winter Is Coming]]"
+| Last    = 
+}}
+'''William Willoughby''' is a stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 1|first season]] episode "[[Winter Is Coming]]" the [[Game of Thrones: Season 7|seventh season]] episodes "[[Stormborn]]" and "[[The Queen's Justice]]", and the [[Game of Thrones: Season 8|eighth season]] episodes "[[A Knight of the Seven Kingdoms (Game of Thrones)|A Knight of the Seven Kingdoms]]", "[[The Long Night]]", "[[The Last of the Starks]]", and "[[The Bells]]".
+
+In ''[[House of the Dragon]]'', he was a stunt performer in the [[House of the Dragon: Season 1|first season]] episodes "[[The Heirs of the Dragon]]", "[[The Rogue Prince]]", "[[Second of His Name]]", "[[King of the Narrow Sea (episode)|King of the Narrow Sea]]", "[[We Light the Way]]", "[[The Princess and the Queen]]", "[[Driftmark (episode)|Driftmark]]", "[[The Lord of the Tides]]", "[[The Green Council]]" and "[[The Black Queen]]".
+
+==Credits==
+===Stunts===
+====''[[Game of Thrones]]''====
+{{Game of Thrones: Season 1|yes}}
+{{Game of Thrones: Season 7||yes|yes}}
+{{Game of Thrones: Season 8||yes|yes|yes|yes}}
+
+====''[[House of the Dragon]]''====
+{{House of the Dragon: Season 1|note|yes|yes|yes|yes|yes|yes|yes|yes|yes|yes}}
+<nowiki>*</nowiki> Also portrayed [[Gwayne Hightower]] (uncredited)
+
+==External links==
+*{{IMDb|# = 0932598}}
+
+<!--Categories-->
+{{DEFAULTSORT:Willoughby, Will}}
+[[Category:Stunt performers of Game of Thrones]]
+[[Category:Stunt performers of House of the Dragon]]

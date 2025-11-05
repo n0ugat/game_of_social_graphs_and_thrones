@@ -1,0 +1,81 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Stark.svg
+| Link  = House Stark
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Stark
+| Image        =
+<gallery>
+Winter town.png|Appearance
+Winterfell Pin.png|Location
+</gallery>
+| Type         = Town
+| Status       = 
+| Location     = Outside the walls of [[Winterfell]], the [[North]]
+| Population   = 
+| Rulers       = [[House Stark]]<br>[[House Bolton]] {{C|formerly}}
+| Institutions = 
+| Military     = 
+| Religion     = [[Old Gods]]
+| Places       = 
+| Founded      = 
+}}
+{{Quote|I grew up in the shadow of her father's castle.|[[Ros]] describes life in the winter town.|Valar Dohaeris}}
+The '''winter town'''{{Ref|GOT704}} is a settlement in the [[North]], located just outside of [[Winterfell]] itself.
+
+During the years-long winters which hit the region, the [[Smallfolk|smallfolk]] of the North came to huddle in settlements outside the walls of Winterfell for protection. Over time they built these up into permanent structures and over the centuries it grew into a more established town, though its population still swells during winter and declines during spring and summer.<ref>"[[Winterfell (Histories & Lore)|Winterfell]]"</ref>
+
+==History==
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+[[Tyrion Lannister|Tyrion]] sneaks off from the main royal caravan of King [[Robert Baratheon]], which was headed to Winterfell itself, to visit the local brothel in the winter town, where he has sex with the [[Prostitution|prostitute]] named [[Ros]]. [[Jaime Lannister|Jaime]] arrives to fetch him back to Winterfell.<ref>"[[Winter Is Coming]]"</ref>
+
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+[[Bran Stark|Bran]] gives two orphans of the winter town, [[Jack]] and [[Billy]], to a [[Winterfell shepherd|shepherd]] asking for assistance in defending his flock from wolves.<ref>"[[The Ghost of Harrenhal]]"</ref> 
+
+===[[Game of Thrones: Season 3|''Game of Thrones'': Season 3]]===
+Ros explains to [[Shae]] that she grew up in the winter town just outside of Winterfell itself.<ref>"[[Valar Dohaeris]]"</ref>
+
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+[[File:Brienne Kill the Boy.jpg|thumb|Brienne stays in the winter town during her attempt to rescue Sansa Stark.]]
+[[Brienne of Tarth|Brienne]] and [[Podrick Payne]] take a room at an inn at the winter town as she begins to plan for a way to extract [[Sansa Stark|Sansa]] from [[Winterfell]], which is occupied by [[House Bolton]].<ref>"[[Kill the Boy]]"</ref>
+
+===[[Game of Thrones: Season 8|''Game of Thrones'': Season 8]]===
+A young boy rushes through the winter town find a vantage point to watch [[Jon Snow|Jon]], [[Daenerys Targaryen|Daenerys]] and her army march to Winterfell.<ref>"[[Winterfell (Game of Thrones)|Winterfell]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the winter town is formed by rows of small and neat houses built of log and undressed stone. Located at Winterfell's main gatehouse, the market square has wooden stalls for produce and goods and a well at its center. The local alehouse is the Smoking Log. The [[Kingsroad]] lies past the sprawl of castle and town, while the [[Wolfswood]] is two miles away. Hunting parties from Winterfell can avoid the winter town by taking the Hunter's Gate instead of the main gate.
+
+Its streets are muddy during summer, when four fifths of the homes are left empty. During wintertime, however, the winter town becomes filled with [[northmen]] from throughout the region, such as clansmen from the northern mountains. Some townsfolk claim that [[Winterfell]] is warmed by a dragon which sleeps below the castle - really the castle was built over a series of natural hot springs.
+
+''[[The World of Ice & Fire]]'' specifies that - other than [[White Harbor]], the only city in the North and a small one at that - the winter town is one of only two settlements in all of the North which are big enough to be called actual "market-towns". The other town is [[Barrowton]] to the southwest.
+
+In the novels, the winter town is burned by the men of [[House Bolton]] when they betray the Northmen led by Ser [[Rodrik Cassel]] during the attempt to liberate Winterfell from the [[House Greyjoy]] occupation led by [[Theon Greyjoy|Theon]], as part of the [[Sack of Winterfell]]. Despite the approach of winter, the Boltons have made no attempt to rebuild it for other refugees, and the ruins of the winter town become buried under heavy snows.
+
+==Gallery==
+<gallery>
+File:Dany and Jon arriving Winterfell episode.jpg|Dany and Jon arrive.
+File:Winter town.png|Unsullied army marching through the town.
+File:Winter town.png
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{North}}
+
+<!--Categories-->
+[[Category:North]]
+[[Category:Towns]]
+
+<!--Languages-->
+[[de:Winterdorf]]
+[[es:Las Inviernas]]
+[[fr:Ville d'hiver]]
+[[it:Città dell'Inverno]]
+[[ru:Зимний городок]]

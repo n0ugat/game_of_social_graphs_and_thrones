@@ -1,0 +1,26 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Zoe Fry.jpg
+| Birth   = 
+| Death   = 
+| Role    = Stunt peformer
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 3|3]]
+| Credits = "[[Dark Wings, Dark Words]]"
+| First   = 
+| Last    = 
+}}
+'''Zoe Fry''' is a stuntwoman.
+
+In ''[[Game of Thrones]]'' she was a stunt performer in the [[Game of Thrones: Season 3|third season]] episode "[[Dark Wings, Dark Words]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 3||yes}}
+
+==See also==
+*{{IMDb
+|# = 5494970}}
+{{DEFAULTSORT:Fry, Zoe}}
+[[Category:Stunt performers of Game of Thrones]]

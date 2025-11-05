@@ -1,0 +1,73 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = House Hightower.svg
+| Link  = House Hightower
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Hightower
+| Image       = Urrigon Hightower.png
+| Birth       = At the [[Hightower]], in [[Oldtown]]
+| Death       = 
+| House       = [[House Hightower|Hightower]]
+| Affiliation = 
+| Titles      = [[King of the High Tower]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[First Men]]
+| Religion    = [[Old Gods]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = {[[Peremore Hightower]]}
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Even without records, we have more than enough reason to believe that the Citadel began as a court of scholars and priests. Assembled by a second son of House Hightower. When he died, his elder brother raised the Citadel so that wise men would always have a home in Westeros and could continue the enquiries and debates that had given such joy to his younger brother.|[[Pycelle]]|Oldtown (short)}}
+King '''Urrigon Hightower'''{{Con|TWOI&F}} was a [[King of the High Tower]] and the founder of the [[Citadel]].
+
+==Biography==
+When Urrigon's brother [[Peremore Hightower|Peremore]] died, Urrigon supposedly granted the area that would become the [[Citadel]] to serve as a home to the scholars and priests that Peremore had surrounded himself with. It is believed that the learned men were precursors of the [[Order of Maesters]].{{Ref|H&L612}}{{Ref|H&L702}}
+
+==In the books==
+In ''The World of Ice & Fire'', Urrigon was the son of Uthor of the High Tower and Maris the Maid, a daughter of [[Garth the Gardener#In the books|Garth Greenhand]].
+
+==Appearances==
+*{{H&L|Oldtown}} {{Illustrated}}
+*{{H&L|The Citadel}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Hightower}}
+{{Kings of Westeros}}
+
+<!--Categories-->
+{{DEFAULTSORT:Hightower, Urrigon}}
+[[Category:Individuals from Histories & Lore]]
+[[Category:Individuals from the Reach]]
+[[Category:Kings of the High Tower|Urrigon Hightower]]
+[[Category:Members of House Hightower|Urrigon Hightower]]
+
+<!--Languages-->
+[[de:Urrigon Hohenturm]]
+[[es:Urrigon Hightower]]
+[[it:Urrigon Hightower]]
+[[nl:Urrigon Hoogtoren]]
+[[ru:Урригон Хайтауэр]]

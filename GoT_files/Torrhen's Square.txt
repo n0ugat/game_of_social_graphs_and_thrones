@@ -1,0 +1,63 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Tallhart.svg
+| Link  = House Tallhart
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Stark
+| Image        = 
+<gallery>
+Torrhen's Square.png|Appearance
+Torrhen's Square Pin.png|Location
+</gallery>
+| Type         = 
+| Status       = 
+| Location     = The [[North]], [[Westeros]]
+| Population   = 
+| Rulers       = [[House Tallhart]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Old Gods]]<br>[[Drowned God]]
+| Places       = 
+| Founded      = 
+}}
+'''Torrhen's Square'''{{Ref|GOT201}} is a castle in the [[North]]. It lies along the shores of a lake and is the seat of [[House Tallhart]], a vassal house sworn to [[House Stark]] of [[Winterfell]]. It is protected by stone walls thirty feet high.
+
+==History==
+===Background===
+Torrhen's Square is located 40 leagues (120 miles) southwest of Winterfell.<ref name=S2E05/> A new tower at Torrhen's Square was put up in a summer which a Northern lord cites as how previous generations mason were better than the current ones.<ref>"[[The North Remembers]]"</ref>
+
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+[[Theon Greyjoy]] is dispatched by [[Balon Greyjoy|his father]] to raid the fishing villages along the [[Stony Shore]]. After consulting with his first mate, [[Dagmer]], Theon decides to mount a daring [[Fight at Torrhen's Square|attack]] inland on Torrhen's Square. He muses that they will not be able to hold the castle, as [[Winterfell]] will send troops to retake it rapidly. Sure enough, word of an attack on Torrhen's Square reaches Winterfell. Fearing it might be a [[House Lannister|Lannister]] raid behind the lines, Ser [[Rodrik Cassel]] decides to muster 200 men and march to the relief of the castle. Maester [[Luwin]] is dubious about sending so many troops given their shortage in manpower, but agrees with the decision.<ref name=S2E05>"[[The Ghost of Harrenhal]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Torrhen's Square is the seat of House Tallhart and ruled by the Master of Torrhen's Square, Ser Helman Tallhart.
+
+In the novels, Torrhen's Square is slightly further away from Winterfell, possibly 150-200 miles, as compared to the 120 in the TV series. This may be further evidence of the TV version of [[Westeros]] being slightly smaller than the book version, or an error in the distance given by the writers or by the characters.
+
+Theon sends Dagmer to besiege Torrhen's Square as a diversion that will allow him to take Winterfell. The ploy works, Ser Rodrik takes most of Winterfell's garrison and forces Dagmer and his troops to retreat back to [[Stony Shore]]. Unfortunately, in the meantime [[Capture of Winterfell|Theon captures the undefended Winterfell]].
+
+After Rodrik returns to Winterfell and besieges it, Dagmer and his men return to Torrhen's Square and easily take the keep; the capture of the castle is not explicitly mentioned in the novels, but can be deduced from the few references to Dagmer and to Torrhen's Square in the novels following ''A Clash of Kings''. Currently Dagmer is still there.
+
+Following the [[sack of Winterfell]], the [[siege of Moat Cailin]], and the [[fight by Deepwood Motte]], Torrhen's Square is the last and only settlement at the North that is still held by the [[ironborn]].
+
+While [[Stannis Baratheon|Stannis]]'s host marches to Winterfell, [[Yara Greyjoy|Asha]] offers Stannis to deliver him Torrhen's Square (though she is uncertain Dagmer and his troops will obey her). He refuses, stating that Torrhen's Square is not worth the mud beneath his heels, and it is Winterfell that matters.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{North}}
+
+<!--Categories-->
+[[Category:Castles of the North]]
+[[Category:House Tallhart]]
+
+<!--Languages-->
+[[de:Torrhenschanze]]
+[[pl:Torrhen's Square]]
+[[ru:Торрхенов Удел]]

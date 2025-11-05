@@ -1,0 +1,57 @@
+{{Canonicity|Canon}}
+{{Spoiler|AKOTSK}}
+{{BookConjecture}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Tully
+| Image       = 
+| Birth       = In the [[Riverlands]]
+| Death       = 
+| House       = 
+| Affiliation = [[Heddle family]]
+| Titles      = [[Knighthood|Ser]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Riverlands|Rivermen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+Ser '''Tommard Heddle'''{{Con|D&EN}} is a [[Knighthood|knight]] from the [[Riverlands]].{{Ref|GOT806}}
+
+==In the books==
+In the [[Dunk & Egg novellas]], Black Tom Heddle is the commander of the garrison at [[Whitewalls]].
+
+==Appearances==
+*{{GOT|The Iron Throne}} {{Text}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|AKOTSK}}
+
+<!--Category-->
+{{DEFAULTSORT:Heddle, Tommard}}
+[[Category:Ennobled commoners]]
+[[Category:Knights]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Rivermen]]
+
+<!--Languages-->
+[[ru:Томмард Хеддль]]

@@ -1,0 +1,58 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{OtherUses|oldest brother of Ray|Willem (disambiguation)}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Westeros
+| Image       = 
+| Birth       = 
+| Death       = [[257 AC]]{{Dateref|War of the Ninepenny Kings}}{{Ref|H&L604}}
+| House       = 
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Westeros]]i
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = {[[Owen]]}{{Ref|H&L604}}<br>{[[Ray]]}{{Ref|H&L604}}
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|My oldest brother said I could be his squire, though he wasn't a knight, just a potboy armed with a stolen kitchen knife. He'd never need it. I saw him collapse on our march from fever, along with many from our village.|Ray|War of the Ninepenny Kings (short)}}
+'''Willam'''{{Con|ASOIAF}} was the oldest brother of [[Ray]], a [[septon]] in the [[Riverlands]].
+
+==Biography==
+Willam was a potboy from a village. He fought alongside his brothers [[Owen]] and [[Ray]] in the [[War of the Ninepenny Kings]], in which he collapsed during a march and died of a fever.{{Ref|H&L604}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Willam's story is the same, except that he is the brother of Septon Meribald, not Ray, and he shared his fate with his brother Robin.
+
+==Appearances==
+*{{H&L|War of the Ninepenny Kings}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+*{{AWOIAF|Robin}}
+
+<!--Categories-->
+[[Category:Individuals from Histories & Lore]]
+[[Category:Men-at-arms]]
+[[Category:Smallfolk]]
+[[Category:Westerosi]]

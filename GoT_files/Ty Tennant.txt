@@ -1,0 +1,32 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Ty Tennant HotD premier.jpg
+| Birth   = March 27, 2002 {{Age|2002|3|27}}<br>White City, London, England
+| Death   = 
+| Role    = Young [[Aegon II Targaryen|Aegon Targaryen]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = 2 episodes {{Below|Credits}}
+| First   = "[[The Princess and the Queen]]"
+| Last    = "[[Driftmark (episode)|Driftmark]]"
+}}
+'''Ty Peter Tennant''' (né '''Martin-Moffett'''; born 27 March 2002) is an English actor. He is known for his roles as Edwin Paine in ''{{WPS|Doom Patrol (TV Series)|Doom Patrol}}'', Tom Gresham in ''{{WPS|War of the Worlds (2019 TV series)|War of the Worlds}}'', and as J. R. R. Tolkien's childhood friend  Christopher Wiseman in ''{{WPS|Tolkien (film)| Tolkien}}''.
+
+He portrays the teenaged Prince [[Aegon II Targaryen|Aegon Targaryen]] in ''[[House of the Dragon]]'', a role he shares with [[Tom Glynn-Carney]]. Tennant and Glynn-Carney previously starred together in ''Tolkien'', where they also played older and younger versions of the same character.
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1||||||yes|yes}}
+
+==See also==
+*{{IMDb|#=6122080}}
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Tennant, Ty}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Ty Tennant]]

@@ -1,0 +1,78 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = House Whent.svg
+| Link  = House Whent
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Tully
+| Image       = 
+| Birth       = At [[Harrenhal]]
+| Death       = 
+| House       = [[House Whent|Whent]]
+| Affiliation = [[House Tully]]
+| Titles      = [[Lord of Harrenhal]]
+| Predecessor = 
+| Successor   = [[Shella Whent]]
+| AKA         = 
+| Culture     = [[Riverlands|Rivermen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = [[Shella Whent]]
+| Lovers      = 
+| Children    = 
+| Siblings    = {[[Oswell Whent]]}
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Lord Whent held a great tourney at Harrenhal. Everyone was there; the Mad King, your father, Robert Baratheon, and Lyanna.|[[Petyr Baelish]] to [[Sansa Stark]]|Sons of the Harpy (episode)}}
+Lord '''Walter Whent'''{{Con|TWOI&F}} was the [[Lord of Harrenhal]] and head of [[House Whent]]. In the [[Year of the False Spring]], he hosted an [[Great Tourney at Harrenhal|extravagant tournament]] at [[Harrenhal]] that brought many from across [[Seven Kingdoms|the realm]].
+
+==Biography==
+===Background===
+Lord Whent was the head of [[House Whent]] and the [[Lord of Harrenhal]].{{Ref|GOT504}}
+
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+[[Petyr Baelish]] discusses with [[Sansa Stark]] the great [[Tournament|tourney]] that Lord Whent held at [[Harrenhal]], at which Prince [[Rhaegar Targaryen]] shocked the realm by naming [[Lyanna Stark]] the [[queen of love and beauty]] instead of his own wife Princess [[Elia Martell]].{{Ref|GOT504}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Lord Whent's first name is never given and comes from the companion book ''[[The World of Ice & Fire]]''.
+
+Old Lord Whent hosted a great [[Tournament|tourney]] at [[Harrenhal]] in 281 AC, the [[Year of the False Spring]]. The tourney was held to honor his maiden daughter, who held the title of [[queen of love and beauty]] when the tourney began. Her crown was defended by her four brothers and her uncle, Ser [[Oswell Whent]] of the [[Kingsguard]]. Prince [[Rhaegar Targaryen]] won the tourney and named [[Lyanna Stark]] the queen of love and beauty rather than his wife Princess [[Elia Martell]], to the shock of all of [[Westeros]].
+
+Ser [[Jorah Mormont]] states that he defended a Lord Whent at a tourney at [[Lannisport]] in 289 AC, though is unclear if this was Lord Walter or a descendant of his.
+
+==Appearances==
+*{{GOT|Sons of the Harpy}} {{Mentioned}}
+*{{H&L|Robert's Rebellion - Barristan Selmy}} {{Mentioned}}
+*{{H&L|The Great Tourney at Harrenhal}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+{{DEFAULTSORT:Whent, Walter}}
+[[Category:Individuals from Histories & Lore]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Lords of Harrenhal]]
+[[Category:Members of House Whent|Walter Whent]]
+[[Category:Rivermen]]
+
+<!--Languages-->
+[[de:Walter Whent]]
+[[fr:Walter Whent]]
+[[pl:Walter Whent]]
+[[ru:Уолтер Уэнт]]

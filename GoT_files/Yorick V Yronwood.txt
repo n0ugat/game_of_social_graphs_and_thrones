@@ -1,0 +1,66 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Leftimage  = House Yronwood.svg
+| Leftlink   = House Yronwood
+| Rightimage = Night's Watch.svg
+| Rightlink  = Night's Watch
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = 
+| Birth       = At [[Yronwood]]
+| Death       = 
+| House       = [[House Yronwood|Yronwood]]
+| Affiliation = [[Night's Watch]]
+| Titles      = [[King]] of the [[Dornishmen|Dornish]] {{C|deposed}}<br>Lord of Yronwood {{C|deposed}}
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Dornishmen|Dornish]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|They sent no fewer than six self-styled "kings" to the Wall in golden chains.|[[Ellaria Sand]]|Dorne (short)}}
+King '''Yorick V Yronwood''' was the last king of [[House Yronwood]].
+
+==Biography==
+Yorick was defeated by [[Nymeria]] during [[Nymeria's War]] and was sent to the [[Wall]] in golden chains.{{Ref|H&L509}}
+
+==In the books==
+In ''The World of Ice & Fire'', Yorick is described as the richest and most powerful of the Dornish kings at the start of Nymeria's War. His titles included the Bloodroyal, Warden of the Stoneway, Knight of the Wells, King of Redmarch, King of the Greenbelt, and King of the Dornish. He was initially supported by houses [[House Jordayne|Jordayne]], Wyl, [[House Blackmont|Blackmont]], and [[House Qorgyle|Qorgyle]]. In the Third Battle of the Boneway, Yorick himself slew [[Mors Martell]], but was forced to surrender two years later.
+
+==Appearances==
+*{{H&L|Dorne}} {{Indirect}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Kings of Westeros}}
+
+<!--Categories-->
+{{DEFAULTSORT:Yronwood, Yorick V}}
+[[Category:Dornishmen]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Kings]]
+[[Category:Members of House Yronwood|Yorick V Yronwood]]
+[[Category:Men of the Night's Watch]]
+
+<!--Languages-->
+[[ru:Йорик V Айронвуд]]

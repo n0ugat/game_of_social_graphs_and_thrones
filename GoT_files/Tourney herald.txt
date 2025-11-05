@@ -1,0 +1,49 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Lannister
+| Image       = Tourney Herald.jpg
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[House Baratheon of King's Landing]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 2|2]]
+| Appearances = "[[The North Remembers]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Marko Cindric]]
+}}
+{{Quote|Lothor Brune, freerider in the service of Lord Baelish!... Ser Dontos the Red, of House Hollard! Ser Dontos the Red of House Hollard?|The herald|The North Remembers}}
+A '''tourney herald''' announces the participants in King [[Joffrey Baratheon]]'s [[nameday]] celebration.
+
+==Biography==
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+The herald announces the participants in King [[Joffrey Baratheon]]'s nameday [[Tournament|tourney]]. He claps when [[Sandor Clegane|the Hound]] knocks his opponent over the walls of the [[Red Keep]]. When Joffrey asks who is next to fight, he announces [[Lothor Brune]] and Ser [[Dontos Hollard]]. However, the latter fails to appear at his first call, and the herald has to summon him again.{{Ref|GOT201}}
+
+==Appearances==
+*{{GOT|The North Remembers}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+[[Category:Crownlanders]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Servants and retainers of House Baratheon of King's Landing]]
+
+<!--Languages-->
+[[ru:Герольд турнира]]

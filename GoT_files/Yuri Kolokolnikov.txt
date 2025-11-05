@@ -1,0 +1,24 @@
+{{Cast
+|Title = Yuri Kolokolnikov
+|Image = Yuri Kolokolnikov.jpg
+|dateofbirth = 15 December, 1980
+|birthplace = Moscow, Russia
+|role = [[Styr]]
+|status = 
+|imdb = http://www.imdb.com/name/nm0464305/|First = "[[Two Swords]]"|Last = "[[The Watchers on the Wall]]"}}'''Yuri Kolokolnikov''' (Russian: Юрий Колокольников) (born 15 December, 1980) is a Russian actor and producer. He portrays [[Styr]], the [[Magnar]] of [[Thenns|Thenn]], starting in the [[Game of Thrones: Season 4|fourth season]]. It is his first role in an English-language production.<ref>[http://winteriscoming.net/2013/11/styr-magnar-of-thenn-cast/ Winter Is Coming]</ref>
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 4|yes||yes|||||yes|yes}}
+
+==See also==
+*{{Template:IMDb
+|# = 0464305}}
+
+==References==
+{{Reflist}}
+
+[[ru:Юрий Колокольников]]
+[[fr:Yuri Kolokolnikov]]
+{{DEFAULTSORT:Kolokolnikov, Yuri}}
+[[Category:Guest starring cast members of Game of Thrones]]

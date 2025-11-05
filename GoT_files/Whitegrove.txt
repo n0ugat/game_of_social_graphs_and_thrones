@@ -1,0 +1,36 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Tyrell
+| Image        = 
+| Type         = Castle
+| Status       = 
+| Location     = [[Reach]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Whitegrove'''{{Ref|THTDB201}} is a castle in the [[Reach]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Whitegrove was once ruled by [[House Peake]], but they were stripped of the castle for siding with the [[Daemon Blackfyre|Black Dragon]] in the [[Blackfyre Rebellion|First Blackfyre Rebellion]]. Its current rulers are unknown.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Reach}}
+
+<!--Categories-->
+[[Category:Castles of the Reach]]
+[[Category:House Peake]]
+
+<!--Languages-->
+[[ru:Белая Роща]]

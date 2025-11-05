@@ -1,0 +1,71 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = Night's Watch.svg
+| Link  = Night's Watch
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = Wallen1.jpg
+| Birth       = 
+| Death       = [[298 AC]]{{Dateref|Game of Thrones: Season 1}}<br>The [[Wolfswood]], the [[North]]{{Ref|GOT106}}
+| House       = 
+| Affiliation = [[Night's Watch]] {{C|deserted}}
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 1|1]]
+| Appearances = "[[A Golden Crown]]"
+| First       = 
+| Last        = 
+| DeathEp     = "A Golden Crown"
+| Actor       = [[Barry O'Connor]]
+}}
+'''Wallen'''{{Con|ASOIAF}} was a deserter from the [[Night's Watch]].
+
+==Biography==
+===Background===
+Wallen is a deserter of the Night's Watch who has fled south with [[Stiv]], a fellow deserter, and [[Osha]], a [[Free Folk|wildling]].{{Ref|GOT106}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+Stiv, Osha, and Wallen flee south of the Wall, apparently in fear of the return of the [[White Walkers]]. In the woods near [[Winterfell]] they stumble across [[Bran Stark|Bran]] and decide to steal his horse. Realizing his importance, they ponder taking him prisoner and returning him to [[Mance Rayder]], the king-beyond-the-wall, for a reward, but decide against it. [[Robb Stark|Robb]] intervenes, kills Wallen and disables Osha. Stiv is killed by [[Theon Greyjoy|Theon]].{{Ref|GOT106}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Wallen is a member of a band of wildlings and deserters who manage to evade the Watch to seek succor in the lands to the south. He is an associate of Osha and Stiv.
+
+==Appearances==
+*{{GOT|A Golden Crown}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Night's Watch}}
+
+<!--Categories-->
+[[Category:Deserters of the Night's Watch]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Smallfolk]]
+[[Category:Westerosi]]
+
+<!--Languages-->
+[[de:Wallen]]
+[[fr:Wallen]]
+[[ru:Уаллен]]

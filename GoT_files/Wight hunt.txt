@@ -1,0 +1,116 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Thrones
+| Part          = the [[conflict beyond the Wall]]
+| Image         = 706 Dragons Army of the Dead.jpg
+| Previous      = [[Battle of the Goldroad]]
+| Concurrent    = 
+| Next          = [[Dragonpit Summit]]
+| Date          = [[304 AC]]{{Dateref|Game of Thrones: Season 7}}
+| Place         = Near the [[mountain like an arrowhead]], [[beyond the Wall]], [[Westeros]]
+| Outcome       = '''Pyrrhic strategic living victory'''
+*[[Wight]] [[Captured wight|captured]] for the gathering in [[King's Landing]]
+*[[House Targaryen]] enters the [[Great War]], allying with [[House Stark]] and the [[North]]
+*[[Jon Snow]] bends the knee to Queen [[Daenerys Targaryen]] after she pledges support
+*Stage set for the [[Dragonpit Summit]]
+'''Major strategic White Walker victory'''
+*Death and reanimation of the [[dragon]] [[Viserion]] at the hands of the [[Night King]]
+| Factions1     = {{COA|House Stark|small}} '''[[North|Kingdom of the North]]'''/[[House Stark]]<br>{{COA|Night's Watch|small}} [[Night's Watch]]<br>[[Free Folk]]<br>[[Brotherhood Without Banners]]<br>{{COA|House Targaryen|small}} '''[[House Targaryen]]'''<br><small>(relief force)</small>
+| Factions2     = [[White Walkers]]<br>[[Wight|Army of the Dead]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = [[King in the North|King]] [[Jon Snow]]<br>{{COA|House Targaryen|inline}} [[King of the Andals and the Rhoynar and the First Men|Queen]] [[Daenerys Targaryen]]<br>[[Tormund]]<br>{{COA|House Mormont|inline}} [[Knighthood|Ser]] [[Jorah Mormont]]<br>{{COA|House Dondarrion|inline}} [[Lord of Blackhaven|Lord]] [[Beric Dondarrion]]
+| Leaders2      = [[Night King]]<br>White Walker lieutenants
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = *Wight hunting party
+**[[Gendry Baratheon|Gendry]]
+**{{COA|Lord of Light|inline}} [[Thoros]] †
+**{{COA|House Clegane|inline}} [[Sandor Clegane]]
+**{{COA|Night's Watch|inline}} 1 [[Night's Watch]] ranger †
+**3 [[Free Folk]] warriors †
+**{{COA|House Stark|inline}} 2 [[House Stark|Stark]] soldiers †
+----
+*Extraction forces
+**3 [[dragon]]s; [[Drogon]], [[Rhaegal]] and [[Viserion]] †
+**{{COA|House Stark|inline}} [[Benjen Stark]] †
+| Participants2 = *Several [[White Walkers]]
+*~100,000 [[wight]]s
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = '''Heavy'''
+*Thoros
+*1 [[ranger]]
+*3 wildlings
+*2 Stark [[Man-at-arms|soldiers]]
+*Viserion<br><small>(reanimated as a wight)</small>
+*Benjen Stark
+| Casualties2   = '''Moderate'''
+*1 [[White Walker 1 (Beyond the Wall)|White Walker]]
+*Thousands of wights
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Dialogue a-b-a|Tyrion|So bring the dead to her.|Daenerys|I thought that was what we were trying to avoid.|We don't have to bring the whole army. Only one soldier.|[[Tyrion Lannister]], referring to his sister [[Cersei Lannister|Cersei]], proposes the mission to [[Daenerys Targaryen]] and [[Jon Snow]].|Eastwatch}}
+A '''wight hunt''' is undertaken by the [[King in the North]] [[Jon Snow]] and his allies in order to provide proof to [[King of the Andals and the Rhoynar and the First Men|Queens]] [[Cersei Lannister]] and [[Daenerys Targaryen]] of the existence of the wights and their masters, the [[White Walkers]], led by the [[Night King]], who had risen again after 8,000 years.
+
+== History ==
+''See main articles: [[Long Night]] and [[Conflict beyond the Wall]]''
+
+===Prelude===
+When Daenerys began the [[Last War]], Jon decided to treat with her at [[Dragonstone (island)|Dragonstone]], where she controlled the mines of [[dragonglass]], which could be used to kill White Walkers and wights. After reading a reconnaissance report from [[Bran Stark]], the new [[Three-Eyed Raven]], concerning the movements of the army of the dead, Jon and [[Tyrion Lannister|Tyrion]] were ultimately able to convince Daenerys to allow Jon to travel to [[Eastwatch-by-the-Sea]] to capture a wight, to use as proof of their return and existence for her and Cersei, the queen who sat on the [[Iron Throne]] and the primary opponent of Daenerys in her war.
+
+At Eastwatch, Jon, accompanied by [[Davos Seaworth|Davos]], [[Gendry Baratheon|Gendry]], and [[Jorah Mormont]], met with wildling chieftain [[Tormund|Tormund Giantsbane]] to discuss this mission. Tormund brought them down to the ice cells where he held prominent members of  the [[Brotherhood Without Banners]] prisoner, including the leader [[Beric Dondarrion]], the [[red priest]] [[Thoros]] of [[Myr]], and [[Sandor Clegane|the Hound]]. Despite their differences and mild mistrust of each other, they all agreed to come together and accompany Jon and his allies on their mission.<ref name="E65">"[[Eastwatch]]"</ref>
+
+=== The hunt ===
+While travelling [[beyond the Wall]] looking for the [[mountain like an arrowhead]] as seen in the Hound's flame-vision, Jon and his party are caught in a blizzard. They hear growls in the distance, sending one man to scout the area. After spotting a massive snow bear, he turns and runs back towards the group; as he approaches, Gendry asks if bears have blue eyes. The others see the man running and ready their weapons. Before he can reach them, the snow bear lunges at him from the side, ripping him to shreds. Jon runs after him to try and help, but it's too late. The group forms a circle, weapons at the ready, when they are ambushed by the snow bear, which is in fact a [[wight]] [[snow bear]]. The monstrous creature mauls and kills one man, swatting Jon aside like a bug when he attacks it. Using their flaming swords, Beric and Thoros light the beast on fire, though it continues to hold out, killing a second man. The Hound, crippled by his fear of the flames, is nearly attacked, but Thoros shoves him aside and is mauled by the bear. Ser Jorah is finally able to stop it when he stabs it with a dragonglass dagger. Beric cauterizes Thoros's open wounds with his flaming sword.
+
+As the group continues, they soon encounter a [[White Walker 1 (Beyond the Wall)|White Walker]] leading a small procession of wights. The White Walker stumbles upon burning logs, stopping his group when he is suddenly ambushed by Jon's men. The wights are strong, but when Jon kills the White Walker with Longclaw, all of the wights crumble, save for one which is tied down with a rope and hooded with a cloth sack. Hearing reinforcements coming from the nearby army of the dead, having heard the captive wight's shrieks, Jon sends Gendry back to Eastwatch to send a [[raven]] to Dragonstone. Gendry makes it back at nightfall, collapsing at the gate, where he tells Davos and several men of the [[Night's Watch]] and wildlings to send the raven.
+
+Jon's party runs from the army of the dead; stopping themselves short at the shore of a frozen lake, the group chose to take their chances on the cracking ice rather than certain death at the hands of the oncoming undead. One man was caught by several wights, and the combined weight causes them to crash through the ice into the frigid water beneath, many more wights falling into the disintegrating ice after them. The group manage to reach a small island in the center of the frozen lake, leaving them temporarily safe from the wights, unable to pursue due to the weak ice. The survivors huddle together for warmth during the night. By morning, however, another of them has passed on: Thoros has frozen to death in the night. Clegane offers slight comfort by saying, "They say it's one of the better ways to go". At Jon's instruction, Beric burns the priest's body to prevent its return as a wight later.
+
+Jorah stands next to Jon, claiming that either the cold will bring them to a slow and freezing death, like Thoros, or solidify the lake enough to grant the army of the dead passage upon them. Jon remains adamant in the belief that Daenerys will come to their rescue and Jorah wonders why the wights fell when the White Walker was destroyed. Jon postulates that perhaps that White Walker was the one to turn them; and upon that specific Walker's demise, those resurrected under its power also followed. Jorah suggest that they thin down the hordes of wights by targeting the Walkers, as at least that way, some of the living might survive. But Jon refuses, reasoning that they came to procure a wight'', ''a part of the mission that was successful''.'' As for safely getting back with their prize, Jon trusts that by now Daenerys will have, or already has, received Gendry's message and is on her way to provide cover fire for the wight hunters' departure; he cites her as their best hope for survival. Beric disagrees and then points his sword to the [[Night King]], flanked by several White Walkers and also mounted on wight horses, who watches over the group patiently. He proposes that they must attack the Night King, that if they manage to slay him, the Great War could end before it even starts, as every one of his created White Walker minions will die with him, as would the wights they've raised from the dead. Beric seems to believe this is the reason he and Jon were resurrected. Jon denies the theory, telling Beric and the party going head-to-head against the Night King is out of the question and a suicide mission at best, having done so himself and knows the terrifying encounter all too well.
+
+Out of boredom, the Hound throws a rock across the lake, hitting a skeletal wight and breaking off its decaying jaw. He throws a second stone which falls far short of the wights and slides across the frozen lake. Realizing that the ice has strengthened, presumably from the presence of the White Walkers, the wights begin to advance on the group, killing at least two men. They are nearly overrun when Daenerys Targaryen suddenly arrives, having departed from Dragonstone, with her three dragons: her mount [[Drogon]], [[Rhaegal]], and [[Viserion]]. Multiple strafes of dragonfire not only destroy vast numbers of wights, but also melt huge sections of the lake's frozen surface, helping to limit attacks from the remaining wights.
+
+Jon attempts to hold back the wights as the remaining members of his party climb onto Drogon with Daenerys, the Hound impaling the captured wight on the dragon's spines. With attention focused closer to the group, none appear to notice the Night King aiming a [[Crystal sword|crystal spear]] at Viserion. With extraordinary strength, he launches the weapon and scores a direct hit, piercing Viserion's throat in a fiery blast. Daenerys watches in horror as the helpless dragon drops like a stone, fire and blood pouring from the fatal wound. He crashes onto the frozen lake, shattering the ice, and sinks below the surface. Drogon and Rhaegal cry in despair for their fallen brother. Daenerys stares on in disbelief as the Night King prepares to throw another spear, this time at Drogon. Jon urges Daenerys to leave just before being tackled by two wights who knock him into the lake. Drogon takes off and is able to dodge the Night King's second spear, causing Ser Jorah to fall. Fortunately, he is caught by Sandor and pulled up to safety.
+
+Jon manages to climb out of the lake. He grabs Longclaw, exhausted and injured, and prepares for a hopeless fight with hordes of wights. After a few moments, though, [[Benjen Stark]] arrives, killing several wights and dismounting. Jon recognizes his uncle, who mounts Jon on the horse. Jon urges his uncle Benjen to come with him, but Benjen says there is no time and sends the horse galloping away. Jon looks back as Benjen fights against the wights, eventually being overpowered and killed.<ref name="E66">"[[Beyond the Wall (episode)|Beyond the Wall]]"</ref>
+
+=== Aftermath ===
+The Hound brings the captured wight to a nearby skiff at Eastwatch-by-the-Sea. He and Tormund nod out of respect, and Beric tells the Hound that they will meet again, to which the Hound replies that he hopes not. Daenerys stands atop the Wall with Jorah, while Drogon and Rhaegal fly around it, crying out for the fallen dragon Viserion. Jorah warns Daenerys that they need to go, but she insists on staying for a bit longer. As she turns around to leave, a horn is sounded for a rider: a nearly unconscious Jon has made it back to Eastwatch-by-the-Sea on his uncle Benjen's horse. Jon is brought onto a [[House Targaryen|Targaryen]] ship to rest and recover from hypothermia, exhaustion and minor wounds, passing out on a bed. Daenerys watches on as Davos and Gendry strip his frozen clothes for treatment, and sees the wounds that scar Jon's body from his [[Mutiny at Castle Black|death]].
+
+Jon eventually reawakens while the ship sails to [[King's Landing]], finding Daenerys watching over him. He apologizes for going beyond the Wall and for her loss. She explains that her dragons are the only children that she will ever have, and promises to fight the Night King, the White Walkers, and the army of the dead. Jon thanks Daenerys, which takes her aback, for no one since her brother [[Viserys Targaryen (son of Aerys II)|Viserys]] has called her that. He then pledges himself to her, addressing her as his Queen, though is unable to formally [[Bending the knee|bend the knee]] due to the injuries he sustained. She voices concern over what his [[Noble house|bannermen]] will think of this, but Jon says that they will come to see her how he has. Daenerys then leaves to allow Jon to rest, letting go of his hand.
+
+In the far north beyond the Wall, wights use massive chains to pull the dead Viserion from the frozen lake. The Night King approaches the dragon, kneels, and lays his hand on it. Viserion's eyes open, revealing the blue glow of all wights and White Walkers.<ref name="E66">"[[Beyond the Wall (episode)|Beyond the Wall]]"</ref>
+
+== In the books ==
+In the ''[[A Song of Ice and Fire]]'' novels, such a mission will not occur. In the Inside the Episode video for "[[Eastwatch]]," showrunner [[D.B. Weiss]] states that the wight-hunt that Jon is going on is an invention of the TV series, an idea "we came up with" which isn't based on events in a future novel.
+
+For that matter, he says that it is loosely inspired by how [[Alliser Thorne]] was sent to King's Landing with the severed hand of [[Jafer Flowers|one of the two wights]] that tried to kill [[Lord Commander of the Night's Watch|Lord Commander]] [[Jeor Mormont|Mormont]], to present it as proof their claims were real, but it rotted away to nothing by the time he was granted an audience; moreover, since Tyrion has grown to loathe Thorne during his visit at Castle Black, he dismisses Thorne's words as nonsense (although he recalls feeling "something" unnatural while standing on top of the Wall). This did not happen in the TV version - it happened in the books, but was omitted from the TV series (though the way the video is edited, it seems that Weiss was explaining that this drew inspiration from that section of the books, not specifically claiming he thought they did it that way in the TV series as well).
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{Conflict beyond the Wall}}
+{{Last War}}
+
+<!--Categories-->
+[[Category:304 AC]]
+[[Category:Battles]]
+[[Category:Conflict beyond the Wall]]
+[[Category:Last War]]
+
+<!--Languages-->
+[[de:Wiedergängerjadg]]
+[[fr:Chasse au Spectre]]
+[[it:Caccia oltre la Barriera]]
+[[pt-br:Caça à Criatura]]
+[[ru:Вылазка за вихтом]]

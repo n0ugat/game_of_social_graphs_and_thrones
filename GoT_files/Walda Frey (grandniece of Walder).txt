@@ -1,0 +1,69 @@
+{{DISPLAYTITLE:Walda Frey {{C|grandniece of Walder}}}}
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Frey.svg
+| Link  = House Frey
+}}
+{{Character
+| Title       = Walda Frey
+| Type        = Frey
+| Image       = 
+| Birth       = At the [[Twins]]
+| Death       = 
+| House       = [[House Frey|Frey]]
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Riverlands|Rivermen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|It's a birthday message to his grandniece, Walda.|[[Robb Stark]] reads [[Walder Frey]]'s correspondence|Baelor}}
+'''Walda Frey''' is a grandniece of Lord [[Walder Frey]].
+
+==Biography==
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+While waiting outside the [[Twins]], [[Robb Stark]] has [[Theon Greyjoy|Theon]] shoot down any [[raven]]s sent out to prevent Lord Walder from alerting [[House Lannister]] of his army's movements. One raven turns out to be carrying a birthday message to Walda, though Theon speculates it may be a coded message with some other significance.{{Ref|GOT109}}
+
+==Family==
+{{Frey tree}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, many members of [[House Frey]] name their daughters Walda in an attempt to please Lord Walder, a custom which annoys him. However, there is no mention of any grandniece of Lord Walder.
+
+==Appearances==
+*{{GOT|Baelor}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Walda Frey}}
+
+<!--Navboxes-->
+{{House Frey}}
+
+<!--Categories-->
+{{DEFAULTSORT:Frey, Walda}}
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Members of House Frey|Walda Frey]]
+[[Category:Rivermen]]
+
+<!--Languages-->
+[[de:Walda Frey (Großnichte von Walder)]]
+[[fr:Walda Frey (petite-nièce de Lord Walder)]]
+[[ro:Walda Frey (strănepoata lui Walder Frey)]]

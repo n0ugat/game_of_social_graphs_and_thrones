@@ -1,0 +1,22 @@
+{{Crew
+|Image = Toni Bobeta.jpeg
+|dateofbirth = 
+|birthplace = 
+|job = Stunt Coordinator
+|imdb = https://www.imdb.com/name/nm1522465/
+|twitter = }}
+'''Toni Bobeta''' is a Croatian stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt coordinator in the [[Game of Thrones: Season 2|second season]] episodes "[[The North Remembers]]", "[[The Night Lands]]", "[[Garden of Bones (episode)|Garden of Bones]]", "[[The Ghost of Harrenhal]]", "[[The Old Gods and the New]]", "[[A Man Without Honor]]", "[[The Prince of Winterfell]]" and "[[Valar Morghulis]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 2|yes|yes||yes|yes|yes|yes|yes||yes}}
+
+==See also==
+*{{IMDb
+|# = 1522465}}
+*{{Vimeo
+|# = user39068743}}
+{{DEFAULTSORT:Bobeta, Toni}}
+[[Category:Stunt performers of Game of Thrones]]

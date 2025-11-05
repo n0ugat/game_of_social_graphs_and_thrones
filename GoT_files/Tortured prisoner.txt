@@ -1,0 +1,52 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Tully
+| Image       = Male Lannister prisoner.png
+| Birth       = 
+| Death       = [[299 AC]]{{Dateref|Game of Thrones: Season 2}}<br>[[Harrenhal]], the [[Riverlands]]{{Ref|GOT204}}
+| House       = 
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 2|2]]
+| Appearances = "[[Garden of Bones (episode)|Garden of Bones]]"
+| First       = 
+| Last        = 
+| DeathEp     = "Garden of Bones"
+| Actor       = [[Donal Gallery]]
+}}
+{{Quote|I didn't see anyone help him!|The prisoner to the [[Tickler]]|Garden of Bones (episode)}}
+A '''tortured prisoner''' is tortured to death at [[Harrenhal]] during [[Arya Stark]]'s residency there.
+
+==Biography==
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+He is captured by the forces of Ser [[Gregor Clegane]] and imprisoned at [[Harrenhal]]. He sees his fellow captives tortured to death after being chosen by Gregor, and comes to believe that he will not be chosen if he stares directly at Gregor while he selects the day's victim. He is proven wrong when Gregor chooses him, and he is tortured to death by the [[Tickler]] and [[Weasel]]: a rat is trapped against his chest in a metal bucket and provoked into burrowing free by heating the bucket. His head is mounted on a spike on the stockade in Harrenhal.{{Ref|GOT204}}
+
+==Appearances==
+*{{GOT|Garden of Bones}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Smallfolk]]
+[[Category:Westerosi]]
+
+<!--Languages-->
+[[ru:Узник Харренхола]]

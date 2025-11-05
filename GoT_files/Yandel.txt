@@ -1,0 +1,71 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Order of Maesters.svg
+| Link  = Order of Maesters
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Citadel
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[Order of Maesters]]
+| Titles      = Maester
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Andals|Andal]]
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|But as Maester Yandel points out, in the east the Targaryens were one of a thousand minor noble families, and in Westeros they became kings. Politics, not prophecy, could have drawn them to our shores.|[[Samwell Tarly]]|Prophecies of the Known World}}
+'''Yandel''' is a [[Order of Maesters|maester]] of the [[Citadel]].{{Ref|H&L706}}
+
+==In the books==
+Maester Yandel is not mentioned in the ''[[A Song of Ice and Fire]]'' novels. According to ''The World of Ice & Fire'', he worked at the [[Citadel]] in [[Oldtown]] for many years - indeed, he was a foundling left there as a baby, raised as an acolyte. While not directly appearing in any scenes from the main novels, he apparently exists "in the background", as one of the various hangers-on at the royal court in King's Landing.
+
+Most books produced by maesters are devoted to very specific, in-depth academic topics, such as a history book focused on the Targaryen dynasty, or the Lannister lineage, or focus on scholarly debates, assuming the reader has read the works of another maester they are responding to - not meant for laymen. Yandel, however, came up with the relatively novel notion of producing a "popular history" book, as it were: that any man who knows how to read, such as a well-to-do merchant, could pick up and educate himself about the world - not just limiting it to archmaesters high in their ivory tower, or a small handful of noblemen served by other maesters. Thus Yandel set out to write a single history text giving a general overview of the history of the [[known world]], specifically focusing on the better-known history of [[Westeros]] in the past 300 years since [[Aegon's Conquest]]. Thus Yandel's book represents what should be common knowledge to most reasonably well-educated men in Westeros (i.e. most people know who [[Rhaegar Targaryen]] was and the broad details of his actions in [[Robert's Rebellion]], that he died at the [[Battle of the Trident]], but most people including Yandel think Rhaegar abducted and ''raped'' [[Lyanna Stark]], not that she loved him and bore his son [[Jon Snow]], so Yandel's book says Rhaegar raped Lyanna).
+
+While he intended his book for a general audience some day, Yandel specifically hoped for his work to gain favor by presenting it as a give to King [[Robert Baratheon]]'s children, to aid their education to be great kings someday. Due to the outbreak of the [[War of the Five Kings]], Yandel "revised" his book to shamelessly pander to [[House Lannister]] and [[Joffrey Baratheon]]: Yandel actively removed most references to [[Eddard Stark]] and [[Stannis Baratheon]], unless it was totally unavoidable (limiting it to once sentence mentioning that Stannis led the [[Siege of Storm's End]], instead of devoting a full page to praising his efforts in the war). Even after Joffrey's death, Yandel is still present at the royal court, trying to present his book as a gift to young [[Tommen Baratheon]].
+
+Yandel's efforts to write a full world history are reflective of the limited knowledge of even the maesters about the other continents beyond [[Westeros]]. They have a reasonably accurate history of nearby lands in direct trade contact with the Seven Kingdoms, such as the [[Free Cities]] or even the [[Summer Isles]], but the maesters only know about lands farther east in broad strokes - particularly lands beyond the [[Bone Mountains]] such as [[Yi Ti]]. In several cases Yandel simply admits he doesn't know much about lands of the east, not even writing a full section on [[Qarth]], but instead referring his readers to other history books that focus on it such as the ''[[Jade Compendium]]''. Yandel also made the somewhat biased choice to entirely avoid making a chapter on [[Slaver's Bay]], simply due to lack of interest. This is combined with the fact that Yandel was trying to write a generalized history that the common man could understand, and thus due to this limitation, he ultimately edited out a sizable amount of material from the chapters on Yi Ti and on the [[Dothraki]] (though there is still a significant amount of material on the conquests of the Dothraki during the [[Century of Blood]]).
+
+There are certain historical debates which Yandel was unclear on, so in these cases he cites the works of other maesters for readers who want to learn more - heavily leaning on the works of Perestan, etc. In other cases Yandel's work was confounded by the fact that prior maesters wrote local histories that never attempted to match up with the overall history of other kingdoms in Westeros. Probably one of the worst examples is Hake, who wrote an extensive history of the [[Iron Islands]] yet made no attempt to match up its chronology with what was going on in mainland Westeros - leading to several debacles such as when exactly [[Qhored Hoare]] was king, etc.
+
+Probably Yandel's greatest contribution has been his attempt to edit together and reproduce the extensive history of Archmaester Gyldayn, ''Fire and Blood'', which was previously believed to have been lost. Gyldayn's book was a specific history of the Targaryen kings, by extension broadly covering major events that affected all of Westeros. Gyldayn died in the [[Fire of Summerhall|tragedy at Summerhall]], however, in which old King [[Aegon Targaryen (son of Maekar)|Aegon V Targaryen]] was also killed - and it was believed that his works burned too in the conflagration. Yandel, however, discovered that Gyldayn had mailed draft copies of each chapter to another maester at the Citadel for review - these aging drafts were later badly damaged in a fire as well, but were not unsalvageable. Yandel thus set to the slow and arduous task of reading through and editing together a complete edition of Gyldayn based on these surviving fragments.
+
+Yandel's attempts to restore Gyldayn's work have caused "much excitement" at the Citadel, though the task is slow-going. So far, he peppered ''The World of Ice & Fire'' with several of the clearer surviving excerpts from Gyldayn, written in sidebars (most notably, a full chapter on [[Aegon's Conquest]] which survived in better condition than most others). Yandel's work, however, has led to backbiting accusations from other maesters and the ignorant that his writings in ''The World of Ice & Fire'' is merely a fabrication, with hardly any basis in Gyldayn's work. In truth, however, Yandel hardly "invented" anything, but approached Gyldayn's history with the utmost respect, and honorably conducted the painstaking task of piecing together various short fragments of Gyldayn's writings into one coherent version, as best as possible (compounded by the damage to the fragmentary source material - i.e. in some places Gyldayn doesn't spell names consistently and Yandel had to pick one). Yandel only truly "invented" a few small details to fill in gaps in knowledge where Gyldayn was silent: Gyldayn had surprisingly little to say on the circumstances that led [[House Tully]] to be the most powerful vassals in the [[Riverlands]] under the [[ironborn]] occupation on the eve of the Targaryen Conquest - despite [[House Blackwood]] and [[House Bracken]] traditionally being the more prominent local rulers - and the local history of ''pre''-Valyrian [[Pentos]] was a matter of some dispute. In these cases Yandel did nothing to ''contradict'' Gyldayn, but respectfully conducted his own research extrapolated from local sources.
+
+Yandel's works have unfortunately not met with as much popular reception at the royal court as had been hoped. A "popular history" meant to educate a broad section of society beyond the walls of the Citadel is a fairly new genre, and is struggling to gain a foothold. Indeed, Yandel's book has been largely ignored by most courtiers in favor of the much more scandalous and lurid version of events given in the ''Testimony of Mushroom'', which they feel to be more "dramatically satisfying".
+
+But Yandel remains undeterred in his research - promoting education, and that highest of goals, the quest for truth. Yandel has been making significant progress on his restoration of Gyldayn's ''Fire and Blood'', which before too long may yet see the light of day.
+
+==Appearances==
+*{{H&L|Prophecies of the Known World}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+[[Category:Authors]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Maesters]]
+
+<!--Languages-->
+[[ru:Яндель]]

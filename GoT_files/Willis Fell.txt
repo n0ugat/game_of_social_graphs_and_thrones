@@ -1,0 +1,69 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Leftimage  = House Fell.svg
+| Leftlink   = House Fell
+| Rightimage = Kingsguard.svg
+| Rightlink  = Kingsguard/House of the Dragon
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Greens
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = [[House Fell|Fell]]
+| Affiliation = [[Kingsguard/House of the Dragon|Kingsguard]]<br>[[Greens]]
+| Titles      = [[Knighthood|Ser]]
+| AKA         = 
+| Culture     = [[Stormlands|Stormlander]]
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 2|2]]
+| Appearances = "[[Rhaenyra the Cruel]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+Ser '''Willis Fell'''{{Con|F&B}} is a member of [[Aegon II Targaryen]]'s [[Kingsguard/House of the Dragon|Kingsguard]].
+
+==Biography==
+===[[House of the Dragon: Season 2|''House of the Dragon'': Season 2]]===
+Willis Fell and [[Gyles Belgrave]] are escorting Aegon when he walks by [[Helaena Targaryen|Helaena]]. They later break their fast with Targaryen and [[House Hightower/House of the Dragon|Hightower]] [[Knighthood|knights]], and leave when [[Criston Cole|Criston]] begins to berate [[Arryk Cargyll]].{{Ref|HOTD202}}
+
+==In the books==
+In ''[[Fire & Blood]]'', Willis was originally a member of [[Viserys I Targaryen|Viserys I]]'s Kingsguard. When Viserys died, [[Alicent Hightower|Alicent]] dispatched Willis to inform Prince [[Aemond Targaryen|Aemond]] and bring him to the [[Small Council|small council]].
+
+==Appearances==
+*{{HOTD|Rhaenyra the Cruel}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{House Fell}}
+{{Kingsguard of Aegon II Targaryen}}
+
+<!--Categories-->
+{{DEFAULTSORT:Fell, Willis}}
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Kingsguard of Aegon II Targaryen]]
+[[Category:Knights]]
+[[Category:Members of House Fell|Willis Fell]]
+[[Category:Stormlanders]]
+
+<!--Languages-->
+[[uk:Віліс Фел]]

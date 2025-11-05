@@ -1,0 +1,67 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Order of Maesters.svg
+| Link  = Order of Maesters
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Citadel
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[Order of Maesters]]<br>[[House Lannister]]
+| Titles      = Maester
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Volarik...Tried to touch me once.|[[Jaime Lannister]]|The Mountain and the Viper}}
+'''Volarik''' is a [[Order of Maesters|maester]] of the [[Citadel]] who once served at [[Casterly Rock]].
+
+==Biography==
+===Background===
+Volarik was the [[Order of Maesters|maester]] serving [[House Lannister]] during the youth of [[Tyrion Lannister]].{{Ref|GOT408}}
+
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+While reminiscing about [[Orson Lannister]], Tyrion mentions he visited Volarik's library looking for some reading that would help him understand Orson's mindset and his tendency to kill beetles. [[Jaime Lannister|Jaime]] has a quick reaction of disgust at the mention of Volarik and remarks that he had tried to touch (molest) him once.{{Ref|GOT408}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no mention of a maester or any character named Volarik. The only known maester bound to Casterly Rock is Creylen, who is serving House Lannister at the time of the books. It is unknown who the maester at Casterly Rock was twenty to thirty years ago, during Jaime and Tyrion's youth. On a general level, there are sporadic mentions in the books of men in positions of authority sworn to celibacy - maesters and septons - who have molested children, i.e. Septon Utt of the Brave Companions.
+
+==Appearances==
+*{{GOT|The Mountain and the Viper}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Creylen}}
+
+<!--Navboxes-->
+{{House Lannister}}
+
+<!--Categories-->
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Maesters]]
+[[Category:Servants and retainers of House Lannister]]
+[[Category:Westerosi]]
+
+<!--Languages-->
+[[de:Volarik]]
+[[ru:Воларик]]

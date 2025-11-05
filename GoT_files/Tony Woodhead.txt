@@ -1,0 +1,21 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Tony Woodhead.jpg
+| Birth   = Anthony Woodhead<br>1973 {{Age|1973|12|31}}<br>Rochdale, Lancashire, England
+| Death   = 
+| Role    = [[Rymun Mallister]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = "[[The Rogue Prince]]"
+| First   = 
+| Last    = 
+}}
+'''Anthony Woodhead''' (born 1973) is an English actor and photographer. He portrayed [[Rymun Mallister]] in "[[The Rogue Prince]]."
+
+==See also==
+*{{IMDb|#=13014471}}
+*{{Instagram|#=tlportraitslondon}}
+
+<!--Categories-->
+[[Category:Uncredited cast members of House of the Dragon]]
