@@ -1,0 +1,66 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Frey.svg
+| Link  = House Frey
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Frey
+| Image       = Forrest Frey.png
+| Birth       = 
+| Death       = 
+| House       = [[House Frey|Frey]]{{Ref|HOTD205}}
+| Affiliation = [[Blacks]]{{Ref|HOTD205}}
+| Titles      = [[Lord of the Crossing]]{{Ref|HOTD205}}
+| AKA         = 
+| Culture     = [[Riverlands|Rivermen]]{{Ref|HOTD205}}
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = [[Serena Frey]]{{Ref|HOTD205}}
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 2|2]]
+| Appearances = "[[Regent (episode)|Regent]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Kenneth Collard]]
+}}
+Lord '''Forrest Frey''' is the [[Lord of the Crossing]] and head of [[House Frey]] during the [[Dance of the Dragons]].
+
+==Biography==
+===[[House of the Dragon: Season 2|''House of the Dragon'': Season 2]]===
+Forrest and his wife [[Serena Frey|Serena]] treat with Prince [[Jacaerys Velaryon]] at the [[Twins]]. He swears allegiance to [[Rhaenyra Targaryen|Rhaenyra]] in exchange for the promise of being granted [[Harrenhal]] after the war.{{Ref|HOTD205}}
+
+==In the books==
+In ''[[Fire & Blood]]'', Forrest Frey was a suitor to Rhaenyra when she visited the [[riverlands]] in 112 AC. After boldly asking for Rhaenyra's hand openly, he was dubbed "Fool Frey."
+
+==Appearances==
+*{{HOTD|Regent}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{House Frey/House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Frey, Forrest}}
+[[Category:Blacks]]
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Lords]]
+[[Category:Members of House Frey|Forrest Frey]]
+[[Category:Rivermen]]
+
+<!--Languages-->
+[[es:Forrest Frey/House of the Dragon]]
+[[fr:Forrest Frey]]
+[[pl:Forrest Frey]]
+[[ru:Форрест Фрей]]

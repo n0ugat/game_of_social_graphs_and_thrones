@@ -1,0 +1,98 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Distinguish|taking of Harrenhal}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Thrones
+| Part          = the [[War of the Five Kings]]
+| Image         = Valar Dohaeris still Rob Stark.png
+| Previous      = [[Sack of Winterfell]]<br><small>(chronologically)</small><br>[[Battle of the Fords]]<br><small>([[Riverlands]] campaign)</small><br>[[Surrender of the Crag]]<br><small>([[Westerlands]] campaign)</small>
+| Concurrent    = 
+| Next          = [[Leech ritual]]
+| Date          = [[300 AC]]{{Dateref|Game of Thrones: Season 3}}
+| Place         = [[Harrenhal]], [[Riverlands]]
+| Outcome       = Tactical [[House Stark|Stark]] victory
+*Harrenhal captured by House Stark
+*Stark/Tully prisoners put to the sword
+| Factions1     = {{COA|House Stark|small}} '''[[North|Kingdom of the North]]'''<br>{{C|[[House Stark]]}}
+*{{COA|House Bolton|small}} [[House Bolton]]
+*{{COA|House Karstark|small}} [[House Karstark]]
+| Factions2     = {{COA|House Baratheon of King's Landing|small}} '''[[Iron Throne]]'''<br>{{C|[[House Baratheon of King's Landing]]}}
+*{{COA|House Lannister|small}} [[House Lannister]]
+*{{COA|House Clegane|small}} [[House Clegane]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = {{COA|House Stark|i}} [[King in the North|King]] [[Robb Stark]]<br>{{COA|House Bolton|i}} [[Lord of the Dreadfort|Lord]] [[Roose Bolton]]<br>{{COA|House Karstark|i}} [[Lord of Karhold|Lord]] [[Rickard Karstark]]
+| Leaders2      = {{COA|House Clegane|i}} [[Knighthood|Ser]] [[Gregor Clegane]]
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = 16,0000+ manpower
+*~16,000 Northern infantry and cavalry
+| Participants2 = Harrenhal Lannister garrison
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = Moderate
+*200 Northmen and Rivermen prisoners
+*[[Knighthood|Ser]] [[Jaremy Mallister]]
+| Casualties2   = None
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Quote|Two hundred northmen, slaughtered like sheep.|[[Rickard Karstark]]|Valar Dohaeris}}
+The '''fall of Harrenhal'''{{Con|ASOIAF}} was a minor engagement in the [[War of the Five Kings]] waged at [[Harrenhal]] in the [[Riverlands]] in [[300 AC]]{{Dateref|Game of Thrones: Season 3}}. It saw the [[North|Northern army]] led by [[King in the North|King]] [[Robb Stark]] capture Harrenhall without a fight after the [[House Lannister|Lannister]] garrison, under Ser [[Gregor Clegane]], abandoned the castle and the put the Northmen and Rivermen prisoner held their to the sword.
+
+==History==
+===Prelude===
+In an attempt to lure [[Tywin Lannister]] away from Harrenhal and leave [[King's Landing]] open for an attack, [[Robb Stark]] invaded the [[Westerlands]], and won a great victory at [[Battle of Oxcross]]. This left his army free to [[Battle at the Yellow Fork|sack]] and [[Surrender of the Crag|pillage]] the northern Westerlands.<ref>"[[Garden of Bones (episode)|Garden of Bones]]"</ref>
+
+Meanwhile, Robb left the remaining Stark-Tully forces in the Riverlands under the command of his uncle, [[Edmure Tully]]. The war dragged on in the Riverlands in a series of raids, counter-raids, and skirmishes between Edmure's forces based at [[Riverrun]], and Tywin's forces based at [[Harrenhal]] to the east.
+
+Robb's offensive in the Westerlands eventually succeeded in luring a Lannister army led by [[Gregor Clegane]] to march back to the west, and attempt to force a passage over the [[Red Fork]] of the [[Trident]]. Edmure succeeded in beating them back while inflicting two to one losses at the [[Battle of the Fords]].
+
+Unfortunately, Robb's plan had actually been to lure the Mountain's forces into their own territory as a trap, so they could surround and destroy his army. By attacking immediately, Edmure inadvertently allowed Gregor to retreat with his life and most of his forces intact, allowing them to later march south and help repel [[Stannis Baratheon]]'s [[Battle of the Blackwater|attack on King's Landing]].<ref>"[[Walk of Punishment (episode)|Walk of Punishment]]"</ref>
+
+Robb's invasion of the Westerlands resulted in no long-term strategic gains, and worse, the Lannisters had gained massive reinforcements in their new alliance with [[House Tyrell]].<ref>"[[Blackwater]]"</ref> Tywin relocated to King's Landing, while Harrenhal was left under the command of Ser Gregor.<ref>"[[The Prince of Winterfell]]"</ref>
+
+The Stark army, which initially consisted of 18,000 men<ref>"[[The Pointy End]]"</ref> and was reinforced with Frey troops,<ref>"[[Baelor]]"</ref> has decreased to 16,000 due to the losses at the [[battle on the Green Fork]] (2,000 men) and the abandonment of the Freys (this does not include any losses that the Starks' host suffered in previous battles).
+
+===The Starks seize Harrenhal===
+With the morale of his army starting to wane without a major victory in months, and the release of [[Jaime Lannister|Jaime]] by [[Catelyn Stark|Catelyn]], Robb decides to withdraw from the Westerlands, and challenge the Lannisters head-on, in the hope that another victory would regain lost morale. Robb chooses to march with his army against Harrenhal, the heart of Lannister presence in the Riverlands. 
+
+However, Robb does not find the decisive victory he was hoping for: the Mountain has withdrawn and not even bothered to waste any men on a token defense of the castle. The Northmen are further demoralized to find the courtyards are choked with the bodies of two hundred Northern and Riverlands prisoners of war put to the sword before they left.<ref>"[[Valar Dohaeris]]"</ref>
+
+===Aftermath===
+Upon hearing of [[Hoster Tully|his grandfather]]'s death, Robb goes back to Riverrun, leaving part of his demoralized army with [[Roose Bolton]] to hold Harrenhal.<ref>"[[Dark Wings, Dark Words]]"</ref>
+
+==In the books==
+The subplot involving Harrenhal in the ''[[A Song of Ice and Fire]]'' novels is heavily condensed in the TV series. In the books, Robb splits his army in two after leaving the [[Twins]]: he personally leads their cavalry west to relieve Jaime's siege of Riverrun (in the [[Battle of Whispering Wood|battle in the Whispering Wood]]), while he gives Roose Bolton command of their infantry, and sends him by the east bank of the Trident to lure away Tywin in the [[battle on the Green Fork]]. The TV series hadn't even introduced Roose Bolton yet, and simplified the storylines so the narrative wasn't frequently jumping between separate Northern armies. Whatever the case, in the TV series, Robb sends only a feint of 2,000 men to the [[Green Fork]], who are completely wiped out in the subsequent battle. In contrast, in the books the eastern half of the Northern army, under the command of Roose Bolton, puts up only a token defense and then retreats from the battle in good order once the fight is clearly lost. The entire point had only been to lure Tywin far enough away from Riverrun that he couldn't reach it in time to support Jaime's army. However, the other half of the Stark army under Roose Bolton continues to operate on the eastern front of the war in the Riverlands. After Tywin leaves Harrenhal with most of his army, the eastern half of the Northern army under Roose Bolton's command captures Harrenhal after striking a deal with the Brave Companions, [[Mercenary|mercenaries]] hired by Tywin. Robb himself never arrives at Harrenhal.
+
+The TV series simplified this so that instead of intercutting between two branches of the Northern army, one in the Westerlands commanded by Robb and one around the Kingsroad in the east (commanded by Roose Bolton) which later takes Harrenhal, the entire Northern army stays as a large formation led by Robb which invades the Westerlands in Season 2, and ''then'' moves east to take Harrenhal in Season 3.
+
+Moreover, [[Arya Stark|Arya]] herself actually plays a vital role in the battle in the books. [[Jaqen H'ghar]] doesn't help Arya herself escape; instead, he helps her stage an uprising within the castle by freeing all of the 100 Northern prisoners held by the garrison led by Ser [[Amory Lorch]]. Arya, Jaqen, [[Rorge]] and [[Biter]] overpower the Lannister guards in charge of the prisoners, by splashing them with boiling hot soup from the kitchens where she was forced to work - an event known as "Weasel soup" after Arya's alias. At the same time, the Brave Companions ([[Locke#In the books|Vargo Hoat]]'s notorious sellsword company) turn on their employers and slaughter many Lannister soldiers in their beds.
+
+As it turned out, Vargo Hoat has not long before struck a deal with Roose Bolton to betray the garrison when he attacked, though the prisoner uprising led them to strike earlier. By the time Roose Bolton army arrives at Harrenhal, all of the Lannister garrison is dead, except for Ser Amory Lorch who is fed to a bear. A much more ruthless commander than Robb, Bolton then has several of those who collaborated with the occupation put to death, and their heads mounted on spikes. This bothers Arya considerably, as many of them were servants of old lady [[Shella Whent]] who were forced into serving the Lannisters.
+
+Arya becomes Bolton's cupbearer, but remains quiet about her identity, having become painfully aware of how valuable a political hostage she would be to desperate men on both sides of the war (i.e. after the betrayals that got her father killed, Arya fears that some Northern soldiers might betray her and hand her over to the Lannisters in exchange for a large reward). Arya eventually decides that she will only be safe if she finds her brother and mother face to face, so she slips out of Harrenhal in search of them once again along with [[Gendry Baratheon|Gendry]] and [[Hot Pie]]. In the process she kills a Bolton soldier using the feint that, in the series, she employs to murder the Frey soldiers that mock her mother's death.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{War of the Five Kings}}
+
+<!--Categories-->
+[[Category:300 AC]]
+[[Category:Events]]
+[[Category:War of the Five Kings]]
+
+<!--Languages-->
+[[de:Befreiung von Harrenhal]]
+[[fr:Libération d'Harrenhal]]
+[[ru:Освобождение Харренхола]]

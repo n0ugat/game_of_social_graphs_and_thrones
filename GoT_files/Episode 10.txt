@@ -1,0 +1,37 @@
+{{Episode
+| Title    = {{PAGENAME}}
+| Type     = Built
+| Image    = THTDB110.jpg
+| Season   = 1
+| Episode  = 10
+| Date     = October 23, 2022{{Listref|THTDB}}
+| Runtime  = 24 minutes{{HBOref|THTDB110}}
+| Writer   = 
+| Director = 
+| Year     = 
+| Previous = "[[Episode 09]]"{{HBOref|THTDB}}
+| Next     = "[[Episode 1 (House of the Dragon: The House That Dragons Built)|Episode 1]]"{{HBOref|THTDB}}
+}}
+"'''Episode 10'''" is the tenth and final episode of the [[House of the Dragon: The House That Dragons Built: Season 1|first season]] of ''[[House of the Dragon: The House That Dragons Built]]''. It is the tenth episode of the series overall. It was released on October 23, 2022 on [[HBO Max]].
+
+==Description==
+{{Description|THTDB110}}
+
+==Gallery==
+<gallery bordersize="none">
+BTS: Storm's End / House of the Dragon (HBO)
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{HBO|house-of-the-dragon-the-house-that-dragons-built/season-1/10-episode-10}}
+*{{HBO Max|video/watch/a98bf856-8c83-45a1-a2b8-a1831a779106/c925670f-91f0-412e-b4be-78b6d74b90df}}
+
+<!--Navboxes-->
+{{House of the Dragon: The House That Dragons Built}}
+
+<!--Categories-->
+[[Category:Episodes of House of the Dragon: The House That Dragons Built: Season 1| 10]]
+[[Category:Episodes released in 2022|A.23A]]

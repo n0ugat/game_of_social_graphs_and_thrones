@@ -1,0 +1,56 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Arryn
+| Image       = Eyrie Guard.png
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[House Arryn]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Vale of Arryn|Valemen]]
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 5|5]]
+| Appearances = "[[The House of Black and White]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Paul Kennedy]]
+}}
+{{Quote|That's far enough.|The Eyrie guard to [[Brienne of Tarth]]|The House of Black and White}}
+An '''Eyrie guard''' is a guard at the [[Eyrie]] in service to [[House Arryn]].
+
+==Biography==
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+He accompanies [[Petyr Baelish|Littlefinger]] and [[Sansa Stark|Sansa]] from [[Runestone]]. During their stay at an inn, he stands guard as [[Brienne of Tarth|Brienne]] approaches them and tries to convince Sansa to allow her to be her protector. He attempts to stop her when she turns to leave, and she promptly knocks him out.{{Ref|GOT502}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there are several knights, hedge knights, and men-at-arms in Littlefinger's service once he becomes [[Lord Protector]] of the [[Vale of Arryn|Vale]]. Among them are Ser [[Lothor Brune]], Oswell "Kettleblack" and Ser Shadrich of the Shady Glen "the Mad Mouse", though it is unclear if this man is supposed to be any of them.
+
+==Appearances==
+*{{GOT|The House of Black and White}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House Arryn}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Men-at-arms]]
+[[Category:Servants and retainers of House Arryn]]
+[[Category:Valemen]]
+
+<!--Languages-->
+[[ru:Воин Долины]]

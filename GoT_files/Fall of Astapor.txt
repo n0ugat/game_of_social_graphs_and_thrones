@@ -1,0 +1,95 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Thrones
+| Part          = the [[liberation of Slaver's Bay]]
+| Image         = Sack of Astapor S3E4.jpg
+| Previous      = 
+| Concurrent    = 
+| Next          = [[Battle in Yunkai]]
+| Date          = [[300 AC]]{{Dateref|Game of Thrones: Season 3}}
+| Place         = [[Astapor]], [[Slaver's Bay]]
+| Outcome       = Decisive Targaryen victory
+*All Unsullied soldiers owned by [[Kraznys mo Nakloz]] are freed by [[Daenerys Targaryen]]
+*Liberated slaves sack Astapor
+*Beginning of the [[Liberation of Slaver's Bay]]
+| Factions1     = {{COA|House Targaryen|small}} [[House Targaryen]]
+| Factions2     = {{COA|Astapor|small}} [[Astapor]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = Queen [[Daenerys Targaryen]]<br>Ser [[Jorah Mormont]]<br>Ser [[Barristan Selmy]]
+| Leaders2      = [[Good Masters]] †<br>[[Kraznys mo Nakloz]] †<br>[[Greizhen mo Ullhor]] †
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = *Over 8,000 [[Unsullied]]
+*Under 100 ''[[Khalasar]]''
+*3 dragons
+| Participants2 = Astapori defenders, mostly household and civic guards
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = Minimal, if any
+| Casualties2   = Massive
+*[[Kraznys mo Nakloz]]
+*[[Greizhen mo Ullhor]]
+*Most, if not all [[Good Masters]]
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = Massive; all non-enslaved adults killed
+}}
+{{Quote|Dovaogēdys! Āeksia ossēnātās, menti ossēnātās, qilōni pilos lue vale tolvie ossēnātās, yn riñe dōre ōdrikātās. Urnet luo buzdaro tolvio belma pryjātās!"<br>"Unsullied! Slay the masters, slay the soldiers, slay every man who holds a whip, but harm no child. Strike the chains off of every slave you see!|[[Daenerys Targaryen]] orders the [[Unsullied]] to purge [[Astapor]] of slavers.|And Now His Watch Is Ended}}
+The '''fall of Astapor'''{{Con|ASOIAF}} was the opening event of the [[liberation of Slaver's Bay]], in which [[Daenerys Targaryen]] overthrows the [[Good Masters]] of [[Astapor]] and liberates all the slaves in the city.<ref name=":0">"[[And Now His Watch Is Ended]]"</ref>
+
+==History==
+===Prelude===
+Following her journey from [[Qarth]] to [[Slaver's Bay]], Daenerys's [[dragon]]s have grown to the size of small dogs, not large enough to invade [[Westeros]]. She travels to Astapor to acquire the [[Unsullied]], the elite warrior-[[eunuch]]s produced in Astapor, regarded as some of the finest soldiers in the world. Despite her reservations about slavery, [[Jorah Mormont|Jorah]] convinces her that she has no choice but to settle for this solution since she has no other means of acquiring an army.
+
+===Sack===
+The incident is orchestrated by Daenerys, who had previously been faced with the issue of using a slave army to conquer [[Seven Kingdoms|a realm]] in which slavery had been outlawed and reviled for centuries.<ref>"[[Valar Dohaeris]]"</ref> Having observed the suffering of Astapor's slaves<ref>"[[Walk of Punishment (episode)|Walk of Punishment]]",</ref> Daenerys devises a plan to acquire all of Astapor's Unsullied and turn on the Good Masters. She offers one of her dragons in exchange for all of the Unsullied, as her ship and gold weren't enough for the Good Masters. [[Kraznys mo Nakloz]] insults Daenerys repeatedly in his [[Low Valyrian|native tongue]]; Daenerys does not let on that she actually speaks the language fluently.
+
+Daenerys springs her trap after handing over [[Drogon]]. After making sure that the Unsullied are indeed loyal to her as their new master, she orders them to kill the Good Masters and their soldiers, as well as any man in Astapor who holds a whip. She also instructs them to spare all children and strike off the chains of any slave they came across.
+
+The Good Masters are powerless to stop the situation, as the local defenders are not only outnumbered but also inferior to the Unsullied. Furthermore, [[Kraznys mo Nakloz]] had assumed that his new dragon would, like a slave, accept its new master. Daenerys reminds him that dragons are not slaves before commanding Drogon to burn the slaver as he frantically calls for his guards to kill her.
+
+The Unsullied perform as promised, the Good Masters are all slain and the local slaves freed. Immediately after the Sack is completed Daenerys frees the Unsullied as well. They, however, opt ''en masse'' to continue their service to her as free men and depart Astapor with her.<ref name=":0" />
+
+===Aftermath===
+Daenerys leaves Astapor in the hands of a [[Ruling council of Astapor|council]] of former slaves to rule in her stead as she goes on to take [[Yunkai]] and [[Meereen]]. However, the council is soon overthrown by a butcher named [[Cleon]] who seizes control of the city and styles himself as "His Imperial Majesty".<ref>"[[First of His Name]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the fall of Astapor happens in much the same way, though it begins in the Plaza of Punishment - the novels' equivalent to the Walk of Punishment - because the Plaza of Pride is too small to contain all the Unsullied.
+
+Besides the 8,000 Unsullied, Daenerys's bloodriders as well as the rest of her ''khalasar'' take part in the sack of the city, although they might have in the TV series as well – it isn't clear since the Sack itself is depicted off-screen.
+
+Another difference is that Barristan and Jorah were privy to Daenerys's plan: they and the ''khalasar'' attack along with Drogon when Daenerys utters ''dracarys''.
+
+Finally, Daenerys orders her forces to spare all children below the age of twelve, while the TV version shortens this to just have her say "harm no child" without specifying an age.
+
+==Gallery==
+<gallery>
+Unsullied kill Master S3E4.jpg|The Unsullied turn on the Good Masters
+Unsullied Sack of Astapor S3E4.jpg|The Unsullied against the Astapor defenders
+Drogon kills Kraznys S3E4.jpg|Drogon kills Kraznys mo Nakloz
+</gallery>
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Liberation of Slaver's Bay}}
+
+<!--Categories-->
+[[Category:300 AC]]
+[[Category:Liberation of Slaver's Bay]]
+[[Category:Sacks]]
+
+<!--Languages-->
+[[de:Plünderung von Astapor]]
+[[fr:Sac d'Astapor]]
+[[ru:Разгром Астапора]]

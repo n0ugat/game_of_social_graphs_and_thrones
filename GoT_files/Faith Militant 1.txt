@@ -1,0 +1,50 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Heraldry
+| Image = Faith Militant.svg
+| Link  = Faith Militant
+}}
+{{Character
+| Title       = Faith Militant
+| Type        = Militant
+| Image       = Faith Militant 1.png
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[Faith Militant]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = 
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 5|5]]
+| Appearances = "[[Sons of the Harpy (episode)|Sons of the Harpy]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Jack Olohan]]
+}}
+{{Quote|You buggering filth! There's a special place in the Seventh Hell for your kind!|The member of the [[Faith Militant]] to a customer at [[Littlefinger's brothel]]|Sons of the Harpy (episode)}}
+This '''member''' of the [[Faith Militant]] was devoted to the [[Faith of the Seven]].
+
+==Biography==
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+He takes part in the ransacking of [[Littlefinger's brothel]] by the [[Faith Militant]].{{Ref|GOT503}}
+
+==Appearances==
+*{{GOT|Sons of the Harpy}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+[[Category:Faith Militant]]
+[[Category:Individuals appearing in Game of Thrones]]

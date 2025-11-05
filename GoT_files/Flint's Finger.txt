@@ -1,0 +1,44 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Flint.svg
+| Link  = House Flint
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Stark
+| Image        = Flint's Finger Pin.png
+| Type         = Castle
+| Status       = 
+| Location     = The [[North]], [[Westeros]]
+| Population   = 
+| Rulers       = [[House Flint]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Old Gods]]
+| Places       = 
+| Founded      = 
+}}
+'''Flint's Finger'''{{Ref|GOT105}} is a castle in the [[North]]. Flint's Finger is south-west of [[Winterfell]], and lies between the [[Neck]] and [[Cape Kraken]] on the southern edge of [[Blazewater Bay]].
+
+==History==
+===[[Game of Thrones: Season 7|''Game of Thrones'': Season 7]]===
+Flint's Finger appears on the large floor map of Westeros that [[Cersei Lannister|Cersei]] observes.<ref>"[[Dragonstone (episode)|Dragonstone]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Flint's Finger is the stronghold of one of the two cadet branches of Clan Flint, also known as the First Flints. The other branch is based at [[Widow's Watch]] on the opposite coast of the North, and is arguably more powerful. Flint's Finger is noted for being built over towering cliffs, which the young [[Balon Greyjoy]] once scaled during a [[Raiding|raid]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{North}}
+
+<!--Categories-->
+[[Category:Castles of the North]]
+
+<!--Languages-->
+[[de:Flints Finger]]
+[[ru:Кремневый Палец]]

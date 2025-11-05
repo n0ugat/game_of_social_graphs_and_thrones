@@ -1,0 +1,65 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Stark
+| Image       = Fergus.png
+| Birth       = 
+| Death       = [[305 AC]]{{Dateref|Game of Thrones: Season 8}}<br>[[Winterfell]], the [[North]]<ref name="Reddit">[https://www.reddit.com/r/freefolk/comments/cho6aa/i_know_s8_gets_its_hate_but_i_was_very_proud_to/ Seamus O'Hara on r/freefolk]</ref>
+| House       = 
+| Affiliation = [[House Stark]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Northmen|Northman]]
+| Religion    = [[Old Gods]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 8|8]]
+| Appearances = "[[A Knight of the Seven Kingdoms (Game of Thrones)|A Knight of the Seven Kingdoms]]"
+| First       = 
+| Last        = 
+| DeathEp     = "[[The Long Night]]" {{Deleted}}
+| Actor       = [[Seamus O'Hara]]
+}}
+{{Quote|My lord, we're not soldiers.|Fergus to [[Davos Seaworth]]|A Knight of the Seven Kingdoms (Game of Thrones)}}
+'''Fergus''' was a commoner at [[Winterfell]].
+
+==Biography==
+===Background===
+Fergus is a [[smallfolk|commoner]] conscripted to defend [[Winterfell]] from the approaching [[Wight|army of the dead]].{{Ref|GOT802}}
+
+===[[Game of Thrones: Season 8|''Game of Thrones'': Season 8]]===
+During a community kitchen, Fergus, while receiving soup from Ser [[Davos Seaworth]], complains about the conscription of the smallfolk, stating that they aren't soldiers. Davos reassures him by recounting his own experience, stating that if he survived the [[Battle of the Bastards]] despite never having been in a battle for most of his life, he can survive this one. He then directs him to the quartermaster. He later dons chainmail and joins the archers at the battlements.{{Ref|GOT802}} Fergus is killed by the [[Night King]]'s forces during the [[Battle of Winterfell]].<ref name="Reddit"/>
+
+==Behind the scenes==
+Fergus is portrayed by [[Seamus O'Hara]].<ref>"Who are the new Game of Thrones characters joining Season 8?" - https://metro.co.uk/2018/07/21/new-game-thrones-characters-joining-season-8-7743512/</ref>
+
+His death scene was cut from the show due to scheduling issues. According to O'Hara, Fergus was originally supposed to be on Winterfell's ramparts with a bow, encouraged to fight by [[Arya Stark|Arya]] and Davos. After fighting bravely, he would be dragged over the wall by wights and fall to his death.<ref name="Reddit" />
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no character by that name.
+
+==Appearances==
+*{{GOT|A Knight of the Seven Kingdoms}}
+*{{GOT|The Long Night}} {{Deleted}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Servants and retainers of House Stark]]
+[[Category:Smallfolk]]
+
+<!--Languages-->
+[[de:Fergus]]
+[[ru:Фергус]]

@@ -1,0 +1,94 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Thrones
+| Part          = 
+| Image         = Bronn defeats Vardis.jpg
+| Previous      = [[Assassination of Jon Arryn]]
+| Concurrent    = [[Skirmish at Littlefinger's brothel]]
+| Next          = [[Assassination of Robert Baratheon]]
+| Date          = [[298 AC]]{{Dateref|Game of Thrones: Season 1}}
+| Place         = [[Eyrie]], [[Vale of Arryn]]
+| Outcome       = Death of Ser [[Vardis Egen]]
+*[[Tyrion Lannister]] acquitted of the death of [[Jon Arryn]] and the attempted murder of [[Bran Stark]]
+| Factions1     = {{COA|House Arryn|small}} [[House Arryn]]<br>{{COA|House Stark|small}} [[House Stark]]
+| Factions2     = {{COA|House Lannister|small}} [[House Lannister]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = {{COA|House Arryn|inline}} [[Lordship|Lady]] [[Lysa Arryn]]<br>{{COA|House Arryn|inline}} [[Defender of the Vale|Lord]] [[Robin Arryn]]<br>{{COA|House Stark|inline}} [[Lordship|Lady]] [[Catelyn Stark]]
+| Leaders2      = {{COA|House Lannister|inline}} [[Tyrion Lannister]]
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = [[Knighthood|Ser]] [[Vardis Egen]] †
+| Participants2 = [[Bronn]]
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = Ser Vardis Egen
+| Casualties2   = None
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Quote|Lord Tyrion, you are accused of hiring a man to slay my son Bran in his bed, and of conspiring to murder my sister's husband, Lord Jon Arryn, the Hand of the King.|Lady Catelyn Stark|A Golden Crown}}
+The '''first trial by combat of Tyrion Lannister''' is a minor event in the build-up to the [[War of the Five Kings]]. 
+
+==History==
+===Background===
+En route back to [[King's Landing]] following a visit to the [[Wall]] and [[Winterfell]], Tyrion and [[Yoren]] stop at the [[Inn at the Crossroads|Crossroads Inn]] in the [[Riverlands]].{{Ref|GOT104}} Catelyn and Ser [[Rodrik Cassel]] are also there, traveling back to Winterfell, after being told by [[Petyr Baelish|Littlefinger]] that [[Valyrian steel dagger|the dagger]] found on the [[Catspaw|assassin]] who tried to kill [[Bran Stark|Bran]], had once belonged to him, but he had lost it in a bet to Tyrion.{{Ref|GOT103}} When Catelyn spots Tyrion at the inn, she accuses him of trying to kill Bran and takes him into custody, indifferent to the obvious applications (namely that [[Tywin Lannister|Tywin]] will surely retaliate at that offense).{{Ref|GOT103}}
+
+Yoren arrives at King's Landing and tells Eddard about his wife's deed. It is obvious the Lannisters will retaliate and innocent people will be harmed; however, rather than act to defuse the situation before it gets out of control, Eddard does nothing.{{Ref|GOT105}}
+
+===Trial===
+To Tyrion's surprise, Catelyn does not take him back to Winterfell, but to the [[Eyrie]] in the [[Vale of Arryn]], home of her sister [[Lysa Arryn|Lysa]]. The mentally unstable Lysa, suspicious and grief-stricken at the recent death of her husband, accuses Tyrion of murdering him too, and throws Tyrion into one of the Eyrie's "sky cell" dungeons.{{Ref|GOT105}}
+
+[[Jaime Lannister|Jaime]], who heard about the kidnapping (but has no idea of his brother's condition and whereabouts), confronts Eddard. Eddard pours oil on the fire by falsely stating that Tyrion was captured at his command. Jaime reacts by [[Skirmish at Littlefinger's brothel|attacking Ned and his guards]].{{Ref|GOT105}}
+
+With the promise of a large bribe, Tyrion convinces his guard [[Mord]] to pass a message to Lady Arryn that he is ready to confess his crimes.{{Ref|GOT106}}
+
+Tyrion again appears before Lysa, who informs him that her son [[Robin Arryn|Robin]] will listen to his case and pass judgment. To the amusement of the crowd, Tyrion begins reeling off every "crime" he has ever committed dating back to his childhood, including stealing a servant girl's clothes, filling his uncle's boots with goat feces and letting a squire take the blame, and masturbating into some turtle stew which, he hopes, his [[Cersei Lannister|sister]] ate. He continues to deny their charges against him, however. Furious, Lysa orders him returned to the sky cells. Before he can be led away, Tyrion demands a [[trial by combat]].{{Ref|GOT106}}
+
+In the meantime, Tywin, who also heard about the kidnapping (but not about the trial), sends his bannerman [[Gregor Clegane|the Mountain]] to raid houses loyal to [[House Tully]] at the Riverlands as a retaliatory act, effectively triggering war with the [[House Stark|Starks]] and [[House Tully|Tullys]]. Ned, acting as the [[Hand of the King]], is informed about the raid, and sends [[Beric Dondarrion]] to deal with the Mountain.{{Ref|GOT106}}
+
+===Trial by combat===
+[[File:Bronn_defeats_Vardis.jpg|thumb|Bronn defeats Ser Vardis Egen]]
+By law, Lysa acknowledges that she cannot refuse his request, but reminds Tyrion of the consequences should he lose: he will "fly" through the Eyrie's moon door. A number of knights volunteer to be her champion with Ser [[Vardis Egen]] chosen. As his own champion, Tyrion names his brother. Lysa declines, as Jaime is not present and she wants the trial completed quickly. It appears that no one will volunteer to fight for Tyrion until [[Bronn]], whom Tyrion earlier met and accompanied the group to the Eyrie, steps forward and offers his services.{{Ref|GOT106}}
+
+The combat begins. Bronn uses underhand tactics and his greater maneuverability (he declines to have armor or a shield) to wear down Ser Vardis. Bronn finally stabs Vardis through the neck and pushes him out of the "Moon Door" to his death. Thus acquitted, Tyrion reclaims his purse and tosses it to Mord with the quip "a Lannister always pays his debts". He and Bronn leave the Eyrie together.{{Ref|GOT106}}
+
+===Aftermath===
+Further to the aforementioned raid, Tywin (who still has no idea about the trial and Tyrion's current condition and whereabouts) masses an army of 60,000 men, preparing to invade the Riverlands, as an additional retribution for Tyrion's kidnapping.{{Ref|GOT107}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Tyrion's trial and the events leading up to it are about the same, with minor changes. Catelyn reveals to Tyrion that Littlefinger told her he lost the dagger to Tyrion in a bet after Jaime was beaten in a joust by [[Loras Tyrell]]. Tyrion retorts that this cannot be true because he never bets against his family.{{Bookref|AGOT|31}} Much later, during her conversation with the captive [[Jaime Lannister|Jaime]], Catelyn discovers that Tyrion was telling the truth.{{Bookref|ACOK|55}}
+
+Tyrion convinces Mord to bring him before Lysa in his first try. Catelyn tries to dissuade Lysa from going ahead with the trial by combat, reasoning that Tyrion is only of use to them as a [[hostage]]; if he wins his trial then he can go free, and if he should lose, Tywin will be enraged that his son has been put to death in the Eyrie, trial or not. Lysa is oblivious to her pleas, however, and certain that Ser Vardis will be victorious. Catelyn is not as confident, having observed Bronn's fighting prowess against the [[Hill tribes]].{{Bookref|AGOT|38}}
+
+The trial by combat is seen from Catelyn's point of view. It takes place the following day and in the Eyrie garden rather than in the throne room. At Lysa's insistence, Vardis wields Jon Arryn's ceremonial sword rather than his own blade. Catelyn thinks the knight looks uncomfortable with the unfamiliar sword. As in the TV series, Bronn uses underhand tactics to wear down Vardis, dancing out of reach and throwing obstacles in his path. While Lysa and her court curse Bronn for cowardice, Ser Rodrik observes to Catelyn that Bronn is trying to tire out his armor-laden opponent.
+
+Vardis manages to slam his shield in Bronn's face, almost causing the sellsword to lose his balance; Bronn quickly recovers and pushes a statue on top of Vardis; while he is pinned to the floor, Bronn finishes him off, without pushing him out of the Moon Door. Bronn's lip is bleeding and he spits out a broken tooth, but otherwise he is unharmed.
+
+Enraged by the outcome, Lysa threatens to execute Tyrion anyway; she relents when he reminds her of [[House Arryn]]'s words. She allows Tyrion and Bronn to leave the Eyrie with provisions but adds that they will have to make their way down the mountains without an escort. This is seen by those in attendance as another kind of death sentence, as Tyrion and Bronn will probably succumb to cold and hunger, if they are not killed by the Hill Tribes.{{Bookref|AGOT|40}} Catelyn is later surprised to learn that Tyrion survived and made it back to King's Landing.
+
+Bronn later asks Tyrion how he knew that he would champion for him. Tyrion replies that he gambled on his greed as a sellsword. He explains that a sellsword is always looking for a prospective employer, which is why Bronn helped Catelyn arrest him. However, he would have soon realized that while she may have given him a small reward for his troubles, the Starks were too honorable to take a common thug like Bronn into their service. Hence, Tyrion was his best prospect of a new employer and a big reward.{{Bookref|AGOT|42}} 
+
+The humiliating experience Tyrion has gone through has a severe side-effect on the residents of the Vale: Tyrion, seeking to settle the score with Lysa, arms the Hill tribes he encounters with better weapons that they had. Similarly to Catelyn and Ned, Tyrion does not take into consideration that innocent people may suffer as a result of his deed. In ''A Storm of Swords'', [[Sandor Clegane|the Hound]] and [[Arya Stark|Arya]] are told that it is very dangerous to pass the Eastern Road these days, because the clans have steel now, good swords and mail hauberks; they are also told that half a year ago the [[Stone Crows]], led by [[Gunthor]], raided a nearby village, took every woman and every scrap of grain, and killed half the men. Lysa, safely residing in the Eyrie, has not been harmed by the hill tribes.{{Bookref|ASOS|65}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{War of the Five Kings}}
+
+<!--Categories-->
+[[Category:298 AC]]
+[[Category:Trials by combat]]
+[[Category:War of the Five Kings]]
+
+<!--Languages-->
+[[de:Erstes Urteil durch Kampf von Tyrion Lennister]]
+[[fr:Premier Duel Judiciaire de Tyrion Lannister]]
+[[ru:Первый суд поединком над Тирионом Ланнистером]]

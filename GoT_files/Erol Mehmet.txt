@@ -1,0 +1,27 @@
+{{Crew
+|Image = Erol Mehmet.jpg
+|dateofbirth = 
+|birthplace = 
+|job = Stunt Performer
+|imdb = https://www.imdb.com/name/nm0973502/
+|twitter = https://twitter.com/erolstuntman/}}
+'''Erol Mehmet''' is a stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 1|Season 1]] episode "[[A Golden Crown]]", the [[Game of Thrones: Season 2|Season 2]] episode "[[Blackwater]]", the [[Game of Thrones: Season 3|Season 3]] episode "[[Kissed by Fire]]", and the [[Game of Thrones: Season 4|Season 4]] episodes "[[The Laws of Gods and Men]]" and "[[The Watchers on the Wall]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 1||||||yes}}
+{{Game of Thrones: Season 2|||||||||yes}}
+{{Game of Thrones: Season 3|||||yes}}
+{{Game of Thrones: Season 4||||||yes|||yes}}
+
+==See also==
+*{{IMDb
+|# = 0973502}}
+*{{Twitter
+|# = erolstuntman}}
+*{{YouTube
+|# = channel/UC3Ah7diSI6BoCk4GTKwOvRg}}
+{{DEFAULTSORT:Mehmet, Erol}}
+[[Category:Stunt performers of Game of Thrones]]

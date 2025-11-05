@@ -1,0 +1,93 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Glover.svg
+| Link  = House Glover
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Stark
+| Image       = Galbart Glover.jpg
+| Birth       = [[Deepwood Motte]], the [[North]]{{Con|AWOIAF}}
+| Death       = [[299 AC|299]]{{Dateref|Game of Thrones: Season 2}}-[[303 AC]]{{Dateref|Game of Thrones: Season 6}}{{Ref|GOT607}}
+| House       = [[House Glover|Glover]]
+| Affiliation = [[House Stark]]
+| Titles      = 
+| Predecessor = 
+| Successor   = [[Robett Glover]]
+| AKA         = 
+| Culture     = [[Northmen|Northern]]
+| Religion    = [[Old Gods]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = [[Robett Glover]]
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 1|1]]
+| Appearances = 2 episodes {{Below|Appearances}}
+| First       = "[[The Pointy End]]"
+| Last        = "[[Fire and Blood]]"
+| DeathEp     = "[[The Broken Man]]" {{C|fate confirmed}}
+| Actor       = [[Mark Coney]]
+}}
+{{Quote|Renly is not right!|Galbart Glover on fealty to [[Renly Baratheon]]|Fire and Blood}}
+Lord '''Galbart Glover''' was the head of [[House Glover]] and a loyal [[Noble house|bannerman]] to [[House Stark]]. 
+
+==Biography==
+===Background===
+Galbart Glover is the the head of [[House Glover]], a vassal family to [[House Stark]] of [[Winterfell]]. He is known as a loyal and reliable bannerman.{{Ref|GOT108}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+Galbart Glover dines with [[Robb Stark]] and his bannermen as they assemble their armies to march south to confront the [[House Lannister|Lannisters]] and free [[Eddard Stark]]. [[Greatjon Umber]] objects to Glover being placed in command of the vanguard in the order of battle, to the point of threatening to leave and take his troops with him. Robb's [[direwolf]], [[Grey Wind]], rips off two of the Greatjon's fingers in response. The Greatjon laughs off the incident and accepts his place in the army.{{Ref|GOT108}}
+
+Galbart Glover and other bannermen join Robb's war counsel held in a tent at the rest stop in the [[Neck]]. When [[Catelyn Stark|Catelyn]] with Ser [[Rodrik Cassel]] intercept Robb's army, she requests to speak with her son alone and the meeting is cut short.{{Ref|GOT108}} Later on, he is seen at another war strategy meeting and debate on the best route of Robb's army march, and on whether to march directly against [[Tywin Lannister|Tywin]]'s army or against [[Jaime Lannister|Jaime]]'s army besieging [[Riverrun]].{{Ref|GOT110}}
+
+Word reaches Robb's camp that Lord Eddard has been executed and both [[Stannis Baratheon|Stannis]] and [[Renly Baratheon]] have claimed the [[Iron Throne]]. Robb and Catelyn are joined by many northmen and river lords to debate on whose claim to the throne they should support. Galbart angrily says that Renly is not the rightful king, agreeing with Robb's assertion that Renly is the younger brother. He then joins the Greatjon and others in declaring Robb as the [[King in the North]].{{Ref|GOT110}}
+
+===[[Game of Thrones: Season 6|''Game of Thrones'': Season 6]]===
+Galbart's brother, [[Robett Glover]] has become the head of the house - suggesting that Galbart has either died, or is presumed dead. Robett mentions Galbart in past tense to [[Sansa Stark]] after she and [[Jon Snow]] try to gain the support of House Glover for their [[Battle of the Bastards|impending attack]] on the [[House Bolton|Boltons]]. However, Robett dismisses them when his loyalty to the Starks is questioned - justifying it by reminding them that Galbart had sworn for Robb when he was lord and Robb led all his men to their deaths, and had done nothing to aid House Glover when the [[Ironborn]] took Deepwood Motte.{{Ref|GOT607}}
+
+==Family==
+{{Glover tree}}
+
+==In the books==
+In ''[[A Song of Ice and Fire]]'' novels, Galbart Glover is the head of [[House Glover]] of Deepwood Motte. Their lands are deep in the Wolfswood to the north-west of [[Winterfell]] and extending along the coast of the Bay of Ice, south of Bear Island. Galbart is noted as a good lord and a loyal vassal. Being childless, his heir is his younger brother Robett. Catelyn considers him a good man, loyal and steady, but without [[Brynden Tully|her uncle]]'s brilliance.
+
+Galbart is a part of Robb Stark's war council when the latter calls his banners. He participates in the [[Battle of Whispering Wood|battle in the Whispering Wood]] and the [[Battle of the Camps]]. He is in attendance when Robb is proclaimed King in the North.
+
+When news reaches Riverrun of Robett Glover's capture at [[Duskendale]], Galbart fears for his brother's life. It is partly that fear that causes Robb to trade [[Martyn Lannister]] (who was not killed in the books by [[Rickard Karstark]]) for Robett. Galbart is named the commander of Robb's scouts and outriders. 
+
+Before going to the [[Red Wedding]], Robb commands Galbart and [[Maege Mormont]] to take men by longship and sail through the marshes of the Neck to seek out [[Howland Reed]], thus they do not attend the Red Wedding. He gives them letters for the Northern lords, explaining the letters contain false orders, in case they are captured by the [[ironborn]]. While it is not explicitly written, it is speculated by fans that Robb also gave Maege and Galbart the royal decree he issued, by which he legitimized [[Jon Snow]] and named him his successor.
+
+It is unknown whether Maege and Galbart reached their destination, and if they actually have Robb's decree in possession, or even if they are still alive. In the fifth novel, Alysane Mormont (Maege's second daughter) implies that her mother is alive, but no such hint is given in respect of Galbart.
+
+==Appearances==
+*{{GOT|The Pointy End}}
+*{{GOT|Fire and Blood}}
+*{{GOT|The Broken Man}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Glover}}
+
+<!--Categories-->
+{{DEFAULTSORT:Glover, Galbart}}
+[[Category:Bannermen of House Stark]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Lords]]
+[[Category:Members of House Glover|Galbart Glover]]
+[[Category:Northmen]]
+
+<!--Languages-->
+[[de:Galbart Glauer]]
+[[fr:Galbart Glover]]
+[[ru:Галбарт Гловер]]

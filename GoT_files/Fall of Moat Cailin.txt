@@ -1,0 +1,73 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Stub}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Thrones
+| Part          = the [[Ironborn invasion of the North]]
+| Image         = 
+| Previous      = [[Assassination of Renly Baratheon]]
+| Concurrent    = 
+| Next          = [[Fight at Torrhen's Square]]
+| Date          = [[299 AC]]{{Dateref|Game of Thrones: Season 2}}
+| Place         = [[Moat Cailin]], the [[North]]
+| Outcome       = Greyjoy victory
+| Factions1     = [[File:House Greyjoy.svg|30px|center|link=House Greyjoy]] [[Iron Islands]]/[[House Greyjoy]]
+| Factions2     = [[File:House Stark.svg|30px|center|link=House Stark]] [[House Stark]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = [[Ralf Kenning]]
+| Leaders2      = Unknown
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = 
+| Participants2 = 
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = Unknown
+| Casualties2   = Garrison destroyed or surrendered
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+The '''fall of Moat Cailin'''{{Con|ASOIAF}} was an event during the [[War of the Five Kings]]. It was part of the campaign orchestrated by [[Balon Greyjoy]] - who had crowned himself [[King of the Iron Islands]] - to [[Ironborn invasion of the North|conquer the North]].
+
+Balon dispatches the [[Iron Fleet]] through [[Blazewater Bay]] to seize [[Moat Cailin]], effectively cutting off the Northern army south of the [[Neck]].<ref>Season 2 bluray: War of the Five Kings feature: Greyjoy Battle Plans</ref>
+
+==In the books==
+In the books, the attack on Moat Cailin also happens "off-screen". 
+
+===Background===
+Balon Greyjoy recognizes the importance of Moat Cailin, as it commands the causeway, the safe route for armies to travel through the swamps of the [[Neck]]. He sends his forces with most of the Iron Fleet to seize the ancient fortress, in order to block [[Robb Stark]] from returning to the north.
+
+===Battle===
+Victarion sails up the [[Saltspear]] and the Fever River to its headwaters, from which Moat Cailin is less than twenty miles away. The Ironborn seize the ruined fortifications, which are held by a small northern garrison, mostly archers.
+
+It is unknown how much casualties each party suffered, and whether the garrison has been killed or taken captive.
+
+===Aftermath===
+Some time later, Victarion receives news about [[Assassination of Balon Greyjoy|Balon's death]] and the [[kingsmoot on Old Wyk]]. Some of his subordinates urge him to return to the Iron Islands and claim the Seastone Chair. Victarion does so, leaving a skeleton garrison at Moat Cailin under the command of [[Ralf Kenning]].
+
+Once Robb finally decides to return to the north and save what is left of his kingdom, his first concern is to liberate Moat Cailin. However, his plan is never executed, for he and most of his troops are destroyed at the [[Red Wedding]]. Eventually the fortress is [[Siege of Moat Cailin|retaken]] by [[Ramsay Bolton]].
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{War of the Five Kings}}
+
+<!--Categories-->
+[[Category:299 AC]]
+[[Category:Battles]]
+[[Category:Ironborn invasion of the North]]
+
+<!--Languages-->
+[[de:Schlacht bei Maidengraben]]
+[[fr:Chute de Moat Cailin]]
+[[ru:Падение Рва Кейлин]]

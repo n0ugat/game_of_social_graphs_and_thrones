@@ -1,0 +1,92 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Thrones
+| Part          = the [[Last War]]
+| Image         = 703 Attacking Casterly Rock.png
+| Previous      = [[Assault on the Targaryen fleet]]
+| Concurrent    = [[Sack of Highgarden]]
+| Next          = [[Battle of the Goldroad]]
+| Date          = [[304 AC]]{{Dateref|Game of Thrones: Season 7}}
+| Place         = [[Casterly Rock]], the [[Westerlands]]
+| Outcome       = '''Tactical [[House Targaryen]] victory'''
+*Capture and occupation of Casterly Rock by House Targaryen
+'''Strategic [[Iron Throne]] victory'''
+*Unsullied army cut off from allies, trapped at Casterly Rock
+*Lannister army invades the [[Reach]], sacks [[Highgarden]]
+*[[Iron Fleet]] destroys Targaryen fleet and blockades Casterly Rock
+| Factions1     = [[File:House Lannister.svg|30px|center|link=House Lannister]] '''[[Iron Throne]]'''<br><small>([[House Lannister]])</small><br><br>[[File:Euron Greyjoy.svg|30px|center|link=House Greyjoy]] [[Salt Throne]]<br><small>([[House Greyjoy]] under [[Euron Greyjoy|Euron]])</small>
+| Factions2     = [[File:House Targaryen.svg|30px|center|link=House Targaryen]] '''[[House Targaryen]]'''<br><br>[[Unsullied]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = [[Knighthood|Ser]] [[Jaime Lannister]]<br><small>(strategist)</small><br>[[King of the Iron Islands|King]] [[Euron Greyjoy]] <br><small>(naval)</small>
+| Leaders2      = [[Hand of the King|Lord Hand]] [[Tyrion Lannister]]<br><small>(strategist)</small><br>[[Unsullied|Commander]] [[Grey Worm]]
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = *[[Casterly Rock]] token Lannister garrison 
+*[[Iron Fleet]] <small>(late battle)</small>
+**[[Silence]]
+**Several hundred ships
+| Participants2 = *~8,000 [[Unsullied]] heavy infantry
+*The Targaryen fleet
+**~80 ships
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = '''Heavy'''
+*Casterly Rock Lannister garrison completely destroyed
+| Casualties2   = '''Heavy'''
+*Minimal Unsullied losses
+*Targaryen fleet completely destroyed
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Quote|Casterly Rock is an impregnable fortress. But as [[Bronn|a good friend]] of mine once said, 'Give me ten good men... and I'll impregnate the bitch!'|Tyrion Lannister to Daenerys Targaryen|The Queen's Justice}}
+The '''fall of Casterly Rock''' was an engagement in the [[Last War]] in which the [[Unsullied]] army of [[House Targaryen]] attacked [[Casterly Rock]], the seat of [[House Lannister]], who traditionally rule the [[Westerlands]].
+
+==History==
+
+=== Prelude ===
+[[Tyrion Lannister|Tyrion]], serving Daenerys as her [[Hand of the King|Hand]], develops a strategy to take Casterly Rock using the elite [[Unsullied]] army, commanded by [[Grey Worm]], that Daenerys brought over from [[Essos]], which will cut off the Lannisters from their stronghold and will also deal a heavy blow against their morale, given that Casterly Rock is their traditional seat of power. Tyrion expects a large force, at least 10,000 well-trained soldiers, to be holding Casterly Rock because of this; the castle has never fallen before.
+
+Cersei, however, gains an ally in [[Euron Greyjoy]], the new [[King of the Iron Islands]]. 
+
+=== The battle ===
+[[File:703 Unsullied in CR.png|thumb|right|The Unsullied breach Casterly Rock.]]
+Transported by a large portion of the Targaryen fleet, the [[Unsullied]] army of House Targaryen lands at Casterly Rock, where they attempt to climb over the battlements with ladders. The Lannister garrison has anticipated the attack, and fiercely defends the walls firing arrows and throwing large stones. The Unsullied initially sustain modest casualties and cannot seem to breach the walls. However, Grey Worm leads a small force of Unsullied through the sewers beneath the Rock provided by Tyrion, who installed a route that he would use to sneak in with prostitutes. Once inside the castle, Grey Worm and his force open the gates, allowing the rest of the Unsullied army to pour in. Following fierce fighting, the Lannister men are ultimately overpowered.<ref name="E63">"[[The Queen's Justice]]"</ref>
+
+=== Aftermath ===
+[[File:703 Euron Attacks.png|thumb|right|Euron Greyjoy attacks the Targaryen fleet.]]
+After the fighting has finished and the Lannister garrison has been destroyed, Grey Worm quickly deduces that the larger part of the Lannister army is mysteriously absent from the assault. He looks over the battlements to see Euron and the [[Iron Fleet]] destroying their ships. Out of anger, Grey Worm grabs a dying Lannister soldier and asks where the rest of the Lannisters are. As it turns out, Jaime has marched the Lannister host to take [[Highgarden]]. After [[Sack of Highgarden|taking the castle]], he comments to Olenna that the Unsullied will be unable to hold Casterly Rock as he has emptied all the larders and will starve unless they leave, and with their fleet burned by Euron they will have no choice but to march cross country through a hostile Westeros.<ref name="E63"/>
+
+Ultimately, however, Jaime's strategy, while ingenious, backfires: Euron's presence on the western coast of the continent allows Daenerys to land her Dothraki ''khalasar'' on the ''eastern'' coast without interference, and [[Battle of the Goldroad|her victory at the Goldroad]] shatters the Lannister/Tarly force, thus allowing the Unsullied to march across Westeros unhindered.
+
+Some time later, Grey Worm appears in front of King's Landing with the surviving Unsullied, having abandoned Casterly Rock.
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, an equivalent battle has not occurred. The TV show has surpassed the timeline of the books, so it is unclear if an equivalent battle will occur in a future book or not.
+
+==Gallery ==
+<gallery>
+File:703 Grey Worm Casterly Rock Incursion.png
+</gallery>
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{Last War}}
+
+<!--Categories-->
+[[Category:304 AC]]
+[[Category:Battles]]
+[[Category:Last War]]
+
+<!--Languages-->
+[[fr:Chute de Castral Roc]]
+[[it:Caduta di Castel Granito]]
+[[ru:Штурм Утёса Кастерли]]

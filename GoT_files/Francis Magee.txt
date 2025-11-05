@@ -1,0 +1,34 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Francis-Magee-200.jpg
+| Birth   = Dublin, Ireland
+| Death   = 
+| Role    = [[Yoren]]
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 1|1]] {{*}} [[Game of Thrones: Season 2|2]]
+| Credits = 7 episodes {{Below|Credits}}
+| First   = "[[Lord Snow]]"
+| Last    = "[[What Is Dead May Never Die]]"
+}}
+'''Francis Magee''' is an Irish actor. He is best known for his role as Liam in British soap opera ''[[wikipedia:EastEnders|EastEnders]]''. More recent roles have included as surgeon [[wikipedia:William Beatty (surgeon)|William Beatty]] (the ship's doctor on [[wikipedia:HMS Victory|HMS ''Victory'']] at the [[wikipedia:Battle of Trafalgar|Battle of Trafalgar]] in ''Trafalgar Battle Surgeon'', and as the father of singer [[wikipedia:Boy George|Boy George]] in ''[[wikipedia:Worried About the Boy|Worried About the Boy]]'' (which also features [[Richard Madden]]).
+
+In ''[[Game of Thrones]]'' Magee is playing [[Yoren]]. He was confirmed in the role on 16 July 2010. He initially appeared as a guest star in the [[Game of Thrones: Season 1|first season]] and returned in this role for the [[Game of Thrones: Season 2|second season]].
+
+He is also most commonly seen all over the world by teenagers on the Nickelodeon TV show, '''''House of Anubis '''''(which also features [[Eugene Simon]]). In the show, he plays the grumpy caretaker Victor Rudenmaar, who is searching for eternal life. He has been in two seasons already.
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 1|||yes|yes|yes||||yes|yes}}
+{{Game of Thrones: Season 2||yes|yes}}
+
+==See also==
+* {{WP}}
+*{{Template:IMDb
+|# = 0535837}}
+[[de:Francis Magee]]
+[[pl:Francis Magee]]
+[[ru:Фрэнсис Маги]]
+[[fr:Francis Magee]]
+{{DEFAULTSORT:Magee, Francis}}
+[[Category:Guest starring cast members of Game of Thrones]]

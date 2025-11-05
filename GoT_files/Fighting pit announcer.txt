@@ -1,0 +1,51 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Ghiscari
+| Image       = FightingPitAnnouncer.jpg
+| Birth       = 
+| Death       = [[302 AC]]{{Dateref|Game of Thrones: Season 5}}<br>The [[Great Pit of Daznak]], [[Meereen]]{{Ref|GOT509}}
+| House       = 
+| Affiliation = [[House Targaryen]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Ghiscari]] {{C|[[Meereen]]ese}}
+| Religion    = [[Ghiscari religion]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 5|5]]
+| Appearances = "[[The Dance of Dragons (episode)|The Dance of Dragons]]"
+| First       = 
+| Last        = 
+| DeathEp     = "The Dance of Dragons"
+| Actor       = [[Nick Boulton]]
+}}
+{{Quote|Free citizens of [[Meereen]]! By the blessing of the [[Graces]], and [[Daenerys Targaryen|her majesty]] the Queen, welcome to the Great Games!|Fighting pit announcer|The Dance of Dragons (episode)}}
+The '''fighting pit announcer''' is a [[Ghiscari]] citizen of [[Meereen]].
+
+==Biography==
+===Background===
+This man is a [[Ghiscari]] citizen of [[Meereen]].{{Ref|GOT509}}
+
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+He announces the [[Fighting pit#Great Games|Great Games]] at the [[Great Pit of Daznak]]. During the attack by the [[Sons of the Harpy]], his dead body can be seen when [[Daario Naharis]] leads [[Daenerys Targaryen]] across the pit.{{Ref|GOT509}}
+
+==Appearances==
+*{{GOT|The Dance of Dragons}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Meereenese]]

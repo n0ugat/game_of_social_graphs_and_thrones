@@ -1,0 +1,35 @@
+{{OtherUses|episode of The Game Revealed|Episode 2 (disambiguation)}}
+{{Episode
+| Title    = {{PAGENAME}}
+| Type     = Revealed
+| Image    = TGR702.jpg
+| Season   = 7
+| Episode  = 2
+| Date     = September 4, 2017{{Listref|TGR78}}
+| Runtime  = 14 minutes{{Appleref|TGR702}}
+| Writer   = 
+| Director = 
+| Year     = 
+| Previous = "[[Episode 1]]"{{Listref|TGR}}
+| Next     = "[[Episode 3]]"{{Listref|TGR}}
+}}
+"'''Episode 2'''" is the second episode of the [[The Game Revealed: Season 7|second season]] of ''[[The Game Revealed]]''. It is the seventh episode of the series overall. It was released on September 4, 2017.
+
+==Description==
+{{Description|TGR702}}
+
+==Gallery==
+<gallery bordersize="none">
+Game Revealed: Season 7 Episode 2: The Gore of Greyscale (HBO)
+Game Revealed: Season 7 Episode 2: Battling the Silence (HBO)
+</gallery>
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{The Game Revealed}}
+
+<!--Categories-->
+[[Category:Episodes of The Game Revealed: Season 7| 02]]
+[[Category:Episodes released in 2017|9.04]]

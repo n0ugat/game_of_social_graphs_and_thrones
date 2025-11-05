@@ -1,0 +1,36 @@
+{{Episode
+| Title    = From Book to Screen<br>{{C|with showrunner Ryan Condal}}
+| Type     = Podcast
+| Image    = TOGOTPHOTD216.jpg
+| Season   = 2
+| Episode  = 16
+| Date     = September 4, 2024{{Listref|TOGOTPHOTD}}
+| Runtime  = 45:00{{HBOref|TOGOTPHOTD}}
+| Writer   = 
+| Director = 
+| Year     = 
+| Previous = "[[Burning Questions]]"{{Listref|TOGOTPHOTD}}
+| Next     = "[[Exploring the Game of Thrones Universe (with Tommy Dunne)|Exploring the ''Game of Thrones'' Universe (with Tommy Dunne]]"{{Listref|TOGOTPHOTD}}
+}}
+"'''From Book to Screen (with showrunner Ryan Condal)'''"{{HBOref|TOGOTPHOTD}} is the sixteenth episode of the [[The Official Game of Thrones Podcast: House of the Dragon: Season 2|second season]] of ''[[The Official Game of Thrones Podcast: House of the Dragon]]''. It is the thirty-fourth episode of the series overall. It was released on September 4, 2024.
+
+==Description==
+{{Description|TOGOTPHOTD216}}
+
+==Gallery==
+<gallery bordersize="none">
+HOTD: Official Podcast: From Book to Screen
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{HBO Max|video/watch/PROM729387/PROM1182025|House of the Dragon Podcast: From Book to Screen (with showrunner Ryan Condal)}}
+
+<!--Navboxes-->
+{{The Official Game of Thrones Podcast: House of the Dragon}}
+
+<!--Categories-->
+[[Category:Episodes of The Official Game of Thrones Podcast: House of the Dragon: Season 2| 16]]
+[[Category:Episodes released in 2024|9.04]]

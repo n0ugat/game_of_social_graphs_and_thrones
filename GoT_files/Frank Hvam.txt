@@ -1,0 +1,31 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Frank Hvam.jpg
+| Birth   = Frank Hvam Nielsen<br>September 12, 1970 {{Age|1970|9|12}}<br>Viborg, Mid Jutland, Denmark
+| Death   = 
+| Role    = [[Citadel maester]]
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 6|6]]
+| Credits = "[[The Winds of Winter]]"
+| First   = 
+| Last    = 
+}}
+'''Frank Hvam Nielsen''' (born September 12, 1970) is a Danish comedian and actor.
+
+Hvam portrayed a [[Citadel maester]] in the [[Game of Thrones: Season 6|sixth season]] of ''[[Game of Thrones]]''.
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 6|10=yes}}
+
+==External links==
+*{{IMDb|#=0404809}}
+*{{Twitter|#=frankhvam}}
+
+<!--Categories-->
+{{DEFAULTSORT:Hvam, Frank}}
+[[Category:Guest starring cast members of Game of Thrones]]
+
+<!--Languages-->
+[[ru:Франк Хвам]]

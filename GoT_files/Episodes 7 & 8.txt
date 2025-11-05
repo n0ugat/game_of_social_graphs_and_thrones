@@ -1,0 +1,28 @@
+{{Episode
+| Title    = {{PAGENAME}}
+| Type     = Revealed
+| Image    = TGR604.jpg
+| Season   = 6
+| Episode  = 4
+| Date     = June 13, 2016{{Listref|TGR}}
+| Runtime  = 9 minutes{{Appleref|TGR604}}
+| Writer   = 
+| Director = 
+| Year     = 
+| Previous = "[[Episodes 5 & 6]]"{{Listref|TGR}}
+| Next     = "[[Episodes 9 & 10]]"{{Listref|TGR}}
+}}
+"'''Episodes 7 & 8'''" is the fourth episode of the [[The Game Revealed: Season 6|first season]] of ''[[The Game Revealed]]''. It is the fourth episode of the series overall. It was released on June 13, 2016.
+
+==Description==
+{{Description|TGR604}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{The Game Revealed}}
+
+<!--Categories-->
+[[Category:Episodes of The Game Revealed: Season 6| 04]]
+[[Category:Episodes released in 2016|6.13]]

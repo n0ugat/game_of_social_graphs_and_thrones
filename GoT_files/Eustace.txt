@@ -1,0 +1,71 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Faith of the Seven.svg
+| Link  = Faith of the Seven
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Faith
+| Image       = Eustace (The Green Council).jpg
+| Birth       = [[Stoney Sept]], the [[Riverlands]]{{Con|F&B}}
+| Death       = 
+| House       = 
+| Affiliation = [[Faith of the Seven]]{{Ref|HOTD109}}<br>[[Greens]]{{Ref|HOTD109}}
+| Titles      = [[Septon]]{{Ref|HOTD110}}<!--In "The Black Queen," Rhaenys identifies Eustace as the "High Septon." However, Otto later refers to him as "a septon of the Faith." Additionally, Simon Chandler's CV lists his role as "Septon Eustace." Therefore, this could simply mean that Rhaenys was mistaken, not that Eustace is the High Septon in the TV series. Please refrain from adding this as his title.-->
+| AKA         = 
+| Culture     = [[Riverlands|Rivermen]]{{Con|F&B}}
+| Religion    = [[Faith of the Seven]]{{Ref|HOTD109}}
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 1|1]]
+| Appearances = "[[The Green Council]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Simon Chandler]]
+}}
+{{Quote|All hail His Grace, Aegon, Second of His Name, King of the Andals and the Rhoynar and the First Men, Lord of the Seven Kingdoms, and Protector of the Realm.|Eustace|The Green Council}}
+'''Eustace''' is a [[septon]] of the [[Faith of the Seven]], based in [[King's Landing]].
+
+==Biography==
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+[[File:TGC Aegon II Coronation Still.jpg|thumb|Coronation of Aegon II.]]
+Septon Eustace takes part in the coronation of King [[Aegon II Targaryen]] at the [[Dragonpit]], praying to the [[Seven]] for their blessing and anointing Aegon with sacred oils.{{Ref|HOTD109}}
+
+==In the books==
+In ''[[Fire & Blood]]'', Eustace is one of three major sources cited by Archmaester Gyldayn for the history of the Dance of the Dragons. Maester [[Yandel]] considers Eustace's account to be more reliable than that of Mushroom. It is said that Eustace disliked [[Rhaenyra Targaryen]]. Eustace's account, while generally accurate, tends to be biased against Rhaenyra and to favor Alicent and Aegon II, in contrast with [[Munkun]]'s history (based on [[Orwyle]]'s account) which is said to be biased in favor of Rhaenyra and against Aegon II. Despite being biased in favor of the Greens, Eustace's account is the one least favorable to [[Criston Cole]] (Eustace's account is the one that accuses Cole of wanting to break his [[Kingsguard/House of the Dragon|Kingsguard]] vows to elope with Rhaenyra, and of slitting Lord [[Lyman Beesbury]]'s throat when Lyman protested the Greens usurping Rhaenyra).
+
+Eustace was born in [[Stoney Sept]], a walled town in the [[riverlands]]. He would later come to serve in the [[Red Keep]]'s castle sept during the reign of [[Viserys I Targaryen]].
+
+Eustace anointed King Aegon II himself because the [[High Septon]] was too old and frail to travel from [[Oldtown]] to [[King's Landing]].
+
+==Appearances==
+*{{TDOD}} {{Illustrated}}
+*{{HOTD|The Green Council}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|Eustace (Dance of the Dragons)}} {{Spoilers|HOTD}}
+
+<!--Categories-->
+[[Category:Authors]]
+[[Category:Greens]]
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Individuals from The Dance of Dragons]]
+[[Category:Rivermen]]
+[[Category:Septons]]
+
+<!--Languages-->
+[[fr:Eustace]]
+[[ru:Юстас]]

@@ -1,0 +1,55 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Free
+| Image       = Ferrego Antaryon.png
+| Birth       = [[Braavos]], the [[Free Cities]]
+| Death       = 
+| House       = 
+| Affiliation = 
+| Titles      = [[Sealord of Braavos]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Braavos]]i
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Ferrego Antaryon'''{{Con|ASOIAF}} is the [[Sealord of Braavos]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Ferrego is sickly and failing, and it is rumored that he will be replaced by Tormo Fregar. It is unknown if he is the same Sealord that [[Syrio Forel]] served as [[First Sword of Braavos|First Sword]].
+
+==Appearances==
+*{{H&L|Braavos}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+{{DEFAULTSORT:Antaryon, Ferrego}}
+[[Category:Braavosi]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Sealords of Braavos]]
+
+<!--Languages-->
+[[ru:Утеро Залине]]

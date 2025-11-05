@@ -1,0 +1,44 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Eve Best.jpg
+| Birth   = Emily Best<br>July 31, 1971 {{Age|1971|7|31}}<br>Ladbroke Grove, London, England
+| Death   = 
+| Role    = [[Rhaenys Targaryen]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]] {{*}} [[House of the Dragon: Season 2|2]]
+| Credits = 11 episodes {{Below|Credits}}
+| First   = "[[The Heirs of the Dragon]]"
+| Last    = "[[The Red Dragon and the Gold]]"
+}}
+'''Emily Best''' (born 31 July 1971), known professionally as '''Eve Best''', is an English actress and director, best known for her roles in ''Nurse Jackie'', the ''American Experience'' television special, and ''The Honourable Woman''. She portrays Princess [[Rhaenys Targaryen]] in ''[[House of the Dragon]]''.<ref>[https://deadline.com/2021/02/house-of-the-dragon-rhys-ifans-steve-toussaint-eve-best-sonoya-mizuno-cast-game-of-thrones-prequel-hbo-lord-corlys-velaryon-sea-snake-1234692290/ Deadline]</ref>
+
+==Biography==
+Eve Best grew up in Ladbroke Grove, West London. She attended Wycombe Abbey Girls' School and studied at Lincoln College, Oxford and the Royal Academy of Dramatic Art. She made her professional debut as Beatrice in Shakespeare's ''Much Ado About Nothing'' at the Southwark Playhouse.
+
+On February 11, 2021, it was announced that Best would be playing [[Rhaenys Targaryen]] in ''House of the Dragon''.
+
+==Credits==
+===Starring===
+{{House of the Dragon: Season 1|yes|yes|||yes||yes|yes|yes|yes}}
+{{House of the Dragon: Season 2|yes|yes|yes|yes}}
+
+==See also==
+*{{WP}}
+*{{IMDb|# = 0078925}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House of the Dragon}}
+{{House of the Dragon: Inside the Episode}}
+
+<!--Categories-->
+{{DEFAULTSORT:Best, Eve}}
+[[Category:Commentators of House of the Dragon: Inside the Episode]]
+[[Category:Starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[de:Eve Best]]
+[[fr:Eve Best]]

@@ -1,0 +1,56 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Estermont.svg
+| Link  = House Estermont
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Baratheon
+| Image        = Estermont.PNG
+| Type         = Island
+| Status       = 
+| Location     = The [[Narrow Sea]], the [[Stormlands]]
+| Population   = 
+| Rulers       = [[House Estermont]]
+| Institutions = 
+| Military     = 
+| Religion     = 
+| Places       = 
+| Founded      = 
+}}
+{{Dialogue a-b|Jaime Lannister|Is that Estermont?|Merchant ship's captain|Tarth, Ser Jaime. The Sapphire Isle.|Jaime and the captain|Sons of the Harpy (episode)}}
+'''Estermont'''{{Ref|GOT504}} is a mountainous island in the [[Narrow Sea]] and part of the [[Stormlands]]. The island is sworn to [[Storm's End]] and ruled by [[House Estermont]].
+
+==History==
+===Background===
+[[Robert Baratheon|Robert]], [[Stannis Baratheon|Stannis]] and [[Renly Baratheon]]'s mother [[Cassana Baratheon|Cassana]] was raised on Estermont.{{Cite}}
+
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+While traveling to [[Dorne]], [[Jaime Lannister|Jaime]] asks if the island they are sailing past is Estermont, but the [[Merchant captain|ship's captain]] informs him it is [[Tarth]].{{Ref|GOT504}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Jaime has previously visited Estermont. Robert's maternal uncles came for his and [[Cersei Lannister|Cersei]]'s wedding and stayed for six months, and Robert insisted on returning the courtesy with a two-week visit to Estermont. Jaime followed Robert one night, confirming Cersei's suspicions that Robert was having sex with his widowed cousin. Jaime asked Cersei if she wanted Robert dead, but instead Jaime and Cersei have sex, beginning their long secret incestuous extramarital affair. Cersei likes to believe that her son [[Joffrey Baratheon|Joffrey]] was conceived that same night.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Stormlands}}
+
+<!--Categories-->
+[[Category:Estermont| ]]
+[[Category:House Estermont]]
+[[Category:Islands]]
+[[Category:Stormlands]]
+
+<!--Languages-->
+[[de:Estermont]]
+[[es:Estermont]]
+[[fr:Île d'Estremont]]
+[[pl:Estermont]]
+[[pt-br:Estermont]]
+[[ru:Эстермонт]]
+[[zh:伊斯蒙岛]]

@@ -1,0 +1,34 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Bloodmoon
+| Image   = Ewan Bailey.jpg
+| Birth   = 1966 {{Age|1966|12|31}}<br>Brighton, Sussex, England
+| Death   = 
+| Role    = Dungeon keep
+| Series  = ''[[Bloodmoon]]'' {{Rejected}}
+| Season  = 
+| Credits = [[Pilot (Bloodmoon)|Pilot]] {{Unreleased}}
+| First   = 
+| Last    = 
+}}
+'''Ewan Bailey''' (born 1966) is an English actor. He has appeared in the films ''{{WPS|Judge Dredd (film)|Judge Dredd}}'' and ''{{WPS|The Death of Stalin}}''  and the television series ''{{WPS|The Bill}}'', ''{{WPS|Judge John Deed}}'', ''{{WPS|Rome (TV series)|Rome}}'', ''{{WPS|EastEnders}}'', ''{{WPS|Doctor Who}}'', ''{{WPS|Casualty (TV series)|Casualty}}'' and ''{{WPS|Doctors (2000 TV series)|Doctors}}''.
+
+He portrayed a dungeon keep in the [[Pilot (Bloodmoon)|pilot]] of ''[[Bloodmoon]]''.<ref>[https://redanianintelligence.com/2020/07/21/new-tidbits-about-the-cancelled-game-of-thrones-prequel-leaf/ The cancelled Game of Thrones prequel featured a character from the original show and other new tidbits - Redanian Intelligence]</ref>
+
+==See also==
+*{{IMDb|# = 0047257}}
+*{{Twitter|# = ewanbaileyfilms}}
+*{{Facebook|# = /in/ewan-bailey-11a125ba}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{Bloodmoon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Bailey, Ewan}}
+[[Category:Cast members of the pilot of Bloodmoon]]
+
+<!--Languages-->
+[[de:Ewan Bailey]]

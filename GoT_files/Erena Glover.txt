@@ -1,0 +1,78 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = House Glover.svg
+| Link  = House Glover
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Stark
+| Image       = 
+| Birth       = At [[Deepwood Motte]]
+| Death       = 
+| House       = [[House Glover|Glover]]
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Northmen|Northern]]
+| Religion    = [[Old Gods]]
+| Father      = [[Robett Glover]]
+| Mother      = [[Sybelle Glover|Sybelle Locke]]
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = [[Gawen Glover]]
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Erena Glover'''{{Con|ASOIAF}} is the daughter of [[Robett Glover|Robett]] and [[Sybelle Glover]] and the sister of [[Gawen Glover]]. 
+
+==Biography==
+===Background===
+Following the [[attack on Deepwood Motte]], Erena, her mother, and brother are thrown into prison by the ironborn.{{Ref|GOT607}}
+
+===[[Game of Thrones: Season 6|''Game of Thrones'': Season 6]]===
+Due to [[Robb Stark]]'s failure to come to the aid of House Glover, Robett refuses to assist [[Jon Snow]] and [[Sansa Stark]]'s efforts to retake [[Winterfell]] from [[House Bolton]], who had helped them [[Fight by Deepwood Motte|drive out]] the ironborn earlier.{{Ref|GOT607}}
+
+==Family==
+{{Glover tree}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Erena Glover, along with her mother and brother, are captured when ironborn forces under [[Yara Greyjoy|Asha Greyjoy]] seize Deepwood Motte.
+
+In ''A Feast of Crows'', Erena and her family are taken by Asha to the [[Ten Towers]] in [[Harlaw]]; one of the [[Iron Islands]]. Along the way, they stop at the [[Stony Shore]] to search for a wet nurse for Erena. Instead, they are forced to make do with a goat. After arriving at the Ten Towers, Asha gives orders for the Glovers to be well treated and housed in a tower instead of a dungeon.
+
+Erena and Gawen are left in the care of Asha's aunt Gwynesse Harlaw while Asha and Sybelle return to Deepwood Motte, since Asha fears Erena is too unhealthy for a second sea voyage.
+
+==Appearances==
+*{{GOT|The Broken Man}} {{Indirect}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Glover}}
+
+<!--Categories-->
+{{DEFAULTSORT:Glover, Erena}}
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Ladies]]
+[[Category:Members of House Glover|Erena Glover]]
+[[Category:Northmen]]
+
+<!--Languages-->
+[[fr:Erena Glover]]
+[[ru:Эрена Гловер]]

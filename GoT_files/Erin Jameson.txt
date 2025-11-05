@@ -1,0 +1,33 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Erin Jameson.jpg
+| Birth   = Erin Anna Jameson
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]] {{*}} [[House of the Dragon: Season 2|2]]
+| Credits = 6 episodes {{Below|Credits}}
+| First   = "[[The Heirs of the Dragon]]"
+| Last    = 
+}}
+'''Erin Anna Jameson''' is an stuntwoman and actress.
+
+In ''[[House of the Dragon]]'', she was a stunt performer in the [[House of the Dragon: Season 1|first season]] episodes "[[The Heirs of the Dragon]]", "[[Second of His Name]]", "[[King of the Narrow Sea (episode)|King of the Narrow Sea]]", "[[We Light the Way]]" and "[[Driftmark (episode)|Driftmark]]" and the [[House of the Dragon: Season 2|second season]] episode "[[The Red Dragon and the Gold]]".
+
+==Credits==
+===Stunts===
+{{House of the Dragon: Season 1|yes||yes|yes|yes||yes}}
+{{House of the Dragon: Season 2||||yes}}
+
+==See also==
+*{{IMDb
+|# = 11004715}}
+*{{Instagram
+|# = erinannajameson}}
+*{{Facebook
+|# = erin.a.jameson}}
+*{{Linkedin
+|# = /in/erin-jameson-6a7a8887}}
+{{DEFAULTSORT:Jameson, Erin}}
+[[Category:Stunt performers of House of the Dragon]]

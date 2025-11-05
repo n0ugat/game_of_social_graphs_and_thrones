@@ -1,0 +1,38 @@
+{{DISPLAYTITLE:''Game of Thrones: Ascent''}}
+{{References}}
+{{Game
+| Title     = ''Game of Thrones:<br><small>Ascent</small>''
+| Type      = Thrones
+| Image     = Game of Thrones Ascent.jpg
+| Episodes  = 
+| Date      = February 2013
+| Platforms = Facebook Platform<br>iOS<br>Android
+| Designer  = Disruptor Beam
+| Voice     = 
+| Years     = 
+| Website   = 
+}}
+'''''Game of Thrones: Ascent''''' was a social network game based on the [[HBO]] [[Game of Thrones|television series]]. The game was developed by Disruptor Beam in association with HBO. Each time a new episode aired, new content for the game was released that was based on that episode. The game officially shut down on January 3, 2019.
+
+In the game, the player could become a Lord or Lady and swear fealty to one of the [[Great House]]s: [[House Baratheon|Baratheon]], [[House Greyjoy|Greyjoy]], [[House Lannister|Lannister]], [[House Stark|Stark]], or [[House Targaryen|Targaryen]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Game of Thrones Ascent|''Game of Thrones Ascent''}}
+*{{GOTA|Main Page}}
+*{{IMDb title|# = 3030478|title = Game of Thrones Ascent}}
+*{{WP|Game of Thrones Ascent|''Game of Thrones Ascent''}}
+
+<!--Navboxes-->
+{{Game of Thrones}}
+
+<!--Categories-->
+[[Category:Browser games]]
+[[Category:Games based on Game of Thrones|Ascent]]
+[[Category:Games released in 2013|?]]
+[[Category:Mobile games]]
+
+<!--Languages-->
+[[pl:Game of Thrones Ascent]]

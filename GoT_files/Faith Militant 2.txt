@@ -1,0 +1,51 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Heraldry
+| Image = Faith Militant.svg
+| Link  = Faith Militant
+}}
+{{Character
+| Title       = Faith Militant
+| Type        = Militant
+| Image       = Faith Militant 2.jpg
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[Faith Militant]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = 
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 5|5]]
+| Appearances = "[[Sons of the Harpy (episode)|Sons of the Harpy]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Simon Norbury]]
+}}
+{{Quote|His Holiness is praying. He will not be disturbed.|The Faith Militant member to King [[Tommen Baratheon|Tommen]]|Sons of the Harpy (episode)}}
+This '''member''' of the [[Faith Militant]] was devoted to the [[Faith of the Seven]].
+
+==Biography==
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+He carries out various acts in order to "cleanse" the city of [[King's Landing]].{{Ref|GOT504}}
+
+==Appearances==
+*{{GOT|Sons of the Harpy}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+[[Category:Crownlanders]]
+[[Category:Faith Militant]]
+[[Category:Individuals appearing in Game of Thrones]]

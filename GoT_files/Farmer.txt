@@ -1,0 +1,75 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Tully
+| Image       = Farmer.png
+| Birth       = 
+| Death       = [[301 AC|301]]{{Dateref|Game of Thrones: Season 4}}-[[304 AC]]{{Dateref|Game of Thrones: Season 7}}<br>The [[Riverlands]]{{Ref|GOT701}}
+| House       = 
+| Affiliation = [[House Tully]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Riverlands|Rivermen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = {Wife}
+| Lovers      = 
+| Issue       = {[[Sally]]}
+| Siblings    = Brother
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 4|4]] {{*}} [[Game of Thrones: Season 7|7]]
+| Appearances = 2 episodes {{Below|Appearances}}
+| First       = "[[Breaker of Chains]]"
+| Last        = "[[Dragonstone (episode)|Dragonstone]]" {{Corpse}}
+| DeathEp     = "Dragonstone" {{C|fate confirmed}}
+| Actor       = [[Finbar Lynch]]
+}}
+{{Quote|We don't have much, but any man that bled for House Tully is welcome to it.|The farmer to [[Sandor Clegane]] and [[Arya Stark]]|Breaker of Chains}}
+A '''farmer''' was a commoner who lived in the [[Riverlands]].
+
+==Biography==
+===Background===
+He lives near [[Fairmarket]] with his daughter [[Sally]]. His wife died some time ago. He has a brother in the [[North]].{{Ref|GOT403}}
+
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+He and Sally find [[Sandor Clegane|Sandor "The Hound" Clegane]] and [[Arya Stark|Arya]] on their land, and give them shelter when Arya told them they fought for [[House Tully]]. He is very pious in the [[Faith of the Seven]], which irritates Sandor. He curses [[Walder Frey]] for breaking the [[guest right]] during the [[Red Wedding]]. He laments for the days when [[Hoster Tully]] ruled the Riverlands, as raiders now plunder on a daily basis. He offers Sandor fair pay to assist with farm work and drive off raiders. Sandor agrees to this, however, the next day he overpowers the farmer and steals his silver. Arya criticizes Sandor for this, but Sandor replies that the farmer is weak, that he and Sally will both be dead when winter comes, and that their silver would then be useless to them anyway.{{Ref|GOT403}}
+
+===[[Game of Thrones: Season 7|''Game of Thrones'': Season 7]]===
+[[File:Dragostone Skeletons.PNG|thumb|180x180px|The skeletons of the farmer and his daughter.]]
+When the [[Brotherhood Without Banners]] travel north with the Hound, they stop off at a hut which Sandor recognizes as belonging to the farmer. When they enter looking for shelter from the cold, they find the long dead bodies of the farmer and his daughter. It appears they committed suicide due to starvation from the winter. Saddened by their fate, Sandor buried their bodies behind the hut, but is unable to remember the Faith of the Seven funeral rites; instead he apologizes for what he did, deeming that they both deserved better.{{Ref|GOT701}}
+
+==Behind the scenes==
+[[File:Vlcsnap-2020-09-26-17h58m21s421.png|thumb|The farm in "Breaker of Chains."]]
+[[File:Vlcsnap-2020-09-26-18h01m14s515.png|thumb|The farm in "Dragonstone."]]
+There was a change in filming locations between the Season 4 (summer) and Season 7 (winter). Though it was apparent that the TV show production attempted to choose a similar looking house.
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no character parallel to him. Arya and the Hound do not take shelter with any peasant on their way to the [[Vale of Arryn]].
+
+In the book, while Arya and the Hound are on their way to the Vale, they come to a small village in the foothall of the [[Mountains of the Moon]]. The Hound decides to stay there for a while. The villagers need help to build a wooden palisade around their homes, and they offer the Hound and Arya food and shelter and money for work. The Hound agrees, on condition that he gets wine as well. They stay in the village for several weeks. The Hound works at day, and drinks himself to sleep each night. Arya finds the village quiet and boring. She stays distant from the villagers. The villagers think she is the Hound's daughter, and she is too tired to correct them. When the work is done, the village elder tells them they must leave, because the villagers do not have enough food for strangers when winter comes, and a man like the Hound brings blood. The Hound accepts that without taking any violent action against the villagers. As a payment he receives a pouch full of coppers, a skin of sour ale and an old sword, then he and Arya leave.
+
+==Appearances==
+*{{GOT|Breaker of Chains}}
+*{{GOT|Dragonstone}} {{Corpse}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Categories-->
+[[Category:Farmers]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Rivermen]]
+[[Category:Servants and retainers of House Tully]]
+[[Category:Smallfolk]]
+
+<!--Languages-->
+[[de:Bauer]]
+[[fr:Fermier]]
+[[ru:Фермер (Разрушительница цепей)]]

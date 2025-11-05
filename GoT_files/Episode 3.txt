@@ -1,0 +1,34 @@
+{{OtherUses|episode of The Game Revealed|Episode 3 (disambiguation)}}
+{{Episode
+| Title    = {{PAGENAME}}
+| Type     = Revealed
+| Image    = TGR703.jpg
+| Season   = 7
+| Episode  = 3
+| Date     = September 11, 2017{{Listref|TGR78}}
+| Runtime  = 14 minutes{{Appleref|TGR703}}
+| Writer   = 
+| Director = 
+| Year     = 
+| Previous = "[[Episode 2]]"{{Listref|TGR}}
+| Next     = "[[Episode 4]]"{{Listref|TGR}}
+}}
+"'''Episode 3'''" is the third episode of the [[The Game Revealed: Season 7|second season]] of ''[[The Game Revealed]]''. It is the eighth episode of the series overall. It was released on September 11, 2017.
+
+==Description==
+{{Description|TGR703}}
+
+==Gallery==
+<gallery bordersize="none">
+Game Revealed: Season 7 Episode 3: A Goodbye Kiss
+</gallery>
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{The Game Revealed}}
+
+<!--Categories-->
+[[Category:Episodes of The Game Revealed: Season 7| 03]]
+[[Category:Episodes released in 2017|9.11]]

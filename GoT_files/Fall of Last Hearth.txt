@@ -1,0 +1,81 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Thrones
+| Part          = the [[Great War]]
+| Image         = S8 Ep 1 Fire Symbol.jpg
+| Previous      = [[Rescue of Yara Greyjoy]]
+| Concurrent    = 
+| Next          = [[Battle of Winterfell]]
+| Date          = [[305 AC]]{{Dateref|Game of Thrones: Season 8}}
+| Place         = [[Last Hearth]], the [[North]]
+| Outcome       = '''[[White Walkers|White Walker]] victory'''
+*Last Hearth is sacked by the [[Wight|army of the dead]] and its residents are raised as wights
+*Extinction of [[House Umber]]
+| Factions1     = {{COA|House Umber|s}} [[House Umber]] †
+| Factions2     = [[White Walkers]]<br>[[Wight|Army of the Dead]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = {{COA|House Umber|i}} Lord [[Ned Umber]] †
+| Leaders2      = [[Night King]]<br>White Walker lieutenants
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = *Last Hearth Umber garrison
+**Unknown number of [[House Umber|Umber]] [[Man-at-arms|infantrymen]]
+| Participants2 = *100,000+ manpower
+**Unknown number of White Walkers
+**~100,000 [[wight]]s
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = '''Total'''
+*Ned Umber
+*Total destruction of Last Hearth Umber garrison
+| Casualties2   = '''Light'''
+*Unknown; most likely minimal. Any losses offset by new wights raised from Last Hearth's defenders.
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = Total
+}}
+{{Quote|It's a message. From the Night King.|[[Beric Dondarrion]] upon seeing the displayed corpse of [[Ned Umber]]|Winterfell (Game of Thrones)}}
+The '''fall of Last Hearth''' is an engagement during the [[Great War]] between the living of [[House Umber]] and the [[Wight|army of the dead]] led by the [[Night King]] and the [[White Walkers]]. 
+
+==History==
+=== Prelude ===
+[[File:505 Bolton map 1.jpg|thumb|Last Hearth is the closest castle to the Wall.]]
+[[Last Hearth]] is the seat of [[House Umber]] and the northernmost castle before reaching the [[Wall]], thus making it the closest settlement to the Wall. As [[Jon Snow]] previously predicted, Last Hearth was the first major obstacle in the path of the [[White Walkers]] and their [[Wight|army of the dead]] since [[Breaching of the Wall|breaching the Wall]].
+
+Following the death of [[Smalljon Umber]] at the [[Battle of the Bastards]], his son [[Lordship|Lord]] [[Ned Umber]] swears allegiance to [[House Stark]].<ref>"[[Dragonstone (episode)|Dragonstone]]"</ref> He is instructed by the Starks to return to the castle and rally the bannermen sworn to his house.<ref name=":0">"[[Winterfell (Game of Thrones)|Winterfell]]"</ref>
+
+===Battle===
+The forces of House Umber clash with the army of the dead led by the White Walkers, and are defeated at Last Hearth.
+
+=== Aftermath ===
+[[File:801 Last Hearth Courtyard.png|thumb|Last Hearth is found abandoned.]]
+Sometime after the battle, a group of [[Free Folk]] and [[Brotherhood Without Banners]] led by [[Tormund]] and [[Lord of Blackhaven|Lord]] [[Beric Dondarrion]], makes it to Last Hearth after escaping the [[Breaching of the Wall|fall]] of the [[Wall]]. They find blood but no corpses in the courtyard of the castle. Going deeper into the dark castle, they stumble upon acting [[Lord Commander of the Night's Watch|Lord Commander]] [[Eddison Tollett]] and the survivors of the [[Night's Watch]].
+
+[[File:Ned-Umber-Whit.png|thumb|A reanimated Ned is burned by Beric.]]
+The combined group finds Ned Umber dead inside the castle, pinned against the castle walls with a group of severed limbs in a spiral formation around his body. Beric deduces that it is a message sent by the [[Night King]]. Tormund notes that, with them at Last Hearth, the army of the dead is between them and [[Winterfell]], and they will have a difficult time giving chase on foot. Edd says that his own group rode from [[Castle Black]] and they can double up on the horses. While Tormund is turned around, the dead Ned Umber reanimates as a wight and slashes at Tormund with a knife, emitting a terrifying screech. Beric quickly burns the wight with his flaming sword, and the entire spiral symbol is lit on fire.<ref name=":0" />
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, no equivalent battle has occurred. The TV show has surpassed the timeline of the books, so it is unclear if an equivalent battle will occur.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{Great War}}
+
+<!--Categories-->
+[[Category:305 AC]]
+[[Category:Battles]]
+[[Category:Great War]]
+
+<!--Languages-->
+[[de:Fall des Letzten Herdes]]
+[[fr:Chute de Âtre-lès-Confins]]
+[[it:Caduta di Ultimo Focolare]]
+[[ru:Падение Последнего Очага]]

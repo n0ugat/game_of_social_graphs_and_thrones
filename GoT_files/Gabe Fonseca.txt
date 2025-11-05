@@ -1,0 +1,44 @@
+{{Stub}}
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Gabe Fonseca.png
+| Birth   = November 6, 1980 {{Age|1980|11|6}}<br>Iowa City, Iowa, United States
+| Death   = 
+| Role    = Writer<br>Supervising producer
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = 2 episodes {{Below|Credits}}
+| First   = "[[Second of His Name]]"
+| Last    = "[[The Princess and the Queen]]"
+}}
+'''Gabe Fonseca''' is an American screenwriter and producer. He is a member of the writing staff on ''[[House of the Dragon]]'' for its [[House of the Dragon: Season 1|first season]].
+
+==Biography==
+Gabe Fonseca previously worked as a staff writer on ''Private Practice'' (2011 to 2013) and ''The Night Shift'' (2016). He then worked as a production assistant on Marvel's ''Jessica Jones'' in its second season, in which he was also credited with writing one episode. In 2018 he was a producer on ''Wu-Tang: An American Saga'' (2019), for which he wrote two episodes.
+
+Fonseca runs a YouTube channel named ''Cereal Time TV'', founded in 2013, where he reviews breakfast cereals.
+
+==Credits==
+===Writer===
+{{House of the Dragon: Season 1|||yes}}
+
+===Supervising producer===
+{{House of the Dragon: Season 1||||||yes}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb|# = 1499089}}
+*{{Twitter|# = mrgabefonseca}}
+*{{Instagram|# = mrgabefonseca}}
+*{{YouTube|# = CerealTimeTV}}
+
+<!--Categories-->
+{{DEFAULTSORT:Fonseca, Gabe}}
+[[Category:Producers of House of the Dragon]]
+[[Category:Writers of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Gabe Fonseca]]

@@ -1,0 +1,30 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Erica Ford.jpg
+| Birth   = 
+| Death   = 
+| Role    = Handmaid
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]]
+| Credits = "[[Smallfolk (episode)|Smallfolk]]"
+| First   = 
+| Last    = 
+}}
+'''Erica Ford''' is an American actress.
+
+Ford plays a handmaid in the [[House of the Dragon: Season 2|second season]] of ''[[House of the Dragon]]''.<ref>https://twitter.com/redanianintel/status/1682227352217047040</ref>
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 2||||||yes}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb|#=1173984}}
+
+<!--Categories-->
+{{DEFAULTSORT:Ford, Erica}}
+[[Category:Co-starring cast members of House of the Dragon]]

@@ -1,0 +1,118 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Thrones
+| Part          = the [[conflict beyond the Wall]]
+| Image         = Wights 1x10.png
+| Previous      = [[Great ranging]]
+| Concurrent    = 
+| Next          = [[Mutiny at Craster's Keep]]
+| Date          = [[299 AC]]{{Dateref|Game of Thrones: Season 2}}
+| Place         = [[Fist of the First Men]], [[Beyond the Wall]]
+| Outcome       = [[White Walkers|White Walker]] victory
+*Retreat of surviving members of the Night's Watch
+| Factions1     = {{COA|Night's Watch|small}} [[Night's Watch]]
+| Factions2     = [[White Walkers]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = {{COA|Night's Watch|inline}} [[Lord Commander of the Night's Watch|Lord Commander]] [[Jeor Mormont]]
+| Leaders2      = [[White Walker (Valar Morghulis)|White Walker commander]]
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = ~300 men, including:
+*{{COA|Night's Watch|inline}} [[Grenn]]
+*{{COA|Night's Watch|inline}} [[Eddison Tollett]]
+*{{COA|Night's Watch|inline}} [[Karl Tanner]]
+*{{COA|Night's Watch|inline}} [[Rast]]
+*{{COA|Night's Watch|inline}} [[Bannen]]
+| Participants2 = At least four White Walkers<br>Hundreds of [[wight]]s
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = Over 200 men<br>All horses
+| Casualties2   = Unknown, at least 1 wight
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+The '''fight at the Fist'''{{Con|ASOIAF}} is a battle during the [[conflict beyond the Wall]]. It is the first open confrontation between men and [[White Walkers]] since the [[Long Night]], over eight thousand years ago.
+
+==History==
+===Prelude===
+While [[Samwell Tarly|Sam]], [[Grenn]], and [[Eddison Tollett|Edd]] are collecting animal feces to burn as firewood near to the [[Fist of the First Men]], they hear a blast from a horn, and Sam immediately assumes that the [[Ranger|Ranging party]], with [[Jon Snow]] and [[Qhorin]], has returned. A second blast sounds, and Grenn and Edd draw their swords, assuming it is [[Free Folk|wildlings]]. Finally a third blast sounds, signalling [[White Walkers]]. Grenn and Edd run, leaving Samwell behind as a snowstorm begins to blow in.
+
+Sam hides behind a rock because he is unable to catch up to his comrades. An army of undead [[wight]]s marches beside him, heading towards the Fist of the First Men. A White Walker and wights walk march past the rock without noticing Sam, the White Walker letting out a shriek to urge on the wights towards the [[Night's Watch]] encampment atop the Fist of the First Men.<ref name="E20">"[[Valar Morghulis]]"</ref>
+
+===Battle===
+The camp of the Night's Watch on the Fist is overrun by a horde of wights led by White Walkers. Seeing the battle lost, a call of retreat was ordered and the Night's Watch abandoned the Fist.<ref name="E20"/>
+
+===Aftermath===
+[[File:Nightswatch_3x01.jpg|thumb|left|300px|The survivors march away from the Fist of the First Men]]
+Out of the 300 brothers, about 200 have been killed.<ref name=":0">"[[Dark Wings, Dark Words]]"</ref> Sam runs through a blizzard in search of safety. He sees another brother ahead, but soon discovers that he has been decapitated. Just then, a wight approaches Sam and is just about to attack him with an axe, when [[Ghost]] saves him by attacking the wight. [[Jeor Mormont|Mormont]] then appears and asks Sam if he sent off the messenger-ravens he was instructed to release. Sam tells him that he wasn't able to in the confusion of the attack which angers Mormont. The survivors begin their way back to the [[Wall]] to warn of the coming danger.<ref name="E20" />
+
+[[File:HorseCorpses 3x03.jpg|thumb|right|The aftermath of the fight at the Fist.]]
+
+The wildling [[Orell]] scouts the Fist of the First Men by warging into his eagle. He discovers the Fist is filled with dead "crows".<ref name=":0" />
+
+[[Mance Rayder]], along with [[Jon Snow]], [[Tormund]], [[Orell]], and [[Ygritte]], inspects the Fist, finding only the mutilated remains of the horses arranged in a spiral pattern. All the corpses of the black brothers Orell had discovered are gone. Jon says that about three hundred men were camped at the Fist. Mance warns him that they have now been raised as undead wights.<ref>"[[Walk of Punishment (episode)|Walk of Punishment]]"</ref>
+
+==Behind the scenes==
+The battle plays out different in the novel than in the TV series. Much of the battle is actually described, albeit in flashback, but due to budget restraints it happens "off screen" in the TV series, like the [[Battle of Oxcross]] and the [[battle on the Green Fork]]. Also, unlike in the show, during the battle Sam sends messages by ravens about the impending attack. Neither [[Ghost]] nor [[Rast]] take part in the battle, as the [[direwolf]] had accompanied [[Jon Snow]], while Rast had remained at Castle Black.
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' books, the fight at the Fist is a lopsided loss for the Night's Watch. It is the second stage of the great ranging.
+
+=== Background ===
+A ranging force of 200 brothers from Castle Black, led by Lord Commander Jeor Mormont, reaches the Fist of the First Men. The rangers fortify the place, in case the wildlings attack them, and wait for Qhorin Halfhand's force of 100 men from the Shadow Tower. During the stay, Jon and Ghost find a hidden bundle of [[dragonglass]] weapons and an [[old warhorn]].
+
+Qhorin and his men arrive. Qhorin reports Mormont that they ran into a party of wildlings and killed most of them. The lone wildling survivor revealed that Mance Rayder was in the Frostfangs, searching for some magic to bring down the Wall.{{Note|Ygritte reveals to Jon the magic they were looking for is the Horn of Winter, which according to a legend was used by [[Joramun]].}} Qhorin advises Mormont to send three scouting parties of five men each into the mountains to discover what Mance was looking for, led by him and the rangers Thoren Smallwood and Jarman Buckwell. Mormont agrees. Jon and Ghost join Qhorin's party.
+
+Smallwood's party is the first (and only) to return. He reports that Mance Rayder has gathered a huge army, between 20,000 - 30,000 people, more than half of them were women and children, ten days away from the Fist. Mormont and the senior officers discuss the situation, arguing whether to attack the wildlings or return to Castle Black and take defensive position. Finally, Mormont decides to attack, reasoning that most of the wildlings are non-combatants and the warriors present are undisciplined, so the fact they outnumber the ranging force by 100:1 will be insignificant; the plan is to fight their way through to Mance Rayder and kill him in hopes the coalition of wildling tribes he has forged will collapse and retreat in the wake of his death before it can ever threaten the Wall, and if the ranging force perishes, well, this is the duty of the Watch.
+
+Chett the steward and thirteen more brothers (among them Lark, Dirk, Ollo Lophand, [[Karl Tanner#In the books|Clubfoot Carl]], Small Paul and Sweet [[Donnel Hill]]) decide to defect. They plan to murder Mormont, several of the rangers (so command of the ranging will fall to an officer more inclined to fall back to the Wall rather than launch the attack against the wildlings or pursue the deserters) and Sam, to prevent him from sending messages by ravens about their desertion. However, it begins to snow a few hours before they intend to set their plan into motion. Chett realizes that the plan is foiled: in fresh snow they will be easily followed and will not make good time. Enraged, he decides to cut his losses by killing Sam. Just as he approaches Sam, a triple horn blast sounds - signalling that the Others have been sighted.
+
+=== The battle ===
+The Watch is attacked by a large horde of wights, among them reanimated corpses of animals, most notably a [[snow bear]]. The fortifications, which would have slowed down human attackers, prove to be useless against the undead. Mormont orders Sam to send one bird to Castle Black and another to the Shadow Tower, which he does - without specifying in the messages which enemy attacks them. Eddison Tollett tells Sam "''Would you wake me, please? I am having this terrible nightmare''". Terrified of the battle, Sam forgets to send any other messages off before setting the rest of the ravens free when the battle is lost.
+
+Since their arrows have no effect against the undead attackers, Mormont orders his archers to use fire arrows, slowing the wights but not stopping them, and soon are out of arrows. The Watch is quickly overrun. Thoren Smallwood charges at the undead bear. His swing nearly takes the bear's head off, then the bear rips off his. Ottyn Wythers is also killed, when a riderless horse kicks him in the face. After suffering heavy casualties, Mormont orders to form a spearhead and retreat.
+
+=== The retreat ===
+Only sixty-one men manage to cut their way free out of the Fist, and the Others continue to pursue them as they retreat south. Of the forty-four survivors, twelve are critically injured and are put on horses while the able men hold torches to guard the flanks and rear. Only the stragglers are attacked by the wights.
+
+During the retreat, Sam collapses, totally exhausted, emotionally and physically. Only [[Grenn]] stays with him and urges him to move on, but in vain. Small Paul, who was a member of Chett's gang, carries Sam on his back. Due to the delay, the three fall behind the other survivors, and one of the Others attacks them. Grenn waves a torch at the Other, and the latter slashes the torch with its sword. Paul charges at the Other with his axe, but he is no match against the deadly creature, who easily kills him. As Paul collapses, his weight tears his killer's sword from its grasp; Sam desperately stabs it with his [[dragonglass]] dagger, without knowing if it has any affect. To Sam and Grenn's amazement, the Other is destroyed. Sam tells Grenn to pick the dagger, and eventually they catch up with the rest of the survivors.{{Note|This scene was moved around in the TV series to occur after Sam fled [[Craster's Keep]] with [[Gilly]].}}
+
+=== Aftermath ===
+Eventually the survivors reach [[Craster's Keep]], where the [[Mutiny at Craster's Keep|next disaster]] occurs. The combined effect is that nearly a third of the entire Night's Watch, including most of its officers and best warriors, is wiped out.
+
+The message Sam sent to Castle Black reaches its destination, but there is nothing those who remained there can do to help Mormont and his troops, except sending distress messages to the five kings (thinking that the enemies mentioned in the message are the wildlings, while Sam meant the Others), pleading for them to send reinforcements.
+
+Some of the brothers who were killed at the Fist, among them Chett, Lark and Paul, became wights. They attack Sam and Gilly at an abandoned village, after they escape from Craster's Keep. A mysterious rider, known as "Coldhands", and his pack of ravens save Sam and Gilly.
+
+When Jon and the wildlings reach the Fist, they find more than a hundred dead horses scattered around (not in a specific pattern). The wildlings strip the horses of anything useful. Jon does not see any human bodies, and fears that Sam and the rest of the ranging force were all killed and turned into wights.
+
+===Vision===
+[[Stannis Baratheon|Stannis]] has seen a vision of the battle in the flames: "''The ashes were white, rising in the updraft, yet all at once it seemed as if they were falling. Snow, I thought. Then the sparks in the air seemed to circle, to become a ring of torches, and I was looking through the fire down on some [[Fist of the First Men|high hill in a forest]]. The cinders had become [[Night's Watch|men in black]] behind the torches, and there were [[wight|shapes]] moving through the snow. For all the heat of the fire, I felt a cold so terrible I shivered''."{{Bookref|ASOS|36}}
+
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Conflict beyond the Wall}}
+
+<!--Categories-->
+[[Category:299 AC]]
+[[Category:Battles]]
+[[Category:Conflict beyond the Wall]]
+
+<!--Languages-->
+[[de:Schlacht an der Faust der Ersten Menschen]]
+[[fr:Bataille du Poing des Premiers Hommes]]
+[[pt-br:Batalha do Punho dos Primeiros Homens]]
+[[ru:Битва на Кулаке Первых Людей]]

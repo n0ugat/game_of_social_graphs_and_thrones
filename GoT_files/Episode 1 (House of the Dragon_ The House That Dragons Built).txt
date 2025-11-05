@@ -1,0 +1,38 @@
+{{DISPLAYTITLE:Episode 1 {{C|''House of the Dragon: The House That Dragons Built''}}}}
+{{Episode
+| Title    = Episode 1
+| Type     = Built
+| Image    = THTDB201.jpg
+| Season   = 2
+| Episode  = 1
+| Date     = June 16, 2024{{Listref|THTDB}}
+| Runtime  = 20 minutes{{Ref|THTDB201}}
+| Writer   = 
+| Director = 
+| Year     = 
+| Previous = "[[Episode 10]]"{{HBOref|THTDB}}
+| Next     = "[[Episode 2 (House of the Dragon: The House That Dragons Built)|Episode 2]]"{{HBOref|THTDB}}
+}}
+"'''Episode 1'''"{{HBOref|THTDB201}} is the first episode of the [[House of the Dragon: The House That Dragons Built: Season 2|second season]] of ''[[House of the Dragon: The House That Dragons Built]]''. It is the eleventh episode of the series overall. It was released on June 16, 2024 on [[HBO Max|Max]].
+
+==Description==
+{{Description|THTDB201}}
+
+==Gallery==
+<gallery bordersize="none">
+The House That Dragons Built - Episode 11 (201) / House of The Dragon / Season 2 / HBO
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{HBO|house-of-the-dragon-the-house-that-dragons-built/season-2/1-episode-1|Episode 1}}
+*{{HBO Max|video/watch/0e540dad-16aa-44c9-aa0d-52c830e71685/e8b12296-fc7d-4ad6-ae4e-bfd8e264d4bb|Episode 1}}
+
+<!--Navboxes-->
+{{House of the Dragon: The House That Dragons Built}}
+
+<!--Categories-->
+[[Category:Episodes of House of the Dragon: The House That Dragons Built: Season 2| 01]]
+[[Category:Episodes released in 2024|6.16A]]

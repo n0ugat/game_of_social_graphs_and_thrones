@@ -1,0 +1,23 @@
+{{Cast
+|Title = Frank O'Sullivan
+|Image = Frank_OSullivan.jpg
+|role = [[Night's Watch messenger]]
+|status = 
+|First = "[[The Pointy End]]"
+|Last = "[[Baelor]]"
+|imdb = http://www.imdb.com/name/nm0642751/
+}}'''Frank O'Sullivan''' is a British actor.
+
+In ''[[Game of Thrones]]'' he played the role of [[Night's Watch messenger]].
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 1||||||||yes|yes}}
+
+==See also==
+*{{Template:IMDb
+|# = 0642751}}
+
+{{Stub}}
+{{DEFAULTSORT:O'Sullivan, Frank}}
+[[Category:Guest starring cast members of Game of Thrones]]

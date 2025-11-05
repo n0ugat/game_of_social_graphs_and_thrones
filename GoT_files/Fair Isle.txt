@@ -1,0 +1,40 @@
+{{Canonicity|Canon}}
+{{MapNeeded}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Lannister
+| Image        = 
+| Type         = Island
+| Status       = 
+| Location     = The [[Sunset Sea]], the [[Westerlands]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = 
+| Places       = [[Faircastle]]
+| Founded      = 
+}}
+{{Quote|I set a trap for the Iron Fleet off Fair Isle.|[[Stannis Baratheon]]|Greyjoy Rebellion - Stannis Baratheon}}
+'''Fair Isle'''{{Ref|H&L201}} is an island of the [[Sunset Sea]], located near the coast of the [[Westerlands]]. The island is the site of [[Faircastle]]. During the [[Greyjoy Rebellion]], [[Stannis Baratheon]] destroyed the [[Iron Fleet]] in a [[sea battle off Fair Isle]].<ref>"[[Greyjoy Rebellion - Theon Greyjoy]]"</ref><ref>"[[Greyjoy Rebellion - Stannis Baratheon]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Fair Isle is controlled by House Farman, a vassal of [[House Lannister]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Westerlands}}
+
+<!--Categories-->
+[[Category:Islands]]
+[[Category:Westerlands]]
+
+<!--Languages-->
+[[de:Schöne Insel]]
+[[ru:Светлый остров]]
+[[zh:仙女岛]]

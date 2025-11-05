@@ -1,0 +1,71 @@
+{{Canonicity|Canon}}
+{{Region
+| Title      = {{PAGENAME}}
+| Theme      = Wildling
+| Image      =
+<gallery>
+Beyond - Frostfangs 2x05 (2).png|Appearance
+Frostfangs.png|Location
+</gallery>
+| Type       = 
+| Location   = [[Beyond the Wall]], [[Westeros]]
+| Geography  = Snow, ice, mountains
+| Population = 
+| Rulers     = [[Free Folk]]
+| Culture    = 
+| Religion   = 
+| Military   = 
+| Capital    = 
+| Castles    = 
+| Cities     = 
+| Towns      = 
+| Villages   = 
+| Places     = 
+| Founded    = 
+}}
+{{Quote|Why come to the mountains? What's in the Frostfangs your "king" could want?|[[Qhorin|Qhorin Halfhand]] interrogates [[Ygritte]]|The Old Gods and the New}}
+The '''Frostfangs'''{{Ref|GOT206}} are a mountain range in the far north of the continent of [[Westeros]]. The southern peaks and foothills extend into the [[North]] of the Seven Kingdoms, but the majority of the range is located north of the [[Wall]] in [[Free Folk|wildling]] territory. The bulk of the mountain range lies to the northwest of the Wall between the [[Land of Always Winter]] to their west and the Haunted Forest to their east. They are named for their jagged peaks. Wildlings are thought to know hidden valleys that can provide shelter when crossing the mountains.
+
+==History==
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+Lord Commander [[Jeor Mormont]] of the [[Night's Watch]] has received intelligence suggesting that the Wildlings under the command of [[Mance Rayder]], the [[King-Beyond-the-Wall]], are gathering in the mountains for unknown reasons, and he intends to investigate what they are up to.<ref>"[[Fire and Blood]]"</ref>
+
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+[[File:Ranging 206.jpg|thumb|left|The Frostfangs]][[Qhorin]] leads a detachment of scouts, including [[Jon Snow]], away from the main ranging force gathered at the [[Fist of the First Men]], to explore the [[Skirling Pass]] in the Frostfangs for Wildling activity. When they kill a wildling scout group and take [[Ygritte]] prisoner, Qhorin interrogates her on why Mance Rayder would gather his people at the Frostfangs.<ref>"[[The Old Gods and the New]]"</ref>
+
+==Behind the scenes==
+*The production team felt that it was difficult and unsatisfying to realize the Frostfangs and other lands beyond the Wall with CGI or location shooting in Northern Ireland, so they chose to film these sequences in Iceland, despite the practical problems this introduced with filming (such as expense and only having a few hours of light per day with which to film).<ref>[http://www.westeros.org/GoT/News/Entry/Making_Game_of_Thrones_Iceland/ Westeros.org]</ref>
+
+==In the books==
+In ''[[A Song of Ice and Fire]]'', the Frostfangs extend from the [[Wall]] northwards into the Land of Always Winter and the remote wildling kingdom of Thenn. They are jagged and hostile peaks, always covered in snow. The Skirling Pass is the most notable pass through the mountains, leading from the [[Haunted Forest]] to the Frozen Shore. [[Qhorin]], a ranger of the Night's Watch, is an experienced scout who knows the mountains and the pass almost as well as a wildling.
+
+There are three main passes through the Frostfangs, of which the Skirling Pass is the southernmost. All three are relatively near the [[Fist of the First Men]]. The Skirling Pass is the southernmost. North of it is another pass known as the Giant's Stairs. Northernmost of the three is the pass through the mountains which has been carved by a major tributary of the [[Milkwater River]]. Of these passes the Milkwater is the easiest to travel through; in contrast, the Skirling Pass (and possibly also the Giant's Stairs) can become snowbound and impassable in cold weather.
+
+The southern Frostfangs (south of the Wall) are actually part of the North, and the mountain tribes who live there are not wildlings but are sworn to House Stark. While they do live a somewhat rougher life than other people in the North, they are on good terms with Winterfell. Indeed, Ned Stark's own grandmother was a member of the Northern mountain clans. When people refer to "the Frostfangs", they are usually referring to the bulk of the range which is north of the Wall and inhabited by the wildlings.
+
+==Appearances==
+*{{GOT|Fire and Blood}} {{Mentioned}}
+*{{GOT|The Old Gods and the New}}
+*{{GOT|A Man Without Honor}}
+*{{GOT|The Prince of Winterfell}}
+*{{GOT|Valar Morghulis}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Beyond the Wall}}
+{{North}}
+
+<!--Categories-->
+[[Category:Beyond the Wall]]
+[[Category:Mountains]]
+[[Category:North]]
+
+<!--Languages-->
+[[de:Frostfänge]]
+[[fr:Crocgivre]]
+[[ru:Клыки Мороза]]

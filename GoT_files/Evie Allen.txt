@@ -1,0 +1,33 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Evie Allen.jpg
+| Birth   = 
+| Death   = 
+| Role    = Young [[Helaena Targaryen]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = 2 episodes {{Below|Credits}}
+| First   = "[[The Princess and the Queen]]"
+| Last    = "[[Driftmark (episode)|Driftmark]]"
+}}
+'''Evie Allen''' is an actress.
+
+In ''[[House of the Dragon]]'', she portrayed young [[Helaena Targaryen]] in [[House of the Dragon: Season 1|Season 1]].<ref>https://pressroom.warnermedia.com/us/bio/house-dragon-character-descriptions</ref>
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1||||||yes|yes}}
+
+==See also==
+*{{IMDb|#=8765738}}
+*{{Instagram|#=evieallenn_}}
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Allen, Evie}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Evie Allen]]

@@ -1,0 +1,34 @@
+{{OtherUses|episode of The Game Revealed|Episode 1 (disambiguation)}}
+{{Episode
+| Title    = {{PAGENAME}}
+| Type     = Revealed
+| Image    = TGR701.jpg
+| Season   = 7
+| Episode  = 1
+| Date     = August 28, 2017{{Listref|TGR78}}
+| Runtime  = 13 minutes{{Appleref|TGR701}}
+| Writer   = 
+| Director = 
+| Year     = 
+| Previous = "[[Episodes 9 & 10]]"{{Listref|TGR}}
+| Next     = "[[Episode 2]]"{{Listref|TGR}}
+}}
+"'''Episode 1'''" is the first episode of the [[The Game Revealed: Season 7|second season]] of ''[[The Game Revealed]]''. It is the sixth episode of the series overall. It was released on August 28, 2017.
+
+==Description==
+{{Description|TGR701}}
+
+==Gallery==
+<gallery bordersize="none">
+Game Revealed: Season 7 Episode 1 (HBO)
+</gallery>
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{The Game Revealed}}
+
+<!--Categories-->
+[[Category:Episodes of The Game Revealed: Season 7| 01]]
+[[Category:Episodes released in 2017|8.28]]

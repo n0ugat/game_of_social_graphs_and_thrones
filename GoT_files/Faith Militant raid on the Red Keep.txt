@@ -1,0 +1,72 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Westeros
+| Part          = the [[Faith Militant uprising]]
+| Image         = HL5 Faith Militant versus Aenys's Kingsguard in the Red Keep.png
+| Previous      = 
+| Concurrent    = 
+| Next          = [[Trial by seven of Maegor Targaryen]]
+| Date          = 
+| Place         = [[Red Keep]], [[King's Landing]], [[Westeros]]
+| Outcome       = Tactical [[House Targaryen]] victory, strategic Faith Militant victory
+*Assassination attempt on King Aenys foiled
+*King Aenys abandons King's Landing to the Faith Militant
+| Factions1     = {{COA|House Targaryen|small}} [[House Targaryen]]<br><br>{{COA|Kingsguard|small}} [[Kingsguard]]
+| Factions2     = {{COA|Faith Militant|small}} [[Faith Militant]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = [[Knighthood|Ser]] [[Mychal Baratheon]] †
+| Leaders2      = Unknown
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = [[Kingsguard]]<br>Castle garrison
+| Participants2 = Unknown
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = 
+| Casualties2   = 
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Quote|A few of the Faith Militant's more... militant members, even scaled the walls of the castle, and would have slain the king and his family, had a knight of the Kingsguard not intervened. Frightened, the king fled to Dragonstone, where he soon died of cramps.|[[High Sparrow]]|The Faith Militant}}
+
+The '''Faith Militant raid on the Red Keep''' was the opening event of the [[Faith Militant uprising]].
+
+==History==
+===Prelude===
+[[File:HL5 Faith Militant seizes Septon Murmison.png|thumb|The [[Faith Militant]] seize, scourge, and kill Septon [[Murmison]] for performing the marriage of King Aenys's son and daughter.]]
+When [[Aegon I Targaryen]] conquered and united the [[Seven Kingdoms]], he was married to both of his sisters in [[Valyrians|Valyrian]] custom - contrary to the strict prohibitions of the [[Faith of the Seven]] against [[Incest]]. Nonetheless the [[Iron Throne]] and the Faith each tacitly agreed that Aegon I's incestuous marriages were a relic of the past which would not be continued by the new Targaryen dynasty in Westeros.
+
+After Aegon I's death his son [[Aenys Targaryen]] ascended the throne and all seemed to be well. However, later in his reign, King Aenys foolishly wed his daughter [[Rhaena Targaryen (daughter of Aenys)|Rhaena]] to his own son [[Aegon Targaryen (son of Aenys)|Aegon]]. Their incestous marriage broke the Targaryens' prior promise to the Faith, which could no longer stand the abomination. The new High Septon led the denunciation of the Targaryens, and the military order of the Faith of the Seven, the [[Faith Militant]], rose up in open rebellion.<ref name = TFM>"[[The Faith Militant]]"</ref>
+
+===Attack===
+[[File:HL5 Faith Militant breach the Red Keep.png|thumb|The Faith Militant attack Aenys in the Red Keep but are repulsed by his [[Kingsguard]].]]
+The Faith Militant rose up throughout the streets of [[King's Landing]] - seizing, scourging, and killing Septon [[Murmison]], who had performed the wedding ceremony between Aenys's son and daughter.
+
+Several bold members of the Faith Militant even attempted to assassinate Aenys and the royal family by scaling the walls of the [[Red Keep]] (which was still under construction and thus easy to breach). They came very close to succeeding, but Aenys was saved by his [[Kingsguard]] led by Ser [[Mychal Baratheon]].<ref name = TFM/>
+
+===Aftermath===
+
+While the Faith Militant on Aenys's life was foiled, its strategic effects were still significant. The weak-willed King Aenys grew terrified after the assault, and realized that the half-finished Red Keep could not withstand a dedicated siege. Rather than calling his armies or attempting to refortify his position, the terrified Aenys simply abandoned the King's Landing entirely, fleeing back to the island fortress of [[Dragonstone (island)|Dragonstone]]. At a stroke, Aenys simply let his own capital city fall into rebel hands. His health soon failed from the pressure, and in a few weeks he died on Dragonstone from cramps brought on by the stress.<ref name = TFM/>
+
+==In the books==
+While it is said that the Faith Militant would have succeeded in killing Aenys in the Red Keep if not for Ser Raymont Baratheon of the Kingsguard, the exact details of the confrontation are unknown. Moreover, it is unknown if Ser Raymont survived the confrontation.
+
+Princess Rhaena and Prince Aegon were actually not in King's Landing when the Faith Militant uprising broke out, because they were making a royal progress through the Westerlands at the time. Aenys's wife and three younger children may have been present in the Red Keep during the attack - though it is equally possible that they were already on Dragonstone when the uprising broke out. Either way Aenys soon fled to Dragonstone and would have taken any of his family with him.
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{Faith Militant uprising}}
+
+<!--Categories-->
+[[Category:Battles]]
+[[Category:Faith Militant uprising]]
+
+<!--Languages-->
+[[pt-br:Invasão da Fortaleza Vermelha pela Fé Militante]]
+[[ru:Нападение Святого воинства на Красный замок]]

@@ -1,0 +1,28 @@
+{{Episode
+| Title    = {{PAGENAME}}
+| Type     = Revealed
+| Image    = TGR602.jpg
+| Season   = 6
+| Episode  = 2
+| Date     = May 17, 2016{{Listref|TGR}}
+| Runtime  = 9 minutes{{Appleref|TGR602}}
+| Writer   = 
+| Director = 
+| Year     = 
+| Previous = "[[Episodes 1 & 2]]"{{Listref|TGR}}
+| Next     = "[[Episodes 5 & 6]]"{{Listref|TGR}}
+}}
+"'''Episodes 3 & 4'''" is the second episode of the [[The Game Revealed: Season 6|first season]] of ''[[The Game Revealed]]''. It is the second episode of the series overall. It was released on May 17, 2016.
+
+==Description==
+{{Description|TGR602}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{The Game Revealed}}
+
+<!--Categories-->
+[[Category:Episodes of The Game Revealed: Season 6| 02]]
+[[Category:Episodes released in 2016|5.17]]

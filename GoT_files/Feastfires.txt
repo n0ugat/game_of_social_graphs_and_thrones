@@ -1,0 +1,40 @@
+{{Canonicity|Canon}}
+{{References}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Lannister
+| Image        = Feastfires Pin.png
+| Type         = Castle
+| Status       = 
+| Location     = The [[Westerlands]], [[Westeros]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Feastfires'''{{Ref|GOT105}} is a castle in the [[Westerlands]], the region controlled by [[House Lannister]] of [[Casterly Rock]]. The castle is located on the tip of a peninsula west of Casterly Rock.
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Feastfires is the seat of House Prester. It is located close to a town called Kayce.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Westerlands}}
+
+<!--Categories-->
+[[Category:Castles of the Westerlands]]
+[[Category:House Prester]]
+
+<!--Languages-->
+[[de:Festfeuer]]
+[[es:Las Hogueras]]
+[[ru:Пиршественные Огни]]
+[[zh:宴火城]]

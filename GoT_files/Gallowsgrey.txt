@@ -1,0 +1,48 @@
+{{Canonicity|Non}}
+{{Distinguish|Grey Gallows}}
+{{Heraldry
+| Image = House Trant.svg
+| Link  = House Trant
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Baratheon
+| Image        = 
+| Type         = 
+| Status       = 
+| Location     = The [[Stormlands]], [[Westeros]]
+| Population   = 
+| Rulers       = [[House Trant]]
+| Institutions = 
+| Military     = 
+| Religion     = 
+| Places       = 
+| Founded      = 
+}}
+'''Gallowsgrey''' is a location in the [[Stormlands]]. It is the seat of [[House Trant]].
+
+==History==
+===Background===
+In 44 AC, a duel between [[Axel Baratheon]] and [[Steffon Trant]] took place at Gallowsgrey. Axel was defeated and later succumbed to his wounds.
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+Gallowsgrey is mentioned in Axel Baratheon's entry in ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]''.<ref>"[[A Golden Crown]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, less is known about Gallowsgrey, and its existence is semi-canonical.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Stormlands}}
+
+<!--Categories-->
+[[Category:Castles of the Stormlands]]
+[[Category:House Trant]]
+
+<!--Languages-->
+[[de:Graugalgen]]

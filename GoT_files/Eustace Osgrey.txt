@@ -1,0 +1,55 @@
+{{Canonicity|Canon}}
+{{Spoiler|AKOTSK}}
+{{Heraldry
+| Image = House Osgrey.svg
+| Link  = House Osgrey
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Tyrell
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = [[House Osgrey|Osgrey]]
+| Affiliation = [[House Rowan]]
+| Titles      = [[Knighthood|Ser]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Andals|Andal]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+Ser '''Eustace Osgrey'''{{Ref|GOT806}} is the head of [[House Osgrey]].
+
+==In the books==
+In the [[Dunk & Egg novellas]], Ser Eustace is the Knight of Standfast and a vassal to [[House Rowan]].
+
+==Appearances==
+*{{GOT|The Iron Throne}} {{Text}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|AKOTSK}}
+
+<!--Categories-->
+{{DEFAULTSORT:Osgrey, Eustace}}
+[[Category:Bannermen of House Rowan]]
+[[Category:Individuals from the Reach]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Knights]]
+[[Category:Members of House Osgrey|Eustace Osgrey]]

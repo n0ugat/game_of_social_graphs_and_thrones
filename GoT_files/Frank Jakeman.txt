@@ -1,0 +1,30 @@
+{{Cast
+|Title = Frank Jakeman
+|Image = Frank Jakeman.jpg
+|birthplace = {{WPS|Buckinghamshire}}, {{WPS|England}}
+|role = Lord
+|status = 
+|Appearances = "[[The Iron Throne]]"
+|imdb = https://www.imdb.com/name/nm2099350/
+|twitter = https://twitter.com/frankjakeman
+|birthdate = 
+}}'''Frank Jakeman''' is an English actor. He was appeared in the television series ''{{WPS|Eastenders}}'' and ''{{WPS|The Bill}}''.
+
+In ''[[Game of Thrones]]'', he portrayed a lord in the [[Game of Thrones: Season 8|eighth season]] episode "[[The Iron Throne]]".
+
+==Credits==
+{{Game of Thrones: Season 8||||||yes}}
+
+==See also==
+*{{IMDb
+|# = 2099350}}
+*{{Twitter
+|# = frankjakeman}}
+*{{Linkedin
+|# = /in/frank-jakeman-8477bb1b/}}
+
+==References==
+{{Reflist}}{{DEFAULTSORT:Jakeman, Frank}}
+
+[[fr:Frank Jakeman]]
+[[Category:Guest starring cast members of Game of Thrones]]

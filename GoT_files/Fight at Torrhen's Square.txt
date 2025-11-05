@@ -1,0 +1,73 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Thrones
+| Part          = the [[Ironborn invasion of the North]]
+| Image         = 
+| Previous      = [[Fall of Moat Cailin]]
+| Concurrent    = 
+| Next          = [[Attack on Deepwood Motte]]
+| Date          = [[299 AC]]{{Dateref|Game of Thrones: Season 2}}
+| Place         = [[Torrhen's Square]], the [[North]]
+| Outcome       = *Greyjoy victory
+*Ser Rodrik Cassel captured
+| Factions1     = [[File:House Greyjoy.svg|30px|center|link=House Greyjoy]] '''[[Iron Islands]]'''/[[House Greyjoy]]
+| Factions2     = [[File:House Stark.svg|30px|center|link=House Stark]] '''[[North|Kingdom of the North]]'''/[[House Stark]]<br><br>[[House Tallhart]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = [[Dagmer]]
+| Leaders2      = Ser [[Rodrik Cassel]] <small>(POW)</small>
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = Crew of the ''[[Sea Bitch]]''
+| Participants2 = Torrhen's Square garrison<br>200 men of [[Winterfell]]
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = 2 killed
+| Casualties2   = Ser Rodrik Cassel captured
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Quote|Lord Stark! Torrhen's Square is under siege.|Ser [[Rodrik Cassel]] to Prince [[Bran Stark]]|The Ghost of Harrenhal}}
+The '''fight at Torrhen's Square'''{{Con|ASOIAF}} is a battle during the [[War of the Five Kings]]. It is part of a ploy by [[Theon Greyjoy]] - who had abandoned [[House Stark]] and aligned himself with his father [[Balon Greyjoy]], the self-fashioned [[King of the Iron Islands]] - to seize [[Winterfell]] and gain the respect of his father and fellow [[Ironborn]].
+
+==History==
+===Prelude===
+After news of an unidentified party attacking [[Torrhen's Square]] reach Winterfell, Prince [[Bran Stark]] sends [[Rodrik Cassel]] to defend the Stark bannermen of [[House Tallhart]].<ref>"[[The Ghost of Harrenhal]]"</ref>
+
+===Aftermath===
+With Winterfell undefended, Theon leads his crew to Winterfell and [[Capture of Winterfell|seizes it]]. In the meantime, after having fallen for the ruse and diversion to lure him away from Winterfell, Ser Rodrik is defeated and captured by the Ironborn on his way back to Winterfell.<ref>"[[The Old Gods and the New]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the attack on Torrhen's Square is led personally by [[Dagmer|Dagmer Cleftjaw]] and most of the force Theon commands, as a diversion. The exact number of Dagmer's soldiers is unknown; since Theon has a force of between 200 - 250 ironborn, and he takes 30 men for capturing Winterfell, Dagmer has between 170 - 220 men for the task.
+
+Dagmer is driven away by Ser Rodrik Cassel and troops from [[House Cerwyn]] (about 900 men) back to the [[Stony Shore]], suffering significant casualties, since ironborn lack the discipline to stand a charge of mounted troops; in the meantime, Theon seizes Winterfell.
+
+Once Ser Rodrik is notified about the capture of [[Winterfell]], he gathers troops, among them Tallhart soldiers, and returns to Winterfell in attempt to free it. Some time later (it is not specified exactly when) Dagmer and his men return to Torrhen's Square and capture the sparsely-defended keep, taking Berena Hornwood, her children and niece captive.
+
+Currently, Torrhen's Square is still held by Dagmer. After [[Yara Greyjoy#In the books|Asha Greyjoy]] is [[Fight by Deepwood Motte#In the books|defeated]] by [[Stannis Baratheon|Stannis]], she offers him to make Dagmer yield (although she is uncertain Dagmer will obey her), but Stannis refuses, stating that Torrhen's Square has no importance.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+*{{AWOIAF|Capture of Torrhen's Square}}
+
+<!--Navboxes-->
+{{War of the Five Kings}}
+
+<!--Categories-->
+[[Category:299 AC]]
+[[Category:Battles]]
+[[Category:Ironborn invasion of the North]]
+
+<!--Languages-->
+[[de:Überfall auf Torrhenschanze]]
+[[fr:Raid sur Quart-Torrhen]]
+[[ru:Набег на Торрхенов Удел]]

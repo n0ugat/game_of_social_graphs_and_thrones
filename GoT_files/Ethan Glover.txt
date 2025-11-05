@@ -1,0 +1,68 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = House Glover.svg
+| Link  = House Glover
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Stark
+| Image       = H&L 1x11 King's Landing.png
+| Birth       = At [[Deepwood Motte]]
+| Death       = [[281 AC]]{{Dateref|Robert's Rebellion}} in [[King's Landing]]<br>[[Execution|Executed]] on the orders of [[Aerys II Targaryen]]
+| House       = [[House Glover|Glover]]
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Northmen|Northern]]
+| Religion    = [[Old Gods]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Ethan Glover'''{{Con|ASOIAF}} was a companion of [[Brandon Stark]] in the time leading up to [[Robert's Rebellion]].
+
+==Biography==
+When [[Lyanna Stark]] was allegedly kidnapped by [[Rhaegar Targaryen|Rhaegar]], Brandon rode to [[King's Landing]] with five companions, including Ethan, to demand justice from the [[Aerys II Targaryen|Mad King]]. However, most were killed at Aerys's command after being imprisoned, including Brandon.{{Ref|H&L111}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Ethan Glover was Brandon Stark's squire. When Brandon and his group were imprisoned, their fathers were called to King's Landing to answer for their sons' supposed crimes, and all were killed except Ethan.{{Bookref|ACOK|55}} Later on, he joined [[Eddard Stark]] in breaking the [[Siege of Storm's End]], and was eventually killed in the [[skirmish at the Tower of Joy]].{{Bookref|AGOT|39}}
+
+==Appearances==
+*{{H&L|Mad King Aerys - House Baratheon}} {{Illustrated}}
+*{{H&L|Mad King Aerys - House Stark}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Glover}}
+
+<!--Categories-->
+{{DEFAULTSORT:Glover, Ethan}}
+[[Category:Individuals from Histories & Lore]]
+[[Category:Members of House Glover|Ethan Glover]]
+[[Category:Northmen]]
+[[Category:Squires]]
+
+<!--Languages-->
+[[fr:Ethan Glover]]
+[[ru:Итан Гловер]]

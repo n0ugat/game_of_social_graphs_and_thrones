@@ -1,0 +1,35 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Freddie Stroma.jpg
+| Birth   = January 8, 1987 {{Age|1987|1|8}}<br>London, England
+| Death   = 
+| Role    = [[Dickon Tarly]]
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 6|6]]
+| Credits = "[[Blood of My Blood]]"
+| First   = 
+| Last    = 
+}}
+'''Freddie Stroma''' is an English actor and model from London, United Kingdom. He is best known for his role as Cormac McLaggen in the ''[[wikipedia:Harry Potter|Harry Potter]]'' film series, and his role in the TV series ''UnREAL''.
+
+In ''[[Game of Thrones]]'', he portrayed [[Dickon Tarly]] in the [[Game of Thrones: Season 6|sixth season]].<ref>[http://www.ew.com/article/2015/09/04/game-thrones-freddie-stroma-samwell-brother?hootPostID=68a8cf9cc424cf0041450a32b1efd505/ Entertainment Weekly — Game of Thrones casts Samwell Tarly's brother]</ref>
+
+Due to being cast in the ABC TV series ''Time After Time'', Stroma was unable to return for [[Game of Thrones: Season 7|Season 7]], so the role of Dickon Tarly was recast with actor [[Tom Hopper]].<ref>[ http://watchersonthewall.com/freddie-stroma-confirmed-not-return/ ]</ref>
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 6||||||yes}}
+
+==See also==
+* {{WP}}
+* {{IMDb|# =2238815}}
+* {{Twitter|# =freddiestroma}}
+
+==References==
+{{reflist}}
+[[de:Freddie Stroma]]
+[[fr:Freddie Stroma]]
+[[ru:Фредди Строма]]
+{{DEFAULTSORT:Stroma, Freddie}}
+[[Category:Guest starring cast members of Game of Thrones]]

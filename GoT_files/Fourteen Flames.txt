@@ -1,0 +1,45 @@
+{{Canonicity|Canon}}
+{{MapNeeded}}
+[[File:Ancient Valyrian Shepherds Fourteen Fires.png|thumb|300px|right|Valyrian shepherds discover dragon eggs in the Fourteen Flames.]]
+[[File:Pre-Doom Valyrian Peninsula.png|thumb|300px|right|Before the Doom, the Fourteen Flames were a ring of volcanoes in the mountains surrounding the city of Valyria, at the southern end of the [[Valyrian peninsula]].]]
+[[File:Post-Doom Valyrian Peninsula.png|thumb|300px|right|After the Doom, in which the cataclysmic explosion of the Fourteen Flames caused much of the peninsula to sink into the ocean, creating the [[Smoking Sea]].]]
+The '''Fourteen Flames''',{{Ref|GOT701}}{{Note|[[High Valyrian]]: {{HV|10}}{{HV|4}}{{HV|*}}{{HV|Fire}}{{HV|Plural}} ''Izulyz Ampā Perzyssy''{{Webref|name=DJP |author=David J. Peterson |date=March 27, 2023 |url=https://dedalvs.com/work/house-of-the-dragon/misc/map_request_v2.pdf |title=Map request v2 |website=Dedalvs |access-date=December 27, 2023 }}}} also known as the '''Fourteen Fires''',{{Ref|H&L108}} were a chain of volcanoes located in the [[Valyrian peninsula]], on the continent of [[Essos]]. Five thousand years ago, it was in this location where the [[Valyrians]], at the time a community of shepherds, first discovered [[dragon]]s.
+
+The Fourteen Flames erupted four hundred years ago in a massive cataclysmic event known as the [[Doom of Valyria]], which destroyed the [[Valyrian Freehold|Valyrian civilization]] and shattered the peninsula. The [[Old Valyria|capital city]] was destroyed in a single day, and subsequently is often referred to as Old Valyria. The entire region was consumed by the oceans, creating the [[Smoking Sea]].{{Ref|H&L108}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the Fourteen Flames remain quite active and have never entirely stopped erupting since the [[Doom of Valyria|Doom]]. However, they are not nearly as active as they were during that massive explosion, which shattered the entire [[Valyrian peninsula]]. Some of the volcanoes have sunk beneath the waves, but even those under water continue to belch forth fire and smoke visible on the surface. Sailors fear to even pass within sight of Valyria's ruins, and the glow of the Fourteen Flames can be seen on the distant horizon by passing ships.
+
+===Discovery of dragons===
+The [[Valyrians]] first discovered [[dragon]]s nesting in the warmth of the Fourteen Flames, though no one knows exactly where the species originated. ''The World of Ice & Fire'' sourcebook recounts how various cultures throughout the [[known world]] have their own legends regarding the origin of dragons: the Valyrians themselves claimed that dragons were born directly from the Fourteen Flames, while in [[Qarth]] legend claims that two moons once existed in the sky. When one of them passed too close to the sun, it cracked like an egg and released one million dragons into the world (this story was recounted to [[Daenerys Targaryen]] by her handmaiden [[Doreah]] in the episode “[[The Kingsroad]]”).
+
+Other than Valyria, the only plausible origin site for dragons (at least within the known physical world) is [[Asshai]] and the surrounding [[Shadow Lands]]: dragon bones and petrified dragon eggs are frequently found there, and the inhabitants claim that dragons existed in the region since before Valyria was founded (they also claim that Asshai is the oldest city in the world, but no one can confirm or deny this). Either way, the people of Asshai never succeeded in taming dragons and using them as beasts of war like the Valyrians did.
+
+Regardless of their origins, it's known that dragons were present throughout the world long before the Valyrians tamed them: Ancient tales say that dragons once flew the skies all over the world - from [[Westeros]] to [[Yi Ti]] - in the [[Dawn Age]] before the [[Long Night]]. These tales are supported by the discovery of dragon bones and skeletons in widely- scattered locations, including the island of [[Ib]] and in the jungles of [[Sothoryos]], where the Valyrians never had a significant presence. 
+
+===Mines===
+The volcanic mountains of the Fourteen Flames contained vast mineral wealth; copper, tin, iron, gold, and silver were all found in great abundance. Dragons were used to forge massive quantities of iron into [[Valyrian steel]], which was used to make not only weapons but also gigantic building projects. [[Slavery|Slaves]] were brought in by the hundreds of thousands to labor in the mines, brought in from hundreds of nations across the Freehold and the known world. Life in the mines was dangerous, brutal, and very short, but the Valyrians' demand for ore was insatiable. Some suspect that the disaster of the Doom was actually caused by excessive mining under the volcanoes - possibly even intentionally caused by the slaves using magic as revenge against their masters (though still others say the Valyrians themselves caused the explosion in an attempt to harness some sort of magical power through a spell gone wrong).
+
+The death-worshiping cult of the [[Faceless Men]] actually originated in the slave mines under the Fourteen Flames. The thousands of slaves from a hundred different lands faced death on a daily basis, and over time, the belief developed among some of them that while they came from many different lands and followed many different religions, all of these religions were fundamentally the same, because they all worshiped death in some fashion - either polytheistic religions that had a god devoted to death, or monotheistic religions with a deity that had dominion over death. In time this turned into a syncretic belief system worshiping the [[Many-Faced God]] of Death: holding that Death has appeared to humans under many different faces as many different gods, but they are all fundamentally one god. They started out by giving the "gift" of death to slaves who were suffering particularly horribly in the mines, to ease their pain - and in time, they learned to surreptitiously give the "gift" to some of their Valyrian masters as well, becoming skilled assassins. Many centuries later, after Valyria was destroyed, the surviving Faceless Men relocated to [[Braavos]], which was founded by ex-slaves who had escaped from Valyria. The Braavosi welcomed them because they had both formed in opposition to the Valyrians, and in Braavos the Faceless Men established a firm headquarters where they continued to operate for the next four centuries.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Known world}}
+{{Valyrian peninsula}}
+
+<!--Categories-->
+[[Category:Mountains]]
+[[Category:Valyrian peninsula]]
+[[Category:Volcanoes]]
+
+<!--Languages-->
+[[pl:Czternaście Płomieni]]
+[[ru:Четырнадцать Огней]]

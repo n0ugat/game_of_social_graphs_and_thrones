@@ -1,0 +1,57 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Order of Maesters.svg
+| Link  = Order of Maesters
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Citadel
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[Order of Maesters]]
+| Titles      = Maester
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Maester Faull was quite the opposite. A brilliant stylist who invented half the stories he tells. If you're going to write histories, Tarly, you have to do the research. If you want people to read your histories, you need a bit of style.|Ebrose|Stormborn}}
+'''Faull''' was a [[Order of Maesters|maester]] of the [[Citadel]].
+
+==Biography==
+===[[Game of Thrones: Season 7|''Game of Thrones'': Season 7]]===
+[[Archmaester]] [[Ebrose]] hands one of Faull's books to [[Samwell Tarly|Sam]], claiming that unlike Archmaester [[Ch'Vyalthan]], Faull was a brilliant stylist who invented half of the stories he told.{{Ref|GOT702}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no mention of a character named Faull.
+
+==Appearances==
+*{{GOT|Stormborn}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Maesters]]
+[[Category:Westerosi]]
+
+<!--Languages-->
+[[de:Faull]]
+[[ru:Фоулл]]

@@ -1,0 +1,32 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Baratheon
+| Image        = 
+| Type         = Castle
+| Status       = 
+| Location     = [[Stormlands]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Fawnton'''{{Ref|THTDB201}} is a castle in the [[Stormlands]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Fawnton is the seat of House Cafferen.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Stormlands}}
+
+<!--Categories-->
+[[Category:Castles of the Stormlands]]

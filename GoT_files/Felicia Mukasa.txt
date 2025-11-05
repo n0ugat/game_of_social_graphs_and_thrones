@@ -1,0 +1,32 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Bloodmoon
+| Image   = Felicia Mukasa.jpg
+| Birth   = 
+| Death   = 
+| Role    = [[Lake]]
+| Series  = ''[[Bloodmoon]]'' {{Rejected}}
+| Season  = 
+| Credits = [[Pilot (Bloodmoon)|Pilot]] {{Unreleased}}
+| First   = 
+| Last    = 
+}}
+'''Felicia Mukasa''' is an actress.
+
+She portrayed [[Lake]] in the [[Pilot (Bloodmoon)|pilot]] of ''[[Bloodmoon]]''.<ref>[https://redanianintelligence.com/2020/07/21/new-tidbits-about-the-cancelled-game-of-thrones-prequel-leaf/ The cancelled Game of Thrones prequel featured a character from the original show and other new tidbits - Redanian Intelligence]</ref>
+
+==See also==
+*{{IMDb|# = 9521908}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{Bloodmoon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Mukasa, Felicia}}
+[[Category:Cast members of the pilot of Bloodmoon]]
+
+<!--Languages-->
+[[de:Felicia Mukasa]]

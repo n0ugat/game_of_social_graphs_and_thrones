@@ -1,0 +1,34 @@
+{{OtherUses|episode of The Game Revealed|Episode 5 (disambiguation)}}
+{{Episode
+| Title    = {{PAGENAME}}
+| Type     = Revealed
+| Image    = TGR705.jpg
+| Season   = 7
+| Episode  = 5
+| Date     = September 25, 2017{{Listref|TGR78}}
+| Runtime  = 13 minutes{{Appleref|TGR705}}
+| Writer   = 
+| Director = 
+| Year     = 
+| Previous = "[[Episode 4]]"{{Listref|TGR}}
+| Next     = "[[Episode 6]]"{{Listref|TGR}}
+}}
+"'''Episode 5'''" is the fifth episode of the [[The Game Revealed: Season 7|second season]] of ''[[The Game Revealed]]''. It is the tenth episode of the series overall. It was released on September 25, 2017.
+
+==Description==
+{{Description|TGR705}}
+
+==Gallery==
+<gallery bordersize="none">
+Game Revealed: Season 7 Episode 5: Fire and Bloodlines (HBO)
+</gallery>
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{The Game Revealed}}
+
+<!--Categories-->
+[[Category:Episodes of The Game Revealed: Season 7| 05]]
+[[Category:Episodes released in 2017|9.25]]

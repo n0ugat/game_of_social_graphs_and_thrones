@@ -1,0 +1,66 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Frey.svg
+| Link  = House Frey
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Frey
+| Image       = 104 Frey Knight.png
+| Birth       = 
+| Death       = 
+| House       = [[House Frey|Frey]]
+| Affiliation = 
+| Titles      = [[Knighthood|Ser]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Riverlands|Rivermen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 1|1]]
+| Appearances = "[[Cripples, Bastards, and Broken Things]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Patrick Ryan]]
+}}
+{{Quote|Lord Walder is well, my lady. He has requested the honor of your father's presence on his ninetieth nameday; he intends to take another wife.|The Frey knight to [[Catelyn Stark]]|Cripples, Bastards, and Broken Things}}
+A '''Frey knight''' visited the [[Inn at the Crossroads]].
+
+==Biography==
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+He is drinking with companions at the [[Inn at the Crossroads]] when [[Tyrion Lannister|Tyrion]] arrives on his way south. [[Catelyn Stark|Catelyn]], who is also present in the inn, turns to the present knights from the [[Riverlands]] to help her to take Tyrion into custody, accusing him of attempting to murder her son [[Bran Stark|Bran]]. She asserts her origin as a daughter of [[House Tully]], and then tells the knight that she knows his sigil and asks after Lord [[Walder Frey]]. He reports that Lord Frey is about to celebrate his ninetieth name day and has invited Lord [[Hoster Tully]]. Catelyn announces that she will return Tyrion to [[Winterfell]] to await the King's justice. The knight draws his sword and threatens Tyrion, along with the other soldiers loyal to the Tullys.{{Ref|GOT104}} Unlike the other men from the inn, he does not escort Catelyn further.{{Ref|GOT105}}
+
+==Family==
+{{Frey tree}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is a large group of Frey men-at-arms in the inn, and Catelyn addresses the Captain of the group. The Freys do not act as Catelyn requests: two of them stir, but sit back down quick enough when the captain does not move.
+
+==Appearances==
+*{{GOT|Cripples, Bastards, and Broken Things}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{House Frey}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Knights]]
+[[Category:Members of House Frey]]
+[[Category:Rivermen]]
+
+<!--Languages-->
+[[ru:Рыцарь дома Фреев]]

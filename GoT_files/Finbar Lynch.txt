@@ -1,0 +1,20 @@
+{{stub}}
+{{Template:Cast
+|Title = Finbar Lynch
+|Image = Finbar Lynch.jpg
+|dateofbirth = 28 August 1959
+|birthplace = Dublin, Ireland
+|role = [[Farmer]]
+|status = 
+|Appearances = "[[Breaker of Chains]]"
+|imdb = http://www.imdb.com/name/nm0528297/}}
+'''Finbar Lynch '''is an Irish actor. In ''[[Game of Thrones]]'' he played a [[farmer]].
+
+==See also==
+*{{Template:IMDb
+|# = 0528297}}
+
+{{DEFAULTSORT:Lynch, Finbar}}
+
+[[fr:Finbar Lynch]]
+[[Category:Guest starring cast members of Game of Thrones]]

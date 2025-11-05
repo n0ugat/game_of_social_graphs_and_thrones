@@ -1,0 +1,76 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Westeros
+| Part          = the [[Reyne-Tarbeck revolt]]
+| Image         = Tarbeck Hall being sieging.png
+| Previous      = 
+| Concurrent    = 
+| Next          = 
+| Date          = [[258 AC]]{{Dateref|Reyne-Tarbeck revolt}}
+| Place         = [[Tarbeck Hall]]
+| Outcome       = Strategic [[House Lannister|Lannister]] victory
+*[[Tarbeck Hall]] left in ruins
+*Extinction of [[House Tarbeck]]
+*[[House Reyne]] militarily crippled
+| Factions1     = {{COA|House Lannister|small}} [[House Lannister]]
+| Factions2     = {{COA|House Tarbeck|small}} [[House Tarbeck]] {{Executed}}<br><br>{{COA|House Reyne|small}} [[House Reyne]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = [[Knighthood|Ser]] [[Tywin Lannister]]<br>[[Knighthood|Ser]] [[Kevan Lannister]]
+| Leaders2      = [[Lordship|Lady]] [[Ellyn Reyne]] {{Executed}}<br>[[Lord of Castamere|Lord]] [[Roger Reyne]] <small>(WIA)</small>
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = 13,000 men from Westerlands houses<br>500 knights<br>3,000 crossbowmen
+| Participants2 = 2,000 men of House Reyne<br>400 men from House Tarbeck<br>500 knights
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = 300 killed<br>659 injured
+| Casualties2   = Complete <small>(in the castle)</small><br>Heavy <small>(on the battlefield)</small>
+*[[Tion Tarbeck]] {{Executed}}
+*Ellyn Reyne {{Executed}}
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Quote|My father had trebuchets up in a day and brought down the keep within hours. Lady Ellyn and her son were crushed in its fall. When the Tarbeck forces surrendered, my father put their castle to the torch.|[[Jaime Lannister]]|The Rains of Castamere (Histories & Lore)}}
+The '''fall of Tarbeck Hall''' is the first engagement of the [[Reyne-Tarbeck revolt]]. It resulted in the destruction of [[Tarbeck Hall]] and the extinction of [[House Tarbeck]].<ref>"[[The Rains of Castamere (Histories & Lore)|The Rains of Castamere]]"</ref>
+
+==History==
+===Prelude===
+Shortly after the opening of the Reyne-Tarbeck revolt, [[Tywin Lannister]]'s host quickly attacked Lord [[Walderan Tarbeck]] before he could gather his forces, shrinking Lord Tarbeck's defenses to merely his household [[Knighthood|knights]]. After the Lannisters met the Tarbecks, Walderan and his kin were [[Execution|beheaded]] and their heads were placed on the spears of the [[House Lannister|Lannister]] vanguard.
+
+===The siege===
+As the Lannister army approached Tarbeck Hall, Lady [[Ellyn Reyne]], Walderan's widow, closed the gates and sent [[raven]]s to her [[House Reyne|family]] at [[Castamere]], hoping to wait out the siege until her brothers arrived with the Reyne army.
+
+===The assault===
+However, Tywin had made all preparations for an assault on the castle within just a day. Trebuchets were used to destroy the castle, ultimately killing Lady Ellyn and her son [[Tion Tarbeck|Tion]]. What was left of the castle was burned.
+
+===The battle===
+Lord [[Roger Reyne]] arrived at Tarbeck Hall shortly after it was torched, and charged at Tywin's camp hoping that the element of surprise would give him the upper hand. However, half of the Reyne host was killed and Lord Roger was wounded with a cross bolt in the back. With only defeat in sight, Roger fled back to Castamere.
+
+===Aftermath===
+====House Tarbeck====
+The death of Tion Tarbeck marked the end of his [[Noble house|house]], and Tarbeck Hall has remained in ruins ever since its destruction.
+
+====House Reyne====
+With Lord Reyne retreating to Castamere, the Lannister army followed him and arrived three days later. House Reyne would too suffer an extinction event, with every remaining member of the family drowning in the mines of Castamere.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|Reyne-Tarbeck revolt#The fall of Tarbeck Hall}}
+
+<!--Categories-->
+[[Category:258 AC]]
+[[Category:Battles]]
+[[Category:Reyne-Tarbeck revolt]]
+
+<!--Languages-->
+[[fr:Siège de Château Tarbeck]]
+[[ru:Осада Тарбекхолла]]

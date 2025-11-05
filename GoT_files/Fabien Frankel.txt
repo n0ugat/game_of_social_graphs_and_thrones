@@ -1,0 +1,51 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Fabien Frankel.jpg
+| Birth   = Fabien Joseph Besson-Frankel<br>April 6, 1994 {{Age|1994|4|6}}<br>Kensington and Chelsea, London, England
+| Death   = 
+| Role    = [[Criston Cole]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]] {{*}} [[House of the Dragon: Season 2|2]] {{*}} [[House of the Dragon: Season 3|3]]
+| Credits = 17 episodes {{Below|Credits}}
+| First   = "[[The Heirs of the Dragon]]"
+| Last    = 
+}}
+'''Fabien Joseph Besson-Frankel''' (born 6 April 1994) is an Anglo-French actor who portrays Ser [[Criston Cole]] in ''[[House of the Dragon]]''.<ref>[https://georgerrmartin.com/notablog/2021/04/15/comes-a-swordsman/ Not A Blog], George R.R. Martin, April 15th, 2021.</ref>
+
+==Biography==
+Fabien Frankel is the son of Anglo-Jewish actor [[Wikipedia:Mark Frankel|Mark Frankel]], and French advertising account executive Caroline Besson. Fabien's paternal grandmother was from an Indian-Jewish family in Mumbai, India. Mark Frankel was a prominent leading man in his brief career, but tragedy struck when he was killed in a car accident in 1996 at the age of 34, when Fabien was only two years old. Fabien has one sibling, brother Max, born after their father's death. Their family has a long history in the performing arts: Mark Frankel's grandmother was a concert pianist, and Mark's grandfather was a prominent violinist and conductor.
+
+Fabien attended RADA [Foundation 2013-2014] (Royal Academy of Dramatic Art) and is a 2017 graduate of LAMDA (London Academy of Music and Dramatic Art) with a BA (Hons) Professional Acting course (2014-2017). According to IMDB, some of his skills include: Languages English, French bi-lingual Advanced level 3 Single Sword Stage Combat (Examiner's Gold Star award).
+
+Fabien's first on-screen role was in the 2019 film ''Last Christmas'', in which he actually played a romantic interest of the main character played by [[Emilia Clarke]]. He then appeared in the 2019 ''NYPD Blue'' TV-movie as the adult Theo Sipowicz, son of Andy Sipowicz. In 2021 he appeared in four out of eight episodes of the miniseries ''The Serpent''. 
+
+On April 15, 2021, it was announced that Frankel would be playing Ser [[Criston Cole]] in ''House of the Dragon''.
+
+==Credits==
+===Starring===
+{{House of the Dragon: Season 1|yes|yes|yes|yes|yes|yes|yes|yes|yes}}
+{{House of the Dragon: Season 2|yes|yes|yes|yes|yes|yes||yes}}
+{{House of the Dragon: Season 3||||yes}}
+
+==See also==
+*{{WP}}
+*{{IMDb|# = nm8844328}}
+*{{Instagram|#=fabienfrankel}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House of the Dragon}}
+{{House of the Dragon: Inside the Episode}}
+
+<!--Categories-->
+{{DEFAULTSORT:Frankel, Fabien}}
+[[Category:Commentators of House of the Dragon: Inside the Episode]]
+[[Category:Starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[de:Fabien Frankel]]
+[[fr:Fabien Frankel]]
+[[pl:Fabien Frankel]]

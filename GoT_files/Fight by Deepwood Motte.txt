@@ -1,0 +1,105 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Thrones
+| Part          = the [[Ironborn invasion of the North]]
+| Image         = 
+| Previous      = [[Assassinations at Winterfell]]<br><small>([[War of the Five Kings]])</small><br>[[Siege of Moat Cailin]]<br><small>([[Ironborn invasion of the North]])</small>
+| Concurrent    = 
+| Next          = [[Assassination of Balon Greyjoy]]
+| Date          = [[303 AC]]{{Dateref|Game of Thrones: Season 6}}
+| Place         = [[Deepwood Motte]], the [[North]]
+| Outcome       = [[House Glover|Glover]] victory
+*Deepwood Motte is restored to House Glover
+*All [[Ironborn]] killed
+*End of the Ironborn occupation in the North
+| Factions1     = {{COA|House Greyjoy|s}} '''[[Salt Throne]]'''<br>{{C|[[House Greyjoy]]}}
+| Factions2     = {{COA|House Baratheon of King's Landing|s}} '''[[Iron Throne]]'''<br>{{C|[[House Baratheon of King's Landing]]}}
+*{{COA|House Bolton|s}} [[House Bolton]]
+*{{COA|House Glover|s}} [[House Glover]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = Unknown
+| Leaders2      = {{COA|House Glover|i}} Lord [[Robett Glover]]
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = 
+| Participants2 = 
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = Total
+| Casualties2   = Unknown
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+[[Image:505 Bolton map 2.jpg|thumb|250px|Deepwood Motte on the Boltons' map in "[[Kill the Boy]]".]]
+[[File:Deepwood Motte Pin.png|thumb|right|200px|Map showing the location of Deepwood Motte on the continent of [[Westeros]].]]
+The '''fight by Deepwood Motte'''{{Con|ASOIAF}} is a battle during the [[War of the Five Kings]]. It sees the liberation of the Northern castle Deepwood Motte from the Ironborn, ending King [[Balon Greyjoy]]'s [[Ironborn invasion of the North|invasion of the North]].
+
+==History==
+===Prelude===
+In response to [[Robb Stark]]'s campaign to overthrow the Lannisters and establish Northern independence, Balon Greyjoy takes the opportunity to attack the poorly-defended North, and has his daughter, Yara Greyjoy, take thirty ships to attack and take Deepwood Motte. Though [[Attack on Deepwood Motte|the castle is taken]], Yara returns to the Iron Islands following the Sack of Winterfell and House Bolton's retaliation against the Ironborn, leaving a garrison to hold the castle.
+
+===Battle===
+[[House Glover]], with help from the Boltons,<ref>"[[The Broken Man]]"</ref> eventually attacks and retakes Deepwood Motte from the Ironborn, killing them all. The battle takes place off-screen; Balon and Yara are informed about it afterwards, via a raven.<ref name=":0">"[[Home]]"</ref>
+
+===Aftermath===
+As Deepwood Motte was the last Northern castle held by the Ironborn, this effectively marks the end of Balon's occupation of the North, all of his men having been driven out by either House Bolton or the local northern Houses. Though Balon vows to strike back, he is [[Assassination of Balon Greyjoy|killed shortly afterwards]] by [[Euron Greyjoy|Euron]].<ref name=":0" />
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the liberation of Deepwood Motte occurs on-screen and under totally different circumstances. It takes place long after Balon's death, while in the show it happens before.
+
+Unlike mentioned in the show, the Glovers do not take part in the battle, and neither do the Boltons. Perhaps Ramsay intended to liberate Deepwood Motte the way he did at Moat Cailin (as written in a letter Asha receives from him), but [[Stannis Baratheon|Stannis]] has beaten him to it.
+
+===Background===
+Following the kingsmoot, Asha Greyjoy returns to Deepwood Motte with [[Sybelle Glover]]. Sybelle's children [[Gawen Glover|Gawen]] and [[Erena Glover|Erana]] are left at [[Ten Towers]], because Asha fears they will not survive a second sea voyage. Her military force consists of four longships and nearly 200 ironborn.
+
+Stannis, angry and frustrated that the [[House Mormont|Mormonts]] and nearly all the other Northern houses have rejected his summoning, plans his next move. Arnolf Karstark, the castellan of [[Karhold]], is the only one who agrees to support Stannis (but he secretly collaborates with the Boltons). Arnolf treacherously prompts Stannis to attack the [[Dreadfort]]. Luckily for Stannis, he consults with [[Jon Snow]] first. Jon explains to Stannis that his plan is suicide; instead, he advises Stannis to gain the support of the Northern mountain clans, who are fiercely loyal to House Stark, and to liberate Deepwood Motte. Stannis accepts Jon's advice, commenting "When Balon Greyjoy rose the first time, [[Sea battle off Fair Isle|I beat the ironmen at sea]], where they are fiercest. On land, taken unawares... aye". Stannis's confidence proves to be correct.
+
+Asha is informed about the [[Fall of Moat Cailin]]. The taunting letter she received from Ramsay implies bluntly that he intends to do the same with the rest of the ironborn who are still in the North. Asha realizes it is simply a matter of time before the castle is retaken, either by Stannis or Ramsay. She considers her options: go to [[Torrhen's Square]], which is still held by [[Dagmer]]; make new life as a trader; settle at [[Sea Dragon Point]]; return to the [[Iron Islands]] and try to raise the ironborn against their [[Euron Greyjoy|new-crowned king]]. Suddenly, the alarm is raised.
+
+===The battle===
+Five men climb Deepwood's eastern wall in an attempt to open the gate, but they are caught by Asha's guards. The single survivor claims that they were alone, attempting to save Lady Glover, but Asha's brutal interrogation reveals their true purpose: to open a gate for the three or four thousand men coming to take Deepwood Motte.
+
+Asha quickly estimates the situation: since her troops are outnumbered and the castle walls are made of wood, there is no point to stay and fight. She decides to retreat back to her longships, five leagues to the north, under cover of darkness. As Stannis's men attack the north gate with a battering ram, the ironborn escape out the south gate and venture into the [[Wolfswood]].
+
+The ironborn march all night, but they are slowed down by the darkness and the treacherous ground. The northmen, by comparison, know the wolfswood well and are not hindered in the same way. Asha commands her men to camp till the break of day. Soon the northmen sneak up on the ironborn, slaying their sentries and closing in around them. The ironborn fight back fiercely, killing many of the assailants, but being heavily outnumbered and in unfamiliar territory, they are soon overcome.
+
+During the battle, Stannis receives unexpected (but welcome) assistance from a Mormont force, led by Alysane, [[Maege Mormont|Maege]]'s second daughter. He writes Jon about that: "<em>Alysane Mormont, whose men name her the She-Bear, hid fighters inside a gaggle of fishing sloops and took the ironmen unawares where they lay off the strand. Greyjoy's longships are burned or taken, her crews slain or surrendered</em>." Apparently, despite what Lyanna wrote Stannis earlier, the Mormonts have changed their mind about supporting him.
+
+===Aftermath===
+Nearly all of Asha's troops and ships have been destroyed, and she and her nine surviving men have been taken prisoners. Among the survivors are Tristifer Botley, Qarl the Maid, Cromm (who dies later of his injuries), Roggon, Grimtongue, Fingers and Rook.
+
+Deepwood Motte has been restored to House Glover, but it is a small consolation to Sybelle, since she is separated from her family: her children are still held by the ironborn at Ten Towers; her husband [[Robett Glover|Robett]] is in the [[White Harbor]]; her brother in law [[Galbart Glover|Galbart]] was sent by Robb on a mission prior to the [[Red Wedding]], and his fate is unknown.
+
+The victory grants Stannis credibility in the eyes of the people of the North, and many survivors of the northern houses (among them Houses [[House Cerwyn|Cerwyn]], [[House Tallhart|Tallhart]], [[House Hornwood|Hornwood]] and half the [[House Umber|Umbers]]) join him in his campaign against the Boltons, increasing his host to about 5,000 soldiers, more than three times it originally was. After Stannis is informed about the wedding of Ramsay and "[[Jeyne Poole|Arya Stark]]", he marches to [[Winterfell]].
+
+Asha believes that her defeat has destroyed any hope for her to rule the Iron Islands. The ironborn are not a forgiving people, and she has been defeated twice: once at the kingsmoot by her uncle Euron, and again at Deepwood Motte by Stannis - more than enough to stamp her as unfit to rule in the eyes of the ironborn.
+
+There is one more stronghold still held by the ironborn in the North: [[Torrhen's Square]], which was mentioned as being attacked by the ironborn in Season 2, and in the books was taken by Dagmer. As of the most recent novel, Dagmer still holds Torrhen's Square. Asha offers Stannis to have Dagmer surrender, but Stannis refuses, having no interest in Torrhen's Square. The TV series apparently just condensed this so Torrhen's Square was liberated off-screen, and officially the ironborn have no more presence in the North.
+
+In the novels, the liberation of Deepwood Motte is the one time so far that House Forrester has been mentioned in the main narrative - a minor House who serve as vassals to House Glover, who are the main characters in the tie-in video game ''[[Game of Thrones: A Telltale Games Series]]''. After Deepwood Motte is liberated, Lady Sybelle Glover provides Stannis with guides and ''"hunters sworn to Deepwood with clan names like Forrester and Woods, Branch and Bole."''
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{War of the Five Kings}}
+
+<!--Categories-->
+[[Category:303 AC]]
+[[Category:Battles]]
+[[Category:Ironborn invasion of the North]]
+
+<!--Languages-->
+[[de:Schlacht bei Tiefwald Motte]]
+[[fr:Seconde Bataille de Motte-la-Forêt]]
+[[ru:Вторая битва у Темнолесья]]

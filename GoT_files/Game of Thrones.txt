@@ -1,0 +1,710 @@
+{{DISPLAYTITLE:''Game of Thrones''}}
+{{OtherUses|television series|Game of Thrones (disambiguation)}}
+{{Television series
+| Title      = ''{{PAGENAME}}''
+| Type       = Thrones
+| Image      = {{PAGENAME}}.png
+| Format     = Live-action{{Ref|GOT101}}
+| Seasons    = [[Game of Thrones: Season 1|1]] {{*}} [[Game of Thrones: Season 2|2]] {{*}} [[Game of Thrones: Season 3|3]] {{*}} [[Game of Thrones: Season 4|4]] {{*}} [[Game of Thrones: Season 5|5]] {{*}} [[Game of Thrones: Season 6|6]] {{*}} [[Game of Thrones: Season 7|7]] {{*}} [[Game of Thrones: Season 8|8]]{{HBOref|GOT}}
+| Episodes   = 73{{HBOref|GOT}}
+| Premiere   = "[[Winter Is Coming]]"{{HBOref|GOT}}
+| Finale     = "[[The Iron Throne]]"{{HBOref|GOT}}
+| Network    = [[HBO]]{{HBOref|GOT}}
+| First      = April 17, 2011{{Listref|GOT}}
+| Final      = May 19, 2019{{Listref|GOT}}
+| Runtime    = 50{{Ref|GOT704}}-82 minutes{{Ref|GOT803}} {{C|per episode}}
+| Starring   = {{Collapse|[[Sean Bean]]{{Ref|GOT101}}<br>[[Mark Addy]]{{Ref|GOT101}}<br>[[Peter Dinklage]]{{Ref|GOT101}}<br>[[Nikolaj Coster-Waldau]]{{Ref|GOT101}}<br>[[Lena Headey]]{{Ref|GOT101}}<br>[[Emilia Clarke]]{{Ref|GOT101}}<br>[[Kit Harington]]{{Ref|GOT101}}<br>[[Aidan Gillen]]{{Ref|GOT103}}<br>[[Richard Madden]]{{Ref|GOT101}}<br>[[Michelle Fairley]]{{Ref|GOT101}}<br>[[Harry Lloyd]]{{Ref|GOT101}}<br>[[Charles Dance]]{{Ref|GOT204}}<br>[[Natalie Dormer]]{{Ref|GOT203}}<br>[[Stephen Dillane]]{{Ref|GOT201}}<br>[[Sophie Turner]]{{Ref|GOT101}}<br>[[Maisie Williams]]{{Ref|GOT101}}<br>[[Liam Cunningham]]{{Ref|GOT201}}<br>[[Carice van Houten]]{{Ref|GOT201}}<br>[[Nathalie Emmanuel]]{{Ref|GOT501}}<br>[[Indira Varma]]{{Ref|GOT502}}<br>[[Jack Gleeson]]{{Ref|GOT101}}<br>[[Alfie Allen]]{{Ref|GOT101}}<br>[[Joe Dempsie]]{{Ref|GOT302}}<br>[[Isaac Hempstead-Wright]]{{Ref|GOT101}}<br>[[John Bradley]]{{Ref|GOT201}}<br>[[Oona Chaplin]]{{Ref|GOT301}}<br>[[Hannah Murray]]{{Ref|GOT403}}<br>[[James Cosmo]]{{Ref|GOT201}}<br>[[Dean-Charles Chapman]]{{Ref|GOT501}}<br>[[Gwendoline Christie]]{{Ref|GOT401}}<br>[[Conleth Hill]]{{Ref|GOT201}}<br>[[Rory McCann]]{{Ref|GOT101}}<br>[[Michiel Huisman]]{{Ref|GOT501}}<br>[[Jonathan Pryce]]{{Ref|GOT601}}<br>[[Iwan Rheon]]{{Ref|GOT402}}<br>[[Michael McElhatton]]{{Ref|GOT503}}<br>[[Jerome Flynn]]{{Ref|GOT201}}<br>[[Kristofer Hivju]]{{Ref|GOT401}}<br>[[Sibel Kekilli]]{{Ref|GOT201}}<br>[[Rose Leslie]]{{Ref|GOT301}}<br>[[Tom Wlaschiha]]{{Ref|GOT502}}<br>[[Jacob Anderson]]{{Ref|GOT801}}<br>[[Iain Glen]]{{Ref|GOT101}}<br>[[Jason Momoa]] {{C|also starring}}{{Ref|GOT101}}}}
+| Creator    = [[David Benioff]]{{Ref|GOT101}}<br>[[D.B. Weiss]]{{Ref|GOT101}}
+| Producers  = {{Collapse|David Benioff{{Ref|GOT101}}<br>D.B. Weiss{{Ref|GOT101}}<br>[[Carolyn Strauss]]{{Ref|GOT201}}<br>[[Frank Doelger]]{{Ref|GOT201}}<br>[[Bernadette Caulfield]]{{Ref|GOT301}}<br>[[David Nutter]]{{Ref|GOT801}}<br>[[Miguel Sapochnik]]{{Ref|GOT801}}<br><br>'''Co-executive producers'''<br>[[Guymon Casady]]{{Ref|GOT101}}<br>[[Vince Gerardis]]{{Ref|GOT101}}<br>[[Ralph Vicinanza]]{{Ref|GOT101}}<br>[[George R.R. Martin]]{{Ref|GOT101}}<br>[[Vanessa Taylor]]{{Ref|GOT201}}<br>[[Alan Taylor]]{{Ref|GOT201}}<br>[[Bryan Cogman]]{{Ref|GOT701}}}}
+| Writers    = David Benioff{{HBOref|GOT101}}<br>D.B. Weiss{{HBOref|GOT101}}<br>Bryan Cogman{{HBOref|GOT104}}<br>[[Jane Espenson]]{{HBOref|GOT106}}<br>George R.R. Martin{{HBOref|GOT108}}<br>Vanessa Taylor{{HBOref|GOT204}}<br>[[Dave Hill]]{{HBOref|GOT504}}
+| Directors  = {{Collapse|[[Tim Van Patten]]{{HBOref|GOT101}}<br>[[Brian Kirk]]{{HBOref|GOT103}}<br>[[Daniel Minahan]]{{HBOref|GOT106}}<br>Alan Taylor{{HBOref|GOT109}}<br>[[Alik Sakharov]]{{HBOref|GOT203}}<br>[[David Petrarca]]{{HBOref|GOT204}}<br>David Nutter{{HBOref|GOT206}}<br>[[Neil Marshall]]{{HBOref|GOT209}}<br>David Benioff{{HBOref|GOT303}}<br>[[Alex Graves]]{{HBOref|GOT304}}<br>[[Michelle MacLaren]]{{HBOref|GOT307}}<br>D.B. Weiss{{HBOref|GOT401}}<br>[[Michael Slovis]]{{HBOref|GOT501}}<br>[[Mark Mylod]]{{HBOref|GOT503}}<br>[[Jeremy Podeswa]]{{HBOref|GOT505}}<br>Miguel Sapochnik{{HBOref|GOT507}}<br>[[Daniel Sackheim]]{{HBOref|GOT603}}<br>[[Jack Bender]]{{HBOref|GOT605}}<br>[[Matt Shakman]]{{HBOref|GOT704}}}}
+| Composer   = [[Ramin Djawadi]]{{Ref|GOT101}}
+| Production = July 23, 2010{{Cite}}
+| Wrapped    = July 6, 2018{{Cite}}
+| Based      = ''[[A Song of Ice and Fire]]''{{Ref|GOT101}}<br>by George R.R. Martin{{Ref|GOT101}}
+| Year       = [[298 AC|298]]{{Dateref|Game of Thrones: Season 1}}-[[305 AC]]{{Dateref|Game of Thrones: Season 8}}<br>Prior to [[278 AC]]{{Dateref|Maggy}} {{C|Season 5 prologue}}{{Ref|GOT501}}<br>[[281 AC]]{{Dateref|Robert's Rebellion}} {{C|[[Bran Stark|Bran]]'s visions}}{{Ref|GOT603}}
+}}
+{{Quote|When you play the game of thrones, you win or you die.|Cersei Lannister|You Win or You Die}}
+'''''Game of Thrones'''''{{HBOref|GOT}} is the first live-action television series of the ''[[World of Westeros]]''. It is the first installment of the franchise overall. It is based on the novel series ''[[A Song of Ice and Fire]]'', written by [[George R.R. Martin]], who served as a producer, creative consultant and scriptwriter on the television series. [[David Benioff]] and [[D.B. Weiss]] created the television series and served as executive producers, showrunners and the main writers.
+
+The series consists of eight fully transmitted seasons, comprising seventy-three episodes in total.<ref>[http://watchersonthewall.com/game-of-thrones-will-go-at-least-eight-seasons-says-hbo/]</ref>
+
+Production of the series is based in [[wikipedia:Belfast|Belfast]], [[wikipedia:Northern Ireland|Northern Ireland]], mainly at the Paint Hall Studios. It is the largest and most expensive television production ever mounted in Northern Ireland. Filming for the series has also been conducted in [[wikipedia:Malta|Malta]], [[wikipedia:Iceland|Iceland]], [[wikipedia:Croatia|Croatia]], [[wikipedia:Morocco|Morocco]], [[wikipedia:Spain|Spain]], and the [[wikipedia:United States|USA]].
+
+==Premise==
+{{Description|GOT}}
+
+==Overview==
+The series is set in a [[Known world|world]] where the seasons can last for years at a time. The main setting is the continent of [[Westeros]], which was home to [[Seven Kingdoms|seven feuding kingdoms]] until they were [[Aegon's Conquest|united]] by the [[House Targaryen|Targaryen]] family using [[dragon]]s some three centuries ago. The dragons died out and the Targaryen [[Aerys II Targaryen|Mad King]] was unseated in a [[Robert's Rebellion|civil war led]] by Lords [[Robert Baratheon]], [[Eddard Stark]], [[Jon Arryn]]. and [[Hoster Tully]], seventeen years before the series opens. Robert has ruled as [[King of the Andals and the Rhoynar and the First Men|King]] ever since, but when the series opens his rule is increasingly undermined by other factions. At the same time, the only two known surviving Targaryen children, [[Viserys Targaryen (son of Aerys II)|Viserys]] and [[Daenerys Targaryen|Daenerys]], having grown to adulthood in exile on the eastern continent of [[Essos]], are now planning to return to Westeros and retake the [[Iron Throne]], and to this end are seeking military alliances with other factions.
+
+As both civil war and an external invasion threaten Westeros, another danger arises in the lands to the far north, [[Beyond the Wall|beyond]] the vast [[Wall]] that forms the realm's northern border, where [[White Walkers|a supernatural threat]] believed to be mythical seems to be stirring after millennia of sleep. The only defense lies with the [[Night's Watch]], an undermanned, underfunded order of [[Man-at-arms|soldiers]] once held in honor but now used as a dumping ground for criminals and exiles.
+
+==Seasons==
+{| {{Prettytable}}
+! Season
+! Episodes
+! Premiere date
+! Finale date
+|-
+| style="text-align: center;" | [[Game of Thrones: Season 1|1]]{{HBOref|GOT1}}
+| style="text-align: center;" | 10{{HBOref|GOT1}}
+| style="text-align: center;" | April 17, 2011{{Listref|GOT}}
+| style="text-align: center;" | June 29, 2011{{Listref|GOT}}
+|-
+| style="text-align: center;" | [[Game of Thrones: Season 2|2]]{{HBOref|GOT2}}
+| style="text-align: center;" | 10{{HBOref|GOT2}}
+| style="text-align: center;" | April 1, 2012{{Listref|GOT}}
+| style="text-align: center;" | June 3, 2012{{Listref|GOT}}
+|-
+| style="text-align: center;" | [[Game of Thrones: Season 3|3]]{{HBOref|GOT3}}
+| style="text-align: center;" | 10{{HBOref|GOT3}}
+| style="text-align: center;" | March 31, 2013{{Listref|GOT}}
+| style="text-align: center;" | June 9, 2013{{Listref|GOT}}
+|-
+| style="text-align: center;" | [[Game of Thrones: Season 4|4]]{{HBOref|GOT4}}
+| style="text-align: center;" | 10{{HBOref|GOT4}}
+| style="text-align: center;" | April 6, 2014{{Listref|GOT}}
+| style="text-align: center;" | June 15, 2014{{Listref|GOT}}
+|-
+| style="text-align: center;" | [[Game of Thrones: Season 5|5]]{{HBOref|GOT5}}
+| style="text-align: center;" | 10{{HBOref|GOT5}}
+| style="text-align: center;" | April 12, 2015{{Listref|GOT}}
+| style="text-align: center;" | June 14, 2015{{Listref|GOT}}
+|-
+| style="text-align: center;" | [[Game of Thrones: Season 6|6]]{{HBOref|GOT6}}
+| style="text-align: center;" | 10{{HBOref|GOT6}}
+| style="text-align: center;" | April 24, 2016{{Listref|GOT}}
+| style="text-align: center;" | June 26, 2016{{Listref|GOT}}
+|-
+| style="text-align: center;" | [[Game of Thrones: Season 7|7]]{{HBOref|GOT7}}
+| style="text-align: center;" | 7{{HBOref|GOT7}}
+| style="text-align: center;" | July 16, 2017{{Listref|GOT}}
+| style="text-align: center;" | August 27, 2017{{Listref|GOT}}
+|-
+| style="text-align: center;" | [[Game of Thrones: Season 8|8]]{{HBOref|GOT8}}
+| style="text-align: center;" | 6{{HBOref|GOT8}}
+| style="text-align: center;" | April 14, 2019{{Listref|GOT}}
+| style="text-align: center;" | May 19, 2019{{Listref|GOT}}
+|}
+
+==Great Houses==
+Westeros is ruled by nine [[Great House]]s, who in turn command hundreds of [[Noble house|lesser vassal houses]]. Houses [[House Stark|Stark]], [[House Arryn|Arryn]], [[House Tully|Tully]], [[House Greyjoy|Greyjoy]], [[House Lannister|Lannister]], [[House Baratheon|Baratheon]], [[House Tyrell|Tyrell]], [[House Martell|Martell]] and [[House Targaryen|Targaryen]] are the nine original Great Houses. Each of the Great Houses rules a large region and commands significant armies and power in their own right. A list of the Great Houses and some of their more significant vassals follows:
+
+* '''[[House Arryn]]''' of the [[Eyrie]]: rulers of the [[Vale of Arryn]] and [[Warden of the East|Wardens of the East]]. Led by Lord [[Jon Arryn]], whose heir is [[Robin Arryn]].
+** [[House Royce]] of [[Runestone]]: vassals of House Arryn who rule over the lands east of the Eyrie. Led by Lord [[Yohn Royce]].
+* '''[[House Baratheon]]''' of [[Storm's End]]: rulers of the [[Stormlands]] and now the [[House Baratheon of King's Landing|royal house]] of the [[Seven Kingdoms]]. Led by King [[Robert Baratheon|Robert I Baratheon]], whose heir is [[Joffrey Baratheon]].
+* '''[[House Greyjoy]]''' of [[Pyke]]: rulers of the [[Iron Islands]] off the western coast of Westeros. Led by Lord [[Balon Greyjoy]], whose heir is [[Theon Greyjoy]].
+* '''[[House Lannister]]''' of [[Casterly Rock]]: rulers of the [[Westerlands]] and [[Warden of the West|Wardens of the West]]. Led by Lord [[Tywin Lannister]], whose heir is [[Tyrion Lannister]].
+** [[House Clegane]] of [[Clegane's Keep]]: a House of landed knights in the service of the Lannisters. Led by Ser [[Gregor Clegane]], also known as the Mountain and Tywin Lannister's Mad Dog.
+* '''[[House Martell]] '''of [[Sunspear]]: rulers of [[Dorne]], the southeastern peninsula of Westeros. Led by Prince [[Doran Martell]], whose heir is [[Trystane Martell]].
+** [[House Dayne]] of [[Starfall]]: vassals of the Martells who rule over the lands in the western Red Mountains surrounding the mouth of the Torentine river.
+* '''[[House Stark]]''' of [[Winterfell]]: rulers of the [[North]], the largest region of the continent. Led by Lord [[Eddard Stark]], whose heir is [[Robb Stark]].
+** [[House Bolton]] of the [[Dreadfort]]: vassals of the Starks who rule over the eastern lands of the North. Led by Lord [[Roose Bolton]].
+** [[House Umber]] of the [[Last Hearth]]: vassals of the Starks who rule over the lands between Winterfell and the Wall. Led by Lord [[Greatjon Umber]], whose heir is [[Smalljon Umber]].
+** [[House Karstark]] of [[Karhold]]: vassals of the Starks who rule over the north-eastern lands of the North. Led by Lord [[Rickard Karstark]], whose heir is [[Harrion Karstark]].
+** [[House Mormont]] of [[Bear Island]]: vassals of the Starks who rule over Bear Island, which is north west of Winterfell. Led by Lady [[Maege Mormont]], whose heir is [[Lyanna Mormont]].
+** [[House Manderly]] of [[White Harbor]]: vassals of the Starks who rule over White Harbor, the only city in the North. Led by Lord [[Wyman Manderly]], whose heir is [[Wendel Manderly]].
+** [[House Glover]] of [[Deepwood Motte]]: vassals of the Starks who rule over Deepwood Motte, which is located in the [[Wolfswood]] north west of Winterfell. Led by Lord [[Galbart Glover]], whose heir is [[Robett Glover]].
+** [[House Hornwood]] of [[Hornwood]]: vassals of the Starks who rule over Hornwood, which is located in forested lands southeast of Winterfell.
+** [[House Mazin]]: vassals of the Starks who rule over lands in the North whose location is unclear.
+* '''[[House Targaryen]]''': the royal house of the [[Seven Kingdoms]] from [[Aegon's Conquest]] until [[Robert's Rebellion]], where all its members were killed or exiled. Led in exile by [[Viserys Targaryen (son of Aerys II)|Viserys Targaryen]], whose heir is [[Daenerys Targaryen]].
+* '''[[House Tully]]''' of [[Riverrun]]: rulers of the [[Riverlands]], the well-traveled central region of the continent. Led by Lord [[Hoster Tully]], whose heir is Ser [[Edmure Tully]].
+** [[House Bracken]] of [[Stone Hedge]]: vassals of the Tullys who rule the lands south of the Red Fork of the Trident river. Led by Lord [[Jonos Bracken]].
+** [[House Frey]] of the [[Twins]]: vassals of the Tullys who hold the crossing at the Green Fork of the Trident river. Led by Lord [[Walder Frey]], whose heir is [[Stevron Frey]].
+* '''[[House Tyrell]] '''of [[Highgarden]]: rulers of the [[Reach]] and [[Warden of the South|Wardens of the South]]. Led by Lord [[Mace Tyrell]], whose heir is Ser [[Loras Tyrell]].
+** [[House Florent]] of [[Brightwater Keep]]: vassals of the Tyrells who rule the lands around the source of the Honeywine river. Led by Lord [[Axell Florent]].
+** [[House Hightower]] of [[Oldtown]]: vassals of the Tyrells who rule the city of Oldtown on the mouth of the Honeywine river.
+** [[House Tarly]] of [[Horn Hill]]: vassals of the Tyrells who rule the lands southeast of Highgarden. Led by Lord [[Randyll Tarly]], whose heir is [[Dickon Tarly]].
+
+==Cast==
+{{Main|Starring cast (Game of Thrones)}}
+
+===House Stark===
+{{Main|House Stark}}
+* [[Sean Bean]] as Lord [[Eddard Stark]], Lord of [[Winterfell]].
+* [[Michelle Fairley]] as Lady [[Catelyn Stark]], originally of [[House Tully]].
+* [[Richard Madden]] as [[Robb Stark]], Eddard's eldest son and heir.
+* [[Sophie Turner]] as [[Sansa Stark]], Eddard's eldest daughter.
+* [[Maisie Williams]] as [[Arya Stark]], Eddard's youngest daughter.
+* [[Isaac Hempstead-Wright]] as [[Bran Stark]], Eddard's middle son.
+* [[Art Parkinson]] as [[Rickon Stark]], Eddard's youngest son.
+* [[Kit Harington]] as [[Jon Snow]], Eddard's bastard son by an unknown mother.
+* [[Joseph Mawle]] as [[Benjen Stark]], Eddard's younger brother, [[First Ranger]] of the [[Night's Watch]].
+
+====Retainers at Winterfell====
+* [[Alfie Allen]] as [[Theon Greyjoy]], a ward and hostage for his rebellious [[Balon Greyjoy|father]]'s good behavior.
+* [[Ron Donachie]] as Ser [[Rodrik Cassel]], master of arms.
+* [[Jamie Sives]] as [[Jory Cassel]], Rodrik's nephew, captain of the guards.
+* [[Donald Sumpter]] as Maester [[Luwin]], a [[Order of Maesters|maester]] of the Citadel.
+* [[Kristian Nairn]] as [[Hodor]], a simple stableboy.
+* [[Margaret John]] as [[Old Nan]], a retired servant and Hodor's great-grandmother.
+* [[Susan Brown]] as Septa [[Mordane]], a religious tutor and governess to Arya and Sansa.
+* [[Esmé Bianco]] as [[Ros]], a prostitute working in Winterfell's outlying town.
+
+====Vassals and allies of House Stark====
+* [[Clive Mantle]] as Lord [[Greatjon Umber]], Lord of [[Last Hearth]], a loyal vassal of House Stark.
+* [[Dean S. Jagger]] as [[Smalljon Umber]], Greatjon Umber's son and heir.
+* [[Harry Grasby]] as [[Ned Umber]], Smalljon Umber's son.
+* [[John Stahl]] as Lord [[Rickard Karstark]], Lord of [[Karhold]], a vassal and distant kinsman of House Stark.
+* [[Paul Rattray]] as [[Harald Karstark]], Lord Rickard's son.
+* [[Megan Parkinson]] as [[Alys Karstark]], Harald Karstark's daughter.
+* [[Bella Ramsey]] as Lady [[Lyanna Mormont]], Lady of [[Bear Island]].
+* [[Tim McInnerny]] as Lord [[Robett Glover]], the Master of [[Deepwood Motte]].
+* [[Tom Varey]] as Lord [[Cley Cerwyn]], the heir to House Cerwyn.
+* [[Sean Blowers]] as Lord [[Wyman Manderly]], Lord of [[White Harbor]], a powerful and loyal vassal of House Stark.
+* [[Thomas Brodie-Sangster]] as [[Jojen Reed]], the son and heir of Lord [[Howland Reed]], one of Eddard Stark's closest friends and allies.
+* [[Ellie Kendrick]] as [[Meera Reed]], Jojen's older sister.
+
+====House Bolton and retainers====
+{{Main|House Bolton}}
+* [[Michael McElhatton]] as Lord [[Roose Bolton]], Lord of the [[Dreadfort]], a vassal of Eddard Stark.
+* [[Iwan Rheon]] as [[Ramsay Bolton|Ramsay Snow]], Lord Roose's bastard son.
+* [[Noah Taylor]] as [[Locke]], a vassal and hunter in Lord Bolton's service.
+* [[Charlotte Hope]] as [[Myranda]], the kennel master's daughter at the Dreadfort, and Ramsay's bedwarmer.
+* [[Richard Rycroft]] as Maester [[Wolkan]], a maester in service to House Bolton.
+* [[Jamie Michie]] as [[Steelshanks]], a man-at-arms in service to House Bolton.
+
+===House Lannister===
+{{Main|House Lannister}}
+* [[Charles Dance]] as Lord [[Tywin Lannister]], the widowed patriarch of House Lannister and father of Cersei, Jaime and Tyrion.
+* [[Lena Headey]] as Queen [[Cersei Lannister]], the wife of King Robert, twin sister of Jaime, mother of Joffrey, Myrcella and Tommen.
+* [[Nikolaj Coster-Waldau]] as Ser [[Jaime Lannister]], a [[Knighthood|knight]] of the [[Kingsguard]], twin brother of Cersei.
+* [[Peter Dinklage]] as [[Tyrion Lannister]], Cersei and Jaime's younger brother, called the Imp for his size.
+* [[Ian Gelder]] as Ser [[Kevan Lannister]], Lord Tywin's younger brother and closest adviser.
+* [[Eugene Simon]] as [[Lancel Lannister]], Ser Kevan's son, a squire to King Robert.
+* [[Karl Davies]] as [[Alton Lannister]], a distant cousin of the main branch of the family.
+
+====Vassals and allies of House Lannister====
+* [[Daniel Portman]] as [[Podrick Payne]], a squire, a member of one of the Lannisters' vassal families.
+* [[Fintan McKeown]] as Ser [[Amory Lorch]], a loyal vassal and retainer of House Lannister.
+* [[Rory McCann]] as [[Sandor Clegane]], Prince Joffrey's bodyguard and sworn sword, long in the service of House Lannister. Known as "the Hound."
+* [[Conan Stevens]] (Season 1)/[[Ian Whyte]] (Season 2)/[[Hafþór Júlíus Björnsson]] (Seasons 4-8) as Ser [[Gregor Clegane]], Sandor Clegane's older brother and the most feared knight in Westeros, called "the Mountain" because of his massive size.
+* [[Anthony Morris]] as the [[Tickler]], a noted interrogator and torturer in the service of Ser Gregor Clegane.
+* [[Andy Kellegher]] as [[Polliver]], a master-at-arms in the service of Ser Gregor Clegane.
+
+===House Baratheon===
+{{Main|House Baratheon}}
+* [[Mark Addy]] as King [[Robert Baratheon]], the King of the Andals and the First Men.
+* [[Jack Gleeson]] as Prince [[Joffrey Baratheon]], King Robert's eldest son and heir.
+* [[Aimee Richardson]] (Seasons 1-2)/[[Nell Tiger Free]] (Season 5) as [[Myrcella Baratheon]], King Robert's eldest daughter.
+* [[Callum Wharry]] (Seasons 1-2)/[[Dean-Charles Chapman]] (Seasons 4-6) as [[Tommen Baratheon]], King Robert's youngest son.
+* [[Gethin Anthony]] as Lord [[Renly Baratheon]], King Robert's youngest brother, Lord of [[Storm's End]].
+* [[Stephen Dillane]] as Lord [[Stannis Baratheon]], King Robert's middle brother, Lord of [[Dragonstone]].
+* [[Tara Fitzgerald]] as Lady [[Selyse Baratheon]], Lord Stannis's wife, originally of [[House Florent]].
+* [[Kerry Ingram]] as [[Shireen Baratheon]], Lord Stannis's daughter and only child.
+
+====Vassals and allies of House Baratheon====
+* [[Carice van Houten]] as [[Melisandre]], Lord Stannis's adviser, a red priestess.
+* [[Liam Cunningham]] as Ser [[Davos Seaworth]], a former smuggler, now Lord Stannis' most loyal vassal.
+* [[Kerr Logan]] as [[Matthos Seaworth]], Ser Davos's son and Lord Stannis' squire.
+* [[Oliver Ford Davies]] as Maester [[Cressen]], Lord Stannis's maester.
+* [[Lucian Msamati]] as [[Salladhor Saan]], a freesail in Stannis's employ.
+* [[Gwendoline Christie]] as [[Brienne of Tarth]], a fierce warrior from the Stormlands.
+
+===House Arryn and retainers===
+{{Main|House Arryn}}
+* [[Kate Dickie]] as Lady [[Lysa Arryn]], originally of [[House Tully]], Catelyn Stark's sister.
+* [[Lino Facioli]] as [[Robin Arryn]], Lord Jon's only surviving son and heir.
+* [[Brendan McCormack]] as Ser [[Vardis Egen]], the captain of the Eyrie's household guards.
+* [[Ciaran Bermingham]] as [[Mord]], the Eyrie's chief gaoler.
+* [[Jefferson Hall]] as Ser [[Hugh of the Vale]], Lord Jon's former squire.
+* [[Rupert Vansittart]] as Lord [[Yohn Royce]], one of the Arryns' most stalwart vassals and supporters.
+* [[Paola Dionisotti]] as Lady [[Anya Waynwood]], one of the Arryns' vassals.
+* [[Richard Doubleday]] as Ser [[Vance Corbray]], a knight of [[House Corbray]].
+* [[Alisdair Simpson]] as Ser [[Donnel Waynwood]], a knight of [[House Waynwood]].
+
+===House Tyrell===
+{{Main|House Tyrell}}
+* [[Roger Ashton-Griffiths]] as Lord [[Mace Tyrell]], Lord of [[Highgarden]] and the [[Reach]]. Son of Olenna and the father of Loras and Margaery.
+* [[Finn Jones]] as Ser [[Loras Tyrell]], Lord Renly Baratheon's former squire and a famous tourney knight.
+* [[Natalie Dormer]] as [[Margaery Tyrell]], Loras's sister.
+* Dame [[Diana Rigg]] as [[Olenna Tyrell]], nicknamed the Queen of Thorns, the matriarch of the Tyrell family.
+
+====Vassals and allies of House Tyrell====
+* [[James Faulkner]] as Lord [[Randyll Tarly]], Lord of [[Horn Hill]], one of the Tyrells' vassals, and father of [[Samwell Tarly]].
+* [[Samantha Spiro]] as Lady [[Melessa Tarly]], Randyll's wife.
+* [[John Bradley]] as [[Samwell Tarly]], Randyll's eldest son who was forced to disinherit.
+* [[Freddie Stroma]] (Season 6)/[[Tom Hopper]] (Season 7) as [[Dickon Tarly]], Randyll's youngest son and heir.
+* [[Rebecca Benson]] as [[Talla Tarly]], Randyll's daughter.
+
+===House Greyjoy and retainers===
+{{Main|House Greyjoy}}
+* [[Patrick Malahide]] as Lord [[Balon Greyjoy]], Lord of [[Pyke]], father of Theon Greyjoy.
+* [[Gemma Whelan]] as [[Yara Greyjoy]], the only daughter of Lord Balon.
+* [[Pilou Asbæk]] as [[Euron Greyjoy]], a younger brother of Lord Balon.
+* [[Michael Feast]] as [[Aeron Greyjoy]], nicknamed "Damphair," a younger brother of Lord Balon.
+* [[Forbes KB]] as [[Black Lorren]], a noted raider and reaver in the service of House Greyjoy.
+* [[Ralph Ineson]] as [[Dagmer]], a noted raider, reaver and ship captain in the service of House Greyjoy.
+* [[Grahame Fox]] as [[Ralf Kenning]], an ironborn commander.
+
+===House Tully and retainers===
+{{Main|House Tully}}
+* [[Tobias Menzies]] as Ser [[Edmure Tully]], the son and heir of the ailing Lord [[Hoster Tully]] and the brother of Lady [[Catelyn Stark]] and Lady [[Lysa Arryn]].
+* [[Clive Russell]] as Ser [[Brynden Tully]], Lord Hoster's younger brother, a famous knight known as "the Blackfish" for his strained relationship with his brother.
+
+====House Frey and retainers====
+{{Main|House Frey}}
+* [[David Bradley]] as Lord [[Walder Frey]], Lord of the [[Twins]], an old and prickly vassal of House Tully, past ninety years of age.
+* [[Kelly Long]] as [[Joyeuse Frey]], Walder Frey's eigth wife.
+* [[Tim Plester]] as [[Walder Rivers|"Black Walder" Frey]], a bastard son of Walder Frey and a noted warrior with a hot temper.
+* [[Tom Brooke]] (Season 3)/[[Daniel Tuite]] (Season 6) as [[Lothar Frey|"Lame Lothar" Frey]], a son of Walder Frey, nicknamed after the limp he has in his left leg.
+* [[Alexandra Dowling]] as [[Roslin Tully|Roslin Frey]], one of Lord Frey's youngest daughters.
+* [[Elizabeth Webster]] as [[Walda Bolton|Walda Frey]], one of Lord Frey's granddaughters, recently married to [[Roose Bolton]].
+* [[Lucy Hayes]] as [[Kitty Frey]], Walder Frey's ninth wife.
+
+===House Martell and retainers===
+{{Main|House Martell}}
+* [[Alexander Siddig]] as Prince [[Doran Martell]], the ruling Prince of Dorne, who is heavily suffering from gout and confined to a wheelchair.
+* [[Toby Sebastian]] as Prince [[Trystane Martell]], Prince Doran’s son and heir to Dorne.
+* [[Pedro Pascal]] as Prince [[Oberyn Martell]], popularly known as the Red Viper. Younger brother of the ruling Prince Doran Martell of [[Dorne]].
+* [[Indira Varma]] as [[Ellaria Sand]], Oberyn's [[paramour]] and mother to several of his children, the [[Sand Snakes]].
+* [[Keisha Castle-Hughes]] as [[Obara Sand]], a fearsome warrior and the eldest bastard daughter of Prince Oberyn. 
+* [[Jessica Henwick]] as [[Nymeria Sand]], the second eldest of Prince Oberyn’s bastard daughters. 
+* [[Rosabell Laurenti Sellers]] as [[Tyene Sand]], the daughter of Prince Oberyn by Ellaria Sand, his paramour. 
+* [[DeObia Oparei]] as [[Areo Hotah]], the long-serving captain of Doran Martell’s palace guard, renowned for his loyalty and his longaxe.
+* [[Colin Azzopardi]] as Maester [[Caleotte]], the [[Order of Maesters|maester]] at [[Sunspear]].
+
+===In the Riverlands and the Vale===
+{{Main|Riverlands}}
+* [[Jerome Flynn]] as [[Bronn]], a sellsword met at the Crossroads Inn.
+* [[Emun Elliott]] as [[Marillion]], a singer and troubadour met at the Crossroads Inn.
+* [[Sibel Kekilli]] as [[Shae]], a camp-follower and prostitute attached to the Lannister army.
+* [[Mark Lewis Jones]] as [[Shagga]], a warrior clan chief from the [[Mountains of the Moon]].
+* [[Oona Chaplin]] as [[Talisa Stark|Talisa Maegyr]], a battlefield nurse originally from [[Volantis]].
+* [[Paul Kaye]] as [[Thoros]] of [[Myr]], a red priest, warrior, famed drinker and friend of King Robert.
+* [[Philip McGinley]] as [[Anguy]], an exceptionally-skilled archer of the [[Brotherhood Without Banners]].
+* [[Anton Lesser]] as [[Qyburn]], a disgraced maester.
+* [[Ian McShane]] as Brother [[Ray]], a former mercenary who now serves the faith.
+* [[Jóhannes Haukur Jóhannesson]] as [[Lem]], a member of the [[Brotherhood Without Banners]].
+
+===In King's Landing===
+* [[Aidan Gillen]] as Lord [[Petyr Baelish]], the [[Master of Coin]] on the king's [[Small Council]], also known as "Littlefinger" for his birthplace.
+* [[Julian Glover]] as Grand Maester [[Pycelle]], the master of wisdom on the king's Small Council.
+* [[Conleth Hill]] as [[Varys]], a [[eunuch]] and the [[Master of Whisperers]] on the king's Small Council, also known as "the Spider" for his reputation.
+* [[Jonathan Pryce]] as the [[High Sparrow]], the leader of the religious movement known as the [[Sparrows]].
+* [[Ian McElhinney]] as Lord Commander [[Barristan Selmy]], the head of the Kingsguard.
+* [[Ian Beattie]] as Ser [[Meryn Trant]], a knight of the Kingsguard.
+* [[Wilko Johnson]] as Ser [[Ilyn Payne]], the king's headsman and executioner.
+* [[Richard Dormer]] as Lord [[Beric Dondarrion]], a young lord and popular tourney knight.
+* [[Dominic Carter]] as Commander [[Janos Slynt]], the commander of the [[City Watch of King's Landing]].
+* [[Miltos Yerolemou]] as [[Syrio Forel]], a master swordsman from [[Braavos]].
+* [[Andrew Wilde]] as [[Tobho Mott]], a master armorer and smith.
+* [[Joe Dempsie]] as [[Gendry Baratheon|Gendry]], Mott's apprentice who is secretly a [[bastard]] of King Robert.
+* [[Will Tudor]] as [[Olyvar]], a male prostitute and spy.
+* [[Sahara Knite]] as [[Armeca]], a female prostitute.
+* [[Josephine Gillan]] as [[Marei]], a female prostitute.
+* [[Elizabeth Cadwallader]] as [[Lollys Stokeworth]], a simple-minded noblewoman.
+* [[Eros Vlahos]] as [[Lommy|Lommy Greenhands]], a dyer's apprentice.
+* [[Ben Hawkey]] as [[Hot Pie]], a baker's apprentice.
+* [[Andy Beckwith]] as [[Rorge]], a street criminal imprisoned in the [[Red Keep]].
+* [[Gerard Jordan]] as [[Biter]], a street criminal imprisoned in the Red Keep.
+* [[Tom Wlaschiha]] as [[Jaqen H'ghar]], a prisoner in the Red Keep.
+* [[Roy Dotrice]] as Wisdom [[Hallyne]], the head of the [[Alchemists' Guild]].
+* [[Paul Bentley]] as the [[High Septon (Joffrey)|High Septon]], the head of the [[Faith of the Seven]].
+* [[Hannah Waddingham]] as Septa [[Unella]], a devoted follower of the High Sparrow.
+* [[Tony Way]] as Ser [[Dontos Hollard]], a knight in service to the crown.
+* [[Sara Dylan]] as [[Bernadette]], a handmaiden of House Lannister.
+
+===In Oldtown===
+* [[Jim Broadbent]] as [[Archmaester]] [[Ebrose]], one of the governing members of the Citadel.
+
+===In the Night's Watch===
+{{Main|Night's Watch}}
+* [[James Cosmo]] as Lord Commander [[Jeor Mormont]], commander of the Night's Watch.
+* [[Owen Teale]] as Ser [[Alliser Thorne]], in charge of training new recruits.
+* [[Peter Vaughan]] as Maester [[Aemon]], Lord Mormont's closest adviser.
+* [[Michael Condron]] as [[Bowen Marsh]], the First Steward of the Watch.
+* [[Brian Fortune]] as [[Othell Yarwyck]], the First Builder of the Watch.
+* [[Francis Magee]] as [[Yoren]], a recruiter for the Watch.
+* [[Josef Altin]] as [[Pypar]], a fresh recruit to the Watch, a former actor.
+* [[Mark Stanley]] as [[Grenn]], a fresh recruit to the Watch.
+* [[Luke Barnes]] as [[Rast]], a fresh recruit to the Watch, arrested for rape.
+* [[Ben Crompton]] as [[Eddison Tollett]], a squire, noted for his pessimistic sense of humor.
+* [[Simon Armstrong]] as [[Qhorin]], one of the Watch's most respected rangers.
+* [[J.J. Murphy]] as Ser [[Denys Mallister]], a veteran member of the Watch.
+* [[Burn Gorman]] as [[Karl Tanner]], a ranger and former assassin from King's Landing.
+* [[Brenock O'Connor]] as [[Olly]], a young boy from the [[Gift]].
+
+===Beyond the Wall===
+* [[Natalia Tena]] as [[Osha]], a wildling warrior-woman.
+* [[Robert Pugh]] as [[Craster]], a wildling whose keep provides a safehaven for rangers of the Watch.
+* [[Hannah Murray]] as [[Gilly]], one of Craster's daughters.
+* [[Rose Leslie]] as [[Ygritte]], a wildling warrior-woman in the service of [[Mance Rayder]].
+* [[Edward Dogliani]] (Seasons 2-3)/[[Ross O'Hennessy]] (Season 5) as the [[Lord of Bones]], a famed wildling warrior.
+* [[Mackenzie Crook]] as [[Orell]], a sinister wildling with unnatural powers.
+* [[Kristofer Hivju]] as [[Tormund]], a charismatic wildling leader.
+* [[Ciarán Hinds]] as [[Mance Rayder]], the [[King-Beyond-the-Wall]], the leader of all the wildlings by acclamation.
+* [[Yuri Kolokolnikov]] as [[Styr]], the Magnar of [[Thenns|Thenn]].
+* [[Neil Fingleton]] as [[Mag Mar Tun Doh Weg]], a Giant.
+* [[Struan Rodger]] (Season 4)/[[Max von Sydow]] (Season 6) as [[Brynden Rivers]], the [[Three-Eyed Raven]].
+* [[Octavia Alexandru]] (Season 4)/[[Kae Alexander]] (Season 6) as [[Leaf]], a child of the forest.
+* [[Richard Brake]] (Seasons 4-5)/[[Vladimír Furdík]] (Seasons 6-8) as the [[Night King]], the leader of the White Walkers.
+* [[Ian Whyte]] as [[Wun Weg Wun Dar Wun]], a Giant.
+* [[Birgitte Hjort Sørensen]] as [[Karsi]], a Wildling leader.
+* [[Zahary Baharov]] as [[Loboda]], a [[Thenns|Thenn]].
+* [[Murray McArthur]] as [[Dim Dalba]], a Wildling elder.
+
+===In Vaes Dothrak===
+* [[Jason Momoa]] as ''[[Khal]]'' [[Drogo]], the leading warlord of the [[Dothraki]].
+* [[Dar Salim]] as [[Qotho]], one of Drogo's bloodriders.
+* [[Elyes Gabel]] as [[Rakharo]], a Dothraki warrior in Daenerys's service as a bodyguard.
+* [[Steven Cole]] as [[Kovarro]], a Dothraki warrior.
+* [[Amrita Acharia]] as [[Irri]], a handmaiden gifted to Daenerys.
+* [[Roxanne McKee]] as [[Doreah]], a servant and adviser gifted to Daenerys.
+* [[Ivailo Dimitrov]] as [[Mago]], a Dothraki warrior.
+* [[Joe Naufahu]] as ''Khal'' [[Moro]], a warlord of the Dothraki.
+* [[Souad Faress]] as the [[High Priestess (Oathbreaker)|High Priestess]], the leader of the ''[[Dosh Khaleen]]''.
+* [[Hannah John-Kamen]] as [[Ornela]], a member of the ''Dosh Khaleen''.
+* [[Staz Nair]] as [[Qhono]], a Dothraki warrior.
+
+===In the Free Cities===
+* [[Harry Lloyd]] as [[Viserys Targaryen (son of Aerys II)|Viserys Targaryen]], an exiled [[House Targaryen|Targaryen]] claimant to the [[Iron Throne]].
+* [[Emilia Clarke]] as [[Daenerys Targaryen]], claimant to the Iron Throne.
+* [[Iain Glen]] as Ser [[Jorah Mormont]], a knight of Westeros, exiled by Lord Eddard Stark.
+* [[Roger Allam]] as [[Illyrio Mopatis]], a magister of the [[Free Cities|Free City]] of [[Pentos]].
+* [[Mia Soteriou]] as [[Mirri Maz Duur]], a healer of the [[Lhazareen]] people.
+* [[Mark Gatiss]] as [[Tycho Nestoris]], a representative of the [[Iron Bank of Braavos]].
+* [[Gary Oliver]] as [[Ternesio Terys]], a trader from [[Braavos]].
+* [[Faye Marsay]] as the [[Waif]], an acolyte of the [[Faceless Men]].
+* [[Richard E. Grant]] as [[Izembaro]], leader of a Braavosi theater troupe.
+* [[Essie Davis]] as [[Lady Crane]], the leading actress in Izembaro's theater troupe.
+* [[Marc Rissmann]] as [[Harry Strickland]], the commander of the [[Golden Company]].
+
+===In Qarth===
+* [[Nonso Anozie]] as [[Xaro Xhoan Daxos]], a merchant lord of [[Qarth]].
+* [[Ian Hanmore]] as [[Pyat Pree]], a warlock of Qarth.
+* [[Laura Pradelska]] as [[Quaithe]], a priestess of the [[Shadow Lands]] resident in Qarth.
+* [[Nicholas Blane]] as the [[Spice King]], the leader of the spice merchants of Qarth.
+
+===In Slaver's Bay===
+* [[Nathalie Emmanuel]] as [[Missandei]], a slave and translator working in the city of [[Astapor]].
+* [[Jacob Anderson]] as [[Grey Worm]], a warrior-eunuch of the [[Unsullied]].
+* [[Dan Hildebrand]] as [[Kraznys mo Nakloz]], a slave-trader and immensely rich merchant in [[Astapor]].
+* [[Clifford Barry]] as [[Greizhen mo Ullhor]], one of the [[Good Masters]] of [[Astapor]].
+* [[George Georgiou]] as [[Razdal mo Eraz]], a slave-trader and one of the Wise Masters of [[Yunkai]].
+* [[Ed Skrein]] (Season 3)/[[Michiel Huisman]] (Seasons 4-6) as [[Daario Naharis]], a charismatic mercenary.
+* [[Mark Killeen]] as [[Mero]], a mercenary commander from [[Braavos]] nicknamed "The Titan's Bastard."
+* [[Ramon Tikaram]] as [[Prendahl na Ghezn]], a mercenary commander.
+* [[Joel Fry]] as [[Hizdahr zo Loraq]], a master of Meereen.
+* [[Reece Noi]] as [[Mossador]], a slave in Meereen.
+* [[Adewale Akinnuoye-Agbaje]] as [[Malko]], a pirate.
+* [[Enzo Cilenti]] as [[Yezzan zo Qaggaz]], an extremely wealthy slave-trader in Meereen.
+* [[Meena Rayann]] as [[Vala]], a female prostitute and an associate of the [[Sons of the Harpy]].
+* [[Gerald Lepkowski]] as [[Zanrush]], a [[red priest]] based in Meereen.
+* [[Ania Bukstein]] as [[Kinvara]], the [[High Priest (Lord of Light)|High Priestess]] of the [[Red Temple]] of [[Volantis]].
+
+===In Bran's visions===
+* [[Robert Aramayo]] and [[Sebastian Croft]] as [[Eddard Stark]].
+* [[Aisling Franciosi]] and [[Cordelia Hill]] as [[Lyanna Stark]].
+* [[Wilf Scolding]] as Prince [[Rhaegar Targaryen]].
+* [[David Rintoul]] as King [[Aerys II Targaryen]], commonly called "the Mad King."
+* [[Matteo Elezi]] as [[Benjen Stark]].
+* [[Luke Roberts]] as Ser [[Arthur Dayne]], the Sword of the Morning.
+* [[Eddie Eyre]] as Ser [[Gerold Hightower]], Lord Commander of [[Aerys II Targaryen]]'s Kingsguard.
+* [[Leo Woodruff]] as Lord [[Howland Reed]], the father of Meera and Jojen Reed.
+* [[Sam Coleman]] as [[Hodor]], who was known as a boy called Wylis.
+* [[Annette Tierney]] as [[Old Nan]].
+* [[Fergus Leathem]] as [[Rodrik Cassel]].
+* [[Wayne Foskett]] as Lord [[Rickard Stark]], the father of Brandon, Eddard, Lyanna and Benjen Stark.
+
+==Crew==
+===Producers and staff===
+* [[David Benioff]]: co-creator, showrunner, executive producer
+* [[D.B. Weiss]]: co-creator, showrunner, executive producer
+* [[George R.R. Martin]]: co-executive producer
+* [[Frank Doelger]]: executive producer
+* [[Carolyn Strauss]]: executive producer
+* [[Bernadette Caulfield]]: executive producer
+* [[David Nutter]]: executive producer {{C|Season 8}}
+* [[Miguel Sapochnik]]: executive producer {{C|Season 8}}
+* [[Guymon Casady]]: co-executive producer
+* [[Vince Gerardis]]: co-executive producer
+* [[Bryan Cogman]]: co-executive producer {{C|Seasons 4-8}}
+* [[Christopher Newman|Chris Newman]]: producer {{C|Seasons 3-8}}
+* [[Greg Spence]]: producer {{C|Seasons 3-8}}
+* [[Lisa McAtackney]]: producer {{C|Seasons 5-8}}
+* [[Duncan Muggoch]]: producer {{C|Season 8}}
+* [[Michele Clapton]]: costume designer
+* [[Deborah Riley]]: production designer {{C|Seasons 4-8}}
+* [[Ramin Djawadi]]: composer
+* [[Nina Gold]]: casting director
+* [[Robert Sterne]]: casting director
+
+====Former producers and staff====
+* [[Vanessa Taylor]]: co-executive producer {{C|Seasons 2-3}}
+* [[Alan Taylor]]: co-executive producer {{C|Season 2}}
+* [[Ralph Vicinanza]]: co-executive producer {{C|Season 1}}
+* [[Mark Huffam]]: producer {{C|Season 1}}
+* [[April Ferry]]: costume designer {{C|Season 6}}
+* [[Gemma Jackson]]: production designer {{C|Seasons 1-3}}
+
+===Writers===
+* [[David Benioff]] and [[D.B. Weiss]]: episodes [[Winter Is Coming|1]], [[The Kingsroad|2]], [[Lord Snow|3]], [[The Wolf and the Lion|5]], [[You Win or You Die|7]], [[Baelor|9]], [[Fire and Blood|10]], [[The North Remembers|11]], [[The Night Lands|12]], [[The Ghost of Harrenhal|15]], [[A Man Without Honor|17]], [[The Prince of Winterfell|18]], [[Valar Morghulis|20]], [[Valar Dohaeris|21]], [[Walk of Punishment (episode)|23]], [[And Now His Watch Is Ended|24]], [[The Climb|26]], [[Second Sons (episode)|28]], [[The Rains of Castamere (episode)|29]], [[Mhysa|30]], [[Two Swords|31]], [[Breaker of Chains|33]], [[First of His Name|35]], [[Mockingbird|37]], [[The Mountain and the Viper|38]], [[The Watchers on the Wall|39]], [[The Children|40]], [[The Wars To Come|41]], [[The House of Black and White|42]], [[High Sparrow (episode)|43]], [[The Gift|47]], [[Hardhome (episode)|48]], [[The Dance of Dragons (episode)|49]], [[Mother's Mercy|50]], [[The Red Woman|51]], [[Oathbreaker|53]], [[Book of the Stranger|54]], [[The Door|55]], [[No One|58]], [[Battle of the Bastards|59]], [[The Winds of Winter|60]], [[Dragonstone (episode)|61]], [[The Queen's Justice|63]], [[The Spoils of War|64]], [[Beyond the Wall (episode)|66]], [[The Dragon and the Wolf|67]], [[The Long Night|70]], [[The Last of the Starks|71]], [[The Bells|72]], and [[The Iron Throne|73]]
+* [[Bryan Cogman]]: episodes [[Cripples, Bastards, and Broken Things|4]], [[What Is Dead May Never Die|13]], [[Kissed by Fire|25]], [[Oathkeeper (episode)|34]], [[The Laws of Gods and Men|36]], [[Kill the Boy|45]], [[Unbowed, Unbent, Unbroken|46]], [[Blood of My Blood|56]], [[The Broken Man|57]], [[Stormborn|62]], and [[A Knight of the Seven Kingdoms (Game of Thrones)|69]]
+* [[Jane Espenson]]: [[A Golden Crown|episode 6]]
+* [[George R.R. Martin]]: episodes [[The Pointy End|8]], [[Blackwater|19]], [[The Bear and the Maiden Fair (episode)|27]], and [[The Lion and the Rose|32]]
+* [[Vanessa Taylor]]: episodes [[Garden of Bones (episode)|14]], [[The Old Gods and the New|16]], and [[Dark Wings, Dark Words|22]]
+* [[Dave Hill]]: episodes [[Sons of the Harpy|44]], [[Home|52]], [[Eastwatch|65]], and [[Winterfell (Game of Thrones)|68]]
+
+In an interview with ''New York Observer'' just before Season 5 began, Bryan Cogman explained the writing process for the TV series:
+
+:"It’s varied from season to season as we figured out how this thing works. But it’s basically run the same way the past few years. As we’re shooting one season we’re trading emails and/or chatting on set about the broad strokes of the next season: ”Character X” starts at “blank” and we want him or her to end up at “blank.” Then, as we start to approach the end of production, David and Dan, in some years, will assign the various writers a few characters. For instance, when we were working on Season 4, I was assigned Arya and a few others. So I’d go home and work for a few weeks on my “Arya Season 4,” keeping in mind a few scenes we’d already discussed and what chapters and scenarios and themes from the books we might use.
+
+:Then, in January, when we’re back in L.A., we’d meet for about two or three weeks, armed with the work we’d all done individually, and throw it all up on the board. You debate, you use some stuff, you throw some stuff out, you think up some new stuff. Sometimes what you end up with is really close to the individual outlines. Sometimes it's very different.
+
+:After we map out all the main characters’ individual arcs, using color-coded index cards, we arrange them by episode and get a rough idea of the scene order. From there, we all split up again and each tackle a chunk of the outline—a detailed outline, which sometimes ends up being over a hundred pages. David and Dan polish it, and that’s what we use to script our episodes. I’m generally assigned mid-season episodes—it just seems to work out that way. George wrote a script per season for the first four seasons, but took a break for Season 5 as he’s hard at work on the next book. And while George isn't in the writers room, he reads the outlines and gives his notes.
+
+:From there I write my two scripts—it takes me about a month and half to do both—D&D read them, give notes, I do a rewrite, D&D sometimes do a pass on it themselves. And we continue to tinker with all of the scripts through prep and production. But they’re generally camera-ready when we finish them. They have to be, as we have to have all 10 scripts complete well before shooting starts. We shoot all 10 episodes simultaneously, out of order, like a big, 10-hour movie, with two shooting units going at all times, sometimes in different countries."<ref>[http://observer.com/2015/04/blood-caffeine-sex-magic-how-game-of-thrones-gets-written/]</ref>
+
+Cogman went on to explain that, as of Season 5, there were never more than four people in the writers' room at any one time. Martin didn't actually sit in the writers room even when he wrote one episode each year in Seasons 1 to 3 (he didn't move to Northern Ireland to oversee filming for months at a time the way they did), though they sent him their outlines and he would send them back with notes. In Season 1 the only three people sitting in the writers' room and discussing the scripts were Benioff, Weiss, and Cogman. Jane Espenson wrote one episode in Season 1, but as she has explained, they gave her a copy of the book filled with stick-it notes and strict instructions to adapt a certain page range - but she was not actively contributing on the rest of the season as a whole, and left after Season 1. In Season 2 Vanessa Taylor joined the show and became the fourth person (and only woman) sitting in the writer's room discussions. Taylor stayed through Season 3 but did not return for Season 4, and in Season 5 assistant Dave Hill was promoted up to be a new full staff writer, bringing the number of people in the room back up to four. Cogman said that he felt having such a small number of writers helped keep the show more focused.<ref>[http://observer.com/2015/04/blood-caffeine-sex-magic-how-game-of-thrones-gets-written/]</ref>
+
+===Directors===
+* [[Thomas McCarthy]]: [[Pilot (Game of Thrones)|pilot]] {{Unreleased}}
+* [[Tim Van Patten]]: episodes [[Winter Is Coming|1]] and [[The Kingsroad|2]]
+* [[Brian Kirk]]: episodes [[Lord Snow|3]], [[Cripples, Bastards, and Broken Things|4]], and [[The Wolf and the Lion|5]]
+* [[Daniel Minahan]]: episodes [[A Golden Crown|6]], [[You Win or You Die|7]], [[The Pointy End|8]], [[Valar Dohaeris|21]], and [[Dark Wings, Dark Words|22]]
+* [[Alan Taylor]]: episodes [[Baelor|9]], [[Fire and Blood|10]], [[The North Remembers|11]], [[The Night Lands|12]], [[The Prince of Winterfell|18]], [[Valar Morghulis|20]], and [[Beyond the Wall (episode)|66]]
+* [[Alik Sakharov]]: episodes [[What Is Dead May Never Die|13]], [[The Climb|26]], [[The Laws of Gods and Men|36]], and [[Mockingbird|37]].
+* [[David Petrarca]]: episodes [[Garden of Bones (episode)|14]], and [[The Ghost of Harrenhal|15]]
+* [[David Nutter]]: episodes [[The Old Gods and the New|16]], [[A Man Without Honor|17]], [[The Rains of Castamere (episode)|29]], [[Mhysa|30]], [[The Dance of Dragons (episode)|49]], [[Mother's Mercy|50]], [[Winterfell (Game of Thrones)|68]], [[A Knight of the Seven Kingdoms (Game of Thrones)|69]], and [[The Last of the Starks|71]]
+* [[Neil Marshall]]: episodes [[Blackwater|19]] and [[The Watchers on the Wall|39]]
+* David Benioff: episodes [[Walk of Punishment (episode)|23]] and [[The Iron Throne|73]]
+* [[Alex Graves]]: episodes [[And Now His Watch Is Ended|24]], [[Kissed by Fire|25]], [[The Lion and the Rose|32]], [[Breaker of Chains|33]], [[The Mountain and the Viper|38]], and [[The Children|40]]
+* [[Michelle MacLaren]]: episodes [[The Bear and the Maiden Fair (episode)|27]], [[Second Sons (episode)|28]], [[Oathkeeper (episode)|34]], and [[First of His Name|35]]
+* D.B. Weiss: episodes [[Two Swords|31]] and 73
+* [[Michael Slovis]]: episodes [[The Wars To Come|41]] and [[The House of Black and White|42]]
+* [[Mark Mylod]]: episodes [[High Sparrow (episode)|43]], [[Sons of the Harpy (episode)|44]], [[The Broken Man|57]], [[No One|58]], [[Stormborn|62]], and [[The Queen's Justice|63]]
+* [[Jeremy Podeswa]]: episodes [[Kill the Boy|45]], [[Unbowed, Unbent, Unbroken|46]], [[The Red Woman|51]], [[Home|52]], [[Dragonstone (episode)|61]], and [[The Dragon and the Wolf|67]]
+* [[Miguel Sapochnik]]: episodes [[The Gift|47]], [[Hardhome (episode)|48]], [[Battle of the Bastards|59]], [[The Winds of Winter|60]], [[The Long Night|70]], and [[The Bells|72]]
+* [[Daniel Sackheim]]: episodes [[Oathbreaker|53]] and [[Book of the Stranger|54]]
+* [[Jack Bender]]: episodes [[The Door|55]] and [[Blood of My Blood|56]]
+* [[Matt Shakman]]: episodes [[The Spoils of War|64]] and [[Eastwatch|65]]
+
+===Cinematography===
+* [[Alik Sakharov]]: episodes [[Winter Is Coming|1]], [[The Kingsroad|2]], [[Baelor|9]], and [[Fire and Blood|10]]
+* [[Marco Pontecorvo]]: episodes [[Lord Snow|3]], [[Cripples, Bastards, and Broken Things|4]], and [[The Wolf and the Lion|5]]
+* [[Matthew Jensen]]: episodes [[A Golden Crown|6]], [[You Win or You Die|7]], [[The Pointy End|8]], and [[Walk of Punishment (episode)|23]]
+* Kramer Morgenthau: episodes [[The North Remembers|11]] and [[The Night Lands|12]]
+* P.J. Dillon: episodes [[What Is Dead May Never Die|13]], [[The Broken Man|57]], [[No One|58]], [[Stormborn|62]], and [[The Queen's Justice|63]]
+* Martin Kenzie: episodes [[Garden of Bones (episode)|14]], [[The Ghost of Harrenhal|15]], [[The Old Gods and the New|16]], and [[A Man Without Honor|17]]
+* Jonathan Freeman: episodes [[The Prince of Winterfell|18]], [[Valar Morghulis|20]], [[Valar Dohaeris|21]], [[Dark Wings, Dark Words|22]], [[Two Swords|31]], [[The Door|55]], [[Blood of My Blood|56]], and [[Beyond the Wall (episode)|66]]
+* Sam McCurdy: [[Blackwater|episode 19]]
+* [[Anette Haellmigk]]: episodes [[And Now His Watch Is Ended|24]], [[Kissed by Fire|25]], [[The Lion and the Rose|32]], [[Breaker of Chains|33]], [[The Mountain and the Viper|38]], [[The Children|40]], [[High Sparrow (episode)|43]], [[Sons of the Harpy (episode)|44]], [[Oathbreaker|53]], and [[Book of the Stranger|54]]
+* David Katznelson: [[The Climb|episode 26]]
+* Chris Seager: episodes [[The Bear and the Maiden Fair (episode)|27]] and [[Second Sons (episode)|28]]
+* [[Robert McLachlan]]: episodes [[The Rains of Castamere (episode)|29]], [[Mhysa|30]], [[Oathkeeper (episode)|34]], [[First of His Name|35]], [[The Dance of Dragons (episode)|49]], [[Mother's Mercy|50]], [[The Spoils of War|64]], and [[Eastwatch|65]]
+* [[Fabian Wagner]]: episodes [[The Laws of Gods and Men|36]], [[Mockingbird|37]], [[The Gift|47]], [[Hardhome (episode)|48]], [[Battle of the Bastards (episode)|59]], [[The Winds of Winter|60]], [[The Long Night|70]], and [[The Bells|72]]
+* David Franco: episodes [[The Watchers on the Wall|39]], [[The Wars To Come|41]], [[The House of Black and White|42]], [[Winterfell (Game of Thrones)|68]], and [[A Knight of the Seven Kingdoms (Game of Thrones)|69]]
+* Gregory Middleton: episodes [[Kill the Boy|45]], [[Unbowed, Unbent, Unbroken|46]], [[The Red Woman|51]], [[Home|52]], [[Dragonstone (episode)|61]], and [[The Dragon and the Wolf|67]]
+
+==Production==
+{{Main|Production timeline}}
+[[File:Eddard promo.jpg|thumb|180x180px|A HBO promotional image of [[Sean Bean]] as Lord [[Eddard Stark]].]] [[File:Season2CastEW.png|thumb|180x180px|An Entertainment Weekly promotional photo of some of the [[Game of Thrones: Season 2|Season 2]]  cast. From left to right [[Kit Harington]], [[Emilia Clarke]], [[Lena Headey]], [[Nikolaj Coster-Waldau]] and [[Peter Dinklage]].]]
+David Benioff was sent a collection of the first four novels in the series (''A Game of Thrones'', ''A Clash of Kings'', ''A Storm of Swords'' and ''A Feast for Crows'') by George R.R. Martin's agent. Initially sceptical of the fantasy genre, Benioff became a big fan of the books and invited his friend D.B. Weiss to develop the project with him for a screen adaptation. They initially considered a movie adaption, but realized this would mean losing most of the plot and characters from the books. Instead, they began working on an adaptation for television. They met with George R.R. Martin and spent several hours discussing the project. Martin was impressed with their enthusiasm and that they had already worked out the resolutions to several key mysteries in the books. He agreed with them that the series was a good fit for the cable company [[HBO]], which Martin was already a big fan of.
+
+HBO agreed to option the project in 2007 and active development of a pilot script began. However, this was delayed by the [[wikipedia:2007–2008 Writers Guild of America strike|2007–2008 Writers Guild of America strike]]. In October 2008 HBO exercised its option to buy the rights to the series and ordered a pilot a few weeks later. Casting announcements were made throughout 2009, with [[Peter Dinklage]] the first actor formally announced for the series. The pilot was filmed in Northern Ireland and Morocco in October and November 2009.
+
+HBO officially greenlit the series on 2 March 2010. Filming of [[Game of Thrones: Season 1|Season 1]] began on 23 July, with Malta replacing Morocco for overseas filming. Several actors from the pilot were recast, requiring the re-filming of most of the first episode. The season wrapped filming on 15 December. HBO later confirmed that the first season had a budget of $60 million. The first season aired on HBO on 17 April-19 June 2011, garnering critical acclaim and steadily rising ratings. HBO confirmed after the transmission of the first episode that a second season had been commissioned.
+
+Production of Season 2 began on 25 July 2011 and wrapped on 12 December. Malta was dropped as a filming location, replaced by Croatia, while additional filming took place in Iceland. The budget for Season 2 was 15% higher than Season 1, necessitated by the addition more ambitious effects sequences and the use of CGI creatures such as [[Direwolf|direwolves]] and [[dragon]]s. The second season aired from 1 April to 3 June 2012, garnering additional critical acclaim and increased ratings. By the end of the second season, the show had become the third-most-successful series in HBO's history, behind only ''[[wikipedia:The Sopranos|The Sopranos]]'' and ''[[wikipedia:True Blood|True Blood]]''. In addition, the DVD and Blu-ray set of Season 1 was released just prior to transmission of Season 2 and immediately became HBO's fastest-selling media release in its history.
+
+Production of Season 3 began on 10 July 2012 and wrapped on 24 November. Morocco was added to the filming roster alongside Croatia, Iceland and Northern Ireland, with the complexities of filming requiring the addition of a third filming unit to the existing two. An additional scene was shot in Los Angeles for safety reasons, meaning that Season 3 was filmed in five separate countries on three continents. The season aired from 31 March to 2 June 2013. The penultimate episode ''[[The Rains of Castamere (episode)|The Rains of Castamere]]'' won widespread critical acclaim for its shock twist ending. By the end of the season the show had supplanted ''True Blood'' as the second-most successful HBO show in the United States and ''The Sopranos'' as its most successful series worldwide.
+
+Production of Season 4 began on 8 July 2013 and concluded on 21 November. Production was more focused this season, with only two units used and filming restricted to Northern Ireland, Iceland and Croatia. This was to allow more of the budget to be concentrated on several major action and effects sequences late in the season.
+
+Production of Season 5 ran from 18 July 2014 to 12 December. Production was focused once more, with two units filming in Northern Ireland, Croatia and Spain, with Spain being a new addition to the show's shooting countries.
+
+Production of Season 6 ran from mid-July 2015 to 17 December. Filming took place in Northern Ireland and Spain, while the production only returned to Croatia for a brief shoot, as they used several locations in Spain as exterior sets for [[King's Landing]], [[Braavos]] and [[Meereen]].
+
+Production of Season 7 ran from 31 August 2016 to February 2017, which was later than past seasons, mainly due to the desire to accurately depict the winter that now grips Westeros, and will be shortened to seven episodes, due to the smaller amount of story content remaining, as well as the increased production values and time required to film episodes involving larger set pieces. Filming took place in Northern Ireland, Spain, Iceland and, once again briefly, Croatia.
+
+==Adaptation process and catching up with the books==
+===Seasons 1-4: ''A Game of Thrones'', ''A Clash of Kings'', and ''A Storm of Swords''===
+As of 2016, five books have been published in the ''A Song of Ice and Fire'' series, and author George R.R. Martin has predicted that there will be two more (though he is struggling not to let the final book run long, in which case it would have to be split, for a total of eight books).
+
+The third novel, ''A Storm of Swords'', was so long that it pushed the limits of how large a published book could physically be without pages falling out. Because the third novel was so long, the production team realized it would be impossible to condense it all into a single season, so the decision was made to adapt its contents across two seasons. While [[Game of Thrones: Season 3|Season 3]] ends with the [[Red Wedding]], this actually happened in the ''middle'' of the third novel (similar to how [[Renly Baratheon]] suddenly died in the middle of [[Game of Thrones: Season 2|Season 2]]). [[Jon Snow]] returned to [[Castle Black]] by the middle of the third novel. [[Daenerys Targaryen]] had not yet reached [[Meereen]] by the middle of the third novel. A few characters did advance further than this in Season 3, i.e. [[Bran Stark]] actually passed north of the [[Wall]] at the end of the third novel (he had so few chapters in the entire book that the TV producers didn't want to space it out for two full seasons). By the end of the fourth season, most of the characters had completed their story from the third novel.
+
+===Seasons 5 and 6: Intercutting ''A Feast for Crows'' and ''A Dance with Dragons''===
+What was originally planned as the fourth novel was even longer than the third novel, so Martin split it into two novels: ''A Feast for Crows'' (the fourth book) and ''A Dance with Dragons'' (the fifth book). The fourth and fifth books occur during a simultaneous timeframe: all of the chapters set in the [[Seven Kingdoms]] were moved to the fourth book, while all chapters set outside of the Seven Kingdoms (at the Wall or across the [[Narrow Sea]] in [[Essos]]) were moved to the fifth book. Though of course, despite splitting them because as one book they would have been longer than the third novel, Martin kept making additions to the fourth and fifth novels during the writing process, so both are nearly as long as the third novel.
+
+It would be odd to spend an entire season with one set of characters while the rest do not appear, then reverse this in the subsequent season. So Season 5 chronologically presented events in the order that they happened. This is comparable to how J.R.R. Tolkien's ''The Two Towers'' actually consisted of two halves: the first half entirely follows Aragorn since the end of the first novel, then the second half backs up in time to follow only Frodo's perspective, but during the same timeframe since the end of the first novel. Peter Jackson's movie adaptation, however, chose to simply intercut between the two storylines to show events in the chronological order in which they occurred. Thus "Season 5" consisted of the majority of the material from ''A Feast for Crows'' and ''A Dance with Dragons.''
+
+===Seasons 7 and 8: Beyond the books and ending===
+Given that there are currently five novels (with the third split into two seasons), but given the fact that the majority of the fourth and fifth novels have been adapted in Seasons 5 and 6, there was only a very limited amount of material left to be adapted. Even so, Martin has told producers Benioff & Weiss the general outline of how the final two books are going to progress (so if a bolt of lightning strikes Martin, they'd still be able to finish according to Martin's general plan).
+
+As a result, the total amount of seasons remained unclear for quite some time. During [[Game of Thrones: Season 3|Season 3]], in an interview with ''Mother Jones'' magazine, Benioff & Weiss said that they thought the TV series might run as many as eight seasons, for a total of 80 episodes, though they were unsure:
+
+:Mother Jones: "So I gather that Game of Thrones could last eight or nine seasons. Does that mean putting novel writing on hold for a decade?
+:Benioff & Weiss: "Yes, if we live that long and HBO keeps wanting to make the show. '''We have the opportunity here to tell a coherent story that lasts for 80 hours.''' And while a canvas of that size presents all sorts of storytelling problems, it also allows us to spend more time with these characters we love than we'll ever get again.<ref>[http://www.motherjones.com/media/2013/03/hbo-game-thrones-season-3-interview-david-benioff-dan-weiss Benioff & Weiss ''Mother Jones'' interview.]</ref>
+
+Soon before [[Game of Thrones: Season 4|Season 4]] began, however, in early March 2014 executive producers David Benioff and Dan Weiss made several comments that they actually felt Season 4 was the "midway point" of the TV series, which would probably last ''seven seasons''. On March 11, 2014, they said in ''Entertainment Weekly'':
+
+:"It feels like this is the midpoint for us...If we’re going to go seven seasons, which is the plan, Season 4 is right down the middle, the pivot point...I would say it's the goal we've had from the beginning...It was our unstated goal, because to start on a show and say your goal is seven seasons is the height of lunacy. Once we got to the point where we felt like we're going to be able to tell this tale to its conclusion, that became [an even clearer] goal. Seven gods, seven kingdoms, seven seasons. It feels right to us.”<ref>[http://insidetv.ew.com/2014/03/11/game-of-thrones-7-seasons/ Entertainment Weekly], March 11th, 2014]</ref>
+
+The repeated statements Benioff and Weiss made throughout Season 4 that they "always" intended for there to be seven seasons simply contradict previous statements they made in formal print interviews, such as with ''Mother Jones'' in 2013 (though plans can and do change over many years).
+
+Benioff & Weiss, as well as George R.R. Martin himself, then provided comments for the April 2014 issue of ''Vanity Fair'' (which was released about two weeks after Benioff and Weiss said in ''Entertainment Weekly'' that there might be only seven seasons). Contradicting his statements made at the same time in ''EW'' that "we're going for seven seasons, it's been our goal since the beginning," Benioff instead repeated that the production team wasn't sure if the TV series would last "seven or eight" seasons.
+
+:"If we're a series and we're four seasons, five seasons in, and it's indefinite as to how long it's gonna go, then I don't think there’s as much pressure as far as, the end is coming, the end is nigh. So, for us, whether it ends up being seven or eight, it's right around there. I think we've always felt — we just completed the fourth season — this is the midpoint. And we're coming around the bend right now."<ref>[http://www.vanityfair.com/hollywood/2014/03/game-of-thrones-benioff-weiss-interview Vanity Fair], April 2014</ref>
+
+D.B. Weiss also said in ''Vanity Fair'', after they had just finished Season 4 and were about to start writing Season 5, that they saw the show as running up to eight seasons:
+
+:"We know there’s an end somewhere in the seven-or-eight season zone. It’s not something that goes ten, eleven — it doesn't just keep on going because it can. I think the desire to milk more out of it is what would eventually kill it, if we gave in to that.<ref>[http://www.vanityfair.com/hollywood/2014/03/game-of-thrones-benioff-weiss-interview Vanity Fair], April 2014</ref>
+
+HBO programming president Michael Lombardo said that the network would eagerly accept the TV series going on for eight to ten seasons, but only if writers Benioff and Weiss felt it served the story instead of dragging it out (though of course, the TV series has not been "padding" the massive novels series, but omitting many subplots for time). Lombardo said:
+
+:"We'll have an honest conversation that explores all possible avenues. If they [Benioff and Weiss] weren't comfortable going beyond seven seasons, I trust them implicitly and trust that's the right decision—as horrifying as that is to me. What I'm not going to do is have a show continue past where the creators believe where they feel they've finished with the story.<ref>[http://www.ew.com/article/2015/03/11/game-thrones-end]</ref>
+
+On July 30, 2015, HBO programming president Michael Lombardo announced that the TV series will last at least ''eight'' seasons, not only seven. Speaking at the Television Critics Association press tour, Lombardo said that while Season 7 was not yet technically ordered, HBO and the writing team felt that there were about two more seasons worth of story (matching the expectation that it is based on a series of seven novels, one of which was so large it was split and adapted as two TV seasons). In contrast with Benioff and Weiss's frequent declarations since Season 4 that they had "always" intended for there to be seven TV seasons (though they had repeatedly said "seven or eight" before Season 4), Lombardo said that "Seven-seasons-and-out has never been the [internal] conversation" between the production team and HBO. Lombardo said,
+
+:"The question is: How much beyond seven are we going to do? Obviously we’re shooting six now, hopefully discussing seven. [Showrunners David Benioff and Dan Weiss are] feel like there’s two more years after six. I would always love for them to change their minds, but that’s what we’re looking at right now."<ref>[http://www.ew.com/article/2015/07/30/game-thrones-eight-seasons]</ref>
+
+Lombardo also directly reiterated that HBO is interested in making prequel projects, adapted from Martin's other stories set in Westeros, i.e. the [[Dunk & Egg novellas]] - but he also reiterated that they aren't going to have any serious negotiations about prequel projects until after the main TV series is over, due to the massive amount of work involved.
+
+'''On April 14, 2016, David Benioff confirmed they had 13 episodes left after season six.''' "We’re heading into the final lap," he said. "That's the guess, though nothing is yet set in stone, but that's what we're looking at." Presumably, season seven would have that number of episodes, and season eight would be six episodes. Weiss and Benioff said they were unable continuing to produce ten episodes of the show in the previous 12 to 14-month time frame. "It's crossing out of a television schedule into more of a mid-range movie schedule," Weiss said.<ref>[http://variety.com/2016/tv/news/game-of-thrones-end-date-season-8-1201752746/]</ref>
+Martin declined writing an episode for Season 5 and beyond to focus on writing ''The Winds of Winter'', and in March 2015 canceled all of his future convention appearances to focus on writing it. Nevertheless, the final seasons of the TV series were released before the final two novels, ''The Winds of Winter'' and ''A Dream of Spring''.<ref>[http://www.westeros.org/ASoWS/News/Entry/GRRM_on_Season_5_Cancelling_Appearances]</ref>
+
+==Casting==
+With 250 speaking roles, almost 90 of them named, the cast was the largest ever assembled for the debut season of a HBO project. The cast grew even larger in the second and third seasons.
+
+The cast includes [[Sean Bean]] as Lord [[Eddard Stark]], [[Peter Dinklage]] as [[Tyrion Lannister]], [[Mark Addy]] as King [[Robert Baratheon]], [[Kit Harington]] as [[Jon Snow]], [[Lena Headey]] as [[Cersei Lannister]], [[Nikolaj Coster-Waldau]] as [[Jaime Lannister]], [[Harry Lloyd]] as [[Viserys Targaryen (son of Aerys II)|Viserys Targaryen]], [[Richard Madden]] as [[Robb Stark]], [[Charles Dance]] as [[Tywin Lannister]], [[Aidan Gillen]] as [[Petyr Baelish]], [[Alfie Allen]] as [[Theon Greyjoy]], [[Conleth Hill]] as [[Varys]], [[Rory McCann]] as [[Sandor Clegane]], [[Jerome Flynn]] as [[Bronn]], [[John Bradley]] as [[Samwell Tarly]], [[Iain Glen]] as [[Jorah Mormont]], [[James Cosmo]] as [[Jeor Mormont]], [[Joe Dempsie]] as [[Gendry Baratheon|Gendry]], [[Sibel Kekilli]] as [[Shae]] and [[Jason Momoa]] as [[Drogo]]. The cast is also notable for including a number of teenage and child actors in prominent roles: [[Sophie Turner]] as [[Sansa Stark]], [[Maisie Williams]] as [[Arya Stark]], [[Isaac Hempstead-Wright]] as [[Bran Stark]], [[Art Parkinson]] as [[Rickon Stark]], and [[Jack Gleeson]] as [[Joffrey Baratheon]].
+
+[[Jennifer Ehle]] was initially cast as [[Catelyn Stark]], but after filming the pilot HBO decided to recast the role with [[Michelle Fairley]]. No further details have been given for the reason behind this decision, except that it was amicable. In a similar manner, [[Tamzin Merchant]] was initially cast as [[Daenerys Targaryen]], but after filming the pilot she was replaced by newcomer [[Emilia Clarke]].
+
+Several prominent recurring cast members introduced in first season were [[Julian Glover]] as Grand Maester [[Pycelle]], [[Donald Sumpter]] as Maester [[Luwin]], [[Gethin Anthony]] as [[Renly Baratheon]], [[Ian Gelder]] as [[Kevan Lannister]], [[Eugene Simon]] as [[Lancel Lannister]], [[Finn Jones]] as [[Loras Tyrell]], [[Kate Dickie]] as [[Lysa Arryn]], [[Lino Facioli]] as [[Robin Arryn]], [[Owen Teale]] as [[Alliser Thorne]], [[Dominic Carter]] as [[Janos Slynt]], [[Ian McElhinney]] as [[Barristan Selmy]], [[David Bradley]] as [[Walder Frey]], [[Joseph  Mawle|Joseph Mawle]] as [[Benjen Stark]], [[Francis Magee]] as [[Yoren]], [[Natalia Tena]] as [[Osha]], [[Kristian Nairn]] as [[Hodor]], [[Mark Stanley]] as [[Grenn]], [[Josef Altin]] as [[Pypar]] and [[Peter Vaughan]] as Maester [[Aemon]].
+
+The second season marked the introduction of many new cast members, including [[Stephen Dillane]] as Lord [[Stannis Baratheon]], [[Carice van Houten]] as [[Melisandre]], [[Liam Cunningham]] as [[Davos Seaworth]], [[Natalie Dormer]] as [[Margaery Tyrell]], [[Gwendoline Christie]] as [[Brienne of Tarth]], [[Patrick Malahide]] as [[Balon Greyjoy]], [[Gemma Whelan]] as [[Yara Greyjoy]], [[Michael McElhatton]] as [[Roose Bolton]], [[Rose Leslie]] as [[Ygritte]], [[Hannah Murray]] as [[Gilly]], [[Tom Wlaschiha]] as [[Jaqen H'ghar]], [[Daniel Portman]] as [[Podrick Payne]] and [[Ben Crompton]] as [[Eddison Tollett]].
+
+For the third season, the cast was further swelled with additions, including [[Diana Rigg]] as [[Olenna Tyrell]], [[Iwan Rheon]] as [[Ramsay Bolton|Ramsay Snow]], [[Ciarán Hinds]] as [[Mance Rayder]], [[Kristofer Hivju]] as [[Tormund]], [[Anton Lesser]] as [[Qyburn]], [[Nathalie Emmanuel]] as [[Missandei]], [[Jacob Anderson]] as [[Grey Worm]], [[Tara Fitzgerald]] as [[Selyse Baratheon]], [[Kerry Ingram]] as [[Shireen Baratheon]], [[Clive Russell]] as [[Brynden Tully]], [[Tobias Menzies]] as [[Edmure Tully]], [[Richard Dormer]] as [[Beric Dondarrion]], [[Paul Kaye]] as [[Thoros]] of [[Myr]], and [[Thomas Brodie-Sangster]] and [[Ellie Kendrick]] as [[Jojen Reed|Jojen]] and [[Meera Reed]].
+
+For the fourth season, only a few new cast members were added, including [[Pedro Pascal]] as [[Oberyn Martell]], [[Indira Varma]] as [[Ellaria Sand]], [[Michiel Huisman]] as [[Daario Naharis]], [[Roger Ashton-Griffiths]] as [[Mace Tyrell]], [[Dean-Charles Chapman]] as [[Tommen Baratheon]], [[Rupert Vansittart]] as [[Yohn Royce]] and [[Mark Gatiss]] as [[Tycho Nestoris]].
+
+For the fifth season, many new cast members were introduced, including [[Jonathan Pryce]] as the [[High Sparrow]], [[Faye Marsay]] as the [[Waif]], [[Alexander Siddig]] as [[Doran Martell]], [[DeObia Oparei]] as [[Areo Hotah]] and [[Keisha Castle-Hughes]], [[Jessica Henwick]] and [[Rosabell Laurenti Sellers]] as the Sand Snakes: [[Obara Sand|Obara]], [[Nymeria Sand|Nymeria]] and [[Tyene Sand]].
+
+For the sixth season, a small number of new cast members were added, including [[Max von Sydow]] as [[Brynden Rivers]], [[Pilou Asbæk]] as [[Euron Greyjoy]], [[Michael Feast]] as [[Aeron Greyjoy]], [[James Faulkner]] as [[Randyll Tarly]], [[Bella Ramsey]] as [[Lyanna Mormont]] and [[Tim McInnerny]] as [[Robett Glover]].
+
+For the seventh season, [[Jim Broadbent]] was cast as [[Archmaester]] [[Ebrose]], and for the eighth season, [[Marc Rissmann]] was cast as [[Harry Strickland]].
+
+==Filming locations==
+{{Main|Filming locations (Game of Thrones)}}
+* Northern Ireland {{C|[[wikipedia:Northern Ireland Screen#The Paint Hall|The Paint Hall Studios]] in Belfast was used for all primary interior sets.}}
+* Malta {{C|Season 1}}
+* Croatia {{C|Seasons 2-8}}
+* Iceland {{C|Seasons 2-4, 7-8}}<ref>http://watchersonthewall.com/game-thrones-reportedly-set-return-iceland-season-7/#more-71161</ref>
+* Morocco {{C|Season 3}}
+* United States {{C|Seasons 3 and 7}}
+* Spain {{C|Seasons 5-8}}
+* Canada {{C|Season 5}}<ref>[http://metronews.ca/news/calgary/1368150/game-of-thrones-casts-calgary-wolf-in-direwolf-role/]</ref>
+
+==Filming dates==
+* The pilot was originally expected to be filmed between 12 October and 6 November 2009, but there was a two-week delay in pre-production. A read-through of the script was held on 12 October 2009. Production and on-location rehearsals began on 24 October. Filming commenced on 26 October and concluded on 19 November.
+* Scenes at Doune Castle were filmed on 26–27 October 2009 and are believed to include the Winterfell feast to celebrate King Robert's visit. Some filming was also done in the courtyard.
+* The prologue was filmed on 29 October 2009 at Tollymore Forest Park.
+* Filming at Cairncastle took place on 2 November 2009, including the scene of Gared's execution and finding the dead direwolf in the snow.
+* Filming of the scene between Ros, Tyrion and Jaime in King's Landing was filmed on or prior to 3 November 2009, possibly at the Paint Hall studios.
+* Filming at Castle Ward took place on 5 November 2009, including the scenes of Tommen and Bran sparring and Sandor and Joffrey insulting Rodrik and Robb.
+* The UK filming bloc was expected to last for 18 days, suggesting that it would finish around 12 November 2009. George R.R. Martin confirmed on his blog that after this date production would move to Morocco for the remainder of the shoot.
+* Daenerys and Khal Drogo's wedding was filmed on 16 November 2009.
+* Production of the rest of Season 1, including reshoots on the pilot, commenced on 23 July 2010 and ran through 18 December 2010. Filming took place in Northern Ireland and Malta.
+* Production of Season 2 ran from 25 July 2011 to 12 December 2011. Filming took place in Northern Ireland, Iceland and Croatia (replacing Malta).
+* Production of Season 3 ran from 10 July to 24 November 2012, with Morocco added to the filming roster. An additional scene was also shot in Los Angeles, meaning that filming for Season 3 took place in five countries and on three continents.
+* Production of Season 4 ran from 8 July to 21 November 2013. Filming took place in Northern Ireland, Iceland and Croatia, with Morocco dropped. Filming in Iceland was expanded to encompass locations in the south of Westeros as well as beyond the Wall, and took place earlier in the schedule to allow for more filming time.
+* Production of Season 5 ran from 18 July to 12 December 2014, with Spain added to the filming roster. Filming also took place in Northern Ireland and Croatia, with Iceland dropped. Additional shooting took place in Canada for the scenes involving the direwolf Ghost.
+* Production of Season 6 ran from mid-July to mid-December 2015. Filming took place in Northern Ireland and Spain, with minor additional filming taking place in Croatia.
+* Production of Season 7 ran from 31 August 2016 to February 2017. Filming took place in Northern Ireland, Spain, Croatia and Iceland, which returns as a shooting location.
+* Production  of Season 8 ran from 23 October 2017 to 6 July 2018. Filming took place in Northern Ireland, Spain, Croatia and Iceland.
+
+==Gallery==
+===Videos===
+====Behind the scenes====
+<gallery bordersize="none">
+Game of Thrones: Audition Reel (HBO)
+Game of Thrones: Dolby Atmos
+I Got Transformed Into the Night King From Game Of Thrones / Game Of Thrones / HBO
+David Benioff Loses To Jason Momoa / Game of Thrones / HBO
+Depression in Game of Thrones / Game of Thrones / HBO
+</gallery>
+
+====Best Moments====
+<gallery bordersize="none">
+Game of Thrones' Best Battle Scenes / Game Of Thrones / Max
+House Stark vs. House Lannister / Game of Thrones / HBO Max
+Arya Stark vs. The Waif / Game of Thrones / HBO Max
+House Targaryen's Best Moments / Game of Thrones / Max
+House Stark's Best Moments / Game of Thrones / HBO Max
+House Baratheon's Best Moments / Game of Thrones / HBO Max
+House Lannister's Best Moments / Game of Thrones / HBO Max
+</gallery>
+
+====Trailers====
+<gallery bordersize="none">
+Game of Thrones / Official Series Trailer (HBO)
+Game of Thrones / Official Sansa Stark Trailer (HBO)
+Game of Thrones / Official Tyrion Lannister Trailer (HBO)
+Game of Thrones / Official Dragons & White Walkers Trailer (HBO)
+Game of Thrones / Official Arya Stark Trailer (HBO)
+Game of Thrones / Official Brienne of Tarth Trailer (HBO)
+Game of Thrones / Official Cersei Lannister Trailer (HBO)
+Game of Thrones / Official Jon Snow Trailer (HBO)
+Game of Thrones / Official Daenerys Targaryen Trailer (HBO)
+Game of Thrones / Official Bran Stark Trailer (HBO)
+Game of Thrones / Official Jaime Lannister Trailer (HBO)
+</gallery>
+
+====Iron Anniversary====
+<gallery bordersize="none">
+Game of Thrones / Iron Anniversary (HBO)
+Game of Thrones / MaraThrone (HBO)
+</gallery>
+
+====A Decade of ''Game of Thrones''====
+<gallery bordersize="none">
+A Decade of Game of Thrones / The Crew (HBO)
+A Decade of Game of Thrones / Emilia Clarke on Daenerys Targaryen(HBO)
+A Decade of Game of Thrones / Iain Glen on Jorah Mormont (HBO)
+A Decade of Game of Thrones / Isaac Hempstead Wright on Bran Stark (HBO)
+A Decade of Game of Thrones / Kit Harington on Jon Snow (HBO)
+A Decade of Game of Thrones / Liam Cunningham on Davos Seaworth (HBO)
+A Decade of Game of Thrones / Maisie Williams on Arya Stark (HBO)
+A Decade of Game of Thrones / Peter Dinklage on Tyrion Lannister (HBO)
+A Decade of Game of Thrones / Rory McCann on The Hound (HBO)
+A Decade of Game of Thrones / Sophie Turner on Sansa Stark (HBO)
+A Decade of Game of Thrones / Lena Headey on Cersei Lannister (HBO)
+A Decade of Game of Thrones / Nikolaj Coster-Waldau on Jaime Lannister (HBO)
+A Decade of Game of Thrones / John Bradley on Samwell Tarly (HBO)
+A Decade of Game of Thrones / Evolution of the Dragons (HBO)
+</gallery>
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|Game of Thrones|''Game of Thrones''}}
+*{{HBO|game-of-thrones}}
+*{{HBO Max|show/4f6b4985-2dc9-4ab6-ac79-d60f0860b0ac}}
+*{{IMDb title|#=0944947}}
+*{{WP|Game of Thrones|''Game of Thrones''}}
+
+<!--Navboxes-->
+{{Game of Thrones}}
+{{World of Westeros}}
+
+<!--Categories-->
+[[Category:Game of Thrones| ]]
+[[Category:Live-action television series]]
+[[Category:Television series released in 2011|4.17]]
+
+<!--Languages-->
+[[de:Game of Thrones]]
+[[es:Game of Thrones]]
+[[fr:Game of Thrones]]
+[[it:Il Trono di Spade (Serie TV)]]
+[[pl:Gra o tron (serial)]]
+[[pt-br:Game of Thrones]]
+[[ro:Urzeala tronurilor (serial)]]
+[[ru:Игра престолов]]
+[[tr:Game of Thrones]]
+[[zh:TV:权力的游戏]]

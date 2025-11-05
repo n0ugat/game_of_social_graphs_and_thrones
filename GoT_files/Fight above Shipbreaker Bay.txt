@@ -1,0 +1,87 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Dragon
+| Part          = the [[Dance of the Dragons]]
+| Image         = Vhagar kills Arrax.png
+| Previous      = [[Coup in King's Landing]]
+| Concurrent    =
+| Next          = [[Blockade of the Gullet]]<br>[[Assassination of Jaehaerys Targaryen]]
+| Date          = [[132 AC]]{{Dateref|The Black Queen}}
+| Place         = Above [[Shipbreaker Bay]], near [[Storm's End]]
+| Outcome       = Death of [[Lucerys Velaryon]] and [[Arrax]]
+| Factions1     = {{COA|House Targaryen|small|Blacks}} [[Blacks]]
+| Factions2     = {{COA|Greens|small}} [[Greens]]
+| Factions3     =
+| Factions4     =
+| Leaders1      = {{COA|House Velaryon|inline}} Prince Lucerys Velaryon †
+| Leaders2      = {{COA|House Targaryen/House of the Dragon|inline}} Prince [[Aemond Targaryen]]
+| Leaders3      =
+| Leaders4      =
+| Participants1 = Arrax
+| Participants2 = [[Vhagar]]
+| Participants3 =
+| Participants4 =
+| Casualties1   = *Lucerys Velaryon
+*Arrax
+| Casualties2   = None
+| Casualties3   =
+| Casualties4   =
+| Civilian      =
+}}
+{{Quote|I do regret that business with Luke. I lost my temper that day. I am sorry for it.|Aemond Targaryen|Rhaenyra the Cruel}}
+A '''fight''' occurred above [[Shipbreaker Bay]] early in the [[Dance of the Dragons]] in [[132 AC]],{{Dateref|The Black Queen}} between Prince [[Lucerys Velaryon]], second son of Queen [[Rhaenyra Targaryen]] and Prince [[Aemond Targaryen]], younger brother of King [[Aegon II Targaryen]]. It resulted in the deaths of Lucerys and his [[dragon]], [[Arrax]], by Aemond's dragon, [[Vhagar]].{{Ref|HOTD110}}
+
+==History==
+===Prelude===
+====Background====
+{{Quote|Storm's End is a short flight from here. You have Baratheon blood from your grandmother, Rhaenys. And... Lord Borros is an eternally proud man. He will be honored to host a prince of the realm... and his dragon. I expect you will receive a very warm welcome.|Rhaenyra to Lucerys|The Black Queen}}
+Though [[King of the Andals and the Rhoynar and the First Men|King]] [[Viserys I Targaryen]] had named his daughter [[Rhaenyra Targaryen|Rhaenyra]] the heir to the [[Iron Throne]],{{Ref|HOTD101}} upon the king's death, the [[Green Council]] launched a [[coup in King's Landing]] to crown his son [[Aegon II Targaryen|Aegon]] instead. During the coronation, Princess [[Rhaenys Targaryen]] fled [[King's Landing]]{{Ref|HOTD109}} and flew to [[Dragonstone]] atop [[Meleys]], where she informed Rhaenyra and [[Daemon Targaryen|Daemon]] of Viserys's death and Aegon's accession to the throne.{{Ref|HOTD110}}
+
+In response, the [[Black Council]] was formed on Dragonstone, while Rhaenyra was crowned [[King#Queens|queen]] by Daemon. The [[Blacks]] sought to rally the [[Great House]]s whose support they anticipated: namely, [[House Arryn/House of the Dragon|Houses Arryn]], [[House Stark/House of the Dragon|Stark]], and [[House Baratheon/House of the Dragon|Baratheon]]. Rhaenyra's two eldest sons were sent to treat with them: Prince [[Jacaerys Velaryon|Jacaerys]] traveled north on [[Vermax]] to the [[Eyrie]] and [[Winterfell]], while Prince [[Lucerys Velaryon|Lucerys]] flew south on [[Arrax]] to [[Storm's End]].{{Ref|HOTD110}}
+
+====Confrontation====
+{{Dialogue a-b-a-b|Lucerys|I will not fight you. I came as a messenger, not a warrior.|Aemond|A fight would be little challenge. No. I want you to put out your eye. As payment for mine. One will serve. I would not blind you. I plan to make a gift of it to my mother.|No.|Then you are craven as well as a traitor. Give me your eye, or I will take it, bastard!|Lucerys and Aemond|The Black Queen}}
+Upon his arrival, Lucerys finds that Aegon's brother, Prince [[Aemond Targaryen|Aemond]], and his [[dragon]] [[Vhagar]], were already present at Storm's End. Lucerys is then brought to the main hall, where a Baratheon [[Knighthood|knight]] hands his mother's message to [[Borros Baratheon]], the new [[Lord of Storm's End]]. After his maester reads him the message, Borros is insulted by Rhaenyra "reminding" him of the oath his father [[Boremund Baratheon|Boremund]] had made to her. He notes that King Aegon had at least betrothed his brother to one of his daughters, and asks Lucerys on which of his three remaining daughters he would marry. When Lucerys responds that he is not free to marry as he is already betrothed to Lady [[Rhaena Targaryen]], Lord Borros dismisses him, telling him to return to Dragonstone.{{Ref|HOTD110}}
+
+Lucerys's departure is interrupted by Aemond, however, who demands that he cut out his own eye. The latter believes that Lucerys, who had slashed out his left eye years earlier, owes him a debt. Aemond then removes his eyepatch, revealing a sapphire in place of his left eye, and throws his dagger to Lucerys. When Lucerys refuses, Aemond charges at him, picking up the knife, calling him a [[bastard]], and threatening to cut out Lucerys's eye himself. Lord Borros rises from his seat and intervenes, proclaiming that Lucerys is an envoy and that he will have no bloodshed beneath his roof, ordering his men to escort Lucerys back to his dragon.{{Ref|HOTD110}}
+
+===The chase===
+{{Quote|No, Vhagar! No! Serve me, Vhagar! No! Vhagar! No! No...|Aemond loses control of Vhagar as she kills Lucerys|The Black Queen}}
+[[File:ARRAX HouseoftheDragon Pixomondo ITW 06.jpg|thumb|Arrax hunted by Vhagar.]]
+Back in the courtyard, Lucerys mounts Arrax and takes flight amidst a raging storm. However, he is pursued by Aemond on the much larger and older Vhagar. Lucerys and Arrax try to outfly the former two, but Aemond presses the chase through the storm-ridden skies while Vhagar tries to snatch them. Taking advantage of his dragon's smaller size, Lucerys is initially able to evade Vhagar by flying through a narrow ravine, forcing Vhagar to fly above the cliffs. From above, Aemond loses sight of Lucerys, and shouts out in [[High Valyrian]] that Lucerys still owes him a debt.{{Ref|HOTD110}}
+
+Lucerys then briefly loses control of Arrax, who attacks Vhagar head-on by breathing fire at the old dragon. Aemond loses control of Vhagar, who, despite Aemond's attempts to regain control, is enraged and continues to pursue Arrax. Lucerys and Arrax break through the storm and rise above the clouds, seemingly escaping from Vhagar. As Lucerys looks to the side, however, Vhagar suddenly emerges. Though Aemond tries to stop Vhagar, the ancient dragon snaps Arrax in half with a single bite, instantly killing both the dragon and Lucerys. Aemond then watches in shock as Arrax's remains fall through the clouds, aware he has unintentionally made himself a [[Kinslaying|kinslayer]], destroyed any chance Rhaenyra will accept a peaceful resolution, and guaranteed the Blacks will move to a war footing.{{Ref|HOTD110}}
+
+===Aftermath===
+A message covering the deaths of Lucerys and his dragon is sent to Dragonstone, where it is received by Daemon. He enters the main hall of Dragonstone, where a meeting of the Black Council is being held, to relay the news to Rhaenyra, who stumbles upon learning of her son's death. Vengeful, she turns to her council to begin the war in earnest.{{Ref|HOTD110}}
+
+==In the books==
+In  ''[[Fire & Blood]]'' by [[George R.R. Martin]], the fight above [[Shipbreaker Bay]] is one of the first armed engagements of the [[Dance of the Dragons]], and likewise marks the point of no return. Indeed, [[Archmaester]] Gyldayn (the fictional author and narrator of ''Fire & Blood'', whose voice Martin wrote the book in) remarks that "...with his death, the war of [[raven]]s and envoys and [[marriage]] pacts came to an end, and the war of fire and blood began in earnest." Though the circumstances are largely similar, the fight between Lucerys and Aemond depicted in ''Fire & Blood'' is much different than how it is portrayed in the tenth episode of the ''[[House of the Dragon]]'' series.
+
+In both the television series and the book, Aemond demanded that Lucerys cut out his eye to pay for his own. However, in the book, the death of Lucerys seems to be entirely intentional on Aemond's part: by all accounts, Aemond pursued Lucerys specifically to kill him after the young prince had refused to cut out his own eye (and reputedly because Lady [[Maris Baratheon]], angered at being passed over by Aemond in favor of one of her sisters, had tauntingly asked if Lucerys had taken one of Aemond's eyes or his balls). In the television series, on the other hand, Aemond seems to pursue Lucerys simply to frighten him, as well as to continue to press his demand. Furthermore, in the book, Aemond threatens to take Lucerys's life if he does not take his own eye out. In the television series, however, Aemond only threatens to take Lucerys's eye out himself if he doesn't. Indeed, Aemond is shown in the television series to have lost control over Vhagar, and repeatedly shouts "No!" both before and after the dragon kills Lucerys and Arrax.
+
+There are some differences between the show and ''Fire & Blood'' on how the news of Lucerys's death reached Rhaenyra; it was never mentioned in the book on who passed on the news, unlike in the show, in which it was Daemon. Also, unlike the television series, Daemon was not mentioned nor shown to have been at Rhaenyra's side at that time in the book, as he was away at [[Harrenhal]]; he did, however, send a raven, promising to [[Assassination of Jaehaerys Targaryen|exact vengeance for Lucerys's murder]].
+
+Aemond, who would henceforth be known as Aemond the Kinslayer, triumphantly returned to King's Landing, having won the support of Storm's End for Aegon. He did not receive a hero's welcome: [[Alicent Hightower|Alicent]] cried when she heard what he had done, and [[Otto Hightower|Otto]] berated him, saying "You only lost one eye, how could you be so blind?" Aegon, however, welcomed Aemond home with a great feast, hailed him as "the true blood of the dragon," and announced that he had made "a good beginning."
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{Dance of the Dragons}}
+
+<!--Categories-->
+[[Category:132 AC]]
+[[Category:Battles]]
+[[Category:Dance of the Dragons]]
+
+<!--Languages-->
+[[ru:Битва над Заливом Разбитых Кораблей]]

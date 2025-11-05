@@ -1,0 +1,64 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Westeros
+| Image       = First King Death.png
+| Birth       = 
+| Death       = Shot in the neck with arrows by the [[Children of the Forest]]
+| House       = 
+| Affiliation = 
+| Titles      = First King
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[First Men]]
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|This First King united his people against the Children of the Forest and is supposedly buried in the North, a victim of a war he started. The first ruler of this land and the first to die on his throne. But not nearly the last...|[[Varys]]|The Death of Kings}}
+The '''First King''' was a legendary figure who lived during the [[Dawn Age]].
+
+==Biography==
+According to tradition, the First King unified the [[First Men]] under his rule and led them in their [[War of the First Men and the Children of the Forest|war against]] the [[Children of the Forest]]. At some point in the war, he was killed and buried in the [[North]].{{Ref|H&L414}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the First King is said to have led the [[First Men]] across the [[Arm of Dorne]] in their migration from [[Essos]] to [[Westeros]]. According to folklore, his grave is located in the Great Barrow on the outskirts of [[Barrowton]], the seat of [[House Dustin]]. ''The World of Ice & Fire'' sourcebook revealed that House Dustin, which once ruled the [[Barrowlands]] as Barrow Kings, claims descent from the First King himself.
+
+Like many stories that date from the early days of Westeros (i.e. prior to the [[coming of the Andals]] when they were written down for the first time), the validity of such tales is difficult to prove. While there are several myths about a first king of the First Men leading his people into Westeros, there are often rival myths in different areas, with various families each attempting to claim that their legendary founder was also the First King: In the [[Reach]], for example, it is claimed that [[Garth the Gardener|Garth Greenhand]] (the progenitor of all [[noble house]]s in the region) was not only the founder of the Reach, but the leader of all the First Men. The [[Order of Maesters|maesters]] also debate whether the First Men could even have spread from [[Dorne]] up to the [[North]] within a ''single generation'', and argue that it must have been a migration spanning many centuries. If this is the case, there may have been one king who led all of the First Men across the land bridge into Westeros, but he would have been succeeded by many later kings. The other possibility is that the First Men weren't even unified under a single ruler when they came to Westeros, but that different sub-groups and clans migrated in waves.
+
+==Appearances==
+*{{H&L|The Death of Kings}} {{Illustrated}}
+*{{H&L|Winterfell}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Legendary figures}}
+
+<!--Categories-->
+[[Category:Essosi]]
+[[Category:First Men]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Kings]]
+[[Category:Legendary figures]]
+
+<!--Languages-->
+[[de:Erster König]]
+[[fr:Premier Roi]]
+[[ru:Первый король]]

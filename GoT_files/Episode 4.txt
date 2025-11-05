@@ -1,0 +1,35 @@
+{{OtherUses|episode of The Game Revealed|Episode 4 (disambiguation)}}
+{{Episode
+| Title    = {{PAGENAME}}
+| Type     = Revealed
+| Image    = TGR704.jpg
+| Season   = 7
+| Episode  = 4
+| Date     = September 18, 2017{{Listref|TGR78}}
+| Runtime  = 14 minutes{{Appleref|TGR704}}
+| Writer   = 
+| Director = 
+| Year     = 
+| Previous = "[[Episode 3]]"{{Listref|TGR}}
+| Next     = "[[Episode 5]]"{{Listref|TGR}}
+}}
+"'''Episode 4'''" is the fourth episode of the [[The Game Revealed: Season 7|second season]] of ''[[The Game Revealed]]''. It is the ninth episode of the series overall. It was released on September 18, 2017.
+
+==Description==
+{{Description|TGR704}}
+
+==Gallery==
+<gallery bordersize="none">
+Game Revealed: Season 7 Episode 4: Warrior Women
+Game Revealed: Season 7 Episode 4: Home Sweet Home
+</gallery>
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{The Game Revealed}}
+
+<!--Categories-->
+[[Category:Episodes of The Game Revealed: Season 7| 04]]
+[[Category:Episodes released in 2017|9.18]]

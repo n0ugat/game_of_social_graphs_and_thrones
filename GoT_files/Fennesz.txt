@@ -1,0 +1,59 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Ghiscari
+| Image       = Fennesz.jpg
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[Great Masters]] {{C|contracted [[Slavery|slave]]}}
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Ghiscari]] {{C|[[Meereen]]ese}}
+| Religion    = [[Ghiscari religion]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 4|4]]
+| Appearances = "[[The Children]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Trevor Allan Davies]]
+}}
+{{Quote|The young may rejoice in the new world you have built for them, but for those of us too old to change, there is only fear and squalor.|Fennesz to [[Daenerys Targaryen]]|The Children}}
+'''Fennesz''' is a freedman and tutor, as well as an employed citizen of [[Meereen]].
+
+==Biography==
+===Background===
+Fennesz was a [[Slavery|slave]] in the service of [[Great Masters|Master]] [[Mighdal]], one of the [[Great Masters]] of [[Meereen]], and charged with educating the children of the household. In his own opinion, he was well treated by his master and loved by the children he taught. He speaks several languages, including [[High Valyrian|Valyrian]] and the [[Common Tongue]], and knows the history of [[House Targaryen]].{{Ref|GOT410}}
+
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+Some time after her army [[Siege of Meereen|took]] Meereen and freed all the slaves, [[Daenerys Targaryen]] receives Fennesz at court. He tells her how, in his view, his life became much harder since she "freed" him; he was well-treated and even well-respected in the household, but now he is living on the streets, as the living conditions in the barracks established for the homeless freedmen are terrible. Daenerys is surprised, but eventually allows Fennesz -- and others -- to enter into a contract of employment with his former owner, lasting no more than one year. The old man thanks her and leaves.{{Ref|GOT410}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no such character. The TV character is a condensation to represent what is happening to many slaves in Meereen:
+
+When [[Xaro Xhoan Daxos]] (who is still alive in the books) visits Daenerys, he scoffs at her attempts to abolish slavery in Meereen and declares that the condition of the ex-slaves she freed is now much worse than before, being forced to perform manual chores that do not fit their skills. As an example, he tells about a friend of his that used to be a rich merchant who dealt with rare spices and choice wines, and now he digs ditches. He begged Xaro to buy him as a slave and take him to [[Qarth]]. The role of Fennesz is roughly the same as the ex-slaves that Xaro talked about.
+
+==Appearances==
+*{{GOT|The Children}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Meereenese]]
+[[Category:Slaves and freedmen]]
+
+<!--Languages-->
+[[fr:Fennesz]]
+[[ro:Fennesz]]
+[[ru:Феннез]]

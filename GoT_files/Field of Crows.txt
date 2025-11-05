@@ -1,0 +1,59 @@
+{{Canonicity|Canon}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Westeros
+| Part          = the [[Century of Blood]]
+| Image         = Dothraki (Histories & Lore Season 6) - Field of Crows 1.PNG
+| Previous      = [[Battle of Qohor]]
+| Concurrent    = 
+| Next          = 
+| Date          = 
+| Place         = Sarne, Kingdom of Sarnor, [[Essos]]
+| Outcome       = Decisive Dothraki victory
+| Factions1     = [[Dothraki]]
+| Factions2     = [[Kingdom of Sarnor]] †
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = [[Khal]] [[Haro]] †<br>[[Khal]] [[Qano]]<br>[[Khal]] [[Loso]]<br>[[Khal]] [[Zhako]]
+| Leaders2      = [[High King of Sarnor|High King]] [[Mazor Alexi]] †
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = 80,000 riders
+| Participants2 = 100,000 foot soldiers<br>10,000 heavy cavalry<br>10,000 light cavalry<br>6,000 scythed chariots
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = Heavy
+| Casualties2   = Complete host destroyed<br>High King Mazor Alexi
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Quote|When Khal Mengo's son, Khal Moro, laid waste to the Waterfall City of Sathar, renaming it "The Place of Wailing Children", the Tall Men finally realized their peril. Led by a High King, they assembled a great army to break the khals once and for all, and met the Dothraki on what would ever after be known as the Field of Crows.|[[Jorah Mormont]]|The Dothraki}}
+The '''Field of Crows'''{{Ref|H&L608}} was the chief battle between the [[Dothraki]] and the [[Sarnori]] during the [[Century of Blood]].
+
+==History==
+The battle for Sarne was the first time the Sarnori fought with a unified army, after finally realizing the gravity of the situation.
+
+The Sarnori had a numerical and material advantage, and their scythed chariots made short work with the Dothraki horses. After Khal [[Haro]] was killed, the Dothraki fell back, feigning defeat in order to trick the Sarnori into pursuing them. The Dothraki archers subsequently showered the Sarnori with arrows. Two khalasars hit the Sarnori flanks while a third hit them from behind. The Sarnori force was wiped out, and King [[Mazor Alexi]] was killed.
+
+Having destroyed the Kingdom of Sarnor, the Dothraki now enjoyed almost complete superiority in the [[Dothraki Sea]]. This would persist until the disastrous [[Battle of Qohor]], which finally spelled an end to the idea of Dothraki invincibility.<ref>"[[The Dothraki]]"</ref>
+
+==In the books==
+In ''The World of Ice & Fire'', the [[Sarnori]] army consisted of six thousand scythed chariots, ten thousand heavy horsemen, ten thousand light horsemen and one hundred thousand foot soldiers. The [[Dothraki]] force was made up of four [[khalasar]]s, in which there were almost eighty thousand soldiers. The two armies met halfway between Sarnath and Kasath. The vanguard of Sarnori chariots cut through the Dothraki line and killed [[Khal]] [[Haro]], which caused his khalasar to retreat. The Sarnori pursued them under the leadership of [[Mazor Alexi]], quickly falling into a trap where they were struck by arrows from Haro's surviving forces while Khal [[Qano]] attacked from the north, Khal [[Zhako]] attacked from the south and Khal [[Loso]] attacked from the rear to prevent them from escaping. Mazor Alexi and his host were destroyed by the four khalasars. The Dothraki quickly conquered the undefended Sarnath and soon took the remain Sarnori cities with the exception of Saath.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Century of Blood}}
+
+<!--Categories-->
+[[Category:Battles]]
+[[Category:Century of Blood]]
+
+<!--Languages-->
+[[de:Feld der Krähen]]
+[[ru:Воронье поле]]

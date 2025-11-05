@@ -1,0 +1,65 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = House Targaryen.svg
+| Link  = House Targaryen/House of the Dragon
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Targaryen
+| Image       = 
+| Birth       = [[Red Keep]], [[King's Landing]]{{Con|F&B}}
+| Death       = 
+| House       = [[House Targaryen/House of the Dragon|Targaryen]]{{Guideref|Jaehaerys I Targaryen}}
+| Affiliation = 
+| Titles      = [[Prince]]
+| AKA         = 
+| Culture     = [[Valyrians|Valyrian]]
+| Religion    = 
+| Father      = {[[Jaehaerys I Targaryen]]}{{Guideref|Jaehaerys I Targaryen}}
+| Mother      = {[[Alysanne Targaryen]]}{{Guideref|Jaehaerys I Targaryen}}
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+Prince '''Gaemon Targaryen'''{{Con|F&B}} was the eleventh child of King [[Jaehaerys I Targaryen|Jaehaerys I]] and Good Queen [[Alysanne Targaryen|Alysanne]].{{Guideref|Jaehaerys I Targaryen}}
+
+==Family==
+{{Targaryen tree (House of the Dragon)}}
+
+==In the books==
+In ''[[Fire & Blood]]'', Gaemon was born prematurely in 73 AC, named after Gaemon the Glorious, a pre-[[Aegon's Conquest]] Lord of Dragonstone. He was scrawny, almost half the size of his brother [[Vaegon Targaryen|Vaegon]] at birth. He died less than three months later in 74 AC.
+
+==Appearances==
+*{{HOTD|Second of His Name}} {{Indirect}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|Gaemon Targaryen (son of Jaehaerys I)}}
+
+<!--Navboxes-->
+{{House Targaryen/House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Targaryen, Gaemon}}
+[[Category:Crownlanders]]
+[[Category:Individuals mentioned in House of the Dragon]]
+[[Category:Members of House Targaryen|Gaemon Targaryen]]
+[[Category:Princes]]
+
+<!--Languages-->
+[[ru:Геймон Таргариен]]

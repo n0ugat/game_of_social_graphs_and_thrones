@@ -1,0 +1,63 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Lannister
+| Image       = Frances main.jpg
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = {[[Varys]]}<br>{[[Qyburn]]}
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 6|6]]
+| Appearances = 2 episodes {{Below|Appearances}}
+| First       = "[[Oathbreaker]]"
+| Last        = "[[The Winds of Winter]]"
+| DeathEp     = 
+| Actor       = [[Annette Hannah]]
+}}
+{{Dialogue a-b-a|Frances|Will Lord Varys ever come back?|Qyburn|I don't think so. Do you miss him?|He was nice.|Frances and Qyburn|Oathbreaker}}
+'''Frances'''<ref>[http://www.pqacademy.com/news/pqa-derby-students-stars-game-thrones/ ]</ref> is a [[dwarf]]. She was part of [[Varys]]'s network of informants and spies, and she is now under the command of [[Qyburn]].
+
+==Biography==
+===[[Game of Thrones: Season 6|''Game of Thrones'': Season 6]]===
+Frances is first seen around other [[little birds]] in Qyburn's chamber, where Qyburn is tending to a boy's bruised eye. It's revealed that Qyburn has done away with the child's abusive father, and has taken the boy under his wing along with the rest of the little birds. When Frances asks about Lord Varys, the boy reveals that he and the other children were the eunuch's network of 'little birds'. Qyburn bribes the children with candied plums to take allegiance with him, and do for him what they did for Varys.{{Ref|GOT603}}
+
+Frances, along with some of the other little birds, stab and murder [[Pycelle]] in Qyburn's laboratory, after summoning him with the pretense of a royal request.{{Ref|GOT610}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no character by that name.
+
+==Appearances==
+*{{GOT|Oathbreaker}}
+*{{GOT|The Winds of Winter}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Little birds}}
+
+<!--Categories-->
+[[Category:Dwarfs]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Little birds]]
+[[Category:Smallfolk]]
+[[Category:Westerosi]]
+
+<!--Languages-->
+[[de:Frances]]
+[[fr:Frances]]
+[[pt-br:Frances]]
+[[ru:Фрэнсис]]

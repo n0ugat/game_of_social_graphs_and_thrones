@@ -1,0 +1,37 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Kingdoms
+| Image   = Finn Bennett.jpg
+| Birth   = 1999 {{Age|1999|12|31}}<br>Homerton, London, England
+| Death   = 
+| Role    = [[Aerion Targaryen]]
+| Series  = ''[[A Knight of the Seven Kingdoms]]''
+| Season  = [[A Knight of the Seven Kingdoms: Season 1|1]]
+| Credits = 
+| First   = 
+| Last    = 
+}}
+'''Finn Bennett''' (born 1999) is an English and Northern Irish actor.
+
+Bennett portrays [[Aerion Targaryen]] in ''[[A Knight of the Seven Kingdoms]]''.{{Webref|name=FirstLook |author=Nick Romano |date=June 18, 2024 |url=https://ew.com/game-of-thrones-a-knight-of-the-seven-kingdoms-first-look-cast-confirmed-8665658 |title=''Game of Thrones'' spinoff unveils its Hedge Knight in first look at ''A Knight of the Seven Kingdoms'' |website=Entertainment Weekly |access-date=June 18, 2024}}
+
+==Credits==
+===Starring===
+{{A Knight of the Seven Kingdoms: Season 1}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{WP}}
+*{{IMDb|#=3882611}}
+
+<!--Navboxes-->
+{{A Knight of the Seven Kingdoms}}
+
+<!--Categories-->
+{{DEFAULTSORT:Bennett, Finn}}
+[[Category:Starring cast members of A Knight of the Seven Kingdoms]]
+
+<!--Languages-->
+[[pl:Finn Bennett]]

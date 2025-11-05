@@ -1,0 +1,40 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Freddie Fox.jpg
+| Birth   = Frederick Samson Robert Morice Fox<br>April 5, 1989 {{Age|1989|4|5}}<br>Hammersmith, London, England
+| Death   = 
+| Role    = [[Gwayne Hightower]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]] {{*}} [[House of the Dragon: Season 3|3]]
+| Credits = 6 episodes {{Below|Credits}}
+| First   = "[[The Burning Mill]]"
+| Last    = 
+}}
+'''Frederick Samson Robert Morice Fox''' (born 5 April 1989) is an English actor.
+
+In ''[[House of the Dragon]]'', he plays [[Gwayne Hightower]] in the [[House of the Dragon: Season 2|second season]].<ref name="Variety">[https://variety.com/2023/tv/news/house-of-the-dragon-alys-rivers-season-2-1235592500/ 'House of the Dragon' Season 2 Casts Alys Rivers and Three More Characters | ''Variety'']</ref>
+
+Fox is a scion of a prominent multi-generational family of actors. His mother, [[Joanna David]], portrayed [[Joselyn Redwyne]] in the [[House of the Dragon: Season 1|first season]] of ''House of the Dragon''.
+
+==Credits==
+===Starring===
+{{House of the Dragon: Season 2|||yes|yes|yes|yes||yes}}
+{{House of the Dragon: Season 3||||yes}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{WP|Freddie Fox (actor)}}
+*{{IMDb|#=3456865}}
+
+<!--Navboxes-->
+{{House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Fox, Freddie}}
+[[Category:Starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Freddie Fox]]

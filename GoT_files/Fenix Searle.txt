@@ -1,0 +1,42 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Fenix Searle.jpg
+| Birth   = 
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[Game of Thrones]]''<br>''[[House of the Dragon]]''
+| Season  = ''Game of Thrones'':<br>[[Game of Thrones: Season 8|8]]<br>''House of the Dragon'':<br>[[House of the Dragon: Season 1|1]]
+| Credits = 3 episodes {{Below|Credits}}
+| First   = "[[The Long Night]]"
+| Last    = 
+}}
+'''Fenix Searle''' is an stuntman, choreographer and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 8|eighth season]] episodes "[[The Long Night]]" and "[[The Bells]]".
+
+In ''[[House of the Dragon]]'', he was a stunt performer in the [[House of the Dragon: Season 1|first season]] episode "[[We Light the Way]]".
+
+==Credits==
+===Stunts===
+====''[[Game of Thrones]]''====
+{{Game of Thrones: Season 8|||yes||yes}}
+
+====''[[House of the Dragon]]''====
+{{House of the Dragon: Season 1|||||yes}}
+
+==See also==
+*{{IMDb
+|# = 3717935}}
+*{{Facebook
+|# = fenix.searle}}
+*{{Google+
+|# = 104109581683920090404}}
+*{{YouTube
+|# = channel/UCxGZHf0uhxHJZ9NfHJ_LQqA}}
+
+==References==
+{{reflist}}
+{{DEFAULTSORT:Searle, Fenix}}
+[[Category:Stunt performers of Game of Thrones]]
+[[Category:Stunt performers of House of the Dragon]]

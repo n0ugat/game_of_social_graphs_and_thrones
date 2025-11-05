@@ -1,0 +1,43 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Ewan Mitchell.jpg
+| Birth   = Ewan Robert Mitchell<br>March 8, 1997 {{Age|1997|3|8}}<br>Derby, England
+| Death   = 
+| Role    = [[Aemond Targaryen]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]] {{*}} [[House of the Dragon: Season 2|2]] {{*}} [[House of the Dragon: Season 3|3]]
+| Credits = 11 episodes {{Below|Credits}}
+| First   = "[[The Lord of the Tides]]"
+| Last    = 
+}}
+'''Ewan Robert Mitchell''' (born 8 March 1997<ref>https://www.thewikifeed.com/ewan-mitchell/</ref>) is an English actor. He is known for his role as Osferth in the television series ''{{WPS|The Last Kingdom (TV series)|The Last Kingdom}}''.
+
+He portrays Prince [[Aemond Targaryen]] in ''[[House of the Dragon]]''.<ref name="WIC">[https://winteriscoming.net/2021/10/15/the-last-kingdom-star-ewan-mitchell-joins-cast-game-of-thrones-prequel-house-of-the-dragon/ The Last Kingdom star joins cast of House of the Dragon (winteriscoming.net)]</ref>
+
+==Credits==
+===Starring===
+{{House of the Dragon: Season 1||||||||yes|yes|yes}}
+{{House of the Dragon: Season 2|yes|yes|yes|yes|yes|yes|yes|yes}}
+{{House of the Dragon: Season 3}}
+
+==See also==
+*{{WP}}
+*{{IMDb|# = 7359071}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House of the Dragon}}
+{{House of the Dragon: Inside the Episode}}
+
+<!--Categories-->
+{{DEFAULTSORT:Mitchell, Ewan}}
+[[Category:Commentators of House of the Dragon: Inside the Episode]]
+[[Category:Starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[de:Ewan Mitchell]]
+[[fr:Ewan Mitchell]]
+[[pl:Ewan Mitchell]]

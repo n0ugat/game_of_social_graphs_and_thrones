@@ -1,0 +1,32 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Gabriel Scott.jpg
+| Birth   = Hammersmith, West London, England
+| Death   = 
+| Role    = [[Jerrel Bracken]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = "[[King of the Narrow Sea (episode)|King of the Narrow Sea]]"
+| First   = 
+| Last    = 
+}}
+'''Gabriel Scott''' is an English actor.
+
+In ''[[House of the Dragon]]'', he portrayed [[Jerrel Bracken]] in "[[King of the Narrow Sea (episode)|King of the Narrow Sea]]."<ref>https://www.spotlight.com/4139-0163-4227</ref>
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1||||yes}}
+
+==See also==
+*{{IMDb|#=12346441}}
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Scott, Gabriel}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Gabriel Scott]]

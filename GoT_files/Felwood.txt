@@ -1,0 +1,42 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Fell.svg
+| Link  = House Fell
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Baratheon
+| Image        = Felwood Pin.png
+| Type         = Castle
+| Status       = 
+| Location     = The [[Stormlands]], [[Westeros]]
+| Population   = 
+| Rulers       = [[House Fell]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Felwood'''{{Ref|GOT105}} is a castle in the [[Stormlands]], the region controlled by [[House Baratheon]] of [[Storm's End]]. The castle is located north-west of Storm's End and south of [[King's Landing]], at the edge of the [[Kingswood]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Felwood is the seat of House Fell.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Fell}}
+{{Stormlands}}
+
+<!--Categories-->
+[[Category:Castles of the Stormlands]]
+[[Category:House Fell]]
+
+<!--Languages-->
+[[de:Grimmwald]]
+[[ru:Фелвуд]]

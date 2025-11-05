@@ -1,0 +1,136 @@
+{{DISPLAYTITLE:''Game of Thrones: A Telltale Games Series''}}
+{{Game
+| Title     = ''Game of Thrones:<br><small>A Telltale Games Series</small>''
+| Type      = Telltale
+| Image     = {{PAGENAME}}.png
+| Episodes  = 6{{Ref|ATGS06}}
+| Date      = December 2, 2014{{Webref|name=PRN |author=Telltale, Inc. |date=December 2, 2014 |url=https://www.prnewswire.com/news-releases/game-of-thrones-a-telltale-games-series-season-premiere-now-available-for-download-300003156.html |title='Game of Thrones®: A Telltale Games Series' Season Premiere Now Available For Download |website=PR Newswire |access-date=February 3, 2024 }} {{C|PC, Mac, PlayStation 4}}<br>December 3, 2014<ref name="PRN" /> {{C|Xbox One, Xbox 360}}<br>December 4, 2014<ref name="PRN" /> {{C|iOS}}<br>December 9, 2014<ref name="PRN" /> {{C|PlayStation 3}}
+| Platforms = Microsoft Windows<br>Mac OS X<br>PlayStation 3<br>PlayStation 4<br>Xbox 360<br>Xbox One<br>iOS<br>Android
+| Designer  = Ryan Kaufman<br>Matt Almer
+| Voice     = 
+| Years     = 2014-2015
+| Website   = https://telltale.com/series/game-of-thrones/
+}}
+'''''Game of Thrones: A Telltale Games Series'''''<ref name="PRN" /> is an episodic video game based on the [[HBO]] [[Game of Thrones|television series]], released in 2014 and consists of six episodes.<ref>[https://twitter.com/telltalegames/status/531838754898460672 @telltalegames] - Twitter ''(Nov 10, 2014)''</ref> It was being developed in conjunction with HBO by [[wikipedia:Telltale Games|Telltale Games]], developers of the critically praised video game spinoffs for ''[[Wikipedia:The Walking Dead (video game)|The Walking Dead]]'' and ''[[Wikipedia:The Wolf Among Us|The Wolf Among Us]]''.
+The game was announced on Twitter on December 8, 2013.<ref>[https://twitter.com/telltalegames/status/409480716628393985/ Twitter]</ref> It was released on December 2, 2014 for PC/Mac and PlayStation 4, on December 3 for Xbox One and Xbox 360, on December 4 for iOS, and on December 9 for PlayStation 3.<ref>[https://mobile.twitter.com/telltalegames/status/538025079599144961 @telltalegames] Twitter ''(Nov 27, 2014)''</ref> Each episode costs $4.99 (£3.99) or $24.99 (£19.99) for the season pass.
+
+Telltale founder and CEO Dan Connors said in an interview at VGX 2013:
+
+''"We're just really getting into it right now and thinking about the right characters, and who has the most at stake, and who has the most to do, and who has the biggest impact on the world … ‘Cause, you know, we're so much about consequence, and “Game of Thrones” is so much about big consequence."''
+
+==Overview==
+The main characters are from House Forrester. The Forresters are a family of the minor nobility from the [[Wolfswood]] in the [[North]], bannermen to [[House Glover]] - who are in turn themselves major vassals sworn to [[House Stark]] of [[Winterfell]]. The seat of House Forrester is Ironrath, an imposing stronghold in the forest surrounded by ironwood trees. Their [[house words]] are "Iron from Ice", echoing their belief that the severe cold and hostile landscape of the North only make them stronger.<ref>[http://kotaku.com/finally-a-game-of-thrones-video-game-that-looks-worthy-1661233364/+charliejane Kotaku]</ref>
+
+House Forrester's basic details and allegiances exist in the novels. However they were only mentioned in passing once and its current members were not described: "''...guides Lady Sybell [Glover] had given them, trackers and hunters sworn to Deepwood with clan names like Forrester and Woods, Branch and Bole.''"{{Bookref|ADWD|42}} With no details given about its current members in the novels, this gives the video game a blank canvas to fill new characters with.
+
+The events of the first season of the game series generally coincide with [[Game of Thrones: Season 4|Season 4]], beginning towards the end of [[Game of Thrones: Season 3|Season 3]] and ending just before [[Game of Thrones: Season 5|Season 5]] begins.<ref name="Telltale">[http://www.telltalegames.com/blog/86265/your-story-begins-first-details-on-game-of-thrones-a-telltale-games-series First Details] - The Telltale Blog ''(Nov 11, 2014)''</ref>
+
+Players visit familiar locations such as [[King's Landing]] and the [[Wall]], as well as unfamiliar locations such as Ironrath, the home of House Forrester. The game is played from five different points of view. Each character you play as is a member of House Forrester; either a direct family member or a person in service to the house. Scattered across Westeros and Essos, each character will play their part in seeking to save House Forrester from destruction. Playing as five characters not only reflects the epic scope of ''Game of Thrones'', but is also something that the player needs to be mindful of. This is because the actions of one character can ripple out to affect the rest of House Forrester.<ref name="Telltale" />
+
+Actors from the main ''[[Game of Thrones]]'' TV series reprised their roles for the video game, providing voice-acting for the in-game appearances of their characters, including [[Lena Headey]] (Cersei), [[Peter Dinklage]] (Tyrion), [[Natalie Dormer]] (Margaery), and [[Iwan Rheon]] (Ramsay). Other actors and characters from the main TV series were to appear in later episodes.
+
+== Background ==
+In the [[Lordship|social structure]] of the [[Seven Kingdoms]], there are usually only nine [[Great House]]s, such as the Starks or Lannisters, that rule entire regions ("seven" kingdoms, plus the [[Riverlands]] which are a borderland region, plus the capital region of the [[Crownlands]]). Each Great House has about a dozen or so major noble houses immediately sworn to them. In the North, these include [[House Umber]], [[House Manderly]], [[House Karstark]], and [[House Glover]], among others. All told this means that there are a little over one hundred major noble houses in Westeros, almost all of which have been accounted for in the novels. However, each of the major noble houses also have their own minor noble houses that serve them as local bannermen. For example, [[House Cassel]] is a local minor house in direct service to the Starks, not one of the major noble houses like the Umbers ([[George R.R. Martin]] has said that in retrospect, he should have used distinct terms for the three different ranks of nobles, such as "duke" and "baron", instead of each holding the rank of "Lord"). Given that each major noble house has a couple of minor houses serving as local bannermen, there are apparently ''hundreds'' of minor houses which have never been mentioned in the novels, with the main novel mostly focusing on the large-scale conflicts between entire kingdoms.
+
+Essentially, the video game is focusing on a representative "everyman" minor house, to show how the [[War of the Five Kings]] is impacting people on a local level.
+
+Westeros is a large continent (often said to be roughly the size of South America), not simply one country, so the unified realm under the [[Iron Throne]] is on the scale of the Roman Empire, and each constituent kingdom such as "the North" is the size of an entire real-life medieval country, with armies numbering in the tens of thousands. Major houses such as the Umbers or Karstarks can raise armies from their combined minor bannermen numbering in the low thousands. Minor noble houses who are bannermen to the others have forces numbering in the hundreds at most.
+
+==Episodes==
+{| {{Prettytable}}
+! Episode
+! Image
+! Title
+! Release date
+|-
+| style="text-align: center;" | 1{{Ref|ATGS01}}
+| [[File:ATGS01.png|150px]]
+| "[[Iron From Ice]]"{{Ref|ATGS01}}
+| December 2, 2014<ref name="PRN" />
+|-
+| style="text-align: center;" | 2{{Ref|ATGS02}}
+| [[File:ATGS02.png|150px]]
+| "[[The Lost Lords]]"{{Ref|ATGS02}}
+| February 3, 2015{{Webref|name=GS |author=Rob Crossley |date=January 22, 2015 |url=https://www.gamespot.com/articles/telltale-s-game-of-thrones-episode-2-coming-early-/1100-6424823/ |title=Telltale's Game of Thrones Episode 2 Coming Early February |website=GameSpot |access-date=February 3, 2024 }}
+|-
+| style="text-align: center;" | 3{{Ref|ATGS03}}
+| [[File:ATGS03.png|150px]]
+| "[[The Sword in the Darkness]]"{{Ref|ATGS03}}
+| March 24, 2015{{Webref|name=EW |author=Jonathon Dornbush |date=March 23, 2015 |url=https://ew.com/article/2015/03/23/telltale-game-of-thrones-episode-3-trailer-release-date/ |title=Watch Telltale's 'Game of Thrones' episode 3 trailer |website=Entertainment Weekly |access-date=February 3, 2024 }}
+|-
+| style="text-align: center;" | 4{{Ref|ATGS04}}
+| [[File:ATGS04.png|150px]]
+| "[[Sons of Winter]]"{{Ref|ATGS04}}
+| May 26, 2015{{Webref|name=IGN |author=Luke Karmali |date=May 22, 2015 |url=https://www.ign.com/articles/2015/05/21/telltales-game-of-thrones-episode-4-gets-a-release-date |title=Telltale's Game of Thrones Episode 4 Gets a Release Date |website=IGN |access-date=February 3, 2024 }}
+|-
+| style="text-align: center;" | 5{{Ref|ATGS05}}
+| [[File:ATGS05.png|150px]]
+| "[[A Nest of Vipers]]"{{Ref|ATGS05}}
+| July 21, 2015{{Webref|name=EW2 |author=Jonathon Dornbush |date=July 16, 2015 |url=https://ew.com/article/2015/07/16/telltale-game-of-thrones-episode-5-release-date-trailer/ |title=Telltale Games Game of Thrones fifth episode release date and trailer |website=Entertainment Weekly |access-date=February 3, 2024 }}
+|-
+| style="text-align: center;" | 6{{Ref|ATGS06}}
+| [[File:ATGS06.png|150px]]
+| "[[The Ice Dragon]]"{{Ref|ATGS06}}
+| November 17, 2015{{Webref|name=EW3 |author=Jonathon Dornbush |date=October 21, 2015 |url=https://ew.com/article/2015/10/21/telltale-games-game-thrones-cast-trailer-episode-6-release-date/ |title=Telltale Games' Game of Thrones cast trailer, episode 6 release date |website=Entertainment Weekly |access-date=February 3, 2024 }}
+|}
+
+== Canceled sequel ==
+The second season of ''Game of Thrones: A Telltale Games Series'' was announced on November 20, 2015 in an interview with Kevin Bruner, then Telltale's CEO and co-founder and executive producer of Season 1.<ref>http://www.hollywoodreporter.com/live-feed/game-thrones-telltale-season-2-842311</ref>
+
+In an interview with Eurogamer on August 29, 2017, Telltale's head of creative communications Job Stauffer stated that plans for Season 2 were on hold due the other games they are working on and because they want to see where the narrative of the ''Game of Thrones'' TV series goes. Job Stauffer said that the project was having a hold up at least until the ''Game of Thrones'' TV series ends with [[Game of Thrones: Season 8|Season 8]]. <ref>http://www.eurogamer.net/articles/2017-08-25-telltale-talks-the-wolf-among-us-return-and-game-of-thrones-being-on-hold</ref>
+
+On September 21, 2018 it was announced that Telltale Games was undergoing a studio closure which meant that multiple Telltale employees had been laid off with just 10% of the staff staying on to fulfill the company's obligations to its board and partners".<ref>https://www.usgamer.net/articles/report-telltale-games-shutting-down-the-wolf-among-us-2-and-stranger-things-canceled</ref> The second season of ''Game of Thrones: A Telltale Game Series'' was canceled upon the majority studio closure, and eventual bankruptcy and collapse, of Telltale Incorporated. That same year, LCG Entertainment acquired Telltale's assets and most of their intellectual property, including some of the licensed titles.{{Webref|name=IGN2 |author=Matt Kim |date=December 19, 2019 |url=https://www.ign.com/articles/2019/12/19/telltale-says-its-building-a-non-crunch-work-environment |title=Telltale Says It's Building a 'Non-Crunch Work Environment' |website=IGN |access-date=August 25, 2024 }} Only the licenses to ''The Walking Dead'' and ''Stranger Things'' were confirmed to have reverted to their original owners.{{Webref|name=Polygon |author=Colin Campbell |date=August 28, 2019 |url=https://www.polygon.com/2019/8/28/20835854/telltale-games-return-walking-dead-lcg-entertainment |title=Telltale Games is being revived |website=Polygon |access-date=August 25, 2024 }} The ownership of Telltale's ''Game of Thrones'' license is unknown, and the status of the game's canonicity in relation to the television series is uncertain.
+
+==Gallery==
+===Videos===
+====Trailers====
+<gallery bordersize="none">
+Game of Thrones: A Telltale Games Series - Announcement Trailer
+Game of Thrones: A Telltale Games Series - Teaser Trailer
+</gallery>
+
+====Story So Far====
+<gallery bordersize="none">
+Game of Thrones - A Telltale Games Series: Story So Far
+</gallery>
+
+====Featurettes====
+<gallery bordersize="none">
+30 GoT
+Game of Thrones: A Telltale Games Series - TV Cast Featurette
+</gallery>
+
+===Images===
+<gallery>
+TTG GoT Logo.png
+ADWD quote.jpg
+GOT_2.jpg
+B1K8XJVCMAAretu1.jpg
+TTG GoT Ironrath Promo.png
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Game of Thrones - A Telltale Games Series|''Game of Thrones - A Telltale Games Series''}}
+*{{IMDb title|# = 3391176}}
+*{{TTGOT|Game of Thrones: A Telltale Games Series|''Game of Thrones: A Telltale Games Series''}}
+*{{WP|Game of Thrones (2014 video game)|''Game of Thrones'' (2014 video game)}}
+
+<!--Navboxes-->
+{{Game of Thrones: A Telltale Games Series}}
+{{Game of Thrones}}
+
+<!--Categories-->
+[[Category:Game of Thrones: A Telltale Games Series| ]]
+[[Category:Games based on Game of Thrones|Telltale Games Series]]
+[[Category:Games released in 2014|C.02]]
+[[Category:Video games]]
+
+<!--Languages-->
+[[de:Game of Thrones - A Telltale Games Series]]
+[[fr:Game of Thrones: A Telltale Games Series]]
+[[pl:Game of Thrones - A Telltale Games Series]]
+[[ro:Game of Thrones: A Telltale Games Series]]
+[[ru:Game of Thrones: A Telltale Games Series]]

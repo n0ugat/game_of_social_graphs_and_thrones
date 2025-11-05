@@ -1,0 +1,80 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Baratheon.svg
+| Link  = House Baratheon/House of the Dragon
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Baratheon
+| Image       = Floris Baratheon Official Guide.jpg
+| Birth       = [[116 AC]]{{Dateref|Floris Baratheon}} (age 16){{Dateref|House of the Dragon: Season 2}}
+| Death       = 
+| House       = [[House Baratheon/House of the Dragon|Baratheon]]{{Ref|HOTD110}}
+| Affiliation = 
+| Titles      = 
+| AKA         = 
+| Culture     = [[Stormlands|Stormlander]]{{Ref|HOTD110}}
+| Religion    = 
+| Father      = [[Borros Baratheon]]{{Ref|HOTD110}}
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 1|1]]
+| Appearances = "[[The Black Queen]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Megan Barter]]
+}}
+{{Quote|The Stormlands should be ours after Prince Aemond's marriage pact to the Lady Floris Baratheon.|Otto Hightower|A Son for a Son}}
+'''Floris Baratheon''' is a noblewoman from [[House Baratheon/House of the Dragon|House Baratheon]].
+
+==Biography==
+===Background===
+Floris is a daughter of Lord [[Borros Baratheon]] of [[Storm's End]]. She has three sisters: [[Cassandra Baratheon|Cassandra]], [[Maris Baratheon|Maris]], and [[Ellyn Baratheon|Ellyn]].{{Ref|HOTD109}}
+
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+Floris is present in the great hall of Storm's End when [[Lucerys Velaryon]] arrives to obligate Borros to support his mother [[Rhaenyra Targaryen|Rhaenyra]] in the [[Dance of the Dragons]]. Borros feels insulted that Luke has come without an offer, in contrast to the [[Greens]] negotiating a betrothal between Floris and [[Aemond Targaryen|Aemond]].{{Ref|HOTD110}} Luke fails to sway Borros and the betrothal is finalized.{{Guideref|Floris Baratheon}}
+
+===[[House of the Dragon: Season 2|''House of the Dragon'': Season 2]]===
+Floris is mentioned by [[Otto Hightower|Otto]] during a session of the [[Green Council]], as her marriage pact to [[Aemond Targaryen|Aemond]] brings the [[Stormlands]] to the cause of the [[Greens]].{{Ref|HOTD201}}
+
+==Family==
+{{Baratheon tree (House of the Dragon)}}
+
+==In the books==
+In ''[[Fire & Blood]]'', Floris and her sisters Cassandra, Maris, and Ellyn were known as the "Four Storms". Their mother was Lady Elenda of [[House Caron]]. Floris was the prettiest of the Baratheon sisters. The book doesn't actually specify which of the Baratheon girls Aemond agreed to a betrothal with, except that it wasn't Maris (because she subsequently insulted Aemond for not picking her). Borros let Aemond choose for himself: Cassandra was eldest (and thus might produce the Baratheon heir if Borros had no future sons), Maris was the cleverest, and Floris was the "comely" one.
+
+==Appearances==
+*{{HOTD|The Green Council}} {{Indirect}}
+*{{HOTD|The Black Queen}}
+*{{HOTD|A Son for a Son}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+*{{TOG|character-guide#floris-baratheon}}
+
+<!--Navboxes-->
+{{House Baratheon/House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Baratheon, Floris}}
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Members of House Baratheon|Floris Baratheon]]
+[[Category:Stormlanders]]
+
+<!--Languages-->
+[[de:Floris Baratheon]]
+[[fr:Floris Baratheon]]
+[[pl:Floris Baratheon]]
+[[ru:Флорис Баратеон]]

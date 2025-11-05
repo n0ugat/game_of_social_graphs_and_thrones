@@ -1,0 +1,54 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Tarth.svg
+| Link  = House Tarth
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Baratheon
+| Image        = 
+<gallery>
+Stormlands Map from Robert's Rebellion - Histories & Lore.png|Appearance
+Evenfall Hall Pin.png|Location
+</gallery>
+| Type         = Castle
+| Status       = 
+| Location     = [[Tarth]], the [[Stormlands]]
+| Population   = 
+| Rulers       = [[House Tarth]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Evenfall Hall''',{{Ref|H&L204}} or simply '''Evenfall''',{{Ref|HOTD108}} is a castle in the [[Stormlands]]. It is the seat of [[House Tarth]], a [[Noble house|vassal house]] holding fealty to [[House Baratheon]] of [[Storm's End]]. The castle is located east of Storm's End on the island of [[Tarth]].<ref>"[[Robert's Rebellion - Stannis Baratheon]]"</ref>
+
+==History==
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+Maester [[Kelvyn]] informs [[Rhaenys Targaryen]] that [[raven]]s arrived from Evenfall, carrying news about [[Corlys Velaryon|Corlys]]'s injury.{{Ref|HOTD108}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Evenfall Hall is the main stronghold of Tarth and the girlhood home of [[Brienne of Tarth]]. It is located on the western side of the island, overlooking the Straits of Tarth.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Tarth}}
+{{Stormlands}}
+
+<!--Categories-->
+[[Category:Castles of the Stormlands]]
+[[Category:House Tarth]]
+[[Category:Tarth]]
+
+<!--Languages-->
+[[de:Dämmerhall]]
+[[es:Castillo del Atardecer]]
+[[pl:Wieczorny Dwór]]
+[[ru:Закатный]]
+[[uk:Вечірній Чертог]]

@@ -1,0 +1,70 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = House Targaryen.svg
+| Link  = House Targaryen/House of the Dragon
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Targaryen
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = [[House Targaryen/House of the Dragon|Targaryen]]{{Guideref|Jaehaerys I Targaryen}}
+| Affiliation = 
+| Titles      = [[Prince]]ss
+| AKA         = 
+| Culture     = [[Valyrians|Valyrian]]
+| Religion    = 
+| Father      = {[[Jaehaerys I Targaryen]]}{{Guideref|Jaehaerys I Targaryen}}
+| Mother      = {[[Alysanne Targaryen]]}{{Guideref|Jaehaerys I Targaryen}}
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|King Jaehaerys ruled over half a century of peace while his children drove him to the edge of madness... his daughters, in particular.|[[Lyonel Strong]]|Second of His Name}}
+Princess '''Gael Targaryen'''{{Con|F&B}} was the thirteenth child of King [[Jaehaerys I Targaryen|Jaehaerys I]] and Good Queen [[Alysanne Targaryen|Alysanne]].{{Guideref|Jaehaerys I Targaryen}}
+
+==Family==
+{{Targaryen tree (House of the Dragon)}}
+
+==In the books==
+In ''[[Fire & Blood]]'', Gael was born in 80 AC. She was called the "Winter Child," according to some due to the fact that she was born during the winter, and according to others because the queen was in "the winter of her childbearing years." She was considered to be simpleminded and frail. She followed her mother everywhere, and slept in her bed.
+
+In 99 AC, Gael disappeared. It was said officially that she had died of a summer fever, but after the king and queen died, it was revealed that she had drowned herself after giving birth to a stillborn son fathered by a traveling singer.
+
+==Appearances==
+*{{HOTD|Second of His Name}} {{Indirect}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Targaryen/House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Targaryen, Gael}}
+[[Category:Crownlanders]]
+[[Category:Halfwits]]
+[[Category:Individuals mentioned in House of the Dragon]]
+[[Category:Members of House Targaryen|Gael Targaryen]]
+[[Category:Princesses]]
+
+<!--Languages-->
+[[ru:Гейль Таргариен]]
+[[uk:Ґейл Тарґеріен]]

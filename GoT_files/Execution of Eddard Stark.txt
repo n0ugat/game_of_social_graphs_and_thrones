@@ -1,0 +1,95 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Thrones
+| Part          = the [[War of the Five Kings]]
+| Image         = Ned's execution.jpg
+| Previous      = [[Battle of the Camps]]
+| Concurrent    = 
+| Next          = [[Liberation of Raventree Hall]]
+| Date          = [[298 AC]]{{Dateref|Game of Thrones: Season 1}}
+| Place         = [[Great Sept of Baelor]], [[King's Landing]], [[Crownlands]]
+| Outcome       = *Lord [[Eddard Stark]] is put to death at the order of King [[Joffrey Baratheon]]
+*Rebellion of the [[North]] and the [[Riverlands]] against the [[Iron Throne]]
+*Proclamation of [[Robb Stark]] as [[King in the North]]
+*Escape of [[Arya Stark]]
+| Factions1     = {{COA|House Lannister|small}} [[House Lannister]]<br>{{COA|House Baratheon of King's Landing|small}} [[House Baratheon of King's Landing]]
+| Factions2     = {{COA|House Stark|small}} [[House Stark]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = {{COA|House Lannister|inline}} Queen [[Cersei Lannister]]<br>{{COA|House Baratheon of King's Landing|inline}} King [[Joffrey Baratheon|Joffrey I Baratheon]]
+| Leaders2      = {{COA|House Stark|inline}} Lord [[Eddard Stark]] {{Executed}}
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = {{COA|House Payne|inline}} Ser [[Ilyn Payne]]<br>{{COA|Kingsguard|inline}} [[Kingsguard]]<br>{{COA|City Watch of King's Landing|inline}} [[City Watch of King's Landing]]
+| Participants2 = 
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = 
+| Casualties2   = Lord Eddard Stark
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Quote|My mother wishes me to let Lord Eddard join the Night's Watch... stripped of all titles and powers, he would serve the realm in permanent exile. And my Lady Sansa has begged mercy for her father. But they have the soft hearts of women... so long as I'm your King, treason shall never go unpunished! Ser Ilyn, bring me his head!|King [[Joffrey Baratheon|Joffrey]] sentences Lord [[Eddard Stark|Eddard]] to die.|Baelor}}
+The '''execution of Eddard Stark'''{{Con|ASOIAF}} is a pivotal event in the developing [[War of the Five Kings|conflict]] caused by the death of [[Robert Baratheon]], paving the way for its transformation into a full-fledged civil war.
+
+==History==
+===Prelude===
+{{Quote|I know the truth Jon Arryn died for.|Eddard Stark to Cersei Lannister|You Win or You Die}}During his tenure as [[Hand of the King]] to King [[Robert Baratheon]], [[Eddard Stark]] discovers that [[Jaime Lannister|Jaime]] is the father of [[Cersei Lannister|Cersei]]'s children. While Robert is hunting, Ned confronts Cersei, unwisely revealing that he knows her secret and giving her a chance to flee [[King's Landing]] with her children before he tells Robert the truth. Cersei is unfazed since she has already arranged [[Assassination of Robert Baratheon|Robert's death]] by instructing her cousin [[Lancel Lannister|Lancel]] to give him too much wine during his hunt.
+
+Robert is gravely injured by a boar during a hunt and, before passing away, names Joffrey as his successor. He appoints Ned to temporarily hold the throne until Joffrey is mature enough to handle the responsibility. Ned chooses not to disclose the truth to Robert, but instead informs Robert's younger brother and rightful heir, [[Stannis Baratheon]]. In the meantime, Cersei and Joffrey take the throne. With assistance from [[Janos Slynt]] and [[Petyr Baelish|Littlefinger]], Ned confronts Cersei, attempting to arrest her and her children. However, Slynt and Littlefinger have been swayed by the Lannisters, betraying Ned and leading to the [[Massacre in the Red Keep|massacre of his men and his imprisonment]].<ref>"[[You Win or You Die]]"</ref>
+
+While in the dungeons, Ned is visited by [[Varys]], who informs him that his son, [[Robb Stark]], has called all of [[House Stark]]'s banners to march on King's Landing and free him, and though [[Arya Stark|Arya]] has escaped, [[Sansa Stark|Sansa]] is still the Lannisters' hostage. However, Varys also claims that Cersei has promised that if Ned confesses to his "treason" and orders Robb to stand down, he will be spared and sent to the [[Night's Watch]]; Ned initially refuses to sully his honor by making a such false confession, but reluctantly changes his mind after Varys points out that Sansa's life is at stake.<ref>"[[The Pointy End]]"</ref><ref name=":1">"[[Baelor]]"</ref>
+
+===False confession and execution===
+{{Quote|I am Eddard Stark, Lord of Winterfell and Hand of the King. I come before you to confess my treason in the sight of gods and men. I betrayed the faith of my King and the trust of my friend Robert. I swore to protect and defend his children... but before his blood was cold, I plotted to murder his son... and seize the Throne for myself. Let the High Septon and Baelor the Blessed bear witness to what I've said. Joffrey Baratheon... is the one true heir to the Iron Throne... by the grace of all the gods, Lord of the Seven Kingdoms and Protector of the Realm.|Ned Stark|Baelor}}After agreeing to Cersei's terms, Ned is taken to the yard before the [[Great Sept of Baelor]] to confess his treason publicly. Present for the confession are Joffrey, Cersei, Sansa, Littlefinger, Varys, [[Pycelle]], the [[High Septon (Joffrey)|High Septon]], several [[Kingsguard]] and the [[King's Justice]], Ser [[Ilyn Payne]]. Unbeknownst to all of them, save Ned, Arya is also present, standing on the pedestal of the statue of [[Baelor I Targaryen|Baelor the Blessed]]. Passing [[Yoren]] in the crowd, Ned can say a single word to him, "Baelor," prompting Yoren to seize Arya a few minutes later and keep her from seeing her father's execution. 
+
+Ned is taken by two [[City Watch of King's Landing|Gold Cloaks]] before the King and his entourage while the people of the city gathered yell insults at him. Aware of his daughter's pleas, he relents and gives the false confession the Queen demanded: confessing his plot to murder Joffrey and seize the Throne for himself.
+
+Pycelle intervenes, and after speaking of the justice and mercy of the gods, he asks the King what will be done with the traitor. The people yell out in anger until Joffrey holds out his hand to speak. He mentions that his mother wishes to let Eddard join the Night's Watch and live the remainder of his days at the Wall, [[Attainder|stripped]] of lands and titles, while his betrothed, Sansa, has begged mercy for her father. However, Joffrey dismisses the two as soft-hearted and promises that treason will never go unpunished for as long as he's King. Then he turns to Ser Ilyn and demands Ned's head.
+
+The crowd calls out for Ned's death. Sansa desperately begs for her father's life, only to be restrained by a Kingsguard. Cersei also asks her son to reconsider his sentence. Varys also runs to the King, who remains adamant in his decision. Eddard is pushed to his knees by two Kingsguard, and Ser Ilyn puts on a black hood to conceal his face. He then swings [[Ice]], the greatsword of House Stark itself, and beheads Eddard.<ref name=":1" /> [[Sandor Clegane|The Hound]] holds Eddard's head up to the adulation of the baying crowd.<ref name=":2" />
+
+===Aftermath===
+{{Quote|Renly Baratheon is nothing to me, nor Stannis neither! Why should they rule over me and mine from some flowery seat in the south? What do they know of the [[Wall]]? Or the [[Wolfswood]]? Even [[Faith of the Seven|their]] [[Seven|gods]] are wrong! Why shouldn't we rule ourselves again? It was the dragons we bowed to... and now the dragons are dead. [[Robb Stark|There]] sits the only King I mean to bend my knee to... the King in the North!|[[Greatjon Umber]]|Fire and Blood}}The execution of Ned Stark, similarly to the [[Execution of Rickard and Brandon Stark|execution of his father and brother]], has not discouraged people from defying the Crown, on the contrary: it has extremely infuriated House Stark and the people of the [[North]], inciting them to wage war on House Lannisters.
+
+Many major houses greatly condemn the execution throughout the [[Seven Kingdoms]] on both sides of the war. [[Tywin Lannister|Tywin]] refers to the action as "madness and stupidity", as it prevents [[House Lannister]] from making peace with House Stark and [[House Tully]] to then deal with both [[Renly Baratheon|Renly]] and Stannis.<ref name=":2">"[[Fire and Blood]]"</ref> [[Tyrion Lannister|Tyrion]] laments that the execution "will haunt our family for a generation."<ref name=":0">"[[The North Remembers]]"</ref>
+
+When the news of Ned's death reaches the Northern and River lords, they choose not to support either of Robert's brothers. Declaring independence from the [[Iron Throne]], they proclaimed Robb as the [[King in the North]].<ref name=":2" />
+
+After receiving Ned's letter, Stannis notifies all of Westeros about Joffrey's parentage, declares himself King of the Seven Kingdoms and resolves to take the Iron Throne and rule over the same kingdom that Robert once did, and destroy any who stand in his way.<ref name=":0" />
+
+Long afterward, in [[Braavos]], Ned's execution is portrayed in the play ''[[The Bloody Hand]]'' in a ridiculous manner. The crowd is amused, but Arya is deeply saddened.<ref>"[[The Door]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the execution occurs almost identically to the TV series. There are only minor differences, such as the fact that the [[High Septon (Joffrey)|High Septon]] is the one who speaks of the justice and mercy of the gods, and he and [[Varys]] protest Joffrey's decision to execute Ned. The book also does not indicate that Ned spotted Arya in the crowd or instructed Yoren to protect her; Yoren seems to find her by chance.
+
+Slynt has a more active part in the books at Ned's execution: he commands the Gold Cloaks to fling Ned to the marble, to be beheaded (this is the scene from Arya's POV; Sansa recalls that Slynt did it himself). In the fifth novel, while Cersei performs the [[walk of atonement]], it is revealed in her flashback that Slynt lifted Ned's severed head after the execution; this detail is not mentioned from Arya's and Sansa's POV.
+
+Ser [[Barristan Selmy]] is present at the execution in the guise of Arstan Whitebeard. However, this is not revealed until ''A Dance With Dragons'' after he has joined the service of [[Daenerys Targaryen]]. Barristan notes that, afterward, he went into the Sept and thanked the Seven that Joffrey had stripped him of his cloak. When Daenerys angrily denounces Eddard as a traitor who rebelled against his rightful King, Barristan tells her that Eddard was against the murder of her family and the assassination attempt on her and her son. However, she still considers him equally responsible and labels him as one of the "Usurper's dogs." Ser Barristan is annoyed by this and disagrees with his Queen but remains silent as it is not his place to speak. 
+
+It is also mentioned in the books that the High Septon and the Faith of the Seven are outraged that the execution was performed on the steps of the Sept, profaning the holy site with blood in their eyes, as well as irreparably damaging the Crown's relations with the Faith (as Cersei had assured the High Septon beforehand that Eddard would be allowed to live after he confessed his treason, only to then appear a liar in the High Septon's eyes). Even several years after Eddard's death, members of the Faith (such as the [[High Sparrow]]) would continue to criticize Cersei for allowing Joffrey to commit such a wanton act of blasphemy on a holy site.
+
+While Cersei performs the walk of atonement, she muses that Joffrey made a terrible mistake by commanding to execute Eddard; had he lived and joined the Watch, the North would not have gone to war, and Tywin would have dealt with [[Stannis Baratheon|Robert's]] [[Renly Baratheon|brothers]].
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{War of the Five Kings}}
+
+<!--Categories-->
+[[Category:298 AC]]
+[[Category:Executions|Stark, Eddard]]
+[[Category:Featured pages]]
+[[Category:War of the Five Kings]]
+
+<!--Languages-->
+[[de:Hinrichtung von Eddard Stark]]
+[[fr:Exécution d'Eddard Stark]]
+[[ru:Казнь Эддарда Старка]]

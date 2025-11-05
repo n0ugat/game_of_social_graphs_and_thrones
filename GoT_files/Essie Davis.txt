@@ -1,0 +1,31 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Essie Davis.jpg
+| Birth   = Esther Davis<br>January 19, 1970 {{Age|1970|1|19}}<br>Hobart, Tasmania, Australia
+| Death   = 
+| Role    = [[Lady Crane]]
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 6|6]]
+| Credits = 3 episodes {{Below|Credits}}
+| First   = "[[The Door]]"
+| Last    = "[[No One]]"
+}}
+'''Esther "Essie" Davis''' is an award-winning Australian actress. She is best known for her role as Phryne Fisher in the ''Miss Fisher Murder Mysteries'', in addition to being known for her roles in films such as ''The Matrix Reloaded'', ''The Matrix Revolutions'', ''Girl with a Pearl Earring'', ''Charlotte's Web'', ''Legend of the Guardians: The Owls of Ga'Hoole'' and ''The Babadook''.
+
+In ''[[Game of Thrones]]'', she portrayed [[Lady Crane]] in the [[Game of Thrones: Season 6|sixth season]].<ref>[http://winteriscoming.net/2015/09/12/richard-e-grants-role-revealed-plus-the-babadooks-essie-davis-joins-the-cast/ Richard E. Grant’s role revealed, plus The Babadook’s Essie Davis joins the cast]</ref>
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 6|||||yes|yes||yes}}
+
+==See also==
+*{{WP}}
+*{{IMDb
+|# = 0204583}}
+
+==References==
+{{Reflist}}[[fr:Essie Davis]]
+[[ru:Эсси Дэйвис]]
+{{DEFAULTSORT:Davis, Essie}}
+[[Category:Guest starring cast members of Game of Thrones]]
