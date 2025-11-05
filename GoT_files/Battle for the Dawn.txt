@@ -1,0 +1,53 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Westeros
+| Part          = the [[Long Night]]
+| Image         = H&L104.png
+| Previous      = 
+| Concurrent    = 
+| Next          = 
+| Date          = c. [[7700 BC]]{{Dateref|Long Night}}
+| Place         = [[Westeros]]
+| Outcome       = '''Decisive victory for the Living'''
+*White Walker invasion defeated and driven back to the [[Land of Always Winter]]
+*Construction of the [[Wall]]
+*Formation of the [[Night's Watch]]
+| Factions1     = [[First Men]]<br>[[Children of the Forest]]
+| Factions2     = [[White Walkers]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = 
+| Leaders2      = 
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = Unknown
+| Participants2 = [[Wight|Army of the Dead]]
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = 
+| Casualties2   = 
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Quote|After years of brutal conflict and unbearable loss, an alliance of the First Men and the Children of the Forest managed to drive the Walkers and their minions back into the frigid northern wastelands from whence they came.|[[Jeor Mormont]]|The History of the Night's Watch - The Night's Watch}}
+The '''Battle for the Dawn'''{{Con|ASOIAF}} was the decisive engagement that ended the [[Long Night]].{{Ref|H&L104}}
+
+==History==
+Once [[Westeros]] endured the [[Long Night]] for a generation, an alliance consisting of the [[First Men]] and the [[Children of the Forest]] defeated the [[White Walkers]] and their [[Wight|Army of the Dead]], driving them back to the [[Land of Always Winter]]. To prevent future invasions of this nature, the [[Wall]] was constructed and the [[Night's Watch]] was formed.{{Ref|H&L104}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+[[Category:7700 BC]]
+[[Category:Battles|Dawn]]
+[[Category:Long Night]]

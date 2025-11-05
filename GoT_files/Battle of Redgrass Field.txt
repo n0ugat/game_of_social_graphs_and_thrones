@@ -1,0 +1,81 @@
+{{Canonicity|Canon}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Westeros
+| Part          = the [[Blackfyre Rebellion]]
+| Image         = Battle of the Redgrass Field.png
+| Previous      = 
+| Concurrent    = 
+| Next          = 
+| Date          = [[196 AC]]{{Dateref|Battle of Redgrass Field}}
+| Place         = The [[Redgrass Field]], southwest of [[King's Landing]]
+| Outcome       = Decisive [[House Targaryen|Targaryen]] victory;<br>death of Daemon Blackfyre
+| Factions1     = {{COA|House Targaryen|small}} [[House Targaryen]]<br>[[Dorne|Dornish]] and [[Stormlands|Stormlander]] houses
+| Factions2     = {{COA|House Blackfyre|small}} [[House Blackfyre]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = {{COA|Brynden Rivers|inline}} Lord [[Brynden Rivers]]<br>{{COA|House Targaryen|inline}} Prince [[Baelor Targaryen]]<br>{{COA|Maekar Targaryen|inline}} Prince [[Maekar Targaryen]]
+| Leaders2      = {{COA|House Blackfyre|inline}} [[Daemon Blackfyre]] †<br>{{COA|Aegor Rivers|inline}} [[Aegor Rivers]]
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = Royalist army<br>Allied [[Dorne|Dornish]] army
+| Participants2 = Rebel army
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = Heavy
+*Thousands of Targaryen and Dornish soldiers
+| Casualties2   = Heavy
+*Thousands of rebel forces
+*Daemon Blackfyre and two of his sons
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+The '''Battle of Redgrass Field'''{{Ref|GOT104}}{{Ref|H&L411}} was a military engagement fought approximately a century before the [[War of the Five Kings]]. It was the final battle of the [[Blackfyre Rebellion]], where [[Daemon Blackfyre]] was slain and his attempt to unseat his half-brother King [[Daeron II Targaryen]] was defeated.<ref>"[[A Golden Crown]]"</ref>
+
+==History==
+[[Daemon Blackfyre]], legitimized [[bastard]] son of King [[Aegon IV Targaryen]], led a massive rebellion against his half-brother King [[Daeron II Targaryen]]. The climax of the rebellion was the massive Battle of Redgrass Field, fought near King's Landing.
+
+During the battle, Ser [[Gwayne Corbray]] engaged in an epic duel with Daemon Blackfyre which lasted a full hour, despite Ser Gwayne being severely wounded.<ref>"[[The Kingsguard - Jaime Lannister]]"</ref>
+
+Ultimately, Daemon was killed in the battle by archers led by one of Aegon IV's other bastards, [[Brynden Rivers|Brynden "Bloodraven" Rivers]].<ref>"[[The Death of Kings]]"</ref>
+
+==In the books==
+The Battle of the Redgrass Field is detailed in flashback in the second of [[George R.R. Martin]]'s [[Dunk & Egg novellas]], ''The Sworn Sword''.
+
+This battle took place in approx. 195 or 196 AC and was the concluding battle of the Blackfyre Rebellion. Daemon Blackfyre, the [[bastard]] son of King [[Aegon IV Targaryen]] by his cousin [[Daena Targaryen|Daena]], claimed that his half-brother Daeron II Targaryen was illegitimate, being born of a liaison between [[Naerys Targaryen|his mother]] and her other brother. This would give him, as Aegon IV's next-eldest and legitimized child, the right to the [[Iron Throne]]. Daeron II disputed this and the resulting civil war lasted more than a year, with the realm divided between the red dragon (the Targaryens) and the black (the Blackfyres).
+
+The decisive battle came on a wide, nondescript field southwest of [[King's Landing]]. Daemon Blackfyre's forces gained the upper hand over the royalist army, with Daemon defeating Ser Gwayne Corbray of the [[Kingsguard]] in single combat. While chivalrously dismounting to help his wounded foe from the battlefield, Daemon was slain by a volley of arrows fired by the Raven's Teeth, an elite archery formation led by his half-brother [[Brynden Rivers]], popularly known as "Bloodraven". The Raven's Teeth caused immense damage to Daemon's army, slaying two of his sons as well. Daemon's other bastard half-brother, [[Aegor Rivers]], known as "Bittersteel", led a cavalry charge which routed the Raven's Teeth and resulted in a duel between himself and Bloodraven that ended with Bloodraven losing an eye. The rest of the Targaryen army, commanded by Prince [[Maekar Targaryen|Maekar]] formed a shield wall which managed to hold out against the mad attack of Bittersteel's forces. However, Bloodraven's gambit to distract Bittersteel allowed Prince [[Baelor Targaryen|Baelor "Breakspear" Targaryen]] to arrive with substantial reinforcements and attack the committed Blackfyre army in the rear. Caught between the hammer of Baelor's reinforcements and the anvil of Maekar's shield wall, the Blackfyre army was destroyed. The number of deaths that day - more than ten thousand - resulted in the grass turning red from blood, giving the battle its name.
+
+The Redgrass Field was one of the largest battles fought in Westerosi history, and the largest fought in the eighty years between the Blackfyre Rebellion and [[Robert's Rebellion]].
+
+Bittersteel was able to flee the field with a loyal core of supporters, who subsequently fled across the [[Narrow Sea]] to the [[Free Cities]], along with Daemon's younger sons. They later founded the [[Golden Company]], a famous mercenary army, in order to keep some semblance of a standing army. The Blackfyres attempted several more times to invade [[Westeros]] until being finally defeated fifty years later in the Fifth Blackfyre Rebellion, known as the "[[War of the Ninepenny Kings]]."
+
+In a sample chapter of the sixth upcoming novel, Ser Justin Massey tries to persuade [[Stannis Baratheon|Stannis]] to travel himself to [[Braavos]] and hire sellswords, pointing out that Bittersteel did that after Daemon Blackfyre's death in the battle. Stannis scornfully responds that Daemon was a rebel and usurper, and Bittersteel was a bastard, who swore he would return to place a son of Daemon's upon the Iron Throne - but never did.{{Bookref|TWOW|Theon I}}
+
+==Gallery==
+<gallery>
+History and Lineages Blackfyre.jpg|The Battle of Redgrass Field is mentioned in ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]''.
+Daemon Blackfyre versus Gwayne Corbray.png|A depiction of Daemon Blackfyre's duel with Gwayne Corbray 
+Daemon Blackfyre.png|Daemon Blackfyre at the Battle of Redgrass Field.
+</gallery>
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|Battle of the Redgrass Field}}
+
+<!--Categories-->
+[[Category:196 AC]]
+[[Category:Battles|Redgrass Field]]
+[[Category:Blackfyre Rebellion]]
+
+<!--Languages-->
+[[de:Schlacht auf dem Rotgrasfeld]]
+[[fr:Bataille du Champ d'Herberouge]]
+[[ru:Битва на Краснотравном поле]]
+[[zh:红草原之役]]

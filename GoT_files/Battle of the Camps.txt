@@ -1,0 +1,81 @@
+{{Canonicity|Canon}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Thrones
+| Part          = the [[War of the Five Kings]]
+| Image         = 
+| Previous      = [[Battle of Whispering Wood]]<br>[[Siege of Riverrun]]
+| Concurrent    = 
+| Next          = [[Execution of Eddard Stark]]
+| Date          = [[298 AC]]{{Dateref|Game of Thrones: Season 1}}
+| Place         = [[Riverrun]], the [[Riverlands]]
+| Outcome       = Decisive Stark victory
+| Factions1     =  '''Robb Stark’s Host:'''<br><br>{{COA|House Stark|small}} [[House Stark]]<br><br>{{COA|House Karstark|small}} [[House Karstark]]<br><br>{{COA|House Umber|small}} [[House Umber]]<br><br>{{COA|House Frey|small}} [[House Frey]]<br><br>{{COA|House Tully|small}} [[House Tully]]
+| Factions2     =  {{COA|House Baratheon of King's Landing|small}} '''[[Iron Throne]]'''/[[House Baratheon of King's Landing]]<br><br>{{COA|House Lannister|small}} [[House Lannister]]<br><br>{{COA|House Lefford|small}} [[House Lefford]]<br><br>{{COA|House Swyft|small}} [[House Swyft]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = {{COA|House Stark|inline}} Lord [[Robb Stark]]<br>{{COA|House Karstark|inline}} Lord [[Rickard Karstark]]<br>{{COA|House Umber|inline}} Lord [[Greatjon Umber]]
+| Leaders2      = Unknown
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = 
+| Participants2 = 
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = Light
+| Casualties2   = Entire Lannister army-group besieging Riverrun functionally destroyed
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Quote|Jaime captured, his armies scattered. It's a catastrophe. Perhaps we should sue for peace.|[[Kevan Lannister]] during a war council.|Fire and Blood}}
+The '''Battle of the Camps'''{{Guideref|Battle of the Camps}} is an early battle in the [[War of the Five Kings]]. It is the second stage of the liberation of [[Riverrun]] following immediately after the [[Battle of Whispering Wood]]. 
+
+==History==
+===Battle===
+Following immediately after [[Robb Stark]]'s ambush of [[Jaime Lannister]]'s cavalry at the Battle of Whispering Wood, Robb makes a surprise night-time assault on the main army besieging Riverrun. The Lannister army, being leaderless after the capture of Jaime during the [[Battle of Whispering Wood|immediately preceding battle]], is caught asleep in its camps and is easily defeated.<ref name=":0">"[[Fire and Blood]]"</ref>
+
+===Aftermath===
+[[File:LannisterCouncil.jpg|thumb|The Stark victory leads to disagreement between the Lannisters.]]
+Speaking soon afterwards at the war council of the eastern Lannister army-group in the Riverlands, [[Kevan Lannister|Kevan]] announces that Jaime's army has been completely destroyed and the survivors scattered. [[Tywin Lannister|Tywin]]'s generals argue over whether they should fall back to the Westerlands to rebuild their numbers with new conscripts, attack immediately with what forces they had remaining to avoid looking weak, or even to sue for peace. [[Tyrion Lannister|Tyrion]] points out that Robb will never accept a Lannister surrender after the petulant King [[Joffrey Baratheon|Joffrey]] [[Execution of Eddard Stark|executed his father]].<ref name=":0" />
+
+Tywin decides to retreat his eastern army-group east to recently captured [[Harrenhal]] and use it for continued operations in the Riverlands. Five hundred riders under Ser [[Gregor Clegane]] cover their retreat by burning out all the farmlands between the Red Fork and Harrenhal's location on the north shore of [[Gods Eye]] lake.<ref name=":0" />
+
+Meanwhile, Tywin's brother-in-law Ser [[Stafford Lannister]] is tasked with raising and training a new army-group of green conscripts in the [[Westerlands]].<ref>"[[Garden of Bones (episode)|Garden of Bones]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, in order to maintain an effective siege, the Lannister armies were divided into three different camps around Riverrun: one north of the Tumblestone, one to the southwest between the fork of the Tumblestone and Red Fork of the Trident, and a third smaller army to the southeast, on the other side of the Red Fork. The third group was smallest because the Red Fork was wider than the Tumblestone and unlikely for the Tullys to try to cross. When the siege began, the Tullys raised the sluice gates to flood the moat on the southwest side of Riverrun connecting the Tumblestone and Red Fork and functionally turning Riverrun into an island.
+
+The earlier Battle of Whispering Wood resulted in the destruction of 3/4 of the Lannister cavalry, as well as their scouts (that left the besiegers with 12,000 foot and 500-750 cavalry), so the Stark-Tully forces that came to relieve Riverrun achieved complete surprise when they attacked that night. [[Brynden Tully]] began with an assault on the northern camp, which had been personally commanded by Jaime. Caught while asleep, this now-leaderless Lannister army was easily slaughtered in their own camp.
+
+The southwestern Lannister camp was commanded by Lord Andros Brax and on hearing the noise of the assault on the northern camp, he hastily led many of his men in an attempt to cross the Tumblestone on their rafts. Taken by surprise, Brax responded in a panic, not taking time to assemble his whole camp, allowing for a defeat in detail. The river crossing was frantic and disorganized and was still within catapult range from Riverrun: many rafts were overturned by catapult shot, including Andros Brax, who was weighed down by his armor and drowned. The few, waterlogged men who didn't drown were disorganized and outnumbered and Brynden Tully's force was already deployed in a superior defensive position on the north bank, thus they were easily destroyed. However, most of the men in Brax's camp hadn't had time to assemble before he attempted a crossing. A second Stark army personally led by Robb, including forces of House Umber and elements of [[House Mallister]], then attacked the southwestern camp. Panicked, outnumbered, and having lost a large number of men in Brax's failed crossing, they were easily overrun. Towards the end of the battle, the Lannister forces in the southwestern camp attempted to form a shieldwall against Robb's army to the west but were then attacked in the rear by a sortie of Tully forces from Riverrun led by Tytos Blackwood.
+
+The third Lannister camp to the southeast, which was also the smallest with only 2,000 footmen and 2,000 bowmen, did not engage in combat. Seeing that the battle was already lost, its commander Ser Forley Prester managed to retreat in good order back to Golden Tooth. Nonetheless, this meant that two thirds of the infantry (8,000 men) and none of the cavalry deployed by the Lannisters around Riverrun survived the assault. Tywin, Tyrion, and the rest of the Lannister generals considered it a complete disaster and that their second army-group in the Riverlands had been functionally destroyed.
+
+Among the Lannister officers was an unnamed [[Tyrosh]]i sellsword, who commanded the freeriders; once he saw the battle was lost, he and an unknown number of the freeriders defected to Robb's host.
+
+The Battle of Whispering Wood and the Battle of the Camps were two halves of the process of lifting the siege of Riverrun. Even within the books, the Starks as well as the Lannisters tend to refer to both battles in combination as just "the Battle of Whispering Wood".
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{War of the Five Kings}}
+
+<!--Categories-->
+[[Category:298 AC]]
+[[Category:Battles|Camps]]
+[[Category:War of the Five Kings]]
+
+<!--Languages-->
+[[de:Schlacht der Lager]]
+[[fr:Bataille des Camps]]
+[[pl:Bitwa Obozów (powieść)]]
+[[pt-br:Batalha dos Acampamentos]]
+[[ru:Битва лагерей]]

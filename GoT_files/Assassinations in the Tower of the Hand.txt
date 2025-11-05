@@ -1,0 +1,103 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Thrones
+| Part          = the [[War of the Five Kings]]
+| Image         = Tyrionfindtywinprivey.jpg
+| Previous      = [[Battle for the Wall]]
+| Concurrent    = 
+| Next          = [[Confrontation in the Water Gardens]]
+| Date          = [[301 AC]]{{Dateref|Game of Thrones: Season 4}}
+| Place         = [[Tower of the Hand]], [[Red Keep]], [[King's Landing]], [[Crownlands]]
+| Outcome       = *Death of [[Tywin Lannister]] and [[Shae]]
+*Escape of [[Tyrion Lannister]] and [[Varys]] across the narrow sea
+*Leadership of [[House Lannister]] falls to [[Cersei Lannister]]
+| Factions1     = {{COA|House Lannister|small}} [[House Lannister]]
+| Factions2     = {{COA|House Lannister|small}} [[Tyrion Lannister]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = 
+| Leaders2      = 
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = {{COA|House Lannister|inline}} Lord [[Tywin Lannister]] †<br>[[Shae]] †
+| Participants2 = {{COA|House Lannister|inline}} [[Tyrion Lannister]]<br>{{COA|Kingsguard|inline}} Ser [[Jaime Lannister]]<br>[[Varys]]
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = Lord [[Tywin Lannister]]<br>[[Shae]]
+| Casualties2   = None
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Dialogue a-b|Cersei Lannister|You killed our father.|Tyrion Lannister|After he sentenced me to death for a [[Purple Wedding|crime]] I didn't commit, yes, I killed him. Hate me for it if you want; I hate myself for it, in spite of what he was, in spite of what he did to me.|[[Cersei Lannister]] and [[Tyrion Lannister]]|The Dragon and the Wolf}}
+The '''assassinations in the Tower of the Hand''' occur during the [[War of the Five Kings]]. It is set in motion by the liberation of [[Tyrion Lannister]] by [[Jaime Lannister]], ultimately leading to the assassinations of [[Shae]] and [[Tywin Lannister]].
+
+==History==
+===Prelude===
+{{Quote|The gods have made their will known. Tyrion Lannister, in the name of King Tommen of the House Baratheon, First of His Name, you're hereby sentenced to death.|Tywin Lannister passes the sentence.|The Mountain and the Viper}}
+Tyrion is put on [[Court trial of Tyrion Lannister|trial]] for the [[Purple Wedding|murder of Joffrey]], which he did not commit. Realizing the whole spectacle is a rigged farce, he demands a [[Second trial by combat of Tyrion Lannister|trial by combat]] instead.<ref>"[[The Laws of Gods and Men]]"</ref> However, his champion [[Oberyn Martell]] is defeated and killed, and therefore Tyrion is deemed to be guilty. He is sentenced to death by his father Tywin.<ref>"[[The Mountain and the Viper]]"</ref> In the middle of the night on the eve of his execution, his brother Jaime suddenly enters his cell and frees him. Jaime instructs Tyrion that [[Varys]] will help him escape the city for Essos, and the two brothers hug and say goodbye. Instead of going straight to Varys, however, Tyrion decides to confront his father one last time in the [[Tower of the Hand]] before leaving the city.
+
+===From scapegoat to kinslayer===
+[[File:Tyrionkillshae (1).jpg|thumb|Tyrion strangles Shae]]
+{{Dialogue a-b|Tywin Lannister|You shot me... you are no son of mine.|Tyrion Lannister|I am your son. I have always been your son.|Tyrion before he kills his father|The Children}}Tyrion enters the tower through a secret passage in the floor, and is shocked to find [[Shae]] in his father's bed. Shae sleepily calls out "Tywin, my lion", the name she had previously used for Tyrion. After they make eye contact, she grabs a dagger and they struggle. Tyrion disarms her and strangles her to death with the golden chain that he previously gave her around her neck. He immediately feels regret and apologizes to her corpse for what he has just done.
+[[File:Deadtywin.jpg|thumb|Tywin is shot dead by his own son]]
+
+Tyrion takes [[Joffrey Baratheon's crossbow|Joffrey's crossbow]] from the wall and finds his father sitting on the privy. Tywin correctly deduces that Jaime released him, because as Tywin noted, "he always had a soft spot for you." He reassures Tyrion that he would never have allowed him to be executed, but enrages his son by dismissing Shae as a whore. Tyrion warns him not to call her that again. He demands to know why Tywin sentenced his own son to death, despite knowing that he did not kill Joffrey. Tywin does not answer, and again tries to placate Tyrion but when he nonchalantly refers to Shae as a whore again, Tyrion shoots him in the stomach. Stunned, a wounded Tywin hisses, "You are no son of mine." Tyrion retorts that he is, and always has been, Tywin's son. He reloads the crossbow and shoots his father in the chest, killing him.
+
+===Aftermath===
+{{Quote|What have you done?|Varys to Tyrion Lannister|The Children}}[[File:varyssitcrate.png|thumb|Varys sitting next to the crate Tyrion is in as their ship leaves King's Landing.]]
+Tyrion makes it to Varys, who realizes that he has done something horrible. Varys loads him into a crate, and the crate is loaded onto a ship for the [[Free Cities]]. Varys walks away from the ship but then hears the bells tolling from the Red Keep, signifying that Tywin's body has been discovered. Varys turns around and boards the ship with Tyrion.<ref>"[[The Children]]"</ref> A funeral is held for Tywin as his body is placed on display in the Great Sept of Baelor until it is later properly buried in the same sept. Cersei berates Jaime for setting Tyrion free and accuses him of accidentally killing Tywin, whom she says loved Jaime more than anyone.<ref>"[[The Wars To Come]]"</ref> Cersei subsequently orders a manhunt for Tyrion, promising a lordship to the man who brings her his head.<ref>"[[The House of Black and White]]"</ref> Jaime confides to [[Bronn]] that he will kill Tyrion for murdering their father if he sees him again.<ref>"[[Sons of the Harpy (episode)|The Sons of the Harpy]]"</ref>
+
+In [[Braavos]], Tywin's murder is portrayed in the play ''[[The Bloody Hand]]'' in a very ridiculous manner, including a blunt reference to the joke "Tywin shits gold" - much to the amusement of the crowd.<ref>"[[Blood of My Blood]]"</ref>
+
+Although Cersei and Jaime eventually discover the truth that Tyrion did not in fact kill Joffrey, Cersei still despises him for killing their father, an act that she believes made the Lannisters look weak in the eyes of their enemies, and blames him for the subsequent deaths of Myrcella and Tommen as well. Tyrion expresses his regret for killing their father, revealing that he hates himself for the deed, despite what Tywin did to him.<ref>"[[The Dragon and the Wolf]]"</ref>
+
+When Jon visits Tyrion in prison, Tyrion goes over his past sins, including the murders of Shae and his father.<ref>"[[The Iron Throne]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the assassination of Tywin is described in Chapter 77 of the third volume ''A Storm of Swords''​. The basic details are the same in the TV series, though the motivations are drastically different:
+*Jaime sneaks into Varys's room and threatens him with a knife, forcing him to help release Tyrion. This is revealed in a flashback in the fourth volume ''A Feast for Crows''.{{Bookref|AFFC|8}}
+*After Jaime rescues Tyrion from the cell, the two brothers have a talk about [[Tysha]], Tyrion's first wife, whose story was revealed in [[Game of Thrones: Season 1|Season 1]] episode "[[Baelor]]" in the TV series. Jaime confesses that Tysha was no whore, instead of what Tyrion was told previously, and that Tywin instructed him to tell this lie to give Tyrion a lesson. Tyrion realizes that Tysha had been genuinely in love with him, and becomes furious with Jaime; he swears that Jaime, Cersei and their father will pay dearly (Cersei had nothing to do with Tysha, but she has been doing her best to make Tyrion's life miserable for years). He also tells Jaime that Cersei that has been sleeping with other men, among them [[Lancel Lannister|Lancel]], Osmund Kettleblack (a knight in Cersei's service and a member of the [[Kingsguard]]), and, sarcastically, Moon Boy the court jester. In order to hurt Jaime as much as he can, Tyrion falsely admits to killing Joffrey, after commenting he was more of a monster than the [[Aerys II Targaryen|Mad King]].
+*Tyrion is led by Varys through secret passages before killing Tywin; when Tyrion wants to confront Tywin, Varys begs him not to do something so foolish and dangerous when he is so close to freedom, but indicates the secret passage to the Tower of the Hand and gives Tyrion explicit directions to his father's bedchamber.
+*There are two guards, Red Lester and Lum, who guard the apartments of the Hand of the King when Tyrion sneaks into them. Luckily for Tyrion, the guards do not notice him because they are too busy making jokes about Shae and arguing whether Tyrion will face his executioner bravely or beg for mercy.
+*Tyrion emerges from the secret passage at the hearth in the bedroom of the Tower of the Hand.
+*Shae tries to save herself by claiming that she did not mean what she said in the trial, and that Tywin and Cersei forced her to. In a flashback at ''"A Feast for Crows"'' it is revealed to be a lie: Cersei offered Shae a bribe for her false testimony.
+*Shae never attempts to attack Tyrion; he kills her when she calls him "my giant of Lannister". The manner of the killing is the same, though the chain that Tyrion uses to strangle her is a necklace composed of golden hand-shaped segments, which serves as the badge of office worn by the Hand of the King that Tyrion and Tywin successively used in the books, and it is the only thing Shae is wearing at the moment. In the TV series the badge for the Hand is changed to a hand-shaped brooch, thus the chain used here is accordingly changed to the one that Tyrion previously gave Shae in the [[Game of Thrones: Season 3|Season 3]] episode "[[The Bear and the Maiden Fair (episode)|The Bear and the Maiden Fair]]".
+*While strangling Shae, Tyrion recites the song with this refrain: ''[[For hands of gold are always cold, but a woman's hands are warm]]''.
+*The crossbow Tyrion uses is Tywin's own crossbow, whereas in the show, the crossbow belonged to Joffrey.
+*Tywin figures that it was Varys, not Jaime, who released Tyrion, and says "I'll have his head for this".
+*Tywin tries to save himself by saying "You are not to be killed, if that is what you fear. It's still my intent to send you to the Wall, but I could not do it without [[Mace Tyrell|Lord Tyrell]]'s consent. Put down the crossbow and we will go back to my chambers and talk of it". Tyrion either does not believe or does not care if it is true, being mistreated by his father so long and especially recently. It is doubtful whether Tywin really needed the approval of Mace Tyrell, who had nothing to do with the offer that was given to Tyrion during the trial.
+*Tyrion confronts Tywin about Tysha. After he finds his father in the privy he inquiries about her and her whereabouts. Tywin doesn't remember her name (or pretends that he doesn't, as an insult) until Tyrion refers to her as his first wife, and recalls her as Tyrion's "first whore". Tyrion promptly warns his father, "The next time you say that word, I'll kill you" (he gives the same warning in the TV series, but referring to Shae instead). Tywin cannot recall, other than that he did not have her killed, simply stating that she was paid and the steward sent her on her way ''"wherever whores go"''. Hearing this, Tyrion looses his crossbow at him.
+*Tyrion kills Tywin with a single bolt to the pelvis, which causes his bowels to loosen. Tywin says incredulously "you shot me", and Tyrion says sarcastically "You always were quick to grasp a situation, my lord. That must be why you're the [[Hand of the King]]". Tywin swiftly disowns Tyrion, claiming him to be no son of his, to which Tyrion replies by stating that he is in fact Tywin "writ small", and that the two are more alike than he cares to realize.
+*Tyrion departs after telling his father to do him a courtesy and die quickly, noting from the smell as Tywin's corpse voids its bowels as he leaves that for once his father did as he asked. The narration remarks that the often repeated jape in the novels about Tywin (in the show it was first mentioned by Robb in "[[The Pointy End]]", and repeated by Bronn in "[[The Lion and the Rose]]") was another lie as he, in the end, "did not shit gold."{{Bookref|ASOS|77}}
+*The account of the assassination concludes with Tywin's death. The escape of Tyrion and Varys is not depicted. It is not revealed until ''A Dance with Dragons'' that Tyrion successfully escaped from King's Landing, while Varys disappears from the book after he directs Tyrion to the secret passage, and for a quite long period his whereabouts are unknown until he resurfaces in the epilogue of ''A Dance with Dragons''.{{Bookref|ADWD|71}}
+*Tyrion is not smuggled to the ship in a crate. When the ship reaches its destination, he is bundled into a barrel.
+*Following Tyrion's escape, his loyal squire [[Podrick Payne]] leaves the city in search for him. Pod hears from Brella, the only of [[Sansa Stark|Sansa]]'s maids who was not a spy of Cersei, that [[Brienne of Tarth|Brienne]] looks for Sansa. Pod goes after Brienne and eventually joins her, hoping that finding Sansa will lead to Tyrion.
+*Tywin's death is foreshadowed in ''A Game of Thrones''{{Bookref|AGOT|42}} and the TV episode "[[Baelor]]": after Tyrion tells the story about Tysha (still unaware that she was not a whore), [[Bronn]] comments "I would have killed the man who did that to me".
+*Tywin's death is also foreshadowed in "[[The Mountain and the Viper]]": Littlefinger says that people die at their dinner tables, die in their beds, and die squatting over their chamber pots.
+*Tywin's funeral is much longer. As the Lord Commander of the Kingsguard, Jaime is to stand vigil at his father's side for a few days until his body is taken back to Casterly Rock for burial. Due to the manner of his death, Tywin's corpse emits a foul odor, making it difficult for visitors, particularly young Tommen, to pay their respects, and his body decays in such a way that his mouth forms an eerie smile, ironically the first smile Jaime has ever seen on his father's face.
+*After Tywin's funeral, his body is escorted back to Casterly Rock for burial, whereas in the show, his body is buried in the Sept of Baelor itself.
+*Jaime blames himself for his father's death, musing "''Tyrion may have loosed the crossbow bolt that slew him, but I loosed Tyrion''". Recalling Tyrion's taunting last words about Cersei and Joffrey, Jaime thinks "''He never said he meant to kill our father. If he had, I would have stopped him. Then I would be the kinslayer, not him''". Unlike in the show, though, Jaime never states aloud or thinks that he will kill Tyrion the next time they meet - perhaps because, as mentioned above, he feels it was his fault. He is also furious upon learning (having insisted to Varys no one was to be harmed in the escape) that Cersei ordered the Kingsguard knights [[Boros Blount]] and [[Osmund Kettleblack]] to execute Tyrion's jailers for sleeping on the job during the escape (Varys had drugged them with sweetsleep on Jaime's orders). To cover his guilt, he berates the pair for blithely obeying Cersei's orders without bothering to consult him or thinking keeping the men alive to interrogate them might have been useful.
+*Tyrion does not feel any remorse or regret for killing his father, or for violating the taboo of kinslaying. On the contrary, in the fifth novel he occasionally brags about the murder, and even jokes about it: "Lord Tywin was sitting on a privy, so I put a crossbow bolt through his bowels to see if he really did shit gold. He didn't. A pity, I could have used some gold."{{Bookref|ADWD|8}} About Shae, however, he feels some remorse; he admits to himself that she is one of the people whom he misses (alongside Jaime and Tysha).{{Bookref|ADWD|66}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{War of the Five Kings}}
+
+<!--Categories-->
+[[Category:301 AC]]
+[[Category:Assassinations|Tower of the Hand]]
+[[Category:War of the Five Kings]]
+
+<!--Languages-->
+[[de:Morde im Turm der Hand]]
+[[fr:Assassinat à la Tour de la Main]]
+[[pt-br:Assassinato na Torre da Mão]]
+[[ru:Убийство в Башне Десницы]]

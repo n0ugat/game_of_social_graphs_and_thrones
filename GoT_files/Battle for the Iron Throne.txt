@@ -1,0 +1,32 @@
+{{DISPLAYTITLE:''Battle for the Iron Throne''}}
+{{References}}
+{{Game
+| Title     = ''{{PAGENAME}}''
+| Type      = Thrones
+| Image     = Got Training knight.jpg
+| Episodes  = 
+| Date      = 2011
+| Platforms = Facebook Platform
+| Designer  = 
+| Voice     = 
+| Years     = 
+| Website   = 
+}}
+'''''Battle for the Iron Throne''''' is a Facebook-based app game based on ''[[Game of Thrones]]'', that was launched in 2011.
+
+To battle for the [[Iron Throne]], the player must prove his strength, skill and knowledge. Ten levels will be unlocked throughout the first season. The player must achieve a minimum score per level, or he will die and his sword will be added to the Iron Throne.
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.makinggameofthrones.com/production-diary/2011/5/17/battle-for-the-iron-throne.html Launch announcement on the official ''Making Game of Thrones'' blog.]
+*[http://apps.facebook.com/ironthrone/ ''Battle for the Iron Throne'' on Facebook]
+
+<!--Navboxes-->
+{{Game of Thrones}}
+
+<!--Categories-->
+[[Category:Browser games]]
+[[Category:Games based on Game of Thrones]]
+[[Category:Games released in 2011|?]]

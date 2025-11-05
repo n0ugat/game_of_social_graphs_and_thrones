@@ -1,0 +1,217 @@
+{{Canonicity|Canon}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Thrones
+| Part          = the [[conflict beyond the Wall]]
+| Image         = Battle of Castle Black begins.png
+| Previous      = [[Sack of Mole's Town]]<br><small>([[conflict beyond the Wall]])</small><br>[[Second trial by combat of Tyrion Lannister]]<br><small>([[War of the Five Kings]])</small>
+| Concurrent    = 
+| Next          = [[Massacre at Hardhome]]<br><small>([[conflict beyond the Wall]])</small><br>[[Assassinations in the Tower of the Hand]]<br><small>([[War of the Five Kings]])</small>
+| Date          = [[301 AC]]{{Dateref|Game of Thrones: Season 4}}
+| Place         = [[Castle Black]], the [[Wall]]
+| Outcome       = Night's Watch and [[House Baratheon of Dragonstone]] victory<br>
+*Mance Rayder captured
+*Wildling army scattered; many others captured
+| Factions1     = {{COA|Night's Watch|small}} [[Night's Watch]]<br>{{COA|House Baratheon of Dragonstone|small}} [[House Baratheon of Dragonstone]] <small>(day 2)</small>
+| Factions2     = [[Free Folk]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = {{COA|Night's Watch|inline}} Ser [[Alliser Thorne]]<br>{{COA|Night's Watch|inline}} [[Janos Slynt]]<br>{{COA|Night's Watch|inline}} [[Jon Snow]]<br>{{COA|Night's Watch|inline}} [[Eddison Tollett]]<br>{{COA|House Baratheon of Dragonstone|inline}} King [[Stannis Baratheon|Stannis I Baratheon]]<br>{{COA|House Seaworth|inline}} Ser [[Davos Seaworth]]
+| Leaders2      = King [[Mance Rayder]]<br>[[Tormund]]<br>Magnar [[Styr]] †<br>[[Mag Mar Tun Doh Weg]] †
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = '''Day 1''':<br>~102 men of the Night's Watch
+*1 [[direwolf]] <small>([[Ghost]])</small> 
+----
+'''Day 2''':<br>6.000 soldiers<br>~3.000 Baratheon cavalry<br>500 [[Stormcrows]]{{Note|Based on a count of cavalry squares visible on-screen, divided evenly between the two pincers. Stannis said four episodes before in "[[The Laws of Gods and Men]]" that he has about 4,000 men left overall; others must have been left at Dragonstone, bringing the baggage train overland from Eastwatch, didn't have horses, etc., but a Bolton soldier told Roose Bolton that Stannis has 6.000 men, at least the half is mounted [[Hardhome (episode)|Hardhome]]}}
+| Participants2 = ~100,000 wildlings
+*Tormund's warband
+*Styr's warband
+*At least 2 [[giants]]
+*At least 1 [[mammoth]]
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = 50 men of the Night's Watch<ref>"[[Kill the Boy]]"</ref>
+*{{COA|Night's Watch|inline}} [[Pypar]]
+*{{COA|Night's Watch|inline}} [[Smitty]]
+*{{COA|Night's Watch|inline}} [[Grenn]]
+*{{COA|Night's Watch|inline}} [[Donnel Hill]]
+*{{COA|Night's Watch|inline}} [[Cooper]]
+Minimal Baratheon casualties
+| Casualties2   = Heavy
+*Entire southern assault force eliminated
+*Styr
+*[[Thenn warg]]
+*[[Ygritte]]
+*[[Dongo]]
+*Mag Mar Tun Doh Weg
+*Main force killed, scattered, or captured
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Quote|Brothers! A hundred generations have defended this castle. She has never fallen before and she will not fall tonight. Those are Thenns on our walls, they eat the flesh of the men they kill! Do you want to fill the belly of a Thenn tonight? Tonight we fight! And when the sun rises, I promise you, Castle Black will stand! The Night's Watch will stand! With me now, now with me!|[[Alliser Thorne]]|The Watchers on the Wall}}
+The '''battle for the Wall'''{{Ref|GOT502}} is a battle during the [[conflict beyond the Wall]] and the [[War of the Five Kings]], the latter due to the intervention of [[Stannis Baratheon]] at the battle's end.
+
+==History==
+===Prelude===
+Having heard disturbing reports of disappearance of [[Free Folk|wildlings]] and presence of [[White Walkers]] [[beyond the Wall]], [[Lord Commander of the Night's Watch|Lord Commander]] [[Jeor Mormont]] commanded a [[great ranging]] beyond the [[Wall]] to find out what was happening.<ref>"[[Fire and Blood]]"</ref> The ranging ended up in disaster with a nigh annihilation of the ranging party after the [[fight at the Fist]] followed by a [[Mutiny at Craster's Keep|mutiny]].<ref>"[[Valar Dohaeris]]"</ref><ref>"[[And Now His Watch Is Ended]]"</ref>
+
+[[Mance Rayder]], [[King-Beyond-the-Wall]], indeed united most wildling tribes in order to march south to escape the White Walkers. The destruction of the ranging party convinced him it was time to strike both because of the White Walker threat and because of the severe losses of the [[Night's Watch]], making an attack on the Wall both necessary and easier than it once had been.
+
+Mance planned to send raiding parties to climb the Wall to lure the remaining strength of the Night's Watch out of [[Castle Black]], then attack the castle's weakly defended southern side, while the bulk of his forces attacked the Wall from the north.<ref>"[[Walk of Punishment (episode)|Walk of Punishment]]"</ref>
+
+Having infiltrated Mance's army to learn their plans, [[Jon Snow]] convinced the Night's Watch not to waste men on defending the [[Gift]] but instead to focus on the defense of Castle Black.<ref>"[[Breaker of Chains]]"</ref> An [[Raid on Craster's Keep|attack]] on [[Craster's Keep]] prevented wildlings from knowing the truth about the numbers of the Night's Watch.<ref>"[[First of His Name]]"</ref> After the attacks on smaller villages in the [[Gift]] do not succeed in drawing out the garrison of Castle Black, the raids of the southern wildling force culminate in the [[Sack of Mole's Town]], only half a league south of the Wall. When news of this attack reaches Castle Black, the garrison realizes that Mance Rayder's main assault is imminent.<ref>"[[The Mountain and the Viper]]"</ref>
+
+===The first night: the battle===
+[[Ygritte]] spies on the castle to scout numbers of defenders. She reports to the other wildlings that most of the guards are at the top of the Wall and that few are left in the Castle. The group prepares to attack, while Ygritte seems to have second thoughts. The [[Thenn warg|Thenn]] [[warg]] suddenly snaps out of his trance and informs the group that the signal has been given, prompting the wildlings to immediately approach Castle Black's southern gate. North of the Wall, Mance delivers on his promise to "light the biggest fire the North has ever seen," and the massive wildling army emerges from the woods, their numbers including [[giants]] riding atop [[mammoth]]s. [[Alliser Thorne]] orders the archers on the Wall to nock their [[Armament|arrows]], but they draw instead while [[Grenn]] accidentally drops a barrel down the Wall. Alliser angrily drills his men on properly following orders when another horn blows from down below at Castle Black, signaling the unanticipated appearance of [[Tormund]]'s band of wildlings at the castle's southern entrance. Realizing the dire need for experienced men to defend the keep from the surprise attack, Alliser orders [[Janos Slynt]] to assume command of the Wall's defenses and heads below to join the melee.
+
+Below, Tormund and [[Styr]]'s forces charge the gate while Ygritte manages to pick off several men defending the gate with her bow. [[Pypar]] is firing a crossbow as [[Samwell Tarly|Sam]] assists by reloading another crossbow, but Pypar's aim is poor due to inexperience and nerves and he repeatedly misses his shots. The band of wildlings manage to reach Castle Black's walls and begin scaling them using grappling hooks and ropes, forcing Sam and Pyp to retreat.
+
+[[File:ThorneSeason4.jpg|thumb|180x180px|Thorne rallies his men.]]
+Alliser Thorne arrives with reinforcements from the top of the Wall via the wooden lift system, which is being operated by [[Olly]]. Alliser gives an impassioned speech, promising that the ancient order of the Night's Watch and Castle Black will survive this battle. His speech rallies the black brothers and Alliser personally leads the charge against the wildlings who have breached Castle Black's defenses, prompting intense battle that erupts in the courtyard.[[File:Giant_with_his_bow.png|thumb|180x180px|A giant fires a huge arrow.]]
+On the northern side of the Wall, the wildling horde emerges from the treeline led by two giants, [[Mag Mar Tun Doh Weg|one]] of which is riding a [[mammoth]]. They charge towards Castle Black's outer gate, while many more wildlings start ascending the Wall using climbing gear. On top of the Wall, Janos Slynt, having no true leadership experience outside of [[City Watch of King's Landing|law enforcement]], breaks down at the sight of the massive wildling army and begins fumbling his orders. Grenn steps in by falsely claiming that Alliser needs Janos back down in Castle Black. Janos believes the lie and leaves, allowing Jon to take command of the Wall's defenses. The black brothers continue to rain down arrows on the advancing wildlings, even killing ones that are attempting to scale the Wall. [[Dongo|One giant]], armed with a massive bow, fires a huge arrow at one of the bunkers atop the Wall, obliterating it and killing the black brother manning it. Hundreds of wildlings reach the base of the Wall and begin using climbing equipment to scale it. Jon assures his comrades that it will take several hours for them to reach the summit, because he [[The Climb|made that climb]] himself, though Edd warns that they're in more of a hurry now than he was.
+[[File:Hobb's_Butcher's_Knife.png|thumb|180x180px|Hobb prepares to butcher wildlings with his cleaver.]]
+Down in Castle Black, the battle rages on between the wildlings and the Night's Watch. Styr and Ygritte continue to slay numerous black brothers. At one point, a group of wildlings breach Castle Black's dining hall. One wildling is killed when a black brother throws boiling stew in his face and beats him to death with the pot. [[Hobb]], Castle Black's cook, calmly enters the dining hall and kills a wildling with his massive butcher's knife. Meanwhile, Janos Slynt hides in the back of the kitchens, where he discovers [[Gilly]] and [[Sam|her baby]], whom Sam had hidden there before the battle.
+
+[[File:S04E09_-_Pypar's_death.png|thumb|180x180px|Sam cradles a dying Pyp.]]
+Pyp​ manages to kill a wildling with his crossbow, but is then shot through the neck by Ygritte. Sam comforts Pyp and stays with him until he dies. Sam is forced to leave Pyp's body and as he heads to Castle Black's lift system, but he is spotted by the [[Thenns|Thenn]] warg. The warg charges at Sam as he desperately attempts to load his crossbow, managing to do so and firing a bolt into the warg's head just before he reaches him. Meanwhile, Alliser Thorne is locked in a vicious duel with Tormund on the catwalks of Castle Black, both seemingly evenly matched in skill. However, Thorne suffers a grievous wound and is forced to retreat, being dragged to safety as he continues to shout orders to his men.
+
+[[File:Battle of Castle Black Mammoth on Fire.jpg|thumb|180x180px|The wildlings at the north gate and their mammoth set on fire by flaming oil casks.]]
+Meanwhile, a large group of wildlings reaches the gate on the north side of the Wall, including Mag on his mammoth and a second giant. Mag dismounts, and the wildlings attach grappling hooks to the heavy iron bars of the gate, tied to ropes, and they secure the other ends of some to the mammoth. Mag pries at the gate with an iron bar, while the rest of the group starts pulling the gate open; due to the added strength of the giants and mammoth, the four-inch steel bars start to bend and buckle. To repel their assault, Jon ordered the defenders to drop explosive barrels on them, killing most of the human wildlings and setting the hairy mammoth's hindquarters on fire, making it flee in terror. The other giant runs after it but is impaled through the back by a huge ballista bolt shot from atop the Wall. Mag the Mighty proceeds to breach the gate on his own. As he slowly manages to inch the gate open, Jon sends a group of six black brothers lead by Grenn to defend the gate at any cost.
+
+[[File:Battle of Castle Black.jpg|thumb|180x180px|Jon joins the fighting in the courtyard.]]
+Sam arrives atop the Wall to ask Jon for more men to defend the castle, and Jon tasks Sam with releasing [[Ghost]] from his pen to assist in the fighting. Jon descends the Wall and finally enters the fray, quickly dispatching several wildlings and catching the attention of Styr and the two meet in a single combat.
+
+[[File:StyrDeath.PNG|thumb|180x180px|Styr is killed by Jon Snow.]]
+Styr eventually gets the upper hand by knocking [[Longclaw]] away, but Jon then knocks Styr's axe out of his hands with an iron chain. Their duel devolves into brutal hand-to-hand combat. Styr smashes Jon's face into an anvil and tosses him into the blacksmith's forge. Styr picks Jon up and begins strangling him, but Jon spits blood in Styr's face (a tactic he learned from fighting [[Karl Tanner]]) and distracts him long enough for Jon to grab the blacksmith's hammer lying next to him and bury it in Styr's skull.
+
+[[File:Ygritte_dies.png|thumb|180x180px|Ygritte dies in Jon's arms.]]
+Upon killing Styr, Jon turns around to find Ygritte pointing her bow at him with an arrow drawn. He smiles at her, causing Ygritte to hesitate. Before either can say anything, Ygritte is shot through the heart by an arrow fired from Olly, avenging the death of [[Guymon|his father]] at Ygritte's hands during the wildling attack on his village. Jon holds her in his arms as she tells him that they should have never left the cave, and they lament circumstances that prevented them from being together as she succumbs to her wound.
+
+[[File:Tormund_capture.jpg|thumb|180x180px|Tormund is captured by the Night's Watch.]]
+Atop the Wall, [[Eddison Tollett]], who Jon left in command of the defenses, orders the men to drop the "scythe". A huge section of ice suddenly falls away from the Wall revealing a massive scythe-like blade attached to a chain that swings along the Wall, cleaving through the wildlings attempting to climb its face. Eddison notices the wildling forces are beginning to withdraw into the [[Haunted Forest]]. As the black brothers celebrate the victory, Edd states that the wildlings still outnumber the black brothers 1,000 to 1 and that Mance was simply testing their defenses. Below, a heavily wounded Tormund is surrounded in the courtyard but continues to fight despite being the only wildling alive in Castle Black. He is finally subdued by Jon with a crossbow and taken prisoner by the Night's Watch for interrogation.<ref name="E39">"[[The Watchers on the Wall]]"</ref>
+
+===Interlude: Jon treats with Mance Rayder===
+Sam returns to Gilly as promised and discovers Janos Slynt, who hid in fear during the entire battle. Against all odds, the Night's Watch have repelled Mance Rayder's forces for the time being.
+
+[[File:GrennDead.PNG|thumb|180x180px|Grenn's body discovered by Sam and Jon.]]
+The following morning, what is left of Castle Black's garrison begin to regroup and prepare for the inevitable next attack by Mance Rayder. Jon discusses with Sam that he has a suicidal solution to end the wildling threat; he plans to assassinate Mance Rayder, noting that he is the only thing binding the disparate wildling clans that make up the army, and his death will rob them of that purpose and leadership. Sam tries to talk sense into Jon, but to no avail. As Jon prepares to leave via Castle Black's tunnel, they discover the bodies of the black brothers who held the inner gate against the giant. Grenn is amongst the casualties and Jon tells Sam that all bodies must be burned. Before Jon leaves, he remembers the promise he made to Jeor Mormont and decides to leave Longclaw with Sam. Sam tells Jon to come back, and Jon looks and Sam and smiles unreassuringly before stepping out into the wilderness on the other side of the gate.<ref name="E39"/>
+
+Jon meets with Mance Rayder in his tent, where they discuss the battle and the Night's Watch's slim chances of victory. Jon tells Mance he must take his army and return home, while Mance reveals he sent 400 wildlings to scale the Wall five miles west of Castle Black, and demands the Watch open the gate or he will kill every black brother there. Mance would rather not see any more of his own followers killed, however, and the main reason that the wildlings want to pass south of the Wall is so that they can flee from the [[White Walkers]]. Mance therefore proposes peace terms to Jon: if the Watch will allow the wildlings to pass through the Wall, he promises that none of them will be harmed. Jon eyes a knife in the tent, and Mance realizes that Jon has really come to assassinate him. Mance asks if he'd have the stomach to do the deed, dishonorably killing him under a flag of truce, but at that moment horns and trumpets sound in the distance.<ref name="E40">"[[The Children]]"</ref>
+
+===The second day: Stannis's army arrives===
+[[File:Stannis_attacks.png|thumb|180x180px|Stannis takes the wildling army by surprise.]]
+
+Hundreds of cavalrymen charge into the wildling camp carrying the flaming stag banners of [[House Baratheon of Dragonstone]], led by [[Stannis Baratheon]] and [[Davos Seaworth]]. Because they were only expecting attacks from the Wall, the wildlings left their eastern flank totally undefended: they are taken by complete surprise while still in their own camp, many of them still resting from the fighting the night before. They panic and are quickly torn apart by Stannis's riders, who attack the camp from both sides in two large pincer formations, and catch the wildlings in a perfect double envelopment. Seeing his men being massacred in a one-sided fight, Mance gives the order to stand down, officially ending the wildlings' siege of Castle Black.
+[[File:The Baratheons attack the Free Folk.jpg|thumb|Baratheon knight fighting Free Folk. ]]
+Stannis meets Mance face to face and demands that he kneel before him, but Mance refuses, though aware that Stannis will likely kill him in response. Stannis and Davos also meet Jon and learn that he is [[Eddard Stark]]'s [[bastard]] son. Remembering his respect for Ned, who effectively [[Execution of Eddard Stark|died]] supporting his claim to the [[Iron Throne]], Stannis listens to Jon's advice to take Mance prisoner instead of killing him, and to burn all of the dead so that they cannot return as [[wight]]s.<ref name="E40"/>
+
+===Aftermath===
+The 50 Night's Watch members who were killed during the first night are laid out on a large funeral pyre in the courtyard of Castle Black. [[Order of Maesters|Maester]] [[Aemon]] gives the eulogy during their funeral, which is attended by the surviving black brothers as well as Stannis and his entourage. Grenn, Pyp, and 48 other black brothers have died protecting men, women, and children who will never know their names. Maester Aemon and the remaining 50 black brothers close the eulogy with the traditional line, "And now their watch is ended."<ref name="E40"/>
+
+Alliser Thorne eventually recovers from his wounds. Stannis offers Mance one last chance to kneel before him in exchange for pardoning the wildlings and adding them to his army. When Mance refuses, Stannis orders him [[Execution|burned alive]].<ref>"[[The Wars To Come]]"</ref> Jon's successful leadership during the battle also leads to him being chosen as the new [[Lord Commander of the Night's Watch]].<ref>"[[The House of Black and White]]"</ref>
+
+Many of the wildlings, who escaped from the battlefield, find refuge at [[Hardhome]].<ref>"[[Kill the Boy]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the battle is significantly different than in the show.
+
+===Preface===
+[[Mance Rayder]], now knowing that the bulk of the [[Night's Watch|Watch]]'s fighting force by their mutual enemy at the [[fight at the Fist]], makes his way out of the [[Frostfangs]] and starts his march toward the [[Wall]]. Mance forms a plan to divert the remaining fighting men from both [[Castle Black]] and the [[Shadow Tower]] to the far west so he can send a team to scale the Wall and take the unwalled Castle Black from behind by surprise. With Mance's diversionary force striking hard in the west, [[First Steward|Lord Steward]] [[Bowen Marsh]] marshals his forces and takes the bait, leaving only the old, the green, and the sickly behind to defend Castle Black - forty-one brothers against twenty or thirty thousand wildlings.
+
+The defenders of Castle Black have been forewarned of the attack by the messages [[Samwell Tarly|Sam]] sent during the [[fight at the Fist]] (although the enemies Sam referred to in his messages are the [[White Walkers|Others]], not the wildlings). [[Order of Maesters|Maester]] [[Aemon]] sends requests of help to all [[king]]s and [[Lordship|lords]] of [[Westeros]] ''"Wildlings at the gate. The realm in danger. Send all the help you can to Castle Black"'', even as far as [[Oldtown]] and the [[Citadel]], and to half a hundred mighty lords in their castles. The [[North|northern]] lords offer their best hope, so to them Aemon sends two birds. To the [[House Umber|Umbers]] and the [[House Bolton|Boltons]], to [[Castle Cerwyn]] and [[Torrhen's Square]], [[Karhold]] and [[Deepwood Motte]], to [[Bear Island]], [[Oldcastle]], [[Widow's Watch]], [[White Harbor]], [[Barrowton]], and the [[Rills]], to the mountain fastnesses of the Liddles, the Burleys, the Norreys, the Harclays, and the Wulls ''"Wildlings at the gate. The north in danger. Come with all your strength"''. However, no answers arrive, let alone any reinforcements.
+
+Before the distress message reaches [[King's Landing]], the [[Small Council]] receives from the Wall disturbing reports about wildling astir. [[Varys]] and [[Tyrion Lannister|Tyrion]] suggest to send recruits to Bowen Marsh, but [[Tywin Lannister|Tywin]] refuses; he comments that since [[Robb Stark]] and [[Balon Greyjoy]] have declared themselves as kings and claim the North, let them defend it, if they can, and if not, Mance Rayder might even prove a useful ally.
+
+Some time later, Tywin receives the distress message from Castle Black, and is angered by the opening sentence "To the [[War of the Five Kings|five kings]]". He does not even bother to convene the council; in order to teach the Night's Watch who is their only lawful king and bring them under his control, he decides to force them to choose for a new [[Lord Commander of the Night's Watch|Lord Commander]] whoever he tells them too, otherwise - they will receive no reinforcements. [[Pycelle]] suggests [[Janos Slynt|Slynt]] for the office. Tyrion objects, knowing that Slynt is a very poor choice for a [[Lord Commander of the Night's Watch|Lord Commander]], but his protests fall on deaf ears.
+
+The message for [[Stannis Baratheon|Stannis]] is received by [[Axell Florent#In the books|Alester Florent]], but he does not show it to Stannis, thinking that Stannis lacks [[Man-at-arms|soldiers]] to fight his own battles, he has none to waste on wildlings. By chance, Maester [[Pylos]] shows this letter to [[Davos Seaworth|Davos]], and he gives it to Stannis and persuades him to travel north and assist the Watch.
+
+===Strike from the south===
+As part of Mance Rayder's plan, the [[Magnar]] of [[Thenn]], [[Styr]], along with his co-commander Jarl and about 120 raiders (among them 100 [[Thenns]]), is sent ahead to scale the Wall and take Castle Black by surprise from the rear. After crossing near [[Greyguard]] and circling south-east through the [[Gift]], [[Jon Snow]] escapes at [[Queenscrown]], though he is shot by an arrow at his thigh. He warns [[Mole's Town]] and Castle Black of the imminent attack from the south. Donal Noye, Castle Black's blacksmith and now de-facto commander (since all other officers are either dead or absent), and Jon organize the defense around archers in the towers and a line of fighting men on the massive wooden staircase that zigzags up the south face of the Wall. The defenders have no time to practice or to take any [[Raid on Craster's Keep|punitive action against the mutineers]]. Three quarters of the residents of Mole's Town seek refuge at the castle, and Noye allows them to stay on condition they take part in the battle.
+
+While Noye, [[Clydas]], and Maester Aemon treat Jon's injury, he gives them full report of the time he spent with the wildlings, and admits breaking his vows with [[Ygritte]]; he also mentions that the wildlings were looking for the legendary Horn of Winter. They believe him that he was acting at [[Qhorin]]'s orders. Aemon updates Jon of the latest bad news: [[Jeor Mormont]]'s [[Mutiny at Craster's Keep|death]]; the [[Ironborn invasion of the North|ironborn's invasion]]; the [[Capture of Winterfell|capture]] and the [[Sack of Winterfell|destruction of Winterfell]]; the alleged deaths of [[Bran Stark|Bran]] and [[Rickon Stark|Rickon]] by [[Theon Greyjoy|Theon]]. Jon is confused to hear the last item, for he is certain he saw [[Summer]] at Queenscrown. Grenn (who returned with the other loyalists long before Jon) and Pyp are overjoyed that Jon returned safely. Grenn tells Jon that Sam killed an [[White Walkers|Other]], and more about the mutiny at [[Craster's Keep]], and that he and about dozen more remained loyal to Mormont but had to retreat, being outnumbered by the [[mutineers]]; he also assures Jon that his brothers were avenged, for [[Ramsay Bolton|Ramsay]] killed all the ironborn who seized Winterfell, and it is said he's [[flaying]] Theon inch by inch as a payback. Grenn is saddened to tell Jon that [[Sam]] was left behind. At that point, Sam, [[Gilly]], and [[Ghost]] have not returned yet.
+
+The battle begins in the early morning hours as wildling raiders and Thenn warriors storm Castle Black. Jon and others are awakened by the smoke rising from Mole's Town. Jon insists on joining the battle despite his injury, and Noye places him with two other archers, Deaf Dick Follard and Satin, atop the King's Tower. In order to make the Thenns think that there are many more defenders than actually are, Noye commands to put scarecrows on the battlements. Jon warns the others not to hide behind the scarecrows, for arrows will easily go through them.
+
+After the archers take a heavy toll on the wildling force, the battle culminates on the stair. Once the majority of the wildling forces mount the stair and push back the crumbling defense, killing some of the brothers and villagers, the Watch springs a desperate trap. The stair, soaked in oil between the last Night's Watch line of defense and the base of the structure, is set ablaze, destroying the stair and killing Styr and most of his men. Ygritte, who was shot fatally, dies in Jon's arms. It is unknown who shot the arrow that killed her.
+
+While the raiding party is defeated, Mance's main force has yet to be dealt with and the Watch's primary means of transporting men and materials to the top of the Wall are destroyed. Most of the villagers, thinking incorrectly that the worst is over, return to Mole's Town. A few villagers remain, among them Zei, Hareth, and three orphan kids whose father died on the stair.
+
+At this point, among the casualties the defenders suffer are [[Rast]], Deaf Dick Follard, Young Henly, Old Henly, Easy, and Dornish Dilly.
+
+===The siege===
+
+With the news that his advance party has been defeated, and he must instead assault the Wall, Mance assembles his host beyond the tree line. After a small probing attack at night, the first morning's attacks are spearheaded by giants mounted on mammoths. The defenders catapult barrels of pitch at the advancing army, making it visible for the archers. The wildlings do not waste their efforts on scaling the Wall or trying to break it, but concentrate on the gate. Mag the Mighty, King of the Giants, manages to breach the massive doors that lead to the tunnel underneath the Wall. Donal Noye gives Jon the command, and he and four brothers defend the tunnel system with spears and arrow fire from behind the internal gate and murder-hole system built into the tunnel.
+
+Jon and other rest of the defenders shoot arrows and catapult rocks at the wildlings, killing many of them. One mammoth is killed and another lurches burning through the woods, trampling down men and trees alike. Jon exclaims "The Wall will stop them. The Wall defends itself. Mance wants to unman us with his numbers. Does he think we're stupid? The chariots, the horsemen, all those fools on foot... what are they going to do to us up here? Any of you ever see a mammoth climb a wall? They're nothing, they're less use than our straw brothers here, they can't reach us, they can't hurt us, and they don't frighten us, do they?". Jon's speech encourages the other defenders and raises the morale. The giants try to break the gate with a battering ram, but the defenders kill many of them and injure the mammoths, causing them to go berserk, smashing wildlings and crushing archers underfoot. The wildling archers shoot back, but they only waste their arrows because the Wall is too high. The wildlings suffer such heavy casualties that they have to retreat. At that point, the greatest flaw of Mance's army is very visible - the lack of discipline, which is hardly compensated by their numerical superiority.
+
+After the battle it is revealed that the wildlings have shot about 10,000 arrows; less than one hundred arrows have reached the defenders who stood atop the wall (and even those were lifted by errand gusts of wind, not a result of fine archery skills); only one of those defenders died, not by the arrow that pricked his leg but by the fall. That enormous waste of ammunition indicates how poorly the wildlings were prepared for battle, relying mainly on their numbers rather than strategy.
+
+Noye and the other four manage to kill all of the attackers, including Mag, and hold the interior portcullis under the Wall, but all five of them are slain, including Donal, whose body is found crushed by Mag, and his sword thrust though the giant's neck.
+
+With the death of Donal Noye, Jon Snow reluctantly assumes command of the defense of the Wall at the request of Maester Aemon. A message arrives from [[Denys Mallister]] that Bowen Marsh chased three hundred wildlings led by the Weeper to the [[Shadow Tower]], fought them at the Bridge of Skulls and defeated them, but at great cost: more than hundred brothers were killed, among them Ser [[Endrew Tarth]] and Ser Aladale Wynch. Marsh was carried to the Shadow Tower, severely injured. Hearing that, Jon sends a request for aid from the village. The messenger, Zei, never returns, so Jon sends [[Mully]], who finds the village deserted.
+
+Over the next several days, Jon manages to throw back repeated attacks on the Wall by using catapults, archers, flaming arrows, boiling oil, and finally frozen barrels of rock and ice used to destroy Mance's armored battering rams. None of the wildlings try to scale the Wall. Jon has barely time to rest as he rushes from one battle station to another, encouraging his subordinates and foiling the wildlings' attempts to invade.
+
+In order to keep the morale high, the defenders start naming the straw sentinels after their missing brothers ([[Othell Yarwyck]], [[Eddison Tollett]], and others), wagering as to which of them will collect the most arrows before they are done. Jon allows this because the game seems to give his brothers heart.
+
+Ser [[Alliser Thorne]], an enemy of Jon, and Lord Janos Slynt, a betrayer of Jon's father [[Eddard Stark]], arrive along with reinforcements from [[Eastwatch-by-the-Sea]]. They prove to be a hindrance rather than assistance. They roughly take Jon into custody with the knowledge, from a captured [[Lord of Bones]] who led a diversion on the eastern side of the Wall, that he had deserted and joined forces with the wildlings. Maester Aemon supports Jon and assures them that Jon has already explained his deeds to him and Donal Noye, but Thorne and Slynt do not listen to him. They accuse Jon of oathbreaking, cowardice, and desertion. Jon repeats what he told before that he was acting at [[Qhorin]]'s orders, but his explanations are rejected. Thorne, who always loathed Jon, accuses him of murdering Qhorin, suggesting that he is in league with [[Mutineers|those who murdered Mormont]], and that [[Benjen Stark]] may have a hand in all of that, and maybe he sits in Mance's tent at that moment. Slynt teases Jon by claiming that Eddard Stark died a traitor.
+
+Until that point, Jon forces himself to stay calm; hearing the lies about his father, his patience runs out, and when Thorne grabs his arm - he yanks himself free and grabs Thorne by the throat with such ferocity that he lifts him off the floor. The Eastwatch men pull Jon off Thorne. Either not believing Jon or not caring about his orders from Qhorin, Slynt and Thorne imprison Jon in the ice cells under the Wall for four days.
+
+===The parley===
+The Watch receive an envoy from Mance, requesting a [[parley]]. Jon is summoned from his cell and sent out to the wildling camp to treat with Mance, although Alliser and Janos want Jon to assassinate the King-Beyond-the-Wall. Jon has no choice, for a refusal will confirm the false accusations against him and will give them excuse to kill him. It is clear to Jon that the wildlings will probably kill him on the spot, but he decides to go anyway: he grudgingly acknowledges that their only hope for survival is if he can assassinate Mance, though he will die in the process whether he succeeds or fails. Even desertion is impossible; to Mance he is a proven liar and betrayer. Unlike in the show, he does not leave [[Longclaw|his sword]] behind. Tormund welcomes Jon amiably, escorts him to Mance's tent and protects him from other wildlings who wish to kill him.
+
+Mance receives Jon into his tent, where his pregnant wife Dalla is going into labor, while her sister Val attends to her. Mance tells Jon that Varamyr, using [[Orell]]'s eagle, spied on the defenders and now they know how few brothers are left and how little weapons and supplies they have. Mance admits the defenders proved to be much more stubborn than he expected, even after Marsh took most of the garrison away from the castle, but he can continue the attack here and still send ten thousand men to cross the [[Bay of Seals]] on rafts and take Eastwatch from the rear; he can storm the Shadow Tower too, for he knows the approaches as well as any man alive; he can send men and mammoths to dig out the gates at the abandoned castles, all of them at once. Mance shows Jon a huge ornamented warhorn, claiming it is the famous horn of [[Joramun]], that according to legend can destroy the Wall. He tells Jon to deliver an ultimatum to Castle Black: the defenders must open the gate and allow the wildlings to pass the Wall within three days, otherwise Tormund will blow the horn.
+
+Mance reveals that he does not wish to continue fighting nor to use the horn, because once the Wall is down - nothing will stop the [[White Walkers|Others]]. Jon is not thrilled about the idea of letting thousands of giants, cannibals and lawless wildlings swarm the North, raiding and kidnapping women. He asks Mance: "If we let your people pass, are you strong enough to make them keep the king's peace and obey the laws?". Mance laughs and answers "When we want laws we'll make our own. You can keep your king's justice too, and your king's taxes. I'm offering you the horn, not our freedom. We will not kneel to you". Jon muses that [[Jeor Mormont]] might have listened to the offer, but Thorne and Slynt would surely dismiss the notion out of hand, and in any case he cannot return to Castle Black without killing Mance. While Jon considers his next move, whether to try killing Mance or to destroy the horn, the meeting is interrupted when they hear warhorns outside.
+
+===Stannis arrives===
+
+Meanwhile, King [[Stannis Baratheon]] sails to [[Eastwatch-by-the-Sea]] with a host of 1,300-1,500 mounted soldiers. At this point, Stannis has not met yet with [[Tycho Nestoris]] or any representative of the [[Iron Bank of Braavos]]. Davos does not come with Stannis, but is sent to the [[White Harbor]] to seek the support of [[House Manderly]]. Accompanied by [[Cotter Pyke]] and his rangers from Eastwatch, Stannis and his troops travel along ranger roads beyond the Wall. They take Mance Rayder's host in the flank as it besieges Castle Black.
+
+Mance's scouts warn him of the approaching rangers and as they emerge from the fringes of the wood, his free folk fly to meet them. The rangers are only scouts, a screen intended to draw in the wildlings, and they scatter back into the trees before Mance's wildlings and Harma Dogshead's raiders can slaughter them. At this crucial point, [[Melisandre]] destroys the eagle that Varamyr Sixskins uses for scouting. The trumpets blow all around and three columns of heavy horse emerge. One smashes into Harma's raiders, who have no time to regroup and meet them, while the second drives into the flanks of Tormund Giantsbane's spearmen. The third is shattered by the giants on their mammoths, but the other two are able to close in around them like pincers. On the eastern edge of the camps, archers fire arrows at the tents and camps of the wildlings.
+
+Jon watches the banners of the charging knights, a yellow one with long pointed tongues that shows a flaming heart, and another like a sheet of beaten gold, with a black stag prancing and rippling in the wind. ''"[[Robert Baratheon|Robert]]"'' he thinks for one mad moment, but when the trumpets blow again and the knights charge, the name they cry is "Stannis! Stannis! STANNIS!".
+
+===Aftermath===
+
+Despite their superiority in numbers, the undisciplined wildling host breaks and runs as more men emerge from the trees. In the ensuing battle, Harma Dogshead is slain and most of the wildling army is routed. Over a thousand wildlings are killed, and another thousand are taken captive. Mance is captured and most of his lieutenants are either killed or captured, with the exception of Tormund Giantsbane, the Weeper and Varamyr Sixskins.
+
+[[Kegs]], [[Mully]], and [[Jack Bulwer]] are in Castle Black while the Thenns sack Mole's Town. They survive the battle.
+
+Grenn, Pypar, and Donnel Hill survive the battle.
+
+Some time after the battle is over, Sam and Gilly finally arrive. They were lucky to get lost while on their way from Craster's Keep, otherwise they would have found themselves caught in the battle or at the wildlings' camp. They meet Denys Mallister, Bowen Marsh, Dywen, Bedwyck (aka Giant), and Eddison Tollett. Sam hears from them about the battle. Ghost returns later, and he and Jon are overjoyed to be re-united.
+
+The Night's Watch takes a headcount after the battle, and it is specifically stated that following the losses taken at the fight at the Fist and the wildling assault on Castle Black, 588 black brothers are still alive in the entire organization (including the garrisons at Eastwatch and the Shadow Tower). This is down from the "under one thousand" members it had when Jon Snow joined the Night's Watch, which Jeor Mormont and Maester Aemon warned Tyrion was barely enough to man the three castles they still garrisoned along the Wall, and they already had to abandon castles along long stretches of it.
+
+The Northmen are unimpressed by Stannis's victory and refuse to acknowledge him as their rightful king. Grudgingly, Stannis realizes that he has [[Fight by Deepwood Motte#In the books|to do more]] if he wishes to gain the support of the North.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|Attack on Castle Black}}
+*{{AWOIAF|Battle beneath the Wall}}
+
+<!--Navboxes-->
+{{Conflict beyond the Wall}}
+{{War of the Five Kings}}
+
+<!--Categories-->
+[[Category:301 AC]]
+[[Category:Battles|Wall]]
+[[Category:Conflict beyond the Wall]]
+[[Category:War of the Five Kings]]
+
+<!--Languages-->
+[[de:Schlacht um die Schwarze Festung]]
+[[fr:Bataille de Châteaunoir]]
+[[pt-br:Batalha de Castelo Negro]]
+[[ru:Битва за Чёрный замок]]

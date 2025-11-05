@@ -1,0 +1,119 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Leftimage  = House Swann.svg
+| Leftlink   = House Swann
+| Rightimage = Kingsguard.svg
+| Rightlink  = Kingsguard
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Lannister
+| Image       = 
+| Birth       = [[Stonehelm]], the [[Stormlands]]{{Con|AWOIAF}}
+| Death       = [[305 AC]]{{Dateref|Game of Thrones: Season 8}}<br>The [[Red Keep]], [[King's Landing]]{{Ref|GOT805}}
+| House       = [[House Swann|Swann]]
+| Affiliation = [[Kingsguard]]<br>Queensguard
+| Titles      = [[Knighthood|Ser]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Andals|Andal]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 3|3]] {{*}} [[Game of Thrones: Season 5|5]] {{*}} [[Game of Thrones: Season 7|7]] {{*}} [[Game of Thrones: Season 8|8]]
+| Appearances = 4 episodes {{Below|Appearances}}
+| First       = "[[The Bear and the Maiden Fair (episode)|The Bear and the Maiden Fair]]"
+| Last        = "[[The Bells]]"
+| DeathEp     = "The Bells"
+| Actor       = Unidentified
+}}
+{{Quote|I remember everything about that day: your helmet, your horse, the rake lines in the dirt along the lists, where the sun was in the sky when you knocked Balon Swann in the dirt.|[[Alton Lannister]] to [[Jaime Lannister|Jaime]]|A Man Without Honor}}
+Ser '''Balon Swann''' was a knight and member of the [[Kingsguard|Queensguard]].
+
+==Biography==
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+[[Alton Lannister]] recalls that [[Jaime Lannister|Jaime]] defeated Ser Balon in the tourney at [[Willem Frey]]'s wedding.{{Ref|GOT207}}
+
+===[[Game of Thrones: Season 3|''Game of Thrones'': Season 3]]===
+Four members of the Kingsguard receive Tywin Lannister at the [[throne room]], indicating one of the spots left by the death of Ser [[Mandon Moore]] and the desertion of [[Sandor Clegane|the Hound]] has been filled.{{Ref|GOT307}}
+
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+Five members of the Kingsguard escort King [[Tommen Baratheon]] to the steps before the [[Great Sept of Baelor]] so the king can meet with the [[High Sparrow]]. Members of the [[Faith Militant]] block them.{{Ref|GOT504}}
+
+===[[Game of Thrones: Season 8|''Game of Thrones'': Season 8]]===
+Ser Balon is either killed by the Hound or crushed by debris while escorting [[Cersei Lannister|Cersei]] during the [[Battle of King's Landing]], alongside the other Kingsguard.{{Ref|GOT805}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Ser Balon is a highly regarded knight. He is the second son of Lord Gulian Swann, the head of House Swann.
+
+Ser Balon participates in [[Robert Baratheon|Robert]]'s hunt for the [[white hart]],{{Bookref|AGOT|43}} which results in [[Assassination of Robert Baratheon|Robert's death]].{{Bookref|AGOT|45}}
+
+At Cersei's order, Ser Balon replaces Ser [[Preston Greenfield]] in the Kingsguard, following the latter's death in the [[riots in King's Landing]]; Tyrion approves of her choice.{{Bookref|ACOK|49}} In sharp contrast to most of Cersei's appointments, Ser Balon is quite suitable to be a member of the Kingsguard: he is highborn, valiant, courtly, skilled at arms, good with a lance, better with a morningstar, and superb with the bow.
+
+In the TV series, Ser Preston is mentioned as still being alive at the time of Joffrey's wedding in Season 4. Nevertheless, a new member of the Kingsguard is present in Season 3's "[[The Bear and the Maiden Fair (episode)|The Bear and the Maiden Fair]]". In the books, after Sandor Clegane deserted his post during the Battle of the Blackwater his place on the Kingsguard was filled by Ser Osmund Kettleblack, but because neither Ser Osmund nor his subplot have been introduced in the TV series, it is possible that it was Balon who replaced Sandor in the TV continuity.
+
+Ser Balon also previously competed against Jaime in the books. Jaime discusses Balon's renown as a tourney knight and melee fighter upon meeting him in the White Tower as a fellow Kingsguard, and the two share a common respect for each other, where Balon is eventually assigned by Jaime as the primary Kingsguard for the King.
+
+Ser Balon is the first to testify in the [[court trial of Tyrion Lannister]]. Unlike the rest of the witnesses, his testimony is wholly true, objective and in favor of Tyrion: he praises Tyrion for his bravery in the [[Battle of the Blackwater]]; he claims that he thinks Tyrion is innocent; when describing how Tyrion beat Joffrey following the riots in King's Landing, he claims that it was only a fit of wroth. Tyrion wonders why offer a witness that believes him innocent, until Ser [[Meryn Trant]] comes to testify. Tyrion realizes then that Cersei deliberately began with a man known to be honest, and milked him for all he would give, and every witness to follow will tell a worse tale.{{Bookref|ASOS|66}}
+
+Ser Balon is the only of the current Kingsguard that Jaime, as the Lord Commander, has nothing negative to comment about, and does not need to put him in his place. Jaime inquires Ser Balon about the loyalty of his brother Donnel, pointing out that he managed to serve four kings ([[Renly Baratheon|Renly]], [[Stannis Baratheon|Stannis]], [[Joffrey Baratheon|Joffrey]], and [[Tommen Baratheon|Tommen]]). Ser Balon uneasily answers that Donnel erred, but he is Tommen's man now. Jaime demands to know how Ser Balon will act in case his brother gives his sword to another usurper and attempts to kill Tommen, emphasizing that he found himself once in [[Sack of King's Landing|a similar situation]]. Ser Balon swears that he'll never act that same way Jaime did; Jaime is satisfied with the answer.{{Bookref|AGOT|67}}
+
+In the fourth novel, Cersei also sends a Kingsguard to take her daughter Myrcella back from Dorne to King's Landing, but it is Ser Balon, not Jaime, who in turn is sent away to pacify the Riverlands. Contrary to Jaime's furtive mission in the TV series, Ser Balon goes to Dorne in an official capacity. He has two more tasks to carry out: to deliver Gregor Clegane's skull to the Martells, and to play his part in a secret plan,{{Bookref|AFFC|17}} whose details are revealed in the following novel - Cersei's scheme to assassinate Trystane Martell. Unknown to Cersei, the Martells have friends at the court who inform Doran about her vile plan.{{Bookref|ADWD|38}}
+
+Ser Balon's retinue consists of three knights, eight squires, twenty men-at-arms, sundry grooms and servants. Bronn is not among them. They arrive at Dorne without any hostile encounters.{{Bookref|ADWD|38}}
+
+While Ser Balon is on his way to Sunspear, Doran's daughter Arianne attempts to execute Tyene's plan to crown Myrcella, in order to provoke the Lannisters and Tyrells to attack Dorne. On the way to Hellholt, Arianne and her companions are intercepted by Areo Hotah. During the confusion moments, one of Arianne's companions - Ser Gerold "Darkstar" Dayne - slashes at Myrcella and escapes.{{Bookref|AFFC|21}} She survives, but is disfigured permanently.{{Bookref|AFFC|40}}
+
+Doran fears that once Ser Balon looks at Myrcella and reports the Lannisters, they will blame the Martells and declare a war against them, while Dorne is no ready yet for an open confrontation. To buy time, the Martells' bannermen delay Ser Balon for weeks by holding feasts, jousts and hunting trips for him.{{Bookref|AFFC|40}}
+
+When Ser Balon finally arrives at Sunspear, he is welcomed amicably by Doran: a feast is held for him, and is given a place of high honor next to Arianne. Arianne flirts with Ser Balon, while Doran converses with him without showing any sign that he is aware of the plot to murder his son. Some of the attending people, most notably the Sand Snakes and Daemon Sand, show signs of disapproval (perhaps thinking that the Lannisters' envoy should have been given a completely different sort of "welcome"). Areo Hotah keeps an eye on them, ready to react if they stir up troubles.{{Bookref|ADWD|38}}
+
+Areo Hotah watches Ser Balon intently during the feast. He estimates that Ser Balon is a more capable warrior than [[Arys Oakheart]], and less likely to be seduced by Arianne. Hotah also notices that Ser Balon is strangely nervous: he barely eats anything, sweats profusely despite the coolness in the hall, and is unnerved by Doran's suggestion that he and Trystane will travel to King's Landing by ship. The reason for his restlessness is soon revealed.
+
+Doran invites Ser Balon to the Water Gardens, where Myrcella is. Then he excuses himself and leaves to his solar, where he holds a secret meeting with Hotah, his daughter and nieces. He reveals Cersei's plot to them. The Sand Snakes are shocked not only by the plot itself, but also by the fact that a Kingsguard knight is assigned to participate it. Obara, hot-tempered and aggressive as ever, suggests to pay Cersei back with the same coin: she sent them a skull, and they will send her back the skulls of Ser Balon and his escorts. Doran forbids Obara to harm Ser Balon due to the [[guest right]].{{Bookref|ADWD|38}}
+
+Eventually, the Martells come up with a plan: the next day, they will travel to the Water Gardens, where Myrcella, instructed by Arianne, will tell Ser Balon that Darkstar injured her, lie about Ser Arys's part, and ask him to hunt down the man who hurt her; Ser Balon will probably do as Myrcella asks; Obara will lead him to High Hermitage to beard Darkstar in his den.{{Bookref|ADWD|38}}
+
+The plan works perfectly: Ser Balon believes Myrcella's partly-false story. He sends the Lannisters a report that totally clears the Martells,{{Bookref|ADWD|54}} then he and Obara go to High Hermitage. Currently they are still hunting for Darkstar.{{Bookref|ADWD|72}}
+
+==Appearances==
+*{{GOT|A Man Without Honor}} {{Mentioned}}
+*{{GOT|The Bear and the Maiden Fair}}
+*{{GOT|Second Sons}}
+*{{GOT|Sons of the Harpy}}
+*{{GOT|The Bells}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Swann}}
+{{Kingsguard of Robert I Baratheon}}
+{{Kingsguard of Joffrey I Baratheon}}
+{{Kingsguard of Tommen I Baratheon}}
+{{Queensguard of Cersei I Lannister}}
+
+<!--Categories-->
+{{DEFAULTSORT:Swann, Balon}}
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Kingsguard of Joffrey I Baratheon]]
+[[Category:Kingsguard of Tommen I Baratheon]]
+[[Category:Knights]]
+[[Category:Members of House Swann|Balon Swann]]
+[[Category:Queensguard of Cersei I Lannister]]
+[[Category:Stormlanders]]
+
+<!--Languages-->
+[[ru:Бейлон Сванн]]

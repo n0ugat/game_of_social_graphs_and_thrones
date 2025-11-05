@@ -1,0 +1,49 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Blackbar.svg
+| Link  = House Blackbar
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Bronn
+| Image        = 
+<gallery>
+701 BtS Map Bandallon.png|Appearance
+Bandallon Pin.png|Location
+</gallery>
+| Type         = Castle
+| Status       = 
+| Location     = The [[Reach]], [[Westeros]]
+| Population   = 
+| Rulers       = [[House Blackbar]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Bandallon'''{{Ref|GOT701}} is a castle in the [[Reach]], the region controlled by [[House Tyrell]] of [[Highgarden]]. The castle is located west of [[Brightwater Keep]] on the southwestern coast of the continent of [[Westeros]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Bandallon is the seat of House Blackbar.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Reach}}
+
+<!--Categories-->
+[[Category:Castles of the Reach]]
+[[Category:House Blackbar]]
+
+<!--Languages-->
+[[de:Bandallon]]
+[[es:Bandallon]]
+[[nl:Bandallon]]
+[[pt-br:Bandallon]]
+[[ru:Бандаллон]]
+[[zh:半圆堡]]

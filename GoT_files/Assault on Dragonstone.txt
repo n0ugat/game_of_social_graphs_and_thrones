@@ -1,0 +1,78 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Westeros
+| Part          = [[Robert's Rebellion]]
+| Image         = H&L204.png
+| Previous      = [[Skirmish at the Tower of Joy]]
+| Concurrent    = 
+| Next          = [[Greyjoy Rebellion]]
+| Date          = [[281 AC]]{{Dateref|Robert's Rebellion}}
+| Place         = [[Dragonstone]], [[Blackwater Bay]]
+| Outcome       = *Baratheon victory.
+*Fall of the last Targaryen stronghold.
+*Escape of [[Viserys Targaryen (son of Aerys II)|Viserys]] and [[Daenerys Targaryen]] to the [[Free Cities]].
+| Factions1     = {{COA|House Baratheon|small}} [[House Baratheon]]
+| Factions2     = {{COA|House Targaryen|small}} [[House Targaryen]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = {{COA|House Baratheon|inline}} [[Knighthood|Ser]] [[Stannis Baratheon]]
+| Leaders2      = {{COA|House Darry|inline}} [[Knighthood|Ser]] [[Willem Darry]]
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = *[[Royal fleet]]
+**''[[Fury]]''
+| Participants2 = Dragonstone garrison
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = Light
+| Casualties2   = Light<br>Garrison surrendered
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Quote|I was sent to the royal island stronghold at Dragonstone to deal with Viserys and Daenerys, the last surviving Targaryen children. Before I arrived, however, they escaped across the Narrow Sea.|[[Stannis Baratheon]]|Robert's Rebellion - Stannis Baratheon}}
+The '''assault on Dragonstone'''{{Con|ASOIAF}} was the last engagement of [[Robert's Rebellion]], the civil war that had divided the [[Seven Kingdoms]] and had led to the fall of the [[House Targaryen|Targaryen]] dynasty and the rise of the [[House Baratheon|Baratheon]] dynasty.
+
+==History==
+===Prelude===
+Following the [[Sack of King's Landing]] and the death of the [[Aerys II Targaryen|Mad King]], [[Robert Baratheon]] took the [[Iron Throne]] and was crowned Robert of the [[House Baratheon]], First of His Name, [[King of the Andals and the Rhoynar and the First Men|King of the Andals and the First Men]], [[Lord of the Seven Kingdoms]] and [[Protector of the Realm]]. However, the war was not over.<ref name=":0">"[[The Sack of King's Landing - House Stark]]"</ref><ref>"[[The Sack of King's Landing - House Lannister]]"</ref>
+
+After Lord [[Mace Tyrell]] bent the knee and his siege of [[Storm's End]] was lifted,<ref>"[[Robert's Rebellion - Margaery Tyrell]]"</ref> Robert sent his brother [[Stannis Baratheon|Stannis]] to [[Dragonstone]], the island fortress located at the [[Dragonstone (island)|eponymous island]], where Queen [[Rhaella Targaryen|Rhaella]] and Prince [[Viserys Targaryen (son of Aerys II)|Viserys]] had been sent following the rebel victory at the [[Battle of the Trident]].<ref name=":0" />
+
+===Events===
+[[File:Smuggled.jpg|thumb|Ser Willem Darry smuggles Viserys and Daenerys across the Narrow Sea.]]
+Stannis led the [[royal fleet]] aboard the ''[[Fury]]'' to capture Prince Viserys and Princess [[Daenerys Targaryen|Daenerys]], who had been recently born. However, before he arrived, Ser [[Willem Darry]], one of the last Targaryen loyalists, smuggled the two children across the Narrow Sea. The remaining garrison simply surrendered when Stannis arrived.
+
+===Aftermath===
+Enraged over the escape of Viserys and Daenerys and unfairly blaming Stannis for it, Robert stripped him of the prosperous Storm's End and granted it to their younger brother [[Renly Baratheon|Renly]], who did not take any part in the war. Instead, Robert granted the meagre Dragonstone to Stannis. Stannis took it as a slight, despite the fact that Dragonstone had been the traditional seat of the heir to the Seven Kingdoms.
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the assault took place after the new royal fleet was built; almost a year after the end of the rebellion. The garrison of Dragonstone was ready to sell Viserys and Daenerys to Stannis, but before they could go ahead Ser Willem Darry, along with four other loyalists, smuggled Viserys and Daenerys along with a wet nurse to the [[Braavosian Coastlands]], where they would live in exile.
+
+The fall of the castle wasn't really considered a battle, as with the war clearly lost most of the garrison wanted to simply surrender - to the point that they would have given up the royal children still in their possession. The four remaining loyalist knights fled with the children before Stannis arrived, so no one put up a significant fight.
+
+As Brynden Tully pointed out in the "[[House Tully (short)|House Tully]]" short, the rebel side in the war had no strength at sea - in part because years before, Brynden had not entered into a marriage-alliance with [[House Redwyne]], who possess a [[Redwyne fleet|large fleet]]. After the Sack of King's Landing, it still took the victorious rebels some time to find enough ships to transport an attack force to Dragonstone, giving the royal children enough time to escape to the Free Cities.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Robert's Rebellion}}
+
+<!--Categories-->
+[[Category:281 AC]]
+[[Category:Battles]]
+[[Category:Robert's Rebellion]]
+
+<!--Languages-->
+[[de:Angriff auf Drachenstein]]
+[[fr:Assaut contre Peyredragon]]
+[[ru:Нападение на Драконий Камень]]

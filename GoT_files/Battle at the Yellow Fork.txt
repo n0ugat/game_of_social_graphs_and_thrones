@@ -1,0 +1,75 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Thrones
+| Part          = the [[War of the Five Kings]]
+| Image         = 
+| Previous      = [[Riots in King's Landing]]
+| Concurrent    = 
+| Next          = [[Surrender of the Crag]]
+| Date          = [[299 AC]]{{Dateref|Game of Thrones: Season 2}}
+| Place         = [[Yellow Fork]], the [[Westerlands]]
+| Outcome       = Decisive [[House Stark|Stark]] victory
+*Many Lannister soldiers taken captive
+| Factions1     = [[File:House Stark.svg|30px|center|link=House Stark]] [[North|Kingdom of the North]]/[[House Stark]]<br><br>[[File:House Bolton.svg|25px|center|link=House Bolton]] [[House Bolton]]<br><br>[[File:House Karstark.svg|25px|center|link=House Karstark]] [[House Karstark]]
+| Factions2     = [[File:House Baratheon of King's Landing.svg|30px|center|link=House Baratheon of King's Landing]] '''[[Iron Throne]]'''/[[House Baratheon of King's Landing]]<br><br>
+[[File:House Lannister.svg|30px|center|link=House Lannister]] [[House Lannister]]<br><br>[[House Westerling]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = [[King in the North|King]] [[Robb Stark]]<br>[[Lord of the Dreadfort|Lord]] [[Roose Bolton]]<br>[[Lord of Karhold|Lord]] [[Rickard Karstark]]
+| Leaders2      = Unknown
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = ~20,000 [[Northmen]]
+| Participants2 = Unknown
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = Minimal
+| Casualties2   = Massive
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Quote|Ser Alton's pen is full, Your Grace...the prisoners from the Yellow Fork.|[[Rickard Karstark]] to [[Robb Stark]]|A Man Without Honor}}
+A '''battle at the Yellow Fork''' is a minor engagement in the [[War of the Five Kings]]. The army of [[House Stark]] in the [[Westerlands]] moves west from [[Oxcross]] to attack a force of [[House Lannister]] conscripts at the [[Yellow Fork]].
+
+==History==
+===Prelude===
+After winning a trio of victories in the [[Riverlands]] and a decisive victory at the [[Battle of Oxcross]], the army of House Stark, under the command of King [[Robb Stark]], Lord [[Roose Bolton]], and Lord [[Rickard Karstark]] press further into the Westerlands.<ref>"[[The Old Gods and the New]]"</ref> The victory at Oxcross has left the region lightly defended.<ref>"[[Garden of Bones (episode)|Garden of Bones]]"</ref>
+
+===Battle===
+Robb's forces assault the Lannister forces at the Yellow Fork and win another victory, taking many more prisoners.<ref name="E17">"[[A Man Without Honor]]"</ref>
+
+===Aftermath===
+[[File:Camp.jpg|thumb|The Starks make camp following their victory.]]
+Rickard Karstark reports taking so many Lannister prisoners that the Stark cells are overflowing. [[Talisa Stark|Talisa]] continues to treat Robb's wounded along with those of his enemies following the battle. Robb then visits the [[Crag]] to negotiate the surrender of [[House Westerling]].<ref name="E17"/>
+
+Due to the volume of prisoners, [[Jaime Lannister|Jaime]] is kept with another man - his cousin [[Alton Lannister]] - for the first time since his capture. This affords him the opportunity to make an escape attempt, murdering Alton and [[Torrhen Karstark]]. He is recaptured shortly afterwards.<ref name="E17"/>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no battle of this name. The location "Yellow Fork" is not mentioned in the books.
+
+After the [[Battle of Oxcross]] opened up the northern Westerlands to Robb's army, his forces easily captured Ashemark. For some reason, the TV series doesn't refer to a minor engagement at the "Battle of Ashemark", instead referring to a battle at the Yellow Fork taking place around the same point. It seems that they changed the name to avoid confusion with [[Ashford]], which is a castle in the Reach. It's possible that the "Yellow Fork" is meant to be the tributary of the Tumblestone, which is itself a tributary of the [[Trident]] River system, with its three main forks also named after colors: [[Red Fork|Red]], [[Blue Fork|Blue]], and [[Green Fork|Green]].
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|Storming of the Crag}}
+
+<!--Navboxes-->
+{{War of the Five Kings}}
+
+<!--Categories-->
+[[Category:299 AC]]
+[[Category:Battles|Yellow Fork]]
+[[Category:War of the Five Kings]]
+
+<!--Languages-->
+[[de:Schlacht am Gelben Arm]]
+[[fr:Bataille de la Jaunefurque]]
+[[ru:Битва на Желтом Зубце]]

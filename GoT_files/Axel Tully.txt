@@ -1,0 +1,64 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Tully.svg
+| Link  = House Tully
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Tully
+| Image       = 
+| Birth       = During the [[coming of the Andals]], in the [[Riverlands]]
+| Death       = 
+| House       = [[House Tully|Tully]]
+| Affiliation = 
+| Titles      = [[Lord of Riverrun]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[First Men]]/[[Andals|Andal]]
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|My ancestor, Axel Tully, bright man that he was, realized that most soldiers can't swim, and raised his castle of Riverrun where the Red Fork and the Tumblestone rivers meet. He built right up to the water on each side, daring attackers to force a crossing.|[[Brynden Tully]]|Riverrun (short)}}
+Lord '''Axel Tully''' was a member of [[House Tully]] who built [[Riverrun]].
+
+==Biography==
+Due to the [[Riverlands]]' lack of natural defenses, Axel decided to construct the castle Riverrun for House Tully. He raised it where [[Red Fork]] and the [[Tumblestone]] rivers meet. The castle was built with water to each side. This forced soldiers to cross the river in order to breach the castle. Those wearing armor would drown, and would otherwise be within range of archers placed on the battlements.{{Ref|H&L617}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Axel Tully was the first [[Lord of Riverrun]]. He was the son of Ser Edmure Tully, a turncoat who supported the [[Andals|Andal]] warlord Armistead Vance following the death of the [[King of the Rivers and Hills|King of the Rivers and the Hills]], Tristifer IV Mudd. It was from Vance that Axel received the grant of lands upon which he built [[Riverrun]].
+
+==Appearances==
+*{{H&L|Riverrun}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Tully}}
+
+<!--Categories-->
+{{DEFAULTSORT:Tully, Axel}}
+[[Category:Individuals from Histories & Lore]]
+[[Category:Lords of Riverrun]]
+[[Category:Members of House Tully|Axel Tully]]
+[[Category:Rivermen]]
+
+<!--Languages-->
+[[de:Axel Tully]]
+[[ru:Аксель Талли]]

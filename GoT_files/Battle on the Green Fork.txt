@@ -1,0 +1,101 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Thrones
+| Part          = the [[War of the Five Kings]]
+| Image         = Green Fork.jpg
+| Previous      = [[Battle at the Mummer's Ford]]
+| Concurrent    = [[Siege of Riverrun]]
+| Next          = [[Battle of Whispering Wood]]
+| Date          = [[298 AC]]{{Dateref|Game of Thrones: Season 1}}
+| Place         = Along the western side of the [[Green Fork]] in the [[Riverlands]]
+| Outcome       = [[House Lannister|Lannister]] tactical victory<br>[[House Stark|Stark]] strategic victory
+| Factions1     = [[File:House Baratheon of King's Landing.svg|30px|center|link=House Baratheon of King's Landing]] '''[[Iron Throne]]'''/[[House Baratheon of King's Landing]]<br><br>[[File:House Lannister.svg|30px|center|link=House Lannister]] [[House Lannister]]<br><br>[[File:House Lefford.svg|25px|center|link=House Lefford]] [[House Lefford]]<br><br>[[File:House Swyft.svg|25px|center|link=House Swyft]] [[House Swyft]] <br><br> [[File:House Marbrand.svg|25px|center|link=House Marbrand]] [[House Marbrand]]<br><br>[[Hill tribes|Hill Tribes]] of the [[Vale of Arryn|Vale]]
+*[[Stone Crows]]
+*[[Burned Men]]
+*[[Black Ears]]
+*[[Moon Brothers]]
+*[[Painted Dogs]]
+| Factions2     = '''Robb Stark’s Host:'''<br><br>[[File:House Stark.svg|30px|center|link=House Stark]] [[House Stark]]<br><br> [[File:House Cerwyn.svg|30px|center|link=House Cerwyn]] [[House Cerwyn]]<br><br>
+[[File:House Manderly.svg|30px|center|link=House Manderly]] [[House Manderly]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = Lord [[Tywin Lannister]]<br>Ser [[Kevan Lannister]]<br>Ser [[Addam Marbrand]]<br>Lord [[Leo Lefford]]<br>[[Tyrion Lannister]]
+| Leaders2      = Unknown
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = 30,000 Lannister soldiers
+*3,000 [[hill tribes]]men
+| Participants2 = 2,000 Northern soldiers
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = Light
+| Casualties2   = Army broken, 2,000 killed or captured
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Dialogue a-b-a-b-a|Tywin Lannister|The scouts were wrong. There were 2,000 Stark bannermen, not 20,000.|Tyrion Lannister|Did we get the Stark boy, at least?|He wasn't here.|Where was he?|With his other 18,000 men.|[[Tywin Lannister]] and [[Tyrion Lannister]] discuss the Stark feint.|Baelor}}
+The '''battle on the Green Fork'''{{Con|ASOIAF}} was an early battle in the [[War of the Five Kings]] that erupted after King [[Robert Baratheon]]'s death.
+
+==History==
+===Background===
+[[File:Tyrion 1x09.jpg|200px|thumb|right|[[Tyrion Lannister]] prepares the hill tribes for battle.]]
+{{Dialogue a-b-a|Tyrion|Tribesmen of the Vale! Gather round! Stone Crows, Black Ears, Burned Men, Moon Brothers... and Painted Dogs! Your dominion over the Vale begins now! Onward to claim what is yours!|Tribesmen|Halfman! Halfman! Halfman!|To battle!|Tyrion rallies the hill tribes.|Baelor}}
+Leading a host of 18,000 troops from the [[North]], [[Robb Stark]] means to confront the [[House Lannister|Lannister]] armies in the [[Riverlands]] and relieve the forces loyal to [[Hoster Tully|his grandfather]] which have been under attack for some time. [[Tywin Lannister]] has split his forces into two armies, each numbering approximately 30,000 men. One force, under the command of [[Jaime Lannister]], lays siege to [[Riverrun]], the seat of [[House Tully]]. The other, under Tywin's direct command, marches north, along the west bank of the [[Green Fork]] of the [[Trident]], to prevent the Starks from lifting the siege, and sends scouts to reconnoiter the Stark position.<ref name="EP8">"[[The Pointy End]]"</ref>
+
+Robb and his men debate strategy, since they are outnumbered by either Lannister army. Several lords favor a direct confrontation with Tywin's forces, while [[Greatjon Umber]] advocates trying to outflank Tywin, get past him, and then confront Jaime's forces at Riverrun. Robb is still undecided when one of the Lannister scouts is taken prisoner. He tells Robb that he counted roughly 20,000 men in the Stark host. Robb tells him to carry a message to Tywin, telling him that "Twenty thousand Northern warriors march South to find out if he really does shit gold".<ref name="EP8"/>
+
+[[Catelyn Stark|Catelyn]] negotiates with Lord [[Walder Frey]] to allow Robb's army safe passage across the Trident at the Green Fork. Walder grants the passage and even contributes his levies to Robb's army, increasing Robb's numbers, in return for Robb agreeing to a number of conditions, including marriage to one of his daughters or granddaughters once the war is concluded. At the Twins, the Stark host splits into two elements: a force of 2,000, mostly infantry, conducts a forced march south down the King's Road to engage and delay Tywin's forces; the main body of the Northern army, including most of the cavalry, crosses the Twins to break the siege at Riverrun and rally the Riverlords.<ref name="EP9">"[[Baelor]]"</ref>
+
+===Battle===
+Tywin receives word that the Starks are moving against him. Believing this is the full Stark host, based on the information the captured scout returned to him, he prepares to confront it. He assigns [[Tyrion Lannister|Tyrion]], who has won the support of several of the [[hill tribes]] of the [[Vale of Arryn]], to command them in the vanguard. In the event, Tyrion is disabled by an accidental blow from one of his own men and spends the battle unconscious. In his absence, the Lannisters win a crushing victory, and his hill tribesmen actually perform quite well. However, it is quickly revealed that the battle was a feint: Robb only sent 2,000 men against the main Lannister host, slipping the rest around the Lannister force to instead attack Jaime Lannister's forces.<ref name="EP9"/>
+
+===Aftermath===
+Despite winning the battle on the Green Fork, the defeat of Jaime's forces at the [[Battle of Whispering Wood]] and the subsequent joining of forces of the river lords to Robb's forces leaves Tywin's forces exposed and outflanked. He retreats his army to [[Harrenhal]] to rest and regroup.<ref name="EP9"/>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the battle on the Green Fork unfolds in a similar manner but with different details. As in the TV series, Robb meant to send a feinting force against Tywin while engaging Jaime near Riverrun. However, in the books his plan was more complex due to the different positioning. In the books, Tywin's army was located east of the Green Fork, near the Ruby Ford over the river. From this position, Tywin could march north swiftly to meet Robb or west to relieve Jaime should he come under attack. In order to pin Tywin's forces on the Trident, Robb sent one army consisting of most of his infantry south along the [[Kingsroad]] while his cavalry crossed at the Twins and marched south to face Jaime.
+
+The battle is fully narrated from Tyrion's POV in the books.<ref>''A Game of Thrones'', Tyrion VIII</ref> He initially leads the hill tribes, but within a few moments they gallop past him, leaving him in the rear. He fights throughout the battle against five enemy soldiers (one at a time), nearly gets killed by the last two, but manages to kill the fourth. The fifth opponent unhorses Tyrion, yet he manages to overcome the man by using his spiked helmet to eviscerate his horse; the horse falls, trapping his rider's leg under it, leaving the soldier no choice but to surrender. The TV series changed this to have Tyrion accidentally knocked unconscious at the very start of the battle, and only wake up after it is over - probably due to budget limitations in [[Game of Thrones: Season 1|Season 1]] (the [[Battle of Whispering Wood]] also occurred off-screen in the TV series, but that battle also occurred "off screen" in the books, and Catelyn only hears a report of what happened).
+
+The Stark infantry, commanded by [[Roose Bolton]], marched throughout the night in an effort to take the Lannister army by surprise. The Stark force was much larger in the book, numbering approximately 16,000-18,000 men, while the Lannister force numbering approximately 24,000 (supplemented by an additional 300 mountain clansmen).
+
+[[Kevan Lannister]] commanded the center with lords [[Leo Lefford|Lefford]], Lydden, and Serrett, a mixed force of pike and horse, Ser [[Addam Marbrand]] commanded the right with Ser Flement Brax and members of houses [[Crakehall]] and [[House Swyft|Swyft]], all cavalry. Tywin commanded the reserve. [[Gregor Clegane|The Mountain]] commanded the left and the van, which included Tyrion. Tywin put his undisciplined men in the vanguard, to tempt the Northern commander to over commit should they rout. He then intended for Kevan and the center to wheel to the left and take the northerners in the side. Tywin's plan, however, was foiled by three factors:
+*Roose Bolton proved to be cautious and failed to fall for the trap. Once he saw the battle was lost, he retreated in good order with only moderate losses. Roose's army positioned itself to make it difficult for Tywin to leave Harrenhal, and was able to capture the castle months later after Tywin decided to abandon the position.
+*The hill tribes, who were supposed to serve as a cannon fodder, fought much better than he expected.
+*Lastly, Robb was absent; the captives revealed that he had crossed at the Twins with most of his troops, heading for Riverrun.
+
+It is implied that casualties were "insignificant" to a little under 4,000 for Tywin as he is later described as having 20,000 men at the Battle of the Fords against [[Edmure Tully]], compared to the 24,000 he was said to have at the battle on the Green Fork (though some sources say he actually only had about 20,000 at the Green Fork).
+
+Roose Bolton, meanwhile, may have lost 4-5,000 men out of his original 16-18,000, as he was later described as having about 10,000 men when he took Harrenhal (though this was months later and he may have sent smaller contingents away on other missions). Among the casualties are Lord Halys Hornwood and Ser Pate of the [[Blue Fork]]. Lord [[Medger Cerwyn]], [[Harrion Karstark]], Wylis Manderly, Donnel Locke, Jared Frey, Hosteen Frey, Danwell Frey, and Ronel Rivers are taken captive and imprisoned at Harrenhal; later, all of them are freed (except Medger Cerwyn, who dies of the injuries he sustained during the battle).
+
+While there were only 300 [[Hill tribes|hill tribesmen]] present at the battle in the book, the TV series increased this number to 3,000. Because the tribesmen were put in a dangerous position in the vanguard, about half of them (150 or so) were killed - though Kevan (in the TV series - Bronn) compliments that they fought quite well, given the circumstances: they did not break and run, but held and killed a significant number of Northerners. Though of course, Tywin had intended for their lines to break, to lure the Northerners into over-committing, but they could not have known that. 
+
+In "Tyrion II" sample chapter of the upcoming sixth novel, during the [[Second siege of Meereen#In the books|second siege of Meereen]], Tyrion suddenly reminisces the battle on the Green Fork. He remembers most of all the night he spent with Shae before the battle, and how resplendent his father looked like.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{War of the Five Kings}}
+
+<!--Categories-->
+[[Category:298 AC]]
+[[Category:Battles|Green Fork]]
+[[Category:War of the Five Kings]]
+
+<!--Languages-->
+[[de:Schlacht am Grünen Arm]]
+[[fr:Bataille de la Verfurque]]
+[[pl:Bitwa nad Zielonymi Widłami]]
+[[pt-br:Batalha do Ramo Verde]]
+[[ru:Битва на Зеленом Зубце]]
+[[zh:绿叉河之战]]

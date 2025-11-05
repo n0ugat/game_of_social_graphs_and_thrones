@@ -1,0 +1,96 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Thrones
+| Part          = the [[War of the Five Kings]]
+| Image         = Battle at the Mummer's Ford.png
+| Previous      = [[Battle in the hills below the Golden Tooth]]
+| Concurrent    = [[Siege of Riverrun]]
+| Next          = [[Battle on the Green Fork]]
+| Date          = [[298 AC]]{{Dateref|Game of Thrones: Season 1}}
+| Place         = [[Mummer's Ford]], the [[Trident]]
+| Outcome       = *Lannister victory
+*Survivors of the battle from the Iron Throne detachment form the [[Brotherhood Without Banners]]
+*[[Thoros]] discovers he can bring [[Beric Dondarrion]] back from the dead with a prayer to the [[Lord of Light]]
+| Factions1     = {{COA|House Lannister|small}} [[House Lannister]]<br><br>{{COA|House Clegane|small}} [[House Clegane]]
+| Factions2     = {{COA|House Baratheon|small}} '''[[Iron Throne]]'''/[[House Baratheon of King's Landing]]<br><br>
+{{COA|House Stark|small}} [[House Stark]] <br><br>{{COA|House Dondarrion|small}} [[House Dondarrion]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = Lord [[Tywin Lannister]]<br><small>(secretly)</small><br>Ser [[Gregor Clegane]]
+| Leaders2      = Lord [[Eddard Stark]], [[Hand of the King]]<br><small>(''in absentia'')</small><br>Lord [[Beric Dondarrion]] †
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = Unknown
+| Participants2 =~Royal detachment sent on orders of Lord [[Eddard Stark]] as [[Hand of the King]]<br>
+*100 men-at-arms mostly made up of House Stark and House Baratheon
+**[[Thoros]] of [[Myr]]
+**[[Anguy]]
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = ~45 men
+| Casualties2   = 60 men{{Ref|H&L611}}
+*[[Raymun Darry]]
+*Beric Dondarrion killed; later resurrected
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = Heavy
+}}
+{{Quote|Ser Gregor isn't called the Mountain because of his subtlety, yet he took us by surprise at the Mummer's Ford. He'd hidden his men on both banks, and as we crossed, he fell upon us from the front and rear.|[[Thoros]]|Brotherhood Without Banners (short)}}
+A '''battle at the Mummer's Ford''' occurred in the first days of the [[War of the Five Kings]]. It takes place when the forces of [[House Lannister]] led by Ser [[Gregor Clegane]] come into conflict with the [[Iron Throne]] detachment sent by [[Hand of the King]] [[Eddard Stark]], under the command of Lord [[Beric Dondarrion]] along with [[Thoros]] of [[Myr]], to execute Ser Gregor.
+
+== History ==
+=== Prelude ===
+[[Tywin Lannister]] sends Gregor Clegane to ravage the countryside in the [[Riverlands]], in retaliation to the kidnapping of [[Tyrion Lannister|Tyrion]] by [[Catelyn Stark|Catelyn]]. Some of the refugees of these attacks go to [[King's Landing]] to plead their case for justice. There, in the [[throne room]] of the [[Red Keep]], [[Eddard Stark]], as [[Hand of the King]], sits on the [[Iron Throne]], flanked by [[Petyr Baelish]] and [[Pycelle]], dispensing justice while King [[Robert Baratheon]] is away from King's Landing on a hunt.{{Ref|GOT106}}
+
+When asked who committed the massacre, the [[Joss (A Golden Crown)|spokesman for the refugees]] replies that the attackers carried no banners, but that their leader was a foot taller than any man he had ever seen, and was capable of cutting off the head of a horse with a single blow of a sword. Littlefinger whispers to Ned that they have seen this feat themselves - Ser Gregor did this at the [[Tournament#Tourney of the Hand|Hand's Tournament]]. Ned tells the spokesman that the man he is describing is Gregor Clegane.{{Ref|GOT106}}
+
+Even though Robert had left Ned with explicit instructions to make peace with the Lannisters, he cannot let these acts go unpunished. He tells the assembled refugees that though he cannot bring back what is lost, he can mete out justice for those who committed these crimes. Ned calls forth Lord [[Beric Dondarrion]] and charges him to take a force of 100 men and travel to the lands of [[House Clegane]]. Ned proclaims in the name of the King that Ser Gregor Clegane is hereby stripped of all lands and titles and sentenced to death. He charges Beric with carrying out the sentence.{{Ref|GOT106}}
+
+Ned also orders Pycelle to send a raven to Tywin at [[Casterly Rock]], instructing him to come to King's Landing, within a fortnight, to answer for the crimes of his bannerman. Otherwise, he will be branded a traitor and an enemy to the throne.{{Ref|GOT106}}
+
+=== The battle ===
+It is reported that the Iron Throne detachment took heavy losses from a force led by Gregor Clegane, and that Beric Dondarrion was killed, but not after Thoros unwittingly brought him back from the dead, when he prayed over Beric's corpse.{{Cite}}
+
+=== Aftermath ===
+The survivors are trapped behind enemy lines with the start of the [[War of the Five Kings]]. Instead of fleeing, they form the [[Brotherhood Without Banners]] to protect the [[smallfolk]] by harassing Lannister soldiers. This group eventually becomes hostile to anyone who harms the smallfolk, including Stark soldiers. Hence, their name "Brotherhood Without Banners".{{Cite}}
+
+Thoros brings Beric back from the dead multiple times - at last count, six times - with a prayer to the [[Lord of Light]] but does not know why his prayer only works on Beric.{{Cite}}
+
+Following the duel with [[Sandor Clegane|the Hound]], Beric comments "Second time I've been killed by a Clegane" - vaguely referring to the aforementioned battle.{{Ref|GOT305}}
+
+==Behind the scenes==
+The battle occurs off-screen and is not mentioned in the TV series.<ref>Season 2 Bluray: War of the Five Kings feature</ref>{{Cite}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Tywin sends the Mountain to raid the Riverlands, not simply as a retaliatory act for Tyrion's kidnapping, but also in hope that Ned Stark will lead the force; Tywin plans an ambush, either to kill Ned or take him hostage to trade for Tyrion. However, Ned's leg was broken in a [[Skirmish at Littlefinger's brothel|bloody encounter with Jaime]], so he cannot lead the detachment himself. Ned assigns Beric to lead the force. With Beric, Ned sends Thoros of Myr, Ser Gladden Wylde and Lord Lothar Mallery, each of whom are to raise 20 men-at-arms, along with 20 Winterfell men (including Alyn and Harwin) to fight alongside them, a total of 100 men.
+
+The Iron Throne detachment is intercepted at the Mummer's Ford and makes a fighting retreat, only to be taken in the rear by Gregor Clegane and his men. Lothar, Raymun and Gladden are all killed, as are most of Eddard's men. Alyn of Winterfell manages to rally the survivors into a retreat. Young Lord Edric Dayne participates as Beric's squire and survives the battle.
+
+When Harwin later tells Arya about the battle, he actually says that they had about 120 men ("six score"), contradicting Eddard's words; Beric says the same number. The TV series just has Eddard command Beric to send a force of "100 men", and the Season 6 animated short about the battle simply copies when TV-Eddard said. Both versions say only 40 men survived.
+
+Many characters who later formed the Brotherhood were introduced at the Tourney of the Hand in the first novel. This tourney did occur in Season 1 of the TV series, but the characters were not introduced, because they would not really make a significant appearance until Season 3 - they are given cameos in the first novel but only reappear as "the Brotherhood" in the third novel (though as in Season 2 of the TV series, in the second novel characters do mention that something called "the Brotherhood" is harassing Lannister supply lines).
+
+At the Tourney of the Hand, [[Anguy]] won the archery contest and Thoros won the melee contest. This is why they arrived in King's Landing and were available when Ned ordered Beric to lead out a group of able knights to bring Gregor Clegane to justice - the soldiers who formed the original core of the Brotherhood Without Banners. Thus the connection might be lost on the TV audience that one of the reasons the Brotherhood is such a disproportionately capable fighting force is because so many of its initial members were elite fighters who came to the capital city to participate in the Tourney of the Hand. For example it might be a bit contrived in the TV series that, as if by pure chance, the Brotherood's lead archer Anguy just happens to be preternaturally skilled with a bow. The books actually do explain that he is a professional archer so skilled that he actively competes in tournaments, and indeed recently won first place at a ''royal-level'' archery tournament. Moreover, he doesn't just happen to be wandering in the Riverlands, but the rational reason was given that he was in the capital for a major tournament, before being sent out with Dondarrion.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{War of the Five Kings}}
+
+<!--Categories-->
+[[Category:298 AC]]
+[[Category:Battles|Mummer's Ford]]
+[[Category:War of the Five Kings]]
+
+<!--Languages-->
+[[de:Schlacht bei Mummersfurt]]
+[[ru:Битва у Шутовского Брода]]

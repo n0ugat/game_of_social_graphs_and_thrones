@@ -1,0 +1,79 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Stub}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Thrones
+| Part          = the [[Ironborn invasion of the North]]
+| Image         = 
+| Previous      = [[Fight at Torrhen's Square]]
+| Concurrent    = 
+| Next          = [[Capture of Winterfell]]
+| Date          = [[299 AC]]{{Dateref|Game of Thrones: Season 2}}
+| Place         = [[Deepwood Motte]], the [[North]]
+| Outcome       = Greyjoy victory<br>Lady [[Sybelle Glover]] and her children are taken captive
+| Factions1     = {{COA|House Greyjoy|small}} '''[[Iron Islands]]'''/[[House Greyjoy]]
+| Factions2     = {{COA|House Stark|small}} '''[[North|Kingdom of the North]]'''/[[House Stark]]<br><br>
+{{COA|House Glover|small}} [[House Glover]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = {{COA|House Greyjoy|inline}} [[Prince]]ss [[Yara Greyjoy]]
+| Leaders2      = Unknown
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = At least 500 men{{Note|In "[[The Old Gods and the New]]", Theon sends Yara an order to bring 500 men, hence her force consists of at least that number.}}
+| Participants2 = Unknown
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = Unknown
+| Casualties2   = Civilian casualties
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Quote|Yara, my daughter, you'll take thirty longships to attack Deepwood Motte.|[[Balon Greyjoy]]|What Is Dead May Never Die}}
+An '''attack on Deepwood Motte''' was a battle during the [[War of the Five Kings]]. It was part of the campaign orchestrated by [[Balon Greyjoy]] - who had crowned himself [[King of the Iron Islands]] - to [[Ironborn invasion of the North|conquer the North]].  
+
+==History==
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+Rejecting an offer of an alliance with the [[North]] against the [[Iron Throne]], Balon Greyjoy sends his daughter [[Yara Greyjoy|Yara]] to raid [[Deepwood Motte]], seat of [[House Glover]], with a fleet of thirty ships.<ref>"[[What Is Dead May Never Die]]"</ref> Following her father's orders, Yara seizes Deepwood Motte. Robett Glover's [[Sybelle Glover|wife]] and [[Gawen Glover|two]] [[Erena Glover|children]] are imprisoned, and their subjects are brutalized and killed.<ref name="The Broken Man" />
+
+Later, Yara rides to [[Winterfell]] in an unsuccessful attempt to convince her brother [[Theon Greyjoy|Theon]] to end his occupation of the Northern seat.<ref>"[[The Prince of Winterfell]]"</ref>
+
+===[[Game of Thrones: Season 6|''Game of Thrones'': Season 6]]===
+Eventually, [[Robett Glover]] [[Fight by Deepwood Motte|liberates Deepwood Motte]] with the help of [[House Bolton]]<ref name="The Broken Man">"[[The Broken Man]]"</ref> and slays every Ironborn there.<ref>"[[Home]]"</ref>
+
+During a meeting with [[Jon Snow]] and [[Sansa Stark|Sansa]], Robett sharply mentions how the Ironborn have treated his wife and children and their subjects. Still bitter that [[Robb Stark|Robb]] failed to come to their aid, Robett refuses to aid the [[House Stark|Starks]] in their attempt to retake Winterfell from [[Ramsay Bolton]].<ref name="The Broken Man" />
+
+Following the [[Battle of the Bastards]], Robett reconsiders his stance and renews his support for House Stark.<ref>"[[The Winds of Winter]]"</ref>
+
+== In the books ==
+In the ''[[A Song of Ice and Fire]]'' novels, the attack on Deepwood Motte also happens off-screen. While Galbart and Robett Glover are away, Asha (Yara Greyjoy's name in the novels), leading a force of one thousand ironborn and thirty longships, seizes Deepwood Motte after a moon's turn and takes Robett's family hostage. It is unknown how much casualties each party suffers.
+
+The capture of the castle allows the ironborn to control the northern [[Sunset Sea]] and have a secure base in the heart of the North.
+
+Unlike most ironborn, Asha treats her captives well. She even sends her men to bring a wet nurse for Erena, Robett Glover's baby daughter, when her mother does not have enough milk to breastfeed her.
+
+Deepwood Motte is eventually liberated by Stannis, reinforced by the Northern mountain clans and [[House Mormont]], in the [[fight by Deepwood Motte]]. Asha and her men fight valiantly, but being outnumbered and surrounded by unfamiliar territory and darkness, they are defeated. Nearly all Asha's troops and ships are destroyed, and she and her surviving men (less than ten) are taken prisoners. Deepwood Motte is restored to House Glover. The victory grants Stannis credibility in the eyes of the people of the North, and many survivors of the northern houses join him in his campaign against the Boltons.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|Taking of Deepwood Motte}}
+
+<!--Navboxes-->
+{{War of the Five Kings}}
+
+<!--Categories-->
+[[Category:299 AC]]
+[[Category:Battles]]
+[[Category:Ironborn invasion of the North]]
+
+<!--Languages-->
+[[de:Überfall auf Tiefwald Motte]]
+[[fr:Première Bataille de Motte-la-Forêt]]
+[[ru:Битва у Темнолесья]]

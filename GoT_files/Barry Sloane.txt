@@ -1,0 +1,29 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Barry Sloane.jpg
+| Birth   = Barry Paul Sloane<br>10 February, 1981 {{Age|1981|2|10}}<br>Liverpool, England
+| Death   = 
+| Role    = [[Adrian Redfort]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 3|3]]
+| Credits = 
+| First   = 
+| Last    = 
+}}
+'''Barry Paul Sloane''' is an English actor. He has appeared in the films ''{{WPS|The Mark of Cain (2007 film)|The Mark of Cain}}'', ''{{WPS|Penthouse North}}'' and ''{{WPS|Noah (2014 film)|Noah}}'' in television series such as ''{{WPS|Brookside (TV series)|Brookside}}'', ''{{WPS|Holby City}}'', ''{{WPS|Hollyoaks}}'', ''{{WPS|Casualty (TV series)|Casualty}}'', ''{{WPS|The Bill}}'', ''{{WPS|Doctors (2000 TV series)|Doctors}}'', ''{{WPS|DCI Banks}}'', ''{{WPS|Revenge (TV series)|Revenge}}'', ''{{WPS|Father Brown (2013 TV series)|Father Brown}}'', ''{{WPS|Saints & Strangers}}'', ''{{WPS|Shameless (American TV series)|Shameless}}'', ''{{WPS|The Bay (TV series)|The Bay}}'' and ''{{WPS|The Sandman (TV series)|The Sandman}}''.
+
+In ''[[House of the Dragon]]'', he will portray [[Adrian Redfort]] in the [[House of the Dragon: Season 3|third season]].{{Webref|name=Deadline |author=Lynette Rice |date=April 23, 2025 |url=https://deadline.com/2025/04/house-of-the-dragon-casts-tom-cullen-hoplin-sibtain-barry-sloan-season-3-1236374920/ |title=‘House Of The Dragon’ Casts Tom Cullen, Joplin Sibtain & Barry Sloane For Season 3 |website=Deadline |access-date=April 23, 2025 }}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{WP|Barry Sloane}}
+*{{IMDb|#=1289351}}
+*{{Twitter|barrysloane}}
+*{{Instagram|#=barrypaulsloane}}
+
+<!--Categories-->
+{{DEFAULTSORT:Sloane, Barry}}
+[[Category:Cast members of unknown billing of House of the Dragon]]

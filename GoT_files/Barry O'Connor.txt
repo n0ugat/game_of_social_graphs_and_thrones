@@ -1,0 +1,23 @@
+{{Cast
+|Title = Barry O'Connor
+|Image = Barry.jpg
+|role = [[Wallen]]
+|status = 
+|Appearances = "[[A Golden Crown]]"
+|imdb = http://www.imdb.com/name/nm3226454/
+}}'''Barry O'Connor''' is an actor based in Northern Ireland. He played the role of [[Wallen]].
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 1||||||yes}}
+
+==See also==
+*{{Template:IMDb
+|# = 3226454}}
+
+{{Stub}}
+
+[[de:Barry O'Connor]]
+[[fr:Barry O'Connor]]
+{{DEFAULTSORT:O'Connor, Barry}}
+[[Category:Guest starring cast members of Game of Thrones]]

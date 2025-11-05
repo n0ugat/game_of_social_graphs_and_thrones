@@ -1,0 +1,90 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Thrones
+| Part          = the [[War of the Five Kings]]
+| Image         = 701 Arya Stark The Twins.png
+| Previous      = [[Destruction of the Great Sept of Baelor]]
+| Concurrent    = 
+| Next          = [[Assault on the Targaryen fleet]]
+| Date          = [[303 AC]]{{Dateref|Game of Thrones: Season 6}}
+| Place         = [[Twins]], [[Riverlands]]
+| Outcome       = *Most, if not all, the men of [[House Frey]] are killed
+*[[Red Wedding]] is avenged by [[Arya Stark]]
+*The [[Riverlands]] descends to anarchy; [[House Lannister|Lannister]] [[Man-at-arms|soldiers]] sent to keep the peace
+| Factions1     = {{COA|House Frey|s}} [[House Frey]]
+| Factions2     = {{COA|House Stark|s}} [[Arya Stark]] {{C|clandestinely}}
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = 
+| Leaders2      = 
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = {{COA|House Frey|i}} [[Lord of the Crossing|Lord]] [[Walder Frey]] †<br> {{COA|House Frey|i}} [[Lothar Frey]] †<br>[[Walder Rivers]] †<br> {{COA|House Frey|i}} 45{{Note|In addition to Lord Walder Frey, Black Walder Rivers and Lothar Frey (all three killed before this event), Arya poisoned a total of 45 Freys, 23 of which were seated on the right side of the hall and 22 of which were seated on the left side. ([[:File:Frey Assassination right side.png]], [[:File:Frey Assassination left side.png]])}} men of [[House Frey]] †
+| Participants2 = {{COA|House Stark|i}} Arya Stark {{C|clandestinely}}
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = Lord Walder Frey<br>Lothar Frey<br>Walder Rivers<br>45 men of House Frey
+| Casualties2   = None
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Quote|When people ask you what happened here, tell them the North remembers. Tell them winter came for House Frey.|[[Arya Stark]] to [[Kitty Frey]]|Dragonstone (episode)}}
+The '''assassinations at the Twins''' is one of the closing events of the [[War of the Five Kings]], where former [[Faceless Men|Faceless Man]] prodigy [[Arya Stark]] brutally murders [[Lordship|Lord]] [[Walder Frey]], the [[Lord of the Crossing]], [[Lord of Riverrun]], and [[Lord Paramount of the Trident]], and most, if not all, of the male line of [[House Frey]] for their role in the [[Red Wedding]]. The event ultimately results in further chaos in the already war-ridden [[Riverlands]].
+
+==History==
+===Prelude===
+{{Quote|For 300 years, we kissed Tully boots, swore oaths to them and their stinking fish banners. Not again! Riverrun is ours. Take it back!|[[Walder Frey]] to his sons [[Lothar Frey]] and [[Walder Rivers]]|Blood of My Blood}}
+Since [[Aegon's Conquest]], [[House Frey]] of the [[Twins]] has been a [[Noble house|vassal]] of [[House Tully]] of [[Riverrun]], the [[Lord Paramount of the Trident|Lords Paramount of the Trident]]. However, for their loyalty towards the [[Iron Throne]] - in reality, [[House Lannister]] - and for their actions during the [[Red Wedding]] in which Lord Walder Frey oversaw the massacre of [[King in the North|King]] [[Robb Stark]], [[King|Queen]] [[Talisa Stark]], and Lady [[Catelyn Stark]], as well as the Northern armies, Walder Frey is rewarded with Riverrun and is elevated to Lord Paramount of the Trident. During the Northern campaign, House Tully had allied with [[House Stark]] in securing independence for both the [[North]] and the [[Riverlands]].
+
+Meanwhile, [[Arya Stark]] was widely believed across [[Westeros]] to be dead. In reality, however, she escaped across the [[Narrow Sea]] to the [[Free Cities|Free City]] of [[Braavos]], where she trained to become an assassin of the [[Faceless Men]]. Though she was able to learn some of their techniques and magic, she ended up leaving the guild, refusing to give up her identity, which is a requirement of its members.<ref>"[[No One]]"</ref>
+
+===Events===
+{{Quote|My name is Arya Stark. I want you to know that... the last thing you're ever going to see is a Stark smiling down at you as you die.|[[Arya Stark]] to [[Walder Frey]] just before cutting his throat.|The Winds of Winter}}After leaving the Faceless Men, Arya returns to Westeros where she intends to continue crossing names off her death list. Though Walder's role in the deaths of her family at the Red Wedding is known far and wide, it is not entirely clear if Arya knew the full extent that his sons Black Walder and Lothar played, specifically killing her mother Catelyn and pregnant sister-in-law Talisa respectively. She eventually finds her way into the [[Twins]], disguised as a servant girl during a banquet being held by the Freys with the [[House Lannister|Lannisters]] for their victory at the [[second siege of Riverrun]], where she presumably learns about the deaths of Catelyn and Talisa and adds their killers to her list. At some point after the feast, Arya murders Lothar and Black Walder, and has them cooked into [[Frey pie|pies]], which she later serves to Walder Frey.<br />[[File:AryaKillsWalderFrey.jpg|thumb|Arya slits Lord Walder's throat in the same manner her mother was killed.]]
+While Walder eats the served pies, he notes that the servant girl is not one of his progeny as she is "too pretty", and slaps her rear. He then asks aloud where his "moron sons" are, to which the servant girl replies that they are right there - indicating that they are in the pies. When Walder realizes the horrible truth by lifting the crust and finding a human finger inside the pie, Arya reveals herself. She taunts him, saying the last thing he will ever see is a Stark smiling down at him as he dies. Walder attempts to flee, but Arya grabs him and slits his throat, watching with satisfaction as Walder bleeds out and chokes to death on his own blood.<ref name="E60">"[[The Winds of Winter]]"</ref>
+
+Afterwards, using Walder Frey's face, Arya invites the rest of the men of House Frey to a feast. She has wine that she describes as "the [[Arbor]]'s gold" served to them which is in fact poisoned. As she goes on mocking them sarcastically as brave men for butchering guests, including Catelyn and Talisa, after Walder had offered them [[guest right]] at the Red Wedding, the Frey men begin to clutch at their throats, choking and gasping and finally dying as blood pours from their mouths. When the very last male Frey dies, Arya removes Walder Frey's face, revealing herself to the Frey women and servant girls. She then tells [[Kitty Frey]], Walder's last wife, that when people ask what happened at the [[Twins]], tell them that the [[North]] remembers and winter came for House Frey.<ref name="E61">"[[Dragonstone (episode)|Dragonstone]]"</ref>
+
+===Aftermath===
+{{Quote|The Northerners will <u>never</u> forget.|[[Tyrion Lannister]]'s warning to Tywin Lannister about the retribution for the Red Wedding that ultimately came true.|Mhysa}}
+With the orchestrators - [[Tywin Lannister]], [[Roose Bolton]], and Walder Frey - all dead, and House Frey on the brink of following [[House Bolton]] to certain [[Battle of the Bastards|extinction]] in name, if not blood, due to Arya's actions, the [[Red Wedding]] has been virtually avenged.
+
+Recognizing this, Cersei considers the Freys no longer viable to help them stave off [[Daenerys Targaryen]]'s invasion in the [[Last War]] and instead invites [[Euron Greyjoy]] to [[King's Landing]] to discuss an alliance. Still, [[Man-at-arms|soldiers]] of House Lannister are sent up to the Riverlands to keep the peace with word of the deaths of the Frey men at the Twins spreading across [[Westeros]]. Even so, their killer remains unknown.
+
+==In the books==
+In ''[[A Song of Ice and Fire]]'' novels, at least six (perhaps seven) Freys have been killed so far in revenge for the Red Wedding:
+* Petyr Pimple, Merrett, and Ryman have been hanged by the [[Brotherhood Without Banners]] on the order of Lady Stoneheart, the revived Catelyn Stark, who ruthlessly seeks vengeance on those responsible for the Red Wedding.
+**Of those, Ryman is the only one who actually took part in the massacre (he killed Dacey Mormont), while Petyr and Merrett's part was to get [[Greatjon Umber]] too drunk to fight, though even that is enough for the Brotherhood to condemn them.
+**Ryman's death made his son Edwyn the heir of the Twins.
+* Jared, Rhaegar, and Symond mysteriously disappear on their way from the White Harbor to Winterfell, to attend Ramsay Bolton's wedding, and are never found.
+**Hosteen and Aenys Frey grow worried about the absence of their kin, and ask the Boltons to look for them. Ramsay and his men ride back to where Lord Manderly claims they parted ways, but in vain. Roose speculates that since Lord Manderly’s litter moves very slowly, and his health does not permit him to travel more than a few hours a day, with frequent stops for meals, the missing Freys were anxious to reach Barrowton and be reunited with their kin, so they rode on ahead. Ramsay is not overly concerned with his failure to find them, dismissing the whole matter with "The world won’t miss a few Freys. There’s plenty more down at the Twins, should we ever have need of one".
+**It is speculated (and supported by Arya's deed in "[[The Winds of Winter]]") that Lord [[Wyman Manderly]] had them killed and baked into the three pies he brings to Ramsay's wedding, to avenge [[Wendel Manderly|his son]]'s death. He made sure that Roose and the two attending Frey officers - Hosteen and Aenys - would eat from the pies, then, for good measure, asked Abel the bard (actually [[Mance Rayder]]) to play the song about the [[Rat Cook]].
+**Lord Manderly has not violated the guest right by killing those Freys, although they were his guests for a while: when asked by Ser Hosteen where they are, he answers innocently (or feigns innocence) "The road has many dangers, ser. I gave your brothers guest gifts when we took our leave of White Harbor. We swore we would meet again at the wedding" - thus, by giving the three Freys "guest gifts", they were no longer protected by the guest right, and technically, he was free to kill them.
+*"Little Walder", Merrett's nine-year-old son, is murdered at Winterfell. The identity and motive of his murderer(s) are unknown.
+**If Lord Manderly is responsible, then the motive was a payback for the Red Wedding. If the murderers are Mance Rayder and the spearwives (who presumably killed six other people in Winterfell), the murder had nothing to do with the Red Wedding, but was done in order to incite a brawl between the occupants of Winterfell, thus provide a distraction for rescuing "[[Jeyne Poole|Arya Stark]]".
+** Hosteen Frey immediately confronts Lord Manderly, who denies the accusation but baits Hosteen into attacking him by remarking that Little Walder's death is perhaps a blessing as "he would have grown up to be a Frey."
+Unlike in the show, Arya had nothing to do with the above killings - she is still in Braavos at that point; none was committed at the Twins; Lord Walder Frey is not one of those who ate from the Frey pies; he, Black Walder, Walder Rivers and Lothar are still alive by the point the books have reached. It is not mentioned in the books how Lord Frey reacted to these deaths.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{War of the Five Kings}}
+
+<!--Categories-->
+[[Category:303 AC]]
+[[Category:Assassinations|Twins]]
+[[Category:Featured pages]]
+[[Category:War of the Five Kings]]
+
+<!--Languages-->
+[[de:Attentat auf den Zwillingen]]
+[[fr:Assassinats aux Jumeaux]]
+[[pt-br:Assassinatos nas Gêmeas]]
+[[ro:Asasinare la Gemeni]]
+[[ru:Убийства в Близнецах]]

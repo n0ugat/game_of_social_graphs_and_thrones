@@ -1,0 +1,100 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Thrones
+| Part          = the [[War of the Five Kings]]
+| Image         = Jaime-and-Myrcella-S05E10.jpg
+| Previous      = [[Battle in the ice]]
+| Concurrent    = 
+| Next          = [[Coup in Dorne]]
+| Date          = [[302 AC]]{{Dateref|Game of Thrones: Season 5}}
+| Place         = [[Summer Sea]]
+| Outcome       = *Death of [[Prince]]ss [[Myrcella Baratheon]]
+*Launch of the [[Coup in Dorne]]
+| Factions1     = [[Sand Snakes]]
+| Factions2     = {{COA|House Baratheon of King's Landing|small}} [[House Baratheon of King's Landing]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = [[Ellaria Sand]]<br><small>(orchestrator)</small>
+| Leaders2      = 
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = [[Ellaria Sand]]<br>[[Obara Sand]]<br>[[Tyene Sand]]<br>[[Nymeria Sand]]
+| Participants2 = {{COA|House Baratheon of King's Landing|inline}} [[Prince]]ss [[Myrcella Baratheon]] †<br>{{COA|Kingsguard|inline}} Ser [[Jaime Lannister]]
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = None
+| Casualties2   = Myrcella Baratheon
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Quote|I never got to have a mother. But Myrcella did. She was mine and you took her from me. Why did you do that?|[[Cersei Lannister]] to [[Ellaria Sand]]|The Queen's Justice}}
+The '''assassination of Myrcella Baratheon''' is an event late in the [[War of the Five Kings]], orchestrated by [[Ellaria Sand]] and the [[Sand Snakes]] in an attempt to draw [[Dorne]] into conflict with [[House Baratheon of King's Landing]] as revenge against [[Cersei Lannister]] for her role in the death of [[Oberyn Martell]].
+
+==History==
+===Prelude===
+{{Quote|Elia Martell! I killed her children! Then I raped her! Then I smashed her head...in like this!|[[Gregor Clegane]] admits his crimes as he slays [[Oberyn Martell]].|The Mountain and the Viper}}
+[[File:Oberyndeath.png|thumb|left|Oberyn lies dead beside Gregor Clegane.]]
+After [[Joffrey Baratheon|Joffrey]] is poisoned and murdered at the [[Purple Wedding]], [[Tyrion Lannister|Tyrion]] is falsely accused and put on trial until he demands a trial by combat. One of the three judges, [[Oberyn Martell|Oberyn]] volunteers to be his champion, mainly for a chance at revenge against the [[Gregor Clegane|Mountain]], the Crown's Champion who previously murdered Oberyn's sister [[Elia Martell|Elia]] and her [[Rhaenys Targaryen (daughter of Rhaegar)|two]] [[Aegon Targaryen (son of Elia Martell)|children]] during the [[Sack of King's Landing]]. Though he puts up a good fight, Oberyn is brutally murdered.
+
+===A vengeful family===
+{{Dialogue a-b|Doran Martell|We do not mutilate little girls for vengeance. Not here. Not while I rule.|Ellaria Sand|And how long will that be?|[[Doran Martell]] and [[Ellaria Sand]] trade barbs.|The House of Black and White}}
+The Dornish, already full of hatred towards the Lannisters for the deaths of Elia and her children, are outraged by Oberyn's murder and the Dornish army implore [[Doran Martell]] to declare war against the Iron Throne. When he refuses, on the basis that Oberyn was killed in a trial by combat, the Dornish turn to Oberyn's paramour [[Ellaria Sand|Ellaria]] and his ruthless daughters, the [[Sand Snakes]], all of whom seek to avenge Oberyn. Ellaria hatches a plot to instead make the Lannisters declare war against Dorne by murdering [[Myrcella Baratheon|Myrcella]]. They almost kidnap her but fail due to the arrival of [[Jaime Lannister|Jaime]] and [[Bronn]].<ref>"[[Unbowed, Unbent, Unbroken]]"</ref> All are temporarily detained until Doran brokers a deal with the Lannisters to prevent further conflict: he will allow Jaime to take Myrcella back to King's Landing, as long as [[Trystane Martell|Trystane]], his son and Myrcella's betrothed, accompanies them, which Jaime accepts. Doran also issues Ellaria an ultimatum: if she defies him again, she will die.<ref>"[[Dance of the Dragons]]"</ref>
+[[File:Myrcella-ellaria-kiss.png|thumb|180x180px|Ellaria kisses Myrcella goodbye.]]
+However, as the Lannister party prepares to leave Dorne, Ellaria poisons Myrcella by kissing her on the lips with a poison lipstick. The poison claims Myrcella's life, while Ellaria drinks up the antidote to save herself.<ref>"[[Mother's Mercy]]"</ref>
+
+===Aftermath===
+{{Quote|Weak men will never rule Dorne again.|Ellaria to Doran just after she murders him.|The Red Woman}}
+Though peace seems to have been restored in Dorne, Doran eventually finds out that Ellaria murdered Myrcella despite his warning. Before he can react, he is [[Coup in Dorne|stabbed to death]] by Ellaria, who also has Trystane killed and takes over Dorne, due to the Dornish army having grown dissatisfied with Doran's lack of action against the Lannisters.<ref>"[[The Red Woman]]"</ref> It is later revealed that Ellaria has agreed to aid [[Daenerys Targaryen|Daenerys]] in her quest to reclaim the Iron Throne after hearing of her alliance with [[Theon Greyjoy|Theon]] and [[Yara Greyjoy]].<ref>"[[The Winds of Winter]]"</ref> After an [[Assault on the Targaryen fleet|attack]] on Daenerys's fleet by Cersei's new ally [[Euron Greyjoy|Euron]], Obara and Nymeria are killed while Ellaria and Tyene are taken captive to answer for murdering Myrcella.<ref>"[[Stormborn]]"</ref> Cersei places Ellaria and Tyene in a dungeon, where she poisons Tyene with the Long Farewell, leaving her to die and for Ellaria to watch.<ref>"[[The Queen's Justice]]"</ref>
+
+== In the books ==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no parallel plotline to the assassination.
+
+As much as the Sand Snakes hate the Lannisters and wish to get even with them, none of them have any ill intentions toward Myrcella; Ellaria has no intentions of vengeance at all, and does her best (not very successfully) to make the Sand Snakes give up their vendetta. It does not mean, though, that Myrcella is safe: Doran Martell warns Ser [[Arys Oakheart]] that there are many hot-headed Dornishmen who may try to kill Myrcella, either as a payback for Oberyn's death or in order to ignite a war between Dorne and the Lannisters.
+
+In the beginning of the fourth novel, the three Sand Snakes confront Doran, demanding an act of revenge, and tell him their plans. Tyene's plan is the only one that involves Myrcella, and does not include harming her: they will crown Myrcella, who is the legal heir of the Iron Throne according to the Dornish law.<ref>Tyene might have gotten the idea from her father, who is the first character to come up with the idea of crowning Myrcella. When he told Tyrion that, Tyrion approved mainly because he knew how his father would feel about it.</ref> That act will provoke the Lannisters and Tyrells to declare war against Dorne; Dornishmen fight best at home, so the Lannisters and the Tyrells come down on them, the Dornish shall bleed them in the passes and bury them beneath the blowing sands, as happened many times before. Doran rejects this plan too, and as a precaution he orders to imprison the elder Sand Snakes to prevent them from igniting a war, and to detain Ellaria and the young Sand Snakes at the Water Gardens.{{Bookref|AFFC|2}} To make the Lannisters believe (incorrectly) he is loyal to the crown, Doran reports the Small Council about the arrest of his nieces.
+
+Doran does not order to imprison his daughter Arianne too, and that proves to be a serious mistake. She intends to carry out Tyene's plan. She seduces Ser Arys Oakheart for that purpose{{Bookref|AFFC|13}} and persuades Myrcella to come along, and gathers several followers, among them a questionable knight named Ser Gerold "Darkstar" Dayne. On the way to Hellholt, Darkstar tells Arianne "Crowning the Lannister girl is a hollow gesture. She will never sit the Iron Throne. Nor will you get the war you want. The lion is not so easily provoked". Instead, he advises Arianne to kill Myrcella, and she refuses, stating that she is no murderer of children and Myrcella is under her protection.{{Bookref|AFFC|21}}
+
+Unknown to Arianne, someone informed her father about the plan. Her party is intercepted by Areo Hotah. Ser Arys charges and kills several of the Dornish soldiers, before Hotah kills him. During the confusion, Darkstar slashes at Myrcella and escapes. Luckily for Myrcella, her horse recoils, otherwise the blow would have severed her head. The slash opens her cheek down to the bone and slices off her right ear.{{Bookref|AFFC|21}} Maester Caleotte saves her life, but he cannot repair her disfigured face.{{Bookref|AFFC|40}}
+
+Arianne is imprisoned for many days. Eventually her father comes to talk. He is furious at Arianne, for the incident may cause the Lannisters to declare war, and Dorne is not prepared yet for open confrontation. Arianne scoffs him for lack of action, and he tells her he has been working at the downfall of Tywin since the day they told him of Elia and her children.{{Bookref|AFFC|40}}
+
+Cersei has no idea about the incident and never receives any token of threat from Dorne; she decides to bring Myrcella back from Dorne because she deeply loathes and mistrusts the Dornish in general and the Martells in particular, and never agreed to send Myrcella to Dorne in the first place. As long as Tywin was alive, Cersei had to keep her reservations about Dorne to herself; shortly after his death, she sends Ser [[Balon Swann]] to Dorne to deliver the Mountain's skull to the Martells, and to take Myrcella back (and also to play his part in her plot to assassinate Trystane).{{Bookref|AFFC|17}} Ser Balon's party does not include Bronn. They arrive at Dorne openly and do not encounter any hostilities. To buy time, Doran sends Myrcella to the Water Gardens and orders his bannermen to delay Ser Balon by arranging games and feasts for his party.{{Bookref|AFFC|40}}
+
+Ser Balon finally arrives at Sunspear and is welcomed by the Martells. Doran has Arianne, Ellaria and the Sand Snakes free. He treats Ser Balon amicably, pretending he has no idea about Cersei's vile plan against his son. He invites Ser Balon to the Water Gardens the next day, where Myrcella is.{{Bookref|ADWD|38}}
+
+Later, Doran has a secret meeting with Ellaria, his daughter and nieces. Ellaria implores the Sand Snakes to abandon their plans of revenge, reasoning that enough blood has been spilled already. Arianne suggests that Myrcella, instructed by her, will tell Ser Balon what Darkstar did to her, claim falsely that Ser Arys was killed by him, and ask him to hunt down the man who hurt her. Doran accepts that. The Sand Snakes reconcile with Doran and swear to serve him loyally. He gives them and Arianne various missions: Obara will lead Ser Balon after Darkstar; Nymeria will accompany Myrcella to King's Landing, where she will take Doran's seat at the Small Council; Tyene will go to King's Landing too, and try to get close to the new High Septon.{{Bookref|ADWD|38}}
+
+As Doran expects, Ser Balon believes Myrcella's story. After reporting to King's Landing, he and Obara go to High Hermitage in chase after Darkstar.
+
+Kevan receives Ser Balon's report and tells Cersei, who is still imprisoned and has not performed the walk of atonement yet, the bad news about Myrcella. Jaime has no idea about this, because he is currently at the Riverlands. Cersei is shocked and saddened to hear her daughter was disfigured. She has no idea who is Darkstar and why he sought to harm Myrcella. She thinks Tyrion is behind the attempt, and that he planned it from the beginning when he sent Myrcella to Dorne. Kevan disagrees with her.{{Bookref|ADWD|54}}
+
+Currently, at the point the novels reached, Myrcella is on her way to King's Landing, disfigured but alive, accompanied by Nymeria. Trystane remains at Sunspear after a tearful parting from her.{{Bookref|TWOW|Arianne II}}
+
+It is unknown why Darkstar was interested in igniting a war with the Lannisters by attempting to kill Myrcella, because there is very little information about him in the books. There are various fan speculations about his personal motive:
+* He is an overzealous Dornish who, like the Sand Snakes and many others, has grown impatient at Doran's seeming hesitance and lack of action to revenge Oberyn's death, and decided to push Dorne into war.
+* He acted as a catspaw for someone who wanted to stir up war between Dorne and the Lannisters (clearly that person is not Tyrion, as Cersei suspects).
+* He was frustrated that his distant relative, the legendary Ser [[Arthur Dayne]], is the only Dayne whom the world remembers (he actually stated that during the journey). It was his pervert idea to enter history books by starting a war.
+Myrcella's death in the TV show may imply that she will die in the books too, but considering how far the show strayed from the books on "The Red Woman", especially about the Dornish plotline - it is uncertain.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{War of the Five Kings}}
+
+<!--Categories-->
+[[Category:302 AC]]
+[[Category:Assassinations|Baratheon, Myrcella]]
+[[Category:War of the Five Kings]]
+
+<!--Languages-->
+[[de:Attentat auf Myrcella Baratheon]]
+[[fr:Assassinat de Myrcella Baratheon]]
+[[ru:Убийство Мирцеллы Баратеон]]

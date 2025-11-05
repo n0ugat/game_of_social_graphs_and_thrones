@@ -1,0 +1,67 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Westeros
+| Part          = [[Robert's Rebellion]]
+| Image         = ManderBattle.jpg
+| Previous      = [[Battle of the Trident]]
+| Concurrent    = [[Sack of King's Landing]]<br>[[Siege of Storm's End]]
+| Next          = [[Skirmish at the Tower of Joy]]
+| Date          = [[281 AC]]{{Dateref|Robert's Rebellion}}
+| Place         = Mouth of the [[Mander]]
+| Outcome       = [[House Tyrell|Tyrell]] victory
+*Death of [[Quellon Greyjoy]]
+*[[Balon Greyjoy]] retreats
+| Factions1     = [[File:House Greyjoy.svg|30px|center|link=House Greyjoy]] [[House Greyjoy]]
+| Factions2     = [[File:House Tyrell.svg|30px|center|link=House Tyrell]] [[House Tyrell]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = [[Lord of the Iron Islands|Lord]] [[Quellon Greyjoy]] †<br>[[Lord of the Iron Islands|Lord]] [[Balon Greyjoy]]
+| Leaders2      = Unknown
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = Ships
+| Participants2 = Longboats
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = [[Quellon Greyjoy]] †
+| Casualties2   = Unknown
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+A '''battle''' occurred at the mouth of the [[Mander]] between [[House Greyjoy]] and [[House Tyrell]] in the final days of [[Robert's Rebellion]].<ref name="Greyjoy">"[[The Greyjoy Rebellion]]"</ref>
+
+==History==
+===Prelude===
+After the [[Battle of the Trident]], [[Balon Greyjoy|Balon]] and [[Euron Greyjoy]] convinced their old father [[Quellon Greyjoy]] to join [[Robert's Rebellion]] and attack the [[Reach]].<ref name="Greyjoy"/>
+
+===Battle===
+The Greyjoy fleet unexpectedly met Tyrell longboats at the mouth of the river Mander. Lord Quellon died in the fighting, making his son Balon the new [[Lord of the Iron Islands]]. Balon ordered a tactical retreat, and thus the Greyjoy participation in Robert's Rebellion ended.<ref name="Greyjoy"/>
+
+===Aftermath===
+After his defeat, Balon returned to the [[Iron Islands]] to sit the [[Salt Throne]]. Against his brother Euron's advice, Balon [[Greyjoy Rebellion|declared war]] on the [[Iron Throne]] yet again.<ref name="Greyjoy"/>
+
+==In the books==
+The battle is not mentioned in the ''[[A Song of Ice and Fire]]'' novels. According to ''The World of Ice & Fire'', Quellon Greyjoy led fifty longships against the Reach. At the mouth of the Mander, they were surprised by the longboats of the [[Shield Islands]], and Quellon was killed. The [[ironborn]] eventually won the battle, but Balon retreated back to [[Pyke]] nonetheless.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Robert's Rebellion}}
+
+<!--Categories-->
+[[Category:281 AC]]
+[[Category:Battles|Mander]]
+[[Category:Robert's Rebellion]]
+
+<!--Languages-->
+[[ru:Битва при Мандере]]

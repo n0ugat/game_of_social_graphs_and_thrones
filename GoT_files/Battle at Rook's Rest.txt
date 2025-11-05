@@ -1,0 +1,139 @@
+{{Canonicity|Canon}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Dragon
+| Part          = the [[Dance of the Dragons]]
+| Image         = OT2 Greens.png
+| Previous      = [[Sack of Duskendale]]
+| Concurrent    = [[Blockade of the Gullet]]
+| Next          = [[Raids on Bracken lands]]
+| Date          = [[132 AC]]{{Dateref|House of the Dragon: Season 2}}
+| Place         = [[Rook's Rest]], the [[Crownlands]]
+| Outcome       = Pyrrhic [[Greens|Green]] victory{{Videoref|HOTDITE204}}
+*[[Rook's Rest]] is captured by the Greens
+*Death of Princess [[Rhaenys Targaryen]] and [[Meleys]]
+*King [[Aegon II Targaryen]] and [[Sunfyre]] critically wounded
+| Factions1     = {{COA|Blacks|s}} [[Blacks]]
+*{{COA|House Staunton|i}} [[House Staunton]]
+| Factions2     = {{COA|Greens|s}} [[Greens]]
+*{{COA|House Darklyn|i}} [[House Darklyn]]
+*{{COA|House Hightower/House of the Dragon|i}} [[House Hightower/House of the Dragon|House Hightower]]
+*{{COA|House Rosby|i}} [[House Rosby]]
+*{{COA|House Stokeworth|i}} [[House Stokeworth]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = {{COA|House Staunton|i}} Lord [[Simon Staunton]]<br>{{COA|House Velaryon|i}} Princess [[Rhaenys Targaryen]] †
+| Leaders2      = {{COA|Kingsguard/House of the Dragon|i}} Ser [[Criston Cole]]<br>{{COA|House Hightower/House of the Dragon|i}} Ser [[Gwayne Hightower]]<br>{{COA|Aegon II Targaryen|i}} King [[Aegon II Targaryen]]<br>{{COA|House Targaryen/House of the Dragon|i}} Prince [[Aemond Targaryen]]
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 =  *Rook's Rest Staunton garrison
+**1 [[dragon]]: [[Meleys]]
+| Participants2 = *At least 1,400-1,500 manpower{{Ref|HOTD204}}
+**Targaryen and Hightower knights
+**Rosby, Stokeworth, and Darklyn levies
+**Multiple siege weapons
+**2 [[dragon]]s: [[Sunfyre]] and [[Vhagar]]
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = Heavy
+*Massive Black casualties
+**Rhaenys Targaryen
+**Meleys
+| Casualties2   = Heavy
+*~900 military casualties
+**Aegon II Targaryen {{C|injured}}
+**Sunfyre
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Quote|Harrenhal must wait. Ser Criston is marching on Rook's Rest.|[[Aemond Targaryen]]|The Red Dragon and the Gold}}
+The '''Battle at Rook's Rest'''{{Webref|name=THTDB |author=GameofThrones |date=July 7, 2024 |url=https://www.youtube.com/watch?v=asX8elKftVU |title=Making the Battle at Rook's Rest <nowiki>|</nowiki> Behind the Scenes Season 2, Episode 4 <nowiki>|</nowiki> House of The Dragon <nowiki>|</nowiki> HBO |website=YouTube |access-date=July 8, 2024 }} was the first major battle of the [[Dance of the Dragons]], fought in the [[Crownlands]] in [[132 AC]].{{Dateref|House of the Dragon: Season 2}} It saw a [[Greens|Green]] army led by [[Hand of the King]], Ser [[Criston Cole]], engage Lord [[Simon Staunton]] and Princess [[Rhaenys Targaryen]], members of the [[Black Council]], for control of [[House Staunton]]'s seat, [[Rook's Rest]]. It was the first direct military engagement between the [[Blacks]] and the Greens involving [[dragon]]s.{{Ref|HOTD204}}
+
+==History==
+===Prelude===
+During the early phase of the [[Dance of the Dragons]], Ser [[Criston Cole]], [[Lord Commander of the Kingsguard]], and Prince [[Aemond Targaryen]] discuss at length about the Greens' military strategy for the conflict. The two agree that Criston will lead the vanguard while Aemond flies atop [[Vhagar]] for cover. They believe that together, no noble house in the [[Crownlands]] will dare to oppose them, subduing the region within weeks and adding their forces to a growing army that will advance north to the [[Riverlands]]. These plans are impeded from implementation, however, due to then [[Hand of the King]], Ser [[Otto Hightower]], who enforces a diplomatic strategy for the Greens.{{Ref|HOTD201}} 
+
+After Criston is named by [[Aegon II Targaryen|Aegon II]] to replace Otto as his Hand, he believes it is time to put his and Aemond's strategy into action. To that end, Criston assembles a Targaryen-[[House Hightower/House of the Dragon|Hightower]] army with Ser [[Gwayne Hightower]] in [[King's Landing]] and begins marching north from the capital. Criston's goal is to force the submission of all the noble houses in the Crownlands to the [[Greens]] and weaken the [[Blacks]]' tenuous hold on the mainland. Following an encounter with Lady [[Baela Targaryen]] atop [[Moondancer]] on their march to [[Rosby]], Criston resorts to marching his army through the forest at night to obfuscate his movements to the Blacks' aerial observations.{{Ref|HOTD203}} 
+
+====The Greens' campaign through the Crownlands====
+[[File:S2 Darklyn Execution.jpg|thumb|250px|left|Criston Cole beheads Gunthor Darklyn.]]
+During the initial part of Criston's campaign through the Crownlands, both Houses [[House Rosby|Rosby]] and [[House Stokeworth|Stokeworth]] willingly submit to the Greens without a fight, adding their own forces to Criston's army. Resistance, however, is found in [[Duskendale]], the seat of [[House Darklyn]], a loyal Black banner and the house of Queen [[Rhaenyra Targaryen]]'s Lord Commander of the [[Kingsguard/House of the Dragon|Queensguard]], Ser [[Steffon Darklyn]]. After [[Sack of Duskendale|sacking the port town]], the Greens capture Lord [[Gunthor Darklyn]]. Some time after the battle, Criston announces to the surviving Darklyn forces that they will be spared if they swear allegiance to Aegon and join his forces. Lord Gunthor, however, remains defiant and refuses to submit to the Greens. Criston promptly beheads Gunthor while his remaining forces subsequently bend the knee and join the Green army. After Criston receives a letter from Aemond with new plans, him and his forces begin marching northeast from Duskendale along the coast.{{Ref|HOTD204}}
+
+Later on, during a [[Green Council]] meeting, Aegon becomes enraged on learning that [[Harrenhal]] has [[Taking of Harrenhal|fallen]] to [[Daemon Targaryen]], berating Lord [[Larys Strong]] for losing his castle. Larys responds that Harrenhal is in disrepair and largely useless to Daemon and the Blacks, more so with Larys still being in control of [[House Strong]]'s treasury. Aemond then reveals his and Criston's strategy for the Green army to move on [[Rook's Rest]]. While Aegon insists on recapturing Harrenhal, Aemond explains that while Rook’s Rest is of little strategic importance, it is lightly defended as well as being the seat of Lord [[Simon Staunton]], who sits on Rhaenyra's [[Black Council|small council]]. Aemond continues that once Criston captures Rook's Rest, the Blacks will be cut off from the mainland and isolated on [[Dragonstone]]. When Aegon continues to press for Harrenhal instead, Aemond reveals that Criston is already preparing for the attack, leading Aegon to realize that the two have been plotting without his authority. Before Aegon can protest further, Aemond humiliates Aegon in [[High Valyrian]] and asks his brother to voice a better strategy to the council. When he fails, Aemond defends his and Criston's plan before the council in [[Common Tongue]], declaring that Harrenhal and the Riverlands will be the Greens' next target once Rook's Rest falls.{{Ref|HOTD204}}
+
+===The battle===
+[[File:OT2 Rook's Rest.png|thumb|right|250px|The Green army marches on Rook’s Rest at the start of the battle.]]
+Anticipating Criston's coming attack on Rook's Rest as his army assembles in the forest near his castle, Lord Simon calls for aid from Dragonstone. As the Black Council deliberates on their proper course of action, Rhaenyra returns from her secret mission to King's Landing. When her son, Prince [[Jacaerys Velaryon]], questions the reasoning for her absence, Rhaenyra reveals to him and the council that she went to the capital to see Dowager Queen [[Alicent Hightower]], hoping to find a peaceful resolution to the conflict. Having failed, Rhaenyra states that the only option left to her is to fight for her birthright or die, fully committing to winning the civil war by military action. After being explained of the recent developments in the Crownlands, including Criston's massing army at Rook's Rest, Rhaenyra resolves she will support the Stauntons herself atop [[Syrax]]. Jacaerys protests, asking to be sent with [[Vermax]] instead, but Rhaenyra refuses, citing Jacaerys's lack of battle experience. Princess [[Rhaenys Targaryen]] then proposes she be sent instead, noting to Rhaenyra that her dragon, [[Meleys]], is the Blacks' largest dragon and has been in battle before. Rhaenyra reluctantly acquiesces to Rhaenys's request, and she immediately departs for Rook's Rest.{{Ref|HOTD204}}
+
+In the early hours of the day of the battle, Criston orders his army to prepare for the assault on Rook's Rest. This is met with protest from Ser Gwayne, who believes they should lay siege to the castle at night due to their proximity to Dragonstone and the Blacks' dragons. Nevertheless, Criston insists on his army's advance and the Greens begin mobilizing. Sometime later, the Green army begins marching out of their encampment in the nearby forest to assault Rook's Rest, deploying multiple siege weapons and hundreds of infantry. Ser Criston had the levies of Houses Rosby, Stokeworth, and Darklyn move forward while keeping the forces of House Targaryen and Hightower in reserve. As they advance forward, Criston's army is met with heavy resistance from the Staunton garrison commanded by Lord Simon, who begin subjecting the attackers to multiple arrow volleys.{{Ref|HOTD204}}
+
+With the Green army making steady progress despite significant losses, their advance is halted when Meleys is spotted in the air, forcing the Greens to retreat back to the treeline. Gwayne admonishes Criston that this is the exact reason he opposed a daytime attack, but Criston reveals this is part of his plan, ordering two of his archers to launch signal arrows. This alerts a series of soldiers deeper in the forest to blow horns that finally reach Aemond, signaling for him and [[Vhagar]] to enter the battle. At that same moment, Aegon flies overhead atop [[Sunfyre]], having departed King's Landing earlier to personally join the battle, much to Aemond's fury, who subsequently stalls his own entry into the fray.{{Ref|HOTD204}}
+
+====A dance of dragons====
+As Meleys begins laying waste to Criston's army with dragonfire, Criston and Gwayne spot Sunfyre approaching the battle, much to Criston's shock. With Aegon's unexpected entry into the engagement throwing his plan into disarray, Criston orders for more signal arrows to be fired as he rallies the Green army to join their king into battle, boosting their morale and reversing the retreat caused by the levies with sending the rest of his army in to battle. As Criston's army presses forward toward Rook's Rest, Rhaenys spots Aegon and Sunfyre and orders Meleys to attack. The two dragons quickly advance on one another, with Aegon making the first strike by ordering Sunfyre to breathe fire, which Rhaenys barely dodges.{{Ref|HOTD204}}
+
+[[File:Sunfyre and Meleys fight.jpg|thumb|left|250px|Sunfyre and Meleys grapple in the sky above Rook's Rest.]]
+Following this initial attack, Aegon loses sight of Meleys, who swiftly attacks him and Sunfyre from below. The larger and older dragon throttles Sunfyre, using her talons to deal heavy damage to the younger dragon's chest. As Sunfyre plummets from the air from the attack, Aegon barely gains control of him just above the ground, with Sunfyre's boiling blood even injuring a few Green soldiers as the two rally skyward. Rhaenys, nevertheless, presses her attack, with Meleys striking Sunfyre from behind, sinking her teeth into his right wing. At that moment, Lord Simon and the Staunton garrison see Vhagar's enormous body emerge from the treeline, much to the relief and awe of Criston and the Green army. As Meleys continues to assault Sunfyre, Rhaenys and Aegon both spot Aemond and Vhagar advancing on them. Initially relieved at his brother's intervention, Aegon becomes horrified as he realizes Aemond intends to attack both of them as Vhagar unleashes a blast of dragonfire. Rhaenys and Meleys manage to dodge the bulk of the blast, but Aegon and Sunfyre are struck head-on. Heavily injured, Sunfyre and Aegon freefall from a high-altitude, crashing into the nearby forest with great force, much to Criston's horror, who rides off to the impact site.{{Ref|HOTD204}}
+
+With Rhaenys and Meleys largely unharmed from Vhagar's attack and with Aegon and Sunfyre now incapacitated, the two fly seaward away from Rook's Rest. Despite being at a severe disadvantage against Aemond and the much larger Vhagar and with the opportunity to escape to safety, Rhaenys resolves to return to the battle instead. As Rhaenys circles back, Aemond spots Meleys as he flies over his brother's crash site and has Vhagar turn around to confront her. As the two dragons make their approach, Rhaenys uses Meleys's smaller size and faster speed to attempt to attack from below. Despite this, Vhagar catches Meleys with her legs and attempts to blast Rhaenys with dragonfire. Meleys, however, manages to slash Vhagar's underbelly with her talons, causing Vhagar to spray her dragonfire erratically as she roars in pain. As the two dragons become entangled, both blasting one another with dragonfire, they also begin to fall out of the sky, sparking panic amongst the Green army on the ground. As Criston's army attempts to flee, Meleys breaks loose just above the ground and flies off, while Vhagar crashes into the battlefield violently, crushing dozens, if not, hundreds of men in the process, and knocking Criston unconscious from the impact.{{Ref|HOTD204}}
+
+Undeterred, Aemond and Vhagar swiftly recover, with Vhagar crushing more fleeing Green soldiers underfoot as she takes flight once again. Meanwhile, Rhaenys and Meleys, both exhausted and injured from the battle, prepare to depart back to Dragonstone. Returning to the battlefield, Rhaenys attempts to locate Vhagar both on the ground and in the air to no avail. As they fly over Rook's Rest, however, they are suddenly attacked from below by Vhagar, much in the same way she did to Prince [[Lucerys Velaryon|Lucerys]] and [[Arrax]]. With Vhagar's massive jaws crushing down on Meleys's neck, both Rhaenys and Meleys struggle in vain to break free as Vhagar drags them skyward. Ultimately, Vhagar proves too strong, fatally crushing Meleys's neck in her jaws, with Meleys giving Rhaenys one last look before succumbing to her injuries. Vhagar then releases Meleys, with Rhaenys resigned to the same fate as her dragon as the two plummet from the sky, violently crashing into the walls of Rook's Rest as a blast of fire erupts from Meleys's body.{{Ref|HOTD204}}
+
+Sometime after Rhaenys and Meleys's death, Criston rouses from unconsciousness to the horrid sight of his decimated army and the burnt-out battlefield. In the distance, he sees Ser Gwayne rallying what little remains of the Green army to push through the breach created by Meleys's body and capture Rook's Rest. Criston proceeds to make his way through the carnage towards Aegon's crash site, attempting to enlist the aid of a soldier, only to discover the man is merely an incinerated skeleton that disintegrates at his touch. Criston eventually arrives at Aegon's crash site in the forest, spotting both a severely injured Sunfyre and Aemond approaching with his sword unsheathed. As Criston inquires on Aegon's location, Aemond wordlessly points forward with Aegon's [[Valyrian steel dagger|dagger]], revealing his motionless, shattered body with Sunfyre curled around him. Speechless, Criston collapses to his knees in shock as Aemond departs.{{Ref|HOTD204}}
+
+===Aftermath===
+The Battle at Rook's Rest, while ending in a Green victory, proves to be extremely costly for both sides with little gain. While Criston and Aemond's strategy succeeded at luring in and killing one of the Blacks' dragon, their largest claimed dragon, Meleys, and her experienced rider, Rhaenys, at that, it came at the cost of Aegon II and Sunfyre sustaining critical injuries. Furthermore, while the Greens did succeed in their objective of capturing Rook's Rest and thus diminishing the Blacks' presence on the mainland, the castle was already deemed strategically insignificant and came at the cost of the army the Greens assembled from King's Landing, Rosby, Stokeworth, and Duskendale sustaining catastrophic losses from both Meleys's attack and collateral damage from Vhagar.{{Ref|HOTD204}} Sunfyre eventually succumbed to his wounds.{{Ref|HOTD208}}
+
+==Gallery==
+<gallery>
+File:Starting Siege.png|Green army chopping trees to build siege weapons.
+File:Green camp.png|Green army camped on the outskirts of [[Rook's Rest]].
+File:Cole Rook Rest camp.png|Cole preparing his forces to attack in daylight.
+File:Cole Gwayne Camo.png|Criston and Gwayne rally their troops.
+File:2x4 Gwayne and Criston Still.jpg|Ser [[Criston Cole|Criston]] and Ser [[Gwayne Hightower|Gwayne]] command the [[Greens]] army.
+File:Stokeworth, Rosby and Darklyn troops..png|[[House Stokeworth|Stokeworth]], [[House Rosby|Rosby]] and [[House Darklyn|Darklyn]] troops.
+File:Second wave.png|Cole sends next of troops into battle.
+File:OT2 Rhaenys & Meleys.png|Princess [[Rhaenys Targaryen|Rhaenys]] and [[Meleys]] flying into battle.
+File:S2 Vhagar.png|Vhagar enters the battle.
+File:S2 Battle at Rook's Rest 2.jpg|Cole races to the [[Aegon II Targaryen|fallen king]].
+File:2x4 Criston Cole Still 2.jpg|Aftermath.
+</gallery>
+
+==In the books==
+In ''[[Fire & Blood]]'', the description of the battle is rather different than in the show. Gwayne Hightower did not participate in the battle; he was in King's Landing serving in the [[City Watch of King's Landing/House of the Dragon|City Watch]].{{Bookref|F&B|13}}
+
+The green army numbered 100 [[Knighthood|knights]], 500 [[Man-at-arms|men-at-arms]], 1,800 [[Mercenary|sellswords]], as well as added forces from [[Rosby]], [[Castle Stokeworth|Stokeworth]], and [[Duskendale]]. They suffered about 800 casualties.{{Bookref|F&B|15}}
+
+Lord Staunton, who has been forewarned about Ser Criston's arrival, closed his gate, helplessly watching the attackers sack the aera and kill the smallfolk. He sent a distress message to Dragonstone, and since Rhaenyra was absent from the war council, Rhaenys flew to assist him.
+
+Ser Criston was ready for Meleys's arrival: his archers and scorpions shot at her many arrows and iron bolts, but they only angered her. Meleys burned many soldiers to death, then Ser Criston sprang the trap: the king (who did not arrive unexpectedly) and Aemond, who waited with their dragons for the right moment, attacked Meleys. Rhaenys knew Meleys might have had a chance against Vhagar alone, but not against the two dragons, yet she bravely turned Meleys against her opponents.
+
+All three dragons met violently, spitting fire balls. Meleys closed her jaws around Sunfyre's neck for a moment, till Vhagar fell upon them from above. All three beasts
+crashed on the ground. Vhagar was the only left unharmed; Meleys was killed, broken by the fall and ripped to pieces; Sunfyre had one wing half torn from his body, and Aegon had suffered broken ribs, a broken hip, and burns that covered half his body. His left arm was the worst, since his armor melted into his flesh due to the dragonfire. A body believed to be Rhaenys was later found beside Meleys's carcass, so blackened that no one could recognize her.
+
+800 people (knights, squires, and commoners) were killed during the battle, and another 100 perished not long afterwards, when Aemond and Ser Criston Cole took Rook's Rest and put its garrison to death. Lord Staunton was executed.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Dance of the Dragons}}
+
+<!--Categories-->
+[[Category:132 AC]]
+[[Category:Battles|Rook's Rest]]
+[[Category:Dance of the Dragons]]
+
+<!--Languages-->
+[[de:Schlacht von Krähenruh]]
+[[es:Batalla de Reposo del Grajo]]
+[[fr:Bataille de Repos-des-Freux]]
+[[ru:Битва у Грачиного Приюта]]
+[[uk:Битва при Граковому Притулку]]

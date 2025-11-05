@@ -1,0 +1,74 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Free
+| Image       = Belicho6x04.png
+| Birth       = 
+| Death       = [[303 AC]]{{Dateref|Game of Thrones: Season 6}}<br>[[Meereen]]{{Ref|GOT609}}
+| House       = Paenymion
+| Affiliation = [[Old Blood]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Volantis|Volantene]]
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 6|6]]
+| Appearances = 2 episodes {{Below|Appearances}}
+| First       = "[[Book of the Stranger]]" 
+| Last        = "[[Battle of the Bastards (episode)|Battle of the Bastards]]"
+| DeathEp     = "Battle of the Bastards"
+| Actor       = [[Eddie Jackson]]
+}}
+{{Dialogue a-b|Tyrion|Let's make this simple, shall we? Tell me what you want!|Belicho|We want you to leave Slaver's Bay! Take your dragons and your mercenaries and go!|[[Tyrion Lannister]] negotiates with Belicho|Book of the Stranger}}
+'''Belicho Paenymion''' was a prominent noble of the [[Free Cities|Free City]] of [[Volantis]].
+
+==Biography==
+===Background===
+Belicho Paenymion is a prominent noble of the [[Free Cities|Free City]] of [[Volantis]], and a member of the "Old Blood", descendants of the original Valyrian settlers of the city. Like most of the Volantene nobility, Belicho is involved in the [[slavery|slave trade]]. He acts as a representative of the [[triarchs of Volantis]].<ref>[http://viewers-guide.hbo.com/game-of-thrones/season-6/episode-10/people/215/belicho-paenymion HBO viewer's guide, Belicho Paenymion entry]</ref>
+
+===[[Game of Thrones: Season 6|''Game of Thrones'': Season 6]]===
+Belicho, along with [[Yezzan zo Qaggaz]] and [[Razdal mo Eraz]], is a member of the delegation that visits the [[Great Pyramid of Meereen]] to negotiate with [[Tyrion Lannister|Tyrion]] and [[Varys]], who are ruling the city in [[Daenerys Targaryen|Daenerys]]'s absence. While the slavers offer Daenerys a pot of gold to leave [[Slaver's Bay]], Tyrion proposes a counter-offer: that the slaving cities outlaw slavery within seven years and that the slave owners be compensated.{{Ref|GOT604}} The slaving cities accept Tyrion's pact but later break it by launching a [[Second siege of Meereen|naval bombardment]] of Meereen.{{Ref|GOT608}}
+
+After Daenerys returns, Belicho, along with Yezzan and Razdal, meet with her and her advisors to demand her surrender. They offer to allow Daenerys and Tyrion to leave Meereen unharmed in return for the surrender of [[Missandei]] and the [[Unsullied]] and the destruction of her [[dragon]]s. Daenerys, however, corrects them by stating she is there to accept their surrender. [[Drogon]] arrives, and Daenerys rides him out to sea, as [[Viserion]] and [[Rhaegal]] escape from the pyramid's dungeon. The dragons proceed to burn the ships that are attacking the city. Grey Worm convinces the slave masters' bodyguards to abandon their masters. Missandei demands that the masters surrender one of their own to be executed. Belicho and Razdal try to save their own skins by offering Yezzan. However, [[Grey Worm]], with Tyrion's approval, cuts the throats of Belicho and Razdal for their opportunism instead.{{Ref|GOT609}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no character named Belicho Paenymion. The series character seems an amalgamation of several Volantene politicians mentioned in the novels, sharing the first name of Belicho Staegone, a candidate for [[Triarchs of Volantis|triarch]]; the family name of Doniphos Paenymion, a current triarch up for re-election, and the connections of Nyessos Vhasar, another incumbent triarch who is mentioned to have been bought by the [[Yunkai|Yunkish]] and owes much of his wealth to the slave trade.
+
+"Belicho" seems a popular name among the Volantene nobility as it is the name of a historical Volantene patriot and triarch. A member of the "tigers", the imperialist warrior faction in Volantene politics, Belicho's famous exploits are recorded in the series ''The Life of the Triarch Belicho''. His unbroken succession of conquests and triumphs ended rather abruptly when he was eaten by [[giants]].
+
+As a member of Volantis's (heavily inbred) old nobility, Belicho logically should display Valyrian features such as silver hair. This was probably omitted from the series to avoid the visual implication that he might be related to Daenerys, thus confusing viewers.
+
+==Appearances==
+*{{GOT|Book of the Stranger}}
+*{{GOT|Battle of the Bastards}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|Belicho Staegone}}
+*{{AWOIAF|Doniphos Paenymion}} 
+*{{AWOIAF|Nyessos Vhassar}} 
+
+<!--Categories-->
+{{DEFAULTSORT:Paenymion, Belicho}}
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Nobles]]
+[[Category:Slavers]]
+[[Category:Volantenes]]
+
+<!--Languages-->
+[[de:Belicho Paenymion]]
+[[fr:Belicho Paenymion]]
+[[ru:Белихо Пейнимион]]

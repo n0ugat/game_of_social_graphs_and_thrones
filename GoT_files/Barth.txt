@@ -1,0 +1,71 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Faith of the Seven.svg
+| Link  = Faith of the Seven
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Faith
+| Image       = Lord Hand Barth.png
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[Faith of the Seven]]<br>[[House Targaryen]]
+| Titles      = [[Septon]]<br>[[Hand of the King]] {{C|to [[Jaehaerys I Targaryen|Jaehaerys I]]}}
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Andals|Andal]]
+| Religion    = Faith of the Seven
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+Septon '''Barth''' was [[Hand of the King]] to [[Jaehaerys I Targaryen]].
+
+==Biography==
+Jaehaerys succeeded his half-uncle [[Maegor Targaryen]] as king, a cruel tyrant who had been at war with the Faith for years. Jaehaerys was wise and diplomatic, and desired harmony between the Crown and the Faith for the good of the realm, so he negotiated a peaceful end to the [[Faith Militant uprising]]. Jaehaerys, together with his new [[Hand of the King]], Septon Barth, reached an accord with the [[High Septon]]: the crown would grant an amnesty and swear to always defend the Faith, and in return, the [[Faith Militant]] would disband and the Faith would withhold condemnations of the [[Incest|incestuous]] practices of the Targaryens.{{Ref|H&L502}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Barth is remembered as one of the best Hands of the King that the realm ever had, just as Jaehaerys I is remembered as possibly its best king. Together they did much to improve and strengthen the realm across four decades of peace and prosperity.
+
+Barth was low-born, the son of a blacksmith. He eventually became a [[Septon|septon]] and served in a humble position overseeing the [[Red Keep]]'s library, where he became one of the most learned men in Westeros. King Jaehaerys I raised him up to be his Hand of the King; Jaehaerys greatly loved his sister-wife Queen [[Alysanne Targaryen|Alysanne]], who was practically his co-ruler, but it is said that Barth was his greatest friend, who was also very skilled in his office, aiding Jaehaerys in all the great works of his reign. While Barth was very well-educated, he remained plain-spoken and approachable.
+
+Barth greatly valued all knowledge and even took an interest in rare manuscripts from across the [[Narrow Sea]] which had survived the [[Doom of Valyria]]. From his translated readings he wrote several famous compendiums of his own on topics such as [[magic]] and [[dragon]]s, leading some later writers to criticize that he was half a sorcerer (though of course, given that during Jaehaerys's reign ''living'' dragons were kept at the royal court, it wasn't that far-fetch for Barth to study them).
+
+Barth's writings include several claims which later maesters dismiss as mere fantasy (i.e. believing that the [[White Walkers]] actually existed once), particularly in his book ''Dragons, Wyrms, and Wyverns: Their Unnatural History'' - considered one of the best recent works on dragon-lore. However, about sixty years after Jaehaerys's death the pious King [[Baelor I Targaryen]] ordered all of Barth's books hunted down and burned for containing wicked and unnatural knowledge.
+
+A few precious fragments of Barth's writings survived Baelor's destruction order and they are of great value to those interested in topics such as dragons. [[Tyrion Lannister]] managed to gets his hands on a fragment about ten years before the main narrative. Maester [[Aemon]] is also well-versed in readings from the surviving fragments, knowledge he shares with [[Samwell Tarly]] during the voyage to [[Oldtown]]. Aemon says that according to Barth, dragons can actually shift gender from female to male and back again, as the needs of the species require (''A Feast for Crows'', Samwell IV); other scholars, like archmaester Gyldayn, are aware of this claim but dismiss it as fantastical.
+
+==Appearances==
+*{{H&L|The Faith Militant}} {{Mentioned}}
+*{{H&L|The Hand of the King}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+[[Category:Authors]]
+[[Category:Crownlanders]]
+[[Category:Hands of the King]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Septons]]
+[[Category:Servants and retainers of House Targaryen]]
+[[Category:Smallfolk]]
+
+<!--Languages-->
+[[pl:Barth]]
+[[ru:Барт]]

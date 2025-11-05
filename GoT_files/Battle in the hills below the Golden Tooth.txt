@@ -1,0 +1,67 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Thrones
+| Part          = the [[War of the Five Kings]]
+| Image         = 
+| Previous      = [[Massacre in the Red Keep]]
+| Concurrent    = 
+| Next          = [[Siege of Riverrun]]<br>[[Battle at the Mummer's Ford]]
+| Date          = [[298 AC]]{{Dateref|Game of Thrones: Season 1}}
+| Place         = [[Golden Tooth]]
+| Outcome       = Lannister victory
+| Factions1     = [[File:House Lannister.svg|30px|center|link=House Lannister]] [[House Lannister]]<br><br>Lannister bannermen
+| Factions2     = [[File:House Tully.svg|30px|center|link=House Tully]] [[House Tully]]<br><br>Tully bannermen
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = Ser [[Jaime Lannister]]
+| Leaders2      = Unknown
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = 30,000 men
+| Participants2 = Unknown
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = 
+| Casualties2   = 
+
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Quote|Jaime smashed the Riverlords at the Golden Tooth, and now lays siege to Riverrun.|Ser [[Kevan Lannister]]|The Pointy End}}
+A '''battle in the hills below the Golden Tooth'''{{Con|ASOIAF}} was the opening battle in the [[War of the Five Kings]], which erupted after the death of King [[Robert Baratheon]].
+
+==History==
+===Background===
+Leading a host of 30,000 troops from the [[Westerlands]], [[Jaime Lannister|Jaime]] is ordered to attack the [[Riverlands]] by his father. The assault is intended as retribution for the abduction of [[Tyrion Lannister|Tyrion]] by [[Catelyn Stark|Catelyn]], a daughter of [[House Tully]], the ruling house of the Riverlands.{{Ref|GOT107}}
+
+===The battle===
+The Riverlords gather to defend themselves at the [[Golden Tooth]], where they are defeated by Jaime's forces, and retreat to the regional capital of [[Riverrun]]. Jaime harries their retreat and then lays [[Siege of Riverrun|siege]] to Riverrun.{{Ref|GOT108}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the battle of Golden Tooth is fought between Jaime's forces and a force of Riverlords led by Lord Clement Piper and Lord Vance of Wayfarer's Rest. The Riverlords had been sent into the Westerlands at Golden Tooth by [[Edmure Tully]] to prevent the Lannister army from crossing into their lands. However, the battle was a failure in the face of Jaime's devastating attack. Lord Vance is killed and Lord Piper retreats to Riverrun with Jaime at his heels.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{War of the Five Kings}}
+
+<!--Categories-->
+[[Category:298 AC]]
+[[Category:Battles|Golden Tooth]]
+[[Category:War of the Five Kings]]
+
+<!--Languages-->
+[[de:Schlacht am Goldzahn]]
+[[fr:Bataille de la Dent d'Or]]
+[[pt-br:Batalha do Dente Dourado]]
+[[ru:Битва у Золотого Зуба]]

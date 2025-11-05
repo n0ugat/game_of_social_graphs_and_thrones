@@ -1,0 +1,84 @@
+{{Canonicity|Canon}}
+{{SameName|son of Viserys I|son of Jaehaerys I|Baelon Targaryen (son of Jaehaerys I)}}
+{{Heraldry
+| Image = House Targaryen.svg
+| Link  = House Targaryen/House of the Dragon
+}}
+{{Character
+| Title       = Baelon Targaryen
+| Type        = Targaryen
+| Image       = Baelon Targaryen.png
+| Birth       = [[112 AC]]{{Dateref|The Heirs of the Dragon}}<br>[[Red Keep]], [[King's Landing]]{{Ref|HOTD101}}
+| Death       = 112 AC{{Dateref|The Heirs of the Dragon}} (aged 0)<br>Red Keep, King's Landing{{Ref|HOTD101}}
+| House       = [[House Targaryen/House of the Dragon|Targaryen]]{{Ref|HOTD101}}
+| Affiliation = 
+| Titles      = [[Prince]]{{Ref|HOTD102}}
+| AKA         = The Heir for a Day{{Ref|HOTD101}}
+| Culture     = [[Valyrians|Valyrian]]{{Ref|HOTD101}}
+| Religion    = 
+| Father      = {[[Viserys I Targaryen]]}{{Ref|HOTD101}}
+| Mother      = {[[Aemma Arryn]]}{{Ref|HOTD101}}
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 1|1]] {{*}} [[House of the Dragon: Season 2|2]]
+| Appearances = 2 episodes {{Below|Appearances}}
+| First       = "[[The Heirs of the Dragon]]"
+| Last        = "[[Smallfolk (episode)|Smallfolk]]" {{Corpse}} {{Vision}}
+| DeathEp     = "The Heirs of the Dragon"
+| Actor       = 
+}}
+{{Quote|I wonder if, during those few hours my brother lived, my father finally found happiness.|Rhaenyra Targaryen|The Heirs of the Dragon}}
+Prince '''Baelon Targaryen'''{{Note|[[High Valyrian]]: ''Baelon Targārien''}} was the son of [[Viserys I Targaryen]] and [[Aemma Arryn]].
+
+==Biography==
+===Background===
+After [[Rhaenyra Targaryen]] was born, her mother [[Aemma Arryn]] went on to give birth to one child who died in the cradle, two still births, and two miscarriages - five failed attempts at producing a healthy male heir in ten years. Rhaenyra feared for her mother's health with this, her seventh pregnancy, but Aemma insisted it was her duty to the realm. Privately, Aemma told her husband King Viserys that if her current pregnancy failed she did not want to try again, as she could not bear to mourn another dead child.{{Ref|HOTD101}}
+
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+With Baelon's birth imminent, a grand [[Tournament|tourney]] called the "[[Heir's Tournament]]" is held in [[King's Landing]]. The labor proves to be difficult, however, and [[Grand Maester]] [[Mellos]] informs Viserys that the only way to save the child is to cut into Aemma's womb and pull him out. He reluctantly agrees to the procedure, which ultimately ends up killing Aemma. Viserys names the child after his own father, [[Baelon Targaryen (son of Jaehaerys I)|Baelon]]. Baelon immediately begins to have breathing difficulties, and after only a few hours, he dies as well. He is cremated alongside his mother by [[Syrax]]'s flames.{{Ref|HOTD101}}
+
+Whilst hosting officers of the [[City Watch of King's Landing|City Watch]] at a [[Prostitution|brothel]] on the [[Street of Silk]], [[Daemon Targaryen|Daemon]] toasts Baelon as the "Heir for a Day." After hearing of this from [[Otto Hightower]], and considering the fact that Daemon spent time with his cronies rather than his family after the funeral, Viserys banishes Daemon back to [[Runestone]]. He later names his daughter [[Rhaenyra Targaryen|Rhaenyra]] heir to the [[Iron Throne]].{{Ref|HOTD101}}
+
+===[[House of the Dragon: Season 2|''House of the Dragon'': Season 2]]===
+In Daemon's dream, Viserys chides him for insensitively joking about Baelon. He later has another dream in which the [[Silent Sisters]] are preparing Baelon and Aemma's bodies for their funeral.{{Ref|HOTD206}}
+
+==Family==
+{{Targaryen tree (House of the Dragon)}}
+
+==In the books==
+In ''[[Fire & Blood]]'', Baelon lives one day rather than a few hours.
+
+==Appearances==
+*{{HOTD|The Heirs of the Dragon}}
+*{{HOTD|The Rogue Prince}} {{Mentioned}}
+*{{HOTD|The Burning Mill}} {{Mentioned}}
+*{{HOTD|Smallfolk}} {{Corpse}} {{Vision}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|Baelon Targaryen (son of Viserys I)}}
+
+<!--Navboxes-->
+{{House Targaryen/House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Targaryen, Baelon}}
+[[Category:Crownlanders]]
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Members of House Targaryen|Baelon Targaryen]]
+[[Category:Princes]]
+
+<!--Languages-->
+[[de:Baelon Targaryen (Sohn von Viserys I.)]]
+[[fr:Baelon Targaryen (fils de Viserys I)]]
+[[ru:Бейлон Таргариен (сын Визериса I)]]
+[[uk:Бейлон Тарґеріен]]

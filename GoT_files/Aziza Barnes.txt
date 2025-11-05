@@ -1,0 +1,39 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Kingdoms
+| Image   = Aziza Barnes.jpg
+| Birth   = Aziza Danielle Bailey Barnes<br>October 1992
+| Death   = December 15, 2024 (aged 32)
+| Role    = Executive producer<br>Writer
+| Series  = ''[[A Knight of the Seven Kingdoms]]''
+| Season  = [[A Knight of the Seven Kingdoms: Season 1|1]]
+| Credits = 
+| First   = 
+| Last    = 
+}}
+'''Aziza Danielle Bailey Barnes''' (October 1992 – December 15, 2024) was an American slam poet, playwright, screenwriter, and producer.
+
+Barnes was an executive producer{{Webref|name=FTIA |author=Film & Television Industry Alliance |date=February 19, 2024 |url=https://productionlist.com/production/the-hedge-knight/ |title=The Hedge Knight <small>''(Series)''</small> |website=productionlist.com |access-date=February 21, 2024 }} and writer{{Webref|name=Preproduction |author=Gravemaster |date=March 15, 2024 |url=https://redanianintelligence.com/2024/03/15/the-hedge-knight-gears-up-for-pre-production-very-soon-more/ |title=The Hedge Knight Gears Up For Pre-Production Very Soon & More |website=Redanian Intelligence |access-date=March 15, 2024 }} on [[A Knight of the Seven Kingdoms: Season 1|''A Knight of the Seven Kingdoms'': Season 1]].
+
+In December 2024, Barnes committed suicide at the age of 32.<ref>https://variety.com/2024/tv/obituaries-people-news/aziza-barnes-dead-snowfall-teenage-bounty-hunters-1236257189/</ref>
+
+==Credits==
+===Executive producer===
+{{Plainlist
+|{{AKOTSK|Season 1}}
+}}
+
+===Writer===
+{{A Knight of the Seven Kingdoms: Season 1}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{WP}}
+*{{IMDb|#=10088362}}
+
+<!--Categories-->
+{{DEFAULTSORT:Barnes, Aziza}}
+[[Category:Executive producers of A Knight of the Seven Kingdoms]]
+[[Category:Writers of A Knight of the Seven Kingdoms]]

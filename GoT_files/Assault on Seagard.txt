@@ -1,0 +1,64 @@
+{{Canonicity|Canon}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Westeros
+| Part          = the [[Greyjoy Rebellion]]
+| Image         = Annotation 2019-12-11 200028.jpg
+| Previous      = [[Raid on Lannisport]]
+| Concurrent    = 
+| Next          = [[Sea battle off Fair Isle]]
+| Date          = [[289 AC]]{{Dateref|Greyjoy Rebellion}}
+| Place         = [[Seagard]], the [[Riverlands]]
+| Outcome       = Mallister victory
+| Factions1     = [[File:House Greyjoy.svg|30px|center|link=House Greyjoy]] '''[[Salt Throne]]'''<br><small>([[House Greyjoy]])</small>
+| Factions2     = [[File:House Mallister.svg|30px|center|link=House Mallister]] [[House Mallister]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = [[Prince]] [[Rodrik Greyjoy]] †
+| Leaders2      = Lord [[Jason Mallister]]
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = 
+| Participants2 = 
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = Heavy
+*Rodrik Greyjoy
+| Casualties2   = Unknown, presumably light
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Quote|My eldest brother, Rodrik, led a frontal assault on Seagard, a town built to protect the mainland from us. After ferocious fighting beneath the city walls he was slain by Lord Jason Mallister, and his men defeated.|[[Theon Greyjoy]]|Greyjoy Rebellion - Theon Greyjoy}}
+An '''assault on Seagard'''{{Ref|H&L202}} was the second battle of the [[Greyjoy Rebellion]], which took place nine years before the [[War of the Five Kings]].
+
+==History==
+The forces of [[House Greyjoy]], led by [[Rodrik Greyjoy]], the firstborn son and heir of [[Balon Greyjoy]], attacked [[Seagard]], seat of [[House Mallister]], on [[Ironman's Bay]]. The attack, however, was a failure and Rodrik was killed by [[Jason Mallister]], the head of the house.{{Ref|H&L202}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Lord Jason Mallister slew Rodrik beneath the walls of Seagard and drove his men back into the sea. It was the only time in three hundred years that the bell in the Booming Tower of Seagard was rung.{{Bookref|ACOK|11}}
+
+The storming of Seagard was a major setback for House Greyjoy, not only because Rodrik was Balon's heir, but also because the failed assault prevented the ironborn from grabbing any land in the [[Riverlands]].{{Bookref|ACOK|11}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|Storming of Seagard}}
+
+<!--Navboxes-->
+{{Greyjoy Rebellion}}
+
+<!--Categories-->
+[[Category:289 AC]]
+[[Category:Battles]]
+[[Category:Greyjoy Rebellion]]
+
+<!--Languages-->
+[[de:Schlacht von Seegart]]
+[[pt-br:Batalha de Guardamar]]
+[[ru:Битва у Сигарда]]
+[[zh:海疆城之战]]

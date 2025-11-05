@@ -1,0 +1,82 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Thrones
+| Part          = the [[Ironborn invasion of the North]]
+| Image         = Ramsay-406.png
+| Previous      = [[Purple Wedding]]<br><small>([[War of the Five Kings]])</small><br>[[Sack of Winterfell]]<br><small>([[Ironborn invasion of the North]])</small>
+| Concurrent    = 
+| Next          = [[Court trial of Tyrion Lannister]]<br><small>([[War of the Five Kings]])</small><br>[[Siege of Moat Cailin]]<br><small>([[Ironborn invasion of the North]])</small>
+| Date          = [[301 AC]]{{Dateref|Game of Thrones: Season 4}}
+| Place         = The [[Dreadfort]], the [[North]]
+| Outcome       = House Bolton victory
+*Failed attempt to rescue [[Theon Greyjoy]] from [[House Bolton|Bolton]] custody
+*Escape of [[Yara Greyjoy]]
+| Factions1     = {{COA|House Bolton|small}} [[House Bolton]]
+| Factions2     = {{COA|House Greyjoy|small}} '''[[Iron Islands]]'''/[[House Greyjoy]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = [[Ramsay Bolton|Ramsay Snow]]
+| Leaders2      = {{COA|House Greyjoy|inline}} Princess [[Yara Greyjoy]]
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = Unknown number of [[Northmen]]<br>[[Theon Greyjoy|Reek]]
+| Participants2 = 51 [[Ironborn]] raiders
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = Light
+| Casualties2   = Heavy
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Quote|I'm going to pick the fastest ship in our fleet. I'm going to choose the fifty best killers on the Iron Islands. I'm going to sail up the narrow sea, all the way to the Weeping Water. I'm going to march on the Dreadfort. I'm going to find my little brother. And I'm going to bring him home.|Yara Greyjoy|Mhysa}}
+The '''assault on the Dreadfort''' was an attempted rescue mission during the [[War of the Five Kings]].
+
+==History==
+===Prelude===
+{{Quote|Leave the North now, or more boxes will follow... with more Theon.|Ramsay Snow in his letter to [[Balon Greyjoy]]|Mhysa}}[[File:It's a dick in a box.jpg|thumb|250px|Ramsay sends proof that Theon is now a eunuch. ]]
+Following the [[Sack of Winterfell]], [[Theon Greyjoy]] is taken prisoner by [[Ramsay Bolton|Ramsay Snow]], the bastard son of Lord [[Roose Bolton]], and held hostage at the [[Dreadfort]].<ref>"[[Dark Wings, Dark Words]]"</ref>
+
+When Yara learns of her brother's imprisonment and torture by the Boltons she resolves to rescue him, recruiting fifty of the Iron Islands most seasoned raiders, and sets sail for the Dreadfort. Yara and her crew sail around the west coast of Westeros, up the Narrow Sea to the [[Weeping Water]].<ref>"[[Mhysa]]"</ref>
+
+===The assault===
+{{Quote|This is turning into a lovely evening.|[[Ramsay Bolton|Ramsay Snow]] to the invading ironmen|The Laws of Gods and Men}}Yara and some members of her crew sail up the Weeping Water on a small boat and scale a wall of the Dreadfort to infiltrate the castle. Yara kills a Bolton guard and takes another hostage, demanding to know where Theon is. The guard reveals Theon is in the kennels and is promptly killed.[[File:Assault on the Dreadfort.jpg|thumb|right|250px|[[Yara Greyjoy]] and her crew sailing up the Weeping Water to the Dreadfort.]]As the castle garrison becomes aware of the invaders and the alarm is sounded, Yara finds Theon inside a kennel cage. He refuses to leave with his sister, fearing its another of Ramsay's mind games and insisting that he's "Reek". Soon, a group of Bolton men led by Ramsay arrives at the kennels. As the Northmen and Ironborn fight and kill each other, Yara tries to drag the resisting Theon with her. Theon bites her hand and returns to his cage. Ramsay then releases his [[Bastard's girls|hounds]] on Yara and the few surviving Ironborn.
+
+Yara and the surviving Ironborn flee the Dreadfort and return to their boat. She now considers Theon to be dead.
+
+===Aftermath===
+{{Quote|My brother is dead.|Yara Greyjoy|The Laws of Gods and Men}}As a reward for his demonstration of loyalty and "love", Ramsay rewards Reek with a bath, cleaning his pet himself. Ramsay then offers Reek a new service: to pretend to be Theon Greyjoy.
+
+==In the books==
+The assault on the Dreadfort does not occur in the ''[[A Song of Ice and Fire]]'' novels.
+
+Some time after the sack of Winterfell, Asha (Yara's book counterpart) comes there to learn about her brother's fate. She finds only unrecognized dead bodies, mutilated by scavengers. She assumes Theon is dead, though she cannot be certain, and returns to Deepwood Motte as per her father's orders.{{Bookref|AFFC|11}} Since Ramsay never sends Balon any letter with Theon's body parts, he and Asha are unaware of Theon's status and whereabouts, and Asha does not attempt to rescue him. To Balon it wouldn't matter: he despises Theon and hopes that he dies, so he won't stand in Asha's way, whom Balon considers his heir.{{Bookref|AFFC|1}}
+
+In the fifth novel, following Balon's death and the Kingsmoot, Asha receives a threatening letter from Ramsay, with a piece of Theon's skin enclosed. The letter starts with "''I write this letter in the blood of ironmen''" and ends with "''I send you each a piece of prince. Linger in my lands, and share his fate''." Only then Asha realizes that her brother is alive and held captive by the Boltons. She feels sorry for him, thinking that death would have been a better fate, but has no intentions to rescue him.{{Bookref|ADWD|26}}
+
+Shortly afterwards, Tristifer Botley tells Asha about Torgon the Latecomer, how he had a kingsmoot declared unlawful. The story gives Asha an idea,{{Note|The idea is perhaps that if Theon can be rescued, the first Kingsmoot can be declared unlawful because Theon was not present, thereby is not bound by its outcome. The chances that anyone would consider Theon as a claimant are slim to none (he is physically a total wreck; has lived too long outside of the Iron Islands; put himself to shame by allegedly killing [[Bran Stark|a cripple]] and [[Rickon Stark|a babe]]; most of the ironborn do not even care if he is alive or dead), but it could be used as a pretext for a second round of voting.}} but whatever it is - she has no time to think it over, because at that moment Stannis [[Fight by Deepwood Motte|attacks Deepwood Motte]]. Nearly all Asha's troops are destroyed and she is taken captive.{{Bookref|ADWD|26}}
+
+While Stannis's host is on its way to Winterfell, Mance Rayder and six spearwives infiltrate the castle in attempt to save "[[Jeyne Poole|Arya Stark]]". Although they are caught, Theon and Jeyne manage to escape.{{Bookref|ADWD|51}} They are found by Mors Umber, who brings them to the abandoned village where Stannis's host is.{{Bookref|ADWD|62}}
+
+When Asha is finally reunited with Theon, both of them are held captive by Stannis.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{War of the Five Kings}}
+
+<!--Categories-->
+[[Category:301 AC]]
+[[Category:Battles]]
+[[Category:Ironborn invasion of the North]]
+
+<!--Languages-->
+[[de:Überfall auf Grauenstein]]
+[[fr:Assaut sur Fort-Terreur]]
+[[ru:Нападение на Дредфорт]]

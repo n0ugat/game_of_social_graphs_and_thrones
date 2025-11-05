@@ -1,0 +1,98 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Thrones
+| Part          = the [[War of the Five Kings]]
+| Image         = Battle of Oxcross.jpg
+| Previous      = [[Fight at the holdfast]]
+| Concurrent    = 
+| Next          = [[Taking of Ashemark]]
+| Date          = [[299 AC]]{{Dateref|Game of Thrones: Season 2}}
+| Place         = [[Oxcross]], the [[Westerlands]]
+| Outcome       = Decisive [[North]]ern victory<br>[[Stafford Lannister]] killed
+| Factions1     = [[File:House Stark.svg|30px|center|link=House Stark]] [[North|Kingdom of the North]]/[[House Stark]]<br><br>[[File:House Bolton.svg|25px|center|link=House Bolton]] [[House Bolton]]<br><br>[[File:House Karstark.svg|25px|center|link=House Karstark]] [[House Karstark]]
+| Factions2     = [[File:House Baratheon of King's Landing.svg|30px|center|link=House Baratheon of King's Landing]] '''[[Iron Throne]]'''/[[House Baratheon of King's Landing]]<br><br>
+[[File:House Lannister.svg|30px|center|link=House Lannister]] [[House Lannister]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = [[King in the North|King]] [[Robb Stark]]<br>Lord [[Roose Bolton]]<br>Lord [[Rickard Karstark]]
+| Leaders2      = Ser [[Stafford Lannister]] †
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = 20,000, including one [[Direwolf]] <small>([[#In the books|see below]])</small>
+| Participants2 = Unknown
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = Minimal
+| Casualties2   = Massive, army annihilated.
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Quote|Using some vile sorcery, your brother fell on Stafford Lannister with an army of wolves. Thousands of good men were butchered. After the slaughter, the Northmen feasted on the flesh of the slain.|Ser [[Lancel Lannister]]'s "report"|Garden of Bones (episode)}}
+The '''Battle of Oxcross'''{{Con|ASOIAF}} is a major engagement in the [[War of the Five Kings]].
+
+==History==
+===Prelude===
+{{Quote|These are my terms. If the Queen Regent and her son meet them I'll give them peace. If not, I will litter the south with Lannister dead.|King [[Robb Stark]]|The North Remembers}}Having won a trio of victories in the Riverlands, the army of House Stark under the command of Robb Stark is expected to march on the host of [[Tywin Lannister]] which has regrouped at [[Harrenhal]].<ref>"[[The North Remembers]]"</ref><ref>"[[What Is Dead May Never Die]]"</ref> The Lannister force under [[Jaime Lannister|Jaime]] has been decimated, and Jaime himself captured.<ref>"[[Baelor]]"</ref> Meanwhile, a group of Lannister reinforcements under the command of [[Stafford Lannister]], has assembled at [[Oxcross]] on the border between the Riverlands and the Westerlands.<ref name="E14">"[[Garden of Bones (episode)|Garden of Bones]]"</ref>
+
+===Battle===
+[[File:GreyWindOxcross.jpg|thumb|Grey Wind surprises the Lannister horses.]]
+Robb's forces assault Stafford's camp in a night time raid. Robb's direwolf [[Grey Wind]] sneaks up to the Lannister camp, kills several sentries and panics their horses. As a massive rain breaks out, Robb, prepares to lead the charge. Robb's bannermen cry out "The King in the North!" and draw their swords. The surprised Lannister army is easily slaughtered as they are roused from their sleep by the Stark cavalry.<ref name="E14"/>
+
+[[File:Robb_cavalry.jpg|thumb|King Robb Stark preparing to lead his cavalry in a charge.]]The battle is a decisive victory for the Stark forces with [[Roose Bolton]] reporting Lannister casualties outnumbering Stark losses in a 5:1 ratio. Thousands of Lannister soldiers are dead while Ser Stafford is killed in the battle. A number of Lannister officers are captured.<ref name="E14"/>
+
+===Aftermath===
+
+Robb faces dissent from his bannermen over keeping the numerous prisoners alive, but insists that they are to be treated well. He refuses to allow them to be tortured for information, fearing that the Lannisters would use this as an excuse to torture their own Stark prisoners. Some Northern soldiers loot the dead. Robb meets [[Talisa Stark|Talisa]], a healer from Volantis, who helps the [[Silent Sisters]] in tending to a [[wounded Lannister soldier]], and Robb assists her in an amputation.<ref name="E14"/>
+
+Meanwhile, King [[Joffrey Baratheon]] is furious when news of Robb's victory reaches King's Landing. He reacts by having [[Sansa Stark|Sansa]] publicly beaten in his throne room. Lannister loyalists began spreading false rumors that Robb used sorcery and an army of wolves to achieve his victory and that the Northmen [[cannibalism|feasted on the flesh of their foes]] after the battle.<ref name="E14"/>
+
+The victory leaves the Westerlands lightly defended.<ref name="E14"/> The next target of Robb's invasion is [[Ashemark]], the seat of [[House Marbrand]], which is [[Taking of Ashemark|taken]] by the Northern army.<ref>Season 2 bluray: "War of the Five Kings" feature</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the battle also occurs off-screen. It is reported to [[Catelyn Stark|Catelyn]] by Martyn Rivers (one of Lord Frey's bastards).
+
+Roose Bolton doesn't participate as he's leading the joint Northern-Frey armies east of the Trident. [[Brynden Tully]], [[Rickard Karstark]], [[Galbart Glover]], [[Greatjon Umber]], [[Maege Mormont]] and Ser [[Stevron Frey]] take part. Karstark is the one to slay Stafford Lannister. Ser Rupert Brax, a Lannister bannerman, is also slain. Lord [[Roland Crakehall]], Lord Antario Jast and Ser Lymond Vikary, also sworn to Casterly Rock, are rumored to have been killed (that rumor turns to be wrong - none of those three were killed); [[Martyn Lannister]], the third son of [[Kevan Lannister]], is taken prisoner.
+
+Ser [[Stevron Frey]], Walder Frey's heir, is injured during the battle, and dies three days afterwards.
+
+As [[Tyrion Lannister|Tyrion]] points out, the Lannister army was mostly composed of green conscripts scraped together from [[Lannisport]] and surrounding areas, to try to make up for the loss of Jaime's army at the [[Battle of Whispering Wood|battle in the Whispering Wood]]. While training the new raw recruits in their camp near the village of Oxcross, Stafford felt so confident that he was safe from Stark attack in the heart of the Westerlands that he didn't even bother to post sentries.
+
+The Stark force is able to achieve a surprise assault because they used a previously unknown path through the border mountains of the Westerlands discovered by Grey Wind. This allows the Stark army to bypass the [[Golden Tooth]] castle, a predictable choke point which guards the only major road leading through the mountains between the Riverlands and the interior of the Westerlands.
+
+Oxcross is more of a rout than a pitched battle, with the surprised Lannister army massacred in its own camp. Brynden Tully led the vanguard of Robb's army. Grey Wind played an important role in the battle by sneaking into the Lannister camp and panicking their horses, who had never seen a wolf of such massive size before. Stafford himself was killed while chasing after his terrified horse.
+
+The Lannister survivors regrouped at Lannisport under Ser Daven Lannister, Stafford's son, who is widely considered to be a more intelligent commander than his father. 
+
+Similarly to the show, the Lannister survivors spread false rumors about the northmen, among them: that after the slaughter, the northmen feasted on the flesh of the slain; that the old gods of the North march with Robb; that Robb cut out Stafford's heart and fed it to his wolf. Both Tyrion and Catelyn dismiss those rumors as nonsense.
+
+===Numbers===
+
+The book version of Robb's campaign is more detailed with several major differences. In particular, Robb's army divided into two major parts before reaching the Whispering Wood, with 6,000 cavalry going west with Robb to Riverrun, and 16,000 infantry going east to fight Tywin at the Green Fork in a feint. In the books, this eastern Stark army is commanded by Roose Bolton, who is able to retreat from the Battle of the Green Fork in good order. In the TV series, the feint only consists of 2,000 men and is completely destroyed. Robb has 20,000 men with him at the Whispering Wood. The Riverlords under House Tully then throw their support behind Robb, drastically increasing the size of his army. Robb then invades the Westerlands with his army.
+
+The number of Lannister soldiers in the Riverlands has been doubled in the TV series, from 30,000 to 60,000. The books state that 10,000 green Lannister conscripts were killed at Oxcross, and the few survivors scattered. The exact figure isn't given in the TV series though they do state that the army was destroyed and "thousands" of Lannister soldiers are dead. A figure of a five to one kill ratio would result in a higher number of Stark dead than in the books, in which the battle was a massacre and Robb's losses were very light.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{War of the Five Kings}}
+
+<!--Categories-->
+[[Category:299 AC]]
+[[Category:Battles|Oxcross]]
+[[Category:War of the Five Kings]]
+
+<!--Languages-->
+[[de:Schlacht von Ochsenfurt]]
+[[fr:Bataille de Croixbœuf]]
+[[ro:Bătălia de la Oxcross]]
+[[ru:Битва у Окскросса]]

@@ -1,0 +1,73 @@
+{{Canonicity|Canon}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Westeros
+| Part          = [[Robert's Rebellion]]
+| Image         = Battle of Bells.png
+| Previous      = [[Battle of Ashford]]
+| Concurrent    = [[Siege of Storm's End]]
+| Next          = [[Battle of the Trident]]
+| Date          = [[281 AC]]{{Dateref|Robert's Rebellion}}
+| Place         = [[Stoney Sept]], the [[Riverlands]]
+| Outcome       = *Rebel victory.
+*Lord [[Jon Connington]] stripped of lands, wealth, title and exiled to [[Essos]] by the [[Aerys II Targaryen|Mad King]] for <br>failing to defeat the rebels.
+*Loyalist survivors rally under Ser [[Jonothor Darry]] and flee to the [[Trident]].
+| Factions1     = {{COA|House Baratheon|small}} [[House Baratheon]]<br>{{COA|House Stark|small}} [[House Stark]]<br>{{COA|House Arryn|small}} [[House Arryn]]<br>{{COA|House Tully|small}} [[House Tully]]
+| Factions2     = {{COA|House Targaryen|small}} '''[[Iron Throne]]'''<br><small>([[House Targaryen]])</small>
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = {{COA|House Baratheon|inline}} Lord [[Robert Baratheon]]<br>{{COA|House Stark|inline}} Lord [[Eddard Stark]]<br>{{COA|House Arryn|inline}} Lord [[Jon Arryn]]<br>{{COA|House Tully|inline}} Lord [[Hoster Tully]]
+| Leaders2      = {{COA|House Connington|inline}} Lord [[Jon Connington]]<ref>"[[Robert's Rebellion - Petyr Baelish and Varys]]"</ref><br>{{COA|Kingsguard|inline}} [[Knighthood|Ser]] [[Jonothor Darry]]
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = 
+| Participants2 = 
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = Unknown
+| Casualties2   = Unknown, heavier than the rebels
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Quote|Gods, what a day that was!|Robert Baratheon|Robert's Rebellion - House Baratheon}}
+The '''Battle of the Bells'''{{Ref|H&L114}} was an important battle in [[Robert's Rebellion]].
+
+==History==
+Following [[Robert Baratheon]]'s [[Battle of Ashford|defeat]] against [[House Tarly]], the vanguard of [[House Tyrell]]'s forces, he fled north to the town of [[Stoney Sept]], in the [[Riverlands]], chased by forces loyal to King [[Aerys II Targaryen]].<ref name=":0">"[[Robert's Rebellion - House Baratheon]]"</ref>
+
+When the loyalist army arrived, the bells of the local [[sept]] tolled, signaling the townsfolk to take refuge, and giving the battle its name. The loyalists ineffectively searched for Robert from house to house, until they were surprised by the combined army of [[House Stark]], [[House Tully]] and [[House Arryn]]. The rebels defeated the loyalist force, which fled back to [[King's Landing]].<ref name=":0" />
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, after his defeat in the Battle of Ashford on the Stormlands/Reach border, Robert turned north. [[Jon Connington]], Hand of the King, took over the pursuit of Robert from the Tyrell army, which moved to [[Siege of Storm's End|besiege Storm's End]]. Connington and his forces caught up with Robert in the Riverlands, who was hiding in the town of Stoney Sept. It is unknown what happened between Ashford and Stoney Sept, but during the journey Robert was wounded and he hid in the local Sept from pursuers just before the battle began.
+
+Connington's soldiers began a house-to-house search, but they did not locate Robert before his allies arrived at Stoney Sept to oust Connington and his forces. At this point, the Battle of the Bells began. The rebel army under the joint command of Lords [[Eddard Stark]], [[Hoster Tully]], and [[Jon Arryn]] immediately began attacking the royal army. Connington fought back fiercely, personally killing Jon Arryn's nephew and heir, Denys Arryn, and wounding Lord Tully. It was thought that Robert would have killed Connington, but in spite of the determination of both men to find each other in the chaos, they never crossed swords. When Connington saw that the battle was lost, he managed to escape and was able to retreat in good order. Connington's retreat was quite a feat considering the fierce, urban fighting would have made it hard to hold the army together.
+
+Robert only formally announced his intention to claim the Iron Throne after the Battle of the Bells, in the lead up to the [[Battle of the Trident]]. His claim was made through his Targaryen grandmother - though, of course, he was far down the line of succession and this was just a token legal claim. Much of his campaign in the war simply involved his army fighting its way north from the Stormlands to the north side of the Trident, which it succeeded in doing following the Battle of the Bells. Apparently, after Stoney Sept there was an interlude in which each side reconsolidated and prepared for one big climactic battle: Robert joining up with his allies from the North and the Vale, and Rhaegar leading the gathered survivors of the Bells plus the full Targaryen armies of the Crownlands, plus the full Dornish contingent. Similarly, it was only after their loss at the Battle of the Bells that Aerys II realized that Robert was the greatest threat to Targaryen rule since the [[Blackfyre Rebellion]] nearly a century before: prior to that the rebels had only achieved success against local loyalist forces (at Summerhall and Gulltown), or moderate defeats (a tactical retreat at Ashford, and Storm's End besieged). At the Stoney Sept, armies from ''three'' major kingdoms (The Riverlands, the North, and the Vale) fought for Robert and outright defeated a royal army sent to eliminate Robert - it was only at this point that the Mad King realized that he was facing a Westeros-wide civil war. He despatched [[Barristan Selmy]] and [[Jonothor Darry]] to rally the royalist survivors of the battle, and march them south to join forces with the 10,000 Dornishmen marching up the [[Kingsroad]] under the command of [[Lewyn Martell]]. Rhaegar also returned from the [[Tower of Joy|south]] and persuaded his father to swallow his pride and summon [[Tywin Lannister]] back to court. However, every raven sent to [[Casterly Rock]] went unanswered (which panicked Aerys into [[Wildfire plot|making plans]] for the possibility of his defeat).{{Bookref|ASOS|37}}
+
+Aerys held Connington responsible for this defeat and exiled him, stripping him of his lands, wealth and titles. Connington never questioned his punishment, for he blamed himself not only for the failure to capture Robert - but also for Rhaegar's subsequent death: had he slain Robert, the battle of the Trident would have never been fought.
+
+Ser Myles Toyne, the former captain-general of the [[Golden Company]], told Connington he could have ended the rebellion in a single stroke by burning Stoney Sept to the ground, killing Robert before his allies arrived to rescue him - and that was what Tywin would have undoubtedly done. It was not Connington's conscience that stopped him from destroying the entire town, but two rather selfish reasons: first, he wanted the glory of slaying Robert in a single combat; second, he did not want to gain the reputation of a butcher.{{Bookref|ADWD|61}} On the other hand, as [[Varys]] comments in "[[Robert's Rebellion - Petyr Baelish and Varys]]", had Connington destroyed Stoney Sept (regardless if Robert managed to escape or not) - that would have led to many civilian casualties, thus would have severely shamed the royal side in the war; more lords might have gone over to the rebels in protest.
+
+Seventeen years after the battle, Connington still recalls the battle bitterly, blaming himself of letting Robert escape and of the subsequent outcome - Rhaegar's death. He is determined to make up for his failure by doing everything in his power to help Rhaegar and Elia's son - the presumed-dead [[Aegon Targaryen (son of Elia Martell)|Aegon Targaryen]] - ascend the Iron Throne.{{Bookref|ADWD|24}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Robert's Rebellion}}
+
+<!--Categories-->
+[[Category:281 AC]]
+[[Category:Battles|Bells]]
+[[Category:Robert's Rebellion]]
+
+<!--Languages-->
+[[de:Schlacht der Glocken]]
+[[ru:Колокольная битва]]

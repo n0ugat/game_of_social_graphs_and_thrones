@@ -1,0 +1,54 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{MapNeeded}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Arryn
+| Image        = Baelish keep.png
+| Type         = Keep
+| Status       = 
+| Location     = The [[Fingers]], the [[Vale of Arryn]]
+| Population   = 
+| Rulers       = {[[House Baelish]]}
+| Institutions = 
+| Military     = 
+| Religion     = 
+| Places       = 
+| Founded      = By {[[Petyr Baelish's grandfather]]}
+}}
+{{Quote|Until then, my whole world had been an small tower on the gull-stained rocks of the Fingers.|[[Petyr Baelish]]|House Baelish (short)}}
+The unnamed '''Baelish keep''' is a keep in the [[Vale of Arryn]]. It was the seat of [[House Baelish]], a recently established [[Noble house|house]] that once held fealty to [[House Arryn]] of the Vale before the [[War of the Five Kings]]. House Baelish was founded by [[Petyr Baelish's great-grandfather]], a [[Braavos]]i [[Mercenary|sellsword]] in service to [[House Corbray]], and it was his [[Petyr Baelish's grandfather|son]] (Petyr's grandfather) who was awarded the small keep on the most minor of [[lordship]]s, just a few stony acres in the northernmost and smallest of the peninsulas known as the [[Fingers]].{{Ref|H&L402}}
+
+The keep is located north-east of the [[Eyrie]], on the smallest peninsula of the Fingers on the coast of the [[Narrow Sea]]. The keep has no official name.
+
+==History==
+The head of House Baelish and lord of the keep at the beginning of the fourth century is [[Petyr Baelish]], great-grandson of [[Petyr Baelish's great-grandfather|the Braavosi sellsword who founded House Baelish]], and grandson of [[Petyr Baelish's grandfather|the hedge knight who was rewarded the keep]]. There is no [[Order of Maesters|maester]] appointed to the keep, and it was never given an official name.
+
+According to Littlefinger, the Fingers and the keep respectively are "four rocky peninsulas plagued by wind and rain and barren to all but the hardiest of weeds, the ancestral home of House Baelish... a small tower on the gull-stained rocks of the Fingers". It was revealed that Petyr Baelish did not enjoy his childhood there, and described [[Lord Baelish|his father]]'s efforts to allow him to be [[Ward|fostered]] at [[Riverrun]] as "heroic".{{Ref|H&L402}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, [[Sansa Stark|Sansa]] actually visits the keep briefly, as it is the first place she and Littlefinger land when they arrive on the coast of the Vale, after escaping from [[King's Landing]]. Sansa is stunned to see what a miserable, forsaken place it is. Then they proceeds from there to the [[Eyrie]], but the [[Game of Thrones|TV series]] simply skipped this.
+
+The keep is an old flint tower, located on the smallest of the Fingers. A staircase winds around the inside wall, and each floor has only one room. The ground level houses servants and dogs in the kitchen, the middle floor is a hall, and the third floor contains the bedchamber. It has arrowslits for defense but no windows. A shield depicting the Baelish [[Titan of Braavos|titan]]'s head hangs above the hearth.
+
+The vicinity includes a flock of sheep, a village of a dozen families. There is no safe anchorage nearby for large ships.
+
+In conversation with Sansa, Petyr Baelish denounces the keep and gives it the derogatory names "Sheepshit" and "Drearfort" (not to be confused with the [[Dreadfort]]).
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Drearfort}}
+
+<!--Navboxes-->
+{{Vale of Arryn}}
+
+<!--Categories-->
+[[Category:Castles of the Vale of Arryn]]
+[[Category:House Baelish]]
+
+<!--Languages-->
+[[pl:Paluchy]]
+[[pt-br:Castelo Baelish sem nome]]
+[[ru:Замок Бейлишей]]

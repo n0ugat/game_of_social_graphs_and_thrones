@@ -1,0 +1,33 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Tully
+| Image        = 
+| Type         = Castle
+| Status       = 
+| Location     = [[Riverlands]]
+| Population   = 
+| Rulers       = [[House Vance]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Atranta'''{{Ref|THTDB201}} is a castle in the [[Riverlands]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Atranta is the seat of a branch of [[House Vance]]. Its name is a reference to a place in ''Bad Ronald'' by Jack Vance.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Riverlands}}
+
+<!--Categories-->
+[[Category:Castles of the Riverlands]]
+[[Category:House Vance]]

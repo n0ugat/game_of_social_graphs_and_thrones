@@ -1,0 +1,43 @@
+{{Canonicity|Canon}}
+{{MapNeeded}}
+{{References}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Lannister
+| Image        = 701 BtS Map Banefort.png
+| Type         = Castle
+| Status       = 
+| Location     = The [[Westerlands]], [[Westeros]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+[[File:Riverlands map.jpg|right|thumb|A map of the Riverlands showing the Banefort.]]
+'''Banefort'''{{Ref|GOT701}} is a castle in the [[Westerlands]]. It is located south-westernmost point of [[Ironman's Bay]], on the shores of the [[Sunset Sea]] and north of the [[Crag]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Banefort is located in the same point. It is the seat of House Banefort, a noble house sworn to [[House Lannister]] of [[Casterly Rock]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Westerlands}}
+
+<!--Categories-->
+[[Category:Castles of the Westerlands]]
+
+<!--Languages-->
+[[de:Bannstein]]
+[[es:Fuerte Desolación]]
+[[it:Banefort]]
+[[ru:Погибельная крепость]]
+[[uk:Бейнфорт]]
+[[zh:祸垒]]

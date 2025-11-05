@@ -1,0 +1,81 @@
+{{Canonicity|Canon}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Westeros
+| Part          = [[Robert's Rebellion]]
+| Image         = BattleOfAshford.jpg
+| Previous      = [[Battle of Summerhall]]
+| Concurrent    = 
+| Next          = [[Battle of the Bells]]<br>[[Siege of Storm's End]]
+| Date          = [[281 AC]]{{Dateref|Robert's Rebellion}}
+| Place         = [[Ashford]], the [[Reach]]
+| Outcome       = Indecisive loyalist victory
+| Factions1     = {{COA|House Baratheon|small}} [[House Baratheon]]
+| Factions2     = *{{COA|House Tyrell|small}} [[House Tyrell]]
+**{{COA|House Tarly|small}} [[House Tarly]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = {{COA|House Baratheon|inline}} [[Lord of Storm's End|Lord]] [[Robert Baratheon]]
+| Leaders2      = {{COA|House Tyrell|inline}} [[Lord of Highgarden|Lord]] [[Mace Tyrell]]<br>{{COA|House Tarly|inline}} Lord [[Randyll Tarly]]
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = 
+| Participants2 = 
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = 
+| Casualties2   = 
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Quote|Your father is Randyll Tarly. He defeated my brother at the Battle of Ashford. Only battle Robert ever lost. I told him he shouldn't go so far west so soon, but he never listened.|[[Stannis Baratheon]] to [[Samwell Tarly]]|Kill the Boy}}
+The '''Battle of Ashford'''{{Ref|GOT505}} was a battle during [[Robert's Rebellion]]. It was the only defeat the rebel side suffered in the entire war against [[House Targaryen]] and its allies.
+
+==History==
+===Background===
+Following his victory at the [[Battle of Summerhall]], Lord [[Robert Baratheon]] moved his forces to the western border of the [[Stormlands]] and marched against [[Ashford]] in the [[Reach]].
+
+Robert's brother [[Stannis Baratheon|Stannis]], whom he left to hold [[Storm's End]], warned him that marching west into enemy territory would overextend himself, and instead he should immediately march north to join his allies from the [[Vale of Arryn]] and the [[North]], but Robert wouldn't listen, hoping for a quick victory.<ref name="E45">"[[Kill the Boy]]"</ref>
+
+===The battle===
+[[File:Battle_of_ashford.jpg|thumb|Lord Mace Tyrell arrived at Ashford when the battle was already won.]]
+Ashford was an indecisive battle, in which Robert was defeated by the vanguard of [[House Tyrell]], led by [[Randyll Tarly]].<ref name="E45"/> However, Robert's army was able to retreat in good order, before the main force of the Tyrell army could arrive to crush him. Lord [[Mace Tyrell]]'s main army only arrived after Robert had already retreated.
+
+===Aftermath===
+The defeat forced Robert's army to flee north, to link up with the rebel armies from the North and the Vale. This left the Stormlands open to be invaded by the loyalist armies of the Reach and left Storm's End free for the Tyrells to [[Siege of Storm's End|besiege]]. The Tyrells could have chased after Robert, but Mace assumed that [[Tywin Lannister]] would stay loyal and flank Robert's army as it passed the [[Westerlands]]. Meanwhile, if the Tyrells could successfully take Robert's home castle of Storm's End, it would be a crushing blow to rebel morale, which would lead to Robert's supporters abandoning him.<ref>"[[Robert's Rebellion - Davos Seaworth]]"</ref>
+
+Afterward, Robert retreated north through the [[Riverlands]], hiding in [[Stoney Sept]], leading to the [[Battle of the Bells]].
+
+Years later, Stannis meets [[Samwell Tarly|Sam]] at the Wall and is surprised he is Randyll Tarly's son. Stannis recounts to Sam how Randyll defeated Robert in the Battle of Ashford, the only battle Robert ever lost.<ref name="E45"/>
+
+[[Jaime Lannister|Jaime]], attempting to persuade Randyll Tarly to fight for the [[House Lannister|Lannisters]], praises him as the only man who ever defeated Robert in a battle, what even [[Rhaegar Targaryen]] could not do.<ref>"[[Stormborn]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, even though it was Randyll Tarly who commanded the Tyrell forces, in subsequent years Mace Tyrell always tried to take credit for the victory. During the battle, Tarly cut down Lord Cafferen, one of the royalist commanders at the Battle of Summerhall who defected to Robert after his defeat there, then used [[Heartsbane]] to cut off Cafferen's head and sent it to Aerys as a token of his fealty. Mace's cousin, Ser Quentin Tyrell, was amongst the royalist casualties of the battle.
+
+In the Season 2 ''[[Histories & Lore]]'' featurettes, [[Margaery Tyrell]] says it was her father's victory, with no mention of Tarly - which is unsurprising, given that this is the version her own father likes to tell. The Tyrells are quite proud of the fact that they inflicted the only defeat Robert suffered in the entire war. Moreover, Mace (and the other Tyrells) like to remember it as a crushing and decisive rout of Robert's army, when really the battle was at best indecisive, and Robert's army was not routed but withdrew in good order to the north. Tarly's forces were just the vanguard of the main Tyrell force commanded by Mace, and Robert withdrew before even having to face Mace and his main army (thus while Tarly certainly performed quite well, the choice to withdraw was actually Robert's, because he knew he couldn't hold the position once Tyrell reinforcements arrived).
+
+Indeed, in the subsequent Season 3 ''Histories & Lore'' featurette on the Reach, Margaery (again narrating) grudgingly admits that it was actually her father's ''vanguard'' who won the battle, and that Robert retreated before Mace himself actually arrived.<ref>"[[The Reach]]"</ref> Stannis himself later confirmed on-screen in Season 5's "[[Kill the Boy]]" that it was actually Randyll Tarly who defeated Robert at the Battle of Ashford, crediting him without mentioning Mace Tyrell at all.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Robert's Rebellion}}
+
+<!--Categories-->
+[[Category:281 AC]]
+[[Category:Battles|Ashford]]
+[[Category:Robert's Rebellion]]
+
+<!--Languages-->
+[[de:Schlacht von Aschfurt]]
+[[fr:Bataille de Cendregué]]
+[[ru:Битва у Эшфорда]]

@@ -1,0 +1,38 @@
+{{Canonicity|Canon}}
+{{Organization
+| Title       = {{PAGENAME}}
+| Theme       = Outlaw
+| Image       = 
+| Type        = Outlaw brotherhood
+| Status      = Inactive
+| Symbol      = 
+| Words       = 
+| Center      = [[Dornish Marches]]
+| Leader      = 
+| Affiliation = 
+| Religion    = 
+| Military    = 
+| Founded     = 
+}}
+{{Quote|Hunted and killed the Bandits Lords{{Sic|Bandit Lords}} of the Marches, freeing Lady and Lord Dondarrion from the Diamond Cave.|The ''Book of Brothers'' recounting Ser Gwayne Gaunt's suppression of the outlaws.|The Iron Throne}}
+The '''Bandit Lords of the Marches'''{{Ref|GOT806}} were a group of outlaws who led a gang of bandits in the [[Dornish Marches]].
+
+==History==
+===Background===
+The Bandit Lords abducted the lord and lady of [[House Dondarrion]] during the reign of King [[Aerys II Targaryen]], and held them hostage at a place called the [[Diamond Cave]]. They were all hunted down and killed by Ser [[Gwayne Gaunt]],{{Note|The paragraph mentioning this event is erroneously placed in Arthur Dayne's entry. The opening sentence calling him the "thirdborn son to Lord Symon of House Gaunt" makes it apparent that this paragraph was meant for Gwayne Gaunt's entry.|name=Gwayne Gaunt}} a member of the [[Kingsguard]]. Gwayne later rescued Lord Dondarrion and his wife from the bandits.
+
+===[[Game of Thrones: Season 8|''Game of Thrones'': Season 8]]===
+The Bandit Lords are mentioned in [[Arthur Dayne]]'s{{Note|name=Gwayne Gaunt}} entry in the ''[[Book of Brothers]]'', which the new [[Lord Commander of the Kingsguard]] [[Brienne of Tarth]] was flicking through.{{Ref|GOT806}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no mention of this gang.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Categories-->
+[[Category:Organizations]]
+[[Category:Outlaws]]

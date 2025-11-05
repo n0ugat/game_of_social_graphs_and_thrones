@@ -1,0 +1,54 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Dustin.svg
+| Link  = House Dustin
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Stark
+| Image        = 
+<gallery>
+Barrowton.png|Appearance
+Barrowton Pin.png|Location
+</gallery>
+| Type         = Town
+| Status       = 
+| Location     = The [[North]], [[Westeros]]
+| Population   = 
+| Rulers       = [[House Dustin]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Old Gods]]
+| Places       = 
+| Founded      = 
+}}
+{{Quote|Barrowton, my lord. House Dustin.|Arya Stark|The Ghost of Harrenhal}}
+'''Barrowton'''{{Ref|GOT205}} is a town in the [[North]], the region ruled by [[House Stark]] of [[Winterfell]], and the seat of [[House Dustin]]. Barrowton is located south-west of Winterfell, in the [[Barrowlands]].
+
+==History==
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+While serving [[Tywin Lannister|Tywin]] as a [[cupbearer]] at [[Harrenhal]], [[Arya Stark|Arya]] claims to be from [[Maidenpool]] in the [[Riverlands]]. Tywin catches her out in the lie when she cannot identify [[House Mooton]]'s sigil and demands the truth. She claims instead to be a stonemason's daughter from Barrowton, and accurately describes House Dustin's sigil, convincing Tywin.{{Ref|GOT205}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Barrowton is a town and the seat of House Dustin, which rules it from their castle of Barrow Hall. The town lies in the shadow of a large hill called the Great Barrow, held in mythology to be a site sacred to the [[Children of the Forest]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{North}}
+
+<!--Categories-->
+[[Category:House Dustin]]
+[[Category:North]]
+[[Category:Towns]]
+
+<!--Languages-->
+[[de:Hügelstadt]]
+[[es:Fuerte Túmulo]]
+[[pl:Barrowton]]
+[[ru:Барроутон]]
+[[zh:荒冢屯]]

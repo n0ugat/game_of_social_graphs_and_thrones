@@ -1,0 +1,76 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Thrones
+| Part          = the [[War of the Five Kings]]
+| Image         = Home 15.jpg
+| Previous      = [[Coup in Dorne]]
+| Concurrent    = 
+| Next          = [[Fight by Deepwood Motte]]
+| Date          = [[303 AC]]{{Dateref|Game of Thrones: Season 6}}
+| Place         = [[Winterfell]], [[North]]
+| Outcome       = *Death of [[Roose Bolton]]
+*[[Ramsay Bolton]] becomes [[Lord of Winterfell]], [[Lord of the Dreadfort]], and [[Warden of the North]]
+*Set stage for open conflict between [[House Stark]], ''de facto'' led by [[Sansa Stark]], and [[House Bolton]] for the North
+| Factions1     = {{COA|House Bolton|s}} [[House Bolton]]
+| Factions2     = {{COA|House Bolton|s}} [[Ramsay Bolton]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = 
+| Leaders2      = 
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = {{COA|House Bolton|i}} Lord [[Roose Bolton]]<br>{{COA|House Bolton|i}} Lady [[Walda Bolton]]
+| Participants2 = {{COA|House Bolton|i}} Ramsay Bolton<br>{{COA|House Karstark|i}} Lord [[Harald Karstark]]<br>[[Bastard's girls]]
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = Lord Roose Bolton<br>Lady Walda Bolton<br>[[Roose Bolton's son]]
+| Casualties2   = None
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Quote|Maester Wolkan, send ravens to all the Northern Houses: Roose Bolton is dead, poisoned by our enemies.|[[Ramsay Bolton]] after murdering his father.|Home}}
+The '''assassinations at Winterfell''' occur during the [[War of the Five Kings]], in which [[Roose Bolton]], the Lord of Winterfell and Warden of the North, is betrayed and murdered by his own son, [[Ramsay Bolton]].{{Ref|GOT602}}
+
+==History==
+===Prelude===
+{{Dialogue a-b|Roose Bolton|Walda and I have some good news as well... since we're all together.|Walda Bolton|We're going to have a baby.|Roose and Walda announce their coming child.|Kill the Boy}}
+After defeating [[Stannis Baratheon|Stannis]]'s host, the Boltons celebrate a hollow victory, as [[Sansa Stark|Sansa]] escapes during the chaos of the battle with help from [[Theon Greyjoy|Theon]].{{Ref|GOT510}} With the birth of [[Roose Bolton's son]] looming, Ramsay's position as heir becomes more uncertain, especially when Roose subtly hints that he will disinherit Ramsay in favor of the baby if Sansa cannot be recovered.{{Ref|GOT601}}
+
+===Assassinations===
+{{Quote|You will always be my firstborn.|Roose Bolton's final words before he is killed by Ramsay.|Home}}
+During a meeting with Lord [[Harald Karstark]] about future plans for the North, Ramsay suggests they storm [[Castle Black]] as Sansa has probably fled there to find safety with [[Jon Snow]]. Roose immediately shoots down the proposal, saying that killing the Lord Commander of an ancient and politically neutral order like the Night's Watch will rally the North against them, chastising Ramsay for being a wild dog. They are then informed by Maester [[Wolkan]] that [[Walda Bolton|Walda]] has given birth to a boy. Ramsay proceeds to congratulate Roose and hug him, while discreetly feeling for chain mail on his back. When he finds none, Ramsay stabs Roose in the chest. Despite the fact that Roose is Harald's liege lord and Roose avenged [[Rickard Karstark|his father]] by personally killing [[Robb Stark|Robb]], Harald doesn't intervene. Mortally injured, Roose collapses to the floor and dies, ironically in the exact same manner as when he killed Robb. Ramsay then instructs Wolkan to send ravens out with the false news that Roose was poisoned by his enemies. When Wolkan hesitates, Harald reminds him that Ramsay is his Lord now. Ramsay is quick to solidify his position as Lord Bolton, luring his stepmother and newborn brother to the kennels, where he feeds them to his [[Bastard's girls|hounds]].{{Ref|GOT602}}
+
+===Aftermath===
+{{Quote|Winterfell is mine, bastard. Come and see.|Ramsay sends a threatening [[Bastard Letter|message]] to [[Jon Snow]].|Book of the Stranger}}
+With the deaths of Roose, Walda, and his true-born son, Ramsay becomes the only living member of House Bolton and the new Lord of Winterfell, Lord of the Dreadfort, and Warden of the North.{{Ref|GOT602}} When news of his ascension reaches Jon and his allies at Castle Black, Sansa correctly deduces that Ramsay killed his father.{{Ref|GOT604}}
+
+==In the books==
+As of the most recent novel in the ''[[A Song of Ice and Fire]]'' series, Roose Bolton and the pregnant Walda are still alive.
+
+While the Bolton storyline in Season 6 of the TV series surpassed the novels, it nonetheless seems very probable that this is going to happen in the next novel, ''The Winds of Winter'' (and isn't just an invention of the TV series). The most recent novel strongly implied that Ramsay might kill Walda's baby and possibly Roose himself, much for the same reasons as in the TV show: Ramsay has proven to be short-sighted and impulsive, Roose has lost faith in him, and Roose might make any child he has with Walda his heir instead. Roose outright expresses his fear that Ramsay will try to kill any children he has with Walda (perhaps it is a foreshadowing).{{Bookref|ACOK|55}}{{Bookref|ADWD|32}}
+
+The [[Bastard Letter]] that Jon receives near the end of the fifth novel (before he is attacked by his own men) is signed "Ramsay Bolton, Trueborn '''Lord of Winterfell'''".{{Bookref|ADWD|69}} Although the contents of the letter seem to be as least partially false, and it is doubtful that Ramsay wrote it - the fact that he signs as "Lord of Winterfell" may imply that he has already killed Roose.
+
+In the "Inside the Episode" featurette for "[[Home]]", [[David Benioff]] directly points out that Roose's murder by Ramsay, unlike the [[Coup in Dorne]], wasn't a spur-of-the-moment decision but part of a growing tension ever since Walda announced she was pregnant in Season 5's "[[Kill the Boy]]". Benioff further explained how this wasn't meant to be an unexpected or gratuitous "surprise" by pointing out how Lord Karstark doesn't even flinch when Ramsay stabs Roose in front of him: it had become obvious to characters around the Boltons that inevitably, either Ramsay would kill Roose and the rest of his family, or Roose would disinherit and/or kill Ramsay.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{War of the Five Kings}}
+
+<!--Categories-->
+[[Category:303 AC]]
+[[Category:Assassinations|Winterfell]]
+[[Category:War of the Five Kings]]
+
+<!--Languages-->
+[[de:Attentat auf Roose Bolton]]
+[[fr:Assassinat à Winterfell]]
+[[ru:Убийства в Винтерфелле]]

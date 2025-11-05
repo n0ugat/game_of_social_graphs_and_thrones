@@ -1,0 +1,33 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Ben Dilloway.jpg
+| Birth   = 
+| Death   = 
+| Role    = [[Soren]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = "[[King of the Narrow Sea (episode)|King of the Narrow Sea]]"
+| First   = 
+| Last    = 
+}}
+'''Ben Dilloway''' is an English actor.
+
+In ''[[House of the Dragon]]'', he portrayed Ser [[Soren]] in "[[King of the Narrow Sea (episode)|King of the Narrow Sea]]".<ref>https://www.spotlight.com/7892-0161-3662</ref>
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1||||yes}}
+
+==See also==
+*{{IMDb|#=4578564}}
+*{{Twitter|#=b_dilloway}}
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Dilloway, Ben}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Ben Dilloway]]

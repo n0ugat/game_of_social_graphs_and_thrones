@@ -1,0 +1,71 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Westeros
+| Part          = the [[coming of the Andals]]
+| Image         = Battle of the Seven Stars 1.PNG
+| Previous      = 
+| Concurrent    = 
+| Next          = 
+| Date          = c. [[5700 BC]]{{Dateref|Coming of the Andals}}
+| Place         = [[Giant's Lance]], the [[Vale of Arryn|Vale]]
+| Outcome       = Decisive Andal victory
+<div align="left">
+<div class="mw-collapsible mw-collapsed" style="width:100%">
+''Details:''
+<div class="mw-collapsible-content">
+*[[Artys Arryn]] made [[King of the Mountain and the Vale]]
+*[[First Men]] of the Vale driven into the [[Mountains of the Moon]], becoming the [[hill tribes]]
+</div></div></div>
+| Factions1     = '''[[Andals]]''':<br>{{COA|House Arryn|small}} [[House Arryn]]
+| Factions2     = '''[[First Men]]''':<br>{{COA|House Royce|small}} [[House Royce]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = {{COA|House Arryn|inline}} [[Knighthood|Ser]] [[Artys Arryn]]
+| Leaders2      = {{COA|House Royce|inline}} [[Bronze King|King]] [[Robar II Royce]] †
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = 
+| Participants2 = 
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = 
+| Casualties2   = 
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Quote|The armies of the First Men and the Andals met beneath the Giant's Lance to decide the fate of the Vale.|[[Petyr Baelish]]|Knights of the Vale (short)}}
+The '''Battle of the Seven Stars'''{{Con|TWOI&F}} was allegedly fought at the early stage of the [[coming of the Andals]]. According to legend, it resulted in the fall of the First Men kingdoms of the [[Vale of Arryn|Vale]] and the rise of [[House Arryn]], and was thus the first great [[Andals|Andal]] victory over the [[First Men]].
+
+==History==
+The battle itself was fought at the foot of the Giant's Lance, the highest mountain in the [[Vale of Arryn|Vale]].{{Ref|H&L615}} According to legend, [[Artys Arryn]] flew to the top of the mountain with a giant falcon and defeated the [[Griffin King]] in single combat.
+
+With the death of the Griffin King, [[Artys Arryn]] was crowned [[King of the Mountain and the Vale]], and the remaining First Men houses of the Vale bent the knee. Like much of Westerosi history, the battle may be a myth with some truth in it, or outright fiction.
+
+==In the books==
+The identity of the Griffin King is never outright confirmed. In ''The World of Ice & Fire'', Maester Yandel suggests that the legend boils down to a glorification of the Battle of the Seven Stars, in which the historical Artys Arryn defeated King Robar II Royce and forced the First Men houses of the Vale into submission. Maester Yandel disputes that there were two separate battles, and that a Battle of the Giant's Lance predating the Battle of the Seven Stars simply never occurred.
+
+As both Robar II Royce and the "Griffin King" are presented as the last First Men kings of the Vale, it is likely that the latter is nothing but the mythical version of the former. Interestingly, although Artys Arryn claimed to have personally killed Robar II Royce, this claim has later been disputed.
+
+If Maester Yandel's theory is true, neither the Winged Knight nor the Griffin King even existed; they are simply a combination of glorification of real events and myth. Maester Yandel further speculates that the idea of a large falcon derives from the Valyrian dragon riders.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+[[Category:5700 BC]]
+[[Category:Battles|Seven Stars]]
+[[Category:Coming of the Andals]]
+
+<!--Languages-->
+[[de:Schlacht unter der Riesenlanze]]
+[[fr:Bataille des Sept Étoiles]]
+[[ru:Семизвёздная битва]]

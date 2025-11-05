@@ -1,0 +1,93 @@
+{{Canonicity|Canon}}
+{{Update|"[[The Burning Mill]]"}}
+{{Heraldry
+| Image = House Celtigar.svg
+| Link  = House Celtigar
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Targaryen
+| Image       = Bartimos Celtigar Official Guide.jpg
+| Birth       = 
+| Death       = 
+| House       = [[House Celtigar|Celtigar]]{{Guideref|Bartimos Celtigar}}
+| Affiliation = [[House Targaryen/House of the Dragon|House Targaryen]]{{Ref|HOTD110}}<br>[[Black Council]]{{Ref|HOTD110}}
+| Titles      = 
+| AKA         = 
+| Culture     = [[Valyrians|Valyrian]]{{Guideref|Bartimos Celtigar}}
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 1|1]] {{*}} [[House of the Dragon: Season 2|2]]
+| Appearances = 8 episodes {{Below|Appearances}}
+| First       = "[[The Black Queen]]"
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Nicholas Jones]]
+}}
+{{Dialogue a-b|Bartimos|The purpose of war is to fill graveyards, my dear Lord Staunton. The trick is to put more of their men in the ground than your own.|Simon|Easy words for a lord who commands from the safety of his castle.|Bartimos Celtigar and Simon Staunton|The Black Queen}}
+Lord '''Bartimos Celtigar''' is the head of [[House Celtigar]] and Lord of [[Claw Isle]] during the [[Dance of the Dragons]].
+
+==Biography==
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+Bartimos attends the [[Black Council]] at [[Dragonstone]], where he briefly bickers with Lord [[Simon Staunton]]. Bartimos informs [[Daemon Targaryen|Daemon]] that [[Corlys Velaryon]] has recovered from his fever and he has departed [[Evenfall Hall|Evenfall]], though his destination remains unclear. Daemon commands Bartimos to send [[raven]]s to their allies in the [[Crownlands]].
+
+As the Black Council discusses potential allies, Bartimos interrupts by stating that the importance of fighting men is lessened by the number of [[dragon]]s commanded by [[Rhaenyra Targaryen|Rhaenyra]]'s forces. While Rhaenyra remains cautious, pointing out that the [[Greens]] have dragons as well, Daemon is optimistic and agrees with Bartimos that their own greater number will give them the advantage.{{Ref|HOTD110}}
+
+===[[House of the Dragon: Season 2|''House of the Dragon'': Season 2]]===
+Bartimos is present at the Black Council when Rhaenyra returns from the [[Stormlands]].{{Ref|HOTD201}}
+
+When news of the murder of Prince [[Jaehaerys Targaryen (son of Aegon II)|Jaeherys Targaryen]] reaches Dragonstone, Rhaenyra gathers her council to discuss their response. Bartimos assures Rhaenyra that he has seen to it that her guard is doubled. He laments the damage done to their cause by the rumours of Rhaenyra's culpability in the murder, at a time when they most need to win loyalty.{{Ref|HOTD202}}
+
+==Behind the scenes==
+Bartimos Celtigar's character description for [[House of the Dragon: Season 2|Season 2]] reads as follows:
+:''"A traditionalist member of Queen Rhaenyra’s black council."''{{Webref|name=WBD |author=Unknown author |date=Unknown date |url=https://press.wbd.com/us/bio/house-dragon-s2-character-descriptions |title=House of the Dragon S2 <nowiki>|</nowiki> Character Descriptions |website=Warner Bros. Discovery |access-date=June 5, 2024 }}
+
+==In the books==
+In ''[[Fire & Blood]]'', Bartimos Celtigar was renowned for his wealth and cunning. He was named to [[Rhaenyra Targaryen]]'s [[Black Council|black council]] during the [[Dance of the Dragons]].
+
+Lord Celtigar urged Rhaenyra to to fly against King's Landing, and reduce the city to ash and bone, pointing out that the greens had only four dragons, while the blacks had nine. Rhaenyra rejected the idea, explaining that they actually had only five dragons (she was not strong enough to fly, while [[Silverwing]], [[Vermithor]], and [[Seasmoke]] had no riders), and [[Vhagar]] was among the four Aegon had - so they had no advantage.
+
+==Appearances==
+*{{HOTD|The Black Queen}}
+*{{HOTD|A Son for a Son}}
+*{{HOTD|Rhaenyra the Cruel}}
+*{{HOTD|The Burning Mill}}
+*{{HOTD|The Red Dragon and the Gold}}
+*{{HOTD|Regent}}
+*{{HOTD|Smallfolk}}
+*{{HOTD|The Red Sowing}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+*{{TOG|character-guide#bartimos-celtigar}}
+
+<!--Navboxes-->
+{{House Celtigar}}
+{{Black Council}}
+
+<!--Categories-->
+{{DEFAULTSORT:Celtigar, Bartimos}}
+[[Category:Bannermen of House Targaryen]]
+[[Category:Black Council]]
+[[Category:Crownlanders]]
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Lords]]
+[[Category:Members of House Celtigar|Bartimos Celtigar]]
+
+<!--Languages-->
+[[de:Bartimos Celtigar]]
+[[es:Bartimos Celtigar/House of the Dragon]]
+[[fr:Bartimos Celtigar]]
+[[pl:Bartimos Celtigar]]
+[[ru:Бартимос Селтигар]]
+[[uk:Бартімос Келтіґар]]

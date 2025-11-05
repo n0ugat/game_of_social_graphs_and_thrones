@@ -1,0 +1,80 @@
+{{Canonicity|Canon}}
+'''Asshai'i'''{{Ref|GOT101}}{{Note|Misspelled in credits as "Ashai'i."}} is the [[Languages|language]] spoken by the inhabitants of [[Asshai]], who live in the far southeast of [[Essos]].
+
+==Lexicon==
+===Numbers===
+Asshai'i uses a base-8 number system.<ref>[https://dedalvs.com/work/game-of-thrones/misc/asshai.pdf Asshai | dedalvs.com]</ref>
+{{Col-begin}}
+{{Col-2}}
+====Cardinal====
+*''shi'' = one
+*''u'' = two
+*''tèzà'' = three
+*''azlha'' = four
+*''kwilo'' = five
+*''khà'' = six
+*''remu'' = seven
+*''òdhè'' = eight
+*''ôdhèzhi'' = nine
+*''òdhènu'' = ten
+*''u òdhè'' = sixteen
+*''u òdhèzhi'' = seventeen
+*''tèzà òdhè'' = twenty-four
+*''azlha òdhè'' = thirty-two
+*''mòr'' = sixty-four
+{{Col-2}}
+
+====Ordinal====
+*''shii'' = one
+*''uu'' = two
+*''tèsàhi'' = three
+*''alhahi'' = four
+*''kwiilo<nowiki>'</nowiki>'' = five
+*''khàà'' = six
+*''rẽmũhi'' = seven
+*''òthèhi'' = eight
+*''òdhèzhii'' = nine
+*''òdhènuu'' = ten
+*''u òthèhi'' = sixteen
+*''u òdhêzhii'' = seventeen
+*''tèzà òthèhi'' = twenty-four
+*''azlha òthèhi'' = thirty-two
+*''mòòrà<nowiki>'</nowiki>'' = sixty-four
+{{Col-end}}
+
+==Behind the scenes==
+The credits for episodes of [[Game of Thrones: Season 1|Season 1]] of the [[Game of Thrones|TV series]] include the statement: "[[Dothraki (language)|Dothraki]], Asshai'i, and [[Skroth]] languages created by the Language Creation Society and [[David J. Peterson]]."
+
+So far, the only extant examples of the Asshai'i language in the TV series seem to be the incantations that [[Mirri Maz Duur]] makes in [[Khal]] [[Drogo]]'s tent in the Season 1 episode "[[Baelor]]", during her [[Magic|healing ritual]]. The [[red priest]]ess [[Melisandre]] of Asshai debuted in [[Game of Thrones: Season 2|Season 2]], but has not yet said anything in the Asshai'i language.
+
+Later, before Season 4 aired, Peterson explained that he did develop an Asshai'i language, and that the only instance of it was Mirri Maz Duur's incantations in Drogo's tent - or rather, he thinks Duur is speaking the lines that he provided, but they're so indistinct in the finished product that even he isn't sure. Moreover, even if Duur was saying the lines he provided, Peterson said that they were so indistinct that he doesn't really feel beholden to the Asshai'i language he partially developed for Season 1, which even then was only a rough sketch. Particularly, he said that if he were ever to renew work on an Asshai'i language in later TV seasons, he will probably start over again from scratch.
+
+In Peterson's own words:
+
+:Yes, I developed something for Asshai’i, as well as for the [[White Walkers]], but based on what you see in the show, I’m pretty sure they didn’t use it. In fact, even if they did use what I provided, it’s so unintelligible that if an Asshai’i language were ever needed, I wouldn’t feel the need to build off the old language (though I might). I had some neat ideas for it). And it was, indeed, developed for MMD for the scene in the tent.<ref>[http://www.dothraki.com/2013/12/seasons-bleatings/#comment-6554 David J. Peterson's blog], Dothraki.com, January 7th, 2014.</ref>
+
+Therefore, as of [[Game of Thrones: Season 4|Season 4]], there is no canonically developed Asshai'i language within the TV series continuity, as there is for the Dothraki and Valyrian languages.
+
+Note that while Melisandre does speak a foreign language in [[Game of Thrones: Season 3|Season 3]]'s "[[The Climb]]", this same scene directly states that she is speaking in [[High Valyrian]] - the major ''lingua franca'' of [[Essos]] due to the spread of the old [[Valyrian Freehold]] (the equivalent of how people from far distant areas of medieval Western Europe would speak Latin to communicate).
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the Asshai'i are well versed in witchcraft and wizardry and have a language of their own, used in their spells (as done by the [[Valyrians]]).
+
+[[Mirri Maz Duur]], who learned magic in Asshai, sang in a foreign tongue as a knife appeared in her hand. Her voice is described as "shrill" and "ululating". Furthermore, [[Melisandre]] has been noted to pray to [[Lord of Light|R'hllor]] once in the speech of Asshai, once in High Valyrian, and once in the Common Tongue.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|Asshai#Language}}
+
+<!--Categories-->
+[[Category:Asshai'i culture]]
+[[Category:Languages]]
+
+<!--Languages-->
+[[de:Asshai'i (Sprache)]]
+[[pt-br:Asshai'i (língua)]]

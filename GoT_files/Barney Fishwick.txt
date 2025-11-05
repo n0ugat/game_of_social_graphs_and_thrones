@@ -1,0 +1,35 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Barney Fishwick.jpg
+| Birth   = 1993-1994
+| Death   = 
+| Role    = [[Martyn Reyne]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]]
+| Credits = 7 episodes {{Below|Credits}}
+| First   = "[[A Son for a Son]]"
+| Last    = "[[Smallfolk (episode)|Smallfolk]]"
+}}
+'''Barney Fishwick''' is a screenwriter and actor.
+
+Fishwick plays Ser [[Martyn Reyne]] in the [[House of the Dragon: Season 2|second season]] of ''[[House of the Dragon]]''.{{Webref|name=WBD |author=Unknown author |date=Unknown date |url=https://press.wbd.com/us/bio/house-dragon-s2-character-descriptions |title=House of the Dragon S2 <nowiki>|</nowiki> Character Descriptions |website=Warner Bros. Discovery |access-date=June 5, 2024 }}
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 2|yes|yes|yes|yes|yes|yes|yes}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb|#=10568064}}
+*{{Spotlight|#=7018-9056-6078}}
+*{{Twitter|#=barney_fishwick}}
+
+<!--Categories-->
+{{DEFAULTSORT:Fishwick, Barney}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Barney Fishwick]]

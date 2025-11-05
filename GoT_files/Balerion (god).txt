@@ -1,0 +1,27 @@
+{{DISPLAYTITLE:Balerion {{C|god}}}}
+{{Canonicity|Canon}}
+{{Deity
+| Title    = Balerion
+| Theme    = Westeros
+| Image    = 
+| Type     = 
+| AKA      = 
+| Religion = [[Old Gods of Valyria]]
+| Symbol   = 
+| Family   = 
+| Aspects  = 
+| Avatars  = 
+}}
+'''Balerion'''{{Ref|H&L109}} is one of the [[Old Gods of Valyria]]. It was worshiped in the [[Valyrian Freehold]]. The [[dragon]] [[Balerion]] is named after it.{{Ref|H&L109}}
+
+==In the books==
+In ''[[The World of Ice & Fire]]'', no more information is provided about Balerion.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+[[Category:Old Gods of Valyria]]

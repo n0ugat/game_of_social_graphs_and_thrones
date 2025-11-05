@@ -1,0 +1,89 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Thrones
+| Part          = the [[Last War]]
+| Image         = Drogon Euron's Fleet S8 EP4.jpg
+| Previous      = [[Retaking of the Iron Islands]]
+| Concurrent    = 
+| Next          = [[Battle of King's Landing]]
+| Date          = [[305 AC]]{{Dateref|Game of Thrones: Season 8}}
+| Place         = [[Blackwater Bay]] by [[Dragonstone (island)|Dragonstone]]
+| Outcome       = '''Strategic [[Salt Throne]] victory'''
+*Death of [[Rhaegal]]
+*Capture of [[Missandei]]
+*Portion of the [[House Targaryen|Targaryen]] fleet destroyed
+| Factions1     = {{COA|House Greyjoy|small}} '''[[Salt Throne]]'''/[[House Greyjoy]]<br><small>([[Euron Greyjoy|Euron]]'s faction)</small>
+| Factions2     = {{COA|House Targaryen|small}} [[House Targaryen]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = {{COA|Euron Greyjoy|inline}} [[King of the Iron Islands|King]] [[Euron Greyjoy]]
+| Leaders2      = {{COA|House Targaryen|inline}} [[King of the Andals and the Rhoynar and the First Men|Queen]] [[Daenerys Targaryen]]<br>[[Grey Worm]]
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = *The [[Iron Fleet]]
+**''[[Silence]]''
+**11 ships mounted with anti-dragon [[scorpion]]s
+| Participants2 = *Targaryen fleet
+**~23 ships
+**2 [[dragon]]s
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = None
+| Casualties2   = '''Heavy'''
+*[[Rhaegal]]
+*Fleet destroyed
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Quote|Get to the skiff. Now!|[[Grey Worm]] to [[Missandei]]|The Last of the Starks}}
+The '''battle at Dragonstone''' was a naval engagement during the [[Last War]] when [[Euron Greyjoy]] and a portion of the [[Iron Fleet]] ambushed [[Daenerys Targaryen]]'s fleet while they were sailing back to [[Dragonstone (island)|Dragonstone]] from the [[North]].
+
+== History ==
+=== Prelude ===
+{{Quote|We have won the Great War. Now we will win the Last War.|[[Daenerys Targaryen]]|The Last of the Starks}}
+At the [[Dragonpit Summit]], [[Daenerys Targaryen|Daenerys]] and the [[House Stark|Starks]] agreed to an armistice with [[House Lannister]]. [[Cersei Lannister|Cersei]] further agreed to send the Lannister armies north to fight in the [[Great War]], but it turned to be a lie; instead she hired the [[Golden Company]] to restrengthen her position and take back the southern kingdoms.{{Ref|GOT707}}
+
+[[File:GoT S08E03 AKNK.png|thumb|left|The Night King, the White Walkers, and the army of the dead were destroyed.]]
+The Golden Company was ferried to [[Westeros]] on the [[Iron Fleet]] by [[Euron Greyjoy]], Cersei's new ally and the self-proclaimed [[King of the Iron Islands]].{{Ref|GOT801}}
+
+Following the [[Battle of Winterfell]],{{Ref|GOT803}} the survivors refocused their efforts towards the last war: taking the Iron Throne from Cersei and House Lannister.{{Ref|GOT804}}
+
+Daenerys, [[Tyrion Lannister|Tyrion]], [[Varys]], [[Grey Worm]], [[Missandei]], and the remaining [[Unsullied]] sailed back to [[Dragonstone (island)|Dragonstone]], while [[Jon Snow]], the armies of the [[North]] and the [[Vale of Arryn|Vale]], and the remaining [[Dothraki]] marched south on the [[Kingsroad]] towards [[King's Landing]].{{Ref|GOT804}}
+
+=== The ambush ===
+Tyrion and Varys discuss the implications of the parentage of Jon, having learned from [[Sansa Stark|Sansa]], who, alongside [[Arya Stark|Arya]], learned straight from [[Bran Stark|Bran]] with Jon's permission, that he is Aegon Targaryen, the son of Daenerys's brother [[Rhaegar Targaryen]] and [[Lyanna Stark]]. Daenerys, meanwhile, flies overhead on [[Drogon]] with an injured but recovering [[Rhaegal]] next to them. All of a sudden, seemingly from out of nowhere, a gigantic scorpion bolt plunges into Rhaegal's chest. Moments later, a second bolt strikes through Rhaegal's left wing, quickly followed by a third and final bolt which rips through the dragon's throat, fatally wounding him. As Rhaegal plunges into the sea, a portion of the Iron Fleet (about 12 ships), armed with massive scorpions, is revealed to have been waiting at Dragonstone with Euron himself at its command. Daenerys is horrified and enraged by Rhaegal's death; screaming in fury, she directs Drogon to attack the fleet, but relents and pulls up as the scorpions fire again. As they fly away to safety, Euron and his men target the [[House Targaryen|Targaryen]] fleet and fire on the ships, quickly decimating them. After nearly being hit several times by the shots, Tyrion jumps into the water to escape, as well as Varys and Grey Worm.{{Ref|GOT804}}
+
+=== Aftermath ===
+The survivors of Euron's surprise attack are able to swim ashore to Dragonstone, among them Tyrion, Varys, and Grey Worm, but Missandei is taken captive by Euron, who returns to King's Landing and delivers her as a hostage to Cersei. Daenerys and Drogon also return to Dragonstone. Daenerys wants to march on King's Landing and destroy the city to avenge Rhaegal and save Missandei, but Varys reveals that Cersei has brought the smallfolk into the [[Red Keep]] to hold as hostages, knowing that Daenerys and Tyrion do not want to kill innocent civilians.{{Ref|GOT804}}
+
+Word of the ambush reaches [[Winterfell]]. [[Jaime Lannister|Jaime]] learns of the ambush and Daenerys's plan to march on the capital from Sansa and [[Brienne of Tarth|Brienne]]. Later at night, Jaime decides to ride south to try to rescue Cersei, believing he has no other choice, leaving Brienne behind at Winterfell. Brienne pleads with Jaime not to go, and tries to convince him he's a more honorable person than his vicious sister, but Jaime reveals several of his past misdeeds that he committed for Cersei.{{Ref|GOT804}}
+
+Daenerys [[parley]]s with Cersei outside the gates of King's Landing. Tyrion and [[Qyburn]], who designed the anti-dragon weapons, discuss their opposing queens' terms of surrender; Tyrion tries but fails to appeal to Qyburn's humanity to save thousands of innocent people, and pushes forward to talk with his sister. Tyrion tries to convince Cersei to surrender in order to save her unborn child, appealing to his sister's love for her children, but Cersei does not give in. Cersei then has [[Gregor Clegane]] behead Missandei before Daenerys, Tyrion, and Grey Worm. Daenerys angrily walks away from the parley.{{Ref|GOT804}}
+
+The deaths of Rhaegal and Missandei make Daenerys snap, with her starting to believe she can only win Westeros through fear. This plays a key role in her having Drogon [[Battle of King's Landing|raze King's Landing]], even after the city surrenders.{{Ref|GOT805}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, no equivalent battle has occurred. The TV show has surpassed the timeline of the books, so it is unclear if an equivalent battle will occur.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{Last War}}
+
+<!--Categories-->
+[[Category:305 AC]]
+[[Category:Battles|Dragonstone]]
+[[Category:Last War]]
+
+<!--Languages-->
+[[de:Schlacht vor Drachenstein]]
+[[fr:Embuscade à Peyredragon]]
+[[it:Imboscata a Roccia del Drago]]
+[[ru:Засада у Драконьего Камня]]

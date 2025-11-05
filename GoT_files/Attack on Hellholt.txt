@@ -1,0 +1,72 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Stub}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Westeros
+| Part          = the [[First Dornish War]]
+| Image         = Battle of Hellholt.png
+| Previous      = [[Assault on Oldtown]]
+| Concurrent    = 
+| Next          = [[Dragon's Wroth]]
+| Date          = 
+| Place         = [[Hellholt]], [[Dorne]]
+| Outcome       = Decisive [[House Martell|Dornish]] victory
+*Death or capture of Queen [[Rhaenys Targaryen (sister of Aegon I)|Rhaenys Targaryen]]
+*Death of [[Meraxes]]
+| Factions1     = {{COA|House Targaryen|small}} '''[[Iron Throne]]'''/[[House Targaryen]]
+| Factions2     = {{COA|House Martell|small}} '''[[Dorne]]'''/[[House Martell]]
+* House Uller
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = {{COA|House Targaryen|inline}} [[King|Queen]] [[Rhaenys Targaryen (sister of Aegon I)|Rhaenys Targaryen]] †
+| Leaders2      = Unknown
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = 1 [[dragon]]
+*[[Meraxes]] †
+| Participants2 = Hellholt Uller garrison 
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = Total
+*[[Meraxes]]
+*[[Rhaenys Targaryen (sister of Aegon I)|Rhaenys Targaryen]]
+| Casualties2   = Heavy
+*Many Uller infantry and archers
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Quote|Rhaenys returned on Meraxes, intent on avenging herself against Meria Martell, but Dorne was no longer empty. The Dornish kept Meria's promise and fought even while burning under dragon flame, and they won. One day a bolt pierced the eye of Meraxes and knocked the dragon out of the sky. House Martell remained unbroken, unlike the unfortunate Rhaenys.|[[Varys]]|House Martell, Princes of Dorne}}
+A failed '''attack''' by Queen [[Rhaenys Targaryen (sister of Aegon I)|Rhaenys Targaryen]] on the [[Dorne|Dornish]] castle [[Hellholt]] was one of the most important events of the [[First Dornish War]]. It resulted in the death (or capture) of Rhaenys as well as her [[dragon]], [[Meraxes]].
+
+==History==
+===Prelude===
+Following [[Aegon I Targaryen]]'s coronation at the [[Starry Sept]], [[Rhaenys Targaryen (sister of Aegon I)|Rhaenys]] returned to Dorne on her dragon [[Meraxes]], with Aegon atop his [[dragon]], [[Balerion]], and [[Visenya Targaryen]] atop hers, [[Vhagar]]. However, they found [[Dorne]] virtually desolate, as Dorne knew from the [[Field of Fire]] and the [[Burning of Harrenhal|Burning of]] [[Harrenhal]] that it would be highly unwise to engage against three dragons in open battle. Aegon installed a royal garrison in [[Sunspear]] and [[Castellan|castellans]] for each Dornish stronghold, as [[House Targaryen]] ruled from [[King's Landing]] over a supposedly united [[Seven Kingdoms]]. However, the hiding Dornishmen rose in rebellion against the Targaryen army, [[Defenestration of Sunspear|throwing castellans]] off the towers of Sunspear and routing the royal garrison into the Dornish deserts, leaving at the mercy of the elements.
+
+===The battle===
+With the Targaryen occupation of Dorne all but destroyed, Rhaenys returned on Meraxes, intent on avenging herself against [[Meria Martell]]. She returned to a Dorne prepared for her assault. Having kept Meria's promise, the Dornish fought hard, even while burning under Meraxes dragonfire. One day, [[Scorpion|a Scorpion bolt]] pierced the eye of Meraxes, which caused both the dragon and Rhaenys to fall to their deaths.<ref>"[[House Martell, Princes of Dorne]]"</ref>
+
+===Aftermath===
+In their wrath, Aegon and Visenya burned every castle and city but [[Sunspear]], trying to turn the people against [[House Martell]], however, the Dornish stayed loyal to their [[Great House]].
+
+==In the books==
+According to ''The World of Ice & Fire'' and ''Fire & Blood'', in 4 AC, Aegon I began a new campaign against Dorne. Rhaenys led the first assault on Dorne, seizing castles and burning [[Planky Town]] while approaching Sunspear. However, the Dornish lords once again refused to give open battle, and abandoned their seats. When Rhaenys and Aegon eventually reached Sunspear, Princess Meria Martell, as well as most others, had fled. Rhaenys and Aegon gathered the few courtiers and functionaries who had remained behind and, declaring themselves victorious, proclaimed that Dorne fell under the rule of the Iron Throne. Rhaenys and Aegon returned to King's Landing, leaving Lord Rosby as Sunspear's castellan while giving Lord Harlan Tyrell the charge of a host to fight the last revolts. However, they had barely reached the capital when the Dornish revolted with extreme rapidity, leading to the deaths of both Lord Rosby, by the hand of Princess Meria herself, and Lord [[House Tyrell|Tyrell]], who vanished in 5 AC with his army while marching to Sunspear to retake the castle. Entire garrisons were put to the sword, and the knights in charge were slowly tortured to death.
+
+The next few years of the war became more and more violent. The Targaryens returned to Dorne to unleash their dragons, and the Dornish responded with fire of their own. In 10 AC, at [[Hellholt]] a bolt from a scorpion pierced Meraxes through the eye. The dragon fell from the sky with Rhaenys on its back, destroying half the castle. It is not certain whether Rhaenys outlived Meraxes. There are those who say that Rhaenys lost her seat and fell to her death, while others claim that Rhaenys was crushed to death beneath Meraxes in the castle yard. A few accounts claim that Rhaenys survived the fall and died a slow death, being tortured by the Ullers. Due to the uncertainty about Rhaenys's exact death, history records that she died in 10 AC at Hellholt in Dorne. Her body was never returned to [[King's Landing]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|First Dornish War#Full-out war}}
+
+<!--Navboxes-->
+{{Wars of Conquest}}
+
+<!--Categories-->
+[[Category:Battles]]
+[[Category:First Dornish War]]
+
+<!--Languages-->
+[[ru:Нападение на Пекло]]

@@ -1,0 +1,159 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{OtherUses|attack by Daenerys Targaryen|Battle of King's Landing (disambiguation)}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Thrones
+| Part          = the [[Last War]]
+| Image         = Fireinthecapital.jpg
+| Previous      = [[Battle at Dragonstone]]
+| Concurrent    = 
+| Next          = [[Assassination of Daenerys Targaryen]]
+| Date          = [[305 AC]]{{Dateref|Game of Thrones: Season 8}}
+| Place         = [[King's Landing]], [[Crownlands]]
+| Outcome       = '''Decisive Targaryen victory'''
+*Effective end of the [[Last War]]
+*King's Landing completely devastated
+*Deaths of [[Cersei Lannister|Cersei]] and [[Jaime Lannister]], [[Euron Greyjoy]] and [[Qyburn]]
+*Extinction of [[House Clegane]]
+*Near-total annihilation of the [[Iron Fleet]] and the [[Golden Company]]
+*[[Wildfire plot]] partly triggered
+| Factions1     = {{COA|House Lannister|small}} '''[[Iron Throne]]'''/[[House Lannister]]<br>{{COA|House Greyjoy|small}} [[House Greyjoy]]<br>([[Euron Greyjoy|Euron]]'s faction)<br>{{COA|Golden Company|small}} [[Golden Company]]
+| Factions2     = *{{COA|House Targaryen|small}} '''[[House Targaryen]]'''
+*{{COA|House Stark|small}} [[House Stark]]
+**{{COA|House Hornwood|inline}} [[House Hornwood]]
+*{{COA|House Arryn|small}} [[House Arryn]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = {{COA|House Lannister|inline}} [[King of the Andals and the Rhoynar and the First Men|Queen]] [[Cersei Lannister|Cersei I Lannister]] †<br>[[Hand of the King|Lord]] [[Qyburn]] †<br>{{COA|Euron Greyjoy|inline}} [[King of the Iron Islands|King]] [[Euron Greyjoy]] †<br>{{COA|Golden Company|inline}} Captain [[Harry Strickland]] †
+| Leaders2      = {{COA|House Targaryen|inline}} [[King of the Andals and the Rhoynar and the First Men|Queen]] [[Daenerys Targaryen]]<br>{{COA|House Lannister|inline}} [[Hand of the King|Lord]] [[Tyrion Lannister]]<br>[[Jon Snow]]<br>[[Grey Worm]]<br>{{COA|House Seaworth|inline}} [[Knighthood|Ser]] [[Davos Seaworth]]
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = *~45-50,000 manpower
+*King's Landing [[House Lannister|Lannister]] garrison
+**Several thousand Lannister [[Man-at-arms|infantrymen]] and archers
+*The [[Iron Fleet]]
+**''[[Silence]]''
+**A few hundred [[ships]] equipped with anti-dragon scorpions 
+**Several thousand [[Ironborn]] sailors and warriors loyal to [[Euron Greyjoy|Euron]]
+*The [[Golden Company]]
+**20,000 heavy infantrymen
+**2,000 cavalry
+*Several dozen anti-[[dragon]] scorpions
+*{{COA|Kingsguard|inline}} The [[Kingsguard|Queensguard]]
+**Seven [[Knighthood|knights]]
+*{{COA|City Watch of King's Landing|inline}} [[City Watch of King's Landing|City Watch]] garrison
+| Participants2 = *~64,000 manpower
+**1 [[dragon]]
+**4,000 [[Unsullied]] heavy infantry
+**50,000 [[Dothraki]] light cavalry
+**5,000 [[House Stark|Stark]] infantrymen
+**5,000 [[House Arryn|Arryn]] [[Knighthood|knights]] of the [[Vale of Arryn|Vale]]
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = '''Catastrophic'''
+*Queen Cersei I Lannister
+*Ser [[Jaime Lannister]]
+*King Euron Greyjoy
+*Lord Hand Qyburn
+*Captain Harry Strickland
+*Ser [[Gregor Clegane]]
+*Near or total annihilation of King's Landing Lannister garrison
+*Near total annihilation of the Golden Company
+*Near total destruction of the Iron Fleet
+*All knights of the Queensguard
+| Casualties2   = '''Light'''
+*Minimal Targaryen-Stark/Arryn losses
+*[[Sandor Clegane]]
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = Massive civilian casualties, tens to hundreds of thousands burned and killed
+}}
+{{Quote|My father was an evil man. My sister was an evil woman. Pile up all the bodies of all the people they ever killed, there still won't be half as many as our beautiful queen slaughtered in a single day.|[[Tyrion Lannister]] on [[Daenerys Targaryen]]|The Iron Throne}}
+The '''battle of King's Landing''' was the final engagement of the [[Last War]], fought between the [[House Lannister|Lannister]]-led forces of Queen [[Cersei Lannister]] and the [[House Stark|Stark]], [[House Arryn|Arryn]] and [[House Targaryen|Targaryen]] alliance force, led by Queen [[Daenerys Targaryen]] for control over [[King's Landing]], the capital and largest city of the [[Seven Kingdoms]] of [[Westeros]] and seat of the [[Iron Throne]].
+
+== History ==
+=== Prelude ===
+{{Quote|Oh yes, you'll be queen...for a time. Then comes another, younger, more beautiful, to cast you down and take all you hold dear.|[[Maggy]]'s prophecy about Cersei Lannister's downfall|The Wars To Come}}
+[[Daenerys Targaryen]] seeks to take the Iron Throne, the center of power from which her house ruled Westeros for 300 years before the Targaryen dynasty was overthrown by [[Robert Baratheon]].{{Ref|GOT702}} Following the end of the [[Great War]], Daenerys resumes the [[Last War]] against Cersei.{{Ref|GOT804}} Cersei reinforces her troops by allying with [[Euron Greyjoy]]{{Ref|GOT701}} and hiring the [[Golden Company]].{{Ref|GOT801}}
+
+After the parley with Cersei fails,{{Ref|GOT804}} Daenerys and her allies rally their troops for assaulting King's Landing.{{Ref|GOT805}}
+
+Prior to the battle, [[Tyrion Lannister|Tyrion]] convinces Daenerys to not attack the city if the bells were rung, signaling a surrender. Cersei fortifies the city walls, while having Euron deploy the Iron Fleet in [[Blackwater Bay]]. In the early hours of the day of the battle, [[Sandor Clegane|the Hound]] and [[Arya Stark|Arya]], having ridden south from [[Winterfell]] in hopes of preemptively killing Gregor and Cersei, manage to infiltrate the castle.{{Ref|GOT805}}
+
+=== The battle ===
+{{Quote|Dracarys!|[[Missandei]]'s last words|The Last of the Starks}}
+[[File:Davos Jon & Tyrion S8 Ep5.jpg|thumb|left|Jon, Davos, Tyrion, and their armies face off the Golden Company.]]
+Sailing from Dragonstone and marching from the [[Kingsroad]], Jon, Davos, and Tyrion consolidate the [[Unsullied]], Dothraki, and [[North|Northern]]-[[Vale of Arryn|Vale]] forces outside the gates of [[King's Landing]]. Captain [[Harry Strickland]], commander of the Golden Company, leads his forces outside the city walls to face off the combined [[House Targaryen|Targaryen]], [[House Stark|Stark]], and [[House Arryn|Arryn]] forces.{{Ref|GOT805}}
+
+In the opening act of the battle, Daenerys ambushes the [[Iron Fleet]] on [[Drogon]] while the fleet was still preparing for attack. Nosediving towards the fleet with the sun at her back, the tactic prevents the Iron Fleet from initially spotting Drogon as he closes in for the attack. Having learned from her earlier engagement with the fleet, Daenerys directs Drogon to fly fast and low to make it difficult for the ships to accurately target him. In the ensuing attack, the Iron Fleet is completely decimated, with the ironborn unable to strike the dragon as Drogon lays waste to dozens of ships with dragonfire. Euron himself barely survives the assault by jumping into the sea before [[Silence|his ship]] is destroyed. With the Iron Fleet all but destroyed, Daenerys and Drogon proceed towards the city proper, destroying the Lannister forces manning the [[Scorpion]]s on the ramparts.{{Ref|GOT805}}
+
+While the Targaryen, Stark, and Arryn forces continue to have an uneasy standoff with the Golden Company outside the city walls, Daenerys directs Drogon to the front gates, catching the defenders completely by surprise by destroying the gate in a fiery blast that shatters the Golden Company's lines and creates a breach into the city. The Targaryen, Stark, and Arryn forces charge forward in the ensuring confusion amongst the defenders. Harry Strickland, having been thrown from his horse from the attack, manages to recover, but is struck down by Grey Worm as he attempts to retreat into the city. The Dothraki are the first to enter the city, cutting through the still-recovering Lannister and preventing them from recovering fast enough to create a proper defense. The Northmen and Unsullied are close behind, mopping up the stunned Lannister forces as they pour into the city. Meanwhile, Daenerys annihilates most of the Golden Company as they futilely attempt to flee from Drogon's dragonfire.{{Ref|GOT805}}
+
+[[File:STARKENTOURAGEBE;;S.jpeg|thumb|Jon leads the Northmen and knights of the Vale into King's Landing.]]
+As the Targaryen, Stark, and Arryn forces battle the Lannister forces in the city, Daenerys and Drogon continue to strafe the city walls, destroying the remaining scorpions. Watching from the Red Keep, Cersei remains in utter denial of her increasingly dire situation, even as Qyburn informs her of the loss of the Iron Fleet and Golden Company, destruction of all the anti-dragon ballistae, and breaching of the city gates.{{Ref|GOT805}}
+
+As the fighting escalates, Jon, Davos, Grey Worm and the bulk of their forces march down the main street of King's Landing, cutting down attacks from Lannister soldiers along the way. They soon join up with a group of Northmen in a standoff with a large Lannister contingent. With the last of the scorpions destroyed, Daenerys lands Drogon on a nearby roof, intimidating the remaining Lannister soldiers and small folk.{{Ref|GOT805}}
+
+Realizing that the battle and war has been lost, the Lannister soldiers drop their weapons and surrender, while the people of the city begin to cry for the bells to be rung. Jon and Tyrion are relieved at the quick surrender, while Cersei watches in disappointment as both her soldiers and people turn on her, their cries for surrender echoing throughout the city. The bells soon begin ringing, signaling that the battle has come to an end with a relatively bloodless Targaryen victory.{{Ref|GOT805}}
+
+In a culmination of her accumulated grief and rage from the losses sustained in her campaign for Westeros, Daenerys furiously stares at the Red Keep, the former symbol of her family's power that is now held by her hated enemy. Unable to accept her easy victory, Daenerys succumbs to the infamous [[Targaryen madness]], rejecting the city's surrender in a terrifying turn of events as she unleashes Drogon on a destructive rampage across the city. Tyrion watches in horror from beyond the city's burnt walls as Drogon strafes through the city, destroying countless buildings and incinerating tens of thousands of fleeing smallfolk and surrendered Lannister soldiers with dragonfire. Following Daenerys's lead, Grey Worm rejects the Lannister surrender as well by hurling a spear at one of the Lannister soldiers, triggering the Targaryen, Stark, and Arryn forces to begin sacking the city. Jon attempts to stop the ensuing massacre by ordering his men to stand down. However, the men of the North are blinded by hatred for the actions of House Lannister (the [[execution of Eddard Stark]], the [[War of the Five Kings]], the [[Red Wedding]], [[Roose Bolton|Roose]] and [[Ramsay Bolton]]'s rule, and Cersei's treachery in the fight against the dead), and refuse to show mercy. In the ensuing chaos, Jon and Davos are separated, and Jon is forced to kill one of his own men when said man attempts to rape a woman. Meanwhile at the Red Keep, Cersei watches the unfolding carnage in mute horror and shock as Daenerys and Drogon fly towards the Red Keep, directly striking the castle with dragonfire. Despite the deteriorating situation, Cersei remains defiant, until Qyburn convinces her the battle has been lost and that the Red Keep has been breached by the Unsullied, advising Cersei to retreat to the (relative) safety of Maegor's Holdfast.{{Ref|GOT805}}
+
+[[File:TheBellsWFire.png|thumb|left|Wildfire caches erupt from the dragonfire.]]
+Across King's Landing, the wildfire caches placed beneath the city by the [[Aerys II Targaryen|Mad King]], begin to ignite and explode, triggered by the dragonfire. As the city begins to be consumed by an ever-growing conflagration, countless civilians die as they are crushed by collapsing buildings, burned from exploding wildfire or Drogon's dragonfire, or massacred by Daenerys's forces. With the situation rapidly deteriorating, Davos begins evacuating civilians, while Jon - witnessing the ever-increasing danger of the battle and horrified by Daenerys's brutality - orders the Stark and Arryn forces to retreat from the city.{{Ref|GOT805}}
+
+[[File:Clegane Battle S8 Ep5.jpg|thumb|The Clegane brothers duel each other to the death.]]
+Towards the battle's climax, Daenerys and Drogon continue to make several devastating strafe runs across the city as well striking the Red Keep, partially destroying the [[throne room]] and several of the castle's towers. Meanwhile, Arya and the Hound manage to infiltrate the Red Keep, but before they can proceed with their mission, Sandor convinces Arya to turn back, warning her that if she goes further down her path for murder and vengeance, she'll end up like him. Arya heeds Sandor's advice and the two bid farewell for the last time as Arya rushes out of the Red Keep. Meanwhile, as Cersei, Qyburn, Ser Gregor and her [[Kingsguard|Queensguard]] attempt to make their way to Maegor's Holdfast, Sandor intercepts them. Sandor effortlessly dispatches Cersei's remaining Queensguard before proceeding to taunt his brother, breaking Cersei and Qyburn's hold over Gregor as he moves to confront Sandor. When Qyburn orders Gregor to obey Cersei, the Mountain smashes his skull while Cersei flees. The Clegane brothers proceed to duel one another as Drogon continues to ravage the Red Keep, with Sandor knocking off Gregor's helmet and revealing his undead appearance. The Mountain is able to survive the Hound's fatal attacks and pushes him against a wall, severely beating him before attempting to gouge out his eyes, but the Hound repels him by stabbing him in the head before tackling Gregor through a wall, sending the two brothers falling hundreds of feet to their deaths into the flames below. Meanwhile, Arya continues to make her way out of the King's Landing, fleeing from collapsing buildings and attempting and failing to save civilians from the escalating carnage along the way. Arya barely survives herself as she narrowly avoids being caught up in one of Drogon's strafe runs, knocking her unconscious.{{Ref|GOT805}}
+
+[[File:The Bells.jpeg|thumb|left|Jaime reunites with Cersei.]]
+In the midst of the battle, Jaime goes around the Red Keep using a secret passage, but is confronted by Euron, having swam ashore after the destruction of his fleet. The two proceed to engage in a brutal fight. At the climax of their duel, Euron fatally stabs Jaime multiple times, but Jaime ultimately overpowers Euron and runs him through with his sword, leaving him to bleed to death. Jaime then rushes to his sister, finding her in [[Maegor's Holdfast]] as the Red Keep begins crumbling around them. Comforting her, the two rush down to the crypts beneath the Red Keep where the dragon skulls are kept to make their escape. As the make their way through the crypts, the duo find that their exit to the boat has been blocked off by debris. Realizing the futility of their escape, Cersei desperately pleads with her brother to save her and their child. Jaime instead embraces her as the devastated Red Keep collapses on top of them.{{Ref|GOT805}}
+
+=== Aftermath ===
+[[File:Arya Burned Bodies S8 Ep5.jpg|thumb|Arya Stark awakens to the carnage of the dead city.]]
+An indeterminate amount of time after the conclusion of the battle, a stirring Arya wakes up in rubble, covered in ash, blood, and debris, having been unable to save anyone despite her many attempts. As she observes her surroundings, she sees an apocalyptic scene: burnt out or collapsed buildings lining streets filled with countless bodies of people turned to ash where they were. Out of the lifeless ruins that was once King's Landing, she finds an unexpected survivor, Harry Strickland's horse, which she uses to ride out of the ruined city.{{Ref|GOT805}} Daenerys later orders Grey Worm and the Unsullied to begin executing everyone who followed Cersei, including surrendered Lannister soldiers.{{Ref|GOT806}}
+
+[[File:Red_keep.PNG|thumb|left|The remains of the Red Keep following the battle.]]
+The casualties during the battle have been immense. Including Lannister soldiers and innocent civilians, the death toll likely reached tens, if not hundreds of thousands, making the battle one of the deadliest in Westerosi history. Catastrophic damage had been rendered to large sections of King's Landing due to Drogon's multiple dragonfire strafe runs. Combined with the ignited caches of wildfire, it is likely huge swaths of the city have been destroyed in the resulting firestorm. The degree of destruction has been so intense that ash precipitates onto the city in significant quantities (enough to partially bury a sleeping Drogon) in the hours and days following the battle and even partially blots out the sun.{{Ref|GOT806}}
+
+[[File:GOT806.jpg|thumb|Daenerys stands over the ruins of King's Landing.]]
+In the aftermath of the battle, Daenerys seizes control over what little remains of King's Landing, occupying the city with her armies. She then has both the Unsullied and the Dothraki assemble in the courtyard of the Red Keep before arriving at the ruin castle to address them both. As Jon and Tyrion look on solemnly behind her, Daenerys delivers a victory speech to the remaining Dothraki and Unsullied, declaring the sack of King's Landing a success. She congratulates the Dothraki on delivering her the Seven Kingdoms. She then praises the Unsullied and calls her forces 'liberators' for 'freeing' the people of King's Landing. Daenerys then promotes Grey Worm as the Commander of all her forces and her [[Master of War]]. Continuing on, Daenerys declares her intent of continuing to break the wheel, enlisting her army to embark on a conquest of not only the rest of Westeros, but all of the known world, to the distress of both Jon and Tyrion.{{Ref|GOT806}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, an equivalent event has not occurred. The TV show has surpassed the timeline of the books, two of which are yet to be published, so it is unclear if such an event will occur.
+
+In ''A Storm of Swords'', Qyburn tells Jaime how Tyrion [[Battle of the Blackwater|set the Blackwater on fire]]. That reminds Jaime of a dream he had about "''green flames reaching up into the sky higher than the tallest towers, as burning men screamed in the streets''."{{Bookref|ASOS|31}} Perhaps this is a foreshadowing of the battle, if it ever occurs in the novels.
+
+==Gallery==
+<gallery>
+File:Golden Company S8 Ep5.jpg
+File:Euron S8 Ep5.jpg
+File:Dany's Army S8 Ep5.jpg
+File:GreyWormBOKL.png
+File:JONINACTIONBELLS.jpeg
+File:Euron Wounded S8 Ep5.jpg
+File:Captured King's Landing S8 Ep6.jpg
+File:Game.of.thrones.s08e06.png
+</gallery>
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{Last War}}
+
+<!--Categories-->
+[[Category:305 AC]]
+[[Category:Battles|King's Landing]]
+[[Category:Last War]]
+[[Category:Massacres]]
+
+<!--Languages-->
+[[de:Schlacht um Königsmund]]
+[[es:Batalla de Desembarco del Rey (Game of Thrones)]]
+[[fr:Dévastation de Port-Réal]]
+[[it:Battaglia di Approdo del Re]]
+[[pl:Bitwa o Królewską Przystań]]
+[[ru:Битва за Королевскую Гавань]]

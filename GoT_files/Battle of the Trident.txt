@@ -1,0 +1,113 @@
+{{Canonicity|Canon}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Westeros
+| Part          = [[Robert's Rebellion]]
+| Image         = Robert and Rhaegar on the Trident.png
+| Previous      = [[Battle of the Bells]]
+| Concurrent    = [[Siege of Storm's End]]
+| Next          = [[Wildfire plot]]<br>[[Sack of King's Landing]]<br>[[Battle at the Mander]]
+| Date          = [[281 AC]]{{Dateref|Robert's Rebellion}}
+| Place         = The [[Ruby Ford]] on the [[Trident|Trident River]]
+| Outcome       = *Decisive rebel victory.
+*Death of Prince [[Rhaegar Targaryen|Rhaegar<br>Targaryen]], heir to the [[Iron Throne]].
+| Factions1     = *{{COA|House Baratheon|small}} [[House Baratheon]]
+*{{COA|House Stark|small}} [[House Stark]]
+**{{COA|House Bolton|inline}} [[House Bolton]]
+*{{COA|House Arryn|small}} [[House Arryn]]
+*{{COA|House Tully|small}} [[House Tully]]
+| Factions2     = {{COA|House Targaryen|small}} '''[[Iron Throne]]'''/[[House Targaryen]]<br>{{COA|House Martell|small}} [[House Martell]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = {{COA|House Baratheon|inline}} [[Lord of Storm's End|Lord]] [[Robert Baratheon]]<br>{{COA|House Stark|inline}} [[Lord of Winterfell|Lord]] [[Eddard Stark]]<br>{{COA|House Arryn|inline}} [[Defender of the Vale|Lord]] [[Jon Arryn]]<br>{{COA|House Tully|inline}} [[Lord of Riverrun|Lord]] [[Hoster Tully]]<br>{{COA|House Bolton|inline}} [[Lord of the Dreadfort|Lord]] [[Roose Bolton]]
+| Leaders2      = {{COA|House Targaryen|inline}} [[Prince of Dragonstone|Prince]] [[Rhaegar Targaryen]] †<br>{{COA|Kingsguard|inline}} [[Prince]] [[Lewyn Martell]] †<br>{{COA|Kingsguard|inline}} [[Knighthood|Ser]] [[Barristan Selmy]] {{Surrender}}<br>{{COA|Kingsguard|inline}} [[Knighthood|Ser]] [[Jonothor Darry]] †
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = About 35,000 soldiers<ref name=H&L>"[[Robert's Rebellion - House Baratheon]]"</ref>
+| Participants2 = More than 40,000 soldiers<ref name=H&L /> including 10,000 Dornishmen
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = Moderate
+*Lord [[Robert Baratheon]] wounded in action
+| Casualties2   = Entire army destroyed
+*Prince [[Rhaegar Targaryen]] †
+*Ser [[Barristan Selmy]], wounded and captured
+*Prince [[Lewyn Martell]] †
+*Ser [[Jonothor Darry]] †
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Dialogue a-b|Barristan Selmy|When your brother Rhaegar led his army into battle at the Trident, men died for him because they believed in him, because they loved him...|Jorah Mormont|Rhaegar fought valiantly, Rhaegar fought nobly. And Rhaegar died.|[[Barristan Selmy]] and [[Jorah Mormont]] to [[Daenerys Targaryen]]|Walk of Punishment (episode)}}
+The '''Battle of the Trident'''{{Ref|H&L115}} was the climactic battle of the civil war known as [[Robert's Rebellion]].
+
+==History==
+===Prelude===
+In his previous campaigns, [[Robert Baratheon]] had successfully led his main army north from the [[Stormlands]] to join his main allies in the [[North]], the [[Vale of Arryn|Vale]], and the [[Riverlands]]. He cut his way through loyalist houses that attempted to stop him at [[Battle of Summerhall|Summerhall]], [[Battle of Ashford|Ashford]], and [[Stoney Sept]]. At the last location, a loyalist army attempted to corner him but in the [[Battle of the Bells]], the armies of the North, Vale, and Riverlands arrived and their combined forces drove them off. The combined rebel army then withdrew into friendly territory north of the Trident. The Riverlords remained divided, but [[House Tully]] sided with the rebels.
+
+While the rebels massed north of the river, [[Rhaegar Targaryen]] - who had ignited the entire war by allegedly [[Abduction of Lyanna Stark|abducting Lyanna Stark]] - finally reappeared in King's Landing and massed the bulk of the remaining loyalist forces. He then led them north to face off against Robert's armies when they attempted to cross south of the Trident and advance on [[King's Landing]].
+
+Robert's rebel army at the Trident was composed of the forces from the Stormlands, the North, the Vale, and rebel houses from the Riverlands such as the Tullys. Robert's personal army from the Stormlands was somewhat diminished in size from all of the fighting it had seen but was more battle-hardened. The rebel forces from the North, Vale, and Riverlands had also seen action at the Battle of the Bells and though slightly outnumbered by Rhaegar's army, had more combat experience. The army group was commanded by Robert himself, [[Eddard Stark]], [[Jon Arryn]], [[Hoster Tully]], and several of their bannermen, including [[Roose Bolton]]<ref name=":0">[http://viewers-guide.hbo.com/game-of-thrones/season2/#!/guide/houses/stark/roose-bolton/ HBO viewers guide, season 2 guide to houses, House Stark - Roose Bolton entry]</ref> of the [[Dreadfort]].
+
+Rhaegar's loyalist army consisted primarily of the direct Targaryen vassals from the [[Crownlands]], joined by 10,000 [[Dornishmen]] under the command of Prince [[Lewyn Martell]]<ref name=":2">"[[Robert's Rebellion - Oberyn Martell]]"</ref> of the [[Kingsguard]]. Rhaegar's own lawful wife was [[Elia Martell]], and the [[Aerys II Targaryen|Mad King]] kept her as a virtual hostage in the [[Red Keep]] to ensure [[House Martell]]'s support. A few men from the Reach were also present, but the bulk of [[House Tyrell]]'s army was tied down further south [[Siege of Storm's End|besieging Storm's End]], held by Robert's younger brother [[Stannis Baratheon|Stannis]]. Rhaegar's forces were fresh and larger than the rebel army, but were unbloodied and less experienced. Rhaegar himself commanded the loyalist forces along with several of his most trusted Kingsguard, including Ser [[Barristan Selmy]].
+
+===Battle===
+The two forces clashed directly on the Trident. The battle was not in favor of either side until Rhaegar was slain by Robert, resulting in a crucial and critical victory for the rebel forces.<ref>[http://viewers-guide.hbo.com/game-ofthrones/season2/#!/guide/houses/targaryen/rhaegar-targaryen/ HBO viewers guide, season 2 guide to houses, House Targaryen - Rhaegar Targaryen entry]</ref> Rhaegar was killed at a fork in the river from a swing by Robert's war hammer, smashing the rubies from Rhaegar's armor with his killing stroke. This led to the site becoming known as the [[Ruby Ford]].<ref>[http://viewers-guide.hbo.com/game-of-thrones/season2/#!/map/special/battleground-westeros/1/ HBO viewers guide, season 2 map, special features - Battleground Westeros, Battle of the Trident entry]</ref>
+
+Dorne lost all the 10,000 troops they sent to support the Targaryen army, including Lewyn Martell himself.<ref name=":2" /> The Targaryen army was completely annihilated, and Barristan Selmy was severely injured and captured. The rebel army took heavy casualties, but not nearly as many as the Targaryens. Robert himself was also moderately injured in the fighting. Roose Bolton counseled Robert after the battle to execute Selmy, but Robert overruled him and not only pardoned Selmy, but sent his personal maester to treat his grave injuries, recognizing the knight's courage and loyalty despite being on the enemy force.<ref name=":0" />
+
+===Aftermath===
+The defeat marked the beginning of the end for the Targaryen dynasty. The main reason such a high number of Houses had remained loyal to the Mad King was because of loyalty they felt towards his son and heir, Rhaegar. With Rhaegar dead, House Targaryen's popular support fell drastically. No army stood between the rebels and King's Landing, the only other loyalist armies being [[Mace Tyrell]]'s army besieging Storm's End, and [[Tywin Lannister]]'s marching from [[Casterly Rock]] towards the capital. Since Robert was wounded in the battle, it fell to Eddard to lead the rebel army south towards King's Landing, hoping to arrive before the Lannisters - who were presumably rushing to reinforce the capital city. What Eddard and Robert did not realize was that after the victory at the Trident and Rhaegar's death, Tywin had decided to betray the Mad King and join the winning side. The Lannister army arrived first, but after being let inside the gates they promptly turned on its defenders, resulting in the [[Sack of King's Landing]].
+
+Lord [[Walder Frey]], [[Lord of the Crossing]] and one of Lord [[Hoster Tully]]'s bannermen, did not appear until the battle was done, for which Lord Tully nicknamed him "The late Walder Frey."<ref>"[[Baelor]]"</ref><ref>"[[Mhysa]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the Battle of the Trident took place at a ford over the Trident, several hundred miles north of King's Landing. The battle was only possible due to some impressive maneuvering by Robert's army from the Stormlands, which had to travel through hundreds of miles of enemy territory to link up with the [[House Stark|Stark]], [[House Tully|Tully]], and [[House Arryn|Arryn]] forces north of the river.
+
+The battle itself was on a large scale, with Prince Rhaegar leading 40,000 loyalist troops. The rebels had slightly fewer troops, but they were more experienced due to almost a year of warfare beforehand. The battle was quite bloody with high casualties on both sides, but in the end it was the loyalist force which broke and fled after  Robert killed Rhaegar in an intense duel. After Rhaegar was killed, men on both sides stole the rubies that bejeweled his armor and crown, and the place where he fell was thus called the Ruby Ford.
+
+The rebel side included the the main armies from the North and the Vale. Robert's army from the Stormlands had to fight its way north and was much diminished, but the remaining soldiers were battle-hardened veterans. The Riverlords were split between the rebels and loyalists, though the Tullys fought on the rebel side. House Darry, in contrast, were a major House of the Riverlands that fought on the side of the Targaryens.
+
+The bulk of the loyalist army was composed of the full strength of the Targaryen bannermen in the Crownlands, augmented by 10,000 Dornishmen. This was supported by several loyalist Riverlands Houses and surviving loyalist armies from previous battles such as the [[Battle of the Bells]]. There were a few men present from the Reach and House Tyrell at the battle, but the bulk of the Tyrells' army was tied down at the Siege of Storm's End away to the south.
+
+Prince Doran Martell, furious at Rhaegar for humiliating Elia twice (at the [[Great Tourney at Harrenhal]] and by kidnapping/eloping with Lyanna Stark), was slow to lend the Targaryens aid. King Aerys, however, gracelessly reminded Lewyn Martell that he held Elia, and dispatched him to lead the 10,000 Dornish contingent in an advance which threatened to break the rebel army's left flank. During the fighting Prince Lewyn became badly wounded, however, and in the confusion Ser Lyn of [[House Corbray]] led a counter-charge by the rebels which halted the Dornish, and personally killed Lewyn. Ser Lyn, in vain and arrogance, would boast about how he had personally defeated Lewyn in later years, though in reality Lewyn was already very badly wounded (perhaps mortally so), and Corbray simply finished him off.
+
+When Aerys, in his paranoia, heard about Rhaegar's death, he believed that Prince Lewyn had betrayed him during the battle. Therefore, he sent his wife Queen [[Rhaella Targaryen|Rhaella]] and her younger son Prince [[Viserys Targaryen (son of Aerys II)|Viserys]] to Dragonstone, but kept Elia and her children in King's Landing as hostages against any possible Dornish betrayal; thus, the Mad King was indirectly responsible for the deaths of Elia and her children.
+
+Other notable characters present at the battle included Jon Arryn, Hoster Tully, and Roose Bolton. The latter, following the rebel victory, suggested that Ser Barristan Selmy be killed, but Robert was so impressed by the valor and loyalty that Barristan had shown in the battle that he spared his life, even sending his own maester to tend to Barristan's wounds instead of his own, which were less serious. After the war, Robert made Ser Barristan the Lord Commander of his own Kingsguard. Robert's own injuries, however, led him to give command of the rebel army to Eddard Stark, who pursued the defeated loyalists south towards King's Landing, expecting to have to lay siege to the capital, only to find that the armies of House Lannister had [[Sack of King's Landing|already taken the city]] by treachery.
+
+In ''[[Fire & Blood]]'', an ancient prophecy is mentioned: "''When the hammer shall fall upon the dragon, a new king shall arise, and none shall stand before him''." The dragonseed Hugh Hammer arrogantly thought the prophecy was about him, but clearly it was about Robert, who killed Rhaegar with his war hammer and soon afterwards became king of Westeros, thus fulfilling the prophecy.
+
+While the battle between Robert and Rhaegar depicts them fighting each other on foot in several ''Histories & Lore'' shorts and in many fanarts, they've actually fought while on horseback.
+
+==Gallery==
+<gallery>
+HL5 RR Barristan Rhaegar heads to Trident.png|Rhaegar leads the Targaryen army to the Trident
+HL3 Riverlands Robert at Trident.png|Robert stands victorious
+File:Robert's Rebellion Tapestry.jpg|The Battle of the Trident, as depicted in tapestries of the Small Council. Robert and Rhaegar fight on horseback, rubies flinging into the stream.
+</gallery>
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Robert's Rebellion}}
+
+<!--Categories-->
+[[Category:281 AC]]
+[[Category:Battles|Trident]]
+[[Category:Robert's Rebellion]]
+
+<!--Languages-->
+[[de:Schlacht am Trident]]
+[[fr:Bataille du Trident]]
+[[it:Battaglia del Tridente]] 
+[[pl:Bitwa nad Tridentem]]
+[[ru:Битва на Трезубце]]
+[[zh:三叉戟河之役]]

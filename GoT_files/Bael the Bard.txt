@@ -1,0 +1,69 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Wildling
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = 
+| Titles      = [[King-Beyond-the-Wall]]{{Ref|GOT307}}
+| AKA         = 
+| Culture     = [[Free Folk]]{{Ref|GOT307}}
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Bael the Bard'''{{Con|ASOIAF}} was a [[King-Beyond-the-Wall]].
+
+==Biography==
+===Background===
+Bael once launched a failed attack against the [[Seven Kingdoms]].{{Ref|GOT307}}
+
+===[[Game of Thrones: Season 3|''Game of Thrones'': Season 3]]===
+[[Jon Snow]] tells [[Ygritte]] that six historical Kings-Beyond-the-Wall attempted to invade the lands south of the [[Wall]], and failed each time.{{Ref|GOT307}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the memory of Bael the Bard is preserved through songs and legends among the [[Free Folk|free folk]].
+
+According to one legend, Lord Brandon Stark called Bael a coward, and to prove his courage Bael climbed the Wall and infiltrated [[Winterfell]] under the alias "Sygerrik of [[Skagos]];" ''sygerrik'' means "deceiver" in the [[Old Tongue]]. He entered Lord Stark's court as a singer, impressing him enough to offer a reward. Bael asked only for the most beautiful flower blooming in Winterfell's gardens, and Brandon presented him with a blue winter rose. The next morning, Brandon's maiden daughter had gone missing, and the blue winter rose had been left on her bed.
+
+One day, Brandon's daughter was back in her room, holding an infant son in her arms. As it turned out, she was never taken from Winterfell, but was being hidden in the crypts. With the [[House Stark|Stark]] line on the verge of extinction, the [[bastard]] was [[Legitimization|legitimized]].
+
+Bael invaded the Seven Kingdoms thirty years later. He met his son, now Lord Stark, in battle on the Frozen Ford. Unable to bring himself to kill his own blood, he let himself be killed. Lord Stark brought Bael's head back to Winterfell as a trophy; upon seeing the head, Stark's mother, who had loved Bael, leapt from a tower to her death. The son was eventually killed by one of his lords (presumably a [[House Bolton|Bolton]]); according to [[Ygritte]], that was his punishment for [[Kinslaying|killing his father]], although he was unaware of their kinship.{{Bookref|ACOK|51}}
+
+When [[Mance Rayder]] infiltrates Winterfell to rescue [[Arya Stark]] (unbeknownst to him, really [[Jeyne Poole]]), he uses the alias "Abel," an anagram of "Bael."{{Bookref|ADWD|37}} He also previously infiltrated Winterfell as a musician during King [[Robert Baratheon|Robert]]'s visit there, emulating the legend of Bael (he did not go that far by trying to kidnap any of the current [[Eddard Stark|Lord Stark]]'s daughters, though).{{Bookref|ASOS|7}}
+
+==Appearances==
+*{{GOT|The Bear and the Maiden Fair}} {{Indirect}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Kings-Beyond-the-Wall}}
+
+<!--Categories-->
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Kings-Beyond-the-Wall]]
+[[Category:Legendary figures]]
+[[Category:Musicians]]

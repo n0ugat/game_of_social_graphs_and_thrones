@@ -1,0 +1,60 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Stub}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Westeros
+| Part          = the [[First Dornish War]]
+| Image         = Marching over Oldtown.png
+| Previous      = [[Defenestration of Sunspear]]
+| Concurrent    = 
+| Next          = [[Attack on Hellholt]]
+| Date          = 
+| Place         = [[Oldtown]], the [[Reach]]
+| Outcome       = Inconclusive
+| Factions1     = {{COA|House Dayne|small}} [[House Dayne]]
+| Factions2     = {{COA|House Hightower|link=House Hightower}} [[House Hightower]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = {{COA|House Dayne|inline}} [[Knighthood|Ser]] [[Joffrey Dayne]]
+| Leaders2      = Unknown
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = 
+| Participants2 = 
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = 
+| Casualties2   = 
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Quote|Joffrey Dayne, who answered Aegon the Conqueror's demand to submit by invading Aegon's Seven Kingdoms and marching an army to the gates of Oldtown, where Aegon had been crowned.|[[Eddard Stark]]|House Dayne (short)}}
+The '''assault on Oldtown''' was an offensive attack led by  [[Joffrey Dayne|Ser Joffrey Dayne]] against [[Oldtown]], the then largest city of the [[Seven Kingdoms]] in the framework of the [[First Dornish War]].
+
+==History==
+After the conclusion of [[Aegon's Conquest]], [[Aegon I Targaryen]] demanded an oath of allegiance in perpetuity from all the nobility of [[Westeros]]. [[Joffrey Dayne|Ser Joffrey Dayne]], who was the [[Sword of the Morning]] during that time, refused to bow to the Targaryen warlord. Armed with the ancestral sword of [[House Dayne]], [[Dawn]], he rode with his men to [[Oldtown]], where Aegon had been crowned at the [[Starry Sept]].<ref>"[[House Dayne (short)|House Dayne]]"</ref>
+
+==In the books==
+In 10 AC during the [[First Dornish War]],  in which King Aegon I Targaryen attempted to conquer [[Dorne]], Ser Joffrey marched an army to the walls of Oldtown. However, due to the high fortification of the walls, Joffrey and his army began razing the fields and villages that are outside the city. During the assault, Garmon Hightower, the youngest son of Lord Manfred Hightower, marched with a sortie to stop them, but was killed by Ser Joffrey.
+
+In response to Joffrey Dayne's attack on Oldtown, [[Visenya Targaryen]], atop her dragon [[Vhagar]], proceeded to burn down the castle of [[Starfall]], the ancestral seat of House Dayne.
+
+Unlike in the sixth season of the [https://gameofthrones.fandom.com/wiki/Histories_%26_Lore?so=search Histories and Lore] series, it was never mentioned in the novels that Ser Joffrey had wielded Dawn as a Sword of the Morning.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|First Dornish War#Full-out war}}
+
+<!--Navboxes-->
+{{Wars of Conquest}}
+
+<!--Categories-->
+[[Category:Battles]]
+[[Category:First Dornish War]]
+
+<!--Languages-->
+[[ru:Вторжение в Старомест]]

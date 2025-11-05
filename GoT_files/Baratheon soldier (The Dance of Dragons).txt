@@ -1,0 +1,61 @@
+{{DISPLAYTITLE:Baratheon soldier {{C|The Dance of Dragons}}}}
+{{Canonicity|Canon}}
+{{Character
+| Title       = Baratheon soldier
+| Type        = Baratheon
+| Image       = 5x10 Baratheon Soldier.png
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[House Baratheon of Dragonstone]]{{Ref|GOT509}}
+| Titles      = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 5|5]]
+| Appearances = 2 episodes {{Below|Appearances}}
+| First       = "[[The Dance of Dragons (episode)|The Dance of Dragons]]"
+| Last        = "[[Mother's Mercy]]"
+| DeathEp     = 
+| Actor       = [[Jason McLaughlin]]
+}}
+{{Dialogue a-b|Soldier|Your Grace.|Stannis Baratheon|Speak up. Can't be worse than mutiny.|The soldier informs Stannis Baratheon of Selyse's death.|Mother's Mercy}}
+A '''Baratheon soldier'''<ref>[https://assets.scriptslug.com/live/pdf/scripts/game-of-thrones-510-mothers-mercy-2015.pdf Ep 510 Mother's Mercy - D Benioff and D.B. Weiss]</ref> fought for King [[Stannis Baratheon]] in the [[War of the Five Kings]].
+
+==Biography==
+===Background===
+This soldier is loyal to [[House Baratheon of Dragonstone]], serving [[Stannis Baratheon]]'s army in his campaign to retake the [[North]] from [[House Bolton]].{{Ref|GOT509}}
+
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+[[File:Selyse Death.png|thumb|alt=|The soldier shows Stannis the body of Selyse.]]
+Following the burning of Stannis's daughter [[Shireen Baratheon|Shireen]], this soldier discovers that [[Selyse Baratheon]] hanged herself in anguish over her death. He reports this to Stannis, and leads him to his wife's corpse. Once there, Stannis orders this soldier to cut Selyse down.
+
+This soldier later participates in the [[battle in the ice]].{{Ref|GOT510}}
+
+==Appearances==
+*{{GOT|The Dance of Dragons}}
+*{{GOT|Mother's Mercy}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House Baratheon of Dragonstone}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Men-at-arms]]
+[[Category:Servants and retainers of House Baratheon of Dragonstone]]
+[[Category:Smallfolk]]
+[[Category:Westerosi]]
+
+<!--Languages-->
+[[ru:Солдат Баратеонов (Танец драконов)]]

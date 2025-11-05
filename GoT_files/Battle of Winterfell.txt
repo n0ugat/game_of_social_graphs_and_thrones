@@ -1,0 +1,139 @@
+{{Canonicity|Canon}}
+{{OtherUses|Night King's attack on Winterfell|Battle of Winterfell (disambiguation)}}
+{{Event
+| Title         = Battle of Winterfell
+| Type          = Thrones
+| Part          = the [[Great War]]
+| Image         = Jaime & Brienne S8 Ep3.jpg
+| Previous      = [[Fall of Last Hearth]]
+| Concurrent    = 
+| Next          = [[Retaking of the Iron Islands]]
+| Date          = [[305 AC]]{{Dateref|Game of Thrones: Season 8}}
+| Place         = [[Winterfell]], the [[North]]
+| Outcome       = '''Decisive victory for the living'''
+*Death of the [[Night King]]
+*Extinction of the [[White Walkers]] and the [[wight]]s
+*Extinction of Houses [[House Karstark|Karstark]] and [[House Mormont|Mormont]]
+*The [[Last War]] is resumed
+| Factions1     = {{COA|House Stark|small}} [[House Stark]]<br>{{COA|House Karstark|small}} [[House Karstark]] †<br>{{COA|House Mormont|small}} [[House Mormont]] †<br>{{COA|House Hornwood|small}} [[House Hornwood]]<br>Other houses of the [[North]]<br>{{COA|House Targaryen|small}} [[House Targaryen]]<br>{{COA|House Arryn|small}} [[House Arryn]]<br>{{COA|House Royce|small}} [[House Royce]]<br>{{COA|House Greyjoy|small}} [[House Greyjoy]]<br><small>([[Yara Greyjoy|Yara]]'s faction)</small><br>{{COA|Night's Watch|small}} [[Night's Watch]]<br>[[Free Folk]]<br>[[Brotherhood Without Banners]]
+| Factions2     = [[White Walkers]] †<br>[[Wight|Army of the Dead]] †
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = {{COA|House Targaryen|inline}} [[King of the Andals and the Rhoynar and the First Men|Queen]] [[Daenerys Targaryen]]<br>[[Jon Snow]]<br>{{COA|House Stark|inline}} [[Lord of Winterfell|Lady]] [[Sansa Stark]]<br>{{COA|House Greyjoy|inline}} [[Prince]] [[Theon Greyjoy]] †<br>{{COA|House Mormont|inline}} [[Knighthood|Ser]] [[Jorah Mormont]] †<br>{{COA|House Lannister|inline}} [[Hand of the King|Lord]] [[Tyrion Lannister]]<br>[[Grey Worm]]<br>{{COA|House Lannister|inline}} [[Knighthood|Ser]] [[Jaime Lannister]]<br>{{COA|House Dondarrion|inline}} [[Lord of Blackhaven|Lord]] [[Beric Dondarrion]] †<br>[[Tormund]]<br>{{COA|House Mormont|inline}} [[Lord of Bear Island|Lady]] [[Lyanna Mormont]] †<br>{{COA|House Karstark|inline}} [[Lord of Karhold|Lady]] [[Alys Karstark]] †<br>{{COA|House Royce|inline}} [[Lord of Runestone|Lord]] [[Yohn Royce]]<br>{{COA|Night's Watch|inline}} [[Lord Commander of the Night's Watch|Lord Commander]] [[Eddison Tollett]] †<br>{{COA|House Tarth|inline}} [[Knighthood|Ser]] [[Brienne of Tarth]]
+| Leaders2      = [[Night King]] †<br>White Walker lieutenants †
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = *~128,000 manpower
+**~10,000 [[Northmen|Northern]] [[Man-at-arms|infantry]] and archers 
+**1 [[direwolf]] 
+**>8,000 [[Unsullied]] heavy infantry 
+**~100,000 [[Dothraki]] light cavalry
+**2 [[dragon]]s: [[Drogon]] and [[Rhaegal]] 
+**10,000 [[House Arryn#Military|knights of the Vale]] 
+**1 [[Melisandre|Red Priestess]]
+**[[Ironborn]] sailors and warriors loyal to Yara and Theon 
+**Remaining manpower of the [[Night's Watch]], [[Free Folk]], and [[Brotherhood Without Banners]]
+| Participants2 = *100,000+ manpower
+**12 White Walkers
+**~100,000 wights
+**At least 3 undead giants
+**1 [[Viserion|undead dragon]]
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = '''Heavy'''
+*~64,000 military casualties
+**~50,000 Dothraki warriors
+**~5,000 Northmen infantry
+**~5,000 Arryn infantry 
+**~4,000 Unsullied
+**All Ironborn forces
+**Presumed heavy losses for Free Folk, Night's Watch, and Brotherhood Without Banners
+**Ser Jorah Mormont
+**[[Qhono]]
+**Lady Lyanna Mormont
+**Lady Alys Karstark
+**Prince Theon Greyjoy
+**Lord Commander Eddison Tollett
+**Lord Beric Dondarrion
+**[[Melisandre]]
+**[[Drogon]] and [[Rhaegal]] injured
+| Casualties2   = '''Total'''
+*Night King
+*All White Walkers and wights destroyed
+*Viserion
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = Heavy
+}}
+{{Quote|They're coming. We have dragonglass and Valyrian steel. But there are too many of them. Far too many. Our enemy doesn't tire, doesn't stop, doesn't feel. We can't beat them in a straight fight.|[[Jon Snow]]|A Knight of the Seven Kingdoms (Game of Thrones)}}
+The '''Battle of Winterfell'''<ref>''[[Game of Thrones: Season 8 (Music from the HBO Series)]]''</ref> is the final battle of the [[Great War]] between an alliance of living armies, including the forces of the [[House Stark|Starks]], [[House Arryn|Arryns]], and [[House Targaryen|Targaryens]], against the [[Wight|Army of the Dead]] led by the [[White Walkers]]. The battle takes place at [[Winterfell]], the seat of House Stark and regional capital of the [[North]].
+
+== History ==
+=== Prelude ===
+[[Jon Snow]], [[King in the North]], prepared the North for the White Walkers, who rose again after thousands of years during his time in the [[Night's Watch]]. He negotiated with [[Daenerys Targaryen]] during the [[Last War]], eventually cultivating an ally in her. Daenerys's [[Hand of the King|Hand]], [[Tyrion Lannister]], came up with a plan to [[Wight hunt|capture a wight]] so they could convince Queen [[Cersei Lannister]] to agree to a truce during the Great War. Cersei held the [[Iron Throne]] after the [[War of the Five Kings]] and agreed to a [[parley]] in [[King's Landing]]. In accordance with the plan, Jon and a team ventured [[beyond the Wall]] to capture a wight. The mission nearly failed but Daenerys, atop Drogon, rescued [[Jorah Mormont]], [[Tormund]], [[Beric Dondarrion]], and [[Sandor Clegane]], while Jon fought off wights to allow Daenerys and the others to flee. However, the [[Night King]] managed to kill one of her dragons, [[Viserion]], during the rescue mission. 
+
+The [[Captured wight|wight]] was presented by Jon, Daenerys, and their followers at the [[Dragonpit Summit]] before Cersei, [[Euron Greyjoy]], and their entourage. While Euron declared he would retreat to the [[Iron Islands]], Cersei agreed to a truce, and later further agreed to send her armies north to assist in the [[Great War]] after negotiating with her brother Tyrion.<ref name="E67">"[[The Dragon and the Wolf]]"</ref>
+
+After Jon and Daenerys began sailing back to the North following the parley, Cersei revealed to her brother [[Jaime Lannister|Jaime]] that she and Euron Greyjoy plotted to betray the truce that they agreed to, and that Euron was ferrying the [[Golden Company]] from [[Essos]] to Westeros on the [[Iron Fleet]] in order to help the [[House Lannister|Lannisters]] reconquer the [[Seven Kingdoms]]. Seeking to uphold the vow he made at the parley, Jaime abandoned his sister in King's Landing and rode north alone to help in the Great War against the White Walkers and the army of the dead.<ref name="E67" /> Upon arriving at Winterfell, Jaime was put on trial for [[Sack of King's Landing|his]] [[Skirmish at Littlefinger's brothel|actions]] [[Battle of Whispering Wood|against]] Houses Targaryen and Stark, but was ultimately allowed to stay in Winterfell while Winterfell prepared for the army of the dead.<ref name="E69">"[[A Knight of the Seven Kingdoms (Game of Thrones)|A Knight of the Seven Kingdoms]]"</ref>
+
+Meanwhile, after [[Rescue of Yara Greyjoy|rescuing]] his sister [[Yara Greyjoy|Yara]] from their uncle Euron, [[Theon Greyjoy]] set sail to Winterfell with some [[Ironborn]] warriors. Meanwhile, Yara and the rest of their followers sailed to the Iron Islands to take them back from Euron in Daenerys's name, allowing the living to retreat to the Iron Islands should Winterfell fall.<ref name="E68">"[[Winterfell (Game of Thrones)|Winterfell]]"</ref> Theon and the Ironborn were also allowed to stay at Winterfell to participate in the great battle.<ref name="E69" />
+
+[[File:802 Winterfell Battle Plan.png|thumb|left|The living's plan to defend Winterfell.]]
+Elsewhere, the Night King [[Breaching of the Wall|breached]] the Wall with a reanimated Viserion,<ref name="E66">"[[Beyond the Wall (episode)|Beyond the Wall]]"</ref> nullifying its [[magic]] and allowing the White Walkers and the army of the dead to cross into the realms of men, heading first towards the North.<ref name="E67" /> The White Walkers first [[Fall of Last Hearth|attack Last Hearth]], the seat of [[House Umber]]. The residents of Last Hearth were killed, including Lord [[Ned Umber]], who was unable to escape before the army of the dead arrived. By the time Tormund, Beric Dondarrion, and acting [[Lord Commander of the Night's Watch|Lord Commander]] [[Eddison Tollett]] arrived at Last Hearth with the other survivors of the fall of the Wall, the castle had been abandoned, indicating that the White Walkers and the army of the dead were getting close to Winterfell.<ref name="E68" /> Tormund, Beric, and Edd, alongside the some of the surviving [[Free Folk]], members of the [[Brotherhood Without Banners]], and members of the Night's Watch, reached Winterfell before the army of the dead did. They warned Jon that the White Walkers would be there within the night.<ref name="E69" />
+
+=== The battle ===
+As the Dothraki prepare to charge against the wights, [[Jorah Mormont]] notices [[Melisandre]] approaching from the dark. Melisandre asks the Dothraki to raise their weapons and, with the help of Valyrian chants, lights their weapons on fire to fight against the army of the dead.
+
+[[File:Melionfire.png|thumb|left|Melisandre lighting up the Dothraki weapons.]]
+The Dothraki charge with their flaming [[arakh]]s led by Jorah and [[Ghost]]. At the same time, catapults and trebuchets launch a flaming barrage onto the undead army. However, as the Dothraki horde fades into the dark, all the flames vanish; only a few Dothraki, Jorah and Ghost manage to escape and flee to Winterfell.
+
+[[File:Ghostcharging.png|thumb|left|Ghost charging towards the dead.]]
+After the failed cavalry charge, the wights surge forth, first colliding with the armies of the living. Daenerys and Jon fly over the battlefield on Drogon and Rhaegal, and burn many of the wights with dragonfire to aid the retreat. However, the Night King conjures a blizzard, causing the dragons and their riders to become lost and cutting off any further support for the defenders on the battlefield. Jon and Daenerys struggle to find one another in the stormy skies and reunite above the clouds, but the Night King finds them. He attacks, but Daenerys and Jon manage to evade it, and the Night King makes his way to Winterfell. On the ground, Eddison Tollett is killed after saving Sam. The sheer number of wights causes the defenders, with the exception of a number of Unsullied covering the retreat, to pull back into Winterfell, so that the protective trench filled with heavy wooden spikes can be ignited.
+
+[[File:Edddied.png|thumb|left|Eddison Tollett killed by a wight.]]
+[[Davos Seaworth]] tries to signal Daenerys to light the trench. However, Daenerys and Drogon cannot see the signal through the storm. In an attempt to ignite the trench, archers shoot flaming arrows into it, but to no avail. The extreme cold and the wind extinguish the arrows. Men are sent out to ignite it with torches, but are attacked by wights. A group of Unsullied then escorts Melisandre towards the trench. After a few failed attempts, she ignites it, buying the living a few moments' reprieve.
+
+At the Night King's command, individual wights fall into the flaming trench, building up enough bodies to smother the flames and allow the other wights to cross. The wights climb over one another to scale the walls, and the defenders fight them on the ramparts and within the walls. An undead giant smashes through the gate, allowing more wights to enter, and inflicts heavy casualties before being killed by [[Lyanna Mormont]], who stabs it in the eye with a dragonglass blade. However, she is fatally crushed in the undead giant's grasp. The wights breach the castle's interior, and Beric Dondarrion is slain for the final time while rescuing [[Arya Stark]] and the Hound.
+
+In the skies, the Night King rides the undead Viserion and makes to attack the castle. Jon, riding Rhaegal, engages the Night King in battle. For the first time since the [[Dance of the Dragons]], dragons fight one another. Rhaegal and Viserion clash in the air, both taking heavy injuries. The Night King is unseated from Viserion when Daenerys, atop Drogon, tackles him. Rhaegal is forced to land, being too injured to remain airborne while Jon falls off Rhaegal. Daenerys locates the Night King and tries to kill him with dragonfire. To her shock and horror, he is unaffected by the flames. Daenerys and Drogon retreat, narrowly avoiding being hit by an ice spear thrown by the Night King.
+
+Seeing the Night King alone on the battlefield, Jon charges him, hoping to end the battle quickly. However, realizing Jon's presence, the Night King reanimates everyone who has died in the fighting, as well as the long-dead Starks in the crypts beneath the castle. While Jon contends with the newly risen wights, the Night King goes to the [[godswood]] with the rest of the White Walkers to kill Bran, who is positioning himself as a lure for the Night King so that he can be ambushed and killed. Daenerys returns with Drogon, and burns the wights surrounding Jon so Jon can pursue the Night King. After Jon's departure, Drogon stays grounded a moment too long and wights swarm him. When Drogon takes off to shake off the wights, Daenerys is thrown from his back. Jorah arrives in time to save Daenerys, and the two fend off the wights on the battlefield.
+
+In Winterfell, Jon fights his way through the castle until he encounters Viserion, who is wreaking havoc in the courtyard, blue flames pouring from the wounds he has sustained. Jon struggles to get past Viserion, but is pinned down by the dragon's blue flame.
+
+In the godswood, Theon, with a group of Ironborn and remaining Karstark soldiers ([[Alys Karstark]] and a group of Karstark soldiers were killed patrolling the godswood) manage to hold off the wights and defend Bran. Eventually, only Theon is left standing. Wights surround him and Bran, as the Night King arrives with the White Walkers. Theon makes a desperate effort to kill the Night King, charging with a long spear, but the latter breaks the weapon and uses it to impale and kill Theon. The Night King then approaches the defenseless Bran. Arya slips past the White Walkers and attacks the Night King with a [[Valyrian steel dagger]]. The Night King grabs her mid-air, stopping her attack. Arya drops her dagger from the arm he was restraining, catches it in her free right hand and plunges it into his chest, causing him to shatter into icy shards. With his death, the White Walkers shatter, and the horde of wights and Viserion drop dead. The magic animating them has died with the Night King and his lieutenants, bringing an end to the White Walkers and the Long Night forever.<ref name="E70">"[[The Long Night]]"</ref>
+
+=== Aftermath ===
+{{Quote|We have won the Great War. Now we will win the last war.|[[Daenerys Targaryen]]|The Last of the Starks}}A cremation is held for those who fell in battle, including Jorah, Theon, Eddison Tollet, Lyanna Mormont, and Beric.
+
+Later, Daenerys addresses a gathering of surviving Northern and [[Vale of Arryn|Vale]] lords and knights in Winterfell, declaring that while the living have won the Great War, they now have to win the last war.<ref name="E71">"[[The Last of the Starks]]"</ref>
+
+The battle was ultimately a victory for the North and the living as a whole. With the Night King and the White Walkers dead, the threat they posed is ended forever and the Seven Kingdoms no longer need to fear them. However, the battle was still very costly to the defenders: the charge of the Dothraki resulted in the horde being almost entirely obliterated, with a few stragglers barely escaping, and the Unsullied took heavy casualties during the fighting, removing much of Daenerys's army and affecting the future of her conquest of Westeros. One of her most experienced commanders and dearest friends, Jorah, also perished in the final stages of the battle, who Daenerys mourns at the cremation. On the other hand, most of her council survived, including Grey Worm, who commands the Unsullied, and she still maintains command over the surviving Unsullied and two remaining dragons, who survived their injuries during the fight. The battle leaves Rhaegal greatly injured, making him an easier target for Euron to kill.
+
+The battle was also costly for the Northerners, both in terms of manpower and culture. Half of the North's forces perished in the battle. With the deaths of Jorah and Lyanna, House Mormont, one of the oldest and most loyal northern houses, has been rendered extinct, leaving their seat of [[Bear Island]] without a ruling lord and House Stark without one of its most loyal and dependable retainers. [[House Karstark]] has also been rendered extinct as its ruling lord, Alys, was confirmed to have died in battle; this marks the end to another ancient house, and a relation of House Stark as well. House Stark's ancient seat of Winterfell, their castle and regional capital of the North, also took heavy damage in the course of the battle, putting it in an uncertain situation for riding out the remainder of winter.
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, an equivalent battle has not occurred. The TV show has surpassed the timeline of the books, so it is unclear if such a battle will occur. It is also unknown if the Others (the name of the White Walkers in the books) will share a similar, if not the same, fate as their counterparts do in the [[Game of Thrones|TV series]].
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{Great War}}
+
+<!--Categories-->
+[[Category:305 AC]]
+[[Category:Battles|Winterfell]]
+[[Category:Great War]]
+
+<!--Languages-->
+[[de:Dritte Schlacht von Winterfell]]
+[[es:Batalla de Invernalia (serie)]]
+[[fr:Grande Bataille de Winterfell]]
+[[it:Battaglia di Grande Inverno (Grande Guerra)]]
+[[pl:Bitwa lodu i ognia]]
+[[ru:Великая битва за Винтерфелл]]
+[[vi:Trận chiến của Băng và Lửa]]

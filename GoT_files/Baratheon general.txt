@@ -1,0 +1,63 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Baratheon
+| Image       = Baratheon General.png
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[House Baratheon of Dragonstone]]{{Ref|GOT509}}
+| Titles      = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 5|5]]
+| Appearances = 2 episodes {{Below|Appearances}}
+| First       = "[[The Dance of Dragons (episode)|The Dance of Dragons]]"
+| Last        = "[[Mother's Mercy]]"
+| DeathEp     = "Mother's Mercy"
+| Actor       = [[Nigel O'Neill]]
+}}
+{{Quote|There's not going to be a siege, Your Grace.|The general to Stannis Baratheon|Mother's Mercy}}
+A '''Baratheon general'''<ref>[https://assets.scriptslug.com/live/pdf/scripts/game-of-thrones-510-mothers-mercy-2015.pdf Ep 510 Mother's Mercy - D Benioff and D.B. Weiss]</ref> was a general who served [[House Baratheon of Dragonstone]].
+
+==Biography==
+===Background===
+He is a general loyal to [[House Baratheon of Dragonstone]], serving at [[Stannis Baratheon]]'s army in his campaign to retake the [[North]] from [[House Bolton]].{{Ref|GOT509}}
+
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+Following [[Ramsay Bolton]]'s attack on the camp, Stannis orders the general to put the guards who were on watch duty in chains and question them to find out if they fell asleep or conspired with the enemy, and then hang them. He is later present during [[Shireen Baratheon|Shireen]]'s sacrifice. He looks visibly distressed as he watches her burn alive.{{Ref|GOT509}}
+
+Later, he informs Stannis that nearly half of his army has deserted him, including all the [[Mercenary|sellswords]] and horses. He stands behind Stannis as they discover [[Selyse Baratheon|Selyse]]'s swaying corpse beneath a tree where she hanged herself. The general then tells Stannis that [[Melisandre]] was just seen riding out of camp. Stannis then orders him to get the men into marching formation.{{Ref|GOT510}}
+
+As the army approaches [[Winterfell]], they are surprised and [[Battle in the ice|attacked]] by a large force of Bolton cavalry.{{Ref|GOT510}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the main generals remaining with [[Stannis Baratheon]] after he moves his remaining forces to the [[Wall]] are Ser Richard Horpe, Ser Godry Farring, and Ser Justin Massey.
+
+==Appearances==
+*{{GOT|The Dance of Dragons}}
+*{{GOT|Mother's Mercy}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House Baratheon of Dragonstone}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Men-at-arms]]
+[[Category:Servants and retainers of House Baratheon of Dragonstone]]
+[[Category:Westerosi]]
+
+<!--Languages-->
+[[ru:Генерал Баратеонов]]

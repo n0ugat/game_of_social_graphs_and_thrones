@@ -1,0 +1,67 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Westeros
+| Part          = the [[First Dornish War]]
+| Image         = Attempt of Assassination of Aegon I.png
+| Previous      = [[Dragon's Wroth]]
+| Concurrent    = 
+| Next          = 
+| Date          = 
+| Place         = [[King's Landing]], the [[Crownlands]]
+| Outcome       = Tactical [[House Targaryen|Targaryen]] victory
+*King [[Aegon I Targaryen]] and Queen [[Visenya Targaryen]] survive the attack
+*The [[Kingsguard]] is subsequently established
+Strategic [[House Martell|Dornish]] victory
+*Aegon I and [[Dorne]] agree to a peace deal
+*End of the [[First Dornish War]]
+| Factions1     = [[File:House Martell.svg|25px|center|link=House Martell]] '''[[Dorne]]'''<br><small>([[House Martell]])</small><br><small>(clandestinely)</small>
+| Factions2     = [[File:House Targaryen.svg|30px|center|link=House Targaryen]] '''[[Iron Throne]]'''<br><small>([[House Targaryen]])</small>
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = {{COA|House Martell|i}} [[Prince of Dorne|Princess]] [[Meria Martell]]<br><small>(orchestrator)</small>
+| Leaders2      = {{COA|House Targaryen|i}} [[King of the Andals and the Rhoynar and the First Men|King]] [[Aegon I Targaryen]]
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = [[Dorne|Dornish]] [[assassin]]s
+| Participants2 = {{COA|House Targaryen|i}} [[King|Queen]] [[Visenya Targaryen]]
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = All of the assassins
+| Casualties2   = None
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Quote|When Aegon returned to King's Landing, he found assassins waiting for him in the streets of his own capital. If not for Visenya, the Conqueror would not have enjoyed his conquest for very long.|[[Varys]]|House Martell, Princes of Dorne}}
+The '''attempted assassination of Aegon I Targaryen''' was the final event of the [[First Dornish War]]. It was an attack orchestrated by [[Dorne]] and [[House Martell]] to [[Assassin|assassinate]] [[Aegon I Targaryen]] and definitively end the conflict.<ref>"[[House Martell, Princes of Dorne]]"</ref>
+
+==History==
+===Prelude===
+Late in the [[First Dornish War]], Queen [[Rhaenys Targaryen (sister of Aegon I)|Rhaenys Targaryen]] was slain alongside her dragon mount, [[Meraxes]], during an [[Attack on Hellholt|assault]] Rhaenys personally led on [[Hellholt]]. Her death deeply enraged her siblings, King [[Aegon I Targaryen]] and Queen [[Visenya Targaryen]], who subsequently flew to [[Dorne]] atop their dragons, [[Balerion]] and [[Vhagar]]. There, the two launched a [[Dragon's Wroth|genocidal campaign]] against the Dornish people, destroying every castle and city in the region with the exception of [[Sunspear]], Dorne's capital and the seat of [[House Martell]]. Aegon and Visenya hoped the mass destruction would break the Dornish people's will to fight and revolt against [[Prince of Dorne|Princess]] [[Meria Martell]] to bring an end to the conflict. The Targaryen monarchs, however, were shocked to find the Dornish remaining defiant and continuing to be loyal to the Martells. With their campaign having failed, Aegon I and Visenya returned to [[King's Landing]] and evacuated their forces from Dorne.<ref>"[[House Martell, Princes of Dorne]]"</ref>
+
+===Attack===
+After the [[Dragon's Wroth]], the [[Dornishmen]] sought revenge on [[House Targaryen]] for the mass destruction and loss of life the Targaryens inflicted on Dorne. When Aegon I and Visenya returned to King's Landing following the failure of their campaign, they were attacked by assassins sent by Dorne on the streets of capital. Aegon himself was almost killed in the confrontation were it not for Visenya's timely intervention, and all of the assasins were killed.<ref>"[[House Martell, Princes of Dorne]]"</ref>
+
+===Aftermath===
+Feeling threatened, Aegon bolstered his security, forming a group of his most loyal and skilled men, the [[Kingsguard]], to serve as his and the royal family's personal bodyguards. Following the attack, Meria Martell passed away in her sleep, leading her exhausted son's to sue for peace. Aegon I, also exhausted from the conflict, acceded to the peace deal, ending the First Dornish War with Dorne victorious and their independence secured.<ref>"[[House Martell, Princes of Dorne]]"</ref>
+
+==In the books==
+According to ''The World of Ice & Fire'', after the Dragon's Wroth, Aegon the Conqueror and his sister-wife Visenya placed bounties on the heads of Dornish lords, who retaliated by also placing bounties on the Targaryens and their allies. Half a dozen Dornish lords were successfully assassinated, though only two of their killers ever lived to collect their bounties. King Aegon was attacked on three occasions, and Visenya was attacked on several occasions as well. One day, when the two were assaulted on the streets of King's Landing, only Visenya's swift intervention saved her brother's life. This attack led to the creation of the elite royal bodyguard known as the Kingsguard in 10 AC, with each member being solely chosen by Visenya herself, who modeled their vows on those of the Night's Watch. Lord Fell was killed in a brothel in King's Landing, while the savage Wyl of [[Wyl]] committed various atrocities, particularly in Fawnton and [[Old Oak]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|First Dornish War#The Dragon's Wroth}}
+
+<!--Navboxes-->
+{{Wars of Conquest}}
+
+<!--Categories-->
+[[Category:Assassinations]]
+[[Category:First Dornish War]]
+
+<!--Languages-->
+[[ru:Покушение на Эйгона I]]

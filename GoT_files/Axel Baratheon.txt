@@ -1,0 +1,89 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Baratheon.svg
+| Link  = House Baratheon
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Baratheon
+| Image       = House Baratheon lineage.jpg
+| Birth       = [[2 AC]]{{Dateref|Axel Baratheon}}<br>[[Storm's End]], the [[Stormlands]]{{Notes|Lineages}}
+| Death       = [[44 AC]]{{Dateref|Axel Baratheon death}} (aged 42)<br>[[Gallowsgrey]], the Stormlands{{Notes|Lineages}}
+| House       = [[House Baratheon|Baratheon]]{{Ref|GOT106}}
+| Affiliation = [[House Targaryen]]{{Notes|Lineages}}
+| Titles      = [[Lord of Storm's End]]{{Notes|Lineages}}<br>[[Lord Paramount of the Stormlands]]{{Notes|Lineages}}
+| AKA         = 
+| Culture     = [[Stormlands|Stormlander]]{{Ref|GOT106}}
+| Religion    = 
+| Father      = {[[Orys Baratheon]]}{{Ref|GOT106}}
+| Mother      = {[[Argella Baratheon|Argella Durrandon]]}{{Ref|GOT106}}
+| Spouse      = {[[Alanna Penrose]]}{{Notes|Lineages}}
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Axel Baratheon, first of his name, born to Lord Orys Baratheon and Lady Argalia{{Sic|Argella}} Baratheon, she that was daughter of Argilac the Arrogant, last of the Storm Kings, in the 2nd year after Aegon's Landing. Brown of eye, black of hair, strong of bone and sinew. Wed to Lady Alanna, of House Penrose, in the 20th year after Aegon's Landing.|Excerpt from ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]''|A Golden Crown}}
+'''Axel Baratheon''' was a son of [[Orys Baratheon|Orys]] and [[Argella Baratheon]].
+
+==Biography==
+===Background===
+Axel Baratheon is an early member of [[House Baratheon]], being the firstborn son of [[Orys Baratheon]].{{Ref|GOT106}} He married [[Alanna Penrose]] at roughly the age of 18. He was killed at the age of 42 at [[Gallowsgrey]] in a duel with [[Steffon Trant]], who had dishonored his wife.{{Notes|Lineages}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+He has an entry in ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]'', which notes the fact that he, along with all of his ancestors and descendants were born "black of hair".{{Ref|GOT106}}
+
+==Family==
+===Paternal===
+{{Targaryen tree (Aegon's Conquest)}}
+
+===Maternal===
+{{Durrandon tree}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no such character. The only character whose first name is Axel is [[Axel Tully]], the first [[Lord of Riverrun]].
+
+==Appearances==
+*{{GOT|A Golden Crown}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Succession box-->
+{{S-start}}
+{{Succession box
+ | title  = [[Lord of Storm's End]] and [[Lord Paramount of the Stormlands]]
+ | years  = ? - [[44 AC]]
+ | with   = 
+ | before = [[Orys Baratheon]]
+ | after  = [[Serac Baratheon]]
+}}
+{{S-end}}
+
+<!--Navboxes-->
+{{House Baratheon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Baratheon, Axel}}
+[[Category:Bannermen of House Targaryen]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Lords of Storm's End|Axel Baratheon]]
+[[Category:Lords Paramount of the Stormlands|Axel Baratheon]]
+[[Category:Members of House Baratheon|Axel Baratheon]]
+[[Category:Stormlanders]]
+
+<!--Languages-->
+[[de:Axel Baratheon]]
+[[es:Axel Baratheon]]
+[[fr:Axel Baratheon]]
+[[ru:Аксель Баратеон]]

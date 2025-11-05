@@ -1,0 +1,33 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Westeros
+| Image        = 
+| Type         = Town<br>Pirate den
+| Status       = 
+| Location     = [[Basilisk Isles]], [[Sothoryos]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = 
+| Places       = 
+| Founded      = by pirates
+}}
+'''Barter Beach'''{{Ref|H&L603}} is a major pirate den in the [[Basilisk Isles]], off the north coast of [[Sothoryos]].
+
+==In the books==
+Barter Beach is specifically stated to be located on Talon island. All other pirate towns in the Basilisk Isles are by transient and mobile: for example, [[Port Plunder]] gets destroyed once every generation by fleets from the Free Cities on anti-pirate campaigns, but within a year a new settlement will be built and named "Port Plunder" to replace it - often not even on the same island in the chain. From its description, however, Barter Beach is literally a shoreline on Talon island. It is possible this means that it is not so much a town or settlement as a large beach with good anchorage where pirate ships can be brought aground to unload their wares and trade.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Sothoryos}}
+
+<!--Categories-->
+[[Category:Basilisk Isles]]
+[[Category:Settlements]]

@@ -1,0 +1,71 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Westeros
+| Part          = 
+| Image         = GodsEyeBattle.jpg
+| Previous      = [[Vulture Hunt]]
+| Concurrent    = [[Faith Militant uprising]]
+| Next          = [[Jaehaerys Targaryen's uprising]]
+| Date          = 
+| Place         = Beneath the [[Gods Eye]], the [[Riverlands]]
+| Outcome       = Victory for King Maegor
+*Death of [[Aegon Targaryen (son of Aenys)|Prince Aegon]] and [[Quicksilver]]
+| Factions1     = [[File:House Targaryen.svg|30px|center|link=House Targaryen]] '''[[Iron Throne]]'''<br><small>([[House Targaryen]] under [[Maegor Targaryen|Maegor]])</small>
+| Factions2     = [[File:House Targaryen.svg|30px|center|link=House Targaryen]] '''Rebels'''<br><small>([[House Targaryen]] under [[Aegon Targaryen (son of Aenys)|Aegon]])</small><br><br>[[Westerlands]] houses
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = [[King of the Andals and the Rhoynar and the First Men|King]] [[Maegor Targaryen]]
+| Leaders2      = [[Prince of Dragonstone|Prince]] [[Aegon Targaryen (son of Aenys)|Aegon Targaryen]]
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = *1 [[dragon]]
+**[[Balerion]]
+*Bannermen
+| Participants2 = *1 [[dragon]]
+**[[Quicksilver]]
+*Host of [[Westerlands|Westermen]]
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = Unknown
+| Casualties2   = *Prince Aegon Targaryen
+*Quicksilver
+*Army deserted
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Quote|For the first time since the Doom of Valyria, dragon fought dragon in the sky. But Aegon's dragon was no match for Balerion the Dread, who was four times its size. When Aegon fell to his death, his army broke and fled. For slaying his own nephew, Maegor forever after became known as "the Cruel".|[[Varys]]|Maegor the Cruel (short)}}
+The '''Battle Beneath the Gods Eye'''{{Con|TWOI&F}} took place beneath the [[Gods Eye]] between the forces of King [[Maegor Targaryen]] and [[Aegon Targaryen (son of Aenys)|Aegon Targaryen]], [[Prince of Dragonstone]].<ref name="Maegor">"[[Maegor the Cruel (short)|Maegor the Cruel]]"</ref>
+
+==History==
+===Prelude===
+When King [[Aenys Targaryen]] died at [[Dragonstone]], the [[exile]]d Prince Maegor was quick to return to [[Westeros]] and take the [[Iron Throne]]. Prince Aegon Targaryen, firstborn son of Aenys, had previously been named Prince of Dragonstone and heir to the throne. Early into his uncle's reign, Aegon raised an army of [[Westerlands|westermen]] and marched on [[King's Landing]] while Maegor was in [[Oldtown]].<ref name="Maegor"/>
+
+===Battle===
+Before Aegon's forces could reach the capital, Maegor ordered his bannermen to swarm his nephew's army from all sides. As the forces of the Iron Throne came down on the rebel army, Maegor flew the [[dragon]] [[Balerion]] into battle. Prince Aegon, on his own dragon [[Quicksilver]], was no match against Maegor. Balerion slew Quicksilver, and Aegon fell to his death. This crippled the morale of the rebel army, who broke and deserted.<ref name="Maegor"/>
+
+===Aftermath===
+King Maegor became known as "Maegor the Cruel" for killing his own nephew. Maegor ruled the [[Seven Kingdoms]] with an iron fist, and the [[Faith Militant uprising]] raged on.<ref name="Maegor"/>
+
+==In the books==
+In ''Fire & Blood'', Aegon's army included Houses Charlton, [[House Connington|Connington]], [[House Corbray|Corbray]], [[House Dustin|Dustin]], Farman, [[House Frey|Frey]], Paege, Parren, Piper, Roote, [[House Smallwood|Smallwood]], [[House Tarbeck|Tarbeck]], Vance, and [[House Westerling|Westerling]]. It was around 15,000 strong. Maegor's army included Houses Caswell, [[House Harroway|Harroway]], [[House Merryweather|Merryweather]], Peake, and [[House Tully|Tully]], numbering around 5,000 men. Aegon lost around 2,000 men including Lords Tarbeck, Piper, Vance, and Farman, whereas Maegor lost 100 including Ser Davos Darklyn.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Faith Militant uprising}}
+
+<!--Categories-->
+[[Category:Battles|Gods Eye]]
+
+<!--Languages-->
+[[ru:Битва при Божьем Оке]]

@@ -1,0 +1,117 @@
+{{Canonicity|Canon}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Thrones
+| Part          = the [[War of the Five Kings]]
+| Image         = Jaime captured.png
+| Previous      = [[Battle on the Green Fork]]
+| Concurrent    = [[Siege of Riverrun]]
+| Next          = [[Battle of the Camps]]
+| Date          = [[298 AC]]{{Dateref|Game of Thrones: Season 1}}
+| Place         = [[Whispering Wood]], near [[Riverrun]] in the [[Riverlands]]
+| Outcome       = Decisive [[House Stark|Stark]] victory<br>[[Jaime Lannister]] captured
+| Factions1     = '''Robb Stark’s Host:''' <br><br>
+[[File:House Stark.svg|30px|center|link=House Stark]] [[House Stark]]<br><br>[[File:House Karstark.svg|25px|center|link=House Karstark]] [[House Karstark]]<br><br>[[File:House Umber.svg|25px|center|link=House Umber]] [[House Umber]]<br><br>[[File:House Mormont.svg|25px|center|link=House Mormont]] [[House Mormont]]<br><br>[[File:House Frey.svg|25px|center|link=House Frey]] [[House Frey]]<br><br>[[File:House Tully.svg|30px|center|link=House Tully]] [[House Tully]]
+| Factions2     = [[File:House Baratheon of King's Landing.svg|30px|center|link=House Baratheon of King's Landing]] '''[[Iron Throne]]'''/[[House Baratheon of King's Landing]]<br><br> [[File:House Lannister.svg|30px|center|link=House Lannister]] [[House Lannister]]<br><br>
+[[File:House Swyft.svg|25px|center|link=House Swyft]] [[House Swyft]]<br><br>
+[[File:House Lefford.svg|25px|center|link=House Lefford]] [[House Lefford]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = [[Lord of Winterfell|Lord]] [[Robb Stark]]<br>[[Lord of Karhold|Lord]] [[Rickard Karstark]]<br>Lord [[Greatjon Umber|Jon Umber]]
+| Leaders2      = [[Knighthood|Ser]] [[Jaime Lannister]] <small>(POW)</small>
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = At least 18,600 men
+| Participants2 = 30,000 men at Riverrun, unknown at the battle
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = Unknown, likely light to moderate
+*[[Harrion Karstark]]{{Note|In "[[Kissed by Fire]]" Robb says "I saw Harrion die on the battlefield," and in "[[Valar Dohaeris]]" [[Rickard Karstark]] refers to Jaime as the killer of both his sons. Thus, although it is not explicitly mentioned, it can be assumed Harrion was killed by Jaime in the Battle of Whispering Wood.}}
+| Casualties2   = Unknown, army broken and scattered
+*Ser Jaime Lannister <small>(POW)</small>
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Quote|Jaime captured, his army scattered, it's a catastrophe!|[[Kevan Lannister]]|Fire and Blood}}
+The '''Battle of Whispering Wood''',{{Ref|GOT802}} also known as the '''Battle of the Whispering Wood''',{{Guideref|Battle of the Whispering Wood}} was an early major battle in the [[War of the Five Kings]], which erupted after [[King of the Andals and the Rhoynar and the First Men|King]] [[Robert Baratheon]]'s death.
+
+==History==
+===Prelude===
+Leading a host of 18,000 [[Northmen|Northern]] soldiers, [[Robb Stark]] means to confront the [[Westerlands]] troops in the [[Riverlands]] and relieve the forces loyal to [[Hoster Tully|his grandfather]] which have been under attack for some time. 
+
+[[Tywin Lannister]] has split his forces into two armies, each numbering approximately 30,000 men:<ref>"[[You Win or You Die]]"</ref> one force, under the command of [[Jaime Lannister|Jaime]], [[Battle in the hills below the Golden Tooth|defeats the Riverlords at the Golden Tooth]], then lays siege to [[Riverrun]], the seat of [[House Tully]]; the other, under Tywin's direct command, marches north, along the west bank of the [[Green Fork]] of the [[Trident]], to prevent the Starks from lifting the siege, and sends scouts to reconnoiter the Stark position.<ref name=":1">"[[The Pointy End]]"</ref>
+
+Robb and his men debate strategy, since they are outnumbered by either Lannister army. Several lords favor a direct confrontation with Tywin's forces, while [[Greatjon Umber]] advocates trying to outflank Tywin, get past him, and then confront Jaime's forces at Riverrun. Robb is still undecided when a [[Lannister scout]] is taken prisoner. He tells Robb that he counted roughly 20,000 men in the Stark host. Robb tells him to carry a message to Tywin, telling him that twenty thousand Northern warriors are coming to face him.<ref name=":1" />
+
+[[Catelyn Stark|Catelyn]] negotiates with Lord [[Walder Frey]] to allow Robb's army safe passage across the Trident at the [[Twins]]. Walder grants the passage and even contributes his levies to Robb's army, increasing Robb's numbers, in return for Robb agreeing to marry one of his daughters. However, after crossing the river the Stark host splits into two forces: one, of 2,000 men, moves south to confront Tywin, while the other force moves south-west to confront Jaime.<ref name=":0" />
+
+Tywin receives word that the Starks are moving against him. Believing this is the full Stark host, based on the information the captured scout returned to him, he prepares to confront it. In a pitched battle - the [[battle on the Green Fork]] - the Lannisters emerge soundly victorious due to overwhelming superiority of numbers, but quickly realize that they have been deceived.<ref name=":0" />
+
+===The battle===
+The bulk of Robb's forces descends on Jaime's army and lures him into the [[Whispering Wood]], northwest of Riverrun. In a decisive battle, Robb's Northmen win a significant victory by defeating the Lannister army and take Jaime himself prisoner. Jaime challenges Robb to single combat to decide the matter, but Robb refuses, as he knew that he himself would lose if he fights Jaime.<ref name=":0" /><ref>[http://viewers-guide.hbo.com/game-of-thrones/season2/#!/map/special/battleground-westeros/4/ HBO viewers guide, season 2 map, special features - Battleground Westeros, Battle of Whispering Wood entry]</ref>
+
+===Aftermath===
+[[Image:Whispering Wood.jpg|right|200px|thumb|Robb Stark addresses his troops following the Battle of Whispering Wood.<ref name=":0">"[[Baelor]]"</ref>]]
+The Starks' victory at the Battle of Whispering Wood and the [[Battle of the Camps|following victory]] over the Lannister forces besieging Riverrun essentially destroy half of the Lannister standing army, removing their second functional army-group within the Riverlands, leaving Tywin with only the 30,000 strong army under his own command further to the east. Recognizing that the situation is lost, Tywin decides to pull back his army further south in the Riverlands to [[Harrenhal]] on the shores of the [[Gods Eye]] lake, in order to use that castle as a base of operations for a protracted war.
+
+[[Kevan Lannister]] describes the outcome of the battle as a "catastrophe"; when [[Tyrion Lannister|Tyrion]] says that Robb is winning the war, no one disagrees.<ref>"[[Fire and Blood]]"</ref> Previously, Robb was a rebellious provincial, badly outnumbered and without combat experience. Not only did the battle establish Robb's reputation as a strong leader, it also destroyed the numerical advantage the Lannisters had held at the outbreak of the war. Moreover, the liberation of Riverrun resulted in the lords of the Riverlands rallying to Robb's cause, putting him in control of two of the kingdoms and drastically increasing the total size of his army. The after-effects were therefore quite long-lasting, forcing the Lannisters to fight the Starks on even terms, where before they could have simply ground them down through attrition.
+
+With only one field army left to work with, Tywin was put in a precarious position. With only one large army he was robbed of his ability to maneuver, as he could not move his forces to one location without abandoning another. Particularly, Robb's Northern army was not the only one Tywin had to deal with, as the surviving Baratheon brothers were making their own claims to the throne from further south. This left the Lannisters caught in the middle and fighting a two-front war. Tywin's main army was therefore essentially pinned down in the middle of the kingdom at Harrenhal, unable to launch an attack on Riverrun to the north for fear of attack from Storm's End to the south, and vice versa. This left the Lannisters scrambling to scrape together a new field army out of green conscripts in their home territories in the Westerlands, biding their time until these new levies could be deployed in the field.
+
+The following year, while [[Brienne of Tarth|Brienne]] transports her prisoner Jaime, they come upon three [[Tom|Stark]] [[Stark soldier (Valar Morghulis)|soldiers]]. Brienne and Jaime attempts to pass him off as a common thief out of [[Ashemark]], but one of the soldiers recognizes Jaime since he saw him at the Battle of Whispering Wood.<ref>"[[Valar Morghulis]]"</ref>
+
+Several years after the battle, during the [[Last War]], Jaime credits Robb's tactic with giving him the idea to [[Sack of Highgarden|take Highgarden]], while leaving [[Casterly Rock]] to be [[Fall of Casterly Rock|taken]] by the [[Unsullied]] troops.<ref name="E63">"[[The Queen's Justice]]"</ref> Some time later, while staying at [[Winterfell]] shortly before the [[Battle of Winterfell]], Jaime remembers losing the Battle of Whispering Wood.<ref name="E69">"[[A Knight of the Seven Kingdoms (Game of Thrones)|A Knight of the Seven Kingdoms]]"</ref>
+
+==Numbers==
+Numbers for the battle are confused due to the misinformation that is flowing between the Stark and Lannister armies. 
+
+Robb's army initially consists of 18,000 troops ("[[The Pointy End]]"). The Lannister scout inflates this to 20,000 by miscounting, and Robb confirms this number (probably to mislead the Lannisters). So when Tywin destroys the 2,000 Stark soldiers at the Green Fork, he assumes Robb has 18,000 men left. However, after the scout was released, Robb won the allegiance of [[House Frey]], who contributed an unknown number of troops to Robb's cause: in "[[Baelor]]", Theon states that they outnumber the Freys by 5:1, thus Lord Walder has presumably 3,000-4,000 men, which he allocates to Robb's cause, except 400 who stay behind to defend the Twins, increasing Robb's army to 20,600-21,600 men. Robb then sends 2,000 east as a suicidal diversionary attack against Tywin's army, meaning he has at least 18,600 at Whispering Wood - though this doesn't include local Tully-loyal soldiers who may have rallied to his army. So by the time Robb reaches Jaime, his army is larger than it initially appears to Tywin.
+
+The bulk of Jaime's 30,000-strong army is besieging Riverrun, so presumably he takes only a small force to reconnoiter the Stark position to the north (in the novel, Jaime assumes a small band of loyal Rivermen are attacking, so only takes a modest force to confront them, unaware the bulk of Robb's army is there). The strength of Jaime's army at the Whispering Wood is therefore impossible to ascertain.
+
+Further, in the books, the overall number of Lannister forces that Jaime had deployed around Riverrun was about 12,000 infantry and 2,000-3,000 cavalry; the TV series seems to have increased this to 30,000: in "[[You Win or You Die]]", Tywin clearly states that he is giving Jaime "half" of all Lannister forces when he gives him command of 30,000 men, which would put their combined total at 60,000 at the start of the war.
+
+== In the books ==
+In the ''[[A Song of Ice and Fire]]'' novels, Robb splits his forces and takes his northern cavalry (approximately 5,000-6,000 men) across the Green Fork of the Trident at the Twins and rides south to relieve Riverrun. In an effort to keep his march secret, he has [[Brynden Tully]] shoot down all of the Lannister ravens and any outriders screening the camps. The Lannister besieging force consists of about 12,000 foot and 2,000-3,000 cavalry.
+
+In an effort to draw Jaime from his camp, Robb sends a small force of a few hundred men carrying Tully colors, under the command of the Blackfish, to raid his camp and lure him out. When Jaime comes out, the raiders fall back to a point where the rest of the Stark force is waiting. Jaime makes a serious mistake by taking only 3/4 of his cavalry (1,500-2,250) to chase the raiders, leaving the rest of his troops besieging Riverrun.
+
+Forces of [[Maege Mormont]] sound horns to signal the trap has been sprung. [[Greatjon Umber]], Lord [[Rickard Karstark]], the Freys and [[House Mallister|Mallisters]] all have subordinate commands. When Jaime sees the battle lost, he rallies his retainers and attempts to cut his way through the host to slay Robb in single combat. He is halted, but not before he killed some of Robb's personal guard: Daryn Hornwood, the sole heir of [[House Hornwood]], and Eddard and [[Torrhen Karstark]], sons of Rickard Karstark.
+
+The outcome of the battle is a complete success for House Stark. Jaime is captured, and so are Lord Gawen Westerling, Lord Quenten Banefort, Ser Garth Greenfield, Lord Regenard Estren, Ser Tytos Brax, Mallor the Dornishman and three Lannisters: [[Willem Lannister]] (son of [[Kevan Lannister|Kevan]]), [[Alton Lannister#In the books|Cleos]] and Tion Frey (sons of Tywin's sister [[Genna Lannister|Genna]]).
+
+Jaime has learned a valuable lesson from the battle about taking precautions, even when it seems unnecessary: in the fourth novel, while leading his host to Riverrun, he sends scouts ahead, forbids his men to leave the column without permission, and places sentries wherever they camp - to make certain he will not be taken by surprise again.
+
+Within the first book, ''A Game of Thrones'', the process of relieving Riverrun from Jaime's siege is actually a two step process:
+*First, Robb lures out the Lannister cavalry and Jaime in particular, destroying this force in the "Battle of Whispering Wood".
+* Afterwards, Robb proceeds to launch a night-time attack against the main Lannister army camped around Riverrun, in the "Battle of the Camps".
+
+Even within the books, the Starks as well as the Lannisters tend to refer to both battles in combination as "the Battle of Whispering Wood".
+
+The [[Battle of the Camps]] is confirmed to have happened, off-screen, in the Season 2 Blu-ray extra features.
+
+==References==
+{{Reflist}}
+
+===Notes ===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|Battle in the Whispering Wood}}
+
+<!--Navboxes-->
+{{War of the Five Kings}}
+
+<!--Categories-->
+[[Category:298 AC]]
+[[Category:Battles|Whispering Wood]]
+[[Category:War of the Five Kings]]
+
+<!--Languages-->
+[[de:Schlacht im Wisperwald]]
+[[fr:Bataille du Bois-aux-Murmures]]
+[[pl:Bitwa w Szepczącym Lesie]]
+[[pt-br:Batalha do Bosque dos Murmúrios]]
+[[ro:Bătălia din Codrul Şoaptelor]]
+[[ru:Битва в Шепчущем лесу]]

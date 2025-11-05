@@ -1,0 +1,69 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Night's Watch.svg
+| Link  = Night's Watch
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = Bannen's Funeral S3E4.jpg
+| Birth       = [[White Harbor]], the [[North]]{{Ref|GOT304}}
+| Death       = [[300 AC]]{{Dateref|Game of Thrones: Season 3}}<br>[[Craster's Keep]], [[beyond the Wall]]{{Ref|GOT304}}
+| House       = 
+| Affiliation = [[Night's Watch]]{{Ref|GOT304}}
+| Titles      = 
+| AKA         = 
+| Culture     = [[Northmen|Northern]]{{Ref|GOT304}}
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 3|3]]
+| Appearances = "[[And Now His Watch Is Ended]]" {{Corpse}}
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{dialogue a-b-a|Jeor Mormont|His name was Bannen. He was a good man, a good ranger. He came to us from... Where did he come from?|Eddison Tollett|Down White Harbor way.|He came to us from White Harbor. Never failed in his duty. He kept his vows best he could. He rode far, fought fiercely. We shall never see his like again....and now his watch is ended.|Bannen's eulogy|And Now His Watch Is Ended}}
+'''Bannen''' was a member of the [[Night's Watch]].
+
+==Biography==
+===Background===
+Bannen is a Ranger of the [[Night's Watch]], originally from [[White Harbor]], the only city in the [[North]]. He takes part in the [[great ranging]] led by [[Lord Commander of the Night's Watch|Lord Commander]] [[Jeor Mormont]] and survives the [[fight at the Fist]], though he's injured.{{Ref|GOT304}}
+
+===[[Game of Thrones: Season 3|''Game of Thrones'': Season 3]]===
+[[File:Bannen's_Funeral_S3E4.jpg|thumb|Bannen is cremated at Craster's Keep.]]
+Bannen perishes while at [[Craster's Keep]] and a funeral is held by his sworn brothers. [[Grenn]] says he's surprised a broken foot could kill a man. [[Rast]], however, points out that [[Craster]] functionally starved him to death by giving them as little food as possible.{{Ref|GOT304}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Bannen is considered to be one of the best trackers in the Watch, and is one of the survivors of the battle at the [[Fist of the First Men]] who make it to Craster's Keep. He and eleven others are critically wounded. Sam and Giant try to treat him and the other injured men, but the medicine bags have been lost during the battle, thus all they can do is keep the wounded dry and warm and feed them. The ranger Kedge Whiteye has taken Bannen's mangled foot, but it is too little and too late. Bannen keeps saying, "I'm cold. I'm so cold". Sam tries to feed him onion broth, but he cannot swallow. Craster nastily comments, "That one's dead. Be kinder to stick a knife in his chest than that spoon down his throat, you ask me".
+
+After lying in agony at least nine days, Bannen dies of his injuries, much as he did in the TV series. In the book, it is Dirk who blames Craster for Bannen's death.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Night's Watch}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Northmen]]
+[[Category:Rangers of the Night's Watch]]
+
+<!--Languages-->
+[[de:Bannen]]
+[[fr:Bannen]]
+[[ru:Баннен]]

@@ -1,0 +1,88 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Thrones
+| Part          = the [[conflict beyond the Wall]]
+| Image         = Game-of-thrones-nights-king1.jpg
+| Previous      = [[Mutiny at Castle Black]]
+| Concurrent    = 
+| Next          = [[Wight hunt]]
+| Date          = [[303 AC]]{{Dateref|Game of Thrones: Season 6}}
+| Place         = [[Cave of the Three-Eyed Raven]], [[Beyond the Wall]]
+| Outcome       = '''Major tactical [[White Walkers|White Walker]] victory'''
+*White Walkers overrun the cave
+*Death of the [[Brynden Rivers]], [[Hodor]], [[Leaf]], and [[Summer]]
+*Possible extinction of the [[Children of the Forest]]
+'''Minor strategic living victory'''
+*Escape of [[Bran Stark]] and [[Meera Reed]]
+| Factions1     = {{COA|House Stark|small}} [[House Stark]]<br>[[Children of the Forest]]
+| Factions2     = [[White Walkers]]<br>[[Wight|Army of the dead]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = {{COA|Brynden Rivers|inline}} [[Brynden Rivers]] †<br>{{COA|House Stark|inline}} [[Bran Stark]]
+| Leaders2      = The [[Night King]]<br>White Walker lieutenants
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = *{{COA|Brynden Rivers|inline}} [[Brynden Rivers]] †
+*6 of the [[Children of the Forest]] †
+**[[Leaf]] †
+*[[File:House Reed.svg|16px|link=House Reed]] [[Meera Reed]]
+*[[Hodor]] †
+*[[Summer]] †
+*{{COA|House Stark|inline}} [[Benjen Stark]]
+| Participants2 = *The Night King
+*3 White Walkers
+*Thousands of [[wight]]s
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = '''Heavy'''
+*[[Brynden Rivers]]
+*All present [[Children of the Forest]]
+*[[Leaf]]
+*[[Hodor]]
+*[[Summer]]
+| Casualties2   = '''Light'''
+*One [[White Walker (The Door)|White Walker]]
+*Hundreds of wights
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Quote|The time has come. Leave me.|Brynden Rivers to Bran Stark before his death.|The Door}}
+The '''battle at the cave of the Three-Eyed Raven''' was a battle during the [[conflict beyond the Wall]]. It was was an attempt of the [[Night King]] to assassinate [[Bran Stark]] and [[Brynden Rivers]], as the [[Three-Eyed Raven]] holds all of the world's memories, and is preparing to pass them all to Bran.
+
+==History==
+===Prelude===
+After [[Bran Stark|Bran]] finally arrives at the [[cave of the Three-Eyed Raven]] with [[Meera Reed]], [[Summer]] and [[Hodor]], he begins training to hone his powers in the [[Sight]] over the course of a year.<ref>"[[The Children]]"</ref> Bran has a particular vision of the genesis of the [[Night King]], who was initially created as a weapon made by the [[Children of the Forest]] to aid in their war against the [[First Men]]. Visibly shocked, Bran ignores [[Brynden Rivers|Brynden]]'s warnings and [[warg]]s into the [[Heart tree]] alone, without his guide, to see more of the vision. This time, however, he is greeted by an army of [[wight]]s, led by three [[White Walkers]] and the Night King himself on their undead horses. The Night King turns to look at Bran, who is shocked to see that the Night King is aware of his presence. Turning towards the army of wights, the Night King suddenly appears just behind Bran and grabs his arm. This marks his arm in the real world, allowing the White Walkers to track Bran's location and negating the magic that protected the cave from their incursion.
+
+===Battle===
+Brynden desperately begins transferring all of his knowledge into Bran's mind while Meera, Summer and the Children hold off the wights and White Walkers. Meera manages to kill a Walker with the [[dragonglass]] given to her by [[Samwell Tarly]], but the numbers become overwhelming and Summer and Brynden are killed. Bran, while in a vision of his father departing for the [[Vale of Arryn|Vale]], splits his consciousness in two and manages to warg into Hodor in the real world, enabling him to help Meera flee with Bran's physical body while [[Leaf]] sacrifices herself to hold the wights off, as they reach the door on the other side of the cave. In Hodor's body, Bran manages to pry the door open and shut it before the wights reach them. Bran and Meera command Hodor to "hold the door". It also appears, by the fact that young Hodor's eyes turn white, that Bran accidentally warged into Hodor's younger self in the vision thus allowing the younger Hodor to hear the order to "hold the door" and suffer a seizure that turned him into the simple-minded Hodor of the present day. Remembering his purpose, Hodor holds the door with all of his might, and is killed by the wights as Meera flees with Bran.<ref>"[[The Door]]"</ref>
+
+===Aftermath===
+With the death of Leaf, the Children of the Forest are presumed extinct.
+
+Bran and Meera flee through the [[Haunted Forest]] until Meera can go no further. Bran awakens and says that the wights are right behind them. Meera embraces Bran and prepares for a final stand, but a cloaked figure on a horse suddenly appears and dispatches the wights with hooked blade and a ball of fire on a chain. After getting them to safety, the rider reveals himself to be Bran's long-lost uncle [[Benjen Stark]]. Benjen explains that the White Walkers found him and his rangers and slew them, but the Walkers left him to turn instead of overseeing him personally. He was rescued by the Children, who, through the same sort of magic that created the Night King, managed to prevent Benjen from fully becoming a wight. Benjen explains that Bran is the "[[Three-Eyed Raven]]" now, and that he just needs a little time to learn to use his powers. He will escort them back across the [[Wall]], and when the Night King eventually crosses it, Bran will be waiting for him.<ref>"[[Blood of My Blood]]"</ref>
+
+==In the books==
+As of the last-published book in the ''[[A Song of Ice and Fire]]'' series, ''A Dance with Dragons'', no such battle has occurred yet, though author [[George R.R. Martin]] has confirmed that the battle will take place in ''The Winds of Winter''. While he has stated that Hodor will die, it is also possible that [[Jojen Reed]] will die as well, given that he is still alive in the books but close to death.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{Conflict beyond the Wall}}
+
+<!--Categories-->
+[[Category:303 AC]]
+[[Category:Battles|cave of the Three-Eyed Raven]]
+[[Category:Conflict beyond the Wall]]
+
+<!--Languages-->
+[[de:Angriff auf die Höhle des Dreiäugigen Raben]]
+[[fr:Bataille dans la Grotte de la Corneille à Trois Yeux]]
+[[pt-br:Batalha na Caverna do Corvo de Três Olhos]]
+[[ru:Битва в пещере Трёхглазого ворона]]

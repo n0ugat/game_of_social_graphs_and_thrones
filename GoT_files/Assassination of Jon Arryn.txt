@@ -1,0 +1,102 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Thrones
+| Part          = 
+| Image         = Jon Arryn poisoned.png
+| Previous      = [[Greyjoy Rebellion]]
+| Concurrent    = 
+| Next          = [[First trial by combat of Tyrion Lannister]]<br>[[Skirmish at Littlefinger's brothel]]
+| Date          = [[298 AC]]{{Dateref|Game of Thrones: Season 1}}
+| Place         = [[Red Keep]], [[King's Landing]], [[Crownlands]]
+| Outcome       = Death of Jon Arryn
+*[[Lysa Arryn|Lysa]] and [[Robin Arryn]] flee to the [[Eyrie]]
+*[[Eddard Stark]] appointed Hand of the King
+*Subsequent investigation by Eddard Stark incites conflict between [[House Stark]] and [[House Lannister]]
+| Factions1     = {{COA|House Baelish|small}} [[House Baelish]]
+| Factions2     = {{COA|House Arryn|small}} [[House Arryn]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = {{COA|House Baelish|inline}} Lord [[Petyr Baelish]]
+| Leaders2      = N/A
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = {{COA|House Arryn|inline}} [[Lordship|Lady]] [[Lysa Arryn]]
+| Participants2 = {{COA|House Arryn|inline}} [[Defender of the Vale|Lord]] [[Jon Arryn]] †
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = None
+| Casualties2   = Lord Jon Arryn
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Quote|What wife would do the things I've done for you? What wife would trust you the way I've trusted you? When you gave me those drops and told me to pour them into Jon's wine. My husband's wine. And you told me to write a letter to Cat telling her it was the Lannisters...|[[Lysa Arryn]] explains her reasons for killing her husband.|First of His Name}}
+The '''assassination of Jon Arryn''' was a secret plot engineered by [[Petyr Baelish]] in an effort to throw the [[Seven Kingdoms]] into a state of chaos for personal benefit. It took place just prior to the events of the series and has far reaching consequences in Westeros.
+
+==History==
+===Background===
+Following [[Robert's Rebellion]], [[Jon Arryn]] was appointed as [[Hand of the King]] to King [[Robert Baratheon|Robert]]. While Robert devoted his energies to whoring, drinking and hunting, Arryn was effectively left to govern the realm and apparently did so wisely. After seventeen years as Hand, Arryn died suddenly of a fever.{{Cite}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+From a balcony at the [[throne room]], [[Jaime Lannister|Jaime]] and [[Cersei Lannister|Cersei]] watch Jon Arryn's funeral. Cersei expresses her fear that Arryn might have told someone, perhaps to Robert, about their secret. Jaime assures her there is nothing to worry, stating that whatever Arryn knew or didn't know, it died with him.{{Ref|GOT101}}
+
+At [[Winterfell]], [[Eddard Stark]] learns of Arryn's death and that Robert and the royal party are bound for Winterfell. Eddard realizes that Robert intends to name him as his new Hand. He considers refusing, but [[Catelyn Stark|Catelyn]] receives a letter from her sister [[Lysa Arryn|Lysa]], Jon's widow, claiming that her husband was poisoned by the [[House Lannister|Lannisters]]. With this news, Eddard is convinced to accept Robert's offer so he can investigate Jon's death.{{Ref|GOT101}}
+
+Once in [[King's Landing]], Eddard starts his investigation. He learns from [[Pycelle]] that just prior to his death, Arryn acquired a book from him: ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]''. Pycelle also mentions that during his final hours, Arryn repeatedly said "The seed is strong". Littlefinger reveals to Ned that Arryn visited several of Robert's [[bastard]] offspring.{{Ref|GOT104}} Ned deduces that Arryn was investigating the parentage of Robert and Cersei's three children.{{Ref|GOT105}}
+
+[[Varys]] warns Eddard that he believes Jon was actually poisoned using [[Tears of Lys]], a poison that is rare, costly and difficult to detect. Eddard (incorrectly, as revealed later) suspects that [[Hugh of the Vale]] is the poisoner. When Eddard inquires as to motive for the murder, Varys simply replies, "He started asking questions."{{Ref|GOT105}}
+
+[[Tyrion Lannister|Tyrion]] is apprehended by Catelyn, who accuses him of trying to kill her son [[Bran Stark|Bran]].{{Ref|GOT104}} She takes him to the [[Eyrie]], Lysa's home. Once there, Lysa accuses him of orchestrating Arryn's death too.{{Ref|GOT105}} After a [[First trial by combat of Tyrion Lannister|trial by combat]], Tyrion is acquitted.{{Ref|GOT106}}
+
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+Under interrogation from Tyrion, Pycelle admits that Arryn had discovered that truth about Cersei's children; that they were not fathered by Robert, but by Jaime, and he intended to inform the King. Pycelle also admits that Arryn was poisoned but strongly denies doing it himself. Tyrion nevertheless says Pycelle was complicit and let Arryn die because of the threat he posed to the Crown.{{Ref|GOT203}}
+
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+The full truth of Arryn's death is finally revealed by Lysa, in a conversation with her new husband Littlefinger. To prove her love for him, she reminds Littlefinger that, at his instructions, she laced Jon's wine with Tears of Lys, and then sent a letter to her sister, falsely accusing the Lannisters for this murder.{{Ref|GOT405}}
+
+===[[Game of Thrones: Season 7|''Game of Thrones'': Season 7]]===
+Eventually, Littlefinger is [[Trial of Petyr Baelish|forced to answer for his multiple crimes]], including Arryn's murder, by [[Sansa Stark|Sansa]], who proceeds to have him executed by [[Arya Stark|Arya]]. Sansa discovered this fact from the [[Bran Stark|Bran]].{{Ref|GOT707}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the assassination of Jon Arryn is carried out in the same manner: Tears of Lys in his wine. However, Lysa is not only motivated by her obsession with Littlefinger, but also by her refusal to have her son Robert (named Robin in the show) sent off to [[Dragonstone]] to be fostered by [[Stannis Baratheon|Stannis]], as Jon Arryn intended. Although this plan was totally in keeping with expectations for noble boys in Westeros, Lysa's mental instability and overprotectiveness of her son meant she would have none of it.
+
+Pycelle's involvement in the murder as an "accessory after the fact" is more active than in the show: Lord Arryn was being treated by his own [[Order of Maesters|Maester]] Colemon, who gave him purges to get the poison out (that treatment might have cured Arryn), but since Pycelle knew that Arryn knew the secret of Cersei's incest - he sent Colemon away and just gave Arryn [[Milk of the poppy|painkillers]] to ease his passing. When Pycelle tells that to Ned, he falsely makes it sound as an innocent mistake; while being roughly interrogated by Tyrion, Pycelle admits that he deliberately acted that way in order to make Arryn die. It must be noted that Pycelle never knew who actually poisoned Arryn (he claims it was Ser [[Hugh of the Vale]]), and his later explanation of his actions to Tyrion (while he was roughly interrogated) was truthful.
+
+Jon's death prompts Stannis, who had initiated the investigation about Robert's bastards and enlisted Arryn to help him (while in the TV show it was Arryn alone who conducted the investigation), to flee to Dragonstone, believing Cersei had assassinated Jon and might target him next. Stannis adamantly continues to believe Cersei was behind Jon's death (as he insists to Renly and Catelyn outside Storm's End), never realizing that Jon's murder wasn't originally about Cersei's children.
+
+At one point in the first novel, Ned examines the [[Valyrian steel dagger]], trying to figure why anyone would want Bran dead; he has a strong gut feeling that the dagger and Bran's fall are somehow linked to Arryn's murder. Ned's assumption is wrong: while there is a very vague connection between Bran's fall and Arryn's death (the link is Jaime and Cersei's incestuous relationship), the failed attempt on Bran's life has absolutely nothing to do with Arryn's death. Ned fails to see what Tyrion noticed: Arryn's murder was done cunningly and subtly, while the attempt on Bran was a total botch, hence it is unlikely they were both committed by the same person(s).
+
+Curiously, Littlefinger assists Ned to uncover the truth: first, he tells Ned about four people (one of whom is Ser Hugh), who belonged to Arryn's household and remained in King's Landing after Lysa left. Ned assigns Jory to question those people; two of them, a potboy and stablehand who joined the City Watch, provide useful information - that Arryn and Stannis visited [[Tobho Mott|a certain armorer]] and [[Littlefinger's brothel|a brothel]]. Second, he takes Ned to that brothel. Littlefinger claims that he helps Ned because he promised that to Catelyn; his real motive is probably not so altruistic. Perhaps he pretended to be Ned's ally in order to remove any suspicion that he might have had anything to do with Arryn's death.
+
+In ''A Storm of Swords'', when Lysa and Sansa are at the [[Baelish keep|Drearfort]], Lysa tells her enigmatically "A man will tell you poison is dishonorable, but a woman's honor is different. The Mother shaped us to protect our children, and our only dishonor is in failure". Sansa does not understand what her aunt means, till their final encounter.
+
+Lysa blurts out the whole truth about Arryn's death as she drags Sansa to the Moon Door. Littlefinger tries in vain to hush Lysa, feeling uncomfortable that the secret is revealed in the presence of Sansa and [[Marillion#In the books|Marillion]]. The series presented this as separate events, with Lysa blurting out the truth within earshot of a Septon, later incoherently raging to Sansa who took a while to piece it all together, and finally implying the truth in the Moon Door scene.
+
+It is not revealed in the novels ''exactly'' why Littlefinger wanted Jon dead, but there are several logical possibilities:
+* To make Lysa free for marriage and to gain control over the Vale by marrying her
+* To prevent Jon from telling Robert the truth about Cersei's children
+* To turn the Starks and Lannisters against each other via the letter that Lysa sent to Catelyn, in which she falsely put the blame on the Lannisters
+* In "[[Walk of Punishment (episode)|Walk of Punishment]]", [[Bronn]] suggests that Littlefinger was embezzling from the treasury, hence the enormous debts of the Crown ("[[Lord Snow]]"); if Bronn's speculation is correct, Littlefinger had an additional motive to kill Jon - to prevent him from inspecting the ledgers and uncovering Littlefinger's financial malfeasance.
+
+So far in the books, the identity of Jon Arryn's true killer is not yet common knowledge, known only to four people, and only two of them are still alive - Littlefinger and Sansa.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{War of the Five Kings}}
+
+<!--Categories-->
+[[Category:298 AC]]
+[[Category:Assassinations|Arryn, Jon]]
+[[Category:War of the Five Kings]]
+
+<!--Languages-->
+[[de:Ermordung von Jon Arryn]]
+[[fr:Assassinat de Jon Arryn]]
+[[ru:Убийство Джона Аррена]]

@@ -1,0 +1,57 @@
+{{DISPLAYTITLE:Baratheon soldier {{C|Mother's Mercy}}}}
+{{Canonicity|Canon}}
+{{Character
+| Title       = Baratheon soldier
+| Type        = Baratheon
+| Image       = 510 Bartheon Soldier 2.png
+| Birth       = [[285 AC]]{{Dateref|Baratheon soldier}}
+| Death       = [[302 AC]]{{Dateref|Game of Thrones: Season 5}} (aged 17)<ref name="Script">[https://assets.scriptslug.com/live/pdf/scripts/game-of-thrones-510-mothers-mercy-2015.pdf Ep 510 Mother's Mercy - D Benioff and D.B. Weiss]</ref><br>Near [[Winterfell]], the [[North]]{{Ref|GOT510}}
+| House       = 
+| Affiliation = [[House Baratheon of Dragonstone]]{{Ref|GOT510}}
+| Titles      = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 5|5]]
+| Appearances = "[[Mother's Mercy]]"
+| First       = 
+| Last        = 
+| DeathEp     = "Mother's Mercy"
+| Actor       = [[David Fennelly]]
+}}
+{{Dialogue a-b|Baratheon soldier|I surrender! I surrender!|Ramsay Bolton|And I accept your surrender.|The Baratheon soldier and Ramsay Bolton|Mother's Mercy}}
+A '''Baratheon soldier'''<ref name="Script"/> fought for King [[Stannis Baratheon]] in the [[War of the Five Kings]].
+
+==Biography==
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+This soldier serves in [[Stannis Baratheon|Stannis]]'s army, and participates in the [[battle in the ice]]. He is one of the few to survive the initial fighting, but is later killed by [[Ramsay Bolton|Ramsay]], although he surrenders.{{Ref|GOT510}}
+
+==Appearances==
+*{{GOT|Mother's Mercy}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{House Baratheon of Dragonstone}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Men-at-arms]]
+[[Category:Servants and retainers of House Baratheon of Dragonstone]]
+[[Category:Smallfolk]]
+[[Category:Westerosi]]
+
+<!--Languages-->
+[[ru:Солдат Баратеонов (Милосердие матери)]]

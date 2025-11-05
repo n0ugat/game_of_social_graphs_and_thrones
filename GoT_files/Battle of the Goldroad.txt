@@ -1,0 +1,166 @@
+{{Canonicity|Canon}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Thrones
+| Part          = the [[Last War]]
+| Image         = 704 TSOW.jpg
+| Previous      = [[Fall of Casterly Rock]]<br>[[Sack of Highgarden]]
+| Concurrent    = 
+| Next          = [[Wight hunt]]
+| Date          = [[304 AC]]{{Dateref|Game of Thrones: Season 7}}
+| Place         = Crossing of the [[Goldroad]] over the [[Blackwater Rush]], northern border of the [[Reach]]
+| Outcome       = '''Major tactical [[House Targaryen|Targaryen]] victory'''
+<div class="mw-collapsible mw-collapsed" style="width:100%">
+''Details:''
+<div class="mw-collapsible-content">
+*[[House Lannister|Lannister]]-[[House Tarly|Tarly]] army decimated by dragonfire
+*Crops brought from the [[Reach]] destroyed in the fighting
+*Execution of Lord [[Randyll Tarly]] and [[Dickon Tarly]] on the orders of Queen [[Daenerys Targaryen]]
+*Remainder of the Lannister force [[Bending the knee|bends the knee]] to Daenerys
+*Remainder of [[Unsullied]] stationed at [[Casterly Rock]] allowed to safely march across Westeros
+'''Minor strategic [[Iron Throne]] victory'''
+*[[Bronn]] and [[Jaime Lannister]] avoid capture
+*Gold plundered from [[Highgarden]] safely makes it way to [[King's Landing]]
+*Mild injury of [[Drogon]] with a scorpion by [[Bronn]]
+**Effectiveness of scorpion against dragons demonstrated in battle
+</div></div></div>
+| Factions1     = {{COA|House Lannister|small}} '''[[Iron Throne]]'''<br><small>([[House Lannister]])</small><br><br>{{COA|House Tarly|small}} [[House Tarly]]
+| Factions2     = {{COA|House Targaryen|small}} [[House Targaryen]]<br><br>[[Dothraki]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = {{COA|House Lannister|i}} [[Knighthood|Ser]] [[Jaime Lannister]]<br>{{COA|House Tarly|i}} Lord [[Randyll Tarly]] {{Executed}}<br>{{COA|Bronn|i}} [[Knighthood|Ser]] [[Bronn]]
+| Leaders2      = {{COA|House Targaryen|i}} [[King of the Andals and the Rhoynar and the First Men|Queen]] [[Daenerys Targaryen]]<br>{{COA|House Lannister|i}} [[Hand of the King|Lord Hand]] [[Tyrion Lannister]]<br>[[Dothraki|Ko]] [[Qhono]]
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = *10,000+ manpower
+**~10,000 [[House Lannister|Lannister]] infantry and archers<ref>"[[The Queen's Justice]]"</ref>
+**[[House Tarly|Tarly]] infantry
+**1 heavy anti-dragon [[scorpion]]
+| Participants2 = *100,000+ manpower
+**~100,000 [[Dothraki]] light cavalry<ref>"[[Book of the Stranger]]"</ref>
+**1 [[dragon]] <small>([[Drogon]])</small>
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = '''Heavy'''
+*Massive Lannister-Tarly losses
+*Anti-dragon [[scorpion]] destroyed
+*[[Randyll Tarly]] {{Executed}}
+*[[Dickon Tarly]] {{Executed}}
+| Casualties2   = '''Light'''
+*Minimal Dothraki losses
+*Drogon mildly wounded
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Quote|Enough with the clever plans.|[[Daenerys Targaryen]]|The Spoils of War}}
+The '''Battle of the Goldroad'''{{Ref|GOT806}} was a major engagement of the [[Last War]], fought on the border of the [[Reach]] and the [[Crownlands]] in [[304 AC]].{{Dateref|Game of Thrones: Season 7}} It saw [[Daenerys Targaryen]]'s [[Dothraki]] horde ambush the combined [[House Lannister|Lannister]]-[[House Tarly|Tarly]] field army and supply train as it was returning east to [[King's Landing]] after successfully [[Sack of Highgarden|sacking]] [[Highgarden]]. It was the first time that Daenerys used her [[dragon]]s in battle in Westeros, riding [[Drogon]] in combat.
+
+==History==
+===Prelude===
+After the [[Sack of Highgarden]], the bulk of the remaining Lannister army advanced east led by  [[Jaime Lannister|Jaime]], along with [[Randyll Tarly]] commanding the formidable forces of [[House Tarly]].<ref name="E63">"[[The Queen's Justice]]"</ref> The gold of [[House Tyrell]] is sent ahead to King's Landing, where Cersei intends to use it as payment of the Crown's massive debt to the [[Iron Bank of Braavos|Iron Bank]], possibly enabling her to take another loan and hire the [[Golden Company]] to further enforce her authority in Westeros.
+
+[[File:Battle of the Goldroad map.png|thumb|The Lannister-Tarly (gold) &<br>Targaryen (red) armies' marches. Lighter gold indicates likely areas of pillage by the Lannister army.]]
+Jaime's army then advanced throughout the north of the Reach, seizing as many grain stores as it could find.
+
+Daenerys is enraged by the fall of Highgarden and her [[Fall of Casterly Rock|hollow victory at Casterly Rock]]. Out of patience for the comparatively cautious battle plans of her Hand, [[Tyrion Lannister|Tyrion]] (who prioritizes keeping her safe and reducing casualties by carrying out sieges) Daenerys decides to take matters into her own hands. Despite her previous losses, she still possesses a great number of ships left over from her [[Siege of Meereen|victory in Meereen]], and the largest single fighting force in the conflict: her 100,000-strong Dothraki horde. More importantly, despite the risks to the safety of both herself and civilians, Daenerys decides it is finally time to bring her dragons into play on the battlefield. At [[Jon Snow|Jon]]'s advice, Daenerys quietly ferries her Dothraki to Westeros in a desperate gamble. Presumably using intelligence gathered by her Master of Whisperers, [[Varys]], she locates the Lannister army and prepares to strike.
+
+===Battle===
+The Lannister army and wagon train continues north, then east, to use the crossing of the upper waters of the [[Blackwater Rush]] made by the [[Goldroad]] - not far to the west of [[King's Landing]], amid cliffs and hills. Lord Randyll expresses his concern that they are very vulnerable while the crossing continues, with half of their army and wagon train on both sides of the Blackwater river. Jaime agrees at the danger, and they try to get their men to move as fast as possible to hurry the grain shipments to King's Landing.
+
+Jaime and Bronn are then surprised to hear what sounds like distant thunder, until they realize it must be approaching cavalry. Jaime, Bronn and Randyll order the soldiers to form up, which they manage to do before the enemy crests over the horizon - a massive, 100,000 strong horde of [[Dothraki]] cavalry, brandishing [[arakh]]s and bellowing their ululating war cries. Since [[Euron Greyjoy]] is busy besieging the Unsullied at Casterly Rock on the west coast of Westeros, Daenerys was able to land her Dothraki on the ''east'' coast without interference. Bronn urges Jaime to leave and ride ahead to King's Landing, but Jaime insists he will not abandon his men. Bronn bluntly tells him the Dothraki will quickly overwhelm the Lannister lines and Jaime is too valuable as a commander to stay and fight, but Jaime insists that they have a chance if their shield-wall holds.
+
+[[File:704 Battle of Tumbleton 1.png|thumb|Daenerys's huge [[Dothraki]] horde descends on Jaime's Lannister army.]]
+At that moment, the sound of thundering hooves and Jaime's determination is drowned by a massive roar, a sound not heard on the battlefields of Westeros since the [[Dance of the Dragons]]. Above the approaching Dothraki the Lannister army sees a huge adult dragon heading straight for their lines: [[Drogon]], ridden by Daenerys herself. Drogon outpaces the Dothraki, and at Daenerys's command "''Dracarys''", he blasts a torrent of fire through the Lannister ranks in a straight line from front to back, punching a hole in their formation. The highly mobile Dothraki light cavalry immediately sweep through it and wheel around to catch those parts of the Lannister lines in an enveloping move.
+
+[[File:704 Battle of Tumbleton 5.png|thumb|The mobile Dothraki light cavalry race through the hole made in the Lannister lines to start enveloping them.]]
+The Lannister-Tarly lines around Jaime and Randyll, however, manage to rally under their leadership. The Dothraki charge into the Lannister lines head-on. Unprepared and vastly outnumbered, the Lannister soldiers are quickly overwhelmed and unable to hold their shield wall for long, despite inflicting some damage with their long spears. Dothraki horse-archers let off shots before charging into their ranks, but highly-trained Tarly archers return fire, doing as much if not more damage, as the Dothraki wear less armor.
+
+[[File:704 Battle of Tumbleton Promo.jpg|thumb|Lannister heavy infantry rally around Jaime and Randyll, and a fierce melee insues.]]
+[[File:704 Battle of Tumbleton 6.png|thumb|Daenerys switches to making strafing runs with her dragon, across the Lannister formations.]]
+The Lannister army holds their line for a short time, but their enemy has the advantage of weight in numbers and the Dothraki horsemanship proves overwhelming. The tide quickly turns against them as the Dothraki begin leaping off their horses, directly into the melee. For a moment it looks like Jaime might at least be able to force the Dothraki to a standstill - but then Daenerys wheels out of the air again, devastating the Lannister formations. No longer trying to punch perpendicular holes through their lines, she simply flies Drogon parallel to the shield-wall formation, targeting the rearguard and the supply convoy. Men are flash-burned into nothing but ash which crumbles to the touch, or cooked alive in their own superheated armor as they struggled to rip it off, dousing themselves in the river. Most of the wagons of grain are wiped out by Drogon's fire, the horses pulling them fleeing in all directions and adding to the confusion.
+
+[[File:704 Battle of Tumbleton 7.png|thumb|Jaime rallies Lannister and Tarly archers to shoot volleys at the dragon, but in vain.]]
+Nonetheless, Jaime manages to rally his remaining forces a second time, desperately taking command of a group of surviving Lannister and Tarly archers and directing them to concentrate their fire at the dragon: Drogon might not be vulnerable to common arrow fire, but his rider is. If they can manage to kill Daenerys herself, who has risked appearing in open battle, the entire war could end in a day, no matter their losses. Daenerys sees the attack coming, however, and banks Drogon up so the arrow volley harmlessly bounces off the armored scales on his belly. He then blasts the archer formations with fire. Jaime avoids the flames and is surrounded by enemies, but he manages to carve a path through the Dothraki with his [[Valyrian steel]] sword [[Widow's Wail]] to try to reach safety. He gets in trouble for a moment when he locks swords with a Dothraki wielding two arakhs, but Dickon Tarly stabs the Dothraki from behind, saving Jaime.
+
+[[File:704 Battle of Tumbleton 12.png|thumb|[[Bronn]] loads up the anti-dragon scorpion, and takes aim at Daenerys.]]
+Even then all is not lost; Jaime commands Bronn to reach [[Qyburn]]'s anti-dragon [[scorpion ]] (as Jaime cannot fire it one-handed). Reluctantly, Bronn rides back but is intercepted by a Dothraki rider midway. The two charge towards one another, but in an unexpected last-second swipe, the Dothraki attacks low, hacking off a leg from his adversary's horse, sending Bronn sprawling and losing his large bag of gold in the process. Bronn continues to fight his way back on foot, killing several foes in the process, all the while being chased by the same Dothraki warrior, who follows him into the wagon he was looking for, just in time to stare down the business-end of the loaded scorpion that Bronn fires into him, flinging him twenty feet and pinning his corpse to another wagon. Bronn reloads the scorpion as fast as he can (which is meant to be crewed by a team of men), spots the dragon in the distance, and fires, but narrowly misses. Daenerys is startled by the scorpion-bolt flying a few feet from her head, scans the battlefield, and spots Bronn on the scorpion as he reloads.
+
+Enraged at this direct attack on Drogon, Daenerys gains some altitude then leads Drogon on a direct dive, plunging straight down at Bronn on the scorpion launcher, who waits for her to approach close enough that he hopefully won't miss but before she is near enough to incinerate him. Just as Drogon is almost within range to attack, Bronn fires his bolt - hitting Drogon in the right shoulder. The mighty dragon lets out an awful screech of pain and collapses in shock, helplessly dropping into a free-fall from hundreds of feet in the air.
+
+[[File:704 Battle of Tumbleton 13.png|thumb|Only receiving a flesh wound from the scorpion's bolt in his shoulder, Drogon roasts the scorpion as Bronn jumps away.]]
+The surviving Lannister soldiers cheer, only for Drogon and Daenerys to re-gain their balance seconds before they would have fatally struck the ground. The enraged dragon hovers for a moment, then angrily sends a fire-blast at the scorpion, destroying it a split second after Bronn jumps out of the way to safety. The dragon's armored scales are so tough that the scorpion bolt only managed to cause a minor wound: even though it was previously tested on [[Balerion|Balerion the Black Dread]]'s skull, a living dragon's scales are stronger. Grounded by his flesh wound, Drogon howls in pain and fury, smashing apart the remains of the scorpion with his tail. Daenerys dismounts and struggles to remove the scorpion bolt.
+
+[[File:704 Battle of Tumbleton 9.png|thumb|The battle turns into an utter rout, as the Lannister army is overwhelmed by the Dothraki and dragon-fire.]]
+By this point, the devastation caused by the dragon and the sheer number of Dothraki have totally overwhelmed the Lannister lines, and with the scorpion destroyed, their last hope is gone and the battle turns into an utter rout and massacre. The Dothraki pursue the fleeing Westerosi soldiers, ruthlessly slaughtering anyone they can catch. [[Tyrion Lannister]] views the battle from the distance of a nearby hill, along with the Dothraki commander [[Dothraki|Ko]] [[Qhono]], who remarks that Tyrion's people can't fight. Tyrion looks gravely on the battlefield, realizing that these are in fact his own countrymen from the Westerlands and House Lannister being massacred. Many burning and dying men rush to the river to try to extinguish the flames.
+
+[[File:704 Battle of Tumbleton 14.png|thumb|[[Jaime Lannister|Jaime]] makes a death-run at Daenerys and her downed dragon, charging through the devastation of the battlefield.]]
+[[File:704 Battle of Tumbleton 15.png|thumb|Jaime reaches Daenerys, but her dragon notices him an instant before he can kill her.]]
+Jaime, however, sees that Daenerys is grounded and immobilized, and realizes he still has one chance; if he can kill Daenerys, even now, he can end her invasion. Tyrion notices Jaime, and, realizing what he is thinking, mutters, "''Flee'', you idiot." Jaime grabs a spear and charges his horse across the flaming battlefield to make a death-run for Daenerys as she tends to her dragon. Tyrion swears under his breath, calling his brother a "fucking idiot", angry that he's going to get himself killed.
+
+Just as Jaime is nearly on top of Daenerys, however, Drogon notices him amidst the chaos of the battle. Shielding Daenerys behind his head, the dragon lets out a blast of flame, but Bronn rushes over to tackle Jaime out of the way, saving him from certain death, whilst their steeds burn. They both fall into the river, where Jaime is weighed down by his armor, and sinks beneath the waters, in danger of drowning.
+
+===Aftermath===
+[[File:705 Ashes of Tumbleton.jpg|thumb|The burned landscape after the battle.]]
+After the battle ended, the survivors were brought before Daenerys, who said she is not like Cersei and wants "to destroy the wheel that has rolled over rich and poor to the benefit of no one but the Cersei Lannisters of the world". She gave them the choice between bending the knee, or being executed. While the soldiers were reluctant, many were cowed into submission by Drogon. Randyll and Dickon Tarly however refused, and were both burned alive as punishment. The remaining soldiers all kneel out of fear for their lives- leaving Daenerys with enough Westerosi soldiers to garrison a small castle, and Cersei with even fewer followers.
+
+Because of Daenerys Targaryen's ambush using the Dothraki and Drogon, the Lannisters have lost a significant portion - if not all - of the grain that they plundered from Highgarden which they had planned to use to feed their armies now that winter had come; this raises difficulties for Daenerys as well, as she needs a significant stockpile of supplies to sustain her army for a long campaign, but on the other hand her Dothraki are accustomed to sustaining themselves through foraging and raids anyway. Nonetheless, the wagons with the gold had made it through the gates of [[King's Landing]], presumably allowing [[Cersei Lannister]] to pay back a significant portion of the debts owed by the Lannister family and the [[Iron Throne]] to the Iron Bank of Braavos, as well as buying [[Golden Company|additional reinforcements]]. However, the Lannister host led by Jaime has been smashed, dealing a crippling blow to their already heavily depleted army, which had suffered significant losses during the [[War of the Five Kings]]; moreover, Jaime himself has been separated from his remaining men, leaving them leaderless. The host of House Tarly, led by Randyll Tarly, was also smashed in the ambush. In terms of casualties, despite the initial heavy losses of the Dothraki, the battle is lopsided in favor of the Targaryen army, especially as a result of Drogon's strafing and the swift pursuit of the routing Westerosi troops. Furthermore, as their numbers are considerably greater, the Dothraki can afford more casualties than the Lannister-Tarly forces.
+
+Daenerys Targaryen has finally gained a firm foothold on the continent of Westeros, and with those of the shattered Lannister-Tarly host who survived, having bent the knee, her Unsullied will be able to cross eastward from Casterly Rock unhindered and regroup with the Dothraki. Furthermore, with the combined loss of the Lannister/Tarly forces, Cersei's sphere of power has essentially shrunken to solely the [[Crownlands]], the Iron Islands, the Westerlands, and whatever control she still excerts over the Riverlands; her brief conquest of the Reach has been undone in a single day, and all she has to defend King's Landing are the City Watch and whatever Lannister troops remain in the capitol. Cersei's control over the [[Riverlands]] is shaky as the elimination of [[House Frey]] will result in the other noble houses claiming control of the region. Euron Greyjoy may decide to abandon Cersei and Euron currently commands the majority of the Lannister navy. Even if the Golden Company and other Mercenary groups arrive in time, the smallfolk may view them as an occupation force.
+
+Their first encounter with a dragon astounds Jaime and Bronn; the former observes that his army was defeated by a woman with one dragon, and "she has two more. If she decides to use them, to really use them..." The latter replies that if she does, that is the end of their partnership; "I'm not going to be around when those things start spitting fire on King's Landing". Jaime urges Cersei to seek peace with Daenerys, because in addition to dragons her Dothraki will "beat any army I've ever seen ... This isn't a war we can win". While still defiant, Cersei eventually agrees to meet with Daenerys to discuss an armistice because of the threat of the [[Wight|Army of the Dead]].<ref name="E65">"[[Eastwatch]]"</ref>
+
+Despite Daenerys's victory, the battle is significant in that it proves that dragons are not invincible and that Qyburn's scorpion ballista weapons can harm them, albeit not as decisively as he and Cersei had hoped. Even with the wound, Drogon was able to successfully fly back to Dragonstone shortly after the battle, indicating that his injury is far from crippling.<ref name="E64">"[[The Spoils of War]]"</ref>
+
+Brienne, adding information to Jaime's entry in the ''[[Book of Brothers]]'', mentions the battle.<ref name="E73">"[[The Iron Throne]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, an equivalent battle has not occurred. The TV show has surpassed the timeline of the books, so it is unclear if an equivalent battle will occur or not.
+
+==Gallery==
+<gallery>
+File:S07E04-Lannister soldiers.jpg
+File:Got-s7e4.jpg
+File:Jaime-Bronn-Spoils-of-War.jpg
+File:704 Battle of Tumbleton 1.png
+File:704 Battle of Tumbleton 2.png
+File:704 Battle of Tumbleton 3.png
+File:A Game of Thrones Battle, Season 7.jpg|Daenerys's Dothraki and dragons going into battle.
+File:704 Battle of Tumbleton 4.png
+File:704 Battle of Tumbleton 5.png
+File:704 Battle of Tumbleton 6.png
+File:704 Battle of Tumbleton Promo.jpg
+File:704 Battle of Tumbleton 7.png
+File:704 Battle of Tumbleton 9.png
+File:704 Dickon Saved Jaime.png
+File:Jaime Firestorm TSOW.jpg
+File:704 Battle of Tumbleton 11.png
+File:704 Battle of Tumbleton 12.png
+File:GoT-Sn7 FirstLook 18.jpg
+File:704 Battle of Tumbleton 13.png
+File:704 Battle of Tumbleton 14.png
+File:704 Battle of Tumbleton 15.png
+File:705 Aftermath Battle of Tumbleton.jpg|Captured soldiers from the battle meet [[Daenerys Targaryen|Daenerys]] and [[Drogon]].
+</gallery>
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{Last War}}
+
+<!--Categories-->
+[[Category:304 AC]]
+[[Category:Battles|Goldroad]]
+[[Category:Last War]]
+
+<!--Languages-->
+[[de:Schlacht auf dem Goldweg]]
+[[fr:Bataille de la Route de l'Or]]
+[[it:Battaglia sulla Strada dell'Oro]]
+[[pt-br:Batalha da Estrada de Ouro]]
+[[ru:Битва на Золотой дороге]]
+[[vi:Trận Đường Vàng]]

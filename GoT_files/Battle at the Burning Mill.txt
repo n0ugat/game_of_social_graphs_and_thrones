@@ -1,0 +1,86 @@
+{{Canonicity|Canon}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Dragon
+| Part          = the [[Dance of the Dragons]]{{Ref|HOTD203}}
+| Image         = Battle of the Burning Mill.png 
+| Previous      = [[Duel on Dragonstone]]{{Ref|HOTD202}}
+| Concurrent    = [[Blockade of the Gullet]]{{Ref|HOTD201}}
+| Next          = [[Taking of Harrenhal]]{{Ref|HOTD203}}
+| Date          = [[132 AC]]{{Dateref|House of the Dragon: Season 2}}
+| Place         = [[Burning Mill]], the [[Riverlands]]{{Ref|HOTD203}}
+| Outcome       = Both sides take heavy losses{{Ref|HOTD203}}
+| Factions1     = {{COA|Blacks|s}} [[Blacks]]
+*{{COA|House Blackwood|i}} [[House Blackwood]]
+| Factions2     = {{COA|Greens|s}} [[Greens]]
+*{{COA|House Bracken|i}} [[House Bracken]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = {{COA|House Blackwood|i}} Lord [[Samwell Blackwood]]
+| Leaders2      = {{COA|House Bracken|i}} Lord [[Amos Bracken]]
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = {{COA|House Blackwood|i}} [[Davos Blackwood]]
+| Participants2 = {{COA|House Bracken|i}} Ser [[Aeron Bracken]]
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = Heavy{{Ref|HOTD203}}
+*Lord Samwell Blackwood{{Ref|HOTD203}}
+| Casualties2   = Heavy{{Ref|HOTD203}}
+*Ser Aeron Bracken{{Ref|HOTD203}}
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Quote|The Brackens and Blackwoods have feuded for centuries. This is nothing more than an excuse for them to indulge their ancient grudge.|Jasper Wylde|The Burning Mill}}
+The '''Battle at the Burning Mill'''{{Ref|HOTD203}} was an early engagement of the [[Dance of the Dragons]], fought between the [[Greens|Green]]-aligned [[House Bracken]] against the [[Blacks|Black]]-aligned [[House Blackwood]] in [[132 AC]]. The battle was an eruption of the centuries-long feud between the two houses over territory the two held in the [[Riverlands]].
+
+==History ==
+===Prelude===
+For centuries, [[House Bracken]] of [[Stone Hedge]] and [[House Blackwood]] of [[Raventree Hall]] have feuded.{{Ref|HOTD203}} This deep and ancient grudge, the source of which having been lost to time, has brought the two noble houses into conflict countless times, both during the [[Riverlands]]' time as an independent kingdom and in the decades since [[Aegon I Targaryen|Aegon the Conqueror]]'s subjugation of the region during his [[Aegon's Conquest|conquest of Westeros]].
+
+[[File:Blackwoods-203.png|thumb|left|200px|Members of House Blackwood confront the Brackens over land boundaries.]]
+In the years leading up to the Dance, the latest source of discord between the Brackens and Blackwoods was the former's illegal annexation of Blackwood land. This prompted Lord [[Samwell Blackwood]] to send a complaint to the [[Small Council]], with the issue ultimately being mediated by [[House Tully/House of the Dragon|House Tully]] via an assize and the establishment of boundary stones to delineate the border between the Brackens' and Blackwoods' lands.{{Ref|HOTD106}}{{Ref|HOTD203}}
+
+Following the outbreak of the Dance of the Dragons, House Bracken declared for King [[Aegon II Targaryen|Aegon II]] and the [[Greens]], while House Blackwood declared for Queen [[Rhaenyra Targaryen|Rhaenyra]] and the [[Blacks]].{{Ref|HOTD203}}
+
+===The battle===
+While out in the field near the border between the Bracken's and Blackwoods' land, Ser [[Aeron Bracken]] and his entourage are confronted by a Blackwood group led by [[Davos Blackwood]]. Davos demands Aeron return the boundary stones to their rightful place, but Aeron refutes this assertion, citing the assize made in [[Riverrun]]. Davos denounces both the assize and Aeron, declaring the area Blackwood land, to which Aeron makes the same claim for the Brackens. Aeron then departs, before muttering [[Assassination of Jaehaerys Targaryen|"babe-killer"]].{{Ref|HOTD203}}
+
+When Davos challenges Aeron on his comment, Aeron declares that Rhaenyra is a false queen and a [[Kinslaying|kinslayer]]. Realizing that Aeron's uncle, Lord [[Amos Bracken]], has declared for Aegon, Davos denounces both Aegon and the Brackens, affirming House Blackwoods' allegiance to the Blacks. Aeron then draws his sword on Davos, to which Davos mockingly goads Aeron to try something.{{Ref|HOTD203}}
+
+Sometime later, the confrontation between the two groups escalates into a full-blown battle between the Brackens and Blackwoods at the border, now dubbed the "[[Burning Mill]]." The Brackens launch an attack against the Blackwoods first, resulting in the death of hundreds of soldiers on both sides including Ser Aeron and even Lord Samwell Blackwood.{{Ref|HOTD203}}
+
+===Aftermath===
+During a meeting of the [[Green Council]], [[Aemond Targaryen|Aemond]] reports on the results of the battle, stating that the Brackens led the attack against the Blackwoods and that Lord Samwell Blackwood was killed during the engagement. While Aegon approves of this development, declaring it a victory for the Greens, [[Tyland Lannister]] responds that both the Brackens and Blackwoods sustained heavy losses in the battle and that it would be difficult for the Greens to declare it a victory. [[Jasper Wylde]] adds that the conflict is hardly worth considering, remarking on the longstanding Bracken-Blackwood feud and that the impromptu battle was simply an excuse for the two houses to come to blows once again. Nevertheless, Aegon asserts that the battle marks the start of open warfare in the Dance, and that the Blacks will consider the battle in the same light.{{Ref|HOTD203}}
+
+==In the books==
+In ''[[Fire & Blood]]'', the Battle of the Burning Mill was the first true battle of the [[Dance of the Dragons]], being a full-scale clash between armies rather than a minor skirmish. Having declared his allegiance to Rhaenyra, Lord Samwell Blackwood sent raiders into Bracken territory, prompting Lord Humfrey Bracken, who had declared for Aegon II, to send an army commanded by his son, Ser Amos Bracken into Blackwood territory in retaliation. The Blackwoods ambushed the Brackens as they camped at a mill by an unidentified river (possibly the [[Red Fork]] of the [[Trident]]).
+
+In the ensuing battle, Amos killed Samwell in single combat, only to die himself moments later when an arrow was shot through his head; the arrow was allegedly shot by Samwell's sister Alysanne "Black Aly" Blackwood, but this detail could be just a family legend.{{Bookref|F&B|15}}
+
+Amos's [[bastard]] brother, Ser Raylon Rivers, led the Bracken survivors back to Stone Hedge, House Bracken's ancestral castle, only to find that an army of black-loyal riverlords, commanded by [[Daemon Targaryen|Daemon]], had sallied forth from [[Harrenhal]], captured [[Stone Hedge]] and taken Lord Humfrey and his family hostage in their absence. Seeing [[Caraxes]] perched atop the castle, Raylon surrendered to save the lives of his kin. The fall of Stone Hedge, combined with the preceding capture of Harrenhal, left the Riverlands completely under Black control.
+
+The defeat was an enormous humiliation for the [[greens]]. Aegon II was particularly enraged, since the battle proved Rhaenyra had plentiful support for her claim to the [[Iron Throne]], contrary to what his [[Alicent Hightower|mother]] and [[Otto Hightower|grandfather]] had assured him.{{Bookref|F&B|15}}
+
+In contrast to the show, the battle took place after the [[raids on Bracken lands]], not before.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|Battle of the Burning Mill}}
+
+<!--Navboxes-->
+{{Dance of the Dragons}}
+
+<!--Categories-->
+[[Category:132 AC]]
+[[Category:Battles|Burning Mill]]
+[[Category:Dance of the Dragons]]
+
+<!--Languages-->
+[[ru:Битва у Горящей Мельницы]]

@@ -1,0 +1,50 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Hightower.svg
+| Link  = House Hightower
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Hightower
+| Image        =
+<gallery>
+Battle Isle.jpg|Appearance
+Oldtown Pin.png|Location
+</gallery>
+| Type         = Island
+| Status       = 
+| Location     = [[Oldtown]], the [[Reach]]
+| Population   = 
+| Rulers       = [[House Hightower]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = [[Hightower]]
+| Founded      = 
+}}
+{{Quote|But no maester can tell why. Even in our oldest records, the island on which it stands is called Battle Isle. What battle was fought there? And when? |[[Qyburn]]|Oldtown (short)}}
+'''Battle Isle'''{{Ref|H&L612}} is an island on the [[Honeywine]], in the second largest city of [[Westeros]], [[Oldtown]]. The isle occupies the [[Hightower]], the seat of [[House Hightower]].
+
+==History==
+It is unknown why the island is so named, however, at some point, the [[Hightower]] was built atop it. Even the [[Order of Maesters|maesters]] of the [[Citadel]] do not have any records of a battle on this isle.<ref>"[[Oldtown (short)|Oldtown]]"</ref>
+
+==In the books==
+In ''[[The World of Ice & Fire]]'', Battle Island sits in [[Oldtown]] in the area where the [[Honeywine]] widens and empties into [[Whispering Sound]]. It is unknown how the island earned its name, though some stories claim that [[dragon]]s once roosted on it until they were killed by the founder of [[House Hightower]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Battle Island}}
+
+<!--Navboxes-->
+{{Reach}}
+
+<!--Categories-->
+[[Category:Battle Isle| ]]
+[[Category:House Hightower]]
+[[Category:Islands]]
+[[Category:Oldtown]]
+
+<!--Languages-->
+[[de:Schlachtinsel]]

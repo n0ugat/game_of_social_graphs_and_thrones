@@ -1,0 +1,85 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Thrones
+| Part          = the [[War of the Five Kings]]
+| Image         = 
+| Previous      = [[Surrender of the Crag]]
+| Concurrent    = 
+| Next          = [[Battle of the Blackwater|Battle of the<br>Blackwater]]<br><small>([[House Lannister]])</small><br>[[Fall of Harrenhal|Liberation of<br>Harrenhal]]<br><small>([[House Stark]])</small>
+| Date          = [[299 AC]]{{Dateref|Game of Thrones: Season 2}}
+| Place         = [[Stone Mill]], the [[Riverlands]]
+| Outcome       = Tactical [[House Tully|Tully]] victory<br>Strategic [[House Stark|Stark]]-Tully failure<br>[[Stone Mill]] reclaimed from Lannister occupation<br>Ser [[Gregor Clegane]] and forces routed
+| Factions1     = {{COA|House Stark|small}} [[North|Kingdom of the North]]/[[House Stark]] <br><br>{{COA|House Tully|small}} [[House Tully]]<br><br>{{COA|House Mallister|small}} [[House Mallister]]
+| Factions2     = {{COA|House Baratheon of King's Landing|small}} '''[[Iron Throne]]'''/[[House Baratheon of King's Landing]]<br><br>{{COA|House Lannister|small}} [[House Lannister]]<br><br>{{COA|House Clegane|small}} [[House Clegane]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = [[Lord of Riverrun|Lord]] [[Edmure Tully]]<br>Lord [[Jason Mallister]]
+| Leaders2      = [[Knighthood|Ser]] [[Gregor Clegane]]
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = 
+| Participants2 = 
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = 208 men
+| Casualties2   = 400 killed, 100 taken prisoner <br>[[Martyn Lannister|Martyn]] and [[Willem Lannister]] taken hostage
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+The '''Battle of the Fords'''{{Con|ASOIAF}} is a major engagement in the [[War of the Five Kings]]. It is recounted by [[Edmure Tully]] in his report to [[King in the North]] [[Robb Stark]].
+
+==History==
+===Prelude===
+In an attempt to lure [[Tywin Lannister|Tywin]] away from Harrenhal and leave [[King's Landing]] open for an attack, [[Robb Stark|Robb]] invaded the [[Westerlands]], and won a great victory at [[Battle of Oxcross]]. This left his army free to [[Battle at the Yellow Fork|sack]] and [[Surrender of the Crag|pillage]] the northern Westerlands.<ref>"[[Garden of Bones (episode)|Garden of Bones]]"</ref>
+
+Meanwhile, Robb left the remaining Stark-Tully forces in the Riverlands under the command of [[Edmure Tully]]. The war dragged on in the Riverlands in a series of raids, counter-raids, and skirmishes between Edmure's forces based at [[Riverrun]], and Tywin's forces based at [[Harrenhal]] to the east.
+
+Robb's offensive in the Westerlands eventually succeeded in luring a Lannister army led by [[Gregor Clegane]] to march back to the west, and attempt to force a passage over the [[Red Fork]] of the [[Trident]].
+
+===The battle===
+Gregor Clegane's forces seize control of [[Stone Mill]], hoping to use it as a crossing site over the Red Fork. Edmure, commanding Robb's forces at and around Riverrun, decides to engage the Mountain's forces and prevent their crossing. The Lannisters withdraw from the area, and Edmure also recaptures Stone Mill.<ref name=":0">"[[Walk of Punishment (episode)|Walk of Punishment]]"</ref>
+
+Tactically, the battle has been an amazing success, inflicting two to one losses on the Lannisters and forcing Gregor Clegane to retreat from the Red Fork and back to Harrenhal.<ref>"[[Walk of Punishment (episode)|Walk of Punishment]]", deleted scene.</ref> Tywin's young nephews, [[Willem Lannister|Willem]] and [[Martyn Lannister]], are taken hostage in the battle.<ref name=":0" />
+
+===Aftermath===
+Strategically, the battle has been a significant blunder. Robb's plan was to lure Gregor's forces further west into the Riverlands where they could be surrounded and destroyed. Edmure's attack instead allows Clegane and his army to escape. Gregor and his army soon [[Fall of Harrenhal|abandon Harrenhal entirely]] to take part in the Lannister victory at the [[Battle of the Blackwater]] - which would not have happened if Edmure had lured more Lannister forces into the west.<ref name=":0" />
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the battle is referred to as "Battle of the Fords". Like most of the Stark/Tully battles, it occurs off-screen; afterwards, Catelyn receives a letter from Edmure which describes the victory over the Lannister troops.
+
+The battle is fought over an extremely wide front, encompassing fords to the south and north of Riverrun, and features the entire main Lannister army attempting to cross the river. Edmure's forces are fewer in number but hold the strategic high ground on each side of the fords, and are able to subject the Lannister forces to withering arrow fire as they attempt to cross. Lord [[Jason Mallister]] commands the defense of four fords to the south of Riverrun, and Karyl Vance commands the defense of fords to the north, while Edmure Tully commands the defense of the fords closest to Riverrun itself. The fiercest assault comes at Stone Mill in the center, where the forces commanded by Ser Gregor himself manage to gain a foothold on the west bank of the river despite suffering terrible losses, but are then driven back when Edmure hits them with his reserves.
+
+The entire campaign is led by Tywin, while Gregor Clegane personally commands the main thrust at Stone Mill. While the battle is raging, Tywin receives word that Stannis Baratheon is about to attack King's Landing. He withdraws from the engagement, turns his army south and marches to the headwaters of the [[Blackwater Rush]]. They build barges and skiffs and are able to rapidly head downriver, meeting the army of [[House Tyrell]] along the way. This allowes the combined Lannister and Tyrell armies to then attack Stannis's flank at the Battle of the Blackwater, routing him.
+
+Upon hearing the news, a celebration is held in Riverrun, while Robb is on his way to the [[Crag]]. Listening to the sounds of celebration, Catelyn is suddenly filled with unexplained fear. Her gut feeling proves to be correct; although the Starks and Tullys have won so far every battle, from that point - things begin to go downhill for them, resulting in the [[Red Wedding]]: Winterfell is [[Capture of Winterfell|captured by the ironborn]] and later is [[Sack of Winterfell|destroyed]]; Bran and Rickon are allegedly killed; the Tyrells form an alliance with the Lannisters; Stannis is [[Battle of the Blackwater|defeated]]; Roose Bolton switches sides and cunningly causes heavy casualties to the northern troops at [[Duskendale]] and the [[Ruby Ford]]; [[Jaime Lannister|Jaime]] is released; Robb breaches the pact with the Freys; Robb loses the Karstarks.
+
+Robb later chastises Edmure for his blunder, saying that the Northmen had identified a valley in the western mountains where they planned to lure Tywin into a trap and destroy his main army, as well as keeping Tywin from aiding King's Landing's defense and thus allowing the Northmen to try and negotiate a peace with Stannis after he took the capital. By preventing his crossing, Edmure has won a strategically meaningless short-term victory at the cost of a possible long-term victory for the entire campaign. Edmure angrily points out that the blunder was due to Robb not trusting him with his plans.
+
+In the TV series, the battle is somewhat smaller in scale and focused specifically around Stone Mill, which is where the main thrust occurred in the novels.
+
+One minor change is about Martyn and Willem Lannister: neither of them was taken captive at the Battle of Stone Mill, and not by the Tullys. Willem and his cousin Tion Frey were captured by the Starks at the [[Battle of Whispering Wood|battle in the Whispering Wood]], while Martyn was captured at the [[Battle of Oxcross]].
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{War of the Five Kings}}
+
+<!--Categories-->
+[[Category:299 AC]]
+[[Category:Battles|Fords]]
+[[Category:War of the Five Kings]]
+
+<!--Languages-->
+[[de:Schlacht bei der Steinmühle]]
+[[fr:Bataille de Moulin-de-Pierre]]
+[[ru:Битва у Каменной Мельницы]]

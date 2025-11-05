@@ -1,0 +1,80 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Mormont.svg
+| Link  = House Mormont
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Stark
+| Image        =
+<gallery>
+Bear-island-02.jpg|Appearance
+Bear Island.png|Location
+</gallery>
+| Type         = Island
+| Status       = 
+| Location     = The [[North]], [[Westeros]]
+| Population   = 
+| Rulers       = {[[House Mormont]]}
+| Institutions = 
+| Military     = 
+| Religion     = [[Old Gods]]
+| Places       = [[Mormont Keep]]
+| Founded      = 
+}}
+{{Dialogue a-b|Daenerys Targaryen|What do you pray for, Ser Jorah?|Jorah Mormont|Home.|Jorah Mormont longing for his home.|Cripples, Bastards, and Broken Things}}
+'''Bear Island'''{{Ref|GOT502}} is a remote island in the [[North]] of [[Westeros]], and the ancestral home of [[House Mormont]], vassals of [[House Stark]] of [[Winterfell]]. It lies within the [[Bay of Ice]] on the western coast of the [[North]]. The island remains relatively poor. It is densely forested with a large [[bear]] population which earned the island its name.
+
+People who hail from this island are strong, hardy, loyal and no-nonsense. This is best exemplified by its liege lords [[House Mormont]].
+
+==History==
+===Background===
+During the [[Age of Heroes]], [[Rodrik Stark]] allegedly won control of the island in a wrestling match with an [[Ironborn]]. Rodrik gave Bear Island to the Mormonts who have been loyal supporters of the Starks ever since.<ref>"[[The North]]"</ref>
+
+Lord Commander [[Jeor Mormont]] of the [[Night's Watch]] was born on Bear Island, as was his son, [[Jorah Mormont|Jorah]]. Jorah and [[Lynesse Hightower (daughter of Leyton)|his wife]] were forced from his land and fled into [[exile]] after he sold poachers he had caught on Bear Island, an inexcusable crime. Following Jorah's disgrace, Jeor's younger sister [[Maege Mormont]] became [[Lord of Bear Island|Lady of Bear Island]].
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+When [[Daenerys Targaryen]] first meets Ser Jorah, he states he is from Bear Island.<ref>"[[Winter Is Coming]]"</ref> Later Jorah relates to Daenerys about how [[Eddard Stark]] forced him from his lands.<ref name="CBBT">"[[Cripples, Bastards, and Broken Things]]"</ref> When asked by Daenerys what he longs for, Jorah simply replies, "Home."<ref name="CBBT" />
+
+When [[Jon Snow]] receives [[Longclaw]], the ancestral [[Valyrian steel]] sword of House Mormont, Lord Commander [[Jeor Mormont]] recalls how when Jorah brought dishonor on their house, he had the grace to leave their sword at Bear Island before fleeing.<ref>"[[Baelor]]"</ref><ref>"[[Valyrian Steel (short)|Valyrian Steel]]"</ref>
+
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+[[File:Lyanna Mormont's letter.png|thumb|Lyanna Mormont's reply to Stannis Baratheon]]
+[[Stannis Baratheon]] comes to [[Castle Black]] and sends ravens to all [[:Category:Houses from the North|Northern Lords]] to ask them to join his cause. [[Lyanna Mormont]], the 10-year-old daughter of Maege Mormont and Lady of Bear Island, sends back a rebuff that reads: ''"Bear Island knows no king but the [[King in the North]], whose name is Stark."''<ref>"[[The House of Black and White]]"</ref>
+
+===[[Game of Thrones: Season 6|''Game of Thrones'': Season 6]]===
+[[Jon Snow]], his half-sister [[Sansa Stark]], and their advisor [[Davos Seaworth]] travel to Bear Island to seek the support of Lyanna Mormont in their efforts to retake [[Winterfell]] from [[Ramsay Bolton]]. Lyanna is initially hostile toward Jon and Sansa, not considering either of them Starks, and seems poised to dismiss them. However, Davos manages to sway her by telling her that the real war is "between the living and the dead and the dead are coming." Swayed by Davos's counsel, Lyanna agrees to add her 62 fighting men to Jon Snow's [[Free Folk|Wildling]] army.<ref>"[[The Broken Man]]"</ref>
+
+===[[Game of Thrones: Season 7|''Game of Thrones'': Season 7]]===
+Lady Lyanna Mormont is present at [[Winterfell]] when Jon Snow announces his plans for the upcoming war with the dead, including the training of everyone in the North for battle regardless of age and gender. When Lord Glover protests, Lyanna retorts that she does not intend to "sit knitting by the fire while men fight for me" and pledges that she will immediately begin training every man, woman and child on Bear Island. She also witnesses Jon's pardoning of [[House Umber]] and [[House Karstark]] and curtly nods to the new lords, [[Ned Umber]] and [[Alys Karstark]].
+
+==In the books==
+According to legend, in ancient times, Bear Island was ruled by House Woodfoot, who were wiped out when the ironborn conquered the island. Bear Island is home mostly to woodsmen, crofters and fisherfolk, as well as the bears that give the island its name.
+
+There is a [[Warrior women|warrior woman tradition]] on Bear Island, because with all of the husbands and fathers away for long periods of time on fishing boats or working in the fields, the local women of the island had to be prepared to defend their homes and children from raids at a moment's notice (raids from both the ironborn further south, and from wildlings who avoided the Wall entirely by using boats to cross the bay from the Frozen Shore on the other side).
+
+The Mormonts' seat is a huge wooden hall, defended by an earthen [[Wikipedia:Palisade|palisade]]. According to the semi-canonical ''A Song of Ice and Fire Roleplaying Campaign Guide: A Game of Thrones Edition'' from [[wikipedia:Green Ronin Publishing|Green Ronin Publishing]] it is named Mormont Keep.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Mormont}}
+{{North}}
+
+<!--Categories-->
+[[Category:Bay of Ice]]
+[[Category:Bear Island| ]]
+[[Category:House Mormont]]
+[[Category:Islands]]
+[[Category:North]]
+
+<!--Languages-->
+[[de:Bäreninsel]]
+[[fr:Île-aux-Ours]]
+[[pl:Wyspa Niedźwiedzia]]
+[[ru:Медвежий остров]]
+[[zh:熊岛]]

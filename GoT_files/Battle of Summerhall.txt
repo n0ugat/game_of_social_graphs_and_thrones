@@ -1,0 +1,72 @@
+{{Canonicity|Canon}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Westeros
+| Part          = [[Robert's Rebellion]]
+| Image         = BattleOfSummerhall.jpg
+| Previous      = [[Execution of Rickard and Brandon Stark]]
+| Concurrent    = 
+| Next          = [[Battle of Ashford]]
+| Date          = [[281 AC]]{{Dateref|Robert's Rebellion}}
+| Place         = [[Summerhall]], the [[Stormlands]]
+| Outcome       = [[House Baratheon|Baratheon]] victory
+*All House Baratheon bannermen join the rebellion
+| Factions1     = {{COA|House Baratheon|s}} [[House Baratheon]]
+| Factions2     = '''In quick succession'''<br>3 House Baratheon bannermen remaining loyal to the [[Iron Throne]]:
+*[[House Grandison]]
+*House Fell
+*House Cafferen
+<br><br>{{COA|House Tarly|small}} Elements of [[House Tarly]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = {{COA|House Baratheon|i}} [[Lord of Storm's End|Lord]] [[Robert Baratheon]]
+| Leaders2      = Unknown
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = 
+| Participants2 = 
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = Unknown
+| Casualties2   = Heavy
+*At least one man of [[House Tarly]]
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Quote|Our first victory ocurred at Summerhall, where I faced off an army of dragon-loyalists and won three battles in a single day... three in one day... Seven hells, that was a glorious day!|[[Robert Baratheon]]|Histories & Lore}}
+The '''Battle of Summerhall'''{{Ref|GOT103}} was one of the first battles of [[Robert's Rebellion]]. It was actually three battles in a single day, all three won by [[Robert Baratheon]], then [[Lord of Storm's End]]. Afterward, Robert marched on [[Ashford]] in the [[Reach]], where he would experience his only [[Battle of Ashford|defeat]], leaving his brother, [[Stannis Baratheon]], to hold [[Storm's End]].<ref>"[[Robert's Rebellion - House Baratheon]]"</ref><ref>"[[Blackwater]]"</ref>
+
+==History==
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+[[File:Battle_of_Summerhall_Robert_Baratheon.jpg|300px|thumb]]
+King [[Robert Baratheon]] recalls how he made his first kill during the battle, a boy of [[House Tarly]].<ref>"[[Lord Snow]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the Battle of Summerhall was the second battle of the rebellion. It was actually three battles all fought on one day. Robert hit three independent armies of Targaryen-loyalist Stormlords before they could converge upon him. Lords [[House Grandison|Grandison]], Cafferen, and Fell planned to join their hosts at Summerhall and march on Storm's End, but Robert learned of their plans and struck first, attacking each army individually. Lord Fell died in the battle and Robert's forces captured his son, Silveraxe. Lords Grandison and Cafferen, both loyalist commanders, went over to Robert after the battle, as did Silveraxe. Cafferen would later die fighting for Robert at the [[Battle of Ashford]], cut down by [[Randyll Tarly]], while Grandison died six months after the [[Battle of the Trident]] from wounds he sustained there.
+
+There's no mention of Tarly elements in this battle; Robert fought the Tarlys only in the Battle of Ashford, in which he was defeated. Also, Robert had already slain Marq Grafton in the Battle of Gulltown.
+
+In ''A Storm of Swords'', Edric Storm, one of Robert's bastards, mentions the battle, boasting that his father won three battles in one day. In the same book, [[Stannis Baratheon|Stannis]] recalls to [[Davos Seaworth|Davos]] that in the days after Summerhall, Robert spent time hunting and socializing with the defeated loyalist commanders, ignoring Stannis's furious protests that Grandison, Cafferen and Fell would have handed Robert over to [[Aerys II Targaryen|Aerys]] for execution without a second thought had they won at Summerhall, and that Robert should have thrown them in a dungeon, rather than treating them like honored guests.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|Battles at Summerhall}}
+
+<!--Navboxes-->
+{{Robert's Rebellion}}
+
+<!--Categories-->
+[[Category:281 AC]]
+[[Category:Battles|Summerhall]]
+[[Category:Robert's Rebellion]]
+
+<!--Languages-->
+[[de:Schlacht von Sommerhall]]
+[[fr:Bataille de Lestival]]
+[[ru:Битва у Летнего замка]]

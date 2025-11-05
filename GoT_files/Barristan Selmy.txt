@@ -1,0 +1,310 @@
+{{Canonicity|Canon}}
+{{Spoiler|AKOTSK}}
+{{Heraldry
+| Leftimage  = House Selmy.svg
+| Leftlink   = House Selmy
+| Rightimage = Kingsguard.svg
+| Rightlink  = Kingsguard
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Targaryen
+| Image       = Barristan Selmy Sons of the Harpy.jpg
+| Birth       = [[Harvest Hall]], the [[Stormlands]]{{Con|ASOIAF}}
+| Death       = [[302 AC]]{{Dateref|Game of Thrones: Season 5}}<br>[[Meereen]]{{Ref|GOT504}}
+| House       = [[House Selmy|Selmy]]{{Ref|GOT806}}
+| Affiliation = [[Kingsguard]]{{Ref|GOT103}}<br>[[House Targaryen]]{{Ref|GOT301}}<br>Queensguard{{Ref|GOT301}}
+| Titles      = [[Knighthood|Ser]]{{Ref|GOT103}}<br>[[Lord Commander of the Kingsguard]]{{Ref|GOT103}} {{C|formerly}}
+| AKA         = Barristan the Bold{{Ref|GOT505}}<br>Barristan the Old{{Ref|H&L508}}
+| Culture     = [[Dornish Marches|Marcher]]
+| Religion    = 
+| Father      = {[[Lyonel Selmy]]}{{Ref|GOT806}}
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 1|1]] {{*}} [[Game of Thrones: Season 3|3]] {{*}} [[Game of Thrones: Season 4|4]] {{*}} [[Game of Thrones: Season 5|5]]
+| Appearances = 25 episodes {{Below|Appearances}}
+| First       = "[[Lord Snow]]"
+| Last        = "[[Kill the Boy]]" {{Corpse}}
+| DeathEp     = "[[Sons of the Harpy (episode)|Sons of the Harpy]]"
+| Actor       = [[Ian McElhinney]]
+}}
+{{Quote|I've burned away my years fighting for terrible kings...a man of honor keeps his vows - even if he's serving a drunk or a lunatic. Just once in my life, before it's over, I want to know what it's like to serve with pride, to fight for someone I believe in.|Barristan Selmy to [[Jorah Mormont]]|Kissed by Fire}}
+Ser '''Barristan Selmy''' was a [[Knighthood|knight]] who served in the [[Kingsguard]] with distinction for over forty years. Nicknamed '''Barristan the Bold''', he was considered by many to be one of the best swordsmen and most honorable men in all the [[Seven Kingdoms]].
+
+He served in the Kingsguard of [[King of the Andals and the Rhoynar and the First Men|King]] [[Aerys II Targaryen]], and later served as [[Lord Commander of the Kingsguard]] during the reigns of [[King]] [[Robert Baratheon|Robert I Baratheon]], and, for a short time, King [[Joffrey Baratheon|Joffrey I Baratheon]]. After his public dismissal by Joffrey (an affront, as the Kingsguard is an irrevocable lifetime appointment), Ser Barristan, free of any vows, chose to sail to [[Essos]] and serve [[Daenerys Targaryen]].
+
+==Biography==
+===Background===
+Barristan Selmy was the [[Lord Commander of the Kingsguard]], the elite bodyguard of the [[King of the Andals and the Rhoynar and the First Men|King of the Andals and the First Men]]. Barristan is a member of [[House Selmy]], a minor [[Noble house|house]] of the [[Stormlands]], that serves [[House Baratheon]] of [[Storm's End]]. He is the firstborn son of Ser [[Lyonel Selmy]] of [[Harvest Hall]]. He is noted as an extremely capable warrior, even in his old age, and has a reputation for honor and chivalry that is second to none. He served in the Kingsguard of [[Aerys II Targaryen]], becoming a great friend of the [[House Targaryen|Targaryen dynasty]].{{Cite}}
+
+[[File:Ser Barristan Vs Maelys.png|thumb|Barristan slays Maelys ("The Monstrous"), ending House Blackfyre.]]
+As a young boy, he took part in many [[Tournament|tourneys]], being defeated and unmasked in his 15th tourney by Prince [[Duncan Targaryen]]. For his bravery, he received the honorable title "the Bold". He took part in the Winter Tourney at [[King's Landing]] when he was 17 years old, being knighted by King [[Aegon Targaryen (son of Maekar)|Aegon V Targaryen]] after defeating Ser [[Duncan the Tall]]. He also went on to defeat [[Lormelle Long Lance]] and [[Cedrik Storm]]. Ser Barristan was made a member of the Kingsguard when he was 23 years old.{{Ref|GOT806}}
+
+In his youth, he served in the [[War of the Ninepenny Kings]], an attempted invasion of [[Westeros]] by the [[exile]]d [[House Blackfyre]], in which he slew its leader, [[Maelys Blackfyre|Maelys the Monstrous]], the last Blackfyre Pretender. It was largely fought in the [[Stepstones]], the island chain between Westeros and the [[Free Cities]] of [[Essos]]. He also fought in the battle against the [[Kingswood Brotherhood]] and slew their leader [[Simon Toyne]].{{Ref|GOT103}} [[Jaime Lannister]], then aged 16, [[squire]]d for Selmy during the battle and greatly admired his skill.{{Ref|GOT207}}
+
+He also attended the [[Great Tourney at Harrenhal]], in which he danced with [[Ashara Dayne]] and unseated Aerys's son and [[Prince of Dragonstone|heir]], [[Rhaegar Targaryen]]. Although dismayed by King Aerys's many acts of [[Targaryen madness|insane cruelty]], Ser Barristan had great admiration and loyalty for Rhaegar. During the same tourney, Rhaegar crowned [[Lyanna Stark]] as his [[queen of love and beauty]], clearly showing a preference to her over his [[Marriage|wife]], [[Elia Martell]].{{Ref|H&L605}}
+
+[[File:Barristan and Robert.png|thumb|Robert pardons a wounded Barristan.]]
+Rhaegar later married Lyanna in a secret ceremony in [[Dorne]], after an annulment from Elia, but this was interpreted as a [[Abduction of Lyanna Stark|kidnap]] and a rape. These events set up a [[Robert's Rebellion|rebellion]] led by [[Robert Baratheon]], in which Barristan never wavered in his loyalty to House Targaryen, in accordance with the vows he swore when he joined the [[Kingsguard]]; he fought alongside Rhaegar's army at the [[Battle of the Trident]], where Rhaegar was killed and Selmy was wounded. Both Robert Baratheon and [[Eddard Stark|Ned Stark]] held Ser Barristan in very high esteem. Upon assuming the [[Iron Throne|throne]], in spite of [[Roose Bolton]]'s advice to [[Execution|execute]] Selmy, Robert pardoned him and made him [[Lord Commander of the Kingsguard]].<ref>[http://viewers-guide.hbo.com/game-of-thrones/season2/#!/guide/houses/jbaratheon/barristan-selmy/ HBO viewers guide, season 2 guide to houses, House Baratheon of King's Landing - Barristan Selmy entry]</ref>
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+[[File:Jaime Lannister and Barristan Selmy.jpg|thumb|Jaime and Barristan discuss their first kills.]]
+[[Robert Baratheon|Robert]], Ser Barristan Selmy, and [[Jaime Lannister|Jaime]] swap war stories in the [[Red Keep]]. Barristan recalls his first kill as being a [[Tyrosh]]i soldier whose name he never knew. Barristan killed him with a [[Armament|lance]] to the heart. Barristan and Jaime also discuss their campaign against the [[Kingswood Brotherhood]], when Barristan slew [[Simon Toyne]] in single combat while Jaime scored his own first kill - an outlaw he decapitated - as a squire of sixteen.{{Ref|GOT103}} Selmy attends the King at the [[tournament]] thrown in honor of [[Lord of Winterfell|Lord]] [[Eddard Stark]]'s appointment as [[Hand of the King]].{{Ref|GOT104}}
+
+[[File:Barristan and Eddard.jpg|thumb|Barristan Selmy talks with Lord Stark.]]
+Barristan stands vigil for Ser [[Hugh of the Vale]] after his death in a [[tournament]] accident. Eddard quizzes him over Hugh's death at the hands of [[Gregor Clegane]], and how the lots are drawn to determine which knight will face another in the contests, still suspicious of [[House Lannister]]. Eddard states that, in [[Rickard Stark|his father]]'s opinion, Barristan was the finest knight in the Seven Kingdoms. Barristan acknowledges that the [[Aerys II Targaryen|Mad King]]'s [[Execution of Rickard and Brandon Stark|murder]] of Eddard's father was a grave crime and he is glad they did not cross swords at the [[Battle of the Trident]].{{Ref|GOT105}}
+
+[[File:Robert's hunting party.jpg|thumb|Barristan accompanies Robert on a hunting excursion.]]
+Barristan later accompanies Robert, his squire [[Lancel Lannister|Lancel]], and [[Renly Baratheon|Renly]] on a [[Assassination of Robert Baratheon|hunt]] in the [[Kingswood]]. The king reflects on how much better things used to be, but Renly angrily accuses him of nostalgic self-delusion before stomping off. Barristan is bemused by the exchange, as well as Lancel's constant refilling of Robert's wineskin.{{Ref|GOT106}} Robert tracks a boar and attempts to kill it singlehandedly. He takes a grievous wound but finishes the boar off with his dirk. Barristan bitterly claims to have failed the king as Robert lies on his deathbed, but Eddard counsels him that no one could protect Robert from himself.{{Ref|GOT107}}
+
+[[File:Barristan.png|thumb|Barristan reads the last words of King Robert.]]
+Barristan accompanies the wounded king's return trip to [[King's Landing]] and stands guard outside his chambers. After Robert's death, he stands guard in the throne room as [[Joffrey Baratheon|Joffrey]] commands his counselors to swear fealty to him. Barristan is shocked when Queen [[Cersei Lannister|Cersei]] destroys Robert's proclamation announcing that Eddard is to become the Protector of the Realm, but even more so when Eddard says that Joffrey has no claim to the [[Iron Throne]]. Cersei barks for Barristan to seize Eddard, and while he openly balks and hesitates, his unyielding loyalty wins out, and he reluctantly stalks toward Eddard. The situation escalating rapidly, during the ensuing melee, Eddard orders that Barristan is not to be harmed, but the [[City Watch of King's Landing|City Watch]] betrays and [[Massacre in the Red Keep|murders]] Eddard's men and takes Eddard prisoner instead.{{Ref|GOT107}}
+
+Joffrey later shocks the court by publicly dismissing Barristan from the Kingsguard - which is an irrevocable lifetime appointment - on the grounds of old age and the fact he failed to protect Robert. However, the reality is that Cersei is cleaning house by removing anyone from court who isn't a dedicated Lannister loyalist. Barristan's shock turns to outrage when Cersei announces that his position as Lord Commander of the Kingsguard is to be given to Jaime. Barristan openly denounces Jaime as "the man who profaned his blade with the blood of the King he had sworn to defend", causing Cersei to angrily rebuke him. Varys tries to defuse the situation by offering Selmy a keep to live in and servants to tend his needs out of respect for his years of service, but Ser Barristan bluntly refuses the offer, insulted at the council's attempt to fob him off with "a hall to die in and men to bury me". He tears off his cloak, breastplate, and some other items saying he is a knight and will die a knight. [[Petyr Baelish|Littlefinger]] crassly jokes that he will apparently be a "naked knight", prompting the whole court to laugh at him.{{Ref|GOT108}}
+
+[[File:Ser Barristan challenging the court..jpg|thumb|Ser Barristan challenges the remaining Kingsguard.]]
+However, their mockery abruptly comes to an end when Selmy draws his sword in fury, silencing the entire court. Though the other five Kingsguard members block his path to the Iron Throne and Joffrey, Barristan scornfully insists he could kill the other five Kingsguard as easily as "carving a cake", the pause that follows highlights how this is no idle threat as even the [[Sandor Clegane|Hound]] hesitates in attacking the legendary knight. However, Barristan concedes he is too badly outnumbered, and settles for throwing his sword at Joffrey's feet, coldly calling him "boy" and telling him to melt it down and add it to the others that make up the Iron Throne, before storming out in disgust, leaving the entire court dumbstruck in his wake.{{Ref|GOT108}}
+
+Ser Jaime was indeed named as the new Lord Commander in Barristan's place, though in absentia as he was captured by the Starks in [[Battle of Whispering Wood|battle]] before he could return to King's Landing. Jaime's own place in the Kingsguard was replaced by Joffrey's personal bodyguard [[Sandor Clegane]], an affront to the institution, as Sandor is not even a knight.{{Ref|GOT108}}
+
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+While imprisoned, Jaime Lannister tells [[Alton Lannister]] about his time as Ser Barristan's squire, describing him admiringly as "a painter who only used red".{{Ref|GOT207}}
+
+===[[Game of Thrones: Season 3|''Game of Thrones'': Season 3]]===
+[[File:Barristan meets daenerys.png|thumb|Barristan joins Daenerys.]]
+Barristan tracks down [[Daenerys Targaryen|Daenerys]] to [[Astapor]] in [[Slaver's Bay]], where he saves her from an assassination attempt by a [[Warlock (Valar Dohaeris)|member]] of the [[Warlocks]] of [[Qarth]], preventing a [[manticore]] from harming her. [[Jorah Mormont|Jorah]] identifies him to the young queen, and Selmy quickly bows to proclaim his loyalty to her, explaining that in serving her, he hopes to make amends for his failure to protect her family in [[Robert's Rebellion]]. Declaring that she is the rightful Queen of the Seven Kingdoms, he asks to serve in her Queensguard.{{Ref|GOT301}}
+
+[[File:Dany jorah selmy 3x03.jpg|thumb|Daenerys questions Jorah on Rhaegar and Robert's Rebellion.]]
+As Daenerys prepares to negotiate for the purchase of Astapor's [[Unsullied]], Barristan strongly argues against using slaves-soldiers as dishonorable. Jorah is in favor of using them, but Barristan retorts that when Daenerys's older brother [[Rhaegar Targaryen|Rhaegar]] led his army in the [[Battle of the Trident]], men fought and died for Rhaegar because they believed in him, because they loved him - not because they were slave soldiers whose free will had been stripped away. Jorah responds that Rhaegar indeed fought honorably and nobly, but that in the end Rhaegar died. Daenerys was born months after Robert killed Rhaegar at the Battle of the Trident, and only knew her cruel and half-mad brother [[Viserys Targaryen (son of Aerys II)|Viserys]], so she asks Ser Barristan if he knew Rhaegar. As a member of the Kingsguard at the time, Barristan knew Rhaegar well: he fought beside him and bled beside him at the Trident. Barristan says that Rhaegar was the finest man he ever met, the last dragon. Daenerys grows quiet and says she wishes she'd known her older brother, but that Rhaegar was not the last dragon (she is).{{Ref|GOT303}}
+
+[[File:Daenerys orders barristan and jorah to not question her.png|thumb|Daenerys orders Jorah and Barristan to never question her.]]
+Later, when Daenerys agrees to give the [[Good Masters]] her largest dragon in exchange for the Unsullied, Ser Barristan openly protests, begging her to win Westeros back with dragons, not slaves. Daenerys ignores him and completes the transaction. As they depart, the furious queen tells Barristan and Jorah that while she values their advice, they will be advising someone else if they question her in public again.{{Ref|GOT303}}
+
+[[File:Season 3 Ep 4 Dany.png|thumb|Barristan accompanies Daenerys to the trade.]]
+Ser Barristan is present when Daenerys receives custody of the Unsullied and observes her betrayal of the [[Good Masters]], including the immolation of Kraznys and orders the Unsullied to slaughter the slavers and free the [[Slavery|slaves]]. He survives the subsequent [[fall of Astapor]] and is overjoyed when the recently freed Unsullied agree to continue serving Daenerys. Along with Jorah and [[Missandei]], Ser Barristan rides out of the city at her side.{{Ref|GOT304}}
+
+[[File:Barristan and jorah.png|thumb|Jorah questions Barristan on his service to Robert.]]
+As the Targaryen host marches towards Yunkai, Ser Barristan and Jorah ride together and discuss a variety of topics. Barristan admits that Robert was a good man and a good warrior, but a terrible king. Barristan explains that a man of honor must keep his vows no matter what, whether he's serving [[Robert Baratheon|a drunk]] or [[Aerys II Targaryen|a lunatic]]. Barristan also explains that Robert never trusted him to do anything more than protect him, hence Barristan was barred from Small Council meetings, though the Lord Commander is usually the Small Council's military attaché.{{Ref|GOT305}}
+
+[[File:Barristan brings captains of the second sons.png|thumb|Barristan brings the captains of the Second Sons to Daenerys.]]
+Ser Barristan is present when Daenerys and Jorah gather reconnaissance on the [[Second Sons]] and confirms that their presence will pose a problem. He later presents the Second Sons' captains– [[Mero]] the Titan's Bastard, [[Prendahl na Ghezn]], and [[Daario Naharis]]– to the queen. He is incensed at the captains' attitude towards Daenerys during the meeting, but holds his tongue as per her instructions. When the captains leave, Daenerys tells Barristan that if they must fight the Second Sons, he is to kill Mero first. Ser Barristan responds that it would be his pleasure.{{Ref|GOT308}}
+
+[[File:Barristan waiting with daenerys and co.png|thumb|Barristan watches as Daenerys is welcomed by the freedmen.]]
+When Daario Naharis, Grey Worm, and Ser Jorah Mormont plan to infiltrate Yunkai, Ser Barristan offers his assistance. Jorah advises him to stay behind and protect Daenerys, as he is a member of her Queensguard. Ser Barristan is present alongside Daenerys when the group returns [[Battle in Yunkai|victorious]]{{Ref|GOT309}} and when she is welcomed of the freed slaves, who name her "''Mhysa''" ([[Old Ghiscari]] for "''Mother"'').{{Ref|GOT310}}
+
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+[[File:Barristan witnesses the crucified girls.png|thumb|Barristan witnesses the crucified slave children.]]
+Ser Barristan is present when Daenerys makes a morning inspection of her army. When she asks after Daario and Grey Worm, Barristan and Jorah inform her that they are "gambling". When she finds her itinerant commanders, Daenerys tells them that it is Barristan and Jorah who will ride at her side, since they didn't keep her waiting. Barristan is later present when Daenerys learns that every mile-marker from Yunkai to Meereen is decorated with the corpse of a slave child.{{Ref|GOT401}}
+
+Ser Barristan is at his queen's side at the gates of Meereen. He volunteers to fight Meereen's champion and mentions that he's probably won more duels than anyone else alive; Daenerys rejects his offer, as she wants to preserve his skills for more worthy foes.{{Ref|GOT403}} Ser Barristan is present when the so-called "Great Masters" are rounded up to be crucified like the slave children on the road to Meereen. He advises her against it, saying that sometimes, it is best to answer injustice with mercy. Daenerys shows her Targaryen blood by firmly declaring that she "will answer injustice with justice".{{Ref|GOT404}}
+
+[[File:Barristan at a council meeting.png|thumb|Barristan attends Daenerys's council.]]
+During a meeting in Meereen, Barristan Selmy is in favor of launching an invasion of Westeros. Ser Jorah councils that the Lannister forces outnumber them, but Selmy states that after the many battles they've fought in the [[War of the Five Kings]] their army is dispersed, tired, and [[Purple Wedding|their king is dead]]. Barristan believes with their current forces and the element of surprise, they could take King's Landing. Barristan also believes that the old Houses will flock to support Daenerys, but Jorah counters that the old Houses will only side with who they believe will win.{{Ref|GOT405}}
+
+Barristan is present when a goatherd and [[Hizdahr zo Loraq]] are given audiences with Daenerys Targaryen in Meereen. On the other side of the world, Varys informs the Small Council that Barristan did not take kindly to his dismissal from the Kingsguard, and is now one of Daenerys's advisors. Cersei dismisses Barristan as an old man who was not fit to protect Joffrey. [[Tywin Lannister|Tywin]] disagrees, saying her decision to dismiss Barristan was as insulting as it was stupid, because of the old knight's reputation; he also points out that Joffrey did not die under Barristan's watch.{{Ref|GOT406}}
+
+[[File:Barristan confronts jorah.png|thumb|Barristan confronts Jorah on his former espionage.]]
+Outside Meereen, as Barristan watches the Unsullied taking down the bodies of the crucified masters, a small boy approaches him, giving him a scroll bearing the seal of the [[Hand of the King|Hand]]. He reads its contents slowly in consternation. He confronts Ser Jorah: the document is a royal pardon signed by Robert Baratheon. Barristan surmises Jorah spied on Daenerys. Jorah begs to be allowed to speak with her privately, but Barristan tells him that he will never allow Jorah to be alone with her again. He is later present when Jorah is banished from Daenerys's service.{{Ref|GOT408}}
+
+Ser Barristan remains at Daenerys's side when she meets with more supplicants. He is present when a former slave [[Fennesz]] requests to resell himself to his [[Mighdal|former master]] and when the [[Zalla|charred bones]] of a [[goatherd]]'s daughter are presented to Daenerys.{{Ref|GOT410}}
+
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+Ser Barristan presents the mask found on the body of [[White Rat]], who was murdered by a member of a group called the [[Sons of the Harpy]], to Daenerys. She orders the murdered Unsullied to be given a public funeral in the [[Temple of the Graces]]. Barristan warns that the Sons will see that as another reason to oppose Daenerys, but she hopes it will make them easier to find and eliminate.{{Ref|GOT501}}
+
+[[File:5x02-04.jpg|thumb|Barristan advises Daenerys on the captured Son of the Harpy. ]]
+When a [[Son of the Harpy|member]] of the Sons of the Harpy is discovered and arrested, Barristan counsels that the man should be given a fair trial rather than simply executing him. Daenerys dismisses everyone present and thanks them for their counsel, but Barristan wishes to have a word with her in private, insisting she has to learn the truth about her father. Daenerys assumes he is merely repeating the lies of "traitors", but Barristan insists it is indeed the truth. He reveals how her father set towns and castles aflame, murdered [[Brandon Stark|sons]] in front of their [[Rickard Stark|fathers]], and burned men alive with [[wildfire]]. These brutal actions lead to [[Robert's Rebellion|revolt]] which toppled the Targaryen dynasty. Barristan states that Aerys ordered these brutalities because he thought he was dispensing "justice" and it made him feel powerful, until the [[Sack of King's Landing|very end]]. Heeding his advice, Daenerys decides that a fair trial will be held. Unfortunately, a trial never takes place, as [[Mossador]] murders the Son of the Harpy. Barristan is later present when Mossador is publicly beheaded by [[Daario Naharis]] on the order of Daenerys.{{Ref|GOT502}}
+
+Atop the Great Pyramid with Daenerys, Barristan reminisces about the times he spent with Rhaegar. He recalls that he accompanied Rhaegar whenever he left to [[Red Keep]] to sing to the [[smallfolk]] with his harp. Barristan guarded Rhaegar and collected the money, which they would donate to another minstrel, an orphanage, and once they used their earnings to get very drunk.{{Ref|GOT504}}
+
+[[File:Barristan selmy sons of the harpy.jpg|thumb|Barristan senses danger.]]
+Daenerys is very surprised, who only knew Rhaegar as a great warrior from stories Viserys told her. Daario appears to tell Daenerys that Hizdahr and many more supplicants are waiting for her. With Daario already guarding her, Barristan decides not to attend. Later, Barristan is walking through the streets of Meereen when he hears the bells toll and notices many civilians fleeing in terror.{{Ref|GOT504}}
+
+[[File:GOT 504 Grey WOrm Barristan.jpg|thumb|Barristan succumbs to his wounds.]]
+Drawing his sword, he discovers the Sons of the Harpy have ambushed and murdered several Unsullied soldiers and Grey Worm, severely wounded, making his last stand. Barristan draws several of the Sons of the Harpy away from Grey Worm, cutting down a number of them before being stabbed multiple times. Before Barristan can be finished off, Grey Worm manages to kill the last Son of the Harpy. Grey Worm struggles to check if Barristan is still alive, but sees that the old knight has succumbed to his wounds.{{Ref|GOT504}}
+
+Ser Barristan's body is laid to rest within the throne room in the [[Great Pyramid of Meereen]]. In reaction to Barristan's death, Daenerys angrily rounds up each of the leaders of Meereen's noble families in the catacombs where Viserion and Rhaegal reside, and feeds two of the Great Masters to her dragons in order to intimidate the rest. However, she later regrets taking revenge and decides to instead secure her bondage with the noble people of Meereen by reopening the fighting pits and wedding herself to [[Hizdahr zo Loraq]].{{Ref|GOT505}}
+
+===[[Game of Thrones: Season 8|''Game of Thrones'': Season 8]]===
+While flipping through the ''[[Book of Brothers]]'', [[Brienne of Tarth|Brienne]], the new Lady Commander of the Kingsguard under [[Bran Stark|Brandon I Stark]], comes across the section on Barristan Selmy detailing his many great deeds as a knight of the Kingsguard.{{Ref|GOT806}}
+
+==Personality==
+{{ReferencesSection}}
+A seasoned knight, Barristan Selmy served under the Kingsguard of King Aerys Targaryen and Robert Baratheon and protected them both all his life. Though he was an old man when he came into the service of Robert and Daenerys Targaryen, Barristan was a courageous and fierce fighter who could duel evenly with much younger and skilled swordsman, once even claiming that he could cut into the five Kingsguard like "carving a cake" (considering that barely any of the Kingsguard present were especially skilled warriors and even the Hound hesitated to draw his sword, this was probably true).{{Ref|GOT108}} He valued honor greatly, first seen in his conversation with Ned Stark where he acknowledged that what the Mad King had done to the Starks was a "terrible crime" and expressed appreciation that he and Ned had never fought during the Rebellion.{{Ref|GOT105}} Barristan also grew disgusted how Cersei and Joffrey were weeding the Small Council and court with sycophants; in rage he surrendered his title of Lord Commander but refused Varys's offer as he was a knight and would die a knights death. Like most honorable men, Barristan held some mistrust towards the Kingslayer, Jaime Lannister; although the two men had mutual respect for each others' skills, Barristan still saw his murder of Aerys as a very dishonorable act, and although he did not treat him with open contempt, he believed it would be dishonorable to reward Jaime with command of the Kingsguard after what he had done.{{Ref|GOT108}}
+
+However, Barristan's dutiful personality occasionally put him at odds with his sense of morality. As a knight does not question or go against the wishes of his King, no matter what the King does or will do, with the Mad King, he could only watch as Aerys burnt innocent people alive and do nothing about it due to the oath he had sworn. While this exemplified the fact that he was an extremely honorable man, it also marred his conscience for the rest of his life. He served Robert Baratheon faithfully on the basis that Robert was more or less a fundamentally good man, even though he was also an extremely ineffective King. However, when Joffrey relinquished him entirely, Barristan vowed to serve under a king who he was proud to serve and believed in. His loyalty to his monarch was such that he was verbally incredulous when Cersei tore up Robert's final decree, stating that they were the King's words.{{Ref|GOT107}}
+
+Barristan was also a deep supporter of House Targaryen. Though he was horrified regarding the acts that Aerys committed, he still fought to retain the Targaryen Dynasty during the Sack of King's Landing and was close with Rhaegar, Aerys's son whom he guarded. Though he served under the man who killed Rhaegar and stole Aerys's throne, he continued to support the Targaryens and finally assisted the Mad King's last living heir, Daenerys in helping her seize her birthright. Ser Barristan Selmy was extremely brave, being completely able to confront a ring of Sons of the Harpy with only a sword and no armor, while his faceless opponents had the advantage of armored faces, numbers and weapons. Barristan fought incredibly well for a man of his age, cutting down a great number of the Sons without even crossing swords twice, even continuing after he was severely wounded and disoriented - what is fitting is that one of the greatest warriors that the Seven Kingdoms knew died the way he always wanted to, fighting against the forces of a malevolent and dangerous enemy with a sword in hand.{{Ref|GOT504}}
+
+==Quotes==
+===Spoken by Barristan===
+{{Quote|I am a knight! I shall ''die'' a knight!|Ser Barristan to [[Cersei Lannister]], defying her (unlawful) attempt to dismiss him from the Kingsguard.|The Pointy End}}
+{{Quote|Even now I could cut through the five of you like carving a cake!|Barristan to the other members of the Kingsguard.|The Pointy End}}
+
+{{Dialogue a-b|Barristan Selmy|When your brother [[Rhaegar Targaryen|Rhaegar]] led his army into battle at the Trident, men died for him because they believed in him, because they loved him. I fought beside the last dragon on that day, your Grace. I bled beside him.|Jorah Mormont|Rhaegar fought valiantly, Rhaegar fought nobly. And Rhaegar died.|Barristan Selmy and [[Jorah Mormont]] to [[Daenerys Targaryen]].|Walk of Punishment (episode)}}
+
+{{Dialogue a-b-a|Daenerys Targaryen|Did you know him well, Ser Barristan?|Barristan Selmy|I did, your Grace. Finest man I ever met.|I wish I had known him, but he was not the last dragon.|Barristan recalls Prince [[Rhaegar Targaryen]]|Walk of Punishment (episode)}}
+
+{{Dialogue a-b-a-b-a|Barristan Selmy|Your Grace, I served in [[Aerys II Targaryen|his]] Kingsguard. I was at his side from the first. Your enemies did not lie.|Daenerys Targaryen|Go on.|When the people rose in revolt against him, your father set their towns and castles aflame. He murdered [[Brandon Stark|sons]] in front of their fathers. He burned [[Rickard Stark|men]] alive with [[wildfire]] and laughed as they screamed. And his efforts to stamp out dissent led to a rebellion that killed every Targaryen, except two.|I'm not my father.|No, your Grace. Thank the Gods. But the Mad King gave his enemies the justice he thought they deserved, and each time, it made him feel powerful and right, until the very end.|Barristan implores [[Daenerys Targaryen|Daenerys]] not to make the same mistakes her [[Aerys II Targaryen|father]] did.|The House of Black and White}}
+
+===Spoken about Barristan===
+{{Quote|My father once told me you were the best he'd ever seen. I never knew the man to be wrong about matters of combat.|[[Eddard Stark]]'s opinion of Barristan.|The Wolf and the Lion}}
+
+{{Dialogue a-b-c|Varys|As for Ser Barristan, it would seem he took his dismissal from the Kingsguard a bit harder than anticipated.|Cersei Lannister|He's an old man. He wasn't fit to protect my son.|Tywin Lannister|Joffrey didn't die on his watch. Dismissing him was as insulting as it was stupid.|The Small Council discuss the backlash of dismissing Barristan.|The Laws of Gods and Men}}
+
+{{Quote|Barristan the Bold, they called him. He crossed a continent to serve me; he was a loyal friend. And he died in an alley, butchered by cowards who hide behind masks.|Daenerys Targaryen, mourning Ser Barristan's death.|Kill the Boy}}
+
+==In the books==
+[[File:Roman Papsuev - Barristan Selmy.png|thumb|300px|right|Barristan Selmy by Roman "Amok" Papsuev.©]]
+In the ''[[A Song of Ice and Fire]]'' novels, Barristan Selmy is one of the most skilled and respected knights in the [[Seven Kingdoms]]. He started learning the art of combat as a small child and was taking part in tourneys while barely a teenager (he earned the epithet "Barristan the Bold" when he disguised himself as a knight and jousted with a Targaryen prince when he was only ten years old). He was made a member of the Kingsguard at the age of 23 and proved his valor in the [[War of the Ninepenny Kings]], where he slew Maelys the Monstrous, the last of the [[House Blackfyre|Blackfyre]] Pretenders, in combat on the [[Stepstones]]. He also rescued Aerys from the rebellious Darklyns during the [[Defiance of Duskendale]]; in the aftermath, he pleaded for the infant [[Dontos Hollard]] to be spared Aerys's wrathful destruction of both Houses [[House Darklyn|Darklyn]] and [[House Hollard|Hollard]], a boon Aerys reluctantly granted in recognition of Barristan's bravery resucing him.
+
+One of Ser Barristan's most famous heroic deeds was the campaign against the notorious outlaw gang known as the [[Kingswood Brotherhood]], in which he, Arthur Dayne, Lord Sumner Crakehall, and Jaime participated. At that battle, Ser Barristan killed the Brotherhood's leader [[Simon Toyne]] and rescued Lady Jeyne Swann and her septa. Unlike mentioned in the TV series, Jaime was fifteen years old then; he served as a squire for Lord Sumner Crakehall, not for Ser Barristan; he did not kill any of the outlaws, but crossed swords with the Smiling Knight (who was killed by Arthur Dayne) and saved his master from another of the Brotherhood. As a reward for his valor, Jaime was knighted by Arthur Dayne that day.
+
+It is implied that Barristan has been in love with [[Ashara Dayne]]; even though many years passed since her death, he still thinks about her. He regrets losing to Rhaegar during the tourney at Harrenhal, otherwise he could have named Ashara the queen of love and beauty.
+
+Like many, Barristan was disturbed by the increasing insanity of King Aerys, but continued to serve the Targaryens due to his strong belief in keeping his vows. Indeed, by the end Barristan (along with many others) wasn't really serving the Mad King so much as he was serving Rhaegar, who it was generally thought would be a great king when it came time to succeed. Most were hoping to simply wait out the remainder of Aerys's kingship until he died and Rhaegar succeeded him, rather than deal with the moral dilemma of rebelling against their sworn king.
+
+During [[Robert's Rebellion]], Ser Barristan remained true to Aerys; after the royalist defeat at the [[Battle of the Bells]], Aerys sent Barristan and his fellow Kingsguard Ser [[Jonothor Darry]] to rally what was left of [[Jon Connington]]'s forces and march them to link up with the army mustered by Prince Rhaegar. Barristan fought alongside Rhaegar at the [[Battle of the Trident]], where he took grievous wounds and was captured; [[Roose Bolton]] urged that he should be killed, but [[Robert Baratheon]] was inspired by the great loyalty and bravery Barristan had displayed during the battle, so Robert not only spared his life, but sent his own personal [[Order of Maesters|maester]] to treat Barristan's injuries. By the time he had recovered, Rhaegar and King Aerys were both dead and Robert enthroned. Barristan was convinced to remain in the Kingsguard to provide continuity on the basis of his reputation for honor and steadfastness. That said, he was appalled by the brutality unleashed by Tywin in [[Sack of King's Landing|taking King's Landing]], particularly the murders of Princess [[Elia Martell]] and her children by Rhaegar (in a private moment, Barristan thinks that had he been present when Tywin presented the bodies of Elia, [[Rhaenys Targaryen (daughter of Rhaegar)|Rhaenys]], and [[Aegon Targaryen (son of Elia Martell)|Aegon]] to Robert as a sign of his loyalty, Barristan would have killed Robert on the spot if the latter had shown ''any'' satisfaction at the deaths of Rhaegar's family.)
+
+Five of Aerys's Kingsguard were killed during Robert's Rebellion, all except for Barristan and Jaime. Rarely, if ever, have so many vacancies occurred at once in the Kingsguard. Many of the replacements were the result of political appointments made to appease other Houses rather than being selected for either valor or skill at arms. As a result, Robert's Kingsguard was considered to be one of the worst in its history, with many regarding Barristan and Jaime as the only true remaining knights of the Kingsguard. While Jaime was considered to certainly be one of the most formidable swordsmen in all of the Seven Kingdoms, his retention in the group after his murder of King Aerys was particularly controversial. As a result, many throughout the realm considered Ser Barristan to be the only true and honorable living member of the Kingsguard. It is also mentioned that Selmy never wanted Jaime in the Kingsguard; before Robert's Rebellion, Selmy thought Jaime too young and unready and afterwards he believed Jaime should be exiled to the [[Night's Watch]]. 
+
+In the novels, Selmy also sits on the King's [[Small Council]] and advises the King, particularly on military matters, and he takes Ned Stark's side that an assassination contract should not be taken out on the now pregnant Daenerys Targaryen. He does not appear at the council in the TV series.
+
+Dismissing Selmy from the Kingsguard was [[Varys]]'s idea. Ostensibly it is because of Ser Barristan's advanced age, but in truth it is to allow Jaime to be appointed Lord Commander, and so Joffrey can both scapegoat someone for Robert's death and reward the Hound with the vacant Kingsguard place. A disgusted Barristan throws his sword at Joffrey's feet, telling him to melt it down and add it to his throne, and declares his contempt for Jaime and the rest of the Kingsguard (stating that [[Meryn Trant]] and his ilk do not deserve to wear the white cloak if they are willing to serve under the command of the Kingslayer). He predicts that [[Stannis Baratheon|Stannis]] will take the Iron Throne from the boy-king with ease, and then storms off, stopping at the [[White Sword Tower]] to collect his belongings and dutifully record his own dismissal in the [[Book of Brothers|White Book]]. Joffrey decides that Barristan's last words were treasonous and orders [[Janos Slynt]] to arrest Selmy. Slynt and two other gold cloaks catch him at the stables but Selmy, armed only with a knife, kills one and escapes the Red Keep (Cersei later complains Slynt arrogantly never considered Selmy might refuse to come quietly). They catch up to him at the [[River Gate]], but Selmy kills two more gold cloaks and disappears. Varys's reasons for the dismissal become clear later, as Selmy can now join Daenerys Targaryen, something [[Illyrio Mopatis]] arranges for him.
+
+Later, Selmy admits: "I might be serving in King's Landing still if the vile boy upon the Iron Throne had not cast me aside, it shames me to admit. But when he took the cloak that [[Gerold Hightower|the White Bull]] had draped about my shoulders, and sent men to kill me that selfsame day, it was as though he'd ripped a caul off my eyes. That was when I knew I must find my true king, and die in his service". It was at that point Barristan realized how far he had fallen, having spent so many years defending the man who'd overthrown his rightful king and serving alongside treacherous scum like the Kingslayer and others just as bad; Barristan recognized that Robert had been a good warrior but a bad king, for he had no right to the throne he sat upon, and decided he had to find the rightful Targaryen heir to the Iron Throne and make amends for his sins, or die in the attempt.
+
+Selmy sells his sword and armor, disguises himself as a beggar, and hides in the capital instead of returning to his family's lands, not wanting to cause them trouble because of Joffrey's quarrel with him. He recounts at one point that he was present in disguise at the [[Great Sept of Baelor]] when [[Execution of Eddard Stark|Ned Stark was executed]], and afterwards went into the Great Sept to pray for Eddard and thank the seven gods that Joffrey had stripped him of his cloak (despite Ned's attempt to depose Joffrey, Barristan continues to remember and defend Eddard as an honorable man, even against Daenerys when she disparages Ned). Ned's execution was not what caused Selmy's change of heart - it was his earlier shameful dismissal by Joffrey. It is likely that had Selmy continued to serve Joffrey, he'd have stood still during the execution and done nothing to save Ned, the same way he acted years ago at the [[Execution of Rickard and Brandon Stark|execution of Ned's father and brother]], or in any other occasion he witnessed the Mad King's atrocities.
+
+For some time afterwards, Ser Barristan's whereabouts are a mystery in Westeros. During their meeting, Renly asks [[Catelyn Stark|Catelyn]] if Barristan has joined [[Robb Stark|Robb]]. He tells her that the rainbow cloak of his guard that he bestowed on Brienne was the one he had been saving for Barristan Selmy, as he had expected Selmy to show up to support him after being dismissed by Joffrey. When Catelyn confirms that Selmy is not with the Stark host, Renly assumes Barristan is with Stannis; as he prepares for battle with Stannis's army at Storm's End, Renly orders his knights to spare Selmy's life should they encounter him fighting for Stannis.
+
+When [[Tyrion Lannister|Tyrion]] arrives in King's Landing, he berates Cersei for dismissing Barristan, whom he says is now sure to join up with one of their enemies. As a revered figure in Westeros, Barristan gives honor and prestige to whoever he serves. Him pledging to the cause of one of the rival claimants to the Iron Throne would give them legitimacy in the eyes of the smallfolk, which Cersei is forced to admit she simply had not considered (one of a growing string of follies in which Cersei doesn't think out the obvious long-term repercussions of her actions). This is of course exactly what happens, but everyone assumed that Barristan would seek out the "rightful heir" by supporting the claim of Stannis or possibly his younger brother Renly, or else might join the Starks. None suspected that Barristan would leave Westeros in search of the surviving [[House Targaryen|Targaryen]] heir, Daenerys.
+
+While on the run, Barristan grows his hair and beard (much longer than in the show) as a precaution and adopts the alias "Arstan Whitebeard". The disguise works so well that no one recognizes him despite being famous all over Westeros and outside of it. When he first meets Daenerys, he presents himself as an old man in service to Illyrio Mopatis, and squire to a eunuch pit-fighter named Strong Belwas, who has thus far not appeared in the series. Ser Barristan foils the assassination attempt on Dany using a staff, rather than a dagger as in the series. Furthermore, he meets her on the docks of [[Qarth]] as she is about to leave for [[Astapor]], not on the docks of Astapor when she arrives there. Jorah Mormont is suspicious of "Arstan", whom he dubs "the world's oldest squire", but does not recognize him.
+
+During the [[Siege of Meereen]], Barristan saves Daenerys again, this time from [[Mero]], using a staff to fend him off until a mob of enraged freedmen overpower and kill Mero. Jorah is astonished that a squire could overcome Mero. Only then does he realize who "Arstan" really is, and Ser Barristan reveals himself to Daenerys before revealing that Jorah was spying on her for Varys.
+
+The TV series cut the "Arstan Whitebeard" subplot, simply having Barristan reveal his true identity as soon as he meets Daenerys and Jorah. It is possible that it was left out of the adaptation because while the true identity of "Arstan" was a surprise for book readers, TV viewers would visually recognize him. Moreover, the TV series moved around the chronology so that Daenerys only learns about Jorah's betrayal at the end of Season 4, meaning that Barristan would have had to spend two full seasons with Daenerys but without revealing Jorah's secret. The TV series ''did'' take care to alter events to make this change fit: Barristan is simply not present at the Small Council meeting in Season 1 during which Jorah's spying activities are being discussed. In Season 3 episode "[[Kissed by Fire]]", the writers went so far as to have Jorah fear that Barristan knew of his spying from Small Council meetings. Barristan explains that Robert did not trust an old Targaryen loyalist to attend his council meetings, and Barristan was content to avoid them anyway because he disliked politics. In addition, when Jaime asks Pycelle (in season 6 episode "[[Oathbreaker]]") whether the Lord Commander of the Kingsguard has a place on the Small Council, Pycelle answers that Gerold Hightower ''did'' sit on the Small Council under Aerys, but Robert "saw things differently". Thus the official change was established that in the TV continuity Barristan simply never knew that Jorah was spying.
+
+Furious and disgusted as well as feeling betrayed, Daenerys dismisses both men and gives them a suicide mission: to help her capture [[Meereen]] by infiltrating the city via its sewer system. Though Daenerys hoped that she had gotten rid of the two, however, both Ser Barristan and Ser Jorah miraculously survive and help her take the city. They are called before her again. Barristan humbly begs forgiveness for his deception, and for abandoning her family after Robert took the throne. He explains that he kept his identity a secret to prevent the Lannisters discovering his whereabouts, and to observe Daenerys and get to know her better, to determine that she did not have the same [[Targaryen madness|streak of insanity]] as her father. He pledges to serve her in any role she sees fit for him, even a cook or a [[fool]]. Daenerys pardons Ser Barristan and appoints him to her Queensguard, but banishes Jorah.
+
+While Daenerys and [[Hizdahr zo Loraq]] attend the games at the [[Great Pit of Daznak]], Ser Barristan notices that Hizdahr is offering Daenerys a bowl of honeyed locusts. Luckily (for the locusts are poisoned), she does not eat them. Strong Belwas eats a lot of them, soon becomes ill, and nearly dies as a result. The sudden appearance of [[Drogon]] causes a general panic, and Ser Barristan cannot get to his queen in time before she departs on Drogon's back. This caused him to blame himself for failing her, as much as he failed [[Rhaegar Targaryen|her brother]], [[Aerys II Targaryen|her father]], and even [[Robert Baratheon|Robert]].
+
+As Hizdahr zo Loraq takes over Meereen, Ser Barristan is unsure whether he is bound to be loyal to him, in Daenerys's absence. Gradually he grows suspicious of Hizdahr, recalling how he begged Daenerys to taste the poisoned locusts but did not eat them himself, and also in view of Hizdahr's indifference to Daenerys's departure and the way he behaves toward the [[Yunkai]]. Ser Barristan becomes convinced that Hizdahr is collaborating with the [[Sons of the Harpy]] (maybe he is even their leader) and with the Wise Masters of Yunkai as well - since all of them have a common goal: to dispose of Daenerys and restore the slave trade in Meereen. He confronts Hizdahr and demands to know who is the Harpy. Angry and frightened, Hizdahr calls his bodyguard Khrazz to protect him. Khrazz, two stone heavier than Ser Barristan and forty years younger, feels overconfident, which turns out to be his undoing. Ser Barristan kills him in a duel and throws Hizdahr in jail. Then he and other loyal servants of Daenerys form a council to rule Meereen in her absence, with Ser Barristan in charge as the Queen's Hand.
+
+Ser Barristan is not killed by Sons of the Harpy and in fact survives the fifth novel to become a minor POV — that is, a minor protagonist with his own chapters, starting from the point Daenerys leaves Meereen.
+
+In a sample chapter from ''The Winds of Winter'', he is last seen leading his men in the [[Second siege of Meereen#In the books|second siege of Meereen]] against the armies of Yunkai and their sellsword companies, as well as an outside Ironborn attack led by [[Victarion Greyjoy]]. He is left unsure what to do when he sees the [[House Greyjoy]] banner on the battlefield as the ironborn come ashore.
+
+According to the TV series official [[pronunciation guide]] developed for the cast and crew, "Barristan Selmy" is pronounced "BAIR-iss-tin SELL-mee", as opposed to "BARR-iss-stan", etc.
+
+==Gallery==
+<gallery>
+Barristan-Selmy-Profile-HD.png
+Silent Sisters.png|Lord Eddard and Ser Barristan stand before the body of Ser Hugh of the Vale in [[The Wolf and the Lion]].
+Robert's hunting party.jpg|Ser Barristan accompanies King [[Robert Baratheon]] hunting in "[[A Golden Crown]]".
+Barristan_Manticore_S3_Ep1.jpg|Barristan kills the attacking [[manticore]].
+Selmy-S3.jpg|Barristan Selmy in "[[Valar Dohaeris]]".
+410 White Book Barristan Selmy's page.png|Ser Barristan's entry in the ''[[Book of Brothers]]''
+GOT_504_Grey WOrm Barristan.jpg|[[Grey Worm]] holds Barristan in "[[Sons of the Harpy (episode)|Sons of the Harpy]]".
+</gallery>
+
+==Appearances==
+*{{GOT|Lord Snow}}
+*{{GOT|Cripples, Bastards, and Broken Things}}
+*{{GOT|The Wolf and the Lion}}
+*{{GOT|A Golden Crown}}
+*{{GOT|You Win or You Die}}
+*{{GOT|The Pointy End}}
+*{{H&L|The Sack of King's Landing - House Baratheon}} {{Mentioned}}
+*{{GOT|A Man Without Honor}} {{Mentioned}}
+*{{H&L|Greyjoy Rebellion - Theon Greyjoy}} {{Illustrated}}
+*{{H&L|Greyjoy Rebellion - Stannis Baratheon}} {{Mentioned}}
+*{{GOT|Valar Dohaeris}}
+*{{GOT|Walk of Punishment}}
+*{{GOT|And Now His Watch Is Ended}}
+*{{GOT|Kissed by Fire}}
+*{{GOT|The Bear and the Maiden Fair}}
+*{{GOT|Second Sons}}
+*{{GOT|The Rains of Castamere}}
+*{{GOT|Mhysa}}
+*{{H&L|Robert's Rebellion - Petyr Baelish and Varys}} {{Mentioned}}
+*{{H&L|The Stormlands}} {{Illustrated}}
+*{{GOT|Two Swords}}
+*{{GOT|Breaker of Chains}}
+*{{GOT|Oathkeeper}}
+*{{GOT|First of His Name}}
+*{{GOT|The Laws of Gods and Men}}
+*{{GOT|The Mountain and the Viper}}
+*{{GOT|The Children}}
+*{{H&L|The Kingsguard - Jaime Lannister}} {{Illustrated}}
+*{{H&L|The Death of Kings}} {{Illustrated}}
+*{{GOT|The Wars To Come}}
+*{{GOT|The House of Black and White}}
+*{{GOT|Sons of the Harpy}}
+*{{GOT|Kill the Boy}} {{Corpse}}
+*{{H&L|Robert's Rebellion - Barristan Selmy}} {{Voice}}
+*{{H&L|War of the Ninepenny Kings}} {{Illustrated}}
+*{{H&L|The Great Tourney at Harrenhal}} {{Illustrated}}
+*{{C&R|The Last Dragons}} {{Illustrated}}
+*{{GOT|The Iron Throne}} {{Text}}
+*{{H&L|The Blackfyres}} {{Illustrated}}
+*{{H&L|The Defiance of Duskendale}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|AKOTSK}}
+*{{HBO|game-of-thrones/cast-and-crew/barristan-selmy}}
+
+<!--Succession box-->
+{{S-start}}
+{{Succession box
+ | title  = [[Lord Commander of the Kingsguard]]
+ | years  = [[281 AC|281]] - [[298 AC]]
+ | with   = 
+ | before = [[Gerold Hightower]]
+ | after  = [[Jaime Lannister]]
+}}
+{{S-end}}
+
+<!--Navboxes-->
+{{House Targaryen}}
+{{Kingsguard of Aegon V Targaryen}}
+{{Kingsguard of Aerys II Targaryen}}
+{{Kingsguard of Robert I Baratheon}}
+{{Kingsguard of Joffrey I Baratheon}}
+{{Queensguard of Daenerys Targaryen}}
+{{Histories & Lore}}
+
+<!--Categories-->
+{{DEFAULTSORT:Selmy, Barristan}}
+[[Category:Exiles]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Individuals from Game of Thrones: Conquest & Rebellion: An Animated History of the Seven Kingdoms]]
+[[Category:Individuals narrating Histories & Lore]]
+[[Category:Kingsguard of Aerys II Targaryen]]
+[[Category:Kingsguard of Joffrey I Baratheon]]
+[[Category:Kingsguard of Robert I Baratheon]]
+[[Category:Knights]]
+[[Category:Lords Commander of the Kingsguard]]
+[[Category:Members of House Selmy|Barristan Selmy]]
+[[Category:Queensguard of Daenerys Targaryen]]
+[[Category:Stormlanders]]
+
+<!--Languages-->
+[[de:Barristan Selmy]]
+[[es:Barristan Selmy/Game of Thrones]]
+[[fr:Barristan Selmy]]
+[[nl:Barristan Selmy]]
+[[pl:Barristan Selmy]]
+[[ru:Барристан Селми]]
+[[zh:巴利斯坦·赛尔弥]]

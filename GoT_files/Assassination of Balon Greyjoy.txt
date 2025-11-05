@@ -1,0 +1,103 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Thrones
+| Part          = the [[War of the Five Kings]]
+| Image         = Balon-Euron-Game-of-Thrones-Home.png
+| Previous      = [[Fight by Deepwood Motte]]
+| Concurrent    = 
+| Next          = [[Kingsmoot on Old Wyk]]
+| Date          = [[303 AC]]{{Dateref|Game of Thrones: Season 6}}
+| Place         = [[Pyke]], [[Pyke (island)|Pyke]], [[Iron Islands]]
+| Outcome       = *Death of [[King of the Iron Islands|King]] [[Balon Greyjoy]]
+*Stage set for the [[kingsmoot on Old Wyk]]
+| Factions1     = {{COA|House Greyjoy|small}} [[Salt Throne]]
+| Factions2     = {{COA|Euron Greyjoy|small}} [[Euron Greyjoy]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = 
+| Leaders2      = 
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = {{COA|House Greyjoy|i}} [[King of the Iron Islands|King]] [[Balon Greyjoy]] †
+| Participants2 = {{COA|Euron Greyjoy|i}} [[Euron Greyjoy]]
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = Balon Greyjoy
+| Casualties2   = None
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Quote|You're old, brother.  You've had your time.  Now let another rule.|[[Euron Greyjoy]] and [[Balon Greyjoy]]|Home}}
+The '''assassination of Balon Greyjoy''' is an event during the [[War of the Five Kings]] which sees the death of [[Balon Greyjoy]], [[King of the Iron Islands]], at the hands of his own younger brother, [[Euron Greyjoy]].
+
+==History==
+===Prelude===
+Several years prior to his return, [[Balon Greyjoy]] exiles his brother [[Euron Greyjoy|Euron]]. Along the years, Euron establishes himself as a feared pirate captain throughout Westeros and Essos.
+
+===Brothers reunite===
+After [[Yara Greyjoy|Yara]] informs Balon that [[House Glover]] has [[Fight by Deepwood Motte|retaken Deepwood Motte]] and they have no more holdings mainland, Balon states that he does not care and intends to send more ironborn to raid and hold the North. However, as he walks onto a bridge between two towers of Pyke during a storm, he encounters Euron, who has returned to the Iron Islands following the deaths of [[Tywin Lannister|Tywin]] and [[Stannis Baratheon|Stannis]]. After a brief exchange in which Euron makes it clear he has come to replace his brother, Balon draws a knife and slashes Euron across the face, but Euron retaliates by wrestling Balon over the bridge, sending him falling to his death.<ref name=":0">"[[Home]]"</ref>
+
+===Aftermath===
+[[File:Home 23.jpg|thumb|[[Balon Greyjoy]]'s funeral.]]
+
+A funeral is held for Balon, where Yara vows to avenge her father, obviously expecting to succeed him. [[Aeron Greyjoy|Aeron "Damphair"]], however, informs her that there will be a [[Kingsmoot on Old Wyk|kingsmoot]] to decide who will succeed Balon as [[King of the Iron Islands]].<ref name=":0" />
+
+== Behind the scenes ==
+* With the death of Balon Greyjoy, all five of the titular kings of the War of the Five Kings (Balon, [[Robb Stark]], [[Joffrey Baratheon]], [[Stannis Baratheon]], and [[Renly Baratheon]]) are dead, though the war itself continues between several of the kings' successors, such as Joffrey's successor, [[Tommen Baratheon]]; [[Jon Snow]] and [[Sansa Stark]], who plan to overthrow the Boltons in the North who betrayed Robb; [[Brynden Tully]] who has retaken Riverrun from the Freys and holds it in Robb's name; and Euron Greyjoy, Balon's successor.
+* With Balon's death, all three "usurpers" against whom Stannis and [[Melisandre]] performed the [[leech ritual]] for, using the blood of Robert's bastard son [[Gendry Baratheon|Gendry]]<ref>"[[Second Sons (episode)|Second Sons]]"</ref> (Balon, Robb and Joffrey) - are dead.
+
+== In the books ==
+In the ''[[A Song of Ice and Fire]]'' novels, Balon Greyjoy is actually the ''second'' of the titular leaders in the [[War of the Five Kings]] to die, following [[Renly Baratheon]].
+
+Balon is killed in much earlier point of the plotline in the books, before the other two "usurpers", [[Robb Stark|Robb]] and [[Joffrey Baratheon|Joffrey]].
+
+While the murders of Robb and Joffrey take place on-screen and their murderers are revealed to the readers, Balon's death takes place off-screen and its circumstances remain obscure by the point the books reached. The official version is that he was crossing a bridge during a storm and it was broken by the wind; he washed up two days later, all bloated and broken, crabs ate his eyes.{{Bookref|ASOS|45}}
+
+There are, however, hints that it has been Euron's handiwork:
+* The prophecy of an old woman, known as the ghost of [[High Heart]]: "''I dreamt of [[Faceless Men|a man without a face]], waiting on a bridge that swayed and swung. On his shoulder perched [[Euron Greyjoy|a drowned crow with seaweed hanging from his wings]]''"{{Bookref|ASOS|22}} - implying that Euron hired a assassin from the Faceless Men to kill his elder brother.
+* Euron, who was exiled several years ago by Balon, suspiciously returns to the Iron Islands one day after Balon's death. Asha (Yara's name in the novels), more intelligent and analytical than most ironborn, suspects Euron of killing her father and confronts him in public. He dismisses her accusation nonchalantly, claiming he was on his ship, whose crew members are - very conveniently - mutes.
+In the recently released sample chapter "The Forsaken" of the upcoming sixth novel, ''The Winds of Winter'', it is finally confirmed that Euron is responsible for Balon's death (and the deaths of two more of his brothers - Robin and Harlon). Euron arrogantly admits to Aeron: "''Oh, and Balon was the third, but you knew that. I could not do the deed myself, but it was my hand that pushed him off the bridge''".{{Bookref|TWOW|The Forsaken}} In contrast to the show, he does not admit that in public.
+
+Except for Asha, no one has suggested Balon was murdered nor accused Euron (or anyone else) of the incident, or even bothered to investigate it. Nearly everyone on the Iron Islands and Westeros in general, including Aeron and [[Victarion Greyjoy|Victarion]], simply accept Balon's death as a fact, and the reason does not matter to them.
+
+Neither Asha nor anyone else declares a vendetta against the unknown murderer.
+
+Of note, it isn't clear whether the leech ritual had any effect at all in respect of any of the deaths of the three "usurpers": while it is not clear who or what caused Balon's death, the murders of Robb and Joffrey were obviously not caused by magical means. [[Davos Seaworth|Davos]] and [[Melisandre]] similarly debate this in the TV series when Robb is killed at the [[Red Wedding]]: Davos points out that Robb was killed by the Freys and Boltons for political reasons, not magical means, but Melisandre insists that the Freys and Boltons were the ''instruments'' by which the Lord of Light acted - leaving it open to interpretation.
+
+With Balon's death, by the point the books reached Stannis is the only survivor of the five kings, after whom the War of the Five Kings is titled.
+
+Balon's death has a very little effect on the events at the mainland, particularly the War of Five Kings: the only notable result is that Victarion returns to the Iron Islands, leaving behind a skeletal garrison in [[Moat Cailin]], what would have made it easier for Robb Stark to liberate (had he not been killed in the Red Wedding) - and made it easier for Theon to later persuade the ironborn to [[Siege of Moat Cailin|surrender to the Boltons]].
+
+In the TV series, just prior to the Red Wedding Robb was preparing for a desperation strike against [[Casterly Rock]] because it was the only place his enemies' armies weren't concentrated in force, and he only returned to the [[Twins]] to reconcile with the Freys and unite with their local army again. This was apparently done as a "hope spot", to make the audience think Robb Still had some chance of turning the war around, prior to the surprise of the Red Wedding.
+
+In the books, Robb actually intended to march his entire army back into the North to drive out the ironborn and reconsolidate his remaining powerbase - even though this would leave his [[Riverlands]] allies badly outnumbered (Robb left [[Brynden Tully]] in charge of the southern front, in the hope that his experienced generalship would be able to hold the line for a time). [[Catelyn Stark|Catelyn]] desperately tries to warn her son that with [[Battle of the Blackwater|Stannis's defeat at the Blackwater]], the war is clearly lost, the Lannisters can afford to slowly grind them down through attrition on a scale of years, and they have no realistic hope of winning anymore. For that matter, driving Balon's ironborn from the west coasts will be no easy task, and Robb's armies might be stuck fighting on two fronts for years. Moreover, since [[Eddard Stark|Ned]], [[Bran Stark|Bran]] and [[Rickon Stark|Rickon]] are dead, [[Sansa Stark|Sansa]] is married to [[Tyrion Lannister|Tyrion]] and [[Arya Stark|Arya]] is lost - Robb is the only Stark left, and if he dies too - everything will be lost for the North. She begs him to bend his knee to the Lannisters, claiming there is no shame in yielding, as [[Torrhen Stark ]] did to [[Aegon I Targaryen|Aegon the Conquerer]] long ago; the Lannisters do not need the north, all they will demand is homage and hostages (and they already have one - Sansa). Robb asks his mother bluntly "Did Aegon kill King Torrhen's father?" and stubbornly refuses, saying he will never surrender to those who honorlessly [[Execution of Eddard Stark|killed his father]], and he will bleed every Lannister army sent into his home territories using the defender's advantage.{{Bookref|ASOS|35}}
+
+News of Balon's death only reaches Robb as his army is retreating back to north to the Twins, as they pass [[Seagard]]: the captain of ''[[Myraham]]'', who brought [[Theon Greyjoy|Theon]] to the Iron Islands and was delayed there at Balon's command for half a year, sails back to [[Seagard]], where he informs Lord [[Jason Mallister]] the news. Later he tells that to Robb and Catelyn, mentioning also that Euron has returned.{{Bookref|ASOS|45}}
+
+Balon's death is predicted to send the ironborn into chaos - not only for losing Balon's leadership, but because they will start fighting each other in a succession crisis, and even pull forces out of the North to fight over the Iron Islands themselves. For once this is a piece of very good news, which does give Robb a glimmer of hope: he might be able to very quickly drive the remaining ironborn out of the North, then return his whole army back south to [[Riverrun]] before the Lannisters can mount a new offensive against the Tullys.
+
+Thus, in both versions, when Robb arrives at the Twins the war isn't going well, but he has a new plan which might turn it back to his favor - which gets subverted when the massacre of the Red Wedding begins. The TV series probably changed this around to Robb deciding that Casterly Rock was relatively undefended, because it would have used up a significant amount of screentime in Season 3 to explain when and how Balon died.
+
+Theon has no idea about his father's death - not that it would matter to him: at the point Balon dies, he is imprisoned at [[Dreadfort]], and ever since he has much more urgent concerns (mainly his remaining body parts) than pondering about his inheritance rights.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{War of the Five Kings}}
+
+<!--Categories-->
+[[Category:303 AC]]
+[[Category:Assassinations|Greyjoy, Balon]]
+[[Category:War of the Five Kings]]
+
+<!--Languages-->
+[[de:Attentat auf Balon Graufreud]]
+[[fr:Assassinat de Balon Greyjoy]]
+[[ru:Убийство Бейлона Грейджоя]]
