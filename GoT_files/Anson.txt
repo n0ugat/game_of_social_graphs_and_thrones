@@ -1,0 +1,54 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Order of Maesters.svg
+| Link  = Order of Maesters
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Citadel
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[Order of Maesters]]{{Ref|GOT701}}
+| Titles      = Maester{{Ref|GOT701}}
+| AKA         = 
+| Culture     = [[Westeros]]i{{Ref|GOT701}}
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Anson''' was a [[Order of Maesters|maester]] of the [[Citadel]].
+
+==Biography==
+===[[Game of Thrones: Season 7|''Game of Thrones'': Season 7]]===
+Anson is mentioned in a book about [[dragonglass]] that [[Samwell Tarly|Sam]] is reading.{{Ref|GOT701}}
+
+==In the books==
+In ''[[The World of Ice & Fire]]'', Anson wrote the book ''Truth'', in which he challenged the idea that [[dragon]]s could change sex at need, calling it a misunderstanding of a metaphor used by [[Septon]] [[Barth]].
+
+==Appearances==
+*{{GOT|Dragonstone}} {{Text}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Maesters]]
+[[Category:Westerosi]]
