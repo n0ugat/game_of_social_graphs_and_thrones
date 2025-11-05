@@ -1,0 +1,67 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Wildling
+| Image        =
+<gallery>
+CrastersKeepSeason2.png|Appearance
+Craster's Keep.png|Location
+</gallery>
+| Type         = Fortified homestead
+| Status       = Destroyed
+| Location     = [[Beyond the Wall]], [[Westeros]]
+| Population   = 
+| Rulers       = {[[Craster]]} {{C|formerly}}<br>{[[Mutineers]]} {{C|formerly}}
+| Institutions = 
+| Military     = 
+| Religion     = [[White Walkers]]
+| Places       = 
+| Founded      = by {Craster}
+}}
+{{Quote|Your roof, your rules.|Jeor Mormont to Craster|The North Remembers}}
+'''Craster's Keep'''{{Ref|GOT301}} is the name given to a small, fortified homestead located several days' journey [[Beyond the Wall|beyond]] the [[Wall]]. It is the abode of [[Craster]], a [[Free Folk|wildling]] who lives there with his [[Craster's wives|daughter-wives]], and also serves as the [[Night's Watch]]'s only refuge beyond the Wall.
+
+Craster permits [[Lord Commander of the Night's Watch|Lord Commander]] [[Jeor Mormont]] the use of the keep as a refuge and resupply post for the Night's Watch in return for otherwise leaving him alone and the occasional bribe. The keep is large enough to host a garrison of men, and is located about 60 miles from [[Castle Black]].<ref>"[[Oathkeeper (episode)|Oathkeeper]]"</ref>
+
+==History==
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+[[Jeor Mormont]], having taken the Night's Watch beyond the Wall, encounter several villages surprisingly abandoned by wildlings. When they stop at Craster's Keep, they learn from Craster that the wildlings have grouped together and united under [[King-Beyond-the-Wall]] [[Mance Rayder]]. They also learn of Craster's many daughter-wives.
+
+===[[Game of Thrones: Season 3|''Game of Thrones'': Season 3]]===
+The survivors of the [[fight at the Fist]] take refuge at Craster's Keep.<ref>"[[Walk of Punishment (episode)|Walk of Punishment]]"</ref> However tensions run high between Craster and several of the black brothers, sparking a [[Mutiny at Craster's Keep|mutiny]] in which both Craster and [[Lord Commander of the Night's Watch|Lord Commander]] [[Jeor Mormont]] are murdered and the keep is then taken over by the [[Mutineers|deserters]].<ref>"[[And Now His Watch Is Ended]]"</ref>
+
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+[[File:S04E5 - Craster's Keep on fire.png|thumb|180x180px|Craster's Keep burns.]]
+The mutineers remain at the keep, led by the violent and sadistic [[Karl Tanner|Karl]]. After his return to [[Castle Black]], [[Jon Snow]] urges the Watch to attack Craster's and kill the mutineers before they reveal the Watch's weakness to [[Mance Rayder]]. [[Alliser Thorne]] and [[Janos Slynt]] agree, expecting Jon to be killed in the attempt. However, a number of the brothers volunteer to join Jon, and the [[Raid on Craster's Keep|raid]] is successful, though several of the volunteers are killed, among them [[Locke]], who was on a mission from [[Roose Bolton]] to find and kill [[Eddard Stark]]'s [[Bran Stark|remaining]] [[Rickon Stark|sons]]. After the mutineers are dead, Jon and his men burn Craster's Keep at the behest of [[Morag|one]] of Craster's wives, as she associates it with the physical and sexual abuse she and the rest of Craster's wives have long suffered at the hands of both Craster and the mutineers.<ref>"[[First of His Name]]"</ref>
+
+==In the books==
+Craster's Keep is not a true keep, but instead a log hall surrounded by an earthen dike, also consisting of a sheepfold, pigsty and midden heap. The hall itself is large enough to accommodate a few dozen people at any one time. Still, for Night's Watch rangers far out beyond the Wall, it's preferable to have a roof over their heads.
+
+The Keep sits atop a low hill which some of the black brothers jokingly wonder if its made of mud or Craster's feces.
+
+==Appearances==
+*{{GOT|The North Remembers}}
+*{{GOT|The Night Lands}}
+*{{GOT|What Is Dead May Never Die}}
+*{{GOT|Walk of Punishment}}
+*{{GOT|And Now His Watch Is Ended}}
+*{{GOT|Oathkeeper}}
+*{{GOT|First of His Name}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Beyond the Wall}}
+
+<!--Categories-->
+[[Category:Beyond the Wall]]
+[[Category:Buildings]]
+
+<!--Languages-->
+[[de:Crasters Bergfried]]
+[[pl:Twierdza Crastera]]
+[[ru:Замок Крастера]]

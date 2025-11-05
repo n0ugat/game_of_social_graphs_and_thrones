@@ -1,0 +1,40 @@
+{{Crew
+| Title= Daniel Minahan
+| Image= Daniel-Minahan-200.png
+| dateofbirth= 
+| birthplace= USA
+| job= Director
+| imdb= http://www.imdb.com/name/nm0590889/
+}}
+'''Daniel Minahan''' is an American Hugo Award winning director. He has worked on the HBO series ''[[wikipedia:True Blood|True Blood]]'', ''[[wikipedia:John From Cincinnati|John From Cincinnati]]'', ''[[wikipedia:Deadwood (TV series)|Deadwood]]'' and ''[[wikipedia:Six Feet Under (TV series)|Six Feet Under]]'', as well as ''[[wikipedia:Grey's Anatomy|Grey's Anatomy]]'' and ''[[wikipedia:The L Word|The L Word]]''.
+
+For ''[[Game of Thrones]]'' Minahan directed episodes 6, 7 and 8 of the [[Game of Thrones: Season 1|first season]]. He returned for the [[Game of Thrones: Season 3|third season]] and helmed the season premiere "[[Valar Dohaeris]]" as well as the second episode "[[Dark Wings, Dark Words]]."<ref>[http://www.westeros.org/GoT/News/Entry/Season_3_Directors/ Westeros.org]</ref>
+
+==Credits==
+===Director===
+'''Season 1'''
+{{Game of Thrones: Season 1||||||yes|yes|yes}}
+
+'''Season 3'''<ref>[http://www.iftn.ie/news/?act1=record&only=1&aid=73&rid=4285173&tpl=archnews&force=1 IFTN report]</ref><ref>[http://www.iftn.ie/news/?act1=record&only=1&aid=73&rid=4285173&tpl=archnews&force=1 IFTN report]</ref>
+{{Game of Thrones: Season 3|yes|yes}}
+
+==See also==
+*{{WP}}
+*{{Template:IMDb
+|# = 0590889}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{Game of Thrones: Inside the Episode}}
+
+<!--Categories-->
+{{DEFAULTSORT:Minahan, Daniel}}
+[[Category:Commentators of Game of Thrones: Inside the Episode]]
+[[Category:Directors of Game of Thrones]]
+
+<!--Languages-->
+[[de:Daniel Minahan]]
+[[pt-br:Daniel Minahan]]
+[[ru:Дэниел Минахан]]

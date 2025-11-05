@@ -1,0 +1,65 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Caron.svg
+| Link  = House Caron
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Baratheon
+| Image       = Desmond Caron.png
+| Birth       = 
+| Death       = 
+| House       = [[House Caron|Caron]]{{Ref|HOTD102}}
+| Affiliation = 
+| Titles      = [[Knighthood|Ser]]{{Ref|HOTD102}}
+| AKA         = 
+| Culture     = [[Dornish Marches|Marcher]]{{Ref|HOTD102}}
+| Religion    = 
+| Father      = [[Royce Caron]]{{Ref|HOTD102}}
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 1|1]]
+| Appearances = "[[The Rogue Prince]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Son of Ser Royce Caron, Ser Desmond has proved strong and steady in both the tourney lists and without. While traveling through the Kingswood on his way to King's Landing, Ser Desmond recently brought a would-be poacher to justice.|Ser Harrold Westerling|The Rogue Prince}}
+Ser '''Desmond Caron''' is a [[Knighthood|knight]] of [[House Caron]] during the reign of [[Viserys I Targaryen|Viserys I]].
+
+==Biography==
+===Background===
+Desmond is the son of Ser [[Royce Caron]] of [[Nightsong]].{{Ref|HOTD102}}
+
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+Desmond is brought before [[Rhaenyra Targaryen]] in [[Maegor's Holdfast]] as a candidate to replace Ser [[Ryam Redwyne]] on the [[Kingsguard/House of the Dragon|Kingsguard]]. Despite Ser [[Harrold Westerling]] praising him, Rhaenyra dislikes him, and Ser [[Criston Cole]] is chosen instead.{{Ref|HOTD102}}
+
+==In the books==
+In ''[[Fire & Blood]]'', there is no character named Desmond Caron.
+
+==Appearances==
+*{{HOTD|The Rogue Prince}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House Caron/House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Caron, Desmond}}
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Knights]]
+[[Category:Members of House Caron|Desmond Caron]]
+[[Category:Stormlanders]]
+
+<!--Languages-->
+[[de:Desmond Caron]]
+[[fr:Desmond Caron]]
+[[ru:Десмонд Карон]]

@@ -1,0 +1,62 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Night's Watch.svg
+| Link  = Night's Watch
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = Clydas.JPG
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[Night's Watch]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 1|1]]
+| Appearances = "[[You Win or You Die]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = Unidentified
+}}
+'''Clydas''' is a [[Steward (Night's Watch)|Steward]] of the [[Night's Watch]].
+
+==Biography==
+===Background===
+Clydas is one of the Stewards that assists [[Order of Maesters|Maester]] [[Aemon]].{{Ref|GOT107}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+Clydas is present during the speech [[Lord Commander of the Night's Watch|Lord Commander]] [[Jeor Mormont]] gave to the "graduating" recruits. After the speech is over and the recruits are assigned their orders, Clydas assists blind Maester Aemon walk towards the newly made stewards to give them their assignment.{{Ref|GOT107}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Clydas is described as ugly: short, bald, chinless, hunched, with pink eyes and rounded shoulders. [[Jon Snow]] estimates him to be about 60-years-old. A few white hairs still cling to his scalp. Alongside Chett he tends to Aemon's needs and the [[raven]]s of [[Castle Black]]. When [[Samwell Tarly]] replaces Chett, Clydas remains assisting the blind maester.
+
+==Appearances==
+*{{GOT|You Win or You Die}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Night's Watch}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Smallfolk]]
+[[Category:Stewards of the Night's Watch]]
+[[Category:Westerosi]]

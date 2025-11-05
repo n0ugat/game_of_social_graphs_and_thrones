@@ -1,0 +1,26 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Bloodmoon
+| Image   = Darin Elie.jpg
+| Birth   = 
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[Bloodmoon]]'' {{Rejected}}
+| Season  = 
+| Credits = [[Pilot (Bloodmoon)|Pilot]] {{Unreleased}}
+| First   = 
+| Last    = 
+}}
+'''Darin Elie''' is a stuntman.
+
+In the [[Pilot (Bloodmoon)|pilot]] of ''[[Bloodmoon]]'', he was a stunt performer.
+
+==See also==
+*{{IMDb|# = 10055684}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+{{DEFAULTSORT:Elie, Darin}}
+[[Category:Stunt performers of Bloodmoon]]

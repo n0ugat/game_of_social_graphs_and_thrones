@@ -1,0 +1,21 @@
+{{Crew
+|Image = Cristian Knight.jpg
+|dateofbirth = 
+|birthplace = 
+|job = Stunt Performer
+|imdb = http://www.imdb.com/name/nm2754932
+|twitter = }}
+'''Cristian Knight''' is a stuntman.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 4|fourth season]] episode "[[Mockingbird]]" and the [[Game of Thrones: Season 6|sixth season]] episode "[[Battle of the Bastards (episode)|Battle of the Bastards]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 4|||||||yes}}
+{{Game of Thrones: Season 6|||||||||yes}}
+
+==See also==
+*{{IMDb
+|# = 2754932}}
+{{DEFAULTSORT:Knight, Cristian}}
+[[Category:Stunt performers of Game of Thrones]]

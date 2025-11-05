@@ -1,0 +1,20 @@
+{{stub}}
+{{Template:Cast
+|Title = Daniel Rabin
+|Image = Daniel Rabin.jpg
+|role = [[Lord Blackmont]]
+|status = 
+|First = "[[Two Swords]]"
+|imdb = http://www.imdb.com/name/nm0704893/}}
+'''Daniel Rabin''' is a British actor. In ''[[Game of Thrones]]'' he plays the role of [[Lord Blackmont]].
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 4|yes}}
+
+==See also==
+*{{Template:IMDb
+|# = 0704893}}
+[[fr:Daniel Rabin]]
+{{DEFAULTSORT:Rabin, Daniel}}
+[[Category:Guest starring cast members of Game of Thrones]]

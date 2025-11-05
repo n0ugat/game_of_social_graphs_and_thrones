@@ -1,0 +1,30 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Dermot-Keaney-200.jpg
+| Birth   = August 28, 1964 {{Age|1964|8|28}}<br>Surrey, England
+| Death   = 
+| Role    = [[Gared]]
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 1|1]]
+| Credits = "[[Winter Is Coming]]"
+| First   = 
+| Last    = 
+}}
+'''Dermot Keaney''' (born 28 August 1964) is a British actor. He is best known for playing the role of Maccus, the second-in-command to [[wikipedia:Bill Nighy|Bill Nighy]]'s [[wikipedia:Davey Jones|Davey Jones]] in the second and third [[wikipedia:Pirates of the Caribbean (film series)|''Pirates of the Caribbean'']] movies.
+
+In ''[[Game of Thrones]]'' Keaney played the role of [[Gared]], replacing [[Richard Ridings]] who played the role in the unaired pilot. He was confirmed in the role on 16 July 2010.
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 1|yes}}
+
+==See also==
+*{{Template:IMDb
+|# = 0443825}}
+
+[[de:Dermot Keaney]]
+[[fr:Dermot Keaney]]
+[[ru:Дермот Кини]]
+{{DEFAULTSORT:Keaney, Dermot}}
+[[Category:Guest starring cast members of Game of Thrones]]

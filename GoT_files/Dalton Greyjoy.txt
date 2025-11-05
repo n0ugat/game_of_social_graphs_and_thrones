@@ -1,0 +1,84 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Greyjoy.svg
+| Link  = House Greyjoy/House of the Dragon
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Greyjoy
+| Image       = Dalton the Red Kraken.png
+| Birth       = 
+| Death       = 
+| House       = [[House Greyjoy/House of the Dragon|Greyjoy]]
+| Affiliation = 
+| Titles      = [[Lord of the Iron Islands]]<br>[[King of Salt and Rock]]<br>[[Son of the Sea Wind]]<br>[[Lord Reaper of Pyke]]
+| AKA         = The Red Kraken{{Ref|HOTD206}}
+| Culture     = [[Ironborn]]
+| Religion    = [[Drowned God]]
+| Father      = 
+| Mother      = 
+| Spouse      = 4 [[Salt wife|salt wives]]
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Dalton Greyjoy, the wild young heir to [[Pyke]], was rowing at five and [[Raiding|reaving]] at ten in the [[Basilisk Isles]] with his uncle. By fourteen, Dalton had sailed as far as [[Old Ghis]], fought in a dozen battles, and claimed four [[salt wife|salt wives]]. In his fifteenth year, he avenged his uncle's death in battle, but he took a dozen wounds and emerged from the fight drenched head to heel in blood. From that day forth, men called him the Red Kraken.|[[Euron Greyjoy]]|The Old Way}}
+Lord '''Dalton Greyjoy''', also known as the '''Red Kraken''', is the [[Lord of the Iron Islands]] at the outset of the [[Dance of the Dragons]].
+
+==Biography==
+During [[Aegon's Conquest]], [[Harrenhal]], the great [[ironborn]] stronghold in the [[Riverlands]], was destroyed, and the ironborn themselves were forced to retreat back to the [[Iron Islands]]. To maintain stability in his newly united kingdom, Aegon also forced the ironborn to end their reaving and abandon the [[Old Way]]. Defeated in battle but not completely humbled, the ironborn would tell each other tales of how they would eventually rise again, something that caught the attention of Dalton. He was rowing on a longship at the age of five, reaving at ten in the [[Basilisk Isles]] with his uncle, and by the age of fourteen, he had sailed as far as [[Old Ghis]], fought in a dozen battles, and claimed four [[Salt wife|salt wives]]. At the age of fifteen, he avenged his uncle's death in battle, taking a dozen wounds, and his entire body ended up covered in blood, earning him the nickname the "Red Kraken."{{Ref|H&L601}}
+
+===[[House of the Dragon: Season 2|''House of the Dragon'': Season 2]]===
+At the onset of the [[Dance of the Dragons]], Grand Maester [[Orwyle]] suggests offering the position of [[Master of Ships]] to Dalton, in order to fill the vacant seat on the [[Small Council]].{{Ref|HOTD201}}
+
+As the [[Velaryon fleet]]'s [[blockade of the Gullet]] continues to cause food shortages and public anger in King's Landing, when [[Aemond Targaryen|Aemond]] proposes a military alliance with the [[Triarchy]] for naval aid to break the blockade, [[Alicent Hightower|Alicent]] asks what has come of their letters to House Greyjoy. Orwyle confirms that his ravens have gone unanswered, to which Lord [[Jasper Wylde]] notes Dalton is biding his time for his best advantage. Jasper then proposes offering Alicent in a marriage alliance to tempt Dalton to their side, but she flatly refuses.{{Ref|HOTD206}}
+
+==Quotes about Dalton==
+{{Quote|The Red Kraken waits, seeking his best advantage.|Jasper Wylde|Smallfolk (episode)}}
+
+==Behind the scenes==
+Dalton was mentioned in an earlier draft of the script for "[[The Green Council]]," in which [[Tyland Lannister]] mentions treating with him.{{Webref|name=Script |author=@darksvster |date=March 21, 2024 |url=https://twitter.com/darksvster/status/1770797514159194589 |title=Missing Scene From the House of the Dragon |website=X |access-date=March 22, 2024 }}
+
+==In the books==
+In ''[[The World of Ice & Fire]]'' and ''[[Fire & Blood]]'', Dalton Greyjoy was a daring and bloodthirsty man, and also shrewd from a young age. He was loved by the men who served him, but not by women, as he tired of them quickly. During one of his raids, he claimed a [[Valyrian steel]] longsword from a dead corsair, naming it [[Nightfall]].
+
+After hearing of his father's death, Dalton returned to the Iron Islands to claim the [[Salt Throne|Seastone Chair]] and immediately began building longships, forging swords and training warriors, claiming "the storm is coming." By the time Dalton had turned sixteen, King [[Viserys I Targaryen|Viserys I]] died, and Dalton was said to have burst out laughing upon hearing of the outbreak of the Dance of the Dragons. The Greens offered him the position of Master of Ships and the admiralty to replace [[Tyland Lannister]], who had become [[Master of Coin]], in exchange for bringing his ships around [[Westeros]] to battle the [[Velaryon fleet]]. Dalton delayed his answer, waiting to see whether the [[Blacks]] would make a better offer.
+
+==Appearances==
+*{{H&L|The Old Way}} {{Illustrated}}
+*{{HOTD|The Green Council}} {{Scriptm}} {{Ncm}}
+*{{HOTD|A Son for a Son}} {{Mentioned}}
+*{{HOTD|Smallfolk}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{House Greyjoy/House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Greyjoy, Dalton}}
+[[Category:Individuals from Histories & Lore]]
+[[Category:Individuals mentioned in House of the Dragon]]
+[[Category:Ironborn]]
+[[Category:Lords Reaper of Pyke|Dalton Greyjoy]]
+[[Category:Lords of the Iron Islands|Dalton Greyjoy]]
+[[Category:Members of House Greyjoy|Dalton Greyjoy]]
+[[Category:Mercenaries]]
+[[Category:Sailors]]
+
+<!--Languages-->
+[[de:Dalten Graufreud]]
+[[fr:Dalton Greyjoy]]
+[[ru:Дальтон Грейджой]]

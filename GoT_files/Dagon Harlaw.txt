@@ -1,0 +1,59 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Leftimage  = House Harlaw.svg
+| Leftlink   = House Harlaw
+| Rightimage = Night's Watch.svg
+| Rightlink  = Night's Watch
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = 
+| Birth       = On [[Harlaw]]
+| Death       = 
+| House       = [[House Harlaw|Harlaw]]
+| Affiliation = [[Night's Watch]]
+| Titles      = [[First Ranger]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Ironborn]]
+| Religion    = [[Drowned God]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Dagon Harlaw''' was a [[First Ranger]] of the [[Night's Watch]].
+
+==Biography==
+===Background===
+Dagon was a member of [[House Harlaw]]. After the death of [[Lord Commander Stone]], he lost the [[Elections|choosing]] to [[Rodrik Velaryon]]. At Maester [[Gavin]]'s counsel, Rodrik appointed Dagon as [[First Ranger]]. He continued to serve as First Ranger under [[Jasper Bracken]].<ref>[[:File:5x2 Night's Watch Book.jpg]]</ref>
+
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+Dagon is mentioned in a book that [[Samwell Tarly]] is reading.{{Ref|GOT502}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no character named Dagon Harlaw.
+
+==Appearances==
+*{{GOT|The House of Black and White}} {{Text}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+{{DEFAULTSORT:Harlaw, Dagon}}
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Ironborn]]
+[[Category:Members of House Harlaw|Dagon Harlaw]]
+[[Category:Rangers of the Night's Watch]]

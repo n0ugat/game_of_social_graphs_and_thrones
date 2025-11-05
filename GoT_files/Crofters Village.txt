@@ -1,0 +1,33 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Stark
+| Image        = 
+| Type         = Village
+| Status       = 
+| Location     = [[North]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = 
+| Places       = 
+| Founded      = 
+}}
+'''Crofters Village'''<ref>https://entertainment.ha.com/itm/movie-tv-memorabilia/props/jon-snow-kit-harington-command-map-of-winterfell-from-game-of-thrones-hbo-r-ori/a/7366-89521.s</ref> is a village in the [[North]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the crofters' village is inhabited by crofters. During [[Stannis Baratheon]]'s march on [[Winterfell]], the village is the site of multiple ritual burnings; once of the already-dead Bryen Farring, and later as an [[execution]] of four [[House Peasebury|Peasebury]] soldiers caught eating human flesh.
+
+==References==
+{{Reflist}}
+
+==External links== 
+*{{AWOIAF|Crofters' village}}
+
+<!--Navboxes-->
+{{North}}
+
+<!--Categories-->
+[[Category:North]]
+[[Category:Villages]]

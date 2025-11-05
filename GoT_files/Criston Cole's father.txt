@@ -1,0 +1,66 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Heraldry
+| Image = House Cole.svg
+| Link  = House Cole
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Baratheon
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = [[House Cole|Cole]]{{Ref|HOTD101}}
+| Affiliation = [[House Dondarrion]]{{Ref|HOTD101}}
+| Titles      = [[Steward]] of [[Blackhaven]]{{Ref|HOTD101}}
+| AKA         = 
+| Culture     = [[Dornish Marches|Marcher]]{{Ref|HOTD101}}
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = [[Criston Cole]]{{Ref|HOTD101}}
+| Siblings    = 
+| Arms        = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Criston Cole's father''' is the [[steward]] to Lord [[Beric Dondarrion (son of Simon)|Beric Dondarrion]] of [[Blackhaven]].
+
+==Biography==
+===Background===
+He is the head of [[House Cole]], a minor house of the [[Dornish Marches]] sworn to [[House Dondarrion]]. He is the father of Ser [[Criston Cole]].{{Ref|HOTD101}}
+
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+Ser [[Harrold Westerling]] mentions Criston's father during the [[Heir's Tournament]].{{Ref|HOTD101}}
+
+Criston tells Rhaenyra that his father served at Blackhaven.{{Ref|HOTD103}}
+
+==In the books==
+In ''[[Fire & Blood]]'', no additional information is given on Criston Cole's father.
+
+==Appearances==
+*{{HOTD|The Heirs of the Dragon}} {{Mentioned}}
+*{{HOTD|The Rogue Prince}} {{Mentioned}}
+*{{HOTD|Second of His Name}} {{Mentioned}}
+*{{HOTD|The Princess and the Queen}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House Cole}}
+{{House Dondarrion/House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Cole's father, Criston}}
+[[Category:Individuals mentioned in House of the Dragon]]
+[[Category:Members of House Cole|Criston Cole's father]]
+[[Category:Stewards]]
+[[Category:Stormlanders]]

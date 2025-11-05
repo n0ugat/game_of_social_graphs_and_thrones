@@ -1,0 +1,76 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Leftimage  = House Dayne.svg
+| Leftlink   = House Dayne
+| Rightimage = House Martell.svg
+| Rightlink  = House Martell
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Martell
+| Image       = Davos Dayne.png
+| Birth       = At [[Starfall]]
+| Death       = 
+| House       = [[House Dayne|Dayne]]<br>[[House Martell|Martell]] {{C|by marriage}}
+| Affiliation = 
+| Titles      = [[Knighthood|Ser]]<br>[[Sword of the Morning]]<br>[[Prince of Dorne|Prince Consort of Dorne]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Dornishmen|Dornish]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = {[[Nymeria]]}
+| Lovers      = 
+| Children    = {[[Nymeria's son|Son]]}
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|After [[Mors Martell|Mors]] fell in battle, [[Nymeria]] took command of his armies and united [[Dorne]] - in two years. She ruled for twenty-seven more, and though she married again, those husbands were little more than counselors and consorts; Dorne was Nymeria and Nymeria was Dorne.|[[Ellaria Sand]]|Dorne (short)}}
+Lord '''Davos Dayne'''{{Con|TWOI&F}} was the third husband of Princess [[Nymeria]].
+
+==Biography==
+Davos was the heir of King [[Vorian Dayne]], who was sent to the [[Wall]] after being defeated by Nymeria, who took Davos himself as her husband.{{Ref|H&L613}} Although Davos was the husband, it was the Princess herself who held the true power between the two of them, with Davos being little more than a counselor and consort. The son they had did not succeed Nymeria, as the Dornish rules of succession are gender-neutral.{{Ref|H&L509}}
+
+==In the books==
+In ''[[The World of Ice & Fire]]'', Davos Dayne's biography is about the same, except some details: he was not Vorian's heir and he was Nymeria's third husband (the second was Lord Uller).
+
+==Appearances==
+*{{H&L|Dorne}} {{Illustrated}}
+*{{H&L|House Dayne}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Dayne}}
+
+<!--Categories-->
+{{DEFAULTSORT:Dayne, Davos}}
+[[Category:Bannermen of House Martell]]
+[[Category:Dornishmen]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Knights]]
+[[Category:Members of House Dayne|Davos Dayne]]
+
+<!--Languages-->
+[[de:Davos Dayn]]
+[[es:Davos Dayne]]
+[[it:Davos Dayne]]
+[[nl:Davos Dayn]]
+[[ru:Давос Дейн]]
+[[zh:戴佛斯·戴恩]]

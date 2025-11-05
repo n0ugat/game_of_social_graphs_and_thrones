@@ -1,0 +1,47 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Swyft.svg
+| Link  = House Swyft
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Lannister
+| Image        = Cornfield Pin.png
+| Type         = Settlement
+| Status       = 
+| Location     = The [[Westerlands]], [[Westeros]]
+| Population   = 
+| Rulers       = [[House Swyft]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Cornfield'''{{Guideref|Map of Westeros}} is a settlement in the [[Westerlands]]. It the seat of [[House Swyft]], a knightly house sworn to [[House Lannister]] of [[Casterly Rock]]. It is located southeast of Casterly Rock and [[Lannisport]] and northeast of [[Crakehall]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Cornfield is the seat of House Swyft.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Westerlands}}
+{{House Swyft}}
+
+<!--Categories-->
+[[Category:House Swyft]]
+[[Category:Settlements]]
+[[Category:Westerlands]]
+
+<!--Languages-->
+[[de:Kornfeld]]
+[[es:Maizal]]
+[[it:Campo di Grano]]
+[[nl:Maïsveld]]
+[[ru:Корнфилд]]
+[[zh:玉米城]]

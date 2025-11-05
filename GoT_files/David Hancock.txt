@@ -1,0 +1,42 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = David Hancock.jpg
+| Birth   = 
+| Death   = 
+| Role    = Co-executive producer<br>Writer
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]] {{*}} [[House of the Dragon: Season 2|2]] {{*}} [[House of the Dragon: Season 3|3]] {{*}} [[House of the Dragon: Season 4|4]]
+| Credits = 18 episodes {{Below|Credits}}
+| First   = "[[The Heirs of the Dragon]]"
+| Last    = 
+}}
+'''David Hancock''' is an English script editor, producer, and screenwriter. He is a co-executive producer of ''[[House of the Dragon]]'',<ref>See [[:File:Ty tenant insta screenshot.jpeg|this image]]</ref> and wrote two episodes of the [[House of the Dragon: Season 2|second season]].<ref name="Independent">[https://www.independenttalent.com/writers/david-hancock/ David Hancock - Independent Talent]</ref>
+
+==Credits==
+===Co-executive producer===
+*{{HOTD|Season 1}}
+*{{HOTD|Season 2}}
+
+===Writer===
+{{House of the Dragon: Season 2|||yes||||yes}}
+{{House of the Dragon: Season 3}}
+{{House of the Dragon: Season 4}}
+
+==See also==
+*{{IMDb|#=1405503}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House of the Dragon: Inside the Episode}}
+
+<!--Categories-->
+{{DEFAULTSORT:Hancock, David}}
+[[Category:Co-executive producers of House of the Dragon]]
+[[Category:Commentators of House of the Dragon: Inside the Episode]]
+[[Category:Writers of House of the Dragon]]
+
+<!--Languages-->
+[[fr:David Hancock]]

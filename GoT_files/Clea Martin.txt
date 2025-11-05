@@ -1,0 +1,28 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Clea Martin.jpg
+| Birth   = 
+| Death   = 
+| Role    = Royal handmaiden
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = "[[Second of His Name]]"
+| First   = 
+| Last    = 
+}}
+'''Clea Martin''' is an actress. She has appeared in the films ''{{WPS|Hot Property (film)|Hot Property}}'', ''{{WPS|Bridget Jones's Baby}}'', and ''{{WPS|King Arthur: Legend of the Sword}}'' and the television series ''{{WPS|Hanna (TV series)|Hanna}}''.
+
+In ''[[House of the Dragon]]'', she portrayed a royal handmaiden in the [[House of the Dragon: Season 1|first season]].
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1|||yes|yes}}
+
+==See also==
+*{{IMDb|# = 7360707}}
+*{{Instagram|# = cleamartin}}
+
+<!--Categories-->
+{{DEFAULTSORT:Martin, Clea}}
+[[Category:Co-starring cast members of House of the Dragon]]

@@ -1,0 +1,33 @@
+{{Canonicity|Canon}}
+{{Spoiler|AKOTSK}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Bronn
+| Image        = 
+| Type         = Castle
+| Status       = 
+| Location     = The [[Reach]], [[Westeros]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Coldmoat'''{{Ref|GOT806}} is a castle in the [[Reach]].
+
+==In the books==
+In the [[Dunk & Egg novellas]], Coldmoat was once the seat of [[House Osgrey]], but it is now held by House Webber.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|AKOTSK}}
+
+<!--Navboxes-->
+{{Reach}}
+
+<!--Categories-->
+[[Category:Castles of the Reach]]

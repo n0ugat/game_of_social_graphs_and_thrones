@@ -1,0 +1,28 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Derek Reid.jpg
+| Birth   = 
+| Death   = 
+| Role    = [[Ros's dissatisfied customer]]
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 2|2]]
+| Credits = "[[The Night Lands]]"
+| First   = 
+| Last    = 
+}}
+'''Derek Reid''' is an actor based in the UK.
+
+In ''[[Game of Thrones]]'' he is playing the role of [[Ros's dissatisfied customer]]. He joined the cast as a guest star in the [[Game of Thrones: Season 2|second season]].
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 2||yes}}
+
+==See also==
+*{{Template:IMDb
+|# = 0717235}}
+
+{{Stub}}
+{{DEFAULTSORT:Reid, Derek}}
+[[Category:Guest starring cast members of Game of Thrones]]

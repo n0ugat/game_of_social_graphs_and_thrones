@@ -1,0 +1,63 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Blackwood.svg
+| Link  = House Blackwood
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Tully
+| Image       = Davos Blackwood Profile.png 
+| Birth       = 
+| Death       = 
+| House       = [[House Blackwood|Blackwood]]{{Ref|HOTD203}}
+| Affiliation = [[Blacks]]{{Ref|HOTD203}}
+| Titles      = 
+| AKA         = 
+| Culture     = [[Riverlands|Rivermen]]{{Ref|HOTD203}}
+| Religion    =
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 2|2]]
+| Appearances = "[[The Burning Mill]]"
+| First       =
+| Last        =
+| DeathEp     = 
+| Actor       = [[Kieran Burton]]
+}}
+{{Quote|Aegon Targaryen is no true king, just as you are no true knight. You're both craven little c***s!|Davos to Aeron Bracken|The Burning Mill}}
+'''Davos Blackwood''' is a member of [[House Blackwood]] during the [[Dance of the Dragons]].
+
+==Biography==
+===[[House of the Dragon: Season 2|''House of the Dragon'': Season 2]]===
+Davos, along with other members of his house, confront Ser [[Aeron Bracken]], accusing the latter of moving the boundary stones separating the [[House Blackwood|Blackwood]]-[[House Bracken|Bracken]] border near the [[Burning Mill]]. The fight between the two eventually escalates into a full-scale battle, thus kicking off the events of the [[Battle at the Burning Mill]]; with the Blackwoods supporting [[Rhaenyra Targaryen|Rhaenyra]]'s claim to the [[Iron Throne]] and the Brackens in support of [[Aegon II Targaryen|Aegon]].{{Ref|HOTD203}}
+
+==In the books==
+In ''[[Fire & Blood]]'', there is no character named Davos Blackwood.
+
+==Appearances==
+*{{HOTD|The Burning Mill}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House Blackwood}}
+
+<!--Categories-->
+{{DEFAULTSORT:Blackwood, Davos}}
+[[Category:Blacks]]
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Members of House Blackwood|Davos Blackwood]]
+[[Category:Rivermen]]
+
+<!--Languages-->
+[[es:Davos Blackwood]]
+[[fr:Davos Nerbosc]]
+[[ru:Давос Блэквуд]]
+[[uk:Давос Блаквуд]]

@@ -1,0 +1,189 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{War
+| Title      = {{PAGENAME}}
+| Type       = Thrones
+| Part       = 
+| Image      = 11.JPG
+| Previous   = [[Greyjoy Rebellion]]
+| Concurrent = [[War of the Five Kings]]<br>[[Liberation of Slaver's Bay]]
+| Next       = [[Great War]]<br>[[Last War]]
+| Beginning  = *[[279 AC]]{{Dateref|Mance Rayder desertion}} {{C|[[Free Folk]]}}
+*[[298 AC]]{{Dateref|Game of Thrones: Season 1}} {{C|[[Great ranging|intervention]] of the [[Night's Watch]]}}
+| End        = [[304 AC]]{{Dateref|Game of Thrones: Season 7}}
+| Place      = [[Beyond the Wall]], [[Wall]], [[Gift]], [[Westeros]]
+| Outcome    = Decisive [[White Walkers|White Walker]] victory
+*The [[Wall]] is [[Breaching of the Wall|breached]], which allows for the crossing of the White Walkers and their [[Wight|Army of the Dead]] into southern [[Westeros]]
+*Return of the [[Long Night]]
+*Beginning of the larger and anticipated [[Great War]]
+{{Details|
+*[[Lord Commander of the Night's Watch|Lord Commander]] [[Jeor Mormont]] leads the [[great ranging]] [[Beyond the Wall|beyond]] the [[Wall]] to confirm reports of uniting [[Free Folk]] and return of the [[White Walkers]]
+*The [[fight at the Fist]] leads to slaughtering of most of the [[Night's Watch]] rangers in the great ranging
+*[[Mutiny at Craster's Keep]] leads to death of Lord Commander Jeor Mormont by the [[Mutineers]]
+*Wildling army led by [[Mance Rayder]] [[Battle for the Wall|attacks]] the Wall, pushed back in the first night by the Night's Watch and defeated by [[House Baratheon of Dragonstone]] the following morning; subsequent burning of Mance Rayder
+*[[Jon Snow]] elected 998th Lord Commander of the Night's Watch; controversially allows the surviving Free Folk to cross the Wall
+*[[Massacre at Hardhome]] leads to slaughtering of most remaining Free Folk still beyond the Wall
+*[[Mutiny at Castle Black]] leads to death of Lord Commander Jon Snow; later resurrected and lead mutineers hanged for treason, handing command to [[Eddison Tollett]]
+*[[Night King]] [[Battle at the cave of the Three-Eyed Raven|assaults]] the [[cave of the Three-Eyed Raven]] and kills [[Brynden Rivers]] and the [[Children of the Forest]] but fails to capture [[Bran Stark]], who has been trained in the [[Sight]]
+*Crossing of the surviving [[Free Folk]] south of the [[Wall]], leaving the lands [[beyond the Wall]] completely abandoned}}
+| Factions1  = {{COA|Night's Watch|s}}<br>[[Night's Watch]]<br><br>{{COA|House Baratheon of Dragonstone|s}}<br>[[House Baratheon of Dragonstone]]<br><br>{{COA|House Stark|s}}<br>[[House Stark]]<br>{{C|late conflict}}<br><br>{{COA|House Targaryen}}<br>[[House Targaryen]]<br>{{C|late conflict}}<br><br>[[Brotherhood Without Banners]]<br>{{C|late conflict}}
+----
+[[Free Folk]]<br>{{C|opposed to other factions before [[Massacre at Hardhome|Hardhome]]; allied afterwards}}
+----
+[[Mutineers]] at [[Craster's Keep]] †
+----
+[[Children of the Forest]] †
+| Factions2  = [[White Walkers]]<br><br>[[Wight|Army of the Dead]]
+| Factions3  = 
+| Factions4  = 
+| Factions5  = 
+| Factions6  = 
+| Leaders1   = {{COA|Night's Watch|i}} [[Lord Commander of the Night's Watch|Lord Commander]] [[Jeor Mormont]] †<br>{{COA|Night's Watch|i}} [[King in the North|King]] [[Jon Snow]]<br>{{COA|Night's Watch|i}} Acting [[Lord Commander of the Night's Watch|Lord Commander]] [[Eddison Tollett]]<br>{{COA|Night's Watch|i}} [[Benjen Stark]] †<br>{{COA|Night's Watch|i}} [[Knighthood|Ser]] [[Alliser Thorne]] {{Executed}}<br>{{COA|Night's Watch|i}} [[First Steward]] [[Bowen Marsh]] {{Executed}}<br>{{COA|Night's Watch|i}} [[First Builder]] [[Othell Yarwyck]] {{Executed}}<br>{{COA|Night's Watch|i}} Ser [[Denys Mallister]]<br>{{COA|Night's Watch|i}} Commander [[Cotter Pyke]]<br>{{COA|Night's Watch|i}} [[Qhorin]] †<br>{{COA|House Baratheon of Dragonstone|i}} [[King of the Andals and the Rhoynar and the First Men|King]] [[Stannis Baratheon]] †<br>[[File:House Seaworth.svg|16px|link=House Seaworth]] [[Knighthood|Ser]] [[Davos Seaworth]]<br>{{COA|Lord of Light|i}} [[Melisandre]]<br>{{COA|House Targaryen|i}} [[King of the Andals and the Rhoynar and the First Men|Queen]] [[Daenerys Targaryen]]<br>[[File:House Dondarrion.svg|16px|link=House Dondarrion]] [[Lord of Blackhaven|Lord]] [[Beric Dondarrion]]
+----
+[[King-Beyond-the-Wall|King]] [[Mance Rayder]] {{Executed}}<br>[[Tormund]]<br>[[Magnar]] [[Styr]] †<br>[[Loboda]] †<br>[[Karsi]] †<br>[[Lord of Bones]] †<br>[[Mag Mar Tun Doh Weg]] †
+----
+[[Karl Tanner]] †
+----
+{{COA|Brynden Rivers|i}} [[Brynden Rivers]] †<br>{{COA|House Stark|i}} [[Prince]] [[Bran Stark]]
+| Leaders2   = [[Night King]]<br>Various [[White Walkers|White Walker]] lieutenants
+| Leaders3   = 
+| Leaders4   = 
+| Leaders5   = 
+| Leaders6   = 
+| Events     = [[Great ranging|Beyond the Wall (I)]] {{*}} [[Fight at the Fist|Fist of the First Men]] {{*}} [[Mutiny at Craster's Keep|Craster's Keep (I)]] {{*}} [[Raid on Craster's Keep|Craster's Keep (II)]] {{*}} [[Sack of Mole's Town|Mole's Town]] {{*}} [[Battle for the Wall|Wall]] {{*}} [[Massacre at Hardhome|Hardhome]] {{*}} [[Mutiny at Castle Black|Castle Black]] {{*}} [[Battle at the cave of the Three-Eyed Raven|Cave of the Three-Eyed Raven]] {{*}} [[Wight hunt|Beyond the Wall (II)]] {{*}} [[Dragonpit Summit|Dragonpit]] {{*}}<br>[[Breaching of the Wall|Eastwatch-by-the-Sea]]
+}}
+{{Quote|When dead men and worse come hunting for us in the night, you think it matters who sits on the Iron Throne?|[[Jeor Mormont]] to [[Jon Snow]]|Fire and Blood}}
+The '''conflict beyond the Wall''' refers to the interconnected conflict prior to the [[Great War]] primarily taking place [[Beyond the Wall|beyond]] the [[Wall]] in the [[North|northern]] reaches of the [[Seven Kingdoms]], the mightiest and oldest defensive structure constructed by mankind.
+
+When the Wall was raised at the end of the legendary [[Long Night|Battle for the Dawn]], its main purpose was to shield the realms of men against the possible future return of the [[White Walkers]], a supernatural race of beings who emerged during the [[Long Night]], a cold and dark winter that lasted a generation, and hunted all in their path, raising the dead as [[wight]]s.
+
+Since then, the [[Night's Watch]] has stood guard for about 8,000 years, defending [[Westeros]] from the threats that lurk beyond it in the far north. Over the hundreds of centuries, its initial task has generally been forgotten, with most believing the White Walkers to be nothing more than folklore and fewer believing they are simply extinct. Instead, the Night's Watch have been guarding the realm against the human [[Free Folk]], whom the southerners disparagingly call wildlings, who live on the frozen lands beyond. Occasionally forming raiding parties, the wildlings consistently try to cross the Wall into the richer and warmer lands to the south of the Wall. Recently, however, their efforts have been concentrated into escaping the mysterious and sudden return of the reawakened White Walkers of the northernmost [[Land of Always Winter]] and their new and ever growing [[Wight|army of the dead]].
+
+The events of this conflict take place in the far north of Westeros and are thus are unknown or considered unimportant to the majority of the Westerosi population, especially with the [[War of the Five Kings]] ravaging through the Seven Kingdoms. As [[Stannis Baratheon|some]] are beginning to [[Melisandre|see]], however, the events beyond the Wall are the true conflict that will shake the continent, with the growing power of the White Walkers and their [[Night King]] threatening to bring about the Long Night once again.
+
+==History==
+===Background===
+::''Main articles: [[Long Night]] and [[Age of Heroes]]''
+Before [[Aegon I Targaryen|Aegon I Targaryen's]] conquest of [[Westeros]], the Night's Watch boasted nineteen castles along hundred leagues of the Wall, with a strength of over ten thousand men at arms, [[Castle Black]] alone quartering five thousand fighting men with all their horses, servants, and equipment. But its manpower has dwindled during the last 300 years to the point that the Watch has only managed to sustain three castles; Castle Black, located in the middle of the Wall with about six hundred men, the [[Shadow Tower]] at the far west of the Wall overlooking the mountains, with about two hundred men, and the coastal [[Eastwatch]], on the shores of the [[Shivering Sea]], with even fewer men. A bare third of them are fighting men.
+
+The 997th [[Lord Commander of the Night's Watch]] [[Jeor Mormont]] was deeply concerned by the declining power of the Watch, and the rising threat of the wildlings beyond the Wall, whose raids have increased on the people south of the Wall in recent years. Unbeknownst to the Night's Watch, this was due to the return of the [[White Walkers]], an ancient enemy of mankind that had been gone for around 8,000 years since the [[Long Night]]. Mormont implemented a random system of patrols, varying the number of patrols and the days of their departure, in order to prevent the wildlings slipping past the guard. At times, the Old Bear would also send a larger force to one of the abandoned castles for a fortnight or a moon's turn as well.
+
+Around the "beginning" of the conflict beyond the Wall, the [[Seven Kingdoms]] had erupted in a major civil war known as the [[War of the Five Kings]], partly caused by tensions carried over from [[Robert's Rebellion]] and the [[Greyjoy Rebellion]] decades earlier. The realm later become embroiled in the [[Last War]] as well. Thus, the southern kingdoms, including the [[North]] itself for a time, were preoccupied with their own "game of thrones" while the undermanned and under equipped Night's Watch, looked down upon by most of the realm, struggled to hold back the perils that persisted [[beyond the Wall|beyond]] the [[Wall]].
+
+===The great ranging===
+{{Main|Great ranging}}
+After reports of [[Free Folk|wildlings]] amassing, rumors of [[White Walkers]] being sighted, the disappearance of several rangers, including [[First Ranger]] [[Benjen Stark]], and the appearance of [[wight]]s, a force of nearly 300 men of the [[Night's Watch]] embarked on a [[great ranging]] led by the Lord Commander himself. The purpose of the ranging was to investigate the various rumors: those concerning the wildlings, who, while normally unorganized, were flocking to the call of the [[King-Beyond-the-Wall]] [[Mance Rayder]], a former Brother of the Night's Watch; and those concerning the recurrence of mythical White Walkers.<ref>"[[Fire and Blood]]"</ref>
+
+While trekking north the ranging party reached [[Craster's Keep]], where [[Craster]] confirmed that a vast wildling army was amassing in the [[Frostfangs]], prepared to strike the Wall. Mormont then resolved to march north to attack the wildling host before it could reach the Wall.<ref>"[[The North Remembers]]"</ref>
+
+His army then erected a base of operations at the [[Fist of the First Men]], an ancient hill-fort. While on the Fist, Mormont's force was reinforced by a group of rangers led by [[Qhorin]], a legendary ranger, who proposed to mount a scouting operation into wildling territory to gather information about the enemy. [[Jon Snow]], until then personal steward to the Lord Commander, volunteered to go with them.<ref>"[[The Ghost of Harrenhal]]"</ref>
+
+However, this mission ended badly when Jon walked into a wildling trap and was captured.<ref>"[[The Old Gods and the New]]"</ref> Later on, Qhorin was also taken prisoner.<ref>"[[The Prince of Winterfell]]"</ref> Realizing a last minute opportunity, Qhorin ordered Jon to kill him to prove his loyalty to the wildling cause, and so to infiltrate their ranks to gather intelligence for the Watch. Because of his killing of Qhorin and his relation with the wildling girl [[Ygritte]], Jon was accepted into wildling ranks. Meanwhile on the Fist of the First Men, his brothers of the Watch discovered a hidden cache of mysterious [[Dragonglass]].<ref name="E20">"[[Valar Morghulis]]"</ref>
+
+===Fight at the Fist===
+{{Main|Fight at the Fist}}
+Expecting the return of the scouting mission of Qhorin Halfhand, the base of the Night's Watch was [[Fight at the Fist|beset]] by an army of [[wight]]s, led by the legendary White Walkers themselves. This was the first confrontation between men and White Walkers in thousands of years.<ref name="E20" />
+
+The Watch suffered massive casualties and had to abandon its position. Most of its fighting strength was depleted, and the dead men were later reanimated as more wights for the undead army.<ref>"[[Valar Dohaeris]]"</ref> Lord Commander Mormont managed to retreat south, but many of his survivors were injured, starving and thoroughly shaken.<ref>"[[Dark Wings, Dark Words]]"</ref>
+
+===Mutiny at Craster's Keep===
+{{Main|Mutiny at Craster's Keep}}
+The ragged remains of the Night's Watch army eventually arrived back at [[Craster's Keep]], where the tensions between host and his guests [[Mutiny at Craster's Keep|became increasingly hostile]].<ref>"[[Walk of Punishment (episode)|Walk of Punishment]]"</ref> When Craster refused them food and offered to finish the injured, he was goaded into a rage by the ranger [[Karl Tanner]] and then stabbed through the throat. Mormont was unable to control the ensuing chaos and was stabbed in the back by the disgruntled [[Rast]]. With the Lord Commander dead, the surviving brothers of the Watch started fighting amongst themselves.<ref>"[[And Now His Watch Is Ended]]"</ref> In the aftermath only a handful of loyal brothers made their way back to Castle Black, while the [[Mutineers]] settled in at Craster's Keep, turning it even more into a house of horrors.<ref>"[[Breaker of Chains]]"</ref> <ref>"[[Oathkeeper (episode)|Oathkeeper]]"</ref>
+
+===Raid on Craster's Keep===
+{{Main|Raid on Craster's Keep}}
+The mutineers of the Night's Watch were eventually dealt with and eliminated in [[Raid on Craster's Keep|an expedition led by Jon Snow]], to prevent any information about the weakness of the defenses of the Night's Watch leaking to Mance Rayder's approaching army. With this, the death of Lord Commander Mormont was avenged and Craster's Keep was burned to the ground in the aftermath.<ref>"[[First of His Name]]"</ref>
+
+===Sack of Mole's Town===
+{{Main|Sack of Mole's Town}}
+Weeks after having climbed the Wall, [[Tormund]]'s warband, including [[Ygritte]], was joined by [[Styr]] and his [[Thenns|Thenn]] raiders<ref>"[[Two Swords]]"</ref>, and started to raid towns in the [[Gift]]<ref>"[[Breaker of Chains]]"</ref>, eventually reaching Mole's Town, a small village close to Castle Black. The wildlings killed everyone in sight.<ref>"[[The Mountain and the Viper]]"</ref>
+
+===Battle for the Wall===
+{{Main|Battle for the Wall}}
+Mance Rayder led a [[Battle for the Wall|siege]] against the grievously-undermanned Castle Black, signaling the attack by starting a massive conflagration north of the Wall. His attack was two-fold; his main army, composed of wildlings, giants, and mammoths, attacked the north side of the Wall while the smaller garrison that had climbed the Wall launched a surprise attack on Castle Black's southern entrance. Despite being hopelessly outnumbered, the men of the Night's Watch managed to repel the initial invasion, and the small wildling garrison attacking from the south was nearly wiped out, resulting in the deaths of both Styr and Ygritte, and Tormund being taken a prisoner of the Night's Watch. Although the initial invasion was repelled, Castle Black's garrison took a significant number of casualties, [[Grenn]] and [[Pypar]] among them. Mance was simply testing Castle Black's defenses and planned to launch a much larger counterattack. In hopes of preventing this from happening, Jon Snow decided to venture north of the Wall and assassinate Mance Rayder, in hopes that his death would unravel the unity amongst the wildling clans and end the war, though Jon knew this was likely to be a suicide mission.<ref>"[[The Watchers on the Wall]]"</ref>
+
+While Jon was treating with Mance Rayder the following morning, hundreds of mounted knights led by [[Stannis Baratheon]] arrive, taking the Wildling army by surprise. The Wildling camps were quickly overrun, scattering thousands of wildlings into the wilderness while the majority were rounded up and captured by Stannis's troops. Stannis then took up residence in Castle Black alongside his court and the Night's Watch.<ref>"[[The Children]]"</ref>
+
+===Massacre at Hardhome===
+{{Main|Massacre at Hardhome}}
+Having been elected Lord Commander, Jon Snow decided the Night's Watch had to side with the wildlings against the White Walkers, and treated with Tormund in order to reach an agreement.<ref>"[[The House of Black and White]]"</ref><ref>"[[Kill the Boy]]"</ref> Jon Snow and Tormund, along with other members of the Night's Watch, arrived at the ruined wildling settlement of Hardhome with Stannis' fleet in order to convince the rest of the Free Folk to join them in the upcoming war against the White Walkers and their armies of wights.
+
+Though with some difficulty, they reached an agreement with some of the clans, and began taking the Free Folk in boats to the fleet. However, the White Walkers arrived just then, with hundreds of thousands of wights. Though the Free Folk and the Night's Watch resisted, and Jon Snow discovered a White Walker weakness to Valyrian steel, they only succeeded in buying time for those making their way to the fleet. Those not behind Hardhome's gates at the start of the invasion and many defenders were slaughtered, their bodies fresh recruits for the White Walkers' wight army. At the battle's conclusion, the [[Night King]] issued a challenge to the survivors by raising the newly-dead for his army.<ref>"[[Hardhome (episode)|Hardhome]]"</ref>
+
+===Mutiny at Castle Black===
+{{Main|Mutiny at Castle Black}}
+{{Quote|My watch is ended.|[[Jon Snow]] leaves the Night's Watch after his resurrection.|Oathbreaker}}By bringing wildlings through Castle Black, Lord Commander Jon Snow earned the hatred of most of the Night's Watchmen. Though he believed his actions to be right, he ignored the wishes of his advisors, with First Ranger Alliser Thorne declaring his actions to be foolhardy and reckless. By focusing only on the coming White Walker invasion, Jon could not see the discontent brewing amongst the Night's Watch.<ref>"[[The Gift]]"</ref>
+
+Some time after Jon has sent Sam away to Oldtown to receive maester training with Gilly and Little Sam in tow, Olly appears at Jon's door to deliver news that a Wildling knows of Jon's uncle Benjen, who has been missing for many years now, and who was the subject of a manhunt during a ranging beyond the Wall. Jon frantically scrambles out of his room, across the castle courtyard, and past a group of Night's Watchmen, only to discover a sign with the word "Traitor" scrawled upon it. Upon turning around after realizing that he has been led into a trap, several Night's Watchmen stab Jon and declare, "For the Watch." Jon's body is left in the courtyard to bleed out.<ref>"[[Mother's Mercy]]"</ref>
+
+Shortly after Snow's murder, his dead body is found by several Night's Watch brothers still loyal to Jon. [[Davos Seaworth]], [[Eddison Tollett]] and a few of Jon's friends find his body and place it inside his quarters. Upon immediately realizing it was Thorne who led the mutiny, Edd opts to die fighting to kill Thorne and avenge Jon. However, at Davos' suggestion, he eventually leaves to enlist support from the wildlings led by Tormund. Meanwhile, Thorne announces Jon's death to the Watch, not hiding his treason, and manages to win most of the Night's Watch by convincing them that Jon, while doing what he thought was right, was prepared to see the Watch destroyed. Later, Thorne, having prepared men armed with crossbows ready, speaks with Davos through the door of Jon's quarters offering to spare him and the loyalists with the former being allowed to leave with a horse and supplies. Davos, doubting Thorne's sincerity, mockingly asks for mutton. Thorne issues them an ultimatum: surrender by nightfall or die. Realizing that surrender will mean death, Davos and the loyalists decide to wait until nightfall and prepare to fight, waiting for help from Edd and the wildlings. <ref>"[[The Red Woman]]"</ref>
+
+When this terms are not met, Thorne prepares to break down the door, seconds before Edd returns with the wildlings. After a brief stand-off, the mutineers surrender and Edd orders Thorne, Marsh, Yarwyck and Olly locked in the ice cells for their treachery. Later, Davos persuades [[Melisandre]] to resurrect Jon. Having lost her faith in the Lord of Light, she performs a ritual, cleaning Jon's body, cutting some of his hair and beard and reciting the same incantation that [[Thoros]] of [[Myr]] used to bring [[Beric Dondarrion]] back to life six times. After his friends leave the room, Jon awakens, returning from the dead.<ref>"[[Home ]]"</ref>
+
+After his return from the dead, Jon hangs Thorne, [[Bowen Marsh]], [[Othell Yarwyck]] and Olly for their role in the mutiny, then relinquishes his position as Lord Commander to Edd and abandons the Night's Watch, as death has freed him of his vows. <ref>"[[Oathbreaker]]"</ref>
+
+===Battle at the cave of the Three-Eyed Raven===
+{{Main|Battle at the cave of the Three-Eyed Raven}}
+Unknown to almost all, [[Bran Stark]], along with [[Hodor]], [[Summer]], and the [[Meera Reed|Reed]] [[Jojen Reed|twins]] had made it past the Wall shortly before the raid on Craster's Keep. The group found their way to the [[cave of the Three-Eyed Raven]], where [[Brynden Rivers]] and the surviving [[Children of the Forest]] sought to train Bran to control the [[Sight]] to use against the White Walkers.
+
+Over the following months, Brynden taught Bran how to use his powers to view the past and learn the truth of historical events. One of the most important insights was the origin of the White Walkers: they were captured [[First Men]] transformed by the Children of the Forest to extinguish mankind in their [[War of the First Men and the Children of the Forest|wars]] during the [[Dawn Age]]. Brynden also took Bran to the [[Skirmish at the Tower of Joy|events]] at the [[Tower of Joy]] in the [[Red Mountains]] of [[Dorne]] at the end of [[Robert's Rebellion]] mere decades ago.
+
+Seeking to know more, Bran views the past again without the guidance of Brynden, and drew the attention of the [[Night King]] himself, situated at the [[Weirwood]] where he had been transformed into the very first White Walker.
+
+While Brynden shared what was left of his knowledge with Bran, the Children, Meera, and Summer desperately tried to hold back the tide of [[wight]]s, but most of the Children and Summer perished in the attempt. The Night King murdered Brynden, while [[Leaf]] sacrificed herself shortly thereafter. Hodor held back the wights at a hidden door of the cave, but in the process, Bran accidentally warged into Hodor's past self and destroyed his mind, setting off the chain of events that led to Hodor holding the door in the first place. Meera and Bran, now alone, fled into the night.<ref name="E55">"[[The Door]]"</ref>
+
+While escaping the wights, Bran and Meera were saved by a mysterious rider on the horse who wore the black cloaks of a [[Night's Watch]] ranger. When the three reached safety, the mysterious man revealed himself as [[Benjen Stark]], Bran's uncle and former [[First Ranger]] who had gone missing years ago while leading a ranging party beyond the Wall to confirm reports of [[White Walkers]]. Though his companions perished, the Children saved Benjen by shoving [[dragonglass]] through his chest to stop him from fully becoming a [[wight]]. Benjen says he has served the Three-Eyed Raven since, and comments that Bran is now the [[Three-Eyed Raven]].<ref name="E56">"[[Blood of My Blood]]"</ref>
+
+Benjen later drops Bran and Meera off at the [[Wall]] near a Weirwood, but he himself is unable to pass due to [[magic]] being carved into its foundations that prevent the dead from passing. He reassures the two that he still fights for the living and will do what he can while the [[Great War]] is coming. He wishes them both good fortune and rides off into the wilderness of the [[Haunted Forest]]. Bran completes his vision into the past at the Tower of Joy, where he witnesses the birth of [[Jon Snow]]: not as the [[bastard]] son of [[Eddard Stark]], however, but the son of Eddard's sister and the betrothed of [[Robert Baratheon]], [[Lyanna Stark]], and the late [[Prince of Dragonstone|Crown Prince]] [[Rhaegar Targaryen]].<ref name="E60">"[[The Winds of Winter]]"</ref>
+
+===Wight hunt===
+{{Main|Wight hunt}}
+Though [[Daenerys Targaryen]] boasted of a massive elite army and three [[dragon]]s in the [[Last War]], her allies and [[Noble house|bannermen]] were consecutively defeated by the forces of [[Cersei Lannister]] and her allies.<ref name="E62">"[[Stormborn]]"</ref><ref name="E63">"[[The Queen's Justice]]"</ref> When the [[House Lannister|Lannister]]-[[House Tarly|Tarly]] host marched north in the [[Reach]] to [[King's Landing]], Daenerys attacked the army with her [[Dothraki]] screamers, commencing the [[Battle of the Goldroad]] that left her enemies' forces scattered.<ref name="E64">"[[The Spoils of War]]"</ref> The war ultimately culminated in a stalemate, though Daenerys's forces still remained strong and were now battle hardened. Meanwhile, Daenerys had entered into negotiations with [[Jon Snow]], the [[bastard]] [[King in the North]], who sought to use the [[dragonglass]] mines beneath [[Dragonstone]] to combat the [[White Walkers]] and the [[Wight|Army of the Dead]] [[beyond the Wall|north]] of the [[Wall]]. Initially skeptical of "an army of [[Wight|dead men]]," Daenerys grew to trust Jon, especially as her [[Hand of the King|Hand]], [[Tyrion Lannister]], had already met him in the past when Jon served in the [[Night's Watch]]. Lord Tyrion proposed an armistice to Cersei Lannister, which she accepted with Daenerys's consent, and further agreed to meet at a [[Dragonpit Summit|summit]] in [[King's Landing]].
+
+Tyrion wondered aloud if Jon could bring a wight to King's Landing for Cersei and the high lords of [[Westeros]] to witness, allowing them to see the dead as Jon had many times before. Jon ultimately agreed, much to Daenerys's concern, and sailed for [[Eastwatch-by-the-Sea]] alongside [[Knighthood|Ser]] [[Davos Seaworth]], Ser [[Jorah Mormont]] of Daenerys's [[Kingsguard|Queensguard]] and a [[Northmen|Northerner]], and [[Gendry Baratheon|Gendry]], the bastard son of the late [[King of the Andals and the Rhoynar and the First Men|King]] [[Robert Baratheon|Robert I]]. There, they met with [[Tormund]], who recognized the plan as foolish but nevertheless agreed to follow Jon. Tormund brought Jon down to the ice cells, where he held the three leading members of the [[Brotherhood Without Banners]] captive: Lord [[Beric Dondarrion]], the Lightning Lord, [[Thoros]] of [[Myr]], and [[Sandor Clegane]], the Hound. Despite all of their differences, they agreed to venture beyond the Wall together and follow Jon Snow in his mission to capture a wight in the [[wight hunt]].<ref name="E65">"[[Eastwatch]]"</ref>
+
+While trekking north of the Wall, the group came to set aside their differences and form mutual bonds, growing to respect each other. During their march to the mountain-shaped as an arrowhead seen in the Hound's vision in the flames, the group was attacked by a wight [[snow bear]], which killed several wildlings as well as mortally injured Thoros, whose wounds were cauterized by Beric. Despite his grave injuries, Thoros refused to hold the group back and march to Eastwatch, going only forward. Eventually, they came across a [[White Walker 1 (Beyond the Wall)|White Walker]] leading a procession of wights he had turned save for one. Distracting the creature with a fire, Jon and the party ambushed it, taking out several wights. After Jon killed the White Walker, the rest of the wights fell save for [[Captured wight|the one not turned by it]]. They tied the captured wight in rope and placed a bag over its head, but it made enough noise to attract the attention of a large contingent of the Army of the Dead, which forced the group to retreat to an island in the middle of a frozen lake that the wights were unable to cross. Jon sent Gendry back to Eastwatch to get a [[raven]] sent to [[Dragonstone]] requesting for Daenerys's aid.
+
+The [[Night King]] and a group of his lieutenants watched on personally as Jon and his party were freezing; Thoros succumbed to his wounds and died, forcing Beric to burn his body to prevent him from rising again as a wight. Eventually, the wights discovered that the ice of the frozen lake had been strengthened enough to cross after the Hound's thrown rocks were unable to break through it, and they began to attack Jon and his party. Several wildlings fell, leaving only Jon, Tormund, Beric, Sandor, and Jorah, as well as their captured wight. However, in the nick of time, Daenerys arrived at the frozen lake, riding [[Drogon]], who was flanked by his fire-breathing [[dragon]] brothers [[Rhaegal]] and [[Viserion]]. While Jon fought off the wights to allow the fellowship to mount Drogon, the Night King chucked an [[Crystal sword|crystal spear]] provided by one of his [[White Walker 2 (Beyond the Wall)|lieutenants]] at Viserion, piercing the great beast through the neck. Rhaegal attempted to fly towards Viserion but was unable to recover him, instead, fleeing while Viserion sank beneath the frozen lake. As the Night King was given a second spear, Jon urged Daenerys to take Drogon off. Still in shock over the sudden loss of Viserion and not wanting to leave Jon behind, she ultimately went off with the other four as Jon was pushed into the frozen lake by two wights.
+
+Jon, however, was able to climb out of the frozen lake after the Night King departed. Freezing, Jon was nearly ambushed by a hoard of wights until his long-lost uncle, [[Benjen Stark]], rode in. Benjen plopped Jon on his horse and told him to ride hard on the passage. Jon was unwilling to leave his uncle behind, who had been missing in action for several years, but Benjen, who was unable to cross the Wall anyhow, told his nephew that there was no time and sent the horse galloping away. Jon looked back to find the wights swarming his uncle Benjen and ultimately overpowering him, killing the great [[First Ranger]] once and for all.
+
+Jon eventually made it back to Eastwatch, where he was safely placed on one of Daenerys's [[ships]] to rest while Sandor Clegane brought the captured wight to a nearby skiff. Despite their heavy losses, a wight had been successfully captured and could now be presented at the upcoming Dragonpit Summit.
+
+Beyond the Wall, wights dragged the corpse of Viserion out of the frozen lake with massive chains. The Night King, with his lieutenants behind him, approached the fallen beast, kneeling to the ground and placing a hand on the body. The eyes of the dragon opened, revealing the icy blue glow of a wight.<ref name="E66">"[[Beyond the Wall]]"</ref>
+
+===Breaching of the Wall===
+{{Main|Breaching of the Wall}}
+[[Tormund]] and [[Beric Dondarrion]] manned the [[Wall]] at [[Eastwatch-by-the-Sea]] with the [[Night's Watch]], the [[Free Folk]], and the [[Brotherhood Without Banners]] when the Wall was suddenly attacked at Eastwatch by the [[Night King]] atop the [[ice dragon]] [[Viserion]]. The [[White Walkers]] and the [[Wight|wight army of the dead]] step out of the [[Haunted Forest]] and watch on as Viserion melts and destroys the Wall with [[Magic|magical]] blue fire, creating a breach where Eastwatch once stood. Tormund, Beric, and the rest flee for their lives as the White Walkers and the Army of the Dead cross into southern [[Westeros]], rendering the Wall useless against them and ending the Conflict "Beyond the Wall" as the [[Great War]] begins and the [[Long Night]] returns.<ref name="E67">"[[The Dragon and the Wolf]]"</ref>
+
+===Conclusion===
+After the [[Mutiny at Castle Black]], [[Jon Snow]] descended on [[House Bolton]] with a loyalist [[House Stark|Stark]] host, with the support of the [[Free Folk|wildlings]] and remnants of [[Stannis Baratheon]]'s army, to unite the [[North]], as, being the northernmost of the [[Seven Kingdoms]] of [[Westeros]], it would be hit first by the White Walkers. The [[Battle of the Bastards]] was ultimately won by House Stark and its allies, and Jon Snow was declared the [[King in the North]] by the united [[Lordship|lords]] of the North and their allies from the [[Vale of Arryn|Vale]], ruled by [[House Arryn]]. Jon later treated with [[Daenerys Targaryen]], the younger sister of [[Rhaegar Targaryen|Rhaegar]] and [[Viserys Targaryen (son of Aerys II)|Viserys Targaryen]], who had begun the [[Last War]], her own invasion of Westeros from the [[Essos|east]]. The Dragon Queen controlled the mines of [[dragonglass]] beneath [[Dragonstone]] and is the "mother" of three fire breathing [[dragon]]s: [[Drogon]], [[Rhaegal]], and [[Viserion]].
+
+After the [[Battle of the Goldroad]], the latest civil war had reached a standstill. An armistice proposed by [[Lordship|Lord]] [[Tyrion Lannister]] was formed between Daenerys Targaryen and Cersei Lannister, who further agreed to meet one another at the [[Dragonpit Summit]]. Though Daenerys and Tyrion came to trust Jon Snow and begrudgingly believe him, Jon still sought to prove the return of the [[White Walkers]] and their [[Wight|Army of the Dead]] to the rest of the high lords of Westeros by capturing a [[wight]] [[beyond the Wall]] at the [[wight hunt]]. With the aid of the [[Night's Watch]], [[Free Folk]], and [[Brotherhood Without Banners]], Jon and his party were able to [[Captured wight|capture a wight]]. However, they were nearly overwhelmed by the wight army until Daenerys came to their aid with her three dragons after receiving a [[raven]] from [[Gendry Baratheon|Gendry]] asking for her help. Though the remaining warriors were able to escape back below the [[Wall]] with the captured wight, the [[Night King]] was able to kill Viserion and reanimate the dragon as an [[ice dragon]], which he later used to [[Breaching of the Wall|breach]] the Wall.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Conflict beyond the Wall}}
+{{Wars}}
+
+<!--Categories-->
+[[Category:Conflict beyond the Wall| ]]
+[[Category:Wars]]
+
+<!--Languages-->
+[[de:Krieg jenseits der Mauer]]
+[[es:Conflicto más allá del Muro]]
+[[fr:Conflit Au-delà du Mur]]
+[[it:Conflitto oltre la Barriera]]
+[[pl:Konflikt za Murem]]
+[[pt-br:Conflito Para Lá da Muralha]]
+[[ru:Конфликт за Стеной]]
+[[zh:塞外冲突]]

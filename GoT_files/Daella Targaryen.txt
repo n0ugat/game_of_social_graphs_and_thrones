@@ -1,0 +1,76 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{ConjectureInfo}}
+{{Heraldry
+| Leftimage  = House Targaryen.svg
+| Leftlink   = House Targaryen/House of the Dragon
+| Rightimage = House Arryn.svg
+| Rightlink  = House Arryn/House of the Dragon
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Arryn
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = [[House Targaryen/House of the Dragon|Targaryen]]{{Guideref|Jaehaerys I Targaryen}}<br>[[House Arryn/House of the Dragon|Arryn]]{{Con|F&B}} {{C|by marriage}}
+| Affiliation = 
+| Titles      = [[Prince]]ss
+| AKA         = 
+| Culture     = [[Valyrians|Valyrian]]
+| Religion    = 
+| Father      = {[[Jaehaerys I Targaryen]]}{{Guideref|Jaehaerys I Targaryen}}
+| Mother      = {[[Alysanne Targaryen]]}{{Guideref|Jaehaerys I Targaryen}}
+| Spouse      = 
+| Lovers      = 
+| Issue       = {[[Aemma Arryn]]}{{Con|F&B}}
+| Siblings    = 
+| Arms        = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|King Jaehaerys ruled over half a century of peace while his children drove him to the edge of madness... his daughters, in particular.|[[Lyonel Strong]]|Second of His Name}}
+Princess '''Daella Targaryen'''{{Con|F&B}} was the eighth child of King [[Jaehaerys I Targaryen|Jaehaerys I]] and Good Queen [[Alysanne Targaryen|Alysanne]], and the mother of [[Aemma Arryn]].{{Guideref|Jaehaerys I Targaryen}}
+
+==Family==
+{{Targaryen tree (House of the Dragon)}}
+
+==In the books==
+In ''[[Fire & Blood]]'', Daella was born in 64 AC. She was shy and easily frightened. As a child, she was scratched by her kitten. After that, she was deathly afraid of cats. Her younger sister [[Saera Targaryen|Saera]] often pranked her by sneaking cats into her bedchamber. On another occasion, she filled her chamberpot with bees.
+
+It was assumed that she would marry her brother [[Vaegon Targaryen|Vaegon]], but he showed no interest in her. In 73 AC, he insulted her to tears after one of the queen's companions asked when the two would wed. Looking for a new potential husband, the queen sent her to [[Driftmark]] to meet [[Corlys Velaryon]]. However, she was prone to seasickness, and she complained that Corlys seemed to like his boats more than her. She had several other suitors, including Denys Swann, Simon Staunton, Gerold Templeton, and Ellard Crane, but she hated all of them. She took a great liking to Royce Blackwood, but she was horrified upon learning that the [[House Blackwood|Blackwoods]] worshiped the [[Old Gods|old gods]] and that they would have to marry in front of a [[weirwood]]. After many years of searching for a husband for Daella, King Jaehaerys commanded her to choose between Lord [[Boremund Baratheon]], Ser Tymond Lannister, or Lord Rodrik Arryn. She finally chose Rodrik, who she deemed "good and wise, like Father." They were married in 80 AC in the [[sept]] at [[Dragonstone]].
+
+Daella died of childbed fever in 82 AC after giving birth to [[Aemma Arryn]]. She was cremated, and her ashes were sent to Dragonstone, against the wishes of Lord Arryn who wanted to bury her in the [[Vale of Arryn|Vale]].
+
+==Appearances==
+*{{HOTD|Second of His Name}} {{Indirect}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|Daella Targaryen (daughter of Jaehaerys I)}}
+
+<!--Navboxes-->
+{{House Targaryen/House of the Dragon}}
+{{House Arryn/House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Targaryen, Daella}}
+[[Category:Crownlanders]]
+[[Category:Individuals mentioned in House of the Dragon]]
+[[Category:Ladies]]
+[[Category:Members of House Arryn|Daella Targaryen]]
+[[Category:Members of House Targaryen|Daella Targaryen]]
+[[Category:Princesses]]
+
+<!--Languages-->
+[[ru:Дейлла Таргариен]]

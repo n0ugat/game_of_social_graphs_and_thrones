@@ -1,0 +1,70 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Order of Maesters.svg
+| Link  = Order of Maesters
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Citadel
+| Image       = CITADELMAESTERTWOW.PNG
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[Order of Maesters]]
+| Titles      = Maester
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 6|6]]
+| Appearances = "[[The Winds of Winter]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Frank Hvam]]
+}}
+{{Quote|No women or children!|The maester to [[Gilly]]|The Winds of Winter}}
+A '''Citadel maester''' serves at the [[Citadel]] itself, working in a reception area.
+
+==Biography==
+===[[Game of Thrones: Season 6|''Game of Thrones'': Season 6]]===
+After arriving in [[Oldtown]], [[Samwell Tarly|Sam]] and [[Gilly]] arrive at the Citadel and meet the maester. Sam gives him a letter from [[Lord Commander of the Night's Watch|Lord Commander]] [[Jon Snow|Snow]] detailing the [[Night's Watch]]'s need for a new maester. The maester is skeptical about Jon Snow's status, however, declaring that no word was given about [[Jeor Mormont|Lord Commander Mormont]]'s death from Maester [[Aemon]]. The maester states that Sam's situation is "irregular" to which Sam responds, "Life is irregular." The maester says that Sam must speak to the Archmaester in order to discuss these issues, but allows him to use the library while he waits. He blocks Gilly and [[Sam|baby Sam]] from entering, however, declaring that there are "no women or children" allowed.{{Ref|GOT610}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Sam is approached by a novice (not a maester) who introduces himself as Alleras.{{Note|There is a fan theory that Alleras, based on what he tells Sam about himself and the spelling of his name backwards, is actually [[Sarella Sand]].}}
+
+Alleras asks Sam what brings him to the Citadel. Sam tells about Maester [[Aemon]] and why he thought that [[Daenerys Targaryen|Daenerys]] was the [[Prince That Was Promised|prince that was promised]], then everything that happened since the ranging force left [[Castle Black]] (the only things he leaves out are the secrets that he was sworn to keep - about [[Bran Stark|Bran]] and the babes Jon had swapped). He concludes "Daenerys is the only hope. Aemon said the Citadel must send her a maester at once, to bring her home to Westeros before it is too late". Alleras listens intently, then takes Sam to see Archmaester Marwyn.
+
+==Gallery==
+<gallery>
+Citadel s6.jpg|The Maester receives Samwell at the Citadel
+</gallery>
+
+==Appearances==
+*{{GOT|The Winds of Winter}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|Alleras}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Maesters]]
+[[Category:Westerosi]]
+
+<!--Languages-->
+[[de:Maester der Zitadelle (Die Winde des Winters)]]
+[[ru:Мейстер Цитадели (Ветра зимы)]]

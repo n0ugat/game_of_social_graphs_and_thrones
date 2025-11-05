@@ -1,0 +1,22 @@
+{{Cast
+|Title = Denis Halligan
+|Image =
+|dateofbirth = 1988
+|birthplace = Armagh, Northern Ireland, United Kingdom
+|role = [[Nicho]] <small>(Season 1)</small><br>Brotherhood member <small>(Season 3)</small>
+|status = 
+|First = "[[You Win or You Die]]"
+|Last = "[[And Now His Watch Is Ended]]"
+|imdb = https://www.imdb.com/name/nm4102014/
+|Twitter = https://twitter.com/denishalligan?lang=en
+}}'''Denis Halligan''' is an Irish actor, writer, and director. He portrayed [[Nicho]] in "[[You Win or You Die]]" and a brotherhood member in "[[And Now His Watch Is Ended]]".
+
+==Credits==
+{{Game of Thrones: Season 1|||||||yes}}
+{{Game of Thrones: Season 3||||yes}}
+
+==See also==
+*{{IMDb|# = 4102014}}
+*{{Twitter|# = denishalligan}}
+{{DEFAULTSORT:Halligan, Denis}}
+[[Category:Uncredited cast members of Game of Thrones]]

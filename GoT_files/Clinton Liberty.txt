@@ -1,0 +1,39 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Clinton Liberty.jpg
+| Birth   = June 4, 1998 {{Age|1998|6|4}}
+| Death   = 
+| Role    = [[Addam of Hull]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]] {{*}} [[House of the Dragon: Season 3|3]]
+| Credits = 4 episodes {{Below|Credits}}
+| First   = "[[Rhaenyra the Cruel]]"
+| Last    = 
+}}
+'''Clinton Liberty''' (born 4 June 1998) is an Irish actor and dancer.
+
+Liberty plays [[Addam of Hull]] in the [[House of the Dragon: Season 2|second season]] of ''[[House of the Dragon]]''.<ref>https://redanianintelligence.com/2023/07/10/report-a-month-of-house-of-the-dragon-filming-in-wales/</ref>
+
+==Credits==
+===Starring===
+{{House of the Dragon: Season 2||yes||||yes|yes|yes}}
+{{House of the Dragon: Season 3}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{WP}}
+*{{IMDb|#=9166635}}
+
+<!--Navboxes-->
+{{House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Liberty, Clinton}}
+[[Category:Starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Clinton Liberty]]
+[[pl:Clinton Liberty]]

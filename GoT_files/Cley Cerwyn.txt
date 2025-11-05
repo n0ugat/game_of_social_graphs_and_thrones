@@ -1,0 +1,90 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = House Cerwyn.svg
+| Link  = House Cerwyn
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Stark
+| Image       = 610 Cley Cerwyn.png
+| Birth       = At [[Castle Cerwyn]]
+| Death       = 
+| House       = [[House Cerwyn|Cerwyn]]
+| Affiliation = [[House Bolton]]<br>[[House Stark]]
+| Titles      = 
+| Predecessor = {[[Medger Cerwyn]]}
+| Successor   = 
+| AKA         = 
+| Culture     = [[Northmen|Northern]]
+| Religion    = [[Old Gods]]
+| Father      = {[[Medger Cerwyn]]}
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 6|6]]
+| Appearances = "[[The Winds of Winter]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Tom Varey]]
+}}
+{{Quote|The Boltons are defeated. The war is over. Winter has come. If the maesters are right, it'll be the coldest one in a thousand years. We should ride home and wait out the coming storm.|Cley Cerwyn|The Winds of Winter}}
+Lord '''Cley Cerwyn'''{{Con|ASOIAF}} is a [[Northmen|Northern]] lord and the new head of [[House Cerwyn]] after the death of his father, [[Medger Cerwyn]].
+
+==Biography==
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+[[Roose Bolton]] sends his recently legitimized bastard son [[Ramsay Bolton|Ramsay]] to [[Castle Cerwyn]] to collect taxes from his new vassals. [[Medger Cerwyn]], however, refuses to pay, proudly professing his loyalty to [[House Stark]] and denouncing Bolton as a turncoat. For his defiance, Ramsay has Medger [[Flaying|flayed]] alive, along with his wife and brother, all the while forcing Cley to watch the ordeal. Cley begrudgingly pays Ramsay the taxes in his father's stead, as Ramsay relays to his own father.{{Ref|GOT503}}
+
+===[[Game of Thrones: Season 6|''Game of Thrones'': Season 6]]===
+[[File:Jon Snow is declared King in The North Season 6 Episode 10 Preview..jpg|thumb|180x180px|Cley declares Jon as King in the North.]]
+While amassing a force to help him retake Winterfell from the Boltons, [[Jon Snow|Jon]] sends ravens to numerous Northern Houses pleading for help, one of them House Cerwyn. Despite Ramsay having flayed his family alive, Cley refuses Jon's pleas, though [[Sansa Stark|Sansa]] expresses confidence that they can get Cley's help if they ask him personally.{{Ref|GOT607}}
+
+Cley later joins the other Northern lords gathered in [[Winterfell]] after the [[Battle of the Bastards]]. With the Boltons defeated, Lord Cerwyn notes that the newly arrived winter is expected to be the coldest in a thousand years and advocates returning to their homes to wait out the cold, claiming that the war is effectively over (as the Lannisters are unlikely to send troops to the freezing North solely to avenge the Boltons). Jon Snow responds by saying that the war is not over and the [[Night King|new enemy]] won't allow them to wait out the storm; he brings the storm. Lord Cerwyn is one of the lords chastised by Lady [[Lyanna Mormont]] for not aiding Jon against Ramsay, despite Ramsay having flayed his family alive. A repentant Lord Cerwyn declares Jon as the new [[King in the North]] along with the other Northern lords.{{Ref|GOT610}}
+
+==Family==
+{{Cerwyn tree}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Cley is the son of Lord Medger Cerwyn, who died of wounds he took at the [[battle on the Green Fork]].
+
+While Ramsay Bolton did not kill Medger in the novels, he did kill his son Cley Cerwyn, at the [[Sack of Winterfell]]. When [[Rodrik Cassel]] hastily assembled a force to besiege [[Theon Greyjoy]] in Winterfell, composed of about 2,000 men from the few household soldiers left in the North, 300 of them were Cerwyn men led by Cley. Ramsay then arrived with 600 Bolton men, whom Rodrik and his lieutenants welcomed as their allies - but as soon as they were in the camp Ramsay's men betrayed the other Northern bannermen in a surprise attack, taking them totally off-guard. When Rodrik walked up to greet Ramsay by extending his hand in friendship, Ramsay quickly drew his sword and cut off Rodrik's outstretched arm at the elbow. Cley Cerwyn was killed in the betrayal by an arrow to the eye.{{Bookref|ACOK|66}}
+
+After Cley's death, Jonelle Cerwyn, his elder sister becomes the Lady of Cerwyn. Like the show version of Cley, she begrudgingly swears allegiance to [[House Bolton]].
+
+Cley Cerwyn's death from the books was therefore omitted from the TV series, but his entire existence in the first place was omitted until he was mentioned in Season 5. Thus it is unclear why the TV continuity didn't simply keep Jonelle Cerwyn as the new head of House Cerwyn after Medger's death. This has been part of a repeated pattern in the TV series of [[Differences in adaptation/Status of women#The social status of women from major vassal Houses - in the TV series|genderswapping female political rulers into male ones.]]
+
+==Appearances==
+*{{GOT|High Sparrow}} {{Mentioned}}
+*{{GOT|The Broken Man}} {{Mentioned}}
+*{{GOT|The Winds of Winter}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+*{{AWOIAF|Jonelle Cerwyn}}
+
+<!--Navboxes-->
+{{House Cerwyn}}
+
+<!--Categories-->
+{{DEFAULTSORT:Cerwyn, Cley}}
+[[Category:Bannermen of House Stark]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Lords]]
+[[Category:Members of House Cerwyn|Cley Cerwyn]]
+[[Category:Northmen]]
+
+<!--Languages-->
+[[de:Cley Cerwyn]]
+[[fr:Cley Cerwyn]]
+[[it:Cley Cerwyn]]
+[[ru:Клей Сервин]]

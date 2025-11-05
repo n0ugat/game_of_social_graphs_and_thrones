@@ -1,0 +1,30 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Darren Kent.jpg
+| Birth   = Darren Paul Kent<br>March 30, 1987<br>Essex, England, United Kingdom
+| Death   = August 11, 2023 (aged 36)
+| Role    = [[Goatherd]]
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 4|4]]
+| Credits = "[[The Children]]"
+| First   = 
+| Last    = 
+}}
+'''Darren Paul Kent''' (30 March 1987—11 August 2023)<ref>''Variety'', Aug 15, 2023: [https://variety.com/2023/film/news/darren-kent-dead-game-of-thrones-dungeons-and-dragons-1235696978/ Darren Kent, 'Game of Thrones' and 'Dungeons and Dragons' Actor, Dies at 36]</ref> was an English actor who appeared in films such as ''Mirrors'' and ''Snow White and the Huntsman''.
+
+In the [[Game of Thrones: Season 4|fourth season]] of ''[[Game of Thrones]]'', he portrayed a [[goatherd]] in the episode "[[The Children]]".<ref>http://www.southendstandard.co.uk/news/10806274.From_Essex_to_a_land_of_dragons_and_/</ref>
+
+==Credit==
+{{Game of Thrones: Season 4|10=yes}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb|#=2662620}}
+*{{Twitter|#=darrenpaulkent}}
+
+<!--Categories-->
+{{DEFAULTSORT:Kent, Darren}}
+[[Category:Guest starring cast members of Game of Thrones]]

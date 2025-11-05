@@ -1,0 +1,28 @@
+{{Cast
+| Title= Conor Delaney
+| Image= Conor Delaney.jpg
+| dateofbirth= 
+| birthplace= 
+| role= Lannister guardsman
+| status= 
+| First=
+| Last=
+| imdb= http://www.imdb.com/name/nm1406364/
+|Appearances = "[[The Kingsroad]]"}}'''Conor Delaney''' is an actor based in Dublin, Ireland.
+
+In ''[[Game of Thrones]]'' he plays the role of a Lannister guardsman.<ref>"[[The Kingsroad]]"</ref>
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 1||yes}}
+
+==See also==
+*{{Template:IMDb
+|# = 1406364}}
+
+==References==
+{{reflist}}
+{{Stub}}
+
+{{DEFAULTSORT:Delaney, Conor}}
+[[Category:Guest starring cast members of Game of Thrones]]

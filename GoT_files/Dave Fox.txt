@@ -1,0 +1,22 @@
+{{Crew
+|Image = 
+|dateofbirth = 
+|birthplace = 
+|job = Stunt Rigger
+|imdb = http://www.imdb.com/name/nm10501109}}
+'''Dave Fox''' is an stunt rigger.
+
+In ''[[Game of Thrones]]'', he was a stunt rigger in the [[Game of Thrones: Season 8|eighth season]] episode "[[The Long Night]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 8|||yes}}
+
+==See also==
+*{{IMDb
+|# = 10501109}}
+
+==References==
+{{reflist}}
+{{DEFAULTSORT:Fox, Dave}}
+[[Category:Stunt performers of Game of Thrones]]

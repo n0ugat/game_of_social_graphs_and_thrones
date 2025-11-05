@@ -1,0 +1,36 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Denise Mack.jpg
+| Birth   = 
+| Death   = 
+| Role    = Funeral mourner
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]]
+| Credits = "[[Rhaenyra the Cruel]]"
+| First   = 
+| Last    = 
+}}
+'''Denise Mack''' is an English actress. She has appeared in films such as ''{{WPS|Children of Men}}'' and ''{{WPS|The Favourite}}'' and television series such as ''{{WPS|Rock & Chips}}'', ''{{WPS|Mr. Selfridge}}'', ''{{WPS|The Crown (TV series)|The Crown}}'', ''{{WPS|Worzel Gummidge (2019 TV series)|Worzel Gummidge}}'' and ''{{WPS|EastEnders}}''.
+
+Mack plays a funeral mourner in the [[House of the Dragon: Season 2|second season]] of ''[[House of the Dragon]]''.<ref>[https://wikiofthrones.com/the-last-kingdom-actor-tom-taylor-joins-house-of-the-dragon-season-2 The Last Kingdom actor Tom Taylor joins House of the Dragon Season 2 - Wiki of Thrones]</ref>
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 2||yes}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb|# = 1439098}}
+*{{Spotlight|# = 7817-7860-2477}}
+*{{Twitter|# = denisemackacto2}}
+*{{Linkedin|# = /in/denise-mack-a8104813}}
+
+<!--Navboxes-->
+{{House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Mack, Denise}}
+[[Category:Co-starring cast members of House of the Dragon]]

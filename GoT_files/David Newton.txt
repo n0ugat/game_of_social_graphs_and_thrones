@@ -1,0 +1,30 @@
+{{Crew
+|Image = David Newton.jpg
+|dateofbirth = 
+|birthplace = 
+|job = Stunt Performer
+|imdb = https://www.imdb.com/name/nm2956073/
+|twitter = https://twitter.com/dnstunts/}}
+'''David Newton''' is a stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 2|second season]] episodes "[[The Prince of Winterfell]]" and "[[Blackwater]]", [[Game of Thrones: Season 5|fifth season]] episodes "[[High Sparrow (episode)|High Sparrow]]", ", "[[Sons of the Harpy (episode)|Sons of the Harpy]]", "[[Hardhome (episode)|Hardhome]]" and "[[The Dance of Dragons (episode)|The Dance of Dragons]]", the [[Game of Thrones: Season 6|sixth season]] episodes "[[The Door]]", "[[Blood of My Blood]]", "[[Battle of the Bastards (episode)|Battle of the Bastards]]" and "[[The Winds of Winter]]", the [[Game of Thrones: Season 7|seventh season]] episodes "[[Dragonstone (episode)|Dragonstone]]","[[Stormborn]]", "[[The Spoils of War]]", "[[The Queen's Justice]]", "[[Eastwatch]]" and "[[The Dragon and the Wolf]]" and the [[Game of Thrones: Season 8|eighth season]] episodes "[[Winterfell (Game of Thrones)|Winterfell]]", "[[A Knight of the Seven Kingdoms (Game of Thrones)|A Knight of the Seven Kingdoms]]", "[[The Long Night]]", "[[The Last of the Starks]]", "[[The Bells]]" and "[[The Iron Throne]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 2||||||||yes|yes}}
+{{Game of Thrones: Season 5||yes|yes|||||yes|yes}}
+{{Game of Thrones: Season 6|||||yes|yes|||yes|yes}}
+{{Game of Thrones: Season 7|yes|yes|yes|yes|yes||yes}}
+{{Game of Thrones: Season 8|yes|yes|yes|yes|yes|yes}}
+
+==See also==
+*{{IMDb
+|# = 2956073}}
+*{{Twitter
+|# = dnstunts}}
+*{{Vimeo
+|# = user5736482}}
+*{{Linkedin
+|# = company/8020145}}
+{{DEFAULTSORT:Newton, David}}
+[[Category:Stunt performers of Game of Thrones]]

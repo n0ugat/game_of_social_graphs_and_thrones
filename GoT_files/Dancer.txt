@@ -1,0 +1,50 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Animal
+| Title       = {{PAGENAME}}
+| Type        = Stark
+| Image       = Dancer.jpg
+| Species     = [[Horse]]
+| Birth       = 
+| Death       = 
+| AKA         = 
+| Affiliation = [[Bran Stark]]
+| Family      = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 1|1]]
+| Appearances = "[[A Golden Crown]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+}}
+'''Dancer'''{{Con|ASOIAF}} is the horse of [[Bran Stark]]. She is specially trained to allow Bran to ride despite being unable to move his legs.
+
+==Biography==
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+With the mechanism proposed by [[Tyrion Lannister]], Bran is able to ride through the woods on Dancer. However, they are soon ambushed by [[Osha]], [[Stiv]] and [[Wallen]] before being rescued by [[Robb Stark|Robb]] and [[Theon Greyjoy|Theon]].{{Ref|GOT106}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Dancer is a two year old filly with a chestnut coat. She is trained by Joseth, the horsemaster of [[Winterfell]] especially for Bran. She presumably perishes during the [[Sack of Winterfell]].
+
+==Appearances==
+*{{GOT|A Golden Crown}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+[[Category:Horses]]
+[[Category:House Stark]]
+[[Category:Individuals appearing in Game of Thrones]]
+
+<!--Languages-->
+[[de:Tänzerin]]
+[[fr:Danseuse]]
+[[pt-br:Dançarina]]
+[[ru:Плясунья]]

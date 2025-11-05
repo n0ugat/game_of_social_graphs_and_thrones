@@ -1,0 +1,49 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = Night's Watch.svg
+| Link  = Night's Watch
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Watch
+| Image        = Deep Lake Pin.png
+| Type         = Castle
+| Status       = Abandoned
+| Location     = The [[Wall]], the [[Gift]]
+| Population   = 
+| Rulers       = [[Night's Watch]]
+| Institutions = 
+| Military     = 
+| Religion     = 
+| Places       = 
+| Founded      = 
+}}
+'''Deep Lake'''{{Con|ASOIAF}} is one of the nineteen castles guarding the [[Wall]],{{Ref|GOT305}} and is located to the west of [[Castle Black]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Deep Lake was first built during the reign of King [[Jaehaerys I Targaryen]] as a smaller, cheaper replacement for the Nightfort, which had fallen into disrepair. Queen Alysanne, who had flown on her [[dragon]] Silverwing to visit the Wall, convinced the Night's Watch to replace the older castle. Deep Lake was paid for by Queen Alysanne and built by the men that her husband Jaehaerys I, sent north. To the east of Deep Lake sits Queensgate.
+
+Deep Lake is one of the empty castles of the Watch that Jon intends to open and garrison with wildlings, under the command of the Watch officers. It is not currently fit for human habitation. Eventually Deep Lake and four more of the abandoned castles (Icemark, Long Barrow, Sable Hall and [[Greyguard]]) are garrisoned by wildlings, though badly undermanned.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Night's Watch}}
+{{Gift}}
+
+<!--Categories-->
+[[Category:Castles of the Wall]]
+
+<!--Languages-->
+[[de:Grundsee]]
+[[pl:Głębokie Jezioro]]
+[[ru:Глубокое озеро]]
+[[zh:深湖居]]

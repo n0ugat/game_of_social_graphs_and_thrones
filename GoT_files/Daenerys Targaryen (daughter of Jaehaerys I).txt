@@ -1,0 +1,80 @@
+{{DISPLAYTITLE:Daenerys Targaryen {{C|daughter of Jaehaerys I}}}}
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = House Targaryen.svg
+| Link  = House Targaryen/House of the Dragon
+}}
+{{Character
+| Title       = Daenerys Targaryen
+| Type        = Targaryen
+| Image       = 
+| Birth       = [[Red Keep]], [[King's Landing]]{{Con|F&B}}
+| Death       = 
+| House       = [[House Targaryen/House of the Dragon|Targaryen]]{{Guideref|Jaehaerys I Targaryen}}
+| Affiliation = 
+| Titles      = [[Prince]]ss
+| AKA         = 
+| Culture     = [[Valyrians|Valyrian]]
+| Religion    = 
+| Father      = {[[Jaehaerys I Targaryen]]}{{Guideref|Jaehaerys I Targaryen}}
+| Mother      = {[[Alysanne Targaryen]]}{{Guideref|Jaehaerys I Targaryen}}
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|King Jaehaerys ruled over half a century of peace while his children drove him to the edge of madness... his daughters, in particular.|[[Lyonel Strong]]|Second of His Name}}
+Princess '''Daenerys Targaryen'''{{Note|[[High Valyrian]]: ''Daenerys Targārien''}}{{Con|F&B}} was the second child of King [[Jaehaerys I Targaryen|Jaehaerys I]] and Good Queen [[Alysanne Targaryen|Alysanne]].{{Guideref|Jaehaerys I Targaryen}}
+
+==Family==
+{{Targaryen tree (House of the Dragon)}}
+
+==In the books==
+In ''[[Fire & Blood]]'', Daenerys was born in 53 AC, a strong and healthy baby. She was known to be happy, curious, and fearless. Long before her first [[nameday]], she had already learned to speak; when she was only 18 months old, she had already learned to walk and run.
+
+Queen Alysanne believed that Daenerys should have been first in line to inherit the [[Iron Throne]], as she was the eldest child (her older brother Aegon lived only three days). However, King Jaehaerys could not be swayed from seeing [[Aemon Targaryen (son of Jaehaerys I)|Aemon]] as his sole heir. Jaehaerys proposed to have them married to one another, making them both king and queen, but this solution did not satisfy Alysanne.
+
+Daenerys fell victim to an epidemic of the Shivers in 60 AC, and died a day and a half after she first started showing symptoms.
+
+In ''The World of Ice & Fire'', there is no daughter of Jaehaerys and Alysanne named Daenerys. In her place is a son, Prince Aeryn Targaryen. All that is known of him is that he died young. Aeryn has since been rendered non-canon and is not included in ''Fire & Blood''.
+
+[[Daenerys Targaryen|Daenerys Stormborn]] is the third member of the Targaryen family to be named "Daenerys," but she is ''not'' called "Daenerys III," because the [[Daenerys Targaryen (daughter of Aegon IV)|daughter of Aegon IV]] and the daughter of Jaehaerys I never ruled as queens. In fact, there has never been a ruling Targaryen queen before. When Daenerys Stormborn proclaims herself the rightful heir of the Targaryen dynasty (after her [[Viserys Targaryen (son of Aerys II)|brother]] dies), she is officially styled as "Daenerys of House Targaryen, First of Her Name." This has been confirmed to be the same in the TV series continuity, as [[Xaro Xhoan Daxos|Xaro]] refers to her as "Daenerys, First of Her Name" in Season 2's episode "[[The Ghost of Harrenhal]]," and this is also how she is formally introduced throughout the following seasons.
+
+Daenerys Stormborn being the third Targaryen to be named Daenerys in the current canon is an example of {{WPS|retroactive continuity}}; Jaehaerys's daughter was first mentioned in ''Fire & Blood'', which was published in 2018. Before this, [[Daenerys Targaryen (daughter of Aegon IV)|Daenerys of Sunspear]], the daughter of Aegon IV, was referred to in the novels as the "first Daenerys," whereas now she would be the second.
+
+==Appearances==
+*{{HOTD|Second of His Name}} {{Indirect}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+*{{AWOIAF|Aeryn Targaryen}}
+
+<!--Navboxes-->
+{{House Targaryen/House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Targaryen, Daenerys}}
+[[Category:Crownlanders]]
+[[Category:Individuals mentioned in House of the Dragon]]
+[[Category:Members of House Targaryen|Daenerys Targaryen]]
+[[Category:Princesses]]
+
+<!--Languages-->
+[[pl:Daenerys Targaryen (córka Jaehaerysa I)]]
+[[ru:Дейнерис Таргариен (дочь Джейхейриса I)]]
+[[uk:Денеріс Тарґеріен (дочка Джехеріса I)]]

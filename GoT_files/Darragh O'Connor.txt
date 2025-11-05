@@ -1,0 +1,25 @@
+{{Cast
+|Title = Darragh O'Connor
+|Image = Darragh O'Connor.jpg
+|birthplace = {{WPS|Dublin}}, {{WPS|Ireland}}
+|role = Frey Wedding Guest <small>(Season 3)</small><br/>Wight <small>(Season 6)</small>
+|status = 
+|Appearances = 2 episodes <small>[[#Guest starring|(see below)]]</small>
+|imdb = http://www.imdb.com/name/nm6740076/
+|twitter = https://twitter.com/darraghwv
+}}'''Darragh O'Connor''' is an Irish actor and musician.
+
+In ''[[Game of Thrones]]'' he portrays a Frey Wedding Guest in the third season. He appeared again in one episode of the sixth season, this time playing a [[wight]].
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 3|||||||||yes}}
+{{Game of Thrones: Season 6|||||yes}}
+
+==See also==
+*{{IMDb
+|# = 6740076}}
+*{{Twitter
+|# = darraghwv}}
+{{DEFAULTSORT:O'Connor, Darragh}}
+[[Category:Uncredited cast members of Game of Thrones]]

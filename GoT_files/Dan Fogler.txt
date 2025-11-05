@@ -1,0 +1,31 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Dan Fogler.jpg
+| Birth   = Daniel Kevin Fogler<br>October 20, 1976 {{Age|1976|10|20}}<br>Brooklyn, New York, United States of America
+| Death   = 
+| Role    = [[Torrhen Manderly]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 3|3]]
+| Credits = [[House of the Dragon: Season 3, Episode 4|Season 3, Episode 4]]
+| First   = 
+| Last    = 
+}}
+'''Daniel Kevin Fogler''' is an American actor, comedian and writer. He is best known for portrayed Jacob Kowalski in the ''{{WPS|Fantastic Beasts}}'' film series. He has also appeared in films such as ''{{WPS|Good Luck Chuck}}'', ''{{WPS|Balls of Fury}}'' and ''{{WPS|A Complete Unknown}}'' and television series such as ''{{WPS|Hannibal (TV series)|Hannibal}}'', ''{{WPS|The Goldbergs (2013 TV series)|The Goldbergs}}'', ''{{WPS|The Walking Dead (TV series)|The Walking Dead}}'' and ''{{WPS|The Offer}}''.
+
+In ''[[House of the Dragon]]'', he will portray [[Torrhen Manderly]] in the [[House of the Dragon: Season 3|third season]].<ref>[https://variety.com/2025/tv/news/house-of-the-dragon-season-3-tommy-flanagan-dan-fogler-1236352733/ 'House of the Dragon' Season 3 Casts Tommy Flanagan, Dan Fogler]</ref>
+
+==Credits==
+{{House of the Dragon: Season 3||||yes}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{WP|Dan Fogler}}
+*{{IMDb|#=0283945}}
+*{{Twitter|#=mrdanfogler}}
+
+<!--Categories-->
+{{DEFAULTSORT:Fogler, Dan}}
+[[Category:Cast members of unknown billing of House of the Dragon]]

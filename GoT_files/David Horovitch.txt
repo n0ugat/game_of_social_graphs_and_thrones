@@ -1,0 +1,35 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = David Horovitch.jpg
+| Birth   = August 11, 1945 {{Age|1945|8|11}}<br>London, England
+| Death   = 
+| Role    = [[Mellos]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = 5 episodes {{Below|Credits}}
+| First   = "[[The Heirs of the Dragon]]"
+| Last    = "[[We Light the Way]]"
+}}
+'''David Horovitch''' (born 11 August 1945) is an English actor, perhaps best known for his role as Inspector Slack in ''{{WPS|Miss Marple (TV series)|Miss Marple}}''. He has played many roles on popular British television series over the past forty years including ''{{WPS|Thriller (UK TV series)|Thriller}}'', ''{{WPS|The New Avengers (TV series)|The New Avengers}}'', ''{{WPS|Prince Reggent (TV series)|Prince Regent}}'', ''{{WPS|Piece of Cake (TV series)|Piece of Cake}}'', ''{{WPS|Bulman}}'', ''{{WPS|Hold the Back Page}}'', ''{{WPS|Boon (TV series)|Boon}}'', ''{{WPS|Love Hurts (TV series)|Love Hurts}}'', ''{{WPS|Westbeach}}'', ''{{WPS|Just William}}'', ''{{WPS|Drop the Dead Donkey}}'', ''{{WPS|Peak Practice}}'', ''{{WPS|Foyle's War}}'', ''{{WPS|The Second Coming (TV serial)|The Second Coming}}'', ''{{WPS|Deceit (TV seriesl)|Deceit}}'' and ''{{WPS|Casualty (TV series)|Casualty}}''. He was also appeared in films such as ''{{WPS|An Unsuitable Job for a Woman (film)|An Unsuitable Job for a Woman}}'', ''{{WPS|The Dirty Dozen: The Deadly Mission}}'', ''{{WPS|Solomon & Gaenor}}'', ''{{WPS|102 Dalmatians}}'' and ''{{WPS|The Young Victoria}}''.
+
+He portrays [[Grand Maester]] [[Mellos]] in ''[[House of the Dragon]]''.<ref>https://www.hollywoodreporter.com/tv/tv-news/game-of-thrones-house-of-the-dragon-graham-mctavish-1235020054/</ref>
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1|yes|yes|note|yes|yes}}
+<nowiki>*</nowiki> Credit only
+
+==See also==
+*{{WP}}
+*{{IMDb
+|# = 0395257}}
+
+==References==
+{{Reflist}}
+{{DEFAULTSORT:Horovitch, David}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--InterWiki-Links-->
+[[de:David Horovitch]]
+[[fr:David Horovitch]]

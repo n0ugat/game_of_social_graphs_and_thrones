@@ -1,0 +1,35 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Christopher Painter.jpg
+| Birth   = Christopher Adam Painter<br>August 21, 1992 {{Age|1992|8|21}}<br>Aylesbury, Buckinghamshire, England
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = 2 episodes {{Below|Credits}}
+| First   = "[[We Light the Way]]"
+| Last    = 
+}}
+'''Christopher Adam Painter''' (born August 21, 1992) is an English stuntman and actor.
+
+In ''[[House of the Dragon]]'', he was a stunt performer in the [[House of the Dragon: Season 1|first season]] episodes "[[We Light the Way]]" and "[[Driftmark (episode)|Driftmark]]".
+
+==Credits==
+===Stunts===
+{{House of the Dragon: Season 1|||||yes||yes}}
+
+==See also==
+*{{IMDb
+|# = 8558480}}
+*{{Instagram
+|# = christopheradampainter}}
+*{{Facebook
+|# = christopheradampainter}}
+*{{YouTube
+|# = channel/UCMM-rZQ73bIdtjuUe4kfEFQ}}
+*{{Linkedin
+|# = /in/christopheradampainter}}
+
+{{DEFAULTSORT:Painter, Christopher}}
+[[Category:Stunt performers of House of the Dragon]]

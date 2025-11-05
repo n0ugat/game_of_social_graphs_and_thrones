@@ -1,0 +1,59 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Velaryon.svg
+| Link  = House Velaryon
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Velaryon
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = [[House Velaryon|Velaryon]]
+| Affiliation = 
+| Titles      = 
+| AKA         = 
+| Culture     = [[Valyrians|Valyrian]]
+| Religion    = 
+| Father      = {[[Daemon Velaryon]]}
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = [[Corlys Velaryon]]<br>{[[Vaemond Velaryon]]}
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Corwyn Velaryon''' was a member of [[House Velaryon]].
+
+==Biography==
+Corwyn was the son of Lord [[Daemon Velaryon]], and father of [[Corlys Velaryon|Corlys]] and [[Vaemond Velaryon]]. The ship ''[[Corwyn]]'' is named after him.{{Ref|HOTD202}}
+
+==Family==
+{{Velaryon tree}}
+
+==In the books==
+In ''[[Fire & Blood]]'', Corwyn was Lord Daemon's eldest son, but he never became [[Lord of the Tides]] as his father outlived him.
+
+==Appearances==
+*{{HOTD|Rhaenyra the Cruel}} {{Indirect}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Velaryon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Velaryon, Corwyn}}
+[[Category:Crownlanders]]
+[[Category:Individuals mentioned in House of the Dragon]]
+[[Category:Members of House Velaryon|Corwyn Velaryon]]

@@ -1,0 +1,70 @@
+{{Canonicity|Canon}}
+{{SameName|conflict|short|The Defiance of Duskendale}}
+{{War
+| Title      = {{PAGENAME}}
+| Type       = Westeros
+| Part       = 
+| Image      = H&L805.png
+| Previous   = [[Reyne-Tarbeck revolt]]
+| Concurrent = 
+| Next       = [[Great Tourney at Harrenhal]]
+| Beginning  = 
+| End        = 
+| Place      = [[Duskendale]], [[Crownlands]]
+| Outcome    = Iron Throne victory
+*Extinction of [[House Darklyn]]
+*Nigh-extinction of House Hollard; save for [[Dontos Hollard|a single child]]
+| Factions1  = {{COA|House Targaryen|s}}<br>[[Iron Throne]]<br>{{C|[[House Targaryen]]}}<br><br>{{COA|House Lannister|s}}<br>[[House Lannister]]
+| Factions2  = {{COA|House Darklyn|s}}<br>[[House Darklyn]]<br><br>{{COA|House Hollard|s}}<br>[[House Hollard]]
+| Factions3  = 
+| Factions4  = 
+| Factions5  = 
+| Factions6  = 
+| Leaders1   = {{COA|House Targaryen|i}} [[King of the Andals and the Rhoynar and the First Men|King]] [[Aerys II Targaryen]]<br>{{COA|House Lannister|i}} [[Lord of Casterly Rock|Lord]] [[Tywin Lannister]]<br>{{COA|Kingsguard|i}} [[Knighthood|Ser]] [[Gwayne Gaunt]] †<br>{{COA|Kingsguard|i}} [[Knighthood|Ser]] [[Barristan Selmy]]
+| Leaders2   = {{COA|House Darklyn|i}} [[Lord of Duskendale|Lord]] [[Denys Darklyn]] †<br>{{COA|House Hollard|i}} [[Knighthood|Ser]] [[Symon Hollard]] †
+| Leaders3   = 
+| Leaders4   = 
+| Leaders5   = 
+| Leaders6   = 
+| Events     = 
+}}
+The '''Defiance of Duskendale''',{{Ref|H&L805}} also known as the '''Siege of Duskendale''',{{Ref|H&L805}} was a conflict during the reign of King [[Aerys II Targaryen]]. During the Defiance, Ser [[Gwayne Gaunt]] of the [[Kingsguard]] was killed by Ser [[Symon Hollard]], and avenged by Ser [[Barristan Selmy]].<ref>[http://wicnet.tumblr.com/post/84156684971/the-kingsguard-armor-and-the-book-of-brothers]</ref><ref>"[[Oathkeeper (episode)|Oathkeeper]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the Defiance of Duskendale was a landmark event during the reign of Aerys II. It occurred somewhere around the year 276 AC.
+
+===Background===
+It began when the Lord Denys Darklyn of Duskendale, seemingly at the behest of his wife, Lady Serala (known as "the Lace Serpent"), refused to pay taxes, demanding a new town charter and certain rights for citizens and ended with the extirpation of two noble families - House Darklyn and their vassals, [[House Hollard]] - and a severe rift between the King and his [[Hand of the King]], Lord [[Tywin Lannister]].
+
+===The defiance===
+
+Since Aerys wished to distance himself from his Hand Tywin, he decided to deal with the Darklyns himself. Aerys went to Duskendale with the Kingsguard and a small force of men, to arrest and put to death Lord Denys. Instead, Aerys was imprisoned. During the capture, Ser Symon Hollard slew Ser Gwayne Gaunt of the Kingsguard. Lord Denys continued his defiance, even as a large host sat outside his walls, commanded by Tywin. Tywin's ability to act had been paralyzed when Lord Denys sent word that at the first sign that Tywin intended to storm the town, the king will be killed.
+
+The Defiance ended when Ser Barristan Selmy sneaked into the Dun Fort, the seat of House Darklyn, and rescued King Aerys, killing Symon Hollard during their escape and avenging his fallen Kingsguard brother.
+
+===Aftermath===
+Lord Denys, no longer having a hostage, immediately opened his gates and begged for mercy; Aerys, however, was not inclined to be merciful after all he had endured. Lord Denys was beheaded, along with the rest of his family. His wife Serala was burned alive, though only after she had been tortured and her tongue, breasts and genitals were cut off; the smallfolk, who blamed the Defiance on Serala since she allegedly corrupted her husband into rebelling against his rightful king, still claim Aerys was too merciful to her.
+
+Not one Darklyn remained alive. The same was true for [[House Hollard]], who had sided with House Darklyn during the defiance, with the exception of [[Dontos Hollard]], who was a child at the time. Ser Barristan asked for his life to be spared; since he had saved King Aerys, the latter could not refuse him.
+
+Ser Barristan wonders occasionally, even though many years passed since then, if he had not done his duty too well at Duskendale. If he had not rescued Aerys, the mad king might well have died there as Tywin sacked the town, and then Rhaegar would have ascended the Iron Throne, mayhaps to heal the realm. Duskendale has been Ser Barristan's finest hour, yet the memory tastes bitter on his tongue.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Wars}}
+
+<!--Categories-->
+[[Category:Wars]]
+
+<!--Languages-->
+[[de:Aufstand von Dämmertal]]
+[[fr:Défi de Sombreval]]
+[[it:Ribellione di Duskendale]]
+[[pl:Bunt Duskendale]]
+[[ru:Восстание Сумеречного Дола]]
+[[zh:暮谷镇之乱]]

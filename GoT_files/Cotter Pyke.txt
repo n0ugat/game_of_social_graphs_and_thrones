@@ -1,0 +1,76 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Night's Watch.svg
+| Link  = Night's Watch
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = 
+| Birth       = In the [[Iron Islands]]
+| Death       = 
+| House       = 
+| Affiliation = [[Night's Watch]]
+| Titles      = Commander of [[Eastwatch-by-the-Sea]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Ironborn]]
+| Religion    = [[Drowned God]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Outside Eastwatch, Cotter Pyke's men discovered four blue-eyed corpses. Unlike us, they were wise enough to burn them.|[[Jeor Mormont]]|Fire and Blood}}
+'''Cotter Pyke''' is an officer of the [[Night's Watch]], and the commander of [[Eastwatch-by-the-Sea]].
+
+==Biography==
+===Background===
+Cotter Pyke is a senior member of the [[Night's Watch]]. He serves as commander of [[Eastwatch-by-the-Sea]], the eastern-most castle on the [[Wall]]. He is a [[bastard]], born on the [[Iron Islands]].{{Ref|GOT110}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+Lord Commander [[Jeor Mormont]] tells [[Jon Snow]] that Cotter Pyke's rangers found four [[wight]]s outside of Eastwatch and wisely burned their corpses.{{Ref|GOT110}}
+
+===[[Game of Thrones: Season 7|''Game of Thrones'': Season 7]]===
+Following the [[Breaching of the Wall]], Cotter's fate remains unknown.{{Ref|GOT707}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Cotter Pyke is the bastard son of a tavern wench. He betrays his common origins by being plain, even rough-speaking, with a broken nose. Despite his origins, Cotter Pyke is also considered to be a highly effective and able commander, and stands high in the ranks of the Night's Watch. He holds a level of disdain for, and is essentially the opposite to, Ser [[Denys Mallister]], the commander of the [[Shadow Tower]], who is a highborn [[Knighthood|knight]].
+
+In ''A Storm of Swords'', when [[Janos Slynt]] and [[Alliser Thorne]] imprison Jon Snow for his supposed desertion and killing of [[Qhorin|Qhorin Halfhand]], Maester [[Aemon]] writes to Cotter, alerting him to their blatant abuse of authority. Cotter responds by informing Slynt and Thorne they do not have the authority to arbitrarily execute Jon, forcing them to release him (though they attempt to get Jon killed by sending him to assassinate [[Mance Rayder]] during a parley).
+
+In ''A Dance with Dragons'', Cotter Pyke, not Tormund, is given the assignment of bringing the Wildlings from Hardhome. He and his crew are in [[Massacre at Hardhome#In the books|great danger]], in view of his second report to Jon. Just as Jon arranges a rescue party, [[Mutiny at Castle Black|he is attacked by his own men]]. The commotion makes the people at Castle Black forget about Cotter Pyke's predicament. By the end of the novel, it is unknown what is the status of him and his men, if any of them are still alive ([[Melisandre]] having previously warned Jon that she had seen in her fires none of the forces he had sent to Hardhome would return).
+
+==Appearances==
+*{{GOT|Fire and Blood}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Night's Watch}}
+
+<!--Categories-->
+{{DEFAULTSORT:Pyke, Cotter}}
+[[Category:Bastards]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Ironborn]]
+[[Category:Men of the Night's Watch]]
+
+<!--Languages-->
+[[de:Cotter Peik]]
+[[pl:Cotter Pyke]]
+[[ru:Коттер Пайк]]

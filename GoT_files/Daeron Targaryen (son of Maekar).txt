@@ -1,0 +1,78 @@
+{{DISPLAYTITLE:Daeron Targaryen {{C|son of Maekar}}}}
+{{Canonicity|Canon}}
+{{Spoiler|AKOTSK}}
+{{References}}
+{{Heraldry
+| Image = House Targaryen.svg
+| Link  = House Targaryen
+}}
+{{Character
+| Title       = Daeron Targaryen
+| Type        = Targaryen
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = [[House Targaryen/A Knight of the Seven Kingdoms|Targaryen]]
+| Affiliation = 
+| Titles      = [[Prince]]<br>[[Knighthood|Ser]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Valyrians|Valyrian]]
+| Religion    = [[Faith of the Seven]]
+| Father      = [[Maekar Targaryen]]
+| Mother      = {[[Dyanna Dayne]]}
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = [[Aerion Targaryen]]<br>[[Aemon|Aemon Targaryen]]<br>[[Aegon Targaryen (son of Maekar)|Aegon Targaryen]]
+| Series      = ''[[A Knight of the Seven Kingdoms]]''
+| Season      = [[A Knight of the Seven Kingdoms: Season 1|1]]
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Henry Ashton]]
+}}
+Prince '''Daeron Targaryen'''{{Note|[[High Valyrian]]: ''Dāeron Targārien''}} is a [[prince]] of the [[House Targaryen|Targaryen dynasty]].
+
+==Biography==
+Daeron is the firstborn son of [[Maekar Targaryen]] and [[Dyanna Dayne]].
+
+==Family==
+{{Targaryen tree (A Knight of the Seven Kingdoms)}}
+
+==In the books==
+In the [[Dunk & Egg novellas]], Daeron has sallow skin, sandy brown hair, and a blond beard. Known as "Daeron the Drunken," he is not much of a [[Knighthood|knight]], disliking horses and swords.
+
+==Appearances==
+*{{H&L|Justice of the Seven Kingdoms}} {{Illustrated}}
+
+===Forthcoming===
+{{Collapse|
+*{{AKOTSK|Season 1}} {{Unreleased}}
+}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|Daeron Targaryen (son of Maekar I)|Daeron Targaryen (son of Maekar)}} {{Spoilers|AKOTSK}}
+
+<!--Navboxes-->
+{{House Targaryen/A Knight of the Seven Kingdoms}}
+
+<!--Categories-->
+{{DEFAULTSORT:Targaryen, Daeron}}
+[[Category:Crownlanders]]
+[[Category:Individuals appearing in A Knight of the Seven Kingdoms]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Knights]]
+[[Category:Members of House Targaryen|Daeron Targaryen]]
+
+<!--Languages-->
+[[pl:Daeron Targaryen (syn Maekara)]]
+[[ru:Дейрон Таргариен (сын Мейкара)]]

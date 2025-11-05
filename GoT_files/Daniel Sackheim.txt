@@ -1,0 +1,26 @@
+{{Crew
+| Title= Daniel Sackheim
+| Image=Daniel Sackheim.jpg  
+| dateofbirth=
+| birthplace=  USA
+| job= Director
+| imdb=http://www.imdb.com/name/nm0755261 
+|twitter = http://twitter.com/dansackheim}}
+'''Daniel Sackheim''' is an Emmy-winning director. He is previously known for his work on ''The X-Files'' and ''The Americans''. He joined ''[[Game of Thrones]]'' in [[Game of Thrones: Season 6|Season 6]] to direct the [[Oathbreaker|third]] and [[Book of the Stranger|fourth]] episodes.
+
+==Credits==
+===Director===
+{{Game of Thrones: Season 6|||yes|yes}}
+
+==See also==
+*{{WP}}
+*{{Template:IMDb|# = 0755261}}
+*{{Twitter|# = dansackheim}}
+
+==References==
+{{Reflist|2}}
+
+{{DEFAULTSORT:Sackheim, Daniel}}
+
+[[ru:Дэниел Сакхейм]]
+[[Category:Directors of Game of Thrones]]

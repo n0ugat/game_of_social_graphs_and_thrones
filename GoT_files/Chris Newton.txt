@@ -1,0 +1,23 @@
+{{Crew
+|Image = Chris Newton.jpg
+|dateofbirth = 
+|birthplace = 
+|job = Stunt Performer
+|imdb = https://www.imdb.com/name/nm1997265/
+|twitter = }}
+'''Chris Newton''' is a stuntman.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 2|second season]] episodes "[[The Old Gods and the New]]", "[[The Prince of Winterfell]]" and "[[Blackwater]], the [[Game of Thrones: Season 3|third season]] episodes "[[Valar Dohaeris]]" and "[[The Climb]]" and the [[Game of Thrones: Season 4|fourth season]] episodes "[[First of His Name]]" and "[[The Watchers on the Wall]]" and the [[Game of Thrones: Season 8|eighth season]] episodes "[[The Long Night]]", "[[The Last of the Starks]]" and "[[The Bells]]" and a stunt rigger in the [[Game of Thrones: Season 8|eighth season]] episode "[[The Iron Throne]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 2||||||yes||yes|yes}}
+{{Game of Thrones: Season 3|yes|||||yes}}
+{{Game of Thrones: Season 4|||||yes||||yes}}
+{{Game of Thrones: Season 8|||yes|yes|yes|yes}}
+
+==See also==
+*{{IMDb
+|# = 1997265}}
+{{DEFAULTSORT:Newton, Chris}}
+[[Category:Stunt performers of Game of Thrones]]

@@ -1,0 +1,74 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Ghiscari
+| Image       = 
+| Birth       = In [[Astapor]]
+| Death       = 
+| House       = 
+| Affiliation = [[Good Masters]] {{C|[[Slavery|slave]]}}
+| Titles      = [[King of Astapor]]<br>His Imperial Majesty
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Ghiscari]] {{C|[[Astapor]]i}}
+| Religion    = [[Ghiscari religion]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|And in Astapor, the council you installed to rule over the city has been overthrown by a butcher named Cleon, who's declared himself "His Imperial Majesty."|[[Jorah Mormont]]|First of His Name}}
+King '''Cleon''' was one of the thousands of [[slavery|slaves]] liberated after the [[fall of Astapor]].
+
+==Biography==
+===Background===
+Cleon was one of the thousands of [[slavery|slaves]] liberated after the [[fall of Astapor]]. A former butcher of meats, he is commonly known as "Cleon the Butcher".{{Ref|GOT405}}
+
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+[[Jorah Mormont]] reports to [[Daenerys Targaryen]] that the [[Ruling council of Astapor|council]] she had left behind to rule [[Astapor]] has been overthrown by Cleon, who styles himself as "His Imperial Majesty."{{Ref|GOT405}}
+
+===[[Game of Thrones: Season 6|''Game of Thrones'': Season 6]]===
+After the burning of the [[Meereen]] shipyards, [[Varys]] informs [[Tyrion Lannister]], [[Grey Worm]], and [[Missandei]] that the slave-masters have now [[Siege of Astapor|retaken not only Yunkai but Astapor as well]], leaving Meereen as the only part of Slaver's Bay that the slavers haven't reclaimed. Cleon's fate is unmentioned but he presumably perished when his junta of vengeful freedmen at Astapor was defeated.{{Ref|GOT602}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Cleon was once a slave owned by [[Greizhen mo Ullhor|Grazdan mo Ullhor]], serving as a butcher. It was said he could cut up a pig faster than any other man in Astapor. After gaining his freedom, Cleon stirs up the people of Astapor, claiming that the council is attempting to reinstate the deposed [[Good Masters]]. With the backing of the people, Cleon executes the council members and installs himself as king. At his command, every highborn boy in Astapor is seized to make new [[Unsullied]] for the trade. Daenerys ruefully notes that she didn't end slavery in Astapor: all that changed is that the old slaves are now the masters and the old masters are now the slaves. She feels sick when a Qartheen ship captain describes what Cleon has done to Astapor: "The city bleeds. Dead men rot unburied in the streets, each pyramid is an armed camp, and the markets have neither food nor slaves for sale. And the poor children! King Cleaver's thugs have seized every highborn boy in Astapor to make new Unsullied for the trade, though it will be years before they are trained."
+
+Cleon styles himself as "Cleon the Great", though he is often called "the Butcher King" (because he used to be a butcher). The TV series added the detail that he styles himself as "His Imperial Majesty" - thus while he proclaimed himself "King Cleon" in the books, it isn't clear if his official title is "Emperor Cleon" in the TV series.
+
+After the initial surprise of Daenerys's campaign against slavery in the region wears off, Yunkai begins to regroup and hires a large number of [[Mercenary|sellsword companies]] to conquer their lost territories and property; it also forms an alliance of various powers also involved in the slave-trade, from [[Qarth]] in the east to [[Volantis]] in the west, and also [[Tolos]] and [[Mantarys]] on the western side of Slaver's Bay.
+
+With Yunkai between Meereen to the north and Astapor to the south, Cleon sends repeated entreaties to Daenerys that she marry him in order to forge an alliance and march in open war against Yunkai - but Daenerys declines, because she loathes Cleon for his actions, and also because she fears that if her army leaves Meereen, her domestic enemies (the Meereenese noble Houses and the [[Sons of the Harpy]]) will completely take over the city while it is gone. Cleon continues to insist that they must attack Yunkai while they still can, as the slaver-alliance's armies are growing larger with each passing month. Her answer is "Astapor is starving. Let King Cleon feed his people before he leads them out to battle".
+
+After being repeatedly declined by Daenerys, Cleon decides he cannot afford to wait any longer, and foolishly marches his army out against Yunkai without her, despite being outnumbered and outarmed. His freedmen are not very well organized as a fighting force, however, and his new Unsullied are considered a joke by everyone including Daenerys - the ''real'' Unsullied she has were the result of a lifetime of training since childhood, but Cleon's Unsullied are just a pale imitation, given only a few months' training and made by seizing boys from the former slave-master families.
+
+[[Xaro Xhoan Daxos|Xaro]] visits Daenerys, informing her that Cleon's amateur army has joined in battle with Yunkai and its allies at the Horns of Hazzat, and predictably suffers a crippling defeat. Cleon and the few survivors flee back to Astapor. Shortly later, a messenger from Meereen appears before Daenerys, telling her that armies of the Yunkai’i descend on Astapor, and begs her to send assistance to Cleon. Daenerys feels sorry for the citizens of Astapor, but hardens her heart and rejects Cleon's pleading for the same reasons she did before. Cleon is soon killed by one of his own men for his failure, which revealed his weakness.
+
+After that Astapor suffers a rapid succession of juntas from one faction or another: "Cleon II" holds power for only eight days before being killed by a barber dubbed "King Cuthroat", while Cleon II's remaining supporters rally behind his concubine, dubbed "Queen Whore". The two factions fight for control of what is left of Astapor even as Yunkai's army closes in and besieges them. Plague soon sets in, and [[Siege of Astapor|before long the city falls]] to Yunkai's army in a bloodbath.
+
+==Appearances==
+*{{GOT|First of His Name}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Kings of Astapor]]
+[[Category:Slaves and freedmen]]
+
+<!--Languages-->
+[[de:Cleon]]
+[[ru:Клеон]]

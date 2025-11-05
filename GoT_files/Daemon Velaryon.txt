@@ -1,0 +1,74 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = House Velaryon.svg
+| Link  = House Velaryon
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Velaryon
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = [[House Velaryon|Velaryon]]{{Con|F&B}}
+| Affiliation = [[House Targaryen]]{{Ref|H&L806}}
+| Titles      = [[Lord of the Tides]]{{Con|F&B}}<br>[[Master of Driftmark]]{{Con|F&B}}<br>[[Lord admiral]]{{Ref|H&L806}} {{C|to [[Maegor Targaryen|Maegor I]] and [[Jaehaerys I Targaryen|Jaehaerys I]]}}
+| Predecessor = 
+| Successor   = [[Corlys Velaryon]] {{C|Lord of the Tides}}{{Con|F&B}}
+| AKA         = 
+| Culture     = [[Valyrians|Valyrian]]{{Ref|HOTD102}}
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = {[[Corwyn Velaryon]]}{{Ref|HOTD202}}
+| Siblings    = {[[Alyssa Velaryon]]}
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Maegor's own lord admiral sailed the royal fleet into his nephew's harbor.|[[Varys]]|Maegor the Cruel (short)}}
+Lord '''Daemon Velaryon'''{{Con|TWOI&F}} was the head of [[House Velaryon]], [[Lord of the Tides]], and [[lord admiral]] during the reigns of [[Maegor Targaryen|Maegor]] and [[Jaehaerys I Targaryen|Jaehaerys]].
+
+==Biography==
+Lord Velaryon served King Maegor, until the realm [[Jaehaerys Targaryen's uprising|rose up]] against him in favor of the intelligent young Prince Jaehaerys in 48 AC. Daemon gave the [[royal fleet]] to Jaehaerys.{{Ref|H&L806}}
+
+==Family==
+{{Velaryon tree}}
+
+==In the books==
+In ''The World of Ice & Fire'' and ''[[Fire & Blood]]'', Daemon served as [[Hand of the King|Hand]] to King Jaehaerys after the dismissal of Rogar Baratheon. He resigned following the death of his sister, Queen Alyssa Velaryon, and the murder of his niece, Lianna Velaryon. Daemon outlived all of his sons and was succeeded by [[Corlys Velaryon]], the son of his eldest son Corwyn.
+
+==Appearances==
+*{{H&L|Maegor the Cruel}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|Daemon Velaryon (son of Aethan)}}
+
+<!--Navboxes-->
+{{House Velaryon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Velaryon, Daemon}}
+[[Category:Bannermen of House Targaryen]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Lords admiral]]
+[[Category:Lords of the Tides|Daemon Velaryon]]
+[[Category:Members of House Velaryon|Daemon Velaryon]]
+[[Category:Sailors]]
+[[Category:Servants and retainers of House Targaryen]]
+[[Category:Turncloaks]]
+
+<!--Languages-->
+[[ru:Деймон Веларион]]

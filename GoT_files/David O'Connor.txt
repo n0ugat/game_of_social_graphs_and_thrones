@@ -1,0 +1,19 @@
+{{Crew
+|Image = 
+|birthplace = 
+|job = Stunt Performer
+|imdb = http://www.imdb.com/name/nm5627531/
+|twitter = }}
+'''David O'Connor''' is a stuntman.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 3|third season]] episode "[[Walk of Punishment (episode)|Walk of Punishment]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 3|||yes}}
+
+==See also==
+*{{IMDb
+|# = 5627531}}
+{{DEFAULTSORT:O'Connor, David}}
+[[Category:Stunt performers of Game of Thrones]]

@@ -1,0 +1,43 @@
+{{Canonicity|Canon}}
+{{Spoiler|AKOTSK}}
+{{References}}
+{{Heraldry
+| Image = House Fossoway.svg
+| Link  = House Fossoway
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Bronn
+| Image        = Cider Hall Pin.png
+| Type         = Castle
+| Status       = 
+| Location     = The [[Reach]], [[Westeros]]
+| Population   = 
+| Rulers       = [[House Fossoway]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Cider Hall'''{{Guideref|Map of Westeros}} is a castle in the [[Reach]]. The castle is located at the meeting of the [[Mander]] and [[Cockleswhent]] rivers. It is the seat of [[House Fossoway]].<ref>Season 2 Bluray: War of the Five Kings feature</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Cider Hall is the seat of the "red apple" branch of House Fossoway.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|AKOTSK}}
+
+<!--Navboxes-->
+{{Reach}}
+
+<!--Categories-->
+[[Category:Castles of the Reach]]
+[[Category:House Fossoway]]
+
+<!--Languages-->
+[[de:Ziderhall]]
+[[ru:Сидрхолл]]

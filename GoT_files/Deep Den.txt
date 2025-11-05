@@ -1,0 +1,40 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Lannister
+| Image        = Deep Den Pin.png
+| Type         = Castle
+| Status       = 
+| Location     = The [[Westerlands]], [[Westeros]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Deep Den'''{{Guideref|Map of Westeros}} is a castle in the [[Westerlands]], the region controlled by [[House Lannister]] of [[Casterly Rock]]. The castle is located just off the [[Goldroad]] to the east of Casterly Rock, between [[Hornvale]] and [[Silverhill]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Deep Den is the seat of House Lydden.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Westerlands}}
+
+<!--Categories-->
+[[Category:Castles of the Westerlands]]
+
+<!--Languages-->
+[[de:Tiefgraben]]
+[[es:Cuevahonda]]
+[[it:Deep Den]]
+[[pl:Głęboka Jaskinia]]
+[[ru:Глубокая Нора]]
+[[zh:深穴城]]

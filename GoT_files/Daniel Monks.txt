@@ -1,0 +1,26 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Kingdoms
+| Image   = Daniel Monks.jpg
+| Birth   = 
+| Death   = 
+| Role    = [[Manfred Dondarrion]]
+| Series  = ''[[A Knight of the Seven Kingdoms]]''
+| Season  = [[A Knight of the Seven Kingdoms: Season 1|1]]
+| Credits = 
+| First   = 
+| Last    = 
+}}
+'''Daniel Monks''' is an Australian actor and screenwriter.
+
+Monks portrays [[Manfred Dondarrion]] in ''[[A Knight of the Seven Kingdoms]]''.
+
+==Credits==
+{{A Knight of the Seven Kingdoms: Season 1}}
+
+==External links==
+*{{IMDb|#=3399361}}
+
+<!--Categories-->
+{{DEFAULTSORT:Monks, Daniel}}
+[[Category:Cast members of unknown billing of A Knight of the Seven Kingdoms]]

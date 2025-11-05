@@ -1,0 +1,28 @@
+{{Crew
+|Image = Conor Hegarty.jpg
+|dateofbirth = {{WPS|March 22}}, {{WPS|1983}}
+|birthplace = {{WPS|Dublin}}, {{WPS|Ireland}}
+|job = Stunt Performer
+|imdb = https://www.imdb.com/name/nm2838731/
+|twitter = }}
+'''Conor Hegarty''' (born March 22, 1983) is an Irish stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 5|fifth season]] episode "[[Sons of the Harpy (episode)|Sons of the Harpy]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 5||||yes}}
+
+==See also==
+*{{IMDb
+|# = 2838731}}
+*{{Instagram
+|# = chegartystunts}}
+*{{Facebook
+|# = conor.hegarty.77}}
+*{{YouTube
+|# = channel/UCLN6zm86JpYJja8eO81lCXQ}}
+*{{Vimeo
+|# = user5862119}}
+{{DEFAULTSORT:Hegarty, Conor}}
+[[Category:Stunt performers of Game of Thrones]]

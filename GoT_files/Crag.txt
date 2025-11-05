@@ -1,0 +1,53 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Westerling.svg
+| Link  = House Westerling
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Lannister
+| Image        = 
+<gallery>
+701 BtS The Crag.png|Appearance
+The Crag.png|Location
+</gallery>
+| Type         = Castle
+| Status       = Partially ruined
+| Location     = The [[Westerlands]], [[Westeros]]
+| Population   = 
+| Rulers       = [[House Westerling]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+{{Quote|The Crag will have a Maester, and he will have what I need.|[[Talisa Stark|Talisa Maegyr]]|A Man Without Honor}}
+The '''Crag'''{{Ref|GOT207}} is the stronghold ruled by [[House Westerling]], a vassal of the [[House Lannister|Lannisters]]. The castle is run-down and partially ruined, as the Westerlings, though an ancient House with blood of the [[First Men]], have fallen on hard times and can no longer maintain it. The castle is located north-east of [[Casterly Rock]], overlooking the [[Sunset Sea]] on the west coast of [[Westeros]].
+
+==History==
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+[[Robb Stark|Robb]] is heading to the Crag to settle [[Surrender of the Crag|its surrender]].{{Ref|GOT207}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the Crag is described as being in a state of extreme disrepair, with its defenses compromised by the family's inability to pay for repairs. The Crag is described as lonely, but also has a somewhat romantic quality to it.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Westerling}}
+{{Westerlands}}
+
+<!--Categories-->
+[[Category:Castles of the Westerlands]]
+[[Category:House Westerling]]
+
+<!--Languages-->
+[[de:Burg Bruch]]
+[[ru:Скала]]
+[[uk:Скеля]]
+[[zh:峭岩城]]

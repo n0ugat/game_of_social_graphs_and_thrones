@@ -1,0 +1,38 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Conan-Stevens-200.jpg
+| Birth   = Mark Stevens<br>November 30, 1969 {{Age|1969|11|30}}<br>Newcastle, New South Wales, Australia
+| Death   = 
+| Role    = [[Gregor Clegane]]
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 1|1]]
+| Credits = 2 episodes {{Below|Credits}}
+| First   = "[[Cripples, Bastards, and Broken Things]]"
+| Last    = "[[The Wolf and the Lion]]"
+}}
+'''Mark Stevens''', known professionally as '''Conan Stevens''', is an Australian professional wrestler, actor and scriptwriter. He is 2.14m (7' 1/4") in height.
+
+In ''[[Game of Thrones]]'' he played the role of [[Gregor Clegane]] in the [[Game of Thrones: Season 1|first season]]. He made himself known to the fan community and to the series producers early in the development of the series and lobbied for the role, gaining fan support due to his enthusiasm for the project. He auditioned for the part of ''[[Khal]]'' [[Drogo]] in the pilot so as to put his name in circulation for Gregor when auditioning for the series itself took place. He was confirmed in the role by Westeros.org on 7 July 2010. After appearing in two episodes of the first season, it was announced that Stevens would be playing the role of an orc chieftain named Bolg in the movie version of ''[[wikipedia:The Hobbit|The Hobbit]]'', as well as playing the character Sedullos in ''[[wikipedia:Spartacus: Vengeance|Spartacus: Vengeance]]''.
+
+On 12 September 2011, responding to speculation on the Winter is Coming fansite, Conan Stevens confirmed that he had left the series, due to scheduling conflicts with his other projects, indicating he would be playing the Orc king Bolg in ''The Hobbit'' prequel trilogy. He has also written films, such as ''Bangkok Adrenaline. ''Stevens took the time to thank fans for their support<ref>[http://winter-is-coming.net/2011/09/amory-lorch-cast-gregor-recast/#comment-131915 Winter is Coming]</ref>. He was replaced in the role of Gregor by [[Ian Whyte]].
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 1||||yes|yes}}
+
+==See also==
+* {{WP}}
+*{{Template:IMDb
+|# = 1947403}}
+*{{Template:Twitter
+|# = conanstevens}}
+* [http://www.conanstevens.com/ Conan Stevens's official website.]
+
+==References==
+{{Reflist|2}}
+[[de:Conan Stevens]]
+[[ru:Конан Стивенс]]
+[[fr:Conan Stevens]]
+{{DEFAULTSORT:Stevens, Conan}}
+[[Category:Guest starring cast members of Game of Thrones]]

@@ -1,0 +1,81 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Targaryen
+| Image       = Daenys the Dreamer.png
+| Birth       = 
+| Death       = 
+| House       = [[House Targaryen|Targaryen]]{{Ref|H&L706}}
+| Affiliation = 
+| Titles      = 
+| AKA         = Daenys the Dreamer{{Ref|H&L706}}
+| Culture     = [[Valyrians|Valyrian]]{{Ref|H&L706}}
+| Religion    = 
+| Father      = {[[Aenar Targaryen]]}{{Ref|H&L706}}
+| Mother      = {[[Elaena Targaryen (wife of Aenar)|Elaena Targaryen]]}{{Ref|THTDB201}}
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Legends claim that his daughter foresaw the destruction of the city in a dream; more likely, Aenar met with some mishap at court and chose exile over execution.|[[Viserys Targaryen (son of Aerys II)|Viserys Targaryen]]|Valyria's Last Scion: House Targaryen}}
+'''Daenys Targaryen''', remembered as '''Daenys the Dreamer''', was the daughter of [[Aenar Targaryen]], a [[dragonlord]] of the old [[Valyrian Freehold]].{{Ref|THTDB201}}
+
+==Biography==
+According to legend, Daenys foresaw the [[Doom of Valyria]] in a [[Dragon dream|prophetic dream]] in [[114 BC]],{{Dateref|Aenar's exile}} prompting Aenar to move [[House Targaryen]] to [[Dragonstone (island)|Dragonstone]]. Only twelve years later her prophecy came true, and Valyria was destroyed in a massive volcanic eruption - leaving the Targaryens as the only surviving dragonlords. For her prophetic dreams, she is popularly remembered as "Daenys the Dreamer."{{Ref|H&L706}}
+
+The night before Daenys's dream, she had claimed the young [[Balerion]].{{Ref|THTDB201}}
+
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+[[Viserys I Targaryen|Viserys]] tells [[Rhaenyra Targaryen|Rhaenyra]] about [[Aegon I Targaryen|Aegon the Conquerer]]'s dream of [[The Song of Ice and Fire]], comparing it to Daenys's prophetic dream about the destruction of Valyria.{{Ref|HOTD101}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Daenys is briefly mentioned only once in one of [[Yara Greyjoy|Asha Greyjoy]]'s POV chapters, when she is visiting her maternal uncle Rodrik "the Reader" Harlaw, and they remark on the books he collects for his private library.{{Bookref|AFFC|11}} At the time she was only referred to as "Aenar's maiden daughter" who had visions, but her name wasn't given until ''[[The World of Ice & Fire]]'', which rounded out the basic details of her life.
+
+There are rumors that all of Daenys's prophetic dreams were written down in a book called ''Signs and Portents'', but by the present day it is lost (it may have been destroyed in the purges of books about magic conducted by [[Baelor I Targaryen|Baelor the Blessed]] a century and a half ago). Archmaester Marwyn, who is currently alive, is considered a black sheep among the maesters for his interest in magic. Marwyn tracked down surviving excerpts from various lost books on magic (among them Septon Barth's writings on dragons) and recopied them all into a single compendium, which he titled the ''Book of Lost Books''. Rodrik Harlaw owns a copy of it, and says that it contains three copied pages from the original ''Signs and Portents'' describing Daenys's prophetic dreams.
+
+Following Valyrian custom, Daenys [[incest]]uously married her own brother, Gaemon the Glorious, and they ruled Dragonstone together after Aenar. Of the seven generations of Targaryens that ruled Dragonstone before the Conquest, Aenar was the first, while Aegon the Conqueror was the seventh - thus Gaemon and Daenys were the second generation. They were eventually succeeded by their own children Aegon and Elaena, who similarly married each other (the name "Aegon" frequently repeated in the dynasty). Ultimately, Daenys was the nineteenth-generation direct ancestor of [[Daenerys Targaryen]].
+
+Martin published another in-universe history book on the Targaryens in 2018, ''[[Fire & Blood]]'', but it simply repeated the chapter on "The Conquest" from ''The World of Ice & Fire'' and its information on Daenys. A later chapter in the book, however, mentions in passing that Daenys had at least one younger daughter after Elaena: during the Great Council of 101 AC, near the end of Jaehaerys I's reign, one of the minor claimants was a man who presented parchments demonstrating that he descended from this daughter through her marriage to some petty lord.
+
+==Appearances==
+*{{H&L|Prophecies of the Known World}} {{Illustrated}}
+*{{C&R|Valyria's Last Scion: House Targaryen}} {{Mentioned}}
+*{{HOTD|The Heirs of the Dragon}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Targaryen}}
+
+<!--Categories-->
+{{DEFAULTSORT:Targaryen, Daenys}}
+[[Category:Authors]]
+[[Category:Dragon dreamers]]
+[[Category:Dragonriders]]
+[[Category:Individuals from Game of Thrones: Conquest & Rebellion: An Animated History of the Seven Kingdoms]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Individuals mentioned in House of the Dragon]]
+[[Category:Ladies]]
+[[Category:Members of House Targaryen|Daenys Targaryen]]
+
+<!--Languages-->
+[[de:Daenys Targaryen]]
+[[fr:Daenys Targaryen]]
+[[ru:Дейнис Таргариен]]
+[[uk:Дейніс Тарґеріен]]

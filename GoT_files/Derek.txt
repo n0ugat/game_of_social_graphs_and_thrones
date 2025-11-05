@@ -1,0 +1,61 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Night's Watch.svg
+| Link  = Night's Watch
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = Derek.png
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[Night's Watch]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 5|5]]
+| Appearances = "[[The Gift]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Ian Lloyd Anderson]]
+}}
+{{Quote|Go on, give him a kiss.|Derek to [[Gilly]] on [[Brant]]|The Gift}}
+'''Derek''' is a sworn brother of the [[Night's Watch]].
+
+==Biography==
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+Derek and [[Brant]] are present during the funeral for [[Order of Maesters|Maester]] [[Aemon]]; [[Samwell Tarly|Sam]] notices them staring at him hatefully after [[Alliser Thorne]] warns Sam of his vulnerability. During their guard duty, he and his friend Brant attempt to rape [[Gilly]]. After severely beating Sam, who intervened, they are scared off by a snarling [[Ghost]].{{Ref|GOT507}}
+
+
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no Derek or any analogous character.
+
+==Appearances==
+*{{GOT|The Gift}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{Night's Watch}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Men of the Night's Watch]]
+
+<!--Languages-->
+[[fr:Derek]]
+[[ru:Дерек]]

@@ -1,0 +1,50 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Organization
+| Title       = {{PAGENAME}}
+| Theme       = Westeros
+| Image       = 2x04 CivicGuard.jpg
+| Type        = City watch
+| Status      = Active
+| Symbol      = 
+| Words       = 
+| Center      = [[Qarth]]
+| Leader      = 
+| Affiliation = [[Thirteen]] {{C|formerly}}
+| Religion    = 
+| Military    = 
+| Founded     = 
+}}
+The '''Civic Guard'''{{Con|ASOIAF}} is the force that protects the city-state of [[Qarth]]. They also serve as bodyguards to the members of the [[Thirteen]], the rulers of the city.
+
+==History==
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+When [[Daenerys Targaryen]] and her ''[[khalasar]]'' arrive the gates of Qarth, a cadre of Civic Guards appear before them to protect the Thirteen.{{Ref|GOT204}}
+
+The members of the Civic Guard guarding the manse of [[Xaro Xhoan Daxos]] are murdered during the robbery of Daenerys's dragons.{{Ref|GOT206}}
+
+==Equipment==
+Members of the Civic Guard wear bronze armor above their torsos. They carry long lances and round shields.
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the Civic Guard is commanded by the Pureborn of Qarth. It includes some camelry and works in partnership with the Pureborn fleet.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Qarth}}
+
+<!--Categories-->
+[[Category:Military organizations]]
+[[Category:Qartheen culture]]
+
+<!--Languages-->
+[[pt-br:Guarda Cívica]]
+[[ru:Гражданская гвардия]]

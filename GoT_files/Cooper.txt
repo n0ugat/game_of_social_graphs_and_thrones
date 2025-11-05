@@ -1,0 +1,66 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Night's Watch.svg
+| Link  = Night's Watch
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = Cooper.PNG
+| Birth       = 
+| Death       = [[301 AC]]{{Dateref|Game of Thrones: Season 4}}<br>[[Castle Black]], the [[Wall]]
+| House       = 
+| Affiliation = [[Night's Watch]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 4|4]]
+| Appearances = "[[The Watchers on the Wall]]"
+| First       = 
+| Last        = 
+| DeathEp     = "The Watchers on the Wall"
+| Actor       = [[Joe Claflin]]
+}}
+{{Quote|I shall wear no crowns and win no glory. I shall live and die at my post. I am the sword in the darkness. I am the watcher on the walls. I am the shield that guards the realms of men. I pledge my life and honor to the Night's Watch, for this night and all the nights to come.|Cooper's last words|The Watchers on the Wall}}
+'''Cooper'''​ was a member of the [[Night's Watch]].
+
+==Biography==
+===​[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+During the [[battle for the Wall]], Cooper takes part in defending the [[Wall]] against Mance Rayder's forces. When Castle Black's inner gate is threatened by the [[Giants|giant]] [[Mag Mar Tun Doh Weg]], he accompanies [[Grenn]], [[Donnel Hill]], and other three black brothers to defend it. They successfully kill the giant, but all of the black brothers are slain in the process. Their bodies are discovered by [[Jon Snow]] and [[Samwell Tarly]] after the battle.{{Ref|GOT409}}
+
+After the arrival of [[Stannis Baratheon]] and his forces, though not seen, Cooper is among the numerous bodies of fallen black brothers burned in Castle Black's courtyard.{{Ref|GOT410}}
+
+==​In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no character by this name. Of the four men that accompany Donal Noye to face Mag the Mighty, only one is mentioned by his name - Spotted Pate of [[Maidenpool]]. The names of the other three are not mentioned.
+
+==Appearances==
+*{{GOT|The Watchers on the Wall}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{Night's Watch}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Rangers of the Night's Watch]]
+[[Category:Smallfolk]]
+[[Category:Westerosi]]
+
+<!--Languages-->
+[[fr:Cooper]]
+[[ru:Купер]]

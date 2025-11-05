@@ -1,0 +1,69 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Leftimage  = House Morrigen.svg
+| Leftlink   = House Morrigen
+| Rightimage = Faith Militant.svg
+| Rightlink  = Faith Militant
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Militant
+| Image       = Ser Damon Morrigen.png
+| Birth       = At [[Crow's Nest]]
+| Death       = In [[King's Landing]]<br>Killed in the [[trial by seven of Maegor Targaryen]]
+| House       = [[House Morrigen|Morrigen]]
+| Affiliation = [[Faith Militant]]
+| Titles      = [[Knighthood|Ser]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Andals|Andal]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Ser Damon Morrigen proposed a trial by seven. Ser Damon and six of the Faith Militant against the king and his six champions.|The [[High Sparrow]]|The Faith Militant}}
+Ser '''Damon Morrigen''' was a leading member of the [[Faith Militant]] during [[Faith Militant uprising|the order's revolt]] against [[House Targaryen]].
+
+==Biography==
+[[File:HL5 Maegor trial of seven versus Damon Morrigen.png|thumb|Ser Damon Morrigen leading the Faith Militant during the [[trial by seven of Maegor Targaryen]].]]
+Ser Damon was a knight of [[House Morrigen]] and a devotee of the [[Faith Militant]] who commanded the order's chapter in [[King's Landing]]. When newly-crowned King [[Maegor Targaryen]] returned to [[King's Landing]], he challenged the Faith Militant to a [[Trial by combat]] to prove his right to rule. They accepted, and [[Trial by seven of Maegor Targaryen|the resulting trial of seven]] pitted Maegor and six of his [[Kingsguard]] against Ser Damon and six other champions of the Faith Militant. The tales about the resulting confrontation are many, but by the end, of the fourteen men who entered the field only Maegor was left alive.{{Ref|H&L502}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Ser Damon Morrigen is the commander of the Warrior's Sons - one of two military orders that comprises the Faith Militant. In the TV show the Faith Militant is condensed into a single order.
+
+==Appearances==
+*{{H&L|The Faith Militant}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+{{DEFAULTSORT:Morrigen, Damon}}
+[[Category:Faith Militant]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Knights]]
+[[Category:Members of House Morrigen|Damon Morrigen]]
+[[Category:Stormlanders]]
+
+<!--Languages-->
+[[de:Damon Morrigen]]
+[[es:Damon Morrigen]]
+[[fr:Damon Morrigen]]
+[[nl:Damon Morrigen]]
+[[ru:Деймон Морриген]]
+[[zh:达蒙·莫里根]]

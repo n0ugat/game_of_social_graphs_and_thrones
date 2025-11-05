@@ -1,0 +1,52 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{References}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Westeros
+| Image        =
+<gallery>
+Garin on his fallen city.png|Appearance
+Chroyane.png|Location
+</gallery>
+| Type         = City
+| Status       = Destroyed by [[dragon]]s
+| Location     = The [[Rhoyne]], [[Essos]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = 
+| Places       = 
+| Founded      = 
+}}
+'''Chroyane''',{{Con|ASOIAF}} also called the '''Sorrows''',{{Con|ASOIAF}} is a ruined city{{Ref|H&L513}} located at the confluence of the Lhorulu and the [[Rhoyne]] on the continent of [[Essos]], at the far southern tip of the [[Golden Fields]]. It is south of [[Dagger Lake]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Chroyane used to be the summer palace of the [[Rhoynar]] kingdom. Like most of the surrounding nation, it was destroyed by [[dragon]]s unleashed by the [[Valyrian Freehold]] in its conquest of the area.
+
+Chroyane today is a dreary ruin, frequently cloaked in mists. People infected with [[greyscale]] in nearby cities and towns and gather here, instead of Valyria, as in the show. These people, known as "[[Stone Men|stone men]]," are highly contagious and tend to roam in an area known as Bridge of Dream, which is a crossing of the [[Rhoyne]] River near the southern tip of the Sorrows, and attack travelers that sail through the river. The area known as "the Sorrows" actually extends beyond the ruins of Chroyane, extending north along the river to the southern shores of Dagger Lake. Most of the stone men, however, tend to take shelter in the ruins of Chroyane.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Known world}}
+{{Free Cities}}
+
+<!--Categories-->
+[[Category:Rhoynish cities]]
+[[Category:Ruined cities]]
+
+<!--Languages-->
+[[es:Los Pesares]]
+[[pt-br:Chroyane]]
+[[ru:Кроян]]
+[[uk:Кроян]]
+[[zh:伤心领]]

@@ -1,0 +1,104 @@
+{{Canonicity|Canon}}
+{{War
+| Title      = {{PAGENAME}}
+| Type       = Westeros
+| Part       = 
+| Image      = HL HG Andal Invasion.jpg
+| Previous   = [[Unification of the North]]
+| Concurrent = 
+| Next       = [[Ghiscari wars]]
+| Beginning  = c. [[5700 BC]]{{Dateref|Coming of the Andals}}
+| End        = Centuries after 5700 BC{{Dateref|Coming of the Andals end}}
+| Place      = All of [[Westeros]] south of the [[Neck]]<br>[[Andalos]], [[Essos]]
+| Outcome    = *All of Westeros south of the Neck is conquered by the Andals
+*The [[North]] successfully repulses the Andals
+*[[Children of the Forest]] all but exterminated, handful of survivors flee to [[beyond the Wall]]
+| Factions1  = [[First Men]]:<br><br>{{COA|House Royce|s}}<br>[[Bronze King]]s<br>{{C|[[House Royce]]}}<br><br>{{COA|House Mudd|s}}<br>[[Riverlands]]<br>{{C|[[House Mudd]]}}<br><br>{{COA|House Stark|s}}<br>[[North|Kingdom of the North]]<br>{{C|[[House Stark]]}}<br><br>{{COA|House Lannister|s}}<br>[[Reach|Kingdom of the Rock]]<br>{{C|[[House Lannister]]}}<br><br>{{COA|House Gardener|s}}<br>[[Reach|Kingdom of the Reach]]<br>{{C|[[House Gardener]]}}<br><br>{{COA|House Durrandon|s}}<br>[[Stormlands]]<br>{{C|[[House Durrandon]]}}
+----
+[[Iron Islands]]
+----
+[[Children of the Forest]]
+| Factions2  = [[Andals]]:<br><br>{{COA|House Arryn|s}}<br>[[Vale of Arryn|Kingdom of the Mountain and the Vale]]<br>{{C|[[House Arryn]]}}<br><br> {{COA|House Corbray|s}}<br>[[House Corbray]]<br><br>{{COA|House Tyrell|s}}<br>[[House Tyrell]]<br><br>{{COA|Mors Martell Heater|s|House Martell}}<br>[[House Martell]]
+| Factions3  = 
+| Factions4  = 
+| Factions5  = 
+| Factions6  = 
+| Leaders1   = {{COA|House Stark|i}} [[King in the North|King]] [[Theon Stark]]<br>{{COA|House Gardener|i}} The [[King of the Reach|Kings of the Reach]]<br>{{COA|House Mudd|i}} The [[King of the Rivers and Hills]]<br>{{COA|Unknown|i}} The [[Griffin King]] †<br>{{COA|House Durrandon|i}} The [[Storm King]]s<br>{{COA|Unknown|i}} King [[Rognar II Greyiron]] †<br>{{COA|House Royce|i}} King [[Robar II Royce]] †<br>{{COA|House Lannister|i}} The [[King of the Rock|Kings of the Rock]]
+| Leaders2   = {{COA|House Arryn|i}} [[King of the Mountain and the Vale|King]] [[Artys Arryn]]<br>{{COA|House Tyrell|i}} [[Knighthood|Ser]] [[Alester Tyrell]]
+| Leaders3   = 
+| Leaders4   = 
+| Leaders5   = 
+| Leaders6   = 
+| Events     = [[Battle of the Seven Stars|Giant's Lance]]
+}}
+{{Quote|They attacked with fire and weapons of steel, slaughtering the Children of the Forest wherever they could find them, burning out their weirwood groves, hacking away at the faces of the Old Gods, and spreading their own religion through the land. |[[Bran Stark]]|The Children of the Forest, the First Men, and the Andals}}
+The '''coming of the Andals''',{{Ref|H&L101}} also known as the '''Andal invasion''',{{Ref|H&L101}} was the migration of the [[Andals]] to the continent of [[Westeros]] from their homeland of [[Andalos]] on the eastern continent of [[Essos]], six thousand years before the [[War of the Five Kings]]. The migratory invasions of the Andals occurred in waves over many centuries, but by the end they had killed or conquered all of the [[First Men]] south of the [[Neck]]. By the end of the invasions, the Andals had displaced the First Men as the major ethnic and cultural group of Westeros, to the point that peoples living in Essos frequently refer to Westeros as the Land of the Andals.
+
+==History==
+===Prelude===
+[[File:Andalos.png|thumb|left|Andalos in Essos.]]
+The Andals were a tall, fair-haired race whose original homeland was located across the [[Narrow Sea]] on the western coast of the continent of [[Essos]], in a region known as [[Andalos]]. According to Andal legend, the [[Seven|God of Seven]] revealed itself to them in the Hills of Andalos, and from this they developed a new religion, the [[Faith of the Seven]]. Not long afterward, spurred on by the zeal of their new faith, the Andals set sail across the Narrow Sea to conquer Westeros. Many Andal warriors displayed their devotion by carving the symbol of their faith, [[the Seven-Pointed Star]], into their foreheads.
+
+===Invasion===
+The Andals first came ashore in the [[Fingers]], in what would later be known as the [[Vale of Arryn]]. According to legend, Ser [[Artys Arryn]], dubbed "the Winged Knight", flew atop a giant falcon to the topmost mountain of the Vale and defeated the [[Griffin King]], the last member of the First Men dynasty of the [[Mountain King]]s.
+
+[[File:AndalsConquerFirstMen.png|thumb|left|The Andals defeated the First Men throughout the South.]]
+From their initial landing in the Vale, the Andal migrations spread out in waves across Westeros, in a process lasting many centuries. At the time of the coming of the Andals, Westeros was a patchwork of hundreds of small kingdoms of the First Men. Therefore, they did not present a united front of resistance against the Andals, easing their conquest.
+
+The First Men were armed with weapons made of bronze, but the Andals introduced iron and steel weapons to the continent for the first time. Andal military tactics focused on concepts of "[[knighthood]]", producing elite warriors known as "knights" who wore full suits of iron armor while riding into battle on heavy horse. The related concept of "chivalry" spurned on the knights, a code of knightly devotion tied to the Faith of the Seven. The First Men could not withstand the armored shock cavalry assaults of the Andals' knights. As the Andals conquered the kingdoms of southern Westeros, they aggressively stamped out the worship of the [[Old Gods]] by the First Men they conquered, and forced them to convert to their worship of the Seven-faced God.<ref>"[[The Old Gods and the New (Histories & Lore)|The Old Gods and the New]]"</ref>
+
+[[File:AndalsRepulsedFromTheNorth.png|thumb|The Andals are repulsed by the Kings of Winter.]]
+Over the centuries, the Andals conquered all of Westeros except for the [[North]], where the [[King in the North|Kings of Winter]] from the line of [[House Stark]] were able to resist their advance, as such, the North continues many traditions brought by the First Men. Any approach to the North has to go through the [[Neck]], a narrow isthmus of land filled with swamps. The ancient fortress of [[Moat Cailin]] commands the only major road coming up from the south, making it an ideal choke point for the First Men of the North. For centuries, Andal armies smashed against Moat Cailin like water on rock, but to no avail, and the North remained unconquered.
+
+[[File:AndalsBurnTheWeirwoods.png|thumb|The Andals burned the weirwoods and slaughtered the Children of the Forest.]]
+The Andals viewed the magic of the [[Children of the Forest]] as an abomination before the God of Seven. They slaughtered the Children of the Forest wherever they encountered them, and burned the sacred [[weirwood]] trees throughout southern Westeros. The Children of the Forest were never very numerous to begin with, and during the Long Night fighting against the [[White Walkers]] they took heavy losses from which they never truly recovered. The coming of the Andals exterminated all but a handful of the few Children of the Forest that remained in Westeros, and after this point they dropped out of history, to the point that six thousand years later many believed they never existed at all. However, the very few survivors fled North of the Wall, into the [[Cave of the Three-Eyed Raven]], out of sight for thousands of years until Bran arrives.
+
+Due to their extra-legal status, the [[Night's Watch]] on the [[Wall]] never became directly involved in the coming of the Andals. Partially this was also due to simple geography, as the Andals never reached that far north, but neither did the forces of the Night's Watch march south to aid the First Men in fighting off the Andals trying to invade from the Neck. For their part, the Andals saw the value in supporting the Night's Watch and its extra-legal status, to defend against the occasional [[Free Folk|wildling]] attack, but also as an outlet for their own younger sons, criminals, or the defeated soldiers in their own wars. The Night's Watch is sworn to take no part in the petty politics occurring in the realms of men, and eagerly welcomed Andals who volunteered to join their order. Overall, the Night's Watch was not significantly affected by the coming of the Andals, and the transition of power in the castles of the South troubled them little.<ref>"[[The History of the Night's Watch - The Night's Watch]]"</ref>
+
+===Aftermath===
+[[Image:HL5 Septons convert the First Men to the Seven.png |thumb|The Andals' septons converted most of the First Men in southern Westeros to the Faith of the Seven.]]
+After many centuries the "invasions" ceased as the new Andal kingdoms carved out of southern Westeros stopped acting in a unified manner and began fighting each other. While wars between the North and southern kingdoms did sporadically take place for thousands of years after this, they were not "invasions" so much as "politics" as usual. The Andal-held Kingdom of the Rock in the Westerlands was just as likely to go to war against the First Men of the North, as they were to go to war against their fellow Andals in the Kingdom of the Reach. As for the South, the exact length of the invasions varied by region, based on how long it took the Andals to subdue an area. In most regions the invasions lasted at least several centuries. The [[Iron Islands]] are something of an exception, as they were conquered by the Andal [[House Hoare]] some two thousand years after the initial coming of the Andals. Owing to their isolated position off the western coast of the mainland of the continent, the Iron Islands were probably one of the last regions of the South to be conquered by the Andals.
+
+After many thousands of years, the religions of the Old Gods and of the New Gods (the Seven) settled into a grudging co-existence. Wars of religion between the followers of the Old Gods and those of the Faith of the Seven have thus not occurred in thousands of years.
+
+While the First Men of the North successfully resisted the Andals, in all other areas the Andals became the dominant ethnic and cultural group of Westeros.
+
+The effect of the coming of the Andals upon the indigenous First Men populations varied from region to region. In the Vale of Arryn, where the invasions began, the First Men were practically exterminated (though there are a few exceptions, such as [[House Royce]], which claim descent from the First Men). For thousands of years afterwards, the inhabitants of the Vale would be held to have the purest Andal bloodlines. In the North, of course, the First Men remained independent and the dominant ethnic group, though thousands of years of dynastic marriages with Andal noble houses from the South blurred this to a degree.
+
+In most other regions, the Andals conquered the First Men instead of completely exterminating them, and the Andal nobility ruled over a peasantry of First Men. Over the course of six thousand years of ethnic intermingling these class lines have heavily blurred. Moreover, over thousands of years various Andal noblemen have fallen on hard times and become peasants, while "lowborn" First Men families have worked their way up the social ladder to become noble houses in their own right (either by being wealthy merchants, success in war, etc.). Indeed, many of the original Andal invaders intermarried with the local First Men nobility when they conquered new regions to solidify their claims, so the intermingling was going on from the start. Such was the case in the Westerlands, the Riverlands, the Stormlands, the Reach, and in Dorne. Even [[Great House]]s such as [[House Lannister]] possess some First Men blood, through the female line, as the Andal invaders married the descendants of the legendary [[Lann the Clever]]. Major noble houses such as [[House Tully]] and [[House Tyrell]] possess some First Men blood, though they are largely thought of as Andal Houses, particularly because they follow the culture and religion of the Andals.
+
+The Iron Islands are somewhat of an odd case, in that the Andals who conquered it "went native" and just assimilated into the distinctive "[[Ironborn]]" culture of the First Men who were already living there, which is centered on seafaring and piracy. They even abandoned worship of the Seven and adopted the local religion of the [[Drowned God]]. Thus the Ironborn are ethnically similar to the Andal/First Men mix that the rest of the South possesses, but they are culturally distinct. For practical purposes, the coming of the Andals didn't greatly affect the harsh lifestyle of the Iron Islands, though this did lead to them adopting a few cultural influences from the Andals - such as their language, if not their religion.
+
+Dorne was also conquered by the Andals and they intermingled with the First Men there, but they remained as numerous petty fiefdoms and didn't unify.
+
+Regardless of some local variation and the successful resistance of the First Men in the North, the Andals became the overwhelmingly dominant ethnic and cultural group living in Westeros. Even the independent First Men living in the North eventually abandoned using their original language, the [[Old Tongue]], and adopted the language of their Andal neighbors, which became used so pervasively throughout Westeros that it is now known simply as the "[[Common Tongue]]". Andal ethnic and cultural influence is so pervasive in Westeros that people living on the eastern continent of Essos now refer to it generically as "The Land of the Andals".
+
+==In the books==
+When the Andals arrived in the Riverlands, they were divided up into several local kingdoms of the First Men, including ones ruled by House Blackwood, House Bracken, and House Mudd. House Tully also dates back to the time of the First Men, though they did not rule as kings. When the Andals arrived, House Mudd fought against them but in the end was completely destroyed, and their castle left a ruin. Meanwhile, the Blackwoods, Brackens, and Tullys intermarried with the Andal invaders. Indeed, this only served to further the Blackwood-Bracken feud: the Blackwoods tenaciously clung to their worship of the old gods, but the Brackens converted to the religion of the Andal invaders.
+
+The Andals did conquer the region of [[Dorne]], but they did not unify it. Dorne remained a patchwork of dozens of small independent fiefdoms for thousands of years. As in many other regions of Westeros, in Dorne petty Andal kings ruled over First Men populations, with whom they intermingled and merged ethnically. Five thousand years later the Rhoynar invasion radically reshaped Dorne's ethnic and cultural makeup, but the Dornishmen inhabiting the inner mountains of Dorne are still primarily descended from the Andal invaders and the First Men.
+
+The Andals introduced the first writing system to Westeros, as the First Men only had oral tradition and a simple set of runes for marking graves. The result is that written history in Westeros only dates back to the coming of the Andals six thousand years ago, and accounts of everything before that - the Age of Heroes, the Long Night - comes from less reliable, half-legendary oral tradition. Of course, "history is written by the winners", and the history books that the Andals wrote of their "migration" to Westeros make the Andals the heroes of their own story. For example, Ser Artys Arryn is considered a folk hero by the Andals of the Vale, for valiantly killing the last king of the First Men that used to live there. The accounts of the First Men who survived in the independent North tell a decidedly different story, emphasizing that the Andal invaders slaughtered many of the First Men in their path, conquered the survivors, and crushed their culture by imposing the Andals' religion of the Seven.
+
+Given that author [[George R.R. Martin]] has said that the story loosely parallels the War of the Roses in fifteenth century Britain, the coming of the Andals is loosely comparable to the Anglo-Saxon invasion of Britain. Just as the First Men were able to stop the Andals from expanding to the North in Westeros, the Celtic people living in Scotland were able to repulse Anglo-Saxon expansion from the south. However, the real-life Anglo-Saxon invaders followed a polytheistic religion and destroyed the Christianized Romano-British society that existed in Britain up to that time. In an inversion, the coming of the Andals introduced the pseudo-Catholic Christian "Faith of the Seven" which supplanted the polytheistic, nature-worshiping religion of the old gods.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Wars}}
+
+<!--Categories-->
+[[Category:Coming of the Andals| ]]
+[[Category:Wars]]
+
+<!--Languages-->
+[[de:Invasion der Andalen]]
+[[fr:Invasion des Andals]]
+[[ru:Вторжение андалов]]

@@ -1,0 +1,30 @@
+{{Crew
+|Image = Curtis Rivers.jpg
+|dateofbirth = {{WPS|March 15}}, {{WPS|1970}}
+|birthplace = {{WPS|Guisborough}}, {{WPS|North Yorkshire}}, {{WPS|England}}, {{WPS|United Kingdom}}
+|job = Stunt Performer
+|imdb = http://www.imdb.com/name/nm1425085
+|twitter = https://twitter.com/Curtis_Rivers}}
+'''Curtis Rivers''' (born March 15, 1970) is an English stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 3|third season]] episode "[[The Bear and the Maiden Fair (episode)|The Bear and the Maiden Fair]]" and the [[Game of Thrones: Season 4|fourth season]] episodes "[[Oathkeeper (episode)|Oathkeeper]]" and "[[The Laws of Gods and Men]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 3|||||||yes}}
+{{Game of Thrones: Season 4||||yes||yes}}
+
+==See also==
+*{{WP}}
+*{{IMDb
+|# = 0729519}}
+*{{Twitter
+|# = Curtis_Rivers}}
+*{{Instagram
+|# = mrcurtisrivers}}
+*{{Facebook
+|# = thecurtisrivers}}
+*{{Linkedin
+|# = /in/curtisrivers}}
+{{DEFAULTSORT:Rivers, Curtis}}
+[[Category:Stunt performers of Game of Thrones]]

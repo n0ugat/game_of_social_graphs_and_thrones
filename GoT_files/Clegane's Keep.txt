@@ -1,0 +1,53 @@
+{{Canonicity|Canon}}
+{{References}}
+{{Heraldry
+| Image = House Clegane.svg
+| Link  = House Clegane
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Lannister
+| Image        =
+<gallery>
+Clegane's Keep.png|Appearance
+Clegane Keep Pin.png|Location
+</gallery>
+| Type         = Keep
+| Status       = 
+| Location     = The [[Westerlands]], [[Westeros]]
+| Population   = 
+| Rulers       = {[[House Clegane]]}
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = by {[[Gregor Clegane's grandfather]]}
+}}
+{{Quote|Lucky my grandfather came up with the dogs and drove the big cat away. As a reward, the Cleganes got lands and a keep, and a son to squire for the Lannisters.|[[Sandor Clegane]]|House Clegane (short)}}
+'''Clegane's Keep''',{{Mapref|Viewer's Guide}} or '''Clegane Keep''',{{Ref|THTDB201}} is a castle in the [[Westerlands]]. It is the seat of [[House Clegane]], a knightly house holding fealty to [[House Lannister]] of [[Casterly Rock]]. The castle is located south-east of Casterly Rock in the heart of the [[Westerlands]].
+
+It was awarded to [[Gregor Clegane's grandfather]], formerly a kennelmaster at Casterly Rock, for saving Lord [[Tytos Lannister]] from a [[lion]]ess attack.
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the location of Clegane's Keep has not been revealed. However, according to [[George R.R. Martin]] it does lie in the approximate same location as the TV series, south-east of Casterly Rock.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Clegane}}
+{{Westerlands}}
+
+<!--Categories-->
+[[Category:Castles of the Westerlands]]
+[[Category:House Clegane]]
+
+<!--Languages-->
+[[de:Cleganes Bergfried]]
+[[fr:Donjon des Clegane]]
+[[pl:Twierdza Clegane]]
+[[ru:Замок Клиганов]]
+[[zh:克里冈堡]]

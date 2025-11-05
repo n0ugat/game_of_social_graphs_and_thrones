@@ -1,0 +1,59 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Leftimage  = House Marbrand.svg
+| Leftlink   = House Marbrand
+| Rightimage = House Lannister.svg
+| Rightlink  = House Lannister
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Lannister
+| Image       = 
+| Birth       = [[Ashemark]]
+| Death       = 
+| House       = [[House Marbrand|Marbrand]]<br>[[House Lannister|Lannister]] {{C|by marriage}}
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Westerlands|Westermen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = {[[Tygett Lannister]]}
+| Lovers      = 
+| Issue       = [[Tyrek Lannister]]
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Darlessa Marbrand''' is a member of [[House Marbrand]], wife of [[Tygett Lannister]], and mother of his son, [[Tyrek Lannister]].<ref name="finalebook">[https://www.makinggameofthrones.com/production-diary/season-8-episode-6-series-finale-props-song-of-ice-and-fire See] the family tree of [[House Lannister]] in Archmaester [[Ebrose]]'s ''[[A Song of Ice and Fire (Ebrose)|A Song of Ice and Fire]]'' (as featured in "[[The Iron Throne]]")</ref>
+
+==Behind the scenes==
+Darlessa is featured in the family tree of House Lannister in Archmaester [[Ebrose]]'s ''[[A Song of Ice and Fire (Ebrose)|A Song of Ice and Fire]]''.<ref name="finalebook" /> She is not mentioned or featured elsewhere in the series.
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Darlessa is only featured in the appendices, not appearing in the story itself. As in the season 8 prop's family tree, she is the wife of Tygett Lannister and the mother of Tyrek Lannister.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Marbrand}}
+{{House Lannister}}
+
+<!--Categories-->
+{{DEFAULTSORT:Marbrand, Darlessa}}
+[[Category:Individuals from Game of Thrones]]
+[[Category:Members of House Lannister|Darlessa Marbrand]]
+[[Category:Members of House Marbrand|Darlessa Marbrand]]
+[[Category:Westermen]]

@@ -1,0 +1,30 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = David Hounslow.jpg
+| Birth   = November 7, 1960 {{Age|1960|11|7}}<br>Oldham, Lancashire, England
+| Death   = 
+| Role    = [[Rickon Stark (father of Cregan)|Rickon Stark]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = "[[The Heirs of the Dragon]]"
+| First   = 
+| Last    = 
+}}
+'''David Hounslow''' (born 7 November 1960) is an English actor.
+
+In ''[[House of the Dragon]]'', he portrayed [[Rickon Stark (father of Cregan)|Rickon Stark]] in "[[The Heirs of the Dragon]]".
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1|yes}}
+
+==See also==
+*{{IMDb|#=0396577}}
+
+<!--Categories-->
+{{DEFAULTSORT:Hounslow, David}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:David Hounslow]]

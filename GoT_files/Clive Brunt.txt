@@ -1,0 +1,33 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Clive Brunt.jpg
+| Birth   = Clive Charles Arthur Brunt<br>January 27, 1972 {{Age|1972|01|27}}<br>Oldbury, West Midlands, England
+| Death   = 
+| Role    = 
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]]
+| Credits = "[[Smallfolk (episode)|Smallfolk]]"
+| First   = 
+| Last    = 
+}}
+'''Clive Charles Arthur Brunt''' is an English actor. He has appeared in the films ''{{WPS|The Madness of King George}}'', ''{{WPS|The Legend of Tarzan (film)|The Legend of Tarzan}}'' and ''{{WPS|Dumbo (2019 film)|Dumbo}}'' and the television series ''{{WPS|Agatha Christie's Poirot}}'', ''{{WPS|The Bill}}'', ''{{WPS|Doctors (2000 TV series)|Doctors}}'', ''{{WPS|Coronation Street}}'' and ''{{WPS|Trust (American TV series)|Trust}}''.
+
+Brunt plays a to-be-confirmed character in the [[House of the Dragon: Season 2|second season]] of ''[[House of the Dragon]]''.
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 2||||||yes}}
+
+==External links==
+*{{WP}}
+*{{IMDb|# = 0116622}}
+*{{Twitter|# = CliveBrunt}}
+*{{Instagram|# = clivebrunt}}
+
+<!--Categories-->
+{{DEFAULTSORT:Brunt, Clive}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Clive Brunt]]

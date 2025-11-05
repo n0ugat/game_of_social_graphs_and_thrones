@@ -1,0 +1,50 @@
+{{Canonicity|Canon}}
+{{MapNeeded}}
+{{Heraldry
+| Image = House Crakehall.svg
+| Link  = House Crakehall
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Lannister
+| Image        = 701 BtS Map Crakehall.png
+| Type         = Castle
+| Status       = 
+| Location     = The [[Westerlands]], [[Westeros]]
+| Population   = 
+| Rulers       = [[House Crakehall]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Crakehall'''{{Ref|GOT701}} is a stronghold in the [[Westerlands]]. It is the seat of [[House Crakehall]], bannermen to [[House Lannister]] of [[Casterly Rock]]. Located on the [[Searoad]], close to the shores of the [[Sunset Sea]], south of Casterly Rock and [[Lannisport]] and close to the border of the [[Westerlands]] and the [[Reach]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Crakehall is also known as Crakehall Castle.
+
+[[Aegon Targaryen (son of Aenys)|Aegon]] and [[Rhaena Targaryen (daughter of Aenys)|Rhaena Targaryen]] were besieged at Crakehall during the [[Faith Militant uprising]]. When King [[Aenys Targaryen|Aenys]] heard of this, he collapsed and died three days later.
+
+[[Jaime Lannister]] was a [[squire]] at Crakehall along with Merrett [[House Frey|Frey]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Westerlands}}
+
+<!--Categories-->
+[[Category:Castles of the Westerlands]]
+[[Category:House Crakehall]]
+
+<!--Languages-->
+[[de:Rallenhall]]
+[[es:Refugio Quebrado]]
+[[it:Crakehall]]
+[[nl:Crakenhal]]
+[[ru:Крейкхолл]]
+[[zh:秧鸡厅]]

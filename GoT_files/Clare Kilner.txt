@@ -1,0 +1,45 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Clare Kilner.jpg
+| Birth   = United Kingdom
+| Death   = 
+| Role    = Director
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]] {{*}} [[House of the Dragon: Season 2|2]] {{*}} [[House of the Dragon: Season 3|3]]
+| Credits = 8 episodes {{Below|Credits}}
+| First   = "[[King of the Narrow Sea (episode)|King of the Narrow Sea]]"
+| Last    = 
+}}
+'''Clare Kilner''' is an English director. She has directed the films ''{{WPS|How to Deal}} and {{WPS|The Wedding Date}}'' and episodes of ''{{WPS|EastEnders}}'', ''{{WPS|The Middle (TV series)|The Middle}}'', ''{{WPS|Sneaky Pete}}'', ''{{WPS|Trinkets (TV series)|Trinkets}}'', ''{{WPS|Claws (TV series)|Claws}}'', ''{{WPS|Krypton (TV series)|Krypton}}'', ''{{WPS|Pennyworth (TV series)|Pennyworth}}'', ''{{WPS|The Alienist (TV series)|The Alienist: Angel of Darkness}}'' and ''{{WPS|Snowpiercer (TV series)|Snowpiercer}}''. 
+
+She is a director on ''[[House of the Dragon]]''.<ref>[https://www.hbo.com/house-of-the-dragon House of the Dragon on HBO]</ref>
+
+==Credits==
+===Director===
+{{House of the Dragon: Season 1||||yes|yes||||yes}}
+{{House of the Dragon: Season 2||yes|||yes}}
+{{House of the Dragon: Season 3||yes|yes|yes}}
+
+==See also==
+*{{WP}}
+*{{IMDb|#=0453270}}
+*{{Twitter|#=clarejkilner}}
+*{{Instagram|#=clarekilner}}
+*{{Facebook|#=clare.kilner}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House of the Dragon: Inside the Episode}}
+
+<!--Categories-->
+{{DEFAULTSORT:Kilner, Clare}}
+[[Category:Commentators of House of the Dragon: Inside the Episode]]
+[[Category:Directors of House of the Dragon]]
+
+<!--Languages-->
+[[de:Clare Kilner]]
+[[fr:Clare Kilner]]
+[[pt-br:Clare Kilner]]

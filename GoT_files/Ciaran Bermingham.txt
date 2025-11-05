@@ -1,0 +1,33 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Ciaran-Birmingham-200.jpg
+| Birth   = 
+| Death   = 
+| Role    = [[Mord]]
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 1|1]]
+| Credits = 2 episodes {{Below|Credits}}
+| First   = "[[The Wolf and the Lion]]"
+| Last    = "[[A Golden Crown]]"
+}}
+'''Ciaran Bermingham''' is an actor. He also appeared in an episode of ''[[wikipedia:The Tudors (TV series)|The Tudors]]''.
+
+In ''[[Game of Thrones]]'' he plays the role of [[Mord]]. He was announced in the role on 16 July 2010.
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 1|||||yes|yes}}
+
+==See also==
+*{{Template:IMDb
+|# = 2197118}}
+*{{Template:Twitter
+|# = ciaranber}}
+
+{{Stub}}
+{{DEFAULTSORT:Bermingham, Ciaran}}
+
+[[de:Ciaran Bermingham]]
+[[fr:Ciaran Bermingham]]
+[[Category:Guest starring cast members of Game of Thrones]]

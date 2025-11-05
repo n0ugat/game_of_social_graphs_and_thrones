@@ -1,0 +1,66 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Baratheon
+| Image       = Baratheon Guard.png
+| Birth       = At Greenpools
+| Death       = 
+| House       = 
+| Affiliation = [[House Baratheon]]
+| Titles      = [[Knighthood|Ser]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Andals|Andal]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 2|2]]
+| Appearances = "[[What Is Dead May Never Die]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Darren Killeen]]
+}}
+{{Quote|Your Grace, I have the honor to bring you Lady Catelyn Stark, sent as an envoy by her son, Robb, Lord of Winterfell.|Colen to Renly Baratheon|What Is Dead May Never Die}}
+Ser '''Colen of Greenpools'''{{Con|ASOIAF}} is a [[Knighthood|knight]] serving King [[Renly Baratheon]] in the [[War of the Five Kings]].
+
+==Biography==
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+He announces [[Catelyn Stark|Catelyn]] when she arrives at [[Renly Baratheon|Renly]]'s camp close to [[Storm's End]]. He introduces her as an envoy of [[Robb Stark]], [[Lord of Winterfell]]. She corrects him and adds that Robb is also [[King in the North]].{{Ref|GOT203}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Ser Colen makes a very brief appearance: he welcomes Catelyn and her escorts, as they approach Renly's camp, then escorts her the rest of the way there and introduces her to Renly. He is described as grizzled, with a grey beard. His personal coat-of-arms has bluejays on it.
+
+Ser Colen is not mentioned in the novels afterwards. It is unknown whether, after [[Assassination of Renly Baratheon|Renly's death]], he goes over to [[Stannis Baratheon|Stannis]] or remains with the [[House Tyrell|Tyrell]] host.
+
+==Appearances==
+*{{GOT|What Is Dead May Never Die}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Baratheon}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Knights]]
+[[Category:Servants and retainers of House Baratheon]]
+[[Category:Stormlanders]]
+
+<!--Languages-->
+[[fr:Colen]]
+[[ru:Колин из Зелёных Прудов]]

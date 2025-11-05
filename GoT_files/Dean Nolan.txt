@@ -1,0 +1,34 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Dean Nolan.jpg
+| Birth   = Dean Boodaghians-Nolan<br>Cornwall, England
+| Death   = 
+| Role    = [[Reggio Haratis]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = "[[The Princess and the Queen]]"
+| First   = 
+| Last    = 
+}}
+'''Dean Boodaghians-Nolan''' is a Cornish actor. In ''[[House of the Dragon]]'', he portrays [[Reggio Haratis]] in "[[The Princess and the Queen]]."
+
+==Biography==
+Nolan is from Cornwall. He is married to Armenian writer Leianna Boodaghians-Nolan.
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1||||||yes}}
+
+==See also==
+*{{IMDb|#=4000354}}
+*{{Twitter|#=deanleianna}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Dean Nolan]]

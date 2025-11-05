@@ -1,0 +1,63 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Crakehall.svg
+| Link  = House Crakehall
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Lannister
+| Image       = Got lord dc.jpg
+| Birth       = [[Crakehall]]
+| Death       = 
+| House       = [[House Crakehall|Crakehall]]
+| Affiliation = [[House Lannister]]
+| Titles      = Lord of Crakehall
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Westerlands|Westermen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 3|3]]
+| Appearances = "[[Mhysa]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Maro Drobnic]]
+}}
+{{Quote|Anyone named Desmond Crakehall must be a pervert.|[[Tyrion Lannister]] to [[Sansa Stark]]|Mhysa}}
+Lord '''Desmond Crakehall''' is the Lord of Crakehall and the head of [[House Crakehall]].
+
+==Biography==
+===[[Game of Thrones: Season 3|''Game of Thrones'': Season 3]]===
+As [[Tyrion Lannister|Tyrion]] and [[Sansa Stark|Sansa]] walk through the [[Red Keep]]'s gardens, Lord Desmond and Ser [[Eldrick Sarsfield]] walk by, clearly laughing at Tyrion, who notes their names for future humiliation.{{Ref|GOT310}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there are several characters whose first name is (among them [[Grand Maester]] [[Desmond]], Desmond Grell, and Desmond Redwyne), but none of them are members of House Crakehall. Instead, House Crakehall is headed by Lord [[Roland Crakehall]].
+
+==Appearances==
+*{{GOT|Mhysa}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Roland Crakehall (lord)}}
+
+<!--Categories-->
+{{DEFAULTSORT:Crakehall, Desmond}}
+[[Category:Bannermen of House Lannister]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Lords]]
+[[Category:Members of House Crakehall|Desmond Crakehall]]
+[[Category:Westermen]]
+
+<!--Languages-->
+[[es:Desmond Crakehall]]
+[[ru:Десмонд Крейкхолл]]

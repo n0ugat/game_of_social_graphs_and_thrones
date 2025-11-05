@@ -1,0 +1,34 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Daniel Scott-Smith.jpg
+| Birth   = 
+| Death   = 
+| Role    = [[Craghas Drahar]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = 2 episodes {{Below|Credits}}
+| First   = "[[The Rogue Prince]]"
+| Last    = "[[Second of His Name]]"
+}}
+'''Daniel Scott-Smith''', also credited as '''Daniel Scott Smith''', is an actor.
+
+In ''[[House of the Dragon]]'', he portrayed [[Craghas Drahar]] in the [[House of the Dragon: Season 1|first season]].<ref name="Sun">https://www.the-sun.com/entertainment/tv/3667217/game-thrones-prequel-house-dragon-prisoners-bound-bloody/</ref>
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1||yes|yes}}
+
+==See also==
+*{{IMDb|#=9089880}}
+*{{Twitter|#=danscottsmith}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+{{DEFAULTSORT:Scott-Smith, Daniel}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--Interwiki links-->
+[[fr:Daniel Scott-Smith]]

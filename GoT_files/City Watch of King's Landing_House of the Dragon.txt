@@ -1,0 +1,62 @@
+{{Tab (House of the Dragon)}}
+{{Canonicity|Canon}}
+{{Subpage|HOTD}}
+{{Organization
+| Title       = City Watch of King's Landing
+| Theme       = Targaryen
+| Image       = Daemon GoldCloaks.jpg
+| Type        = Law enforcement<br>City guard
+| Status      = Active
+| Symbol      = 
+| Words       = 
+| Center      = [[King's Landing]]
+| Leader      = Commander of the City Watch
+| Affiliation = [[King of the Andals and the Rhoynar and the First Men]]
+| Religion    = 
+| Military    = 
+| Founded     = By {[[Maegor Targaryen]]}<br>Reorganized by [[Daemon Targaryen]]
+}}
+{{Quote|When I took command of the Watch, you were stray mongrels. Starving and undisciplined. Now, you're a pack of hounds. You're sated and honed for the hunt. My brother's city has fallen into squalor. Crime of every breed has been allowed to thrive. No longer. Beginning tonight, King's Landing will learn to fear the color gold!|Daemon Targaryen|The Heirs of the Dragon}}
+The '''City Watch of King's Landing''',{{Ref|GOT401}} or simply the '''City Watch''',{{Ref|GOT104}} is a law-enforcement and military institution responsible for the security of the [[King's Landing|capital city]] of the [[Seven Kingdoms]]. Men of the Watch are commonly nicknamed "'''Gold Cloaks'''"{{Ref|GOT107}} because of the gold-colored capes they wear. The Crown pays the City Watch salaries, but unlike other organizations in the Seven Kingdoms, these soldiers swear no allegiance, except to the [[King of the Andals and the Rhoynar and the First Men|king]].
+
+The City Watch in its modern form was created by [[Daemon Targaryen]]. For the first century of King's Landing's existence before that, they were little more than a poorly trained and random assortment of hired goons. When Daemon was made their commander, he reorganized and re-equipped them, turning the Watch into essentially a small private army. Most notably, Daemon gave them their famous golden cloaks as part of their new standardized uniform.
+
+==History==
+[[File:OT Gold Cloaks.png|thumb|Daemon trained mindless thugs and turned them into the Gold Cloaks.]]
+
+===Background===
+Prince Daemon Targaryen was appointed commander of the City Watch by King [[Viserys I Targaryen]] on the advice of Ser [[Otto Hightower]] to distance Daemon from the royal court. Under the prince's command, the City Watch was significantly reformed and reshaped into a trained, disciplined, well-armed and well-funded organization. This and Daemon's own personality makes the prince popular with the Gold Cloaks.<ref name="Heirs">"[[The Heirs of the Dragon]]"</ref>
+
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+Just prior to the [[Heir's Tournament]], Daemon leads his 2,000 Gold Cloaks across King's Landing in a violent public display, rounding up apparent criminals to carry out summary justice. Daemon is made to answer for the Gold Cloaks at the [[Small Council]], but he defends his actions as necessary. Otto fears that the Gold Cloaks have become Daemon's own private army.<ref name="Heirs">"[[The Heirs of the Dragon]]"</ref>[[File:Gold Cloaks.png|thumb|Gold Cloaks deployed into the city.]]Later, Daemon invites his officers to the [[Street of Silk]], where he is alleged by Otto to have toasted Prince [[Baelon Targaryen|Baelon]] as the "Heir for a Day." Viserys is outraged; he exiles Daemon, and supplants him with [[Rhaenyra Targaryen|Rhaenyra]] as his heir.<ref name="Heirs" /> An army of Gold Cloaks follow Daemon to [[Dragonstone]], the traditional seat of the heir, where they seize the fortress and [[Occupation of Dragonstone|occupy]] the [[Dragonstone (island)|island]]. Otto rebukes them as traitors, but Daemon says that they are under his command and follow him out of loyalty.<ref name="Rogue Prince">"[[The Rogue Prince]]"</ref> The occupation is later ended, and the army disbanded. Ser [[Harwin Strong]] has become the new commander of the City Watch. It is unknown who follows him after his death.<ref name="Princess">"[[The Princess and the Queen]]"</ref>
+
+At the [[Green Council]], Otto notes that two captains in the City Watch are known to be loyal to Daemon. During the [[coup in King's Landing|coup]], Gold Cloaks usher masses of [[smallfolk]] into the [[Dragonpit]] to witness the coronation of [[Aegon II Targaryen]], and flank the new king as he walks onto the stage.<ref name="Green Council">"[[The Green Council]]"</ref>
+[[File:OT2 Gold Cloaks & smallfolk.png|thumb|Gold Cloaks close the city gates.]]
+At the [[Black Council]], Daemon tells Rhaenyra that he will reach out to his loyalists in the City Watch, though he does not know how many there are.<ref name="Black Queen">"[[The Black Queen]]"</ref>
+
+==Known commanders==
+*Prince [[Daemon Targaryen]]
+*Ser {[[Harwin Strong]]}
+
+==In the books==
+{{Main|City Watch of King's Landing#In the books}}
+
+==Gallery==
+<gallery>
+File:Harwin Uniform 1.png|Harwin's armor.
+File:Harwin Uniform 3.png|City Watch clothing.
+File:OT Gold Cloak Daemon.png|Daemon commanding the Gold Cloaks.
+File:Empire Daemon.jpg|Gold Cloaks patrolling the streets.
+File:TGC Aegon II Targaryen Still.jpg
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|City Watch of King's Landing}} {{Spoilers|HOTD}}
+
+<!--Categories-->
+[[Category:City Watch of King's Landing| ]]
+[[Category:Men-at-arms]]
+[[Category:Military organizations]]

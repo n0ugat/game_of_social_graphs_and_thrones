@@ -1,0 +1,33 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Tully
+| Image        = 
+| Type         = Village
+| Status       = 
+| Location     = [[Riverlands]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Crossed Elms'''{{Ref|THTDB201}} is a village in the [[Riverlands]].
+
+==In the books==
+In ''[[Fire & Blood]]'', Crossed Elms was the site of a skirmish during the [[Dance of the Dragons]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{Riverlands}}
+
+<!--Categories-->
+[[Category:Riverlands]]
+[[Category:Villages]]

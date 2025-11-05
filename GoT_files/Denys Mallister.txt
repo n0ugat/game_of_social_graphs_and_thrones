@@ -1,0 +1,83 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Leftimage  = House Mallister.svg
+| Leftlink   = House Mallister
+| Rightimage = Night's Watch.svg
+| Rightlink  = Night's Watch
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = Denys Mallister.jpg
+| Birth       = At [[Seagard]]
+| Death       = 
+| House       = [[House Mallister|Mallister]]
+| Affiliation = [[Night's Watch]]
+| Titles      = [[Knighthood|Ser]]<br>Commander of the [[Shadow Tower]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Riverlands|Rivermen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 5|5]]
+| Appearances = "[[The House of Black and White]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[J.J. Murphy]]
+}}
+{{Quote|Ser Denys Mallister has commanded the Shadow Tower for 20 years and people say he's a good man.|[[Samwell Tarly]]|The Wars To Come}}
+Ser '''Denys Mallister''' is a [[Knighthood|knight]] of [[House Mallister]] and the commander of the [[Shadow Tower]], the westernmost of the three still operational castles of the Night's Watch. He is the uncle of Lord [[Jason Mallister]] of [[Seagard]].<ref>Season 2 Bluray: War of the Five Kings feature</ref>
+
+==Biography==
+===Background===
+Ser Denys Mallister is a senior member of the [[Night's Watch]]. He has commanded the [[Shadow Tower]], the western-most castle still manned by the Watch, for 20 years.{{Ref|GOT501}}
+
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+Following the death of [[Jeor Mormont]], a choosing for the new [[Lord Commander of the Night's Watch]] will take place. [[Samwell Tarly]] tells [[Gilly]] that Denys Mallister is running against Ser [[Alliser Thorne]]. He states that Denys is a good man and thinks that he wouldn't send Gilly away, which is what will probably happen if Alliser is chosen.{{Ref|GOT501}}
+
+Denys is present at the choosing for the 998th Lord Commander of the Night's Watch, but ultimately loses to [[Jon Snow]]. He salutes Jon to congratulate him.{{Ref|GOT502}}
+
+==Behind the scenes==
+Denys Mallister was played by [[J.J. Murphy]], who died four days after filming his first scenes, at the age of 86. Co-creators [[David Benioff]] and [[D.B. Weiss]] have announced the character will not be recast as Murphy "was a lovely man, and the best Denys Mallister we could have hoped for. And now his watch is ended."<ref>[http://watchersonthewall.com/actor-j-j-murphy-dies-filming-game-thrones-season-5/ WotW.com], Actor J. J. Murphy dies after beginning filming for Game of Thrones season 5</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Ser Denys Mallister is an old man who has commanded the Shadow Tower for thirty-three years. Ser Denys was born at Seagard, a squire at twelve, a knight at eighteen, and a champion at twenty-two years old. He had been a candidate in the two last elections of Lord Commanders of the Night's Watch.
+
+Ser Denys has blue-grey eyes and a long white beard. He has lost almost all his hair and his face is deeply lined though he still has his teeth and is graceful in his movement. In his communication with other people he is very courteous. He is considered cautious and chivalrous. He's also distrustful of [[ironborn]], due to his upbringing at Seagard, which had been built as a defense against raiders from the [[Iron Islands]]. He is also deeply disdainful of [[Janos Slynt]], deriding him in a conversation with Sam as "''a butcher's whelp, upjumped by the [[House Lannister|Lannisters]]."''
+
+Denys Mallister's supporter at the election in "[[The House of Black and White]]" says that he joined the Night's Watch as a boy, and has served through ten winters: this cannot literally be true, and is either a dialogue error or his supporter should be understood as just speaking loosely (as if he said "a dozen" but was rounding). In Season 1, Tyrion stated that he has lived through ''nine'' winters, the longest of which was the three year winter his was born during - placing that ninth winter about 36 years ago (less in the novels, as Tyrion is a little older in the TV series). Mallister's supporter could not have meant that he "commanded the Shadow Tower through ten winters", because in the previous episode Samwell said that Mallister has commanded it for twenty years - which would contradict Tyrion's statement that there have only been nine winters in nearly forty years. Mallister is stated to have joined the Watch as a boy, and rounding that to 16, he was serving at the Wall for about 70 years: given the rough rate at which the multi-year seasons occur in Westeros, there had to have been more than ''one'' other winter between when Mallister joined the Watch seventy years ago, and when Tyrion was born nearly forty years ago. The summer that ended when King Robert died lasted ten years, and was stated to be the longest in living memory: seasons don't normally last that long, and given that Tyrion said in Season 1 that there were 9 winters in the 33 years he'd been alive, there had to have been other winters in that time period.
+
+==Appearances==
+*{{GOT|The Wars To Come}} {{Mentioned}}
+*{{GOT|The House of Black and White}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Mallister}}
+{{Night's Watch}}
+
+<!--Categories-->
+{{DEFAULTSORT:Mallister, Denys}}
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Knights]]
+[[Category:Members of House Mallister|Denys Mallister]]
+[[Category:Rangers of the Night's Watch]]
+[[Category:Rivermen]]
+
+<!--Languages-->
+[[de:Denys Mallister]]
+[[pl:Denys Mallister]]
+[[ru:Денис Маллистер]]

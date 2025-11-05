@@ -1,0 +1,63 @@
+{{DISPLAYTITLE:Daemon Blackfyre {{C|son of Haegon}}}}
+{{Canonicity|Canon}}
+{{Spoiler|AKOTSK}}
+{{Heraldry
+| Image = House Blackfyre.svg
+| Link  = House Blackfyre
+}}
+{{Character
+| Title       = Daemon Blackfyre
+| Type        = Blackfyre
+| Image       = 
+| Birth       = In [[Tyrosh]]
+| Death       = 
+| House       = [[House Blackfyre|Blackfyre]]
+| Affiliation = 
+| Titles      = 
+| AKA         = 
+| Culture     = [[Valyrians|Valyrian]]
+| Religion    = 
+| Father      = [[Haegon Blackfyre]]
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = Brother(s)
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Daemon Blackfyre''' is the elder son of [[Haegon Blackfyre]].{{Ref|H&L803}}
+
+==Family==
+{{Blackfyre tree (A Knight of the Seven Kingdoms)}}
+
+==Appearances==
+*{{H&L|The Blackfyres}} {{Illustrated}}
+
+==In the books==
+In ''[[The World of Ice & Fire]]'', Daemon was the first of the Blackfyres to be born in exile, in his grandmother's ancestral home of [[Tyrosh]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|AKOTSK}}
+
+<!--Navboxes-->
+{{House Blackfyre/A Knight of the Seven Kingdoms}}
+
+<!--Categories-->
+{{DEFAULTSORT:Blackfyre, Daemon}}
+[[Category:Exiles]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Members of House Blackfyre|Daemon Blackfyre]]
+[[Category:Tyroshi]]
+
+<!--Languages-->
+[[ru:Деймон III Блэкфайр]]
+[[uk:Деймон Чорножар (син Хейґона)]]

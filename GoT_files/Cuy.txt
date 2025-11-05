@@ -1,0 +1,33 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Tyrell
+| Image        = 
+| Type         = Town
+| Status       = 
+| Location     = [[Reach]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Cuy'''{{Ref|THTDB201}} is a town in the [[Reach]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Cuy lies outside the walls of [[Sunhouse]]. It is ruled by the eponymous House Cuy.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Reach}}
+
+<!--Categories-->
+[[Category:Reach]]
+[[Category:Towns]]

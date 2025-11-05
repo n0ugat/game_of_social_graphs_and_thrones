@@ -1,0 +1,73 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Darklyn.svg
+| Link  = House Darklyn
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Crownlander
+| Image       = Denys-Darklyn.png
+| Birth       = In [[Duskendale]]
+| Death       = In Duskendale<br>[[Execution|Executed]] by [[Aerys II Targaryen]] after the [[Defiance of Duskendale]]
+| House       = [[House Darklyn|Darklyn]]
+| Affiliation = [[House Targaryen]]
+| Titles      = [[Knighthood|Ser]]<br>[[Lord of Duskendale]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Andals|Andal]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = {[[Serala]]}
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|To halt its long decline, the Lord of Duskendale, Ser Denys Darklyn, petitioned King Aerys for a royal charter that would allow him to levy his own port fees and taxes, which would obviously be lower than in King's Landing. The Hand of the King, Tywin Lannister, refused.|[[Varys]]|The Defiance of Duskendale}}
+Lord '''Denys Darklyn''' was the [[Lord of Duskendale]] during the reign of [[King of the Andals and the Rhoynar and the First Men|King]] [[Aerys II Targaryen]] and the last head of [[House Darklyn]].
+
+==Biography==
+Denys Darklyn was a [[Knighthood|knight]] of House Darklyn who at some point became the Lord of [[Duskendale]].{{Ref|H&L805}}
+
+Lord Darklyn petitioned King Aerys II for a charter that would allow him to levy his own port fees and taxes. [[Tywin Lannister]], the [[Hand of the King]], refused. Knowing the bad relationship between the king and his Hand, Denys invited Aerys himself to Duskendale to discuss this petition. The king accepted, against the counsel of Tywin, and traveled to Duskendale with only Ser [[Gwayne Gaunt]] and a small retinue. Denys ambushed and seized Aerys the moment he arrived outside the city gates, killing Ser Gwayne and the retinue. Aerys was thrown in the dungeons and tortured with petty cruelties such as having his beard pulled. Lord Tywin immediately raised the [[House Lannister|Lannister]] army and laid siege to Duskendale with naval support from the [[royal fleet]], but Denys threatened to kill the king at the first signs of an assault.{{Ref|H&L805}}
+
+After six months of siege, Ser [[Barristan Selmy]] infiltrated the city disguised as a beggar and rescued the king and took an arrow to the chest while narrowly escaping. Lord Denys then surrendered and begged mercy from King Aerys. Denys and the rest of House Darklyn were [[Execution|executed]] on the king's orders.{{Ref|H&L805}}
+
+==In the books==
+In ''The World of Ice & Fire'', Denys is not mentioned to be a knight. Besides this, his story is the same.
+
+In ''A Feast for Crows'', [[Brienne of Tarth|Brienne]] arrives at Duskendale, searching for [[Sansa Stark|Sansa]]. An unnamed maester tells her the history of House Darklyn, particularly about Denys.
+
+==Appearances==
+*{{H&L|The Defiance of Duskendale}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Darklyn}}
+
+<!--Categories-->
+{{DEFAULTSORT:Darklyn, Denys}}
+[[Category:Bannermen of House Targaryen]]
+[[Category:Crownlanders]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Knights]]
+[[Category:Lords]]
+[[Category:Members of House Darklyn|Denys Darklyn]]
+
+<!--Languages-->
+[[fr:Denys Sombrelyn]]
+[[it:Denys Darklyn]]
+[[ru:Денис Дарклин]]

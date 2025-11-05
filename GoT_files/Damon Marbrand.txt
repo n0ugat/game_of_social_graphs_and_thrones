@@ -1,0 +1,72 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Marbrand.svg
+| Link  = House Marbrand
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Lannister
+| Image       = 
+| Birth       = [[Ashemark]]
+| Death       = 
+| House       = [[House Marbrand|Marbrand]]
+| Affiliation = [[House Lannister]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Westerlands|Westermen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = [[Addam Marbrand]]{{Con|asoiaf}}
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|This letter detailing our infantry movements was meant for Lord Damon of House Marbrand. It was sent to Lord Marlyn of House Dormand.|[[Tywin Lannister]]|The Old Gods and the New}}
+'''Damon Marbrand''' is the head of [[House Marbrand]]. He is a bannerman of [[House Lannister]] and the father of Ser [[Addam Marbrand]].
+
+==Biography==
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+Due to [[Amory Lorch]]'s nigh-illiteracy, a letter from [[Tywin Lannister|Tywin]] to Damon is accidentally sent to [[Marlyn Dormand]], a vassal of [[House Stark]].{{Ref|GOT206}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, little is mentioned of Damon Marbrand. He is not present at his seat during the [[taking of Ashemark]], with a [[castellan]] holding the castle instead.
+
+==Appearances==
+*{{GOT|The Old Gods and the New}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Marbrand}}
+
+<!--Categories-->
+{{DEFAULTSORT:Marbrand, Damon}}
+[[Category:Bannermen of House Lannister]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Lords]]
+[[Category:Members of House Marbrand|Damon Marbrand]]
+[[Category:Westermen]]
+
+<!--Languages-->
+[[de:Damon Marbrand]]
+[[es:Damon Marbrand]]
+[[nl:Damon Marbrand]]
+[[ru:Деймон Марбранд]]
+[[zh:达蒙·马尔布兰]]

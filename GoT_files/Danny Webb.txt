@@ -1,0 +1,33 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Kingdoms
+| Image   = Danny Webb.jpg
+| Birth   = Daniel Webb<br>June 6, 1958 {{Age|1958|6|6}}<br>London, England
+| Death   = 
+| Role    = [[Arlan of Pennytree]]
+| Series  = ''[[A Knight of the Seven Kingdoms]]''
+| Season  = [[A Knight of the Seven Kingdoms: Season 1|1]]
+| Credits = 
+| First   = 
+| Last    = 
+}}
+'''Daniel Webb''' (born 6 June 1958) is an English actor. 
+
+He portrays [[Arlan of Pennytree]] in ''[[A Knight of the Seven Kingdoms]]''.{{Webref|name=varietyref |author=Steffan Hill |date=August 8, 2024 |url=https://variety.com/2024/tv/news/knight-of-the-seven-kingdoms-cast-game-of-thrones-1236100291/ |title=‘Game of Thrones’ Spinoff ‘A Knight of the Seven Kingdoms’ Adds 7 to Cast, Including Another Targaryen  |website=Variety |access-date=August 8, 2024 }}
+
+==Credits==
+{{A Knight of the Seven Kingdoms: Season 1}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{WP|Danny Webb (actor)}}
+*{{IMDb|#=0916073}}
+
+<!--Navboxes-->
+{{A Knight of the Seven Kingdoms}}
+
+<!--Categories-->
+{{DEFAULTSORT:Webb, Danny}}
+[[Category:Cast members of unknown billing of A Knight of the Seven Kingdoms]]

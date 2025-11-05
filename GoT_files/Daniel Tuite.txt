@@ -1,0 +1,29 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = DanielTuite.jpg
+| Birth   = 
+| Death   = 
+| Role    = [[Lothar Frey]]
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 6|6]]
+| Credits = 4 episodes {{Below|Credits}}
+| First   = "[[Blood of My Blood]]"
+| Last    = "[[The Winds of Winter]]"
+}}
+'''Daniel Tuite''' is a British actor. He has appeared in ''Harry Potter and the Deathly Hallows Pt. 1, The Hollow Crown, and Cinderella.''
+
+In [[Game of Thrones: Season 6|Season 6]] of ''[[Game of Thrones]]'', he plays [[Lothar Frey]], taking over the role from [[Tom Brooke]].
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 6||||||yes|yes|yes||yes}}
+
+== See also ==
+* {{IMDb|# = 1264590}}
+* {{Twitter|# = tuitedaniel}}
+[[de:Daniel Tuite]]
+[[fr:Daniel Tuite]]
+[[ru:Дэниел Тьюит]]
+{{DEFAULTSORT:Tuite, Daniel}}
+[[Category:Guest starring cast members of Game of Thrones]]

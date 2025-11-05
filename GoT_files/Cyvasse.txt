@@ -1,0 +1,67 @@
+{{Canonicity|Canon}}
+[[File:Cyvasse animated.png|thumb|350px|A Cyvasse board, including (from left to right) a Light Horse, an Elephant, and a Dragon.]]
+'''Cyvasse'''{{Webref|name=DJP1 |author=Game of Owns |date=2022 |url=https://www.gameofowns.com/500# |title=We Light The Way feat. David J Peterson (01:15:45) |website=gameofowns.com |access-date=January 25, 2024 }}{{Note|[[High Valyrian]]: ''Kȳvakio''}} is a board game popular in [[Dorne]] and the [[Free Cities]].
+
+The word ''cyvasse'' is [[Low Valyrian|Volantene]] and comes from [[High Valyrian]] ''kȳvagon'',{{Webref|name=DJP2| author=David J. Peterson| date=March 27, 2023 |url=https://dedalvs.com/work/house-of-the-dragon/misc/hv_glyph_list_newer.pdf |title=High Valyrian Reference Grammar and Lexicon 9. High Valyrian Glyph List |website=Dedalvs |access-date=January 25, 2024}} meaning "strategy."<ref name="DJP1" />
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Cyvasse is a board game which originated in [[Volantis]], and spread through many of the other [[Free Cities]]. Due to Dorne's heavy trade contacts with the Free Cities, it recently spread there as well, starting in the first year of [[Joffrey Baratheon|Joffrey]]'s reign. It first arrived in the port at [[Planky Town]], then spread up the [[Greenblood]] River valley. The game is all the rage in [[House Martell]]'s court at [[Sunspear]]. It has not yet spread to the rest of the [[Seven Kingdoms]], though soon after [[Tywin Lannister|Tywin]]'s death, the game is newly introduced to the capital, and [[Margaery Tyrell|Margaery]] and her handmaidens are observed trying to learn the rules. The game is popular among both highborn and lowborn, and there are Cyvasse parlors in Volantis.
+
+The game is first mentioned in the fourth novel, ''A Feast for Crows''; several games are described in more prominent detail in the fifth novel, ''A Dance with Dragons''.
+
+While [[Myrcella Baratheon|Myrcella]] stays in Dorne, [[Trystane Martell|Trystane]] teaches her the game, and she learns quickly.{{Bookref|AFFC|13}} Since Trystane always places his pieces the same way, Myrcella wins more often than him, but he does not mind.{{Bookref|AFFC|21}}
+
+During the sea voyage from [[Pentos]], one of Tyrion's new companions, Haldon Halfmaester, teaches him the game; he quickly becomes an expert player.{{Bookref|ADWD|22}} He plays it often in the fifth novel against various people, and mostly wins. His is careful to learn what his adversary's overall strategy is, offensive or defensive, then play accordingly. During the slave auction, he brags about his cyvasse skills as a selling point, and indeed wins a lot of money for his new master Yezzan. [[Tyrion Lannister|Tyrion]] also uses cyvasse to play a meta-game with his opponents, to learn their personalities and real-life strategies. When the sellsword "Young Griff" (actually, [[Aegon Targaryen (son of Elia Martell)|Aegon Targaryen]], the son of Rhaegar and Elia) played against Tyrion, he boldly committed all of his powerful pieces from the beginning - from which Tyrion deduced that he was brash, arrogant, and easy to lure into a trap.{{Bookref|ADWD|27}} In contrast, when the sellsword Brown Ben Plumm played against Tyrion, his style was entirely reactive, cautiously playing to survive instead of to win - an accurate reflection of Ben's character, as the sellsword switched sides twice (from [[Daenerys Targaryen|Daenerys]] to [[Yunkai]], then back again) depending on who he thought was more likely to win, because he was more concerned with ending up alive at the end.{{Bookref|ADWD|47}}
+
+Similarly, when Myrcella plays against Trystane, he adopts a classic Dornish siege mentality: deploying his mountains in the front to create choke points, then deploying his elephants defensively at the "passes" between them - this makes his playing style predictable, so Myrcella can simply rely on flying her dragon over the mountains to eat his elephants.{{Bookref|AFFC|21}}
+
+[[Doran Martell]] does not play Cyvasse because he, unlike [[Oberyn Martell|his brother]] who loved the fight for its own sake, only plays games he can win. While his daughter Arianne is imprisoned in her chambers (as a punishment for [[Assassination of Myrcella Baratheon#In the books|her unsuccessful attempt to crown Myrcella]] that nearly cost her life), he orders to place there a Cyvasse table as a lesson for her: sometimes it is best to study a game before attempting to play it.{{Bookref|AFFC|40}}
+
+===Rules===
+[[George R.R. Martin]] described the board game as loosely a cross between [[Wikipedia:Chess|Chess]], ''[[Wikipedia:Stratego|Stratego]]'', and ''[[Wikipedia:Blitzkrieg (game)|Blitzkrieg]]''. Martin did not, however, develop a full set of rules for the game, instead advising fans to take elements from these other three games, then "mix well and add imagination".<ref>[http://www.westeros.org/Citadel/SSM/Entry/Cyvasse_Accents_Historical_Mysteries_and_Dornish_Nationalism/ ]</ref>
+
+Martin actually said that he intentionally didn't develop a full set of rules for cyvasse: he compared this to the old advice that writers are not usually songwriters as well, so if they want to include a character in their book who is master-songwriter, they should only ''describe'' the character as "a master-songwriter", not attempt to ''invent'' songs to quote within the book - nothing they invent will live up to the level of ability their character is supposed to have within the story. Similarly, Martin explained, he is a writer but not a board game designer. In real life, Chess has been a classic game of strategy for centuries - popular among common people but also a masterful exercise for professional players. Cyvasse is the equal of Chess within [[Westeros]] and [[Essos]] - but Martin said that in reality he isn't ''actually'' capable of designing an entirely new board game ''the equal of Chess''. Therefore, he simply ''described'' cyvasse as a Chess-like game, but doesn't feel he is capable of ever producing a full set of official rules for it (though he did encourage fans to make up their own if they want).
+
+Multiple fan-made variants of cyvasse have therefore been invented, but they are of varying quality and none can claim to be the "official" version.
+
+'''A few rules from the game are known from the text:'''
+
+The game is played by two players, usually one using white pieces and the other black pieces. Somewhat like ''Stratego'', each player actually sets up their own side of the board before the game begins, allowing them to position several obstacles such as mountains. Dragons can "fly over" mountain pieces. A screen is put between the two players when they are setting up so they can't see what the other side is doing, but the screen is taken away when the game starts (in ''Stratego'', neither player can see the identity of the other player's pieces, and thus a player can position landmine pieces in strategic positions).{{Bookref|AFFC|21}} Players take turns moving apparently one piece for one move each turn.{{Bookref|AFFC|13}}
+
+There are ten different kinds of movable pieces in the game:
+
+*Rabble (representing common infantry levies, the kind armed with sharpened farm tools)
+*Spearmen
+*Crossbowmen
+*Light Horse
+*Heavy Horse
+*Catapult
+*Trebuchet
+*Elephant
+*[[Dragon]]
+*King
+
+As in Chess, there are multiples of some pieces but only one of the more valuable pieces (i.e. there is more than one Rabble piece, like pawns in Chess, but as in Chess there is only one king piece). There are also multiple elephants.
+
+The goal of the game is to kill the opponent's king. The dragon is the single most powerful piece in the game.{{Bookref|ADWD|22}} Just as with the queen piece in Chess, however, some players become over-reliant on the dragon: it is strong but not invincible. Dragons can kill elephants, but (at least) trebuchets and catapults are able to kill dragons.{{Bookref|ADWD|14}}{{Bookref|ADWD|22}} On the other hand, again like the queen in Chess, some players take this advice too far, and ''under-use'' their dragon, unwilling to risk committing it to combat (but with nothing ventured, nothing is gained).
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Free Cities}}
+
+<!--Categories-->
+[[Category:Free Cities culture]]
+[[Category:Recreations]]
+
+<!--Languages-->
+[[pl:Cyvasse]]
+[[ru:Кайвасса]]
+[[zh:席瓦斯]]

@@ -1,0 +1,35 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Daniel Fathers.jpg
+| Birth   = Daniel James Fathers<br>March 23, 1966 {{Age|1966|3|23}}<br>London, England, United Kingdom
+| Death   = 
+| Role    = [[Humfrey Lefford]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]]
+| Credits = 2 episodes {{Below|Credits}}
+| First   = "[[Smallfolk (episode)|Smallfolk]]"
+| Last    = 
+}}
+'''Daniel James Fathers''' (born 23 March 1966) is an English and Canadian actor.
+
+Fathers plays [[Humfrey Lefford]] in the [[House of the Dragon: Season 2|second season]] of ''[[House of the Dragon]]''.<ref>https://www.spotlight.com/4774-6726-1962</ref>
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 2||||||yes||yes}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{WP}}
+*{{IMDb|#=1016334}}
+*{{Spotlight|#=4774-6726-1962}}
+
+<!--Categories-->
+{{DEFAULTSORT:Fathers, Daniel}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Daniel Fathers]]

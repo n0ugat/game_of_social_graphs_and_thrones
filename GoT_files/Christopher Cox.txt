@@ -1,0 +1,31 @@
+{{Crew
+|Type = Dragon
+|Image = 
+|dateofbirth = 
+|birthplace = 
+|job = Stunt Performer<br>Horse Wrangler
+|imdb = http://www.imdb.com/name/nm5478540
+|twitter = }}
+'''Christopher Cox''' is a stuntman and horse wrangler.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 5|fifth season]] episodes "[[The House of Black and White]]", "[[High Sparrow (episode)|High Sparrow]]", "[[Sons of the Harpy (episode)|Sons of the Harpy]]", "[[Hardhome (episode)|Hardhome]]" and "[[The Dance of Dragons (episode)|The Dance of Dragons]]", the [[Game of Thrones: Season 6|sixth season]] episodes "[[The Red Woman]]", "[[The Door]]", "[[Blood of My Blood]]" and "[[Battle of the Bastards (episode)|Battle of the Bastards]]", the [[Game of Thrones: Season 7|seventh season]] episodes "[[Dragonstone (episode)|Dragonstone]]", "[[The Spoils of War]]", "[[Beyond the Wall (episode)|Beyond the Wall]]" and "[[The Dragon and the Wolf]]" and the [[Game of Thrones: Season 8|eighth season]] episodes "[[A Knight of the Seven Kingdoms (Game of Thrones)|A Knight of the Seven Kingdoms]]", "[[The Long Night]]" and "[[The Bells]]" and a horse wrangler in the [[Game of Thrones: Season 6|sixth season]] episodes "[[The Red Woman]]", "[[Home]]", "[[Oathbreaker]]", "[[Book of the Stranger]]", "[[The Door]]", "[[Blood of My Blood]]", "[[The Broken Man]]", "[[No One]]", "[[Battle of the Bastards (episode)|Battle of the Bastards]]" and "[[The Winds of Winter]]".
+
+In ''[[House of the Dragon]]'', he was a stunt performer in the [[House of the Dragon: Season 1|first season]] episode "[[The Green Council]]".
+
+==Credits==
+===Stunts===
+====''[[Game of Thrones]]''====
+{{Game of Thrones: Season 5||yes|yes|yes||||yes|yes}}
+{{Game of Thrones: Season 6|yes|yes|yes|yes|yes|yes|yes|yes|yes|yes}}
+{{Game of Thrones: Season 7|yes|||yes||yes|yes}}
+{{Game of Thrones: Season 8||yes|yes||yes}}
+
+====''[[House of the Dragon]]''====
+{{House of the Dragon: Season 1|||||||||yes}}
+
+==See also==
+*{{IMDb
+|# = 5478540}}
+{{DEFAULTSORT:Cox, Christopher}}
+[[Category:Stunt performers of Game of Thrones]]
+[[Category:Stunt performers of House of the Dragon]]

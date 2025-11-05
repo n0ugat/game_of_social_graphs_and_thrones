@@ -1,0 +1,29 @@
+{{Crew
+|Image = Daniel Awde.jpg
+|dateofbirth = {{WPS|22 June}} {{WPS|1988}}
+|birthplace = {{WPS|Hammersmith}}, {{WPS|London}}
+|job = Stunt Performer
+|imdb = http://www.imdb.com/name/nm5977344
+|twitter = https://twitter.com/chazatronic}}
+'''Daniel "Dan" Awde''' (born 22 June 1988) is a British 400 metres runner and former decathlete who has twice competed at the {{WPS|Summer Olympic Games}}.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 8|eighth season]] episode "[[The Bells]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 8|||||yes}}
+
+==See also==
+*{{WP}}
+*{{IMDb
+|# = 4848015}}
+*{{Twitter
+|# = gbdawde}}
+*{{Instagram
+|# = gbdawde}}
+*{{Facebook
+|# = daniel.awde.5}}
+
+==References==
+{{reflist}}{{DEFAULTSORT:Awde, Daniel}}
+[[Category:Stunt performers of Game of Thrones]]

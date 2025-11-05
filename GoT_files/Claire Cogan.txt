@@ -1,0 +1,30 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Claire Cogan.jpg
+| Birth   = Coleraine, Londonderry, Northern Ireland
+| Death   = 
+| Role    = Ratcatcher mother
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]]
+| Credits = "[[Rhaenyra the Cruel]]"
+| First   = 
+| Last    = 
+}}
+'''Claire Cogan''' is a Northern Irish actress.
+
+Cogan plays a ratcatcher mother in the [[House of the Dragon: Season 2|second season]] of ''[[House of the Dragon]]''.<ref>https://redanianintelligence.com/2023/09/30/every-new-cast-member-house-of-the-dragon-season-2/</ref>
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 2||yes}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb|#=1071602}}
+
+<!--Categories-->
+{{DEFAULTSORT:Cogan, Claire}}
+[[Category:Co-starring cast members of House of the Dragon]]

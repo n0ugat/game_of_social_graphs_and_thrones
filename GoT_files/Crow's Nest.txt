@@ -1,0 +1,45 @@
+{{Canonicity|Canon}}
+{{MapNeeded}}
+{{Heraldry
+| Image = House Morrigen.svg
+| Link  = House Morrigen
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Baratheon
+| Image        = 
+| Type         = Castle
+| Status       = 
+| Location     = The [[Stormlands]], [[Westeros]]
+| Population   = 
+| Rulers       = [[House Morrigen]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Crow's Nest'''{{Ref|GOT105}} is a castle in the [[Stormlands]], the region controlled by [[House Baratheon]] of [[Storm's End]]. The castle is located in a wooded area east of [[Blackhaven]].<ref>"[[The Wolf and the Lion]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Crow's Nest is the seat of House Morrigen.
+
+In ''A Dance with Dragons'', a force of the [[Golden Company]] captures Crow's Nest on behalf of the presumed-dead [[Aegon Targaryen (son of Elia Martell)|Aegon Targaryen]], the son of Rhaegar and Elia who has returned to Westeros to claim the [[Iron Throne]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Stormlands}}
+
+<!--Categories-->
+[[Category:Castles of the Stormlands]]
+[[Category:House Morrigen]]
+
+<!--Languages-->
+[[de:Krähenhorst]]
+[[pl:Wronie Gniazdo]]
+[[ru:Воронье Гнездо]]

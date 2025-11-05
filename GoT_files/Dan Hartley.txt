@@ -1,0 +1,23 @@
+{{Crew
+|Image = 
+|dateofbirth = 
+|birthplace = 
+|job = Stunt Performer
+|imdb = http://www.imdb.com/name/nm7300842
+|twitter = }}
+'''Dan Hartley''' is a stuntman.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 8|eighth season]] episode "[[The Bells]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 8|||||yes}}
+
+==See also==
+*{{IMDb
+|# = 7300842}}
+
+==References==
+{{reflist}}
+{{DEFAULTSORT:Hartley, Dan}}
+[[Category:Stunt performers of Game of Thrones]]

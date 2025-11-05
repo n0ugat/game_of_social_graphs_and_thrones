@@ -1,0 +1,32 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Dave Judge.jpg
+| Birth   = 
+| Death   = 
+| Role    = Stunt rigger
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 8|8]]
+| Credits = 2 episodes {{Below|Credits}}
+| First   = "[[Winterfell (Game of Thrones)|Winterfell]]"
+| Last    = "[[The Long Night]]"
+}}
+'''David Judge''' is a stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt rigger in the [[Game of Thrones: Season 8|eighth season]] episodes "[[Winterfell (Game of Thrones)|Winterfell]]" and "[[The Long Night]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 8|yes||yes}}
+
+==See also==
+*{{IMDb
+|# = 0431896}}
+*{{YouTube
+|# = channel/UC-4kfDcgOndh-bBx5TaliXw}}
+*{{Vimeo
+|# = user4735743}}
+*{{Linkedin
+|# = /in/dave-judge-3295817}}
+{{DEFAULTSORT:Judge, Dave}}
+[[Category:Stunt performers of Game of Thrones]]

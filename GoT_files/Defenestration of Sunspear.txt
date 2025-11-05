@@ -1,0 +1,70 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Westeros
+| Part          = the [[First Dornish War]]
+| Image         = Uprising in Sunspeare.png
+| Previous      = [[Occupation of Sunspear]]
+| Concurrent    = 
+| Next          = [[Assault on Oldtown]]
+| Date          = 
+| Place         = [[Sunspear]], [[Dorne]]
+| Outcome       = Strategic [[House Martell|Dornish]] victory
+*Dornish army overthrows the Targaryen occupation
+| Factions1     = [[File:House Targaryen.svg|30px|center|link=House Targaryen]] '''[[Iron Throne]]'''<br><small>([[House Targaryen]])</small>
+| Factions2     = [[File:House Martell.svg|30px|center|link=House Martell]] '''[[Dorne]]'''<br><small>([[House Martell]])</small>
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = {{COA|House Rosby|i}} Lord [[House Rosby|Rosby]]
+| Leaders2      = {{COA|House Martell|i}} [[Prince of Dorne|Princess]] [[Meria Martell]]<br><small>(absent)</small>
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = Targaryen army
+| Participants2 = Dornish army
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = Moderate to heavy
+| Casualties2   = Low to moderate
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Quote|Unopposed, Aegon claimed Dorne for his own, but as soon as he returned to King's Landing, his castellans were hurled off towers and his royal garrison vanished in the desert, never to be seen again. Except perhaps when the winds change and the sands cough up old bones and armor.|[[Varys]]|House Martell, Princes of Dorne}}
+The '''Defenestration of Sunspear'''{{Con|F&B}} was the opening act of the [[Dorne|Dornish]] [[First Dornish War|campaign]] to oppose the rule of [[Aegon I Targaryen]]. The Dornish army assaulted the garrisons Aegon had left behind in the castles that they occupied in [[Dorne]], effectively overthrowing the Targaryen occupation.
+
+==History==
+===Prelude===
+Following the coronation of [[Aegon I Targaryen|Aegon the Conqueror]]  at the [[Starry Sept]], [[Rhaenys Targaryen (sister of Aegon I)|Rhaenys]] returned to Dorne on [[Meraxes]] to subdue Dorne definitively. This time, Aegon and [[Visenya Targaryen]], atop their dragons, joined her. However, when they reached the city, they found it empty, as Dorne knew that it would be unwise to engage against three dragons and thus had the armies retreat into the desert. Believing themselves victorious, Aegon installed a royal garrison in [[Sunspear]] and [[Castellan|castellans]] for each Dornish stronghold, while [[House Targaryen]] ruled from [[King's Landing]] to a supposedly united Seven Kingdoms.
+
+===The battle===
+When Aegon and his sister-wives departed for King's Landing, the hiding Dornishmen revolted against the Targaryen occupation force. They began throwing castellans off the towers of Sunspears and the other castles of Dorne, while the Targaryen royal garrison was driven into the Dornish deserts and left to the mercy of the elements.<ref>"[[House Martell, Princes of Dorne]]"</ref>
+
+===Aftermath===
+Rhaenys returned on Meraxes, intent on avenging herself against [[Meria Martell]], but this time, Dorne was no longer empty. The Dornish kept Meria's promise and fought even while burning under dragon flame, eventually managing to fell Meraxes and Rhaenys in battle.
+
+==In the books==
+Aegon the Conqueror and Rhaenys had only just returned to King's Landing when the Dornish rebelled against the Targaryens. From Sunspear's shadow city Dornishmen came forth, retaking the castle. Lord [[Rosby]] was captured, and thrown from a window atop the [[Spear Tower]] by none other than Princess Meria Martell. In 5 AC, Lord Harlan Tyrell marched his army from Hellholt, intend on taking both Sunspear and the Dornish castle Vaith. However, he and his army disappeared in the deserts of Dorne and they were never seen again.
+
+Elsewhere, entire garrisons were put to the sword. The knights who had been in charge of the garrisons were horrifically tortured and mutilated. The lord of House Wyl, called the Wyl of [[Wyl]] and the Widow-lover, eventually agreed to ransom back Lord [[Orys Baratheon]] and the other captured lords. In 7 AC, the captives were ransomed back for each man's weight in gold and set free. However, the savage Wyl of Wyl had their sword hands amputated, so they could "never take up arms against Dorne again". Because of this experience, Orys became bitter and vengeful, and resigned from his office as [[Hand of the King]].
+
+Intent on revenge, King Aegon I unleashed his dragons. The castles who remained defiant were burned time and time again, whereupon the Dornish retaliated in 8 AC by setting ablaze half the [[Rainwood]] on Cape Wrath and sacked half a dozen towns and villages.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|Defenestration of Sunspear}}
+
+<!--Navboxes-->
+{{Wars of Conquest}}
+
+<!--Categories-->
+[[Category:Battles]]
+[[Category:First Dornish War]]
+
+<!--Languages-->
+[[ru:Восстание в Солнечном Копье]]

@@ -1,0 +1,69 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = House Casterly.svg
+| Link  = House Casterly
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Westeros
+| Image       = House Casterly founder.png
+| Birth       = [[Age of Heroes]]
+| Death       = 
+| House       = [[House Casterly|Casterly]]
+| Affiliation = 
+| Titles      = [[Lord of Casterly Rock]]
+| Predecessor = 
+| Successor   = 
+| AKA         = The Huntsman
+| Culture     = [[First Men]]
+| Religion    = [[Old Gods]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Someone found enough gold in that cave to buy whatever truth he wanted, along with a castle that he'd name after his new family: Casterly Rock.|[[Jaime Lannister]]|Casterly Rock (short)}}
+'''Corlos'''{{Con|TWOI&F}} was the founder of [[House Casterly]] and the builder of [[Casterly Rock]].
+
+==Biography==
+According to legend, a huntsman tracked a [[lion]] that was terrorizing his village to a cave on the coast of the [[Westerlands]]. He killed both the lion and its mate, but spared the cubs. This pleased the [[Old Gods]], and they sent a beam of sunlight deep into the cave, turning the stone walls to gold. He began mining the gold, and built a fort at the top of the mountain at which the gold mine was buried under. This fort would become a castle, and it would be known as [[Casterly Rock]] - named in honor of the huntsman's new [[Noble house|house]], [[House Casterly]]. With his new wealth and power, he ruled the Westerlands from his new home, and so did his descendants for hundreds of years until the castle was swindled from them by [[Lann the Clever]].{{Ref|H&L703}}
+
+==In the books==
+In ''[[The World of Ice & Fire]]'', Corlos's story is the same. His father was Caster, the namesake of House Casterly.
+
+==Appearances==
+*{{H&L|Casterly Rock}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Casterly}}
+
+<!--Categories-->
+[[Category:First Men]]
+[[Category:House founders]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Legendary figures]]
+[[Category:Lords of Casterly Rock]]
+[[Category:Members of House Casterly]]
+
+<!--Languages-->
+[[fr:Corlos]]
+[[ru:Корлос]]

@@ -1,0 +1,65 @@
+{{Canonicity|Canon}}
+{{Spoiler|AKOTSK}}
+{{Heraldry
+| Image = House Lannister.svg
+| Link  = House Lannister
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Lannister
+| Image       = 
+| Birth       = [[Casterly Rock]]
+| Death       = 
+| House       = [[House Lannister|Lannister]]{{Ref|GOT401}}
+| Affiliation = [[House Targaryen]]
+| Titles      = [[Lord of Casterly Rock]]<br>[[Warden of the West]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Westerlands|Westermen]]
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = {Daughter}{{Ref|GOT401}}
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+Lord '''Damon Lannister''' is the [[Lord of Casterly Rock]] during the reign of [[Daeron II Targaryen]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Lord Damon is a renowned tourney knight, even when ruling as Lord of Casterly Rock. He has two sons, Tybolt and Gerold. Damon is the great-grandfather of [[Tywin Lannister]] and the great-great-grandfather of [[Tyrion Lannister|Tyrion]], [[Jaime Lannister|Jaime]], and [[Cersei Lannister]].
+
+==Appearances==
+*{{GOT|Two Swords}} {{Text}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Damon Lannister (lord)}} {{Spoilers|AKOTSK}}
+
+<!--Navboxes-->
+{{House Lannister}}
+
+<!--Categories-->
+{{DEFAULTSORT:Lannister, Damon}}
+[[Category:Bannermen of House Targaryen]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Lords of Casterly Rock|Damon Lannister]]
+[[Category:Members of House Lannister|Damon Lannister]]
+[[Category:Wardens of the West|Damon Lannister]]
+[[Category:Westermen]]
+
+<!--Languages-->
+[[de:Damon Lennister]]
+[[pl:Damon Lannister]]
+[[ru:Деймон Ланнистер]]
+[[zh:达蒙·兰尼斯特]]

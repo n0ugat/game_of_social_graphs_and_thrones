@@ -1,0 +1,65 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{OtherUses|Grand Maester|Desmond (disambiguation)}}
+{{Heraldry
+| Image = Order of Maesters.svg
+| Link  = Order of Maesters
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Citadel
+| Image       = Desmond.png
+| Birth       = 
+| Death       = [[Execution|Beheaded]] by [[Maegor Targaryen]]
+| House       = 
+| Affiliation = [[Order of Maesters]]<br>[[House Targaryen]]
+| Titles      = [[Grand Maester]]
+| Predecessor = {[[Myros]]}
+| Successor   = {[[Benifer]]}
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|The third Grand Maester dared to declare Maegor the father of his own heir.|[[Varys]]|Maegor the Cruel (short)}}
+'''Desmond'''{{Con|TWOI&F}} was [[Grand Maester]] during the reign of [[Maegor Targaryen|Maegor the Cruel]]. He was the last of three Grand Maesters [[Execution|executed]] by Maegor.
+
+==Biography==
+Desmond was beheaded by King Maegor for declaring the king the father of his child, having delivered the stillborn child of Maegor and [[Alys Harroway|Queen Alys]].{{Ref|H&L806}}
+
+==In the books==
+In ''The World of Ice & Fire'' and ''Fire & Blood'', Desmond assisted in the delivery of the deformed stillborn child of King Maegor and Alys Harroway. Maegor blamed everyone who had assisted in the delivery, and ordered several executions, Desmond included.
+
+In ''A Storm of Swords'', [[Tyrion Lannister|Tyrion]] mentions that Maegor the Cruel's headsman unmade three Grand Maesters with his axe (without mentioning their names). This is the only reference in the ''[[A Song of Ice and Fire]]'' novels to Desmond, alongside [[Gawen]] and [[Myros]].
+
+==Appearances==
+*{{H&L|Maegor the Cruel}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|Desmond (Grand Maester)}}
+
+<!--Categories-->
+[[Category:Grand Maesters]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Servants and retainers of House Targaryen]]
+
+<!--Languages-->
+[[ru:Десмонд]]

@@ -1,0 +1,33 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Tyrell
+| Image        = 
+| Type         = 
+| Status       = 
+| Location     = [[Reach]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = 
+| Places       = 
+| Founded      = 
+}}
+'''Cobble Cove'''{{Ref|THTDB201}} is a place in the [[Reach]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Cobble Cove once belonged to [[House Osgrey]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Reach}}
+
+<!--Categories-->
+[[Category:House Osgrey]]
+[[Category:Reach]]

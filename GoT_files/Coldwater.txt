@@ -1,0 +1,31 @@
+{{Canonicity|Canon}}
+{{Stub}}
+{{References}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Arryn
+| Image        = 
+| Type         = Castle
+| Status       = 
+| Location     = The [[Vale of Arryn]], [[Westeros]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Coldwater'''<ref>[[:File:Cersei Westeros Map Puzzle.jpg]]</ref> is a castle in the [[Vale of Arryn]]. It is located near the [[Fingers]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Coldwater Burn}}
+
+<!--Navboxes-->
+{{Vale of Arryn}}
+
+<!--Categories-->
+[[Category:Castles of the Vale of Arryn]]

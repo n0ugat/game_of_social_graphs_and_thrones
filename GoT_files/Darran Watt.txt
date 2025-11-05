@@ -1,0 +1,26 @@
+{{Cast
+| Title = Darran Watt
+| Image = Darran_Watt.jpg
+| dateofbirth = 
+| birthplace = {{WPS|Northern Ireland}}
+| role = Soldier
+| status = 
+| Appearances = 
+| First = "[[What Is Dead May Never Die]]"
+| Last = "[[The Rains of Castamere (episode)|The Rains of Castamere]]"
+| imdb = http://www.imdb.com/name/nm4580808/
+| twitter = }}
+'''Darran Watt''' is a Northern Irish actor.
+
+In ''[[Game of Thrones]]'', he portrayed a Soldier.
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 2|||yes|yes|||||yes}}
+{{Game of Thrones: Season 3|||||||||yes}}
+
+==See also==
+*{{IMDb
+|# = 4580808}}
+{{DEFAULTSORT:Watt, Darran}}
+[[Category:Uncredited cast members of Game of Thrones]]

@@ -1,0 +1,35 @@
+{{Crew
+| Title= David Petrarca
+| Image= David Petrarca.jpg
+| dateofbirth= 10 November, 1965
+| birthplace= Warwick, Rhode Island, USA
+| job= Director
+| imdb=http://www.imdb.com/name/nm0007008/
+| twitter=https://twitter.com/Davidpetrarca
+}}
+'''David Petrarca''' (born 10 November 1965) is an American Online Film & Television Association winner director and producer, working in theatre, film and television. His only film credit is ''[[wikipedia:Save the Last Dance 2|Save the Last Dance 2]]'', but his TV credits include ''[[wikipedia:Studio 60 on the Sunset Strip|Studio 60 on the Sunset Strip]]'', ''[[wikipedia:Dawson's Creek|Dawon's Creek]]'' and ''[[wikipedia:Eli Stone|Eli Stone]]''. He is most notable for his work for [[HBO]], having directed episodes of ''[[wikipedia:True Blood|True Blood]]'', ''[[wikipedia:Hung (TV series)|Hung]]'', ''[[wikipedia:Big Love|Big Love]]'' and ''[[wikipedia:Boardwalk Empire|Boardwalk Empire]]''.
+
+For ''[[Game of Thrones]]'', Petrarca directed episodes of the series starting in its [[Game of Thrones: Season 2|second season]].
+
+==Credits==
+===Director===
+{{Game of Thrones: Season 2||||yes|yes}}
+
+==See also==
+*{{WP}}
+*{{Template:IMDb
+|# = 0007008}}
+*{{Twitter|# = Davidpetrarca}}
+* [http://www.quickflix.com.au/news/interviews/DavidPetrarca An interview with David Petrarca about his work on the series.]
+
+<!--Navboxes-->
+{{Game of Thrones: Inside the Episode}}
+
+<!--Categories-->
+{{DEFAULTSORT:Petrarca, David}}
+[[Category:Commentators of Game of Thrones: Inside the Episode]]
+[[Category:Directors of Game of Thrones]]
+
+<!--Languages-->
+[[de:David Petrarca]]
+[[ru:Дэвид Петрарка]]

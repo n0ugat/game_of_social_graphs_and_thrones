@@ -1,0 +1,47 @@
+{{Canonicity|Canon}}
+{{Organization
+| Title       = {{PAGENAME}}
+| Theme       = Citadel
+| Image       = 705-Conclave.png
+| Type        = Ruling council
+| Status      = Active
+| Symbol      = 
+| Words       = 
+| Center      = [[Citadel]], [[Oldtown]]
+| Leader      = 
+| Affiliation = [[Order of Maesters]]
+| Religion    = 
+| Military    = 
+| Founded     = 
+}}
+{{Quote|The Raven arrived from the Citadel this morning, Your Grace.  The Conclave has met, considered reports from maesters all over the Seven Kingdoms, and declared this great summer done at last. The longest summer in living memory.|[[Grand Maester]] [[Pycelle]] to [[King|Queen]] [[Cersei Lannister|Cersei]]|The North Remembers}}
+The '''Conclave'''{{Ref|GOT201}} is the ruling council of the [[Order of Maesters]]. It is composed of the assembled [[archmaester]]s, the highest-ranking members of the order. It is based in the [[Citadel]] in [[Oldtown]].
+
+==History==
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+[[Image:WhiteRaven.jpg|thumb|Pycelle presents a white raven sent by the Conclave to the Small Council.]]
+The Conclave meets in Oldtown to discuss the changing weather patterns. They agree that summer has ended and that autumn has arrived. As is traditional, they send this news to all corners of Westeros with special white [[raven]]s. [[Pycelle]] relays this news to the [[Small Council]], prompting them to start tallying the supplies and stores the people of the Seven Kingdoms have put aside for the coming winter.<ref>"[[The North Remembers]]"</ref>
+
+===[[Game of Thrones: Season 7|''Game of Thrones'': Season 7]]===
+The Conclave members read [[Bran Stark|Bran]]'s message warning of the [[Wight|Army of the Dead]], but are dismissive of his account. [[Samwell Tarly|Sam]], present only to swap out some books, vouches for Bran and tells the Maesters that Bran spent several years surviving in the wilds alone. Archmaester [[Sandhu]] mockingly tells Sam to practice with inscribing instead of entertaining myths and fables. Sam counters that they should use their position as Maesters to warn the people to prepare for the coming Night. Archmaester [[Ebrose]] opines that Bran's message could be genuine, but could be disinformation spread by [[Daenerys Targaryen|Daenerys]]. The Maesters agree to send a letter to Maester [[Wolkan]] at [[Winterfell]] to investigate Bran's claims further, but as they compare them to the works of [[Jenny of Oldstones]] and [[Lodos]], they are skeptical. After Sam leaves, one of the other Archmaesters asks if it is true that [[Randyll Tarly|Sam's father]] and [[Dickon Tarly|brother]] were recently burned alive. Ebrose confirms this, and admits that he hasn't had the heart to tell Sam yet.<ref>"[[Eastwatch]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the Conclave is made up of the ruling archmaesters of the Citadel. In addition to discussing the change of seasons the Conclave also elects the new [[Grand Maester]] after the passing of the old, decides on policies, and attends to the administration of the Citadel as well as the training of new recruits. The Conclave also appoints the Seneschal, the maester who has to run the bureaucracy of the Citadel on a day-to-day basis, which is considered drudgery.
+
+Much like the professors in a university faculty, each of the archmaesters is the foremost expert in a specific field, such as the archmaester of medicine or the archmaester of economics, etc. This is in contrast with the ruling council of the [[Faith of the Seven]], the Most Devout, whose members have no official distinction between themselves. While each archmaester is thus not interchangeable, in theory each archmaester is equal, each casting one vote when electing a new Grand Maester. In practice, of course, archmaesters of certain areas of study are considered more prestigious than others. For example, the archmaesters of medicine or economics are held in high esteem, while archmaesters of obscure topics such as magic tend to be ostracized.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+[[Category:Archmaesters]]
+[[Category:Organizations]]
+
+<!--Languages-->
+[[de:Konklave]]
+[[fr:Conclave]]
+[[pt-br:Conclave]]
+[[ru:Конклав]]

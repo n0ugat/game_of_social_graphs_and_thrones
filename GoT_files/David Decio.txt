@@ -1,0 +1,28 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = David Decio.jpg
+| Birth   = December 31, 1980 {{Age|1980|12|31}}<br>London, England, United Kingdom
+| Death   = 
+| Role    = [[Lord Mooton]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = "[[King of the Narrow Sea (episode)|King of the Narrow Sea]]"
+| First   = 
+| Last    = 
+}}
+'''David Decio''' (born 31 December 1980) is an English actor and assistant director.
+
+In ''[[House of the Dragon]]'', he portrayed [[Lord Mooton]] in "[[King of the Narrow Sea (episode)|King of the Narrow Sea]]."<ref>https://www.instagram.com/p/CidR7nFKoGC/?igshid=MDJmNzVkMjY%3D</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb|#=nm1595786}}
+*{{Twitter|#=daviddecio}}
+*{{Instagram|#=daviddecio}}
+*{{Facebook|#=DavidDecio}}
+
+<!--Categories-->
+[[Category:Uncredited cast members of House of the Dragon]]

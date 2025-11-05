@@ -1,0 +1,36 @@
+{{Episode
+| Title    = {{PAGENAME}}
+| Type     = Podcast
+| Image    = TOGOTPHOTD116.jpg
+| Season   = 1
+| Episode  = 16
+| Date     = November 23, 2022{{Listref|TOGOTPHOTD}}
+| Runtime  = 1:00:09{{HBOref|TOGOTPHOTD}}
+| Writer   = 
+| Director = 
+| Year     = 
+| Previous = "[[The Sounds of Westeros with Ramin Djawadi]]"{{Listref|TOGOTPHOTD}}
+| Next     = "[[Gone Too Soon with Gavin Spokes, Nanna Blondell and Ryan Corr]]"{{Listref|TOGOTPHOTD}}
+}}
+"'''Creating The Realm with Amanda Knight and Jim Clay'''"{{HBOref|TOGOTPHOTD}} is the sixteenth episode of the [[The Official Game of Thrones Podcast: House of the Dragon: Season 1|first season]] of ''[[The Official Game of Thrones Podcast: House of the Dragon]]''. It is the sixteenth episode of the series overall. It was released on November 23, 2022.
+
+==Description==
+{{Description|TOGOTPHOTD116}}
+
+==Gallery==
+<gallery bordersize="none">
+HOTD: Official Podcast “Creating The Realm” / House of the Dragon (HBO)
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{HBO Max|video/watch/PROM708270/PROM1182004|The Official Game of Thrones Podcast - Creating The Realm}}
+
+<!--Navboxes-->
+{{The Official Game of Thrones Podcast: House of the Dragon}}
+
+<!--Categories-->
+[[Category:Episodes of The Official Game of Thrones Podcast: House of the Dragon: Season 1| 16]]
+[[Category:Episodes released in 2022|B.23]]

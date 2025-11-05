@@ -1,0 +1,27 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = David Cann.jpg
+| Birth   = November 12, 1956 {{Age|1956|11|12}}<br>Westminster, London, England
+| Death   = 
+| Role    = Dragonkeeper
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = "[[The Heirs of the Dragon]]"
+| First   = 
+| Last    = 
+}}
+'''David Cann''' (born November 12, 1956) is an English actor. He has appeared in the films ''{{WPS|Nineteen Eighty-Four (1984 film)|Nineteen Eighty-Four}}'', ''{{WPS|Bridget Jones's Diary (film)|Bridget Jones's Diary}}'', ''{{WPS|Run Fatboy Run}}'', ''{{WPS|Attack the Block}}'', ''{{WPS|The Iron Lady (film)|The Iron Lady}}'', ''{{WPS|Les Misérables (2012 film)|Les Misérables}}'' and ''{{WPS|Rebecca (2020 film)|Rebecca}}'' and the television series ''{{WPS|The Tomorrow People}}'', ''{{WPS|Shine on Harvey Moon}}'', ''{{WPS|Grange Hill}}'', ''{{WPS|Black Books}}'', ''{{WPS|The Bill}}'', ''{{WPS|Bad Girls (TV series)|Bad Girls}}'', ''{{WPS|Benidorm (British TV series)|Benidorm}}'', ''{{WPS|Two Pints of Lager and a Packet of Crisps}}'', ''{{WPS|EastEnders}}'', ''{{WPS|Bad Education (TV series)|Bad Education}}'', ''{{WPS|Silent Witness}}'', ''{{WPS|Doctors (2000 TV series)|Doctors}}'', ''{{WPS|Killing Eve}}'', and ''{{WPS|Sex Education (TV series)|Sex Education}}''.
+
+In ''[[House of the Dragon]]'', he portrayed a dragonkeeper in the [[House of the Dragon: Season 1|first season]].
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1|yes}}
+
+==See also==
+*{{IMDb|# = 0134025}}
+
+<!--Categories-->
+{{DEFAULTSORT:Cann, David}}
+[[Category:Co-starring cast members of House of the Dragon]]

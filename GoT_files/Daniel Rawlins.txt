@@ -1,0 +1,27 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Daniel Rawlins.jpg
+| Birth   = 
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]] {{*}} [[House of the Dragon: Season 2|2]]
+| Credits = 7 episodes {{Below|Credits}}
+| First   = "[[Second of His Name]]"
+| Last    = 
+}}
+'''Daniel Rawlins''' is a stuntman.
+
+In ''[[House of the Dragon]]'', he was a stunt performer in the [[House of the Dragon: Season 1|first season]] episode "[[Second of His Name]]" and the [[House of the Dragon: Season 2|second season]] episodes "[[A Son for a Son]]", "[[Rhaenyra the Cruel]]", "[[The Burning Mill]]", "[[The Red Dragon and the Gold]]", "[[The Red Sowing]]" and "[[The Queen Who Ever Was]]".
+
+==Credits==
+===Stunts===
+{{House of the Dragon: Season 1|||yes}}
+{{House of the Dragon: Season 2|yes|yes|yes|yes|||yes|yes}}
+
+==See also==
+*{{IMDb
+|# = 11435186}}
+{{DEFAULTSORT:Rawlins, Daniel}}
+[[Category:Stunt performers of House of the Dragon]]

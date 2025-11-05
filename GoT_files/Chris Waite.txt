@@ -1,0 +1,27 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Chris Waite.jpg
+| Birth   = 
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]]
+| Credits = "[[Regent (episode)|Regent]]"
+| First   = 
+| Last    = 
+}}
+'''Christian Waite''' is a stuntman and actor.
+
+In ''[[House of the Dragon]]'', he was a stunt performer in the [[House of the Dragon: Season 2|second season]] episode "[[Regent (episode)|Regent]]".
+
+==Credits==
+===Stunts===
+{{House of the Dragon: Season 2|||||yes}}
+
+==See also==
+*{{IMDb
+|# = 7795631}}
+
+{{DEFAULTSORT:Waite, Chris}}
+[[Category:Stunt performers of House of the Dragon]]

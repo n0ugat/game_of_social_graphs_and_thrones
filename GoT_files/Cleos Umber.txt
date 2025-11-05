@@ -1,0 +1,71 @@
+{{Canonicity|Non}}
+{{Heraldry
+| Leftimage  = House Umber.svg
+| Leftlink   = House Umber
+| Rightimage = House Cerwyn.svg
+| Rightlink  = House Cerwyn
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Stark
+| Image       = Umber lineage.jpg
+| Birth       = At [[Last Hearth]]
+| Death       = 
+| House       = [[House Umber|Umber]]<br>[[House Cerwyn|Cerwyn]] {{C|by marriage}}{{Note|The daughter of Cleos and Vivian, Katrina, was born bearing the name Cerwyn. This most likely means that their marriage was matrilineal (meaning the husband marries into the wife's family, and their issue bears their mother's maiden name).}}
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Northmen|Northern]]
+| Religion    = [[Old Gods]]
+| Father      = 
+| Mother      = 
+| Spouse      = {[[Vivian Cerwyn]]}
+| Lovers      = 
+| Children    = {[[Katrina Umber]]}
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Cleos Umber''' was a member of [[House Umber]].
+
+==Biography==
+===Background===
+Cleos married [[Vivian Cerwyn]], with whom he had a daughter, [[Katrina Umber|Katrina]]. Katrina later married [[Joseth Umber]] and had two sons, [[Maynard Umber|Maynard]] and [[Cedric Umber|Cedric]].{{Ref|GOT104}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+He is mentioned in ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]''.{{Ref|GOT104}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no such character.
+
+==Appearances==
+*{{GOT|Cripples, Bastards, and Broken Things}} {{Text}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{House Umber}}
+
+<!--Categories-->
+{{DEFAULTSORT:Umber, Cleos}}
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Members of House Cerwyn|Cleos Umber]]
+[[Category:Members of House Umber|Cleos Umber]]
+[[Category:Northmen]]
+
+<!--Languages-->
+[[de:Cleos Umber]]
+[[es:Cleos Umber]]
+[[fr:Cleos Omble]]
+[[ru:Клеос Амбер]]

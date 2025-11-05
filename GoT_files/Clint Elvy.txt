@@ -1,0 +1,22 @@
+{{Crew
+|Image = Clint Elvy.jpg
+|dateofbirth = 
+|birthplace = 
+|job = Stunt Performer<br>Stunt Supervisor<br>Fire Safety Technician
+|imdb = https://www.imdb.com/name/nm1135992/
+|twitter = }}
+'''Clinton Elvy''' is a stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 5|fifth season]] episodes "[[The House of Black and White]]", "[[Sons of the Harpy (episode)|Sons of the Harpy]]", "[[Kill the Boy]]", "[[Unbowed, Unbent, Unbroken]]", "[[The Gift]]", "[[Hardhome (episode)|Hardhome]]", "[[The Dance of Dragons (episode)|The Dance of Dragons]]" and "[[Mother's Mercy]]", the [[Game of Thrones: Season 7|seventh season]] episodes "[[The Spoils of War]]" and "[[The Dragon and the Wolf]]" and the [[Game of Thrones: Season 8|eighth season]] episodes "[[The Long Night]]", a stunt supervisor in the [[Game of Thrones: Season 5|fifth season]] episode "[[The Wars To Come]]" and a fire safety technician in the [[Game of Thrones: Season 5|fifth season]] episode "[[Kill the Boy]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 5|yes|yes||yes|yes|yes|yes|yes|yes|yes}}
+{{Game of Thrones: Season 7||||yes|||yes}}
+{{Game of Thrones: Season 8|||yes}}
+
+==See also==
+*{{IMDb
+|# = 1135992}}
+{{DEFAULTSORT:Elvy, Clinton}}
+[[Category:Stunt performers of Game of Thrones]]

@@ -1,0 +1,37 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Kingdoms
+| Image   = Daniel Ings.jpg
+| Birth   = November 30, 1985 {{Age|1985|11|30}}<br>Wiltshire, England, United Kingdom
+| Death   = 
+| Role    = [[Lyonel Baratheon]]
+| Series  = ''[[A Knight of the Seven Kingdoms]]''
+| Season  = [[A Knight of the Seven Kingdoms: Season 1|1]]
+| Credits = 
+| First   = 
+| Last    = 
+}}
+'''Daniel Ings''' (born 30 November 1985) is an English actor.
+
+Ings portrays [[Lyonel Baratheon]] in ''[[A Knight of the Seven Kingdoms]]''.{{Webref|name=FirstLook |author=Nick Romano |date=June 18, 2024 |url=https://ew.com/game-of-thrones-a-knight-of-the-seven-kingdoms-first-look-cast-confirmed-8665658 |title=''Game of Thrones'' spinoff unveils its Hedge Knight in first look at ''A Knight of the Seven Kingdoms'' |website=Entertainment Weekly |access-date=June 18, 2024}}
+
+==Credits==
+===Starring===
+{{A Knight of the Seven Kingdoms: Season 1}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{WP}}
+*{{IMDb|#=3958526}}
+
+<!--Navboxes-->
+{{A Knight of the Seven Kingdoms}}
+
+<!--Categories-->
+{{DEFAULTSORT:Ings, Daniel}}
+[[Category:Starring cast members of A Knight of the Seven Kingdoms]]
+
+<!--Languages-->
+[[pl:Daniel Ings]]

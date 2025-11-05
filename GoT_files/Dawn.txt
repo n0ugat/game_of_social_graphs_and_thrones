@@ -1,0 +1,63 @@
+{{Canonicity|Canon}}
+{{Object
+| Title    = {{PAGENAME}}
+| Type     = Martell
+| Image    = 603 Dawn.png
+| Material = "Fallen star" metal
+| Maker    = 
+| Owner    = "The [[Sword of the Morning]]" {{C|[[House Dayne]]}}
+| Status   = 
+}}
+{{Quote|Legend has it that the Dornish founder of House Dayne followed a falling star to where it hit the ground. And there, he raised his castle. A fantastic story, I know, but House Dayne has a relic to prove it. Dawn. The most famous sword in Westeros.|[[Eddard Stark]]|House Dayne (short)}}
+'''Dawn''',{{Ref|GOT401}} also known as the '''Dawn Blade''',{{Ref|GOT806}} is the ancestral sword of [[House Dayne]]. The sword's bearer is a [[Knighthood|knight]] of the family, who bears the title of the "[[Sword of the Morning]]."
+
+During the reign of the [[Aerys II Targaryen|Mad King]], [[Knighthood|Ser]] [[Arthur Dayne]] of the [[Kingsguard]] bore Dawn. Lord [[Eddard Stark]] returned the sword to [[Starfall]] after the coronation of [[Robert Baratheon]].<ref>"[[House Dayne (short)|House Dayne]]"</ref>
+
+==History==
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+[[File:BookOfBrothersDayne.jpg|thumb|180px|Ser Arthur Dayne's entry in the ''Book of Brothers'' mention Dawn.]]
+Dawn is mentioned by [[Joffrey Baratheon|Joffrey]] as he reads Arthur Dayne's entry in the ''[[Book of Brothers]]''.<ref>"[[Two Swords]]"</ref>
+
+===[[Game of Thrones: Season 6|''Game of Thrones'': Season 6]]===
+[[File:Screen_Shot_2016-05-09_at_1.16.28_AM.png|thumb|180px|Ser [[Arthur Dayne]] with Dawn prior to his final fight with [[Eddard Stark]] and his companions.]]
+In a vision witnessed by [[Bran Stark|Bran]] and [[Brynden Rivers]], Ser Arthur wields Dawn alongside a second sword in his fight against Eddard and his bannermen during their [[Skirmish at the Tower of Joy|encounter]], slaying most of them and wounding [[Howland Reed]]. He duels with and disarms Ned, but before he can kill him, Howland kills him. Ned then takes up Dawn and slays the mortally wounded knight with his own blade.<ref>"[[Oathbreaker]]"</ref>
+
+When Bran continues his vision of the [[Tower of Joy]] some weeks later, he sees Ned holding Dawn, still covered in Ser Arthur's blood, as he climbs the stairs of the Tower of Joy. Ned then rests the sword at the foot of the bed in which [[Lyanna Stark]] is lying.<ref>"[[The Winds of Winter]]"</ref>
+
+===[[Game of Thrones: Season 8|''Game of Thrones'': Season 8]]===
+As [[Brienne of Tarth|Brienne]] flicks through the ''Book of Brothers'', the entry for Ser Arthur references Dawn.<ref>"[[The Iron Throne]]"</ref>{{Note|Misspelled as "Daww."}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Dawn was forged from the metal of a "fallen star" (most likely a meteorite). Its blade is as pale as milkglass and is said to be just as sharp as [[Valyrian steel]].
+
+After the showdown at the Tower of Joy, Eddard returned the blade to House Dayne at [[Starfall]]; he presumably does this in the TV series as well, as he makes sure to take the sword with him when he leaves the battle.
+
+According to [[George R.R. Martin]], Dawn remains at [[Starfall]] castle during the [[War of the Five Kings]], because no new warrior of House Dayne has yet proven himself worthy to wield it as a new Sword of the Morning.<ref>[https://www.westeros.org/Citadel/SSM/Entry/Valyria_related_Subjects/ So Spake Martin, January 01, 2002]</ref> Martin stated that if he could wield a sword, he would choose Dawn, because it was made from a falling star and "who knows what magical properties a falling star has."<ref>[https://www.westeros.org/Citadel/SSM/Month/2019/08/ So Spake Martin, August 08, 2019]</ref>
+
+In the novels, Dawn is a Greatsword similar to [[Ice]], which Ser Arthur wields with both hands, whereas in the show, the Greatsword (which seems to be scaled down in order for the actor to work with two swords at once) is wielded alongside a second blade in the off-hand in order to display Arthur's skill at swordsmanship. There is no mention in the novels that Ser Arthur ever used Dawn in this fashion. It's possible that the showrunners made this change to demonstrate Arthur's exceptional swordsmanship without having to resort to exposition.
+
+==Appearances==
+*{{GOT|Two Swords}} {{Text}}
+*{{GOT|Oathbreaker}} {{Vision}}
+*{{GOT|The Winds of Winter}} {{Vision}}
+*{{H&L|House Dayne}} {{Illustrated}}
+*{{GOT|The Iron Throne}} {{Text}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+[[Category:House Dayne]]
+[[Category:Swords]]
+
+<!--Languages-->
+[[de:Dämmerung]]
+[[fr:Aube]]
+[[pl:Świt]]
+[[zh:黎明]]

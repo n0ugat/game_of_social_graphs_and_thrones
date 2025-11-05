@@ -1,0 +1,87 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Dragon
+| Part          = the [[Dance of the Dragons]]
+| Image         = TGC Aegon II Coronation Still.jpg
+| Previous      = [[Year of the Red Spring]]
+| Concurrent    = 
+| Next          = [[Fight above Shipbreaker Bay]]
+| Date          = [[132 AC]]{{Dateref|The Green Council}}
+| Place         = [[King's Landing]]
+| Outcome       = Prince [[Aegon II Targaryen|Aegon]] crowned [[King of the Andals and the Rhoynar and the First Men]]
+| Factions1     = {{COA|Greens|s}} [[Greens]]
+| Factions2     = {{COA|Blacks|s}} [[Blacks]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = [[Green Council]]:<br>{{COA|House Hightower/House of the Dragon|inline}} Ser [[Otto Hightower]]<br>{{COA|House Hightower/House of the Dragon|inline}} Queen [[Alicent Hightower]]<br>{{COA|House Lannister/House of the Dragon|inline}} Ser [[Tyland Lannister]]<br>{{COA|House Wylde|inline}} Lord [[Jasper Wylde]]<br>{{COA|Order of Maesters|inline}} Grand Maester [[Orwyle]]<br>{{COA|Kingsguard/House of the Dragon|inline}} Ser [[Criston Cole]]
+| Leaders2      = None
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = {{COA|City Watch of King's Landing/House of the Dragon|i}} [[City Watch of King's Landing/House of the Dragon|City Watch of King's Landing]]<br>{{COA|Kingsguard/House of the Dragon|i}} [[Kingsguard/House of the Dragon|Kingsguard]]<br>{{COA|House Strong|inline}} Lord [[Larys Strong]]<br>{{COA|Kingsguard/House of the Dragon|inline}} Ser [[Arryk Cargyll]]<br>{{COA|House Targaryen/House of the Dragon|inline}} Prince [[Aemond Targaryen]]<br>[[Mysaria]]<br>{{COA|Faith of the Seven|inline}} Septon [[Eustace]]
+| Participants2 = {{COA|Kingsguard/House of the Dragon|inline}} Ser [[Erryk Cargyll]]<br>{{COA|House Velaryon|inline}} Princess [[Rhaenys Targaryen]]<br>[[Meleys]]
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = None
+| Casualties2   = Lord [[Lyman Beesbury]]<br>Lord [[Allun Caswell]]
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = Dozens
+}}
+{{Quote|Then we may proceed now with the full assurance of his blessing on our long-laid plans.|[[Tyland Lannister]]|The Green Council}}
+In [[132 AC]],{{Dateref|The Green Council}} a '''coup''' was staged in [[King's Landing]] by the [[Greens]] following the death of King [[Viserys I Targaryen]], resulting in the political faction seizing power and control in the capital. Their efforts culminated in the coronation of Prince [[Aegon II Targaryen|Aegon Targaryen]] as King Aegon II, over his late father's designated heir, Princess [[Rhaenyra Targaryen]], instigating the start of the [[Dance of the Dragons]].
+
+==History==
+===Prelude===
+In [[112 AC]],{{Dateref|The Heirs of the Dragon}} the lords of the Seven Kingdoms were made to swear oaths of fealty to [[Rhaenyra Targaryen]] as the named heir of King [[Viserys I Targaryen|Viserys I]].{{Ref|HOTD101}} However, the [[113 AC|following year]],{{Dateref|Aegon II Targaryen}}  Viserys fathered a son, [[Aegon II Targaryen|Aegon]], with his second wife, [[Alicent Hightower]],{{Ref|HOTD103}} raising questions amongst the nobility on whether Aegon would supersede Rhaenyra in the line of succession. Over time, many of the lords who had sworn oaths to Rhaenyra passed away, weakening support for the princess's claim.{{Ref|HOTD109}}
+
+Throughout Viserys's reign, two rival factions emerged in the royal court: the [[Blacks]] and the [[Greens]]. Both factions vied for power and influence in court and rallied behind the king's eldest children, Rhaenyra and Aegon respectively, and their claim to succeed him. The Blacks supported Rhaenyra's claim, citing Visery's decree naming her his heir as the [[Prince of Dragonstone|Princess of Dragonstone]]. The Greens, in contrast, supported Aegon's claim, citing the precedent of male-preference primogeniture widely practiced in the [[Seven Kingdoms]].{{Ref|HOTD103}}
+
+As Viserys's health began to fail in the final years of his reign, his [[Hand of the King]], Ser [[Otto Hightower]], embarked on a covert campaign to secure the throne for Aegon. With the support of his allies on the [[Small Council]], he plotted to supplant Rhaenyra with Aegon as king upon Viserys's eventuall passing. Under Otto's leadership, the Greens strategically secured the allegiance of a number of noble houses and placed loyal allies in key positions, such as the [[Kingsguard/House of the Dragon|Kingsguard]] and the [[City Watch of King's Landing/House of the Dragon|City Watch of King's Landing]].{{Ref|HOTD109}} These maneuvers bolstered the Greens' power base, setting the stage for Otto and his daughter, Queen Alicent, to rule and manage the realm as regents once Visery's illness and treatment for it confined him to his bed.{{Ref|HOTD108}}
+
+The principal Blacks and Greens were briefly reconciled by a dying Viserys during a family supper held in [[132 AC]].{{Dateref|The Lord of the Tides}} However, in a delirious state later that evening, Viserys began speaking with Alicent about "[[The Song of Ice and Fire]]," mistaking her for Rhaenyra. Alicent, misunderstanding his words, believed Viserys was expressing his wish for Aegon to succeed him. Tragically, Viserys passed away shortly after Alicent left his room, his efforts to heal the rift within his family undone.{{Ref|HOTD108}}
+
+===The coup===
+In the early morning, Viserys's attendant, Jon, finds the King's body and immediately hurries to inform [[Talya]] about the king's passing. Talya, in turn, informs Alicent, who becomes devastated with grief. She orders Talya to keep silent about the news, but Talya secretly lights candles in the [[Red Keep]] to signal her employer, [[Mysaria]], that the King is dead. Alicent then awakes and informs Otto about Viserys's death and his supposed change of heart regarding the succession.{{Ref|HOTD109}}
+
+Later, Otto summons an emergency meeting of the Small Council to decide their next course of action. When Otto announces Viserys's passing and his decision to have Aegon succeed him, [[Tyland Lannister]] unveils that the council has long planned for this, to the confusion of Alicent and Lord [[Lyman Beesbury]], both of whom were kept in the dark. Lord Beesbury vehemently objects to the Greens' plot to seize power, refusing to accept that Viserys had a change of heart on his deathbed. He denounces the council's efforts to supplant Rhaenyra with Aegon as [[treason]], even accusing his fellow council members of [[regicide]] for Viserys's sudden death. In an attempt to make Lyman sit down, Ser [[Criston Cole]] unintentionally kills him instead by smashing Lyman's head against his council totem. Lord Commander [[Harrold Westerling]] draws his sword against Cole and tries to dismiss him from the Kingsguard for his actions. Eventually, Harrold relents after admonishing the council about their intentions.
+
+With Lyman dead, the [[Green Council]] is formed from the remaining members and proceed with their business. Otto reveals that two captains on the City Watch are loyal to Prince [[Daemon Targaryen]] and that they will neeed to replace them with allies of the Greens. Otto also assures that the Greens can rely on Houses [[House Tyrell|Tyrell]] and [[House Tully/House of the Dragon|Tully]] as allies. Tyland adds that the royal treasury is secure and will be divided for safekeeping. He also mentions that Lord [[Borros Baratheon]] will need to be persuaded, and suggests that a marriage pact be proposed to one of his four unmarried daughters. Alicent then asks the council about Rhaenyra's fate, with Otto replying that the princess and her family will be given the opportunity to swear allegiance to Aegon. Alicent is doubtful of this position, remarking that neither Rhaenyra nor Daemon will willingly surrender and accuses the council of their intent to kill them. Otto and Grand Maester [[Orwyle]] acknowledge this, reasoning that allowing Rhaenyra to live will only lead to conflict. Otto then orders Lord Commander Westerling to sail for Dargonstone with his knights and discreetly kill Rhaenyra and her family. Horrified at this order, Ser Harrold refuses and promptly resigns as [[Lord Commander of the Kingsguard]]. Despite this setback, the Green Council moves forward with their plan to ally with the other Great Houses, dispatching [[Raven|ravens]] with generous terms.{{Ref|HOTD109}}
+
+Later on, Otto assembles a gathering of several lords and ladies to the [[throne room]] of the Red Keep, announcing the shift in the succession and urging them to [[Bending the knee|bend the knee]] to Aegon as their future king. Most of the assembled nobles comply, but [[Lord Merryweather]], [[Lady Fell]], and a few others stand firm, refusing to renounce their oath to Rhaenyra. Otto swiftly has his guards place them under arrest, prompting Lord [[Allun Caswell]] to kneel, albeit reluctantly, as a feint. As he attempts to flee the [[Red Keep]] to alert the Blacks of the Greens' plot, guards apprehend him at the castle's gate. After a brief interrogation by Otto and [[Lord Confessor]] [[Larys Strong]], Caswell is sentenced to be hanged by the [[King's Justice]].{{Ref|HOTD109}}
+
+When it comes to his attention that Aegon is nowhere to be found in the Red Keep, Otto orders Ser [[Erryk Cargyll]] to take his brother Ser [[Arryk Cargyll|Arryk]] with him to search the city for the prince. Fearing that her father will attempt to convince Aegon to put Rhaenyra to the sword, Alicent sends a search party of her own — Ser Criston and Prince [[Aemond Targaryen]] — and orders them to bring Aegon directly to her. After a lengthy search, Erryk and Arryk are approached by one of Mysaria's agents. She informs them that her employer will give them the prince's location in exchange for a meeting with the Hand. Otto discreetly meets with Mysaria at a market, observed from afar by Criston and Aemond. Mysaria offers the prince's location in exchange for Otto cracking down on the child fighting rings in King's Landing, a deal Otto readily acquiesces to.{{Ref|HOTD109}}
+[[File:TGC Aemond and Aegon Still.jpg|thumb|Aemond grabs Aegon.]]
+Arryk and Erryk are then sent to the [[Grand Sept]], where they find Aegon hidden underneath an altar. As the two leave the sept with the prince in tow, Criston and Aemond intercept them at the sept's entrance. A duel ensues between Arryk and Criston as Erryk watches from afar, while Aemond apprehends Aegon as he attempts to flee. Erryk, disgusted at the Greens' treason and believing Aegon unfit to rule, abandons his brother and returns to the Red Keep. There, he steals Viserys's crown and frees Princess [[Rhaenys Targaryen]], whom the Greens had place under house arrest in her bedchamber. The two attempt to flee the city for [[Dragonstone]], but are separated by a crowd of [[smallfolk]] being forcibly herded to the [[Dragonpit]] to bear witness to Aegon's impending coronation.{{Ref|HOTD109}}
+[[File:TGC Rhaenys Targaryen Still 3.jpg|thumb|Rhaenys escapes the Dragonpit.]]
+At Aegon's coronation, Rhaenys watches with the masses as Otto announces Viserys's death and his desire for Aegon to succeed him. Taking advantage of the spectacle, Rhaenys quietly slips through the crowd and ventures deeper into the Dragonpit to find her [[dragon]], [[Meleys]]. Meanwhile, Aegon undergoes a formal anointing by [[Septon]] [[Eustace]] before being crowned by Ser Criston with the Conqueror's crown. Aegon then turns to face the people gathered in the Dragonpit, where Eustace prclaims him as King Aegon II. As the crowd jubilantly receives their new sovereign, Meleys suddenly bursts out of the floor, killing dozens of smallfolk. Rhaenys approaches the royal family on her dragon, preparing to end the usurpation then and there. However, after a long look at Alicent and Aegon, Rhaenys chooses to spare them, turning around and flying out of the Dragonpit for Dragonstone.{{Ref|HOTD109}}
+
+===Aftermath===
+When the news of Aegon's coronation reaches Dragonstone via Rhaenys, Rhaenyra is so shocked at the dual news of the loss of her father and birthright that she goes into premature labor, giving birth to a disfigured [[Visenya Targaryen (daughter of Rhaenyra)|stillborn]]. Meanwhile, Daemon immediately takes it upon himself to begin preparations for the impending conflict, ordering for Dragonstone's defenses to be fortified and ravens sent out to potential allies.{{Ref|HOTD110}}
+
+During the funeral of Rhaenyra's daughter, Ser Erryk arrives with the crown of her late father. He surrenders the crown to Rhaenyra and pledges his allegiance to her as one of her Queensguard. Daemon takes the crown from him and crowns Rhaenyra as queen before her followers, setting the stage for the Targaryen civil war.{{Ref|HOTD110}}
+
+==In the books==
+In ''[[Fire & Blood]]'', the coup is described differently. The coup started on the same day that Viserys died, and lasted a week, the late king's body being left to swell and rot until the green council's business was concluded; Alicent expressly forbade the [[Silent Sisters|silent sisters]] from treating his body, and the greens openly acknowledged his death only when Aegon II was crowned.
+
+Lyman Beesbury's exact fate after protesting the coup is disputed: according to Grand Maester [[Orwyle]], Lyman was arrested and confined to the [[Black Cells|black cells]] where he died of a chill; according to Septon [[Eustace]], Criston cut Lyman's throat with a dagger; and according to the court [[fool]] Mushroom, Criston threw Lyman out of a window to fall to his death. Lyman is considered by Archmaester Gyldayn to be the first casualty of the Dance of the Dragons. After the council meeting, the greens arrested and beheaded suspected supporters of Rhaenyra, and sent ravens to those who were not. During the commotion, [[Steffon Darklyn]] stole King Viserys's crown, later bringing it to Rhaenyra at Dragonstone.
+
+The hasty coronation of Aegon II was held at the Dragonpit. Criston Cole crowned Aegon as king, whilst Alicent crowned Helaena as queen. Rhaenys was not in King's Landing at this time, and there is no mention that she or anyone else interrupted the coronation on dragonback.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{Dance of the Dragons}}
+
+<!--Categories-->
+[[Category:132 AC]]
+[[Category:Coups|King's Landing]]
+[[Category:Dance of the Dragons]]
+
+<!--Languages-->
+[[ru:Переворот в Королевской Гавани]]
