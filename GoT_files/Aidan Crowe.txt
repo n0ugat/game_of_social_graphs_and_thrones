@@ -1,0 +1,29 @@
+{{Cast
+| Title= Aidan Crowe
+| Image= Aidan Crowe.jpg
+| dateofbirth= 
+| birthplace= 
+| role= [[Quent]]
+| status= 
+| First="[[The Old Gods and the New]]"
+| Last="[[A Man Without Honor]]"
+| imdb= http://www.imdb.com/name/nm3285925/
+| twitter= http://twitter.com/aidancrowe1
+}}
+'''Aidan Crowe''' is an Irish actor. He has appeared in several short films: ''11 Missed Calls'', ''Starstruck'', ''Buddy'', ''Vanner'', and ''My Passenger''.
+
+In ''[[Game of Thrones]]'' he is playing [[Quent]]. He joined the cast as a guest star in the [[Game of Thrones: Season 2|second season]].
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 2||||||yes|yes}}
+
+==See also==
+*{{Template:IMDb
+|# = 3285925}}
+
+{{Stub}}
+{{DEFAULTSORT:Crowe, Aidan}}
+
+[[fr:Aidan Crowe]]
+[[Category:Guest starring cast members of Game of Thrones]]

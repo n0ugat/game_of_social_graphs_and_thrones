@@ -1,0 +1,33 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Alana Ramsey.jpg
+| Birth   = 
+| Death   = 
+| Role    = [[Lynesse Hightower]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = 2 episodes {{Below|Credits}}
+| First   = "[[Second of His Name]]"
+| Last    = "[[We Light the Way]]"
+}}
+'''Alana Ramsey''' is an actress and singer.
+
+In ''[[House of the Dragon]]'', she portrayed [[Lynesse Hightower]] in [[House of the Dragon: Season 1|Season 1]] episodes directed by [[Greg Yaitanes]] and [[Clare Kilner]].<ref>https://i.redd.it/9itn7wtkfjg91.png</ref>
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1|||yes||yes}}
+
+==See also==
+*{{IMDb|#=5219992}}
+*{{Twitter|#=alanaramsey1}}
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Ramsey, Alana}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--InterWiki-Links-->
+[[fr:Alana Ramsey]]

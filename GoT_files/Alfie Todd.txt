@@ -1,0 +1,30 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Alfie Todd.jpg
+| Birth   = 
+| Death   = 
+| Role    = [[Willem Blackwood]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = "[[King of the Narrow Sea (episode)|King of the Narrow Sea]]"
+| First   = 
+| Last    = 
+}}
+'''Alfie Todd''' is an actor. He has appeared in the film ''{{WPS|Days of the Bagnold Summer (film)|Days of the Bagnold Summer}}'' and the television series ''{{WPS|His Dark Materials (TV series)|His Dark Materials}}'' and ''{{WPS|Becoming Elizabeth}}''.
+
+In ''[[House of the Dragon]]'', he portrayed [[Willem Blackwood]] in the [[House of the Dragon: Season 1|first season]].
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1||||yes}}
+
+==See also==
+*{{IMDb|# = 10196554}}
+
+<!--Categories-->
+{{DEFAULTSORT:Todd, Alfie}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Alfie Todd]]

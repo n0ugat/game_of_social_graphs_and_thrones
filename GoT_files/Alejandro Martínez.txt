@@ -1,0 +1,23 @@
+{{Crew
+| Title=Alejandro Martínez
+| Type= Dragon
+| Image=Alejandro Martínez.png
+| dateofbirth=
+| birthplace=Mexico City, Mexico
+| job=Cinematographer
+| imdb=https://www.imdb.com/name/nm1830534/
+}}
+'''Alejandro Martínez''' is a Mexican cinematographer working on ''[[House of the Dragon]]'' with director [[Clare Kilner]].
+
+Martínez was nominated for the 2023 {{WPS|American Society of Cinematographers|ASC Awards}} in the "Episode of a One-Hour Non-Commercial Television Series" category for his work on the episode "[[The Green Council]]."<ref>https://deadline.com/2023/01/asc-awards-nominations-2023-cinematograhpers-guild-1235214726/</ref>
+
+==Credits==
+===Cinematographer===
+*{{HOTD|Season 1}}
+*{{HOTD|Season 3}} {{Unreleased}}
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Martínez, Alejandro}}
+[[Category:Production staff members of House of the Dragon]]

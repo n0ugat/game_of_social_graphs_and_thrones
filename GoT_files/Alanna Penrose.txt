@@ -1,0 +1,68 @@
+{{Canonicity|Non}}
+{{Heraldry
+| Leftimage  = House Penrose.svg
+| Leftlink   = House Penrose
+| Rightimage = House Baratheon.svg
+| Rightlink  = House Baratheon
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Baratheon
+| Image       = AenysITargaryenHistoryAndLineages.png
+| Birth       = At Parchments
+| Death       = 
+| House       = [[House Penrose|Penrose]]<br>[[House Baratheon|Baratheon]] {{C|by marriage}}
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Andals|Andal]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = {[[Axel Baratheon]]}
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Alanna Penrose''' was a member of [[House Penrose]].
+
+==Biography==
+===Background===
+Alanna Penrose [[Marriage|married]] [[Axel Baratheon]], a son of [[Orys Baratheon|Orys]] and [[Argella Baratheon]], in 20 AC. 24 years later, Axel fought a duel with [[Steffon Trant]] to defend Alanna's honor, but was defeated and succumbed to his wounds. Alanna and Axel had no children.{{Ref|GOT106}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+She is referenced in her husband's entry of ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]''.{{Ref|GOT106}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no character whose first name is Alanna, either of [[House Penrose]] or any other Westerosi house.
+
+==Appearances==
+*{{GOT|A Golden Crown}} {{Text}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House Baratheon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Penrose, Alanna}}
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Members of House Baratheon|Alanna Penrose]]
+[[Category:Members of House Penrose|Alanna Penrose]]
+[[Category:Stormlanders]]
+
+<!--Languages-->
+[[de:Alanna Baratheon]]
+[[es:Alanna Penrose]]
+[[fr:Alanna Penrose]]
+[[ru:Аланна Пенроз]]

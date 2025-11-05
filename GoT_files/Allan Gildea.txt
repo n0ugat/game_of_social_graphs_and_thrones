@@ -1,0 +1,28 @@
+{{Template:Cast
+|Title = Allan Gildea
+|Image = Allan Gildea.jpg
+| dateofbirth= 
+| birthplace= Northern Ireland
+|role = [[Samwell Stone]]
+|status = 
+|First = 
+|imdb = http://www.imdb.com/name/nm0318383/
+|twitter = http://twitter.com/allangildea|Appearances = "[[The Wars To Come]]"}}
+'''Allan Gildea''' is an actor and director from Northern Ireland. He has appeared in films such as ''Bloody Sunday'' and ''Good Vibrations'' (the latter alongside [[Richard Dormer]], [[Liam Cunningham]] and [[Kerr Logan]]).
+
+In ''[[Game of Thrones]]'' he portrays [[Samwell Stone]].
+
+==Credit==
+===Guest starring===
+{{Game of Thrones: Season 5|yes}}
+
+==​See also==
+*{{IMDb|# = 0318383}}
+*{{Twitter|# = allangildea}}
+
+==References==
+{{Reflist}}
+{{DEFAULTSORT:Gildea, Allan}}
+
+[[fr:Allan Gildea]]
+[[Category:Guest starring cast members of Game of Thrones]]

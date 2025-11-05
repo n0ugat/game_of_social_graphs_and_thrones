@@ -1,0 +1,69 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Leftimage  = House Manwoody.svg
+| Leftlink   = House Manwoody
+| Rightimage = Night's Watch.svg
+| Rightlink  = Night's Watch
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = 
+| Birth       = At [[Kingsgrave]]
+| Death       = 
+| House       = [[House Manwoody|Manwoody]]
+| Affiliation = [[Night's Watch]]
+| Titles      = [[King]] {{C|deposed}}
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Dornishmen|Dornish]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+King '''Albin Manwoody'''{{Con|TWOI&F}} was the last king of [[House Manwoody]].
+
+==Biography==
+During [[Nymeria's War]], Albin was defeated by [[Nymeria]], who had him sent to the [[Wall]] in golden chains.{{Ref|H&L509}}
+
+==In the books==
+Albin Manwoody is mentioned in ''The World of Ice & Fire''. He was a troublesome madman and claimed dominion over the [[Red Mountains]].
+
+==Appearances==
+*{{H&L|Dorne}} {{Indirect}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Kings of Westeros}}
+
+<!--Categories-->
+{{DEFAULTSORT:Manwoody, Albin}}
+[[Category:Dornishmen]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Kings]]
+[[Category:Members of House Manwoody|Albin Manwoody]]
+[[Category:Men of the Night's Watch]]
+
+<!--Languages-->
+[[ru:Альбин Манвуди]]

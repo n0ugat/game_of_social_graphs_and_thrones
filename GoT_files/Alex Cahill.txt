@@ -1,0 +1,29 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Alex Cahill.jpg
+| Birth   = 
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]]
+| Credits = 2 episodes {{Below|Credits}}
+| First   = "[[The Red Dragon and the Gold]]"
+| Last    = 
+}}
+'''Alex Cahill''' is a stuntman.
+
+In ''[[House of the Dragon]]'', he was a stunt performer in the [[House of the Dragon: Season 2|second season]] episodes "[[The Red Dragon and the Gold]]" and "[[The Queen Who Ever Was]]".
+
+==Credits==
+===Stunts===
+{{House of the Dragon: Season 2||||yes||||yes}}
+
+==See also==
+*{{IMDb
+|# = 10242284}}
+*{{Instagram
+|# = alexcahill1}}
+
+{{DEFAULTSORT:Cahill, Alex}}
+[[Category:Stunt performers of House of the Dragon]]

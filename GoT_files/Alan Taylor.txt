@@ -1,0 +1,60 @@
+{{Crew
+| Title       = {{PAGENAME}}
+| Type        = Dragon
+| Image       = Alan-Taylor-200.jpg
+| dateofbirth = 13 January 1959
+| birthplace  = San Francisco, California, United States
+| job         = Director<br>Co-executive producer <small>(''Game of Thrones'')</small><br>Executive producer <small>(''House of the Dragon'')</small>
+| imdb        = http://www.imdb.com/name/nm0851930/
+| twitter     = 
+}}
+'''Alan Taylor''' (born 13 January 1959) is an American Emmy winning director. He has directed extensively for television and has also directed three theatrically-released movies, ''[[wikipedia:Palookaville (film)|Palookaville]]'', ''[[wikipedia:The Emperor's New Clothes (2001 film)|The Emperor's New Clothes]]'' and ''[[wikipedia:Kill the Poor (film)|Kill the Poor]]''. For [[HBO]] he has directed episodes of ''[[wikipedia:Rome (TV series)|Rome]]'', ''[[wikipedia:Deadwood (TV series)|Deadwood]]'', ''[[wikipedia:Carnivale (TV series)|Carnivale]]'', ''[[wikipedia:Six Feet Under (TV series)|Six Feet Under]]'', ''[[wikipedia:The Sopranos|The Sopranos]]'' and ''[[wikipedia:Sex and the City|Sex and the City]]''. His other TV directing credits include ''[[wikipedia:Mad Men (TV series)|Mad Men]]'' and ''[[wikipedia:Lost (TV series)|Lost]]''.
+
+For ''[[Game of Thrones]]'' Taylor has directed episodes 9 and 10 of the [[Game of Thrones: Season 1|first season]] and was the only Season 1 director to return for [[Game of Thrones: Season 2|Season 2]], where he directed episodes 1, 2, 8 and 10. He also joined the production team as a co-executive producer for the second season.
+
+Taylor's availability for the third season of ''Thrones'' was reduced after it was announced that he would be directing the movie ''[[wikipedia: Thor: The Dark World| Thor: The Dark World]]'' for Marvel Studios in 2012. It was initially hoped that he would still be able to direct one episode of the season,<ref>Hoare, James (March 29, 2012).  [http://www.scifinow.co.uk/interviews/game-of-thrones-season-2-director-alan-taylor-interview-exclusive/ Game of Thrones Season 2 Director Alan Taylor Interview Exclusive]. SciFiNow.</ref> but it was later revealed that the ''Thor: The Dark World'' schedule would not allow this.<ref>[http://www.westeros.org/GoT/News/Entry/Taylor_Out_Nutter_Returns/ Westeros.org]</ref> Taylor is also directing the fifth installment of Terminator film series ''Terminator Genisys''.
+
+On June 29, 2016, it was announced that Taylor would be returning to direct in the [[Game of Thrones: Season 7|seventh season]].<ref>[http://www.ew.com/article/2016/06/29/game-thrones-season-7 EW: GOT Season 7 Directors]</ref>
+
+==Credits==
+===''[[Game of Thrones]]''===
+====Co-executive producer====
+*{{GOT|Season 2}}
+
+===Director===
+{{Game of Thrones: Season 1|||||||||yes|yes}}
+{{Game of Thrones: Season 2|yes|yes||||||yes||yes}}
+{{Game of Thrones: Season 7||||||yes}}
+
+===''[[House of the Dragon]]''===
+====Executive producer====
+*{{HOTD|Season 2}}
+
+====Director====
+{{House of the Dragon: Season 2|yes|||yes}}
+
+==See also==
+*{{WP|Alan Taylor (director)}}
+*{{IMDb|#=0851930}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{Game of Thrones: Inside the Episode}}
+{{House of the Dragon: Inside the Episode}}
+
+<!--Categories-->
+{{DEFAULTSORT:Taylor, Alan}}
+[[Category:Co-executive producers of Game of Thrones]]
+[[Category:Commentators of Game of Thrones: Inside the Episode]]
+[[Category:Commentators of House of the Dragon: Inside the Episode]]
+[[Category:Directors of Game of Thrones]]
+[[Category:Directors of House of the Dragon]]
+[[Category:Executive producers of House of the Dragon]]
+
+<!--Languages-->
+[[de:Alan Taylor]]
+[[fr:Alan Taylor]]
+[[pt-br:Alan Taylor]]
+[[ru:Алан Тейлор]]

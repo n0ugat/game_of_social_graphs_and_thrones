@@ -1,0 +1,31 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Afolabi Alli.jpg
+| Birth   = 
+| Death   = 
+| Role    = Dragonkeeper Acolyte
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = "[[The Princess and the Queen]]"
+| First   = 
+| Last    = 
+}}
+'''Afolabi Alli''' is an actor. He has appeared in the film ''{{WPS|Persuasion (2022 film)|Persuasion}}'' and the television series ''{{WPS|The Split (TV series)|The Split}}''.
+
+In ''[[House of the Dragon]]'', he portrayed a Dragonkeeper Acolyte in the [[House of the Dragon: Season 1|first season]].
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1||||||yes}}
+
+==See also==
+*{{IMDb|# = 0619628}}
+*{{Instagram|# = _afolabialli}}
+
+<!--Categories-->
+{{DEFAULTSORT:Alli, Afolabi}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--InterWiki-Links-->
+[[fr:Afolabi Alli]]

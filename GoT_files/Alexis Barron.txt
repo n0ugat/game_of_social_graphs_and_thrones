@@ -1,0 +1,20 @@
+{{Crew
+|Image = 
+|dateofbirth = 
+|birthplace = 
+|job = Assistant Stunt Manager
+|imdb = http://www.imdb.com/name/nm5700640
+|twitter = }}
+'''Alexis Barron''' is a stuntwoman.
+
+In ''[[Game of Thrones]]'', she was an assistant stunt manager in the [[Game of Thrones: Season 1|first season]].
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 1|yes|yes|yes|yes|yes|yes|yes|yes|yes|yes}}
+
+==See also==
+*{{IMDb
+|# = 5700640}}
+{{DEFAULTSORT:Barron, Alexis}}
+[[Category:Stunt performers of Game of Thrones]]

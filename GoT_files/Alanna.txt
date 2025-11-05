@@ -1,0 +1,51 @@
+{{Canonicity|Canon}}
+{{SameName|commoner|cousin of Margaery and Loras Tyrell|Alanna (cousin of Loras and Margaery Tyrell)}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Lannister
+| Image       = Alanna.png
+| Birth       = 
+| Death       = [[305 AC]]{{Dateref|Game of Thrones: Season 8}}<br>[[King's Landing]], the [[Crownlands]]{{Ref|GOT805}}
+| House       = 
+| Affiliation = 
+| Titles      = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = Husband{{Ref|GOT805}}
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 8|8]]
+| Appearances = "[[The Bells]]" {{Corpse}}
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Kim Chapman]]
+}}
+{{Quote|Alanna?! Have you seen my wife?!|A commoner to [[Arya Stark]]|The Bells}}
+'''Alanna''' is a commoner from [[King's Landing]].
+
+==Biography==
+===[[Game of Thrones: Season 8|''Game of Thrones'': Season 8]]===
+In the midst of the [[Battle of King's Landing]], a panicked man shouts for his wife Alanna and asks [[Arya Stark|Arya]] if she has seen her.{{Ref|GOT805}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no character named Alanna.
+
+==Appearances==
+*{{GOT|The Bells}} {{Corpse}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Smallfolk]]

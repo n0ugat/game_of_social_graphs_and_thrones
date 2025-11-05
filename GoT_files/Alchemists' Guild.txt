@@ -1,0 +1,84 @@
+{{Canonicity|Canon}}
+{{SameName|ancient order|short|The Alchemist Guild}}
+{{Organization
+| Title       = {{PAGENAME}}
+| Theme       = Targaryen
+| Image       = Alchemist's guild.png
+| Type        = Craftsman guild specializing in "magic"
+| Status      = Active
+| Symbol      = 
+| Words       = 
+| Center      = [[Guildhall]], [[King's Landing]]
+| Leader      = [[Wisdom]] [[Hallyne]]
+| Affiliation = [[King of the Andals and the Rhoynar and the First Men|King of the Andals and the First Men]]
+| Religion    = 
+| Military    = 
+| Founded     = 
+}}
+{{Quote|Our order perseveres... like the Substance, which grows ever more potent as it ages. We perfect our ancient arts in darkness, forgotten by the world. We are masters of the fire, but we live only to serve. All we need is the right... spark.|[[Wisdom]] [[Hallyne]]|The Alchemist Guild}}
+The '''Alchemists' Guild'''{{Ref|GOT205}} is an ancient [[Westeros]]i order based in the city of [[King's Landing]], claiming magical and arcane knowledge. If they ever did possess such powers, their knowledge and abilities have waned over the centuries, and they have been largely eclipsed by the [[Order of Maesters]], who focus on scientific knowledge and disdain belief in [[magic]]. The Alchemists have also drastically dwindled in number during the decline of their order, and unlike the maesters who have at least one representative at every major castle or town, it is uncommon to encounter the Alchemists outside of one of the major cities of the [[Seven Kingdoms]]. The Guild is based in the [[Guildhall]] beneath Rhaenys's Hill in [[King's Landing]].<ref name="Viewer's Guide"/>
+
+[[File:Hallyne.jpg|thumb|Wisdom Hallyne, head of the Alchemists' Guild.]]
+They are the only people in the [[Seven Kingdoms]] with the knowledge to create and handle the exceptionally dangerous concoction known as [[wildfire]], which members of the Guild refer to as "the Substance". Because of their ability to produce the volatile flammable substance, alchemists are colloquially known as '''pyromancers'''.<ref name="Viewer's Guide">[http://viewers-guide.hbo.com/game-of-thrones/season2/#!/guide/appendix/beyond-the-houses/ HBO Viewer's Guide, Season 2 appendices, Beyond the Houses - Alchemists' Guild entry]</ref>
+
+[[File:Wildfire.png|thumb|Tyrion inspects a jar of Wildfire in the Alchemists' Guildhall.]]
+
+== History ==
+===Background===
+The Alchemists claim that they were capable of wielding powerful magical abilities many centuries ago, but similar to the [[Warlocks]] of [[Qarth]] in [[Essos]], their powers waned over the generations. In more recent centuries, most of their claims were generally regarded as fanciful.
+
+The Alchemist's Guild received the patronage of [[House Targaryen]] during the reign of [[Maegor Targaryen|Maegor the Cruel]], who was interested in the pyromancers' mastery over wildfire. The Targaryens still had dragons at the time, but they desired a more controllable tool for everyday use in minor wars and rebellions. After the dragons died out, about a generation after the [[Dance of the Dragons]], the Targaryens became even more reliant on the use of wildfire in warfare.
+
+They remained faithful servants of the royal House for decades, but gradually lost influence to the order of maesters. The Alchemists lost royal favor after the death of Prince [[Aerion Targaryen]], who killed himself by drinking wildfire in the belief that it would turn him into a [[dragon]].<ref name="Featurette">[http://www.youtube.com/watch?v=E7b-Z2lLtLc Game of Thrones Season Two Blu-ray Feature: History of the Alchemists' Guild]</ref>
+
+The Guild entered into a period of resurgence during the reign of the fire-obsessed [[Aerys II Targaryen]], who employed pyromancers such as [[Wisdom]] [[Rossart]] to execute his enemies. During the final stages of [[Robert's Rebellion]], Aerys named [[Rossart]] as his Hand commissioned the Guild to create a weapon to be employed against [[Robert Baratheon]]. King's Landing, however, was [[Sack of King's Landing|sacked]] before it could be used.<ref name="Featurette"/> Many Wisdoms disappeared in the sack, such as Rossart (secretly killed by [[Jaime Lannister]]), crippling the Guild's leadership.<ref>"[[Kissed by Fire]]"</ref> With the Targaryens dead, the Guild then went into a major decline.
+
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+[[Tyrion Lannister]] learns from his cousin [[Lancel Lannister|Lancel]] that his sister Queen [[Cersei Lannister|Cersei]] has been commissioning large amounts of wildfire from the pyromancers. As acting [[Hand of the King]], Tyrion decides to pay a visit to the [[Guildhall]], accompanied by his bodyguard [[Bronn]]. He receives an enthusiastic welcome from the head of the order, Wisdom [[Hallyne]], who has not received visits or respect from high court officials since the reign of the Mad King. Hallyne touts the advantages of wildfire in warfare to Tyrion, though Bronn is skeptical. Hallyne complains that Bronn would treat him with more respect back when the Guild enjoyed royal favor, and wildfire was the key to the Targaryen's power. He then shows Tyrion that they have already amassed a massive stockpile of over 7,800 jars of wildfire: Tyrion is stunned, as this is enough to destroy the entire city if ignited while still within its walls. Tyrion commands that the Alchemists won't be making wildfire for Cersei anymore - they will be making it for ''him''.<ref>"[[The Ghost of Harrenhal]]"</ref>
+
+At the beginning of the [[Battle of the Blackwater]], Tyrion has ''all'' of the wildfire loaded into an unmanned fire-ship and sent towards the fleet of [[Stannis Baratheon]] as it sails up the bay to attack the city. The ship leaking wildfire, Bronn launches a flaming arrow to ignite it - setting off a massive explosion which destroys a large portion of Stannis's fleet. The damage is devastating, but Stannis continues his assault with his (significantly reduced) remaining forces.<ref>"[[Blackwater]]"</ref>
+
+==Ranks==
+* '''[[Wisdom]]:''' Full ranked members who oversee the preparation of the Substance and ensure its purity. Adept at the alchemical mysteries. One of the Wisdoms acts as the head of the order.
+* '''[[Acolyte]]:''' Tasked with using magic to create the Substance.
+* '''[[Apprentice]]:''' Newly initiated recruits tasked with transporting and storing the Substance.<ref name="Viewer's Guide"/>
+
+==Known members==
+* Wisdom {[[Rossart]]}, made [[Hand of the King]] by [[Aerys II Targaryen]] and killed during the [[Sack of King's Landing]].
+* Wisdom [[Hallyne]], the current head of the Guild.
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the Alchemists' Guild of King's Landing is an old and honored institution in Westeros, implied to be several millennia old. Over time they were gradually eclipsed by the Order of Maesters, who disdain belief in [[magic]] in favor of scientifically-based knowledge. This long steady decline was interspersed with two major resurgences during the past three hundred years: first during a long period of over two hundred years when they enjoyed Targaryen patronage, and then (after a fifty year gap caused by the fiasco with Aerion Targaryen) a second resurgence under the Mad King, [[Aerys II Targaryen]].
+
+The alchemists also used to boast that they had abilities even the [[Order of Maesters|maesters]] of the [[Citadel]] did not have, such as the ability to transmute metals. However, they have not demonstrated this ability in living memory and many of their claims are today regarded as fanciful.
+
+Members of the Alchemists' Guild apparently don't take vows of celibacy the way members of the Order of Maesters do, as Hallyne is described as a "third-generation alchemist".
+
+While the Alchemists had been in decline for many centuries, [[Aegon's Conquest]] three hundred years ago gave rise to a major resurgence of the order. Even at this point they no longer possessed all of the magical abilities that myths claimed they once did, but the Targaryens relied upon them to produce wildfire, as a special weapon on the battlefield which was more reliable than dragons. After the dragons died out in a major Targaryen civil war 150 years ago, the Targaryens became even more reliant upon wildfire, and the Alchemists enjoyed even more extensive royal patronage.
+
+Unfortunately, about seventy years before the War of the Five Kings, in a fit of insanity Prince [[Aerion Targaryen]], called Aerion Brightflame, became convinced that if he drank a cup of wildfire, he would be transmuted into a dragon. He was wrong. After the incident with Aerion (who was actually Maester [[Aemon]]'s older brother), the Alchemists' Guild fell out of royal favor, and entered into another decline which lasted over thirty years.
+
+The order entered into a final resurgence began about forty years ago, when King [[Aerys II Targaryen]] succeeded to the throne, who became popularly known as "the Mad King". Aerys spiraled into insanity throughout his reign, and became increasingly obsessed with fire, particularly wildfire (the purest and hottest combustible substance known). This resurgence spanned the two decades of Aerys's reign, and while this period was brief, it not only undid the damage of the Aerion Brightflame incident but saw the Alchemists extend to high positions at court they have never had before. The pyromancers became the Mad King's trusted agents, as he began to frequently execute those he suspected of plotting against him by having them burned alive with wildfire. This only made even more lords oppose Aerys, which in turn created more suspected traitors whom Aerys felt he needed to burn.
+
+Ultimately King Aerys had Lord [[Rickard Stark]] burned alive with wildfire in the middle of the throne room itself - a blaze personally set and supervised by Wisdom [[Rossart]]. This monstrous act sparked off [[Robert's Rebellion]], and over the course of the next year as the rebellion spread Aerys grew completely paranoid, regularly having the Alchemists burn even more victims. Tywin Lannister had already resigned as [[Hand of the King]], and Aerys appointed another four in rapid succession before the war ended. In the final days of the rebellion, Aerys grew so frustrated with the third of these, Lord Qarlton Chelsted, that he had the pyromancers burn him alive with wildfire, and then appointed Wisdom Rossart himself to replace Chelsted as Hand of the King - though Rossart had functionally replaced any Hand as Aerys's closest advisor ever since Tywin left. Nonetheless, Rossart served as Hand for barely two weeks before the [[Sack of King's Landing]], in which Aerys died.
+
+Upon learning that Aerys meant to go through with his wildfire plot [[Jaime Lannister]], one of Aerys's own [[Kingsguard]], killed both Aerys and Rossart. The TV series has not mentioned this, but over the next several days during the chaos of the Sack, Jaime proceeded to hunt down and kill the other leading Wisdoms of the Alchemists' Guild, to ensure that none with knowledge of the wildfire plot survived. These included Wisdom Belis and Wisdom Garigus. The loss of so many of their senior leaders at once severely hobbled the Alchemists' Guild for years to come.
+
+Aerys's penchant for burning people alive saw him make much use of the alchemists' skills, but King Robert had little use for them and they faded away in terms of power and influence after Aerys's death.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+[[Category:Alchemists' Guild| ]]
+[[Category:Magic]]
+[[Category:Organizations]]
+
+<!--Languages-->
+[[de:Gilde der Alchemisten]]
+[[fr:Guilde des Alchimistes]]
+[[pl:Cech Alchemików]]
+[[ru:Гильдия алхимиков]]

@@ -1,0 +1,92 @@
+{{Canonicity|Canon}}
+{{Update|"[[The Burning Mill]]," "[[The Red Dragon and the Gold]]," "[[Regent]]," and "[[The Queen Who Ever Was]]"}}
+{{Heraldry
+| Image = House Broome.svg
+| Link  = House Broome
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Targaryen
+| Image       = Alfred Broome.png
+| Birth       = 
+| Death       = 
+| House       = [[House Broome|Broome]]
+| Affiliation = [[House Targaryen/House of the Dragon|House Targaryen]]<br>[[Black Council]]
+| Titles      = [[Knighthood|Ser]]
+| AKA         = 
+| Culture     = [[Westerlands|Westermen]]
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 2|2]]
+| Appearances = 6 episodes {{Below|Appearances}}
+| First       = "[[A Son for a Son]]"
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Jamie Kenna]]
+}}
+Ser '''Alfred Broome'''{{Webref|name=WBD |author=HBO |date=December 2, 2023 |url=https://press.wbd.com/us/media-release/hbo-0/house-dragon/hbo-releases-official-teaser-and-first-look-images-season-two-original-drama-series |title=HBO Releases Official Teaser And First Look Images For Season Two Of Original Drama Series HOUSE OF THE DRAGON |website=Warner Bros. Discovery |access-date=December 17, 2023 }} is a household [[Knighthood|knight]] sworn to [[House Targaryen/House of the Dragon|House Targaryen]].
+
+==Biography==
+===Background===
+Ser Alfred is from [[House Broome]], a [[noble house]] of the [[Westerlands]]. He is a member of [[Rhaenyra Targaryen]]'s [[Black Council]].{{Webref|name=WBD2 |author=Unknown author |date=Unknown date |url=https://press.wbd.com/us/bio/house-dragon-s2-character-descriptions |title=House of the Dragon S2 <nowiki>|</nowiki> Character Descriptions |website=Warner Bros. Discovery |access-date=June 5, 2024 }}
+
+===[[House of the Dragon: Season 2|''House of the Dragon'': Season 2]]===
+Alfred is present at the Black Council when Rhaenyra returns from the [[Stormlands]].{{Ref|HOTD201}}
+
+Alfred is present when word of Prince [[Jaehaerys Targaryen (son of Aegon II)|Jaehaerys]]'s [[Assassination of Jaehaerys Targaryen|murder]] and funeral reaches Dragonstone. He proposes countering the propaganda being spread by the [[Greens]] blaming Rhaenyra for ordering the killing by suggesting she did so in a moment of grief over the [[Fight above Shipbreaker Bay|death]] of her son [[Lucerys Velaryon|Lucerys]]. An offended Rhaenyra asks him if he thinks she would order a child's beheading out of her grief; when Alfred tries to defend his proposal of selling the killing as an act of vengeance made in haste, Princess [[Rhaenys Targaryen|Rhaenys]] rebukes him, and Alfred falls silent.{{Ref|HOTD202}}
+
+==Behind the scenes==
+On December 2, 2023, [[HBO]] announced that [[Jamie Kenna]] had been cast in the role of Ser Alfred Broome for [[House of the Dragon: Season 2|''House of the Dragon'': Season 2]].<ref name="WBD" /> His character description reads as follows:
+:''"A gruff knight on Queen Rhaenyra’s black council."''<ref name="WBD2" />
+
+==In the books==
+In ''[[Fire & Blood]]'', Alfred joined the garrison at [[Dragonstone]] during the reign of [[Jaehaerys I Targaryen|Jaehaerys I]], and continued to serve there under [[Rhaenyra Targaryen]], the [[Prince of Dragonstone|Princess of Dragonstone]].
+
+==Gallery==
+<gallery>
+File:2x2 Rhaenyra Rhaenys and Alfred Broome Still.jpg|Alfred as a member of the [[Black Council]]. 
+File:2x5 Rhaenyra and Alfred Still.jpg|[[Rhaenyra Targaryen|Rhaenyra]] sends Alfred off to [[Harrenhal]]. 
+File:2x8 Daemon Targaryen Still.jpg|Ser Alfred joining the ranks of [[Daemon Targaryen|Daemon]]'s army in the [[Riverlands]]. 
+</gallery>
+
+==Appearances==
+*{{HOTD|A Son for a Son}}
+*{{HOTD|Rhaenyra the Cruel}}
+*{{HOTD|The Burning Mill}}
+*{{HOTD|The Red Dragon and the Gold}}
+*{{HOTD|Regent}}
+*{{HOTD|The Queen Who Ever Was}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{House Broome}}
+{{House Targaryen/House of the Dragon}}
+{{Black Council}}
+
+<!--Categories-->
+{{DEFAULTSORT:Broome, Alfred}}
+[[Category:Black Council]]
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Knights]]
+[[Category:Members of House Broome|Alfred Broome]]
+[[Category:Servants and retainers of House Targaryen]]
+[[Category:Westermen]]
+
+<!--Languages-->
+[[es:Alfred Broome/House of the Dragon]]
+[[fr:Alfred Balaie]]
+[[pl:Alfred Broome]]
+[[ru:Альфред Брум]]
+[[uk:Алфред Брум]]

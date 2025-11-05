@@ -1,0 +1,29 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Alan Mckee.jpg
+| Birth   = 
+| Death   = 
+| Role    = Dwarf hunter
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 5|5]]
+| Credits = "[[The House of Black and White]]"
+| First   = 
+| Last    = 
+}}
+'''Alan McKee''' is an Irish actor and comedian.
+
+In ''[[Game of Thrones]]'', he portrayed a dwarf hunter in the episode "[[The House of Black and White]]".
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 5||yes}}
+
+==See also==
+*{{IMDb
+|# = 0571137}}
+*{{Twitter
+|# = alanmckee5}}
+
+{{DEFAULTSORT:McKee, Alan}}
+[[Category:Guest starring cast members of Game of Thrones]]

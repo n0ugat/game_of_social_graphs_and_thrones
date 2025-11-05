@@ -1,0 +1,73 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Bracken.svg
+| Link  = House Bracken
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Tully
+| Image       = Aeron Bracken Profile.png 
+| Birth       = 
+| Death       = [[132 AC]]{{Dateref|House of the Dragon: Season 2}}<br>[[Burning Mill]], the [[Riverlands]]{{Ref|HOTD203}}
+| House       = [[House Bracken|Bracken]]{{Ref|HOTD203}}
+| Affiliation = [[Greens]]{{Ref|HOTD203}}
+| Titles      = [[Knighthood|Ser]]{{Ref|HOTD203}}
+| AKA         = 
+| Culture     = [[Riverlands|Rivermen]]{{Ref|HOTD203}}
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 2|2]]
+| Appearances = "[[The Burning Mill]]"
+| First       = 
+| Last        = 
+| DeathEp     = "The Burning Mill"
+| Actor       = [[Ryan Kopel]]
+}}
+{{Dialogue a-b|Davos|Fuck the assize and fuck you. This is our land.|Aeron|It's <u>Bracken</u> land.|Davos Blackwood and Aeron Bracken|The Burning Mill}}
+Ser '''Aeron Bracken'''{{Note|Pronounced the same as "Aaron."{{Ref|THTDB203}}}} was a [[Knighthood|knight]] of [[House Bracken]] during the [[Dance of the Dragons]].
+
+==Biography==
+===Background===
+Aeron is a nephew of Lord [[Amos Bracken]] of [[Stone Hedge]].{{Ref|HOTD203}}
+
+===[[House of the Dragon: Season 2|''House of the Dragon'': Season 2]]===
+Aeron is confronted by [[Davos Blackwood]] whilst moving boundary stones near the [[Burning Mill]], at the [[House Bracken|Bracken]]-[[House Blackwood|Blackwood]] border. The fight between the two of them eventually escalates into a [[Battle at the Burning Mill|full-scale battle]] between the two houses, in which Aeron is slain.{{Ref|HOTD203}}
+
+==Family==
+{{Bracken tree}}
+
+==In the books==
+In ''[[Fire & Blood]]'', there is no character named Aeron Bracken.
+
+==Appearances==
+*{{HOTD|The Burning Mill}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{House Bracken/House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Bracken, Aeron}}
+[[Category:Greens]]
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Knights]]
+[[Category:Members of House Bracken|Aeron Bracken]]
+[[Category:Rivermen]]
+
+<!--Languages-->
+[[es:Aeron Bracken]]
+[[fr:Aeron Bracken]]
+[[ru:Эйрон Бракен]]
+[[uk:Ерон Бракен]]

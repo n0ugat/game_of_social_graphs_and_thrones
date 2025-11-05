@@ -1,0 +1,33 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Alistair Brammer.jpg
+| Birth   = November 12, 1988 {{Age|1988|11|12}}<br>Exeter, England
+| Death   = 
+| Role    = Gold Cloak
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]]
+| Credits = 2 episodes {{Below|Credits}}
+| First   = "[[Regent (episode)|Regent]]"
+| Last    = 
+}}
+'''Alistair Brammer''' is an English actor. He has appeared in the film ''{{WPS|Les Misérables (2012 film)|Les Misérables}}'', ''{{WPS|War Horse (film)|War Horse}}'' and ''{{WPS|The Watchers (film)|The Watchers}}'' and the television series ''{{WPS|Episodes (TV series)|Episodes}}'', ''{{WPS|Casualty (TV series)|Casualty}}'', ''{{WPS|Vicious (TV series)|Vicious}}'' and ''{{WPS|Dalgliesh (TV series)|Dalgliesh}}''.
+
+Brammer plays a gold cloak in the [[House of the Dragon: Season 2|second season]] of ''[[House of the Dragon]]''.
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 2|||||yes||yes}}
+
+==External links==
+*{{WP}}
+*{{IMDb|# = 4337810}}
+*{{Twitter|# = alistairbrammer}}
+*{{Instagram|# = alistairbrammer}}
+
+<!--Categories-->
+{{DEFAULTSORT:Brammer, Alistair}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Alistair Brammer]]

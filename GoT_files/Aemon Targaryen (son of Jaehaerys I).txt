@@ -1,0 +1,101 @@
+{{DISPLAYTITLE:Aemon Targaryen {{C|son of Jaehaerys I}}}}
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Targaryen.svg
+| Link  = House Targaryen/House of the Dragon
+}}
+{{Character
+| Title       = Aemon Targaryen
+| Type        = Targaryen
+| Image       = 
+| Birth       = [[Dragonstone]], the [[Crownlands]]{{Con|F&B}}
+| Death       = 
+| House       = [[House Targaryen/House of the Dragon|Targaryen]]{{Guideref|Jaehaerys I Targaryen}}
+| Affiliation = 
+| Titles      = [[Prince of Dragonstone]]
+| AKA         = 
+| Culture     = [[Valyrians|Valyrian]]
+| Religion    = 
+| Father      = {[[Jaehaerys I Targaryen]]}{{Guideref|Jaehaerys I Targaryen}}
+| Mother      = {[[Alysanne Targaryen]]}{{Guideref|Jaehaerys I Targaryen}}
+| Spouse      = {[[Jocelyn Baratheon]]}{{Guideref|Character Guide}}
+| Lovers      = 
+| Issue       = {[[Rhaenys Targaryen]]}{{Guideref|Character Guide}}
+| Siblings    = 
+| Arms        = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Rhaenys was the only child of Jaehaerys's eldest son.|[[Corlys Velaryon]]|The Heirs of the Dragon}}
+Prince '''Aemon Targaryen'''{{Note|[[High Valyrian]]: ''Aemon Targārien''}} was the son of [[Jaehaerys I Targaryen]] and the father of Princess [[Rhaenys Targaryen]].{{Guideref|Jaehaerys I Targaryen}}
+
+==Biography==
+===Background===
+Aemon was the third and eldest surviving child of King Jaehaerys. He died sometime before his father, resulting in a succession crisis. To resolve it, Jaehaerys declared Aemon's younger brother [[Baelon Targaryen (son of Jaehaerys I)|Baelon]] as his next heir, controversially passing over Aemon's daughter [[Rhaenys Targaryen|Rhaenys]].{{Ref|HOTD104}}
+
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+Aemon's death is mentioned.{{Ref|HOTD101}}
+
+==Family==
+{{Targaryen tree (House of the Dragon)}}
+
+==In the books==
+In ''[[Fire & Blood]]'', Aemon was the thirdborn child of [[Jaehaerys I Targaryen|King Jaehaerys I]] and [[Alysanne Targaryen|Queen Alysanne]]. He and his wife Jocelyn Baratheon had only one child, a daughter named Rhaenys.
+
+Aemon was born in 55 AC at [[Dragonstone]], whereupon Jaehaerys openly called him his heir. Queen Alysanne countered by stating that their daughter Daenerys should be the heir instead, being the elder. Jaehaerys suggested a marriage between the two, thereby making them both king and queen, but this did not entirely satisfy Alysanne.
+
+Aemon's younger brother [[Baelon Targaryen (son of Jaehaerys I)|Baelon]] followed Aemon wherever he went from the moment he learned to walk.
+
+In 62 AC, Aemon was officially named [[Prince of Dragonstone]], being the second to hold that title after [[Aegon Targaryen (son of Aenys)|Aegon the Uncrowned]]. He was betrothed to Jocelyn Baratheon in 68 AC, as Princess Daenerys died eight years earlier, and [[Alyssa Targaryen|Princess Alyssa]] was intended for Prince Baelon. Their wedding ceremony was said to be as grand as the Golden Wedding, an extravagant wedding in 49 AC between Alyssa Velaryon, Aemon's grandmother, and Rogar Baratheon.
+
+Aemon earned his [[Knighthood|knight]]'s spurs in a [[Tournament|tourney]] at [[Duskendale]] in 72 AC, in which he won the squires' mêlée. Upon his return to [[King's Landing]], he entered the [[Dragonpit]] and claimed the [[dragon]] [[Caraxes]]. Lady Jocelyn gave birth to Princess Rhaenys in 74 AC.
+
+In 81 AC, Aemon was named lord justiciar and [[Master of Laws|master of laws]].
+
+During the Fourth [[Dorne|Dornish]] War in 83 AC, Aemon, Baelon, and their father Jaehaerys mounted their dragons Caraxes, [[Vhagar]], and [[Vermithor]] and burned the Dornish fleet before it landed. They received high praise for having won a war without a single friendly casualty.
+
+In 92 AC, [[Tarth]] was invaded by [[Myr]]ish [[exile]]s. Aemon led the counterattack in what would become known as the Myrish Bloodbath. After meeting with Lord Cameron Tarth at a camp in the mountains, Aemon was shot dead by a crossbow bolt intended for Lord Tarth. Subsequently, King Jaehaerys passed over Aemon's daughter Rhaenys (and her unborn child [[Laena Velaryon|Laena]]) by immediately naming Baelon the new Prince of Dragonstone.
+
+==Appearances==
+*{{HOTD|The Heirs of the Dragon}} {{Mentioned}}
+*{{HOTD|Second of His Name}} {{Indirect}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Succession box-->
+{{S-start}}
+{{Succession box
+ | title  = [[Prince of Dragonstone]]
+ | years  = 
+ | with   = 
+ | before = [[Aegon Targaryen (son of Aenys)|Aegon Targaryen]]
+ | after  = [[Baelon Targaryen (son of Jaehaerys I)|Baelon Targaryen]]
+}}
+{{S-end}}
+
+<!--Navboxes-->
+{{House Targaryen/House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Targaryen, Aemon}}
+[[Category:Crownlanders]]
+[[Category:Individuals mentioned in House of the Dragon]]
+[[Category:Members of House Targaryen|Aemon Targaryen]]
+[[Category:Princes of Dragonstone|Aemon Targaryen]]
+
+<!--Languages-->
+[[de:Aemon Targaryen (Sohn von Jaehaerys I.)]]
+[[ru:Эймон Таргариен (сын Джейхейриса I)]]
+[[uk:Еймон Тарґеріен (син Джехеріса I)]]

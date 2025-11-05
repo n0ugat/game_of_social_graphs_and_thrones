@@ -1,0 +1,37 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Alexander Corne.jpg
+| Birth   = 
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]] {{*}} [[House of the Dragon: Season 2|2]]
+| Credits = 2 episodes {{Below|Credits}}
+| First   = "[[Second of His Name]]"
+| Last    = 
+}}
+'''Alexander Corne''' is a stuntman and actor.
+
+In ''[[House of the Dragon]]'', he was a stunt performer in the [[House of the Dragon: Season 1|first season]] episode "[[Second of His Name]]" and the [[House of the Dragon: Season 2|second season]] episode "[[A Son for a Son]]".
+
+==Credits==
+===Stunts===
+{{House of the Dragon: Season 1|||yes}}
+{{House of the Dragon: Season 2|yes}}
+
+==See also==
+*{{IMDb
+|# = 6723760}}
+*{{Twitter
+|# = alexanderRcorne}}
+*{{Instagram
+|# = alexandercorne}}
+*{{Facebook
+|# = alexanderRcorne}}
+*{{YouTube
+|# = user/alexandercorne}}
+*{{Linkedin
+|# = /in/alexander-corne-37322394}}
+{{DEFAULTSORT:Corne, Alexander}}
+[[Category:Stunt performers of House of the Dragon]]

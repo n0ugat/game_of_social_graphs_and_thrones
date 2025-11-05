@@ -1,0 +1,63 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Tyrell.svg
+| Link  = House Tyrell
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Tyrell
+| Image       = Alester Tyrell.png
+| Birth       = In [[Andalos]]
+| Death       = 
+| House       = [[House Tyrell|Tyrell]]
+| Affiliation = [[House Gardener]]
+| Titles      = [[Knighthood|Ser]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Andals|Andal]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|When the invaders arrived at the Reach led by Ser Alester Tyrell, House Gardener chose accommodation over battle, hoping honors and marriages would sate foreigners' ambition. The Tyrells were welcomed into service as hereditary stewards of Highgarden. Thousands of years later, they repaid the Gardeners for their acceptance.|[[Randyll Tarly]]|Highgarden (short)}}
+Ser '''Alester Tyrell''' was an [[Andals|Andal]] [[Knighthood|knight]] and the founder of [[House Tyrell]].
+
+==Biography==
+During the [[coming of the Andals]], Alester led the invasion of the [[Reach]]. The rulers of the region, [[House Gardener]], accepted him into their service, and House Tyrell became the hereditary stewards of their future seat [[Highgarden]].{{Ref|H&L704}}
+
+==In the books==
+In ''The World of Ice & Fire'', Alester Tyrell was one of many knights taken into the service of [[House Gardener]] and became the sworn shield of King Gwayne V Gardener, who was the last of the Three Sage Kings. Alester's eldest son became a notable [[Knighthood|knight]] but was killed in a [[Tournament|tourney]], while his second son Gareth was more studious and chose to serve as a royal [[steward]] instead of pursuing knighthood.
+
+==Appearances==
+*{{H&L|Highgarden}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Tyrell}}
+
+<!--Categories-->
+{{DEFAULTSORT:Tyrell, Alester}}
+[[Category:House founders]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Knights]]
+[[Category:Members of House Tyrell|Alester Tyrell]]
+
+<!--Languages-->
+[[ru:Алестер Тирелл]]

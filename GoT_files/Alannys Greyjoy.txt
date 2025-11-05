@@ -1,0 +1,89 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Leftimage  = House Harlaw.svg
+| Leftlink   = House Harlaw
+| Rightimage = House Greyjoy.svg
+| Rightlink  = House Greyjoy
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Greyjoy
+| Image       = 
+| Birth       = Alannys Harlaw<br>At [[Ten Towers]]
+| Death       = 
+| House       = [[House Harlaw|Harlaw]]<br>[[House Greyjoy|Greyjoy]] {{C|by marriage}}
+| Affiliation = 
+| Titles      = [[King#Queens|Queen Consort]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Ironborn]]
+| Religion    = [[Drowned God]]
+| Father      = 
+| Mother      = 
+| Spouse      = {[[Balon Greyjoy]]}
+| Lovers      = 
+| Children    = {[[Rodrik Greyjoy]]}<br>{[[Maron Greyjoy]]}<br>[[Yara Greyjoy]]<br>{[[Theon Greyjoy]]}
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|We both loved our mother. We both endured our father.|[[Yara Greyjoy]] to her brother [[Theon Greyjoy|Theon]]|The Prince of Winterfell}}
+Queen '''Alannys Greyjoy''', née '''Harlaw''', was born into [[House Harlaw]] and married [[Balon Greyjoy]], head of [[House Greyjoy]] and the [[Lord Reaper of Pyke]].
+
+==Biography==
+===Background===
+Alannys Greyjoy was born into [[House Harlaw]]{{Guideref|Viewer's Guide}} and [[Marriage|married]] [[Balon Greyjoy]], head of [[House Greyjoy]] and the [[Lord Reaper of Pyke]]. They had four children: [[Rodrik Greyjoy|Rodrik]], [[Maron Greyjoy|Maron]], [[Yara Greyjoy|Yara]], and [[Theon Greyjoy|Theon]].{{Ref|H&L202}}
+
+Her two eldest sons were killed in the [[Greyjoy Rebellion]]. Balon Greyjoy surrendered his and Alannys's only surviving son Theon, then aged 10, as a [[hostage]] as punishment for the uprising and to ensure there would be no others. [[Eddard Stark]] volunteered to raise Theon as his [[ward]] in [[Winterfell]].{{Ref|H&L201}}
+
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+When Yara is pleading with Theon to abandon his attempt to hold Winterfell and that he must return to Pyke, she says they are connected as they both loved their mother. The mention of Alannys makes Theon upset and look away.{{Ref|GOT208}}
+
+==Family==
+{{Greyjoy tree}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, her marriage to Lord Balon Greyjoy and the children they had remains the same, except that Yara is named Asha. Because the [[Harlaw|island of Harlaw]] is the wealthiest of the Iron Islands, House Harlaw is one of the few ironborn families that approach the Greyjoys in strength and influence. She has an older sister Gwynesse, who was widowed by the Greyjoy Rebellion, and a younger brother Lord Rodrik "the Reader" Harlaw. Her brother refers to her by the pet name "Lanny".
+
+Alannys was devastated by Theon being taken hostage and the deaths of her two eldest sons in the Greyjoy Rebellion, and began wandering the halls at night shrieking out their names. She had five ironborn boys brought to be fostered at Pyke, after Ned Stark brought Theon to Winterfell, including Tristifer Botley, a childhood love of Asha's. 
+
+When her psychosis worsened, she left Pyke to retire to the [[Ten Towers]], her family's seat on the island of Harlaw. Thus she is not present at Pyke when Theon returns to see his father. Asha briefly visits her mother before leaving to [[Attack on Deepwood Motte|conquer Deepwood Motte]]. During the visit, Alannys constantly asks about Theon, whom she thinks of as perpetually ten years old, his age when he was taken hostage. Asha feels she no longer knows her mother, though she is kind to her and answers her questions patiently.
+
+In ''A Feast for Crows'', when Asha returns to the Iron Islands following [[Assassination of Balon Greyjoy|her father's death]], she cannot bring herself to tell her mother Theon is dead (as Asha incorrectly assumes). Asha meets Tristifer Botley at Ten Towers, who informs her that he still only loves Asha. He has asked and received Alannys's consent to marry Asha, though Asha rejects the proposal.{{Bookref|AFFC|11}}
+
+Asha's uncle the Reader tells her that Alannys believes Balon was murdered. Asha muses "<em>There were times when she </em>[Alannys]<em> would gladly have murdered him herself</em>". It is unclear what Asha meant by that.
+
+Alannys has long white hair. She "never had the sort of beauty the singers cherished, but her daughter had loved her fierce strong face and the laughter in her eyes", although Asha now finds Alannys's eyes dim and cloudy.
+
+==Appearances==
+*{{GOT|The Prince of Winterfell}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Alannys Harlaw}}
+
+<!--Navboxes-->
+{{House Greyjoy}}
+
+<!--Categories-->
+{{DEFAULTSORT:Greyjoy, Alannys}}
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Ironborn]]
+[[Category:Ladies]]
+[[Category:Members of House Greyjoy|Alannys Greyjoy]]
+[[Category:Members of House Harlaw|Alannys Greyjoy]]
+[[Category:Queens]]
+
+<!--Languages-->
+[[de:Alannys Graufreud]]
+[[es:Alannys Harlaw]]
+[[fr:Alannys Greyjoy]]
+[[ru:Аланнис Харлоу]]

@@ -1,0 +1,33 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Ailias Smith.jpg
+| Birth   = 
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]]
+| Credits = 2 episodes {{Below|Credits}}
+| First   = "[[Rhaenyra the Cruel]]"
+| Last    = 
+}}
+'''Ailias Smith''' is a locations assistant and stuntwoman.
+
+In ''[[House of the Dragon]]'', she was a stunt performer in the [[House of the Dragon: Season 2|second season]] episodes "[[Rhaenyra the Cruel]]" and "[[The Red Sowing]]".
+
+==Credits==
+===Stunts===
+{{House of the Dragon: Season 2||yes|||||yes}}
+
+==See also==
+*{{IMDb
+|# = 9262828}}
+*{{Twitter
+|# = ailissmithh}}
+*{{Instagram
+|# = ailissmithh}}
+*{{YouTube
+|# = ailissmith5768}}
+
+{{DEFAULTSORT:Smith, Ailias}}
+[[Category:Stunt performers of House of the Dragon]]

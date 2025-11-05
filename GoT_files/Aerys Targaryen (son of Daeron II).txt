@@ -1,0 +1,80 @@
+{{DISPLAYTITLE:Aerys Targaryen {{C|son of Daeron II}}}}
+{{Canonicity|Canon}}
+{{Spoiler|AKOTSK}}
+{{Heraldry
+| Image = House Targaryen.svg
+| Link  = House Targaryen
+}}
+{{Character
+| Title       = Aerys Targaryen
+| Type        = Targaryen
+| Image       = 
+| Birth       = [[Red Keep]], [[King's Landing]]{{Con|AWOIAF}}
+| Death       = 
+| House       = [[House Targaryen/A Knight of the Seven Kingdoms|Targaryen]]{{Ref|GOT106}}
+| Affiliation = 
+| Titles      = [[Prince]]
+| AKA         = 
+| Culture     = [[Valyrians|Valyrian]]{{Ref|GOT106}}
+| Religion    = 
+| Father      = [[Daeron II Targaryen]]{{Ref|GOT106}}
+| Mother      = {[[Myriah Martell]]}{{Ref|GOT106}}
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Aerys Targaryen'''{{Note|[[High Valyrian]]: ''Aerys Targārien''}} is a [[prince]] of the [[House Targaryen|Targaryen dynasty]].
+
+==Biography==
+Aerys Targaryen is the son of King [[Daeron II Targaryen|Daeron the Good]] and Queen [[Myriah Martell]]. He is the younger brother of Prince [[Baelor Targaryen]] and older brother of Princes [[Rhaegel Targaryen|Rhaegel]] and [[Maekar Targaryen]].
+
+==Family==
+{{Targaryen tree (A Knight of the Seven Kingdoms)}}
+
+==In the books==
+[[File:Roman Papsuev - Aerys I Targaryen.jpg|thumb|300px|right|Aerys Targaryen by Roman "Amok" Papsuev.©]]
+In the ''[[A Song of Ice and Fire]]'' novels, Aerys is described as bookish. He was spindly and stooped, with long, straight hair. He had a long, thin face, a long, thin mustache and a long pointed beard.
+
+==Appearances==
+*{{GOT|Cripples, Bastards, and Broken Things}} {{Text}}
+*{{GOT|A Golden Crown}} {{Text}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|Aerys I Targaryen|Aerys Targaryen}} {{Spoilers|AKOTSK}}
+
+<!--Navboxes-->
+{{House Targaryen/A Knight of the Seven Kingdoms}}
+
+<!--Categories-->
+{{DEFAULTSORT:Targaryen, Aerys}}
+[[Category:Crownlanders]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Members of House Targaryen|Aerys Targaryen]]
+[[Category:Princes]]
+
+<!--Languages-->
+[[de:Aerys I. Targaryen]]
+[[es:Aerys I Targaryen]]
+[[fr:Aerys I Targaryen]]
+[[it:Aerys I Targaryen]]
+[[nl:Aerys I Targaryen]]
+[[pl:Aerys I Targaryen]]
+[[pt-br:Aerys I Targaryen]]
+[[ru:Эйрис Таргариен (сын Дейрона II)]]
+[[uk:Еріс Тарґеріен (син Дерона II)]]
+[[zh:伊里斯·坦格利安一世]]

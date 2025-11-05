@@ -1,0 +1,43 @@
+{{Crew
+| Title= Alik Sakharov
+| Image= Alik-Sakharov-200.jpg
+| dateofbirth= May 17, 1959
+| birthplace= Tashkent, USSR
+| job= Director of photography<br/>Director
+| imdb= http://www.imdb.com/name/nm0002399/
+}}
+'''Alik Sakharov''' (born May 17, 1959) is a Soviet-born American Emmy winning director of photography and television director. Born in Tashkent (in present-day Uzbekistan), he moved to the United States in 1981, becoming an American citizen in 1988.
+
+After directing some short films, documentaries and music videos in the 1980s and 1990s, he started working closely with [[HBO]], serving as a director of photography on ''[[wikipedia:The Sopranos|The Sopranos]]'', ''[[wikipedia:Rome (TV series)|Rome]]'' (for which he won an [[wikipedia:Emmy Award|Emmy Award]]) and ''[[wikipedia:Sex and the City|Sex and the City]]''. He also directed one episode of ''Rome'', as well as some episodes of ''[[wikipedia:Brotherhood (2006 TV series)|Brotherhood]]'', ''[[wikipedia:Easy Money (TV series)|Easy Money]]'' and ''[[wikipedia:Rubicon (TV series)|Rubicon]]''.
+
+On ''[[Game of Thrones]]'' Sakharov debuted in the [[Game of Thrones: Season 1|first season]], working as a director of photography on four episodes. For the [[Game of Thrones: Season 2|second season]], he became a full director, a position he retains in both the [[Game of Thrones: Season 3|third]] and [[Game of Thrones: Season 4|fourth]] seasons.<ref>[http://www.westeros.org/GoT/News/Entry/Season_3_Directors/ Westeros.org]</ref>
+
+==Credits==
+===Director of photography===
+{{Game of Thrones: Season 1|yes|yes|||||||yes|yes}}
+
+===Director===
+{{Game of Thrones: Season 2|||yes}}
+{{Game of Thrones: Season 3||||||yes}}
+{{Game of Thrones: Season 4||||||yes|yes}}
+
+==See also==
+*{{WP}}
+*{{Template:IMDb
+|# = 0002399}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{Game of Thrones: Inside the Episode}}
+
+<!--Categories-->
+{{DEFAULTSORT:Sakharov, Alik}}
+[[Category:Commentators of Game of Thrones: Inside the Episode]]
+[[Category:Directors of Game of Thrones]]
+
+<!--Languages-->
+[[de:Alik Sakharov]]
+[[pt-br:Alik Sakharov]]
+[[ru:Алик Сахаров]]
