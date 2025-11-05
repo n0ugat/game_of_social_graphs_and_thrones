@@ -1,0 +1,48 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Serrett.svg
+| Link  = House Serrett
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Lannister
+| Image        = Silverhill Pin.png
+| Type         = Castle
+| Status       = 
+| Location     = The [[Westerlands]], [[Westeros]]
+| Population   = 
+| Rulers       = [[House Serrett]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Silverhill'''{{Ref|GOT105}} is a castle in the [[Westerlands]], the region controlled by [[House Lannister]] of [[Casterly Rock]]. The castle is located in the woodlands south-east of Casterly Rock and south of [[Deep Den]]. It is ruled by [[House Serrett]].
+
+==History==
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+Silverhill is mentioned in a letter on [[Tywin Lannister|Tywin]]'s table at [[Harrenhal]] regarding troop movements.<ref>"[[The Old Gods and the New]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Silverhill is in the same location. It is assumed to be named for veins of silver located in the nearby hills.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Westerlands}}
+
+<!--Categories-->
+[[Category:Castles of the Westerlands]]
+[[Category:House Serrett]]
+
+<!--Languages-->
+[[de:Silberhügel]]
+[[es:Refugio de Plata]]
+[[it:Sala d'Argento]]
+[[ru:Серебряный Холм]]
+[[zh:银厅]]

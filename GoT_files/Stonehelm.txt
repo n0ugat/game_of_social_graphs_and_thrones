@@ -1,0 +1,48 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Swann.svg
+| Link  = House Swann
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Baratheon
+| Image        = 
+<gallery>
+Stormlands Map from Robert's Rebellion - Histories & Lore.png|Appearance
+Stonehelm Pin.png|Location
+</gallery>
+| Type         = Castle
+| Status       = 
+| Location     = The [[Stormlands]], [[Westeros]]
+| Population   = 
+| Rulers       = [[House Swann]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Stonehelm'''{{Ref|H&L204}} is a castle in the [[Stormlands]] and the seat of [[House Swann]], a vassal house holding fealty to [[House Baratheon]] of [[Storm's End]]. The castle is located southwest of Storm's End on the northern shore of the [[Sea of Dorne]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Stonehelm is located at the mouth of a river, at the south end of Cape Wrath and east of the Dornish Marches. It was built to oversee a major river route inland to the Stormlands.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Swann}}
+{{Stormlands}}
+
+<!--Categories-->
+[[Category:Castles of the Stormlands]]
+[[Category:House Swann]]
+
+<!--Languages-->
+[[de:Steinhelm]]
+[[pl:Kamienny Hełm]]
+[[ru:Каменный Шлем]]
+[[uk:Кам'яний Шолом]]

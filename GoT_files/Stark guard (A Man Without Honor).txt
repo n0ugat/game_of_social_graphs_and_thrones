@@ -1,0 +1,56 @@
+{{DISPLAYTITLE:Stark guard {{C|A Man Without Honor}}}}
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Character
+| Title       = Stark guard
+| Type        = Stark
+| Image       = Stark guard (Man Without Honor).jpg
+| Birth       = In the [[North]]
+| Death       = 
+| House       = 
+| Affiliation = [[House Stark]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Northmen|Northern]]
+| Religion    = [[Old Gods]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 2|2]]
+| Appearances = 2 episodes {{Below|Appearances}}
+| First       = "[[A Man Without Honor]]"
+| Last        = "[[The Prince of Winterfell]]"
+| DeathEp     = 
+| Actor       = [[David Sheehan]]
+}}
+{{Dialogue a-b-a|Catelyn Stark|I need to be alone with him.|Guard|M'lady, our orders...|Your orders, which I just gave you, are to leave me alone with him.|[[Catelyn Stark]] orders the guard|A Man Without Honor}}
+A '''Stark guard''' is a guardsman sworn to [[House Stark]].
+
+==Biography==
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+He is guarding the recaptured [[Jaime Lannister|Jaime]] when he is dismissed by [[Catelyn Stark|Catelyn]].{{Ref|GOT207}}
+
+He is assigned to guard Catelyn after she betrays [[Robb Stark|Robb]] by releasing Jaime.{{Ref|GOT208}}
+
+==Appearances==
+*{{GOT|A Man Without Honor}}
+*{{GOT|The Prince of Winterfell}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Men-at-arms]]
+[[Category:Northmen]]
+[[Category:Servants and retainers of House Stark]]
+[[Category:Smallfolk]]
+
+<!--Languages-->
+[[ru:Охранник Старков (Человек без чести)]]

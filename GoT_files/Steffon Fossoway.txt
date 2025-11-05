@@ -1,0 +1,63 @@
+{{Canonicity|Canon}}
+{{Spoiler|AKOTSK}}
+{{Heraldry
+| Image = House Fossoway.svg
+| Link  = House Fossoway
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Tyrell
+| Image       = 
+| Birth       = At [[Cider Hall]]
+| Death       = 
+| House       = [[House Fossoway|Fossoway]]
+| Affiliation = 
+| Titles      = [[Knighthood|Ser]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Reach]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[A Knight of the Seven Kingdoms]]''
+| Season      = [[A Knight of the Seven Kingdoms: Season 1|1]]
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Edward Ashley]]{{Webref|name=varietyref |author=Steffan Hill |date=August 8, 2024 |url=https://variety.com/2024/tv/news/knight-of-the-seven-kingdoms-cast-game-of-thrones-1236100291/ |title=‘Game of Thrones’ Spinoff ‘A Knight of the Seven Kingdoms’ Adds 7 to Cast, Including Another Targaryen  |website=Variety |access-date=August 8, 2024 }}
+}}
+Ser '''Steffon Fossoway''' is a [[Knighthood|knight]] of [[House Fossoway]] of [[Cider Hall]] during the reign of [[Daeron II Targaryen|Daeron II]].{{Ref|H&L416}}
+
+==In the books==
+In the [[Dunk & Egg novellas]], Steffon is quick and muscular. His destrier is named Wrath. His cousin [[Raymun Fossoway|Raymun]] is his [[squire]].
+
+==Appearances==
+*{{H&L|Justice of the Seven Kingdoms}} {{Illustrated}}
+
+===Forthcoming===
+{{Collapse|
+*{{AKOTSK|Season 1}}{{Webref|name=GRRMegg |author=George R.R. Martin |date=May 21, 2024 |url=https://georgerrmartin.com/notablog/2024/05/21/heres-egg/ |title=Here's Egg! |website=Not a Blog |access-date=May 21, 2024 }} {{Unreleased}}
+}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|AKOTSK}}
+
+<!--Categories-->
+{{DEFAULTSORT:Fossoway, Steffon}}
+[[Category:Individuals appearing in A Knight of the Seven Kingdoms]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Individuals from the Reach]]
+[[Category:Knights]]
+[[Category:Members of House Fossoway|Steffon Fossoway]]
+
+<!--Languages-->
+[[pl:Steffon Fossoway]]

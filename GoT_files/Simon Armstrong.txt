@@ -1,0 +1,27 @@
+{{Cast
+|Title = Simon Armstrong
+|Image = Simon Armstrong.jpg
+|role = [[Qhorin]]
+|status = 
+|First = "[[The Ghost of Harrenhal]]"
+|Last = "[[Valar Morghulis]]"
+|imdb = http://www.imdb.com/name/nm1409802/
+}}'''Simon Armstrong''' is a British actor with numerous credits on stage and screen, including a recurring role on the British soap opera ''[[wikipedia:Casualty (TV series)|Casualty]]''.
+
+In ''[[Game of Thrones]]'' Armstrong is playing the role of [[Qhorin]]. He was announced in the role on 13 October 2011.<ref>[http://grrm.livejournal.com/243753.html George R.R. Martin's blog]</ref> He joined the cast as a guest star in the [[Game of Thrones: Season 2|second season]].
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 2|||||yes|yes||yes||yes}}
+
+==See also==
+*{{Template:IMDb
+|# = 1409802}}
+* [http://www.spotlight.com/interactive/cv/cv.asp?ref=M17811&pub=1&pic=html&tab=2 Simon Armstrong's Spotlight page.]
+
+==References==
+{{Reflist|2}}[[de:Simon Armstrong]]
+[[fr:Simon Armstrong]]
+[[ru:Саймон Армстронг]]
+{{DEFAULTSORT:Armstrong, Simon}}
+[[Category:Guest starring cast members of Game of Thrones]]

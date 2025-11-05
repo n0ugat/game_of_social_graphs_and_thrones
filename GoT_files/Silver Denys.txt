@@ -1,0 +1,62 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Targaryen
+| Image       = 2x7 Silver Denys Infobox.png
+| Birth       = 
+| Death       = [[132 AC]]{{Dateref|House of the Dragon: Season 2}}<br>[[Dragonmont]], [[Dragonstone]]{{Ref|HOTD207}}
+| House       = 
+| Affiliation = 
+| Titles      = 
+| AKA         = 
+| Culture     = [[Crownlands|Crownlander]]{{Con|F&B}}
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 2|2]]
+| Appearances = "[[The Red Sowing]]"
+| First       = 
+| Last        = 
+| DeathEp     = "The Red Sowing"
+| Actor       = [[Robert Rhodes]]
+}}
+'''Silver Denys''' was a [[dragonseed]] living during the [[Dance of the Dragons]].
+
+==Biography==
+===[[House of the Dragon: Season 2|''House of the Dragon'': Season 2]]===
+During the [[Red Sowing]], [[Elinda Massey]] contacts Denys in [[King's Landing]], summoning him to [[Dragonstone]]. He is the first to approach [[Vermithor]] and attempt to claim him. He fails, and the [[dragon]] burns him alive.{{Ref|HOTD207}}
+
+==In the books==
+In ''[[Fire & Blood]]'', Silver Denys lived on Dragonstone at the start of the [[Dance of the Dragons]]. He claimed descent from a [[bastard]] son of King [[Maegor Targaryen|Maegor the Cruel]], though many doubted this as Maegor was widely believed to have been sterile. None denied that Denys must have had some Valyrian blood (through some other, unspecified path) due to his classic Valyrian features of silver hair and purple eyes.{{Bookref|F&B|15}}
+
+Denys attempted to claim [[Sheepstealer]], not Vermithor. Sheepstealer ripped his arm off, and while his sons were trying to staunch the wound, the [[Cannibal]] descended on them and devoured them all.
+
+==Appearances==
+*{{HOTD|The Red Sowing}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Categories-->
+[[Category:Crownlanders]]
+[[Category:Dragonseeds]]
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Smallfolk]]
+
+<!--Languages-->
+[[es:Denys Argenta/House of the Dragon]]
+[[fr:Denys l'Argenté]]
+[[ru:Серебряный Денис]]
+[[uk:Срібний Деніс]]

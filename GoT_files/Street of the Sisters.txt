@@ -1,0 +1,45 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Crownlander
+| Image        = OT King's Landing.png
+| Type         = Street
+| Status       = 
+| Location     = [[King's Landing]], the [[Crownlands]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = 
+| Places       = 
+| Founded      = 
+}}
+{{Quote|Without the Street of Sisters, the king would have no humility; it leads from the ruin of the Dragonpit to the ruin of the Great Sept of Baelor, where the Targaryens and Baratheons buried their kings until Cersei Lannister unburied them.|[[Varys]]|King's Landing (short)}}
+The '''Street of the Sisters''',{{Scriptref|HOTD101}} also called the '''Street of Sisters''',{{Ref|GOT104}} is a street in [[King's Landing]] that runs from the [[Dragonpit]] to the [[Great Sept of Baelor]].
+
+==History==
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+[[Rhaenyra Targaryen|Rhaenyra]] and [[Alicent Hightower|Alicent]] ride a wheelhouse through the Street of the Sisters on their way to the [[Red Keep]].{{Ref|HOTD101}}{{Scriptref|HOTD101}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the Street of Sisters is one of four streets that starts at the great square in the centre of [[King's Landing]], with the other three being the God's Way, the King's Way and the Muddy Way. The [[Guildhall|Guildhall of the Alchemists]] is located upon it and the [[Prostitution|brothel]] known as the House of Kisses is located at the end of the street atop Visenya's Hill.
+
+Lady Baela Targaryen was known to take part in drunken [[horse]] races along the street.
+
+In ''A Game of Thrones'', a drunken horse race takes place along the street during the build up to the [[Hand of the King|Hand]]'s [[Tournament|Tourney]]. [[Arya Stark|Arya]] travels along the street when she makes her way to the Great Sept of Baelor, to witness the [[Execution of Eddard Stark|her father's execution]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Crownlands}}
+
+<!--Categories-->
+[[Category:King's Landing]]
+[[Category:Streets|Sisters]]
+
+<!--Languages-->
+[[ru:Улица Сестёр]]

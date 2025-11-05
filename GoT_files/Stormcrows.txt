@@ -1,0 +1,60 @@
+{{Canonicity|Canon}}
+{{Organization
+| Title       = {{PAGENAME}}
+| Theme       = Free
+| Image       = 
+| Type        = Sellsword company
+| Status      = Active
+| Symbol      = 
+| Words       = 
+| Center      = [[Essos]]
+| Leader      = 
+| Affiliation = For hire<br>[[House Baratheon of Dragonstone]] {{C|formerly}}
+| Religion    = 
+| Military    = 500 cavalry
+| Founded     = 
+}}
+{{Quote|Sellswords. Loyal to nothing but gold.|[[Stannis Baratheon]] after the Stormcrows abandon his army|The Gift}}
+The '''Stormcrows'''{{Ref|GOT507}} are a [[Mercenary#Sellsword companies|sellsword company]] composed of five hundred mounted soldiers.
+
+==History==
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+Before marching to the [[Wall]] to protect the [[Night's Watch]],{{Ref|GOT310}} [[Stannis Baratheon]] is persuaded by [[Davos Seaworth|Davos]] to hire sellswords, though the king is resistant to use mercenaries, who he claims cannot be trusted —and they lack the money to hire them anyway.{{Ref|GOT403}} After securing a loan from the [[Iron Bank of Braavos]],{{Ref|GOT406}} Stannis hires the Stormcrows.{{Ref|GOT507}} They accompany Stannis to [[Castle Black]], where they are part of the cavalry that [[Battle for the Wall|charges]] into [[Mance Rayder]]'s camp, quickly dispatching the [[Free Folk]] army.{{Ref|GOT410}}
+
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+[[File:StannisMelisandreTheGift.jpg|thumb]]
+During Stannis's march on [[Winterfell]], a snowstorm stalls them, and the five hundred Stormcrows desert his army during the night. Stannis is not surprised and remarks to Davos that sellswords are only loyal to gold.{{Ref|GOT507}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the Stormcrows are a mercenary company found in the [[Free Cities]], numbering five hundred horse. Their banner displays four crows between crossed lightning bolts. They are hired by [[Yunkai]] to defend it from [[Daenerys Targaryen|Daenerys]] along with the [[Second Sons]]. Their captains are [[Prendahl na Ghezn]], Sallor the Bald and [[Daario Naharis]]. After the parley with Daenerys, Daario kills his co-commanders and joins Daenerys's host, taking part in Battle of Yunkai and the conquest of Meereen. In the [[Game of Thrones|television adaptation]], their plotline is merged with that of the Second Sons.
+
+In contrast to the Second Sons who switched sides in the fifth novel, the Stormcrows are totally loyal to Daenerys, no matter how far her position grows worse, even after her departure from Meereen. While their commander is held hostage by the Yunkai, the Stormcrows are represented at the ruling council by two seasoned sellswords, an archer named Jokin and a scarred and sour axeman known as the Widower.
+
+Unlike in the show, the Stormcrows are not involved at all in Stannis's military campaign in the North.
+
+At the point the novels reached, Stannis has not hired any sellsword company yet. His host is about 5,000 men, including his own knights, survivors of the Northern Houses (among them the [[House Mormont|Mormonts]]) and members of the Northern mountain clans; so far, he has lost only 80 men (either died or deserted).
+
+In the sample chapter of the sixth novel, Stannis orders Ser Justin Massey to travel to Braavos and hire at least 20,000 sellswords, either of the [[Golden Company]] or any company with good reputation. It is doubtful, though, that Massey will manage to travel to Braavos and back in time before the battle of Winterfell ends.
+
+===Known members===
+*{Prendahl na Ghezn}, formerly a captain. Killed by Daario
+*{Sallor the Bald}, formerly a captain. Killed by Daario
+*Daario Naharis, the commander. Currently held hostage by the Yunkai'i who besiege Meereen, temporarily replaced by the Widower and Jokin
+*Widower, scarred axeman, second-in-command
+*Jokin, archer
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+[[Category:Mercenaries]]
+[[Category:Military organizations]]
+
+<!--Languages-->
+[[fr:Corbeaux Tornade]]
+[[pl:Wrony Burzy]]
+[[ru:Вороны-буревестники]]
+[[zh:暴鸦团]]

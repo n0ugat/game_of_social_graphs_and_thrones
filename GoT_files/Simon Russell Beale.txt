@@ -1,0 +1,37 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Simon Russell Beale.jpg
+| Birth   = January 12, 1961 {{Age|1961|1|12}}<br>Penang, Malaya
+| Death   = 
+| Role    = [[Simon Strong]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]]
+| Credits = 6 episodes {{Below|Credits}}
+| First   = "[[The Burning Mill]]"
+| Last    = 
+}}
+'''Sir Simon Russell Beale''' CBE (born 12 January 1961) is a veteran English theatre actor.
+
+In ''[[House of the Dragon]]'', he plays [[Simon Strong]] in the [[House of the Dragon: Season 2|second season]].<ref name="Variety">[https://variety.com/2023/tv/news/house-of-the-dragon-alys-rivers-season-2-1235592500/ 'House of the Dragon' Season 2 Casts Alys Rivers and Three More Characters | ''Variety'']</ref>
+
+==Credits==
+===Starring===
+{{House of the Dragon: Season 2|||yes|yes|yes|yes|yes|yes}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{WP}}
+*{{IMDb|#=0750971}}
+
+<!--Navboxes-->
+{{House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Beale, Simon Russell}}
+[[Category:Starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Simon Russell Beale]]

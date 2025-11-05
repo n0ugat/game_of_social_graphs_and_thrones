@@ -1,0 +1,33 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Tok Stephen.png
+| Birth   = 
+| Death   = 
+| Role    = [[Eddard Waters]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]]
+| Credits = 7 episodes {{Below|Credits}}
+| First   = "[[A Son for a Son]]"
+| Last    = "[[Smallfolk (episode)|Smallfolk]]"
+}}
+'''Tok Stephen''' is an actor.
+
+Stephen plays [[Eddard Waters]] in the [[House of the Dragon: Season 2|second season]] of ''[[House of the Dragon]]''.<ref>https://twitter.com/redanianintel/status/1686532146268196864</ref>
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 2|yes|yes|yes|yes|yes|yes|yes}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb|#=10379150}}
+
+<!--Categories-->
+{{DEFAULTSORT:Stephen, Tok}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Tok Stephen]]

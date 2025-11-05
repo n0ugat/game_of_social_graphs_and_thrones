@@ -1,0 +1,43 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Hightower
+| Image        = Sun House Pin.png
+| Type         = Castle
+| Status       = 
+| Location     = The [[Reach]], [[Westeros]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Sunhouse''',{{Guideref|Map of Westeros}} also known as '''Sunflower Hall''',{{Ref|GOT701}} is a castle in the [[Reach]], the region controlled by [[House Tyrell]] of [[Highgarden]]. The castle is located on the south coast of [[Westeros]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels Sunhouse is the seat of House Cuy and is located on the [[Summer Sea]] near the mouth of the Torentine. It is called "Sunflower Hall" in the appendix of ''A Feast for Crows''.
+
+==Appearances==
+*{{GOT|Dragonstone}} {{Map}} {{C|as Sunflower Hall}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Reach}}
+
+<!--Categories-->
+[[Category:Castles of the Reach]]
+
+<!--Languages-->
+[[de:Sonnheim]]
+[[es:Refugio del Girasol]]
+[[nl:Zonnebloemhal]]
+[[pt-br:Casasolar]]
+[[ru:Солнечный Дом]]
+[[zh:阳屋城]]

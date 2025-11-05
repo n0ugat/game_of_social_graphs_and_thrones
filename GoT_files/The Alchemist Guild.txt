@@ -1,0 +1,110 @@
+{{SameName|short|ancient order|Alchemists' Guild}}
+{{Short
+| Title    = {{PAGENAME}}
+| Type     = Lore
+| Image    = H&L218.png
+| Season   = 2
+| Short    = 18
+| Date     = February 19, 2013{{Webref|name=Blu-ray |author=Charlie Harwood |date=November 19, 2012 |url=https://hbowatch.com/hbo-issues-release-date-and-details-for-game-of-thrones-s2-dvdblu-ray/ |title=Release Date & Details for Game of Thrones Season 2 DVD/Blu-Ray |website=HBO Watch |access-date=December 15, 2023 }}
+| Runtime  = 4 minutes{{Ref|H&L218}}
+| Narrator = [[Hallyne]]{{Boxref|GOT2}}
+| Writer   = [[Dave Hill]]{{Webref|name=Hill |author=Vanessa Cole |date=July 22, 2017 |url=https://web.archive.org/web/20201111213241/https://watchersonthewall.com/game-thrones-writer-dave-hill-gives-behind-scenes-look-creative-process/ |title=Game of Thrones writer Dave Hill gives a behind the scenes look at the creative process |website=Watchers on the Wall |access-date=December 15, 2023 }}
+| Director = 
+| Previous = "[[The Drowned God]]"{{Boxref|GOT2}}
+| Next     = "[[The Warlocks]]"{{Boxref|GOT2}}
+}}
+"'''The Alchemist Guild'''"{{Boxref|GOT2}} is the eighteenth short of the [[Histories & Lore: Season 2|second season]] of ''[[Histories & Lore]]''. It is the forty-second short of the series overall. It was released on February 19, 2013 in ''[[Game of Thrones: The Complete Second Season]]''. It was narrated by [[Roy Dotrice]] as [[Hallyne]] and written by [[Dave Hill]].
+
+==Premise==
+{{Premise|H&L218}}
+
+==Narration==
+'''Hallyne''': ''[[Dragon]]s [[Aegon's Conquest|conquered]] the [[Seven Kingdoms]]. But to rule them, the [[House Targaryen|Targaryens]] needed a less temperamental tool.''
+
+''When the great King [[Maegor Targaryen|Maegor]] saw the power of the [[Alchemists' Guild]], he blessed us with his patronage.''
+
+''In those days, we commonly transmuted metals and other wonders, but the King was most interested in our mastery of the Substance, which those not of our order dub "[[wildfire]]."''
+
+''A slight misnomer. To the uninitiated, the Substance indeed seems uncontrollable. Water will not extinguish it, nor plate of steel, repel it.''
+
+''Our order alone knows its secrets. In bare stone cells beneath the [[Guildhall]], our acolytes prepare the Substance with utmost care and ancient magic. [[Apprentice]]s then remove the jars to a secure storage. Overseeing its purity are the [[Wisdom]]s such as [[Hallyne|myself]], who are adept in the alchemical mysteries.''
+
+''Should an [[acolyte]] prove unworthy and allow the Substance to ignite, the ceilings are spelled to collapse and fill the room with sand. For once lit, only smothering or starvation will quench the fire.''
+
+''Many years did the Alchemists' Guild served the Targaryens faithfully, until we were beset on all sides by the envious.''
+
+''The [[Order of Maesters]], who dismissed all learning except their own and the charlatans who hawked green paint, and worse, in our names.''
+
+''After the unfortunate Prince [[Aerion Targaryen]], drunk with wine, boasted that a draft of the Substance would transmute him into a [[dragon]], we lost our royal favor.''
+
+''Then came the wise King [[Aerys II Targaryen|Aerys, Second of His Name]]. I was merely an acolyte when he restored our Guild to its former glory. As had his great forefathers, he appreciated our secret arts, even naming Wisdom [[Rossart]] as [[Hand of the King]]. Together, they punished his enemies as befits a true Targaryen.''
+
+''During the [[Robert's Rebellion|War of the Usurper]], I heard whispers that King Aerys had engaged our the greatest Wisdoms for an [[Wildfire plot|ultimate weapon]] against [[Robert Baratheon|his foe]].''
+
+''But, sadly, [[King's Landing]] must have [[Sack of King's Landing|fallen]] before it could be used, and many of our Wisdoms disappeared in the sack of the city. Victims of ignorance and envy as ever, I'd wager.''
+
+''Yet our order perseveres, Like the Substance, which grows ever more potent as it ages, we perfect our ancient arts in darkness, forgotten by the world. We are masters of the fire but live only to serve.''
+
+''All we need is the right spark.''
+
+==Appearances==
+===Individuals===
+* King [[Aegon I Targaryen]], the "Conqueror" {{Unnamed}}
+* [[Balerion]], the "Black Dread" {{Unnamed}}
+* King [[Maegor Targaryen]], the "Cruel"
+* Prince [[Aerion Targaryen]], "Brightflame"
+* King [[Aerys II Targaryen]], the "Mad King"
+* [[Wisdom]] [[Rossart]]
+* Lord [[Rickard Stark]] {{Unnamed}}
+* [[Brandon Stark]] {{Unnamed}}
+* Lord [[Robert Baratheon]] {{Indirect}}
+
+===Institutions===
+* [[Alchemists' Guild]]
+* [[Order of Maesters]]
+
+===Locations===
+*[[King's Landing]]
+** [[Guildhall]]
+** [[Throne room]]
+
+===Events===
+*[[Aegon's Conquest]]
+*[[Robert's Rebellion]]
+**[[Sack of King's Landing]] {{Mentioned}}
+***[[Wildfire plot]] {{Indirect}}
+
+===Titles===
+*[[Wisdom]]
+*[[Acolyte]]
+*[[Apprentice]]
+
+===Miscellaneous===
+*[[Dragon]]
+*[[Wildfire]]
+
+==Cast==
+*[[Roy Dotrice]] as [[Hallyne]]
+
+==Gallery==
+<gallery bordersize="none">
+Game of Thrones S2 Bluray Extra: The History of the Alchemists
+The Alchemist Guild
+</gallery>
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{Histories & Lore}}
+
+<!--Categories-->
+{{DEFAULTSORT:Alchemist Guild, The}}
+[[Category:Shorts narrated by Hallyne]]
+[[Category:Shorts of Histories & Lore: Season 2| 18]]
+[[Category:Shorts released in 2013|2.19R]]
+[[Category:Shorts written by Dave Hill]]
+
+<!--Languages-->
+[[fr:La Guilde des Alchimistes (Histoires & Traditions)]]
+[[pt-br:A Guilda dos Alquimistas (História e Tradição)]]

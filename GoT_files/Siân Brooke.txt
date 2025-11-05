@@ -1,0 +1,43 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Sian Brooke.jpg
+| Birth   = Siân Elizabeth Phillips<br>1980 {{Age|1980|12|31}}<br>Lichfield, Staffordshire, England
+| Death   = 
+| Role    = [[Aemma Arryn]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]] {{*}} [[House of the Dragon: Season 2|2]]
+| Credits = 2 episodes {{Below|Credits}}
+| First   = "[[The Heirs of the Dragon]]"
+| Last    = "[[Smallfolk (episode)|Smallfolk]]"
+}}
+'''Siân Brooke'''{{Note|Credited in "[[The Heirs of the Dragon]]" as "Sian Brooke"}} (born '''Siân Elizabeth Phillips''', 1980) is an English actress.
+
+In ''[[House of the Dragon]]'', she portrayed [[Aemma Arryn]].
+
+==Biography==
+Siân Elizabeth Phillips was born in Lichfield, Staffordshire, England in 1980 to Welsh parents, a police officer and a teacher, and is the youngest of three siblings. To avoid confusion with fellow actress Siân Phillips, she changed her name to Siân Brooke after the English Civil War general Robert Greville, 2nd Baron Brooke, who was killed at Lichfield. She is married and has two children, and is an ambassador for The Glacier Trust.
+
+Her acting debut was as Krista in the TV series ''Dinotopia'' in 2002. She is best known for starring in the fourth season of ''Sherlock'' as Eurus in 2017.
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1|yes}}
+{{House of the Dragon: Season 2||||||yes}}
+
+==See also==
+*{{WP}}
+*{{IMDb|#=1604939}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+{{DEFAULTSORT:Brooke, Siân}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+
+<!--Interwiki links-->
+[[fr:Sian Brooke]]

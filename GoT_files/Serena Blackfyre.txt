@@ -1,0 +1,66 @@
+{{Canonicity|Non}}
+{{Heraldry
+| Image = House Blackfyre.svg
+| Link  = House Blackfyre
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Blackfyre
+| Image       = History and Lineages Blackfyre.jpg
+| Birth       = 
+| Death       = 
+| House       = [[House Blackfyre|Blackfyre]] {{C|by marriage}}
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = {[[Daemon Blackfyre]]}
+| Lovers      = 
+| Children    = {[[Aegon Blackfyre]]}<br>{[[Aemon Blackfyre]]}<br>{[[Daemon Blackfyre (son of Daemon)|Daemon II Blackfyre]]}<br>{[[Haegon Blackfyre]]}
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Serena Blackfyre''' was the wife of [[Daemon Blackfyre]], legitimized [[bastard]] son of [[King]] [[Aegon IV Targaryen]] and his cousin, [[Daena Targaryen]].
+
+==Biography==
+===Background===
+Serena Blackfyre was a peasant girl who married [[Daemon Blackfyre]], legitimized [[bastard]] son of [[King]] [[Aegon IV Targaryen]] and his cousin, [[Daena Targaryen]]. She was the mother of the twins [[Aegon Blackfyre|Aegon]] and [[Aemon Blackfyre]], as well as [[Daemon Blackfyre (son of Daemon)|Daemon II Blackfyre]]{{Ref|GOT104}} and [[Haegon Blackfyre]]. Her marriage to Daemon was arranged by Daemon's half-brother, King [[Daeron II Targaryen]].{{Ref|h&l803}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+Serena, along with her offspring, is mentioned in the [[House Targaryen]] entry of the book ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]''. Her entry specifies that she was a peasant. Serena and Daemon must have married prior to 183 AC, when the couple's eldest sons (twins Aegon and Aemon) were born.{{Ref|GOT104}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no mention of a Serena Blackfyre, and there was no name given to Daemon Blackfyre's wife when Season 1 premiered. However, ''The World of Ice & Fire'' reveals that Daemon was married to Rohanne of Tyrosh, a match that was arranged by his father, Aegon IV and finalized by his half-brother, Daeron II.
+
+==Appearances==
+*{{GOT|Cripples, Bastards, and Broken Things}} {{Text}}
+*{{GOT|A Golden Crown}} {{Text}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Rohanne of Tyrosh}}
+
+<!--Categories-->
+{{DEFAULTSORT:Blackfyre, Serena}}
+[[Category:Crownlanders]]
+[[Category:Ennobled commoners]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Members of House Blackfyre|Serena Blackfyre]]
+
+<!--Languages-->
+[[de:Serena Schwarzfeuer]]
+[[fr:Serena Feunoyr]]
+[[ru:Серена Блэкфайр]]

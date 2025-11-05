@@ -1,0 +1,34 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Steven Pacey.jpg
+| Birth   = June 5, 1957 {{Age|1957|6|5}}<br>Leamington Spa, Warwickshire, England
+| Death   = 
+| Role    = [[Gunthor Darklyn]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]]
+| Credits = "[[The Red Dragon and the Gold]]"
+| First   = 
+| Last    = 
+}}
+'''Steven Pacey''' (born 5 June 1957) is an English actor.
+
+Pacey plays [[Gunthor Darklyn]] in the [[House of the Dragon: Season 2|second season]] of ''[[House of the Dragon]]''.<ref>https://twitter.com/RedanianIntel/status/1703461360040824959</ref>
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 2||||yes}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{WP}}
+*{{IMDb|#=0655218}}
+
+<!--Categories-->
+{{DEFAULTSORT:Pacey, Steven}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Steven Pacey]]

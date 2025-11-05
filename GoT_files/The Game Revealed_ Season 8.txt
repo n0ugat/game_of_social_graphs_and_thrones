@@ -1,0 +1,73 @@
+{{DISPLAYTITLE:''The Game Revealed'': Season 8}}
+{{Season
+| Season     = 8
+| Type       = Revealed
+| Image      = {{PAGENAME}}.jpg
+| Episodes   = 5{{Listref|TGR}}
+| Premiere   = "[[Winterfell (The Game Revealed)|Winterfell]]"{{Listref|TGR}}
+| Finale     = "[[The Bells (The Game Revealed)|The Bells]]"{{Listref|TGR}}
+| Network    = 
+| First      = April 16, 2019{{Listref|TGR78}}
+| Final      = May 13, 2019{{Listref|TGR78}}
+| Runtime    = 16{{Appleref|TGR801}}-38 minutes{{Appleref|TGR803}} {{C|per episode}}
+| Home       = 
+| Starring   = 
+| Producers  = 
+| Writers    = 
+| Directors  = 
+| Production = 
+| Wrapped    = 
+| Year       = 
+| Previous   = [[The Game Revealed: Season 7|Season 7]]{{Listref|TGR}}
+| Next       = 
+}}
+'''''The Game Revealed'': Season 8''' is the third and final season of ''[[The Game Revealed]]''. It consists of five episodes. It premiered with "[[Winterfell (The Game Revealed)|Winterfell]]" on April 16, 2019, and concluded with "[[The Bells (The Game Revealed)|The Bells]]" on May 13, 2019.
+
+==Description==
+{{Description|TGR8}}
+
+==Episodes==
+{| {{Prettytable}}
+! Episode
+! Image
+! Title
+! Release date
+|-
+| style="text-align: center;" | 1{{Listref|TGR}}
+| [[File:TGR801.jpg|150px]]
+| "[[Winterfell (The Game Revealed)|Winterfell]]"{{Ref|TGR801}}
+| April 16, 2019{{Listref|TGR78}}
+|-
+| style="text-align: center;" | 2{{Listref|TGR}}
+| [[File:TGR802.jpg|150px]]
+| "[[A Knight of the Seven Kingdoms (The Game Revealed)|A Knight of the Seven Kingdoms]]"{{Ref|TGR802}}
+| April 22, 2019{{Listref|TGR78}}
+|-
+| style="text-align: center;" | 3{{Listref|TGR}}
+| [[File:TGR803.jpg|150px]]
+| "[[The Long Night (The Game Revealed)|The Long Night]]"{{Ref|TGR803}}
+| April 29, 2019{{Listref|TGR78}}
+|-
+| style="text-align: center;" | 4{{Listref|TGR}}
+| [[File:TGR804.jpg|150px]]
+| "[[The Last of the Starks (The Game Revealed)|The Last of the Starks]]"{{Ref|TGR804}}
+| May 6, 2019{{Listref|TGR78}}
+|-
+| style="text-align: center;" | 5{{Listref|TGR}}
+| [[File:TGR805.jpg|150px]]
+| "[[The Bells (The Game Revealed)|The Bells]]"{{Ref|TGR805}}
+| May 13, 2019{{Listref|TGR78}}
+|}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{The Game Revealed}}
+{{Game of Thrones}}
+
+<!--Categories-->
+{{DEFAULTSORT:Game Revealed: Season 8, The}}
+[[Category:Seasons of The Game Revealed|8]]
+[[Category:Seasons released in 2019|4.16]]
+[[Category:The Game Revealed: Season 8| ]]

@@ -1,0 +1,40 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Theo Nate.png
+| Birth   = 
+| Death   = 
+| Role    = Young [[Laenor Velaryon]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = 2 episodes {{Below|Credits}}
+| First   = "[[Second of His Name]]"
+| Last    = "[[We Light the Way]]"
+}}
+'''Theo Nate''' is a British actor. He portrays Young [[Laenor Velaryon]] in ''[[House of the Dragon]]'' Season 1.<ref>[https://www.dailymail.co.uk/tvshowbiz/article-9997123/House-Dragon-star-Milly-Alcock-seen-character-time-Game-Thrones-prequel.html DailyMail,] September 16, 2021</ref>
+
+A young actor mostly working in theater, his only TV appearance by 2021 was a small role in the [[Sean Bean]] series ''Time'' (2021). 
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1|||yes||yes}}
+
+==See also==
+*{{IMDb|# = 12640971}}
+*{{Instagram|# = theonate}}
+*[https://www.curtisbrown.co.uk/client/theo-nate Curtis Brown Casting Agency Profile] for Theo Nate
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House of the Dragon: Inside the Episode}}
+
+<!--Categories-->
+{{DEFAULTSORT:Nate, Theo}}
+[[Category:Co-starring cast members of House of the Dragon]]
+[[Category:Commentators of House of the Dragon: Inside the Episode]]
+
+<!--Languages-->
+[[de:Theo Nate]]
+[[fr:Theo Nate]]

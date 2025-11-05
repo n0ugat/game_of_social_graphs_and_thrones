@@ -1,0 +1,41 @@
+{{Canonicity|Canon}}
+{{Stub}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Targaryen
+| Image       = Player.jpg
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = 
+| Titles      = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 1|1]]
+| Appearances = "[[King of the Narrow Sea (episode)|King of the Narrow Sea]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Jonathan Jaynes]]
+}}
+{{Quote|Who will it be? The brother? The daughter? Or the little princeling of three?|Player|King of the Narrow Sea (episode)}}
+A '''theatre player''' was active during the reign of [[Viserys I Targaryen]].{{Ref|HOTD104}}
+
+==Appearances==
+*{{HOTD|King of the Narrow Sea}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Mummers]]

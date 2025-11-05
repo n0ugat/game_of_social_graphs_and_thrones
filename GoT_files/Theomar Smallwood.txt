@@ -1,0 +1,70 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = House Smallwood.svg
+| Link  = House Smallwood
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Tully
+| Image       = 
+| Birth       = At [[Acorn Hall]]
+| Death       = 
+| House       = [[House Smallwood|Smallwood]]
+| Affiliation = [[House Vance]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Riverlands|Rivermen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Lord Smallwood.|[[Samwell Tarly]] to [[Jon Snow]]|Sons of the Harpy (episode)}}
+'''Theomar Smallwood'''{{Con|ASOIAF}} is the head of [[House Smallwood]].
+
+==Biography==
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+Lord Smallwood sends a message to Lord Commander [[Jon Snow]], in which he agrees to send men to the [[Night's Watch]].{{Ref|GOT504}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Lord Theomar Smallwood is the head of [[House Smallwood]] and the Lord of Acorn Hall. He is married to Lady Ravella Swann with whom he has a daughter, Carellen.
+
+==Appearances==
+*{{GOT|Sons of the Harpy}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Smallwood}}
+
+<!--Categories-->
+{{DEFAULTSORT:Smallwood, Theomar}}
+[[Category:Bannermen of House Tully]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Lords]]
+[[Category:Members of House Smallwood|Theomar Smallwood]]
+[[Category:Rivermen]]
+
+<!--Languages-->
+[[de:Theomar Kleinwald]]
+[[ru:Теомар Смоллвуд]]

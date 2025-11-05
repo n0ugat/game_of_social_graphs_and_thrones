@@ -1,0 +1,70 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Velaryon.svg
+| Link  = House Velaryon
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Velaryon
+| Image        =
+<gallery>
+Spicetown.jpg|Appearance
+Driftmark.png|Location
+</gallery>
+| Type         = Port town
+| Status       = 
+| Location     = [[Driftmark]], [[Blackwater Bay]]
+| Population   = 
+| Rulers       = [[House Velaryon]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+{{Quote|The workers at Spicetown report hearing her song at times. They say it is a sad thing.|Laena Velaryon, regarding Vhagar|The Rogue Prince}}
+'''Spicetown'''{{Ref|HOTD102}} is a major port town on the coast of [[Driftmark]]. It is connected by a causeway to the castle [[High Tide]].{{Ref|HOTD105}}{{Ref|HOTD107}}
+
+==History==
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+[[Laena Velaryon]] tells [[Viserys I Targaryen|Viserys]] that the workers at Spicetown sometimes hear [[Vhagar]], who has made nest nearby after the death of her [[Baelon Targaryen (son of Jaehaerys I)|last rider]].{{Ref|HOTD102}}
+
+During their visit to High Tide, Viserys and [[Rhaenyra Targaryen|Rhaenyra]] land at Spicetown and proceed to the castle on the causeway.{{Ref|HOTD105}}
+
+Spicetown is visible in the distance when [[Aemond Targaryen|Aemond]] flies Vhagar for the first time.{{Ref|HOTD107}}[[File:2x1 Corlys Velaryon Still 4.jpg|thumb|Lord Corlys overseeing repairs to his fleet.]][[Daemon Targaryen|Daemon]] meets with [[Qarl Correy]] in Spicetown to plot [[Laenor Velaryon]]'s false death.{{Ref|HOTD107}}
+
+===[[House of the Dragon: Season 2|''House of the Dragon'': Season 2]]===
+The ''[[Queen Who Never Was|Sea Snake]]'', flagship of the [[Velaryon fleet]], is undergoing repairs in Spicetown after sustaining heavy damage in the [[War for the Stepstones]].{{Ref|HOTD201}}
+
+==In the books==
+In ''[[Fire & Blood]]'', Spicetown was once a small fishing village, but as Lord Corlys's wealth drastically increased the prosperity of Driftmark, it grew into a large market town and port, located in the shadow of High Tide castle itself. Much of the [[Velaryon fleet]] is anchored there, and at another market town called [[Hull]] on the other side of the island.
+
+==Gallery ==
+<gallery>
+File:Screenshot 2025-07-29 at 12.57.32.png|[[Corlys Velaryon|Corlys]] at the docks of Spicetown with [[High Tide]] behind.
+File:Screenshot 2025-07-29 at 12.54.26.png|Flagship the [[Queen Who Never Was|Sea Snake]] docked at Spicetown.
+File:2x3 Corlys and Rhaenys Still 2.jpg|[[Corlys Velaryon|Corlys]] and [[Rhaenys Targaryen|Rhaenys]] at the docks.
+</gallery>
+
+==Appearances==
+*{{HOTD|The Rogue Prince}} {{Mentioned}}
+*{{HOTD|We Light the Way}}
+*{{HOTD|Driftmark}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{Crownlands}}
+
+<!--Categories-->
+[[Category:Driftmark]]
+[[Category:Harbors]]
+[[Category:House Velaryon]]
+[[Category:Towns]]
+
+<!--Languages-->
+[[ru:Спайстаун]]

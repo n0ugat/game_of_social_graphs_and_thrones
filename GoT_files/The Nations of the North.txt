@@ -1,0 +1,89 @@
+{{Short
+| Title    = {{PAGENAME}}
+| Type     = Lore
+| Image    = H&L410.png
+| Season   = 4
+| Short    = 10
+| Date     = February 17, 2015{{Webref|name=Blu-ray |author=Cian Gaffney |date=July 15, 2014 |url=https://hbowatch.com/game-of-thrones-season-4-dvdblu-ray-release-date-confirmed/ |title=Game of Thrones Season 4 DVD/Blu-ray Release Date Confirmed |website=HBO Watch |access-date=December 15, 2023 }}
+| Runtime  = 5 minutes{{Ref|H&L410}}
+| Narrator = [[Tormund]]{{Boxref|GOT4}}
+| Writer   = [[Dave Hill]]{{Webref|name=Hill |author=Vanessa Cole |date=July 22, 2017 |url=https://web.archive.org/web/20201111213241/https://watchersonthewall.com/game-thrones-writer-dave-hill-gives-behind-scenes-look-creative-process/ |title=Game of Thrones writer Dave Hill gives a behind the scenes look at the creative process |website=Watchers on the Wall |access-date=December 15, 2023 }}
+| Director = 
+| Previous = "[[The Wall]]"{{Boxref|GOT4}}
+| Next     = "[[The Kingsguard - Jaime Lannister]]"{{Boxref|GOT4}}
+}}
+"'''The Nations of the North'''"{{Boxref|GOT4}} is the tenth short of the [[Histories & Lore: Season 4|fourth season]] of ''[[Histories & Lore]]''. It is the sixty-ninth short of the series overall. It was released on February 17, 2015 in ''[[Game of Thrones: The Complete Fourth Season]]''. It was narrated by [[Kristofer Hivju]] as [[Tormund]] and written by [[Dave Hill]].
+
+==Premise==
+{{Premise|H&L410}}
+
+==Narration==
+'''Tormund''': ''"[[Free Folk|Wildlings]]". I suppose that's flattery coming from you [[Southerner|southerners]] - you'd kneel to a pig if your daddy did. We call ourselves the [[Free Folk]], or at least, most of us won't kill ya for calling us so. Some will, aye, but that is just the way it is in the [[Beyond the Wall|True North]], beyond your great white [[Wall]], where your laws and kingdoms end, and men live free... and die cold. For we live close to our land, and she's a terrible wife: fail to obey her, and she kills ya!''
+
+''On the [[Frozen Shore]], so deep is the snow that men ride chariots made of walrus bones pulled by packs of [[dog]]s. The [[Hornfoots]] have it easy in the mountains; the cold so hardens and blackens the soles of their feet that they don't even need boots. The [[cave people]] spend their lives in the dark, doing gods-know-what with gods-know-who... or what. The [[Thenns]] have one of the only nice bits of land up here. A [[Thenn|valley in the far north]] near the end of the [[Frostfangs]] with game, copper and tin for shiny bronze weapons. Better than the rusted old blades most of us have. With such advantages, they could be a generous, friendly race. They are not. As young boys, they burn their faces and rub ash and dirt into the wounds; scars more than their face, I think. They follow their "[[Magnar]]", who is the kind of man who can rule these kinds of men. I know what you southerners are thinking, and no, the Magnar is not a king; more like their god, though not one you would care to follow, if you do not sleep with your eyes open.''
+
+''Then there are the [[giants]], a proud race as old as the Frostfangs and about as tough. They speak the [[Old Tongue]] when they speak at all, though the understand more [[Common Tongue|Common]] than they let on. They are not the monsters you southerners think. Once I was caught in a winter storm so cold I knew I'd freeze to death before it broke. Lucky for me, I stumbled on a sleeping giant, cut open her belly and crawled right up inside her. Kept me warm enough, but the stink nearly did me. The worst thing was when she woke up she took him him for her babe! Suckled me for three whole moons before I could get away, hehe! Aye, but there are times I still misses the taste of giant's milk. I thank the gods she was in a good mood, unlike the husband. An angry giant? You want no part of that.''
+
+''Whatever our differences, one thing unites us. When we look south, we see hundreds of feet of ice piled high, manned by shivering [[Night's Watch|crows in black cloaks]]. Our wardens, pinning us up here, warning us away for warmer lands, softer beds and prettier girls. But the [[White Walkers|cold winds]] are rising. The Hornfoots could not stand against them, nor the Thenns, nor the giants. First they kill you, then they send your dead against you. We faced extinction, every one of us. But then [[Mance Rayder]] came to us and rallied every nation of the Free Folk, as no man ever has. He was a crow once and knows your ways. For thousands of years, we've sucked fear of your kind from our mothers' teat. We've been on one side of the Wall and you on the other. No more. One of these nights, you'r going to hear a knock on your front door. You best not answer!''
+
+==Appearances==
+===Individuals===
+* [[Tormund]]
+* [[Mance Rayder]]
+
+===Peoples===
+* [[Free Folk]]
+** Men of the Frozen Shore
+** [[Hornfoots]]
+** [[Cave people]]
+** [[Thenns]]
+* [[Giants]]
+* [[White Walkers]] {{Mentioned}}
+** [[Wight]]
+
+=== Institutions ===
+* [[Night's Watch]]
+
+===Locations===
+* [[Beyond the Wall]]
+** [[Haunted Forest]]
+** [[Hardhome]]
+** [[Frozen Shore]] {{Mentioned}}
+** [[Frostfangs]] {{Mentioned}}
+** [[Thenn]] {{Indirect}}
+* The [[Wall]]
+* [[Seven Kingdoms]] {{Mentioned}}
+
+===Titles===
+* [[Magnar]]
+
+===Miscellaneous===
+* [[Old Tongue]]
+* [[Common Tongue]]
+* [[Mammoth]]
+* [[Night's Watch|Crows]]
+
+==Cast==
+*[[Kristofer Hivju]] as [[Tormund]]
+
+==Gallery==
+<gallery bordersize="none">
+The Nations of the North
+</gallery>
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{Histories & Lore}}
+
+<!--Categories-->
+{{DEFAULTSORT:Nations of the North, The}}
+[[Category:Shorts narrated by Tormund]]
+[[Category:Shorts of Histories & Lore: Season 4| 10]]
+[[Category:Shorts released in 2015|2.17J]]
+[[Category:Shorts written by Dave Hill]]
+
+<!--Languages-->
+[[fr:Les Nations du Nord (Histoires & Traditions)]]
+[[pt-br:As Nações do Norte]]

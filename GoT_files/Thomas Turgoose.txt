@@ -1,0 +1,28 @@
+{{Cast
+|Title = Thomas Turgoose
+|Image = Thomas Turgoose.jpg
+|birthplace = {{WPS|Grimsby}}, {{WPS|Lincolnshire}}, {{WPS|England}}
+|dateofbirth = {{WPS|11 February}} {{WPS|1992}}
+|role = [[Geoff]]
+|status = 
+|Appearances = "[[Dragonstone (episode)|Dragonstone]]"
+|imdb = http://www.imdb.com/name/nm2129938/
+|twitter = https://twitter.com/ThomasTurgoose1}}'''Thomas Aiden Turgoose''' is an English actor. He is best known for his role as Shaun Fields in the film ''{{WPS|This Is England}}'' and its television spin-offs ''{{WPS|This Is England '86}}'', ''{{WPS|This Is England '88}}'' and ''{{WPS|This Is England '90}}''.
+
+In ''[[Game of Thrones]]'' he portrayed [[Geoff]] in "[[Dragonstone (episode)|Dragonstone]]".
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 7|yes}}
+
+==See also==
+*{{WP}}
+*{{IMDb
+|# = 2129938}}
+*{{Twitter
+|# = ThomasTurgoose1}}
+
+{{DEFAULTSORT:Turgoose, Thomas}}
+[[de:Thomas Turgoose]]
+[[ru:Томас Тёргус]]
+[[Category:Guest starring cast members of Game of Thrones]]

@@ -1,0 +1,60 @@
+{{Canonicity|Canon}}
+{{Spoiler|AKOTSK}}
+{{RedirectsHere|Pate|the High Septon|High Septon (stonemason)}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Tyrell
+| Image       = 
+| Birth       = [[Westeros]]{{Con|AWOIAF}}
+| Death       = 
+| House       = 
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Reach]]{{Con|D&En}}
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[A Knight of the Seven Kingdoms]]''
+| Season      = [[A Knight of the Seven Kingdoms: Season 1|1]]
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Youssef Kerkour]]{{Webref|name=varietyref |author=Steffan Hill |date=August 8, 2024 |url=https://variety.com/2024/tv/news/knight-of-the-seven-kingdoms-cast-game-of-thrones-1236100291/ |title=‘Game of Thrones’ Spinoff ‘A Knight of the Seven Kingdoms’ Adds 7 to Cast, Including Another Targaryen  |website=Variety |access-date=August 8, 2024 }}
+}}
+'''Steely Pate'''{{Webref|name=GRRMegg |author=George R.R. Martin |date=May 21, 2024 |url=https://georgerrmartin.com/notablog/2024/05/21/heres-egg/ |title=Here's Egg! |website=Not a Blog |access-date=May 21, 2024 }} is a blacksmith in the [[Reach]] during the reign of [[Daeron II Targaryen]].
+
+==In the books==
+In the [[Dunk & Egg novellas]], Steely Pate is a short man with huge hands and a black beard.
+
+==Appearances==
+===Forthcoming===
+{{Collapse|
+*{{AKOTSK|Season 1}}<ref name="GRRMegg" /> {{Unreleased}}
+}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|AKOTSK}}
+
+<!--Categories-->
+{{DEFAULTSORT:Pate, Steely}}
+[[Category:Blacksmiths]]
+[[Category:Individuals appearing in A Knight of the Seven Kingdoms]]
+[[Category:Individuals from the Reach]]
+[[Category:Smallfolk]]
+
+<!--Languages-->
+[[pl:Stalowy Pate]]

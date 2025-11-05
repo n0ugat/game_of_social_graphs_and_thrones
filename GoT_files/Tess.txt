@@ -1,0 +1,51 @@
+{{Canonicity|Canon}}
+{{Spoiler|HOTD}}
+{{BookConjecture}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Lannister
+| Image       = 
+| Birth       = [[Fair Isle]]{{Con|F&B}}
+| Death       = 
+| House       = 
+| Affiliation = 
+| Titles      = 
+| AKA         = 
+| Culture     = [[Westerlands|Westermen]]{{Con|F&B}}
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Tess'''{{Con|TWOI&F}} is a woman of [[Fair Isle]] who lived during the [[Dance of the Dragons]].{{Ref|H&L601}}
+
+==In the books==
+In ''[[The World of Ice & Fire]]'' and ''[[Fire & Blood]]'', Tess was a woman of Fair Isle.
+
+==Appearances==
+*{{H&L|The Old Way}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Categories-->
+[[Category:Individuals from Histories & Lore]]
+[[Category:Smallfolk]]
+[[Category:Westermen]]

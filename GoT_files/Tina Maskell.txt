@@ -1,0 +1,40 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Tina Maskell.jpg
+| Birth   = 
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[Game of Thrones]]''<br>''[[House of the Dragon]]''
+| Season  = ''Game of Thrones'':<br>[[Game of Thrones: Season 1|1]] {{*}} [[Game of Thrones: Season 3|3]] {{*}} [[Game of Thrones: Season 4|4]] {{*}} [[Game of Thrones: Season 8|8]]<br>''House of the Dragon'':<br>[[House of the Dragon: Season 1|1]]
+| Credits = 5 episodes {{Below|Credits}}
+| First   = "[[Fire and Blood]]"
+| Last    = 
+}}
+'''Tina Maskell''' is a stuntwoman and actress. She is the wife of [[David Forman]] and the mother of [[Josie Forman]].
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 1|first season]] episode "[[Fire and Blood]]", the [[Game of Thrones: Season 3|third season]] episode "[[And Now His Watch Is Ended]]", the [[Game of Thrones: Season 4|fourth season]] episode "[[The Mountain and the Viper]]" and the [[Game of Thrones: Season 8|eighth season]] episode "[[The Bells]]".
+
+In ''[[House of the Dragon]]'', she was a stunt performer in the [[House of the Dragon: Season 1|first season]] episode "[[The Green Council]]".
+
+==Credits==
+===Stunts===
+====''[[Game of Thrones]]''====
+{{Game of Thrones: Season 1||||||||||yes}}
+{{Game of Thrones: Season 3||||yes}}
+{{Game of Thrones: Season 4||||||||yes}}
+{{Game of Thrones: Season 8|||||yes}}
+
+====''[[House of the Dragon]]''====
+{{House of the Dragon: Season 1|||||||||yes}}
+
+==See also==
+*{{IMDb
+|# = 0556456}}
+*{{Facebook
+|# = tina.maskell.9}}
+*{{Linkedin
+|# = /in/tina-maskell-63168a95}}
+{{DEFAULTSORT:Maskell, Tina}}
+[[Category:Stunt performers of Game of Thrones]]
+[[Category:Stunt performers of House of the Dragon]]

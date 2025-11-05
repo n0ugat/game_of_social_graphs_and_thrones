@@ -1,0 +1,71 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Rightimage = House Darklyn.svg
+| Leftlink   = House Darklyn
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Crownlander
+| Image       = Serala.png
+| Birth       = In [[Myr]]
+| Death       = In [[Duskendale]]<br>Burned alive on [[Aerys II Targaryen]]'s orders after the [[Defiance of Duskendale]]
+| House       = [[House Darklyn|Darklyn]] {{C|by marriage}}
+| Affiliation = 
+| Titles      = Lady of Duskendale
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Myr]]ish
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = {[[Denys Darklyn]]}
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|As for Ser Denys's foreign wife, who had urged his defiance, Aerys commanded that her tongue and womanly parts be torn out, and she be burned alive.|[[Varys]]|The Defiance of Duskendale}}
+Lady '''Serala'''{{Con|ASOIAF}} was the wife of Lord [[Denys Darklyn]].
+
+==Biography==
+After the six-months-long [[Defiance of Duskendale]], Serala was mutilated and burned alive on [[Aerys II Targaryen|King Aerys]]'s orders.{{Ref|H&L805}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the [[smallfolk]] of [[Duskendale]] blame Serala for the fall of [[House Darklyn]], claiming she put the seed of rebellion in her husband's ear with [[Myr]]ish [[poison]] - though the truth of the matter is unknown. She was known as "the Lace Serpent", as fine lace is a major export from Myr.
+
+Half the population of Duskendale believe that the Mad King was too kind to her.
+
+In ''A Feast for Crows'', [[Brienne of Tarth|Brienne]] arrives at Duskendale, searching for [[Sansa Stark|Sansa]]. An unnamed maester tells her the history of House Darklyn, particularly about Serala.
+
+==Appearances==
+*{{H&L|The Defiance of Duskendale}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|Serala of Myr}}
+
+<!--Navboxes-->
+{{House Darklyn}}
+
+<!--Categories-->
+[[Category:Individuals from Histories & Lore]]
+[[Category:Ladies]]
+[[Category:Members of House Darklyn]]
+[[Category:Myrmen]]
+
+<!--Languages-->
+[[fr:Serala Sombrelyn]]
+[[ru:Серала]]

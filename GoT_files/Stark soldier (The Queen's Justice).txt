@@ -1,0 +1,53 @@
+{{DISPLAYTITLE:Stark soldier {{C|The Queen's Justice}}}}
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Character
+| Title       = Stark soldier
+| Type        = Stark
+| Image       = Stark soldier.png
+| Birth       = In the [[North]]
+| Death       = 
+| House       = 
+| Affiliation = [[House Stark]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Northmen|Northern]]
+| Religion    = [[Old Gods]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 7|7]]
+| Appearances = "[[The Queen's Justice]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Luke Wilson Hanley]]
+}}
+{{Quote|Lady Sansa! At the gate.|The soldier to [[Sansa Stark]]|The Queen's Justice}}
+A '''Stark soldier''' is in service to [[House Stark]] in [[Winterfell]].
+
+==Biography==
+===[[Game of Thrones: Season 7|''Game of Thrones'': Season 7]]===
+This soldier alerts [[Sansa Stark|Sansa]] of [[Bran Stark|Bran]]'s return to [[Winterfell]].{{Ref|GOT703}}
+
+==Appearances==
+*{{GOT|The Queen's Justice}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House Stark}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Men-at-arms]]
+[[Category:Northmen]]
+[[Category:Servants and retainers of House Stark]]
+[[Category:Smallfolk]]

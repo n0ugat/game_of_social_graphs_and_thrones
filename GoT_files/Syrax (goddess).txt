@@ -1,0 +1,33 @@
+{{DISPLAYTITLE:Syrax {{C|goddess}}}}
+{{Canonicity|Canon}}
+{{SameName|goddess|dragon|Syrax}}
+{{Deity
+| Title    = Syrax
+| Theme    = Westeros
+| Image    = Syz.svg
+| Type     = 
+| AKA      = 
+| Religion = [[Old Gods of Valyria]]
+| Symbol   = ''Sȳz''{{Webref|name=Glyphs |author=David J. Peterson |date=March 27, 2023 |url=https://dedalvs.com/work/house-of-the-dragon/misc/hv_glyph_guide_v7.pdf |title=High Valyrian Reference Grammar and Lexicon 8. High Valyrian Glyph Dictionary |website=Dedalvs |access-date=December 15, 2023 }}
+| Family   = 
+| Aspects  = 
+| Avatars  = 
+}}
+'''Syrax'''{{Guideref|Syrax}}{{Note|[[High Valyrian]]: ''Syraks''}} is a goddess of the [[Old Gods of Valyria|Valyrian religion]]. She was worshiped in the the [[Valyrian Freehold]]. [[Rhaenyra Targaryen]]'s [[dragon]] [[Syrax]] is named after her.{{Guideref|Syrax}}
+
+Syrax is represented by the [[Nekesse Valyrio|Valyrian glyph]] for ''sȳz'', meaning "good."<ref name="Glyphs" />
+
+==In the books==
+In ''[[The World of Ice & Fire]]'', Syrax and all other Valyrian deities are described as "gods" with no mention of goddesses. This may be because the [[High Valyrian]] language does not have gendered words, and so the word describing her can only be accurately translated as either "god" or "deity."
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|Syrax (god)}}
+
+<!--Categories-->
+[[Category:Old Gods of Valyria]]

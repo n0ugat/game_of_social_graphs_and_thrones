@@ -1,0 +1,64 @@
+{{Canonicity|Canon}}
+{{Animal
+| Title       = {{PAGENAME}}
+| Type        = Greens
+| Image       = The Blue Queen.png
+| Species     = [[Dragon]]
+| Birth       = 
+| Death       = 
+| AKA         = The Blue Queen{{Ref|HOTDITE208}} 
+| Affiliation = [[Daeron Targaryen]]
+| Family      = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 2|2]]
+| Appearances = "[[The Queen Who Ever Was]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+}}
+{{Quote|Prince Daeron's dragon, Tessarion, has at last taken to wing. Your brother expects to join the fight soon.|[[Jasper Wylde]] to [[Aemond Targaryen]]|The Red Sowing}}
+'''Tessarion''',{{Ref|HOTD207}} called the '''Blue Queen''',{{Ref|HOTDITE208}} is a [[dragon]] belonging to [[House Targaryen/House of the Dragon|House Targaryen]]. She is ridden by Prince [[Daeron Targaryen]]. She has only recently been able to take flight carrying her [[dragonrider]].
+
+==Biography==
+===Background===
+Tessarion hatched around the same time as [[Vermax]] during the reign of [[Viserys I Targaryen]] and bonded with Daeron before living in [[Oldtown]] with him. She has cobalt blue scales and copper-colored wings and frills.{{Ref|HOTD203}}{{Ref|HOTD208}}
+
+===[[House of the Dragon: Season 2|''House of the Dragon'': Season 2]]===
+At a meeting of the [[Green Council]], Lord [[Jasper Wylde]] counsels King [[Aegon II Targaryen|Aegon II]] to unleash Daeron and his dragon Tessarion, who will soon be of fighting age, from Oldtown, in order to bring the [[Riverlands]] to heel.{{Ref|HOTD203}}
+
+In another Green Council meeting, Lord Jasper Wylde informs Prince [[Aemond Targaryen|Aemond]] that Tessarion and Daeron have taken flight to their cause, before the council is interrupted by the sudden appearance of [[Silverwing]] and [[Ulf]].{{Ref|HOTD207}}
+
+Tessarion and Daeron soar above the [[House Hightower/House of the Dragon|Hightower]] army as they march to war.{{Ref|HOTD208}}
+
+==In the books==
+In ''[[Fire & Blood]]'', Tessarion was known as the Blue Queen for her dark cobalt color. She also had copper claws, crest, and belly scales, and cobalt flames. She had bonded with Prince Daeron by 120 AC.
+
+By 129 AC, Tessarion was of fighting size and by 130 AC, Tessarion was one-third in size to Vermithor. A young dragon at the time, Tessarion was nimble in the air.
+
+==Appearances==
+*{{TDOD}} {{Indirect}}
+*{{HOTD|The Black Queen}} {{Indirect}}
+*{{HOTD|The Burning Mill}} {{Mentioned}}
+*{{HOTD|The Red Sowing}} {{Mentioned}}
+*{{HOTD|The Queen Who Ever Was}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{Dragons/House of the Dragon}}
+
+<!--Categories-->
+[[Category:Dragons of House Targaryen]]
+[[Category:Greens]]
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Individuals from The Dance of Dragons]]
+[[Category:She-dragons]]
+
+<!--Languages-->
+[[fr:Tessarion]]
+[[pl:Tessarion]]
+[[ru:Тессарион]]

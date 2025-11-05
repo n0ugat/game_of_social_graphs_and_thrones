@@ -1,0 +1,25 @@
+{{Stub}}
+{{Crew
+| Title= Stuart Brisdon
+| Image=Stuart Brisdon.png
+| dateofbirth=21 May, 1955
+| birthplace=Southampton, Hampshire, England
+| job= SFX Supervisor
+| imdb= http://www.imdb.com/name/nm0109810/
+}}
+'''Stuart Brisdon''' is an English Emmy-winning special effects supervisor working on ''[[Game of Thrones]]''.  His work focuses on practical effects, i.e. explosions of fire that actually happen on the set.
+
+==Credits==
+===Special effects supervisor===
+{{Game of Thrones: Season 1|yes|yes|yes|yes||yes|||yes|yes}}
+{{Game of Thrones: Season 2|yes|yes|yes|yes|yes|yes|yes|yes|yes|yes}}
+{{Game of Thrones: Season 3|yes|yes|yes|yes|yes|yes|yes|yes|yes|yes}}
+{{Game of Thrones: Season 4|yes|yes|yes|yes|yes|yes|yes|yes|yes|yes}}
+{{Game of Thrones: Season 5|yes|yes|yes|yes|yes|yes|yes|yes|yes|yes}}
+
+==See also==
+*{{Template:IMDb
+|# = 0109810}}
+
+{{DEFAULTSORT:Brisdon, Stuart}}
+[[Category:Production staff members of Game of Thrones]]

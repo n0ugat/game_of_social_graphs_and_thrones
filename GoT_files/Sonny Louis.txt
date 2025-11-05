@@ -1,0 +1,29 @@
+{{Crew
+|Image = Sonny Louis.jpg
+|dateofbirth = 
+|birthplace = {{WPS|Graz}}, {{WPS|Austria}}
+|job = Stunt Performer
+|imdb = https://www.imdb.com/name/nm2721633/
+|twitter = https://twitter.com/sonnylouis1}}
+'''Sonny Louis''' is an Austrian stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 6|sixth season]] episodes "[[Book of the Stranger]]" and "[[No One]]" and the [[Game of Thrones: Season 7|seventh season]] episodes "[[Stormborn]]", "[[The Queen's Justice]]", "[[The Spoils of War]]" and "[[The Dragon and the Wolf]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 6||||yes||||yes}}
+{{Game of Thrones: Season 7||yes|yes|yes|||yes}}
+
+==See also==
+*{{IMDb
+|# = 2721633}}
+*{{Twitter
+|# = sonnylouis1}}
+*{{Instagram
+|# = sonny_louis}}
+*{{Facebook
+|# = sonny.louis}}
+*{{Linkedin
+|# = /in/sonny-louis-4b505152}}
+{{DEFAULTSORT:Louis, Sonny}}
+[[Category:Stunt performers of Game of Thrones]]

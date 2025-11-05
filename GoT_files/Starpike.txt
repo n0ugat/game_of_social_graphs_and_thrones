@@ -1,0 +1,40 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Peake.svg
+| Link  = House Peake
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Tyrell
+| Image        = 
+| Type         = Castle
+| Status       = 
+| Location     = [[Reach]]
+| Population   = 
+| Rulers       = [[House Peake]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Starpike'''{{Ref|THTDB201}} is a castle in the [[Reach]] and the seat of [[House Peake]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Starpike is the seat of House Peake. Additionally, they used to own the castles [[Dunstonbury]] and [[Whitegrove]]. The current Lord of Starpike is Titus Peake.
+
+==References==
+{{Reflist}}
+
+==External links== 
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Reach}}
+
+<!--Categories-->
+[[Category:Castles of the Reach]]
+[[Category:House Peake]]
+
+<!--Languages-->
+[[ru:Звёздный Пик]]

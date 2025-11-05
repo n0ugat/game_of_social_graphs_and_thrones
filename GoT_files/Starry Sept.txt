@@ -1,0 +1,54 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = Faith of the Seven.svg
+| Link  = Faith of the Seven
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Faith
+| Image        = HL5 High Septon prays for guidance in Starry Sept at Aegon I's advance.png
+| Type         = [[Sept]]
+| Status       = 
+| Location     = [[Oldtown]], the [[Reach]]
+| Population   = 
+| Rulers       = 
+| Institutions = [[Most Devout]]
+| Military     = [[Faith Militant]] {{C|defunct}}
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+The '''Starry Sept'''{{Con|ASOIAF}} is a large [[sept]] in [[Oldtown]] in the [[Reach]]. It was the religious center of the [[Faith of the Seven]] for many centuries, until the [[High Septon]] relocated his seat to the [[Great Sept of Baelor]] in [[King's Landing]]. It became the de facto headquarters of the Faith again after [[Cersei Lannister]] destroyed the Great Sept with [[wildfire]].
+
+==History==
+[[File:HL5 High Septon crowns Aegon I (composite).png|thumb|The High Septon crowns Aegon the Conqueror in the Starry Sept.]]
+Stories say that during [[Aegon's Conquest]], the High Septon at the time locked himself inside the Starry Sept for seven days, until the [[Crone]] lifted her golden lamp and showed him the proper course of action. He crowned [[Aegon I Targaryen]] as [[Lord of the Seven Kingdoms]] while the [[Faith Militant]] would support Aegon's rule.<ref>"[[The Faith Militant]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the Starry Sept is the original headquarters of the Faith of the Seven, and was the seat of the High Septon for thousands of years. It was only about a century and a half prior to the War of the Five Kings that King [[Baelor I Targaryen]] ordered construction of the [[Great Sept of Baelor|Great Sept]] in [[King's Landing]], causing the Faith to relocate its headquarters from Oldtown to the new capital city. Some say Baelor did this as a gift to the Faith, but others point out that keeping the Faith's ruling hierarchy close to the Targaryen's seat of secular power allowed the royal dynasty to dominate them. Indeed, by the reign of Robert Baratheon, then the Lannisters' puppet regime under Joffrey, the Lannisters essentially appoint and replace High Septons at their discretion, by just bribing or intimidating the [[Most Devout]] into electing the candidates they prefer. Both interpretations have an element of truth to them: Baelor was so obsessed with the Faith that he would genuinely have seen his act as a gift, but his advisors and practically all later rulers would have been happy to take advantage.
+
+The Starry Sept has black marble walls and arched windows.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Reach}}
+{{Faith of the Seven}}
+
+<!--Categories-->
+[[Category:Oldtown]]
+[[Category:Septs]]
+
+<!--Languages-->
+[[fr:Septuaire Étoilé]]
+[[pl:Gwiezdny Sept]]
+[[pt-br:Septo Estrelado]]
+[[ru:Звёздная септа]]

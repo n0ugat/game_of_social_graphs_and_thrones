@@ -1,0 +1,53 @@
+{{DISPLAYTITLE:Stark guard {{C|Fire and Blood}}}}
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Character
+| Title       = Stark guard
+| Type        = Stark
+| Image       = Stark guard (Fire and Blood).jpg
+| Birth       = In the [[North]]
+| Death       = 
+| House       = 
+| Affiliation = [[House Stark]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Northmen|Northern]]
+| Religion    = [[Old Gods]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 1|1]]
+| Appearances = "[[Fire and Blood]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Faolan Morgan]]
+}}
+{{Dialogue a-b|Guard|Lady Stark.|Catelyn Stark|I want to see him. Now.|[[Catelyn Stark]] demands to see [[Jaime Lannister]]|Fire and Blood}}
+A '''Stark guard''' is a guardsman sworn to [[House Stark]].
+
+==Biography==
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+He shows [[Catelyn Stark|Catelyn]] to [[Jaime Lannister|Jaime]]'s cell in the Stark camp.{{Ref|GOT110}}
+
+==Appearances==
+*{{GOT|Fire and Blood}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Men-at-arms]]
+[[Category:Northmen]]
+[[Category:Servants and retainers of House Stark]]
+[[Category:Smallfolk]]
+
+<!--Languages-->
+[[ru:Стражник Старков (Пламя и кровь)]]

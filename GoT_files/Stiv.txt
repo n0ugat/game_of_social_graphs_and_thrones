@@ -1,0 +1,80 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Night's Watch.svg
+| Link  = Night's Watch
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = Stiv.jpg
+| Birth       = 
+| Death       = [[298 AC]]{{Dateref|Game of Thrones: Season 1}}<br>The [[Wolfswood]], the [[North]]{{Ref|GOT106}}
+| House       = 
+| Affiliation = [[Night's Watch]] {{C|deserted}}
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 1|1]]
+| Appearances = "[[A Golden Crown]]"
+| First       = 
+| Last        = 
+| DeathEp     = "A Golden Crown"
+| Actor       = [[Stephen Don]]
+}}
+{{Quote|Piss on Mance Rayder! And piss on the North! We're going as far south as south goes!|Stiv to Osha|A Golden Crown}}
+'''Stiv''' was a [[Night's Watch]] [[Desertion|deserter]] who was killed while fleeing south of the [[Wall]].
+
+==Biography==
+===Background===
+Stiv is a deserter of the Night's Watch who has fled south with [[Wallen]], a fellow deserter, and [[Osha]], a [[Free Folk|wildling]].{{Ref|GOT106}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+Stiv, Osha, and Wallen flee south of the Wall, apparently in fear of the return of the [[White Walkers]]. In the woods near [[Winterfell]] they stumble across [[Bran Stark]] and decide to steal his horse. Realizing his importance, they ponder taking him prisoner and returning him to [[Mance Rayder]], the [[King-Beyond-the-Wall]], for a reward, but decide against it. [[Robb Stark]] intervenes, and kills Wallen and disables Osha. Stiv holds a knife to Bran's throat, and despite Bran's protests not to, Robb lowers his sword as Stiv tells him to. However, [[Theon Greyjoy]] shoots him through the back with an arrow, killing him. Osha surrenders to [[House Stark|Stark]] custody.{{Ref|GOT106}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Stiv is a member of a band of wildlings and deserters who manage to evade the Watch to seek succor in the lands to the south. He is an associate of Osha and Wallen.
+
+==Gallery==
+<gallery>
+Stiv and Osha.jpg|Stiv with [[Osha]] in the Wolfswood in "[[A Golden Crown]]".
+Branhostage.png|Stiv holding a knife to Bran's throat.
+</gallery>
+
+==Appearances==
+*{{GOT|A Golden Crown}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Night's Watch}}
+
+<!--Categories-->
+[[Category:Deserters of the Night's Watch]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Smallfolk]]
+[[Category:Westerosi]]
+
+<!--Languages-->
+[[de:Stiv]]
+[[es:Stiv]]
+[[fr:Stiv]]
+[[nl:Stiv]]
+[[ru:Стив]]
+[[zh:史帝夫]]

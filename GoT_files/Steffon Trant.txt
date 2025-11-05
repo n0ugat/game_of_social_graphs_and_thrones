@@ -1,0 +1,60 @@
+{{Canonicity|Non}}
+{{Heraldry
+| Image = House Trant.svg
+| Link  = House Trant
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Baratheon
+| Image       = AenysITargaryenHistoryAndLineages.png
+| Birth       = At [[Gallowsgrey]]
+| Death       = 
+| House       = [[House Trant|Trant]]
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Andals|Andal]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Steffon Trant''' was a member of [[House Trant]].
+
+==Biography==
+===Background===
+In 44 AC, he dishonored [[Axel Baratheon]]'s wife [[Alanna Penrose|Alanna]], and then killed Axel in a duel at [[Gallowsgrey]].{{Ref|GOT106}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+He is mentioned in Axel Baratheon's entry of ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]''.{{Ref|GOT106}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no such character.
+
+==Appearances==
+*{{GOT|A Golden Crown}} {{Text}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+{{DEFAULTSORT:Trant, Steffon}}
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Members of House Trant|Steffon Trant]]
+[[Category:Stormlanders]]
+
+<!--Languages-->
+[[de:Steffon Trant]]
+[[es:Steffon Trant]]

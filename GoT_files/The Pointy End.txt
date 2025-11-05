@@ -1,0 +1,414 @@
+{{SameName|episode|short|The Pointy End (short)}}
+{{Episode
+| Title    = {{PAGENAME}}
+| Type     = Thrones
+| Image    = GOT108.jpg
+| Season   = 1
+| Episode  = 8
+| Date     = June 5, 2011{{Listref|GOT}}
+| Runtime  = 59 minutes{{Ref|GOT108}}
+| Writer   = [[George R.R. Martin]]{{HBOref|GOT108}}
+| Director = [[Daniel Minahan]]{{HBOref|GOT108}}
+| Year     = [[298 AC]]{{Dateref|Game of Thrones: Season 1}}
+| Previous = "[[You Win or You Die]]"{{HBOref|GOT}}
+| Next     = "[[Baelor]]"{{HBOref|GOT}}
+}}
+"'''The Pointy End'''"{{HBOref|GOT108}} is the eighth episode of the [[Game of Thrones: Season 1|first season]] of ''[[Game of Thrones]]''. It is the eighth episode of the series overall. It premiered on June 5, 2011 on [[HBO]]. It was written by [[George R.R. Martin]] and directed by [[Daniel Minahan]].
+
+==Premise==
+{{Premise|GOT108}}
+
+==Synopsis==
+=== At the Wall ===
+[[Jon Snow|Jon]] and [[Samwell Tarly|Sam]] return to Castle Black with their party and two dead bodies in tow. The two corpses are identified as members of [[Benjen Stark]]'s missing ranging party, [[Jafer Flowers]] and [[Othor]]. Though the deceased appear to have been dead for some time, Sam astutely notes that the bodies do not smell like they have been rotting. Jon and several other Sworn Brothers urge [[Lord Commander of the Night's Watch|Lord Commander]] [[Jeor Mormont]] to burn the bodies, but he refuses, wanting [[Order of Maesters|Maester]] [[Aemon]] to examine them.
+
+Jon is summoned to Mormont's chambers as news has arrived of Eddard's arrest and imprisonment. When Jon asks for news of his father, Mormont tells Jon he has been arrested for treason. Jon is in disbelief and Mormont gives Jon the letter to read for himself. A devastated Jon attempts to leave before Mormont tells him not to do anything stupid and reminds him of the oath he has sworn to the Night's Watch. When Jon expresses concern for his sisters, Mormont replies he is sure they are unharmed.
+
+Later on, [[Alliser Thorne]] taunts Jon that his father is a traitor, calling him, "not just a bastard, a ''traitor's'' bastard." Jon angrily charges at him with a knife and Thorne is only saved by [[Grenn]] and [[Pypar|Pyp]], who hold Jon back. Commander Mormont witnessed the incident and confines Jon to quarters for his trouble. That night, Jon is roused by a whining [[Ghost]] scratching at the door. Sensing trouble, Jon and his direwolf head to the Lord Commander's chambers where Jon is confronted by a [[wight]], the reanimated corpse of the dead Night's Watchman. Though Jon is able to stab the wight through the chest with his sword, the wight simply removes the sword and is unharmed. Mormont appears, seeking out the commotion. Jon grabs Mormont's oil lamp and throws it at the wight, finally destroying it.
+
+The morning after, the two wight bodies have been thoroughly burned. Sam says he read in a book that the dead are animated by the touch of the [[White Walkers]] and only fire can destroy such creatures. He hopes the Wall is big enough to hold them back when the Walkers come in force.
+
+=== At the Eyrie  ===
+At the [[Eyrie]], Catelyn is furious with [[Lysa Arryn|Lysa]]: first for Lysa not immediately notifying her about Eddard's arrest and second, for refusing to consider summoning the [[Knighthood|knights]] of the [[Vale of Arryn|Vale]] to war. Lysa, despite her actions of setting this in motion by implicating the Lannisters in [[Jon Arryn]]'s death, does not believe that war is in the Vale's best interests. Lysa wants the knights to stay in the Vale to protect her son and their [[Robin Arryn|Lord]].
+
+=== In the Mountains of the Moon ===
+Tyrion and [[Bronn]] have reached the western edge of the Vale and are surrounded by members of the [[hill tribes]], led by a fearsome warrior named [[Shagga]]. At first, he orders them to be killed, but Tyrion does some fast-talking and convinces the hill tribes that House Lannister is an enemy of the House Arryn and its rulers. He proposes an alliance which will allow the tribes to enact vengeance against House Arryn and take ownership of the lands of the Vale. They eagerly agree, and escort Tyrion and Bronn westwards towards where the Lannister armies are gathering.
+
+=== In the North ===
+[[File:Winterfell_ravens.jpg|thumb|Dozens of ravens leaving Winterfell, summoning the banners of the North to war.]]
+
+Robb receives a letter from Sansa in King's Landing, asking him to pledge fealty to King Joffrey. Maester [[Luwin]] correctly deduces the letter is actually the work of the Queen. Robb refuses to consider the request and sends out [[raven]]s, summoning the lords bannermen of the North and their armies to assemble at Winterfell. Released ravens fill the sky.
+
+At Winterfell, Robb holds a feast for several of his newly-arrived bannermen. [[Greatjon Umber]] assumes that he will lead the vanguard, and is offended by the suggestion that he would be made to march behind a Glover, threatening to withdraw from the host. In response, Robb promises that, after the conflict with the Lannisters, he will oust Greatjon from his keep and hang him for breaking his oaths to House Stark; when the enraged bannerman goes to draw a weapon, Robb's direwolf [[Grey Wind]] sets upon him, biting off two of his fingers. Robb recites 'that it [is] death to bear steel against your liege lord' but then diffuses the situation by excusing Greatjon's aggression, saying that 'doubtless, the Greatjon only meant to cut my meat for me'. The Greatjon roars with laughter and accepts Robb's commands, much to the shock of Bran, who witnessed the entire incident. Robb says farewell to [[Bran Stark|Bran]] and to [[Rickon Stark|Rickon]], who is convinced he'll see neither Robb nor his parents again.
+
+Bran prays by the heart tree when he is approached by Osha who tells him the [[Old Gods]] are listening to him and that the wildlings also worship the Old Gods. She laments that the South has lost touch with the past; the southern Weirwoods were cut down years ago and the Southerners have no idea what's awakening in the north. They are interrupted by [[Hodor]] who was bathing and has forgotten to put his clothes back on, and Osha remarks that he might have giant blood in him before Bran sends him away. Curious, Bran asks her if giants live beyond the wall. She affirms they do, as well has many other beings, though not all of them are friendly. She asserts that the army Robb has gathered should be marching north, not south.
+
+Catelyn and Ser [[Rodrik Cassel]] intercept Robb's army in the [[Neck]] as it presses southwards. Robb initially exclaims with excitement upon seeing his mother, but stops short of embracing her lest he look weak in front of his bannermen. Catelyn looks at her son with understanding, later embracing once their liege-lords have left their tent. She tells Robb he has no choice but to go to war. However, he cannot lose, for the sake of Ned, Sansa, and Arya, as if he is defeated, Tywin Lannister will show their family no mercy.
+
+Later on, Robb and his lords are debating on the route of their march, and on whether to march directly against Tywin's army or against [[Jaime Lannister|Jaime]]'s army besieging [[Riverrun]]. To get to Jaime, they need to cross the [[Green Fork]] of the [[Trident]], and the only crossing is at the [[Twins]], held by the notoriously prickly and easily-offended Lord [[Walder Frey]]. A [[Lannister scout]] is captured, and Robb sends him back to warn Lord Tywin that twenty thousand Northern soldiers are marching against him.
+
+=== At the Lannister camp ===
+[[File:Kevan_and_Tywin.jpg|thumb||Kevan and Tywin Lannister greet Tyrion and his companions.]]Tyrion, Bronn, Shagga and the rest of the hill tribesmen arrive at the Lannister encampment, to find Lord [[Tywin Lannister]] and his brother, Ser [[Kevan Lannister|Kevan]], planning to engage the Stark army, which is moving south from the Neck. Tywin shows no sign of relief that his son is alive. Tywin accepts the aid of the hill tribesmen, but Shagga will only fight if Tyrion fights alongside them, a prospect which Tywin welcomes and terrifies Tyrion.
+
+=== In Lhazar ===
+[[File:Drogo 1x08.jpg|right|thumb|Khal Drogo disciplines Mago.]]
+In [[Essos]], Khal Drogo having taken an oath to take the Iron Throne, has begun his march of conquest to the Narrow Sea. The [[Dothraki]] raid a village in [[Lhazar]], a peaceful country to the south-east of [[Vaes Dothrak]]. To finance the war to come, they must raid villages and take people to sell into slavery, thereby gaining the money to hire ships for the khalasar to assault Westeros. Ser Jorah and others try to explain this to [[Daenerys Targaryen|Daenerys]], but she is disturbed to see the aftermath, the Dothraki killing the villagers and raping their women, and orders it stopped. The Dothraki grow angry at not being able to take the spoils of victory, as that is the Dothraki way. She starts claiming all the women they see to protect them. The angry warriors take their complaints to Khal Drogo, but he is amused at his wife's fierceness. He tells them that Daenerys may keep the women she has claimed, they can find others. One man won't listen, and angrily accuses Drogo of being slave to a foreign whore.
+[[File:Daenerys 1x08.jpg|right|thumb|Daenerys notes Drogo's injury.]] [[Khal]] [[Drogo]] stops the complaints by killing [[Mago]], the offended warrior who challenges him. Drogo takes a deep wound to the chest in the process. Though Drogo dismisses it as a scratch, Daenerys insists it be treated and allows one of the women she rescued, a healer called [[Mirri Maz Duur]] to treat the wound, despite the distaste of Drogo's bloodriders, who derisively call the woman ''maegi'' (a witch).
+
+=== In King's Landing ===
+Lannister soldiers complete their purge of the Stark guards and household staff. Sansa and Septa [[Mordane]] hear sounds of fighting. When they are confronted by [[House Lannister|Lannister]] guardsmen led by [[Sandor Clegane]], Septa Mordane tells Sansa to run and lock herself in her room while she stays to confront them. However, Sandor later finds and takes Sansa into custody. More Lannister guardsmen, this time led by Ser [[Meryn Trant]] of the [[Kingsguard]], interrupt a [[Water dance|water dancing]] lesson between [[Syrio Forel]] and [[Arya Stark|Arya]]. Syrio holds Arya back, questioning why Lord Eddard would send Lannister men to find Arya. She then refuses to go with them, and when they try to force the issue Syrio disarms and disables all of the lightly-armored guardsmen with his wooden practice sword. He tells Arya to run as he faces down Trant, noting that for himself, "the [[First Sword of Braavos]] does not run." Syrio's fate after this is unclear.
+[[Image:Syrio's last stand.jpg|thumb|Syrio Forel confronts Ser Meryn Trant and Lannister guards.]]
+Arya runs to the stables where the men waiting with their baggage were supposed to be to take them to the ship for [[Winterfell]]. The men are dead, but she finds her real sword, [[Needle]], in the bottom of her trunk. Arya then starts to leave the stables. (Arya knows how to get out of the [[Red Keep]] via the tunnel under the castle that she found when she was chasing cats and followed the two conspirators). When a [[Stableboy|stableboy]] tries to grab her, Arya turns around brandishing [[Needle]] and accidentally runs him through and kills him. Horrified, she flees.
+
+[[Varys]] visits [[Eddard Stark]] in his cell in the dungeons. He is incredulous that Eddard warned [[Cersei Lannister|Cersei]] what he was going to do. Eddard says he wanted to extend mercy to Cersei's children, whom Robert would have killed if he'd known the truth. Varys bluntly tells Eddard that his mercy is what killed King [[Robert Baratheon|Robert]], to Eddard's shame. Varys then tells him that [[Catelyn Stark|Catelyn]] also no longer holds [[Tyrion Lannister|Tyrion]] as her prisoner, meaning that the Starks have nothing to barter with for Eddard's life. When Eddard suggests they should just kill him, Varys says "Not today, my lord." As he departs, Eddard asks Varys who he truly serves: Varys, in a rare display of honesty, replies "The realm, my lord. ''Someone'' must."
+
+Cersei and the remainder of the small council, comprising Grand Maester [[Pycelle]], Varys, and [[Petyr Baelish|Littlefinger]], summon Sansa to inform her that her father has been arrested for treason. They manipulate Sansa into writing a letter to her brother [[Robb Stark|Robb]], asking him to bend the knee peacefully to [[Joffrey Baratheon|Joffrey]]. They add that Eddard's fate may depend on what his son and the other [[North|Northern lords]] do. Sansa agrees to write the letter. 
+
+Later on, King [[Joffrey Baratheon|Joffrey]] holds court in the Red Keep. [[Janos Slynt]], commander of the [[City Watch of King's Landing|City Watch]], is to be made Lord of [[Harrenhal]] as a reward for his loyal service. Cersei then dismisses Ser [[Barristan Selmy]] as head of the Kingsguard, noting that the time has come for an honorable retirement. Selmy is confused, pointing out that Kingsguard serve for life, but Joffrey angrily says that Selmy is too old, and wasn't able to protect his father, King Robert Baratheon. Selmy's disgrace is only compounded when he learns his post as Lord Commander is to be given to Jaime Lannister, much to his disgust. Varys announces that Selmy is to be given a castle and land in recognition of his years of service, but the old knight, insulted by what he sees as being offered "''a hall to die in and men to bury me,"'' takes off his armor, throws his sword at Joffrey's feet and storms out, stating that he could still kill all five of the other Kingsguard present with ease.
+
+Sansa begs Joffrey for her father's life, claiming that the medicine he was taking for his injured leg was responsible for his treasonous talk. Joffrey says that her sweet words have moved him and he will spare Eddard, if he bends the knee to him and acknowledges him as king. Sansa says he will.
+
+==Appearances==
+{{Main|The Pointy End/Appearances}}
+{{Col-begin}}
+{{Col-2}}
+===Firsts===
+*[[Vayon Poole]]
+*Ser [[Meryn Trant]]
+*[[Mirri Maz Duur]]
+*[[Greatjon Umber]]
+*[[Jafer Flowers]]
+*[[Othor]]
+*[[Shagga]]
+*[[Timett]]
+*[[Chella]]
+*Ser [[Kevan Lannister]]
+*[[Galbart Glover]]
+*[[Maege Mormont]]
+*Ser [[Aron Santagar]]
+*[[Othor]] {{Corpse}}
+*[[Jafer Flowers]] {{Corpse}}
+{{Col-2}}
+===Deaths===
+*[[Vayon Poole]]
+*[[Mordane]]
+*[[Syrio Forel]]
+*[[Stableboy]]
+*[[Othor]]
+*[[Mago]]
+*[[Jafer Flowers]]
+*At least 5 Stark soldiers
+*At least 14 villagers
+{{Col-end}}
+
+==Cast==
+{{Col-begin}}
+{{Col-2}}
+===Starring===
+* [[Sean Bean]] as Lord [[Eddard Stark]]
+* [[Michelle Fairley]] as Lady [[Catelyn Stark]]
+* [[Lena Headey]] as Queen [[Cersei Lannister]]
+* [[Emilia Clarke]] as Queen [[Daenerys Targaryen]]
+* [[Iain Glen]] as Ser [[Jorah Mormont]]
+* [[Aidan Gillen]] as [[Petyr Baelish]]
+* [[Kit Harington]] as [[Jon Snow]]
+* [[Richard Madden]] as [[Robb Stark]]
+* [[Sophie Turner]] as Princess [[Sansa Stark]]
+* [[Maisie Williams]] as Princess [[Arya Stark]]
+* [[Alfie Allen]] as [[Theon Greyjoy]]
+* [[Isaac Hempstead-Wright]] as [[Bran Stark]]
+* [[Jack Gleeson]] as King [[Joffrey Baratheon]]
+* [[Rory McCann]] as [[Sandor Clegane]]
+* and [[Peter Dinklage]] as [[Tyrion Lannister]]
+{{Col-2}}
+===Guest starring===
+* [[Donald Sumpter]] as [[Luwin]]
+* [[Conleth Hill]] as [[Varys]]
+* [[Jerome Flynn]] as [[Bronn]]
+* [[James Cosmo]] as [[Jeor Mormont]]
+* [[Owen Teale]] as [[Alliser Thorne]]
+* [[Ron Donachie]] as [[Rodrik Cassel]]
+* [[Charles Dance]] as [[Tywin Lannister]]
+* [[Ian McElhinney]] as [[Barristan Selmy]]
+* [[John Bradley]] as [[Samwell Tarly]]
+* [[Julian Glover]] as [[Pycelle]]
+* [[Miltos Yerolemou]] as [[Syrio Forel]]
+* [[Kate Dickie]] as [[Lysa Arryn]]
+* [[Dominic Carter]] as [[Janos Slynt]]
+* [[Natalia Tena]] as [[Osha]]
+* [[Susan Brown]] as [[Mordane]]
+* [[Clive Mantle]] as [[Greatjon Umber]]
+* [[Mark Stanley]] as [[Grenn]]
+* [[Josef Altin]] as [[Pypar]]
+* [[Luke Barnes|Luke McEwan]] as [[Rast]]
+* [[Mark Lewis Jones]] as [[Shagga]]
+* [[Mia Soteriou]] as [[Mirri Maz Duur]]
+* [[Amrita Acharia]] as [[Irri]]
+* [[Roxanne McKee]] as [[Doreah]]
+* [[Kristian Nairn]] as [[Hodor]]
+* [[Elyes Gabel]] as [[Rakharo]]
+* [[Dar Salim]] as [[Qotho]]
+* [[Robert Sterne]] as the [[Royal Steward|royal steward]]
+* [[Ian Gelder]] as [[Kevan Lannister]]
+* [[Lino Facioli]] as [[Robin Arryn]]
+* [[Art Parkinson]] as [[Rickon Stark]]
+* [[Ian Beattie]] as [[Meryn Trant]]
+* [[Simon Stewart]] as a Lannister messenger
+* [[Matthew Scurfield]] as [[Vayon Poole]]
+* [[Frank O'Sullivan]] as a [[Night's Watch messenger]]
+* [[Brian Fortune]] as [[Othell Yarwyck]]
+* [[Chris Gallagher]] as a [[Lannister scout]]
+* [[Rick Burn]] as a [[Stark guard (The Pointy End)|Stark guard]]
+* [[Hugo Culverhouse]] as a [[Stableboy]]
+
+===Also starring===
+*[[Jason Momoa]] as [[Drogo]]
+
+===Uncredited===
+*[[Ivailo Dimitrov]] as [[Mago]]
+* [[Mark Coney]] as [[Galbart Glover]]
+* [[Elizabeth Barrett]] as [[Maege Mormont]]
+* [[Tobias Winter]] as [[Timett]]
+* [[Natalia Lee]] as [[Chella]]
+* [[Dennis McKeever]] as [[Night's Watch officer]]
+* Unknown as [[Jafer Flowers]]
+* Unknown as [[Othor]]
+* Unknown as [[Cohollo]]
+* Unknown as [[Haggo]]
+* Unknown as [[Gyles Rosby]]
+* Unknown as [[Aron Santagar]]
+* Unknown as [[Preston Greenfield]]
+* Unknown as [[Arys Oakheart]]
+* Unknown as [[Boros Blount]]
+* Unknown as [[Mandon Moore]]
+{{Col-end}}
+
+===Notes===
+*16 of 17 cast members for the first season appear in this episode.
+*Starring cast member [[Nikolaj Coster-Waldau]] ([[Jaime Lannister]]) is not credited and does not appear in this episode.
+*[[Asen Asenov]], [[Alexis Barron]], [[Rachelle Beinart]], [[Talila Helen Craig]], [[Ivailo Dimitrov]], [[Tomas Ereminas]], [[Balázs Farkas]], [[Richard Hansen]], [[Paul Howell]], [[Paul Jennings]], [[Vincent Keane]], [[Norbert Kovács]], [[Phil Lonergan]], [[Kim McGarrity]], [[Andy Merchant]], [[Ivan Mica]], [[Lubomir Misak]], [[Camilla Naprous]], [[Brian Nickels]], [[James O'Donnell]], [[Domonkos Pardanyi]], [[Buster Reeves]], [[Slava Samuchov]], [[Amie Stephenson]], [[Jonny Stockwell]], [[Gáspár Szabó]], [[Rocky Taylor]], [[Lee-Anne Telford]], [[Martin 'Mato' Uhrovcik]], [[Géza Kovács]] and [[Balazs Lengyel]] were stunt performers in this episode.
+
+==Quotes==
+'''[[Syrio Forel]]''': "I am Syrio Forel, and you will be speaking to me with more respect."
+
+<hr width="50%" />'''Syrio''': "The First Sword of Braavos does not run."
+
+<hr width="50%" />'''Syrio''': "What do we say, to the god of death?"<br />
+'''[[Arya Stark]]''': "Not today."<br />
+'''Syrio''': "Go."
+
+<hr width="50%" />'''[[Varys]]''': "When you look at me, do you see a hero?"
+
+<hr width="50%" />'''Varys''': "What ''madness'' led you to tell the Queen you had learnt the truth about Joffrey's birth?"<br />
+'''[[Eddard Stark]]''': "The madness of mercy that she might save her children."<br />
+'''Varys''': "Ah, the children. It's always the innocents. It wasn't the wine that killed Robert, nor the boar. The wine slowed him down, and the boar ripped him open, yes, but it was your mercy that killed the King. I trust you know you're a dead man, Lord Eddard."<br />
+'''Eddard''': "The Queen can't kill me. Cat holds her brother."<br />
+'''Varys''': "The wrong brother, sadly, and lost to her. Your wife has let the Imp slip through her fingers."<br />
+'''Eddard''': "If that's true, then slit my throat and be done with it."<br />
+'''Varys''': "Not today, my lord."<br />
+'''Eddard''': "Tell me something, Varys. Who do you truly serve?"<br />
+'''Varys''': "The Realm, my Lord. Someone must."<br />
+
+<hr width="50%" />'''[[Robb Stark]]''': "Joffrey puts my father in chains, now he wants his arse kissed?"
+
+<hr width="50%" />'''[[Theon Greyjoy]]''': "You afraid?"<br />
+'''Robb''': ''(looks down at his shaking hand)'' "I must be."<br />
+'''Theon''': "Good."<br />
+'''Robb''': "Why is that good?"<br />
+'''Theon''': "Means you're not stupid."<br />
+
+<hr width="50%" />'''[[Bran Stark]]''': "They'll be back soon. Robb will free father, and they'll come back with mother."<br />
+'''[[Rickon Stark]]''': "No, they won't."
+
+<hr width="50%" />'''[[Osha]]''': "I tried telling your brother, he's marching the wrong way. All these swords, they should be going north, boy, north, not south. The cold winds are rising."
+
+<hr width="50%" />'''Robb''': "Tell Lord Tywin, winter is coming for him. Twenty thousand northerners marching south to find out if he really does shit gold."
+
+<hr width="50%" />'''Ser [[Barristan Selmy]]''': "I am a knight. I shall die a knight."
+
+<hr width="50%" />'''Robb''': "My Lord father taught me it was death to bear steel against your liege-Lord. Doubtless, the Greatjon only meant to cut my meat for me.<br />
+'''[[Greatjon Umber]]''': Your meat?! Is bloody tough!<br />
+
+==Behind the scenes==
+===General===
+* The episode title is taken from a fan-favorite piece of dialogue from the books and the second episode of the series, when [[Jon Snow|Jon]] gave [[Needle]] to [[Arya Stark|Arya]] and told her to remember to "stick them with the pointy end," which she also tells Ned.
+* The soundtrack playing over the credits is a rendition of the [[Themes and leitmotifs (Game of Thrones)#Baratheon theme|Baratheon theme]] and the [[Themes and leitmotifs (Game of Thrones)#Royal theme|royal theme]]. In the [[Game of Thrones (Music from the HBO Series)|official soundtrack release]] it is titled "You Win Or You Die."
+* This is the first episode written by [[George R.R. Martin]], the author of the ''[[A Song of Ice and Fire]]'' novels. This was the first screenplay Martin had written in almost a decade and a half.
+* In the books, Sansa is not with Septa Mordane when the Lannister men attack. She had gone to see Cersei to ask her to intercede with Lord Eddard about breaking her betrothal to Joffrey and sending her back to Winterfell. She doesn't realize that she is betraying all of them to their enemies. Cersei says she will help, but then has Sansa escorted to a tower room and kept there under guard.
+* Ser Alliser treats all of the recruits badly, but he takes a particular dislike for Jon. It is not gone into in the series, but Ser Alliser was a staunch defender of the Targaryens and when Robert took power he was forced to join the Night's Watch. Therefore, he is unhappy with his work in general and Eddard Stark in particular. Jon, being Ned Stark's illegitimate son, receives special attention, and the idea of Eddard being a traitor fills him with glee.
+* During the scene in which Robb holds a feast for his bannermen at the Great Hall of Winterfell, the banners and sigils of Houses [[Hornwood]] (moose head on yellow), [[House Bolton|Bolton]] (flayed man), [[House Umber|Umber]] (silver chains on red), and Karstark (white sunburst on black) are clearly seen. On the wall behind the bench in which Bran sits two other banners can be seen, one that appears to be the sigil of the Manderlys (white merman on blue-green) and that another that might be either the Tallhart (a pine tree) or the Mormont sigil (also bearing a pine tree but the camera angle doesn't allow the Mormont bear to be seen).
+* When the Greatjon is rising to his feet after being mutilated by Grey Wind, a man bearing the sigil of [[House Cerwyn]] (a battle axe) on his cloak is also present.
+* In the scene where Ser Barristan Selmy is dismissed, he draws his sword, and the other members of the Kingsguard draw their swords as well. As the scene ends, when Ser Barristan is walking away through the Great Hall, and the Kingsguard are resheathing their swords, the one on the far right cannot get his sword back into the scabbard.
+* Sansa is called "little dove" for the first time. Unlike "little bird," this nickname is used in the show only.
+*According to writer [[Bryan Cogman]], Ned Stark originally wasn't going to appear in this episode at all because he is imprisoned. However, the network grew wary of this because they felt that Ned was the main character and audiences needed to see him - despite the writers' insistence that it is an ensemble show (and would expand to characters beyond Ned in Season 2). Therefore, the network sent in a request to "keep Ned present" in this episode, which is why he briefly appears again in it - though only for a few seconds, as a guard kicks him awake, just for the narrative to check in on him. The off-screen guard was actually played by Conleth Hill (Varys) - they filmed the small exchange immediately after the other, dialogue-heavy scene in the dungeon between Ned and Varys.<ref>[https://twitter.com/b_cogman/status/718314905976365057 1/3] [https://twitter.com/b_cogman/status/718315048993689601 2/3] [https://twitter.com/b_cogman/status/718315207643279361 3/3]</ref>
+*Varys accuses Ned that his mercy killed Robert, namely that by telling Cersei he learned the truth about her children - he prompted her to have Robert killed. Varys ignores (or is unaware of) the accurate order of events: Lancel kept offering wine to Robert in "[[A Golden Crown]]" - ''before'' Ned and Cersei's conversation ("[[You Win or You Die]]"), not afterwards; hence Ned's foolishness had nothing to do with Robert's death.
+**The fact that Cersei was perfectly calm during the conversation with Ned also implies that she has already given Lancel the order to make Robert drunk.
+**Moreover, how could Cersei deliver Lancel the order when Robert, Renly and Barristan Selmy were around? It is more likely she has given the order before Robert went to hunt.
+**According to the show and the novels, Cersei had various reasons to have Robert killed, before her conversation with Ned:
+***Cersei hated and despised Robert from their wedding night, and her hatred increased with time due to Robert's whoring and drinking habits. Robert's refusal to punish the Starks for the recent hostilities toward the Lannisters (Tyrion's kidnapping and the [[Skirmish at Littlefinger's brothel|brawl between Ned and Jaime]]) might have been the last straw in Cersei's eyes.
+***Cersei might have learned, from her spies and henchmen, about Ned's investigation. She figured it was just a matter of time before he found out her secret and told Robert about it.
+***Varys tells Ned in the novel that Cersei would not have waited long in any case, because Robert was becoming unruly, and she needed to be rid of him to free her hands to deal with his brothers.
+***In the novel, Renly and [[Loras Tyrell|Loras]] sought to wed [[Margaery Tyrell|Margaery]] to Robert, and they were not very discreet about their intention. Cersei figured that if Robert married Margaery - the Tyrells would gain a lot of political power at the expense of the Lannisters, and she wouldn't allow that to happen.
+*The joke "Tywin shits gold" is mentioned for the first time in the show.
+**In the novels, the joke is repeatedly mentioned by various characters (among them Jaime, a miller, a Lyseni captain, a squire in Harrenhal, and mostly Tyrion), either aloud or in their thoughts, as a euphemism or as a joke about the legendary wealth of House Lannister.
+*Tyrion tells his father that his "friends" require 3,000 arms and armors. This does not necessarily mean that he has managed to rally 3,000 clansmen; he says the same number in the parallel book scene, although it is specifically mentioned that only about 300 clansmen have followed him. Perhaps Tyrion means that he promised to arm not only those who came with him, but also those who stayed at the Mountains.
+*Robb tells Catelyn that he assembled 18,000 men; the [[Lannister scout]], who probably made a rough assessment of the Northern troops, says that he counted 20,000 (a deviation of 11% is plausible). Rather than keeping the scout captive or kill him, Robb releases him, taking advantage of his miscounting to mislead the Lannisters; indeed, as revealed in the next episode, they fall for the trick, expecting 20,000 at the [[battle on the Green Fork]]. Theon, Catelyn, and the Greatjon disapprove of Robb's act; apparently they fail to understand that it is not a foolish act of mercy, but a cunning trick.
+
+===Commentary===
+Creator/episode writer George R.R. Martin provides a commentary for the episode on the DVD and Blu-ray releases of Season 1.
+
+* Martin relates that in his first scriptwriting job, working on the 1980s revival of ''[[wikipedia:The Twilight Zone|The Twilight Zone]]'', he was not allowed to adapt any of his own short stories for the screen, as the producers thought the original authors were too close to the material. This was not the case on ''Game of Thrones'', where he is penning one script per season.
+* Martin considers Syrio Forel's hair or lack of it to be trivial and unimportant compared to the quality of the actor's performance.
+* The fight sequence between Syrio and the Lannister guardsmen had to be changed slightly. In the book the Lannister guardsmen did not have fronted helmets or metal armor, so Syrio was actually able to break bones and even kill some of them by striking at the right bones or the eyes. For the TV series, the design of the Lannister armor meant that things had to be changed so the guards were less severely wounded.
+* Arya's flight from the Red Keep was originally more elaborate, showing her going past the dragon skulls from the fifth episode and escaping out that way. This was cut for time.
+* The scene where Arya kills the stableboy was scripted closer to the book, with the stableboy pathetically asking Arya to take out the sword and promptly dying. Martin regrets that this was cut and unsure why it wasn't used.
+* Ned's cell below the Red Keep is the same set as the crypts under Winterfell.
+* In the books, Varys's skills at mummery and disguise are far more elaborate. In the TV series, he is kept more recognizable.
+* The "Not today," lines and beats were inserted into the script by David Benioff and D.B. Weiss.
+* Sam had additional observations about the wight corpses in the script but these were removed, presumably for time.
+* [[awoiaf:Mormont's_raven|Mormont's raven]] is a controversial character amongst the fans according to Martin, and some were happy with its removal from the series.
+* Martin notes that the books give a better feel that a large amount of time passes to allow the messenger raven to get from King's Landing to Winterfell. This had to be compressed for the TV show to keep the story moving.
+* Originally, the script showed several of the Northern banner lords receiving a raven and preparing to march to Winterfell. Roose Bolton would be shown in the middle of flaying a man, and Greatjon Umber would be excited at the prospect of a new war, etc. This sequence was cut for reasons of expense; filming that many separate location shots all at once would have used up most of the budget for the entire season. Martin notes this is par for the course for him, as he was always criticized in Hollywood for writing scripts that were too long and too expensive.
+* According to Martin, Dinklage was the one and only choice for the role of Tyrion. There were no other actors auditioned.
+* Martin is not too concerned about Ghost growling or barking, noting that while that works in the book, on-screen it looked a bit odd, so he was given some sound.
+* Martin notes that it was Jason Momoa's idea to put in a fight scene to show Drogo's physical prowess, which is only ever talked about otherwise. The scene itself was extended with new material from David Benioff and D.B. Weiss to show the fight between Drogo and Mago. (In the book, Drogo's ultimately fatal injuries occur "off-screen" and do not involve a fight with one of his followers.)
+* Martin comments on the danger of the 'butterfly effect' in adapting the series, noting that in the book Mago is not killed and in fact will reappear later on, while Mago in the TV series is dead and done for.
+* Martin also notes that the Winterfell feast scene had a lot more speaking lords and characters in the book, but had to be trimmed down for the TV show for reasons of cost and clarity.
+* The hunt for the child actors was the hardest part of casting. Martin notes that a lot of child actors veer towards either reciting lines blandly while just looking cute, or going way over the top instead. Finding young actors capable of hitting the right balance was tricky, but they managed it in the end.
+* Martin feels that Osha was the character who was changed the most from the books to the TV series, as Natalia Tena is much younger than the character in the novel. However, Martin felt her performance was impressive enough to justify the change.
+* Martin has been asked many times if Samwell Tarly is based on [[wikipedia:Sam Gamgee|Sam Gamgee]] from the ''[[wikipedia:The Lord of the Rings|Lord of the Rings]]''. Martin acknowledges there may be some slight influence.
+* Martin is pleased that the TV series retains the strategy and tactics from the books, which would have been easy to lose for time.
+* In the script, the mountain tribes, Tyrion, and Bronn arrived at the Lannister camp on horseback. However, Martin thinks they exhausted the 'horse budget' for the season by this point and couldn't have them in the scene.
+* Martin notes that Charles Dance was another actor they really wanted in the series.
+* Bronn's line about his father was changed during filming. Martin notes the new line is funnier.
+* Martin is very impressed by the way Dance moves the wine cup away from Dinklage during the scene, but it wasn't in his original script. He's unsure where it came from.
+
+==In the books==
+{{Main|Differences in adaptation/Game of Thrones: Season 1#"The Pointy End"}}
+* The episode is adapted from the following chapters of ''A Game of Thrones'':
+** Chapter 42, Tyrion VI.
+** Chapter 50, Arya IV.
+** Chapter 51, Sansa IV.
+** Chapter 52, Jon VII.
+** Chapter 53, Bran VI.
+** Chapter 55, Catelyn VIII.
+** Chapter 56, Tyrion VII.
+** Chapter 57, Sansa V.
+** Chapter 58, Eddard XV.
+** Chapter 61, Daenerys VII.
+* The episode is adapted from the following chapter of ''A Storm of Swords'':
+**Chapter 68, Sansa VI: [[Yohn Royce|Someone]] demands that Lysa joins the war against the Lannisters, but she refuses.
+*The episode is adapted from the following chapter of ''A Feast for Crows'':
+**Chapter 5, Samwell I: [[Samwell Tarly|Sam]] tells [[Jon Snow|Jon]] information about the [[White Walkers|Others]] which he read in old books at maester [[Aemon]]'s library.
+
+==Gallery==
+===Videos===
+<gallery bordersize="none">
+Game of Thrones: Season 1 - Episode 8 Clip 1 (HBO)
+Game Of Thrones: Inside The Episode - Episode 8 (HBO)
+Game of Thrones Season 1: Episode 8 - War Plans (HBO)
+Game of Thrones Season 1: Episode 8 - Lambs to the Slaughter (HBO)
+Game of Thrones Season 1: Episode 8 - Violent By Design (HBO)
+Game of Thrones Season 1: Episode 8 - More Than a Game (HBO)
+Game of Thrones Season 1: Episode 8 - Pretty Little Doll (HBO)
+Game of Thrones Season 1: Episode 8 - A Continual Disappointment (HBO)
+Game of Thrones Season 1: Episode 8 - Not Today (HBO)
+Game of Thrones Season 1: Episode 8 - Learning to Command (HBO)
+</gallery>
+
+===Images===
+<gallery>
+Greywind.png|[[Grey Wind]] during the feast at [[Winterfell]].
+Jafer Flowers.jpg|The body of [[Jafer Flowers]] is returned to [[Castle Black]].
+Othor.jpg|The corpse of [[Othor]] is also brought into Castle Black.
+Jonwight.png|[[Jon Snow]] discovers a wight in the [[Lord Commander of the Night's Watch|Lord Commander]]'s chambers.
+Ned 1x09.png|[[Eddard Stark]] in jail in [[King's Landing]].
+Mago.jpg|[[Mago]] facing off against Khal [[Drogo]].
+Winterfell_ravens.jpg|Ravens summoning the banners for the North war.
+Kevan_and_Tywin.jpg|[[Kevan Lannister]] and [[Tywin Lannister]] greet Tyrion
+Daenerys 1x08.jpg|Dany notices the extend of Drogo's injury
+Syrio's last stand.jpg|Syrio Forel confronts Ser Meryn Trant and Lannister guards.
+Stark_guard_(The_Pointy_End).jpg|A Stark guard
+ShaggaThePointyEnd.jpg|[[Shagga]]
+108 Cersei who's death.jpg
+108 Watch Messenger.png
+1x08 Barristan.png
+1x08 Greatjon.png
+Littlefinger 1x08.png
+Lysa Arryn infobox.jpg
+Aron Santagar.jpg
+Arya 1x08.png
+Mago Death 1x08.png
+Mago.jpg
+Meryn Trant.jpg
+Milk Of The Poppy.png
+Mirri Maz Duur.jpg
+Mirri Speaks.png
+Mordane.png
+Ned 1x09.png
+BlackCell.jpg
+Boltonbanner-S1.jpg
+Bowen profile.jpg
+Cerwyn man1x08.jpg
+Chella.jpg
+Othor.jpg
+Othor.png
+Qotho 1x08.png
+Daenerys 1x08.jpg
+Drogo 1x08.jpg
+Sansa Stark 1x08.jpg
+Ser Barristan challenging the court..jpg
+Shagga.jpg
+ShaggaThePointyEnd.jpg
+Stableboy.jpg
+Stark guard (The Pointy End).jpg
+Syrio Forel 1x08.png
+Syrio's last stand.jpg
+Galbart Glover.jpg
+Great Shepherd Altar.png
+Greatjon.png
+GreatShepherd.jpg
+Greywind.png
+Gyles rosby.jpg
+Timett.jpg
+Tywin 1x08.png
+Jafer Flowers.jpg
+Jonwight.png
+Vayon Poole.jpg
+Kevan and Tywin.jpg
+Winterfell ravens.jpg
+Lannister messenger.jpg
+Lannister scout.jpg
+</gallery>
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+*{{HBO|game-of-thrones/season-1/8-the-pointy-end}}
+*{{HBO Max|video/watch/017ce193-f0aa-4d7a-9eb1-be60f3f490e0/456e9fb6-2b2f-4d83-8654-0b417a1e99ba}}
+*{{IMDb title|# = 1837864}}
+*{{WP}}
+
+<!--Navboxes-->
+{{Game of Thrones}}
+
+<!--Categories-->
+{{DEFAULTSORT:Pointy End, The}}
+[[Category:Episodes directed by Daniel Minahan]]
+[[Category:Episodes of Game of Thrones: Season 1| 08]]
+[[Category:Episodes released in 2011|6.05]]
+[[Category:Episodes written by George R.R. Martin]]
+
+<!--Languages-->
+[[de:Das spitze Ende (Episode)]]
+[[es:Por el lado de la punta]]
+[[fr:Frapper d'estoc]]
+[[it:La guerra alle porte]]
+[[pt-br:A Ponta Aguçada]]
+[[ro:Un duşman străvechi]]
+[[ru:Острый конец]]

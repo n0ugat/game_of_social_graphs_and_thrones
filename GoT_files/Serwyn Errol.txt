@@ -1,0 +1,67 @@
+{{Canonicity|Non}}
+{{Heraldry
+| Leftimage  = House Errol.svg
+| Leftlink   = House Errol
+| Rightimage = Kingsguard.svg
+| Rightlink  = Kingsguard
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Targaryen
+| Image       = House Baratheon lineage.jpg
+| Birth       = At [[Haystack Hall]]
+| Death       = 
+| House       = [[House Errol|Errol]]
+| Affiliation = [[Kingsguard]]
+| Titles      = [[Knighthood|Ser]]<br>[[Lord Commander of the Kingsguard]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Andals|Andal]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+Ser '''Serwyn Errol''' was [[Lord Commander of the Kingsguard]] during the reign of King [[Aenys Targaryen]].
+
+==Biography==
+===Background===
+Serwyn was [[Lord Commander of the Kingsguard]] during the reign of King [[Aenys Targaryen]] and knighted [[Mychal Baratheon]].{{Ref|GOT106}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+He is mentioned in the book ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]''.{{Ref|GOT106}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there has been no mention of the name of the Lord Commander of the Kingsguard during the reign of Aenys I Targaryen. The only character by that name is the legendary Ser Serwyn of the Mirror Shield, who allegedly killed the dragon Urrax.
+
+==Appearances==
+*{{GOT|A Golden Crown}} {{Text}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+{{DEFAULTSORT:Errol, Serwyn}}
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Kingsguard of Aenys I Targaryen]]
+[[Category:Knights]]
+[[Category:Lords Commander of the Kingsguard]]
+[[Category:Members of House Errol|Serwyn Errol]]
+[[Category:Stormlanders]]
+
+<!--Languages-->
+[[de:Serwyn Errol]]
+[[es:Serwyn Errol]]
+[[fr:Serwyn Errol]]
+[[ru:Сервин Эррол]]

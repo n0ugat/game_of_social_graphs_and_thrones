@@ -1,0 +1,95 @@
+{{Episode
+| Title    = {{PAGENAME}}
+| Type     = Telltale
+| Image    = ATGS02.png
+| Season   = 
+| Episode  = 2
+| Date     = February 3, 2015{{Webref|name=GS |author=Rob Crossley |date=January 22, 2015 |url=https://www.gamespot.com/articles/telltale-s-game-of-thrones-episode-2-coming-early-/1100-6424823/ |title=Telltale's Game of Thrones Episode 2 Coming Early February |website=GameSpot |access-date=February 3, 2024 }} {{C|PC, Mac, PlayStation 4, PlayStation 3}}<br>February 4, 2015<ref name="GS" /> {{C|Xbox One, Xbox 360}}<br>February 5, 2015<ref name="GS" /> {{C|iOS, Android}}
+| Runtime  = 
+| Writer   = Nicole Martinez{{Ref|ATGS02}}<br>Meghan Thornton{{Ref|ATGS02}}<br>Brad Kane{{Ref|ATGS02}}
+| Director = Kent Mudle{{Ref|ATGS02}}
+| Year     = [[300 AC/Non-canon|300 AC]]{{Dateref|The Lost Lords}}
+| Previous = "[[Iron From Ice]]"{{Ref|ATGS01}}
+| Next     = "[[The Sword in the Darkness]]"{{Ref|ATGS03}}
+}}
+"'''The Lost Lords'''"{{Ref|ATGS02}} is the second episode of ''[[Game of Thrones: A Telltale Games Series]]''. It premiered on February 3, 2015. It was written by Nicole Martinez, Meghan Thornton, and Brad Kane, and directed by Kent Mudle.
+
+==Premise==
+{{Premise|ATGS02}}
+
+==Cast==
+*[[Peter Dinklage]] as [[Tyrion Lannister]]
+*[[Natalie Dormer]] as [[Margaery Tyrell]]
+*[[Kit Harington]] as [[Jon Snow]]
+*[[Lena Headey]] as [[Cersei Lannister]]
+*[[Iwan Rheon]] as [[Ramsay Bolton|Ramsay Snow]]
+*Russ Bain as Rodrik
+*Alex Jordan as Asher
+*Daniel Kendrick as Gared Tuttle
+*Martha Mackintosh as Mira Forrester
+*Christopher Nelson as Ethan Forrester
+*Laura Bailey as Gwyn
+*Joseph Balderrama as Cotter
+*JB Blanc as Malcom Forrester,{{Sic|Malcom Branfield}} Thermund, Father Tuttle
+*Jeremy Crutchley as Frostfinger
+*Robin Atkin Downes as Lord Forrester, Duncan Tuttle & Andros
+*David Franklin as Maester Ortengryn
+*Brian George as Ser Royland Degore & Tazal
+*Alastair James as Britt
+*Geoff Leesley as Lord Whitehill & Norren
+*Natasha Loring as Sera
+*Yuri Lowenthal as Finn, Tom & Erik
+*Matthew Mercer as Bowen & Fegg
+*Toks Olagundoye as Beskha
+*Amy Pemberton as Elaena
+*Lara Pulver as Lady Forrester
+*Molly Stone as Talia Forrester
+*Louis Suc as Ryon Forrester
+*Fabio Tassone as Lucan
+*Owen Thomas as Damien
+*Oliver Vaquer as Morgryn
+
+==Gallery==
+===Videos===
+<gallery bordersize="none">
+First Look - Game of Thrones: A Telltale Games Series - Ep 2: 'The Lost Lords'
+LAUNCH TRAILER Game of Thrones: A Telltale Games Series Episode Two: The Lost Lords
+</gallery>
+
+===Images===
+<gallery>
+TLL Pre-Release 1.png
+TLL Pre-Release 2.png
+TLL Pre-Release 3.png
+TLL Pre-Release 4.png
+TLL Pre-Release 5.png
+TLL Pre-Release 6.png
+TLL Pre-Release 7.png
+</gallery>
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{TTGOT}}
+
+<!--Navboxes-->
+{{Game of Thrones: A Telltale Games Series}}
+{{Game of Thrones}}
+
+<!--Categories-->
+{{DEFAULTSORT:Lost Lords, The}}
+[[Category:Episodes directed by Kent Mudle]]
+[[Category:Episodes of Game of Thrones: A Telltale Games Series| 02]]
+[[Category:Episodes released in 2015|2.03]]
+[[Category:Episodes written by Brad Kane]]
+[[Category:Episodes written by Meghan Thornton]]
+[[Category:Episodes written by Nicole Martinez]]
+
+<!--Languages-->
+[[de:Die verlorenen Lords (Episode)]]
+[[fr:Les Derniers Seigneurs]]
+[[ru:Потерянные лорды]]

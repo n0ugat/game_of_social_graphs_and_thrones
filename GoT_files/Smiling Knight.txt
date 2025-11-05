@@ -1,0 +1,71 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Outlaw
+| Image       = The Smiling Knight.png
+| Birth       = 
+| Death       = [[278 AC]]{{Dateref|Kingswood Brotherhood}}<br>The [[Kingswood]], the [[Crownlands]]{{Ref|GOT401}}
+| House       = 
+| Affiliation = [[Kingswood Brotherhood]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Ser Arthur Dayne, the Sword of the Morning... led the attack on the Kingswood Brotherhood. Defeated the Smiling Knight in single combat.|King [[Joffrey Baratheon]]|Two Swords}}
+The '''Smiling Knight''' was an [[outlaw]] and a member of the [[Kingswood Brotherhood]]. He was killed by Ser [[Arthur Dayne]], a member of the [[Kingsguard]] of [[Aerys II Targaryen]].
+
+==Biography==
+===Background===
+The Smiling Knight was a prominent member of the outlaws called the "[[Kingswood Brotherhood]]" and was mentally imbalanced. Ser [[Arthur Dayne]] while leading the [[Kingsguard]] in suppressing the outlaws, fought him in single combat. During the duel, the sword of the brigand was damaged, and Ser Arthur allowed him to call for another sword. The Knight, however, was slain in the duel, ending the threat of the Kingswood Brotherhood for good.{{Ref|H&L613}}
+
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+While checking the ''[[Book of Brothers]]'', King [[Joffrey Baratheon]] passingly reads the entry on Ser [[Arthur Dayne]], which recounts his deeds and slayings, including his killing of the Smiling Knight.{{Ref|GOT401}}
+
+===[[Game of Thrones: Season 8|''Game of Thrones'': Season 8]]===
+While flicking through the ''[[Book of Brothers]]'', the new [[Lord Commander of the Kingsguard]] [[Brienne of Tarth]] comes across an entry of Ser Arthur Dayne, which mentions his killing of the Smiling Knight.{{Ref|GOT806}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the Smiling Knight was an infamous outlaw reputed to be insane as well as a deadly swordsman. [[Jaime Lannister]] describes him "a madman, cruelty and chivalry all jumbled up together, but he did not know the meaning of fear." Jaime compares him to [[Gregor Clegane]], calling him "The Mountain of my boyhood". At some point during his career he killed Ser Victor Tyrell, cousin of Lord [[Mace Tyrell]] of [[Highgarden]].
+
+During the combat between the Brotherhood and the [[Kingsguard]], the Smiling Knight briefly crossed swords with Jaime Lannister, but Jaime held him off. Arthur Dayne next fought an extended exchange with him, until the Smiling Knight's sword became too damaged. Dayne paused the fight and allowed the outlaw to take a fresh sword. The Smiling Knight did so, but remarked that it was Dayne's famous sword [[Dawn]] that he truly desired. In the second exchange, the Smiling Knight was killed. His death is considered Arthur Dayne's most famous accomplishment.
+
+==Appearances==
+*{{GOT|Two Swords}} {{Mentioned}}
+*{{H&L|House Dayne}} {{Illustrated}}
+*{{GOT|The Iron Throne}} {{Text}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+[[Category:Individuals from Histories & Lore]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Kingswood Brotherhood]]
+[[Category:Knights]]
+[[Category:Westerosi]]
+
+<!--Languages-->
+[[de:Der Lächelnde Ritter]]
+[[ru:Улыбающийся Рыцарь]]

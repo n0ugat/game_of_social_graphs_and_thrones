@@ -1,0 +1,34 @@
+{{DISPLAYTITLE:The Last of the Starks {{C|''The Game Revealed''}}}}
+{{Episode
+| Title    = The Last of the Starks
+| Type     = Revealed
+| Image    = TGR804.jpg
+| Season   = 8
+| Episode  = 4
+| Date     = May 6, 2019{{Listref|TGR78}}
+| Runtime  = 17 minutes{{Appleref|TGR804}}
+| Writer   = 
+| Director = 
+| Year     = 
+| Previous = "[[The Long Night (The Game Revealed)|The Long Night]]"{{Listref|TGR}}
+| Next     = "[[The Bells (The Game Revealed)|The Bells]]"{{Listref|TGR}}
+}}
+"'''The Last of the Starks'''" is the fourth episode of the [[The Game Revealed: Season 8|third season]] of ''[[The Game Revealed]]''. It is the sixteenth episode of the series overall. It was released on May 6, 2019.
+
+==Description==
+{{Description|TGR804}}
+
+==Gallery==
+<gallery bordersize="none">
+Game of Thrones / Season 8 Episode 4 / Game Revealed (HBO)
+</gallery>
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{The Game Revealed}}
+
+<!--Categories-->
+[[Category:Episodes of The Game Revealed: Season 8| 04]]
+[[Category:Episodes released in 2019|5.06]]

@@ -1,0 +1,94 @@
+{{SameName|short|people|Free Folk}}
+{{Short
+| Title    = {{PAGENAME}}
+| Type     = Lore
+| Image    = H&L211.png
+| Season   = 2
+| Short    = 11
+| Date     = February 19, 2013{{Webref|name=Blu-ray |author=Charlie Harwood |date=November 19, 2012 |url=https://hbowatch.com/hbo-issues-release-date-and-details-for-game-of-thrones-s2-dvdblu-ray/ |title=Release Date & Details for Game of Thrones Season 2 DVD/Blu-Ray |website=HBO Watch |access-date=December 15, 2023 }}
+| Runtime  = 3 minutes{{Ref|H&L211}}
+| Narrator = [[Ygritte]]{{Boxref|GOT2}}
+| Writer   = [[Dave Hill]]{{Webref|name=Hill |author=Vanessa Cole |date=July 22, 2017 |url=https://web.archive.org/web/20201111213241/https://watchersonthewall.com/game-thrones-writer-dave-hill-gives-behind-scenes-look-creative-process/ |title=Game of Thrones writer Dave Hill gives a behind the scenes look at the creative process |website=Watchers on the Wall |access-date=December 15, 2023 }}
+| Director = 
+| Previous = "[[House Clegane (short)|House Clegane]]"{{Boxref|GOT2}}
+| Next     = "[[The Night's Watch]]"{{Boxref|GOT2}}
+}}
+"'''The Free Folk'''"{{Boxref|GOT2}} is the eleventh short of the [[Histories & Lore: Season 2|second season]] of ''[[Histories & Lore]]''. It is the thirty-fifth short of the series overall. It was released on February 19, 2013 in ''[[Game of Thrones: The Complete Second Season]]''. It was narrated by [[Rose Leslie]] as [[Ygritte]] and written by [[Dave Hill]].
+
+==Premise==
+{{Premise|H&L211}}
+
+==Narration==
+'''Ygriite''': ''A long time ago, they say, [[Brandon the Builder|some old]] [[Seven Kingdoms|Southern]] [[King in the North|king]] enslaved our [[giants]] by [[magic]], and forced them to build your famous [[Wall]].''
+
+''Then he kicked all of my kind to the other side and raised an [[Night's Watch|army]] to keep us there.''
+
+''And we're the uncivilized ones? "[[Free Folk|Wildlings]]."''
+
+''Might be Ser King was wise. Even a giant can be made to kneel, but only if he wants a better crack at your head.''
+
+''The Free Folk don't follow a man because his father tells us. If the king's son was brave and strong, aye, we'd follow him as we did his father. If he wasn't...''
+
+''But it seems to me as much as the Wall keeps us out, it keeps you Southerners in. You follow "laws" you didn't make, kneel to kings you didn't choose, and pray to gods you never hear from.''
+
+''Our traders talk about your [[Seven]]. [[Beyond the Wall]], the stars shine bright and clear. Any gods there aren't listening to the likes of men.''
+
+''[[Old Gods|Our gods]] are of the forest; in the trees that shelter us and the rivers that feed us. They gave the land for all of us to share. We'd fish, farm, and hunt where we will when we need.''
+
+''If a man wants a woman, he has to prove he'll give her strong and cunning sons. Oh, it's easy! When she tries to slit his throat, he don't let her. With the Free Folk, you get what you can take, and you keep what you can hold. No more.''
+
+''I wonder, even if my kind didn't hop over your Wall, would you still set your Night's Watch to guard it? You Southerners are rich. You always have more steel, gold, and daughters. I think you're afraid.''
+
+''If you've always knelt, then you don't know what freedom is, and if you've not been beyond the Wall, you don't know what fear is. You will.''
+
+==Appearances==
+===Individuals===
+* King [[Brandon the Builder]] {{Unnamed}}
+
+===Institutions===
+* [[Night's Watch]]
+
+===Locations===
+* The [[Wall]]
+* [[Beyond the Wall]]
+
+===Cultures===
+* [[Free Folk]]
+
+===Religions===
+* [[Faith of the Seven]] {{Mentioned}}
+* [[Old Gods]] {{Mentioned}}
+
+===Miscellaneous===
+* [[Giants]]
+* [[Wight]]
+* [[Shadowcat]]
+
+==Cast==
+*[[Rose Leslie]] as [[Ygritte]]
+
+==In the books==
+*The short is adapted from the following chapter of ''A Storm of Swords'':
+**Chapter 41, Jon V: [[Ygritte]] tells about the [[Free Folk|wildlings]]' customs.
+
+==Gallery==
+<gallery bordersize="none">
+The Free Folk
+</gallery>
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{Histories & Lore}}
+
+<!--Categories-->
+{{DEFAULTSORT:Free Folk, The}}
+[[Category:Shorts narrated by Ygritte]]
+[[Category:Shorts of Histories & Lore: Season 2| 11]]
+[[Category:Shorts released in 2013|2.19K]]
+[[Category:Shorts written by Dave Hill]]
+
+<!--Languages-->
+[[pt-br:O Povo Livre (História e Tradição)]]
+[[fr:Le Peuple libre (Histoires & Traditions)]]

@@ -1,0 +1,34 @@
+{{Person
+| Title = {{PAGENAME}}
+| Type = Dragon
+| Image = Simon Whyman.jpg
+| Birth   = 
+| Death   = 
+| Role    = Stunt Performer
+| Series  = ''[[Game of Thrones]]''<br>''[[House of the Dragon]]''
+| Season  = ''Game of Thrones'':<br>[[Game of Thrones: Season 4|4]]<br>''House of the Dragon'':<br>[[House of the Dragon: Season 2|2]]
+| Credits = 2 episodes {{Below|Credits}}
+| First   = "[[The Watchers on the Wall]]"
+| Last    = }}
+'''Simon Whyman''' is a stuntman.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 4|fourth season]] episode "[[The Watchers on the Wall]]".
+
+On ''[[House of the Dragon]]'', he was a stunt performer in the [[House of the Dragon: Season 2|second season]] episode "[[The Red Dragon and the Gold]]".
+
+==Credits==
+===Stunts===
+====''[[Game of Thrones]]''====
+{{Game of Thrones: Season 4|||||||||yes}}
+
+====''[[House of the Dragon]]''====
+{{House of the Dragon: Season 2||||yes}}
+
+==See also==
+*{{IMDb
+|# = 2647005}}
+*{{Linkedin
+|# = /in/simon-whyman-03857a3}}
+{{DEFAULTSORT:Whyman, Simon}}
+[[Category:Stunt performers of Game of Thrones]]
+[[Category:Stunt performers of House of the Dragon]]

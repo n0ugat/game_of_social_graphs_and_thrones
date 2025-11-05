@@ -1,0 +1,74 @@
+{{Canonicity|Non}}
+{{Heraldry
+| Image = House Baratheon.svg
+| Link  = House Baratheon
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Baratheon
+| Image       = House Baratheon lineage.jpg
+| Birth       = 
+| Death       = 
+| House       = [[House Baratheon|Baratheon]]{{Ref|GOT106}}
+| Affiliation = [[House Targaryen]]{{Ref|GOT106}}
+| Titles      = [[Lord of Storm's End]]{{Ref|GOT106}}<br>[[Lord Paramount of the Stormlands]]{{Ref|GOT106}}
+| AKA         = 
+| Culture     = [[Stormlands|Stormlander]]{{Ref|GOT106}}
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = {[[Meera Baratheon]]}{{Ref|GOT106}}
+| Lovers      = 
+| Issue       = {[[Lyonel Baratheon]]}{{Ref|GOT106}}
+| Siblings    = 
+| Arms        = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Symeon Baratheon''' was the [[Lord of Storm's End]], [[Lord Paramount of the Stormlands]], and head of [[House Baratheon]]. He was the father of [[Lyonel Baratheon]] and great-great-grandfather of [[Robert Baratheon|Robert]], [[Stannis Baratheon|Stannis]] and [[Renly Baratheon]].
+
+==Biography==
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+He is mentioned in [[Lyonel Baratheon]]'s entry in ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]''. Symeon's wife is listed as Meera Baratheon, it is unknown which house she originally belonged to.{{Ref|GOT106}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no such character.
+
+==Appearances==
+*{{GOT|A Golden Crown}} {{Text}}
+
+==References==
+{{Reflist}}
+
+<!--Succession box-->
+{{S-start}}
+{{Succession box
+ | title  = [[Lord of Storm's End]] and [[Lord Paramount of the Stormlands]]
+ | years  = 
+ | with   = 
+ | before = Unknown
+ | after  = [[Lyonel Baratheon]]
+}}
+{{S-end}}
+
+<!--Navboxes-->
+{{House Baratheon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Baratheon, Symeon}}
+[[Category:Bannermen of House Targaryen]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Lords of Storm's End|Symeon Baratheon]]
+[[Category:Lords Paramount of the Stormlands|Symeon Baratheon]]
+[[Category:Members of House Baratheon|Symeon Baratheon]]
+[[Category:Stormlanders]]
+
+<!--Languages-->
+[[es:Symeon Baratheon]]
+[[fr:Symeon Baratheon]]
+[[ru:Симеон Баратеон]]

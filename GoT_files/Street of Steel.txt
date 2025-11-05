@@ -1,0 +1,43 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Crownlander
+| Image        = Street of Steel.png
+| Type         = Street
+| Status       = 
+| Location     = [[King's Landing]], the [[Crownlands]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = 
+| Places       = 
+| Founded      = 
+}}
+{{Quote|Without the Street of Steel, the king's armies would have no swords, armor, or victories.|[[Varys]]|King's Landing (short)}}
+The '''Street of Steel'''{{Ref|GOT104}} is a street in [[King's Landing]] known for its smiths.<ref>"[[King's Landing (short)|King's Landing]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the Street of Steel begins on the south west corner of Fishmonger's Square before travelling up Visenya's Hill to the [[Great Sept of Baelor]]. Many smiths set up shop their, with [[Tobho Mott]]'s shop located at the top due to it being the most expensive.
+
+In ''The Sworn Sword'', Ser [[Duncan the Tall]] recalls seeing [[Brynden Rivers]] on the Street of Steel.
+
+[[Jon Arryn]] and [[Stannis Baratheon|Stannis]] visit Tobho Mott's shop to meet [[Gendry Baratheon|Gendry]] and verify that he is one of [[Robert Baratheon|Robert]]'s [[bastard]]s, as does [[Eddard Stark]].
+
+In ''A Clash of Kings'', [[Tyrion Lannister|Tyrion]] later commands the street's blacksmiths to build him a great chain, which he will later use in the [[Battle of the Blackwater]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Crownlands}}
+
+<!--Categories-->
+[[Category:King's Landing]]
+[[Category:Streets|Steel]]
+
+<!--Languages-->
+[[ru:Стальная улица]]

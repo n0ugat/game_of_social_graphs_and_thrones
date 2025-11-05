@@ -1,0 +1,115 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Westeros
+| Part          = [[Robert's Rebellion]]
+| Image         = TowerofJoy.png
+| Previous      = [[Siege of Storm's End]]<br>[[Battle at the Mander]]
+| Concurrent    = 
+| Next          = [[Assault on Dragonstone]]
+| Date          = [[281 AC]]{{Dateref|Robert's Rebellion}}
+| Place         = [[Tower of Joy]], [[Red Mountains]], [[Dorne]]
+| Outcome       = *Tactical Stark victory.
+*Deaths of the last two loyalist Kingsguard: Lord Commander [[Gerold Hightower]] and Ser [[Arthur Dayne]].
+*Death of [[Lyanna Stark]].
+*Birth of Aegon Targaryen, who is then adopted by his uncle [[Eddard Stark]] and renamed [[Jon Snow]].
+| Factions1     = [[File:House Stark.svg|30px|center|link=House Stark]] [[House Stark]]<br><br>[[File:House Reed.svg|30px|center|link=House Reed]] [[House Reed]]
+| Factions2     = [[File:Kingsguard.svg|30px|center|link=Kingsguard]] [[Kingsguard]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = [[Lord of Winterfell|Lord]] [[Eddard Stark]]<br>Lord [[Howland Reed]] <small>(WIA)</small>
+| Leaders2      = [[Lord Commander of the Kingsguard|Lord Commander]] [[Gerold Hightower]] †
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = 6 Northmen
+*Lord [[Eddard Stark]]
+*Lord [[Howland Reed]] <small>(WIA)</small>
+| Participants2 = 2 Kingsguard †
+*Lord Commander<br>[[Gerold Hightower]] †
+*[[Knighthood|Ser]] [[Arthur Dayne]] †
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = 4 Northmen killed<br>
+Lord [[Howland Reed]] wounded
+| Casualties2   = Both
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = [[Lyanna Stark]] <small>(died from complications during childbirth)</small>
+}}
+{{Dialogue a-b|Arthur Dayne|And now, it begins.|Ned Stark|No. Now it ends.|[[Arthur Dayne]] and [[Eddard Stark]] as they and their men begin their final skirmish.|Oathbreaker}}
+A '''skirmish''' took place at the [[Tower of Joy]] in the final days of [[Robert's Rebellion]], a civil war that divided the [[Seven Kingdoms]] and led to the fall of the [[House Targaryen|Targaryen]] dynasty and the rise of [[House Baratheon|Baratheon]] rule.
+
+==History==
+===Prelude===
+Following the [[Sack of King's Landing]] and the death of the [[Aerys II Targaryen|Mad King]], some loyalist forces still remained on the field, unaware of the fall of the [[King's Landing|capital]] and that [[Robert Baratheon]] had taken the [[Iron Throne]]. Despite their falling out over the murder of the royal family at the hands of [[House Lannister]], [[Eddard Stark]] went south to put an end to the [[Siege of Storm's End]].<ref>"[[The Sack of King's Landing - House Stark]]"</ref>
+
+After Lord [[Mace Tyrell]] [[bending the knee|bent the knee]] and his siege of [[Storm's End]] had ended,<ref>"[[Robert's Rebellion - Margaery Tyrell]]"</ref> a small group loyal to the Mad King still remained: the [[Kingsguard]] who had not been either at the [[Battle of the Trident]] or at the fall of the capital. When the rebellion had grown into a massive force that threatened the Iron Throne, Ser [[Gerold Hightower]], [[Lord Commander of the Kingsguard]], was dispatched by King Aerys to have Prince [[Rhaegar Targaryen]] return to the capital. Rhaegar returned and would die in the Battle of the Trident, while Ser Gerold remained at the [[Red Mountains]] for unexplained reasons.<ref name="BookOfBrothers">Gerold Hightower's entry in the ''[[Book of Brothers]]'' - "[[Two Swords]]"</ref>
+
+===Events===
+At the Red Mountains of [[Dorne]], Ned Stark and a small group of bannermen fought Ser Gerold along with his last remaining sworn brother, Ser [[Arthur Dayne]].<ref name="BookOfBrothers"/> Hightower was bested and killed by Ned early on in the fight. With the Sword of the Morning slicing down the rest of the Northmen, what began as a ferocious melee rapidly boiled down to a tense duel between Dayne and Ned, in which Dayne eventually gained the upper hand and disarmed Ned; luckily for Ned, Dayne was stabbed in the back by [[Howland Reed]], and finished off by Ned. Ultimately, only Howland and Ned survived the fight.<ref>"[[Dark Wings, Dark Words]]"</ref><ref>"[[Oathbreaker]]"</ref>
+
+===Aftermath===
+{{Quote|After Rhaegar fell [[Battle of the Trident|on the Trident]], she had a son. Robert would have had the baby murdered if he found out, and Lyanna knew it. So the last thing she did as she bled to death on her birthing bed was give the boy to her brother - Ned Stark - to raise as his bastard.|[[Jon Snow|Aegon "Jon Snow" Targaryen]], to his aunt and lover [[Daenerys Targaryen]]|A Knight of the Seven Kingdoms (Game of Thrones)}}
+Having dealt with the last Targaryen loyalists, Ned Stark returned home to [[Winterfell]], along with the body of his sister, [[Lyanna Stark]], who had recently perished, and his bastard son, [[Jon Snow]], whom he had allegedly fathered with a woman named [[Wylla]]. While his friendship with Robert was mended over their mutual love for Lyanna, who had been Robert's betrothed, both men would remain haunted by her death.
+[[File:S06E10 - Jon, Ned and Lyanna.png|thumb|Eddard is presented with Aegon Targaryen, whom he renames Jon Snow, in order to raise him as his bastard son.]]
+However, as [[Bran Stark|Bran]] discovered through one of his visions, things didn't happen quite as Ned told everyone. After killing Dayne, he entered the Tower and found Lyanna, lying in a bed and bleeding massively from a cut in her abdomen. Ned calls the present maids for help, but Lyanna stops him and whispers in his ear. She makes him keep one last promise to her: keep her newborn son safe and protect him from the wrath of Robert, who had developed a hatred for everyone carrying Targaryen blood, which would soon include her child, Rhaegar's son. Lyanna whispers that her son's name is Aegon Targaryen before passing away, leaving Ned to return to Winterfell with her body and son, presenting him as his own bastard, Jon Snow.<ref>"[[The Winds of Winter]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Ned Stark is accompanied by six men to the [[Tower of Joy]], in the Red Mountains, to recover his sister. The six men were:
+* Howland Reed
+* Willam Dustin, husband of Lady [[Barbrey Dustin]] and the head of [[House Dustin]]
+* Ethan [[House Glover|Glover,]] former [[squire]] to the late [[Brandon Stark]]
+* Martyn [[House Cassel|Cassel]], father of [[Jory Cassel]] and brother of [[Rodrik Cassel]]
+* Theo Wull, of Clan Wull
+* Ser Mark Ryswell
+
+While they were only two Kingsguard in the show, there were three in the novels. The three Kingsguard guarding the tower were:
+* Ser Gerold Hightower
+* Ser Arthur Dayne
+* Ser Oswell Whent
+
+As Ned lies injured, following the [[Skirmish at Littlefinger's brothel|bloody brawl with Jaime]], he has a feverish dream/flashback about what took place at the Tower. He sees the three Kingsguard in their white cloaks and Lyanna "in a bed of blood." As he and his men come upon the Kingsguard, a dialogue ensues:
+
+{{Quote|
+::: ''“I looked for you on the Trident,” Ned said to them.''
+::: ''“We were not there,” Ser Gerold answered.''
+::: ''“Woe to the Usurper if we had been,” said Ser Oswell.''
+::: ''“When King's Landing fell, Ser Jaime slew your king with a golden sword, and I wondered where you were.”''
+::: ''“Far away,” Ser Gerold said, “or Aerys would yet sit the Iron Throne, and our false brother would burn in seven hells.”''
+::: ''“I came down on Storm's End to lift the siege,” Ned told them, "and the Lords [[Mace Tyrell|Tyrell]] and [[Paxter Redwyne|Redwyne]] dipped their banners, and all their knights bent the knee to pledge us fealty. I was certain you would be among them.”''
+::: ''“Our knees do not bend easily,” said Ser Arthur Dayne.''
+::: ''“Ser [[Willem Darry]] is fled to [[Dragonstone]], with your [[Rhaella Targaryen|Queen]] and [[Viserys Targaryen (son of Aerys II)|Prince Viserys]]. I thought you might have sailed with him.”''
+::: ''“Ser Willem is a good man and true,” said Ser Oswell.''
+::: ''“But not of the Kingsguard,” Ser Gerold pointed out. “The Kingsguard does not flee.”''
+::: ''“Then or now,” said Ser Arthur. He donned his helm.''
+::: ''“We swore a vow,” explained old Ser Gerold.''
+::: ''Ned's wraiths moved up beside him, with shadow swords in hand. They were seven against three.''
+::: ''“And now it begins,” said Ser Arthur Dayne, the Sword of the Morning. He unsheathed Dawn and held it with both hands. The blade was pale as milkglass, alive with light.''
+::: ''“No,” Ned said with sadness in his voice. “Now it ends.”||A Song of Ice and Fire}}
+
+As the two parties engage in battle, Ned hears his sister crying out his name, and the dream concludes with him making a promise before she dies. So far in the novels, what exactly this promise entailed is unclear.
+
+It is never revealed exactly how the battle unfolded, such as who killed whom or in what manner. All that is known is that Eddard Stark and Howland Reed were the only survivors. Eddard later told Bran that Howland Reed saved his life.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|Combat at the tower of joy}}
+
+<!--Navboxes-->
+{{Robert's Rebellion}}
+
+<!--Categories-->
+[[Category:281 AC]]
+[[Category:Battles]]
+[[Category:Robert's Rebellion]]
+
+<!--Languages-->
+[[de:Kampf am Turm der Freude]]
+[[fr:Confrontation à la Tour de la Joie]]
+[[ru:Столкновение в Красных горах]]

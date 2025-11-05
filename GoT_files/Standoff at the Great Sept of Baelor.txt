@@ -1,0 +1,87 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Thrones
+| Part          = the [[War of the Five Kings]]
+| Image         = Blood of My Blood 25.jpg
+| Previous      = [[Taking of Riverrun]]
+| Concurrent    = 
+| Next          = [[Second siege of Riverrun]]
+| Date          = [[303 AC]]{{Dateref|Game of Thrones: Season 6}}
+| Place         = [[Great Sept of Baelor]], [[King's Landing]]
+| Outcome       = Violence avoided, Faith Militant political and strategic victory
+*Cancellation of Queen [[Margaery Tyrell]]'s [[walk of atonement]]
+*King [[Tommen Baratheon]] forms alliance with the [[High Sparrow]]
+*Queen [[Margaery Tyrell]] released from prison
+*Dismissal of [[Lord Commander of the Kingsguard|Lord Commander]] [[Jaime Lannister]] from the [[Kingsguard]]
+| Factions1     = {{COA|House Tyrell|small}} [[House Tyrell]]<br>{{COA|House Lannister|small}} [[House Lannister]]
+| Factions2     = {{COA|Sparrows|small}} [[Sparrows]]<br>{{COA|Faith Militant|small}} [[Faith Militant]]<br>{{COA|House Baratheon of King's Landing|small}} '''[[Iron Throne]]'''/[[House Baratheon of King's Landing]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = {{COA|House Tyrell|inline}} [[Lord of Highgarden|Lord]] [[Mace Tyrell]]<br>{{COA|House Tyrell|inline}} Lady [[Olenna Tyrell]]<br>{{COA|Kingsguard|inline}} [[Lord Commander of the Kingsguard|Lord Commander]] [[Jaime Lannister]]
+| Leaders2      = {{COA|Sparrows|inline}} [[High Sparrow]]<br>{{COA|House Baratheon of King's Landing|inline}} [[King of the Andals and the Rhoynar and the First Men|King]] [[Tommen Baratheon|Tommen I Baratheon]]
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = Small company of [[House Tyrell]]
+| Participants2 = *Many dozens of [[Sparrows]]
+**Brother [[Lancel Lannister|Lancel]]
+*4 [[Kingsguard]]
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = None
+| Casualties2   = None
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Dialogue a-b|Jaime|Sorry to interrupt. We’re here for Queen Margaery and Ser Loras Tyrell. Give them to us and we’ll be on our way.|High Sparrow|I don’t have the authority to give them to you. And you don’t have the authority to take them.|[[Jaime Lannister]] and the [[High Sparrow]]|Blood of My Blood}}
+The '''standoff at the Great Sept of Baelor''' is an unsuccessful attempt by [[House Tyrell]] and [[House Lannister]] to crack down on the [[Faith Militant]]. The plan was meant to force the release of [[Margaery Tyrell]] from imprisonment with the threat of military force. Although the army of House Tyrell is significantly stronger than the Faith Militant, the assault was called off when King [[Tommen Baratheon]] supported the Faith. This was a significant blow to the then two most powerful houses in Westeros.
+
+== History ==
+===Prelude===
+As part of her powerplay with the Tyrells, [[Cersei Lannister]] allowed the recreation of the Faith Militant, which promptly arrested [[Loras Tyrell]] for his homosexual relationship with [[Renly Baratheon]].<ref>"[[Sons of the Harpy (episode)|Sons of the Harpy]]"</ref> In an effort to help her brother, [[Margaery Tyrell]] denied knowledge of this, in turn resulting in her own arrest.<ref>"[[Unbowed, Unbent, Unbroken]]"</ref>
+
+Initially a victory for Cersei, tables quickly turned when she was arrested herself for adultery with her cousin [[Lancel Lannister]].<ref>"[[The Gift]]"</ref> After she was forced to make a [[Walk of atonement]], she realized the Faith Militant had become too powerful.<ref>"[[Mother's Mercy]]"</ref>
+
+Fearing for Queen Margaery's safety, King [[Tommen Baratheon]] orders his [[Hand of the King]], [[Kevan Lannister]], to take no action against the Faith Militant.<ref>"[[Book of the Stranger]]"</ref> This does not prevent House Tyrell from taking action on their own, however, so they hatch a plan in which [[Mace Tyrell]] will lead an army to storm the [[Great Sept of Baelor|Great Sept]] while the [[City Watch of King's Landing|City Watch]] stands down.
+
+===Standoff===
+Spearheaded by Jaime, the Tyrell force arrives the moment Margaery's humiliation is about to commence, blocking off the stairway of the [[Great Sept of Baelor]] from the street below. While claiming the Faith Militant is unafraid to die for the gods, the [[High Sparrow]] cancels the walk of atonement, before revealing the recruitment of King Tommen himself into the Faith. Tommen presumes to declare an alliance between the Iron Throne and the Faith. [[Olenna Tyrell]] bitterly notes to her son [[Mace Tyrell|Mace]] that the High Sparrow has beaten them.<ref>"[[Blood of My Blood]]"</ref>
+
+===Aftermath===
+Jaime is removed from the Kingsguard. Olenna Tyrell wastes no time leaving [[King's Landing]] and encourages Cersei to do the same, scolding her for causing the trouble in the first place. Cersei refuses to give up, however, and elects to stay with her son and attempt to regain her position.<ref>"[[The Broken Man]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, no such encounter ever takes place.
+
+In the fifth novel, Mace Tyrell and [[Randyll Tarly]] bring their armies to King's Landing, but they do not attempt to free Margaery by force, nor do they need to: since the case against Margaery and her cousins is very weak, nearly all the testimonies against them - which Cersei "arranged" - turned to be false (the witnesses have lied either willingly or under coercion), the High Sparrow agrees to hand the girls over to Tarly’s custody. Randyll swears a holy oath to deliver them for trial when the time comes.
+
+Mace demands Kevan clear the charges against Margaery by having Tommen declare her innocence, but Kevan refuses. Kevan also suspects the charges are false, but believes it is better to hold the trial, otherwise the whispers will follow Margaery the rest of her life. He answers Mace diplomatically "No man doubts your daughter’s innocence, my lord, but His High Holiness insists upon a trial." He reminds Mace and Randyll that they have foes on every hand ([[Stannis Baratheon|Stannis]] in the north, [[ironborn]] in the west, sellswords in the south), and if they defy the High Septon, they will have blood running in the gutters of King’s Landing as well; if they are seen to be going against the gods, it will only drive the pious into the arms of one or the other of those would-be usurpers.
+
+At that point, Jaime is not at King's Landing; he has already marched to [[Riverrun]], and has no idea about Margaery's arrest. So far, he has not been dismissed from his office as the Lord Commander of the Kingsguard.
+
+Olenna is not present either. She has left the city shortly after Tommen and Margaery's wedding, and has not returned by the point the books reached.
+
+==Gallery==
+<gallery>
+File:GOT S6 48.png
+</gallery>
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{War of the Five Kings}}
+
+<!--Categories-->
+[[Category:303 AC]]
+[[Category:Events]]
+[[Category:War of the Five Kings]]
+
+<!--Languages-->
+[[fr:Impasse au Grand Septuaire de Baelor]]
+[[ru:Противостояние у Великой септы Бейлора]]

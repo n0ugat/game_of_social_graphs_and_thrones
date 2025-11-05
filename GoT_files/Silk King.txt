@@ -1,0 +1,62 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Thrones
+| Image       = Member of the Thirteen.jpg
+| Birth       = 
+| Death       = [[299 AC]]{{Dateref|Game of Thrones: Season 2}}<br>[[Hall of a Thousand Thrones]], [[Qarth]]{{Ref|GOT207}}
+| House       = 
+| Affiliation = [[Thirteen]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = Qartheen
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 2|2]]
+| Appearances = 3 episodes {{Below|Appearances}}
+| First       = "[[Garden of Bones (episode)|Garden of Bones]]"
+| Last        = "[[A Man Without Honor]]"
+| DeathEp     = "A Man Without Honor"
+| Actor       = [[Slavko Juraga]]
+}}
+{{Quote|The Silk King won't support me because of his business with the Lannisters. Why offend his best customer?|[[Daenerys Targaryen]]|The Old Gods and the New}}
+The '''Silk King''' is a member of the [[Thirteen]]. He is killed by [[Pyat Pree]] when [[Xaro Xhoan Daxos]] proclaims himself [[King of Qarth]].
+
+==Biography==
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+He receives [[Daenerys Targaryen]] outside the gates of the city with the rest of the [[Thirteen]]. They refuse to admit her without seeing her [[dragon]]s. She is defiant and is eventually admitted under the protection of [[Xaro Xhoan Daxos]].{{Ref|GOT204}}
+
+He's present at a gathering of Qartheen dignitaries attended by Daenerys, accompanied by her protectors, and Xaro Xhoan Daxos.{{Ref|GOT205}} He, along with the [[Spice King]] and the [[Copper King]], turns Dany down when she requests boats. The Silk King will not help her because of his business with [[House Lannister]], as he doesn't want to offend his best customers.{{Ref|GOT206}}
+
+He's present at a session of the Thirteen in which Daenerys accuses the Spice King of stealing her dragons. He's murdered by one of the doubles of [[Pyat Pree]] along with the rest of the Qartheen merchant lords after the [[Warlocks|warlock]] reveals he stole the dragons and declares Xaro Xhoan Daxos King of Qarth.{{Ref|GOT207}}
+
+==Appearances==
+*{{GOT|Garden of Bones}}
+*{{GOT|The Ghost of Harrenhal}}
+*{{GOT|The Old Gods and the New}} {{Mentioned}}
+*{{GOT|A Man Without Honor}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Merchants]]
+[[Category:Qartheen]]
+[[Category:Thirteen]]
+
+<!--Languages-->
+[[de:Seidenkönig]]
+[[fr:Roi de la Soie]]
+[[ru:Король Шёлка]]

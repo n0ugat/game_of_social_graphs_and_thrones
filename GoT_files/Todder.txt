@@ -1,0 +1,88 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Night's Watch.svg
+| Link  = Night's Watch
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = Todder (Hardhome).PNG
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[Night's Watch]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = Toad
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 1|1]] {{*}} [[Game of Thrones: Season 3|3]] {{*}} [[Game of Thrones: Season 5|5]]
+| Appearances = 4 episodes {{Below|Appearances}}
+| First       = "[[You Win or You Die]]"
+| Last        = "[[The Dance of Dragons (episode)|The Dance of Dragons]]"
+| DeathEp     = 
+| Actor       = [[Will O'Connell]]
+}}
+{{dialogue a-b-a-b|Todder|Lord Commander!|Jon Snow|Get [[Free Folk|them]] to the ship and come back for me!|But you'll never make...|Now!|Todder and [[Jon Snow]] during the [[Massacre at Hardhome|massacre]] at [[Hardhome]].|Hardhome (episode)}}
+'''Todder''', nicknamed '''Toad''', is a [[Builder]] of the [[Night's Watch]].
+
+==Biography==
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+Toad is present during the speech [[Lord Commander of the Night's Watch|Lord Commander]] [[Jeor Mormont]] gave to the "graduating" recruits. He is assigned to the [[Builder]]s.{{Ref|GOT107}}
+
+===[[Game of Thrones: Season 3|''Game of Thrones'': Season 3]]===
+Todder alerts other members of the Watch of [[Jon Snow]]'s return.{{Ref|GOT310}}
+
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+Todder accompanies Jon on his expedition to [[Hardhome]]. During the [[Massacre at Hardhome|battle]] that ensues after the arrival of the [[Night King]], he attempts to dissuade Jon from staying behind to fight off the [[White Walkers]], but Jon orders him to keep transporting wildlings to the ships.After the Night King summons a new host of [[wight]]s, Toad pulls back to shore to allow Jon, [[Eddison Tollett|Edd]], [[Tormund]], and the last few fighters to jump aboard and escape the oncoming hoard and row away.{{Ref|GOT508}} Todder is then seen returning to [[Castle Black]] with Jon, Edd, Tormund, and the rescued [[Free Folk|wildlings]].{{Ref|GOT509}}
+
+==Quotes==
+===Spoken by Todder===
+{{Quote|Halt! Halt!|Todder as [[Jon Snow]] returns to [[Castle Black]].|Mhysa}}
+
+==Behind the scenes==
+Todder was first mentioned in Season 1's episode "You Win or You Die", but he didn't appear on-screen until Season 3's episode "Mhysa". Even then, the actor wasn't identified by name to be playing Todder until Season 5's episode "Hardhome".
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Todder is the son of a winesink owner. He is described as a short, ugly boy with an unpleasant voice. He has pig eyes, small and shiny. Instead of a Builder, Toad is made a [[Ranger]]. He is among the friends that prevent Jon from abandoning the Night's Watch and joining [[Robb Stark]].
+
+In ''A Dance with Dragons'', Toad complains about [[Melisandre]]'s preaching, that she calls the Seven and the old gods false gods, and made the wildlings burn weirwood branches. Later, Jon sends him to serve at the [[Shadow Tower]].
+
+==Gallery==
+<gallery>
+Night's Watchman 3x10.jpg|Todder standing watch at Castle Black
+Todder1 (Hardhome).PNG|Todder yelling to Jon.
+</gallery>
+
+==Appearances==
+*{{GOT|You Win or You Die}}
+*{{GOT|Mhysa}}
+*{{GOT|Hardhome}}
+*{{GOT|The Dance of Dragons}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Night's Watch}}
+
+<!--Categories-->
+[[Category:Builders of the Night's Watch]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Westerosi]]
+
+<!--Languages-->
+[[fr:Todder]]
+[[ru:Тоддер]]
+[[zh:陶德]]

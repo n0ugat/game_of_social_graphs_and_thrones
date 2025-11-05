@@ -1,0 +1,71 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Wildling
+| Image       = Thennwarg.PNG
+| Birth       = [[Thenn]], [[beyond the Wall]]
+| Death       = [[301 AC]]{{Dateref|Game of Thrones: Season 4}}<br>[[Castle Black]], the [[Wall]]{{Ref|GOT409}}
+| House       = 
+| Affiliation = {[[Styr]]}<br>{[[Mance Rayder]]}
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Thenns|Thenn]]
+| Religion    = [[Old Gods]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 4|4]]
+| Appearances = 3 episodes {{Below|Appearances}}
+| First       = "[[Two Swords]]"
+| Last        = "[[The Watchers on the Wall]]"
+| DeathEp     = "The Watchers on the Wall"
+| Actor       = [[Joseph Gatt]]
+}}
+{{Quote|It's time.|The warg before the [[battle for the Wall]]|The Watchers on the Wall}}
+The '''Thenn warg''' was a member of the [[Thenns|Thenn]], a tribe of [[Free Folk]] known for their practices of ritual self-scarification and [[cannibalism]].
+
+==Biography==
+===Background===
+He is a member of the [[Thenns|Thenn]], a tribe of [[Free Folk]] known for their practices of ritual self-scarification and cannibalism. He is also a [[warg]], capable of entering the minds of animals to see through their eyes and control their actions. He is bound to an owl, allowing him to act as a scout for [[Styr]], the [[Magnar]] of Thenn.{{Ref|GOT409}}
+
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+Having already scaled the [[Wall]] and [[Raiding|raided]] a village in the [[Gift]], the Thenn warg locates [[Tormund]] and [[Ygritte]]'s group through his owl and leads Styr and the rest of his warband to them.{{Ref|GOT401}}
+
+On top of the Wall, the warg's owl spots the signal fire created by [[Mance Rayder]]. He tells Styr and Tormund that the time has come to attack [[Castle Black]]. The Thenn warg fights alongside his wildling allies during the [[battle for the Wall]]. After killing a black brother, he sees and chases down [[Samwell Tarly]], who shoots him in the head with a crossbow.{{Ref|GOT409}} As [[Jon Snow|Jon]] enters the chambers where Tormund is being held, Jon mentions that the bodies of the fallen wildlings were going to be burned, and later this warg's body was burned along with the other slain wildlings.{{Ref|GOT410}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, even though there are several skinchangers in Mance Rayder's army ([[Orell]], Varamyr Sixskins, Borroq), there is no mention of one among the Thenn.
+
+==Gallery==
+<gallery>
+GoT Thenn 1.png|Thenn warg meets with the wildling group led by Tormund in "[[Two Swords]]".
+</gallery>
+
+==Appearances==
+*{{GOT|Two Swords}}
+*{{GOT|Breaker of Chains}}
+*{{GOT|The Watchers on the Wall}}
+*{{GOT|Blood of My Blood}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Mance Rayder's army]]
+[[Category:Thenns|warg]]
+[[Category:Wargs]]
+
+<!--Languages-->
+[[fr:Change-peau Thenn]]
+[[pt-br:Thenn warg]]
+[[ru:Варг теннов]]

@@ -1,0 +1,75 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = House Dondarrion.svg
+| Link  = House Dondarrion
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Baratheon
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = [[House Dondarrion|Dondarrion]]{{Ref|HOTD104}}
+| Affiliation = [[House Baratheon/House of the Dragon|House Baratheon]]
+| Titles      = [[Lord of Blackhaven]]{{Ref|HOTD104}}
+| AKA         = 
+| Culture     = [[Dornish Marches|Marcher]]{{Ref|HOTD104}}
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = [[Beric Dondarrion (son of Simon)|Beric Dondarrion]]{{Ref|HOTD104}}
+| Siblings    = 
+| Arms        = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+Lord '''Simon Dondarrion'''{{Con|F&B}} was the [[Lord of Blackhaven]] during the reign of [[Jaehaerys I Targaryen]].
+
+==Biography==
+===Background===
+Simon once hosted Queen [[Alysanne Targaryen]] at [[Blackhaven]]. Upon his death, he was succeeded by his son [[Beric Dondarrion (son of Simon)|Beric]].{{Ref|HOTD104}}
+
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+Beric mentions his father whilst vying for [[Rhaenyra Targaryen]]'s hand at [[Storm's End]].{{Ref|HOTD104}}
+
+==In the books==
+In ''[[Fire & Blood]]'', Simon was said to be gallant and handsome. He was a skilled singer, harpist, and jouster. He is not mentioned to have fathered any issue.
+
+Simon sang to the king and queen when he hosted them at Blackhaven in 54 AC, very much to the queen's liking; the royal party stayed with [[House Dondarrion]] much longer than they had planned. The next year, Simon won a [[tournament]] marking the completion of the [[Dragonpit]], giving the victor's laurel to Princess [[Daenerys Targaryen (daughter of Jaehaerys I)|Daenerys Targaryen]]. In 58 AC, he was defeated by Ser [[Ryam Redwyne]] in a tournament celebrating Jaehaerys's tenth anniversary as king.
+
+Simon was a notable commander in the Third Dornish War, trapping the second Vulture King in the [[Red Mountains]] from the west while the king and Lord Rogar Baratheon closed in on the outlaws from the east.
+
+==Appearances==
+*{{HOTD|King of the Narrow Sea}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Dondarrion/House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Dondarrion, Simon}}
+[[Category:Bannermen of House Baratheon]]
+[[Category:Individuals mentioned in House of the Dragon]]
+[[Category:Lords]]
+[[Category:Members of House Dondarrion|Simon Dondarrion]]
+[[Category:Musicians]]
+[[Category:Stormlanders]]
+
+<!--Languages-->
+[[ru:Саймон Дондаррион]]

@@ -1,0 +1,38 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Crownlander
+| Image        = 
+| Type         = Row
+| Status       = 
+| Location     = [[King's Landing]]{{Ref|GOT310}}
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = 
+| Places       = 
+| Founded      = 
+}}
+{{Quote|The shit that poured from their privy pipes flowed down the side of Aegon's Hill along Tanner's Row and right in front of my front door on Gin Alley.|[[Davos Seaworth]]|Mhysa}}
+'''Tanner's Row'''{{Ref|GOT310}} is a street in [[King's Landing]].
+
+==History==
+===[[Game of Thrones: Season 3|''Game of Thrones'': Season 3]]===
+[[Davos Seaworth]] mentions Tanner's Row to [[Gendry Baratheon|Gendry]].{{Ref|GOT310}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no street by this name.
+
+==Appearances==
+*{{GOT|Mhysa}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{Crownlands}}
+
+<!--Categories-->
+[[Category:King's Landing]]
+[[Category:Streets]]

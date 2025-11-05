@@ -1,0 +1,33 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Successor
+| Image   = Steve Conrad.jpg
+| Birth   = Steven Conrad<br>May 20, 1968 {{Age|1968|5|20}}<br>Fort Lauderdale, Florida, U.S.
+| Death   = 
+| Role    = Developer
+| Series  = ''[[A Knight of the Seven Kingdoms|Dunk & Egg]]''
+| Season  = 
+| Credits = 
+| First   = 
+| Last    = 
+}}
+'''Steven Conrad''' (born 1968) is an American screenwriter, film producer and director. He has worked on films such as ''{{WPS|The Weather Man}}'', ''{{WPS|The Pursuit of Happyness}}'', ''{{WPS|The Promotion}}'', ''{{WPS|The Secret Life of Walter Mitty (2013 film)|The Secret Life of Walter Mitty}}'', ''{{WPS|Unfinished Business (2015 film)|Unfinished Business}}'' and ''{{WPS|Wonder (film)|Wonder}}'' and television series such as ''{{WPS|Patriot (TV series)|Patriot}}'', ''{{WPS|Perpetual Grace, LTD}}'' and ''{{WPS|Ultra City Smiths}}''.
+
+Steve Conrad was attached as a writer and executive producer on ''[[A Knight of the Seven Kingdoms]]'' during its development, known then as ''Dunk & Egg''.<ref>[https://deadline.com/2021/11/dunk-egg-steve-conrad-writer-game-of-thrones-prequel-series-hbo-1234881825/ ‘Dunk & Egg’: Steve Conrad To Write ‘Game Of Thrones’ Prequel HBO Series – Deadline]</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb|# = 0175726}}
+*{{Twitter|# = stevconrad}}
+*{{WP}}
+
+<!--Categories-->
+{{DEFAULTSORT:Conrad, Steve}}
+[[Category:Developers of Dunk & Egg]]
+
+<!--Languages-->
+[[de:Steve Conrad]]
+[[fr:Steve Conrad]]
+[[pt-br:Steve Conrad]]

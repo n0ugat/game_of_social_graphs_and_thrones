@@ -1,0 +1,27 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Toby Dixon.jpg
+| Birth   = 
+| Death   = 
+| Role    = Lyseni boy
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = "[[King of the Narrow Sea (episode)|King of the Narrow Sea]]"
+| First   = 
+| Last    = 
+}}
+'''Toby Dixon''' is an actor.
+
+In ''[[House of the Dragon]]'', he portrayed a Lyseni boy in the [[House of the Dragon: Season 1|first season]].
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1||||yes}}
+
+==See also==
+*{{IMDb|# = 11123470}}
+
+<!--Categories-->
+{{DEFAULTSORT:Dixon, Toby}}
+[[Category:Co-starring cast members of House of the Dragon]]

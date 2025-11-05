@@ -1,0 +1,45 @@
+{{Canonicity|Canon}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Westeros
+| Part          = 
+| Image         = 
+| Previous      = 
+| Concurrent    = 
+| Next          = 
+| Date          = 
+| Place         = [[White Harbor]], [[North]]
+| Outcome       = [[North]]ern victory
+*Siege broken by Ser Arthur Dayne
+| Factions1     = {{COA|House Stark}} [[House Stark]]<br>{{COA|House Manderly}} [[House Manderly]]<br>{{COA|Kingsguard}} [[Kingsguard]]
+| Factions2     = [[Sea Kings]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = {{COA|House Stark|inline}} [[Lord of Winterfell|Lord]] [[Rickard Stark]]<br>{{COA|Kingsguard|inline}} [[Knighthood|Ser]] [[Gwayne Gaunt]]{{Note|The paragraph mentioning this event is erroneously placed in Arthur Dayne's entry. The opening sentence calling him the "thirdborn son to Lord Symon of House Gaunt" makes it apparent that this paragraph was meant for Gwayne Gaunt's entry.|name=Gwayne Gaunt}}
+| Leaders2      = Unknown
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = 
+| Participants2 = 
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = 
+| Casualties2   = 
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Quote|Broke the siege of White Harbour by the Sea Kings and saved Lord Rickard Stark from drowning.|''The Book of Brothers'' recounting Ser Gwayne Gaunt's actions during the siege.|The Iron Throne}}
+The '''siege of White Harbor'''{{Ref|GOT806}} was a large-scale outlaw attack on [[White Harbor]] by the [[Sea Kings]]. Lord [[Rickard Stark]] defended the city and almost drowned in the process, but was saved by Ser [[Gwayne Gaunt]],{{Note|name=Gwayne Gaunt}} who broke the siege.
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no mention of this siege.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Categories-->
+[[Category:Sieges|White Harbor]]

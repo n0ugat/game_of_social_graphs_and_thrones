@@ -1,0 +1,97 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Thrones
+| Part          = the [[War of the Five Kings]]
+| Image         = 
+| Previous      = [[Kingsmoot on Old Wyk]]
+| Concurrent    = 
+| Next          = [[Standoff at the Great Sept of Baelor]]
+| Date          = [[303 AC]]{{Dateref|Game of Thrones: Season 6}}
+| Place         = [[Riverrun]], the [[Riverlands]]
+| Outcome       = [[House Tully]] victory
+*[[Knighthood|Ser]] [[Brynden Tully]] recaptures [[Riverrun]] from [[House Frey]]
+| Factions1     = {{COA|House Tully|small}} [[House Tully]]
+| Factions2     = {{COA|House Frey|small}} [[House Frey]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = {{COA|Brynden Tully|inline}} [[Knighthood|Ser]] [[Brynden Tully]]
+| Leaders2      = {{COA|House Frey|inline}} [[Lothar Frey]]<br>[[Walder Rivers]]
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = 
+| Participants2 = 
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = Light, if any
+| Casualties2   = Total
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Quote|Your great-uncle, Brynden, the Blackfish, has gathered what remains of the Tully forces and retaken Riverrun.|[[Petyr Baelish]] to [[Sansa Stark]].|The Door}}
+The '''taking of Riverrun''' is a battle during the [[War of the Five Kings]], which sees the retaking of the castle [[Riverrun]] by [[House Tully]] from the armies of [[House Frey]].
+
+== Events ==
+=== Prelude ===
+{{Dialogue a-b-a|Roose Bolton|The Blackfish escaped.|Walder Frey|An old man on the run with no allies. I have Tywin Lannister backing me, who does he have?|As you say.|Roose Bolton and Walder Frey discuss Brynden's escape from the Red Wedding.|Mhysa}}
+After the [[Red Wedding]], House Frey are elevated to the [[Great House]] of the [[Riverlands]] as [[Lord Paramount of the Trident|Lords Paramount of the Trident]] and [[Lord of Riverrun|Lords of Riverrun]]. However, [[Knighthood|Ser]] [[Brynden Tully]], known as the Blackfish, escapes the Red Wedding.<ref>"[[The Rains of Castamere (episode)|The Rains of Casamere]]"</ref><ref>"[[Mhysa]]"</ref> Lord Walder Frey orders a manhunt for the only [[House Tully|Tully]] on the loose, yet it proves to be unsuccessful.<ref name="S06E06">"[[Blood of My Blood]]"</ref> As a consequence of the obliteration of the Stark and Tully armies at the Red Wedding, the Freys occupy Riverrun without opposition.<ref>"[[Mockingbird]]"</ref>
+
+=== Events ===
+The Blackfish eventually reforms the remaining loyal garrisons, and attacks and retakes Riverrun from the armies of House Frey.<ref name="S06E05">"[[The Door]]"</ref> [[Lothar Frey]] and [[Walder Rivers]] survive the conflict and return to the [[Twins]].<ref name="S06E06"/>
+
+=== Aftermath ===
+{{Quote|For three hundred years we kissed Tully boots, swore oaths to them and their stinking fish banners. Not again! Riverrun is ours. Take it back!|[[Walder Frey]] to his sons [[Lothar Frey]] and [[Walder Rivers]].|Blood of My Blood}}
+[[File:Walder and Kitty Frey 6x06.jpg|thumb|Walder Frey reacts angrily to news of the capture.]]
+Following the Blackfish's reconquest of Riverrun, several river lords, such as the [[House Mallister|Mallisters]] and [[House Blackwood|Blackwoods]], rise in rebellion. This, combined with the incessant harassment from the [[Brotherhood Without Banners]], who are rising the smallfolk in rebellion and raiding Frey supply trains and camps, weakens the Frey's hold on the Riverlands to the point they don't have enough forces to take back the castle. However, Walder Frey plans to take the imprisoned Lord [[Edmure Tully]] to Riverrun and use him as leverage against the Blackfish.<ref name="S06E06" />
+[[File:The Door 05.jpg|thumb|Littlefinger tells Sansa of Brynden's victory.]]
+The retaking of Riverrun has consequences all across the realm: when [[Sansa Stark]] learns of the Blackfish's victory from [[Petyr Baelish]], she sends [[Brienne of Tarth]] on a mission to enlist the help of the Tully forces to her own cause of retaking [[Winterfell]] from [[Ramsay Bolton]].<ref name="S06E05" /> Later, King [[Tommen Baratheon|Tommen]] removes Ser [[Jaime Lannister]] from the [[Kingsguard]] for marching against the [[Faith of the Seven|Faith]] and sends him to deal with the Blackfish and retake the castle for the Freys. This sets stage for another open conflict between the Tullys and the Lannisters.<ref name="S06E06" />
+
+==Numbers==
+It is unknown how many soldiers each force consists of. In "[[Blood of My Blood]]", Lord Walder states "We've got 10 times as many men as the damn Blackfish", but that could be just an exaggeration. According to "[[The Pointy End]]", the Northmen host initially consisted of 18,000 men, and Theon stated in "[[Baelor]]" that they outnumbered the Freys by 5:1 (hence the Freys initially had 3,000-4,000 men); that number, however, has presumably decreased during the war, while the Freys were still fighting for Robb. Thus the current number of the Frey soldiers is unknown, and even if Lord Frey's statement is correct, it is impossible to calculate the number of the besieged troops.
+
+== In the books ==
+In the ''[[A Song of Ice and Fire]]'' novels, Brynden Tully is not present at the Red Wedding. Robb ordered him to stay at Riverrun, and left his wife Jeyne, alongside her mother Sybell and siblings Rollam and Eleyna, at his custody. Brynden, loyal to king even after his death, continues to hold Riverrun after the massacre, of orders from [[Robb Stark]] and in defiance of the Freys and the Iron Throne. Thus he never "retakes" Riverrun, as mentioned in the show.
+
+A combined force of Frey (2,000 spears) and Lannister soldiers, commanded respectively by Ser Ryman Frey and Ser Daven Lannister, son of the late [[Stafford Lannister]] who was named [[Warden of the West]] by Queen [[Cersei Lannister|Cersei]], marches on Riverrun, in an effort to remove the final vestiges of resistance in the Riverlands and install Ser Emmon Frey (Lord Frey's second son and husband of Genna Lannister) as the new Lord of Riverrun, per the terms of the alliance between the Freys and Lannisters dictate.
+
+Brynden Tully anticipates the siege. He gathers all the foodstuffs and goods he can within the castle, enough for two years, expels all the unnecessary mouths, smallfolk who had been granted shelter by Edmure Tully, and prepares for a long siege. He does not expect and does not receive help from anyone, since:
+* Lord Tytos Blackwood - the only Riverlord who has not yielded yet to the Iron Throne - is under siege by Lord [[Jonos Bracken]].
+* The [[Brotherhood Without Banners]] are indeed rising up against the Freys, but hunting individuals of them rather than raiding their food supplies and camps. So far, Petyr and Merrett Frey had died in these attacks, each of these characters being omitted from the show.
+
+* Sansa, safe at the Vale, knows about the siege, but does not take any action to help her great-uncle. She does not know who currently controls Winterfell either, and does not seem to care.
+It is not mentioned in the book how many soldiers are in Riverrun. Jaime claims that the besiegers are twenty times the besieged are, but it can be an exaggeration; besides, since it is unknown how many soldiers Daven Lannister and Forley Prester brought, it is not possible to calculate the size of Brynden's troops by dividing. If Jaime told the truth, given that he and Ryman brought nearly 3,000 men, there has to be more than 150 soldiers in Riverrun.
+
+Ryman commands a large and disorderly Frey encampment north of the Tumblestone. South of the Red Fork are Lord Emmon, Ser Forley Prester with other westermen, and rivermen who knelt to the Iron Throne after the Red Wedding. Daven commands House Lannister's camp between the Tumblestone and the Red Fork. To prevent Riverrun's defenders from escaping, Ser Manfryd Yew and Ser Raynard Ruttiger command a boom across the Red Fork east of the castle.
+
+When Arya and the Hound encounter [[Polliver]] and the [[Tickler]] at the [[Inn at the Crossroads]], the Hound asks (shortly before the bloody brawl breaks out) if Blackfish is still in Riverrun. Polliver answers lightly "Not for long, he's under siege. Old Frey's going to hang Edmure Tully unless he yields the castle. The only real fighting's around Raventree".
+
+In contrast to Polliver's anticipation, the besiegers realize very quickly that Blackfish will not yield so easily. They have no hope to starve the besieged out, and are seriously short of food: the Freys, not surprisingly, bring food only for their troops; the Lannisters have to look for food themselves. They catch enough fish, but nothing to feed the horses. Half of the soldiers who are sent to find food do not return, either killed by outlaws (persumably the Brotherhood) or desert. Soon the besiegers grow bored, and find whatever available entertainments to spend their time with: camp followers, drinking, gambling, etc. Ryman Frey acts the same, rather than maintain discipline at his troops, leaving the command to his son Edwyn and his uncle Walder Rivers.
+
+Since the besiegers do not make any progress, Cersei grows impatient and sends Jaime, who is still the Lord Commander of the Kingsguard, to set Harrenhal to rights and to resolve the siege of Riverrun. Jaime has mixed feelings about the mission: one of hand, knowing what incompetent mother Cersei was to Joffrey, does not like the idea of leaving Tommen at her hands, nor does he wish to break his vow to Catelyn - never again to take up arms against the Starks or Tullys; on the other hand, he seizes the opportunity to get away from the Small Council, because he has no taste for the company of the lickspittles and fools who surrounded Cersei. He feels more comfortable amongst soldiers in the field than he ever has at court.
+
+Jaime leaves King's Landing with nearly one thousand reinforcements for the Freys, including Ser Ilyn Payne, his friend Addam Marbrand and Ser Bonifer Hasty, who was recently given the questionable office of the Castellan of Harrenhal. Among the host are forty knights, half of them westermen sworn to House Lannister, the others recent foes turned doubtful friends.
+
+On the way to Riverrun, Jaime stops at Harrenhal. He is glad to see that Wylis Manderly and the other prisoners are alive. Ser Bonifer takes charge on the castle, and is not worried about the curse that so far allagedly claimed the life of whoever served before him as the castellan of Harrenhal (except Roose Bolton, who is still alive at that point). At his demand, Jaime takes the Mountain's men, leaving the Holy Hundred at Harrenhal. Jaime commands Ser Ronnet Connington to take the prisoners to Maidenpool. After giving Ser Bonifer last orders about the Hound and Beric Dondarrion, Jaime continues to Riverrun.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|Siege of Riverrun}}
+
+<!--Navboxes-->
+{{War of the Five Kings}}
+
+<!--Categories-->
+[[Category:303 AC]]
+[[Category:Battles]]
+[[Category:War of the Five Kings]]
+
+<!--Languages-->
+[[fr:Capture de Vivesaigues]]
+[[ru:Взятие Риверрана]]

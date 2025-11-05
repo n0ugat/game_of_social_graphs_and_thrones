@@ -1,0 +1,111 @@
+{{DISPLAYTITLE:The Old Gods and the New {{C|''Histories & Lore''}}}}
+{{Short
+| Title    = The Old Gods and the New
+| Type     = Lore
+| Image    = H&L103.png
+| Season   = 1
+| Short    = 3
+| Date     = March 6, 2012{{Webref|name=Blu-ray |author=Jacob Klein |date=March 4, 2012 |url=https://hbowatch.com/game-of-thrones-dvd-blu-ray-available-56/ |title=Game of Thrones DVD & Blu-Ray Available 3/6! |website=HBO Watch |access-date=December 15, 2023 }}
+| Runtime  = 3 minutes{{Ref|H&L103}}
+| Narrator = [[Catelyn Stark]]{{Boxref|GOT1}}<br>[[Bran Stark]]{{Boxref|GOT1}}
+| Writer   = [[Bryan Cogman]]{{Webref|name=Cogman |author=Dan Selcke |date=September 20, 2017 |url=https://winteriscoming.net/2017/09/20/bryan-cogman-is-developing-a-fifth-game-of-thrones-prequel-series-for-hbo/ |title=Bryan Cogman is developing a fifth Game of Thrones prequel series for HBO |website=Winter is Coming |access-date=December 14, 2023 }}
+| Director = 
+| Previous = "[[The Age of Heroes]]"{{Boxref|GOT1}}
+| Next     = "[[The History of the Night's Watch - The Night's Watch]]"{{Boxref|GOT1}}
+}}
+"'''The Old Gods and the New'''"{{Boxref|GOT1}} is the third short of the [[Histories & Lore: Season 1|first season]] of ''[[Histories & Lore]]''. It is the third short of the series overall. It was released on March 6, 2012 in ''[[Game of Thrones: The Complete First Season]]''. It was narrated by [[Michelle Fairley]] as [[Catelyn Stark]] and [[Isaac Hempstead-Wright]] as [[Bran Stark]], and written by [[Bryan Cogman]].
+
+==Premise==
+{{Premise|H&L103}}
+
+==Narration==
+'''Catelyn Stark''': ''In the [[Seven Kingdoms]] of [[Westeros]], the dominant religion is the [[Faith of the Seven]], first brought to its shores by the [[Andals]] some six thousand years ago.''
+
+'''Bran Stark''': ''But there are some who still keep to the old way, worshiping the faceless gods of the [[Children of the Forest]] and the [[First Men]]. The [[Old Gods]] are countless, nameless spirits of nature. In ancient times, the Children of the Forest carved faces in the trunks of the [[weirwood]] trees, which became sacred symbols of their faith. In time, the First Men adopted the Children's gods as their own. Most castles at that time contained a [[godswood]] with a weirwood or a [[heart tree]] at its center.''
+
+'''Catelyn Stark''': ''Meanwhile, across the [[Narrow Sea]], a new religion was born in the [[Andalos|Hills of Andalos]]. According to legend, the [[Seven|God of Seven]] revealed itself to the Andals, and the [[Coming of the Andals|invasion]] of Westeros followed soon after.''
+
+''The Andals sailed across the sea on ships, armed with weapons of steel. Some warriors carved a seven-pointed star into their skin as a symbol of their new faith.''
+
+'''Bran Stark''': ''The invaders destroyed most of the weirwoods in the southern land, slaughtered the Children of the Forest wherever they could find them, and conquered every kingdom of the First Men, save the [[North]]. In time, the Faith of the Seven spread like wildfire throughout the land.''
+
+''The [[Seven]] is a single deity with seven aspects, each symbolizing a different area of life, though most people refer to the Seven as separate gods.''
+
+'''Catelyn Stark''': ''The [[Mother]] is prayed to for mercy and watches over fertility, childbirth, and peace. The [[Father]] sits in judgment over souls. The [[Warrior]] is prayed to for protection, valor, and skill in battle.''
+
+''The [[Crone]] is the symbol of wisdom and foresight. The [[Smith]] watches over creation and craftsmanship. The [[Maiden]] symbolizes purity, love, and beauty.''
+
+''Finally, there is the [[Stranger]], rarely prayed to, who represents death.''
+
+''The Faith is highly organized and deeply influential in Westerosi politics and culture, as the official religion of the [[Iron Throne|monarchy]]. Worshipers gather in temples of the Faith called [[sept]]s.''
+
+''The seat of the Faith is the [[Great Sept of Baelor]], which is located in the capital city of [[King's Landing baker|King's Landing]].''
+
+'''Bran Stark''': ''Still, in the North, where [[Northmen|descendants]] of the First Men dwell, worship of the Old Gods continues to this day, and the sacred faces of the weirwood trees keep close watch over the faithful.''
+
+==Appearances==
+===Locations===
+* [[Narrow Sea]]
+* [[Andalos]]
+* [[North]]
+* [[King's Landing]]
+** [[Great Sept of Baelor]]
+* The [[North]]
+
+===Events===
+* [[Coming of the Andals]]
+
+===Cultures===
+* [[Andals]]
+* [[First Men]]
+
+===Races===
+* [[Children of the Forest]]
+
+===Religions===
+* [[Faith of the Seven]]
+** [[Seven]]
+*** [[Mother]]
+*** [[Father]]
+*** [[Warrior]]
+*** [[Crone]]
+*** [[Smith]]
+*** [[Maiden]]
+*** [[Stranger]]
+** [[Sept]]
+*[[Old Gods]]
+**[[Godswood]]
+**[[Heart tree]]
+
+===Miscellaneous===
+* [[Weirwood]]
+* [[Iron Throne]]
+
+==Cast==
+*[[Michelle Fairley]] as [[Catelyn Stark]]
+*[[Isaac Hempstead-Wright]] as [[Bran Stark]]
+
+==Gallery==
+<gallery bordersize="none">
+Game of Thrones Season 1: The Old Gods and the NEw
+The Old Gods and the New
+</gallery>
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{Histories & Lore}}
+
+<!--Categories-->
+{{DEFAULTSORT:Old Gods and the New, The}}
+[[Category:Shorts narrated by Bran Stark]]
+[[Category:Shorts narrated by Catelyn Stark]]
+[[Category:Shorts of Histories & Lore: Season 1| 03]]
+[[Category:Shorts released in 2012|3.06C]]
+[[Category:Shorts written by Bryan Cogman]]
+
+<!--Languages-->
+[[de:Die alten Götter und die Neuen (Gesamtführer durch Westeros)]]
+[[pt-br:Os Deuses Antigos e os Novos (Guia Completo para Westeros)]]
+[[fr:Les Anciens Dieux et le Nouveau (Histoires & Traditions)]]

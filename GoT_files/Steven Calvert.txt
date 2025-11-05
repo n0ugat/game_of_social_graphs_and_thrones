@@ -1,0 +1,29 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Kingdoms
+| Image   = Steven Calvert.jpg
+| Birth   = 
+| Death   = 
+| Role    = Stormland knight
+| Series  = ''[[A Knight of the Seven Kingdoms]]''
+| Season  = [[A Knight of the Seven Kingdoms: Season 1|1]]
+| Credits = 
+| First   = 
+| Last    = 
+}}
+'''Steven Calvert''' is a Northern Irish actor and screenwriter.
+
+Calvert portrays a Stormland knight in ''[[A Knight of the Seven Kingdoms]]''.<ref>https://x.com/RedanianIntel/status/1815803857110257706</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb|#=4757449}}
+
+<!--Categories-->
+{{DEFAULTSORT:Calvert, Steven}}
+[[Category:Cast members of unknown billing of A Knight of the Seven Kingdoms]]
+
+<!--Languages-->
+[[pl:Steven Calvert]]

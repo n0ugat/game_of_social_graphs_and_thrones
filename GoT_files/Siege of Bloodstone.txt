@@ -1,0 +1,77 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Dragon
+| Part          = the [[War for the Stepstones]]
+| Image         = SOHN Vaemond Velaryon.jpg
+| Previous      = [[Occupation of Dragonstone]]
+| Concurrent    = 
+| Next          = [[Year of the Red Spring]]
+| Date          = [[115 AC]]{{Dateref|Second of His Name}}
+| Place         = [[Bloodstone]], [[Stepstones]]
+| Outcome       = *[[House Velaryon]] victory
+**[[Craghas Drahar]] killed
+**End of the first phase of the War for the Stepstones
+| Factions1     = {{COA|House Velaryon|small}} [[House Velaryon]]<br>{{COA|House Bar Emmon|small}} [[House Bar Emmon]]<br>{{COA|House Celtigar|small}} [[House Celtigar]]<br>{{COA|House Staunton|small}} [[House Staunton]]<br>{{COA|House Sunglass|small}} [[House Sunglass]]
+| Factions2     = [[Triarchy]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = {{COA|House Velaryon|inline}} Lord [[Corlys Velaryon]]<br>{{COA|House Velaryon|inline}} Ser [[Vaemond Velaryon]]<br>{{COA|House Velaryon|inline}} Ser [[Laenor Velaryon]]<br>{{COA|House Lonmouth|inline}} Ser [[Joffrey Lonmouth]]<br>{{COA|Daemon Targaryen|inline}} Prince [[Daemon Targaryen]]
+| Leaders2      = Prince-admiral Craghas Drahar<br>[[Triarchy lieutenant]]
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = *2 [[dragon]]s
+**[[Caraxes]]
+**[[Seasmoke]]
+*[[Velaryon fleet]]
+**16-18 ships
+*700 [[Man-at-arms|men-at-arms]]
+*~60 [[Knighthood|knights]]
+| Participants2 = 2,000+ corsairs
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = [[Velaryon knight]]
+| Casualties2   = Craghas Drahar<br>Triarchy lieutenant<br>2,000 corsairs{{Ref|HOTD104}}
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+The '''siege of Bloodstone''' is the climactic engagement of the [[War for the Stepstones]].
+
+==History==
+===Siege===
+[[File:SOHN Craghas.png|thumb|Prince-Admiral Drahar stakes a captured knight.|left]]
+Three years into the war in [[115 AC]],{{Dateref|Second of His Name}} the [[House Velaryon|Velaryon]] forces have the [[Triarchy]] besieged at [[Bloodstone]], using the adjacent island of [[Dwarfstone]] as their base of operations. With the dragons [[Caraxes]] and [[Seasmoke]] circling the island, the Triarchy forces begin hiding in caves.{{Ref|HOTD103}}
+
+Just as [[Craghas Drahar]] leaves his cave in the night to execute captured Velaryon soldiers, [[Daemon Targaryen|Daemon]] appears on Caraxes and burns the Crabfeeder's men. Drahar quickly retreats to the cave as Daemon shouts threats at him. Daemon is then chased away by a volley of fire arrows.{{Ref|HOTD103}}
+
+Demoralized, [[Vaemond Velaryon]] requests aid from King [[Viserys I Targaryen|Viserys]]. Daemon receives Viserys's reply, informing him that the [[Iron Throne]] is sending aid in the form of 10 ships and 2,000 men. Daemon beats the messenger and sets out to face the Crabfeeder head-on.{{Ref|HOTD103}}
+
+===Assault===
+Per [[Laenor Velaryon]]'s plan, Daemon arrives on the island alone carrying a white flag, under the ruse of surrender. He kneels and offers up his sword [[Dark Sister]] to the approaching Triarchy soldiers, before suddenly stabbing one of them with a dagger and retrieving his sword. He cuts through the surrounding soldiers while dodging several volleys of arrows in an attempt to reach Drahar, but is eventually hit by three arrows: two in the chest, one in the leg. Incapacitated, he is surrounded by Triarchy soldiers emerging from the caves.{{Ref|HOTD103}}[[File:Seasmoke-during-the-Battle-of-the-Stepstones.jpg|thumb|Ser Laenor & Seasmoke destroy Triarchy.|left]]Before Daemon can be killed or captured, [[Corlys Velaryon|Corlys]] and Vaemond appear with their army at their backs and charge the enemy. Meanwhile, Laenor appears in the sky on Seasmoke, commanding the dragon to breathe fire on the Triarchy men. He takes out a group of archers on a mountainside before they are able to loose their arrows.{{Ref|HOTD103}}
+
+Taking advantage of the diversion, Daemon runs into Drahar's cave. Before the battle is over, he emerges with the Crabfeeder's dismembered torso in hand.{{Ref|HOTD103}} 2,000 pirates are killed, their bodies staked to the sand as a warning.{{Ref|HOTD104}}[[File:House-of-The-Dragon-Bloodstone-Battle-After-VFX-header.jpg|thumb|The Siege is won and the Crabfeeder is dead.|left]]
+===Aftermath===
+Daemon is crowned as [[King of the Narrow Sea]]. A year later he returns to King's Landing to surrender his crown to Viserys, and is warmly welcomed by his brother for his service to the realm.{{Ref|HOTD104}}
+
+A decade later in [[126 AC]],{{Dateref|The Princess and the Queen}} the Triarchy forms an alliance with [[Dorne]] and resumes the fighting in the Stepstones.{{Ref|HOTD106}}
+==In the books==
+In ''[[Fire & Blood]]'', the battles of the War for the Stepstones are not explored in detail. The siege of Bloodstone is summarized in one sentence: "in 108 AC, when at last he came face-to-face with Craghas Crabfeeder, Daemon slew him single-handed and cut off his head with Dark Sister."
+
+This was not the end of the war, though: in 110 AC, two years after Daemon defeated Craghas and declared himself King of the Stepstones and the Narrow Sea, the Triarchy formed an alliance with [[Dorne]] and sent to the Stepstones a fresh invasion force under the command of general [[Racallio Ryndoon]]. The fighting resumed.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Categories-->
+[[Category:115 AC]]
+[[Category:Sieges|Bloodstone]]
+[[Category:War for the Stepstones]]
+
+<!--Languages-->
+[[de:Belagerung von Blutstein]]
+[[ru:Осада Кровавого Камня]]

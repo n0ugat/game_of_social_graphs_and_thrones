@@ -1,0 +1,58 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Bracken.svg
+| Link  = House Bracken
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Tully
+| Image        =
+<gallery>
+Stone Hedge.png|Appearance
+Stone Hedge Pin.png|Location
+</gallery>
+| Type         = Castle
+| Status       = 
+| Location     = The [[Riverlands]], [[Westeros]]
+| Population   = 
+| Rulers       = [[House Bracken]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Stone Hedge'''{{Guideref|Map of Westeros}} is a castle in the [[Riverlands]]. It is the seat of [[House Bracken]], a vassal house holding fealty to [[House Tully]] of [[Riverrun]]. The castle is located east of Riverrun, south of the [[Red Fork]] of the [[Trident]].
+
+==History==
+===[[House of the Dragon: Season 2|''House of the Dragon'': Season 2]]===
+[[File:Caraxes in the Riverlands.png|thumb|Caraxes and Daemon on Bracken land.]]
+[[Daemon Targaryen]] parleys with Lord [[Amos Bracken]] near Stone Hedge. Daemon threatens to burn him with [[Caraxes]] if he doesn't surrender, but Amos calls his bluff and returns to Stone Hedge unharmed. Sometime later, [[Willem Blackwood]] takes the castle and forces Amos to raise [[Rhaenyra Targaryen|Rhaenyra]]'s banner.{{Ref|HOTD205}}
+
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+During the [[War of the Five Kings]], Stone Hedge is occupied by Lannister forces. Following the lifting of the Lannister [[Siege of Riverrun|siege]] of [[Riverrun]] at the [[Battle of the Camps]], [[Robb Stark]] divides his host in two, one that invades the [[Westerlands]] under his personal command, and another under the command of [[Greatjon Umber]], which [[Liberation of Stone Hedge|liberates]] Stone Hedge as well as other castles west of the [[Red Fork]].{{Guideref|War of the Five Kings}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Stone Hedge is an important stronghold of the Riverlands. It was burned by [[Gregor Clegane]] at the outset of the [[War of the Five Kings]]. Lord [[Jonos Bracken]] later retakes the castle after [[Robb Stark]] drove the [[House Lannister|Lannister]] army from the area.
+
+During the [[Dance of the Dragons]], following his [[Taking of Harrenhal|capture of Harrenhal]], Prince [[Daemon Targaryen]] led an army of [[Blacks|Black]]-loyal Riverlords to attack Stone Hedge. With most of its forces away fighting at the [[Battle at the Burning Mill|Battle of the Burning Mill]], the Blacks easily captured the castle, along with Lord Humfrey Bracken and his family. When Humfrey's [[bastard]] son, Ser Raylon Rivers, led the survivors of the Burning Mill back to Stone Hedge only to find Daemon in control of the castle, he surrendered to save the lives of his kin. The fall of Stone Hedge ended any [[Greens|Green]] strength in the Riverlands, leaving the region completely under Black control.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{Riverlands}}
+{{House Bracken}}
+
+<!--Categories-->
+[[Category:Castles of the Riverlands]]
+[[Category:House Bracken]]
+
+<!--Languages-->
+[[de:Steinheck]]
+[[ru:Стоунхедж]]
+[[uk:Стоунхедж]]
+[[zh:石篱城]]

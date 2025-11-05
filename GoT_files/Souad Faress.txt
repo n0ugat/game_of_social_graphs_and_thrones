@@ -1,0 +1,34 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Souad Faress.jpg
+| Birth   = Souad Adel Faress<br>March 25, 1948 {{Age|1948|3|25}}<br>Accra, Gold Coast
+| Death   = 
+| Role    = [[High Priestess (Oathbreaker)|High Priestess]]
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 6|6]]
+| Credits = 2 episodes {{Below|Credits}}
+| First   = "[[Oathbreaker]]"
+| Last    = "[[Book of the Stranger]]"
+}}
+'''Souad Adel Faress''' (born March 25, 1948) is an Ireland-based Ghanian actress. She is best known for her radio role in ''The Archers'', and the films ''My Beautiful Laundrette'', ''Bhaji on the Beach'' and ''Sixth Happiness''.
+
+In ''[[Game of Thrones]]'', she portrays the [[High Priestess (Oathbreaker)|High Priestess]] in the [[Game of Thrones: Season 6|sixth season]].<ref>[http://narrowroad.co.uk/news/souad-faress--game-of-thrones The Narrow Road — Souad Faress in Game of Thrones]</ref>
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 6|||yes|yes}}
+
+==See also==
+* {{WP}}
+*{{IMDb
+|# =0267256}}
+*{{Twitter
+|# =souadfaress}}
+
+==References==
+{{reflist}}
+{{DEFAULTSORT:Faress, Souad}}
+
+[[ru:Суад Фаресс]]
+[[Category:Guest starring cast members of Game of Thrones]]

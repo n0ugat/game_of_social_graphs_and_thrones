@@ -1,0 +1,73 @@
+{{DISPLAYTITLE:''The Game Revealed'': Season 6}}
+{{Season
+| Season     = 6
+| Type       = Revealed
+| Image      = {{PAGENAME}}.jpg
+| Episodes   = 5{{Listref|TGR}}
+| Premiere   = "[[Episodes 1 & 2]]"{{Listref|TGR}}
+| Finale     = "[[Episodes 9 & 10]]"{{Listref|TGR}}
+| Network    = 
+| First      = May 3, 2016{{Listref|TGR}}
+| Final      = June 27, 2016{{Listref|TGR}}
+| Runtime    = 9{{Appleref|TGR602}}-17 minutes{{Appleref|TGR605}} {{C|per episode}}
+| Home       = 
+| Starring   = 
+| Producers  = 
+| Writers    = 
+| Directors  = 
+| Production = 
+| Wrapped    = 
+| Year       = 
+| Previous   = 
+| Next       = [[The Game Revealed: Season 7|Season 7]]{{Listref|TGR}}
+}}
+'''''The Game Revealed'': Season 6''' is the first season of ''[[The Game Revealed]]''. It consists of five episodes. It premiered with "[[Episodes 1 & 2]]" on May 3, 2016, and concluded with "[[Episodes 9 & 10]]" on June 27, 2016.
+
+==Description==
+{{Description|TGR6}}
+
+==Episodes==
+{| {{Prettytable}}
+! Episode
+! Image
+! Title
+! Release date
+|-
+| style="text-align: center;" | 1{{Listref|TGR}}
+| [[File:TGR601.jpg|150px]]
+| "[[Episodes 1 & 2]]"{{Ref|TGR601}}
+| May 3, 2016{{Listref|TGR}}
+|-
+| style="text-align: center;" | 2{{Listref|TGR}}
+| [[File:TGR602.jpg|150px]]
+| "[[Episodes 3 & 4]]"{{Ref|TGR602}}
+| May 17, 2016{{Listref|TGR}}
+|-
+| style="text-align: center;" | 3{{Listref|TGR}}
+| [[File:TGR603.jpg|150px]]
+| "[[Episodes 5 & 6]]"{{Ref|TGR603}}
+| May 31, 2016{{Listref|TGR}}
+|-
+| style="text-align: center;" | 4{{Listref|TGR}}
+| [[File:TGR604.jpg|150px]]
+| "[[Episodes 7 & 8]]"{{Ref|TGR604}}
+| June 13, 2016{{Listref|TGR}}
+|-
+| style="text-align: center;" | 5{{Listref|TGR}}
+| [[File:TGR605.jpg|150px]]
+| "[[Episodes 9 & 10]]"{{Ref|TGR605}}
+| June 27, 2016{{Listref|TGR}}
+|}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{The Game Revealed}}
+{{Game of Thrones}}
+
+<!--Categories-->
+{{DEFAULTSORT:Game Revealed: Season 6, The}}
+[[Category:Seasons of The Game Revealed|6]]
+[[Category:Seasons released in 2016|5.03]]
+[[Category:The Game Revealed: Season 6| ]]

@@ -1,0 +1,24 @@
+{{Crew
+|Image = Steve Abela.jpg
+|dateofbirth = 
+|birthplace = 
+|job = Stunt Performer
+|imdb = http://www.imdb.com/name/nm1595503
+|twitter = }}
+'''Steve Abela''' is a stuntman.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 1|first season]] episode "[[The Wolf and the Lion]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 1|||||yes}}
+
+==See also==
+*{{IMDb
+|# = 1595503}}
+*{{Facebook
+|# = Lordsgym.stjulians}}
+*{{Linkedin
+|# = /in/steve-abela-4baa1743}}
+{{DEFAULTSORT:Abela, Steve}}
+[[Category:Stunt performers of Game of Thrones]]

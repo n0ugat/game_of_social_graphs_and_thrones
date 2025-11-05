@@ -1,0 +1,111 @@
+{{SameName|short|headquarters of the Maesters|Citadel}}
+{{Short
+| Title    = {{PAGENAME}}
+| Type     = Lore
+| Image    = H&L702.png
+| Season   = 7
+| Short    = 2
+| Date     = December 12, 2017{{Webref|name=Blu-ray |author=David Harris (Razor) |date=September 29, 2017 |url=https://winteriscoming.net/2017/09/29/grab-bag-ramin-djawadi-has-a-new-gig/ |title=Check out the full list of Histories and Lore segments from the Game of Thrones season 7 Blu-Ray |website=Winter is Coming |access-date=December 15, 2023 }}
+| Runtime  = 3 minutes{{Ref|H&L702}}
+| Narrator = [[Samwell Tarly]]{{Boxref|GOT7}}
+| Writer   = [[Dave Hill]]{{Webref|name=Hill |author=Vanessa Cole |date=July 22, 2017 |url=https://web.archive.org/web/20201111213241/https://watchersonthewall.com/game-thrones-writer-dave-hill-gives-behind-scenes-look-creative-process/ |title=Game of Thrones writer Dave Hill gives a behind the scenes look at the creative process |website=Watchers on the Wall |access-date=December 15, 2023 }}
+| Director = 
+| Previous = "[[The Dragonpit]]"{{Boxref|GOT7}}
+| Next     = "[[Casterly Rock (short)|Casterly Rock]]"{{Boxref|GOT7}}
+}}
+"'''The Citadel'''"{{Boxref|GOT7}} is the second short of the [[Histories & Lore: Season 7|seventh season]] of ''[[Histories & Lore]]''. It is the hundred and ninth short of the series overall. It was released on December 12, 2017 in ''[[Game of Thrones: The Complete Seventh Season]]''. It was narrated by [[John Bradley]] as [[Samwell Tarly]] and written by [[Dave Hill]].
+
+==Premise==
+{{Premise|H&L702}}
+
+==Narration==
+'''Samwell Tarly''': ''The [[Citadel]] of [[Oldtown]] is the greatest center of learning in [[Known world|the world]], not that it has much competition, really.''
+
+''Most [[Lordship|lords]] think of books the way they think of younger sons, useful to have around as long as they keep to the corners.''
+
+''Back when [[House Hightower]] still ruled Oldtown as [[King of the High Tower|kings]], [[Peremore Hightower|a crippled younger son]] sought solace in books and those who wrote them and became the greatest patron of learning in his day.''
+
+''Scholars of all sorts flocked to Oldtown to debate and write and. debate. After this [[Prince]] Peremore's death, [[Urrigon Hightower|his brother]] granted land to "Peremore's Pets," as the wise men were called, though now they're known as [[Order of Maesters|maesters]].''
+
+''Like the [[Night's Watch]], the Citadel accepts any boy into its halls, be he a lordling, [[Smallfolk|peasant]], or [[bastard]]. Merit, not birth, determines advancement.''
+
+''Once a novice proves adept in a field, he forges a chain link that signifies his skill. Black iron is for [[raven]]ry, gold for sums and accounts, silver for healing, iron for warfare, [[Valyrian steel]] for the higher mysteries.''
+
+''[[Magic]], though nobody likes to say the word in the Citadel or explain how [[dragon]]s fly or [[Wight|dead men]] walk. Once an acolyte has forged enough links to make a chain, he becomes a maester.''
+
+''Should he continue his studies, he might rise to [[Archmaester]] and be given a ring, rod, and mask forged from the appropriate metal for his chosen field.''
+
+''The wisest or most ambitious of the Archmaesters might even be called to serve as a [[Grand Maester]] on the [[Small Council]], responsible for steering the king and the realm, as well as keeping the Citadel informed of everything.''
+
+''The heart of the Citadel is the library, which contains tomes from all over the world on every subject imaginable, from the trivial to the essential to the restricted.''
+
+''If the world ended tomorrow, we could rebuild it with the knowledge contained in these books, theoretically. Let's hope it doesn't come to that.''
+
+''But as every novice learns, the Citadel is more than a building, more than a library, more than the [[Order of Maesters]].''
+
+''It is an idea that we may know the world, not completely, not in any one man's lifetime, but piece by piece.''
+
+''With each generation building upon the knowledge of their predecessors where they can and preserving it where they can't. And unfortunately for us all, forgetting it [[White Walkers|when they shouldn't]].''
+
+== Appearances ==
+=== Individuals ===
+*Prince [[Peremore Hightower]]
+*King [[Urrigon Hightower]] {{Indirect}}
+
+===Houses===
+*[[House Hightower]]
+
+=== Locations ===
+* [[Westeros]]
+** [[Oldtown]]
+*** The [[Citadel]]
+
+=== Organizations ===
+*[[Order of Maesters]]
+*[[Night's Watch]]
+*[[Small Council]]
+
+=== Titles ===
+*[[Order of Maesters|Maester]]
+*[[Archmaester]]
+*[[Grand Maester]]
+
+=== Miscellaneous ===
+*[[Raven]]
+*[[Magic]]
+*[[Valyrian steel]]
+*[[Dragon]]
+*[[Wight]]
+*[[White Walkers]] {{Indirect}}
+
+==Cast==
+*[[John Bradley]] as [[Samwell Tarly]]
+
+==Behind the scenes==
+*The detail about the metal rings, rods, and masks of the archmaesters is from the books but wasn't mentioned in the live-action TV episodes - though even in the books they apparently only use them on formal occasions. The archmaesters function much like a university faculty, with each archmaester considered the lead expert in their specific field, i.e. [[Ebrose]] is the lead archmaester in medicine, so he has a silver ring, rod, and mask. Archmaesters who lose their wits due to old age or infirmity are often allowed to retain their title as a courtesy, in which case another maester will step up to carry their ring, rod, and mask at formal events, without actually holding the title "archmaester" (i.e. Walgrave has gone senile, so Gormon carries these items to judge those seeking the ravenry link in his place).
+*The Order of Maesters was founded many centuries before the [[coming of the Andals]], from the original guild of scholars that Peremore gathered together in [[Oldtown]].
+*It's unclear even in the books if the [[Grand Maester]] is actually the "leader" of the Order of Maesters, ranking above the archmaesters (like how the [[High Septon]] is elected by the [[Most Devout]], but outranks them once elected). ''Apparently'' not, as it seems more like the Grand Maester is specifically the maester assigned to the king on the Iron Throne - and the Iron Throne has only existed for three centuries, compared to the several thousand years that the maesters have existed (since before the [[coming of the Andals]]). Due to his prominence of course, the Grand Maester seems to have considerable clout with the [[Conclave]] of Archmaesters.
+*There are actually four different ranks that a maester goes through in his career. A "novice" is a student at the Citadel who hasn't completed any chain links yet (hasn't mastered at least one subject of learning). An "acolyte" is a student who has earned at least one link, but not yet enough to take the vows as a full "maester" - not mentioned in this short (the difference is somewhat comparable to undergraduate and graduate students at a modern university). An acolyte then takes the vows to become a full "maester", and may eventually become an "Archmaester" if they become recognized as the leading expert in a specific field of knowledge.
+
+==Gallery==
+<gallery bordersize="none">
+The Citadel
+</gallery>
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{Histories & Lore}}
+
+<!--Categories-->
+{{DEFAULTSORT:Citadel, The}}
+[[Category:Shorts narrated by Samwell Tarly]]
+[[Category:Shorts of Histories & Lore: Season 7| 02]]
+[[Category:Shorts released in 2017|C.12B]]
+[[Category:Shorts written by Dave Hill]]
+
+<!--Languages-->
+[[de:Die Zitadelle (Legenden und Überlieferungen)]]
+[[fr:La Citadelle (Histoires & Traditions)]]
+[[pt-br:A Cidadela (História e Tradição)]]

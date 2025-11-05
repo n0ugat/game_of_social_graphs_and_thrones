@@ -1,0 +1,44 @@
+{{Canonicity|Canon}}
+{{MapNeeded}}
+{{Heraldry
+| Image = House Massey.svg
+| Link  = House Massey
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Crownlander
+| Image        = 
+| Type         = Castle
+| Status       = 
+| Location     = The [[Crownlands]], [[Westeros]]
+| Population   = 
+| Rulers       = [[House Massey]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Stonedance'''{{Ref|GOT105}} is a castle in the [[Crownlands]], the region controlled directly by the [[Iron Throne]] in [[King's Landing]]. The castle is located south of [[Sharp Point]], on the peninsula south of [[Blackwater Bay]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Stonedance is the seat of [[House Massey]], which gives the peninsula its name of Massey's Hook.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Massey}}
+{{Crownlands}}
+
+<!--Categories-->
+[[Category:Castles of the Crownlands]]
+[[Category:House Massey]]
+
+<!--Languages-->
+[[de:Steintanz]]
+[[ru:Камнепляс]]
+[[zh:石舞城]]

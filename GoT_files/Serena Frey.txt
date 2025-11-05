@@ -1,0 +1,68 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Leftimage  = Unknown.svg
+| Rightimage = House Frey.svg
+| Rightlink  = House Frey
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Frey
+| Image       = Sabitha Frey.png
+| Birth       = 
+| Death       = 
+| House       = [[House Frey|Frey]]{{Ref|HOTD205}} {{C|by marriage}}
+[[House Vypren|Vypren]]
+| Affiliation = [[Blacks]]{{Ref|HOTD205}}
+| Titles      = 
+| AKA         = 
+| Culture     = [[Riverlands|Rivermen]]{{Ref|HOTD205}}
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = [[Forrest Frey]]{{Ref|HOTD205}}
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 2|2]]
+| Appearances = "[[Regent (episode)|Regent]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Sarah Woodward]]
+}}
+Lady '''Serena Frey'''{{Webref|name=Charlist |author=HeroOfRodden |date=September 30, 2023 |url=https://redanianintelligence.com/2023/09/30/every-new-cast-member-house-of-the-dragon-season-2/ |title=List: Every New Cast Member of House of the Dragon Season 2 So Far |website=Redanian Intelligence |access-date=July 15, 2024 }} is the wife of Lord [[Forrest Frey]].
+
+==Biography==
+===[[House of the Dragon: Season 2|''House of the Dragon'': Season 2]]===
+Serena and her husband [[Forrest Frey|Forrest]] treat with Prince [[Jacaerys Velaryon]] at the [[Twins]]. She swears allegiance to [[Rhaenyra Targaryen|Rhaenyra]] in exchange for the promise of being granted [[Harrenhal]] after the war.{{Ref|HOTD205}}
+
+==In the books==
+In ''[[Fire & Blood]]'', the wife of Forrest Frey was named Sabitha, originally of House Vypren. She was considered merciless and grasping, and was rumored to prefer women over men.
+
+==Appearances==
+*{{HOTD|Regent}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Sabitha Frey}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{House Frey/House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Frey, Serena}}
+[[Category:Blacks]]
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Ladies]]
+[[Category:Members of House Frey|Serena Frey]]
+[[Category:Rivermen]]
+
+<!--Languages-->
+[[es:Serena Frey]]
+[[fr:Sabitha Frey]]
+[[pl:Serena Frey]]
+[[ru:Серена Фрей]]

@@ -1,0 +1,336 @@
+{{DISPLAYTITLE:''The Official Game of Thrones Podcast: House of the Dragon''}}
+{{Podcast
+| Title    = ''The Official Game<br>of Thrones Podcast:<br><small>House of the Dragon</small>''
+| Type     = Podcast
+| Image    = {{PAGENAME}}.png
+| Seasons  = [[#Season 1|1]] {{*}} [[#Season 2|2]]{{HBOref|TOGOTPHOTD}}
+| Episodes = 35{{HBOref|TOGOTPHOTD}} {{C|+ 2 trailers}}
+| Premiere = "[[Everything We Know About House of the Dragon (with Paddy Considine and Matt Smith)|Everything We Know About ''House of the Dragon'' (with Paddy Considine and Matt Smith)]]"{{HBOref|TOGOTPHOTD}}
+| Finale   = 
+| Host     = Jason Concepcion{{HBOref|TOGOTPHOTD}}<br>Greta Johnsen{{HBOref|TOGOTPHOTD}}
+| First    = August 3, 2022{{Listref|TOGOTPHOTD}}
+| Final    = 
+}}
+'''''The Official Game of Thrones Podcast: House of the Dragon''''' is a {{WPS|podcast}} produced by [[HBO Max]] and {{WPS|iHeartRadio}} in association with {{WPS|Crooked Media}}. It is hosted by Jason Concepcion and Greta Johnsen.
+
+==Description==
+{{Description|TOGOTPHOTD}}
+
+==Seasons==
+{| {{Prettytable}}
+! Season
+! Episodes
+! Premiere date
+! Finale date
+|-
+| style="text-align: center;" | [[#Season 1|1]]{{HBOref|TOGOTPHOTD}}
+| style="text-align: center;" | 18{{HBOref|TOGOTPHOTD}} {{C|+ trailer}}
+| style="text-align: center;" | August 3, 2022{{Listref|TOGOTPHOTD}}
+| style="text-align: center;" | December 22, 2022{{Listref|TOGOTPHOTD}}
+|-
+| style="text-align: center;" | [[#Season 2|2]]{{HBOref|TOGOTPHOTD}}
+| style="text-align: center;" | 17{{HBOref|TOGOTPHOTD}} {{C|+ trailer}}
+| style="text-align: center;" | May 22, 2024{{Listref|TOGOTPHOTD}}
+| style="text-align: center;" | September 11, 2024{{Listref|TOGOTPHOTD}}
+|}
+
+===Season 1===
+{{Podcast
+| Title    = ''The Official Game<br>of Thrones Podcast:<br><small>House of the Dragon'':<br>Season 1</small>
+| Type     = Podcast
+| Image    = The Official Game of Thrones Podcast: House of the Dragon: Season 1.jpg
+| Seasons  = 
+| Episodes = 18{{HBOref|TOGOTPHOTD}} {{C|+ trailer}}
+| Premiere = "[[Everything We Know About House of the Dragon (with Paddy Considine and Matt Smith)|Everything We Know About ''House of the Dragon'' (with Paddy Considine and Matt Smith)]]"{{HBOref|TOGOTPHOTD}}
+| Finale   = "[[Live from GOT Fan Con with Kit Harington]]"{{HBOref|TOGOTPHOTD}}
+| Host     = Jason Concepcion{{HBOref|TOGOTPHOTD}}<br>Greta Johnsen{{HBOref|TOGOTPHOTD}}
+| First    = August 3, 2022{{Listref|TOGOTPHOTD}}
+| Final    = December 22, 2022{{Listref|TOGOTPHOTD}}
+}}
+'''''The Official Game of Thrones Podcast: House of the Dragon'': Season 1''' is the first season of ''The Official Game of Thrones Podcast: House of the Dragon''. It consists of a trailer and eighteen episodes. It premiered with "[[Everything We Know About House of the Dragon (with Paddy Considine and Matt Smith)|Everything We Know About ''House of the Dragon'' (with Paddy Considine and Matt Smith)]]" on August 3, 2022, and concluded with "[[Live from GOT Fan Con with Kit Harington]]" on December 22, 2022.
+
+====Description====
+{{Description|TOGOTPHOTD1}}
+
+====Episodes====
+{| {{Prettytable}}
+! Episode
+! Image
+! Title
+! Release date
+! Run time
+|-
+| 
+| [[File:TOGOTPHOTD100.jpg|150px]]
+| "[[Introducing The Official Game of Thrones: House of the Dragon Podcast|Introducing ''The Official Game of Thrones: House of the Dragon Podcast'']]"{{HBOref|TOGOTPHOTD}}
+| July 24, 2022{{Listref|TOGOTPHOTD}}
+| 3:01{{HBOref|TOGOTPHOTD}}
+|-
+| style="text-align: center;" | 1{{Webref|name=YouTube1 |author=GameofThrones |date=August 3, 2022 |url=https://www.youtube.com/watch?v=_lyhOfYxqiU |title=Paddy Considine and Matt Smith discuss HOTD | Official Game of Thrones Podcast: Episode 1 (HBO) |website=YouTube |access-date=February 10, 2024 }}
+| [[File:TOGOTPHOTD101.jpg|150px]]
+| "[[Everything We Know About House of the Dragon (with Paddy Considine and Matt Smith)|Everything We Know About ''House of the Dragon'' (with Paddy Considine and Matt Smith)]]"{{HBOref|TOGOTPHOTD}}
+| August 3, 2022{{Listref|TOGOTPHOTD}}
+| 52:18{{HBOref|TOGOTPHOTD}}
+|-
+| style="text-align: center;" | 2{{Webref|name=YouTube2 |author=GameofThrones |date=August 10, 2022 |url=https://www.youtube.com/watch?v=B5rMBF4LmnM |title=A Walking Tour of Westeros with Steve Toussaint | Official Game of Thrones Podcast: Episode 2 (HBO) |website=YouTube |access-date=February 10, 2024 }}
+| [[File:TOGOTPHOTD102.jpg|150px]]
+| "[[A Walking Tour of Westeros (with guest Steve Toussaint)]]"{{HBOref|TOGOTPHOTD}}
+| August 10, 2022{{Listref|TOGOTPHOTD}}
+| 39:30{{HBOref|TOGOTPHOTD}}
+|-
+| style="text-align: center;" | 3{{Webref|name=YouTube3 |author=GameofThrones |date=August 17, 2022 |url=https://www.youtube.com/watch?v=AEheZ7lFW9s |title=An Interview with George R.R. Martin | Official Game of Thrones Podcast: Episode 3 (HBO) |website=YouTube |access-date=February 10, 2024 }}
+| [[File:TOGOTPHOTD103.jpg|150px]]
+| "[[An Interview with George R.R. Martin]]"{{HBOref|TOGOTPHOTD}}
+| August 17, 2022{{Listref|TOGOTPHOTD}}
+| 32:40{{HBOref|TOGOTPHOTD}}
+|-
+| style="text-align: center;" | 4<ref name="YouTube3" />
+| [[File:TOGOTPHOTD104.jpg|150px]]
+| "[[House Of The Dragon: Ep. 1 “The Heirs Of The Dragon”|''House Of The Dragon'': Ep. 1 “The Heirs Of The Dragon”]]"{{HBOref|TOGOTPHOTD}}
+| August 22, 2022{{Listref|TOGOTPHOTD}}
+| 1:08:03{{HBOref|TOGOTPHOTD}}
+|-
+| style="text-align: center;" | 5<ref name="YouTube3" />
+| [[File:TOGOTPHOTD105.jpg|150px]]
+| "[[House Of The Dragon: Ep. 2 “The Rogue Prince”|''House Of The Dragon'': Ep. 2 “The Rogue Prince”]]"{{HBOref|TOGOTPHOTD}}
+| August 29, 2022{{Listref|TOGOTPHOTD}}
+| 1:02:37{{HBOref|TOGOTPHOTD}}
+|-
+| style="text-align: center;" | 6<ref name="YouTube3" />
+| [[File:TOGOTPHOTD106.jpg|150px]]
+| "[[House Of The Dragon: Ep. 3 “Second of His Name”|''House Of The Dragon'': Ep. 3 “Second of His Name”]]"{{HBOref|TOGOTPHOTD}}
+| September 5, 2022{{Listref|TOGOTPHOTD}}
+| 58:10{{HBOref|TOGOTPHOTD}}
+|-
+| style="text-align: center;" | 7<ref name="YouTube3" />
+| [[File:TOGOTPHOTD107.jpg|150px]]
+| "[[House Of The Dragon: Ep. 4 “King of the Narrow Sea”|''House Of The Dragon'': Ep. 4 “King of the Narrow Sea”]]"{{HBOref|TOGOTPHOTD}}
+| September 12, 2022{{Listref|TOGOTPHOTD}}
+| 1:05:51{{HBOref|TOGOTPHOTD}}
+|-
+| style="text-align: center;" | 8<ref name="YouTube3" />
+| [[File:TOGOTPHOTD108.jpg|150px]]
+| "[[House Of The Dragon: Ep. 5 “We Light the Way”|''House Of The Dragon'': Ep. 5 “We Light the Way”]]"{{HBOref|TOGOTPHOTD}}
+| September 19, 2022{{Listref|TOGOTPHOTD}}
+| 1:08:28{{HBOref|TOGOTPHOTD}}
+|-
+| style="text-align: center;" | 9<ref name="YouTube3" />
+| [[File:TOGOTPHOTD109.jpg|150px]]
+| "[[House of the Dragon: Ep. 6 “The Princess and the Queen”|''House of the Dragon'': Ep. 6 “The Princess and the Queen”]]"{{HBOref|TOGOTPHOTD}}
+| September 26, 2022{{Listref|TOGOTPHOTD}}
+| 1:17:44{{HBOref|TOGOTPHOTD}}
+|-
+| style="text-align: center;" | 10<ref name="YouTube3" />
+| [[File:TOGOTPHOTD110.jpg|150px]]
+| "[[House of the Dragon: Ep. 7 “Driftmark”|''House of the Dragon'': Ep. 7 “Driftmark”]]"{{HBOref|TOGOTPHOTD}}
+| October 3, 2022{{Listref|TOGOTPHOTD}}
+| 1:10:11{{HBOref|TOGOTPHOTD}}
+|-
+| style="text-align: center;" | 11<ref name="YouTube3" />
+| [[File:TOGOTPHOTD111.jpg|150px]]
+| "[[House of the Dragon: Ep. 8 “The Lord of the Tides”|''House of the Dragon'': Ep. 8 “The Lord of the Tides”]]"{{HBOref|TOGOTPHOTD}}
+| October 10, 2022{{Listref|TOGOTPHOTD}}
+| 1:26:07{{HBOref|TOGOTPHOTD}}
+|-
+| style="text-align: center;" | 12<ref name="YouTube3" />
+| [[File:TOGOTPHOTD112.jpg|150px]]
+| "[[House of the Dragon: Ep. 9 “The Green Council”|''House of the Dragon'': Ep. 9 “The Green Council”]]"{{HBOref|TOGOTPHOTD}}
+| October 17, 2022{{Listref|TOGOTPHOTD}}
+| 1:05:58{{HBOref|TOGOTPHOTD}}
+|-
+| style="text-align: center;" | 13<ref name="YouTube3" />
+| [[File:TOGOTPHOTD113.jpg|150px]]
+| "[[House of the Dragon: Ep. 10 “The Black Queen”|''House of the Dragon'': Ep. 10 “The Black Queen”]]"{{HBOref|TOGOTPHOTD}}
+| October 24, 2022{{Listref|TOGOTPHOTD}}
+| 1:13:41{{HBOref|TOGOTPHOTD}}
+|-
+| style="text-align: center;" | 14<ref name="YouTube3" />
+| [[File:TOGOTPHOTD114.jpg|150px]]
+| "[[Adding Fuel to the Fire: A Season 1 Recap]]"{{HBOref|TOGOTPHOTD}}
+| October 26, 2022{{Listref|TOGOTPHOTD}}
+| 58:13{{HBOref|TOGOTPHOTD}}
+|-
+| style="text-align: center;" | 15<ref name="YouTube3" />
+| [[File:TOGOTPHOTD115.jpg|150px]]
+| "[[The Sounds of Westeros with Ramin Djawadi]]"{{HBOref|TOGOTPHOTD}}
+| November 10, 2022{{Listref|TOGOTPHOTD}}
+| 50:35{{HBOref|TOGOTPHOTD}}
+|-
+| style="text-align: center;" | 16<ref name="YouTube3" />
+| [[File:TOGOTPHOTD116.jpg|150px]]
+| "[[Creating The Realm with Amanda Knight and Jim Clay]]"{{HBOref|TOGOTPHOTD}}
+| November 23, 2022{{Listref|TOGOTPHOTD}}
+| 1:00:09{{HBOref|TOGOTPHOTD}}
+|-
+| style="text-align: center;" | 17<ref name="YouTube3" />
+| [[File:TOGOTPHOTD117.jpg|150px]]
+| "[[Gone Too Soon with Gavin Spokes, Nanna Blondell and Ryan Corr]]"{{HBOref|TOGOTPHOTD}}
+| December 7, 2022{{Listref|TOGOTPHOTD}}
+| 57:42{{HBOref|TOGOTPHOTD}}
+|-
+| style="text-align: center;" | 18<ref name="YouTube3" />
+| [[File:TOGOTPHOTD118.jpg|150px]]
+| "[[Live from GOT Fan Con with Kit Harington]]"{{HBOref|TOGOTPHOTD}}
+| December 22, 2022{{Listref|TOGOTPHOTD}}
+| 1:08:14{{HBOref|TOGOTPHOTD}}
+|}
+
+===Season 2===
+{{Podcast
+| Title    = ''The Official Game<br>of Thrones Podcast:<br><small>House of the Dragon'':<br>Season 2</small>
+| Type     = Podcast
+| Image    = The Official Game of Thrones Podcast: House of the Dragon: Season 2.jpg
+| Seasons  = 
+| Episodes = 17{{HBOref|TOGOTPHOTD}} {{C|+ trailer}}
+| Premiere = "[[The Enemy Within featuring Showrunner Ryan Condal]]"{{HBOref|TOGOTPHOTD}}
+| Finale   = "[[Exploring the Game of Thrones Universe (with Tommy Dunne)|Exploring the ''Game of Thrones'' Universe (with Tommy Dunne)]]"{{HBOref|TOGOTPHOTD}}
+| Host     = Jason Concepcion{{HBOref|TOGOTPHOTD}}<br>Greta Johnsen{{HBOref|TOGOTPHOTD}}
+| First    = May 22, 2024{{Listref|TOGOTPHOTD}}
+| Final    = September 11, 2024{{Listref|TOGOTPHOTD}}
+}}
+'''''The Official Game of Thrones Podcast: House of the Dragon'': Season 2''' is the second season of ''The Official Game of Thrones Podcast: House of the Dragon''. It consists of a trailer and seventeen episodes. It premiered with "[[The Enemy Within featuring Showrunner Ryan Condal]]" on May 22, 2024, and concluded with "[[Exploring the Game of Thrones Universe (with Tommy Dunne)|Exploring the ''Game of Thrones'' Universe (with Tommy Dunne)]]" on September 11, 2024.
+
+====Description====
+{{Description|TOGOTPHOTD2}}
+{{Clear}}
+====Episodes====
+{| {{Prettytable}}
+! Episode
+! Image
+! Title
+! Release date
+! Run time
+|-
+| 
+| [[File:TOGOTPHOTD200.jpg|150px]]
+| "[[The Official Game of Thrones Podcast Returns|''The Official Game of Thrones Podcast'' Returns]]"{{HBOref|TOGOTPHOTD}}
+| May 17, 2024{{Listref|TOGOTPHOTD}}
+| 2:06{{HBOref|TOGOTPHOTD}}
+|-
+| style="text-align: center;" | 1{{HBOref|TOGOTPHOTD}}
+| [[File:TOGOTPHOTD201.jpg|150px]]
+| "[[The Enemy Within featuring Showrunner Ryan Condal]]"{{HBOref|TOGOTPHOTD}}
+| May 22, 2024{{Listref|TOGOTPHOTD}}
+| 45:15{{HBOref|TOGOTPHOTD}}
+|-
+| style="text-align: center;" | 2{{HBOref|TOGOTPHOTD}}
+| [[File:TOGOTPHOTD202.jpg|150px]]
+| "[[Dragon Deep Dive with Sound Designer Paula Fairfield]]"{{HBOref|TOGOTPHOTD}}
+| May 29, 2024{{Listref|TOGOTPHOTD}}
+| 48:32{{HBOref|TOGOTPHOTD}}
+|-
+| style="text-align: center;" | 3{{HBOref|TOGOTPHOTD}}
+| [[File:TOGOTPHOTD203.jpg|150px]]
+| "[[The Real History Behind Westeros with Medieval Historian Charles Farris]]"{{HBOref|TOGOTPHOTD}}
+| June 5, 2024{{Listref|TOGOTPHOTD}}
+| 49:23{{HBOref|TOGOTPHOTD}}
+|-
+| style="text-align: center;" | 4{{HBOref|TOGOTPHOTD}}
+| [[File:TOGOTPHOTD204.jpg|150px]]
+| "[[A Look Ahead to Season 2 with Showrunner Ryan Condal]]"{{HBOref|TOGOTPHOTD}}
+| June 12, 2024{{Listref|TOGOTPHOTD}}
+| 44:46{{HBOref|TOGOTPHOTD}}
+|-
+| style="text-align: center;" | 5{{HBOref|TOGOTPHOTD}}
+| [[File:TOGOTPHOTD205.jpg|150px]]
+| "[[Ep. 1: A Son for a Son (with Olivia Cooke and Phia Saban)]]"{{HBOref|TOGOTPHOTD}}
+| June 16, 2024{{Listref|TOGOTPHOTD}}
+| 56:44{{HBOref|TOGOTPHOTD}}
+|-
+| style="text-align: center;" | 6{{HBOref|TOGOTPHOTD}}
+| [[File:TOGOTPHOTD206.jpg|150px]]
+| "[[Ep. 2: Rhaenyra the Cruel (with Tom Glynn-Carney and Matthew Needham)]]"{{HBOref|TOGOTPHOTD}}
+| June 23, 2024{{Listref|TOGOTPHOTD}}
+| 57:13{{HBOref|TOGOTPHOTD}}
+|-
+| style="text-align: center;" | 7{{HBOref|TOGOTPHOTD}}
+| [[File:TOGOTPHOTD207.jpg|150px]]
+| "[[Ep. 3: The Burning Mill (with Bethany Antonia and director Geeta Vasant Patel)]]"{{HBOref|TOGOTPHOTD}}
+| June 30, 2024{{Listref|TOGOTPHOTD}}
+| 1:22:22{{HBOref|TOGOTPHOTD}}
+|-
+| style="text-align: center;" | 8{{HBOref|TOGOTPHOTD}}
+| [[File:TOGOTPHOTD208.jpg|150px]]
+| "[[Ep. 4: The Red Dragon and the Gold (with Eve Best and director Alan Taylor)]]"{{HBOref|TOGOTPHOTD}}
+| July 7, 2024{{Listref|TOGOTPHOTD}}
+| 1:12:26{{HBOref|TOGOTPHOTD}}
+|-
+| style="text-align: center;" | 9{{HBOref|TOGOTPHOTD}}
+| [[File:TOGOTPHOTD209.jpg|150px]]
+| "[[Ep. 5: Regent (with Ewan Mitchell and director Clare Kilner)]]"{{HBOref|TOGOTPHOTD}}
+| July 14, 2024{{Listref|TOGOTPHOTD}}
+| 1:12:26{{HBOref|TOGOTPHOTD}}
+|-
+| style="text-align: center;" | 10{{HBOref|TOGOTPHOTD}}
+| [[File:TOGOTPHOTD210.jpg|150px]]
+| "[[Ep. 6: Smallfolk (with Sonoya Mizuno and executive producer Sara Hess)]]"{{HBOref|TOGOTPHOTD}}
+| July 21, 2024{{Listref|TOGOTPHOTD}}
+| 1:21:32{{HBOref|TOGOTPHOTD}}
+|-
+| style="text-align: center;" | 11{{HBOref|TOGOTPHOTD}}
+| [[File:TOGOTPHOTD211.jpg|150px]]
+| "[[Ep. 7: The Red Sowing (with showrunner Ryan Condal)]]"{{HBOref|TOGOTPHOTD}}
+| July 28, 2024{{Listref|TOGOTPHOTD}}
+| 1:11:00{{HBOref|TOGOTPHOTD}}
+|-
+| style="text-align: center;" | 12{{HBOref|TOGOTPHOTD}}
+| [[File:TOGOTPHOTD212.jpg|150px]]
+| "[[Ep. 8: The Queen Who Ever Was (with Showrunner Ryan Condal)]]"{{HBOref|TOGOTPHOTD}}
+| August 4, 2024{{Listref|TOGOTPHOTD}}
+| 1:22:46{{HBOref|TOGOTPHOTD}}
+|-
+| style="text-align: center;" | 13{{HBOref|TOGOTPHOTD}}
+| [[File:TOGOTPHOTD213.jpg|150px]]
+| "[[Season 2 In Review with Fabien Frankel]]"{{HBOref|TOGOTPHOTD}}
+| August 7, 2024{{Listref|TOGOTPHOTD}}
+| 1:03:02{{HBOref|TOGOTPHOTD}}
+|-
+| style="text-align: center;" | 14{{HBOref|TOGOTPHOTD}}
+| [[File:TOGOTPHOTD214.jpg|150px]]
+| "[[The Dragonseed Deep Dive (with Kieran Bew, Tom Bennett, and Clinton Liberty)]]"{{HBOref|TOGOTPHOTD}}
+| August 14, 2024{{Listref|TOGOTPHOTD}}
+| 1:03:09{{HBOref|TOGOTPHOTD}}
+|-
+| style="text-align: center;" | 15{{HBOref|TOGOTPHOTD}}
+| [[File:TOGOTPHOTD215.jpg|150px]]
+| "[[Burning Questions]]"{{HBOref|TOGOTPHOTD}}
+| August 21, 2024{{Listref|TOGOTPHOTD}}
+| 42:01{{HBOref|TOGOTPHOTD}}
+|-
+| style="text-align: center;" | 16{{HBOref|TOGOTPHOTD}}
+| [[File:TOGOTPHOTD216.jpg|150px]]
+| "[[From Book to Screen (with showrunner Ryan Condal)]]"{{HBOref|TOGOTPHOTD}}
+| September 4, 2024{{Listref|TOGOTPHOTD}}
+| 45:00{{HBOref|TOGOTPHOTD}}
+|-
+| style="text-align: center;" | 17{{HBOref|TOGOTPHOTD}}
+| [[File:TOGOTPHOTD217.jpg|150px]]
+| "[[Exploring the Game of Thrones Universe (with Tommy Dunne)|Exploring the ''Game of Thrones'' Universe (with Tommy Dunne)]]"{{HBOref|TOGOTPHOTD}}
+| September 11, 2024{{Listref|TOGOTPHOTD}}
+| 52:01{{HBOref|TOGOTPHOTD}}
+|}
+
+==Gallery==
+<gallery>
+The Official Game of Thrones Podcast poster.jpg
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+*[[File:HBO.png|25px|class=white-on-dark-mode]] [https://listen.hbo.com/GOT-podcast The Official Game of Thrones Podcast: House of the Dragon] on [https://www.hbo.com HBO]
+*{{Spotify|# = show/2rkvYan0ApmxJVe35tXdiC}}
+
+<!--Navboxes-->
+{{The Official Game of Thrones Podcast: House of the Dragon}}
+{{House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Official Game of Thrones Podcast: House of the Dragon, The}}
+[[Category:Podcasts of House of the Dragon]]
+[[Category:Podcasts released in 2022|7.23]]
+[[Category:The Official Game of Thrones Podcast: House of the Dragon| ]]
+
+<!--Languages-->
+[[pt-br:The Official Game of Thrones Podcast: House of the Dragon]]

@@ -1,0 +1,83 @@
+{{DISPLAYTITLE:''The Game Revealed'': Season 7}}
+{{Season
+| Season     = 7
+| Type       = Revealed
+| Image      = {{PAGENAME}}.jpg
+| Episodes   = 7{{Listref|TGR}}
+| Premiere   = "[[Episode 1]]"{{Listref|TGR}}
+| Finale     = "[[Episode 7]]"{{Listref|TGR}}
+| Network    = 
+| First      = August 28, 2017{{Listref|TGR78}}
+| Final      = October 9, 2017{{Listref|TGR78}}
+| Runtime    = 13{{Appleref|TGR701}}-14 minutes{{Appleref|TGR702}} {{C|per episode}}
+| Home       = 
+| Starring   = 
+| Producers  = 
+| Writers    = 
+| Directors  = 
+| Production = 
+| Wrapped    = 
+| Year       = 
+| Previous   = [[The Game Revealed: Season 6|Season 6]]{{Listref|TGR}}
+| Next       = [[The Game Revealed: Season 8|Season 8]]{{Listref|TGR}}
+}}
+'''''The Game Revealed'': Season 7''' is the second season of ''[[The Game Revealed]]''. It consists of seven episodes. It premiered with "[[Episode 1]]" on August 28, 2017, and concluded with "[[Episode 7]]" on October 9, 2017.
+
+==Description==
+{{Description|TGR7}}
+
+==Episodes==
+{| {{Prettytable}}
+! Episode
+! Image
+! Title
+! Release date
+|-
+| style="text-align: center;" | 1{{Listref|TGR}}
+| [[File:TGR701.jpg|150px]]
+| "[[Episode 1]]"{{Ref|TGR701}}
+| August 28, 2017{{Listref|TGR78}}
+|-
+| style="text-align: center;" | 2{{Listref|TGR}}
+| [[File:TGR702.jpg|150px]]
+| "[[Episode 2]]"{{Ref|TGR702}}
+| September 4, 2017{{Listref|TGR78}}
+|-
+| style="text-align: center;" | 3{{Listref|TGR}}
+| [[File:TGR703.jpg|150px]]
+| "[[Episode 3]]"{{Ref|TGR703}}
+| September 11, 2017{{Listref|TGR78}}
+|-
+| style="text-align: center;" | 4{{Listref|TGR}}
+| [[File:TGR704.jpg|150px]]
+| "[[Episode 4]]"{{Ref|TGR704}}
+| September 18, 2017{{Listref|TGR78}}
+|-
+| style="text-align: center;" | 5{{Listref|TGR}}
+| [[File:TGR705.jpg|150px]]
+| "[[Episode 5]]"{{Ref|TGR705}}
+| September 25, 2017{{Listref|TGR78}}
+|-
+| style="text-align: center;" | 6{{Listref|TGR}}
+| [[File:TGR706.jpg|150px]]
+| "[[Episode 6]]"{{Ref|TGR706}}
+| October 2, 2017{{Listref|TGR78}}
+|-
+| style="text-align: center;" | 7{{Listref|TGR}}
+| [[File:TGR707.jpg|150px]]
+| "[[Episode 7]]"{{Ref|TGR707}}
+| October 9, 2017{{Listref|TGR78}}
+|}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{The Game Revealed}}
+{{Game of Thrones}}
+
+<!--Categories-->
+{{DEFAULTSORT:Game Revealed: Season 7, The}}
+[[Category:Seasons of The Game Revealed|7]]
+[[Category:Seasons released in 2017|8.28]]
+[[Category:The Game Revealed: Season 7| ]]

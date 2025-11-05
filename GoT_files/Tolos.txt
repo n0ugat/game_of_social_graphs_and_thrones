@@ -1,0 +1,52 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Westeros
+| Image        = Tolos map.png
+| Type         = Mercantile city-state
+| Status       = 
+| Location     = [[Slaver's Bay]], [[Essos]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = 
+| Places       = 
+| Founded      = by the [[Valyrian Freehold]]
+}}
+{{Quote|They sold me to a man in Tolos who trained fighters for the pits.|[[Daario Naharis]]|The Wars To Come}}
+'''Tolos'''{{Ref|GOT501}} is a city in [[Essos]]. The city is located on the northwestern coast of [[Slaver's Bay]], in the base of the [[Valyrian peninsula]]. It is southeast of [[Mantarys]] and southwest of the ruined city [[Bhorash]]. The island city of [[Elyria]] is west of Tolos.
+
+==History==
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+[[Daario Naharis|Daario]] explains to [[Daenerys Targaryen|Daenerys]] that when he was 12 years old in [[Tyrosh]], his [[Prostitution|prostitute]] mother sold him into [[slavery]], and he ended up being sold to the [[Fighting pit|fighting pits]] in Tolos. He was trained for four years and entered the games when he was sixteen. He was a very good and quick fighter, and soon became famous, with thousands of spectators cheering for him. He earned his owner so much money that when he died, he freed Daario in his will, after which he joined the [[Second Sons]] sellsword company.{{Ref|GOT501}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Tolos is connected by a Valyrian road to Mantarys and Bhorash. Tolos is the last inhabited city before [[Meereen]] several hundred miles to the east (Bhorash being a ruin). Travel overland between Tolos and Meereen is dangerous, due to the proximity of the [[Dothraki Sea]] to the northeast and also the harsh nature of the landscape. The [[Black Cliffs]] lie between Tolos and Bhorash.
+
+The Tolosi are noted as being the finest slingers in the world. They use soft lead balls instead of stones, which do significantly more damage.
+
+Tolos, Elyria, and Mantarys are the only three surviving cities on the [[Valyrian peninsula]], each in the northern sections not too close to Valyria itself when [[Doom of Valyria|the Doom]] struck. They were colonies ruled directly by governors from the Valyrian Freehold, not "Free Cities" that had purchased contracts for some limited rule over local affairs. After the Doom, because they were located on the east coast, Tolos and Elyria developed closer economic and social ties with the Ghiscari cities of Slaver's Bay to the east. They then came into something of an odd position, as while more akin to the Valyrians and their colonies in the Free Cities, Tolos and Elyria fell into the cultural orbit of the main Ghiscari cities on the other side of Slaver's Bay, and came to be thought of as more of an extension of that region - though not quite fully belonging to either Slaver's Bay or the Free Cities. Mantarys, however, is located far from the coast, up in the foothills of the Painted Mountains, and as a result it became increasingly isolated.
+
+In ''A Dance with Dragons'', Daenerys sends envoys to Tolos in attempt to make an alliance, but the Tolosi refuse, demanding that she returns Meereen to its [[Great Masters]]. Tolos joins the coalition of [[Yunkai]] and other cities against Daenerys.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Known world}}
+{{Valyrian peninsula}}
+{{Slaver's Bay}}
+
+<!--Categories-->
+[[Category:Cities]]
+[[Category:Harbors]]
+[[Category:Slaver's Bay]]
+[[Category:Valyrian successor states]]
+
+<!--Languages-->
+[[ru:Толос]]
+[[uk:Толос]]

@@ -1,0 +1,29 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Thom Ashley.jpg
+| Birth   = 
+| Death   = 
+| Role    = [[Brett Lannister]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = "[[Second of His Name]]"
+| First   = 
+| Last    = 
+}}
+'''Thom Ashley''' is an actor.
+
+In ''[[House of the Dragon]]'', he portrayed [[Brett Lannister]] in "[[Second of His Name]]."<ref>https://www.spotlight.com/7018-9050-1288</ref>
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1|||yes}}
+
+==See also==
+*{{IMDb|#=9118434}}
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Ashley, Thom}}
+[[Category:Co-starring cast members of House of the Dragon]]

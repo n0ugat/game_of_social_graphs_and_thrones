@@ -1,0 +1,103 @@
+{{SameName|short|deity|Drowned God}}
+{{Short
+| Title    = {{PAGENAME}}
+| Type     = Lore
+| Image    = H&L217.png
+| Season   = 2
+| Short    = 17
+| Date     = February 19, 2013{{Webref|name=Blu-ray |author=Charlie Harwood |date=November 19, 2012 |url=https://hbowatch.com/hbo-issues-release-date-and-details-for-game-of-thrones-s2-dvdblu-ray/ |title=Release Date & Details for Game of Thrones Season 2 DVD/Blu-Ray |website=HBO Watch |access-date=December 15, 2023 }}
+| Runtime  = 3 minutes{{Ref|H&L217}}
+| Narrator = [[Yara Greyjoy]]{{Boxref|GOT2}}
+| Writer   = [[Dave Hill]]{{Webref|name=Hill |author=Vanessa Cole |date=July 22, 2017 |url=https://web.archive.org/web/20201111213241/https://watchersonthewall.com/game-thrones-writer-dave-hill-gives-behind-scenes-look-creative-process/ |title=Game of Thrones writer Dave Hill gives a behind the scenes look at the creative process |website=Watchers on the Wall |access-date=December 15, 2023 }}
+| Director = 
+| Previous = "[[Qarth (short)|Qarth]]"{{Boxref|GOT2}}
+| Next     = "[[The Alchemist Guild]]"{{Boxref|GOT2}}
+}}
+"'''The Drowned God'''"{{Boxref|GOT2}} is the seventeenth short of the [[Histories & Lore: Season 2|second season]] of ''[[Histories & Lore]]''. It is the forty-first short of the series overall. It was released on February 19, 2013 in ''[[Game of Thrones: The Complete Second Season]]''. It was narrated by [[Gemma Whelan]] as [[Yara Greyjoy]] and written by [[Dave Hill]].
+
+==Premise==
+{{Premise|H&L217}}
+
+==Narration==
+'''Yara Greyjoy''': ''The [[Seven]] are gods of weakness and defeat, pretty chains that the [[First Men]] kindly put on after the [[Andals]] [[Coming of the Andals|crushed]] them, except in the [[Iron Islands]].''
+
+''Since the [[Dawn Age]], the [[Ironborn]] have followed the [[Drowned God]], who plucked fire from the sea and made us to [[Raiding|reave]] and sack and carve our names in blood and song.''
+
+''When the Andals landed on the Iron Islands, they found a god who was [[Father]], [[Warrior]], and [[Stranger]]; who took [[Mother]], [[Maiden]], and [[Crone]] when he would; and held the [[Smith]] in [[thrall]]. His priests are [[Drowned Men]], who are clothed and armed by the sea itself.''
+
+''They consecrate us to the Drowned God through our most sacred rite, the Drowning, and ask the God to raise them from the sea as he was, harder and stronger.''
+
+''The Ironborn do not fear the bloodiest battle or the roughest waves, for the Drowned God taught us long ago that what is dead may never die.''
+
+''When an Ironborn falls, we say that the Drowned God needed a strong oarsman and took him below to feast in the God's watery halls, attended by [[mermaid]]s.''
+
+''But even in death, an Ironborn is a warrior. We fight against the [[Storm God]], who holds a castle in the clouds and sends the winds to lure the Ironborn off course or wreck their ships.''
+
+''It's said my legendary ancestor, the [[Grey King]], waged war against upon the Storm God for a thousand years. With the Drowned God's help, he slew the great Sea Dragon [[Nagga]] and used her bones for his hall. After his death, the Storm God tried to wash away any memory of this terrible foe, but his songs fill our halls to this day.''
+
+''It was the Storm God who first blew the [[Andals]] to the Iron Islands; to subdue us and turn us from our faith. True, they conquered and killed our king; but in time, they forsook their [[sept]]s for the shore and their fat [[septon]]s for the Drowned Men. The Andals came to us conquerors; in the end, they drowned.''
+
+''The Ironborn are of the sea, as our God made us, and given to it as our God taught us. We do not fear the Storm God's winds or his waves. But you should, for they bring us to you.''
+
+==Appearances==
+===Individuals===
+* [[Grey King]]
+* [[Nagga]]
+* [[Rognar II Greyiron]] {{Indirect}}
+
+===Cultures===
+* [[Ironborn]]
+* [[First Men]] {{Mentioned}}
+* [[Andals]]
+
+===Locations===
+* [[Iron Islands]]
+
+===Events===
+* [[Dawn Age]] {{Mentioned}}
+* [[Coming of the Andals]]
+
+===Religions===
+*​ [[Faith of the Seven]]
+** [[Seven]]
+*** [[Father]] {{Mentioned}}
+*** [[Warrior]] {{Mentioned}}
+*** [[Stranger]] {{Mentioned}}
+*** [[Mother]] {{Mentioned}}
+*** [[Maiden]] {{Mentioned}}
+*** [[Crone]] {{Mentioned}}
+*** [[Smith]] {{Mentioned}}
+* [[Drowned God]]
+** [[Drowned Men]]
+* [[Storm God]]
+
+===Miscellaneous===
+* [[Thrall]]
+
+==Cast==
+*[[Gemma Whelan]] as [[Yara Greyjoy]]
+
+==Behind the scenes==
+*When the Season 2 Blu-ray was produced, the King of the Iron Islands referenced in the narration was unknown. ''[[The World of Ice & Fire]]'' revealed that when the [[Andals]] invaded the Iron Islands, the king was [[Rognar II Greyiron]].
+
+==Gallery==
+<gallery bordersize="none">
+The Drowned God
+</gallery>
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{Histories & Lore}}
+
+<!--Categories-->
+{{DEFAULTSORT:Drowned God, The}}
+[[Category:Shorts narrated by Yara Greyjoy]]
+[[Category:Shorts of Histories & Lore: Season 2| 17]]
+[[Category:Shorts released in 2013|2.19Q]]
+[[Category:Shorts written by Dave Hill]]
+
+<!--Languages-->
+[[fr:Le Dieu Noyé (Histoires & Traditions)]]
+[[pt-br:O Deus Afogado (História e Tradição)]]

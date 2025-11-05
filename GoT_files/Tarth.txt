@@ -1,0 +1,72 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Tarth.svg
+| Link  = House Tarth
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Baratheon
+| Image        =
+<gallery>
+Tarth season 5.png|Appearance
+Tarth.PNG|Location
+</gallery>
+| Type         = Island
+| Status       = 
+| Location     = The [[Narrow Sea]], the [[Stormlands]], [[Westeros]]
+| Population   = 
+| Rulers       = [[House Tarth]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = [[Evenfall Hall]]
+| Founded      = 
+}}
+{{Quote|You told them Tarth was full of sapphires. It's called the Sapphire Island because of the blue of its water.|Brienne of Tarth to Jaime Lannister|And Now His Watch Is Ended}}
+'''Tarth'''{{Ref|GOT303}} is an island in the [[Narrow Sea]] off the southeastern coast of [[Westeros]], separated from the mainland by [[Shipbreaker Bay]]. It is part of the [[Stormlands]] and is held by [[House Tarth]], vassals of [[House Baratheon]], from their seat on [[Evenfall Hall]]. Being situated in the [[Narrow Sea]], Tarth is located fairly close to the [[Free Cities]] of the eastern continent, particularly [[Tyrosh]]. It is also known as the '''Sapphire Isle'''{{Ref|GOT303}} due to the blue of the surrounding waters. 
+
+The castle of Tarth, located on the west coast of the island, is called Evenfall Hall. It is the home of [[Brienne of Tarth]], sometimes called the Maid of Tarth. The island is ruled by Brienne's father, Lord [[Selwyn Tarth]].
+
+==History==
+===[[Game of Thrones: Season 3|''Game of Thrones'': Season 3]]===
+When [[Locke]] was about to let his men rape Brienne, [[Jaime Lannister|Jaime]] told him who she was and that Tarth was called the "Sapphire Isle" because every sapphire in the [[Seven Kingdoms]] was mined on it, to point out the wealth of her father. Locke relents and orders his men not to harm Brienne, as it would be more worthwhile to ransom her unharmed.{{Ref|GOT303}}
+
+Brienne later pointed out that the "Sapphire Isle" is actually so-called because of the blue of its waters. There are no actual sapphire mines on the island.{{Ref|GOT304}}
+
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+While sailing south from [[King's Landing]] to [[Dorne]], Jaime spots an island on the horizon and asks the ship's captain if it is [[Estermont]]; he is told that it is Tarth. Jaime stares at the island as the ship passes by.{{Ref|GOT504}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Tarth is said to be a beautiful island. It is called the Sapphire Isle for the clear blue waters surrounding the island (but there are no real sapphires in it). The island contains mountains, waterfalls, high meadows, and shadowed vales. Tarth is also apparently rich in marble - marble used in the construction of the [[Eyrie]] in the [[Vale of Arryn|Vale]] had to be shipped from Tarth.
+
+Being located in the [[Narrow Sea]], Tarth is closer to the [[Free Cities]] than some other parts of Westeros, though it is unfortunately within range of the pirate dens in the [[Stepstones]] to the south. During the long and otherwise peaceful reign of King [[Jaehaerys I Targaryen]], pirate-lords from the Stepstones actually invaded and seized the eastern side of Tarth and had to be driven off.
+
+During the [[coming of the Andals]], Tarth was one of the first locations that the Andals captured in the Stormlands. House Tarth itself was an Andal family - though they intermarried heavily with the local First Men population. Their bloodline and the local title of the ruler of the island, "the Evenstar", are said to extend back to the dawn of days.
+
+In "Arianne I" sample chapter of the sixth novel, there are unverified rumors that the [[Golden Company]] has conquered Tarth.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Tarth}}
+{{Stormlands}}
+
+<!--Categories-->
+[[Category:House Tarth]]
+[[Category:Islands]]
+[[Category:Stormlands]]
+[[Category:Tarth| ]]
+
+<!--Languages-->
+[[de:Tarth]]
+[[es:Tarth]]
+[[fr:Île de Torth]]
+[[nl:Tarth]]
+[[pl:Tarth]]
+[[pt-br:Tarth]]
+[[ru:Тарт]]
+[[zh:塔斯岛]]

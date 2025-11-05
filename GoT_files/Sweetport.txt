@@ -1,0 +1,37 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Sunglass.svg
+| Link  = House Sunglass
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Crownlander
+| Image        = 
+| Type         = Castle
+| Status       = 
+| Location     = [[Crownlands]]
+| Population   = 
+| Rulers       = [[House Sunglass]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Sweetport'''{{Ref|THTDB201}} is a castle in the [[Crownlands]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Sweetport Sound is the seat of [[House Sunglass]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Sweetport Sound}}
+
+<!--Navboxes-->
+{{Crownlands}}
+
+<!--Categories-->
+[[Category:Castles of the Crownlands]]
+[[Category:House Sunglass]]

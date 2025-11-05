@@ -1,0 +1,31 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Simon Chandler.png
+| Birth   = June 4, 1953 {{Age|1953|6|4}}<br>Luton, Bedfordshire, England
+| Death   = 
+| Role    = [[Eustace]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = "[[The Green Council]]"
+| First   = 
+| Last    = 
+}}
+'''Simon Chandler''' (born 4 June, 1953) is a British film, television and theatre actor. He voiced {{WPS|Merry Brandybuck}} in {{WPS|Ralph Bakshi}}'s ''{{WPS|The Lord of the Rings (1978 film)|The Lord of the Rings}}''. He has also appeared in the films ''{{WPS|The Bounty (1984 film)|The Bounty}}'', ''{{WPS|The Man Who Knew Too Little}}'', ''{{WPS|Spice World (film)|Spice World}}'', ''{{WPS|Stoned (film)|Stoned}}'', ''{{WPS|The King's Speech}}'', ''{{WPS|The Iron Lady (film)|The Iron Lady}}'', ''{{WPS|Fast Girls}}'', ''{{WPS|The Theory of Everything (2014 film)|The Theory of Everything}}'' and ''{{WPS|The Old Guard (2020 film)|The Old Guard}}'' and the television series ''{{WPS|Shine on Harvey Moon}}'', ''{{WPS|Jonny Briggs}}'', ''{{WPS|Silent Witness}}'', ''{{WPS|Teachers (British TV series)|Teachers}}'', ''{{WPS|Hitler: The Rise of Evil}}'', ''{{WPS|Holby City}}'', ''{{WPS|Judge John Deed}}'', ''{{WPS|The Bill}}'', ''{{WPS|My Family}}'', ''{{WPS|Coronation Street}}'', ''{{WPS|Midsomer Murders}}'', ''{{WPS|The Thick of It}}'', ''{{WPS|House of Anubis}}'', ''{{WPS|Doctors (2000 TV series)|Doctors}}'', ''{{WPS|Mr. Selfridge}}'', ''{{WPS|Wallander (British TV series)|Wallander}}'', ''{{WPS|The Crown (TV series)|The Crown}}'', ''{{WPS|Casualty (TV series)|Casualty}}'' and ''{{WPS|Call the Midwife}}''.
+
+In ''[[House of the Dragon]]'', he portrayed Septon [[Eustace]] in the [[House of the Dragon: Season 1|first season]].
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1|||||||||yes}}
+
+==See also==
+*{{WP}}
+*{{IMDb|# = 0151463}}
+
+<!--Categories-->
+{{DEFAULTSORT:Chandler, Simon}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--InterWiki-Links-->
+[[fr:Simon Chandler]]

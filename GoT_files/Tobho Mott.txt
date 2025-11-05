@@ -1,0 +1,92 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Free
+| Image       = Tobho Mott.jpg
+| Birth       = In [[Qohor]]
+| Death       = 
+| House       = 
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = Qohorik
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 1|1]] {{*}} [[Game of Thrones: Season 2|2]]
+| Appearances = 2 episodes {{Below|Appearances}}
+| First       = "[[Cripples, Bastards, and Broken Things]]"
+| Last        = "[[The North Remembers]]"
+| DeathEp     = 
+| Actor       = [[Andrew Wilde]]
+}}
+{{Quote|Boy, this is the King's Hand! If his Lordship wants the helmet...|Tobho to [[Gendry Baratheon|Gendry]]|Cripples, Bastards, and Broken Things}}
+'''Tobho Mott''' is a master armorer and blacksmith in [[King's Landing]].
+
+==Biography==
+===Background===
+Tobho Mott is a master armorer and blacksmith living in the city of [[King's Landing]]. Despite being a foreigner from the [[Free Cities|Free City]] of [[Qohor]], he is well-regarded for the quality of his work and has received the patronage of many knights and even some lords. Mott is assisted by his apprentice smith, a young man named [[Gendry Baratheon|Gendry]].{{Ref|GOT104}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+[[Eddard Stark]] learns from [[Petyr Baelish|Littlefinger]] that his predecessor [[Jon Arryn]] visited Mott several times prior to his death. Eddard goes to question Mott and learns that Arryn displayed a particular interest in Gendry.{{Ref|GOT104}}
+
+Gendry tells [[Arya Stark|Arya]] that he is an armorer's apprentice, but his master got sick of him, so he ended up at [[Yoren]]'s caravan; apparently, Gendry is unaware that he was made to leave for the [[Wall]] to avoid the upcoming [[massacre in King's Landing|purge of Robert's other bastard children]].{{Ref|GOT110}}
+
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+Mott is forcibly questioned by the [[City Watch of King's Landing|Gold Cloaks]] about the whereabouts of Gendry. He reluctantly tells [[Janos Slynt]] that Gendry joined the [[Night's Watch]] and that he can be recognized by the bull-shaped helm he sports.{{Ref|GOT201}}
+
+===[[Game of Thrones: Season 3|''Game of Thrones'': Season 3]]===
+When Gendry mentions to the [[Brotherhood Without Banners]] that he apprenticed under Tobho, [[Thoros]] notes that Tobho charges double what the other smiths do. Gendry retorts this by saying it is because his work is twice the quality.{{Ref|GOT302}} Later, Gendry says he is done serving men, because Tobho sold him to the Night's Watch.{{Ref|GOT305}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Tobho Mott is a native of the [[Free Cities|Free City]] of [[Qohor]] who learned to smith there, including the working of the fabled [[Valyrian steel]]. He moved to [[Westeros]] when younger and has successfully built up his own business thanks to his formidable skills. His armory is a large building at the top of the Street of Steel, impressive in size and outfitting.
+
+Tobho used to scold Thoros about the latter's habit of dousing his blades in [[wildfire]], which subsequently wrecked the steel.
+
+It is not Littlefinger but a potboy, who belonged to Arryn's household, who tells Eddard that Arryn and [[Stannis Baratheon|Stannis]] visited Mott. Mott tells Ned that they indeed visited his armory, and asked to see Gendry.
+
+When Eddard asks Mott who paid him Gendry's apprentice fee, Mott answers evasively, but eventually admits it was [[Varys|a mysterious lord]] who did not identify himself that paid him both the apprentice fee and to keep his mouth shut about the youth.
+
+In the books, Mott is not interrogated about Gendry's whereabouts. It is not explained how the Gold Cloaks knew that Gendry was with [[Yoren]]'s caravan.
+
+Mott, not [[Valyrian sword smith|an unnamed smith from Volantis]], is the one who melts [[Ice]] to forge two [[Widow's Wail|new]] [[Oathkeeper|swords]] at [[Tywin Lannister|Tywin]]'s order.
+
+==Gallery==
+<gallery>
+Gendry 1x04.png|Gendry working in Tobho Mott's blacksmith forge.
+</gallery>
+
+==Appearances==
+*{{GOT|Cripples, Bastards, and Broken Things}}
+*{{GOT|Fire and Blood}} {{Mentioned}}
+*{{GOT|The North Remembers}}
+*{{GOT|Dark Wings, Dark Words}} {{Mentioned}}
+*{{GOT|Kissed by Fire}} {{Mentioned}}
+*{{GOT|A Knight of the Seven Kingdoms}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+{{DEFAULTSORT:Mott, Tobho}}
+[[Category:Blacksmiths]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Qohorik]]
+[[Category:Smallfolk]]
+
+<!--Languages-->
+[[de:Tobho Mott]]
+[[fr:Tobho Mott]]
+[[pl:Tobho Mott]]
+[[ru:Тобхо Мотт]]
+[[zh:托布·莫特]]

@@ -1,0 +1,56 @@
+{{Canonicity|Non}}
+{{Heraldry
+| Image = Night's Watch.svg
+| Link  = Night's Watch
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = 
+| Birth       = 
+| Death       = [[302 AC]]{{Dateref|Game of Thrones: Season 5}} at [[Hardhome]]<br>Died in the [[Massacre at Hardhome]]
+| House       = 
+| Affiliation = [[Night's Watch]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Skillan''' was a member of the [[Night's Watch]].
+
+==Biography==
+Skillan was among the Night's Watchmen who didn't escape the [[Massacre at Hardhome]].{{Scriptref|GOT510}}
+
+==Behind the scenes==
+Skillan is mentioned in the script for "[[Mother's Mercy]]."{{Scriptref|GOT510}} In the filmed version, the line mentioning him is cut.{{Ref|GOT510}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no character named Skillan.
+
+==Appearances==
+*{{GOT|Mother's Mercy}} {{Scriptm}} {{Ncm}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Categories-->
+[[Category:Individuals from Game of Thrones]]
+[[Category:Men of the Night's Watch]]

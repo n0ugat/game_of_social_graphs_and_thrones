@@ -1,0 +1,30 @@
+{{Crew
+|Image = Todor Lazarov.JPG
+|dateofbirth = {{WPS|March 10}}, {{WPS|1979}}
+|birthplace = {{WPS|Bulgaria}}
+|job = Stunt Performer
+|imdb = https://www.imdb.com/name/nm1515124/
+|twitter = }}
+'''Todor Petrov Lazarov''' (born March 10, 1979) is a Bulgarian stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 5|fifth season]] episode "[[Hardhome (episode)|Hardhome]]" and ''[[Game of Thrones: A Telltale Games Series]]''.
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 5||||||||yes}}
+
+==See also==
+*{{IMDb
+|# = 1515124}}
+*{{Twitter
+|# = juji79}}
+*{{Facebook
+|# = todor.lazarov.52}}
+*{{Google+
+|# = 117997092893766379073}}
+*{{YouTube
+|# = channel/UCWXVyQf9ypDTDxoL4W8Cdaw}}
+*{{Linkedin
+|# = /in/todor-lazarov-90941b23}}
+{{DEFAULTSORT:Lazarov, Todor Petrov}}
+[[Category:Stunt performers of Game of Thrones]]

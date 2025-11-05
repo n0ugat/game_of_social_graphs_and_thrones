@@ -1,0 +1,54 @@
+{{DISPLAYTITLE:Stark guard {{C|The Pointy End}}}}
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Character
+| Title       = Stark guard
+| Type        = Stark
+| Image       = Stark guard (The Pointy End).jpg
+| Birth       = In the [[North]]
+| Death       = 
+| House       = 
+| Affiliation = [[House Stark]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Northmen|Northern]]
+| Religion    = [[Old Gods]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 1|1]]
+| Appearances = "[[The Pointy End]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Rick Burn]]
+}}
+{{Quote|Your pardon, m'lords. We've captured a Lannister scout.|The guard to [[Robb Stark]]'s war council|The Pointy End}}
+A '''Stark guard''' is a guardsman sworn to [[House Stark]].
+
+==Biography==
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+He captures a [[Lannister scout]] and delivers him to [[Robb Stark]].{{Ref|GOT108}}
+
+==Appearances==
+*{{GOT|The Pointy End}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Men-at-arms]]
+[[Category:Northmen]]
+[[Category:Servants and retainers of House Stark]]
+[[Category:Smallfolk]]
+
+<!--Languages-->
+[[ro:Gardian Stark (Un duşman străvechi)]]
+[[ru:Солдат Старков]]

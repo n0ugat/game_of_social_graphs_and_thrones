@@ -1,0 +1,58 @@
+{{DISPLAYTITLE:''Snow''}}
+{{SameName|conceptual television series|bastard surname|Bastard#Terminology}}
+{{Television series
+| Title      = ''{{PAGENAME}}''
+| Type       = Snow
+| Image      = 
+| Format     = Live-action{{Webref|name=NAB |author=George R.R. Martin |date=June 23, 2022 |url=https://georgerrmartin.com/notablog/2022/06/23/snow-and-other-stuff/ |title=SNOW… and Other Stuff |website=Not a Blog |access-date=June 24, 2022 }}
+| Seasons    = 
+| Episodes   = 
+| Premiere   = 
+| Finale     = 
+| Network    = 
+| First      = 
+| Final      = 
+| Runtime    = 
+| Starring   = [[Kit Harington]]<ref name="THR">[https://www.hollywoodreporter.com/tv/tv-news/game-of-thrones-jon-snow-spinoff-1235167415/ ''The Hollywood Reporter'': "'Game of Thrones' Jon Snow Sequel Series in Development at HBO (Exclusive)" - James Hibberd, June 16, 2022]</ref>
+| Creator    = Kit Harington<ref name="NAB" />
+| Producers  = 
+| Writers    = 
+| Directors  = 
+| Composer   = 
+| Production = 
+| Wrapped    = 
+| Based      = 
+| Year       = 
+}}
+'''''Snow'''''<ref name="NAB" /> was a concept for a live-action television series of the ''[[World of Westeros]]''. A sequel to ''[[Game of Thrones]]'', [[Kit Harington]] would have reprised his role as [[Jon Snow]].
+
+The series is no longer in active development. According to Kit Harington, this is because they "couldn't find the right story to tell."{{Webref|name=Cancelled |author=Adam Bentz |date=April 9, 2024 |url=https://screenrant.com/game-thrones-jon-snow-spinoff-cancelled-why-kit-harington-response/ |title=Game Of Thrones Jon Snow Spinoff Series No Longer In Development At HBO |website=Screenrant |access-date= April 9, 2024}}
+
+==History==
+[[File:ExodusBeyondtheWall.PNG|thumb|right|250px|The sequel would pick up where ''Game of Thrones'' left off, centering on Jon Snow and the wildlings in a post-White Walker era]]
+Since the [[The Iron Throne|series finale]] of ''Game of Thrones'', there have been several spin-offs in development, the only confirmed ones being prequels taking place at least a century before the events of the main series. In 2019, HBO Chief Content Officer Casey Bloys ruled out any possibility of a sequel to ''Game of Thrones''.<ref name="avclub">[https://www.avclub.com/sorry-arya-there-will-be-no-game-of-thrones-sequels-1834948096 ''A.V. Club'': "Sorry, Arya: There will be no ''Game of Thrones'' sequels" - Randall Colburn, May 22, 2019 11:02AM]</ref> However, on June 16, 2022, James Hibberd of ''The Hollywood Reporter'' claimed to have received information about a sequel centering on Jon Snow's life of exile [[beyond the Wall]]. He reported that it is a live-action television series, and that Kit Harington is attached to star in it should it move into full production.<ref name="THR" />
+
+[[Emilia Clarke]] subsequently gave the first solid confirmation that there actually is some discussion of a Jon Snow sequel project, and that Kit Harington is closely involved. In an interview with ''BBC News'' on June 22, 2022, when asked about the rumors she responded that "[Kit] has told me about it. And I know it exists. It's happening." The interviewer noted that Clarke seemed to react as if she had just revealed more than she should have, so she quickly added, "It's been created by Kit as far as I can understand, so he's in it from the ground up. So what you will be watching, hopefully, if it happens, is certified by Kit Harington."<ref>[https://www.bbc.com/news/entertainment-arts-61896580 BBC News,] Emilia Clarke Interview, June 22nd 2022</ref>
+
+The next day on June 23, [[George R.R. Martin]] made an extensive blog post confirming that the project is indeed real, citing that Emilia Clarke had already talked about it. Martin then made major revelations that weren't in the original leak:<ref name="NAB" />
+
+*The project was Kit Harington's idea: "It seems as though Emilia Clarke has already mentioned that ''Snow'' was Kit’s idea in a recent interview.   So that part is out.  Yes, it was Kit Harrington who brought the idea to us." 
+*The project has secretly existed nearly as long as the other three current live-action projects and is just as developed as they are: Kit Harington assembled his own team of screenwriters, and multiple draft scripts have already been produced. Martin said he couldn't reveal the identity of the writers attached to it, but a showrunner is already in place (Harington is a producer on it, and the series was his idea, but he isn't also the showrunner as such). Martin has already had meetings with Harington's team about the series: "Kit's team have visited me here in Santa Fe and worked with me and my own team of brilliant, talented writer/ consultants to hammer out the show."
+
+Martin went on to stress, however, that while ''Snow'' is just as developed as the other three current live-action projects, and all four have draft scripts, there is no guarantee that ''any'' of the four will ultimately be greenlit for production:
+
+:''"All four of these successor shows are still in the script stage.   Outlines and treatments have been written and approved, scripts have been written, notes have been given, second and third drafts have been written.   So far, that’s all.   This is the way television works.   Please note: nothing has been green lit yet, and there is no guarantee when or if it will be… on any of these shows.   The likelihood of all four series getting on the air… well, I’d love it, but that’s not the way it works, usually."''
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Snow (TV series)|''Snow'' (TV series)}}
+*{{IMDb title|# = 21073266|title = Untitled Jon Snow/Game of Thrones Spinoff}}
+
+<!--Navboxes-->
+{{World of Westeros}}
+
+<!--Categories-->
+[[Category:Concepts for live-action television series]]
+[[Category:Snow| ]]

@@ -1,0 +1,61 @@
+{{DISPLAYTITLE:Stark {{C|wight}}}}
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Heraldry
+| Image = House Stark.svg
+| Link  = House Stark
+}}
+{{Character
+| Title       = Stark
+| Type        = Stark
+| Image       = Stark wight.png
+| Birth       = At [[Winterfell]]
+| Death       = Long before [[305 AC]]{{Dateref|Game of Thrones: Season 8}}<br>305 AC{{Dateref|Game of Thrones: Season 8}} at Winterfell<br>
+| House       = [[House Stark|Stark]]
+| Affiliation = [[White Walkers]] {{C|in death}}
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Northmen|Northern]]
+| Religion    = [[Old Gods]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 8|8]]
+| Appearances = "[[The Long Night]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = Unidentified
+}}
+'''Stark''', whose first name is unknown, was an ancient member of [[House Stark]].
+
+==Biography==
+===Background===
+He was a member of House Stark. He was buried in the crypt beneath [[Winterfell]].{{Ref|GOT803}}
+
+===[[Game of Thrones: Season 8|''Game of Thrones'': Season 8]]===
+During the [[Battle of Winterfell]], he is raised as a [[wight]] by the [[Night King]] and escapes his sarcophagus. He is later slain by [[Tyrion Lannister|Tyrion]] or [[Sansa Stark|Sansa]] along with another Stark wight.{{Ref|GOT803}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, no such character has appeared.
+
+==Appearances==
+*{{GOT|The Long Night}} {{Corpse}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Members of House Stark|wight]]
+[[Category:Northmen]]
+[[Category:Wights]]

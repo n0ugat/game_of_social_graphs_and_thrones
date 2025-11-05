@@ -1,0 +1,88 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Martell.svg
+| Link  = House Martell
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Martell
+| Image        =
+<gallery>
+Sunspear-0.png|Appearance
+Sunspear Pin.png|Location
+</gallery>
+| Type         = Castle<br>Regional capital
+| Status       = 
+| Location     = [[Dorne]], [[Westeros]]
+| Population   = 
+| Rulers       = [[House Martell]]<br>{[[Ellaria Sand]]} {{C|formerly}}
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = [[Spear Tower]]<br>Tower of the Sun<br>The Sandship<br>The Threefold Gate<br>The Shadow City
+| Founded      = 
+}}
+{{Dialogue a-b|Tyrion Lannister|Forgive me, I don't see Prince Doran in your company?|Lord Blackmont|The Prince's health forces him to remain at Sunspear. He sends his brother, Prince Oberyn, to attend the royal wedding in his stead.|Lord Blackmont explains that Prince Doran remains in Dorne's capital.|Two Swords}}
+'''Sunspear'''{{Ref|GOT401}} is the capital of [[Dorne]], southernmost of the [[Seven Kingdoms]], located in the far southeast of the continent on the [[Summer Sea]]. It consists of a strong, fortified castle and a town that sprawls around it. It is a town built largely of mud and straw. The town's largest structure is [[Spear Tower]], a 150-feet structure with a pinnacle of shining steel.
+
+The castle was the seat of [[House Martell]], Princes of Dorne, until the family was temporarily deposed by [[Ellaria Sand]] and the three eldest [[Sand Snakes]], who seized power through a [[Coup in Dorne|coup]]. With the latter dead and the former imprisoned for life in [[King's Landing]] following a [[Assault on the Targaryen fleet|naval assault]] before being most likely killed during the [[Battle of King's Landing]], a new [[Prince of Dorne (Last War)|Prince of Dorne]] assumed rule in Dorne, and by extension Sunspear.
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Sunspear is the principal stronghold of House Martell. It is located on the far-eastern coast of Dorne and consists of two strong towers, the Spear Tower and the Tower of the Sun, the latter of which contains the Prince of Dorne's throne room. The castle walls are sand-colored, setting it apart from the other major castles of [[Westeros]].
+
+Sunspear is surrounded by the shadow town, which consists of shops, markets and bazaars. The town is also walled, though more buildings - mostly mud-brick hovels - stretch beyond it. The castle and town also have a modest harbor. Areo Hotah, who is from the Free Cities, notes that the town around Sunspear isn't really large enough to be considered a true "city" on the scale of Norvos, Pentos, or King's Landing, but it is still the largest settlement in Dorne.
+
+===Notable residents of the castle===
+* Prince [[Doran Martell]], the ruler of Dorne in the name of the [[King of the Andals and the Rhoynar and the First Men|King]].
+**Princess Arianne Martell, Prince Doran's firstborn daughter and heir.
+**Prince {Quentyn Martell}, Prince Doran's second child.
+** Prince [[Trystane Martell]], Prince Doran's youngest child.
+* Prince {[[Oberyn Martell]]}, called the Red Viper, Prince Doran's younger brother.
+**[[Ellaria Sand]], Prince Oberyn's [[paramour]] and mother of five Sand Snakes.
+*** The [[Sand Snakes]], Prince Oberyn's eight bastard daughters.
+*[[Areo Hotah]], Doran's trusted captain of the guards. Originally from the Free Cities.
+*Maester [[Caleotte]]
+*Maester Myles
+*Ricasso, the seneschal of Sunspear
+*Ser Manfrey Martell, Doran's cousin and the castellan of Sunspear
+*Alyse Ladybright, Sunspear's lord treasurer
+
+==Appearances==
+*{{GOT|Two Swords}} {{Mentioned}}
+*{{H&L|House Martell}} {{Illustrated}}
+*{{GOT|The Wars To Come}} {{Mentioned}}
+*{{GOT|Sons of the Harpy}} {{Mentioned}}
+*{{GOT|Dragonstone}} {{Map}}
+*{{GOT|Stormborn}} {{Mentioned}}
+*{{C&R|Valyria's Last Scion: House Targaryen}} {{Illustrated}}
+*{{C&R|Invasion}} {{Illustrated}}
+*{{C&R|House Martell, Princes of Dorne}} {{Illustrated}}
+*{{HOTD|The Heirs of the Dragon}} {{Mentioned}}
+*{{HOTD|We Light the Way}} {{Mentioned}}
+*{{HOTD|The Princess and the Queen}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Martell}}
+{{Dorne}}
+
+<!--Categories-->
+[[Category:Castles of Dorne]]
+[[Category:House Martell]]
+[[Category:Sunspear| ]]
+[[Category:Towns]]
+
+<!--Languages-->
+[[de:Sonnspeer]]
+[[es:Lanza del Sol]]
+[[fr:Lancehélion]]
+[[nl:Zonnespeer]]
+[[pl:Słoneczna Włócznia]]
+[[pt-br:Lançassolar]]
+[[ru:Солнечное Копьё]]
+[[zh:阳戟城]]

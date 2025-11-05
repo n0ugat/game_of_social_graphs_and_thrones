@@ -1,0 +1,35 @@
+{{DISPLAYTITLE:''The Official Game of Thrones Podcast'' Returns}}
+{{Episode
+| Title    = ''The Official Game of Thrones Podcast'' Returns
+| Type     = Podcast
+| Image    = TOGOTPHOTD200.jpg
+| Season   = 2
+| Episode  = 
+| Date     = May 17, 2024{{Listref|TOGOTPHOTD}}
+| Runtime  = 2:06{{HBOref|TOGOTPHOTD}}
+| Writer   = 
+| Director = 
+| Year     = 
+| Previous = "[[Live from GOT Fan Con with Kit Harington]]"{{Listref|TOGOTPHOTD}}
+| Next     = "[[The Enemy Within featuring Showrunner Ryan Condal]]"{{Listref|TOGOTPHOTD}}
+}}
+"'''''The Official Game of Thrones Podcast'' Returns'''"{{HBOref|TOGOTPHOTD}} is the trailer episode of the [[The Official Game of Thrones Podcast: House of the Dragon: Season 2|second season]] of ''[[The Official Game of Thrones Podcast: House of the Dragon]]''. It was released on May 17, 2024.
+
+==Description==
+{{Description|TOGOTPHOTD200}}
+
+==Gallery==
+<gallery bordersize="none">
+The Official Game of Thrones Podcast Returns
+</gallery>
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{The Official Game of Thrones Podcast: House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Official Game of Thrones Podcast Returns, The}}
+[[Category:Episodes of The Official Game of Thrones Podcast: House of the Dragon: Season 2| 00]]
+[[Category:Episodes released in 2024|5.17]]

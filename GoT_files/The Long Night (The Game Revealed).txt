@@ -1,0 +1,34 @@
+{{DISPLAYTITLE:The Long Night {{C|''The Game Revealed''}}}}
+{{Episode
+| Title    = The Long Night
+| Type     = Revealed
+| Image    = TGR803.jpg
+| Season   = 8
+| Episode  = 3
+| Date     = April 29, 2019{{Listref|TGR78}}
+| Runtime  = 38 minutes{{Appleref|TGR803}}
+| Writer   = 
+| Director = 
+| Year     = 
+| Previous = "[[A Knight of the Seven Kingdoms (The Game Revealed)|A Knight of the Seven Kingdoms]]"{{Listref|TGR}}
+| Next     = "[[The Last of the Starks (The Game Revealed)|The Last of the Starks]]"{{Listref|TGR}}
+}}
+"'''The Long Night'''" is the third episode of the [[The Game Revealed: Season 8|third season]] of ''[[The Game Revealed]]''. It is the fifteenth episode of the series overall. It was released on April 29, 2019.
+
+==Description==
+{{Description|TGR803}}
+
+==Gallery==
+<gallery bordersize="none">
+Game of Thrones / Season 8 Episode 3 / Game Revealed (HBO)
+</gallery>
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{The Game Revealed}}
+
+<!--Categories-->
+[[Category:Episodes of The Game Revealed: Season 8| 03]]
+[[Category:Episodes released in 2019|4.29]]

@@ -1,0 +1,36 @@
+{{Episode
+| Title    = The Dragonseed Deep Dive<br>{{C|with Kieran Bew, Tom Bennett, and Clinton Liberty}}
+| Type     = Podcast
+| Image    = TOGOTPHOTD214.jpg
+| Season   = 2
+| Episode  = 14
+| Date     = August 14, 2024{{Listref|TOGOTPHOTD}}
+| Runtime  = 1:03:09{{HBOref|TOGOTPHOTD}}
+| Writer   = 
+| Director = 
+| Year     = 
+| Previous = "[[Season 2 In Review with Fabien Frankel]]"{{Listref|TOGOTPHOTD}}
+| Next     = "[[Burning Questions]]"{{Listref|TOGOTPHOTD}}
+}}
+"'''The Dragonseed Deep Dive (with Kieran Bew, Tom Bennett, and Clinton Liberty)'''"{{HBOref|TOGOTPHOTD}} is the fourteenth episode of the [[The Official Game of Thrones Podcast: House of the Dragon: Season 2|second season]] of ''[[The Official Game of Thrones Podcast: House of the Dragon]]''. It is the thirty-second episode of the series overall. It was released on August 14, 2024.
+
+==Description==
+{{Description|TOGOTPHOTD214}}
+
+==Gallery==
+<gallery bordersize="none">
+HOTD: Official Podcast: The Dragonseed Deep Dive
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{HBO Max|video/watch/PROM727485/PROM1182023|House of the Dragon Podcast: The Dragonseed Deep Dive}}
+
+<!--Navboxes-->
+{{The Official Game of Thrones Podcast: House of the Dragon}}
+
+<!--Categories-->
+[[Category:Episodes of The Official Game of Thrones Podcast: House of the Dragon: Season 2| 14]]
+[[Category:Episodes released in 2024|8.14]]

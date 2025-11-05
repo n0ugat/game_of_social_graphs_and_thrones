@@ -1,0 +1,27 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = 
+| Birth   = 
+| Death   = 
+| Role    = Lannister soldier
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 8|8]]
+| Credits = "[[The Bells]]"
+| First   = 
+| Last    = 
+}}
+'''Thomas Martin''' is an actor.
+
+In ''[[Game of Thrones]]'', he portrayed a Lannister Soldier in the [[Game of Thrones: Season 8|eighth season]] episode "[[The Bells]]".
+
+==Credits==
+{{Game of Thrones: Season 8|||||yes}}
+
+==See also==
+*{{IMDb
+|# = 10689623}}
+
+==References==
+{{Reflist}}{{DEFAULTSORT:Martin, Thomas}}
+[[Category:Guest starring cast members of Game of Thrones]]

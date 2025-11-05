@@ -1,0 +1,74 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Thrones
+| Part          = the [[War of the Five Kings]]
+| Image         = 
+| Previous      = [[Battle at the Yellow Fork]]
+| Concurrent    = 
+| Next          = [[Battle of the Fords]]
+| Date          = [[299 AC]]{{Dateref|Game of Thrones: Season 2}}
+| Place         = [[Crag]], [[Westerlands]]
+| Outcome       = [[House Westerling]] surrenders to [[House Stark]]
+| Factions1     = [[File:House Stark.svg|30px|center|link=House Stark]] [[North|Kingdom of the North]]/[[House Stark]]
+| Factions2     = [[File:House Baratheon of King's Landing.svg|30px|center|link=House Baratheon of King's Landing]] '''[[Iron Throne]]'''/[[House Baratheon of King's Landing]]<br><br>
+[[File:House Lannister.svg|30px|center|link=House Lannister]] [[House Lannister]]<br>
+[[House Westerling]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = [[King in the North|King]] [[Robb Stark]]
+| Leaders2      = Lord Westerling {{Surrender}}
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = [[Talisa Stark|Talisa Maegyr]]
+| Participants2 = Garrison of the [[Crag]]
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = None
+| Casualties2   = None
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Quote|You're riding to the Crag to negotiate a surrender?|[[Talisa Stark|Talisa Maegyr]] to [[Robb Stark]]|A Man Without Honor}}
+The '''surrender of the Crag''' is an event in the [[War of the Five Kings]]. 
+
+==History==
+===Prelude===
+Having won victories in the [[Riverlands]], among them the [[Battle of Oxcross]], the [[taking of Ashemark]] and a [[battle at the Yellow Fork]], King [[Robb Stark]]'s army has established a strong foothold in the [[Westerlands]].<ref>"[[The Old Gods and the New]]"</ref><ref name="E14">"[[Garden of Bones (episode)|Garden of Bones]]"</ref><ref name="E17">"[[A Man Without Honor]]"</ref> The victory at Oxcross has left the region lightly defended.<ref name="E14"/>
+
+===Surrender===
+Robb leads part of his force to the Crag to negotiate the surrender of [[House Westerling]], a proud but impoverished vassal house of [[House Lannister]]. He is accompanied by the battlefield surgeon [[Talisa Stark|Talisa]] who uses the opportunity to obtain supplies from the castle's [[Order of Maesters|maester]].<ref name="E17"/>
+
+===Aftermath===
+Robb returns from the mission without incident. However, while he was away, his key prisoner [[Jaime Lannister|Jaime]] was released by [[Catelyn Stark|his mother]] without his consent. The betrayal, combined with the ongoing worry about his siblings captivity, causes Robb to seek solace in the arms of Talisa, flouting his vow to marry into [[House Frey]].<ref>"[[The Prince of Winterfell]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the Crag surrenders only after losing a battle for control of the castle.
+
+The Crag is stormed at night. While [[Smalljon Umber]] and [[Walder Rivers|Black Walder Frey]] lead scaling parties over the walls, Robb breaks through the main gate with a ram, but is injured by an arrow wound.
+
+Robb is wounded in the battle and he is nursed back to health by [[Talisa Stark#In the books|Jeyne Westerling]] (Talisa's book counterpart), the daughter of the Lord of the Crag. Shortly afterwards, Robb learns of the alleged deaths of [[Bran Stark|his]] [[Rickon Stark|brothers]] at the hand of [[Theon Greyjoy]], and in his grief he sleeps with Jeyne. Having taken Jeyne's maidenhood, Robb feels honor-bound to marry her, in spite of his betrothal to a daughter of [[Walder Frey]].
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|Storming of the Crag}}
+
+<!--Navboxes-->
+{{War of the Five Kings}}
+
+<!--Categories-->
+[[Category:299 AC]]
+[[Category:Events]]
+[[Category:War of the Five Kings]]
+
+<!--Languages-->
+[[de:Kapitulation der Burg Bruch]]
+[[fr:Reddition de Falaise]]
+[[ru:Взятие Скалы]]

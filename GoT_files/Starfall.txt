@@ -1,0 +1,60 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Dayne.svg
+| Link  = House Dayne
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Martell
+| Image        =
+<gallery>
+Distant view of Starfall.png|Appearance
+Starfall Pin.png|Location
+</gallery>
+| Type         = Castle
+| Status       = 
+| Location     = [[Dorne]], [[Westeros]]
+| Population   = 
+| Rulers       = [[House Dayne]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Starfall'''{{Ref|H&L613}} is a castle in [[Dorne]], the region controlled by [[House Martell]] of [[Sunspear]], and the seat of [[House Dayne]]. The castle is located in the far west of Dorne, near the border with the [[Reach]] and south of [[Blackmont]].
+
+==In the books==
+[[File:Dawn in the main hall of Starfall.png|left|thumb|220x220px|Dawn being exposed in the main hall of Starfall.]]
+In the ''[[A Song of Ice and Fire]]'' novels, Starfall is the seat of House Dayne. It is located at the mouth of the River Torentine, downriver from Blackmont and the High Hermitage, which is held by a lesser branch of the Daynes.
+
+Starfall is so-called because of a meteor, referred to as a "fallen star," which fell out of the sky nearby, almost two thousand years ago. The Daynes forged a sword out of the meteorite ore, called "[[Dawn]]," which is as resilient and formidable as a [[Valyrian steel]] weapon in combat.
+
+==Appearances==
+*{{H&L|House Dayne}} {{Illustrated}}
+*{{GOT|Dragonstone}} {{Map}}
+*{{GOT|The Iron Throne}} {{Text}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Dayne}}
+{{Dorne}}
+
+<!--Categories-->
+[[Category:Castles of Dorne]]
+[[Category:House Dayne]]
+
+<!--Languages-->
+[[de:Sternfall]]
+[[es:Campoestrella]]
+[[fr:Les Météores]]
+[[it:Stelle al Tramonto]]
+[[nl:Sterrenval]]
+[[pl:Starfall]]
+[[ru:Звездопад]]
+[[zh:星坠城]]

@@ -1,0 +1,65 @@
+{{Canonicity|Non}}
+{{Heraldry
+| Image = House Stark.svg
+| Link  = House Stark
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Stark
+| Image       = 
+| Birth       = [[Age of Heroes]]{{Note|''[[Bloodmoon]]'' was set during the Age of Heroes. Sylvi Stark was a human, therefore she must have been born in this age.}}
+| Death       = 
+| House       = [[House Stark|Stark]]{{Webref|name=Starks |author=Wake the Dragon |date=February 18, 2024 |url=https://twitter.com/WtDasoiaf/status/1759432471953735779 |title=Sylvi and Maiev |website=X |access-date=February 19, 2024 }}
+| Allegiance  = 
+| Titles      = [[Prince]]ss<ref name="Starks" />
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = [[Casterly king]]{{Webref|name=Princess |author=Wake the Dragon |date=February 2, 2024 |url=https://twitter.com/WtDasoiaf/status/1753569814516211881 |title=🚨🐉 Narnia actress Georgie Henley on the set of the cancelled GoT prequel 'Bloodmoon' in Italy in 2019! |website=X |access-date=February 20, 2024 }}
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[Bloodmoon]]'' {{Rejected}}
+| Season      = 
+| Appearances = [[Pilot (Bloodmoon)|Pilot]] {{Unreleased}}
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Georgie Henley]]
+}}
+'''Sylvi Stark''' was a [[prince]]ss of [[House Stark]] who lived during the [[Age of Heroes]]. She was a relative of Princess [[Maiev Stark|Maiev]] and [[Stark (Bloodmoon)|another Stark]], and was married to the [[Casterly king]].
+
+==Behind the scenes==
+On January 8, 2019, ''Entertainment Weekly'' announced that [[Georgie Henley]] had been cast as a series regular in ''[[Bloodmoon]]'', a ''[[Game of Thrones]]'' [[World of Westeros|prequel]] [[Pilot (Bloodmoon)|pilot]].{{Webref|name=EW |author=James Hibberd |date=January 8, 2019 |url=https://ew.com/tv/2019/01/08/game-of-thrones-prequel-cast-director/ |title=''Game of Thrones'' prequel announces diverse full cast, female director |website=Entertainment Weekly |access-date=January 9, 2019 }} On February 2, 2024, Wake the Dragon revealed that Henley's character was a Stark princess who gets married to a Casterly at [[Casterly Rock]].<ref name="Princess" /> On February 10, 2024, Wake the Dragon leaked storyboards from the pilot, one of which depicted a character named [[Alden]] helping another character named Sylvi exit a gondola at Casterly Rock as members of House Casterly arrive.{{Webref|name=WTD |author=Wake the Dragon |date=February 10, 2024 |url=https://twitter.com/WtDasoiaf/status/1756284710118998245 |title=🚨🐉 Cancelled GoT prequel 'BLOOD MOON' storyboards |website=X |access-date=February 11, 2024 }} On February 18, 2024, Wake the Dragon revealed that Henley had portrayed Princess Sylvi Stark.<ref name="Starks" />
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels and its supplementary material, there is no mention of a character named Sylvi Stark. She was an invention of [[Jane Goldman]] for ''Bloodmoon''.
+
+==Gallery==
+<gallery>
+Bloodmoon storyboard 04.jpg
+</gallery>
+
+==Appearances==
+*{{BM|Pilot}} {{Unreleased}} {{Nc}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{House Stark}}
+{{House Casterly}}
+{{Bloodmoon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Stark, Sylvi}}
+[[Category:Individuals from Bloodmoon]]
+[[Category:Members of House Casterly|Sylvi Stark]]
+[[Category:Members of House Stark|Sylvi Stark]]
+[[Category:Princesses]]

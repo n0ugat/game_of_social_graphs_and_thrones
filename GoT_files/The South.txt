@@ -1,0 +1,86 @@
+{{SameName|short|lands the Free Folk define as "the South"|Seven Kingdoms}}
+{{Short
+| Title    = {{PAGENAME}}
+| Type     = Lore
+| Image    = H&L804.png
+| Season   = 8
+| Short    = 4
+| Date     = December 3, 2019{{Webref|name=Blu-ray |author=Dan Selcke |date=November 25, 2019 |url=https://winteriscoming.net/2019/11/25/new-history-and-lore-videos-explore-maegor-the-cruel-the-blackfyre-rebellion-and-more/ |title=New History and Lore videos explore Maegor the Cruel, the Blackfyre rebellion, and more |website=Winter is Coming |access-date=December 15, 2023 }}
+| Runtime  = 3 minutes{{Ref|H&L804}}
+| Narrator = [[Tormund]]{{Boxref|GOT8}}
+| Writer   = [[Dave Hill]]{{Webref|name=Hill |author=Vanessa Cole |date=July 22, 2017 |url=https://web.archive.org/web/20201111213241/https://watchersonthewall.com/game-thrones-writer-dave-hill-gives-behind-scenes-look-creative-process/ |title=Game of Thrones writer Dave Hill gives a behind the scenes look at the creative process |website=Watchers on the Wall |access-date=December 15, 2023 }}
+| Director = 
+| Previous = "[[The Blackfyres]]"{{Boxref|GOT8}}
+| Next     = "[[The Defiance of Duskendale]]"{{Boxref|GOT8}}
+}}
+"'''The South'''"{{Boxref|GOT8}} is the fourth short of the [[Histories & Lore: Season 8|eighth season]] of ''[[Histories & Lore]]''. It is the hundred and nineteenth short of the series overall. It was released on December 3, 2019 in ''[[Game of Thrones: The Complete Eighth Season]]''. It was narrated by [[Kristofer Hivju]] as [[Tormund]] and written by [[Dave Hill]].
+
+==Premise==
+{{Premise|H&L804}}
+
+==Narration==
+'''Tormund''': ''For thousands of years, when [[Free Folk|my people]] looked south, they saw only a [[Wall|wall of ice]] where lonely [[Night's Watch|crows]] perched. The [[kneelers]] had stolen our horizon.''
+
+''When our tools shattered against frozen rock, or our [[Ships|boats]] capsized in rough seas, or [[bear]]s and [[shadowcat]]s snatched our [[Animals and plants|game]], we cursed the soft men of the [[Seven Kingdoms|green lands]] beyond the Wall. We cursed, and we envied.''
+
+''Huddled around our fires, we told tales of how the southerners lived, how their stone houses touched the clouds, and their bellies touched the ground.''
+
+''How their women fainted at the sight of blood, and wouldn't knife a man even when he slept. How they wouldn't miss a few [[Armament|swords]], or rings, or daughters.''
+
+''But now we've seen the real south, and we have to admit, we're disappointed.''
+
+''Southerners live life bent-over in the fields, in courts, in bed. They drink too little [[Food and drink|beer]], and they eat too many plants. In the [[Beyond the Wall|north]], a man's worth is in his hands and his stories, not his [[Noble house|fancy name]] and fancy talk.''
+
+''With good steel, a man can hunt, kill, and live. What can a man do with [[Money|gold]] except shine? But what should I expect from a people who all want to sit on the [[Iron Throne|iron chair]]? A waste of good metal. You can make better seats. I've used 'em. How am I supposed to get comfortable on a bunch of swords?''
+
+''Now I see why all your [[King|queens]] are [[Last War|fighting]] over it. Maybe your southern arses are soft enough to take it. But give me a proper seat any day, or a proper southern arse. As long as it isn't in the south.''
+
+''From what I hear, [[King's Landing]] is even hotter and madder than [[Winterfell]]. Full of [[Oathbreaking|oathbreakers]], rich shits, and tiny women. They'll [[Bending the knee|kneel]] to anyone with an army or gold or special blood.''
+
+''Nobody can tell me if it's more red or less red or what. Maybe it's purple. If the [[Daenerys Targaryen|Dragon Queen]] wants a bunch of kneelers to be stomping along after her, she can have 'em.''
+
+''But my people have had enough. The [[Wight|dead]] are gone from the north. But the south is full of 'em. You just can't tell the difference.''
+
+==Appearances==
+===Individuals===
+*[[Tormund]]
+*[[Daenerys Targaryen]] {{Mentioned}}
+
+===Locations===
+*[[Westeros]]
+**[[Beyond the Wall]]
+**The [[North]]
+***[[Winterfell]] {{Mentioned}}
+**The [[Crownlands]]
+***[[King's Landing]]
+
+===Cultures===
+*[[Free Folk]]
+
+===Miscellaneous===
+*[[Iron Throne]]
+*[[Wight]]
+
+==Cast==
+*[[Kristofer Hivju]] as [[Tormund]]
+
+==Gallery==
+<gallery bordersize="none">
+The South
+</gallery>
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{Histories & Lore}}
+
+<!--Categories-->
+{{DEFAULTSORT:South, The}}
+[[Category:Shorts narrated by Tormund]]
+[[Category:Shorts of Histories & Lore: Season 8| 04]]
+[[Category:Shorts released in 2019|C.03D]]
+[[Category:Shorts written by Dave Hill]]
+
+<!--Languages-->
+[[fr:Le Sud (Histoires & Traditions)]]

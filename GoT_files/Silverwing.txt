@@ -1,0 +1,93 @@
+{{Canonicity|Canon}}
+{{Animal
+| Title       = {{PAGENAME}}
+| Type        = Targaryen
+| Image       = 2x7 Silverwing Infobox.png
+| Species     = [[Dragon]]
+| Birth       = 
+| Death       = 
+| AKA         = 
+| Affiliation = {[[Alysanne Targaryen]]}<br>[[Ulf]]
+| Family      = [[Vermithor]] {{C|mate}}
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 2|2]]
+| Appearances = "[[The Red Sowing]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+}}
+{{Quote|Silverwing's a goer, she is.|Ulf|The Queen Who Ever Was}}
+'''Silverwing'''{{Note|[[High Valyrian]]: ''Gēliotīkun''}} is one of the [[dragon]]s that belong to [[House Targaryen]]. She was the mount of Queen [[Alysanne Targaryen]], and later of the commoner [[Ulf]] who claims to be Alysanne's grandson.
+
+==Biography==
+Silverwing is the mate of [[Vermithor]], the dragon of Alysanne's King [[Jaehaerys I Targaryen|Jaehaerys]].{{Guideref|Silverwing}} Silverwing was one of the older and larger dragons at the start of the Dance, apparently one of the powerful second-generation dragons hatched to the Targaryens' original three. She has silver scales and blue eyes. When Silverwing and Vermithor visited the [[Wall]], they refused to fly over it.{{Ref|HOTD201}} She was not claimed by another [[dragonrider]] after the death of Queen Alysanne, and still resides on the [[Dragonmont]] at the start of the [[Dance of the Dragons]].{{Ref|HOTD110}}
+
+===[[House of the Dragon: Season 2|''House of the Dragon'': Season 2]]===
+[[File:Silverwing-photo-2024-07-28t142634-927.jpg|thumb|Silverwing bonds with Ulf. ]]
+Silverwing is resting in a cave in the Dragonmont when [[Ulf]] stumbles upon her and steps on a mound of her eggs. Silverwing sniffs and nudges Ulf several times before she accepts him as her rider. Later, Silverwing and Ulf fly above [[King's Landing]], provoking [[Vhagar]] and [[Aemond Targaryen|Aemond]] into pursuing them to [[Dragonstone (island)|Dragonstone]]. But upon seeing Silverwing roaring alongside [[Vermithor]] and [[Syrax]], Aemond chooses to fly back to King's Landing.{{Ref|HOTD207}}
+
+==In the books==
+In ''[[Fire & Blood]]'', Silverwing was one of the older and larger dragons at the start of the Dance, apparently one of the powerful second-generation dragons hatched to the Targaryens' original three. As her name suggests, she is described as a silvery dragon.
+
+Silverwing was famously the mount of Queen [[Alysanne Targaryen]], sister and wife of King [[Jaehaerys I Targaryen]]. Silverwing was likewise the mate of Jaehaerys's dragon [[Vermithor]].
+
+At one point Jaehaerys and Alysanne made a royal visit to [[Winterfell]], riding Vermithor and Silverwing respectively, along with four other dragons. On a whim, Alysanne rode further up to the [[Wall]] itself, and Jaehaerys followed on Vermithor. They visited the then-headquarters of the [[Night's Watch]], the [[Nightfort]]. Seeing how badly it had fallen into disrepair from the dwindling Watch, the royal couple convinced them to abandon it and relocate to the more manageable [[Castle Black]] to the east. 
+
+During Alysanne's visit to the Wall she tried to fly Silverwing [[beyond the Wall]], but the she-dragon would not go. Alysanne tried three times to fly beyond the Wall and each time Silverwing turned around and would not obey, a fact that Alysanne found very concerning since the dragon had never once disobeyed a command from her rider. Silverwing was also noted to behave very erratically during the visit to the Wall, snapping and hissing at every cold gust of wind from north of the Wall.
+
+Silverwing was left riderless after Alysanne's death.
+
+Silverwing is mentioned very rarely in the ''[[A Song of Ice and Fire]]'' novels: in ''A Storm of Swords'', [[Bran Stark|Bran]] and [[Jon Snow|Jon]] tell of Alysanne's visit to the Wall, mentioning that she rode Silverwing;{{Bookref|ASOS|40}} in ''A Feast for Crows'', [[Samwell Tarly|Sam]] wonders if Silverwing left an egg at the Wall.{{Bookref|AFFC|5}}
+
+==Gallery==
+<gallery>
+File:House-of-the-dragon-s2-e7-silverwing.jpg|Ulf meets Silverwing.
+File:Silverwing in dragonmont.55.png|Silverwing and Ulf in the Dragonmont.
+File:Almost-100-years-old-and-not-a-single-scratch-on-her-wings-v0-cbdu8uozimfd1.jpg|Ulf flies over [[King's Landing]] first time ever.
+File:Silverwing neck.50.png|Silverwing's neck.
+File:Silverwing over kings landing.12.png|Silverwing and Ulf fly over King's Landing.
+File:207joy 9020 1196 final wm.jpg
+File:Full-size-of-silverwing-v0-xwit13i3iofd1.jpeg.webp|Concept art Silverwing.
+File:Stephane-paccolat-silverwing-artstation-003-fullsize02.jpg|Silverwing head.
+File:Silverwing.png|Silverwing in titles.
+</gallery>
+
+==Appearances==
+*{{TDOD}} {{Illustrated}}
+*{{H&L|Maegor the Cruel}} {{Indirect}}
+*{{HOTD|The Black Queen}} {{Mentioned}}
+*{{HOTD|A Son For a Son}} {{Indirect}}
+*{{HOTD|Regent}} {{Mentioned}}
+*{{HOTD|Smallfolk}} {{Mentioned}}
+*{{HOTD|The Red Sowing}}
+*{{HOTD|The Queen Who Ever Was}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+*{{TOG|dragon-index#silverwing}}
+
+<!--Navboxes-->
+{{Dragons/House of the Dragon}}
+
+<!--Categories-->
+[[Category:Blacks]]
+[[Category:Dragons of House Targaryen]]
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Individuals from The Dance of Dragons]]
+[[Category:She-dragons]]
+
+<!--Languages-->
+[[de:Silberschwinge]]
+[[es:Ala de Plata]]
+[[fr:Aile-d'Argent]]
+[[nl:Zilverwiek]]
+[[pl:Srebrnoskrzydła]]
+[[ru:Среброкрылая]]
+[[zh:银翼]]

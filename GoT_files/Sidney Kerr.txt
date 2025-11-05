@@ -1,0 +1,27 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = 
+| Birth   = 
+| Death   = 
+| Role    = Martyn Reyne's squire
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]]
+| Credits = "[[The Burning Mill]]"
+| First   = 
+| Last    = 
+}}
+'''Sidney Kerr''' is an actor. He has appeared in the television series ''{{WPS|Urban Myths}}''.
+
+Kerr plays Martyn Reyne's squire in the [[House of the Dragon: Season 2|second season]] of ''[[House of the Dragon]]''.
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 2|||yes}}
+
+==External links==
+*{{IMDb|# = 9868389}}
+
+<!--Categories-->
+{{DEFAULTSORT:Kerr, Sidney}}
+[[Category:Co-starring cast members of House of the Dragon]]

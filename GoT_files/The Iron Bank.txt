@@ -1,0 +1,80 @@
+{{SameName|short|financial institution|Iron Bank of Braavos}}
+{{Short
+| Title    = {{PAGENAME}}
+| Type     = Lore
+| Image    = H&L406.png
+| Season   = 4
+| Short    = 6
+| Date     = February 17, 2015{{Webref|name=Blu-ray |author=Cian Gaffney |date=July 15, 2014 |url=https://hbowatch.com/game-of-thrones-season-4-dvdblu-ray-release-date-confirmed/ |title=Game of Thrones Season 4 DVD/Blu-ray Release Date Confirmed |website=HBO Watch |access-date=December 15, 2023 }}
+| Runtime  = 3 minutes{{Ref|H&L406}}
+| Narrator = [[Tycho Nestoris]]{{Boxref|GOT4}}
+| Writer   = [[Dave Hill]]{{Webref|name=Hill |author=Vanessa Cole |date=July 22, 2017 |url=https://web.archive.org/web/20201111213241/https://watchersonthewall.com/game-thrones-writer-dave-hill-gives-behind-scenes-look-creative-process/ |title=Game of Thrones writer Dave Hill gives a behind the scenes look at the creative process |website=Watchers on the Wall |access-date=December 15, 2023 }}
+| Director = 
+| Previous = "[[The Bastards of Westeros]]"{{Boxref|GOT4}}
+| Next     = "[[Robert's Rebellion - Oberyn Martell]]"{{Boxref|GOT4}}
+}}
+"'''The Iron Bank'''"{{Boxref|GOT4}} is the sixth short of the [[Histories & Lore: Season 4|fourth season]] of ''[[Histories & Lore]]''. It is the sixty-fifth short of the series overall. It was released on February 17, 2015 in ''[[Game of Thrones: The Complete Fourth Season]]''. It was narrated by [[Mark Gatiss]] as [[Tycho Nestoris]] and written by [[Dave Hill]].
+
+==Premise==
+{{Premise|H&L406}}
+
+==Narration==
+'''Tycho Nestoris''': ''The [[Iron Bank of Braavos|Iron Bank]] dates from when [[Braavos]] was still "the Secret City", filled with runaways and refugees from the [[Valyrians|Valyrian]] [[Slavery|slave]] lords. The first tradesmen to achieve success realised that if they pooled their resources, they could loan money to their less fortunate fellows and build a better Braavos. For a profit, of course.''
+
+''First they needed a space to store their combined gold, safe from thieves and more importantly each other, for the business rivalries that created their fortunes were not easily put aside. They found an abandoned iron mine outside the city and sealed its only entrance with heavy gates and bars and set guards supplied by every principal investor. Each guard watched the gate, and the other guards. Over time, this distrust vanished as the investors gave up their other businesses and poured their energies into the new endeavour, now called the "Iron Bank" - after the mine. We have since moved to more spacious quarters, but we still keep our first vault, not merely to remind us of our roots, but because we did not become the [[Known world|world]]'s greatest depository of wealth by wasting assets, no matter how minor.''
+
+''If you are an aspiring merchant, you come to us to buy ships and goods. If you are an aspiring shopkeeper, you come to us to buy your shop. Whatever you need in this world, we are the conduit. Even a [[Iron Throne|throne]] can be yours if you are an aspiring king, or stay yours if you are a sitting one. Just ask [[House Lannister]] of [[Westeros]].''
+
+''We are not the only bank in this world. Every [[Free Cities|Free City]] has its own. But when those banks need gold, the come to the Iron Bank. We lend to princes, kings, merchants and tradesmen. If a prince or king cannot pay us back, well... the world lacks for loyal men, not ambitious ones. We simply fund the rise of new princes and kings, and they tend to honor our investment. If a merchant refuses to repay us, well... the vicissitudes of trade are well known, and Braavos is full of [[Faceless Men|men who... are... not]]. One way or another, the Iron Bank will have its due.''
+
+==Appearances==
+===Houses===
+* [[House Lannister]]
+
+===Institutions===
+*[[Iron Bank of Braavos]]
+* [[Faceless Men]] {{Unnamed}}
+
+===Locations===
+*[[Braavos]]
+
+===Realms===
+* [[Valyrian Freehold]] {{Indirect}}
+
+===Miscellaneous===
+* [[Money|Currency and banking]] {{C|concept}}
+* [[Titan of Braavos]] {{Unnamed}}
+* [[Slavery]] {{Mentioned}}
+
+==Cast==
+*[[Mark Gatiss]] as [[Tycho Nestoris]]
+
+==Gallery==
+===Video===
+<gallery bordersize="none">
+The Iron Bank
+</gallery>
+
+===Images===
+<gallery>
+Iron Bank History & Lore 02.png
+Iron Bank History & Lore 03.png
+Iron Bank History & Lore 04.png
+</gallery>
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{Histories & Lore}}
+
+<!--Categories-->
+{{DEFAULTSORT:Iron Bank, The}}
+[[Category:Shorts narrated by Tycho Nestoris]]
+[[Category:Shorts of Histories & Lore: Season 4| 06]]
+[[Category:Shorts released in 2015|2.17F]]
+[[Category:Shorts written by Dave Hill]]
+
+<!--Languages-->
+[[fr:La Banque de Fer (Histoires & Traditions)]]
+[[pt-br:O Banco de Ferro de Braavos (História e Tradição)]]

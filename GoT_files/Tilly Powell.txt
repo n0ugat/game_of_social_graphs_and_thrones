@@ -1,0 +1,33 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Tilly Powell.jpg
+| Birth   = 
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]]
+| Credits = 2 episodes {{Below|Credits}}
+| First   = "[[The Red Sowing]]"
+| Last    = 
+}}
+'''Tilly Powell''' is a stuntwoman and actress. She is the fiancée of [[Joe Watts]].
+
+In ''[[House of the Dragon]]'', she was a stunt performer in the [[House of the Dragon: Season 2|second season]] episodes "[[The Red Sowing]]" and "[[The Queen Who Ever Was]]".
+
+==Credits==
+===Stunts===
+{{House of the Dragon: Season 2|||||||yes|yes}}
+
+==See also==
+*{{IMDb
+|# = 3767640}}
+*{{Twitter
+|# = powell_tilly}}
+*{{Instagram
+|# = tpowellstunts}}
+*{{Facebook
+|# = tilly.powell.75}}
+
+{{DEFAULTSORT:Powell, Tilly}}
+[[Category:Stunt performers of House of the Dragon]]

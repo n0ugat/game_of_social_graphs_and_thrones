@@ -1,0 +1,41 @@
+{{Canonicity|Canon}}
+{{References}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Hightower
+| Image        = Three Towers Pin.png
+| Type         = Castle
+| Status       = 
+| Location     = The [[Reach]], [[Westeros]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Three Towers'''{{Guideref|Map of Westeros}} is a castle in the [[Reach]], the region controlled by [[House Tyrell]] of [[Highgarden]]. The castle is located south-west of Highgarden and [[Oldtown]], on the edge of the [[Redwyne Straits]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Three Towers is the seat of House Costayne. It is located on the southern coast of Whispering Sound, where it empties into the Redwyne Straits. Along with [[Blackcrown]], it guards the entrance to the Sound and the approaches to Oldtown.
+
+==Appearances==
+*{{GOT|Dragonstone}} {{Map}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{Reach}}
+
+<!--Categories-->
+[[Category:Castles of the Reach]]
+
+<!--Languages-->
+[[de:Dreitürmen]]
+[[pt-br:Três Torres]]
+[[ru:Три Башни]]

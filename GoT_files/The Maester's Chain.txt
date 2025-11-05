@@ -1,0 +1,82 @@
+{{Short
+| Title    = {{PAGENAME}}
+| Type     = Lore
+| Image    = H&L413.png
+| Season   = 4
+| Short    = 13
+| Date     = February 17, 2015{{Webref|name=Blu-ray |author=Cian Gaffney |date=July 15, 2014 |url=https://hbowatch.com/game-of-thrones-season-4-dvdblu-ray-release-date-confirmed/ |title=Game of Thrones Season 4 DVD/Blu-ray Release Date Confirmed |website=HBO Watch |access-date=December 15, 2023 }}
+| Runtime  = 3 minutes{{Ref|H&L413}}
+| Narrator = [[Qyburn]]{{Boxref|GOT4}}
+| Writer   = [[Dave Hill]]{{Webref|name=Hill |author=Vanessa Cole |date=July 22, 2017 |url=https://web.archive.org/web/20201111213241/https://watchersonthewall.com/game-thrones-writer-dave-hill-gives-behind-scenes-look-creative-process/ |title=Game of Thrones writer Dave Hill gives a behind the scenes look at the creative process |website=Watchers on the Wall |access-date=December 15, 2023 }}
+| Director = 
+| Previous = "[[The Kingsguard - Bronn]]"{{Boxref|GOT4}}
+| Next     = "[[The Death of Kings]]"{{Boxref|GOT4}}
+}}
+"'''The Maester's Chain'''"{{Boxref|GOT4}} is the thirteenth short of the [[Histories & Lore: Season 4|fourth season]] of ''[[Histories & Lore]]''. It is the seventy-second short of the series overall. It was released on February 17, 2015 in ''[[Game of Thrones: The Complete Fourth Season]]''. It was narrated by [[Anton Lesser]] as [[Qyburn]] and written by [[Dave Hill]].
+
+==Premise==
+{{Premise|H&L413}}
+
+==Narration==
+'''Qyburn''': ''You can hear a maester coming long before you see him, thanks to the jangling chains he is forced to wear around his neck. It's meant to remind him of his servitude, like the collar of a dog. He can't remove it, even to sleep.''
+
+''Each link signifies mastery, or at least what those withered old men in the [[Citadel]] consider mastery, of a different area of study. Gold for the study of sums and accounts, silver for healing, iron for war, black iron for [[raven]]ry, lead for [[poison]]s and [[Valyrian steel]] for the... [[Magic|higher mysteries]].'' 
+
+''Only one maester in a hundred forges such a link, only one maester in a hundred has a sense the gods gave a goat.''
+
+''Though I admit that no one had performed true magic in centuries. We sit in a room mumbling over a [[Glass candle|candle]] of [[dragonglass]], trying to make it catch fire. After a sleepless night of failure, we are supposed to admit to our own limitations.'' 
+
+''To win the link, we are supposed to lose their curiosity. I never did. In time, the [[archmaester]]s decided more links were useless to a man who wouldn't be chained by them. They took my chain and expelled me from the Citadel. Their loss.''
+
+''The chain as a whole is supposed to signify the realm. One cannot have only lords or only knights, one needs farmers, smiths, merchants, shepherds and the like. Like a chain forged of many different metals. An obvious and trivial point, disguised with pomposity, much like the maesters themselves.''
+
+''They study without learning and proudly pass down the same knowledge that was passed down to them, with no addition. Perhaps such is to be expected when one considers the kinds of men who become maesters.''
+
+''The youngest sons of noble families, dutiful and timid, raised in the shadow of their older brothers; or [[bastard]]s and peasant boys whose minds are easily satisfied by the knowledge of their next meal.''
+
+''Because bold men will not be chained. They dare to ask questions that the maesters fear to answer. They will look at a living man and ask: "How?" And they will look at the dead and ask: "What if?".''
+
+==Appearances==
+===Individuals===
+*[[Qyburn]]
+
+===Institutions===
+*[[Order of Maesters]]
+
+===Locations===
+*The [[Citadel]]
+
+===Titles===
+*[[Archmaester]]
+
+===Miscellaneous===
+*[[Valyrian steel]]
+*"[[Magic|Higher mysteries]]"
+*[[Dragonglass]]
+*[[Glass candle]]
+*[[Bastard]]
+
+==Cast==
+*[[Anton Lesser]] as [[Qyburn]]
+
+==Gallery==
+<gallery bordersize="none">
+The Maester's Chain
+</gallery>
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{Histories & Lore}}
+
+<!--Categories-->
+{{DEFAULTSORT:Maester's Chain, The}}
+[[Category:Shorts narrated by Qyburn]]
+[[Category:Shorts of Histories & Lore: Season 4| 13]]
+[[Category:Shorts released in 2015|2.17M]]
+[[Category:Shorts written by Dave Hill]]
+
+<!--Languages-->
+[[fr:La Chaîne de Mestre (Histoires & Traditions)]]
+[[pt-br:A Corrente do Meistre]]

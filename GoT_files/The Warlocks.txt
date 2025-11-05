@@ -1,0 +1,89 @@
+{{SameName|short|magic practitioners|Warlocks}}
+{{Short
+| Title    = {{PAGENAME}}
+| Type     = Lore
+| Image    = H&L219.png
+| Season   = 2
+| Short    = 19
+| Date     = February 19, 2013{{Webref|name=Blu-ray |author=Charlie Harwood |date=November 19, 2012 |url=https://hbowatch.com/hbo-issues-release-date-and-details-for-game-of-thrones-s2-dvdblu-ray/ |title=Release Date & Details for Game of Thrones Season 2 DVD/Blu-Ray |website=HBO Watch |access-date=December 15, 2023 }}
+| Runtime  = 3 minutes{{Ref|H&L219}}
+| Narrator = [[Xaro Xhoan Daxos]]{{Boxref|GOT2}}
+| Writer   = [[Dave Hill]]{{Webref|name=Hill |author=Vanessa Cole |date=July 22, 2017 |url=https://web.archive.org/web/20201111213241/https://watchersonthewall.com/game-thrones-writer-dave-hill-gives-behind-scenes-look-creative-process/ |title=Game of Thrones writer Dave Hill gives a behind the scenes look at the creative process |website=Watchers on the Wall |access-date=December 15, 2023 }}
+| Director = 
+| Previous = "[[The Alchemist Guild]]"{{Boxref|GOT2}}
+| Next     = "[[Battle of Qohor (short)|Battle of Qohor]]"{{Boxref|GOT3}}
+}}
+"'''The Warlocks'''"{{Boxref|GOT2}} is the nineteenth and final short of the [[Histories & Lore: Season 2|second season]] of ''[[Histories & Lore]]''. It is the forty-third short of the series overall. It was released on February 19, 2013 in ''[[Game of Thrones: The Complete Second Season]]''. It was narrated by [[Nonso Anozie]] as [[Xaro Xhoan Daxos]] and written by [[Dave Hill]].
+
+==Premise==
+{{Premise|H&L219}}
+
+==Narration==
+'''Xaro Xhoan Daxos''': ''The [[Essos|East]] is plagued with mystics who claim many dread powers but prove only one. Separating the foolish from their purses.''
+
+''Not so with the renowned [[Warlocks|Warlocks of Qarth]]. They demand a much dearer coin in return for their parlor tricks. Respect.''
+
+''Once, the Warlocks truly were mighty, or so they would have us believe.''
+
+''I do not doubt they have many secrets. They are an old order, and one does not obtain a seat on the [[Thirteen]], the governing council of [[Qarth]], without making twelve of our most powerful citizens afraid to forbid it.''
+
+''Thankfully for Qarth, the Warlocks exert little influence in our politics. They rarely leave the confines of their [[House of the Undying]], a pompous name but, I admit, a strange and dark tower.''
+
+''It is said that none who enter ever leave. Of course, since there are no visible doors. I have to believe that none ever enter, either. I can only imagine what the Warlocks do inside. I wager we do not have to imagine much.''
+
+''They read dusty scrolls detailing their lost glory; they sip [[shade of the evening]], a foul concoction brewed from the nearby trees, until their lips turn blue, the better to frighten children, and the ignorant.''
+
+''Stewing in their fantasies like an old soldier who drinks alone so no one may challenge their prowess.''
+
+''Whatever the Warlocks may wish, their magic like all [[magic]], is dead in the world, if it ever existed. Though, one does hear strange whispers of late.''
+
+''[[Glass candle]]s that have been cold for a hundred years, now burning; [[ghost grass]] found far from the [[Shadow Lands|lands of the Shadow]]; a [[khalasar]] led by [[Daenerys Targaryen|a woman]] [[Drogon|with]] [[Viserion|three]] [[Rhaegal|heads]].''
+
+''Traders' nonsense, most likely. But should the Warlocks' vaunted magic ever return, that would be a dangerous day for Qarth. I shall need to keep my eyes on them indeed.''
+
+==Appearances==
+===Individuals===
+* [[Daenerys Targaryen]] {{Indirect}}
+* [[Drogon]] {{Indirect}}
+* [[Viserion]] {{Indirect}}
+* [[Rhaegal]] {{Indirect}}
+===Institutions===
+* [[Warlocks|Warlocks of Qarth]]
+* The [[Thirteen]]
+
+===Locations===
+* [[Qarth]]
+** [[House of the Undying]]
+* [[Shadow Lands]] {{Mentioned}}
+
+===Miscellaneous===
+* [[Shade of the evening]]
+* [[Ghost grass]] {{Mentioned}}
+* ''[[Khalasar]]'' {{Mentioned}}
+* [[Dragon]] {{Indirect}}
+
+==Cast==
+*[[Nonso Anozie]] as [[Xaro Xhoan Daxos]]
+
+==Gallery==
+<gallery bordersize="none">
+The Warlocks
+</gallery>
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{Histories & Lore}}
+
+<!--Categories-->
+{{DEFAULTSORT:Warlocks, The}}
+[[Category:Shorts narrated by Xaro Xhoan Daxos]]
+[[Category:Shorts of Histories & Lore: Season 2| 19]]
+[[Category:Shorts released in 2013|2.19S]]
+[[Category:Shorts written by Dave Hill]]
+
+<!--Languages-->
+[[de:The Warlocks (Histories & Lore)]]
+[[pt-br:Os Magos (História e Tradição)]]
+[[fr:Les Conjurateurs (Histoires & Traditions)]]

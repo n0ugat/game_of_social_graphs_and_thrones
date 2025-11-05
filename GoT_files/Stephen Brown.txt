@@ -1,0 +1,22 @@
+{{Template:Cast
+|Title = Stephen Brown
+|Image = 
+|dateofbirth= 
+|role = Sparring boy
+|status = 
+|First = 
+|imdb = http://www.imdb.com/name/nm7258407/|Appearances = "[[The Wars To Come]]"}}'''Stephen Brown''' is an actor.
+
+In ''[[Game of Thrones]]'' he plays a sparring boy in service to [[House Royce]].
+
+==Credit==
+===Guest starring===
+{{Game of Thrones: Season 5|yes}}
+
+==See also==
+*{{Template:IMDb
+|# = 7258407}}
+
+==References==
+{{Reflist}}{{DEFAULTSORT:Brown, Stephen}}
+[[Category:Guest starring cast members of Game of Thrones]]

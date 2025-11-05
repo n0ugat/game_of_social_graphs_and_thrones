@@ -1,0 +1,37 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Belmore.svg
+| Link  = House Belmore
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Arryn
+| Image        = 
+| Type         = Castle
+| Status       = 
+| Location     = The [[Vale of Arryn]], [[Westeros]]
+| Population   = 
+| Rulers       = [[House Belmore]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Strongsong'''{{Ref|C&R07}} is a castle in the [[Vale of Arryn]] and the seat of [[House Belmore]]. It is situated by a series of lakes in the [[Mountains of the Moon]].{{Guideref|Map of Westeros}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Strongsong is the seat of House Belmore, loyal and powerful vassals of [[House Arryn]]. Strongsong is within the southernmost river valley of the Snakewood Forest. Lord Benedar Belmore is one of the six Lords Declarant. 
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Vale of Arryn}}
+
+<!--Categories-->
+[[Category:Castles of the Vale of Arryn]]
+[[Category:House Belmore]]

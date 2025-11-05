@@ -1,0 +1,20 @@
+{{Crew
+|Image = Shauna Duggins.jpg
+|dateofbirth = 
+|birthplace = 
+|job = Stunt Coordinator
+|imdb = https://www.imdb.com/name/nm0240971/
+|twitter = }}
+'''Shauna K. Duggins''' is a stuntwoman and actress.
+
+In ''[[Game of Thrones]]'', she was a stunt coordinator in the [[Game of Thrones: Season 5|fifth season]] episode "[[Mother's Mercy]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 5||||||||||yes}}
+
+==See also==
+*{{IMDb
+|# = 0240971}}
+{{DEFAULTSORT:Duggins, Shauna K.}}
+[[Category:Stunt performers of Game of Thrones]]

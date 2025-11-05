@@ -1,0 +1,86 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Thrones
+| Part          = the [[liberation of Slaver's Bay]]
+| Image         = 
+| Previous      = [[Siege of Meereen]]
+| Concurrent    = [[Shadow war]]<br>[[Massacre of the Khalar Vezhven|Massacre of the ''Khalar Vezhven'']]
+| Next          = [[Second siege of Meereen]]
+| Date          = [[303 AC]]{{Dateref|Game of Thrones: Season 6}}
+| Place         = [[Astapor]], [[Slaver's Bay]]
+| Outcome       = Yunkai'i victory
+*Slave-masters regain control of all of Slaver's Bay except [[Meereen]]
+| Factions1     = {{COA|Yunkai|small}} [[Yunkai]]
+| Factions2     = [[Astapor|Empire of Astapor]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = [[Wise Masters]]
+| Leaders2      = [[King of Astapor|King]] [[Cleon]]
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = 
+| Participants2 = 
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = 
+| Casualties2   = 
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = Unknown, presumably heavy
+}}
+{{Quote|Astapor and Yunkai have stopped asking us for aid... The Masters have retaken both cities. Outside of Meereen, the whole of Slaver's Bay has returned to the slavers.|[[Varys]] summarizes the return of slavery to Slaver's Bay|Home}}
+The '''siege of Astapor'''{{Con|ASOIAF}} is a battle that takes place during [[Daenerys Targaryen]]'s [[liberation of Slaver's Bay]].
+
+==History==
+===Background===
+[[Daenerys Targaryen]] began her campaign of liberation in Slaver's Bay in the [[fall of Astapor]], in which she stole 8,000 [[Unsullied]] by commanding them to turn their spears against the [[Good Masters]] of the city who had been their owners moments before, and unleashing her juvenile [[dragon]]s to provide air support with their flames.<ref>"[[And Now His Watch Is Ended]]"</ref> Daenerys and her new army then advanced north, defeating [[Yunkai]] and freeing its slaves, and finally advancing to [[Meereen]], northernmost and largest of the three great city-states in Slaver's Bay, which Daenerys seized outright and began to rule as the city's new queen.<ref>"[[Oathkeeper (episode)|Oathkeeper]]"</ref>
+
+A few months later, however, without Daenerys's Unsullied army present anymore to enforce her rule, the southern two cities fell out of her control. In Yunkai, the [[Wise Masters]] retook control of the city from the freedmen she had left in charge - given that she had never totally crushed the Wise Masters but accepted their surrender. Meanwhile, the opposite occurred in Astapor: the [[Ruling council of Astapor|ruling council]] of freedmen that Daenerys had established over the city when she left was overthrown by a former butcher of meat named [[Cleon]] who set himself up as despot of the city, and subsequently styled himself "His Imperial Majesty." In contrast to Yunkai, Cleon led an angry mob of former slaves, who wanted to be the new aristocrats ruling over the rest of the city.<ref>"[[First of His Name]]"</ref>
+
+===[[Game of Thrones: Season 6|''Game of Thrones'': Season 6]]===
+With Daenerys missing from Meereen after flying away on her uncontrollable [[Drogon|dragon]], her advisors are left to hold together rule over the city: [[Missandei]], [[Grey Worm]], and newcomers [[Tyrion Lannister|Tyrion]] and [[Varys]]. They convene in a meeting after the [[Sons of the Harpy]] succeed in burning Daenerys's captured Meereenese fleet in the port. No progress has been made on finding those responsible.
+
+Tyrion asks if there is any actual ''good'' news, and Varys responds that Yunkai and Astapor are no longer asking for aid - because the slave-masters have outright retaken both cities. Presumably this meant that Cleon the butcher was killed when the old slave-masters retook the city. This leaves Meereen as the only part of Slaver's Bay the slave-masters have not regained control over, which means it is only a matter of time before they advance against it in force as well.<ref>"[[Home]]"</ref>
+
+==In the books==
+In ''[[A Song of Ice and Fire]]'' novels, Daenerys's navigation of the local politics in Slaver's Bay forms a running subplot - albeit much of it occurs "off-screen" and summarized in council discussions. The TV series heavily condensed the political maneuvering both within Meereen and with external powers: in Season 6's "[[Home]]," Varys simply gives a brief summation of what happened, though the general points seem the same.
+
+As stated in Season 4, after Daenerys took her army north, the slave-masters reasserted themselves at [[Yunkai]] - unlike the other two cities she never even totally defeated them, but forced them to surrender their slaves and much of their wealth before moving on towards Yunkai. Meanwhile, a humble butcher of meat named [[Cleon]] overthrew the [[Ruling council of Astapor|ruling council]] of freedmen she had left in charge. Cleon was a demagogue leading mobs of angry freedmen who wanted to punish the former slave-masters (the [[Good Masters]] and their families, a significant fraction of the city's population) even more than Daenerys had. Cleon did not want to abolish [[Slavery|slavery]], however: the roles reversed, with the city's former slaves led by Cleon as the new slave-masters and the former Good Masters as the slaves. Cleon also rounded up boys from all of the old slave-master families and had them [[Eunuch|castrated]] to begin training them as a new batch of [[Unsullied]] - though with only a few months to train, these new Unsullied are considered to be little more than knock-offs and a joke compared to Daenerys's Unsullied, who were trained for ''years'', their entire lives since birth.
+
+After the initial shock wears off from Daenerys's initial campaign of liberation, however, the slave-masters begin to regroup. While the former [[Great Masters]] of Meereen form the [[Sons of the Harpy]] insurgent movement inside that city, the [[Wise Masters]] reassert themselves at [[Yunkai]], and start using what wealth they have left to hire numerous [[Mercenary|sellsword companies]] from as far afield as the [[Free Cities]]. The Yunkish also start forming alliances with other powers across [[Essos]] who are heavily involved in the slave trade, which was heavily disrupted when Daenerys began her campaign given that Slaver's Bay is the central hub of the industry, breeding and exporting slaves across the sea lanes. Yunkai forms an alliance with [[New Ghis]], another large Ghiscari city-state somewhat father to the south, and also allies with [[Volantis]] (whose aristocrats rule over a large slave population, with five slaves to each free man in the city).
+
+Daenerys tries to counter this growing new slaver alliance by making entreaties to [[Mantarys]] and [[Tolos]] to the west, but instead they outright join the slaver alliance. [[Qarth]] eventually joins the slavers as well. The most Daenerys can do is form an alliance with [[Lhazar]] on the other side of the mountain pass, which results in some food shipments reaching the city but otherwise the Lhazareen are not a martial people and they cannot offer significant military support.
+
+Against this backdrop, "Cleon I, the Butcher King" sends frequent entreaties to Daenerys to marry her so they can unite the strength of the freedmen in Meereen and Astapor to strike back against Yunkai and its rebuilding strength. Daenerys repeatedly denies these requests, however: first, because she is having trouble enough holding Meereen itself against the insurgency and she fears that if her army leaves it will fall just like Yunkai did before, and second, because Cleon is little more than a despot and he doesn't want to abolish slavery like she does - he just wants to be one of the new slave-masters as a cycle of revenge continues.
+
+The exact sequence of events occurs largely "off-screen" in the novels, but early in the fifth novel Cleon's envoys beg Daenerys to join his army in a preemptive attack against Yunkai - his army advancing from the south and hers from the north - and say that Cleon's army will be marching soon regardless of what she decides. Daenerys declines, however, not only because she fears leaving the city and detests Cleon, but because even she thinks his hastily trained new Unsullied are a joke, and his rabble of freedmen aren't much better to go on the offensive against the professional sellsword armies now employed by Yunkai. It is vaguely mentioned that at some point after this, Cleon's army met the Yunkish forces in a battle at the "Horns of Hazzat," where he suffered a crippling defeat (his army as weak as may assessed it to be) and barely fled back to Astapor with his life.
+
+Soon after retreating back to Astapor Cleon was assassinated by his own men for his failure. At this point order in the city collapsed as one junta after another tried to seize power. After Cleon was assassinated, another man declared himself king of Astapor under the name "Cleon the Second" - he ruled for only eight days, however, before having his throat slit by a barber who declared himself king in turn, who due to the manner of his succession is referred to as "King Cutthroat." "Cleon II" still had many supporters, however, and they are rallied by his former concubine, who declares herself the new ruler of the city in opposition to King Cutthroat - she gets nicknamed "Queen Whore." The civil war between the two factions continued to rage through the streets of Astapor even as the city was outright encircled and besieged by Yunkai's new army. Starvation conditions and [[cannibalism]] soon set in within the besieged city, and then due to all of the refugees crammed inside the walls, a plague swept through the entire city (the bloody flux). Even the last of the outnumbered and poorly trained freedmen of the city were devastated by this: many killed by the disease and more too sick to fight.
+
+Finally, some of the last healthy men in the city threw open the gates to try to escape before they also succumbed, but they were cut down by Yunkai'i forces, which proceeded to enter and sack the city. What followed was not a battle but a massacre. Fires were set which ripped across the city from one side to the other, and sick men were cut apart by enemy soldiers and left rotting in the streets. [[Doran Martell]]'s son Quentyn was passing through the city after joining one of the sellsword companies, and he described the fall of Astapor as the closest thing to hell he ever wished to experience. Queen Whore reportedly died fighting against the Yunkish invaders; King Cutthroat surrendered, but Quentyn later recalls witnessing his execution by being thrown naked into a pit of starving dogs.
+
+When the surviving Astapori population (of ex-slaves) crawls out of hiding over the next several days, the Yunkish armies attack them, driving them away from the city and into the hinterlands. Many make it to Daenerys in Meereen, starving and carrying the deadly disease. Daenerys sends them food and medicine, keeping them out of Meereen to prevent the plague from spreading into the city, but eventually it does. For the moment, Astapor is left a depopulated, smoking ruin.
+
+According to the peace agreement Hizdahr achieved with Yunkai, Astapor will be rebuilt, as a slave city, and Daenerys must not interfere. Daenerys does not like that term, as well as the other demands of Yunkai, but reluctantly agrees. The Yunkai'i intend to eventually rebuild and repair the city, as well as repopulate it from scratch (they killed the freedmen who served Cleon because they knew it would be too dangerous to try to simply re-enslave them after they had a taste of self-rule).
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Liberation of Slaver's Bay}}
+
+<!--Categories-->
+[[Category:303 AC]]
+[[Category:Liberation of Slaver's Bay]]
+[[Category:Sieges|Astapor]]
+
+<!--Languages-->
+[[ru:Осада Астапора]]

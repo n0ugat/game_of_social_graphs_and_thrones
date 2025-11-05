@@ -1,0 +1,67 @@
+{{Canonicity|Canon}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Thrones
+| Part          = the [[War of the Five Kings]]
+| Image         = 
+| Previous      = [[Battle in the hills below the Golden Tooth]]
+| Concurrent    = [[Battle at the Mummer's Ford]]<br>[[Battle on the Green Fork]]<br>[[Battle of Whispering Wood]]
+| Next          = [[Battle of the Camps]]
+| Date          = [[298 AC]]{{Dateref|Game of Thrones: Season 1}}
+| Place         = [[Riverrun]], [[Riverlands]]
+| Outcome       = *Inconclusive
+*Leads into the [[Battle of the Camps]]
+| Factions1     = [[File:House Lannister.svg|30px|center|link=House Lannister]] [[House Lannister]]<br><br>Lannister bannermen
+| Factions2     = [[File:House Tully.svg|30px|center|link=House Tully]] [[House Tully]]<br><br>Tully bannermen
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = [[Knighthood|Ser]] [[Jaime Lannister]]
+| Leaders2      = [[Knighthood|Ser]] [[Edmure Tully]]
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = 30,000 Lannister soldiers
+| Participants2 = [[Riverrun]] garrison
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = 
+| Casualties2   = 
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Quote|Jaime smashed the Riverlords at the Golden Tooth, and now lays siege to Riverrun, Catelyn Stark's homeland.|Ser [[Kevan Lannister]]|The Pointy End}}
+A '''siege of Riverrun'''{{Ref|GOT108}} served as one of the opening engagements in the [[War of the Five Kings]], which erupted after the death of King [[Robert Baratheon]].
+
+==History==
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+After defeating the Riverlords at the [[Golden Tooth]], a [[House Lannister|Lannister]] host led by [[Jaime Lannister|Jaime]] pushes into the [[Riverlands]] to lay siege to [[Riverrun]], the ancestral seat of [[House Tully]].{{Ref|GOT108}}
+
+The Lannister host keeps laying siege on Riverrun, until part of it (led by Jaime) is lured away and defeated in the [[Battle of Whispering Wood]], while the remaining Lannister force is defeated at the [[Battle of the Camps]].<ref>War of the Five Kings feature</ref>{{Cite}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, after his victory at the Golden Tooth, Jaime pushes into the Riverlands, though [[Edmure Tully]] assembles a host to defend his family seat. Edmure is defeated and taken hostage along with several other Riverlords, but Tytos Blackwood manages to escape and take refuge in Riverrun, and thereafter resists until the castle is finally liberated at the [[Battle of the Camps]]. Edmure is also later freed after the Lannister camp is overrun during the aforementioned battle.
+
+According to [[Brynden Tully]], Jaime's host consists of 12,000 foot, and 2,000-3,000 cavalry (about half of its number in the show). While besieging Riverrun, the Blackfish raids Jaime's troops, prompting him to take only 3/4 of his cavalary (1,500-2,250) to chase the raiders and leave the rest of his troops at Riverrun, which turns to be [[Battle of Whispering Wood|a serious mistake]].
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|Battle under the walls of Riverrun}}
+
+<!--Navboxes-->
+{{War of the Five Kings}}
+
+<!--Categories-->
+[[Category:298 AC]]
+[[Category:Sieges|Riverrun]]
+[[Category:War of the Five Kings]]
+
+<!--Languages-->
+[[de:Belagerung von Schnellwasser]]
+[[fr:Siège de Vivesaigues]]
+[[pt-br:Cerco a Correrrio]]
+[[ru:Первая осада Риверрана]]

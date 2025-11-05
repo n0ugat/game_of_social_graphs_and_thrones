@@ -1,0 +1,34 @@
+{{DISPLAYTITLE:The Bells {{C|''The Game Revealed''}}}}
+{{Episode
+| Title    = The Bells
+| Type     = Revealed
+| Image    = TGR805.jpg
+| Season   = 8
+| Episode  = 5
+| Date     = May 13, 2019{{Listref|TGR78}}
+| Runtime  = 33 minutes{{Appleref|TGR805}}
+| Writer   = 
+| Director = 
+| Year     = 
+| Previous = "[[The Last of the Starks (The Game Revealed)|The Last of the Starks]]"{{Listref|TGR}}
+| Next     = 
+}}
+"'''The Bells'''" is the fifth and final episode of the [[The Game Revealed: Season 8|third season]] of ''[[The Game Revealed]]''. It is the seventeenth and final episode of the series overall. It was released on May 13, 2019.
+
+==Description==
+{{Description|TGR805}}
+
+==Gallery==
+<gallery bordersize="none">
+Game of Thrones / Season 8 Episode 5 / Game Revealed (HBO)
+</gallery>
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{The Game Revealed}}
+
+<!--Categories-->
+[[Category:Episodes of The Game Revealed: Season 8| 05]]
+[[Category:Episodes released in 2019|5.13]]

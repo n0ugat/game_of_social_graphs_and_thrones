@@ -1,0 +1,75 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Lannister.svg
+| Link  = House Lannister
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Lannister
+| Image       = Tion Lannister.png
+| Birth       = [[Casterly Rock]]
+| Death       = 
+| House       = [[House Lannister|Lannister]]
+| Affiliation = 
+| Titles      = [[Knighthood|Ser]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Westerlands|Westermen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = {[[Ellyn Reyne]]}
+| Lovers      = 
+| Children    = 
+| Siblings    = {[[Tytos Lannister]]}<br>{[[Tywald Lannister]]}
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Lady Ellyn Reyne was betrothed to my great uncle, but when he fell in battle Lady Ellyn sought comfort in his twin brother's bed, beating out the other woman he had promised to marry.  Then the husband who had shared his twin's wife shared his twin's death on a different battlefield.|[[Jaime Lannister]]|The Rains of Castamere (Histories & Lore)}}
+Ser '''Tion Lannister''' was a [[Knighthood|knight]] of [[House Lannister]], the brother of [[Tytos Lannister|Tytos]] and [[Tywald Lannister]].
+
+==Biography==
+Following his brother [[Tywald Lannister|Tywald]]'s death in battle, Tion was seduced by his late brother's betrothed, Lady [[Ellyn Reyne]], despite the fact that he was already betrothed to another woman.{{Ref|H&L708}}
+
+==Family==
+{{Lannister tree}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Tion Lannister was the second-born son of Lord Gerold Lannister, "the Golden", and his second wife Lady Rohanne Webber. He was the [[squire]] for Prince [[Aegon Targaryen (son of Maekar)|Aegon Targaryen]] (who later became King Aegon V) during the Peake Uprising in 233 AC and became the heir to [[Casterly Rock]] when his brother [[Tywald Lannister|Tywald]] was killed in that conflict.
+
+Tion was betrothed to a daughter of [[House Rowan]], though following Tywald's death he was seduced by his late brother's betrothed, Lady [[Ellyn Reyne]]. She convinced him to marry her instead, and though Lord Gerold opposed the match, he allowed the betrothal to take place since Tywald had asked Tion to "take care of Lady Ellyn" with his dying words. They married at Casterly Rock in 235 AC, with his younger brother [[Tytos Lannister|Tytos]] marrying [[Jeyne Marbrand]] in the same ceremony.
+
+The Fourth Blackfyre Rebellion began in 236 AC, and though it was short lived and casualties were small, Tion was among the dead. Following his death, Ellyn lost a significant amount of power and influence. In an attempt to maintain it, she falsely claimed to be pregnant with Tion's child, which was exposed as a lie as months passed and her body showed no signs of pregnancy.
+
+==Appearances==
+*{{H&L|The Rains of Castamere}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Lannister}}
+
+<!--Categories-->
+{{DEFAULTSORT:Lannister, Tion}}
+[[Category:Individuals from Histories & Lore]]
+[[Category:Knights]]
+[[Category:Members of House Lannister|Tion Lannister]]
+[[Category:Westermen]]
+
+<!--Languages-->
+[[de:Tion Lennister]]
+[[es:Tion Lannister]]
+[[fr:Tion Lannister]]
+[[nl:Tion Lannister]]
+[[ru:Тион Ланнистер]]
+[[zh:提恩·兰尼斯特]]

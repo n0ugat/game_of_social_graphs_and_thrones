@@ -1,0 +1,92 @@
+{{Short
+| Title    = The History of the<br>Night's Watch -<br><small>House Stark</small>
+| Type     = Lore
+| Image    = H&L105.png
+| Season   = 1
+| Short    = 5
+| Date     = March 6, 2012{{Webref|name=Blu-ray |author=Jacob Klein |date=March 4, 2012 |url=https://hbowatch.com/game-of-thrones-dvd-blu-ray-available-56/ |title=Game of Thrones DVD & Blu-Ray Available 3/6! |website=HBO Watch |access-date=December 15, 2023 }}
+| Runtime  = 3 minutes{{Ref|H&L105}}
+| Narrator = [[Luwin]]{{Boxref|GOT1}}
+| Writer   = [[Bryan Cogman]]{{Webref|name=Cogman |author=Dan Selcke |date=September 20, 2017 |url=https://winteriscoming.net/2017/09/20/bryan-cogman-is-developing-a-fifth-game-of-thrones-prequel-series-for-hbo/ |title=Bryan Cogman is developing a fifth Game of Thrones prequel series for HBO |website=Winter is Coming |access-date=December 14, 2023 }}
+| Director = 
+| Previous = "[[The History of the Night's Watch - The Night's Watch]]"{{Boxref|GOT1}}
+| Next     = "[[The History of the Night's Watch - House Lannister]]"{{Boxref|GOT1}}
+}}
+"'''The History of the Night's Watch - House Stark'''"{{Boxref|GOT1}} is the fifth short of the [[Histories & Lore: Season 1|first season]] of ''[[Histories & Lore]]''. It is the fifth short of the series overall. It was released on March 6, 2012 in ''[[Game of Thrones: The Complete First Season]]''. It was narrated by [[Donald Sumpter]] as [[Luwin]] and written by [[Bryan Cogman]].
+
+==Premise==
+{{Premise|H&L105}}
+
+==Narration==
+'''Luwin''': ''Joining the [[Night's Watch]], or "taking the black," is a singular honor for any [[Northmen|northerner]]. For it was in the [[North]], some 8,000 years ago, that the [[First Men]] drove back the [[White Walkers]], erected the [[Wall]], and established the sworn brotherhood that would guard the realm and its people from the dangers beyond.''
+
+''Regrettably, the Night's Watch no longer commands the widespread respect and admiration it once did. While [[House Stark]] and other houses in the northern regions continue to recognize its vital importance to the safety and stability of the realm, this view is not shared by the powerful houses of the southern kingdoms, or their subjects. Most regard the Watch as a misguided, obsolete order made up of useless outcasts.''
+
+''Admittedly, the current Night's Watch is a shadow of its former glory. Their numbers have dwindled to less than a thousand. Of the nineteen castles along the Wall, only three are functional: the [[Shadow Tower]], [[Castle Black]], and [[Eastwatch-by-the-Sea]]. And the Watch's mandate of adding to the Wall has been abandoned entirely. There are barely enough resources to maintain it.''
+
+''Recruiting officers—known as [[wandering crow]]s—scour the dungeons and slums of the realm in hope of finding men to fill the ranks. While there is still the occasional highborn volunteer, the newest recruits are almost entirely made up of lowly criminals—thieves, rapists, and murderers—sentenced to the Wall as punishment for their crimes.''
+
+''The decline of this once-fabled order is troubling, as the danger it guards against is all too real. While the White Walkers haven't been seen or heard from in ages, and may very well be the stuff of myth, barbarian tribes that dwell beyond the Wall—known as "wildlings"—have been a menace to the North and its people for generations.''
+
+''At certain points in history, the disparate wildling tribes have united behind a single leader—a [[King-Beyond-the-Wall]]—and attempted large-scale attacks against the realm. But, thanks to the resourceful and courageous men of the Night's Watch, these so-called kings were soundly defeated.''
+
+''While many have lost faith in the Night's Watch, the people of the North are steadfast in their belief that the black brothers will answer the call of duty. But with [[Westeros#Climate and seasons|winter]] coming, diminished numbers, and a lack of widespread support, will they be ready?''
+
+==Appearances==
+===Institutions===
+*[[Night's Watch]]
+**[[Wandering crow]]
+
+===Houses===
+*[[House Stark]]
+
+===Locations===
+*[[North]]
+**[[Wall]]
+***[[Shadow Tower]]
+***[[Castle Black]]
+***[[Eastwatch-by-the-Sea]]
+**[[Bay of Seals]]
+*[[Beyond the Wall]]
+**[[Frostfangs]]
+
+===Cultures===
+*[[Northmen]]
+*[[First Men]]
+*[[Free Folk]]
+
+===Races===
+*[[White Walkers]]
+
+===Titles===
+*[[King-Beyond-the-Wall]]
+
+==Cast==
+*[[Donald Sumpter]] as [[Luwin]]
+
+==Behind the scenes==
+*This is the second of three shorts on the history of the [[Night's Watch]].
+
+==Gallery==
+<gallery bordersize="none">
+The History of the Night's Watch - House Stark
+</gallery>
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{Histories & Lore}}
+
+<!--Categories-->
+{{DEFAULTSORT:History of the Night's Watch - House Stark, The}}
+[[Category:Shorts narrated by Luwin]]
+[[Category:Shorts of Histories & Lore: Season 1| 05]]
+[[Category:Shorts on the history of the Night's Watch|Stark, House]]
+[[Category:Shorts released in 2012|3.06E]]
+[[Category:Shorts written by Bryan Cogman]]
+
+<!--Languages-->
+[[de:Die Geschichte der Nachtwache (Gesamtführer durch Westeros)]]
+[[pt-br:A História da Patrulha da Noite]]
+[[fr:L'Histoire de la Garde de Nuit (Histoires & Traditions)]]

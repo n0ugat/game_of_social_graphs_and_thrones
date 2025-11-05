@@ -1,0 +1,86 @@
+{{SameName|short|guild of assassins|Faceless Men}}
+{{Short
+| Title    = {{PAGENAME}}
+| Type     = Lore
+| Image    = H&L505.png
+| Season   = 5
+| Short    = 5
+| Date     = March 15, 2016{{Webref|name=Blu-ray |author=HBOWatch Staff |date=October 7, 2015 |url=https://hbowatch.com/game-of-thrones-season-5-available-in-blu-ray-dvd-march-15-2016/ |title=Game of Thrones Season 5 Available on Blu-ray, DVD March 15, 2016 |website=HBO Watch |access-date=December 15, 2023 }}
+| Runtime  = 3 minutes{{Ref|H&L505}}
+| Narrator = [[Tycho Nestoris]]{{Boxref|GOT5}}
+| Writer   = [[Dave Hill]]{{Webref|name=Hill |author=Vanessa Cole |date=July 22, 2017 |url=https://web.archive.org/web/20201111213241/https://watchersonthewall.com/game-thrones-writer-dave-hill-gives-behind-scenes-look-creative-process/ |title=Game of Thrones writer Dave Hill gives a behind the scenes look at the creative process |website=Watchers on the Wall |access-date=December 15, 2023 }}
+| Director = 
+| Previous = "[[Braavos (short)|Braavos]]"{{Boxref|GOT5}}
+| Next     = "[[Winterfell (Histories & Lore)|Winterfell]]"{{Boxref|GOT5}}
+}}
+"'''The Faceless Men'''"{{Boxref|GOT5}} is the fifth short of the [[Histories & Lore: Season 5|fifth season]] of ''[[Histories & Lore]]''. It is the eightieth short of the series overall. It was released on March 15, 2016 in ''[[Game of Thrones: The Complete Fifth Season]]''. It was narrated by [[Mark Gatiss]] as [[Tycho Nestoris]] and written by [[Dave Hill]].
+
+==Premise==
+{{Premise|H&L505}}
+
+==Narration==
+'''Tycho Nestoris''': ''Who are the [[Faceless Men]]? It depends on who is asking. To a penitent, they may be relief. To a victim, they may be vengeance. To a lord, they may be an incredible expense. And to the [[Iron Bank of Braavos|Iron Bank]], they may be just another asset.''
+
+''Nobody but the Faceless Men know their origin, but the order is rumored to predate the founding of [[Braavos]]. We know only that they reside in, or are somehow aligned with, the [[House of Black and White]], that odd and lonely building where few who enter ever leave.''
+
+''Some whisper that those [[weirwood]] doors open not on a house but onto the world of the dead, from whence the Faceless Men rise when summoned.''
+
+''We can dismiss such foolishness as we do the fishwives who spread it.''
+
+''The House of Black and White is merely a temple consecrated to the [[Many-Faced God]] and filled with statuary of his many faces: The [[Old Gods]] of [[Westeros]], the [[Lord of Light]], the [[Black Goat]], the [[Lion of Night]], the [[Weeping Lady]], the [[Stranger]].''
+
+''Perhaps now you understand what is worshipped here, and, along with them, other gods whom none alive now recognize, brought there long ago by sailors who never came again.''
+
+''Unlike the priests of other religions, the servants there preach no sermons and perform no ceremonies. As far as one can see, silence and solitude form the whole of their worship, as well as collecting the occasional devotee.''
+
+''If one wants to engage a Faceless Man, one visits the House of Black and White and pays the price. As for what that may be, those who have paid it rarely speak of it.''
+
+''For make no mistake. From the moment the Faceless Men accept your offer, the man you named is dead, though he does not know it.''
+
+''Perhaps not that day, perhaps not that year, but soon and inevitably. Many would say you are as much his murderer as if you'd swung the axe yourself. Just as many would say, that's the point.''
+
+==Appearances==
+===Institutions===
+*[[Faceless Men]]
+*[[Iron Bank of Braavos]] {{Mentioned}}
+
+===Locations===
+*[[Braavos]]
+**[[House of Black and White]]
+*[[Westeros]] {{Mentioned}}
+
+===Religions===
+*[[Old Gods]]
+*[[Lord of Light]]
+*[[Black Goat]]
+*[[Lion of Night]]
+*[[Weeping Lady]]
+*[[Stranger]]
+
+===Miscellaneous===
+*[[Weirwood]]
+
+==Cast==
+*[[Mark Gatiss]] as [[Tycho Nestoris]]
+
+==Gallery==
+<gallery bordersize="none">
+The Faceless Men
+</gallery>
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{Histories & Lore}}
+
+<!--Categories-->
+{{DEFAULTSORT:Faceless Men, The}}
+[[Category:Shorts narrated by Tycho Nestoris]]
+[[Category:Shorts of Histories & Lore: Season 5| 05]]
+[[Category:Shorts released in 2016|3.15E]]
+[[Category:Shorts written by Dave Hill]]
+
+<!--Languages-->
+[[fr:Les Sans-Visage (Histoires & Traditions)]]
+[[pt-br:Os Homens Sem Rosto]]

@@ -1,0 +1,31 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Steve Cash.jpg
+| Birth   = 
+| Death   = 
+| Role    = [[Loyal Night's Watch man 1|Loyal Night's Watch man]]
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 6|6]]
+| Credits = 2 episodes {{Below|Credits}}
+| First   = "[[The Red Woman]]"
+| Last    = "[[Home]]"
+}}
+'''Steve Cash''' is an Irish actor. He has appeared in television series such as ''{{WPS|Fair City}}'', ''{{WPS|Titanic: Blood and Steel}}'' and ''{{WPS|Ripper Street}}''.
+
+In ''[[Game of Thrones]]'', he portrayed a [[Loyal Night's Watch man 1|loyal Night's Watch man]] in [[Game of Thrones: Season 6|Season 6]].
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 6|yes|yes}}
+
+==See also==
+*{{IMDb
+|# = 3524836}}
+*{{Vimeo
+|# = user15332056}}
+
+==References==
+{{Reflist}}
+{{DEFAULTSORT:Cash, Steve}}
+[[Category:Guest starring cast members of Game of Thrones]]

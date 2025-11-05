@@ -1,0 +1,37 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Crownlander
+| Image        = Street of Looms.png
+| Type         = Street
+| Status       = 
+| Location     = [[King's Landing]], the [[Crownlands]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = 
+| Places       = 
+| Founded      = 
+}}
+{{Quote|Without the Street of Looms, the king would go naked, and without the Street of Silk, he wouldn't enjoy it.|[[Varys]]|King's Landing (short)}}
+The '''Street of Looms'''{{Ref|H&L801}} is a street in [[King's Landing]] known for its tailors.<ref>"[[King's Landing (short)|King's Landing]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, [[Tyrion Lannister|Tyrion]] sees a naked corpse being torn apart by feral dogs in a gutter near the Street of Looms, when he arrives in King's Landing to serve as [[Hand of the King]] in [[Tywin Lannister|his father]]'s absence.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Crownlands}}
+
+<!--Categories-->
+[[Category:King's Landing]]
+[[Category:Streets|Looms]]
+
+<!--Languages-->
+[[ru:Улица Ткачей]]

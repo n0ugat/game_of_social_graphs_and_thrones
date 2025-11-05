@@ -1,0 +1,28 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Stewart Lockwood.jpg
+| Birth   = 
+| Death   = 
+| Role    = King's Landing peasant
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]]
+| Credits = "[[Rhaenyra the Cruel]]"
+| First   = 
+| Last    = 
+}}
+'''Stewart Lockwood''' is an actor. He has appeared in the film ''{{WPS|How to Talk to Girls at Parties (film)|How to Talk to Girls at Parties}}'' and the television series ''{{WPS|Doctors (2000 TV series)|Doctors}}'' and ''{{WPS|Guerrilla (TV series)|Guerrilla}}''. 
+
+Lockwood plays a King's Landing peasant in the [[House of the Dragon: Season 2|second season]] of ''[[House of the Dragon]]''.
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 2||yes}}
+
+==External links==
+*{{IMDb|# = 3935034}}
+*{{Linkedin|# = /in/stewart-lockwood-683ba050}}
+
+<!--Categories-->
+{{DEFAULTSORT:Lockwood, Stewart}}
+[[Category:Co-starring cast members of House of the Dragon]]

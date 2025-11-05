@@ -1,0 +1,63 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Bolton
+| Image       = Simpson.jpg
+| Birth       = 
+| Death       = [[302 AC]]{{Dateref|Game of Thrones: Season 5}}<br>The [[North]]{{Ref|GOT510}}
+| House       = 
+| Affiliation = [[House Bolton]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Northmen|Northern]]
+| Religion    = [[Old Gods]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 5|5]]
+| Appearances = "[[Mother's Mercy]]"
+| First       = 
+| Last        = 
+| DeathEp     = "Mother's Mercy"
+| Actor       = [[Laurence O'Fuarain]]
+}}
+'''Simpson'''<ref>[https://assets.scriptslug.com/live/pdf/scripts/game-of-thrones-510-mothers-mercy-2015.pdf Ep 510 Mother's Mercy - D Benioff and D.B. Weiss]</ref> was a common man-at-arms sworn to [[House Bolton]]. He was garrisoned at [[Winterfell]].
+
+==Biography==
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+Simpson takes part in the [[battle in the ice]].{{Ref|GOT510}}
+
+After the battle, he and another [[Gordy|Bolton soldier]] encounter a wounded [[Stannis Baratheon]] in the forest. They attack him; Simpson manages to cut his leg, but they are promptly slain.{{Ref|GOT510}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no such character.
+
+==Appearances==
+*{{GOT|Mother's Mercy}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{House Bolton}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Men-at-arms]]
+[[Category:Northmen]]
+[[Category:Servants and retainers of House Bolton]]
+[[Category:Smallfolk]]
+
+<!--Languages-->
+[[fr:Simpson]]
+[[ro:Simpson]]
+[[ru:Симпсон]]

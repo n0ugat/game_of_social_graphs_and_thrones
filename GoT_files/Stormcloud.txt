@@ -1,0 +1,61 @@
+{{Canonicity|Canon}}
+{{Animal
+| Title       = {{PAGENAME}}
+| Type        = Targaryen
+| Image       = Stormcloud.png
+| Species     = [[Dragon]]
+| Birth       = 
+| Death       = 
+| AKA         = 
+| Affiliation = [[Aegon Targaryen (son of Rhaenyra)|Aegon Targaryen]]
+| Family      = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 2|2]]
+| Appearances = 2 episodes {{Below|Appearances}}
+| First       = "[[The Burning Mill]]" {{Heard}}
+| Last        = 
+| DeathEp     = 
+}}
+{{Quote|I have hunting hounds that are more fearsome.|Jeyne Arryn on Stormcloud|Regent (episode)}}
+'''Stormcloud''' is a [[dragon]] bred by [[House Targaryen]]. He is bonded to [[Aegon Targaryen (son of Rhaenyra)|Aegon the Younger]].
+
+==Biography==
+===[[House of the Dragon: Season 2|''House of the Dragon'': Season 2]]===
+[[File:Stormcloud in a kennel carried by Dragonkeepers 25.png|thumb|Rhaenyra, Jace, Baela, Rhaena and Stormcloud in a kennel carried by Dragonkeepers.]]
+Stormcloud, alongside [[Tyraxes]], is transported inside a kennel carried by [[Dragonkeepers]] as he and Aegon prepare to depart for the [[Eyrie]] to secure [[Rhaenyra Targaryen|Rhaenyra]]'s alliance with [[House Arryn]].{{Ref|HOTD203}} Lady [[Jeyne Arryn]] is discontent, claiming the two dragons are too small.{{Ref|HOTD205}}
+
+Stormcloud sits next to Aegon while he and [[Viserys Targaryen (son of Rhaenyra)|Viserys]] are playing with their toys.{{Ref|HOTD206}}
+
+==In the books==
+In ''[[Fire & Blood]]'', Stormcloud was one of the youngest dragons, too small to ride when the Dance began. He bonded with Aegon the Younger and accompanied him when he was sent away from Dragonstone.
+
+==Appearances==
+*{{TDOD}} {{Illustrated}}
+*{{HOTD|The Burning Mill}} {{Heard}}
+*{{HOTD|Regent}} {{Indirect}}
+*{{HOTD|Smallfolk}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{Dragons/House of the Dragon}}
+
+<!--Categories-->
+[[Category:Blacks]]
+[[Category:Dragons of House Targaryen]]
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Individuals from The Dance of Dragons]]
+
+<!--Languages-->
+[[de:Sturmwolke]]
+[[es:Borrasca]]
+[[fr:Nuée d'Orage]]
+[[nl:Stormwolk]]
+[[pl:Chmura]]
+[[ru:Грозовое Облако]]
+[[uk:Штормохмар]]
+[[zh:暴云]]

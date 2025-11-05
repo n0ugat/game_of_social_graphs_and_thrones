@@ -1,0 +1,82 @@
+{{Short
+| Title    = {{PAGENAME}}
+| Type     = Lore
+| Image    = H&L101.png
+| Season   = 1
+| Short    = 1
+| Date     = March 6, 2012{{Webref|name=Blu-ray |author=Jacob Klein |date=March 4, 2012 |url=https://hbowatch.com/game-of-thrones-dvd-blu-ray-available-56/ |title=Game of Thrones DVD & Blu-Ray Available 3/6! |website=HBO Watch |access-date=December 15, 2023 }}
+| Runtime  = 3 minutes{{Ref|H&L101}}
+| Narrator = [[Bran Stark]]{{Boxref|GOT1}}
+| Writer   = [[Bryan Cogman]]{{Webref|name=Cogman |author=Dan Selcke |date=September 20, 2017 |url=https://winteriscoming.net/2017/09/20/bryan-cogman-is-developing-a-fifth-game-of-thrones-prequel-series-for-hbo/ |title=Bryan Cogman is developing a fifth Game of Thrones prequel series for HBO |website=Winter is Coming |access-date=December 14, 2023 }}
+| Director = 
+| Previous = 
+| Next     = "[[The Age of Heroes]]"{{Boxref|GOT1}}
+}}
+"'''The Children of the Forest, the First Men, and the Andals'''"{{Boxref|GOT1}} is the first short of the [[Histories & Lore: Season 1|first season]] of ''[[Histories & Lore]]''. It is the first short of the series overall. It was released on March 6, 2012 in ''[[Game of Thrones: The Complete First Season]]''. It was narrated by [[Isaac Hempstead-Wright]] as [[Bran Stark]] and written by [[Bryan Cogman]].
+
+==Premise==
+{{Premise|H&L101}}
+
+==Narration==
+'''Bran Stark''': ''In the [[Dawn Age]] of [[Westeros]], before the coming of man and the raising of castles and cities, there were only the [[Children of the Forest]]. Little is known of them now, but it is said they were small in stature, dark and beautiful, and no taller than children when grown to adulthood. They lived in the depths of forests in hidden villages, crannogs and caves. They hunted with weirwood bows and armed themselves with blades of [[Dragonglass|obsidian]]. Their wise men were called [[Greenseer]]s and possessed a powerful [[magic]]. They worshipped nameless, [[Old Gods|faceless gods]] of the forest, stream and stone. According to legend, it was they who carved faces in the great white trunks of the majestic [[Weirwood|weirwoods]], their deep-cut eyes red with sap and ever watchful.''
+
+''Twelve thousand years ago, the [[First Men]] came from the [[Essos|eastern continent]], crossing a land-bridge called the [[Arm of Dorne]]. Riding their great horses and wielding weapons of bronze, they cut down the Children's forests and weirwoods. A [[War of the First Men and the Children of the Forest|terrible war]] raged between the Children and the First Men that lasted for centuries. At long last, the two races sorted an end to the years of horror and bloodshed. They met on a small island, at the center of a great lake called the [[Gods Eye]]. It was there they forged the [[Pact]]. The First Men would be granted dominion over the coastland, the mountains, the highplains and the bogs, but the deep forest would forever belong to the Children and no weirwood tree would ever again fall to men's axe. To seal the Pact before the gods, the Children carved a face in every weirwood tree on the island, which came to be known as the [[Isle of Faces|Island of Faces]].''
+
+''But the Pact could not withstand the [[coming of the Andals]] - a race of tall, fair-haired warriors. They attacked with fire and weapons of steel, slaughtering the Children of the Forest wherever they could find them, burning out their weirwood groves, hacking away at the faces of the Old Gods, and spreading [[Faith of the Seven|their own religion]] through the land. Centuries of war followed, and the Andals conquered every kingdom in [[Westeros]], save one - the [[North]]. The [[King in the North|Kings of Winter]] were able to withstand the Andal Invasion. The [[Northmen|descendents]] of the First Men dwell there to this day and continue to worship the Old Gods. As for the Children of the Forest, those who survived the slaughter were said to have fled [[Beyond the Wall|far north]] and have not been seen again. Most assume they’re long dead, and some don’t believe they ever existed. They live on only through song and legend, and in the faces of the weirwood trees.''
+
+==Appearances==
+===​Locations===
+*​[[Westeros]]
+**​The [[Riverlands]]
+***​[[Isle of Faces]]
+***​[[Gods Eye]]
+**​The [[North]]​
+*[[North]]
+*[[Beyond the Wall]]​
+*[[Arm of Dorne]]
+*​[[Essos]]​​
+===​Events===
+*​[[Dawn Age]]​
+*[[War of the First Men and the Children of the Forest]]
+*The [[Pact]]
+*[[Coming of the Andals]]
+===Cultures===
+*[[First Men]]
+**[[Northmen]]
+*[[Andals]]
+===Races===
+*​[[Children of the Forest]]
+===Religions===
+*[[Old Gods]]
+*[[Faith of the Seven]]
+===​Miscellaneous===
+*[[Weirwood]]
+*[[Dragonglass|Obsidian]]
+*[[Greenseer]]
+*[[King in the North]]
+
+==Cast==
+*[[Isaac Hempstead-Wright]] as [[Bran Stark]]
+
+==Gallery==
+<gallery bordersize="none">
+The Children of the Forest, the First Men, and the Andals
+</gallery>
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{Histories & Lore}}
+
+<!--Categories-->
+{{DEFAULTSORT:Children of the Forest, the First Men, and the Andals, The}}
+[[Category:Shorts narrated by Bran Stark]]
+[[Category:Shorts of Histories & Lore: Season 1| 01]]
+[[Category:Shorts released in 2012|3.06A]]
+[[Category:Shorts written by Bryan Cogman]]
+
+<!--Languages-->
+[[de:Die Kinder des Waldes, Die Ersten Menschen und die Andalen (Gesamtführer durch Westeros)]]
+[[fr:Les Enfants de la Forêt, les Premiers Hommes et les Andals (Histoires & Traditions)]]
+[[pt-br:Os Filhos da Floresta, os Primeiros Homens e os Ândalos]]

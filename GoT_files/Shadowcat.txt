@@ -1,0 +1,46 @@
+{{Canonicity|Canon}}
+{{SameName|animal|constellation|Shadowcat (constellation)}}
+{{Species
+| Title   = {{PAGENAME}}
+| Theme   = Westeros
+| Image   = 
+| Type    = Mammal
+| Status  = Active
+| Diet    = Carnivore
+| Habitat = Mountains<br>Forests
+| Range   = [[Beyond the Wall]], the [[Mountains of the Moon]] in the [[Vale of Arryn|Vale]], and other major mountain ranges in [[Westeros]]
+| Origin  = 
+}}
+{{Quote|The [[hill tribes]] would kill me for my boots, unless a shadowcat ate me first.|[[Tyrion Lannister]]|The Wolf and the Lion}}
+'''Shadowcats'''{{Ref|GOT105}} are a large feline apex predator found in [[Westeros]].
+
+==Range==
+Shadowcats are found in northern Westeros, with larger populations in the lightly inhabited forests of the lands [[beyond the Wall]].<ref>"[[You Win or You Die]]"</ref> However, they are not limited to the lands of the [[North]] above the [[Neck]]. They are frequently found in wild mountainous areas, with particularly large populations of shadowcats in the inaccessible areas of the [[Mountains of the Moon]] in the [[Vale of Arryn]]. They are a frequent danger for travelers on the [[Eastern Road]], crossing over the mountains into the Vale.<ref>"[[The Wolf and the Lion]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, shadowcats have no direct analogue to any real-life species of Big Cat, although they are not quite as remarkable as [[Direwolf|direwolves]]. Author [[George R.R. Martin]] has stated that while shadowcats are bigger than cougars, they are not as big as tigers.<ref>[https://www.westeros.org/Citadel/SSM/Entry/Shadowcats_and_Clegane_Lands/ So Spake Martin, March 7, 2007]</ref> Shadowcats have thick black fur with white stripes.
+
+Shadowcats are apparently not as large as [[lion]]s either. Lions used to inhabit much of Westeros, particularly the hills of the [[Westerlands]], but they were hunted practically to the point of extinction by humans in recent centuries. At one point it is lamented that large animals like direwolves and lions have been pushed out of most of Westeros by human encroachment, which would indicate that shadowcats aren't as large as lions.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Animals and plants}}
+
+<!--Categories-->
+[[Category:Animals]]
+
+<!--Languages-->
+[[de:Schattenkatze]]
+[[es:Gatosombra]]
+[[fr:Lynx-de-fumée]]
+[[nl:Schaduwkatten]]
+[[pl:Cieniokot]]
+[[pt-br:Gatos das sombras]]
+[[ru:Сумеречные коты]]
+[[vi:Miêu Ảnh]]
+[[zh:影子山猫]]

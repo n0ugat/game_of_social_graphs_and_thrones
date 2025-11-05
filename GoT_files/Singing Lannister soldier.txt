@@ -1,0 +1,58 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Lannister
+| Image       = Singing Lannister soldier.png
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[House Lannister]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Westeros|Westerosi]]
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 2|2]]
+| Appearances = "[[Blackwater]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Stephen Swift]]
+}}
+{{Quote|Where did you learn the Lannister song?|The soldier to [[Bronn]]|Blackwater}}
+A '''singing Lannister soldier''' is a knight in service to [[House Lannister]].
+
+==Biography==
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+He is drinking with [[Bronn]] prior to the [[Battle of the Blackwater]]. They sing "[[The Rains of Castamere]]" together and he asks how Bronn knows the Lannister song. Bronn says that he learned it from drunk Lannisters. He remains for the awkward face off between Bronn and [[Sandor Clegane|the Hound]]. He rushes to the [[River Gate]] when the bells sound the call to arms.{{Ref|GOT209}}
+
+He is part of the sortie led by the Hound to repel the attackers. He survives the fighting and takes the water that the Hound refuses afterwards. When [[Tyrion Lannister|Tyrion]] tries to rally the men for another sortie, he protests that the gate is the only way out, and [[Stannis Baratheon|Stannis]]'s men are already at the gate. Tyrion explains that he is going to show them another way out. He is not seen after the fighting begins.{{Ref|GOT209}}
+
+==Gallery==
+<gallery>
+Bronn singing.jpg|Bronn singing with the Lannister soldiers in "[[Blackwater]]"
+</gallery>
+
+==Appearances==
+*{{GOT|Blackwater}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Men-at-arms]]
+[[Category:Servants and retainers of House Lannister]]
+[[Category:Westermen]]
+
+<!--Languages-->
+[[ru:Солдат Ланнистеров]]

@@ -1,0 +1,88 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Lannister
+| Image       = Tickler.png
+| Birth       = The [[Westerlands]]
+| Death       = [[299 AC]]{{Dateref|Game of Thrones: Season 2}}<br>[[Harrenhal]]
+| House       = 
+| Affiliation = [[House Clegane]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Westerlands|Westermen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 2|2]]
+| Appearances = 2 episodes {{Below|Appearances}}
+| First       = "[[Garden of Bones (episode)|Garden of Bones]]"
+| Last        = "[[The Ghost of Harrenhal]]"
+| DeathEp     = "The Ghost of Harrenhal"
+| Actor       = [[Anthony Morris]]
+}}
+{{Quote|Where is the Brotherhood?|The Tickler|Garden of Bones (episode)}}
+The '''Tickler''' was a [[man-at-arms|soldier]] serving under Ser [[Gregor Clegane]] who specialized in interrogation and torture techniques.
+
+==Biography==
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+After [[Arya Stark|Arya]], [[Gendry Baratheon|Gendry]] and [[Hot Pie]] are imprisoned at [[Harrenhal]], which has been taken over by the [[House Lannister|Lannister]] army, they hear the agonized screams of a prisoner being tortured to death by the Tickler. The prisoner's mother reveals that each day a prisoner is chosen to be tortured and killed, and that her daughter and husband had died in this manner. The following day, another villager is selected by Gregor Clegane. The Tickler has the prisoner strapped and a bucket with a rat inside put over his chest. He interrogates the prisoner about hidden gold, jewels and the whereabouts of the [[Brotherhood Without Banners]] and which villagers are helping them. When the prisoner denies knowledge, the Tickler has [[Weasel]] heat the bucket with fire to make the rat claw its way through the prisoner's chest. After a short time, the prisoner denounces a butcher named [[Ganes]] and his son. The Tickler callously thanks him but continues with the torture, killing the prisoner.{{Ref|GOT204}}
+
+The next day, it is Gendry who is chosen and the Tickler goes through the same process again, but Gendry is saved when [[Tywin Lannister|Tywin]] arrives and decides it's wasteful to kill able-bodied workers.{{Ref|GOT204}}
+
+[[File:The_Tickler_dead.png|thumb|The Tickler dead of a broken neck.]]
+[[Jaqen H'ghar]] wants to repay Arya for saving his life, when he was trapped in the burning wagon. He offers her three deaths as balance for the lives of himself, [[Rorge]] and [[Biter]]. The Tickler is the first man she names. Some time later Arya is talking to Gendry when they hear a scream. They run out of the forge to see the Tickler dead on the ground, his neck broken. Above him on the walkway, Arya sees Jaqen H'ghar. He places one finger up next to his cheek.{{Ref|GOT205}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the Tickler is an associate of Ser [[Gregor Clegane]] and serves in his band of man-at-arms alongside [[Polliver]], Chiswyck, Raff "the Sweetling", Dunsen and others known as the ''Mountain's men''. His face is so ordinary and his garb so plain that Arya might have thought him one of the villagers before she had seen him at his work. His real name is not revealed.
+
+The torturing takes place during stops on the forced march to Harrenhal, not at Harrenhal itself. Sometimes Chiswyck assists the Tickler with the torturing, sometimes others of the Mountain's men. Every day the Tickler picks people at random from the captives (but not Gendry). He always asks them the same questions:
+
+*Was there gold hidden in the village? Silver, gems?
+*Was there more food?
+*Where was Lord [[Beric Dondarrion]]?
+*Which of the village folk had aided him?
+*When he rode off, where did he go?
+*How many men were with them? How many knights, how many bowmen, how many men-at-arms?
+*How were they armed? How many were horsed? How many were wounded?
+*What other enemy had they seen? How many? When? What banners did they fly? Where did they go?
+
+None of the tortured captives survive the Tickler's interrogation. The strongest last past evenfall. Their bodies are hung beyond the fires for the wolves. The answers they give are contradictory: that Beric had ten starvelings with him, or else a hundred mounted knights; that he had ridden west, or north, or south; that he had crossed the lake in a boat; that he was strong as an aurochs, or weak from the bloody flux, etc. - but the Tickler does not seem to care. The Tickler's great cruelty is that he ''knows'' that nearly all of the people he tortures are being honest when they say they have no more gold, and that they know nothing about the Brotherhood, but he tortures them to death anyway simply because he can.
+
+Tywin does not come to Harrenhal while the Tickler is there, but until later. Unlike his television counterpart, he is not killed by Jaqen H'ghar; he leaves Harrenhal and his story continues in the books.
+
+In ''A Storm of Swords'', Arya and [[Sandor Clegane|the Hound]] encounter the Tickler, accompanied by [[Polliver]] and a [[House Sarsfield|Sarsfield]] squire, at the [[Inn at the Crossroads]]. During the [[Brawl in a tavern in the Riverlands|ensuing brawl]] Arya kills the Tickler by stabbing him repeatedly in the back; with every stab, she sarcastically screams the questions the Tickler used to ask his victims.{{Bookref|ASOS|74}}
+
+==Appearances==
+*{{GOT|Garden of Bones}}
+*{{GOT|The Ghost of Harrenhal}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Clegane}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Men-at-arms]]
+[[Category:Servants and retainers of House Clegane]]
+[[Category:Smallfolk]]
+[[Category:Westermen]]
+
+<!--Languages-->
+[[de:Der Kitzler]]
+[[fr:Titilleur]]
+[[ru:Щекотун]]

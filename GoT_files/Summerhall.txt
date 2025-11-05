@@ -1,0 +1,58 @@
+{{Canonicity|Canon}}
+{{Spoiler|AKOTSK}}
+{{Heraldry
+| Image = House Targaryen.svg
+| Link  = House Targaryen
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Targaryen
+| Image        =
+<gallery>
+BattleOfSummerhall.jpg|Appearance
+Summerhall Pin.png|Location
+</gallery>
+| Type         = Castle
+| Status       = Ruined
+| Location     = [[Dornish Marches]], the [[Stormlands]]
+| Population   = 
+| Rulers       = [[House Targaryen]]
+| Institutions = 
+| Military     = 
+| Religion     = 
+| Places       = 
+| Founded      = by {[[Daeron II Targaryen]]}
+}}
+'''Summerhall'''{{Ref|GOT103}} is a ruined castle in the [[Stormlands]], near the borders of both the [[Reach]] and [[Dorne]]. It was formerly the summer residence of [[House Targaryen]] and the third and newest of the holdings of that house, after [[Dragonstone]] and the [[Red Keep]] of [[King's Landing]].
+
+Summerhall was destroyed in a [[Fire of Summerhall|fire]] in [[258 AC]]. The fire killed King [[Aegon Targaryen (son of Maekar)|Aegon V]], his son Prince [[Duncan Targaryen|Duncan]], and his lifelong friend Ser [[Duncan the Tall]]. It is rumored to have been caused by an attempt to hatch [[dragon]] eggs.
+
+==History==
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+[[Robert Baratheon]] recounts that he killed his first man during the [[Battle of Summerhall]], a soldier of [[House Tarly]], during [[Robert's Rebellion]].{{Ref|GOT103}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Summerhall has special significance for several members of House Targaryen. King [[Daeron II Targaryen|Daeron II]] built it as a place of peace and relaxation away from court. His fourth son, Prince [[Maekar Targaryen|Maekar]], took full residence there as the Prince of Summerhall. Along with King Aegon V, and his son Prince Duncan the Small, many members of the Targaryen household died in the fire. Their deaths resulted in King Jaehaerys II inheriting the [[Iron Throne]]. However, the fire was said to have traumatized the new king, and he died young only two years later, leaving his son [[Aerys II Targaryen|Aerys]] as king. Summerhall was also the place where a dwarf woods witch known as the Ghost of [[High Heart]] prophesied that "a [[Prince That Was Promised|promised prince]]" would be born of the line of Aerys II and [[Rhaella Targaryen]].
+
+Aerys II's own son, Prince [[Rhaegar Targaryen]], was fascinated by the ruins of Summerhall. He was born there on the day that the fire took place; according to Barristan Selmy, he used to go there occasionally, with only his harp for company, and even the knights of the Kingsguard did not attend him there. He liked to sleep in the ruined hall, beneath the moon and stars, and whenever he came back he would bring a song.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|AKOTSK}}
+
+<!--Navboxes-->
+{{Stormlands}}
+
+<!--Categories-->
+[[Category:Castles of the Stormlands]]
+[[Category:House Targaryen]]
+[[Category:Ruins]]
+
+<!--Languages-->
+[[de:Sommerhall]]
+[[pl:Summerhall]]
+[[ru:Летний замок]]
+[[uk:Літній палац]]
+[[zh:盛夏厅]]

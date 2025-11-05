@@ -1,0 +1,90 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Lannister.svg
+| Link  = House Lannister
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Lannister
+| Image       = 
+| Birth       = At [[Casterly Rock]]
+| Death       = [[299 AC]]{{Dateref|Game of Thrones: Season 2}}<br>[[Oxcross]]
+| House       = [[House Lannister|Lannister]]
+| Affiliation = 
+| Titles      = [[Knighthood|Ser]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Westerlands|Westermen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = {[[Joanna Lannister]]}
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Using some vile sorcery, your brother fell on Stafford Lannister with an army of wolves. Thousands of good men were butchered.|Ser [[Lancel Lannister]] to [[Sansa Stark]]|Garden of Bones (episode)}}
+Ser '''Stafford Lannister''' was [[Tywin Lannister]]'s cousin. He was killed at the [[Battle of Oxcross]].
+
+==Biography==
+===Background===
+Stafford is the brother of [[Joanna Lannister]], Tywin's late wife, and the maternal uncle of [[Cersei Lannister|Cersei]], [[Jaime Lannister|Jaime]], and [[Tyrion Lannister|Tyrion]]. He is also a cousin of Tywin and [[Kevan Lannister|Kevan]].{{Ref|GOT204}}
+
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+Stafford is given the command over the new Lannister army, that was raised in the [[Westerlands]] to replace the troops which were destroyed in the [[Battle of Whispering Wood]].{{Ref|GOT204}}
+
+[[Robb Stark|Robb]]'s army sneaks through the mountains bordering the Westerlands, and ambushes Stafford's army at night in their own camp at [[Oxcross]]. Stafford's army of raw recruits is massacred, and he is killed.{{Ref|GOT204}}
+
+==Family==
+{{Lannister tree (lesser branch)}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Ser Stafford Lannister is the brother of Joanna Lannister. He and his sister were the children of Lord [[Tytos Lannister]]'s younger brother. Thus, both Joanna and Stafford were first cousins of Tywin and the main branch of the family.
+
+In his youth, Stafford and two more Lannisters were captured by [[Ellyn Reyne|Lady Tarbeck]] in retaliation for the imprisonment of [[Walderan Tarbeck|her husband]] by Tytos. She threatened to kill the captives if her husband would be harmed. Tywin suggested his father to send Lord Tarbeck back to his wife in three pieces, but the soft-hearted Tytos complied and returned Tarbeck unharmed in exchange for the three Lannisters.{{Bookref|ASOS|44}}
+
+Stafford dies in the Battle of Oxcross, killed by Lord [[Rickard Karstark]].{{Bookref|ACOK|32}} Both Jaime and [[Brynden Tully]] consider him a poor commander, as he didn't scout the area believing Robb was far away.{{Bookref|ACOK|7}}{{Bookref|ASOS|44}} Tyrion is also very critical of Stafford for his failure and getting himself killed, calling him "my mutton-headed uncle." Robb had been led by [[Grey Wind]] along a goat path and had thus bypasses fortified positions in order to attack undetected.
+
+The Lannister survivors regrouped at [[Lannisport]] under Ser Daven Lannister, Stafford's son and widely considered to be a more intelligent commander than his father. Daven wants to avenge his father, but Robb robs him of his vengeance by executing Rickard Karstark.{{Bookref|AFFC|33}}
+
+Jaime reacts indifferently when [[Catelyn Stark|Catelyn]] tells him about Stafford's death; he mentions that Cersei used to call him "Uncle Dolt".{{Bookref|ACOK|55}}
+
+==Appearances==
+*{{GOT|Garden of Bones}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Lannister}}
+
+<!--Categories-->
+{{DEFAULTSORT:Lannister, Stafford}}
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Knights]]
+[[Category:Members of House Lannister|Stafford Lannister]]
+[[Category:Westermen]]
+
+<!--Languages-->
+[[de:Steffert Lennister]]
+[[es:Stafford Lannister]]
+[[fr:Stafford Lannister]]
+[[it:Stafford Lannister]]
+[[nl:Steffert Lannister]]
+[[pl:Stafford Lannister]]
+[[ru:Стаффорд Ланнистер]]
+[[zh:史戴佛·兰尼斯特]]

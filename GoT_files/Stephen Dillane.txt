@@ -1,0 +1,48 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Stephen_Dillane_new.jpg
+| Birth   = Stephen John Dillane<br>March 27, 1957 {{Age|1957|3|27}}<br>Kensington, London, England
+| Death   = 
+| Role    = [[Stannis Baratheon]]
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 2|2]] {{*}} [[Game of Thrones: Season 3|3]] {{*}} [[Game of Thrones: Season 4|4]] {{*}} [[Game of Thrones: Season 5|5]]
+| Credits = 24 episodes {{Below|Credits}}
+| First   = "[[The North Remembers]]"
+| Last    = "[[Mother's Mercy]]"
+}}
+'''Stephen John Dillane''' (born 27 March 1957) is an English actor experienced with roles on both stage and screen. He is arguably best known for his Emmy-nominated performance as [[wikipedia:Thomas Jefferson|Thomas Jefferson]] in the [[HBO]] mini-series ''[[wikipedia:John Adams (miniseries)|John Adams]]''. He has also appeared as [[wikipedia:Leonard Woolf|Leonard Woolf]] in ''[[wikipedia:The Hours|The Hours]]'', [[wikipedia:Merlin|Merlin]] in ''[[wikipedia:King Arthur|King Arthur]]'' and [[wikipedia:Horatio (Hamlet)|Horatio]] in the [[wikipedia:Mel Gibson|Mel Gibson]]-starring version of ''[[wikipedia:Hamlet (1990 film)|Hamlet]]''. In 2001, he appeared in 'The Parole Officer' alongside [[Lena Headey]].
+
+His son, actor Frank Dillane, portrayed the teenage [[wikipedia:Lord Voldemort|Lord Voldemort]] in the film adaptation of ''[[wikipedia:Harry Potter and the Half-Blood Prince (film)|Harry Potter and the Half-Blood Prince]]''.
+
+In ''[[Game of Thrones]]'' Dillane played the role of [[Stannis Baratheon]]. He was announced in the role on 19 July 2011 and is part of the starring cast for the [[Game of Thrones: Season 2|second]], [[Game of Thrones: Season 3|third]], [[Game of Thrones: Season 4|fourth]], and [[Game of Thrones: Season 5|fifth]] seasons. Although he plays [[Robert Baratheon]]'s younger brother, Dillane is actually eight years older than [[Mark Addy]], who portrayed Robert.
+
+==Credits==
+===Starring===
+{{Game of Thrones: Season 2|yes|yes||yes|yes|||yes|yes|yes}}
+{{Game of Thrones: Season 3|yes||yes||yes||yes|||yes}}
+{{Game of Thrones: Season 4||yes|yes|||yes||||yes}}
+{{Game of Thrones: Season 5|yes|yes|yes|yes|yes||yes||yes|yes}}
+
+==See also==
+*{{WP}}
+*{{IMDb|# = 0226820}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{Game of Thrones}}
+{{Histories & Lore}}
+
+<!--Categories-->
+{{DEFAULTSORT:Dillane, Stephen}}
+[[Category:Cast members of Histories & Lore]]
+[[Category:Starring cast members of Game of Thrones]]
+
+<!--Languages-->
+[[de:Stephen Dillane]]
+[[fr:Stephen Dillane]]
+[[pl:Stephen Dillane]]
+[[pt-br:Stephen Dillane]]
+[[ru:Стивен Диллэйн]]

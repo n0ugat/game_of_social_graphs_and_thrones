@@ -1,0 +1,64 @@
+{{Canonicity|Non}}
+{{Heraldry
+| Image = House Baratheon.svg
+| Link  = House Baratheon
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Baratheon
+| Image       = AenysITargaryenHistoryAndLineages.png
+| Birth       = [[9 AC]]{{Dateref|Theresa Baratheon}}<br>[[Storm's End]], the [[Stormlands]]{{Ref|GOT106}}
+| Death       = 
+| House       = [[House Baratheon|Baratheon]]{{Ref|GOT106}}
+| Affiliation = 
+| Titles      = 
+| AKA         = 
+| Culture     = [[Stormlands|Stormlander]]{{Ref|GOT106}}
+| Religion    = 
+| Father      = {[[Orys Baratheon]]}{{Ref|GOT106}}
+| Mother      = {[[Argella Baratheon|Argella Durrandon]]}{{Ref|GOT106}}
+| Spouse      = {[[Kevan]]}{{Ref|GOT106}}
+| Lovers      = 
+| Issue       = {[[Petyr]]}{{Ref|GOT106}}
+| Siblings    = 
+| Arms        = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Theresa Baratheon''' was a daughter of [[Orys Baratheon|Orys]] and [[Argella Baratheon]].
+
+==Biography==
+===Background===
+Theresa Baratheon is an early member of [[House Baratheon]], the daughter of Orys and Argella Baratheon. She married a Ser Kevan{{Note|The house to which Ser Kevan belonged is not clear.}} at [[Sharp Point]]. They had children, including a son called Petyr.{{Ref|GOT106}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+She has an entry in ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]''.{{Ref|GOT106}}
+
+==Appearances==
+*{{GOT|A Golden Crown}} {{Text}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{House Baratheon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Baratheon, Theresa}}
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Members of House Baratheon|Theresa Baratheon]]
+[[Category:Stormlanders]]
+
+<!--Languages-->
+[[de:Theresa Baratheon]]
+[[es:Theresa Baratheon]]
+[[fr:Theresa Baratheon]]
+[[ru:Тереза Баратеон]]

@@ -1,0 +1,97 @@
+{{Canonicity|Canon}}
+{{Region
+| Title      = {{PAGENAME}}
+| Theme      = Targaryen
+| Image      =
+<gallery>
+SOHN Stepstones.png|Appearance
+Stepstones.png|Location
+</gallery>
+| Type       = 
+| Location   = Southern [[Narrow Sea]]
+| Geography  = Sub-tropical islands
+| Population = 
+| Rulers     = [[Triarchy]] {{C|[[112 AC|112]]{{Dateref|The Heirs of the Dragon}}-[[115 AC]]}}{{Dateref|Second of His Name}}<br>[[Daemon Targaryen]] {{C|115{{Dateref|Second of His Name}}-[[116 AC]]}}{{Dateref|King of the Narrow Sea}}<br>[[House Velaryon]] {{C|[[132 AC]]}}{{Dateref|The Black Queen}}<br>[[Ninepenny Kings]] {{C|[[257 AC]]}}{{Dateref|War of the Ninepenny Kings}}
+| Culture    = [[Tyrosh]]i<br>Various 
+| Religion   = Various
+| Military   = 
+| Capital    = 
+| Castles    = 
+| Cities     = [[Tyrosh]]
+| Towns      = 
+| Villages   = 
+| Places     = [[Bloodstone]] {{*}} [[Dwarfstone]] {{*}} [[Grey Gallows]]
+| Founded    = 
+}}
+{{Dialogue a-b|Tyland|We should address the latest developments in the Stepstones, my lords.|Viserys|Will we ever be shut of that blasted place?|Tyland Lannister and Viserys I Targaryen|The Princess and the Queen}}
+The '''Stepstones'''{{Ref|HOTD101}} are a chain of about a dozen or so islands, along with smaller islets, located east of [[Dorne]] and just west of the coast of [[Essos]] (in particular, the region known as the [[Disputed Lands]]). They are infamously filled with pirate dens, an uncontrollable border-zone periodically fought over by different Free Cities and even the Seven Kingdoms but not really controlled by anyone. Pirates, [[Mercenary|sellsails, and sellswords]] that infest the Stepstones prey on merchant shipping that passes through them into and out of the Narrow Sea.
+
+According to myth, [[Westeros]] and [[Essos]] were once joined by a great land-bridge - known as the [[Arm of Dorne]] - across which the [[First Men]] invaded Westeros. The [[Children of the Forest]] destroyed the land-bridge with magic more than ten thousand years ago, leaving behind only the shattered islands as evidence of its passing. In the present day, the Stepstones mark the border between the [[Narrow Sea]] to the north and the [[Summer Sea]] to the south. The [[Free Cities|Free City]] of [[Tyrosh]] is located on the northeastern-most island in the chain.
+
+==History==
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+[[Corlys Velaryon|Corlys]] informs the [[Small Council]] that the [[Triarchy]], under the leadership of [[Craghas Drahar]], has conquered the Stepstones. [[Viserys I Targaryen|Viserys]] says this sounds like good news, because the Triarchy will finally wipe out all the pirates that have been infesting the sea lanes there.{{Ref|HOTD101}}
+[[File:WA Stepstones.png|thumb|Drahar feeding Westerosi sailors to the crabs.]]
+Within six months, however, it becomes apparent that this was simply replacing one problem with another: the Triarchy itself started raiding Westerosi shipping through the Stepstones, including vessels flying the banner of Corlys himself. When he protests this to the rest of the Small Council, they are unwilling to provoke an open war with the southern [[Free Cities]].{{Ref|HOTD102}}
+
+Meeting later with [[Daemon Targaryen|Daemon]], Corlys proposes that he join him in a private war to take control of the Stepstones from the Triarchy.{{Ref|HOTD102}}
+
+The two launch their war, but after three years, it has descended into attrition and guerrilla warfare, with the Triarchy forces hiding in caves to hide from the Targaryen and Velaryon dragons before driving them off with arrows. After Viserys relents and sends 10 ships with 2,000 men to aid them and a message beforehand, the forces launch a siege on the island of Bloodstone, where Daemon kills the [[Craghas Drahar|Crabfeeder]].{{Ref|HOTD103}}
+
+Daemon is briefly crowned as "[[King of the Narrow Sea]]," before returning to King's Landing and abdicating the title.{{Ref|HOTD104}}
+
+A decade later, since Daemon failed to fortify or garrison the islands, the Stepstones are once again conquered by the Triarchy forces led by [[Tyrosh]]i general [[Racallio Ryndoon]], in an alliance with Prince [[Qoren Martell]] of [[Dorne]].{{Ref|HOTD106}}
+[[File:Stepstones-Map.jpg|thumb|Map of the Stepstones.]]
+The Seven Kingdoms once again send in forces and drive out the Triarchy, but fighting resumes six years later, with Corlys being lured into an ambush and injured to be sent home. However, his Velaryon forces prevail again, and this time set up a garrison on the islands, with Corlys later proclaiming to [[Rhaenyra Targaryen]] that the islands are now hers to command as queen.{{Ref|HOTD110}}
+
+==Quotes==
+''"The Stepstones, the chain of rocky islands between'' Dorne ''and the'' Disputed Lands ''of'' Essos'', had long been a haunt of'' outlaws'', exiles, wreckers, and'' pirates''. Of themselves the isles were of little worth, but placed as they were, they controlled the sea lanes to and from the'' narrow sea'', and merchant ships passing through those waters were often preyed on by their inhabitants."''
+
+-Gyldayn
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, two of the islands in the Stepstones chain have been named so far: Bloodstone and Grey Gallows. Bloodstone is the largest, and the westernmost, located closest to Dorne. Grey Gallows is located south of Bloodstone. A third island, Torturer's Deep, is mentioned in "Arianne I" sample chapter of the sixth novel.{{Bookref|TWOW|Arianne I}}
+
+The Free city [[Tyrosh]] itself is located on the easternmost and northernmost of the Stepstones - though it is usually not considered when generally speaking about "the Stepstones" as a border zone filled with pirate dens, given that Tyrosh is a strong and self-reliant city-state controlling large amounts of territory on the mainland.
+
+Attempts by both the Seven Kingdoms and the Free Cities to conquer all of the Stepstones have failed. Apart from the fact that rival Free Cities are always competing over them, the local pirates and outlaws consistently resist any attempts made to impose outside rule. The Stepstones are predominantly lawless pirate-dens, but all sea shipping to the northern Free Cities (Myr, Pentos, Lorath, and particularly [[Braavos]]) has to pass through them. Shipping from nearby Lys, and even to an extent from Volantis, is also sometimes in danger of attacks from the pirates of the Stepstones.
+
+Periodically the pirates in the Stepstones grow to such numbers that fleets from Westeros and the Free Cities gather in major campaigns to wipe them out, but new pirates always replace them eventually.
+
+Occasionally, pirates from the Stepstones have even invaded the east coasts of Westeros in large numbers. During [[Aegon's Conquest]], pirates from the Stepstones used the distraction of Aegon the Conqueror and his dragons landing to the north to invade Cape Wrath in the east of the [[Stormlands]] (though the Targaryens themselves drove them out before too long). During the reign of King [[Jaehaerys I Targaryen]] over two hundred years ago, Myrish pirates from the Stepstones even seized and held the eastern half of [[Tarth]] island, northeast of Cape Wrath and a considerable distance away from the Stepstones themselves. The Targaryens cleared them out easily enough with their dragons, but Jaehaerys I's eldest son Prince Aegon ended up dying in the battle nonetheless.
+
+[[Daemon Targaryen|Daemon]] temporarily conquered most of the Stepstones, using his dragon [[Caraxes]] and an army of sellswords and adventure-seekers, and established his own Kingdom of the Stepstones - his own proxy-kingdom nominally independent from but allied with the Iron Throne. In truth, it was never really a functional realm in its own right, so much as it was whichever islands his sellsword army happened to control at a given time. He played at war like this for several years, repeatedly leaving and returning there, but eventually abandoned the Stepstones altogether, which collapsed back into pirate control not long afterwards.
+
+The Stepstones were conquered by [[Maelys Blackfyre|Maelys the Monstrous]], one of the Blackfyre Pretenders, in the [[War of the Ninepenny Kings]], as a staging area for an invasion of Westeros. King Jaehaerys II sent an army to destroy his forces before they were ready, and Maelys Blackfyre was killed in battle by Ser [[Barristan Selmy]].
+
+In the fifth novel ''A Dance with Dragons'' and "Arianne I" sample chapter of the sixth novel, it is reported (but not confirmed yet) that the [[Golden Company]] has conquered half the Stepstones, and that a new pirate king - presumably Aurane Waters, a bastard descendant of House Velaryon - has set up on Torturer's Deep, styling himself "Lord of the Waters".{{Bookref|ADWD|72}}{{Bookref|TWOW|Arianne I}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+*{{TOG|map-of-westeros#stepstones|The Stepstones}}
+
+<!--Navboxes-->
+{{Known world}}
+{{Free Cities}}
+
+<!--Categories-->
+[[Category:Islands]]
+[[Category:Narrow Sea]]
+[[Category:Stepstones| ]]
+
+<!--Languages-->
+[[de:Trittsteine]]
+[[es:Peldaños de Piedra]]
+[[fr:Degrés de Pierre]]
+[[nl:Stapstenen]]
+[[pl:Stopnie]]
+[[pt-br:Degraus]]
+[[ru:Ступени]]
+[[uk:Крокуючі Камені]]
+[[zh:石阶列岛]]

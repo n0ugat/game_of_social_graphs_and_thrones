@@ -1,0 +1,259 @@
+{{DISPLAYTITLE:Smallfolk {{C|episode}}}}
+{{Episode
+| Title    = Smallfolk
+| Type     = Dragon
+| Image    = HOTD206.jpg
+| Season   = 2
+| Episode  = 6
+| Date     = July 21, 2024{{Listref|HOTD}}
+| Runtime  = 68 minutes{{Ref|HOTD206}}
+| Writer   = [[Eileen Shim]]{{Ref|HOTD206}}
+| Director = [[Andrij Parekh]]{{Ref|HOTD206}}
+| Year     = [[132 AC]]{{Dateref|House of the Dragon: Season 2}}
+| Previous = "[[Regent (episode)|Regent]]"{{HBOref|HOTD}}
+| Next     = "[[The Red Sowing]]"{{HBOref|HOTD}}
+}}
+"'''Smallfolk'''"{{HBOref|HOTD206}} is the sixth episode of the [[House of the Dragon: Season 2|second season]] of ''[[House of the Dragon]]''. It is the sixteenth episode of the series overall. It premiered on July 21, 2024 on [[HBO]] and [[HBO Max|Max]]. It was written by [[Eileen Shim]] and directed by [[Andrij Parekh]].
+
+==Premise==
+{{Premise|HOTD206}}
+
+==Synopsis==
+===In the Westerlands===
+Lord [[Jason Lannister]] and his army arrive at the [[Golden Tooth]], seat of [[House Lefford]] which guards the pass through the mountains bordering the [[Westerlands]] and the [[Riverlands]]. They are met by Lord [[Humfrey Lefford]], who informs Jason he has raised five hundred men of his own. Jason declares he has a thousand knights and seven times as many foot soldiers with him, confident of victory against the Riverlanders. When Humfrey asks if Jason intends to march against [[Harrenhal]], Jason instead instructs his vassal to send a raven to his brother [[Tyland Lannister|Tyland]] at King's Landing, informing him that they will remain at the Golden Tooth (much to Lord Humfrey's consternation at having to feed and shelter so many men) until such time as Prince [[Aemond Targaryen]] and [[Vhagar]] join them.
+
+===In King's Landing===
+At a meeting of the [[Green Council|Small Council]], Aemond, having received Lord Jason's summons, furiously erupts at Tyland Lannister over his twin brother's arrogant audacity to summon him like a servant. Tyland attempts to defend his brother's decision by reminding Aemond of [[Caraxes]]'s presence at Harrenhal (against whom the Lannister host would be defenseless should [[Daemon Targaryen|Daemon]] fly out to intercept them), but Aemond angrily orders Tyland to write back commanding Jason to march into the Riverlands, threatening Caraxes will become the least of Jason's problems if he disobeys.
+
+[[Alicent Hightower|Alicent]] tries to calm her son down, but Aemond talks over her, instructing Tyland to sail across the [[Narrow Sea]] and negotiate with the [[Triarchy]] for naval power to break the [[blockade of the Gullet]]. The rest of the Small Council are aghast at this; Tyland and [[Criston Cole]] protest the dangers of allowing Triarchy military forces, whom they consider little better than pirates, so close to Westerosi waters, but Aemond is adamant, arguing that it will take the fleets of Houses [[House Lannister/House of the Dragon|Lannister]] and [[House Hightower/House of the Dragon|Hightower]] too long to sail around Westeros, whereas the Triarchy's fleets are much closer and would surely relish the opportunity to avenge their previous defeats at [[Corlys Velaryon]]'s hands. Alicent, reminding Aemond the [[War for the Stepstones|bloody battles fought in the Stepstones]] against the Triarchy during [[Viserys I Targaryen|his father]]'s reign prove their untrustworthiness, proposes an alliance with the [[ironborn]] as an alternative way to gain naval power, but [[Orwyle]] admits all his ravens to [[Dalton Greyjoy]] have gone unanswered. [[Jasper Wylde]] opines that Dalton is biding his time to see whether declaring for the [[Greens]] or [[Blacks]] will be more advantageous to him, proposing that they offer Alicent's hand in marriage to Dalton to sweeten the deal, but Alicent flatly vetoes any such proposal.
+
+Aemond also orders Criston to muster their forces and march against Harrenhal. Criston protests, arguing that their army is so depleted by the casualties sustained at the [[Battle at Rook's Rest]] that if Daemon succeeds in rallying the Riverlords to his banner, Criston can't be sure of defeating him, urging they should wait until House Hightower's armies can arrive to reinforce them. Aemond overrules him, as it will take two weeks to march to Harrenhal and the longer they wait, the greater the risk Daemon will raise an army against them; Aemond assures Criston that once he and Jason have forced Daemon to fight on two fronts, he will fly out with Vhagar to join them and put an end to Daemon.
+
+As the meeting adjourns, Aemond requests Alicent wait a moment. As she begins rebuking him for his brash conduct, Aemond talks over her again, asking what her actual position on the Small Council is. Alicent reminds him she ruled in his father's stead while Viserys's health declined, and has counselled [[Aegon II Targaryen|Aegon]], but Aemond insists that his father is dead, his brother is likely soon to be dead, and he has no further use of her, and removes her from the Small Council. Alicent insists she is needed on the council to provide a tempering voice, but Aemond scoffs he has too many of those already, snidely remarking Alicent should be happy she's free to return to more "domestic pursuits". Shaken by her son's newfound hostility towards her, Alicent cups Aemond's cheek, asking if he hasn't by now avenged the indignities of his childhood (Aegon's bullying, the loss of his eye to [[Lucerys Velaryon|Lucerys]]), but Aemond pulls away from his mother, dismissively thanks her for her service to the Crown and leaves.
+
+In [[Flea Bottom]], as food shortages in King's Landing worsen due to the blockade, [[Sylvi]] and [[Dyana]], at Mysaria's behest, inform the patrons of a tavern, including [[Ulf]], that Aemond and the nobles are feasting in the Red Keep while the commoners starve. The next day, Ulf heckles a troop of Hightower guardsmen escorting a wagon full of sheep to the [[Dragonpit]], complaining the dragons there are kept well fed while the people are going hungry.
+
+At another session of the Small Council, Aemond complains to Jasper Wylde and [[Larys Strong]] (the only other attendees) as to why the smallfolk are blaming him for food shortages when Rhaenyra ordered the blockade. Larys points out the smallfolk expect him to ensure their safety and suggests that Aemond name a new [[Hand of the King]], in place of Criston, to aid him. Aemond scornfully mocks Larys for thinking he would ever name Larys to the position, ordering him to summon Ser [[Otto Hightower]] back to the capital to resume his old office. The meeting is interrupted by Orwyle, who informs them that Aegon has regained conciousness. Aemond adjourns the meeting and goes to Aegon's chambers, interrogating his brother by applying pressure to his wounds; Aegon insists he remembers nothing of Rook's Rest, and Aemond withdraws when Orwyle comes to treat Aegon.
+
+Alicent later comes and sits at her son's bedside. When Orwyle arrives to treat Aegon again, he assures Alicent that while Aegon sleeps nine of every ten hours, he did open his eyes and speak, offering hope Aegon will recover, though he remains silent when Alicent asks what quality of life her son will have even if he survives. Alicent asks what has come of her letters to her father; Orwyle confirms he sent letters to [[Oldtown]] and [[Highgarden]] to summon Otto Hightower, but he has not responded. Orwyle also informs Alicent that war has broken out in the [[Reach]], as [[House Beesbury]] have risen in revolt over Lord [[Lyman Beesbury|Lyman]]'s murder. 
+
+Alicent leaves her son's bedside and goes down to the Red Keep's yard, where Criston and his troops are preparing to leave. Before she can approach Criston, she is intercepted by [[Gwayne Hightower|her brother]], whom she quickly pretends was the object of her visit. Alicent asks Gwayne if he's heard from their father; Gwayne replies no, remarking that Otto would be more likely to contact her than him. Alicent then asks Gwayne what [[Daeron Targaryen|Daeron]], her youngest son by Viserys who is a ward in Oldtown, is like as a person, admitting when Gwayne asks that Daeron writes few letters to her these days. Gwayne assures Alicent his nephew is a kind, decent young man, much to her relief that he has not developed the same flaws as his brothers. Gwayne proposes that Aegon and Aemond's flaws have more to do with the hostile environment within the Red Keep than any failure on her part as a mother. Gwayne then mounts his horse and departs with Criston, who shares a glance with Alicent before leaving. Alicent later goes to [[Helaena Targaryen|Helaena]]'s room and proposes they visit the [[Grand Sept]] to pray for Aegon and themselves. Concurrently, Larys visits Aegon and warns him that Aemond means to kill him, causing Aegon to beg Larys for help.
+
+In the dead of night, boats bearing Rhaenyra's banner and laden with foodstuffs wash ashore, prompting riots as the starving smallfolk fight over the supplies. The riots swiftly spread through the city, even as far as the Grand Sept, where Ser [[Rickard Thorne]] ushers Alicent and Helaena from the sept as an angry crowd pelts them with insults and rotting fish, shouting support for Rhaenyra. When an old man grabs Alicent, [[Martyn Reyne]] hacks off his arm, and the outraged crowd turns violent, attacking the royal escort. [[Leon Estermont]] is dragged down and beaten to death by the enraged mob, while Rickard bundles Alicent and Helaena into a waiting wheelhouse which he orders to stop for nothing until they reach the Red Keep.
+
+===At Harrenhal===
+Daemon continues to suffer nightmares as he remains at Harrenhal; he walks into Harrenhal's great hall, only to find it has become the throne room of the [[Red Keep]], with his late brother Viserys sitting upon the [[Iron Throne]]. As Daemon approaches the throne, Viserys angrily confronts him over his quip about "the Heir for a Day," following the death of his nephew [[Baelon Targaryen|Baelon]]. In contrast to his [[The Heirs of the Dragon|previous arrogance on the matter]], Daemon is horrified and guilt-stricken as Viserys castigates him and banishes him back to [[Runestone]], to the point he tries to flee in panic, pounding on the throne room doors begging to be let out. Ser [[Simon Strong]] opens the hall doors, ending the nightmare, but Daemon seizes him at bladepoint in his confusion, accusing Simon of poisoning him either at the behest of his nephew, Lord [[Larys Strong]] or Rhaenyra, dismissing Simon's protestations of innocence.
+
+Having had enough of Harrenhal's influence on his mind and the hostility of the Riverlords, Daemon makes for the castle's [[godswood]], where Caraxes awaits him. Before he can mount his dragon however, [[Alys Rivers]] intercepts Daemon, mocking a furious Daemon for yet again running from his problems when things don't go his way, insisting that he is ultimately insignificant in the grand scheme of things. Daemon rages that Rhaenyra never even wanted the crown, to which Alys counters that perhaps that was why Viserys named her his heir, reminding Daemon that his brother never wanted to be king either but did the best he could with it, insisting rulership is not a prize to be won but a burden to bear.
+
+Frustrated and at his wit's end, Daemon asks Alys if she has any counsel on how to win over the Riverlords. Alys replies that the only thing that keeps the stubborn Riverlords from tearing each other apart is their loyalty to [[House Tully]]. Daemon insists that so long as the infirm Lord [[Grover Tully]] remains [[Lord Paramount of the Trident]], he has no hope of winning over the Riverlords, but Alys bids him wait three days, implying circumstances may change within that time. 
+
+A few nights later, Daemon finds himself in another vision, this time of an inconsolable Viserys weeping beside the body of his late wife and queen, [[Aemma Arryn]], prepared for her funeral by the [[Silent Sisters]]. Realizing now what he should have done at that moment in the past, Daemon cradles his sobbing brother as they grieve for Aemma. Daemon is abruptly woken from the dream by Simon Strong, who informs him Grover Tully has died in his sleep at [[Riverrun]] and been succeeded by his grandson [[Oscar Tully|Oscar]]. Daemon asks about the manner of Grover's death, to which Simon succumbed to his age, despite the best efforts of Riverrun's maester and Alys, who traveled there herself to offer her healing services. Realizing what Alys has done, once Simon has left, Daemon breaks down sobbing in relief at both his change in fortunes and freedom from his guilt over his past regrets with his brother.
+
+===In the Vale of Arryn===
+[[Rhaena Targaryen|Rhaena]] finds patches of blackened ground littered with the skeletal carcasses of sheep, evidence of a hunting dragon. When Rhaena confronts [[Jeyne Arryn]] on the matter, Jeyne admits to the dragon's presence but insists it is feral. She also informs Rhaena that Prince [[Reggio Haratis]] has agreed to shelter her and her half-brothers in [[Pentos]] until the war is over.
+
+===At Dragonstone===
+The [[Black Council]], led by [[Rhaenyra Targaryen|Rhaenyra]], meets and summons Ser [[Steffon Darklyn]]. Rhaenyra explains her situation; [[Rhaenys Targaryen|Rhaenys]] and [[Meleys]] are dead, she has no armies in [[Westeros]], and cannot go into battle for fear of being captured or dying. Ser Steffon notes that there are Daemon, [[Caraxes]] and the Rivermen, but Rhaenyra says that this still needs to be ascertained. She thenstates that she needs new dragonriders for the dragons present. Ser Steffon says that there are no other Targaryens capable of riding dragons. He mentions Rhaena, but Corlys says that the dragons present would not accept her. When Ser Steffon wonders who could try, Rhaenyra reveals the reason behind her summoning. She thinks that he, being distantly related to [[Aeriana Targaryen|a Targaryen]], could succeed in the enterprise. Rhaenyra however points out to Ser Steffon that, given the risk of claiming a dragon, one must be prepared to die. Ser Steffon, honored at the chance to claim a dragon, says he is willing to risk it as, as a member of the Queensguard, he has sworn his life for the queen.
+
+In the caves beneath [[Dragonmont]], Rhaenyra, Jacaerys, and a Dragonkeeper watch as the [[Dragonkeepers]] sing a song to call Seasmoke while Ser Steffon, in their midst, repeatedly whispers in a low voice "[[Warrior|Great Warrior]] protect us." Suddenly, Seasmoke, [[Laenor Velaryon]]'s dragon, appears in front of the group. The Dragonkeepers present calm him with commands in High Valyrian. Ser Steffon also gives a few commands. After a moment of tension, the dragon seems to submit. Ser Steffon moves to approach, but when he appears more relaxed, Seasmoke reacts and, despite the commands of the Dragonkeepers, launches a flame that hits Ser Steffon and one of the Dragonkeepers before leaving. Rhaenyra watches shocked as Ser Steffon Darklyn, Lord Commander of her Queensguard, burns in agony before Jacaerys takes her away.
+
+As Rhaenyra, still in shock, walks through the castle corridors, she is approached by Lord [[Bartimos Celtigar]], who offers his condolences for Ser Steffon's death and informs her that Seasmoke has left the island. He praises Ser Steffon, though he claims it was a predictable outcome. He then says that he asked Lord Mooton to march on Rook's Rest, an action he calls obvious and not "sensational" like reclaiming a dragon. Rhaenyra suddenly turns and slaps him, telling him that perhaps it is his fault he forgot to fear her.
+
+Rhaenyra holds up a Valyrian steel sword before Lady [[Mysaria]] enters. Mysaria says it was worth a try even if it went badly, but Rhaenyra disagrees. She blames herself for Ser Steffon's death, noting that an "ancient Valyrian beast" would accept someone who was not Valyrian. Mysaria wants to try again. Rhaenyra points out that no one will try, but says she will try again. Mysaria informs her that the people of King's Landing are hungry and want a culprit. She says they will act that night. Rhaenyra says Aemond will solve the problem by force, but Mysaria says he cannot destroy his own city and that it is hard to wage war when peace is wavering. Rhaenyra says to go ahead with the plan. As Rhaenyra leaves, Mysaria notes that the sword she is holding seems made for her. Rhaenyra appreciates it, puts the sword down and leaves.
+
+Rhaenyra is outside when she is joined by [[Jacaerys Velaryon]]. He compliments Ser Steffon's attempt, and says that he knows about Lord Bartimos. Rhaenyra says that he is lucky she didn't cut out his tongue. When Jace wonders what he could have said to make her angry, she says that she is tired of being protected and that they see her more as a mother or a daughter, when they should see a ruler. She affirms that the symbols of her authority are not jewels and gowns, but the shield and the sword. Jace notices that she is his mother as well as his sovereign, and says that he is fine with that. He then asks her if she will lead them in war, and she says that she can't stay at Dragonstone and that she is doing what she can. She has sent Lord Mooton to Rook's Rest and a raven is flying to the Vale, but she is interrupted by Jace who tells her that even if they gathered all their forces they would not match the Green armies. She says that they need Daemon and Caraxes. They are interrupted by Lady Mysaria who informs Rhaenyra that their gift has been sent, Jace asks what gift and Rhaenyra says "Let us hope for clouds over Blackwater tonight." Hearing this Jacaerys leaves, casting a bitter look at Mysaria. Mysaria approaches Rhaenyra and the two watch the sunset.
+
+During the night, Rhaenyra and Mysaria meet. Mysaria informs her that her banners were brought by boats to the city as a warning to the Greens that she is stronger than they thought. Mysaria notes that this did not cheer her up as she thought. Rhaenyra then admits that she does not believe she can win the war and that even her son doubts her abilities since he believes she needs Daemon, and that Daemon himself thinks so. Mysaria notes that Jace has never done what Daemon likes. Rhaenyra confides in her that Daemon was everything she wanted to be, carefree and dangerous, as well as a man, while she was everything he wanted, adored by her father and chosen as heir. "Halves of a whole," but despite this, Daemon never gave himself peace. He wanted to possess her but not be possessed, and to see her with what he wanted. She states that she has fear of what he may do, and says she fears he has turned against her, but Mysaria says he is more of a disappearing type. A disheartened Rhaenyra says she has lost him, and with him Caraxes. Rhaenys and Meleys are dead. The only dragons she has are Syrax, [[Vermax]], and [[Moondancer]], who will not be enough to defeat [[Vhagar]], and she has no army. Mysaria points out that she has the Velaryon fleet and their men, but Rhaenyra does not believe it will be enough, and even if she did prevail, how would she rule with a son who does not trust her? Mysaria says she has her. Rhaenyra says she is truly grateful and then walks away to another part of the room. Then Mysaria tells her that her father raped her and, when she became pregnant with him, left her with a scar that did not allow her to conceive children. He abandoned her to die, but she managed to survive. She swore to never trust another again, and that oath was useful to her, since the world they live in is cold and cruel and there are few who are resolute. She says that Rhaenyra, she thinks, is, having considered her both worthy and her equal, and for this she wants to serve her, since she believes she should be queen. Hearing this, Rhaenyra crosses the room and embraces her in a moment of affection. The embrace lasts and the moment of affection turns into a moment of passion when Mysaria kisses her neck. The two look at each other before kissing passionately. The kisses lasts until they hear a knock and the door opens, at which point they suddenly separate. Ser [[Lorent Marbrand]] enters with a nervous look. He warns that Seasmoke has been seen flying over Spicetown, and that according to the inhabitants, he has a new rider. A surprised Rhaenyra asks who it is and Ser Lorent says that they have not identified him yet. Mysaria asks if they are the Greens and Rhaenyra says she does not know who else it could be. Ser Lorent asks if he should call the council, but Rhaenyra decides to mount Syrax and, before Jacaerys can stop her, she flies to Spicetown to face Seasmoke's new rider.
+
+===On Driftmark===
+[[Corlys Velaryon|Corlys]] meets [[Alyn of Hull|Alyn]] as he goes to see how the work on the ''[[Sea Snake]]'' is progressing and praises his work, informing him that he wants him to sail with him as his second in command. Alyn states that there are more capable men, but Corlys says that he is an excellent choice for the job as he has proven himself in battle and has the respect of the crew. Alyn then asks if it is an order or a request and Corlys replies that he expects him to report to him tomorrow morning, to which Alyn obeys. [[Addam of Hull|Addam]], who has been observing the scene, appears frustrated by his brother's hesitation.
+
+As Alyn shaves his head to hide his [[Valyrians|Valyrian]] features (and thus his kinship to the Sea Snake), Addam mocks this practice by stating that he's "just like him." Addam then points out what they could have, such as riches, servants and the [[Driftwood Throne]], but Alyn says he is not interested in living in the castle of [[High Tide]]. Addam points out that he is missing his chance and complains that Lord Corlys is ignoring him. Alyn states that the Sea Snake would rather have High Tide reclaimed by the sea than call him his son and asks Addam to stop waiting for something that will not come to pass. Frustrated, Addam leaves the house.
+
+While Addam is fishing on the beach, he sees [[Seasmoke]] flying above them. Seasmoke notices him in return and suddenly descends and starts following Addam, who, in fear for his life, runs into the woods followed by Seasmoke. While running, he stumbles and rolls down a small ledge. At first he doesn't see the dragon, but suddenly, Seasmoke appears before him. Even though he is at his mercy, Seasmoke doesn't kill him. Addam, scared at first, steels himself. The two look into each other's eyes.
+
+==Appearances==
+{{Main|Smallfolk (episode)/Appearances}}
+{{Col-begin}}
+{{Col-2}}
+===Firsts===
+*Lord [[Humfrey Lefford]]
+{{Col-2}}
+===Deaths===
+*Ser [[Steffon Darklyn]]
+*Ser [[Leon Estermont]]
+*Lord [[Grover Tully]] {{C|fate confirmed}}
+{{Col-end}}
+
+==Cast==
+{{Col-begin}}
+{{Col-2}}
+===Starring===
+*[[Matt Smith]] as Prince [[Daemon Targaryen]]
+*[[Emma D'Arcy]] as Queen [[Rhaenyra Targaryen]]
+*[[Olivia Cooke]] as Queen [[Alicent Hightower]]
+*[[Steve Toussaint]] as Lord [[Corlys Velaryon]]
+*[[Fabien Frankel]] as Ser [[Criston Cole]]
+*[[Matthew Needham]] as Lord [[Larys Strong]]
+*[[Sonoya Mizuno]] as [[Mysaria]]
+*[[Tom Glynn-Carney]] as King [[Aegon II Targaryen]]
+*[[Ewan Mitchell]] as Prince [[Aemond Targaryen]]
+*[[Phia Saban]] as Queen [[Helaena Targaryen]]
+*[[Harry Collett]] as Prince [[Jacaerys Velaryon]]
+*[[Phoebe Campbell]] as Lady [[Rhaena Targaryen]]
+*[[Jefferson Hall]] as Ser [[Tyland Lannister]] / Lord [[Jason Lannister]]
+*[[Freddie Fox]] as Ser [[Gwayne Hightower]]
+*[[Gayle Rankin]] as [[Alys Rivers]]
+*[[Abubakar Salim]] as [[Alyn of Hull]]
+*[[Clinton Liberty]] as [[Addam of Hull]]
+*[[Kurt Egyiawan]] as Grand Maester [[Orwyle]]
+*[[Kieran Bew]] as [[Hugh]]
+*[[Ellora Torchia]] as [[Kat]]
+*[[Tom Bennett]] as [[Ulf]]
+*and [[Simon Russell Beale]] as Ser [[Simon Strong]]
+{{Col-2}}
+===Co-starring===
+*[[Siân Brooke]] as Queen [[Aemma Arryn]]
+*[[Paul Kennedy]] as Lord [[Jasper Wylde]]
+*[[Anthony Flanagan]] as Ser [[Steffon Darklyn]]
+*[[Nicholas Jones]] as Lord [[Bartimos Celtigar]]
+*[[Phil Daniels]] as Maester [[Gerardys]]
+*[[Max Wrottesley]] as Ser [[Lorent Marbrand]]
+*[[James Dreyfus]] as Lord [[Gormon Massey]]
+*[[Vincent Regan]] as Ser [[Rickard Thorne]]
+*[[Daniel Fathers]] as Lord [[Humfrey Lefford]]
+*[[Amanda Collin]] as Lady [[Jeyne Arryn]]
+*[[Michelle Bonnard]] as [[Sylvi]]
+*[[Maddie Evans]] as [[Dyana]]
+*[[Barney Fishwick]] as Ser [[Martyn Reyne]]
+*[[Ralph Davis]] as Ser [[Leon Estermont]]
+*[[Tok Stephen]] as Ser [[Eddard Waters]]
+*[[Rebecca Calder]] as a Harrenhal servant / Dragonkeeper Elder
+*[[Kieron Jecchinis]] as a Dragonkeeper Elder
+*[[Clive Brunt]]
+*[[Graeme McKnight]] as [[Paxter Strong]]
+*[[Paul Valentine]] as [[Germund Strong]]
+*[[Tom Clegg]] as a King's Landing passerby
+*[[Jack Staddon]]
+*[[Erica Ford]] as a handmaid
+*[[Erwan Sion]] as a clam digger
+*[[Oscar Eskinazi]] as Prince [[Joffrey Velaryon]]
+
+===Uncredited===
+*[[Paddy Considine]] as King [[Viserys I Targaryen]]
+*[[Joshua Williams]] as a Cock Inn servant<ref>https://www.reddit.com/r/HouseOfTheDragon/comments/1ec27vt/i_was_an_extra_in_season_2_i_was_a_servant_in/</ref>
+{{Col-end}}
+
+===Notes===
+*22 of 25 starring cast members appear in this episode.
+*Starring cast members [[Rhys Ifans]] ([[Otto Hightower]]), [[Bethany Antonia]] ([[Baela Targaryen]]), and [[Tom Taylor]] ([[Cregan Stark]]) are not credited and do not appear in this episode.
+*[[Simon Russell Beale]] is credited without the honorific "Sir," unlike in previous episodes.
+*[[Tom Bennett]] is credited below [[Kieran Bew]] and [[Ellora Torchia]]. In "[[Rhaenyra the Cruel]]," he is credited first.
+*[[Siân Brooke]] was first credited in "[[The Heirs of the Dragon]]" as "Sian Brooke," without the caret.
+*Despite appearing in two scenes and having speaking lines in this episode, and previously being part of the main cast, [[Paddy Considine]] is entirely uncredited.
+*[[Pete Ford]], [[Martin Gordon]], [[Richard Hansen]], [[Rob Hayns]], [[Rowley Irlam]], and [[Ben Wright]] were stunt performers in this episode.
+
+==Behind the scenes==
+*This episode features six different locations (King's Landing, Dragonstone, Driftmark, Harrenhal, Golden Tooth, and the Eyrie), thus equaling the series-high for number of different locations set by the preceding episode, which also featured six locations.
+*It is implied that the role of the book character [[Nettles]] will be filled by [[Rhaena Targaryen]].
+*It is the fourth episode in a row that [[Daemon Targaryen|Daemon]] dreams about his kin. The cause is still unclear; Daemon suspects someone poisoned his food or wine (two episodes ago [[Alys Rivers]] gave him a drink).
+*It is implied that Alys Rivers "helped" Lord [[Grover Tully]] die.
+*The [[riot in King's Landing]], which did not occur in the book, has some resemblance with a [[Riots in King's Landing|riot which would occur many years later]]: 
+**It occurs at the same place
+**The angry mob attacks royalty
+**The commoners are driven to violence by hunger
+**A guard cuts off a rioter's hand; in the book, Sansa said that [[Sandor Clegane|the Hound]] had cut off the arm of a man who tried to pull her from the saddle{{Bookref|ACOK|41}}
+**Among the casualties there is a [[Kingsguard]]; in the book, Ser [[Preston Greenfield]] was killed during the riot.
+**[[Jaime Lannister|Jaime]] suspects that [[Varys]], [[Master of Whisperers]] (which is [[Mysaria]]'s office in ''[[Fire & Blood]]'') arranged the riot, though the reason is unclear - maybe for kidnapping [[Tyrek Lannister]].{{Bookref|AFFC|27}}
+*In Daemon's dream, [[Viserys I Targaryen|his brother]] chides him for mockingly referring to [[Baelon Targaryen|Baelon]] as the "Heir for a Day" ("[[The Heirs of the Dragon]]").
+*[[Larys Strong]] stops a servant from giving Aegon a painkiller (presumably [[milk of the poppy]]), because he needs Aegon's mind to be clear enough to perceive his words. In the novels, [[Doran Martell]] uses milk of the poppy regularly to dull his pains, but he does not take it on occasions when he needs his head clear, in which he bears the pain silently.{{Bookref|ADWD|38}}
+*In the opening scene, during the march of the Lannister troops to the [[Golden Tooth]], the music of [[The Rains of Castamere]] is played in the background.
+
+==In the books==
+{{Main|Differences in adaptation/House of the Dragon: Season 2#"Smallfolk"}}
+This episode is adapted from the chapter "The Dying of the Dragons — The Red Dragon and the Gold" from ''[[Fire & Blood]]''. It is also influenced by the following chapter of ''A Clash of Kings'':
+
+*Chapter 41, Tyrion IX: [[Riots in King's Landing|Riots]] break out in [[King's Landing]] as a result of lack of food; rioters attack royalty; [[Sandor Clegane|a Kingsguard]] cuts off a rioter's arm; [[Preston Greenfield|a Kingsguard]] is killed.
+
+==Gallery==
+===Videos===
+<gallery bordersize="none">
+House of the Dragon Season 2 / Episode 6 Preview / Max
+Inside the Episode - S2, Ep 6 / House of the Dragon / HBO
+Seasmoke Hunts Addam of Hull / House of the Dragon Season 2 / Max
+</gallery>
+
+===Images===
+====Stills====
+<gallery>
+S2 Alicent Hightower Still.jpg
+S2 Corlys Velaryon Still.jpg
+2x6 Aegon and Aemond Still.jpg
+2x6 Aegon and Larys Still.jpg
+2x6 Aemond Targaryen Still.jpg
+2x6 Alicent and Aemond Still.jpg
+2x6 Alicent and Criston Still.jpg
+2x6 Alicent and Gwayne Still.jpg
+2x6 Alys Rivers Still.jpg
+2x6 Corlys Velaryon Still.jpg
+2x6 Daemon Targaryen Still.jpg
+2x6 Larys Strong Still.jpg
+2x6 Rhaena Targaryen Still.jpg
+2x6 Rhaenyra Targaryen Still 1.jpg
+2x6 Rhaenyra Targaryen Still 2.jpg
+2x6 Addam of Hull Still.jpg
+2x6 Alys and Daemon Still.jpg
+2x6 Dyana Sylvi and Ulf Still.jpg
+2x6 Rhaenyra and Mysaria Still.jpg
+2x6 Rhaenyra and Steffon Still.jpg
+2x6 Steffon Darklyn Still.jpg
+2x6 Viserys and Daemon Still.jpg
+2x6 Jace and Rhaenyra Still.jpg
+</gallery>
+
+====Screenshots====
+<gallery>
+S2 Alicent Hightower 5.jpg
+S2 Dragonkeepers.png
+S2 Rhaenyra 4.png
+S2 Aemond and Criston 2.png
+S2 Aemond and Criston.png
+S2 Golden Tooth.png
+S2 Seasmoke 2.png
+OT2 Swords.png
+OT2 Rhaenyra 4.png
+OT2 Golden Tooth.png
+OT2 Lannisters.png
+OT2 Alicent & Kingsguard 2.png
+OT2 Alicent & Helaena.png
+</gallery>
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|Smallfolk (TV)}}
+*{{HBO|house-of-the-dragon/season-2/6-smallfolk|Smallfolk}}
+*{{HBO Max|video/watch/ae1884da-a5a5-4b62-98b6-9c1eab6f5827/5d1839f2-4ccb-41c9-98b2-5ea8939fe36d|Smallfolk}}
+*{{IMDb title|# = 26947923|title = Smallfolk}}
+*{{WP|Smallfolk}}
+
+<!--Navboxes-->
+{{House of the Dragon}}
+
+<!--Categories-->
+[[Category:Episodes directed by Andrij Parekh]]
+[[Category:Episodes of House of the Dragon: Season 2| 06]]
+[[Category:Episodes released in 2024|7.21]]
+[[Category:Episodes written by Eileen Shim]]
+
+<!--Languages-->
+[[de:Das gemeine Volk (Episode)]]
+[[es:El populacho]]
+[[fr:Le petit peuple]]
+[[pl:Prostaczkowie (odcinek)]]
+[[ru:Простой люд]]

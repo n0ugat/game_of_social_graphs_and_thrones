@@ -1,0 +1,35 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Martell
+| Image        = 
+| Type         = Holdfast
+| Status       = Ruined
+| Location     = [[Dorne]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = 
+| Places       = 
+| Founded      = 
+}}
+'''Shandystone'''{{Ref|THTDB201}} is a holdfast in southeastern [[Dorne]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Shandystone is a modest ruin with fluted pillars, triple arches, and a dry well. The mosaics and statues inside the holdfast have been overtaken and scoured away by the sands. It was abandoned when its well went dry, around 200 AC.
+
+Prince [[Oberyn Martell]] once brought his daughters [[Tyene Sand|Tyene]] and [[Sarella Sand]] and his niece Arianne Martell to Shandystone. Arianne later returns there to gather her co-conspirators to crown Princess [[Myrcella Baratheon]] as queen of the [[Seven Kingdoms]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Dorne}}
+
+<!--Categories-->
+[[Category:Castles of Dorne]]
+[[Category:Ruins]]

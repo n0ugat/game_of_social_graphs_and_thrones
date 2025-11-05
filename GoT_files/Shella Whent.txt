@@ -1,0 +1,75 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Whent.svg
+| Link  = House Whent
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Tully
+| Image       = 
+| Birth       = At [[Harrenhal]]
+| Death       = 
+| House       = [[House Whent|Whent]]
+| Affiliation = [[House Tully]]
+| Titles      = [[Lord of Harrenhal|Lady of Harrenhal]] {{C|dispossessed}}
+| Predecessor = {[[Walter Whent]]}
+| Successor   = {[[Janos Slynt]]}
+| AKA         = Old Lady Whent
+| Culture     = [[Riverlands|Rivermen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = {[[Walter Whent]]}
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|And is Lady Whent a true and honest friend to my father, Lord Hoster Tully of Riverrun?|[[Catelyn Stark]]|Cripples, Bastards, and Broken Things}}
+'''Shella Whent''' is the head of [[House Whent]] and the Lady of [[Harrenhal]].
+
+==Biography==
+===Background===
+Lady Shella Whent is an old woman. She's a loyal vassal of [[Hoster Tully]], the Lord of [[Riverrun]].{{Cite}} Her husband's younger brother, Ser [[Oswell Whent]], was a member of King [[Aerys II Targaryen]]'s [[Kingsguard]].<ref name=":0">[http://www.westeros.org/Citadel/SSM/Entry/1124 So Spake Martin, September 5, 2000]</ref>
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+To take [[Tyrion Lannister|Tyrion]] prisoner at the [[Inn at the Crossroads]], [[Catelyn Stark|Catelyn]] asserts her origin as a daughter of [[House Tully]], and then tells a man of House Whent, Ser [[Willis Wode]], that she recognizes the black bat of Harrenhal on his coat. He affirms Lady Whent's loyalty to Lord Hoster Tully or Riverrun when asked, and then helps her to arrest Tyrion.{{Ref|GOT104}}
+
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+During the [[War of the Five Kings]], Harrenhal is occupied by the forces of [[House Lannister]].{{Ref|GOT204}} Lady Whent surrendered Harrenhal to [[Tywin Lannister]] after the [[Battle at the Mummer's Ford]].<ref>Season 2 Blu-ray: War of the Five Kings feature</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Shella Whent was the Lady of Harrenhal until she surrendered the castle to forces belonging to House Lannister during the War of the Five Kings, because she lacked the means to defend it.{{Bookref|AGOT|56}} She is considered a friend of the [[Night's Watch]].{{Bookref|ACOK|14}}
+
+In the fourth novel, [[Petyr Baelish|Littlefinger]] states that Lady Whent has died (without specifying the manner of her death),{{Bookref|AFFC|23}} but it is not confirmed; in the appendices of all five novels, however, she is listed as alive.
+
+[[George R.R. Martin]] was asked about Lady Whent's background and present whereabouts; his partial answer refers only to the background aspect, and does not reveal what has become of her after she was dispossessed of Harrenhal.<ref name=":0" />
+
+==Appearances==
+*{{GOT|Cripples, Bastards, and Broken Things}} {{Mentioned}}
+*{{H&L|Harrenhal}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+{{DEFAULTSORT:Whent, Shella}}
+[[Category:Individuals from Histories & Lore]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Lords of Harrenhal]]
+[[Category:Members of House Whent|Shella Whent]]
+[[Category:Rivermen]]
+[[Category:Ruling ladies]]
+
+<!--Languages-->
+[[de:Shella Whent]]
+[[ru:Шелла Уэнт]]

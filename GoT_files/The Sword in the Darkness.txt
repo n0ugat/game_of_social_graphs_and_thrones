@@ -1,0 +1,98 @@
+{{SameName|episode|order who vow to be the swords in the darkness|Night's Watch}}
+{{Episode
+| Title    = {{PAGENAME}}
+| Type     = Telltale
+| Image    = ATGS03.png
+| Season   = 
+| Episode  = 3
+| Date     = March 24, 2015{{Webref|name=EW |author=Jonathon Dornbush |date=March 23, 2015 |url=https://ew.com/article/2015/03/23/telltale-game-of-thrones-episode-3-trailer-release-date/ |title=Watch Telltale's 'Game of Thrones' episode 3 trailer |website=Entertainment Weekly |access-date=February 3, 2024 }} {{C|PlayStation 4, PlayStation 3}}<br>March 25, 2015<ref name="EW" /> {{C|Xbox One, Xbox 360}}<br>March 26, 2015<ref name="EW" /> {{C|iOS, Android}}
+| Runtime  = 
+| Writer   = Dan Martin{{Ref|ATGS03}}<br>John Dombrow{{Ref|ATGS03}}<br>Joshua Rubin{{Ref|ATGS03}}
+| Director = Graham Ross{{Ref|ATGS03}}
+| Year     = [[301 AC/Non-canon|301 AC]]{{Dateref|The Sword in the Darkness}}
+| Previous = "[[The Lost Lords]]"{{Ref|ATGS02}}
+| Next     = "[[Sons of Winter]]"{{Ref|ATGS04}}
+}}
+"'''The Sword in the Darkness'''"{{Ref|ATGS03}} is the third episode of ''[[Game of Thrones: A Telltale Games Series]]''. It premiered on March 24, 2015. It was written by Dan Martin, John Dombrow, and Joshua Rubin, and directed by Graham Ross.
+
+==Premise==
+{{Premise|ATGS03}}
+
+==Cast==
+*[[Emilia Clarke]] as [[Daenerys Targaryen]]
+*[[Peter Dinklage]] as [[Tyrion Lannister]]
+*[[Natalie Dormer]] as [[Margaery Tyrell]]
+*[[Kit Harington]] as [[Jon Snow]]
+*[[Lena Headey]] as [[Cersei Lannister]]
+*[[Iwan Rheon]] as [[Ramsay Bolton|Ramsay Snow]]
+*Russ Bain as Rodrik
+*Alex Jordan as Asher
+*Daniel Kendrick as Gared Tuttle
+*Martha Mackintosh as Mira Forrester
+*Christopher Nelson as Ethan Forrester
+*Laura Bailey as Gwyn
+*Joseph Balderrama as Cotter
+*JB Blanc as Malcom Forrester,{{Sic|Malcolm Branfield}} Thermund, Father Tuttle
+*Jeremy Crutchley as Denner Frostfinger
+*Sacha Dhawin{{Sic|Sacha Dhawan}} as Gryff Whitehill
+*Robin Atkin Downes as Lord Forrester, Duncan Tuttle & Andros
+*David Franklin as Maester Ortengryn
+*Brian George as Ser Royland Degore & Tazal
+*Alastair James as Britt
+*Geoff Leesley as Lord Whitehill & Norren
+*Natasha Loring as Sera
+*Yuri Lowenthal as Finn, Tom & Erik
+*Matthew Mercer as Bowen & Fegg
+*Toks Olagundoye as Beskha
+*Amy Pemberton as Elaena
+*Lara Pulver as Lady Forrester
+*Molly Stone as Talia Forrester
+*Louis Suc as Ryon Forrester
+*Fabio Tassone as Lucan
+*Owen Thomas as Damien
+*Oliver Vaquer as Morgryn
+*Adam Leadbeater as Croft, Whitehill Soldier
+*Ron Bottitta as Harys, Whitehill Soldier, Lannister Soldier
+*Matt Wolf as Whitehill Soldier, Lannister Soldier
+
+==Gallery==
+===Video===
+<gallery bordersize="none">
+Game of Thrones: A Telltale Games Series Episode Three: "The Sword in the Darkness" Trailer
+</gallery>
+
+===Images===
+<gallery>
+TSITD Pre-Release 1.png
+TSITD Pre-Release 2.png
+TSITD Pre-Release 3.png
+TSITD Pre-Release 4.png
+TSITD Pre-Release 5.png
+</gallery>
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{TTGOT}}
+
+<!--Navboxes-->
+{{Game of Thrones: A Telltale Games Series}}
+{{Game of Thrones}}
+
+<!--Categories-->
+{{DEFAULTSORT:Sword in the Darkness, The}}
+[[Category:Episodes directed by Graham Ross]]
+[[Category:Episodes of Game of Thrones: A Telltale Games Series| 03]]
+[[Category:Episodes released in 2015|3.24]]
+[[Category:Episodes written by Dan Martin]]
+[[Category:Episodes written by John Dombrow]]
+[[Category:Episodes written by Joshua Rubin]]
+
+<!--Languages-->
+[[de:Das Schwert in der Dunkelheit (Episode)]]
+[[fr:L'Épée dans les Ténèbres]]
+[[ru:Меч во тьме]]

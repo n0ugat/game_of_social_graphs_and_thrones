@@ -1,0 +1,67 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Thrones
+| Part          = the [[War of the Five Kings]]
+| Image         = 
+| Previous      = [[Battle of Oxcross]]
+| Concurrent    = 
+| Next          = [[Assassination of Renly Baratheon]]
+| Date          = [[299 AC]]{{Dateref|Game of Thrones: Season 2}}
+| Place         = [[Ashemark]], [[Westerlands]]
+| Outcome       = [[North]]ern victory
+| Factions1     = {{COA|House Stark|small}} [[North|Kingdom of the North]]/[[House Stark]]<br><br>{{COA|House Bolton|small}} [[House Bolton]]<br><br>{{COA|House Karstark|small}} [[House Karstark]]
+| Factions2     = {{COA|House Baratheon of King's Landing|small}} '''[[Iron Throne]]'''/[[House Baratheon of King's Landing]] <br><br>{{COA|House Lannister|small}} [[House Lannister]]<br><br>{{COA|House Marbrand|small}} [[House Marbrand]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = King [[Robb Stark]]<br>Lord [[Roose Bolton]]<br>Lord [[Rickard Karstark]]
+| Leaders2      = Lord [[Damon Marbrand]]
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = 20,000 [[Northmen]]
+| Participants2 = Unknown
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = Minimal
+| Casualties2   = Heavy
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Dialogue a-b|Kevan Lannister|Scouts assure us that Robb Stark remains north of Ashemark.|Tywin Lannister|The last time the scouts assured us of Stark's movement he lured us into a trap. Which is why my son is his prisoner. Too close to Casterly Rock.|[[Tywin Lannister]] predicts the inevitable to [[Kevan Lannister]] |The Prince of Winterfell}}
+The '''taking of Ashemark''' is an event in the [[War of the Five Kings]] and part of [[Robb Stark]]'s invasion of the [[Westerlands]], following the liberation of much of the [[Riverlands]] from [[House Lannister|Lannister]] occupation.
+
+==History==
+===Prelude===
+The northern army led by Robb invades the Westerlands, surprising the host led by Ser [[Stafford Lannister]] at [[Oxcross]] and [[Battle of Oxcross|annihilating]] it.<ref>"[[Garden of Bones (episode)|Garden of Bones]]"</ref> With the bulk of the Lannister force stationed at [[Harrenhal]] and the remnants of [[Jaime Lannister|Jaime]]'s army already scattered, the Westerlands are largely defenseless.
+
+===Battle===
+Following the victory at Oxcross, the Northern army sacks [[Ashemark]], seat of [[House Marbrand]].{{Guideref|Battle of Oxcross}}
+
+===Aftermath===
+Following the taking of Ashemark, Robb's army pushes deeper into the Westerlands, resulting in a new victory in a [[battle at the Yellow Fork]] and the subsequent [[Surrender of the Crag|surrender]] of [[House Westerling]].<ref>"[[A Man Without Honor]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, it is mentioned that Ashemark is easily sacked by Robb's army, and the keep's castellan is killed. Lacking the necessary strength to capture [[Casterly Rock]] or [[Lannisport]], the Northern army raids the Westerlands: [[Galbart Glover]] and Rickard Karstark raid along the coast, [[Maege Mormont]] captures thousands of livestock, and [[Greatjon Umber]] - who in the novels remains with Robb - captures the gold mines at [[Castamere]], Nunn's Deep, and Pendric Hills.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{War of the Five Kings}}
+
+<!--Categories-->
+[[Category:299 AC]]
+[[Category:Battles]]
+[[Category:War of the Five Kings]]
+
+<!--Languages-->
+[[fr:Sac de Cendremarc]]
+[[ru:Разгром Эшмарка]]

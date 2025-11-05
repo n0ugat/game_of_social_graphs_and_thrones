@@ -1,0 +1,37 @@
+{{Episode
+| Title    = {{PAGENAME}}
+| Type     = Podcast
+| Image    = TOGOTPHOTD203.jpg
+| Season   = 2
+| Episode  = 3
+| Date     = June 5, 2024{{Listref|TOGOTPHOTD}}
+| Runtime  = 49:23{{HBOref|TOGOTPHOTD}}
+| Writer   = 
+| Director = 
+| Year     = 
+| Previous = "[[Dragon Deep Dive with Sound Designer Paula Fairfield]]"{{Listref|TOGOTPHOTD}}
+| Next     = "[[A Look Ahead to Season 2 with Showrunner Ryan Condal]]"{{Listref|TOGOTPHOTD}}
+}}
+"'''The Real History Behind Westeros with Medieval Historian Charles Farris'''"{{HBOref|TOGOTPHOTD}} is the third episode of the [[The Official Game of Thrones Podcast: House of the Dragon: Season 2|second season]] of ''[[The Official Game of Thrones Podcast: House of the Dragon]]''. It is the twenty-first episode of the series overall. It was released on June 5, 2024.
+
+==Description==
+{{Description|TOGOTPHOTD203}}
+
+==Gallery==
+<gallery bordersize="none">
+The Real History Behind Westeros with Medieval Historian Charles Farris
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{HBO Max|video/watch/PROM727474/PROM1182013|House of the Dragon Podcast: Real History Behind Westeros}}
+
+<!--Navboxes-->
+{{The Official Game of Thrones Podcast: House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Real History Behind Westeros with Medieval Historian Charles Farris, The}}
+[[Category:Episodes of The Official Game of Thrones Podcast: House of the Dragon: Season 2| 03]]
+[[Category:Episodes released in 2024|6.05]]

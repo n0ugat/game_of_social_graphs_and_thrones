@@ -1,0 +1,75 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Night's Watch.svg
+| Link  = Night's Watch
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Watch
+| Image        = 
+<gallery>
+H&L105.png|Appearance
+Shadow Tower Pin.png|Location
+</gallery>
+| Type         = Castle
+| Status       = 
+| Location     = The [[Wall]], the [[Gift]]
+| Population   = 
+| Rulers       = [[Night's Watch]]
+| Institutions = 
+| Military     = 
+| Religion     = 
+| Places       = 
+| Founded      = 
+}}
+{{Dialogue a-b|Orell|Aye, Castle Black. Everyone knows Castle Black. Which others?|Jon Snow|Eastwatch-by-the-Sea and the Shadow Tower.|Orell probes Jon on the [[Wall]]'s manned castles|Kissed by Fire}}
+The '''Shadow Tower'''{{Ref|GOT305}} is a castle on the [[Wall]]. It is located close to the western end of the Wall. At the time of the series, the Shadow Tower is one of only three castles on the [[Wall]] still manned by the [[Night's Watch]], along with [[Castle Black]] and [[Eastwatch-by-the-Sea]]. There are nineteen castles along the Wall, but as their numbers fell over the centuries the Night's Watch had to abandon sixteen of them.
+
+==Known residents==
+*Ser [[Denys Mallister]], an old knight and commander of the Shadow Tower.<ref>"[[The House of Black and White]]"</ref>
+*{[[Qhorin]]}, called "Qhorin Halfhand", leading Ranger of the Shadow Tower. Killed in a duel by [[Jon Snow]] to ease his infiltration of the [[Free Folk]].<ref>Season 2 Bluray: War of the Five Kings feature</ref>
+**{[[Stonesnake]]}, {[[Borba]]}, {[[Harker]]}, rangers under his command. Killed by the [[Lord of Bones]]' warband.
+
+==History==
+===[[Game of Thrones: Season 3|''Game of Thrones'': Season 3]]===
+When [[Jon Snow]] infiltrates the wildlings, [[Orell]] asks him which of the nineteen castles along the Wall are still manned by the Night's Watch. Jon admits that only Castle Black, Eastwatch-by-the-Sea, and the Shadow Tower are still manned.<ref>"[[Kissed by Fire]]"</ref>
+
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+Ser [[Denys Mallister]], commander of the Shadow Tower, stands as candidate as the new [[Lord Commander of the Night's Watch]]<ref>"[[The Wars To Come]]"</ref> Ser Denys arrives at Castle Black from the Shadow Tower for the [[Elections#Night's Watch|choosing]], though he ultimately loses to [[Jon Snow]].<ref>"[[The House of Black and White]]"</ref>
+
+===[[Game of Thrones: Season 8|''Game of Thrones'': Season 8]]===
+After learning of the [[breaching of the Wall]], [[Jon Snow]] orders the remaining castles on the Wall be abandoned and for their garrisons to come to [[Winterfell]].<ref name="E68">"[[Winterfell (Game of Thrones)|Winterfell]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the Shadow Tower is under the command of Ser Denys Mallister, an experienced and conservative commander, and uncle to Lord [[Jason Mallister]] of [[Seagard]]. [[Qhorin]] was usually based at the Shadow Tower.
+
+According to [[Jeor Mormont]], at the start of the books there are about 200 soldiers in the Shadow Tower. Qhorin led 100 of them to the [[great ranging]].
+
+It is not the westernmost castle of the Night's Watch, which used to be Westwatch-by-the-Bridge. Westwatch is north of the Gorge and west of the Wall and is no longer garrisoned at the start of the books.
+
+Patrols and scouts from the Shadow Tower have to keep a close eye on the surrounding terrain. Though extremely difficult, it is possible to by-pass the Wall by descending into the Gorge, or by tracing a dangerous route through the [[Frostfangs]] to the west and crossing the Bridge of Skulls. The Night's Watch has to keep an eye on these routes for signs of [[Free Folk|wildling]] activity.
+
+==Appearances==
+*{{H&L|The History of the Night's Watch - House Stark}} {{Map}}
+*{{GOT|Kissed by Fire}} {{Mentioned}}
+*{{GOT|The Wars To Come}} {{Mentioned}}
+*{{GOT|Winterfell}} {{Indirect}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Night's Watch}}
+{{Gift}}
+
+<!--Categories-->
+[[Category:Castles of the Wall]]
+
+<!--Languages-->
+[[de:Schattenturm]]
+[[fr:Tour Ombreuse]]
+[[pl:Wieża Cieni]]
+[[ru:Сумеречная башня]]

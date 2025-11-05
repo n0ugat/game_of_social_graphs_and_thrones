@@ -1,0 +1,377 @@
+{{Canonicity|Canon}}
+{{Organization
+| Title       = {{PAGENAME}}
+| Theme       = Stark
+| Image       = Game-of-thrones-season-8-finale-tyrion-1558351315.jpg
+| Type        = Privy council<br>Royal advisory body
+| Status      = Active
+| Symbol      = 
+| Words       = 
+| Center      = [[Red Keep]], [[King's Landing]]
+| Leader      = [[Hand of the King]]
+| Affiliation = [[King of the Andals and the Rhoynar and the First Men|King of the Andals and the First Men]]
+| Religion    = 
+| Military    = 
+| Founded     = [[1 AC]]{{Dateref|Aegon's coronation}}<br>by {[[Aegon I Targaryen]]}
+}}
+{{Dialogue a-b|Varys|[[Robert Baratheon|His Grace]] has many cares: he entrusts some small matters to us, that we might lighten the load.|Petyr Baelish|We are the lords of small matters here.|[[Varys]] and [[Petyr Baelish]] to [[Eddard Stark]]|Lord Snow}}
+The '''Small Council'''{{Ref|GOT103}} is a governing body which advises the king of the [[Seven Kingdoms]], later the [[Six Kingdoms]] and institutes policy at his command. It is the inner (thus "small") council of the [[King of the Andals and the Rhoynar and the First Men|king]], essentially forming the "government cabinet" of the Seven Kingdoms. Members are appointed to their position by the King; theoretically they can be dismissed at will by the king, however in practice this might lead to undesirable political fallout.
+
+The king serves as the head of the council and takes note of its recommendations, but only the king can make the council's decisions into law. The [[Hand of the King]] is the leading advisor on the council and serves as the king's proxy when he is not present, in which case the Hand chairs the meeting. If the king is a minor, then by default the appointed [[regent]] will act in place of the king on the council.<ref>[http://viewers-guide.hbo.com/game-of-thrones/season2/#!/guide/appendix/beyond-the-houses/ HBO Viewer's Guide, Season 2 appendices, Beyond the Houses - Small Council entry]</ref>
+
+The Small Council meets at the capital city of [[King's Landing]] in the [[Red Keep]], in the same building as the [[throne room]].
+
+==Composition==
+Members of the Small Council are appointed and dismissed by the reigning [[King of the Andals and the Rhoynar and the First Men]], in theory as the king wills. In practice, of course, appointments or dismissals may have undesired political consequences which the king must consider.
+
+The Small Council usually consists of seven non-hereditary positions (possibly to reflect the traditions of the [[Faith of the Seven]]), although its modern form has now eight positions. Long vacancies sometimes occur for one of these positions, i.e. during times of war, though this is considered undesirable.
+
+*[[Hand of the King]]: Serves as the king's chief advisor and chairs the Small Council. In the event of the king's absence, the Hand serves as his proxy on the council.
+*[[Master of War]]: Serves as the realm's chief military commander, particularly in land-base warfare. The title was created by Queen Regent [[Cersei Lannister]] during the reign of her son, King [[Tommen I Baratheon]], amidst the ongoing [[War of the Five Kings]].
+*[[Master of Coin]]: Serves as the realm's chief treasurer and bookkeeper.
+*[[Master of Whisperers]]: Serves as the realm's chief intelligence advisor and spymaster, supervising covert activities and information gathering, both at home and abroad.
+*[[Master of Laws]]: Serves as the realm's chief legal advisor, who also manages the [[Red Keep]]'s dungeons and supervises [[Laws and customs|law enforcement]].
+*[[Master of Ships]]: Serves as the realm's chief naval officer, supervising and in command of the [[royal fleet]] and coordinating the realm's maritime defenses.
+*[[Lord Commander of the Kingsguard]]: Formerly served as the realm's chief military advisor, particularly in regard to land-based warfare, as well as being the commander of the [[Kingsguard]], the King’s personal guard. While the king personally appoints knights to the Kingsguard at his whim, once chosen they are lifetime appointments, which cannot legally be removed. In theory, however, a king may demote the Lord Commander back to being a regular member and elevate one of the other six Kingsguard to Lord Commander (though it is unknown if this has ever happened). Following [[Robert's Rebellion]] and the ascension of King [[Robert I Baratheon]] in [[281 AC]], the Lord Commander's seat on the Small Council was removed. It would be restored to the Small Council 24 years later with the election of King [[Bran I Stark]] in [[305 AC]], although with its original duties having been assumed by the Master of War, its current role on the Small Council is unknown.
+*[[Grand Maester]]: Serves as the [[Order of Maesters|maester]] assigned to the Red Keep, and thus to the realm. Like all maester assignments, the Grand Maester is appointed by the [[Conclave]] of [[Archmaester]]s at the [[Citadel]], not the king. While controversial, the King and the Hand of the King have the authority to exclude the Grand Maester from the Small Council, and even imprison him, but cannot replace him as Grand Maester. This makes the Grand Maester unique as the only member of the council not specifically chosen by the king. The Grand Maester's role on the Small Council is to provide intellectual advice to the king based on his studies at the Citadel. The Grand Maester also provides medical treatment to the king and the royal family in the event of injury or illness.
+*An emissary position was created by [[Tywin Lannister]] for [[Oberyn Martell]] and [[Dorne]] in general. Intended to be taken up by Oberyn's nephew [[Trystane Martell]], the heir of the [[Prince of Dorne]], [[Doran Martell]], following his death, but Trystane ends up [[Coup in Dorne|dying]] before he could.
+
+If the [[regent]] of an underage King does not already possess one of these positions, then they are included in the Small Council as the King's proxy.
+
+The Commander of the [[City Watch of King's Landing|City Watch]] is not, strictly speaking, a position in the Small Council, however the Commander frequently attends Small Council meetings to report on conditions in the capital city. [[Janos Slynt]] is given an official seat on the council as one of his rewards for the role he played in the betrayal and arrest of Eddard Stark, though he was subsequently removed by acting Hand [[Tyrion Lannister]].
+
+The council may on occasion extend invitations to other lords or members of the royal family to occupy a seat on the council, despite there being no actual "office" for them to fill (serving as advisors who function as [[Wikipedia:Minister without portfolio|ministers without portfolio]]). Such was the case during the reign of King [[Viserys I Targaryen]], where his wife, Queen [[Alicent Hightower]], and his daughter and heir, Princess [[Rhaenyra Targaryen]], served on his council. They same held true for King [[Aegon II Targaryen]], where his mother, Alicent, continued to serve on his Small Council, while Aegon granted his brother, Prince [[Aemond Targaryen]], a seat as well.
+
+==Members==
+===Under Aegon I Targaryen===
+The positions and members of the king's Small Council under [[Aegon I Targaryen]], the Conqueror, included:
+*The [[Hand of the King]]
+**Lord [[Orys Baratheon]]
+**Lord [[Edmyn Tully]]
+
+===Under Aenys I Targaryen===
+The positions and members of the king's Small Council under [[Aenys Targaryen|Aenys I Targaryen]] included:
+*The [[Hand of the King]]
+**Prince [[Maegor Targaryen]]
+**Septon [[Murmison]]
+*[[Grand Maester]]: [[Gawen]]
+
+===Under Maegor I Targaryen===
+The positions and members of the king's Small Council under [[Maegor Targaryen|Maegor I Targaryen]] included:
+*The [[Hand of the King]]
+**Lord [[Lucas Harroway]]
+**Lord [[Edwell Celtigar]]
+*The [[Grand Maester]]
+**[[Gawen]]
+**[[Myros]]
+**[[Desmond]]
+**[[Benifer]]
+*[[Lord admiral]]: Lord [[Daemon Velaryon]]
+
+===Under Jaehaerys I Targaryen===
+The positions and members of the king's Small Council under [[Jaehaerys I Targaryen]] included:
+*The [[Hand of the King]]:
+**Septon [[Barth]]
+**Prince [[Baelon Targaryen (son of Jaehaerys I)|Baelon Targaryen]]
+**Ser [[Otto Hightower]]
+*[[Grand Maester]]: [[Benifer]]
+*[[Master of Coin]]: Lord [[Lyman Beesbury]]
+*[[Lord admiral]]: Lord [[Daemon Velaryon]]
+*[[Lord Commander of the Kingsguard]]: Ser [[Ryam Redwyne]]
+[[File:TRP Small Council.jpg|thumb|Small Council under King Viserys I.]]
+===Under Viserys I Targaryen===
+The positions and members of the king's Small Council under [[Viserys I Targaryen]] included:
+*[[Hand of the King]]: 
+**Ser [[Otto Hightower]]
+**Lord [[Lyonel Strong]]
+*[[Grand Maester]]: 
+**[[Mellos]]
+**[[Orwyle]]
+*[[Master of Coin]]: 
+**Prince [[Daemon Targaryen]]
+**Lord [[Lyman Beesbury]]
+*[[Master of Laws]]: 
+**Prince Daemon Targaryen
+**Lord Lyonel Strong
+**Lord [[Jasper Wylde]]
+*[[Master of Ships]]: 
+**Lord [[Corlys Velaryon]]
+**Ser [[Tyland Lannister]]
+*[[Lord Commander of the Kingsguard]]: 
+**Ser [[Ryam Redwyne]]
+**Ser [[Harrold Westerling]]
+*Without portfolio:
+**Queen [[Alicent Hightower]]
+**Princess [[Rhaenyra Targaryen]]
+
+===Under Aegon II Targaryen===
+The positions and members of the king's Small Council under [[Aegon II Targaryen]] at the onset of the [[Dance of the Dragons]] included:
+*[[Hand of the King]]: Ser [[Otto Hightower]]
+*[[Grand Maester]]: [[Orwyle]]
+*[[Master of Coin]]: Ser [[Tyland Lannister]]
+*[[Master of Laws]]: Lord [[Jasper Wylde]]
+*[[Master of Ships]]: ''(vacant)''
+*[[Master of Whisperers]]: Lord [[Larys Strong]]
+*[[Lord Commander of the Kingsguard]]: Ser [[Criston Cole]]
+*Without portfolio: 
+**Queen Dowager [[Alicent Hightower]]
+**Prince [[Aemond Targaryen]]
+[[File:OT2 Green Council.png|thumb|Green Council.]]
+
+Following Otto's dismissal as Hand, he was replaced by Criston Cole. After Aegon II was rendered incapacitated during the [[Battle at Rook's Rest]], the Small Council elected Prince Aemond Targaryen as [[regent]]. Thus, the Small Council included:
+*Prince [[Regent]] [[Aemond Targaryen]]
+*Hand of the King: Ser [[Criston Cole]]
+*Grand Maester: [[Orwyle]]
+*Master of Coin: Ser [[Tyland Lannister]]
+*Master of Laws: Lord [[Jasper Wylde]]
+*Master of Ships: ''(vacant)''
+*Master of Whisperers: Lord [[Larys Strong]]
+*Lord Commander of the Kingsguard: Ser Criston Cole
+*Without portfolio:
+**Queen Dowager [[Alicent Hightower]]
+===Under Aerys II Targaryen===
+The positions and members of the king's Small Council under [[Aerys II Targaryen]], the Mad King, included:
+*The [[Hand of the King]]
+**Lord [[Tywin Lannister]]. ''(Tywin personally served as Aerys's Hand for twenty years, during which he held the realm together during Aerys's spiral into insanity. Tywin resigned in protest some years before the end of Aerys's reign.)''
+**Lord [[Owen Merryweather]]
+**Lord [[Jon Connington]]
+**Lord [[Qarlton Chelsted]]
+**Wisdom [[Rossart]]
+*[[Grand Maester]]: [[Pycelle]]
+*[[Master of Coin]]: ''(unknown)''
+*[[Master of Laws]]: ''(unknown)''
+*[[Master of Ships]]: ''(unknown)''
+*[[Master of Whisperers]]: [[Varys]]
+*[[Lord Commander of the Kingsguard]]: Ser [[Gerold Hightower]], known as "the White Bull"
+
+===Under Robert Baratheon===
+[[File:Small Council.png|thumb|Small Council under King Robert I]]The positions and members of the king's Small Council under [[Robert Baratheon|Robert I]] are:
+*The [[Hand of the King]]:
+**Lord [[Jon Arryn]], [[Defender of the Vale]] and [[Warden of the East]]. ''(Appointed to the position when Robert ascended to the throne and retained it for most of Robert's subsequent seventeen-year reign.)''
+**Lord [[Eddard Stark]], [[Lord of Winterfell]] and [[Warden of the North]]. ''(Chosen to replace Jon Arryn after the former's sudden death, serving during the last few months of King Robert's reign.)''
+*[[Grand Maester]]: [[Pycelle]]
+*[[Master of Coin]]: Lord [[Petyr Baelish]], known as "Littlefinger"
+*[[Master of Whisperers]]: [[Varys]], known as "the Spider"
+*[[Master of Laws]]: Lord [[Renly Baratheon]], Lord of [[Storm's End]] and [[Lord Paramount of the Stormlands]]
+*[[Master of Ships]]: Lord [[Stannis Baratheon]], Lord of [[Dragonstone]] ''(Absent from recent meetings at [[King's Landing]])''
+*[[Lord Commander of the Kingsguard]]: [[Barristan Selmy]] ''(Left unoccupied seat on the council, subsequently dismissed from the position on Cersei's authority after Robert's demise)''
+
+Traditionally, as Lord Commander of the Kingsguard, [[Knighthood|Ser]] [[Barristan Selmy]] would have had a seat on the Small Council. However, because Barristan had been a Kingsguard for Aerys Targaryen, Robert did not like to include him in discussions of strategy, so he usually held Small Council meetings without him. Barristan did not mind being left out, because he did not enjoy politics.<ref>"[[Kissed by Fire]]"</ref>
+
+King Robert was notoriously uninterested in matters of governance, letting his Small Council run the realm while he ate, drank, hunted, and whored. Robert's own two brothers served on his Small Council, but they were also annoyed at how little he paid attention to the council. His youngest brother Renly, as well as Pycelle, lamented that he ignored all of Jon Arryn's sound financial advice, ultimately plunging the realm an astonishing 6 million Gold Dragons in great debt.<ref>"[[Lord Snow]]"</ref> According to Tywin, Robert appeared at only ''three'' Small Council meetings in his entire seventeen year reign (though he might not have been aware of Robert's appearance at some of the more recent council meetings with Eddard Stark).<ref>"[[Breaker of Chains]]"</ref>
+
+===Under Joffrey Baratheon===
+The positions and members of the king's Small Council under [[Joffrey Baratheon|Joffrey I]] are:
+*[[Regent|Queen Regent]] [[Cersei Lannister]], King Joffrey's mother
+*The Hand of the King: Lord [[Tyrion Lannister]], serving as acting Hand instead of his father [[Tywin Lannister]].
+*Grand Maester: [[Pycelle]]. ''(Removed by Tyrion and imprisoned in the dungeons of the Red Keep. However, Tyrion did not have the authority to replace him as Grand Maester. The position was functionally vacant for several months.)''
+*Master of Coin: Lord [[Petyr Baelish]]
+*Master of Whisperers: [[Varys]]
+*Master of Laws: ''(vacant)''
+*Master of Ships: ''(vacant)''
+*[[Lord Commander of the City Watch]]: [[Janos Slynt]]. ''(Rewarded an official seat on the Small Council for his service to the [[Iron Throne]] for his role in the [[Massacre in the Red Keep]]. Subsequently removed by Tyrion and exiled to the [[Night's Watch]] for orchestrating and participating in the [[Massacre in King's Landing]], under the orders of King Joffrey Baratheon.)
+''
+Joffrey himself barely came to meetings of his own Small Council, unless it was insisted upon. His mother Cersei, as queen regent, typically took his place.
+
+With the departure of Renly and Stannis Baratheon, who declared themselves rival claimants to the Iron Throne, the offices of Master of Laws and Master of Ships were left vacant. Cersei and Joffrey either could not find suitable candidates or simply didn't bother to appoint replacements.
+
+Cersei and Joffrey's first edicts were to name Tywin as Hand of the King, to unlawfully dismiss Ser Barristan Selmy from the Kingsguard, and to name [[Jaime Lannister|Jaime]] his replacement as Lord Commander. Tywin, however, did not assume the office for a full year because he was busy personally directing the [[War of the Five Kings|war]] in the [[Riverlands]]. Because he could not go to the capital in person, Tywin sent Tyrion in his stead as acting Hand to try to rein in the royal court. Jaime did not arrive in the capital either but was instead captured during the [[Battle of Whispering Wood]], after which he spent over a year as a prisoner of the Starks, and another year slowly making his way back to King's Landing through the devastated Riverlands. Jaime was technically Lord Commander during this time period, but the position was functionally vacant. Moreover, Tyrion removed Pycelle from the council and imprisoned him in the dungeons of the Red Keep, after discovering that he was spying on him (albeit for Queen Regent Cersei, his own sister). Tyrion did not have the authority to appoint a new Grand Maester, so the position was also vacant for several months. Also, while the Commander of the City Guard is not a full member, he usually sits at council meetings, but in disgust, Tyrion exiled Janos Slynt to the [[Wall]]. As Varys pointed out, for a time the "Small Council" was growing smaller by the day: four out of the seven main offices were vacant, the regent but not the king sat at most meetings, and the Hand was technically only an acting Hand.
+
+After the [[Battle of the Blackwater]], Tywin re-assumed his duties as the Hand of the King and sought to restore order to the council. Petyr Baelish was rewarded by being named Lord of [[Harrenhal]] and departed for the [[Vale of Arryn]] to woo Lady [[Lysa Arryn]] into a marriage-alliance and secure the Vale's loyalty to the Iron Throne. Tyrion, who had been relieved of his position as acting Hand, was then promoted back to Master of Coin to fill Baelish's absence. Cersei secured Pycelle's release from the dungeons before the battle, and afterwards Tywin reinstated him to the council. As a display of his dominance, Tywin decided to start holding council meetings in the [[Tower of the Hand]], adjacent to his own chambers. The composition of Joffrey's Small Council after the Battle of the Blackwater is:
+*The Hand of the King: Lord [[Tywin Lannister]], [[Lord of Casterly Rock]] and [[Warden of the West]], King Joffrey's grandfather.
+*[[Regent|Queen Regent]] [[Cersei Lannister]], King Joffrey's mother
+*Grand Maester: [[Pycelle]]. (Reinstated by Tywin Lannister after the Battle of the Blackwater.)
+*Master of Coin: Lord [[Tyrion Lannister]]
+*Master of Whisperers: [[Varys]]
+*Master of Laws: ''(vacant)''
+*Master of Ships: ''(vacant)''
+*[[Lord Commander of the Kingsguard]]: [[Jaime Lannister]]. ''(Re-assumed the position's activities after a years-long absence in captivity and subsequent escape from their grasp.)
+''
+===Under Tommen Baratheon===
+Following Joffrey's [[Purple Wedding|death]], the composition of the Small Council remains mostly unchanged, except for Tyrion Lannister, who is imprisoned under charges of [[regicide]]. Tywin also offers a seat to Prince [[Oberyn Martell]], the younger brother of [[Doran Martell]], the [[Prince of Dorne]], and Dorne in general. Oberyn was not given a specific office and was not interested in asking for one. Tommen's council members are:
+*The Hand of the King: Lord [[Tywin Lannister]].
+*Queen Regent [[Cersei Lannister]]
+*Grand Maester: [[Pycelle]]
+*Master of Coin: ''(vacant)''
+*Master of Whisperers: [[Varys]]
+*Master of Laws: ''(vacant)''
+*Master of Ships: Lord [[Mace Tyrell]]
+*[[Lord Commander of the Kingsguard]]: [[Jaime Lannister]]
+*Representative of [[Dorne]]: Prince [[Oberyn Martell]] ''(new position)''
+
+King Tommen's Small Council changes dramatically after the [[Second trial by combat of Tyrion Lannister|trial by combat of Tyrion Lannister]], in which Oberyn Martell fights as his champion and dies, and the [[Assassinations in the Tower of the Hand|assassination of Tywin Lannister]], which also results in Tyrion Lannister and Varys fleeing the city.
+
+With most positions vacant, Queen Regent Cersei seizes control over the council, and stacks it with sycophants. She pointedly leaves the position of Hand of the King vacant until Tommen is older and selects his own Hand, while sitting in the Hand's chair at meetings. The office of Master of Laws, empty since Renly left the capital, is still left vacant. Cersei makes [[Mace Tyrell]] the new Master of Coin, in addition to his current post as Master of Ships. Controversially, Cersei makes the disgraced former maester [[Qyburn]] the new Master of Whisperers, over Pycelle's objections, a blunt and disproportionate reward for displaying loyalty to her. Cersei also makes up the new title "[[Master of War]]" - basically at whim, and despite the fact that it contradicts the title [[Protector of the Realm]] - and offers it to her uncle [[Kevan Lannister]]. Kevan, however, refuses to become her patsy and goes back to [[Casterly Rock]]. As Kevan points out, Cersei is only the queen mother now, and technically doesn't have the right to do any of this: she is no longer even the [[Regent|queen regent]], because Tommen has come of legal age and married Margaery Tyrell. Jaime Lannister remains as Lord Commander of the Kingsguard, but he volunteered for a secret mission outside the capital to [[Dorne]], which for the moment reduces the Small Council to only four people including Cersei herself. After all of this, Tommen's council members are:
+*The Hand of the King: ''(vacant)''
+*Queen Mother: [[Cersei Lannister]]
+*Grand Maester: [[Pycelle]]
+*Master of Ships & Master of Coin: Lord [[Mace Tyrell]]
+*Master of Whisperers: [[Qyburn]]
+*Master of Laws: ''(vacant)''
+*[[Lord Commander of the Kingsguard]]: [[Jaime Lannister]]. ''(Subsequently dismissed as the Lord Commander after the failure of his confrontation with the [[High Sparrow]] at the Great Sept of Baelor.)''
+
+After Cersei's imprisonment by the Faith, Grand Maester Pycelle sends a raven to Casterly Rock asking for Kevan to take the role of Hand of the King, to which Kevan agrees, reorganizing the Small Council as such:
+*The Hand of the King: Ser [[Kevan Lannister]], [[Protector of the Realm]] and Commander of the [[House Lannister|Lannister]] Armies
+*Grand Maester: [[Pycelle]]
+*Master of Ships & Master of Coin: Lord [[Mace Tyrell]]
+*Master of Whisperers: [[Qyburn]]
+*Master of Laws: ''(vacant)''
+
+In order to seal the alliance with [[Dorne]], Jaime Lannister promises to have [[Trystane Martell]], Prince [[Doran Martell|Doran]]'s heir, appointed to his uncle's seat on the Council. However, since Trystane's murder, his seat is vacant once more. Moreover, Kevan Lannister removes Qyburn from Council, and he offers a seat to Lady Olenna Tyrell, to which she agrees. After all of this, Tommen's council members are:
+*The Hand of the King: Ser [[Kevan Lannister]], [[Protector of the Realm]] and Commander of the [[House Lannister|Lannister]] Armies
+*Grand Maester: [[Pycelle]]
+*Master of Ships & Master of Coin: Lord [[Mace Tyrell]]
+*Master of Whisperers: ''(vacant)''
+*Master of Laws: ''(vacant)''
+*Advisor: Lady [[Olenna Tyrell]]
+
+Since the [[Standoff at the Great Sept of Baelor|failed action]] against the [[Faith Militant]], Lady Olenna Tyrell abandons King's Landing, at the instigation of [[Margaery Tyrell|her granddaughter]]. After this, Tommen's council members are:
+*The Hand of the King: Ser [[Kevan Lannister]], [[Protector of the Realm]] and Commander of the [[House Lannister|Lannister]] Armies
+*Grand Maester: [[Pycelle]]
+*Master of Ships & Master of Coin: Lord [[Mace Tyrell]]
+*Master of Whisperers: ''(vacant)''
+*Master of Laws: ''(vacant)''
+
+===Under Cersei Lannister===
+After the [[destruction of the Great Sept of Baelor]] and extinction of [[House Baratheon of King's Landing]], Cersei Lannister crowns herself queen of the Seven Kingdoms. [[Kevan Lannister]] and [[Mace Tyrell]] are killed in the explosion at the Sept along with many others, and [[Pycelle]] is assassinated by [[Qyburn]] and his [[little birds]]. Cersei's council members are:
+*The Hand of the Queen & Master of Whisperers: [[Qyburn]]
+*Grand Maester: ''(unknown)''
+*Master of Coin: ''(unknown)''
+*Master of Laws: ''(unknown)''
+*Lord Commander of the Queensguard: ''(unknown)''
+
+===Under Daenerys Targaryen===
+Once Daenerys Targaryen decides to rule over [[Meereen]] as its queen and enforce her [[Liberation of Slaver's Bay|abolition of slavery]] on [[Slaver's Bay]], she assembles her own ''ad hoc'' Small Council, composed of advisors and representatives of the various factions under her rule:
+*Advisor and General: Ser [[Jorah Mormont]]
+*Commander of the [[Second Sons]]: [[Daario Naharis]]
+*Commander of the [[Unsullied]]: [[Grey Worm]]
+*Advisor and Lord Commander of the [[Kingsguard#Rival Kingsguards|Queensguard]]: Ser [[Barristan Selmy]]
+*Advisor, translator, and personal handmaiden: [[Missandei]]
+
+After being exposed as a spy, Jorah Mormont is exiled. Then, Daenerys decides to include a representative for each of the major factions in the population: the former slave masters and the former slaves. [[Hizdahr zo Loraq]], a nobleman at her service, represents the former, while the latter are briefly represented by [[Mossador]], one of the first Meereenese slaves to rise up for her:
+*Representative of the former [[Great Masters]]: [[Hizdahr zo Loraq]]
+*Representative of Meereen's freedmen: [[Mossador]]
+*Commander of the Unsullied: [[Grey Worm]]
+*Commander of the Second Sons: [[Daario Naharis]]
+*Advisor and Lord Commander of the Queensguard: Ser [[Barristan Selmy]]
+*Advisor, translator, and personal handmaiden: [[Missandei]]
+
+During the struggle against the [[Sons of the Harpy]], Mossador is executed for killing a captive [[Son of the Harpy|foe]] without a trial, and Barristan Selmy dies defending the Unsullied from an [[Shadow war|attack]], in which Grey Worm sustains heavy injuries. In order to restore peace, Daenerys decides to reopen the [[fighting pit]]s and marry Hizdahr zo Loraq. Eventually, [[Tyrion Lannister]] arrives from Westeros as Jorah's captive and convinces the Queen to take him into her service. During the reopening of the [[Fighting pit#Great Games|Great Games]] at the [[Great Pit of Daznak]], the Sons of the Harpy lead a massacre that results in the death of many, including Hizdahr, and Daenerys herself escapes from Meereen on [[Drogon]]'s back. In her absence, her followers decide that, while Jorah and Daario track her down, Tyrion will lead the council, as he is the only one with experience governing a city. As Commander of the Unsullied, Grey Worm will enforce the legitimacy of the council, and Missandei, who is Dany's closest confidant, will serve as the queen's voice. In addition, the former [[Master of Whisperers]] for the Iron Throne, Varys, joins the Council, bringing his [[Little birds|spy network]] with him. Shortly before Daenerys's return, he temporarily leaves to gain alliances in Westeros. During this time, her council members are:
+*Leader of the Council: [[Tyrion Lannister]]
+*Master of Whisperers: [[Varys]]
+*Commander of the Unsullied: [[Grey Worm]]
+*Commander of the Second Sons: [[Daario Naharis]]
+*Advisor, translator, and personal handmaiden: [[Missandei]]
+
+After the [[second siege of Meereen]], Daenerys's forces are joined by a fraction of the [[Iron Fleet]] led by [[Yara Greyjoy|Yara]] and [[Theon Greyjoy]]. Before she leaves [[Meereen]] with her army setting sail for [[Westeros]], she asks [[Daario Naharis]] to stay in Meereen and she names [[Tyrion Lannister]] as Hand of the Queen. Varys returns to Meereen with allies from [[Dorne]] and [[House Tyrell]]. After all of this, Daenerys's council members are:
+[[File:Stormborn Dany's Council.jpg|thumb|Daenerys's Council.]]
+*The Hand of the Queen: [[Tyrion Lannister]]
+*Master of Whisperers: [[Varys]]
+*Commander of the [[Unsullied]]: [[Grey Worm]]
+*Commander of the [[Iron Fleet]]: Queen [[Yara Greyjoy]]
+*Representative of [[Dorne]]: [[Ellaria Sand]]
+*Representative of the [[Reach]]: Lady [[Olenna Tyrell]]
+*Advisor, translator, and personal handmaiden: [[Missandei]]
+During the [[Last War]], Olenna, Ellaria and Yara are all [[Assault on the Targaryen fleet|captured]] or [[Sack of Highgarden|killed]] by the [[House Lannister|Lannister]]/[[Euron Greyjoy|Greyjoy]] alliance and Grey Worm and the Unsullied are [[Fall of Casterly Rock|stranded]] at [[Casterly Rock]]. However, Daenerys gains an alliance with the [[King in the North]] [[Jon Snow]] by permitting and aiding him in mining [[dragonglass]] to be turned into weapons against the [[White Walkers]]. After her enormous victory at the [[Battle of the Goldroad]] and the return of [[Jorah Mormont]], Daenerys's council members are:
+* The Hand of the Queen: [[Tyrion Lannister]]
+* Master of Whisperers: [[Varys]]
+* Commander of the Unsullied: [[Grey Worm]] 
+* Representative of the [[North]] and the [[Vale of Arryn|Vale]]: King [[Jon Snow]] 
+* Additional Representative and Advisor: [[Davos Seaworth|Ser Davos Seaworth]]
+* Advisor, translator, and personal handmaiden: [[Missandei]]
+* Advisor and General: [[Jorah Mormont|Ser Jorah Mormont]]
+Jon eventually [[Bending the knee|bent the knee]] to Daenerys after she saved him and [[Wight hunt|his band]] [[beyond the Wall]], renouncing his title as king and accepting her offer of becoming [[Warden of the North]]. He and Davos still remain on her Small Council and travel north to fight in the [[Great War]].
+
+After the [[Battle of Winterfell]] and the [[Battle of King's Landing]], the executions of [[Missandei]] on the orders of [[Cersei]] and [[Varys]] by Daenerys for [[Treason]] and the end of the [[Great War]] and the [[Last War]], Queen Daenerys's remaining council members are:
+* The Hand of the Queen: [[Tyrion Lannister]] ''(resigned)''
+* Commander of the Unsullied and [[Master of War]]: [[Grey Worm]]
+* Representative and [[Warden of the North]]: [[Jon Snow]]
+
+===Under Brandon Stark===
+Following the election of [[Bran Stark]] as king of the Six Kingdoms in a [[Great Council in the Dragonpit]], Bran's Small Council consists of:
+*Hand of the King: Lord [[Tyrion Lannister]]
+*Grand Maester: [[Samwell Tarly|Samwell]]
+*Master of Coin: Lord [[Bronn]]
+*Master of Laws: ''(unknown after Bran's audiences)''
+*Master of Whisperers: ''(unknown after Bran's audiences)''
+*Master of War: ''(unknown after Bran's audiences)''
+*Master of Ships: Lord [[Davos Seaworth]]
+*Lord Commander of the Kingsguard: Ser [[Brienne of Tarth]]
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the Small Council was the creation of [[Aegon I Targaryen|King Aegon I]], assembled to advise him and carry out policy. The Small Council is similar to a [[wikipedia:Privy council|privy council]] in real-life medieval monarchies.
+
+In the novels the council has an additional member: the Lord Commander of the [[Kingsguard]], who advises the king on various matters, particularly military ones. In the TV series, [[Barristan Selmy]] is never shown to be a member, the reason is explained in the Season 3 episode "[[Kissed by Fire]]". The reason for this was apparently due to the decision to have Barristan openly reveal his identity to [[Daenerys Targaryen]] as soon as he meets her. In the books, he initially hid his true identity, and told her his name was "Arstan Whitebeard". Because Barristan did attend Small Council meetings in the first novel, he knew that [[Jorah Mormont]] had been spying on Daenerys for Varys and King Robert. Because he was hiding his identity, however, he did not reveal this information as soon as he met Daenerys. In the TV version, Barristan does reveal his identity to Daenerys as soon as he meets her, probably because it is easy to make such a narrative deception in a book but this doesn't translate well into the visual medium of television. This of course means that if Barristan knew of Jorah's spying from attending Small Council meetings (in Season 1), there would be no reason for him not to reveal Jorah's spying to Daenerys when he first meets her at the beginning of Season 3. The simple answer the writers apparently settled on is to say that in the TV continuity, Barristan rarely attended Small Council meetings, because King Robert didn't like having a Targaryen loyalist around when he was discussing the realm's strategies (specifically, to send assassins to kill the Targaryen exiles - in the books, Barristan objected to this along with Ned Stark).
+
+In the books, Jaime rarely attends the council by choice, since he is not interested in politics. The only time he attended the council (in the third novel), he soon got bored and his mind went elsewhere; before the meeting was over, he excused himself and walked away, leaving to his uncle to take care of whatever was discussed.
+
+The Commander of the City Guard is not technically a member of the council but often sits in on its meetings to report on conditions in the capital city. Janos Slynt was rewarded with an official seat on the council for his betrayal of Ned Stark. However, Tywin Lannister considers this preposterous when he hears of it due to Janos's common-born status, indicating that the Commander of the City Guard is still not quite considered to be a full council member. Indeed, one of Tywin's specific instructions to Tyrion when he sent him to King's Landing as acting Hand was to remove Janos from the council. In the TV series, it is implied that Tyrion's disgust at Janos's involvement in the [[Massacre in King's Landing|purge]] of Robert's bastard children was the sole reason that he removed Janos, and no specific mention is made of Tywin's instructions. In the books, Tyrion was also disgusted at Janos's actions, but this just gave him greater impetus to carry out his father's instructions (either way, Tyrion removes Janos in the TV series soon after he arrives in King's Landing; in the books as well, he didn't kick him out immediately simply because he had other matters to attend to first).
+
+Apart from Tywin, Varys was appointed Master of Whisperers during Aerys Targaryen's reign. Grand Maester Pycelle held his position even before Aerys ascended to the throne. [[Wisdom]] [[Rossart]], a pyromancer, was made [[Hand of the King]], during the final weeks of [[Robert's Rebellion]]. Varys and Pycelle would retain their positions after [[Robert Baratheon]] ascended to the [[Iron Throne]]. The ''World of Ice and Fire'' sourcebook (2014) finally revealed who the other three members of the Mad King's Small Council were: Master of Coin Qarlton Chelsted, Master of Ships Lucerys Velaryon, and Master of Laws Symond Staunton. After Tywin resigned, Owen Merryweather served as Hand of the King for a few years - an amiable sycophant who failed to quickly respond to Robert's Rebellion when it started, for which he was stripped of his lands and titles and replaced by [[Jon Connington]], until Aerys exiled him as well after his defeat at the [[Battle of the Bells]]. Aerys replaced him as Hand by promoting Chelsted to the office, but he later had Chelsted burned alive for refusing to go along with his [[Wildfire plot]]. Wisdom Rossart was then made hand for the better part of two weeks, before Jaime Lannister killed him and the Mad King during the Sack of King's Landing. It isn't known what happened to Lucerys Velaryon and Symond Staunton.
+
+After Robert became king, he pardoned Varys and allowed him to keep his position, as did Pycelle (who as a politically neutral maester was sworn to serve his castle's ruler, and was only doing his job when he stood by the Mad King - though he did later convince him to open the gates to Tywin's army). Barristan Selmy became the new Lord Commander of the Kingsguard, and Jon Arryn became the new Hand of the King. Robert's brother Stannis was immediately named the new Master of Ships, but two other men initially served as Robert's Master of Coin and Master of Laws, whose identities have not yet been revealed. Renly was a child during the war, and he was only appointed Master of Laws some years later. Littlefinger also only became Master of Coin some years later, after his work as a customs officers at Gulltown increased port revenues tenfold and impressed Jon Arryn enough to take him to the royal court.
+
+After Tywin resumes his post as Hand of the King after the Battle of the Blackwater, he dismisses Cersei from the Small Council. Technically as Queen Regent she still has some right to be there, and in practice Tywin does have her physically sit at several important council meetings when he is explaining his plans. However, Tywin makes it clear that he will not let Cersei wield power under him, and when she is present at the council it is just so she can hear Tywin's plans so she can quietly obey them: he doesn't let her take a leading role in the council's discussions. Similarly, in the TV series, Cersei is still shown physically sitting at Small Council meetings, but for the most part she sits silently as her father leads the discussion.
+
+When Tywin resumes his position as Hand of the King, he also sets about reordering the rest of the Small Council, in particular, that Cersei and Joffrey embarrassingly left the positions of Master of Laws and Master of Ships vacant for over a year. He appoints [[Kevan Lannister|Kevan]] as the new Master of Laws, and [[Mace Tyrell]] as the new Master of Ships (as a reward for allying with [[House Lannister]]. In Season 5, Kevan reappears and states that he only just returned to the capital for Tywin's funeral, indicating that he was commanding Lannister armies in the field up until this point, and was never made Master of Laws in the TV version. Even after Cersei reorganizes the council upon her father's death, the office of Master of Laws remains vacant.
+
+===Cersei's Small Council===
+The Small Council was gutted after the loss in rapid succession of Littlefinger, and then Tyrion, Tywin, and Varys. Littlefinger returned to the Vale, while Tyrion was falsely arrested for allegedly poisoning Joffrey; Tyrion later escaped and fled Westeros, but not before [[Assassinations in the Tower of the Hand|murdering Tywin]]; for his role in helping Tyrion escape, Varys also fled into hiding. Of the original Small Council when Joffrey seized power, only [[Pycelle]] still remained.
+
+In Season 5's "[[The House of Black and White]]", Cersei restaffs the Small Council by stacking it with sycophants, to make its offices just puppets while she functionally rules as the actual monarch in all but name. In the fourth novel, Cersei's corresponding takeover of the Small Council and stacking it with incompetent cronies was a major running plotline affecting politics in the capital city. The TV version significantly condenses this, though keeping the general thematic points the same:
+
+In the novels, Cersei appointed [[Harys Swyft]] (Kevan's own father-in-law) as the new [[Hand of the King]], Orton Merryweather as [[Master of Laws]], Gyles Rosby as [[Master of Coin]], and Aurane Waters as [[Master of Ships]]. She appointed [[Qyburn]] as the new [[Master of Whisperers]] (spymaster) in both the books and TV series. [[Mace Tyrell]] ''was'' the Master of Ships under Tywin (because after the [[royal fleet]] got destroyed at the [[Battle of the Blackwater]] they need the Tyrell's large fleet), but Cersei grew so distrustful of the Tyrells that she removed him from the office and sent him to besiege Stannis's remaining garrison at [[Storm's End]]. Since the council practically consisted of Cersei and her henchmen, it was publicly ridiculed as "the smallest council". Littlefinger scornfully refers to the three new members in the council as "the deaf, the dim, and the blind".
+
+Given that these characters were not introduced in the TV series before and the audience wouldn't be familiar with them, Cersei's reshuffling of the Small Council in the TV version is condensed: Cersei isn't bothering to name a new Hand of the King at all, shockingly leaving the office vacant while functioning ruling over the council. In the novels, Cersei is technically still Tommen's [[regent]] - but in the TV version, Cersei has lost the regency: Kevan specifically says that she is only the [[King|queen mother]], and makes no mention of being a regent. The queen mother has no right to sit on the council if not a regent (though a king can ''in theory'' invite any advisors he wants onto his council - but Tommen isn't even present). Mace Tyrell is retained, and simply made ''both'' Master of Ships and Master of Coin. Qyburn is the new Master of Whisperers, and Pycelle remains Grand Maester. As Kevan was apparently going to point out, as [[Lord Commander of the Kingsguard]], her brother Jaime is also supposed to be a member of the Small Council, but he has left the capital, though as it turns out, he volunteered to leave, to deal with events outside the city, rather than endure <span style="font-weight:normal;">the company of "the lickspittles and fools who surrounded Cersei", as he disdainfully regarded the council</span>.
+
+In the TV version, Cersei offers to make her uncle [[Kevan Lannister]] his [[Master of War]] - even though there is ''no such thing'' as a "Master of War". The crown's armies are commanded by the "[[Protector of the Realm]]" (usually the king, unless he is underaged, incapacitated or chooses to bestow the title to a more competent figure), who in turn commands the four [[Warden]]s. This reflects a more complex development in the novels, in which Cersei basically starts ''making up'' titles on the Small Council, at her whim (which she technically doesn't have the right to do either). In an act of petty resentment, she comes to loathe the idea of anyone else calling himself "master" in his title on the Small Council, feeling this means a loss of control. Therefore, she picks new names based on a few titles from the Free Cities: the Master of Coin is renamed the "Lord Treasurer", the Master of Ships is renamed the "Grand Admiral", and the Master of Laws is renamed the "Justiciar". She offers Kevan to become the new Hand of the King, but he bluntly refuses her after she refuses to give up the regency, openly telling her that she failed as a mother to raise Joffrey, and demands that she yield over custody of Tommen. She refuses, and he returns to Casterly Rock. Essentially the same plot development happens in the TV version, though significantly condensing these characters and plotlines.
+
+===Kevan's Small Council===
+Following Cersei's arrest, she is stripped of all power, and all her henchmen either flee, removed from their offices or arrested. Kevan takes upon himself to amend the damages his niece caused during her reign, and forms a council of capable people, with consideration of the political aspects:
+*Lord Regent - Kevan Lannister, Protector of the Realm
+*Hand of the King - Mace Tyrell
+*Grand Maester - Pycelle
+*Master of Laws/justiciar - [[Randyll Tarly]]
+*Master of Coin/Lord Treasurer - [[Harys Swyft]]
+*Master of Ships/grand admiral - [[Paxter Redwyne]]
+*Lord Commander of the Kingsguard - Jaime Lannister
+*Advisor - [[Nymeria Sand]] (representing [[Doran Martell]])
+
+The fact that three seats are taken by House Tyrell and its bannermen worries Kevan, but he knows it is necessary to appease the Lannisters' main allies, something Cersei failed to understand. In spite of this potential problem, Kevan and his Small Council are so effective that Varys feels the need to personally assassinate both Kevan and Pycelle, since they have already started to make headway in reversing the damage Cersei had done to the realm.
+
+==Gallery==
+<gallery>
+File:OT Hand.png|Totems used by each member of the council. Every totem is individualised. 
+File:Small Council Official Guide.jpg|Small Council chamber in 112 AC.
+</gallery>
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{Small Council of Viserys I Targaryen}}
+{{Green Council}}
+{{Black Council}}
+{{Small Council of Aerys II Targaryen}}
+{{Small Council of Robert I Baratheon}}
+{{Small Council of Joffrey I Baratheon}}
+{{Small Council of Tommen I Baratheon}}
+{{Small Council of Cersei I Lannister}}
+{{Small Council of Bran I the Broken}}
+
+<!--Categories-->
+[[Category:Organizations]]
+[[Category:Small Council| ]]
+
+<!--Languages-->
+[[de:Kleiner Rat]]
+[[fr:Conseil restreint]] 
+[[it:Concilio Ristretto]]
+[[pl:Mała Rada]]
+[[ru:Малый совет]]
+[[zh:御前会议]]

@@ -1,0 +1,68 @@
+{{DISPLAYTITLE:''The Game Revealed''}}
+{{Television series
+| Title      = ''{{PAGENAME}}''
+| Type       = Revealed
+| Image      = {{PAGENAME}}.png
+| Format     = 
+| Seasons    = [[The Game Revealed: Season 6|6]] {{*}} [[The Game Revealed: Season 7|7]] {{*}} [[The Game Revealed: Season 8|8]]{{Listref|TGR}}
+| Episodes   = 17{{Listref|TGR}}
+| Premiere   = "[[Episodes 1 & 2]]"{{Listref|TGR}}
+| Finale     = "[[The Bells (The Game Revealed)|The Bells]]"{{Listref|TGR}}
+| Network    = 
+| First      = May 3, 2016{{Listref|TGR}}
+| Final      = May 13, 2019{{Listref|TGR78}}
+| Runtime    = 9{{Appleref|TGR602}}-38 minutes{{Appleref|TGR803}} {{C|per episode}}
+| Starring   = 
+| Creator    = 
+| Producers  = 
+| Writers    = 
+| Directors  = 
+| Composer   = 
+| Production = 
+| Wrapped    = 
+| Based      = 
+| Year       = 
+}}
+'''''The Game Revealed'''''{{Ref|TGR601}} is a web documentary series released on the HBO website.
+
+==Description==
+{{Description|TGR}}
+
+==Seasons==
+{| {{Prettytable}}
+! Season
+! Episodes
+! Premiere date
+! Finale date
+|-
+| style="text-align: center;" | [[The Game Revealed: Season 6|6]]{{Listref|TGR}}
+| style="text-align: center;" | 5{{Listref|TGR}}
+| style="text-align: center;" | May 3, 2016{{Listref|TGR}}
+| style="text-align: center;" | June 27, 2016{{Listref|TGR}}
+|-
+| style="text-align: center;" | [[The Game Revealed: Season 7|7]]{{Listref|TGR}}
+| style="text-align: center;" | 7{{Listref|TGR}}
+| style="text-align: center;" | August 28, 2017{{Listref|TGR78}}
+| style="text-align: center;" | October 9, 2017{{Listref|TGR78}}
+|-
+| style="text-align: center;" | [[The Game Revealed: Season 8|8]]{{Listref|TGR}}
+| style="text-align: center;" | 5{{Listref|TGR}}
+| style="text-align: center;" | April 16, 2019{{Listref|TGR78}}
+| style="text-align: center;" | May 13, 2019{{Listref|TGR78}}
+|}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{The Game Revealed}}
+{{Game of Thrones}}
+
+<!--Categories-->
+{{DEFAULTSORT:Game Revealed, The}}
+[[Category:Documentaries of Game of Thrones]]
+[[Category:Documentaries released in 2016|5.03]]
+[[Category:The Game Revealed| ]]
+[[Category:Web documentary series]]
+[[Category:Web series of Game of Thrones]]
+[[Category:Web series released in 2016|5.03]]

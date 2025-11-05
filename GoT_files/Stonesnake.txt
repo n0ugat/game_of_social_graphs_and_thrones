@@ -1,0 +1,79 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Night's Watch.svg
+| Link  = Night's Watch
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = Stonesnake2x06.jpg
+| Birth       = 
+| Death       = [[299 AC]]{{Dateref|Game of Thrones: Season 2}}<br>The [[Skirling Pass]], [[beyond the Wall]]{{Ref|GOT208}}
+| House       = 
+| Affiliation = [[Night's Watch]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 2|2]]
+| Appearances = 2 episodes {{Below|Appearances}}
+| First       = "[[The Ghost of Harrenhal]]"
+| Last        = "[[The Old Gods and the New]]"
+| DeathEp     = "[[The Prince of Winterfell]]" {{C|fate confirmed}}
+| Actor       = 
+}}
+'''Stonesnake''' was a member of the [[Night's Watch]], a Ranger serving under [[Qhorin]]. He was killed by [[Free Folk|wildlings]] while scouting the [[Skirling Pass]].
+
+==Biography==
+===Background===
+Stonesnake is a ranger of the [[Night's Watch]].{{Ref|GOT205}}
+
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+After meeting the force led by [[Lord Commander of the Night's Watch|Lord Commander]] [[Jeor Mormont]] at the [[Fist of the First Men]], [[Qhorin]] selects Stonesnake, [[Harker]], and [[Borba]] for a scouting party to ambush a group of [[Free Folk|wildling]] lookouts. They are joined by [[Jon Snow]].{{Ref|GOT205}} They locate and surprise the lookouts, killing all but one of them. Jon is left to execute the wildling survivor, [[Ygritte]].{{Ref|GOT206}} Jon does not return and they return for him. They pick up his tracks but are ambushed by wildlings. Harker, Stonesnake and Borba are killed while Qhorin is captured. Jon had spared the captive and she leads him into a similar ambush. Jon blames himself for their deaths, and Qhorin tells him to make sure it wasn't in vain. Qhorin seizes the opportunity to insert Jon as an infiltrator in the wildling ranks by berating him for the deaths of the others publicly.{{Ref|GOT208}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Stonesnake is also a Ranger serving under Qhorin Halfhand. He is short and wiry man, near fifty with a grey beard. He is stronger than he looks, and has the best night-eyes of anyone Jon has ever known. He's dubbed Stonesnake for his ability for climbing mountains and cliffs.
+
+Stonesnake leads the mission to scale the [[Skirling Pass]] at night to ambush a trio of wildling watchers. He and Jon kill two of the sentries (one of them is [[Orell]]). He expresses distrust in [[Ygritte]] and later informs Qhorin of what she told Jon.
+
+After Stonesnake's horse panics and breaks its leg, he offers to stay behind and fight the pursuing wildlings like Dalbridge, but Qhorin orders him to make it through the [[Frostfangs]] afoot to the [[Fist of the First Men|Fist]], and to tell [[Jeor Mormont|Mormont]] what they saw. Jon watches as Stonesnake goes away, and fears that he has no chance. 
+
+In ''A Storm of Swords'', while Jon is watching the wildling raiders climbing on the [[Wall]], he thinks about Stonesnake and the moonlight climb they made together.
+
+Stonesnake's fate is uncertain; according to the appendices of the third, fourth, and fifth novels, he was lost afoot in the Skirling Pass.
+
+==Appearances==
+*{{GOT|The Ghost of Harrenhal}}
+*{{GOT|The Old Gods and the New}}
+*{{GOT|The Prince of Winterfell}} {{Indirect}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Night's Watch}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Rangers of the Night's Watch]]
+[[Category:Westerosi]]
+
+<!--Languages-->
+[[fr:Vipre]]
+[[ru:Каменный Змей]]
+[[zh:石蛇]]

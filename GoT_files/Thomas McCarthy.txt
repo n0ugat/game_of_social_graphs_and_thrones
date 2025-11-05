@@ -1,0 +1,30 @@
+{{Crew
+| Title= Thomas McCarthy
+| Image= Thomas-McCarthy-200.jpg
+| dateofbirth= 30 January, 1966
+| birthplace= New Jersey, USA
+| job= Director
+| imdb= http://www.imdb.com/name/nm0565336/
+}}
+'''Thomas Joseph McCarthy''' (born 30 January 1966) is an American Oscar-winning writer, director and actor. He most famous for his recurring role as [[wikipedia:Scott Templeton|Scott Templeton]] on ''[[wikipedia:The Wire|The Wire]]'', as well as directing the film ''[[wikipedia:The Station Agent|The Station Agent]]'' (starring [[Peter Dinklage]]) and co-writing the [[wikipedia:Pixar|Pixar]] movie ''[[wikipedia:Up (movie)|Up]]''.
+
+For ''[[Game of Thrones]]'', McCarthy directed the unscreened [[Pilot (Game of Thrones)|pilot]], including helping with casting the main roles in the series. Some of the material he shot for the pilot remains in the [[Winter Is Coming|first episode]] of the series, most notably the scenes in the crypts under [[Winterfell]] involving [[Robert Baratheon]] and [[Eddard Stark]]. Much of the rest of the episode was reshot by [[Tim Van Patten]]. Rather than jointly credit the episode to both McCarthy and Van Patten, [[HBO]] gave McCarthy a 'consulting producer' credit on the first episode.
+
+==Credits==
+===Director===
+* [[Pilot (Game of Thrones)|Pilot]] {{Unreleased}}
+
+===Consulting producer===
+* [[Winter Is Coming]]
+
+==See also==
+*{{WP|Thomas McCarthy (actor)|Thomas McCarthy}}
+*{{Template:IMDb
+|# = 0565336}}
+
+
+{{DEFAULTSORT:McCarthy, Thomas}}
+
+[[de:Thomas McCarthy]]
+[[ru:Томас МакКарти]]
+[[Category:Production staff members of Game of Thrones]]

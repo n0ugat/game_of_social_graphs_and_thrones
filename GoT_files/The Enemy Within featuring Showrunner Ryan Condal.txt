@@ -1,0 +1,37 @@
+{{Episode
+| Title    = {{PAGENAME}}
+| Type     = Podcast
+| Image    = TOGOTPHOTD201.jpg
+| Season   = 2
+| Episode  = 1
+| Date     = May 22, 2024{{Listref|TOGOTPHOTD}}
+| Runtime  = 45:15{{HBOref|TOGOTPHOTD}}
+| Writer   = 
+| Director = 
+| Year     = 
+| Previous = "[[The Official Game of Thrones Podcast Returns|''The Official Game of Thrones Podcast'' Returns]]"{{Listref|TOGOTPHOTD}}
+| Next     = "[[Dragon Deep Dive with Sound Designer Paula Fairfield]]"{{Listref|TOGOTPHOTD}}
+}}
+"'''The Enemy Within featuring Showrunner Ryan Condal'''"{{HBOref|TOGOTPHOTD}} is the first episode of the [[The Official Game of Thrones Podcast: House of the Dragon: Season 2|second season]] of ''[[The Official Game of Thrones Podcast: House of the Dragon]]''. It is the nineteenth episode of the series overall. It was released on May 22, 2024.
+
+==Description==
+{{Description|TOGOTPHOTD201}}
+
+==Gallery==
+<gallery bordersize="none">
+The Enemy Within featuring showrunner Ryan Condal
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{HBO Max|video/watch/PROM727472/PROM1182011|House of the Dragon Podcast: The Enemy Within featuring Ryan Condal}}
+
+<!--Navboxes-->
+{{The Official Game of Thrones Podcast: House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Enemy Within featuring Showrunner Ryan Condal, The}}
+[[Category:Episodes of The Official Game of Thrones Podcast: House of the Dragon: Season 2| 01]]
+[[Category:Episodes released in 2024|5.22]]

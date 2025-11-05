@@ -1,0 +1,69 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Hollard.svg
+| Link  = House Hollard
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Crownlander
+| Image       = 
+| Birth       = Near [[Duskendale]]
+| Death       = In Duskendale<br>Killed by [[Barristan Selmy]] during the [[Defiance of Duskendale]]
+| House       = [[House Hollard|Hollard]]
+| Affiliation = [[House Darklyn]]
+| Titles      = [[Knighthood|Ser]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Andals|Andal]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = {Brother}
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+Ser '''Symon Hollard''' was a knight of [[House Hollard]] and an uncle to [[Dontos Hollard]].
+
+==Biography==
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+He is mentioned within the entry of Ser [[Gwayne Gaunt]], as recorded in the ''[[Book of Brothers]]''. During the [[Defiance of Duskendale]], he killed Ser Gwayne. For this, he was later killed by Ser [[Barristan Selmy]].{{Ref|GOT401}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Symon Hollard was a key accomplice in the Defiance of Duskendale, when Lord Denys Darklyn of Duskendale defied King [[Aerys II Targaryen|Aerys II]] and captured him, imprisoning him within the Dun Fort.
+
+Ser Symon slew Ser Gwayne Gaunt of the Kingsguard during the taking of the King. When Ser Barristan Selmy of the Kingsguard entered the Dun Fort and escaped with the King, he avenged Ser Gwayne by killing Ser Symon.
+
+==Appearances==
+*{{GOT|Two Swords}} {{Text}}
+*{{H&L|The Defiance of Duskendale}} {{Indirect}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+{{DEFAULTSORT:Hollard, Symon}}
+[[Category:Crownlanders]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Knights]]
+[[Category:Members of House Hollard|Symon Hollard]]
+
+<!--Languages-->
+[[de:Symon Hollard]]
+[[es:Symon Hollard]]
+[[fr:Symon Hollard]]
+[[nl:Symon Hollard]]
+[[ru:Саймон Холлард]]
+[[zh:西蒙·霍拉德]]

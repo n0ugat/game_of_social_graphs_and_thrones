@@ -1,0 +1,92 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Strong.svg
+| Link  = House Strong
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Tully
+| Image       = Simon Strong.jpg
+| Birth       = 
+| Death       = 
+| House       = [[House Strong|Strong]]
+| Affiliation = [[Greens]] {{C|formerly}}<br>[[Blacks]]{{Ref|HOTD203}}
+| Titles      = [[Knighthood|Ser]]<br>[[Castellan]] of [[Harrenhal]]
+| AKA         = 
+| Culture     = [[Riverlands|Rivermen]]
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 2|2]]
+| Appearances = 6 episodes {{Below|Appearances}}
+| First       = "[[The Burning Mill]]"
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Simon Russell Beale]]
+}}
+{{Quote|I, Ser Simon Strong, castellan of Harrenhal, swear fealty to Rhaenyra of House Targaryen, the First of Her Name. I swear this by the Old Gods, and the New.|Simon Strong capitulates to Daemon Targaryen|The Burning Mill}}
+Ser '''Simon Strong''' is a [[Knighthood|knight]] of [[House Strong]] during the [[Dance of the Dragons]].
+
+==Biography==
+===Background===
+Simon is the uncle of [[Lyonel Strong]] and granduncle of [[Larys Strong]] and [[Harwin Strong]]. He serves as the [[castellan]] of [[Harrenhal]].{{Ref|HOTD203}}
+
+===[[House of the Dragon: Season 2|''House of the Dragon'': Season 2]]===
+[[File:2x4 Simon Strong Still.jpg|thumb|Ser Simon aides Daemon in raising an army.]]
+When Prince [[Daemon Targaryen]] and his [[dragon]] [[Caraxes]] arrive at Harrenhal to claim the castle for the [[Blacks]], Ser Simon hastily bends the knee and declares his allegiance to Queen [[Rhaenyra Targaryen]], inviting Daemon to dine with him. Over dinner, Simon assures Daemon, who refuses to touch his plate, that the food isn't poisoned and he is welcome in the castle. When Daemon questions Simon's submission, given the lord of his house has declared for [[Aegon II Targaryen|Aegon]], Simon brands his great-nephew Larys a scourge on their family, making it clear he believes Larys [[Kinslaying|murdered]] [[Lyonel Strong|his father]] and [[Harwin Strong|brother]] to claim lordship of Harrenhal, noting the suspicious nature of the fire that claimed their lives. Simon then converses with Daemon about making [[House Tully/House of the Dragon|House Tully]] declare for the Blacks.{{Ref|HOTD203}}
+
+Simon awakens Daemon from a nightmare to inform him that a [[raven]] has arrived, warning [[Criston Cole]]'s army has departed King's Landing, Houses [[House Rosby|Rosby]] and [[House Stokeworth|Stokeworth]] have defected to the [[Greens]] and added their forces to Cole's, and Cole is likely making for Harrenhal. Simon expresses his concern even if Daemon can raise an army in the Riverlands, it may not be ready in time to face Cole. Simon also introduces Daemon to [[Oscar Tully]], grandson and heir to Lord [[Grover Tully]]. After Oscar informs Daemon of his grandfather's deteriorating health and his lack of authority to speak in Grover's stead, Daemon mocks House Tully as "a fish without a head" to Simon and questions which side in the [[Battle at the Burning Mill|recent clash]] between Houses [[House Blackwood|Blackwood]] and [[House Bracken|Bracken]] declared for Rhaenyra. Once informed the Brackens declared for Aegon, Daemon orders Simon to summon the Blackwoods to Harrenhal. Simon is later present when Daemon negotiates with Ser [[Willem Blackwood]].{{Ref|HOTD204}}
+
+==Quotes==
+{{Dialogue a-b-a|Simon|You should know that a substantial number of those swords have now declared and are presently at war. Houses Bracken and Blackwood have long detested one another.|Daemon|Why?|Oh, well... the answer to that is lost in time. Sin begets sin begets sin.|Simon Strong|The Burning Mill}}
+
+==Family==
+{{Strong tree}}
+
+==Behind the scenes==
+On April 24, 2023, [[HBO]] announced that [[Simon Russell Beale]] had been cast in the role of Simon Strong for [[House of the Dragon: Season 2|''House of the Dragon'': Season 2]].{{Webref|name=Variety |author=Jordan Moreau |date=April 24, 2023 |url=https://variety.com/2023/tv/news/house-of-the-dragon-alys-rivers-season-2-1235592500/ |title=‘House of the Dragon’ Season 2 Casts Alys Rivers and Three More Characters |website=Variety |access-date=April 25, 2023 }} His character description reads as follows:
+:''"The great uncle to Lord Larys and castellan of Harrenhal."''{{Webref|name=WBD |author=Unknown author |date=Unknown date |url=https://press.wbd.com/us/bio/house-dragon-s2-character-descriptions |title=House of the Dragon S2 <nowiki>|</nowiki> Character Descriptions |website=Warner Bros. Discovery |access-date=June 5, 2024 }}
+
+==In the books==
+In ''[[Fire & Blood]]'', Simon is Lyonel Strong's uncle. It is unknown if his brother was Lord Bywin Strong, the first Strong to hold Harrenhal.
+
+==Appearances==
+*{{HOTD|The Burning Mill}}
+*{{HOTD|The Red Dragon and the Gold}}
+*{{HOTD|Regent}}
+*{{HOTD|Smallfolk}}
+*{{HOTD|The Red Sowing}}
+*{{HOTD|The Queen Who Ever Was}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{House Strong}}
+{{House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Strong, Simon}}
+[[Category:Blacks]]
+[[Category:Castellans]]
+[[Category:Greens]]
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Knights]]
+[[Category:Members of House Strong|Simon Strong]]
+[[Category:Rivermen]]
+
+<!--Languages-->
+[[es:Simon Strong/House of the Dragon]]
+[[fr:Simon Fort]]
+[[pl:Simon Strong]]
+[[ru:Саймон Стронг]]
+[[uk:Саймон Дужий]]

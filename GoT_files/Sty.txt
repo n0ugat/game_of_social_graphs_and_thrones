@@ -1,0 +1,36 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Westeros
+| Image        = 
+| Type         = Town<br>Pirate den
+| Status       = 
+| Location     = [[Basilisk Isles]], [[Sothoryos]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = 
+| Places       = 
+| Founded      = by pirates
+}}
+{{Quote|Port Plunder, Sty, Whore's Gash. No map can find these towns, nor can the laws of men.|[[Euron Greyjoy]]|The Summer Sea}}
+'''Sty'''{{Ref|H&L603}} is a major pirate den in the [[Basilisk Isles]], off the north coast of [[Sothoryos]].
+
+In truth, there have actually been numerous towns named "Sty" over the centuries. Every generation or so, the [[Free Cities]] send a fleet to scour the Basilisk Isles of pirates, burning their ramshackle settlements to the ground - such as [[Port Plunder]], Sty, and [[Whore's Gash]]. Within a year, however, a new settlement will pop up somewhere else to replace it, and the pirates will re-use the old names again.<ref>"[[The Summer Sea]]"</ref>
+
+==In the books==
+Sty is much the same.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Sothoryos}}
+
+<!--Categories-->
+[[Category:Basilisk Isles]]
+[[Category:Settlements]]

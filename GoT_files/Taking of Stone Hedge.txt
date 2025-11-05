@@ -1,0 +1,70 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Dragon
+| Part          = the [[Dance of the Dragons]]
+| Image         = 
+| Previous      = [[Raids on Bracken lands]]
+| Concurrent    = [[Blockade of the Gullet]]
+| Next          = [[Red Sowing]]<br>[[Riot in King's Landing]]
+| Date          = [[132 AC]]{{Dateref|House of the Dragon: Season 2}}
+| Place         = [[Stone Hedge]], the [[Riverlands]]
+| Outcome       = [[Blacks|Black]] victory
+*House Bracken switches sides to the Blacks
+| Factions1     = {{COA|Blacks|s}} [[Blacks]]
+*{{COA|House Blackwood|i}} [[House Blackwood]]
+| Factions2     = {{COA|Greens|s}} [[Greens]]
+*{{COA|House Bracken|i}} [[House Bracken]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = {{COA|House Blackwood|i}} Ser [[Willem Blackwood]]
+| Leaders2      = {{COA|House Bracken|i}} Lord [[Amos Bracken]]
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = 
+| Participants2 = 
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = 
+| Casualties2   = 
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Quote|Fresh news from Stone Hedge. The Blackwoods have overwhelmed the Brackens, and Lord Amos has pledged his banner to you. House Bracken is yours.|[[Simon Strong]] to [[Daemon Targaryen]]|Regent (episode)}}
+The '''taking of Stone Hedge''' was an engagement of the [[Dance of the Dragons]].
+
+==History==
+===Prelude===
+[[File:2x5 Brackens.jpg|thumb|250px|left|Daemon threatens Lord Bracken.]]
+In the early Dance of the Dragons, Houses [[House Blackwood|Blackwood]] and [[House Bracken|Bracken]] enter open war, beginning with the [[Battle at the Burning Mill]].{{Ref|HOTD203}} Later, Prince [[Daemon Targaryen]] joins with Willem Blackwood to defeat the Brackens and make them raise [[Rhaenyra Targaryen|Rhaenyra]]'s banner, but Lord [[Amos Bracken]] remains defiant even in the face of Daemon's [[dragon]] [[Caraxes]]. Still intent on turning the Brackens to his cause, Daemon lets Amos live and orders Willem to harry House Bracken's [[smallfolk]] and force a surrender. Lambswold and [[Mory]] are brutally raided by the Blackwoods. [[Sept]]s are looted and put to the torch, fields and farms are burned, livestock are stolen, peasants are put to the sword, and women and children are taken from their homes.{{Ref|HOTD205}}
+
+===Battle===
+With the defenses of House Bracken dispersed due to the overwhelming raids on their lands, Willem is able to storm [[Stone Hedge]]. Lord Amos accepts his defeat and declares for the [[Blacks]].{{Ref|HOTD205}}
+
+===Aftermath===
+Upon hearing the news, Daemon declares that the Blackwoods are to be congratulated and feted for their victory.{{Ref|HOTD205}}
+
+==In the books==
+In ''[[Fire & Blood]]'', Daemon himself led the attack on Stone Hedge, with a strong host of [[House Darry|Darrys]], [[House Frey|Freys]], [[House Piper|Pipers]], and Rootes. House Blackwood did not directly participate, as they were fully focused on providing a distraction by raiding the surrounding lands.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Dance of the Dragons}}
+
+<!--Categories-->
+[[Category:132 AC]]
+[[Category:Battles]]
+[[Category:Dance of the Dragons]]
+
+<!--Languages-->
+[[ru:Захват Стоунхеджа]]

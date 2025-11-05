@@ -1,0 +1,51 @@
+{{Canonicity|Canon}}
+{{MapNeeded}}
+{{Heraldry
+| Image = House Bar Emmon.svg
+| Link  = House Bar Emmon
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Crownlander
+| Image        = HOTD 208 Sharp Point.jpg
+| Type         = Town
+| Status       = 
+| Location     = The [[Crownlands]], [[Westeros]]
+| Population   = 
+| Rulers       = [[House Bar Emmon]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Sharp Point'''{{Ref|GOT105}} is a town in the [[Crownlands]], the region controlled directly by the [[Iron Throne]] in [[King's Landing]]. The town is located north of [[Stonedance]], at the end of a peninsula where the southern portion of [[Blackwater Bay]] meets the [[Narrow Sea]].
+
+==History==
+===[[House of the Dragon: Season 2|''House of the Dragon'': Season 2]]===
+In a rage after the [[Red Sowing]], [[Aemond Targaryen]] flies to the [[Blacks|Black]]-aligned Sharp Point on [[Vhagar]] and [[Burning of Sharp Point|burns]] it to its stones.{{Ref|HOTD208}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Sharp Point is located at the end of Massey's Hook and is the seat of [[House Bar Emmon]], a noble house sworn to [[Dragonstone]]. The castle is a large watchtower upon which a great fire burns atop.
+
+There is no mention in the books of any event that took place in Sharp Point.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Bar Emmon}}
+{{Crownlands}}
+
+<!--Categories-->
+[[Category:Crownlands]]
+[[Category:House Bar Emmon]]
+[[Category:Towns]]
+
+<!--Languages-->
+[[de:Scharfspitze]]
+[[ru:Острый Мыс]]
+[[zh:尖角]]

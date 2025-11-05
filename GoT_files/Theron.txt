@@ -1,0 +1,64 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = Order of Maesters.svg
+| Link  = Order of Maesters
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Citadel
+| Image       = 
+| Birth       = Theron Pyke<br>In the [[Iron Islands]]
+| Death       = 
+| House       = 
+| Affiliation = [[Order of Maesters]]
+| Titles      = Maester
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Ironborn]]
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Didn't one Archmaester link the fortress to the vanished mazemakers of Lorath? And another maester, to the legendary Deep Ones who inhabited the Iron Islands before the Ironborn?|[[Qyburn]]|Oldtown (short)}}
+'''Theron'''{{Con|TWOI&F}} was a [[Order of Maesters|Maester]] of the [[Citadel]].
+
+==Biography==
+Theron suggested the legendary [[Deep Ones]] as the builders of the ancient fortress on [[Battle Isle]] on which the [[Hightower]] of [[Oldtown]] stands. However, this theory holds little support.{{Ref|H&L612}}
+
+==In the books==
+Theron is mentioned in ''The World of Ice & Fire'' by Maester [[Yandel]]. Born Theron Pyke, he is a [[bastard]] of the [[Iron Islands]]. In his manuscript ''Strange Stone'' he postulates the existence of Deep Ones a "queer, misshapen race of half men sired by creatures of the salt seas upon human women". Theron suggested they inspired the legend of merlings and that the sea creatures who fathered them inspired the religion of the [[Drowned God]]. He also noted a certain likeness between the black stone of the ancient fortress on Battle Isle that serves as foundation to the Hightower and that of the [[Salt Throne|Seastone Chair]], both of unknown origin, and postulated they had been constructed by the Deep Ones.
+
+==Appearances==
+*{{H&L|Oldtown}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|Theron Pyke}}
+
+<!--Categories-->
+[[Category:Authors]]
+[[Category:Bastards]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Ironborn]]
+[[Category:Maesters]]
+
+<!--Languages-->
+[[ru:Терон]]

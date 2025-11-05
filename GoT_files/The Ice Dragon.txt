@@ -1,0 +1,94 @@
+{{OtherUses|episode|Ice dragon (disambiguation)}}
+{{Episode
+| Title    = {{PAGENAME}}
+| Type     = Telltale
+| Image    = ATGS06.png
+| Season   = 
+| Episode  = 6
+| Date     = November 17, 2015{{Webref|name=EW |author=Jonathon Dornbush |date=October 21, 2015 |url=https://ew.com/article/2015/10/21/telltale-games-game-thrones-cast-trailer-episode-6-release-date/ |title=Telltale Games' Game of Thrones cast trailer, episode 6 release date |website=Entertainment Weekly |access-date=February 3, 2024 }}
+| Runtime  = 
+| Writer   = Andrew Grant{{Ref|ATGS06}}<br>James Windeler{{Ref|ATGS06}}
+| Director = Kent Mudle{{Ref|ATGS06}}
+| Year     = [[301 AC/Non-canon|301 AC]]{{Dateref|The Sword in the Darkness}}
+| Previous = "[[A Nest of Vipers]]"{{Ref|ATGS05}}
+| Next     = 
+}}
+"'''The Ice Dragon'''"{{Ref|ATGS06}} is the sixth and final episode of ''[[Game of Thrones: A Telltale Games Series]]''. It premiered on November 17, 2015. It was written by Andrew Grant and James Windeler, and directed by Kent Mudle.
+
+==Premise==
+{{Premise|ATGS06}}
+
+==Cast==
+*[[Emilia Clarke]] as [[Daenerys Targaryen]]
+*[[Peter Dinklage]] as [[Tyrion Lannister]]
+*[[Natalie Dormer]] as [[Margaery Tyrell]]
+*[[Lena Headey]] as [[Cersei Lannister]]
+*[[Iwan Rheon]] as [[Ramsay Bolton|Ramsay Snow]]
+*Russ Bain as Rodrik Forrester
+*Alex Jordan as Asher Forrester
+*Daniel Kendrick as Gared Tuttle
+*Martha Mackintosh as Mira Forrester
+*Laura Bailey as Gwyn Whitehill
+*Joseph Balderrama as Cotter
+*Ron Bottitta as Harys, Lannister Guard
+*Sacha Dhawan as Gryff Whitehill
+*Robin Atkin Downes as Duncan Tuttle & Andros
+*David Franklin as Ortengryn
+*Brian George as Ser Royland Degore
+*Jaye Jacobs as Amaya
+*Geoff Leesley as Ludd Whitehill
+*Clare Louise Connolly as Sylvi
+*Natasha Loring as Sera
+*Yuri Lowenthal as Tom, Finn
+*Paul Nakauchi as Bloodsong
+*Toks Olagundoye as Beskha
+*Amy Pemberton as Elaena Glenmore
+*Lara Pulver as Lady Forrester
+*Helen Sadler as Prisoner
+*Molly Stone as Talia Forrester
+*Louis Suc as Ryon Forrester
+*Joe Tandberg as Josera Snow
+*Nick Afka Thomas as Morgryn
+*Matt Wolf as Lucan, Whitehill Soldier, Pit Fighter
+*Nina Yndis as Elsera Snow
+
+==Gallery==
+===Video===
+<gallery bordersize="none">
+Game of Thrones: A Telltale Games Series - Season Finale Trailer
+</gallery>
+
+===Images===
+<gallery>
+GaredBear.jpg
+ForresterArmyMarch.jpg
+MiraArrest.jpg
+GaredMoon.jpg
+WhitehillArmy.jpg
+</gallery>
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{TTGOT}}
+
+<!--Navboxes-->
+{{Game of Thrones: A Telltale Games Series}}
+{{Game of Thrones}}
+
+<!--Categories-->
+{{DEFAULTSORT:Ice Dragon, The}}
+[[Category:Episodes directed by Kent Mudle]]
+[[Category:Episodes of Game of Thrones: A Telltale Games Series| 06]]
+[[Category:Episodes released in 2015|B.17]]
+[[Category:Episodes written by Andrew Grant]]
+[[Category:Episodes written by James Windeler]]
+
+<!--Languages-->
+[[de:Der Eisdrache (Episode)]]
+[[fr:Le Dragon de Glace]]
+[[ru:Ледяной дракон]]

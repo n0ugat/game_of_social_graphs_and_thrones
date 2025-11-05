@@ -1,0 +1,30 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Ted Reilly.jpg
+| Birth   = September 14, 1991 {{Age|1991|9|14}}<br>Lambeth, London, England
+| Death   = 
+| Role    = Crofter
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]]
+| Credits = "[[Regent (episode)|Regent]]"
+| First   = 
+| Last    = 
+}}
+'''Ted Reilly''' (born 14 September 1991) is an English actor.
+
+Reilly plays a crofter in the [[House of the Dragon: Season 2|second season]] of ''[[House of the Dragon]]''.<ref>https://redanianintelligence.com/2023/09/30/every-new-cast-member-house-of-the-dragon-season-2/</ref>
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 2|||||yes}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb|#=5478749}}
+
+<!--Categories-->
+{{DEFAULTSORT:Reilly, Ted}}
+[[Category:Co-starring cast members of House of the Dragon]]

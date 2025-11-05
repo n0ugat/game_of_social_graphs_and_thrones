@@ -1,0 +1,62 @@
+{{DISPLAYTITLE:''Ten Thousand Ships''}}
+{{SameName|pitched television series|book|Ten Thousand Ships (book)}}
+{{Television series
+| Title      = ''{{PAGENAME}}''
+| Type       = Ships
+| Image      = 
+| Format     = Live-action{{Webref|name=NAB |author=George R.R. Martin |date=March 9, 2022 |url=https://georgerrmartin.com/notablog/2022/03/09/random-updates-and-bits-o-news/ |title=Random Updates and Bits o’ News |website=Not a Blog |access-date=March 10, 2022 }}
+| Seasons    = 
+| Episodes   = [[Pilot (Ten Thousand Ships)|Pilot]]{{Webref|name=NAB2 |author=George R.R. Martin |date=June 11, 2024 |url=https://georgerrmartin.com/notablog/2024/06/11/awards-season-2/ |title=Awards Season |website=Not a Blog |access-date=June 12, 2024 }}
+| Premiere   = 
+| Finale     = 
+| Network    = 
+| First      = 
+| Final      = 
+| Runtime    = 
+| Starring   = 
+| Creator    = [[Eboni Booth]]<ref name="NAB2" />
+----
+Developers of rejected scripts:<br>[[Brian Helgeland]]{{Webref|name=THR |author=James Hibberd |date=July 19, 2022 |url=https://www.hollywoodreporter.com/tv/tv-features/house-of-the-dragon-game-of-thrones-prequels-1235181929/ |title=Inside ‘House of the Dragon’: The Epic Mission to Make the Next ‘Game of Thrones’ |website=The Hollywood Reporter |access-date=December 6, 2023 }}<br>[[Amanda Segel]]{{Webref|name=Deadline |author=Peter White, Nellie Andreeva |date=March 18, 2021 |url=https://deadline.com/2021/03/game-of-thrones-prequels-sea-snake-9-voyages-flea-bottom-10000-ships-bruno-heller-1234717042/ |title=‘Game Of Thrones’: Sea Snake’s 9 Voyages Among Three More Spinoffs In Consideration At HBO |website=Deadline |access-date=March 10, 2022 }}
+| Producers  = 
+| Writers    = 
+| Directors  = 
+| Composer   = 
+| Production = 
+| Wrapped    = 
+| Based      = 
+| Year       = 
+}}
+'''''Ten Thousand Ships'''''<ref name="NAB" /> is a pitched live-action televisions series of the ''[[World of Westeros]]'' in development at [[HBO]], with a [[Pilot (Ten Thousand Ships)|pilot]] written by [[Eboni Booth]].
+
+==Cast==
+*TBA as [[Nymeria]]<ref name="NAB2" />
+
+==History==
+[[File:H&L401.png|thumb|250px|right|Nymeria during the Rhoynar migration, as depicted in ''Histories & Lore''.]]
+In May 2017, it was announced by HBO that pitch scripts had been ordered for four ''[[Game of Thrones]]'' successor shows.<ref>https://www.vanityfair.com/hollywood/2017/05/game-of-thrones-four-spin-offs-george-rr-martin</ref> It was not revealed at the time what these were exactly, but James Hibberd of ''The Hollywood Reporter'' stated in July 2022 that [[Brian Helgeland]]'s script was the [[Nymeria]] series.<ref name="THR" />
+
+It was first rumored in March 2021 that a new wave of prequel pitches was being considered by HBO, among which was Nymeria and the 10,000 ships of the [[Rhoynar]]. On May 25, 2021, ''Deadline'' posted an update not only confirming that the pitch was real, but that it had advanced from a pitch to HBO ordering a pilot script from screenwriter [[Amanda Segel]].<ref name="Deadline" /> It remains to be seen whether HBO will order a pilot episode to be filmed, or at the other extreme, do what they did with ''House of the Dragon'' and skip filming the pilot episode to greenlit it straight to series.
+
+On March 9, 2022, [[George R.R. Martin]] himself gave an update that the project is proceeding well:
+
+:''"The other one is TEN THOUSAND SHIPS, the Nymeria series. Amanda Segel, our showrunner, has delivered a couple drafts of that one, and we are forging ahead."''<ref name="NAB" />
+
+This confirms that ''Ten Thousand Ships'' is the actual working title of the project, and that it is specifically spelled out using words not numerals (though this is always subject to change).
+
+Due to Startling Inc. removing ''Ten Thousand Ships'' from their development list in October 2022, it has been speculated that the series has been quietly rejected.<ref>https://wikiofthrones.com/hbo-cancels-game-of-thrones-spinoffs</ref> In December 2022, George R.R. Martin confirmed that some projects had been shelved, but did not specify which.<ref>https://georgerrmartin.com/notablog/2022/12/28/stuff-and-nonsense-4/</ref> In April 2023, he stated that ''Ten Thousand Ships'' is still in development.<ref>[https://georgerrmartin.com/notablog/2023/04/14/a-knight-and-a-squire/ George R.R. Martin | Not A Blog | A Knight and a Squire, April 14, 2023]</ref> In June 2024, George stated that playwright Eboni Booth was now "working on" a pilot for ''Ten Thousand Ships'' - but he was unclear whether he meant it had advanced from pitch phase to pilot script phase, or if a pilot had been outright "greenlit" to film.<ref name="NAB2" />
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|10,000 Ships|''10,000 Ships''}}
+*{{IMDb title|#=14722868|title=10,000 Ships}}
+
+<!--Navboxes-->
+{{Ten Thousand Ships}}
+{{World of Westeros}}
+
+<!--Categories-->
+[[Category:Active pitches]]
+[[Category:Pitches for live-action television series]]
+[[Category:Ten Thousand Ships| ]]

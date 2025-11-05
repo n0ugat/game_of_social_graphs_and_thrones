@@ -1,0 +1,69 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Dragon
+| Part          = the [[Dance of the Dragons]]
+| Image         = 
+| Previous      = [[Submission of Rosby]]
+| Concurrent    = [[Blockade of the Gullet]]
+| Next          = [[Sack of Duskendale]]
+| Date          = [[132 AC]]{{Dateref|House of the Dragon: Season 2}}
+| Place         = [[Castle Stokeworth]], the [[Crownlands]]
+| Outcome       = [[Greens|Green]] victory
+*[[House Stokeworth]] declares for the Greens
+| Factions1     = {{COA|Greens|s}} [[Greens]]
+*{{COA|House Hightower/House of the Dragon|i}} [[House Hightower/House of the Dragon|House Hightower]]
+*{{COA|House Rosby|i}} [[House Rosby]]
+| Factions2     = {{COA|House Stokeworth|s}} [[House Stokeworth]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = {{COA|Kingsguard/House of the Dragon|i}} Ser [[Criston Cole]]<br>{{COA|House Hightower/House of the Dragon|i}} Ser [[Gwayne Hightower]]
+| Leaders2      = ''Unknown''
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = 
+| Participants2 = 
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = 
+| Casualties2   = 
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Dialogue a-b|Criston|Rosby and Stokeworth, small castles right in the shadow of King's Landing. They would not want us for enemies.|Aemond|We could add their levies to our own. Our host growing as we advance.|Criston Cole and Aemond Targaryen|A Son for a Son}}
+The '''submission of Stokeworth''' was an event of the [[Dance of the Dragons]], part of Ser [[Criston Cole]]'s campaign in the [[Crownlands]] in [[132 AC]].{{Dateref|House of the Dragon: Season 2}} It ended in [[House Stokeworth]] declaring for the [[Greens]] and adding their forces to Cole's army.
+
+==History==
+===Prelude===
+[[File:Cole's army departing KL.png|thumb|Cole's army starting his campaign in the Crownlands.]]
+After Ser [[Criston Cole]] is named [[Hand of the King]] by King [[Aegon II Targaryen|Aegon II]], he assembles a [[Greens|Targaryen]]-[[House Hightower/House of the Dragon|Hightower]] army in [[King's Landing]] and marches north on the [[Rosby Road]], with the objective of forcing the submission of all the noble houses of the [[Crownlands]] to the Greens' cause. During their march to [[Rosby]], Criston's army is harassed by Lady [[Baela Targaryen]] atop [[Moondancer]]. Subsequently, Criston began marching his army solely at night to exploit the treecover and mask his movements from the [[Blacks]].{{Ref|HOTD203}}
+
+During the inital part of this campaign, [[House Rosby]] willing submitted to the Greens, offering their forces to join Criston's army. Following this, the Green army marched for [[Castle Stokeworth]].{{Ref|HOTD204}}
+
+===Submission===
+Upon the Green army's arrival at Castle Stokeworth, [[House Stokeworth]], like House Rosby, submits to Criston without siege, raising King Aegon II's banner, and contributing levies to the Green host.{{Ref|HOTD204}}
+
+===Aftermath===
+With the forces of Houses Rosby and Stokeworth added to the Green army, Criston and his forces marched north for [[Duskendale]]. There, they would meet the first challenge to their campaign in a defiant [[House Darklyn]], leading to the [[sack of Duskendale]].{{Ref|HOTD204}}
+
+==In the books==
+In ''[[Fire & Blood]]'', House Stokeworth declared [[Blacks|Black]] at first, but switched sides when Criston's host arrived at their castle.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{Dance of the Dragons}}
+
+<!--Categories-->
+[[Category:132 AC]]
+[[Category:Dance of the Dragons]]
+[[Category:Events]]
+
+<!--Languages-->
+[[ru:Капитуляция Стокворта]]

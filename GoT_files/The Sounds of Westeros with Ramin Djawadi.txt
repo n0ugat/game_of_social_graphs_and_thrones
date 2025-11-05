@@ -1,0 +1,36 @@
+{{Episode
+| Title    = {{PAGENAME}}
+| Type     = Podcast
+| Image    = TOGOTPHOTD115.jpg
+| Season   = 1
+| Episode  = 15
+| Date     = November 10, 2022{{Listref|TOGOTPHOTD}}
+| Runtime  = 50:35{{HBOref|TOGOTPHOTD}}
+| Writer   = 
+| Director = 
+| Year     = 
+| Previous = "[[Adding Fuel to the Fire: A Season 1 Recap]]"{{Listref|TOGOTPHOTD}}
+| Next     = "[[Creating The Realm with Amanda Knight and Jim Clay]]"{{Listref|TOGOTPHOTD}}
+}}
+"'''The Sounds of Westeros with Ramin Djawadi'''"{{HBOref|TOGOTPHOTD}} is the fifteenth episode of the [[The Official Game of Thrones Podcast: House of the Dragon: Season 1|first season]] of ''[[The Official Game of Thrones Podcast: House of the Dragon]]''. It is the fifteenth episode of the series overall. It was released on November 10, 2022.
+
+==Description==
+{{Description|TOGOTPHOTD115}}
+
+==Gallery==
+<gallery bordersize="none">
+HOTD: Official Podcast “The Sounds of Westeros” / House of the Dragon (HBO)
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{HBO Max|video/watch/PROM708269/PROM1182003|The Official Game of Thrones Podcast - House of the Dragon The Sounds of Westeros: A Conversation with Ramin Djawadi}}
+
+<!--Navboxes-->
+{{The Official Game of Thrones Podcast: House of the Dragon}}
+
+<!--Categories-->
+[[Category:Episodes of The Official Game of Thrones Podcast: House of the Dragon: Season 1| 15]]
+[[Category:Episodes released in 2022|B.10]]

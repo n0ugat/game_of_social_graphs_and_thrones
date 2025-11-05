@@ -1,0 +1,83 @@
+{{Canonicity|Non}}
+{{Heraldry
+| Image = House Baratheon.svg
+| Link  = House Baratheon
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Baratheon
+| Image       = House Baratheon lineage.jpg
+| Birth       = [[5 AC]]{{Dateref|Serac Baratheon}}<br>[[Storm's End]], the [[Stormlands]]{{Ref|GOT106}}
+| Death       = [[73 AC]]{{Dateref|Serac Baratheon death}} (aged 68)
+| House       = [[House Baratheon|Baratheon]]{{Ref|GOT106}}
+| Affiliation = [[House Targaryen]]{{Ref|GOT106}}
+| Titles      = [[Lord of Storm's End]]{{Ref|GOT106}}<br>[[Lord Paramount of the Stormlands]]{{Ref|GOT106}}
+| AKA         = 
+| Culture     = [[Stormlands|Stormlander]]{{Ref|GOT106}}
+| Religion    = 
+| Father      = {[[Orys Baratheon]]}{{Ref|GOT106}}
+| Mother      = {[[Argella Baratheon|Argella Durrandon]]}{{Ref|GOT106}}
+| Spouse      = {[[Monica Baratheon|Monica Velaryon]]}{{Ref|GOT106}}
+| Lovers      = 
+| Issue       = {[[William Baratheon]]}{{Ref|GOT106}}<br>{[[Reginald Baratheon]]}{{Ref|GOT106}}<br>{[[Steffon Baratheon (son of Serac)|Steffon Baratheon]]}{{Ref|GOT106}}<br>{[[Padraic Baratheon]]}{{Ref|GOT106}}<br>{[[Flynn Baratheon]]}{{Ref|GOT106}}
+| Siblings    = 
+| Arms        = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Serac Baratheon''' was a son of [[Orys Baratheon|Orys]] and [[Argella Baratheon]].
+
+==Biography==
+===Background===
+Serac Baratheon is an early member of [[House Baratheon]], a son of [[Orys Baratheon]] and a distant ancestor of King [[Robert Baratheon]] and his brothers, [[Stannis Baratheon|Stannis]] and [[Renly Baratheon|Renly]].<ref name="s1prop">''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]'' prop from Season 1</ref>
+
+Serac married [[Monica Baratheon|Monica Velaryon]] at the age of 17 at [[Driftmark]]. He died at the age of 68. Serac was the father of [[Reginald Baratheon|Reginald]], [[William Baratheon|William]], [[Steffon Baratheon (son of Serac)|Steffon]], [[Padraic Baratheon|Padraic]], and [[Flynn Baratheon]].<ref name = "s1prop"/>
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+He has an entry in ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]'', which notes the fact that he, along with all of his ancestors and descendants were born "black of hair".{{Ref|GOT106}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no such character.
+
+==Appearances==
+*{{GOT|A Golden Crown}} {{Text}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Succession box-->
+{{S-start}}
+{{Succession box
+ | title  = [[Lord of Storm's End]] and [[Lord Paramount of the Stormlands]]
+ | years  = [[44 AC|44]] - [[73 AC]]
+ | with   = 
+ | before = [[Axel Baratheon]]
+ | after  = [[William Baratheon]]
+}}
+{{S-end}}
+
+<!--Navboxes-->
+{{House Baratheon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Baratheon, Serac}}
+[[Category:Bannermen of House Targaryen]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Lords of Storm's End|Serac Baratheon]]
+[[Category:Lords Paramount of the Stormlands|Serac Baratheon]]
+[[Category:Members of House Baratheon|Serac Baratheon]]
+[[Category:Stormlanders]]
+
+<!--Languages-->
+[[de:Serac Baratheon]]
+[[es:Serac Baratheon]]
+[[fr:Serac Baratheon]]
+[[ru:Серак Баратеон]]

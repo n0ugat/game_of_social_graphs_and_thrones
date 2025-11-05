@@ -1,0 +1,64 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Night's Watch.svg
+| Link  = Night's Watch
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = Smitty.PNG
+| Birth       = 
+| Death       = [[301 AC]]{{Dateref|Game of Thrones: Season 4}}<br>[[Castle Black]], the [[Wall]]{{Ref|GOT409}}
+| House       = 
+| Affiliation = [[Night's Watch]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 4|4]]
+| Appearances = "[[The Watchers on the Wall]]"
+| First       = 
+| Last        = 
+| DeathEp     = "The Watchers on the Wall"
+| Actor       = Unidentified
+}}
+{{Quote|Smitty!|A brother calling his name as he falls.|The Watchers on the Wall}}
+'''Smitty''' was a member of the [[Night's Watch]].
+
+==Biography==
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+[[File:Smitty-death.PNG|thumb|right|Smitty falling to his death.]]
+During the [[battle for the Wall]], Smitty takes part in defending the [[Wall]] against [[Mance Rayder]]'s forces. As the [[Free Folk|wildlings]] approach the wall and start to climb, Smitty and another brother repel down with their bows. At [[Jon Snow|Jon]]'s signal, Smitty shoots his arrow and pierces a wildling in the shoulder, causing him to fall down to his death. As the members of the Night's Watch send oil barrels down on the wildlings at the gate, one barrel gets trapped on the ramp, as it explodes it sends flaming rubble across the Wall, and a piece impales the brother holding Smitty's repel rope in the chest. As the brother drops the rope, Smitty falls off the top of the wall to his death.{{Ref|GOT409}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no character by this name.
+
+==Appearances==
+*{{GOT|The Watchers on the Wall}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{Night's Watch}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Men of the Night's Watch]]
+[[Category:Smallfolk]]
+
+<!--Languages-->
+[[fr:Smitty]]
+[[ru:Смитти]]

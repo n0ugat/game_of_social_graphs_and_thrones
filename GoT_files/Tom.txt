@@ -1,0 +1,58 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Stark
+| Image       = Tom 2x10.png
+| Birth       = 
+| Death       = [[299 AC]]{{Dateref|Game of Thrones: Season 2}}<br>The [[Riverlands]]{{Ref|GOT210}}
+| House       = 
+| Affiliation = [[House Stark]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Northmen|Northern]]
+| Religion    = [[Old Gods]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 2|2]]
+| Appearances = "[[Valar Morghulis]]"
+| First       = 
+| Last        = 
+| DeathEp     = "Valar Morghulis"
+| Actor       = [[Christopher Reilly]]
+}}
+{{Dialogue a-b-a|Tom|What do you think of these beauties?|Brienne|I hope you gave them quick deaths.|Two of them we did, yeah.|Tom and [[Brienne of Tarth]]|Valar Morghulis}}
+'''Tom''' was a [[man-at-arms]] sworn to [[House Stark]].
+
+==Biography==
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+[[Brienne of Tarth|Brienne]] and [[Jaime Lannister|Jaime]] come inland to see three tavern wenches hanged from a tree. She plans to cut them down and bury them but is interrupted by three Stark soldiers. Tom is leading the trio and asks what they are doing there. Brienne tells them she is moving a prisoner, and they laugh at her because she is a woman. They question her further and Brienne says that she is taking him to [[Riverrun]], and the Stark soldiers let them leave. Tom asks her what she thinks of the wenches they hanged. Brienne tells him she hopes they were given quick deaths and Tom says two of them did, implying that they made the last suffer. [[Stark soldier (Valar Morghulis)|Tom's companion]] recognizes Jaime and says that he's the Kingslayer. Brienne denies it, and then Tom orders them to say his name simultaneously on the count of three. Brienne pushes Jaime away, and kills Tom's companions. She then gives Tom a slow death.{{Ref|GOT210}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there's no Stark soldier named Tom. Brienne, Jaime, and [[Alton Lannister|Cleos Frey]] do not run into any Stark soldiers after they escape from Riverrun. They do see the women hanging in the tree with the same sign, who were hanged for "laying with lions" close to the lands of [[House Bracken]], which had previously been occupied by Lannister forces led by the [[Gregor Clegane|Mountain]]. Brienne pulls the boat over, climbs the tree, and begins to cut the bodies down. However, when she gets high enough she sees the mast of the boat from Riverrun that is pursuing them, so they leave the women unburied.
+
+==Appearances==
+*{{GOT|Valar Morghulis}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Men-at-arms]]
+[[Category:Northmen]]
+[[Category:Servants and retainers of House Stark]]
+[[Category:Smallfolk]]
+
+<!--Languages-->
+[[fr:Tom]]
+[[ru:Солдат Старков 2 (Валар моргулис)]]

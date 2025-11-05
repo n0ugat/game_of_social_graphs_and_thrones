@@ -1,0 +1,34 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Solly McLeod.png
+| Birth   = February 10, 2000 {{Age|2000|2|10}}<br>Scotland, United Kingdom
+| Death   = 
+| Role    = [[Joffrey Lonmouth]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = 2 episodes {{Below|Credits}}
+| First   = "[[Second of His Name]]"
+| Last    = "[[We Light the Way]]"
+}}
+'''Solly McLeod''' (born February 10, 2000) is a Scottish actor known for his roles in ''Boxing Day'', ''Boy in the Corner'', and ''I Feel Fine''.
+
+He portrays Ser [[Joffrey Lonmouth]] in the [[House of the Dragon: Season 1|first season]] of ''[[House of the Dragon]]''.<ref>https://www.reddit.com/r/HouseOfTheDragon/comments/ppats3/solly_mcleod_confirmed_and_theo_nate_as_young/</ref>
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1|||yes||yes}}
+
+==See also==
+*{{IMDb
+|# =11303072}}
+*{{Instagram|# = sollymcleod}}
+*{{Twitter|# = @solly_mcleod}}
+
+==References==
+{{Reflist}}
+{{DEFAULTSORT:McLeod, Solly}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--InterWiki-Links-->
+[[fr:Solly McLeod]]

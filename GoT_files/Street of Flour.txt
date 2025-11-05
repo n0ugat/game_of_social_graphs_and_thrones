@@ -1,0 +1,41 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Crownlander
+| Image        = Street of Flour.png
+| Type         = Street
+| Status       = 
+| Location     = [[King's Landing]], the [[Crownlands]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = 
+| Places       = 
+| Founded      = 
+}}
+{{Quote|Without the Street of Flour, the king would have no bread.|[[Varys]]|King's Landing (short)}}
+The '''Street of Flour'''{{Ref|GOT310}} is a street in [[King's Landing]] known for its bakeries.<ref>"[[King's Landing (short)|King's Landing]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the Street of Flour is also known for its bakeries. A maze of twisting alleys and cross streets lie below the street.
+
+In ''A Game of Thrones'', [[Arya Stark|Arya]] visits the Street of Flour during her time in King's Landing, catching a pigeon and enjoying the scent of perfume coming from the bakeries.
+
+In ''A Clash of Kings'', upon arriving there to serve as [[Hand of the King]] in [[Tywin Lannister|his father]]'s absence, [[Tyrion Lannister|Tyrion]] notices guards stationed at every shop door. He realizes that food must be on short supply in the capital due to [[House Tyrell]] cutting off the commerce coming from the [[Roseroad]], and that the situation must be truly grave if the bakers find [[Mercenary|sellswords]] cheaper than bread.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Crownlands}}
+
+<!--Categories-->
+[[Category:King's Landing]]
+[[Category:Streets|Flour]]
+
+<!--Languages-->
+[[ru:Мучная улица]]

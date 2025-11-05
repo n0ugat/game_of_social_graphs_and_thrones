@@ -1,0 +1,70 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Animal
+| Title       = {{PAGENAME}}
+| Type        = Dragon
+| Image       = 2x8 Sheepstealer.png
+| Species     = [[Dragon]]
+| Birth       = 
+| Death       = 
+| AKA         = 
+| Affiliation = 
+| Family      = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 2|2]]
+| Appearances = "[[The Queen Who Ever Was]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+}}
+{{Quote|It is large and formidable, but alas, wild.|[[Jeyne Arryn]] on Sheepstealer|Smallfolk (episode)}}
+'''Sheepstealer'''{{Con|TWOI&F}} is a wild [[dragon]] residing on [[Dragonstone (island)|Dragonstone]] during the [[Dance of the Dragons]].{{Ref|HOTD110}}
+
+==Biography==
+===Background===
+Sheepstealer is a scabrous mud-brown dragon with a taste for mutton.{{Ref|HOTD208}} He has never been claimed by a [[dragonrider]].{{Ref|HOTD206}}
+
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+[[Daemon Targaryen|Daemon]] mentions the three wild dragons who nest on Dragonstone during a meeting of the [[Black Council]].{{Ref|HOTD110}}[[File:Sheepstealer flies over the Vale and Rhaena watches..png|thumb|Sheepstealer flies over the Vale while Rhaena watches.]]
+===[[House of the Dragon: Season 2|''House of the Dragon'': Season 2]]===
+Since the beginning of the [[Dance of the Dragons]], Sheepstealer has migrated to the [[Vale of Arryn]]. [[Rhaena Targaryen|Rhaena]] and [[Joffrey Velaryon|Joffrey]] find the charred bones of livestock eaten by Sheepstealer near the [[Eyrie]].{{Ref|HOTD206}}
+[[File:House of the Dragon Season 2 Rhaena Targaryen and Sheepstealer.jpg|thumb|Rhaena meets Sheepstealer.]]
+Sheepstealer is soaring through the Vale as Rhaena spots him. He then feasts on charred sheep carcasses before he roars at the approaching Rhaena.{{Ref|HOTD208}}
+
+==In the books==
+In ''[[Fire & Blood]]'', Sheepstealer was a slender mud brown dragon with a taste for mutton. He hatched sometime during the youth of [[Jaehaerys I Targaryen]] and resided within the [[Dragonmont]], hunting sheep as far as [[Driftmark]] and the [[Wendwater]].
+
+Although Sheepstealer was in the [[Vale of Arryn]] at some point, he did not take refuge there during the time that Rhaena was Jeyne Arryn's ward.
+
+During the [[Red Sowing]], [[Silver Denys]] attempted to claim Sheepstealer (not [[Vermithor]]). Sheepstealer ripped his arm off, and while his sons were trying to staunch the wound, the [[Cannibal]] descended on them and devoured them all.
+
+==Appearances==
+*{{TDOD}} {{Illustrated}}
+*{{HOTD|The Black Queen}} {{Indirect}}
+*{{HOTD|Smallfolk}} {{Mentioned}}
+*{{HOTD|The Queen Who Ever Was}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{Dragons/House of the Dragon}}
+
+<!--Categories-->
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Individuals from The Dance of Dragons]]
+[[Category:Wild dragons]]
+
+<!--Languages-->
+[[de:Schafsdieb]]
+[[es:Robaovejas]]
+[[fr:Voleur-de-Moutons]]
+[[nl:Schapensteler]]
+[[ru:Овцекрад]]
+[[zh:偷羊贼]]

@@ -1,0 +1,19 @@
+{{Crew
+| Title= Tatiana S. Riegel
+| Image= Tsr 2.jpg
+| dateofbirth= 
+| birthplace= 
+| job= Editor
+| imdb= http://www.imdb.com/name/nm0726186/}}
+'''Tatiana S. Riegel''', also known as '''Tanya Riegel''', is a film and television editor. She was an additional editor for the [[Game of Thrones: Season 1|first season]] episode "[[Winter Is Coming]]". She has edited the films ''Pulp Fiction'' and ''Fright Night''.
+
+==Credits==
+===Additional editor===
+{{Game of Thrones: Season 1|yes}}
+
+==See also==
+*{{WP}}
+*{{Template:IMDb
+|# = 0726186}}
+{{DEFAULTSORT:Riegel, Tatiana S.}}
+[[Category:Production staff members of Game of Thrones]]

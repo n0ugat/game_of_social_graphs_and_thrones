@@ -1,0 +1,54 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Tarbeck.svg
+| Link  = House Tarbeck
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Reyne
+| Image        = Tarbeck-Hall.png
+| Type         = Castle
+| Status       = Ruined
+| Location     = The [[Westerlands]], [[Westeros]]
+| Population   = 
+| Rulers       = {[[House Tarbeck]]} {{C|formerly}}
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]] {{C|formerly}}
+| Places       = 
+| Founded      = 
+}}
+{{Quote|My father's army descended on Tarbeck so quickly that Lord Walderan had no time to gather his forces, and rode against my father with only his household knights. Soon, his head, his sons' heads, and the heads of any man with Tarbeck blood adorned the spears of the Lannister vanguard as it marched to Tarbeck Hall.|[[Jaime Lannister]]|The Rains of Castamere (Histories & Lore)}}
+'''Tarbeck Hall'''{{Ref|H&L708}} is a ruined castle in the [[Westerlands]], formerly the seat of the now-extinct [[House Tarbeck]]. It was [[Fall of Tarbeck Hall|destroyed]] during the [[Reyne-Tarbeck revolt]].
+
+==History==
+Lord [[Walderan Tarbeck]] and his wife Lady [[Ellyn Reyne]] were able to rebuild Tarbeck Hall to its former splendor through some extravagant loans that her brothers [[Knighthood|Ser]] [[Roger Reyne]] and Ser [[Reynard Reyne]] obtained from their weak-willed liege [[Lord of Casterly Rock|Lord]] [[Tytos Lannister]]. The castle was later [[Fall of Tarbeck Hall|destroyed]] when the [[House Reyne|Reynes]] and [[House Tarbeck|Tarbecks]] [[Reyne-Tarbeck revolt|rebelled]] against [[House Lannister]] and Lord Tytos's son [[Tywin Lannister|Tywin]] had it bombarded with trebuchets, crushing Lady Ellyn and her son [[Tion Tarbeck|Tion]] within. The remaining Tarbeck forces surrendered, with Tywin putting the castle to the torch.<ref>"[[The Rains of Castamere (Histories & Lore)|The Rains of Castamere]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Tarbeck Hall was located in the [[Westerlands]] close to [[Castamere]] and the [[Crag]]. By the reign of [[Lord of Casterly Rock|Lord]] [[Gerold Lannister]], the Tarbecks had become impoverished. Their fortunes changed when Lord [[Walderan Tarbeck]] [[Marriage|married]] Lady [[Ellyn Reyne]]. Ellyn used [[House Lannister|Lannister]] gold to rebuild the castle's curtain wall, strengthen its towers and decorate its keep.
+
+It has been claimed that [[Lordship|Lord]] [[Tytos Lannister]] sent Lord Denys [[House Marbrand|Marbrand]] to Tarbeck Hall in 255 AC to deal with Lord Walderan, whose territorial demands had angered [[King of the Andals and the Rhoynar and the First Men|King]] [[Aegon Targaryen (son of Maekar)|Aegon V Targaryen]]. Lady Ellyn's brother Ser [[Roger Reyne]] slew Lord Marbrand and his men and her other brother [[Knighthood|Ser]] [[Reynard Reyne]] made peace with Lord Tytos by claiming that Roger had mistaken Denys's men for outlaws.
+
+During the [[Reyne-Tarbeck revolt]], Lord Walderan and most of his kinsmen were either killed on the battlefield or executed after they surrendered by Lord Tytos's son [[Tywin Lannister|Tywin]], who then destroyed the keep, smiling as Lady Ellyn and her son [[Tion Tarbeck|Tion]] were crushed within before he had the castle put to the torch. Roger's army then reached Tarbeck Hall and were defeated by Tywin's. The ruins of Tarbeck Hall have not been occupied since the rebellion.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Westerlands}}
+
+<!--Categories-->
+[[Category:Castles of the Westerlands]]
+[[Category:House Tarbeck]]
+[[Category:Ruins]]
+
+<!--Languages-->
+[[de:Burg Tarbeck]]
+[[es:Torre Tarbeck]]
+[[fr:Château Tarbeck]]
+[[nl:Teerbeekhal]]
+[[ru:Тарбекхолл]]
+[[zh:塔贝克厅]]

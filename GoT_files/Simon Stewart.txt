@@ -1,0 +1,26 @@
+{{Cast
+| Title= Simon Stewart
+| Image= Simon_Stewart.jpg
+| dateofbirth= 
+| birthplace= 
+| role= Lannister messenger
+| status= 
+| First=
+| Last=
+| imdb= http://www.imdb.com/name/nm4492930/
+|Appearances = "[[The Pointy End]]"}}
+'''Simon Stewart''' is an Irish actor.
+
+In ''[[Game of Thrones]]'' he is playing the role of a Lannister messenger.
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 1||||||||yes}}
+
+==See also==
+*{{Template:IMDb
+|# = 4492930}}
+
+{{Stub}}
+{{DEFAULTSORT:Stewart, Simon}}
+[[Category:Guest starring cast members of Game of Thrones]]

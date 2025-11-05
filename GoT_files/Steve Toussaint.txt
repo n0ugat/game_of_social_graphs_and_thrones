@@ -1,0 +1,52 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Steve Toussaint.jpg
+| Birth   = March 22, 1965 {{Age|1965|3|22}}<br>Birmingham, England
+| Death   = 
+| Role    = [[Corlys Velaryon]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]] {{*}} [[House of the Dragon: Season 2|2]] {{*}} [[House of the Dragon: Season 3|3]]
+| Credits = 15 episodes {{Below|Credits}}
+| First   = "[[The Heirs of the Dragon]]"
+| Last    = 
+}}
+'''Stephen Toussaint'''{{Note|[tusónt]; to-<small>SAUNT</small>}} (born 22 March 1965) is an English actor and writer, best known for his roles in ''Prince of Persia: Sands of Time'', ''Judge Dredd'', and ''Shooting Dogs''. He portrays Lord [[Corlys Velaryon]] in ''[[House of the Dragon]]''.<ref>[https://deadline.com/2021/02/house-of-the-dragon-rhys-ifans-steve-toussaint-eve-best-sonoya-mizuno-cast-game-of-thrones-prequel-hbo-lord-corlys-velaryon-sea-snake-1234692290/ Deadline]</ref>
+
+==Biography==
+Steve Toussaint was born in the United Kingdom to Barbadian parents. He had his last name legally changed to "Toussaint" because his birth name conflicted with a pre-existing member of his actors' union. He chose the name from [[Wikipedia:Toussaint Louverture|Toussaint Louverture]], the Haitain revolutionary leader (as at the time he had been reading about him in "The Black Jacobins" by CLR James).<ref>https://twitter.com/StevieToussaint/status/1468931986853187591</ref>
+
+He made his professional debut as Steve Dixie on ''The Memoirs of Sherlock Holmes''.
+
+Toussaint previously auditioned for several roles in ''[[Game of Thrones]]'', including [[Areo Hotah]].<ref>https://ew.com/tv/house-of-the-dragon-steve-toussaint-auditioned-for-game-of-thrones/?utm_campaign=entertainmentweekly_entertainmentweekly&utm_content=new&utm_medium=social&utm_source=twitter.com&utm_term=62d6bb3e7b696400019a5f9c</ref>
+
+On February 11, 2021, it was announced that Toussaint would be playing [[Corlys Velaryon]] in ''House of the Dragon''.
+
+==Credits==
+===Starring===
+{{House of the Dragon: Season 1|yes|yes|yes||yes||yes|||yes}}
+{{House of the Dragon: Season 2|yes|yes|yes|yes|yes|yes|yes|yes}}
+{{House of the Dragon: Season 3||||yes}}
+
+==See also==
+*{{WP}}
+*{{IMDb|# = 0869750}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{House of the Dragon}}
+{{House of the Dragon: Inside the Episode}}
+
+<!--Categories-->
+{{DEFAULTSORT:Toussaint, Steve}}
+[[Category:Commentators of House of the Dragon: Inside the Episode]]
+[[Category:Starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[de:Steve Toussaint]]
+[[fr:Steve Toussaint]]

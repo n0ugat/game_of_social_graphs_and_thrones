@@ -1,0 +1,62 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{SameName|valley|people|Thenns}}
+{{Region
+| Title      = {{PAGENAME}}
+| Theme      = Wildling
+| Image      = 
+| Type       = Geographic area
+| Location   = Far north of the [[Frostfangs]], [[Beyond the Wall]]
+| Geography  = Volcanically-heated mountain valley
+| Population = [[Thenns]]
+| Rulers     = [[Magnar]] of Thenn
+| Culture    = [[Thenns]]
+| Religion   = [[Old Gods]]
+| Military   = 
+| Capital    = 
+| Castles    = 
+| Cities     = 
+| Towns      = 
+| Villages   = 
+| Places     = 
+| Founded    = 
+}}
+{{Quote|The Thenns have one of the only nice bits of land up there. A valley in the far north near the end of the Frostfangs with game, copper and tin for shiny bronze weapons. Better than the rusted old blades most of the Free Folk have. With such advantages, they could be a generous, friendly race. They are not.|[[Tormund]]|The Nations of the North}}
+'''Thenn'''{{Con|ASOIAF}} is the home region of the clan of the [[Free Folk]] known as the [[Thenns]]. It is valley in the far north near the end of the [[Frostfangs]].{{Ref|H&L410}}
+
+The sheltered valley is one of the most hospitable regions [[beyond the Wall]], rich with game, as well as copper and tin with which to forge bronze weapons. Despite such advantages, the Thenns are neither a generous people nor a friendly one.{{Ref|H&L410}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the valley of the Thenns is located far in the northern Frostfrangs. Ironically, it is actually one of the most pleasant and abundant regions beyond the Wall: the sheltered valley is heated by local volcanic activity (somewhat like real-life Iceland), making it an island of greenery in the otherwise frozen wastes of the very far north.
+
+The Thenns are the most advanced group of wildlings, technologically and socially. None of the other wildlings retained any skill with metallurgy, and have to scavenge or trade for iron weapons. The Thenns, however, do still have skill with making bronze weapons (from abundant copper and tin supplies in their valley). While they are not as strong as steel, they are more reliable than the old and scavenged iron weapons some other wildlings have - in fact, most wildlings only have weapons made of wood, stone, and bone.
+
+Socially, the Thenns are also the only group of wildlings to live under their own hereditary lords, who enforce established laws. The Magnar of the Thenns, however, isn't so much a "king" as he is worshiped like a god. The result is that the Thenns are the best-disciplined of the wildlings, following orders of clearly established leaders, and they are also usually the best equipped.
+
+Even the Thenns, however, realized that their sheltered valley would not protect them from the advance of the [[White Walkers]] from the [[Land of Always Winter]] even further north, so they joined [[Mance Rayder]]'s army to flee to the south.
+
+The TV series basically combined the Thenns with another wildling group, the [[ice-river clans]], who are actually wild [[Cannibalism|cannibals]] - in effect, condensing the most advanced and refined wildling group with the most savage and primitive.
+
+==Appearances==
+*{{H&L|The Nations of the North}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|Thenn (valley)}}
+
+<!--Navboxes-->
+{{Beyond the Wall}}
+
+<!--Categories-->
+[[Category:Beyond the Wall]]
+[[Category:Valleys]]
+
+<!--Languages-->
+[[de:Thenn (Region)]]
+[[pt-br:Thenn (Região)]]
+[[ru:Тенния]]

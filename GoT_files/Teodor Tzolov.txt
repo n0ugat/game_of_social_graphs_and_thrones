@@ -1,0 +1,22 @@
+{{Crew
+|Image =  Teodor Tzolov.jpeg
+|dateofbirth = {{WPS|March 7}}, {{WPS|1980}}
+|birthplace = {{WPS|Sofia}}, {{WPS|Bulgaria}}
+|job = Stunt Performer
+|imdb = http://www.imdb.com/name/nm1352136
+|twitter = }}
+'''Teodor Tzolov''' is a Bulgarian stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 5|fifth season]] episodes "[[Hardhome (episode)|Hardhome]]" and "[[The Dance of Dragons (episode)|The Dance of Dragons]]", the [[Game of Thrones: Season 6|sixth season]] episode "[[Battle of the Bastards (episode)|Battle of the Bastards]]", and the [[Game of Thrones: Season 7|seventh season]] episodes "[[Eastwatch]]", "[[Beyond the Wall (episode)|Beyond the Wall]]" and "[[The Dragon and the Wolf]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 5||||||||yes|yes}}
+{{Game of Thrones: Season 6|||||||||yes}}
+{{Game of Thrones: Season 7|||||yes|yes|yes}}
+
+==See also==
+*{{IMDb
+|# = 1352136}}
+{{DEFAULTSORT:Tzolov, Teodor}}
+[[Category:Stunt performers of Game of Thrones]]

@@ -1,0 +1,23 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Thomas J Jackson.jpg
+| Birth   = 
+| Death   = 
+| Role    = Vale sherpa
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]]
+| Credits = 
+| First   = 
+| Last    = 
+}}
+'''Thomas J. Jackson''' is an actor.
+
+Jackson plays a Vale sherpa in the [[House of the Dragon: Season 2|second season]] of ''[[House of the Dragon]]''.<ref>https://twitter.com/RedanianIntel/status/1701277527904342124</ref>
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+{{DEFAULTSORT:Jackson, Thomas J.}}
+[[Category:Uncredited cast members of House of the Dragon]]

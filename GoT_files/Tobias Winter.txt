@@ -1,0 +1,28 @@
+{{Cast
+| Title= Tobias Winter
+| Image= Tobias Winter.jpg
+| dateofbirth= 
+| birthplace= 
+| role= [[Timett]]
+| status= 
+| imdb= http://www.imdb.com/name/nm4385245/
+|First = "[[The Pointy End]]"|Last = "[[What Is Dead May Never Die]]"}}
+'''Tobias Winter''' is an actor. In ''[[Game of Thrones]]'' and plays the role of [[Timett]]. He initially appeared uncredited as a featured extra in the [[Game of Thrones: Season 1|first season]] and returned in this role for the [[Game of Thrones: Season 2|second season]]. He had his first lines and a guest starring credit in the second season episode "[[What Is Dead May Never Die]]".
+
+He had a role in ''[[wikipedia:Your Highness|Your Highness]]''.
+
+==Credits==
+===Background cast===
+{{Game of Thrones: Season 1||||||||yes|yes}}
+{{Game of Thrones: Season 2|yes}}
+
+===Guest starring===
+{{Game of Thrones: Season 2|||yes}}
+
+==See also==
+*{{Template:IMDb
+|# = 4385245}}
+
+[[fr:Tobias Winter]]
+{{DEFAULTSORT:Winter, Tobias}}
+[[Category:Guest starring cast members of Game of Thrones]]

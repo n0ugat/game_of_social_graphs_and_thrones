@@ -1,0 +1,92 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = House Frey.svg
+| Link  = House Frey
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Frey
+| Image       = Stevron Frey.jpg
+| Birth       = The [[Twins]], the [[Riverlands]]{{Con|AWOIAF}}
+| Death       = 
+| House       = [[House Frey|Frey]]
+| Affiliation = 
+| Titles      = [[Knighthood|Ser]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Riverlands|Rivermen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = {[[Walder Frey]]}
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = {[[Lothar Frey]]}<br>{[[Olyvar Frey]]}<br>[[Roslin Tully]]<br>{[[Waldron Frey]]}<br>[[Arwaya Frey]]<br>[[Walda Frey (The Rains of Castamere)|Walda Frey]]<br>[[Derwa Frey]]<br>[[Waldra Frey]]<br>[[Shirei Frey]]
+----
+[[Bastard]] paternal half-siblings:<br>{[[Walder Rivers]]}<br>{[[Ryger Rivers]]}
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 1|1]]
+| Appearances = "[[Baelor]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Colin Carnegie]]
+}}
+{{Dialogue a-b|Stevron Frey|Father, you forget yourself. Lady Stark is here...|Walder Frey|Who asked you? You're not Lord Frey yet, not until I die. Do I look dead to you?|[[Walder Frey]] to his son|Baelor}}
+Ser '''Stevron Frey'''{{Con|ASOIAF}} was the firstborn son and heir of [[Lordship|Lord]] [[Walder Frey]], the head of [[House Frey]] and [[Lord of the Crossing]].
+
+==Biography==
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+Stevron is present when [[Catelyn Stark|Catelyn]] visits Lord Walder Frey to negotiate passage for [[Robb Stark|Robb]]'s army across the [[Trident]]. He admonishes his father for forgetting his courtesies. Walder reminds Stevron that he is not yet Lord and then reluctantly kisses Catelyn's hand. Walder rudely dismisses Stevron and the rest of his very large family to talk with Catelyn in private.{{Ref|GOT109}}
+
+==Family==
+{{Frey tree}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Stevron resembles a weasel, like his father. He has grey eyes. A man in his sixties, Stevron's appearance shows his age. His father has groomed him for lordship of the house, though he often jokes that Stevron has been waiting for him to die for forty years. Through his father, Stevron has learned to place great importance on the family; unlike his father, however, Stevron is amiable and reasonable. In the book, Stevron rides out to [[parley]] with the Stark army on their arrival.
+
+Stevron participates in the council of Robb and his bannermen at [[Riverrun]]. He suggests to sit on the fence and let the two kings fight each other, then bend their knees to the winner or oppose him, as they see fit. He also suggests to offer a truce to [[Tywin Lannister|Tywin]], but is sharply silenced by other lords who wouldn't hear of making peace with the [[House Lannister|Lannisters]].
+
+Stevron is badly wounded at the [[Battle of Oxcross]], but no one thinks his wounds are fatal; nonetheless, he is found dead in his tent three days later, having succumbed to his injuries. When the news about his death reach [[Winterfell]], Lord Walder's grandsons, "Big" Walder and "Little" Walder, are not sad at all to hear their uncle is dead, they only argue who is the heir now.
+
+Following Stevron's death, due to the primogeniture laws of the [[Seven Kingdoms]], his own son Ryman becomes next in line to succeed Lord Walder, ahead of Walder's numerous younger sons.
+
+When Robb consults with his mother how to appease Lord Frey for breaching the marriage pact, he comments that if Stevron was still alive - maybe there was a chance to smooth things over with the Freys.
+
+Ryman is one of the Freys who welcome Robb and his followers to [[Edmure Tully|Edmure]]'s [[Red Wedding|wedding]]. Strangely, he tells Robb "If you would follow me, '''my father''' awaits" instead of "my grandfather"; it can be [[George R.R. Martin|Martin]]'s error, or a cruel joke of Ryman (who knew Robb would soon join the late Stevron). Robb pays no attention to that oddity, just as he ignores all the other warning signs - mainly [[Grey Wind]]'s aggressive behavior toward the Freys.
+
+His fate in the TV show is unknown, because it was never mentioned that a member of House Frey died during the timespan of the war; it was presumed he was still alive due to lack of evidence otherwise, but after the assassination with poisoned wine by Arya, it can be assumed that he died together with the other male members of House Frey.
+
+==Appearances==
+*{{GOT|Baelor}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Frey}}
+
+<!--Categories-->
+{{DEFAULTSORT:Frey, Stevron}}
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Knights]]
+[[Category:Members of House Frey|Stevron Frey]]
+[[Category:Rivermen]]
+
+<!--Languages-->
+[[de:Stevron Frey]]
+[[es:Stevron Frey]]
+[[it:Stevron Frey]]
+[[nl:Stevron Frey]]
+[[pl:Stevron Frey]]
+[[ro:Stevron Frey (serial)]]
+[[ru:Стеврон Фрей]]
+[[zh:史提夫伦·佛雷]]

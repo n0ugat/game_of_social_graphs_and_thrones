@@ -1,0 +1,38 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Free
+| Image        = Sweetwater River.png
+| Type         = Aqueduct
+| Status       = 
+| Location     = [[Braavos]], the [[Free Cities]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = 
+| Places       = 
+| Founded      = 
+}}
+{{Quote|Freed of the constraints of secrecy, Braavos quickly grew into the wealthiest and most powerful of the Free Cities, and, one could argue, the most beautiful. From the sprawling Sealord's Palace with its menagerie of strange beasts and birds to the imposing Palace of Justice and the aqueduct we call the Sweetwater River that bears fresh water from the mainland, Braavos is without rival, in either engineering or elegance.|[[Tycho Nestoris]]|Braavos (short)}}
+The '''Sweetwater River'''{{Ref|H&L504}} is an aqueduct located in [[Braavos]] which bears fresh water from the mainland.<ref>"[[Braavos (short)|Braavos]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the aqueduct is made from grey stone and brick. The water from Braavos' lagoon is undrinkable without boiling it due to the fact that it is brackish and briny. It is supported by three tiers of arches traveling from the south over houses and canals. The city's more wealthy citizens pipe water directly into their homes and commoners fill buckets at public fountains. The aqueduct enters the city on the south side and crosses the [[Long Canal]] before ending at the [[Moon Pool]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Sweetwater river}}
+
+<!--Navboxes-->
+{{Braavos}}
+
+<!--Categories-->
+[[Category:Aqueducts]]
+[[Category:Braavos]]
+
+<!--Languages-->
+[[pt-br:Rio de Água Doce]]
+[[ru:Акведук Браавоса]]

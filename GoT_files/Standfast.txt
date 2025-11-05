@@ -1,0 +1,37 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Osgrey.svg
+| Link  = House Osgrey
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Tyrell
+| Image        = 
+| Type         = Stronghold
+| Status       = 
+| Location     = [[Reach]]
+| Population   = 
+| Rulers       = [[House Osgrey]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Standfast'''{{Ref|THTDB201}} is a stronghold in the [[Reach]].
+
+==In the books==
+In the [[Dunk & Egg novellas]], Standfast and its three villages are the last remaining dominions of [[House Osgrey]], once the rulers of the Northmarch. It is called a castle by courtesy, but is in truth closer to a towerhouse.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|AKOTSK}}
+
+<!--Navboxes-->
+{{Reach}}
+
+<!--Categories-->
+[[Category:Castles of the Reach]]
+[[Category:House Osgrey]]

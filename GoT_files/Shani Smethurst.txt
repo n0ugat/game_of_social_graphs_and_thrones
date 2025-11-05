@@ -1,0 +1,32 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Shani Smethurst.jpg
+| Birth   = 
+| Death   = 
+| Role    = Young [[Baela Targaryen]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = 2 episodes {{Below|Credits}}
+| First   = "[[The Princess and the Queen]]"
+| Last    = "[[Driftmark (episode)|Driftmark]]"
+}}
+'''Shani Smethurst''' is an actress.
+
+In ''[[House of the Dragon]]'', she portrayed young [[Baela Targaryen]] in [[House of the Dragon: Season 1|Season 1]].<ref>https://pressroom.warnermedia.com/us/bio/house-dragon-character-descriptions</ref>
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1||||||yes|yes}}
+
+==See also==
+*{{IMDb|#=10150201}}
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Smethurst, Shani}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Shani Smethurst]]

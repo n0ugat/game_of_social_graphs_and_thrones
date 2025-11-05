@@ -1,0 +1,47 @@
+{{Canonicity|Canon}}
+{{References}}
+{{Heraldry
+| Image = House Harlaw.svg
+| Link  = House Harlaw
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Greyjoy
+| Image        = 
+<gallery>
+Riverlands map.jpg|Appearance
+Ten Towers Pin.png|Location
+</gallery>
+| Type         = Castle
+| Status       = 
+| Location     = [[Harlaw]], the [[Iron Islands]]
+| Population   = 
+| Rulers       = [[House Harlaw]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Drowned God]]
+| Places       = 
+| Founded      = 
+}}
+'''Ten Towers'''{{Ref|GOT105}} is a castle located in [[Harlaw]], the easternmost of the [[Iron Islands]]. It serves as the seat of [[House Harlaw]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Ten Towers is the newest castle in the Iron Islands, built on the island of Harlaw. It is described as being more like ten castles smashed together. The castle was built by Lord Theomore Harlaw, who raised the castle after he found the ancient seat of House Harlaw, Harlaw Hall to be too damp and flooded after three sons died in infancy. Lady [[Alannys Greyjoy]] lives at Ten Towers with the current Lord Harlaw, her brother Rodrik.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Iron Islands}}
+
+<!--Categories-->
+[[Category:Castles of the Iron Islands]]
+[[Category:House Harlaw]]
+
+<!--Languages-->
+[[de:Zehntürmen]]
+[[pt-br:Dez Torres]]
+[[ru:Десять Башен]]

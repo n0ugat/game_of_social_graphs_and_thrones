@@ -1,0 +1,35 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Martell
+| Image        = Skyreach Pin.png
+| Type         = Castle
+| Status       = 
+| Location     = [[Dorne]], [[Westeros]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Skyreach'''{{Guideref|Map of Westeros}} is a castle in [[Dorne]], the region controlled by [[House Martell]] of [[Sunspear]]. The castle is located in the north-west of Dorne near the border with the [[Stormlands]] and east of [[Yronwood]], near the Dornish end of [[Prince's Pass]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Skyreach is the seat of House Fowler, who are close allies of House Martell.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Dorne}}
+
+<!--Categories-->
+[[Category:Castles of Dorne]]
+
+<!--Languages-->
+[[ru:Поднебесье]]

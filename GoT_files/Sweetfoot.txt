@@ -1,0 +1,42 @@
+{{Canonicity|Canon}}
+{{SameName|horse|television series codenamed "Sweetfoot"|A Knight of the Seven Kingdoms}}
+{{Animal
+| Title       = {{PAGENAME}}
+| Type        = Kingdoms
+| Image       = 
+| Species     = [[Horse]]
+| Birth       = 
+| Death       = 
+| AKA         = 
+| Affiliation = [[Duncan the Tall]]
+| Family      = 
+| Series      = ''[[A Knight of the Seven Kingdoms]]''
+| Season      = [[A Knight of the Seven Kingdoms: Season 1|1]]
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+}}
+'''Sweetfoot'''{{Webref|name=Preproduction |author=Gravemaster |date=March 15, 2024 |url=https://redanianintelligence.com/2024/03/15/the-hedge-knight-gears-up-for-pre-production-very-soon-more/ |title=The Hedge Knight Gears Up For Pre-Production Very Soon & More |website=Redanian Intelligence |access-date=March 15, 2024 }} is a [[horse]] owned by Ser [[Duncan the Tall]].
+
+==Behind the scenes==
+"Sweetfoot" is the production codename of ''[[A Knight of the Seven Kingdoms]]''.<ref name="Preproduction" />
+
+==In the books==
+In the [[Dunk & Egg novellas]], Sweetfoot is a mare palfrey initially owned by Ser [[Arlan of Pennytree]]. She later passed into his [[squire]] Dunk's possession. She is calm and sure of foot.{{Bookref|THK}}
+
+==Appearances==
+===Forthcoming===
+{{Collapse|
+*{{AKOTSK|Season 1}}<ref name="Preproduction" /> {{Unreleased}}
+}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|AKOTSK}}
+
+<!--Categories-->
+[[Category:Horses]]
+[[Category:Individuals appearing in A Knight of the Seven Kingdoms]]

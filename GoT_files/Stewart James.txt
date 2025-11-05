@@ -1,0 +1,23 @@
+{{Crew
+|Image = Stewart James.jpg
+|dateofbirth = 
+|birthplace = 
+|job = Stunt Performer
+|imdb = http://www.imdb.com/name/nm0286948
+|twitter = }}
+'''Stewart 'Tidd' James''' is a stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 3|third season]] episode "[[The Rains of Castamere (episode)|The Rains of Castamere]]" and the [[Game of Thrones: Season 4|fourth season]] episodes "[[First of His Name]]", "[[The Watchers on the Wall]]" and "[[The Children]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 3|||||||||yes}}
+{{Game of Thrones: Season 4|||||yes||||yes|yes}}
+
+==See also==
+*{{IMDb
+|# = 1144310}}
+*{{Linkedin
+|# = /in/tidd-james-8a027a72}}
+{{DEFAULTSORT:James, Stewart}}
+[[Category:Stunt performers of Game of Thrones]]

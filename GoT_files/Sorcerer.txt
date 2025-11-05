@@ -1,0 +1,75 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Free
+| Image       = What's in the box Varys? What's in the box?!.jpg
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Myr]]ish
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 3|3]]
+| Appearances = "[[And Now His Watch Is Ended]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Harold James McMullan]]
+}}
+{{Quote|Hello, my old friend. It's been a long time.|[[Varys]] to the captured sorcerer.|And Now His Watch Is Ended}}
+This '''unnamed man''' is a sorcerer established in the [[Free Cities|Free City]] of [[Myr]].
+
+==Biography==
+===Background===
+The sorcerer approached the master of a touring troupe and made an offer he couldn't refuse, buying a [[slavery|slave]] boy - a young [[Varys]] - from his group. The sorcerer gave the boy a potion that made him unable to move or speak, but didn't dull his perceptions or sense of pain, and [[Eunuch|emasculated]] him. Then, he burned Varys's penis and testes in a brazier as part of a [[magic]]al ritual. In his pain, Varys was frightened to observe that when the sorcerer prayed to the blue flames in his ceremony, a voice clearly answered him from the flames. Afterwards, the sorcerer had no use for Varys, and threw him in the streets to die.{{Ref|GOT304}}
+
+However, Varys resolved to live no matter what to spite the sorcerer, and one day get his revenge on him. He ascended the social ladder until he entered the King's [[Small Council]] as the [[Master of Whisperers]]. Using his spy network and influence, Varys had his agents locate the sorcerer, who had him gagged and shipped to Varys in a crate.{{Ref|GOT304}}
+
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+Prior to the [[Battle of the Blackwater]], Varys and [[Tyrion Lannister|Tyrion]] discuss unnatural things. Varys says that one day he'll tell Tyrion about his emasculation.{{Ref|GOT209}}
+
+===[[Game of Thrones: Season 3|''Game of Thrones'': Season 3]]===
+When Tyrion visits Varys to discover who ordered Ser [[Mandon Moore]] to try and kill him during the Battle of the Blackwater, he finds the Eunuch prying a crate open. Varys tells Tyrion the story of how he came to be a eunuch, and when the crate is finally opened, he shows him the sorcerer, tied, gagged, and mutilated inside. He urges Tyrion to be patient, as someday he also will take his revenge against the person who sent Ser Mandon against him. With these words, Varys closes the lid of the box again, with the sorcerer still inside.{{Ref|GOT304}}
+
+===[[Game of Thrones: Season 6|''Game of Thrones'': Season 6]]===
+[[Kinvara]] later tells Varys that the man who emasculated him was little more than a "second-rate sorcerer", an amateur dabbling in the dark arts.{{Ref|GOT605}}
+
+==Behind the scenes==
+Varys was originally intended to give the speech about his past to Tyrion on the eve of the battle of the Blackwater, as he did in the novels. Due to time constraints, however, it was cut out, so in Season 2 episode "[[Blackwater]]" he only considered telling Tyrion, then stopped and said he would tell that another time. Once the scene was moved to a later episode "[[And Now His Watch Is Ended]]" and they had more time with it, the detail was added in the scene with the sorcerer.<ref>[http://watchersonthewall.com/cogman-tweets-anon/ Watchers on the Wall - Cogman Tweets Anon!]</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the sorcerer is mentioned long before by Varys when he tells Tyrion of his origins, while they discuss the strange circumstances of Ser Cortnay Penrose's death (who was killed by [[Melisandre]]'s second [[shadow]]).{{Bookref|ACOK|44}} There is no mention, however, of Varys ever tracking down the sorcerer to exact revenge.
+
+Similarly to the show, the sorcerer's name is not mentioned in the novels; Varys refers to him simply as "a certain man".
+
+So far, the books have not made it clear if Varys's tale about how he was castrated by a sorcerer was actually true, or just a story he fabricated to confuse his enemies. On the other hand, it was never implied that he was lying, but Varys is such a master of deception that it was difficult for readers to trust any story he gave about himself.
+
+==Appearances==
+*{{GOT|And Now His Watch Is Ended}}
+*{{GOT|The Door}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|A certain man}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Myrmen]]
+
+<!--Languages-->
+[[de:Zauberer]]
+[[fr:Magicien]]
+[[ru:Колдун]]

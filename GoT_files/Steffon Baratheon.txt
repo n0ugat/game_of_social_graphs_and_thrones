@@ -1,0 +1,110 @@
+{{Canonicity|Canon}}
+{{SameName|father of Robert, Stannis, and Renly|son of Serac Baratheon|Steffon Baratheon (son of Serac)}}
+{{Heraldry
+| Image = House Baratheon.svg
+| Link  = House Baratheon
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Baratheon
+| Image       = Steffon Baratheon.png
+| Birth       = [[229 AC]]{{Dateref|Steffon Baratheon}}<br>[[Storm's End]], the [[Stormlands]]{{Ref|GOT106}}
+| Death       = [[278 AC]]{{Dateref|Windproud}} (aged 49)<br>[[Shipbreaker Bay]], the Stormlands{{Ref|GOT106}}
+| House       = [[House Baratheon|Baratheon]]{{Ref|GOT106}}
+| Affiliation = [[House Targaryen]]{{Ref|GOT106}}
+| Titles      = [[Lord of Storm's End]]{{Ref|GOT106}}<br>[[Lord Paramount of the Stormlands]]{{Ref|GOT106}}
+| AKA         = 
+| Culture     = [[Stormlands|Stormlander]]{{Ref|GOT106}}
+| Religion    = 
+| Father      = {[[Ormund Baratheon]]}{{Ref|H&L604}}{{Note|The prop book ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]'' stated that Steffon's father was [[Lyonel Baratheon]]. Later, the ''[[Histories & Lore]]'' short "[[War of the Ninepenny Kings (short)|War of the Ninepenny Kings]]" introduced Ormund Baratheon as Steffon's father, like in the books.}}
+| Mother      = 
+| Spouse      = {[[Cassana Baratheon|Cassana Estermont]]}{{Ref|GOT106}}
+| Lovers      = 
+| Issue       = {[[Robert Baratheon|Robert I Baratheon]]}{{Ref|GOT106}}<br>{[[Stannis Baratheon]]}{{Ref|GOT106}}<br>{[[Renly Baratheon]]}{{Ref|GOT106}}
+| Siblings    = 
+| Arms        = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|My father used to tell me that boredom indicates a lack of inner resources.|Stannis Baratheon|Sons of the Harpy (episode)}}
+Lord '''Steffon Baratheon''' was the [[Lord of Storm's End]] and head of [[House Baratheon]]. He is the father of [[Robert Baratheon|Robert]], [[Stannis Baratheon|Stannis]], and [[Renly Baratheon]].
+
+==Biography==
+===Background===
+Steffon Baratheon was the third member of House Baratheon to be named Steffon. He was the Lord of Storm's End and head of House Baratheon, one of the [[Great House]]s of [[Westeros]]. He is the father of Robert, Stannis and Renly Baratheon. He lived with his family at [[Storm's End]]. Steffon fought in the [[War of the Ninepenny Kings]] alongside his father, [[Ormund Baratheon]], who, according to singers, died in the arms of Steffon.{{Ref|H&L604}}
+
+While in a drunken stupor, he once attempted to violate the honor of a noble lady but was subdued by Ser [[Gwayne Gaunt]]{{Note|The paragraph mentioning this event is erroneously placed in Arthur Dayne's entry. The opening sentence calling him the "thirdborn son to Lord Symon of House Gaunt" makes it apparent that this paragraph was meant for Gwayne Gaunt's entry.|name=Gwayne Gaunt}} of the [[Kingsguard]], though he was spared on account of his drunkenness.{{Ref|GOT806}}
+
+Steffon and his wife, [[Cassana Baratheon|Cassana]], died shortly before [[Robert's Rebellion]] when their ship, the ''[[Windproud]]'', sank in [[Shipbreaker Bay]].{{Ref|GOT106}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+[[Eddard Stark|Ned]] reads aloud Steffon's entry in ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]''.{{Ref|GOT106}}
+
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+[[Stannis Baratheon|Stannis]] mentions that his father used to tell him that "boredom indicates a lack of inner resources".{{Ref|GOT504}}
+
+===[[Game of Thrones: Season 8|''Game of Thrones'': Season 8]]===
+Steffon is mentioned under the entry of Ser Arthur Dayne{{Note|name=Gwayne Gaunt}} in the ''[[Book of Brothers]]'', which the new [[Lord Commander of the Kingsguard]] [[Brienne of Tarth]] flicks through.{{Ref|GOT806}}
+
+==Family==
+{{Baratheon tree}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Steffon Baratheon was the son of Lord Ormund Baratheon and Rhaelle Targaryen, the sister of King Jaehaerys II and aunt of the [[Aerys II Targaryen|Mad King]]. Despite what maesters claim, this relationship is not what allowed Robert to claim the [[Iron Throne]] during [[Robert's Rebellion]]; he seized the Iron Throne by force.
+[[File:Ormund and Steffon Baratheon.png|thumb|220x220px|Steffon holds his father Ormund fallen in battle.]]
+Steffon Baratheon appears to have been an effective lord. He was once defeated by Prince [[Rhaegar Targaryen]] during a [[tournament]]. He was sent by King Aerys II to the [[Free Cities]] to find a bride for Prince Rhaegar, but he found no suitable matches. He did find a talented fool, however, one whom he believed would teach even Stannis to laugh. However, Lord Steffon's ship, the ''Windproud'', sank in Shipbreaker Bay within sight of Storm's End. His body and that of his wife, Lady Cassana of House Estermont, was never found. The fool, Patchface, did wash ashore, but the trauma of the event robbed him of his wits.
+
+In his youth, Steffon served as a page at King's Landing, and became close friends with Aerys and [[Tywin Lannister]]. As Aerys's relationship with Tywin deteriorated, many believed that the king would name Steffon as [[Hand of the King]] upon his return from the Free Cities; instead, matters only grew worse after Steffon's death, as Aerys became convinced that Tywin had arranged the sinking of the ''Windproud'' to prevent Steffon from taking his place.
+
+==Appearances==
+*{{GOT|A Golden Crown}} {{Mentioned}}
+*{{GOT|Sons of the Harpy}} {{Mentioned}}
+*{{H&L|War of the Ninepenny Kings}} {{Illustrated}}
+*{{GOT|The Iron Throne}} {{Text}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Succession box-->
+{{S-start}}
+{{Succession box
+ | title  = [[Lord of Storm's End]] and [[Lord Paramount of the Stormlands]]
+ | years  = [[257 AC|257]] - [[278 AC]]
+ | with   = 
+ | before = [[Ormund Baratheon]]
+ | after  = [[Robert Baratheon]]
+}}
+{{S-end}}
+
+<!--Navboxes-->
+{{House Baratheon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Baratheon, Steffon}}
+[[Category:Bannermen of House Targaryen]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Lords of Storm's End|Steffon Baratheon]]
+[[Category:Lords Paramount of the Stormlands|Steffon Baratheon]]
+[[Category:Members of House Baratheon|Steffon Baratheon]]
+[[Category:Stormlanders]]
+
+<!--Languages-->
+[[de:Steffon Baratheon]]
+[[es:Steffon Baratheon]]
+[[fr:Steffon Baratheon]]
+[[pl:Steffon Baratheon]]
+[[ru:Стеффон Баратеон]]
+[[tr:Steffon Baratheon]]
+[[zh:史蒂芬·拜拉席恩]]

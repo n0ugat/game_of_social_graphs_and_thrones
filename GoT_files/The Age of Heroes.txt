@@ -1,0 +1,119 @@
+{{SameName|short|time period|Age of Heroes}}
+{{Short
+| Title    = {{PAGENAME}}
+| Type     = Lore
+| Image    = H&L102.png
+| Season   = 1
+| Short    = 2
+| Date     = March 6, 2012{{Webref|name=Blu-ray |author=Jacob Klein |date=March 4, 2012 |url=https://hbowatch.com/game-of-thrones-dvd-blu-ray-available-56/ |title=Game of Thrones DVD & Blu-Ray Available 3/6! |website=HBO Watch |access-date=December 15, 2023 }}
+| Runtime  = 3 minutes{{Ref|H&L102}}
+| Narrator = [[Bran Stark]]{{Boxref|GOT1}}
+| Writer   = [[Bryan Cogman]]{{Webref|name=Cogman |author=Dan Selcke |date=September 20, 2017 |url=https://winteriscoming.net/2017/09/20/bryan-cogman-is-developing-a-fifth-game-of-thrones-prequel-series-for-hbo/ |title=Bryan Cogman is developing a fifth Game of Thrones prequel series for HBO |website=Winter is Coming |access-date=December 14, 2023 }}
+| Director = 
+| Previous = "[[The Children of the Forest, the First Men, and the Andals]]"{{Boxref|GOT1}}
+| Next     = "[[The Old Gods and the New (Histories & Lore)|The Old Gods and the New]]"{{Boxref|GOT1}}
+}}
+"'''The Age of Heroes'''"{{Boxref|GOT1}} is the second short of the [[Histories & Lore: Season 1|first season]] of ''[[Histories & Lore]]''. It is the second short of the series overall. It was released on March 6, 2012 in ''[[Game of Thrones: The Complete First Season]]''. It was narrated by [[Isaac Hempstead-Wright]] as [[Bran Stark]] and written by [[Bryan Cogman]].
+
+==Premise==
+{{Premise|H&L102}}
+
+==Narration==
+'''Bran Stark''': ''When [[Aegon I Targaryen|Aegon the Conqueror]] invaded [[Westeros]], he had [[Seven Kingdoms]] to contend with.''
+
+''The [[North|Kingdom of the North]], the [[Vale of Arryn|Kingdom of the Mountain and the Vale]], the [[Iron Islands]], the [[Westerlands|Kingdom of the Rock]], the [[Reach|Kingdom of the Reach]], the [[Stormlands]], and [[Dorne]].''
+
+''These regions had been established by the [[First Men]] thousands of years before, in the [[Age of Heroes]].''
+
+''One hero of this fabled age was [[Brandon the Builder|Bran the Builder]]. Bran raised the [[Wall]] and built the stronghold of [[Winterfell]], establishing House Stark and reigning as the first [[King in the North]].''
+
+''Other legends tell of the [[Grey King]] in the [[Iron Islands]]. Grey King took a [[mermaid]] to wife and defeated [[Nagga]], the first [[sea dragon]]. [[House Greyjoy]] of [[Pyke]], the current rulers of the region, claim to descend from him.''
+
+''[[House Casterly]] ruled the gold-rich [[Westerlands]] from their mighty seat of [[Casterly Rock]]. But their lands and power were swindled from them by the legendary trickster, [[Lann the Clever]]. The noble House of [[House Lannister|Lannister]] is said to have descended from him.''
+
+''The verdant and fertile lands of the [[Reach]] were first ruled by [[House Gardener]]. Its founder, known as [[Garth the Gardener|Garth Greenhand]], wore a crown of flowers and vines. He ruled from [[Highgarden]] as the first [[King of the Reach]] and was said to have made the land bloom. Many noble houses trace their bloodlines back to him, including the current [[Lord of Highgarden|lords of Highgarden]], [[House Tyrell]].''
+
+''In the [[Stormlands]], according to ballads of the age, a warrior named [[Durran Godsgrief|Durran]] fell in love with [[Elenei]], whose father was [[god of the sea]], and mother was [[goddess of the wind]]. She gave her maidenhead to him, committing herself to a mortal life.''
+
+''Enraged, her parents called upon the winds and waters, destroying Durran's bayside keep and wiping out his wedding gift. Durran declared war on the gods and rebuilt his keep, which was also destroyed.''
+
+''Four more castles he raised, each stronger than the last. All fell to the power of the gods. But Durran's seventh castle, [[Storm's End]], withstood the gods' rage. Durran became known as Durran Godsgrief and reigned as the first [[Storm King]].''
+
+''There are countless other tales from the Age of Heroes, too many to count. These histories weren't recorded in a book but passed down from generation to generation through story and song.''
+
+''And while some of them may be dismissed as fairy tales, every one of the [[Seven Kingdoms]] is defined by them.''
+
+==Appearances==
+===Individuals===
+* King [[Brandon the Builder]]
+* The [[Grey King]]
+* [[Nagga]]
+* [[Lann the Clever]]
+* King [[Garth the Gardener]]
+* King [[Durran Godsgrief]]
+* Queen [[Elenei]]
+
+===Houses===
+*[[House Stark]]
+*[[House Greyjoy]]
+*[[House Casterly]]
+*[[House Lannister]]
+*[[House Gardener]]
+*[[House Tyrell]]
+
+===Locations===
+*[[Westeros]]
+** [[North|Kingdom of the North]]
+*** The [[Wall]]
+*** [[Winterfell]]
+** [[Vale of Arryn|Kingdom of the Mountain and the Vale]]
+** [[Iron Islands]]
+** [[Westerlands|Kingdom of the Rock]]
+*** [[Casterly Rock]]
+*** [[Lannisport]]
+** [[Reach|Kingdom of the Reach]]
+*** [[Highgarden]]
+** [[Stormlands]]
+*** [[Storm's End]]
+** [[Dorne]]
+
+===Events===
+*[[Age of Heroes]]
+
+===Titles===
+* [[King in the North]]
+* [[Storm King]]
+
+===Religions===
+* [[God of the sea]]
+* [[Goddess of the wind]]
+
+===Miscellaneous===
+* [[Giants]]
+* [[Mermaid]]
+
+==Cast==
+*[[Isaac Hempstead-Wright]] as [[Bran Stark]]
+
+==Gallery==
+<gallery bordersize="none">
+The Age of Heroes
+</gallery>
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{Histories & Lore}}
+
+<!--Categories-->
+{{DEFAULTSORT:Age of Heroes, The}}
+[[Category:Shorts narrated by Bran Stark]]
+[[Category:Shorts of Histories & Lore: Season 1| 02]]
+[[Category:Shorts released in 2012|3.06B]]
+[[Category:Shorts written by Bryan Cogman]]
+
+<!--Languages-->
+[[de:Zeitalter der Heroen (Gesamtführer durch Westeros)]]
+[[fr:L'Âge des Héros (Histoires & Traditions)]]
+[[pt-br:A Era dos Heróis (Guia Completo para Westeros)]]

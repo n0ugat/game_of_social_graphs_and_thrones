@@ -1,0 +1,29 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Steffan Rhodri.png
+| Birth   = March 1, 1967 {{Age|1967|3|1}}<br>Swansea, Wales
+| Death   = 
+| Role    = [[Hobert Hightower]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = 3 episodes {{Below|Credits}}
+| First   = "[[The Heirs of the Dragon]]"
+| Last    = "[[We Light the Way]]"
+}}
+'''Steffan Rhodri''' (born 1 March 1967) is a Welsh actor.
+
+In ''[[House of the Dragon]]'', he portrayed [[Hobert Hightower]] in the [[House of the Dragon: Season 1|first season]].
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1|yes||yes||yes}}
+
+==See also==
+*{{IMDb|#=0722560}}
+*{{Twitter|#=steffan_rhodri}}
+
+{{DEFAULTSORT:Rhodri, Steffan}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+[[fr:Steffan Rhodri]]

@@ -1,0 +1,54 @@
+{{DISPLAYTITLE:Stark {{C|''Bloodmoon''}}}}
+{{Canonicity|Non}}
+{{Heraldry
+| Image = House Stark.svg
+| Link  = House Stark
+}}
+{{Character
+| Title       = Stark
+| Type        = Stark
+| Image       = 
+| Birth       = [[Age of Heroes]]{{Note|''[[Bloodmoon]]'' was set during the Age of Heroes. The Stark was a human, therefore he must have been born in this age.}}
+| Death       = 
+| House       = [[House Stark|Stark]]{{Webref|name=Stark |author=Wake the Dragon |date=February 19, 2024 |url=https://twitter.com/WtDasoiaf/status/1759627390504816698 |title=the main stark character |website=X |access-date=February 20, 2024 }}
+| Affiliation = 
+| Titles      = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[Bloodmoon]]'' {{Rejected}}
+| Season      = 
+| Appearances = [[Pilot (Bloodmoon)|Pilot]] {{Unreleased}}
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Josh Whitehouse]]
+}}
+A '''Stark''' lived during the [[Age of Heroes]]. He was a relative of Princesses [[Sylvi Stark|Sylvi]] and [[Maiev Stark]].
+
+==Behind the scenes==
+On October 31, 2018, ''Deadline'' announced that [[Josh Whitehouse]] had been cast as a lead role in ''[[Bloodmoon]]'', a ''[[Game of Thrones]]'' [[World of Westeros|prequel]] [[Pilot (Bloodmoon)|pilot]].{{Webref|name=Deadline |author=Mike Fleming Jr |date=October 31, 2018 |url=https://deadline.com/2018/10/game-of-thrones-prequel-josh-whitehouse-mr-burberry-poldark-valley-girl-1202493011/ |title=Josh Whitehouse Set As ‘Game Of Thrones’ Prequel Lead |website=Deadline |access-date=November 1, 2018 }} On February 19, 2024, Wake the Dragon revealed that he had portrayed the main Stark character.<ref name="Stark" />
+
+==Appearances==
+*{{BM|Pilot}} {{Unreleased}} {{Nc}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{House Stark}}
+{{Bloodmoon}}
+
+<!--Categories-->
+[[Category:Individuals from Bloodmoon]]
+[[Category:Members of House Stark|Bloodmoon]]

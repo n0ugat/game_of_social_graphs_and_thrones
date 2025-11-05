@@ -1,0 +1,54 @@
+{{Canonicity|Formerly}}
+{{BookConjecture}}
+{{Animal
+| Title       = {{PAGENAME}}
+| Type        = Greens
+| Image       = 
+| Species     = [[Dragon]]
+| Birth       = 
+| Death       = 
+| AKA         = 
+| Affiliation = [[House Targaryen]]<br>[[Greens]]
+| Family      = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+}}
+'''Shrykos'''{{Con|F&B}} is a [[dragon]] bred by [[House Targaryen]].{{Ref|H&L403}}
+
+==Behind the scenes==
+Though previously depicted in ''[[Histories & Lore]]'' and ''[[The Dance of Dragons]]'', dragon egg incubators are visible beneath [[Jaehaerys Targaryen (son of Aegon II)|Jaehaerys]] and [[Jaehaera Targaryen|Jaehaera]]'s beds in "[[A Son for a Son]]," indicating that Shrykos and [[Morghul]] have not yet hatched within the timeline of ''[[House of the Dragon]]''.
+
+==In the books==
+In ''[[Fire & Blood]]'', Shrykos was a young she-dragon bound to Prince [[Jaehaerys Targaryen (son of Aegon II)|Jaehaerys Targaryen]], son of King [[Aegon II Targaryen]] during the [[Dance of the Dragons]].
+
+==Appearances==
+*{{H&L|Dragons}} {{Illustrated}}
+*{{TDOD}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{Dragons}}
+
+<!--Categories-->
+[[Category:Dragons of House Targaryen]]
+[[Category:Greens]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Individuals from The Dance of Dragons]]
+[[Category:She-dragons]]
+
+<!--Languages-->
+[[de:Shrykos]]
+[[pl:Shrykos]]
+[[ru:Шрикос]]

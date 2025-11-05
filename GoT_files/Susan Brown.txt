@@ -1,0 +1,32 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Susan-Brown-200.jpg
+| Birth   = Susan Elizabeth Brown<br>May 6, 1946 {{Age|1946|5|6}}<br>Bristol, England
+| Death   = 
+| Role    = [[Mordane]]
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 1|1]]
+| Credits = 6 episodes {{Below|Credits}}
+| First   = "[[Winter Is Coming]]"
+| Last    = "[[The Pointy End]]"
+}}
+'''Susan Elizabeth Brown''' (born 6 May 1946) is a British actress. She is an experienced actress with many roles on stage and screen. She had a major role as Bridget Spears in ''[[wikipedia:Torchwood: Children of Earth|Torchwood: Children of Earth]]''.
+
+In ''[[Game of Thrones]]'' she played the role of Septa [[Mordane]]. She was confirmed in the role on 16 July 2010.
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 1|yes||yes|yes|yes|yes||yes}}
+
+==See also==
+*{{WP|Susan Brown (actress)}}
+*{{Template:IMDb
+|# = 0114742}}
+
+
+[[de:Susan Brown]]
+[[ru:Сьюзен Браун]]
+[[fr:Susan Brown]]
+{{DEFAULTSORT:Brown, Susan}}
+[[Category:Guest starring cast members of Game of Thrones]]

@@ -1,0 +1,52 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Stark
+| Image       = Stark messenger.jpg
+| Birth       = In the [[North]]
+| Death       = 
+| House       = 
+| Affiliation = [[House Stark]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Northmen|Northern]]
+| Religion    = [[Old Gods]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 2|2]]
+| Appearances = "[[The Prince of Winterfell]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Moe Dunford]]
+}}
+{{Quote|Kingslayer, he escaped in the night!|The messenger to Robb Stark|The Prince of Winterfell}}
+A '''Stark messenger''' served in the [[House Stark|Stark]] host during the [[Westerlands]] offensive of the [[War of the Five Kings]].
+
+==Biography==
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+While Robb and [[Talisa Stark|Talisa]] are walking back from the [[Crag]], he rides out to Robb to inform him that [[Jaime Lannister|Jaime]] has escaped.{{Ref|GOT208}}
+
+==Appearances==
+*{{GOT|The Prince of Winterfell}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Men-at-arms]]
+[[Category:Northmen]]
+[[Category:Servants and retainers of House Stark]]
+[[Category:Smallfolk]]
+
+<!--Languages-->
+[[ru:Посыльный Старков]]

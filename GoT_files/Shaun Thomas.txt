@@ -1,0 +1,26 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Kingdoms
+| Image   = Shaun Thomas.jpg
+| Birth   = May 30, 1997 {{Age|1997|5|30}}<br>Bradford, West Yorkshire, England
+| Death   = 
+| Role    = [[Raymun Fossoway]]
+| Series  = ''[[A Knight of the Seven Kingdoms]]''
+| Season  = [[A Knight of the Seven Kingdoms: Season 1|1]]
+| Credits = 
+| First   = 
+| Last    = 
+}}
+'''Shaun Thomas''' (born May 30, 1997) is an English actor.
+
+Thomas portrays [[Raymun Fossoway]] in ''[[A Knight of the Seven Kingdoms]]''.
+
+==Credits==
+{{A Knight of the Seven Kingdoms: Season 1}}
+
+==External links==
+*{{IMDb|#=5649091}}
+
+<!--Categories-->
+{{DEFAULTSORT:Thomas, Shaun}}
+[[Category:Cast members of unknown billing of A Knight of the Seven Kingdoms]]

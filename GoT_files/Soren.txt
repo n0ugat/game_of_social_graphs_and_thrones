@@ -1,0 +1,55 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Hightower
+| Image       = Ser Soren.png
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[House Hightower/House of the Dragon|House Hightower]]{{Ref|HOTD104}}
+| Titles      = [[Knighthood|Ser]]<ref>[https://www.spotlight.com/7892-0161-3662 Ben Dilloway on Spotlight]</ref>
+| AKA         = 
+| Culture     = [[Reach]]{{Ref|HOTD104}}
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 1|1]]
+| Appearances = "[[King of the Narrow Sea (episode)|King of the Narrow Sea]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Ben Dilloway]]
+}}
+Ser '''Soren''' is a [[Knighthood|knight]] sworn to [[House Hightower/House of the Dragon|House Hightower]].
+
+==Biography==
+===Background===
+Soren serves Ser [[Otto Hightower]] at [[King's Landing]].{{Ref|HOTD104}}
+
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+Soren summons Otto outside to receive a messenger from [[Mysaria]].{{Ref|HOTD104}}
+
+==In the books==
+In ''[[Fire & Blood]]'', there is no character named Soren.
+
+==Appearances==
+*{{HOTD|King of the Narrow Sea}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Individuals from the Reach]]
+[[Category:Knights]]
+[[Category:Men-at-arms]]
+[[Category:Servants and retainers of House Hightower]]
+
+<!--Languages-->
+[[fr:Soren]]

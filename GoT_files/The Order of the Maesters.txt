@@ -1,0 +1,80 @@
+{{SameName|short|scholastic order|Order of Maesters}}
+{{Short
+| Title    = {{PAGENAME}}
+| Type     = Lore
+| Image    = H&L107.png
+| Season   = 1
+| Short    = 7
+| Date     = March 6, 2012{{Webref|name=Blu-ray |author=Jacob Klein |date=March 4, 2012 |url=https://hbowatch.com/game-of-thrones-dvd-blu-ray-available-56/ |title=Game of Thrones DVD & Blu-Ray Available 3/6! |website=HBO Watch |access-date=December 15, 2023 }}
+| Runtime  = 3 minutes{{Ref|H&L107}}
+| Narrator = [[Luwin]]{{Boxref|GOT1}}
+| Writer   = [[Bryan Cogman]]{{Webref|name=Cogman |author=Dan Selcke |date=September 20, 2017 |url=https://winteriscoming.net/2017/09/20/bryan-cogman-is-developing-a-fifth-game-of-thrones-prequel-series-for-hbo/ |title=Bryan Cogman is developing a fifth Game of Thrones prequel series for HBO |website=Winter is Coming |access-date=December 14, 2023 }}
+| Director = 
+| Previous = "[[The History of the Night's Watch - House Lannister]]"{{Boxref|GOT1}}
+| Next     = "[[Valyria & the Dragons]]"{{Boxref|GOT1}}
+}}
+"'''The Order of the Maesters'''"{{Boxref|GOT1}} is the seventh short of the [[Histories & Lore: Season 1|first season]] of ''[[Histories & Lore]]''. It is the seventh short of the series overall. It was released on March 6, 2012 in ''[[Game of Thrones: The Complete First Season]]''. It was narrated by [[Donald Sumpter]] as [[Luwin]] and written by [[Bryan Cogman]].
+
+==Premise==
+{{Premise|H&L107}}
+
+==Narration==
+'''Luwin''': ''In the far southwest of [[Westeros]], at the mouth of the river [[Honeywine]], lies the great stone city of [[Oldtown]]. It is home to the [[Citadel]], where men and boys from throughout the [[Seven Kingdoms|kingdoms]] come to receive their training as [[Order of Maesters|maesters]].''
+
+''Maesters play an integral role in [[Westeros]]i society, serving as scholars, healers, and advisers to the nobility of the Seven Kingdoms. This venerable order of learned men dedicate their lives to serving the realm and are sworn to occupy a neutral position when it comes to power and politics.''
+
+''Upon completing his training at the Citadel and taking his vows, a maester renounces his family name and takes a vow of celibacy.''
+
+''He is assigned to a castle or keep, and duty-bound to serve as its counselor and healer, even if control of the castle changes hands. A maester’s allegiance is to the realm, not to any one family.''
+
+''His badge of office is a great chain, forged from links of different metals, which he wears around his neck. It is a reminder of his role as a servant of the realm and is never to be removed. A maester forges his chain with study, and each link represents the mastery of a different kind of learning.''
+
+''For instance, a silver link signifies mastery of the medicinal arts. A golden link represents the study of money and accounting. An iron link indicates knowledge of warcraft. Ravenry is an especially important skill for a maester, as it is he who breeds, trains, and maintains carrier [[raven]]s for the delivering of messages throughout the land.''
+
+''There are some maesters who have earned a link forged of [[Valyrian steel]]. This signifies knowledge of the "higher mysteries," commonly known as "[[magic]]." Only one maester in a hundred possesses such a link, as this field of study is frowned upon by many in the order.''
+
+''It is possible magic may have existed for a time, long ago, but most consider the higher mysteries to be long gone from this world.''
+
+''Service as a maester is a noble calling, one of vital importance to a prosperous realm. It is little wonder there are some who refer to the order as the "Knights of the Mind."''
+
+==Appearances==
+===Locations===
+* The [[Honeywine]]
+* [[Oldtown]]
+** The [[Citadel]]
+
+===Institutions===
+* [[Order of Maesters]]
+
+===Miscellaneous===
+* [[Raven]]
+* [[Valyrian steel]]
+* [[Magic]]
+* [[Dragonglass]] candles {{Unnamed}}
+* [[Sphinx]]
+
+==Cast==
+*[[Donald Sumpter]] as [[Luwin]]
+
+==Gallery==
+<gallery bordersize="none">
+The Order of the Maesters
+</gallery>
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{Histories & Lore}}
+
+<!--Categories-->
+{{DEFAULTSORT:Order of the Maesters, The}}
+[[Category:Shorts narrated by Luwin]]
+[[Category:Shorts of Histories & Lore: Season 1| 07]]
+[[Category:Shorts released in 2012|3.06G]]
+[[Category:Shorts written by Bryan Cogman]]
+
+<!--Languages-->
+[[de:Der Orden der Maester (Gesamtführer durch Westeros)]]
+[[fr:L'Ordre des Mestres (Histoires & Traditions)]]
+[[pt-br:The Order of the Maesters]]

@@ -1,0 +1,63 @@
+{{DISPLAYTITLE:Steffon Baratheon {{C|son of Serac}}}}
+{{Canonicity|Non}}
+{{Heraldry
+| Image = House Baratheon.svg
+| Link  = House Baratheon
+}}
+{{Character
+| Title       = Steffon Baratheon
+| Type        = Baratheon
+| Image       = House Baratheon lineage.jpg
+| Birth       = 
+| Death       = 
+| House       = [[House Baratheon|Baratheon]]{{Ref|GOT106}}
+| Affiliation = 
+| Titles      = 
+| AKA         = 
+| Culture     = [[Stormlands|Stormlander]]{{Ref|GOT106}}
+| Religion    = 
+| Father      = {[[Serac Baratheon]]}{{Ref|GOT106}}
+| Mother      = {[[Monica Baratheon|Monica Velaryon]]}{{Ref|GOT106}}
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Steffon Baratheon''' was an early member of [[House Baratheon]].
+
+==Biography==
+===Background===
+Steffon was the son of [[Serac Baratheon|Serac]] and [[Monica Baratheon]].{{Ref|GOT106}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+He is mentioned in his father's entry in ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]''.{{Ref|GOT106}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the only character named [[Steffon Baratheon]] is the father of [[Robert Baratheon|Robert]], [[Stannis Baratheon|Stannis]], and [[Renly Baratheon|Renly]].
+
+==Appearances==
+*{{GOT|A Golden Crown}} {{Text}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House Baratheon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Baratheon, Steffon}}
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Members of House Baratheon|Steffon Baratheon]]
+[[Category:Stormlanders]]
+
+<!--Languages-->
+[[es:Steffon Baratheon, hijo de Serac]]
+[[ru:Стеффон Баратеон (внук Ориса)]]

@@ -1,0 +1,52 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{War
+| Title      = {{PAGENAME}}
+| Type       = Westeros
+| Part       = 
+| Image      = 
+| Previous   = [[Long Night]]
+| Concurrent = 
+| Next       = [[Fall of Night's King]]<br>[[Unification of the North]]
+| Beginning  = c. 8000 BC
+| End        = 
+| Place      = [[North]]
+| Outcome    = [[House Stark]] victory
+*[[House Stark]] ascends to dominance in the North
+*Start of the [[unification of the North]]
+| Factions1  = {{COA|House Stark|s}} [[House Stark]]
+| Factions2  = [[Barrow King]]s
+| Factions3  = 
+| Factions4  = 
+| Factions5  = 
+| Factions6  = 
+| Leaders1   = 
+| Leaders2   = 
+| Leaders3   = 
+| Leaders4   = 
+| Leaders5   = 
+| Leaders6   = 
+| Events     = 
+}}
+{{Quote|In those days, the Starks were not the greatest House in the North, and Winterfell was not the greatest castle. Barrowton was the oldest, dating to the First King, and the Starks fought the Barrow Kings for a thousand years.|[[Roose Bolton]]|Winterfell (Histories & Lore)}}
+The '''Thousand Years War'''{{Con|TWOI&F}} was a conflict before the [[Unification of the North]] which was fought between the [[King in the North|Kings of Winter]] of [[House Stark]] and the [[Barrow King]]s of the [[Barrowlands]].<ref>"[[Winterfell (Histories & Lore)|Winterfell]]"</ref>
+
+==In the books==
+In ''[[A Song of Ice and Fire]]'', the conflict dubbed by singers as the Thousand Years War was probably a series of separate conflicts in a span of two hundred years. It finally ended when the last [[Barrow King]] surrendered to [[Winterfell]] and gave his daughter to the Stark king for marriage. Afterward, the Barrowlands became ruled by [[House Dustin]], bannermen to the Starks that boast descent from the Barrow Kings.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+[[Category:Wars]]
+
+<!--Languages-->
+[[de:Tausendjähriger Krieg]]
+[[fr:Guerre de Mille Ans]]
+[[ru:Тысячелетняя_война]]

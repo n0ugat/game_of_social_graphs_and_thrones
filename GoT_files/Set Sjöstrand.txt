@@ -1,0 +1,33 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Bloodmoon
+| Image   = Set Sjöstrand.jpg
+| Birth   = Scandinavia
+| Death   = 
+| Role    = [[Andal leader]]
+| Series  = ''[[Bloodmoon]]'' {{Rejected}}
+| Season  = 
+| Credits = [[Pilot (Bloodmoon)|Pilot]] {{Unreleased}}
+| First   = 
+| Last    = 
+}}
+'''Set Sjöstrand''' is a Scandinavian actor.
+
+He portrayed the [[Andal leader]] in the [[Pilot (Bloodmoon)|pilot]] of ''[[Bloodmoon]]''.{{Webref|name=Andal |author=Wake the Dragon |date=February 18, 2024 |url=https://twitter.com/WtDasoiaf/status/1759436697798930691 |title=Set Sjöstrand as the leader of the Andal invaders! |website=X |access-date=February 19, 2024 }}
+
+==See also==
+*{{IMDb|# = 9045748}}
+*{{YouTube|# = channel/UCtnD6pzBGpQeSNFd6f3Ofbw}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{Bloodmoon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Sjöstrand, Set}}
+[[Category:Cast members of the pilot of Bloodmoon]]
+
+<!--Languages-->
+[[de:Set Sjöstrand]]

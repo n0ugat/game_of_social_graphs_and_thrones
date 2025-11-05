@@ -1,0 +1,70 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Toyne.svg
+| Link  = House Toyne
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Outlaw
+| Image       = 
+| Birth       = 
+| Death       = [[278 AC]]{{Dateref|Kingswood Brotherhood}}<br>The [[Kingswood]], the [[Crownlands]]{{Ref|GOT103}}
+| House       = [[House Toyne|Toyne]]
+| Affiliation = [[Kingswood Brotherhood]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Andals|Andal]]
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Good fighter, Toyne, but he lacked stamina.|[[Barristan Selmy]]|Lord Snow}}
+'''Simon Toyne''' was the leader of the [[Kingswood Brotherhood]], an [[outlaw]] brotherhood. He was killed by Ser [[Barristan Selmy]].
+
+==Biography==
+===Background===
+Simon Toyne was the leader of the Kingswood Brotherhood, a band of outlaws and bandits opposed to the rule of [[House Targaryen]]. They inhabited the [[Kingswood]], a large area of woodland south-east of [[King's Landing]]. Roughly twenty years before the events of the series, King [[Aerys II Targaryen]] ordered the Brotherhood destroyed, a mission led by Ser Barristan Selmy of the [[Kingsguard]]. Selmy himself killed Toyne with a counter-riposte, a move witnessed by the then-[[squire]] [[Jaime Lannister]].{{Ref|GOT103}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+Jaime recalls Selmy killing Toyne and cites Selmy's counter-riposte as the finest sword move he'd ever seen. Selmy says that Toyne was a good fighter, but lacked stamina.{{Ref|GOT103}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Simon was a descendant of [[House Toyne]]. His background and fate are the same as in the show.
+
+House Toyne was formerly a house of honor, with one member - Ser [[Terrence Toyne]] - serving in the Kingsguard of King [[Aegon IV Targaryen]]. When Aegon IV found this knight abed with one of his mistresses, he had him executed in a horrible fashion. The knight's brothers declared war against [[House Targaryen]], slaying the infamous Dragonknight, Ser [[Aemon Targaryen (son of Viserys II)|Aemon Targaryen]]. Simon was their descendant and the last of his line.
+
+==Appearances==
+*{{GOT|Lord Snow}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+{{DEFAULTSORT:Toyne, Simon}}
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Kingswood Brotherhood]]
+[[Category:Members of House Toyne|Simon Toyne]]
+[[Category:Stormlanders]]
+
+<!--Languages-->
+[[de:Simon Toyn]]
+[[ru:Саймон Тойн]]

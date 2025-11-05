@@ -1,0 +1,33 @@
+{{Canonicity|Canon}}
+{{References}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Arryn
+| Image        = 
+| Type         = Castle
+| Status       = 
+| Location     = The [[Fingers]], the [[Vale of Arryn]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = 
+| Places       = 
+| Founded      = 
+}}
+'''Snakewood'''<ref>[[:File:Cersei Westeros Map Puzzle.jpg]]</ref> is a castle on the [[Fingers]] in the [[Vale of Arryn]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Snakewood is located within the snakewood forest.<ref>''A Song of Ice and Fire Campaign Guide''</ref> In ''A Storm of Swords'', [[Sansa Stark|Alayne Stone]] stops at Snakewood while traveling to the [[Eyrie]].<ref>''A Storm of Swords, Chapter 68''</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Vale of Arryn}}
+
+<!--Categories-->
+[[Category:Castles of the Vale of Arryn]]

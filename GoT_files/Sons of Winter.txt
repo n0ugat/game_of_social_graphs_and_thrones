@@ -1,0 +1,103 @@
+{{Episode
+| Title    = {{PAGENAME}}
+| Type     = Telltale
+| Image    = ATGS04.png
+| Season   = 
+| Episode  = 4
+| Date     = May 26, 2015{{Webref|name=IGN |author=Luke Karmali |date=May 22, 2015 |url=https://www.ign.com/articles/2015/05/21/telltales-game-of-thrones-episode-4-gets-a-release-date |title=Telltale's Game of Thrones Episode 4 Gets a Release Date |website=IGN |access-date=February 3, 2024 }}{{C|PC, Mac, PlayStation 4, PlayStation 3}}<br>May 27, 2015<ref name="IGN" /> {{C|Xbox One, Xbox 360}}<br>May 28, 2015<ref name="IGN" /> {{C|iOS, Android}}
+| Runtime  = 
+| Writer   = Nicole Martinez{{Ref|ATGS04}}<br>Brad Kane{{Ref|ATGS04}}
+| Director = Kent Mudle{{Ref|ATGS04}}
+| Year     = [[301 AC/Non-canon|301 AC]]{{Dateref|The Sword in the Darkness}}
+| Previous = "[[The Sword in the Darkness]]"{{Ref|ATGS03}}
+| Next     = "[[A Nest of Vipers]]"{{Ref|ATGS05}}
+}}
+"'''Sons of Winter'''"{{Ref|ATGS04}} is the fourth episode of ''[[Game of Thrones: A Telltale Games Series]]''. It premiered on May 26, 2015. It was written by Nicole Martinez and Brad Kane, and directed by Kent Mudle.
+
+==Premise==
+{{Premise|ATGS04}}
+
+==Cast==
+*[[Emilia Clarke]] as [[Daenerys Targaryen]]
+*[[Peter Dinklage]] as [[Tyrion Lannister]]
+*[[Natalie Dormer]] as [[Margaery Tyrell]]
+*[[Kit Harington]] as [[Jon Snow]]
+*[[Lena Headey]] as [[Cersei Lannister]]
+*[[Iwan Rheon]] as [[Ramsay Bolton|Ramsay Snow]]
+*Russ Bain as Rodrik
+*Alex Jordan as Asher
+*Daniel Kendrick as Gared Tuttle
+*Martha Mackintosh as Mira Forrester
+*Christopher Nelson as Ethan Forrester
+*Laura Bailey as Gwyn
+*Joseph Balderrama as Cotter
+*JB Blanc as Malcolm Forrester,{{Sic|Malcolm Branfield}} Thermund, Father Tuttle
+*Jeremy Crutchley as Denner Frostfinger
+*Sacha Dhawin{{Sic|Sacha Dhawan}} as Gryff Whitehill
+*Robin Atkin Downes as Lord Forrester, Duncan Tuttle & Andros
+*David Franklin as Maester Ortengryn
+*Brian George as Ser Royland Degore & Tazal
+*Alastair James as Britt
+*Adam Leadbeater as Croft, Whitehill Soldier
+*Clare Louise Connolly as Sylvi
+*Geoff Leesley as Lord Whitehill & Norren
+*Matt Littler as Arthur Glenmore
+*Natasha Loring as Sera
+*Yuri Lowenthal as Finn, Tom & Erik
+*Matthew Mercer as Bowen & Fegg
+*Toks Olagundoye as Beskha
+*Amy Pemberton as Elaena Glenmore
+*Carl Prekopp as Lyman Lannister
+*Lara Pulver as Lady Forrester
+*Rob Rackstraw as Garibald Tarwick, Meereen Slave, Crow
+*Molly Stone as Talia Forrester
+*Louis Suc as Ryon Forrester
+*Fabio Tassone as Lucan, Meereen Guard
+*Owen Thomas as Damien
+*Oliver Vaquer as Morgryn
+*Ron Bottitta as Harys, Whitehill Soldier, Lannister Soldier
+*Alice Coulthard as Lady, Wildling
+*Liam O'Brien as Lord
+*Matt Wolf as Whitehill Soldier, Lannister Soldier
+*Jo Wyatt as Lady, Wildling
+
+==Gallery==
+===Video===
+<gallery bordersize="none">
+Game of Thrones: A Telltale Games Series - Episode 4: 'Sons of Winter' Trailer
+</gallery>
+
+===Images===
+<gallery>
+SOW Frostfinger and Gared.png
+SOW Daenerys and Viserion.png
+SOW Wildling.png
+SOW Highpoint Art.png
+SOW Whitehill Meeting.png
+SOW Beskha Attacking.png
+</gallery>
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{TTGOT}}
+
+<!--Navboxes-->
+{{Game of Thrones: A Telltale Games Series}}
+{{Game of Thrones}}
+
+<!--Categories-->
+[[Category:Episodes directed by Kent Mudle]]
+[[Category:Episodes of Game of Thrones: A Telltale Games Series| 04]]
+[[Category:Episodes released in 2015|5.26]]
+[[Category:Episodes written by Brad Kane]]
+[[Category:Episodes written by Nicole Martinez]]
+
+<!--Languages-->
+[[de:Söhne des Winters (Episode)]]
+[[fr:Les Enfants de l'Hiver]]
+[[ru:Сыновья зимы]]

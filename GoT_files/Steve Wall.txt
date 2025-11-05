@@ -1,0 +1,30 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Kingdoms
+| Image   = Steve Wall.jpg
+| Birth   = Stephen Patrick Wall<br>Kingsbury, London, England
+| Death   = 
+| Role    = [[Leo Tyrell]]
+| Series  = ''[[A Knight of the Seven Kingdoms]]''
+| Season  = [[A Knight of the Seven Kingdoms: Season 1|1]]
+| Credits = 
+| First   = 
+| Last    = 
+}}
+'''Stephen Patrick Wall''' is an Irish musician and actor. 
+
+Wall portrays [[Leo Tyrell]] in ''[[A Knight of the Seven Kingdoms]]''.<ref>https://redanianintelligence.com/2024/08/11/a-knight-of-the-seven-kingdoms-casts-a-tyrell/</ref>
+
+==Credits==
+{{A Knight of the Seven Kingdoms: Season 1}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{WP}}
+*{{IMDb|#=2425811}}
+
+<!--Categories-->
+{{DEFAULTSORT:Wall, Steve}}
+[[Category:Cast members of unknown billing of A Knight of the Seven Kingdoms]]

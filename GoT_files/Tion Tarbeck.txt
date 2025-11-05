@@ -1,0 +1,67 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Tarbeck.svg
+| Link  = House Tarbeck
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Reyne
+| Image       = Tion Tarbeck.png
+| Birth       = [[Tarbeck Hall]]
+| Death       = [[258 AC]]{{Dateref|Reyne-Tarbeck revolt}}<br>Tarbeck Hall
+| House       = [[House Tarbeck|Tarbeck]]
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Westerlands|Westermen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = {[[Walderan Tarbeck]]}
+| Mother      = {[[Ellyn Reyne]]}
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|My father had trebuchets up in a day and brought down the keep within hours. Lady Ellyn and her son were crushed in its fall.|[[Jaime Lannister]]|The Rains of Castamere (Histories & Lore)}}
+'''Tion Tarbeck''' was a member of [[House Tarbeck]]. He was the son of [[Walderan Tarbeck]] and [[Ellyn Reyne]]. He was named after [[Tion Lannister]], his mother's first [[Marriage|husband]].
+
+==Biography==
+Tion was killed alongside his mother when [[Tywin Lannister]] attacked [[Tarbeck Hall]] with trebuchets, causing the keep to collapse and crush them.{{Ref|H&L708}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, his story is the same.
+
+==Appearances==
+*{{H&L|The Rains of Castamere}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+{{DEFAULTSORT:Tarbeck, Tion}}
+[[Category:Individuals from Histories & Lore]]
+[[Category:Members of House Tarbeck|Tion Tarbeck]]
+[[Category:Westermen]]
+
+<!--Languages-->
+[[de:Tion Tarbeck]]
+[[es:Tion Tarbeck]]
+[[fr:Tion Tarbeck]]
+[[nl:Tion Teerbeek]]
+[[ru:Тион Тарбек]]
+[[zh:提恩·塔贝克]]

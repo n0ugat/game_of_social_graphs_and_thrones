@@ -1,0 +1,75 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Distinguish|fall of Harrenhal}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Dragon
+| Part          = the [[Dance of the Dragons]]{{Ref|HOTD203}}
+| Image         = S2 Simon Strong bends the knee.png 
+| Previous      = [[Battle at the Burning Mill]]
+| Concurrent    = [[Blockade of the Gullet]]
+| Next          = [[Submission of Rosby]]
+| Date          = [[132 AC]]{{Dateref|House of the Dragon: Season 2}}
+| Place         = [[Harrenhal]], the [[Riverlands]]
+| Outcome       = Strategic [[Blacks|Black]] victory
+*[[Simon Strong]] surrenders Harrenhal to [[Daemon Targaryen]]
+| Factions1     = {{COA|Blacks|s}} [[Blacks]]
+*{{COA|House Targaryen|i}} [[House Targaryen]]{{Ref|HOTD203}}
+| Factions2     = {{COA|Greens|s}} [[Greens]]
+*{{COA|House Strong|i|House Strong}} [[House Strong]]{{Ref|HOTD203}} 
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = {{COA|Daemon Targaryen|i}} Prince [[Daemon Targaryen]]{{Ref|HOTD203}}
+| Leaders2      = {{COA|House Strong|i}} Ser [[Simon Strong]]{{Ref|HOTD203}}
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = 1 [[dragon]]
+*[[Caraxes]]
+| Participants2 = Strong garrison
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = None
+| Casualties2   = 1 guard incapacitated
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Dialogue a-b|Daemon|I'm claiming Harrenhal.|Simon|Apparently so.|Daemon Targaryen and Simon Strong|The Burning Mill}}
+[[File:Harrenhal Captured by the Blacks.png|thumb|Caraxes flies to Harrenhal.]]
+The '''taking of Harrenhal''' was an event that took place early in the [[Dance of the Dragons]] in [[132 AC]]. The [[Blacks]], represented singularly by Prince [[Daemon Targaryen]] and his dragon, [[Caraxes]], wrested control of [[Harrenhal]] from the [[Greens]] when Ser [[Simon Strong]], the [[castellan]] of Harrenhal, bent the knee to [[Rhaenyra Targaryen]], surrendering the castle without a fight.{{Ref|HOTD203}}
+
+==History==
+===Prelude===
+As the [[Dance of the Dragons]] erupted, it became apparent to both the Blacks and the Greens that control of the [[Riverlands]] could significantly influence the outcome of the war. The key to this was the capture of [[Harrenhal]],{{Ref|HOTD202}} the largest castle in the [[Seven Kingdoms]], strategically positioned in the heart of the Riverlands along the shores of the [[Gods Eye]]. [[Daemon Targaryen]] intended to capture Harrenhal and keep it from the influence of the [[Greens]], in order to further the Blacks' aims for the region. However, when [[Rhaenyra Targaryen]] discovered Daemon's involvement in the assassination of [[Aegon II Targaryen|Aegon]]'s son, Prince [[Jaehaerys Targaryen (son of Aegon II)|Jaehaerys]], she began to question his loyalty to her. This discord prompted Daemon to set off for Harrenhal alone, atop his dragon Caraxes.{{Ref|HOTD203}}
+
+===The assault===
+Under the cloak of a stormy night, Daemon arrives at Harrenhal, alerting the local garrison of his presence as Caraxes perches himself on Kingspyre Tower. Disembarking, Daemon navigates through the dilapidated castle, encountering almost no resistance to his incursion except a lone guard whom he swiftly incapacitates. Daemon continues his stealthy advance through Harrenhal, eventually arriving at one of the dining halls. There, he encounters Ser [[Simon Strong]], the Castellan of Harrenhal, and his entourage eating supper.{{Ref|HOTD203}}[[File:OT2 Daemon & Caraxes 2.png|thumb|Daemon & Caraxes lands on Kingspyre Tower.]]
+
+Daemon immediately announces to Simon and the room he is claiming Harrenhal for the Blacks. Simon accepts this outcome without any resistance, and subsequently him and the others in the room bend the knee to the Blacks and Queen Rhaenyra. Simon then invites Daemon to join him for supper.{{Ref|HOTD203}}
+===Aftermath===
+Despite the capture of Harrenhal without any bloodshed, Daemon is skeptical of the easy surrender of Westeros's largest castle as he dines with Simon. He refuses to eat the food provided under the belief it is poisoned and points out to Simon that his lord and the head of [[House Strong]], [[Larys Strong]], is a loyal member of the court of Aegon II. Simon assures Daemon that he is welcomed at Harrenhal before repudiating his grandnephew, stating his (correct) belief that Larys was responsible for the death of his father and brother, Lord [[Lyonel Strong|Lyonel]] and Ser [[Harwin Strong]], in a suspicious fire [[Year of the Red Spring|six years prior]]. Simon then inquires about Daemon's business in the Riverlands, to which Daemon replies that he intends to repair and fortify Harrenhal for the coming war. To that end, Daemon orders for Simon to summon Lord [[Grover Tully]], [[Lord Paramount of the Trident]] and head of [[House Tully]], so that he may bring him and his bannerman into the Blacks' fold.{{Ref|HOTD203}}
+
+The fall of Harrenhal was a major victory for the Blacks in the early phase of the Dance, giving Rhaenyra and her forces the largest fortress of the Seven Kingdoms in a strategically advantageous position in the Riverlands. With a toehold now in place in the region, the Blacks were in position to further expand and consolidate their control of the Riverlands.{{Ref|HOTD203}}
+
+==In the books==
+In ''[[Fire & Blood]]'', the capture of Harrenhal by Daemon Targaryen proceeds much the same. Ser Simon Strong surrendered to Daemon without casualties on either side. Afterwards he and his grandsons were taken hostage.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|Assault on Harrenhal}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{Dance of the Dragons}}
+
+<!--Categories-->
+[[Category:132 AC]]
+[[Category:Dance of the Dragons]]
+[[Category:Events]]
+
+<!--Languages-->
+[[ru:Взятие Харренхола]]

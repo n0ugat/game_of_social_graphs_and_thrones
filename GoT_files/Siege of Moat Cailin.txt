@@ -1,0 +1,113 @@
+{{Canonicity|Canon}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Thrones
+| Part          = the [[Ironborn invasion of the North]]
+| Image         = Surrender of Moat Cailin.jpg
+| Previous      = [[Court trial of Tyrion Lannister]]<br><small>([[War of the Five Kings]])</small><br>[[Assault on the Dreadfort]]<br><small>([[Ironborn invasion of the North]])</small>
+| Concurrent    = 
+| Next          = [[Second trial by combat of Tyrion Lannister]]<br><small>([[War of the Five Kings]])</small><br>[[Fight by Deepwood Motte]]<br><small>([[Ironborn invasion of the North]])</small>
+| Date          = [[301 AC]]{{Dateref|Game of Thrones: Season 4}}
+| Place         = [[Moat Cailin]], [[Neck]], [[North]]
+| Outcome       = [[House Bolton|Bolton]] victory
+*All surrendering [[Ironborn]] flayed alive.
+*[[Ramsay Bolton]] legitimized as [[Roose Bolton]]'s lawful son.
+*The main Bolton army enters the [[North]].
+*[[House Bolton]] officially takes over [[Winterfell]].
+| Factions1     = {{COA|House Baratheon of King's Landing|s}} '''[[Iron Throne]]'''<br>{{C|[[House Baratheon of King's Landing]]}}
+*{{COA|House Bolton|s}} [[House Bolton]]
+| Factions2     = {{COA|House Greyjoy|s}} '''[[Salt Throne]]'''<br>{{C|[[House Greyjoy]]}}
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = [[Ramsay Bolton|Ramsay Snow]]
+| Leaders2      = [[Ralf Kenning]] †<br>[[Adrack Humble]] {{Executed}}
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = ~5,000 manpower
+*5,000 Bolton infantry and cavalry 
+*Prince [[Theon Greyjoy]]
+| Participants2 = Moat Cailin [[Ironborn]] garrison
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = None
+| Casualties2   = Total
+*Ralf Kenning killed
+*All garrisoning soldiers [[Flaying|flayed]] alive
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Quote|As long as the Ironborn hold Moat Cailin, our armies are trapped south of the Neck. Theon was a valuable hostage, ''not'' your plaything. I wanted to ''trade'' him for Moat Cailin!|[[Roose Bolton]] scolds [[Ramsay Bolton|Ramsay Snow]].|The Lion and the Rose}}
+The '''siege of Moat Cailin'''{{Con|ASOIAF}} is an event during the [[War of the Five Kings]]. It marks the end of the [[Ironborn]] occupation of [[Moat Cailin]], an ancient stronghold on the [[Neck]] that guards the entrance into the [[North]].
+
+==History==
+===Prelude===
+{{Quote|Take the Moat for the family. For ''our'' family. Do this, and I'll reconsider [[Bastard|your position]].|Roose Bolton to Ramsay Snow.|The Lion and the Rose}}During [[Balon Greyjoy]]'s campaign to conquer the North, Ironborn forces [[Fall of Moat Cailin|capture]] [[Moat Cailin]],<ref>Season 2 bluray: War of the Five Kings feature</ref> effectively cutting the Northern army in the south from their own lands and preventing [[Robb Stark]] from marching back home to reclaim [[Winterfell]] when the castle [[Capture of Winterfell|falls]] to [[Theon Greyjoy]].
+
+Some time after the [[Red Wedding]], [[Roose Bolton]] and his closest collaborators smuggle themselves back into the North, though the main bulk of his army remains south. Back at the [[Dreadfort]], Bolton finds Theon Greyjoy has been tortured into submission by his [[bastard]], [[Ramsay Bolton|Ramsay Snow]], and remade into "Reek", an unsuitable [[hostage]] to trade for the departure of the Ironborn from Moat Cailin.
+
+In order to prove himself to his father, Ramsay orders [[Theon Greyjoy|Reek]] to deliver terms of surrender to the garrison at the Moat by taking on his former identity.
+
+===The parley===
+Theon rides into Moat Cailin bearing a white banner and is received by the Ironborn. The garrison is in a poor state; several people are sickly including their commander. Theon treats with the commander of the garrison, [[Ralf Kenning]]. Theon offers Ramsay's terms of surrender and tells them that if they accept, they will be granted safe conduct and be allowed to march back to the [[Stony Shore]] unmolested.
+
+The [[parley]] falls flat with Kenning spitting at Theon's face and denouncing him as an impostor. Ralf Kenning tells Theon to go back to the Boltons and tell them that "the Ironborn will not surrender". Theon becomes unnerved and very nearly drops his facade, beginning to refer to himself as Reek in fear of what Ramsay will do to him if he fails to get the garrison to surrender. However, Ralf Kenning is killed by [[Adrack Humble]], who would rather surrender and live than stand and die. Adrack Humble accepts the terms of surrender on behalf of the garrison.
+
+The Greyjoy kraken banner is lowered and a white flag of surrender is raised. The gates are then opened to allow Bolton soldiers to enter.
+
+===Aftermath===
+{{Quote|You didn't really think I'd let them go, did you?|Ramsay to Theon after ordering the Ironborn flayed alive.|The Mountain and the Viper}}[[File:Fashionableflaying.png|thumb|Despite "promising" them safe passage, Ramsay flays the Ironborn alive.]]
+However, Ramsay never intended to keep his promise. The entire garrison is [[Flaying|flayed]] alive and impaled on spikes.
+
+As a reward for taking Moat Cailin, Roose Bolton reveals to Ramsay a decree of legitimization that officially renames him Ramsay Bolton and makes him the heir to the [[Dreadfort]]. With his army able to enter the mainland of the North, Roose Bolton begins his rule as [[Warden of the North]].<ref>"[[The Mountain and the Viper]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the siege of Moat Cailin occurs similarly to the show.
+
+===Background===
+Some time after Victarion Greyjoy has taken Moat Cailin, he receives news about [[Assassination of Balon Greyjoy|Balon's death]] and the [[kingsmoot on Old Wyk]]. Some of his subordinates urge him to return to the Iron Islands and claim the Seastone Chair. Victarion does so, leaving a skeleton garrison at Moat Cailin under the command of Ralf Kenning. Robb Stark, having decided to forgo his vendetta against the Lannisters and return to the North, intends to liberate Moat Cailin, taking advantage of the significant reduction of the ironborn manpower, but is killed before he can realize his plan.
+
+Since most of the Bolton troops are still south of the Neck, it is essential for Roose to liberate Moat Cailin. He assigns Ramsay, who has been recently legitimized, to capture the fortress from the north, where it is more vulnerable. In the meantime, Roose and Frey troops march north.
+
+The Ryswells and Dustins, the only northern houses who are truly loyal to the Boltons, surprise the ironborn on the Fever River, burning their longships. They storm the fortress three times, but the ironborn garrison stubbornly repels their attacks. Ramsay gathers a large force of northerners, including Boltons, Hornwoods, Cerwyns and Umbers, and joins the Ryswells and Dustins. He decides to take Moat Cailin by cunning rather than by force. 
+
+Whether the ironborn in the fortress are aware of that or not, their situation is hopeless. They desperately need reinforcements and ships, but Euron has no interest in Moat Cailin, and does not send there even one soldier. Escape is hardly an option, for the Boltons and their allies are positioned north and south of the fortress; to the east lay a bleak and barren shore and a cold salt sea; to the west there are swamps crawling with [[Crannogmen]]. Moreover, in their poor condition, they cannot make it to the [[Stony Shore]] or to the only other strongholds which are still held by ironborn at that point - [[Deepwood Motte]] and [[Torrhen's Square]].
+
+===The ironborn surrender===
+When Theon/Reek comes to Moat Cailin he finds sixty-seven ironborn there, three of them (Ralf Kenning and two others) are near death and another five are too weak to walk. The remaining ironborn are in rather poor condition, injured and drunk (since they cannot risk drinking the poisoned water of the swamps), but still capable of fighting. Theon estimates that they would have taken three times their own number with them if Ramsay had tried to take the place by force.
+
+The Crannogmen led by [[House Reed]] have been harassing the ironborn with ambushes, sniping at them with poisoned arrows and then melting back into the swamps. Ralf Kenning has been grazed in the neck with a crannogman's poisoned dart, and when Theon comes to Moat Cailin - he finds Kenning totally incapacitated, near death, with rotting wounds filled with maggots. In this moment "Reek" remembers a distant echo of his former pride and honor as Theon Greyjoy, and seeing that there is no hope for the man, he takes Kenning's sword and slits his throat to put him out of his misery.
+
+With no clear commander, Reek gives the terms of surrender to a group of ironborn, one of whom is Dagon Codd. It is Dagon Codd who declines the offer, reminding the others that Theon is the one called "the Turncloak" and they should not trust him. It ends the same way as in the TV series: with Adrack Humble putting an ax in Codd's head. Then the healthy fifty-eight ironborn leave, carrying the five who cannot walk, leaving behind the two who are close to dead.
+
+A feast is even thrown to celebrate the successful surrender. Ramsay comments that he expected more of the ironborn, and asks Theon sweetly if he wants to be freed and leave with the others. Theon has spent enough time with his cruel master to recognize the danger signs in Ramsay's expression, so he claims that he wants to stay and serve him. That answer saves Theon's life, for after the feast, all the sixty-three ironborn are flayed and displayed along the road beside Moat Cailin. One of the ironborn corpses has a parchment jammed into its now-lipless mouth - the parchment Reek had delivered to them, in which Ramsay had promised them safe passage if they surrendered. This was a final joke by Ramsay, mocking what he perceived as the stupidity of those who believed in his promises.
+===Aftermath===
+Three days after Moat Cailin is liberated, Roose arrives with 400 Frey knights, led by Hosteen and Aenys Frey, [[Walda Bolton|his wife]] and Ramsay's [[Jeyne Poole|intended bride]] (who is forced to impersonate Arya Stark). Roose does not praise or rebuke Ramsay about the way he treated the ironborn who surrendered; he does not mention it at all.
+
+As a reward for his loyal service at Moat Cailin, Ramsay gives Reek a "promotion": instead of being taken back to the dungeons of Dreadfort, Ramsay announces that Theon will become a dog. The kennelmaster Ben Bones makes a collar for Theon, and he is allowed to sleep with the [[bastard's girls]]. Reek finds his new occupation much better than being imprisoned.
+
+Of the 20,000 Northmen that Robb Stark initially led to war in southern Westeros, Reek observes that only about 4,000 have returned alive with Roose to Moat Cailin. Most of them are soldiers from House Bolton, perhaps over 3,000. After the Battle of the Ruby Ford, Roose had 3,500 men left under his command - almost all of them Bolton men, with a few Karstark infantry who were now ambivalent to the Starks (the Karstark cavalry had already ridden back to the North after Robb executed Lord Rickard Karstark). The remaining few hundred were whatever scraps and stray Northerners had been positioned elsewhere in the Riverlands.
+
+With Moat Cailin retaken, the Boltons and Freys march on to Barrowtown, where they hold their temporary base of operations. They plan their move against Stannis Baratheon.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{War of the Five Kings}}
+
+<!--Categories-->
+[[Category:301 AC]]
+[[Category:Ironborn invasion of the North]]
+[[Category:Sieges|Moat Cailin]]
+
+<!--Languages-->
+[[de:Einnahme von Maidengraben]]
+[[fr:Reddition de Moat Cailin]]
+[[ru:Падение Рва Кейлин]]

@@ -1,0 +1,44 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Sonoya Mizuno.jpg
+| Birth   = July 1, 1986 {{Age|1986|7|1}}<br>Tokyo, Japan
+| Death   = 
+| Role    = [[Mysaria]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]] {{*}} [[House of the Dragon: Season 2|2]] {{*}} [[House of the Dragon: Season 3|3]]
+| Credits = 14 episodes {{Below|Credits}}
+| First   = "[[The Heirs of the Dragon]]"
+| Last    = 
+}}
+'''Sonoya Mizuno''' (born 1 July 1986) is a Japanese-born English actress, model, and ballet dancer, best known for her work in ''Ex Machina'', ''Annihilation'', and ''Devs''. She portrays [[Mysaria]] in ''[[House of the Dragon]]''.<ref>[https://deadline.com/2021/02/house-of-the-dragon-rhys-ifans-steve-toussaint-eve-best-sonoya-mizuno-cast-game-of-thrones-prequel-hbo-lord-corlys-velaryon-sea-snake-1234692290/ Deadline]</ref>
+
+==Biography==
+Sonoya Mizuno was born 1 July 1986 in Tokyo, to a Japanese father and English-Argentine mother, and was raised in Somerset, England. She studied ballet at the Royal Ballet School, and took up professional modeling at the age of 20. She made her professional acting debut as Kyoko in ''Ex Machina''. 
+
+On February 11, 2021, it was announced that Mizuno would be playing [[Mysaria]] in ''House of the Dragon''.
+
+==Credits==
+===Starring===
+{{House of the Dragon: Season 1|yes|yes||yes||||yes|yes}}
+{{House of the Dragon: Season 2|yes|yes|yes|yes|yes|yes|yes|yes}}
+{{House of the Dragon: Season 3||||yes}}
+
+==See also==
+*{{WP}}
+*{{IMDb|# = 4420495}}
+*{{Instagram|# = Sonoya}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Mizuno, Sonoya}}
+[[Category:Starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[de:Sonoya Mizuno]]
+[[fr:Sonoya Mizuno]]

@@ -1,0 +1,35 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Bloodmoon
+| Image   = Sheila Atim.jpg
+| Birth   = 1991<br>Uganda
+| Death   = 
+| Role    = 
+| Series  = ''[[Bloodmoon]]'' {{Rejected}}
+| Season  = 
+| Credits = [[Pilot (Bloodmoon)|Pilot]] {{Unreleased}}
+| First   = 
+| Last    = 
+}}
+'''Sheila Atim''' (born 1991) is an English actress, singer, composer, and model born in Uganda, Africa. She is best known for her {{WPS|Laurence Olivier Award}}-winning role as Marianne Laine in {{WPS|Conor McPherson}}'s ''{{WPS|Girl from the North Country (musical)|Girl from the North Country}}''.
+
+She portrayed a character in the [[Pilot (Bloodmoon)|pilot]] of ''[[Bloodmoon]]''.<ref>[https://www.thewrap.com/game-of-thrones-prequel-cast-naomi-ackie-jamie-campbell-bower-toby-regbo/ ‘Game of Thrones’ Prequel Adds 8 to Cast]</ref>
+
+==See also==
+*{{IMDb|# = 5956547}}
+*{{Twitter|# = sheila_atim}}
+*{{Spotify|# = artist/3snC2sRF0kgB7IMVO7C4Tw}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{Bloodmoon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Atim, Shiela}}
+[[Category:Cast members of the pilot of Bloodmoon]]
+
+<!--Languages-->
+[[de:Sheila Atim]]
+[[ru:Шейла Атим]]

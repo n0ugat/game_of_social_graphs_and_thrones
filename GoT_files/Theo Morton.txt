@@ -1,0 +1,38 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Theo Morton.jpg
+| Birth   = Theodosius Morton
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[Game of Thrones]]''<br>''[[House of the Dragon]]''
+| Season  = ''Game of Thrones'':<br>[[Game of Thrones: Season 8|8]]<br>''House of the Dragon'':<br>[[House of the Dragon: Season 1|1]] {{*}} [[House of the Dragon: Season 2|2]]
+| Credits = 6 episodes {{Below|Credits}}
+| First   = "[[The Long Night]]"
+| Last    = 
+}}
+'''Theodosius Morton''' is a stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 8|eighth season]] episodes "[[The Long Night]]", "[[The Last of the Starks]]" and "[[The Bells]]".
+
+In ''[[House of the Dragon]]'', he was a stunt performer in the [[House of the Dragon: Season 1|first season]] episode "[[Second of His Name]]" and the [[House of the Dragon: Season 2|second season]] episodes "[[A Son for a Son]]" and "[[Rhaenyra the Cruel]]".
+
+==Credits==
+===Stunts===
+====''[[Game of Thrones]]''====
+{{Game of Thrones: Season 8|||yes|yes|yes}}
+
+====''[[House of the Dragon]]''====
+{{House of the Dragon: Season 1|||yes}}
+{{House of the Dragon: Season 2|yes|yes}}
+
+==See also==
+*{{IMDb
+|# = 6596848}}
+*{{Instagram
+|# = theomortonstunts}}
+*{{YouTube
+|# = channel/UCBUgx_LUp8aVLhsAxcfCJ8w}}
+{{DEFAULTSORT:Morton, Theo}}
+[[Category:Stunt performers of Game of Thrones]]
+[[Category:Stunt performers of House of the Dragon]]

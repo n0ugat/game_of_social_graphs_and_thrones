@@ -1,0 +1,56 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Night's Watch.svg
+| Link  = Night's Watch
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = 
+| Birth       = [[Ashemark]]
+| Death       = 
+| House       = 
+| Affiliation = [[Night's Watch]]
+| Titles      = [[First Builder]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Westerlands|Westermen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Simeon of Ashemark''' was a [[First Builder]] of the [[Night's Watch]].
+
+==Biography==
+===Background===
+Simeon was appointed First Builder by [[Robert of Oxbridge]], and continued to hold the position under [[Willem of the Dun Fort]].<ref>[[:File:5x2 Night's Watch Book.jpg]]</ref>
+
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+Simeon is mentioned in a book that [[Samwell Tarly]] is reading.{{Ref|GOT502}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no character named Simeon of Ashemark.
+
+==Appearances==
+*{{GOT|The House of Black and White}} {{Text}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+[[Category:Builders of the Night's Watch]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Smallfolk]]
+[[Category:Westermen]]

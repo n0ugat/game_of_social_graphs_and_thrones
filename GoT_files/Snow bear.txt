@@ -1,0 +1,53 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Species
+| Title   = {{PAGENAME}}
+| Theme   = Westeros
+| Image   = Wight-Bear-Game-of-Thrones-Beyond-the-Wall.jpg
+| Type    = Mammal
+| Status  = Extant
+| Diet    = Omnivore
+| Habitat = Tundra<br>Forests<br>Mountains
+| Range   = [[Beyond the Wall]]
+| Origin  = 
+}}
+{{Quote|Do bears have blue eyes?|[[Gendry Baratheon|Gendry]]|Beyond the Wall (episode)}}
+'''Snow bears'''{{Con|ASOIAF}} are a large predatory species of [[bear]] found [[beyond the Wall]].
+
+==History==
+===[[Game of Thrones: Season 7|''Game of Thrones'': Season 7]]===
+[[Jon Snow]] and his search party in the [[wight hunt]] [[Beyond the Wall|beyond]] the [[Wall]] are attacked by an undead snow bear, reanimated by the [[White Walkers]] as a [[wight]]. Despite being set on fire by [[Beric Dondarrion]], its large size means it burns too slowly to stop its rampage. The wight-bear kills several men and badly mauls [[Thoros]] before being stabbed with a [[dragonglass]] dagger by [[Jorah Mormont]], severing the magic that controls it and causing it to turn back into a lifeless corpse. Thoros's wounds are cauterized by Beric, but he dies from a combination of his wounds and the freezing cold later during the night.{{Ref|GOT706}}
+
+==Quotes==
+{{Quote|I just got bit by a dead bear!|[[Thoros]] to [[Beric Dondarrion]]|Beyond the Wall (episode)}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, snow bears can be found [[Beyond the Wall]]. They are similar to real-life polar bears, but much larger. Adapted to the cold climate of the far north, snow bears have white pelts and can grow to massive size, with one described as thirteen feet tall (at the shoulder, even when walking on all four legs, not when rearing up on its hind legs). Snow bears are ''not'' exactly the same as "polar bears", however, because real-life polar bears usually have a maximum size of only five feet tall at the shoulder (still the largest living species of bear). The difference between snow bears and common bears is similar to the difference between [[Direwolf|direwolves]] and common wolves.
+
+The ranger Dywen claimed that he saw a fifteen feet tall bear, but [[Jeor Mormont|Lord Commander Mormont]] dismissed that as nonsense, commenting that it was even less likely than the tale about [[Maege Mormont|his sister]] that she has taken a bear for a lover. Snow bears, however, actually do grow this large.
+
+A large female snow bear is among the animals that the wildling [[Warg|skinchanger]] Varamyr Sixskins controls, and he rides it into battle as a mount. [[Greatjon Umber]]'s uncle Mors "Crowfood" Umber wears a cloak made of a snow bear's pelt, with the head section serving as a hood.
+
+As with other animals such as horses, the White Walkers can reanimate dead snow bears into wights. During the [[fight at the Fist]], the ranging force held its position for a time, but its position was then broken by a huge and terrifying snow bear wight. When the wight-bear came upon the Watch's commanders, officer Thoren Smallwood valiantly rushed ahead to attack it - despite Smallwood's normally arrogant and self-serving personality. Smallwood's sword nearly beheaded the beast, but with a single swipe of its arm the wight-bear tore Smallwood's head clean off from his shoulders.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+*{{WP|Polar bear}}
+
+<!--Navboxes-->
+{{Animals and plants}}
+
+<!--Categories-->
+[[Category:Animals]]
+
+<!--Languages-->
+[[de:Schneebär]]
+[[fr:Ours des neiges]]
+[[pt-br:Ursos da neve]]
+[[ru:Снежные медведи]]

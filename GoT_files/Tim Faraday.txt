@@ -1,0 +1,33 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Tim Faraday.jpg
+| Birth   = 
+| Death   = 
+| Role    = [[Amos Bracken]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]]
+| Credits = 2 episodes {{Below|Credits}}
+| First   = "[[Regent (episode)|Regent]]"
+| Last    = 
+}}
+'''Tim Faraday''' is an actor.
+
+Faraday plays [[Amos Bracken]] in the [[House of the Dragon: Season 2|second season]] of ''[[House of the Dragon]]''.<ref>https://twitter.com/housethedragons/status/1764963132680679724</ref>
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 2|||||yes||yes}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb|#=0267003}}
+
+<!--Categories-->
+{{DEFAULTSORT:Faraday, Tim}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Tim Faraday]]

@@ -1,0 +1,31 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Tim Potter.jpg
+| Birth   = 1959<br>Nottingham, Nottinghamshire, England
+| Death   = 
+| Role    = Fishing Captain
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]]
+| Credits = "[[The Red Sowing]]"
+| First   = 
+| Last    = 
+}}
+'''Tim Potter''' is an English actor. He has appeared in the films ''{{WPS|Entrapment (film)|Entrapment}}'', ''{{WPS|A Christmas Carol (1999 film)|A Christmas Carol}}'', ''{{WPS|Finding Neverland (film)|Finding Neverland}}'', ''{{WPS|Miss Pettigrew Lives for a Day}}'', ''{{WPS|Still Life (2013 film)|Still Life}}'' and ''{{WPS|A Royal Night Out}}'' and the television series ''{{WPS|Lovejoy}}'' and ''{{WPS|The Bill}}''.
+
+Potter plays a fishing captain in the [[House of the Dragon: Season 2|second season]] of ''[[House of the Dragon]]''.
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 2|||||||yes}}
+
+==External links==
+*{{WP}}
+*{{IMDb|# = 0693364}}
+
+<!--Categories-->
+{{DEFAULTSORT:Potter, Tim}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Tim Potter]]

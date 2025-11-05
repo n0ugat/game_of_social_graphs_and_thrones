@@ -1,0 +1,97 @@
+{{Short
+| Title    = {{PAGENAME}}
+| Type     = Lore
+| Image    = H&L405.png
+| Season   = 4
+| Short    = 5
+| Date     = February 17, 2015{{Webref|name=Blu-ray |author=Cian Gaffney |date=July 15, 2014 |url=https://hbowatch.com/game-of-thrones-season-4-dvdblu-ray-release-date-confirmed/ |title=Game of Thrones Season 4 DVD/Blu-ray Release Date Confirmed |website=HBO Watch |access-date=December 15, 2023 }}
+| Runtime  = 3 minutes{{Ref|H&L405}}
+| Narrator = [[Ellaria Sand]]{{Boxref|GOT4}}
+| Writer   = [[Dave Hill]]{{Webref|name=Hill |author=Vanessa Cole |date=July 22, 2017 |url=https://web.archive.org/web/20201111213241/https://watchersonthewall.com/game-thrones-writer-dave-hill-gives-behind-scenes-look-creative-process/ |title=Game of Thrones writer Dave Hill gives a behind the scenes look at the creative process |website=Watchers on the Wall |access-date=December 15, 2023 }}
+| Director = 
+| Previous = "[[Poisons]]"{{Boxref|GOT4}}
+| Next     = "[[The Iron Bank]]"{{Boxref|GOT4}}
+}}
+"'''The Bastards of Westeros'''"{{Boxref|GOT4}} is the fifth short of the [[Histories & Lore: Season 4|fourth season]] of ''[[Histories & Lore]]''. It is the sixty-fourth short of the series overall. It was released on February 17, 2015 in ''[[Game of Thrones: The Complete Fourth Season]]''. It was narrated by [[Indira Varma]] as [[Ellaria Sand]] and written by [[Dave Hill]].
+
+==Premise==
+{{Premise|H&L405}}
+
+==Narration==
+'''Ellaria Sand''': ''[[Gender and sexuality|Sex]]. A simple word for a simple act. And so, of course, men complicate it. A child born to a wife is a gift from the gods. A child born to a mistress or an obedient servant girl is a [[bastard]], unworthy of its father's name.''
+
+''So instead they call the children after the land where they were born: "Flowers" in the [[Reach]] and "Hill" in the [[Westerlands]], "Stone" in the [[Vale of Arryn|Vale]] and "Storm" in the [[Stormlands]], "Rivers" in the [[Riverlands]] and "Waters" in the [[Crownlands]], "Pyke" in the [[Iron Islands]], "Snow" in the [[North]], and in [[Dorne]] "Sand".''
+
+''By these names, everyone can recognize a bastard, even if his own father won't. Though sometimes a father with too much gold and daughters will ask the king to [[Legitimization|legitimize]] a bastard son and give him his family name. If his wife objects, the next one does not.'' 
+
+''But sometimes the gods play their jokes and later his wife will give him a trueborn son of their own. When this happens, well, children die all the time, so do fathers.''
+
+''Even the beautiful [[House Targaryen|Targaryens]] had bastards when [[Incest|brothers tired of their sisters]]. Many took the name [[House Blackfyre|Blackfyre]] after [[Aegon I Targaryen|the Conqueror]]'s own [[Blackfyre|sword]]. When [[Aegon IV Targaryen|Aegon the Unworthy]] legitimized all [[Great Bastards|his bastards]] on his deathbed, they [[Blackfyre Rebellion|rose up]] against his [[Daeron II Targaryen|trueborn heir]].''
+
+''[[Westeros]] bled, Dorne yawned.''
+
+''For most of Westeros, the [[Blackfyre Rebellion]] only proved what they already knew. Bastards are treacherous, born of lust and shame. But in Dorne, lust is not shameful. We know that bastardy does not make a man more treacherous than another. Man does not need the help.''
+
+==Appearances==
+===Individuals===
+*King [[Aegon I Targaryen]], the "Conqueror"
+*King [[Aegon IV Targaryen]], the "Unworthy" {{Mentioned}}
+*[[Daemon Blackfyre]] {{Indirect}}
+*[[Aegor Rivers]] {{Indirect}}
+*King [[Daeron II Targaryen]], the "Good" {{Indirect}}
+
+===Houses===
+*[[House Targaryen]]
+*[[House Blackfyre]]
+
+===Locations===
+*[[Dorne]]
+**[[Water Gardens]]
+
+===Events===
+*[[Blackfyre Rebellion]]
+
+===Items===
+*[[Blackfyre]] {{Mentioned}}
+
+===Miscellaneous===
+*[[Bastard]]
+**"[[Reach|Flowers]]"
+**"[[Westerlands|Hill]]"
+**"[[Vale of Arryn|Stone]]"
+**"[[Stormlands|Storm]]"
+**"[[Riverlands|Rivers]]"
+**"[[Crownlands|Waters]]"
+**"[[Iron Islands|Pyke]]"
+**"[[North|Snow]]"
+**"[[Dorne|Sand]]"
+*[[Legitimization]]
+
+==Cast==
+*[[Indira Varma]] as [[Ellaria Sand]]
+
+==Behind the scenes==
+*Although Dorne is certainly more accepting when it comes to bastard children, they didn't "yawn" (except perhaps figuratively) during the [[Blackfyre Rebellion]], when King [[Aegon IV Targaryen|Aegon IV]]'s bastard son [[Daemon Blackfyre]] tried to usurp the throne. Due to a recent marriage alliance, the [[House Martell|Martells]] fought for the rightful king, [[Daeron II Targaryen]]. Many Blackfyre supporters were actually annoyed at how many Dornish lords were being appointed to officers in the royal court due to this marriage alliance, with Daeron II marrying the sister of the Prince of Dorne. Even Dorne itself was not spared divisions: [[House Yronwood]], second greatest House in Dorne and longtime rivals of the Martells, joined the Blackfyre side in the war.
+*[[Legitimization]] of bastards by kings is a rare enough occurrence that there is no formal legal precedent for where the bastard child ranks in line of succession, which in itself can vary with changing circumstances: If a lord has only two sons, the older one a legitimized bastard and the younger one trueborn with his lawful wife, it is basically up to his discretion if the legitimized bastard will rank ahead or behind his younger, lawful son. As Ellaria alludes, this has been a common cause of dynastic disputes and civil wars in Westeros over the centuries.
+
+==Gallery==
+<gallery bordersize="none">
+The Bastards of Westeros
+</gallery>
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{Histories & Lore}}
+
+<!--Categories-->
+{{DEFAULTSORT:Bastards of Westeros, The}}
+[[Category:Shorts narrated by Ellaria Sand]]
+[[Category:Shorts of Histories & Lore: Season 4| 05]]
+[[Category:Shorts released in 2015|2.17E]]
+[[Category:Shorts written by Dave Hill]]
+
+<!--Languages-->
+[[fr:Les Bâtards de Westeros (Histoires & Traditions)]]
+[[pt-br:Os Bastardos de Westeros]]

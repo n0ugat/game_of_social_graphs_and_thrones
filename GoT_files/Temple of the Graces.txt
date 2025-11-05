@@ -1,0 +1,47 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Ghiscari
+| Image        = 
+| Type         = Religious temple
+| Status       = 
+| Location     = [[Meereen]], [[Slaver's Bay]]
+| Population   = 
+| Rulers       = [[Graces]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Ghiscari religion]]
+| Places       = 
+| Founded      = 
+}}
+{{Quote|The tradition of funeral rite. Proper burial in the Temple of the Graces.|[[Hizdahr zo Loraq]]|The Laws of Gods and Men}}
+The '''Temple of the Graces'''{{Ref|GOT406}} is the center of worship in the city of [[Meereen]]. It is named after the [[Graces]], the priestesses of the [[Ghiscari religion]] who dwell there. Following the dictates of Ghiscari religion, noble Meereenese citizens may be buried within the temple after the proper funeral rites are observed.
+
+==History==
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+Hizdahr zo Loraq pleads to Queen [[Daenerys Targaryen]] to take the body of his crucified father and bury it in the Temple of the Graces.<ref>"[[The Laws of Gods and Men]]"</ref>
+
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+Queen Daenerys orders the body of [[White Rat]], an [[Unsullied]] murdered by the [[Sons of the Harpy]], to be buried at the Temple of the Graces with all honors. She is warned that this will anger the Sons of the Harpy and spark further attacks, but Daenerys says this is what she is hoping for: to draw the insurgents out of the shadows, to make it easier to find and kill them in turn.<ref>"[[The Wars To Come]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the Meereenese Temple of the Graces is a huge structure topped with golden domes. It lies to the west of the [[Great Pyramid of Meereen]].
+
+There is another Temple of the Graces in [[Astapor]], and presumably there are similar Temples in [[Yunkai]] and [[New Ghis]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Slaver's Bay}}
+
+<!--Categories-->
+[[Category:Ghiscari religion]]
+[[Category:Meereen]]
+[[Category:Temples|Graces]]
+
+<!--Languages-->
+[[ru:Храм Благодати]]

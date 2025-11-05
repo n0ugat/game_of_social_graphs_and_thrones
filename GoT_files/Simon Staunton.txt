@@ -1,0 +1,92 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Staunton.svg
+| Link  = House Staunton
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Targaryen
+| Image       = Simon Staunton Official Guide.jpg
+| Birth       = 
+| Death       = 
+| House       = [[House Staunton|Staunton]]{{Ref|HOTD110}}
+| Affiliation = [[House Targaryen/House of the Dragon|House Targaryen]]{{Ref|HOTD110}}<br>[[Black Council]]{{Ref|HOTD110}}
+| Titles      = 
+| AKA         = 
+| Culture     = [[Crownlands|Crownlander]]{{Ref|HOTD110}}
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 1|1]] {{*}} [[House of the Dragon: Season 2|2]]
+| Appearances = 5 episodes {{Below|Appearances}}
+| First       = "[[The Black Queen]]"
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Michael Elwyn]]
+}}
+{{Dialogue a-b|Bartimos|The purpose of war is to fill graveyards, my dear Lord Staunton. The trick is to put more of their men in the ground than your own.|Simon|Easy words for a lord who commands from the safety of his castle.|Bartimos Celtigar and Simon Staunton|The Black Queen}}
+Lord '''Simon Staunton''' is the head of [[House Staunton]] and Lord of [[Rook's Rest]] during the [[Dance of the Dragons]].
+
+==Biography==
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+Lord Simon attends the [[Black Council]] at [[Dragonstone]], where he bickers with Lord [[Bartimos Celtigar]].{{Ref|HOTD110}}
+
+===[[House of the Dragon: Season 2|''House of the Dragon'': Season 2]]===
+Simon is present at the Black Council when [[Rhaenyra Targaryen|Rhaenyra]] returns from the [[Stormlands]].{{Ref|HOTD201}}
+
+Simon is present at the Black Council when word of the [[assassination of Jaehaerys Targaryen]] and the subsequent propaganda campaign of the Greens to vilify Rhaenyra for ordering the killing reaches Dragonstone.{{Ref|HOTD202}}
+
+When [[Baela Targaryen|Baela]] informs the Council she witnessed [[Criston Cole]] marching a Green army through the Crownlands, Simon fears that Cole may target Rook's Rest on his march to confront Prince [[Daemon Targaryen|Daemon]] at [[Harrenhal]] and requests Rhaenyra's leave to depart Dragonstone so he may return to his seat and fortify it.{{Ref|HOTD203}}
+[[File:Simon witnesses the army..png|thumb|Simon faces off against the Greens.]]
+Simon commands the garrison of Rook's Rest when Criston Cole's Green army [[Battle at Rook's Rest|besiege]] it, and witness the aerial dragon battle between [[Meleys]], [[Sunfyre]], and [[Vhagar]].{{Ref|HOTD204}}
+
+==Behind the scenes==
+Simon Staunton's character description for [[House of the Dragon: Season 2|Season 2]] reads as follows:
+:''"A loyal member of Queen Rhaenyra’s black council."''{{Webref|name=WBD |author=Unknown author |date=Unknown date |url=https://press.wbd.com/us/bio/house-dragon-s2-character-descriptions |title=House of the Dragon S2 <nowiki>|</nowiki> Character Descriptions |website=Warner Bros. Discovery |access-date=June 5, 2024 }}
+
+==In the books==
+In ''[[Fire & Blood]]'', Lord Staunton's first name is not stated. Variations of the name "Simon" are common in House Staunton. He was one of the lesser lords who sat on the black council, a version of the [[Small Council]] that advised Rhaenyra during the [[Dance of the Dragons]]. 
+
+Whereas the fate of his show counterpart has not been mentioned, in ''Fire & Blood'' Lord Staunton is beheaded following the fall of Rook's Rest to the green army and his head is mounted above the Old Gate of King's Landing.
+
+==Appearances==
+*{{TDOD}} {{Mentioned}}
+*{{HOTD|The Black Queen}}
+*{{HOTD|A Son for a Son}}
+*{{HOTD|Rhaenyra the Cruel}}
+*{{HOTD|The Burning Mill}}
+*{{HOTD|The Red Dragon and the Gold}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Lord Staunton}} {{Spoilers|HOTD}}
+*{{TOG|character-guide#simon-staunton}}
+
+<!--Navboxes-->
+{{House Staunton}}
+{{Black Council}}
+
+<!--Categories-->
+{{DEFAULTSORT:Staunton, Simon}}
+[[Category:Bannermen of House Targaryen]]
+[[Category:Black Council]]
+[[Category:Crownlanders]]
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Individuals from The Dance of Dragons]]
+[[Category:Lords]]
+[[Category:Members of House Staunton|Simon Staunton]]
+
+<!--Languages-->
+[[es:Staunton/House of the Dragon]]
+[[fr:Simon Staunton]]
+[[pl:Simon Staunton]]
+[[ru:Саймон Стонтон]]
+[[uk:Саймон Стонтон]]
