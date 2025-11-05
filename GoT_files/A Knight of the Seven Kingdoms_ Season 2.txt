@@ -1,0 +1,100 @@
+{{DISPLAYTITLE:''A Knight of the Seven Kingdoms'': Season 2}}
+{{Spoiler|AKOTSK}}
+{{PureConjecture}}
+{{Season
+| Season     = 2
+| Type       = Kingdoms
+| Image      = 
+| Episodes   = 6{{Notes|Episodes}} {{C|expected}}
+| Premiere   = [[A Knight of the Seven Kingdoms: Season 2, Episode 1|Season 2, Episode 1]]{{Webref|name=Collider |author=Therese Lacson |date=March 9, 2025 |url=https://collider.com/a-knight-of-the-seven-kingdoms-season-2-george-rr-martin-comments/ |title=George R.R. Martin Confirms 'A Knight of the Seven Kingdoms' Is Already Working on Season 2 [Exclusive<nowiki>]</nowiki> |website=Collider |access-date=March 10, 2025 }}
+| Finale     = [[A Knight of the Seven Kingdoms: Season 2, Episode 6|Season 2, Episode 6]]{{Notes|Episodes}}
+| Network    = [[HBO]]{{Webref|name=Orsi |author=Nellie Andreeva |date=February 12, 2025 |url=https://deadline.com/2025/02/house-of-the-dragon-season-3-game-of-thrones-spinoff-knight-renewed-1236285772/ |title=HBO Drama Chief Touts Big ‘House Of The Dragon’ Season 3 Battle, Talks ‘Knight Of The 7 Kingdoms’ 3-Season Plan, Teases New ‘Game Of Thrones’ Spinoff |website=Deadline |access-date=February 20, 2025 }}<br>[[HBO Max]]<ref name="Orsi" />
+| First      = 
+| Final      = 
+| Runtime    = 
+| Home       = 
+| Starring   = [[Peter Claffey]]<ref name="Collider" /><br>[[Dexter Sol Ansell]]<ref name="Collider" />
+| Producers  = 
+| Writers    = 
+| Directors  = 
+| Production = 
+| Wrapped    = 
+| Year       = 
+| Previous   = [[A Knight of the Seven Kingdoms: Season 1|Season 1]]{{HBOref|AKOTSK1}}
+| Next       = [[A Knight of the Seven Kingdoms: Season 3|Season 3]]{{HBOref|AKOTSK3}}
+}}
+'''''A Knight of the Seven Kingdoms'': Season 2''' is the second season of ''[[A Knight of the Seven Kingdoms]]''. It is expected to consist of six episodes. It is based on ''[[The Sworn Sword]]'', the second of the [[Dunk & Egg novellas]] by [[George R.R. Martin]].
+
+==Premise==
+{{Premise|AKOTSK2}}
+
+==Episodes==
+{| {{Prettytable}}
+! Episode
+! Image
+! Title
+! Air date
+|-
+| style="text-align: center;" | 1<ref name="Collider" />
+| 
+| [[A Knight of the Seven Kingdoms: Season 2, Episode 1|Season 2, Episode 1]]<ref name="Collider" />
+| 
+|-
+| style="text-align: center;" | 2{{Notes|Episodes}}
+| 
+| [[A Knight of the Seven Kingdoms: Season 2, Episode 2|Season 2, Episode 2]]{{Notes|Episodes}}
+| 
+|-
+| style="text-align: center;" | 3{{Notes|Episodes}}
+| 
+| [[A Knight of the Seven Kingdoms: Season 2, Episode 3|Season 2, Episode 3]]{{Notes|Episodes}}
+| 
+|-
+| style="text-align: center;" | 4{{Notes|Episodes}}
+| 
+| [[A Knight of the Seven Kingdoms: Season 2, Episode 4|Season 2, Episode 4]]{{Notes|Episodes}}
+| 
+|-
+| style="text-align: center;" | 5{{Notes|Episodes}}
+| 
+| [[A Knight of the Seven Kingdoms: Season 2, Episode 5|Season 2, Episode 5]]{{Notes|Episodes}}
+| 
+|-
+| style="text-align: center;" | 6{{Notes|Episodes}}
+| 
+| [[A Knight of the Seven Kingdoms: Season 2, Episode 6|Season 2, Episode 6]]{{Notes|Episodes}}
+| 
+|}
+
+==Cast==
+{{Main|A Knight of the Seven Kingdoms: Season 2/Cast}}
+
+===Starring===
+*[[Peter Claffey]] as [[Duncan the Tall]]<ref name="Orsi" />
+*[[Dexter Sol Ansell]] as [[Egg]]<ref name="Orsi" />
+
+==Production==
+On May 26, 2023, Francesca Orsi stated that ''A Knight of the Seven Kingdoms'', then titled ''The Hedge Knight'', was envisioned to run "ideally year-to-year and arcing out a three-season series, which maps out the three novellas that George wrote."{{Webref|name=THK |author=Nellie Andreeva |date=May 26, 2023 |url=https://deadline.com/2023/05/francesca-orsi-hbo-qa-succession-finale-the-last-of-us-house-of-the-dragon-white-lotus-euphoria-perry-mason-1235374588/ |title=HBO Drama Chief Francesca Orsi On ‘Succession’ Finale & WGA Strike; ‘The Last Of Us’, ‘House Of The Dragon’, ‘White Lotus’, ‘Euphoria’ Updates & More |website=Deadline |access-date=December 6, 2023 }}
+
+On February 12, 2025, Orsi revealed that [[HBO]] are considering filming Seasons 2 and [[A Knight of the Seven Kingdoms: Season 3|3]] back-to-back.<ref name="Orsi" />
+
+On March 9, 2025, George R.R. Martin confirmed in an interview with ''Collider'' that Ira Parker was "working on the second season."<ref name="Collider" />
+
+==In the books==
+The season is adapted from ''The Sworn Sword'', the second of the [[Dunk & Egg novellas]].<ref name="Orsi" />
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{A Knight of the Seven Kingdoms}}
+{{World of Westeros}}
+
+<!--Categories-->
+{{DEFAULTSORT:Knight of the Seven Kingdoms: Season 2, A}}
+[[Category:A Knight of the Seven Kingdoms: Season 2| ]]
+[[Category:Seasons of A Knight of the Seven Kingdoms|2]]
+[[Category:Seasons with undetermined release dates]]

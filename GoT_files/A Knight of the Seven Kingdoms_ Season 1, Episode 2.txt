@@ -1,0 +1,41 @@
+{{DISPLAYTITLE:''A Knight of the Seven Kingdoms'': Season 1, Episode 2}}
+{{PureConjecture}}
+{{Episode
+| Title    = ''A Knight of the<br>Seven Kingdoms'':<br><small>Season 1, Episode 2</small>
+| Type     = Kingdoms
+| Image    = A Knight of the Seven Kingdoms: Season 1.png
+| Season   = 1
+| Episode  = 2
+| Date     = 2026{{Webref|name=VarietyWBD |author=Ethan Shanfeld |date=May 14, 2025 |url=https://variety.com/2025/tv/news/a-knight-of-the-seven-kingdoms-2026-release-date-1236046745/ |title=‘Game of Thrones’ Spinoff ‘A Knight of the Seven Kingdoms’ Shifts to 2026 Release |website=Variety |access-date=May 14, 2025 }}
+| Runtime  = 
+| Writer   = 
+| Director = [[Owen Harris]]{{Webref|name=THR |author=James Hibberd |date=May 7, 2024 |url=https://www.hollywoodreporter.com/tv/tv-news/game-of-thrones-knight-of-the-seven-kingdoms-black-mirror-owen-harris-1235871210/ |title=‘Game of Thrones’ Spinoff ‘Knight of the Seven Kingdoms’ Adds ‘Black Mirror’ Director in Major Role |website=The Hollywood Reporter |access-date=May 8, 2024 }}
+| Year     = [[209 AC]]{{Dateref|A Knight of the Seven Kingdoms: Season 1}}
+| Previous = [[A Knight of the Seven Kingdoms: Season 1, Episode 1|Season 1, Episode 1]]<ref name="THR" />
+| Next     = [[A Knight of the Seven Kingdoms: Season 1, Episode 3|Season 1, Episode 3]]<ref name="THR" />
+}}
+'''''A Knight of the Seven Kingdoms'': Season 1, Episode 2''' is the second episode of the [[A Knight of the Seven Kingdoms: Season 1|first season]] of ''[[A Knight of the Seven Kingdoms]]''. It is the second episode of the series overall. It will premiere in 2026 on [[HBO]] and [[HBO Max]]. It was directed by [[Owen Harris]].
+
+==Premise==
+{{Premise|AKOTSK102}}
+
+==In the books==
+This episode is adapted from ''[[The Hedge Knight (novella)|The Hedge Knight]]'', the first of the [[Dunk & Egg novellas]].{{Webref|name=NAB |author=George R.R. Martin |date=April 14, 2023 |url=https://georgerrmartin.com/notablog/2023/04/14/a-knight-and-a-squire/ |title=A Knight and a Squire |website=Not a Blog |access-date=April 17, 2023 }}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{IMDb title|# = 32314131|title = Episode #1.2}}
+
+<!--Navboxes-->
+{{A Knight of the Seven Kingdoms}}
+
+<!--Categories-->
+{{DEFAULTSORT:Knight of the Seven Kingdoms: Season 1, Episode 2, A}}
+[[Category:Episodes directed by Owen Harris]]
+[[Category:Episodes of A Knight of the Seven Kingdoms: Season 1| 02]]
+[[Category:Episodes released in 2026|?.??]]

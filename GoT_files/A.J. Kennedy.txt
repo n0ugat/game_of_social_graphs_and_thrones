@@ -1,0 +1,25 @@
+{{Cast
+| Title       = {{PAGENAME}}
+| Type        = Thrones
+| Image       = 
+| dateofbirth = 
+| birthplace  = 
+| role        = [[Frey guard]]
+| status      = 
+| First       = 
+| Last        = 
+| Appearances = "[[The Rains of Castamere (episode)|The Rains of Castamere]]"
+| imdb        = https://www.imdb.com/name/nm0447888/
+| twitter     = 
+}}
+'''A.J. Kennedy''' is an actor who portrayed a [[Frey guard]] in the episode "[[The Rains of Castamere (episode)|The Rains of Castamere]]." He joined the cast as a guest star in the [[Game of Thrones: Season 3|third season]].
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 3|||||||||yes}}
+
+==See also==
+*{{IMDb|#=0447888}}
+
+{{DEFAULTSORT:Kennedy, A.J.}}
+[[Category:Guest starring cast members of Game of Thrones]]
