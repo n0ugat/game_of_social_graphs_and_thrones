@@ -1,0 +1,26 @@
+{{Crew
+|Image = Jonny McBride.jpg
+|dateofbirth = 
+|birthplace = {{WPS|Belfast}}, {{WPS|Northern Ireland}}
+|job = Stunt Performer
+|imdb = https://www.imdb.com/name/nm2444139/
+|twitter = }}
+'''Jonathan McBride''' is a Northern Irish stuntman, production runner, art department runner and workshop assistant.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 5|fifth season]] episodes "[[Sons of the Harpy (episode)|Sons of the Harpy]]", "[[Hardhome (episode)|Hardhome]]", "[[The Dance of Dragons (episode)|The Dance of Dragons]]" and "[[Mother's Mercy]]", the [[Game of Thrones: Season 6|sixth season]] episodes "[[The Door]]", "[[Blood of My Blood]]", "[[No One]]" and "[[Battle of the Bastards (episode)|Battle of the Bastards]]" and the [[Game of Thrones: Season 7|seventh season]] episodes "[[Dragonstone (episode)|Dragonstone]]", "[[Stormborn]]", "[[The Queen's Justice]]" and "[[The Spoils of War]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 5||||yes||||yes|yes|yes}}
+{{Game of Thrones: Season 6|||||yes|yes||yes|yes}}
+{{Game of Thrones: Season 7|yes|yes|yes|yes}}
+
+==See also==
+*{{IMDb
+|# = 2444139}}
+*{{YouTube
+|# = channel/UCA-gQBYM4D7t4AR4koA-2ZA}}
+*{{Linkedin
+|# = /in/jonny-mcbride-11b2b556/}}
+{{DEFAULTSORT:McBride, Jonny}}
+[[Category:Stunt performers of Game of Thrones]]

@@ -1,0 +1,31 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Leigh Gill.jpg
+| Birth   = England
+| Death   = 
+| Role    = [[Bobono]]
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 6|6]]
+| Credits = 3 episodes {{Below|Credits}}
+| First   = "[[The Door]]"
+| Last    = "[[No One]]"
+}}
+'''Leigh Gill''' is an English actor. He has appeared in the films ''Get Santa'' and ''The Scorpion King 4: Quest for Power''.
+
+In ''[[Game of Thrones]]'', he portrays [[Bobono]] in the [[Game of Thrones: Season 6|sixth season]].<ref>[http://watchersonthewall.com/oldtown-filming-today-confirmed-plus-nikolaj-coster-waldau-in-girona-and-more/ Watchers on the Wall — Oldtown filming today confirmed; plus Nikolaj Coster-Waldau in Girona and more!]</ref>
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 6|||||yes|yes||yes}}
+
+==See also==
+*{{IMDb|# = 5279916}}
+*{{Instagram|# = smallmangill}}
+
+==References==
+{{Reflist}}
+[[fr:Leigh Gill]]
+[[ru:Ли Гилл]]
+{{DEFAULTSORT:Gill, Leigh}}
+[[Category:Guest starring cast members of Game of Thrones]]

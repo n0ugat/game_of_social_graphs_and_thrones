@@ -1,0 +1,23 @@
+{{Crew
+|Image = John Street.jpg
+|dateofbirth = 
+|birthplace = 
+|job = Stunt Performer
+|imdb = https://www.imdb.com/name/nm1162884/
+|twitter = }}
+'''John Street''' is a stuntman, actor and military technical adviser.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 4|fourth season]] episode "[[The Laws of Gods and Men]]", the [[Game of Thrones: Season 8|eighth season]] episode "[[The Bells]]" and ''[[Game of Thrones: Ascent]]''.
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 4||||||yes}}
+{{Game of Thrones: Season 8|||||yes}}
+
+==See also==
+*{{IMDb
+|# = 1162884}}
+*{{Linkedin
+|# = /in/john-street-919a262b}}
+{{DEFAULTSORT:Street, John}}
+[[Category:Stunt performers of Game of Thrones]]

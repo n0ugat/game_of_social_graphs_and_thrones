@@ -1,0 +1,67 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Kingsguard.svg
+| Link  = Kingsguard
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Lannister
+| Image       = Lead Kingsguard1.png
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[Kingsguard]]
+| Titles      = [[Knighthood|Ser]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 5|5]]
+| Appearances = "[[Sons of the Harpy (episode)|Sons of the Harpy]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Paddy Wallace]]
+}}
+{{Dialogue a-b-a|Lead Kingsguard|Give the order and we'll clear out this [[Faith Militant|rabble]].|Tommen Baratheon|You mean...kill them? Here in the Sept?|We'll be sending them to meet the [[Seven|gods]] that they love.|The lead Kingsguard to King [[Tommen Baratheon]]|Sons of the Harpy (episode)}}
+The '''lead Kingsguard''' is one of the five [[Kingsguard]] who guard King [[Tommen Baratheon|Tommen]] on his way to the [[High Sparrow]].
+
+==Biography==
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+He is one of the five [[Kingsguard]] who guard King Tommen on his way to the [[High Sparrow]]. When the present members of the [[Faith Militant]] deny Tommen entrance to the [[Great Sept of Baelor]] because the High Sparrow is praying, the lead Kingsguard asks for permission to kill the fanatics. However, Tommen is clearly hesitant about shedding blood on holy ground. Adding to this, some of the [[smallfolk]] gathered outside the Sept proceed to insult Tommen, calling him a "bastard" and an "abomination". Seeing that they are hopelessly outnumbered, Tommen tactfully declines to give the order and says they will find another way to free his [[Loras Tyrell|brother-in-law]].{{Ref|GOT504}}
+
+===[[Game of Thrones: Season 8|''Game of Thrones'': Season 8]]===
+The lead Kingsguard is killed by [[Sandor Clegane]] or crushed by debris while protecting Queen Cersei during the [[Battle of King's Landing]], along with the other Kingsguard.{{Ref|GOT805}}
+
+==In the books ==
+In the ''[[A Song of Ice and Fire]]'' novels, Tommen Baratheon never goes to meet with the High Sparrow. The name of this Kingsguard is not mentioned, but the candidates, by cross-referencing the events of the episode with the established background Kingsguard in the show, are: [[Preston Greenfield]] (who was established to be alive in Season 4 unlike his book counterpart), [[Boros Blount]] (even though in the ''[[Histories & Lore]]'' he's referred to as "the Fat" and isn't young), [[Arys Oakheart]], [[Balon Swann]], and [[Osmund Kettleblack]].
+
+==Gallery==
+<gallery>
+TommenAndKingsguard.png|The Lead Kingsguard advises Tommen to kill the religious fanatics around
+</gallery>
+
+==Appearances==
+*{{GOT|Sons of the Harpy}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{Kingsguard of Tommen I Baratheon}}
+{{Queensguard of Cersei I Lannister}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Kingsguard of Tommen I Baratheon]]
+[[Category:Knights]]
+[[Category:Queensguard of Cersei I Lannister]]
+[[Category:Westerosi]]

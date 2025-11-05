@@ -1,0 +1,22 @@
+{{Crew
+|Image = Jonny James.jpg
+|dateofbirth = 
+|birthplace = 
+|job = Stunt Performer
+|imdb = https://www.imdb.com/name/nm6210583/
+|twitter = }}
+'''Jonny James''' is a stuntman.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 8|eighth season]] episodes "[[The Bells]]" and "[[The Iron Throne]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 8|||||yes|yes}}
+
+==See also==
+*{{IMDb
+|# = 6210583}}
+*{{Instagram
+|# = jonnyjames61}}
+{{DEFAULTSORT:James, Jonny}}
+[[Category:Stunt performers of Game of Thrones]]

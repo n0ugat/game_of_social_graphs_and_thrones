@@ -1,0 +1,81 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Bracken.svg
+| Link  = House Bracken
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Tully
+| Image       = Jonos Bracken.jpg
+| Birth       = At [[Stone Hedge]]
+| Death       = 
+| House       = [[House Bracken|Bracken]]
+| Affiliation = [[House Tully]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Riverlands|Rivermen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 1|1]]
+| Appearances = "[[Fire and Blood]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Gerry O'Brien]]
+}}
+{{Quote|The proper course is clear: pledge fealty to King Renly and move south to join our forces with his.|Jonos Bracken to the other northern and riverlords|Fire and Blood}}
+Lord '''Jonos Bracken''' is the head of [[House Bracken]]. He is fighting for his liege lord [[Hoster Tully]] and [[King in the North|King]] [[Robb Stark]] in the [[War of the Five Kings]]. 
+
+==Biography==
+===Background===
+Jonos Bracken is the head of [[House Bracken]], a vassal family of [[House Tully]] of [[Riverrun]]. He is considered a loyal bannerman to Lord [[Hoster Tully]].{{Ref|GOT104}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+[[Kurleket]], a man-at-arms sworn to Lord Jonos, is among the men [[Catelyn Stark|Catelyn]] summons to help her apprehend [[Tyrion Lannister|Tyrion]] at the [[Inn at the Crossroads]].{{Ref|GOT104}}
+
+Lord Jonos Bracken, having presumably joined [[Robb Stark]]'s army after the victory at the [[Battle of Whispering Wood]], advocates joining forces with [[Renly Baratheon|Renly]]. Robb points out that Renly is the late King [[Robert Baratheon|Robert]]'s youngest brother and he cannot become king before [[Stannis Baratheon|Stannis]]. Bracken asks if Robb means to join Stannis instead. [[Greatjon Umber]] then suggests they become independent altogether, and declares Robb as the [[King in the North]]. Bracken and the other lords present, even the river lords who have never been ruled from [[Winterfell]], draw their swords and swear fealty to Robb as the King in the North.{{Ref|GOT110}}
+
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+During the [[War of the Five Kings]], Stone Hedge is occupied by [[House Lannister|Lannister]] forces. Following the liberation of [[Riverrun]] at the [[Battle of the Camps]], Robb tasks Greatjon with the expulsion of Lannister forces from the lands of the Riverlords. Greatjon first liberates [[Raventree Hall]], the ancestral seat of [[House Blackwood]], and then moves to restore Stone Hedge which is then reclaimed by its rightful lord, Jonos Bracken.{{Cite}}
+
+==In the books==
+In ''[[A Song of Ice and Fire]]'', Jonos Bracken is the ruling lord of [[House Bracken]] and its castle, Stone Hedge. He is a loyal bannerman to Lord Hoster. However, he has an enmity towards [[House Blackwood]], part of an old feud going back a thousand years and which continues to cause unrest in the [[Riverlands]].
+
+Lord Jonos has fathered five daughters: Barbara, Jayne, Catelyn, Bess, and Alysanne, but no trueborn sons, leading some to question his masculinity. Although he claims Harry Rivers - "The Bastard of Bracken" - as his natural born son, there are those who doubt whether Jonos truly sired the boy, as Harry is fair haired and handsome, and Jonos is neither.
+
+Following the Red Wedding, Lord Jonos is one of the Riverlords who bend their knee to [[Tywin Lannister|Tywin]], and is pardoned for his part in the War of the Five Kings by the Iron Throne.{{Bookref|ASOS|72}} Although [[Gregor Clegane|the Mountain]] stole his harvest, burned everything he could not carry off, put Lord Jonos's castle to the torch, and raped one of his daughters, Jonos still decides to yield, stating "I saw no sense in dying for the dead nor shedding Bracken blood in a lost cause".{{Bookref|ADWD|48}}
+
+Lord Jonos is persuaded by Tywin to attack Tytos Blackwood's seat, Raventree Hall, in return for lands historically claimed by Stone Hedge.{{Bookref|AFFC|38}} Soon he besieges Raventree. The rivalry between Blackwood and Bracken goes back thousands of years, so neither side attempts parley. There are skirmishes at the start of the siege, but it develops into a stalemate. Jonos does not bother to build siege machines, preferring instead to starve the Blackwoods out. Half a year passes without any progress, while Jonos and his soldiers find entertainments to spend their time, like whoring and drinking. Finally, [[Jaime Lannister|Jaime]] arrives, after successfully resolving the [[Second siege of Riverrun|siege of Riverrun]], and persuades Lord Tytos, non-violently, to surrender; Jaime demands that Tytos cede some of his lands to House Bracken. Jonos is rather satisfied with the lands that Tytos waived in favor of him, though he is displeased of Jaime's demand to deliver one of his daughters as a hostage to the Lannisters.{{Bookref|ADWD|48}}
+
+==Appearances==
+*{{GOT|Cripples, Bastards, and Broken Things}} {{Mentioned}}
+*{{GOT|Fire and Blood}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Bracken}}
+
+<!--Categories-->
+{{DEFAULTSORT:Bracken, Jonos}}
+[[Category:Bannermen of House Tully]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Lords]]
+[[Category:Members of House Bracken|Jonos Bracken]]
+[[Category:Rivermen]]
+
+<!--Languages-->
+[[de:Jonos Bracken]]
+[[ru:Джонос Бракен]]

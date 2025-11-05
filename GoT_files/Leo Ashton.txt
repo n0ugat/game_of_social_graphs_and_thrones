@@ -1,0 +1,37 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Leo Ashton.webp
+| Birth   = 
+| Death   = 
+| Role    = Young [[Aemond Targaryen]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = 2 episodes {{Below|Credits}}
+| First   = "[[The Princess and the Queen]]"
+| Last    = "[[Driftmark (episode)|Driftmark]]"
+}}
+'''Leo Ashton''' is an actor.
+
+He portrayed young [[Aemond Targaryen]] in the [[House of the Dragon: Season 1|first season]] of ''[[House of the Dragon]]''.
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1||||||yes|yes}}
+
+==See also==
+*{{IMDb|#=10587630}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House of the Dragon: Inside the Episode}}
+
+<!--Categories-->
+{{DEFAULTSORT:Ashton, Leo}}
+[[Category:Co-starring cast members of House of the Dragon]]
+[[Category:Commentators of House of the Dragon: Inside the Episode]]
+
+<!--Languages-->
+[[fr:Leo Ashton]]

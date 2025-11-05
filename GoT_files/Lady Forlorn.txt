@@ -1,0 +1,40 @@
+{{Canonicity|Canon}}
+{{Object
+| Title    = {{PAGENAME}}
+| Type     = Arryn
+| Image    = Lady Forlorn.png
+| Material = [[Valyrian steel]]
+| Maker    = [[Valyrian Freehold]]
+| Owner    = [[House Corbray]]
+| Status   = With the head of House Corbray
+}}
+{{Quote|For King Robar had taken a Valyrian sword off a dead Andal lord and it sheared through Ser Artys' helm much like a bird's wing through the air. |[[Petyr Baelish]]|Knights of the Vale (short)}}
+'''Lady Forlorn'''{{Ref|H&L415}} is the [[Valyrian steel]] blade of [[House Corbray]].
+
+During the [[coming of the Andals]], the sword was in the possession of the Andal lord [[Qyle Corbray]]. When Corbray was killed by the [[Bronze King]], [[Robar II Royce]], the latter claimed the sword and used it during the [[Battle of the Seven Stars]] to kill a knight he wrongly believed to be Ser [[Artys Arryn]].{{Ref|H&L615}}
+
+Centuries later, it was used by Ser [[Gwayne Corbray]] of the [[Kingsguard]] during the [[Battle of Redgrass Field]] to duel [[Daemon Blackfyre]].{{Ref|H&L411}}
+
+==In the books==
+[[File:Robar Royce killing Torgold Tollett.png|thumb|Robar Royce killing an Andal knight with Lady Forlorn believing that he is Artys Arryn]]
+In the ''[[A Song of Ice and Fire]]'' novels, Lady Forlorn is currently in the possession of Ser Lyn Corbray, the eldest brother of Lord Lyonel Corbray, having inherited it for taking it in the [[Battle of the Trident]] after their father, then the Lord Corbray, had been wounded and using it to slay Prince [[Lewyn Martell]]. Lyonel still resents not having inherited the blade even though he inherited all family titles and lands.
+
+House Corbray claimed that Ser Jaime Corbray slew Robar in the Battle of the Seven Stars, allowing them to reclaim the original Lady Forlorn.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Categories-->
+[[Category:House Corbray]]
+[[Category:Swords]]
+[[Category:Valyrian steel blades]]
+
+<!--Languages-->
+[[de:Lady Einsam]]
+[[fr:Dame Affliction]]
+[[pt-br:Senhora Desespero]]
+[[ru:Леди Отчаянье]]
+[[zh:空寂女士]]

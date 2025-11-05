@@ -1,0 +1,311 @@
+{{Canonicity|Canon}}
+{{War
+| Title      = {{PAGENAME}}
+| Type       = Thrones
+| Part       = 
+| Image      = TheBellsWFire.png
+| Previous   = [[War of the Five Kings]]<br>[[Liberation of Slaver's Bay]]
+| Concurrent = [[Conflict beyond the Wall]]<br>[[Great War]]
+| Next       = [[Great Council in the Dragonpit]]
+| Beginning  = [[304 AC]]{{Dateref|Game of Thrones: Season 7}}<br>[[Assault on the Targaryen fleet]]
+| End        = [[305 AC]]{{Dateref|Game of Thrones: Season 8}}<br>[[Assassination of Daenerys Targaryen]]
+| Place      = [[Westeros]]
+| Outcome    = *[[Assassination of Daenerys Targaryen|Death]] of [[Daenerys Targaryen]]
+*Destruction of the [[Iron Throne]] 
+{{Details|
+*Capture or death of most of [[House Targaryen]]'s [[Westeros]]i allies, including Houses [[House Tyrell|Tyrell]], [[House Martell|Martell]] (under the [[Sand Snakes]]), and [[House Greyjoy|Greyjoy]] (under [[Yara Greyjoy|Yara]] and [[Theon Greyjoy|Theon]] †)
+*Destruction of the majority of the [[House Targaryen|Targaryen]] [[Ships|fleet]] by King Euron's [[Iron Fleet]]
+*[[Casterly Rock]] briefly captured by [[Unsullied]]
+*[[Highgarden]] sacked by the [[House Lannister|Lannister]] army, subsequent extinction of [[House Tyrell]]
+*Destruction of Lannister-Tarly army at the [[Battle of the Goldroad]]
+*Iron Throne pays off debt to the Iron Bank with the gold [[Sack of Highgarden|sacked]] from [[Highgarden]]
+*King [[Jon Snow]] renounces his crown and pledges [[House Stark]], the [[North]], and the [[Vale of Arryn|Vale]] to [[House Targaryen]]
+*[[House Targaryen]] and [[House Lannister]] agree to a truce until the threat of the [[White Walkers]] is dealt with
+*Queen [[Cersei Lannister]] secretly keeps her army in the south and sends Euron Greyjoy to hire the [[Golden Company]] in [[Essos]]
+*[[Jaime Lannister]] defies his sister and travels north
+*Hostilities formally resumed after the end of the [[Great War]]
+*Loss of [[Rhaegal]] at the hands of [[Euron Greyjoy]] during the [[Battle at Dragonstone]]
+*Capture and subsequent execution of [[Missandei]] by [[Cersei Lannister]]
+*King's Landing is devastated during the [[Battle of King's Landing]]
+*Extinction of [[House Clegane]]
+*Near total destruction of the [[Golden Company]]
+*[[House Targaryen]] briefly recaptures the Iron Throne}}
+| Factions1  = {{COA|House Lannister|s}}<br>[[Iron Throne]]<br>{{C|[[House Lannister]]}}<br><br>{{COA|House Tarly|s}}<br>[[House Tarly]]<br><br>{{COA|House Greyjoy|s}}<br>[[Iron Islands]]<br>{{C|[[House Greyjoy]];<br>[[Euron Greyjoy|Euron]]'s faction}}<br><br>{{COA|Golden Company|s}}<br>[[Golden Company]]
+| Factions2  = {{COA|House Targaryen|s}}<br>[[House Targaryen]]<br><br>{{COA|House Tyrell|s}}<br>[[House Tyrell]]<br><br>{{COA|Dorne|s}}<br>[[Dorne]]<br><br>{{COA|House Stark|s}}<br>[[House Stark]]<br><br>{{COA|House Arryn|s}}<br>[[House Arryn]]<br><br>{{COA|House Greyjoy|s}}<br>[[House Greyjoy]]<br>{{C|[[Yara Greyjoy|Yara]]'s faction}}
+| Factions3  = 
+| Factions4  = 
+| Factions5  = 
+| Factions6  = 
+| Leaders1   = {{COA|House Lannister|i}} [[King of the Andals and the Rhoynar and the First Men|Queen]] [[Cersei Lannister|Cersei I Lannister]] †<br>[[Hand of the King|Lord]] [[Qyburn]] †<br>{{COA|House Lannister|i}} [[Knighthood|Ser]] [[Jaime Lannister]] †<br>{{COA|Bronn|i}} [[Knighthood|Ser]] [[Bronn]]<br>{{COA|House Tarly|i}} Lord [[Randyll Tarly]] {{Executed}}<br>{{COA|Euron Greyjoy|i}} [[King of the Iron Islands|King]] [[Euron Greyjoy]] †<br>{{COA|Golden Company|i}} Captain [[Harry Strickland]] †
+| Leaders2   = {{COA|House Targaryen|i}} [[King of the Andals and the Rhoynar and the First Men|Queen]] [[Daenerys Targaryen|Daenerys I Targaryen]] †<br>{{COA|House Lannister|i}} [[Hand of the King|Lord]] [[Tyrion Lannister]]<br>[[File:House Mormont.svg|16px|link=House Mormont]] [[Knighthood|Ser]] [[Jorah Mormont]] †<br>[[Grey Worm]]<br>Ko [[Qhono]] †<br>{{COA|House Tyrell|i}} [[Lord of Highgarden|Lady]] [[Olenna Tyrell]] †<br>[[Ellaria Sand]] †<br>[[Jon Snow]]<br>{{COA|House Stark|i}} [[Lord of Winterfell|Lady]] [[Sansa Stark]]<br>[[File:House Seaworth.svg|16px|link=House Seaworth]] [[Knighthood|Ser]] [[Davos Seaworth]]<br>{{COA|House Royce|i}} [[Lord of Runestone|Lord]] [[Yohn Royce]]<br>{{COA|House Greyjoy|i}} [[King of the Iron Islands|Queen]] [[Yara Greyjoy]]<br>{{COA|House Greyjoy|i}} [[Prince]] [[Theon Greyjoy]] †
+| Leaders3   = 
+| Leaders4   = 
+| Leaders5   = 
+| Leaders6   = 
+| Events     = [[Assault on the Targaryen fleet|Blackwater Bay (I)]] {{*}} [[Fall of Casterly Rock|Casterly Rock]] {{*}} [[Sack of Highgarden|Highgarden]] {{*}} [[Battle of the Goldroad|Goldroad]] {{*}} [[Wight hunt|Beyond the Wall]] {{*}} [[Dragonpit Summit|Dragonpit]] {{*}} [[Rescue of Yara Greyjoy|Blackwater Bay (II)]] {{*}} [[Retaking of the Iron Islands|Iron Islands]] {{*}} [[Battle at Dragonstone|Dragonstone]] {{*}} [[Battle of King's Landing|King's Landing]] {{*}} [[Assassination of Daenerys Targaryen|Red Keep]]
+}}
+{{Quote|Īlvra egralbrī qubemiluty daor yn vapār tolvio vȳho gierȳndi dāerēdoty!<br>(We will not lay down our spears until we have liberated all the people of the world!)|[[Daenerys Targaryen]] following her [[Battle of King's Landing|conquest]] of [[King's Landing]]|The Iron Throne}}
+The '''Last War'''{{Ref|GOT804}} was a military effort to conquer the [[Seven Kingdoms]] and seize the [[Iron Throne]] of [[Westeros]] by [[Daenerys Targaryen]]. It ended in victory for Daenerys, but at a great cost of innocent lives.<ref name="E72">"[[The Bells]]"</ref>
+
+==History==
+===Prelude===
+[[File:H&L114.png|thumb|Robert's Rebellion brought an end to the Targaryen dynasty.]]
+For nearly three centuries since [[Aegon's Conquest]], the [[House Targaryen|Targaryen]] dynasty ruled the unified [[Seven Kingdoms]] of [[Westeros]]. However, the reign of [[King of the Andals and the Rhoynar and the First Men|King]] [[Aerys II Targaryen]], nicknamed the Mad King for his insanity and cruelty, was challenged in the form of [[Robert's Rebellion]]. Ultimately, the rebellion saw a rebel victory with Prince Rhaegar's death at the [[Battle of the Trident]] and the Mad King's death during the [[Sack of King's Landing]]; only the young Prince [[Viserys Targaryen (son of Aerys II)|Viserys]] and newborn Princess [[Daenerys Targaryen|Daenerys]] survived due to their smuggling across the [[Narrow Sea]] to the [[Free Cities]] of [[Essos]] by loyalists. Robert was crowned king.
+
+[[Assassination of Robert Baratheon|Robert's death]] threw the realm into chaos as civil war erupted in the form of the massive [[War of the Five Kings]]. Robert's two brothers, [[Stannis Baratheon]] and [[Renly Baratheon]], laid claim to the Iron Throne on the basis that [[Cersei Lannister|Cersei]]'s children were bastards born of incest with her brother [[Jaime Lannister|Jaime]]. Meanwhile, [[Robb Stark]], who had been proclaimed the [[King in the North]], led an independence movement for the [[North]] and the [[Riverlands]]. [[Balon Greyjoy]] once more led an independence movement for the [[Iron Islands]], declaring himself the Iron King.
+
+[[File:Houndaryarideaway.png|thumb|The War of the Five Kings devastated Westeros both politically and literally, leaving it ripe for conquest.]]
+Each king eventually fell from battle, massacre, or murder. [[House Lannister]] now controlled the throne in all but name. 
+[[File:The Winds of Winter 13.jpg|thumb|An alliance of supporters of the Targaryen resurgence - and opponents of the Lannister dynasty - is forged.]]
+[[Dorne]] formed an alliance with the resurgent House Targaryen, now led by Daenerys, who had three dragons and built up a massive army. [[Olenna Tyrell]] joined this alliance, seeking justice for the deaths of her son, [[Mace Tyrell]], and [[Margaery Tyrell|her]] [[Loras Tyrell|grandchildren]] at Cersei's hand. [[Yara Greyjoy]] and [[Theon Greyjoy]], with 100 stolen ships of the [[Iron Fleet]] and their faction of loyal [[Ironborn]], also formed a pact with Daenerys Targaryen to depose their uncle, [[Euron Greyjoy]]. 
+
+Elsewhere in the North, the [[Battle of the Bastards]] saw the restoration of [[House Stark]], where [[Jon Snow]], the alleged bastard son of [[Eddard Stark]], was proclaimed the new King in the North. In actuality, however, Jon is the legitimate son of Eddard's sister, [[Lyanna Stark]], and [[Rhaegar Targaryen]], and thus is the rightful heir to the Iron Throne.
+
+[[File:Wights 1x10.png|thumb|The mythical White Walkers have reawakened, leading an army of the dead.]]
+While the struggle for the Iron Throne rages on in southern Westeros, the [[Northmen]] brace for the coming winter - the return of the [[Long Night]] - and the [[Great War]] against the [[Wight|Army of the Dead]].
+
+=== Opening moves ===
+==== New alliances ====
+[[File:Dragonstone-throne-room.png|thumb|Daenerys returns to Dragonstone.]]
+For the first time since her storm-ridden birth, Daenerys sets foot on Westerosi ground on the beaches of the ancestral [[Dragonstone|castle]]-[[Dragonstone (island)|island]] of House Targaryen, and begins planning the invasion and reconquest of the Seven Kingdoms. In response, Cersei invites [[King of the Iron Islands|King]] [[Euron Greyjoy]] to [[King's Landing]] to propose an alliance with him. Euron pressures her to marry him to solidify a potential alliance between the Lannisters and the [[house Greyjoy|Greyjoys]], but Cersei declines; Euron vows to make Cersei change her mind by bringing her a priceless gift, and leaves with the [[Iron Fleet]] to fulfill his promise.<ref>"[[Dragonstone (episode)|Dragonstone]]"</ref>
+
+Cersei also summons the lords of the [[Reach]] to King's Landing to bend the knee and fight for her against Daenerys.<ref name="E62">"[[Stormborn]]"</ref>
+
+====Naval assault====
+{{Main|Assault on the Targaryen fleet}}
+[[File:702 Siege of the Targaryen Fleet.png|thumb|The Iron Fleet attacks the Targaryen-Greyjoy fleet.]]
+Daenerys sends Yara and Theon to [[Dorne]] with [[Ellaria Sand]] and the [[Sand Snakes]], so that they can consolidate the [[Dorne|Dornish]] armies and gather the Dornish fleet to besiege King's Landing. In the meantime, she sends her own fleet and her [[Unsullied]] led by [[Grey Worm]] to conquer [[Casterly Rock]], the ancestral home of [[House Lannister]].<ref name="E62" />
+
+The Targaryen-Greyjoy fleet is [[Assault on the Targaryen fleet|ambushed and defeated]] on the way to Dorne by Euron. [[Obara Sand]] and [[Nymeria Sand]] are among the casualties, while Ellaria, [[Tyene Sand]] and Yara are taken captive, and Theon escapes.<ref name="E62" />
+
+[[File:Euron-Yara-Ellaria-Tyene-The-Queens-Justice.jpg|thumb|Euron parades his prisoners through King's Landing to the Red Keep.]]
+Euron eventually returns to King's Landing. He presents Ellaria and Tyene to Cersei as a gift, who declares to the gathered court that with his fleet, they will be able to come together and defeat the daughter of the Mad King.<ref name="E63">"[[The Queen's Justice]]"</ref>
+
+====Fall of the Tyrells====
+{{Main|Sack of Highgarden}}
+While meeting with Jon, the King in the North, to negotiate an alliance, [[Varys]] informs Daenerys that Yara Greyjoy and the Sand Snakes have been captured with their fleet smashed. Nonetheless, [[Tyrion Lannister|Tyrion]] proceeds with his plan: the [[Fall of Casterly Rock]]. The [[Unsullied]] army seize to the castle.<ref name="E63" />
+
+[[File:703 Attacking Casterly Rock.png|thumb|The Unsullied attack Casterly Rock.]]
+In the meantime, however, the combined Lannister-Tarly host [[Sack of Highgarden|captures Highgarden]].<ref name="E63" />
+
+[[File:IMG 1971.JPG|thumb|The Lannister-Tarly army marches on Highgarden.]]
+Having lost most of her allies, as well as a significant chunk of her fleet, Daenerys decides to take matters into her own hands.<ref name="E63" />
+
+====Crossing the Goldroad====
+{{Main|Battle of the Goldroad}}
+The combined Lannister-Tarly army is on its way back to King's Landing, taking with them a massive supply convoy. The gold reserves of Highgarden are successfully sent ahead to King's Landing in secret, as Cersei intends to use them to pay off her debts to the [[Iron Bank of Braavos]], enabling her to hire the [[Golden Company]] (the largest [[Mercenary#Sellsword companies|sellsword company]] in [[Essos]]) to help enforce her authority.<ref name="E64">"[[The Spoils of War]]"</ref>
+
+[[File:704 Battle of Tumbleton 1.png|thumb|The Dothraki charge at the Lannister-Tarly army.]]
+
+As the army briefly stops along the [[Goldroad]] near King's Landing, it is [[Battle of the Goldroad|ambushed and mostly destroyed]] by the [[Dothraki]] and [[Drogon]]. Only Jaime and Bronn narrowly escape.
+
+[[File:704 Battle of Tumbleton 15.png|thumb|Jaime charges at Daenerys and Drogon.]]
+The survivors of the battle, including Randyll and his son, Dickon Tarly, are captured and presented a choice by Daenerys: they can bend the knee and join her in building a better world or die. The majority of the surviving soldiers submit, but Randyll and his son choose death and are executed by dragonfire.<ref name="E65">"[[Eastwatch]]"</ref>
+
+The Battle at the Goldroad undid nearly all the advantages Cersei gained from her previous victories; her armies have been severely reduced and much of the food supplies she needs for the siege have been destroyed, while her allied [[House Tarly]] has been effectively put out of the war. Daenerys finally has exhibited the power of her dragons in full force and gained a foothold on the Westeros mainland. Presumably, with the remains of Jaime's army having bent the knee, her Unsullied would be able to link up with the Dothraki and march on King's Landing.<ref name="E64" /><ref name="E65" />
+
+=== The White Walkers ===
+==== Unsteady armistice ====
+Jaime, having been rescued from drowning in the Blackwater Rush by Bronn, manages to return to King's Landing and inform Cersei of the defeat. Jaime pleads for Cersei to negotiate, but she resolves to fight on.
+
+[[File:Tyrion and Jaime Eastwatch.jpg|thumb|Tyrion and Jaime Lannister meet in King's Landing.]]
+When Jon receives a message from [[Bran Stark|Bran]] that the [[Wight|Army of the Dead]] is marching toward Eastwatch, he says he must return North to prepare their defenses and asks again for Daenerys's help. However, Daenerys is worried that Cersei will take advantage and march back in while they deal with the Army of the Dead. Tyrion proposes a plan that they provide Cersei with proof that the Army of the Dead is real, by showing her a [[wight]] as evidence.<ref name="E65" />
+
+To secure a wight to bring to the [[Dragonpit Summit|summit]], Jon and six companions venture [[beyond the Wall]] for the [[wight hunt]]. They [[Captured wight|capture a wight]] but are surrounded by the army of the dead. Daenerys comes to their rescue with her three dragons. The Night King kills [[Viserion]] and later reanimates the fallen dragon as a wight. Meanwhile, on a Targaryen ship en route to King's Landing for the parley, Jon pledges fealty to Daenerys, declaring her his queen.<ref name="E66">"[[Beyond the Wall (episode)|Beyond the Wall]]"</ref>
+
+====Dragonpit Summit====
+{{Main|Dragonpit Summit}}
+{{Quote|There's only one war that matters - the Great War - and it is here.|[[Jon Snow]] at the Dragonpit Summit|The Dragon and the Wolf}}[[File:707-Dragonpit.png|thumb|The Targaryen and Stark leaders arrive to parley with the Lannisters in the Dragonpit Summit.]]
+The [[Dragonpit Summit|summit]] is held at the [[Dragonpit]] in King's Landing. Jaime and Bronn oversee siege preparations on the battlements of the city walls with the Lannister forces and [[City Watch of King's Landing|City Watch]], while the forces of House Targaryen - the [[Unsullied]] and the Dothraki - line up in formation outside the city gates, commanded by [[Grey Worm]].
+
+Tyrion states they have a common enemy that they must face, requiring a truce. The captured wight is shown to Cersei but is held back by its chain. Realizing that the [[White Walkers]] are real, Cersei agrees to a truce with Daenerys, but tells Jon that he must agree to remain neutral when the war to come is won. Jon, bound to the code of honor among [[Northmen]], informs the summit that he has already [[Bending the knee|pledged fealty]] to Daenerys and cannot be neutral. Cersei declares the meeting over and leaves.
+
+[[File:Jaime confronts Cersei s7 finale.png|thumb|After Cersei reveals her plot to betray the truce, Jaime abandons his sister and rides north.]]
+Tyrion speaks with Cersei in private. She agrees to the truce with the Targaryen and Stark alliance and will send the Lannister armies north to help fight the [[Great War]]. However, she secretly conspires with Euron to abandon her new allies with the hope that her enemies slaughter each other, leaving herself unopposed. In response, Jaime decides to abandon his sister.<ref name="E67">"[[The Dragon and the Wolf]]"</ref>
+
+With this, Daenerys's military campaign is put temporarily on hold until the Army of the Dead is defeated.<ref name="E67" />
+
+====Rescue of Yara Greyjoy====
+{{Main|Rescue of Yara Greyjoy}}
+[[File:Theon-saves-Yara.png|thumb|Yara is rescued by her brother Theon.]]
+While Euron is in the Red Keep with Cersei, Theon sneaks aboard the ''Silence'' and rescues Yara. Yara decides to sail to the Iron Islands with her three remaining ships to take them back in Daenerys's name, while Theon leads a group of Ironborn to Winterfell to fight in the Great War.<ref>"[[Winterfell (Game of Thrones)|Winterfell]]"</ref>
+
+====Hostilities resume====
+{{Main|Battle of Winterfell}}
+{{Quote|We have won the Great War. Now we will win the last war.|[[Daenerys Targaryen]]|The Last of the Starks}}[[File:GoT S08E03 AKNK.png|thumb|The destruction of the Night King secured a victory for the living in the Great War.]]
+The Great War is won by the alliance of living armies led by the [[Great House]]s of Stark, Targaryen, and [[House Arryn|Arryn]] at the [[Battle of Winterfell]], where the Night King and his army are destroyed. After a massive funeral is held outside [[Winterfell]], Daenerys declares they will now focus on the "last war," taking the Iron Throne from Cersei.<ref name="E70">"[[The Long Night]]"</ref><ref name="E71">"[[The Last of the Starks]]"</ref>
+
+=== The Iron Throne ===
+==== Conflict escalates ====
+[[File:Strategy_S8_ep4.jpg|thumb|Daenerys's war council plans the future of the war.]]
+Daenerys and her allies hold a war council at Winterfell to plan the taking of King's Landing. Tyrion reiterates that their strategy is to prevent as many [[smallfolk|innocent civilian]] deaths as possible. Varys informs the group that Yara has succeeded in [[Retaking of the Iron Islands|taking back]] the [[Iron Islands]] and that the new [[Prince of Dorne (Last War)|Prince of Dorne]] has pledged his support to Daenerys. Daenerys plans to sail back to Dragonstone from [[White Harbor]] with Tyrion, Varys, Missandei, Grey Worm, and the [[Unsullied]], now reduced to half their number. Meanwhile, Jon will march south down the [[Kingsroad]] with the remaining Dothraki, Northern and the Vale forces.
+
+Approaching Dragonstone, Daenerys and her fleet are suddenly [[Battle at Dragonstone|ambushed]] by the Iron Fleet. The [[Ironborn]] shoot and kill [[Rhaegal]], damage the Targaryen ships, and capture Missandei. The survivors swim ashore to Dragonstone. Missandei is delivered to Cersei.
+
+[[File:Drogon Euron's Fleet S8 EP4.jpg|thumb|Euron's fleet surprise attacks Daenerys.]]
+Daenerys and Tyrion [[parley]] with Cersei outside King's Landing but neither side agrees to surrender to the other. Tyrion's attempts to appeal to Cersei's humanity fail, and Cersei has [[Gregor Clegane]] behead Missandei to Daenerys's and Grey Worm's devastation. Distraught and angry, Daenerys returns to Dragonstone with her advisors and forces.<ref name="E71" /><ref name="E72">"[[The Bells]]"</ref>
+
+====Taking the capital====
+{{Main|Battle of King's Landing}}
+The [[Battle of King's Landing]] begins shortly thereafter. Jon, Davos, and Tyrion lead the Unsullied, Dothraki, and Northern-Vale armies outside the gates of the capital, where Tyrion informs Jon that if the bells are rung, to call off his men. Their combined forces face the Golden Company led by Captain [[Harry Strickland]]. Daenerys arrives on Drogon, burning the Iron Fleet, the city's gate, and the Golden Company, allowing the Targaryen, Stark, and Arryn forces to charge the city. When they meet the Lannister soldiers, the Lannister soldiers surrender. This is followed by the citizens calling to ring the bells in surrender. The bells are rung but, despite this, Daenerys burns the city. Her ground forces follow her lead, including the Northman despite Jon's orders to stop, and attack both the Lannister soldiers and the smallfolk.<ref name="E72" />
+
+[[File:JONINACTIONBELLS.jpeg|thumb|The Northmen fight the Lannister soldiers.]]
+Cersei and her entourage are confronted by a vengeful [[Sandor Clegane|Hound]]. He and [[Gregor Clegane|the Mountain]] fight to death. Cersei reunites with Jaime, who previously killed Euron, but they are trapped beneath the Red Keep and crushed by the falling debris.<ref name="E72" />
+
+[[File:Fireinthecapital.jpg|thumb|Daenerys burns King's Landing on Drogon.]]
+Most of King's Landing is left in ruins from the dragonfire and exploding [[wildfire]], leaving thousands of smallfolk and soldiers dead.<ref name="E72" />
+
+==== A new era ====
+Daenerys delivers a speech to her forces among the ruins of the Red Keep, where she thanks them for honoring their promises to give her the [[Seven Kingdoms]]. She says they "liberated" King's Landing and declares that their war is not over as they will "liberate" the entire [[Known world|world]] from tyrants.
+
+Tyrion tells Jon that despite Jon's love for Daenerys, action must be taken against her to prevent more death and destruction as she has now become the people's greatest threat. He urges a resistant Jon that killing Daenerys is the right thing to do.
+
+[[File:Iron_Throne_S8_Ep6.jpg|thumb|The Iron Throne is melted by Drogon.]]
+Jon finds Daenerys in the throne room of the Red Keep, guarded by Drogon. He confronts her over burning down King's Landing, killing thousands of civilians, and executing surrendered forces. Daenerys defends these actions as necessary and Cersei mistakenly thought mercy was her weakness. Jon pleads with Daenerys for a merciful world, but Daenerys is certain her "liberation" plans will build her better world. Unable to dissuade her from more destruction, a heartbroken Jon tells Daenerys that she will always be his queen before reluctantly [[Assassination of Daenerys Targaryen|killing her]]. Weeping, Jon holds Daenerys in his arms as she dies. Drogon arrives and as he approaches, Jon lays Daenerys's body on the ground. Drogon nudges Daenerys's body and when she does not wake, he faces Jon. As Jon prepares to face his death, an anguished Drogon roars in rage and unleashes his fire on the Iron Throne, melting it. He departs with Daenerys's body as a grieved Jon watches.
+
+[[File:806_Great_Council.png|thumb|A Great Council in the Dragonpit declares an elective monarchy.]]
+Some weeks later, the high lords and ladies of Westeros gather in the Dragonpit of King's Landing. Tyrion proposes that the gathered nobles choose a king, formally beginning a [[Great Council in the Dragonpit]]. Bran is chosen as the new king. Bran allows Sansa to rule the [[North]] independently, turning the Seven Kingdoms into the [[Six Kingdoms]]. Bran names Tyrion his [[Hand of the King]] to rectify his past mistakes. As a compromise between the Unsullied and the Stark sisters, Bran decides to exile Jon to the [[Night's Watch]]. Tyrion delivers the news to Jon, who confides that killing Daenerys does not feel right. His identity as a Targaryen is kept secret.<ref name="E73">"[[The Iron Throne]]"</ref>
+
+===Aftermath===
+Jon meets with [[Sansa Stark|Sansa]], [[Arya Stark|Arya]], and Bran one last time, bidding them farewell on a dock in [[Blackwater Bay]]. Sansa tells Jon that she wishes there was another way and asks for Jon's forgiveness. Jon hesitates but replies that she made the North independent and is a good choice as its representative. They hug. When Jon invites Arya to see him at Castle Black, Arya tells Jon, Sansa, and Bran that she intends to sail west of Westeros to discover what lies beyond the charted maps. She and Jon share a good-bye hug as well. Jon bends the knee to Bran and apologizes for not being by his side when he needed him, but Bran responds that Jon was exactly where he needed to be. Jon then boards the ship sailing to [[Castle Black]].
+
+Grey Worm and the Unsullied board another fleet, leaving Westeros and sailing for the [[Naath|Isle of Naath]], fulfilling Grey Worm's promise to his late lover Missandei to protect her people from [[Slavery|slavers]] and other threats.
+
+As Hand of the King once more, Tyrion reforms the [[Small Council]]. Lord Bronn of his own [[Bronn's house|house]], who was elevated to [[Lord of Highgarden]] and [[Lord Paramount of the Reach]], is named [[Master of Coin]], Lord Davos Seaworth is named [[Master of Ships]], and [[Samwell Tarly|Samwell]] is named [[Grand Maester]]. [[Knighthood|Ser]] [[Brienne of Tarth]] also sits on the council as [[Lord Commander of the Kingsguard|Lord Commander]] of Bran's [[Kingsguard]]. 
+
+Jon reaches the Wall as a brother of the Night's Watch once again. There, he reunites with his other brothers as well as [[Tormund]] and his direwolf [[Ghost]]. Jon, Tormund, and Ghost lead the [[Free Folk]] beyond the Wall to resettle the now-thawing snowy lands.<ref name="E73" />
+
+== Legacy ==
+The Last War left much of the Seven Kingdoms devastated. Dorne and the Reach descended into chaos for a brief period of time, while countless people were killed by Daenerys's dragons, including Lannister and Tarly soldiers at the Battle of the Goldroad and innocent civilians at the Battle of King's Landing. This wide-scale death and destruction led to Daenerys's assassination and the legal extinction of House Targaryen, though the Targaryen bloodline continues to live on in Jon as the son of Rhaegar Targaryen and Lyanna Stark.
+
+[[File:QueenintheNorth.png|thumb|Sansa Stark is crowned the Queen in the North.]]
+While the war destabilized and weakened the realm, the fallout from the conflict allowed the remaining leaders of Westeros to peacefully negotiate a resolution, preventing any further civil war for the time being. The Iron Throne was permanently destroyed, and Tyrion declared that the King was to be chosen from [[Great Council]]s rather than through bloodline and inheritance. Daenerys's followers left Westeros without any further bloodshed, while Sansa's request for the independence of the North was granted. Upon this, the Seven Kingdoms are reorganized into the Six Kingdoms. This smooth transition of power allows the Westerosi to rebuild their country and introduces the idea of election based on merit at a larger scale in Westeros. In some ways, this fulfills the legacies of Daenerys, Tyrion, Jon, and Varys with her desires to "break the wheel" that allowed the few, powerful noblemen to prey on the many smallfolk.<ref name="E73" />
+
+== Combatants ==
+=== [[Daenerys Targaryen|The Dragon Queen]] ===
+[[File:Daenerys Targaryen S7 Promo Image.PNG|thumb|Daenerys Targaryen at Dragonstone]]
+Daenerys Targaryen claims the Iron Throne on the basis that she is the head of House Targaryen and the rightful heir to the throne, which was initially forged by her ancestor [[Aegon I Targaryen|Aegon the Conqueror]] some three hundred years ago. Rather than immediately divert her attention to Westeros, however, Daenerys instead first launched a campaign to [[Liberation of Slaver's Bay|liberate]] the enslaved populace of [[Slaver's Bay]] from the slave masters. Her war to free the slaves ultimately concludes in a victory, and slavery is abolished across the region and its three cities. Leaving the newly-named Bay of Dragons under the guard of her sellsword company, the Second Sons, Daenerys then forges an alliance with [[House Tyrell]], [[Dorne]], and part of [[House Greyjoy]]. 
+
+Daenerys personally commands a legion of Unsullied heavy infantry (just under 8,000 strong) and hordes of Dothraki light cavalry (just under 100,000), giving her easily the largest army in the entire conflict. House Tyrell and the Dornish, who act in alliance with her and her advisers directly, can field further ground troops (from both the Tyrell army and the Dornish militias) and provide naval support (in the form of the Tyrell-aligned [[Redwyne fleet]]). Her greatest military asset is her three dragons, making Daenerys the only person in the entire known world capable of launching an aerial assault on her enemies. However, Daenerys has suffered a series of defeats, between the assault on the Targaryen fleet, the fall of Casterly Rock and the sack of Highgarden. This results in Daenerys losing many of her Westerosi allies, as well as the detachment of her fleet that transported her Unsullied troops to Casterly Rock, who have taken moderate casualties and are stranded at Casterly Rock. Impatient with the cautious plans that Tyrion had advised her to follow, but still unwilling to harm civilians by burning cities, Daenerys forms a plan of her own and wins a decisive field victory at the Battle of the Goldroad. Following the battle, the surviving Westerosi soldiers bend the knee to Daenerys, increasing her forces. In the aftermath, she reluctantly agrees to negotiate an armistice with House Lannister in order to keep her gains while dealing with the oncoming threat of the army of the dead. Later, Jon eventually bends the knee to Daenerys and they fall in love; by extension, she is also allied with the Vale of Arryn, which has pledged to support the Starks in the Great War.
+
+=== [[Yara Greyjoy|The Queen of the Iron Islands]] ===
+[[File:Game of thrones 6x5 yara promo.jpg|thumb|Yara Greyjoy on the Iron Islands]]
+Yara Greyjoy claims the [[Salt Throne]] on the basis that she claims to be the head of [[House Greyjoy]] and that her father, [[Balon Greyjoy]], the [[King of the Iron Islands]], wanted her to rule. Her claim to the Salt Throne is supported by her younger brother Theon, but their uncle Euron wins the Salt Throne at a [[kingsmoot on Old Wyk]]. Yara currently seeks to avenge her father's death at the hands of Euron and to retake the Salt Throne. Yara, Theon, and their portion of the Iron Fleet sails to the Bay of Dragons to seek an alliance with Daenerys Targaryen. As per the terms of their alliance, Yara will be recognized as queen of a sovereign Iron Islands should Daenerys successfully become the queen, provided the Ironborn honor Daenerys's terms and give up all raping, reaving and pillaging.
+
+Being a queen herself, Yara is the highest-ranking of Daenerys's allies. She commands a major portion of the Iron Fleet, which serves as the backbone of the Targaryen allied navy which itself consists of the Redwyne fleet, a Dornish fleet, and the Targaryen royal fleet. However, with her capture at Euron's hand and the almost complete annihilation of her fleet during the assault on the Targaryen fleet, it is likely that the majority of her faction has been wiped out, save for her brother.
+
+=== [[Cersei Lannister|The Queen on the Iron Throne]] ===
+[[File:Queen Cersei Main The winds of Winter.jpg|thumb|Cersei Lannister at her coronation in the Red Keep.]]
+Cersei claims the Iron Throne as successor to her son [[Tommen Baratheon|Tommen I]], and is also the current occupant of the throne. The Iron Throne was previously usurped by [[House Baratheon]]. However, the dynasty finally collapsed upon Tommen's suicide. With no one to oppose her, Cersei ascended to the Iron Throne, beginning a new Lannister dynasty. The Lannisters had already amassed great power and influence over the Iron Throne during the Baratheon dynasty. Cersei now seeks to preserve the Lannister dynasty and continue to sit atop the Iron Throne.
+
+Cersei's military forces consist mostly of the well-equipped armies of House Lannister, reinforced constantly with fresh recruits from the Westerlands. Originally 60,000 men strong at the start of the War of the Five Kings, this army has been severely reduced by the war and post-war conflicts, leaving her with only around 10,000 men at the start of the invasion, much of which was then decimated by Daenerys's crushing victory at the Battle of the Goldroad. This leaves Cersei with only the [[City Watch of King's Landing]], the remains of the Lannister Army, and what surviving troops she can conscript from the depleted Westerlands and its vassals. [[House Frey]], the Lannisters' most loyal ally since the [[Red Wedding]], has been all but [[Assassinations at the Twins|eliminated]] by Arya, with apparent the death of all Frey heirs, leaving House Frey powerless, and a power vacuum in the Riverlands. The [[Warden of the North|Wardens of the North]], [[House Bolton]] has gone extinct after the [[Battle of the Bastards]], although ties between House Bolton and House Lannister were seemingly fractured when [[Ramsay Bolton]] married Sansa, undermining the plans of the Lannisters in the region. [[House Arryn]], rulers of the Vale who remained neutral during the War of the Five Kings, pledged its forces to the Northern cause. While House Tarly briefly aligned with Cersei, the majority of the Tarly army were killed during the Battle of the Goldroad while Lord Randyll Tarly and his heir Dickon Tarly were executed afterward. Their surviving bannermen (as well as some Lannister bannermen) bent the knee to Daenerys.
+
+Having accepted a marriage agreement from Euron, Cersei acquires over 1,000 Greyjoy ships to serve as her royal fleet. Using the gold plundered from Highgarden, and immediately after making an armistice with Daenerys, Cersei secretly orders Euron to sail to Essos and ferry over the Golden Company, putting 18,000 mercenary infantry and 2,000 cavalry, at her disposal. While she is still badly outnumbered, Cersei intends to use the Golden Company to mop up the remains of whoever wins the Great War – either the Targaryen-North alliance or the army of the dead – and finally reign unopposed. This devious move, however, has cost her Jaime, her greatest supporter and commander of her forces, as he leaves King's Landing to honor his oath to fight the army of the dead. Currently, although none of the southern kingdoms has the strength to fight her (except the Vale of Arryn and possibly Dorne), she only occupies the Crownlands, the Westerlands, and fragments of the Riverlands and Stormlands. However, with the conclusion of the Great War resulting in a victory for the living, Cersei is in a much better position, as not only has the entire army of the dead been eradicated, but the forces of House Targaryen and Stark have suffered severe losses as a result.
+
+=== [[Euron Greyjoy|The King of the Iron Islands]] ===
+[[File:Game-of-thrones-6x5 euron promo..jpg|thumb|Euron Greyjoy on the Iron Islands.]]
+Euron Greyjoy sits the Salt Throne of the Iron Islands after winning over the Ironborn lords and captains at a kingsmoot, promising to conquer all of Westeros for the Ironborn with the dragons of Daenerys. Knowing Euron to be a dangerous man, Yara and Theon lead an active resistance faction against him, seeking to install Yara on the Salt Throne as Queen of the Iron Islands. Yara and Theon beat their uncle Euron to [[Meereen]], where they form a pact with the Dragon Queen, who agrees to help them defeat Euron and take back the Iron Islands. Euron seeks the deaths of his niece and nephew so that they cannot challenge his reign.
+
+Euron commands the freshly rebuilt Iron Fleet, crewed by Houses loyal to him. The new fleet is visually impressive and apparently more than a match for any other fleet in the world; he proves his prowess when he strikes a first blow against the Targaryen alliance, destroying the majority of his niece's fleet and captures Yara, as well as Ellaria and Tyene Sand, essentially stripping Daenerys of two of her Westerosi allies. He then ambushes the remainder of the Targaryen fleet at the Fall of Casterly Rock, destroying the armada and stranding the Unsullied.
+
+However, Euron's position has been substantially weakened with Theon's liberation of Yara, who has sailed back to the undefended Iron Islands with her remaining men to take them back from Euron, thus possibly costing Euron his seat. However, he still has a numerical superiority over Yara's remaining forces, and with Theon's death in the Great War, now has one less threat to his rule.
+
+=== Other factions ===
+==== [[Jon Snow|The King in the North]] ====
+[[File:GoT-Sn7 FirstLook 09.jpg|thumb|Jon Snow in the crypts beneath Winterfell]]
+Though not a formal combatant, the coronation of Jon as King in the North will likely interfere with Daenerys's military campaign given that she seeks the Iron Throne of the Seven Kingdoms, and the North and the Vale were both under the dominion of the Iron Throne, being two of the seven kingdoms. The Knights of the Vale, led by [[House Arryn]], previously came to aid the Stark-Free Folk army during the Battle of the Bastards. With the deaths of Eddard, Robb and Rickon Stark, as well as the believed death of Bran, the Northern lords named Jon, the bastard of Eddard Stark, their king following his victory against Ramsay Bolton in reclaiming Winterfell and the North from House Bolton. The Starks have eradicated House Bolton and reclaimed Winterfell under the leadership of Jon, who has now been named the new King in the North in defiance of the Iron Throne.
+
+Unbeknownst to all, including Jon himself, however, is the truth of Jon's parentage: he is actually the legitimate son of Rhaegar Targaryen, King Aerys II Targaryen's eldest son who was slain by [[Robert Baratheon]], with Eddard's sister, Lyanna Stark, who died giving birth to Jon at the [[Tower of Joy]] in Dorne, thus making him Daenerys's nephew by blood and giving him a stronger claim to the Iron Throne than Daenerys. However, Jon is much more concerned with preparing the defense against the White Walkers in the impending Great War than taking part in any of the strife still gripping the South.
+
+Shortly after her arrival, Daenerys is informed of Jon and his status as King in the North by Melisandre. Though intrigued by Jon's efforts and achievements, she summons Jon to Dragonstone to meet her and "bend the knee". Jon accepts her invitation, but refuses to bend the knee. He asks for Daenerys's help against the Night King as it is a threat to all of humanity. Daenerys declares Jon to be in open rebellion against her and keeps him on Dragonstone. After hearing of her army's casualties at the hands of Euron, Jaime, and Randyll Tarly, Daenerys acknowledges that she may need Jon's help after all, and allows him to mine the dragonglass as a good faith gesture. In the process, Jon discovers cave paintings left behind by the [[Children of the Forest]] and the First Men, who fought alongside each other against the White Walkers despite their differences, and implores Daenerys to do the same lest they all die. Daenerys acknowledges the threat and promises to fight for the North if Jon bends the knee, which Jon remains reluctant to do. Around the same time, an attraction grows between Jon and Daenerys, and eventually they fall in love.
+
+After the wight hunt, during which Daenerys's dragon Viserion is killed by the Night King, Daenerys vows to help Jon defeat the Night King. Jon pledges allegiance to Daenerys as his queen, assuring her his people will accept her once they see her personality. Following his public declaration to Daenerys during the parley with Cersei, Jon signs his letters as [[Warden of the North]].<ref>[[:File:Jon_renounce.jpg]]</ref>
+
+Jon has the re-conscripted forces of the North at his disposal as well as the armies of the Vale of Arryn, which have been left intact during the War of the Five Kings. He is also in alliance with the free folk better known throughout the Seven Kingdoms as "wildlings", who currently occupy the Wall alongside what remains of the Night's Watch.
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the plot is far behind the point the show has reached: the battles of Meereen and Winterfell have not begun yet; many characters, who were killed off in the show, are still alive and active (Stannis, the Tyrells, Ser Barristan Selmy, etc.); the show has greatly strayed from the novels, especially in respect of the Dornish plotline, thus it is difficult to predict how the various plotlines progress and combine in the novels, and how the various parties regard Daenerys - if they will choose to ally with or oppose her.
+
+Moreover, a new contender has recently appeared in the last published novel - Daenerys's presumed-dead nephew [[Aegon Targaryen (son of Elia Martell)|Aegon Targaryen]], the son of Rhaegar and Elia who has the strongest claim to the Iron Throne (since the marriage of Rhaegar and Elia has never been annulled - it is an invention of the TV show), with [[Golden Company|a significant military force]] that can seriously affect the balance of forces in Westeros. 
+
+Daenerys hasn't attempted to return to Westeros as of the fifth and most recent novel (corresponding to the end of Season 5 of the TV series for her storyline). She is far away from Meereen and her troops, and has just encountered Khal Jhaqo. It is unknown whether she will win over the Dothraki at some point as she did in Season 6.
+
+===In the North===
+By the point the fifth novel ends, Stannis's host camps three days away from Winterfell. The [[Battle in the ice#In the books|battle between Stannis and the Boltons]] has not begun yet. Stannis's position is by no means as hopeless as in the finale of season 5: he has gained the support of Northern houses, among them the Mormonts, and the Northern mountain clans; the traitor in his host has been exposed and neutralized, thanks to [[Alys Karstark]]; the Boltons are in a very inconvenient position. Soon, Stannis will be reinforced by the [[White Harbor]] men. In the sample chapter of the sixth novel, it is implied he intends to set a trap to his enemies (perhaps drown them at the frozen lake near the village). [[Tycho Nestoris]] meets with Stannis and grants him the funds he needs since the Lannisters refuse to pay the Crown's debt.
+
+In view of how far the show has strayed from the novels, it is not impossible Stannis wins after all, despite the contents of the [[Bastard Letter]]. Since he consistently insists that he is the only rightful king of Westeros, it can be assumed he will oppose Daenerys rather than ally with her.
+
+===In Dorne===
+[[Doran Martell]] is still alive in the books (his murder by [[Ellaria Sand]] in the TV series was a drastic condensation, rather, ''invention'', of the TV series with no basis in the novels). Doran explains to his daughter Arianne that he intends to ally with Daenerys - thus she doesn't even need to conquer a beachhead, as the instant she arrives in Westeros Dorne will revolt against the Lannisters and join her other armies. Doran even sends his elder son Quentyn as an envoy to try to broker a formal alliance, based on the secret pact he signed many years before with [[Willem Darry]] (though he is later killed during an attempt to steal one of Daenerys's dragons).
+
+Quentyn's death, however, may cause a rift between Daenerys and the Martells: although it was not her fault, the Martells may become upset at her for rejecting Quentyn's proposal (though she did it very gently). The Martells may decide to support [[Aegon Targaryen (son of Elia Martell)|her nephew]] instead; recently, Doran sent his daughter to meet him, in order to form an alliance against the Lannisters.
+
+===The Stormlands===
+Aegon Targaryen, the son of Rhaegar and Elia, accompanied by his guardian [[Jon Connington]] and nearly half of the [[Golden Company]], recently arrived at Westeros. They have already conquered the [[Griffin's Roost]] and several more castles, and it is reported (but not confirmed yet) that they have seized [[Storm's End]]. Connington begins rallying supporters and allies; first, he sends a letter to Doran Martell, informing him that his presumed-dead nephew is alive, and requests his support. 
+
+News about the landing of Aegon reaches King's Landing, but Mace Tyrell and Randyll Tarly do not regard this seriously. Conversely, Kevan believes that Aegon and Connington pose a serious threat, especially if Daenerys arrives and joins forces with them. Kevan is murdered by Varys, in order to keep the realm destabilized, which will work in Aegon's favor.
+
+===The Riverlands===
+Riverrun has been [[Second siege of Riverrun|taken]], and currently it is governed by House Frey. However, [[Brynden Tully]] has escaped, and there are hints that the [[Brotherhood Without Banners|Brotherhood]] - led by the monstrous Lady Stoneheart (the reanimated [[Catelyn Stark]]) - plans to attack and massacre the Freys who occupy the castle.
+
+[[Brienne of Tarth|Brienne]] and [[Podrick Payne|Pod]], fruitlessly searching for Sansa (who is safe in the Vale), are taken captive by the Brotherhood. In order to save Pod, Brienne reluctantly agrees to Lady Stoneheart's demand to kill Jaime. She meets him at [[Pennytree]], and it seems she is leading him to a death trap.
+
+===The ironborn===
+Asha Greyjoy (called Yara in the show) doesn't go to Meereen in the novels: instead, she flees the Kingsmoot back to her captured holdings in the North, with 4 ships and 200 men only. Her army is nearly destroyed by [[Stannis Baratheon|Stannis]] in the [[Fight by Deepwood Motte#In the books|fight by Deepwood Motte]], and she is taken prisoner. Asha and Theon are currently imprisoned at Stannis's camp. Instead, it is her uncle Victarion Greyjoy (cut from the TV series) who takes the [[Iron Fleet]] east to Meereen. He has not stolen the fleet, but acted at Euron's command; however, he plans to betray Euron by taking Daenerys and her dragons to himself (possibly by force).
+
+In the TV version, Yara takes Victarion's role, and instead of secretly planning to turn against Euron, openly does so.
+
+The books make explicitly clear that the Iron Fleet isn't the ''only'' fleet in the Iron Islands, just their "national fleet" of sorts - the best ships and crews, under direct command of their king. Each of the local houses and isles have their own fleets. Thus in both versions, even though Victarion/Yara took their "best ships", Euron would still have several hundreds of ships left at his command, thus he does not need to build even one ship (let alone 1,000).
+
+In the fourth book, Euron launches a military campaign against the Reach. He has already captured the [[Shield Islands]] and the [[Arbor]], and is currently sailing south and east towards [[Oldtown]], on the verge of a massive naval engagement with the [[Redwyne fleet]] (the last major fleet remaining around Westeros after the old [[royal fleet]] got destroyed at the [[Battle of the Blackwater]]). Euron captured his brother [[Aeron Greyjoy|Aeron]] the priest, and is holding him in harsh imprisonment in the bowels of his ship for unknown purpose.
+
+At present, Euron is far away from the [[Slaver's Bay]], yet he is expected to intervene with Daenerys's plotline, based on the prophecies of the Red Priests Benerro and Moqorro about an enemy of Daenerys, described as "''a tall and twisted thing with one black eye and ten long arms, sailing on a sea of blood''". The earlier novels contained more subtle hints and foreshadowings that Euron was eventually going to be a major antagonist in the war, on the scale of Tywin, Joffrey, Roose, and Ramsay. It is implied that Euron may try to ally with Cersei in the future: given that her actions have totally alienated the Starks to the north and the Tyrells/Martells to the south, Euron is the only other possible extant faction she can ally with. In a preview chapter from the next novel, Euron forces Aeron to drink shade of the evening to give him psychedelic visions, one of which is of Euron seated on the Iron Throne, with a mysterious woman next to him in the shadows, with fire coming from her hands (i.e. how Cersei will use wildfire to destroy the Great Sept). It is also somewhat hinted that Euron has truly gone insane and is in service to some sort of dark demonic powers (either the White Walkers or [[Deep Ones|those beneath the depths]]), and is a "dark messiah" of sorts for them, intentionally trying to bring about an apocalyptic event.
+
+===At King's Landing===
+The Lannisters, meanwhile, are already half-exhausted and bankrupt. [[Robb Stark]] have been killed and his army massacred at the [[Red Wedding]], but he inflicted significant losses on the Lannister's main armies before that (at the [[Battle of Whispering Wood]], [[Battle of Oxcross]], and overall attrition in the protracted Riverlands campaign). Around half of the Lannisters armies' were slaughtered by Robb's forces and they cannot simply replace men as they can swords or ships - their strength has been hobbled for years to come. The Iron Throne is in astronomical debt and the [[Iron Bank of Braavos]] has lost faith in them, since Cersei has foolishly refused to pay the debt. The TV version claimed this is because their gold mines ran dry - which is a gross exaggeration and physically impossible. In the books, spending simply outpaced the rate of production (just because they have gold mines doesn't mean they produce ''infinite'' amounts of gold). In comparison, the TV series addresses the fact that Cersei's regime is bankrupt in Season 7 - by requisitioning the Tyrell fortune to pay her debts and reintroducing Tycho Nestoris of the Iron Bank.
+
+By the end of the fifth novel, the current state of affairs in King's Landing is definitely in favor of the Tyrells, all of whom are still alive. They have greatly increased their political power at the expense of the Lannisters:
+
+*The Tyrells have three of the seats in the Small Council.
+*A hundred [[Highgarden]] men have been added to the gold cloaks.
+*[[Mace Tyrell]] and [[Randyll Tarly]] have both brought armies to King's Landing, while most of the Lannister troops are away in the Riverlands.
+*The [[High Sparrow]] agreed to release Margaery and her cousins to the custody of Randyll, since the case against them is so weak. Margaery has not been declared innocent yet, but her position is far better than Cersei's.
+*Cersei has been stripped of all powers and authorities; all her henchmen have been either deposed, imprisoned or fled away, and some of them (Lancel and Pycelle) even turned against her; she is confined to her rooms, guarded all the time, and is not allowed to walk freely around with [[Gregor Clegane|her new bodyguard]] and intimidate people; whatever schemes she has in mind, she cannot realize them (the TV version had her under "house arrest" within the Red Keep, but not her specific chamber). Qyburn is the only one who remains loyal to her.
+*Jaime is away from King's Landing, concluding the [[Second siege of Riverrun|siege of Riverrun]]. Having already learned that Cersei has been unfaithful to him and she is guilty of all the crimes she is charged with (among them the murders of [[Robert Baratheon|Robert]] and [[High Septon (Tommen)|the previous High Septon]]), he then receives news that she has nearly destroyed the vital Lannister-Tyrell alliance that they desperately need to survive. In the books, she did this by having Margaery arrested, and agreeing to send [[Loras Tyrell]] to force a quick end to the siege of [[Dragonstone]] (in which he was severely burned with boiling oil and was left clinging to life). On hearing just how far gone Cersei is, Jaime decides not to intervene, burns the distress letter Cersei sent him, and apparently intends to simply let his uncle Kevan assume control over Tommen's regency. He continues to [[Raventree Hall]], and does not care if Cersei is executed before he returns to King's Landing. Following an unexpected meeting with Brienne at [[Pennytree]], however, it seems he is being led to a death trap at the hands of the vengeful Lady Stoneheart. 
+*Varys, shortly after killing Pycelle and before ordering his helpers to finish Kevan off, explains that he expects Kevan's death to create chaos which will be used by the Targaryens to conquer the kingdom.
+In view of the above factors, the Tyrells, given their military power and Margaery's popularity, can take advantage of Kevan's death and Cersei's downfall, and seize King's Landing; they cannot hope, though, to rule the entire kingdom without any allies and being surrounded by enemies: in the north - Stannis, in the west - ironborn, in the south - Aegon Targaryen and his sellswords. They may decide to ally with the Targaryens, as they did during Robert's Rebellion.
+
+The [[Destruction of the Great Sept of Baelor]] has not yet occurred in the current novels, though it is foreshadowed - Cersei takes great delight in burning down the [[Tower of the Hand]] with [[wildfire]] (but no one is killed). If an event analogous to this occurs in the novels, it cannot possibly kill ''all'' of the Tyrells - that is, their many younger cousins and cadet branches, not to mention that Mace has two older sons (Willas and Garlan) cut from the TV series. Thus even if Mace, Margaery, and Loras are killed, the fate of House Tyrell's leadership is unclear. Similarly, the [[Faith Militant]] has spread throughout all of southern Westeros, and even a decapitation strike against their core leadership in King's Landing will not eliminate their presence entirely.
+
+===In the Vale===
+Littlefinger's plans have also been drastically altered in the TV series. Littlefinger reveals to Sansa that he plans to wed her to Harrold Hardyng, [[Robin Arryn|Robert Arryn]]'s cousin and closest living relative, after Robert dies (he will probably not live to adulthood in view of his poor health - and Littlefinger's actions imply he may have him poisoned). When all the pieces are in place, Sansa will reveal her true identity, and call upon the lords of the Vale to remember their old loyalty to her father Ned. Every knight in the Vale will pledge his sword to win her back her birthright, and she will have it all - Harrold, the Eyrie, and Winterfell. In the process, Littlefinger will vicariously control two of the Seven Kingdoms. He was the true instigator of the entire war, explicitly to dupe the Starks and Lannisters into fighting each other to the point of exhaustion, while keeping the Vale's army out of the war and at full strength to finish off any survivors.
+
+Littlefinger says that he originally thought it would take four to five years for his plans to come to fruition. However, while he always expected Cersei's weak regency over Tommen to crumble from within, he says he didn't anticipate how rapidly Cersei would spiral into self-destruction: arming the Faith Militant, ''utterly'' mishandling the debt crisis with the Iron Bank, needlessly antagonizing the Tyrells. This has forced him to speed up his timetable, though he sees this as an opportunity.
+
+Littlefinger cryptically says that whatever peace was left in Westeros after the War of the Five Kings will not long survive the "Three Queens". Sansa is puzzled and doesn't understand what he means: she assumes he is referring to Cersei and Margaery, but doesn't understand who the third queen is (''possibly'' Daenerys, though it's possible he's referring to other women entirely).
+
+Littlefinger hasn't mentioned Stannis in his plans yet, or how his sudden appearance in the North may alter any of his plans. Stannis loathes Littlefinger, and accurately suspected for years during Robert's reign that Littlefinger was a traitor. Stannis may kill Littlefinger if they ever came into contact again rather than ally with him.
+
+For the moment, Littlefinger is strengthening his grip over the lords of the Vale, bribing off old aristocratic families who are deeply in debt (apparently with massive amounts of money he embezzled from the Iron Throne). His entry into the war still seems some way off, so he is focusing on the first step in his plan: his alleged bastard daughter "Alayne" (Sansa) winning over and betrothing Harold Hardyng.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{Last War}}
+{{Wars}}
+
+<!--Categories-->
+[[Category:Last War| ]]
+[[Category:Wars]]
+
+<!--Languages-->
+[[de:Daenerys Targaryens Invasion von Westeros]]
+[[fr:Invasion de Westeros par Daenerys Targaryen]]
+[[it:Guerra di Daenerys Targaryen per Westeros]]
+[[pl:Ostatnia Wojna]]
+[[pt-br:Invasão de Westeros por Daenerys Targaryen]]
+[[ru:Последняя война]]

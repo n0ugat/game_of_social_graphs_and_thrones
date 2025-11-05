@@ -1,0 +1,40 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Kieran Bew.jpg
+| Birth   = Kieron John Bew<br>August 18, 1980 {{Age|1980|8|18}}<br>Hartlepool, Durham, England
+| Death   = 
+| Role    = [[Hugh]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]] {{*}} [[House of the Dragon: Season 3|3]]
+| Credits = 7 episodes {{Below|Credits}}
+| First   = "[[A Son for a Son]]"
+| Last    = 
+}}
+'''Kieron John Bew''' (born 18 August 1980), known professionally as '''Kieran Bew''', is an English actor known for ''Beowulf: Return to the Shieldlands'' (2016), ''Warrior'' (2019), and ''Rules of the Game'' (2022).
+
+Bew plays [[Hugh]] in the [[House of the Dragon: Season 2|second season]] of ''[[House of the Dragon]]''.<ref>https://press.wbd.com/us/media-release/hbo-0/house-dragon/hbo-releases-official-teaser-and-first-look-images-season-two-original-drama-series</ref>
+
+==Credits==
+===Starring===
+{{House of the Dragon: Season 2|yes|yes|||yes|yes|yes|yes}}
+{{House of the Dragon: Season 3||||yes}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{WP}}
+*{{IMDb|#=1240908}}
+*{{Spotlight|#=4852-3493-4753}}
+*{{Instagram|#=kieranbew}}
+
+<!--Navboxes-->
+{{House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Bew, Kieran}}
+[[Category:Starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Kieran Bew]]

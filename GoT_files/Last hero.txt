@@ -1,0 +1,32 @@
+{{Canonicity|Non}}
+{{BookConjecture}}
+{{Quote|I found an account of the Long Night that spoke of a hero killing Walkers with a blade of dragonsteel.|[[Samwell Tarly]]|Mother's Mercy}}
+The '''last hero'''{{Con|ASOIAF}} was a legendary figure of the [[First Men]] who lived during the [[Long Night]].
+
+==Biography==
+The last hero fought the [[White Walkers]] during the Long Night, killing them with a blade of "dragonsteel," possibly [[Valyrian steel]].{{Scriptref|GOT510}}
+
+==Behind the scenes==
+The last hero is mentioned in the script for "[[Mother's Mercy]]."{{Scriptref|GOT510}} In the filmed version, the line mentioning him is cut.{{Ref|GOT510}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, legend dictates that the last hero was the only survivor of a company searching for the [[Children of the Forest|children of the forest]] during the Long Night, after attacks from [[wight]]s, [[White Walkers|Other]]s, and [[giants]]. He eventually reached the children and gained their help, leading to (by unknown means) the formation of the [[Night's Watch]] and the Battle for the Dawn.{{Bookref|TWOI&F|2|4}} The last hero's connection to [[Azor Ahai]] is unknown.
+
+The last hero supposedly used a blade of "dragonsteel" to slay the Others. [[Jon Snow]] speculates that this may be another name for [[Valyrian steel]].{{Bookref|AFFC|5}}
+
+==Appearances==
+*{{GOT|Mother's Mercy}} {{Scriptm}} {{Ncm}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+[[Category:First Men]]
+[[Category:Individuals from Game of Thrones]]
+[[Category:Legendary figures]]

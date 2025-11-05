@@ -1,0 +1,70 @@
+{{Canonicity|Canon}}
+{{MapNeeded}}
+{{Heraldry
+| Image = Bran Stark.svg
+| Link  = Bran Stark
+}}
+{{Region
+| Title      = {{PAGENAME}}
+| Theme      = Crownlander
+| Image      = Kingswood Camp.png
+| Type       = Forest
+| Location   = Southern [[Crownlands]]<br>Northern [[Stormlands]]
+| Geography  = Woodland, evergreen
+| Population = 
+| Rulers     = [[King of the Andals and the Rhoynar and the First Men|King of the Andals and the First Men]]
+| Culture    = 
+| Religion   = 
+| Military   = 
+| Capital    = 
+| Castles    = 
+| Cities     = 
+| Towns      = 
+| Villages   = 
+| Places     = 
+| Founded    = 
+}}
+{{Dialogue a-b-a|Cersei Lannister|I'll tell you a story. You the one about the mother lion and her little cub? They lived in the woods.|Tommen Baratheon|The Kingswood?|Yes, my love. In the Kingswood lived a mother and her cub. She loved him very much. But there were other things that lived in the woods; evil things...|[[Cersei Lannister]] comforts [[Tommen Baratheon]] during the [[Battle of the Blackwater]]|Blackwater}}
+The '''Kingswood'''{{Ref|GOT207}} is a forest in central [[Westeros]]. It begins in the [[Crownlands]] immediately south of [[King's Landing]] and extends into the [[Stormlands]]. The [[Kingsroad]] passes through the Kingswood as it runs from King's Landing to [[Storm's End]]. The [[Roseroad]] meets the Kingsroad within the forest. The Kingswood is the private hunting grounds for the rulers of Westeros. The [[white hart]] is considered the "King of the Kingswood" and a symbol of local pre-Targaryen royalty.{{Ref|HOTD103}}
+
+==History==
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+The royal court departs for a grand hunt in the Kingswood to celebrate [[Aegon II Targaryen|Aegon]]'s second nameday. The royal retinue attempts to hunt the [[white hart]].{{Ref|HOTD103}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+Twenty years prior to the events of the series, an outlaw band known as the [[Kingswood Brotherhood]] took up residence in the Kingswood, led by [[Simon Toyne]]. They caused significant problems before the [[Aerys II Targaryen|Mad King]] sent a small army to root them out. Ser [[Barristan Selmy]] slew Simon Toyne with a counter-riposte, impressing the fifteen-year-old [[Jaime Lannister]] (who killed his first man during the battle, beheading him).{{Ref|GOt103}}
+
+[[Robert Baratheon]] is hunting in the Kingswood, accompanied by [[Renly Baratheon]], Ser Barristan Selmy and his squire, [[Lancel Lannister]].{{Ref|GOT106}} He suffers a life-threatening injury while trying to slay a boar.{{Ref|GOT107}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the Kingswood is an extensive, large and deep forest with many small villages located within its eaves. The [[Kingswood Brotherhood]] took its name from the forest.
+
+[[Felwood]], the seat of [[House Fell]], is located at the southern edge of the kingswood, south of the Wendwater.
+
+In ''A Clash of Kings'', [[Tyrion Lannister|Tyrion]] sends the [[hill tribes]] to the Kingswood, ordering them to harass [[Stannis Baratheon|Stannis]]'s army, kill the scouts and raid the baggage train.{{Bookref|ACOK|49}} Stannis orders to light fires in the wood in attempt to smoke out the savages.
+
+After the [[Battle of the Blackwater]], [[Shagga]] and the [[Stone Crows]] decide to stay in the Kingswood, feeling that there are better opportunities for them there.{{Bookref|ASOS|4}}
+[[File:WA Rhaenyra riding.png|thumb|Rhaenyra riding through the forest. ]]
+When [[Margaery Tyrell|Margaery]] and [[Sansa Stark|Sansa]] come to the Kingswood, they find a wilderness of ash and charcoal and dead trees.{{Bookref|ASOS|16}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+*{{TOG|map-of-westeros#kingswood}}
+
+<!--Navboxes-->
+{{Crownlands}}
+{{Stormlands}}
+
+<!--Categories-->
+[[Category:Crownlands]]
+[[Category:Forests]]
+[[Category:Stormlands]]
+
+<!--Languages-->
+[[de:Königswald]]
+[[fr:Bois-du-Roi]]
+[[ru:Королевский лес]]
+[[zh:御林]]

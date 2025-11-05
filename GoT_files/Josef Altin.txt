@@ -1,0 +1,37 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Josef-Altin-200.jpg
+| Birth   = Yusuf Altın<br>February 12, 1983 {{Age|1983|2|12}}<br>London, England
+| Death   = 
+| Role    = [[Pypar]]
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 1|1]] {{*}} [[Game of Thrones: Season 3|3]] {{*}} [[Game of Thrones: Season 4|4]]
+| Credits = 13 episodes {{Below|Credits}}
+| First   = "[[Lord Snow]]"
+| Last    = "[[The Children]]"
+}}
+'''Josef Altin''' (born February 12, 1983), born '''Yusuf Altın''', is a British actor. He recently appeared in ''[[wikipedia:Misfits (TV series)|Misfits]]'' and ''[[wikipedia:Being Human (television series)|Being Human]]''.
+
+In ''[[Game of Thrones]]'' Altin played the role of [[Pypar]]. He was confirmed in the role on 16 July 2010. He initially appeared as a guest star in the [[Game of Thrones: Season 1|first season]] and returned in this role for the [[Game of Thrones: Season 3|third season]] and [[Game of Thrones: Season 4|fourth season]].
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 1|||yes|yes|||yes|yes|yes|yes}}
+{{Game of Thrones: Season 3||||||||||yes}}
+{{Game of Thrones: Season 4|||yes|yes|||yes|yes|yes|yes}}
+
+==See also==
+*{{WP}}
+*{{Template:IMDb
+|# = 1086981}}
+*{{Template:Twitter
+|# = JosefAltin}}
+
+{{Stub}}
+<!--InterWiki-Links-->
+[[de:Josef Altin]]
+[[ru:Джозеф Алтин]]
+[[fr:Josef Altin]]
+{{DEFAULTSORT:Altin, Josef}}
+[[Category:Guest starring cast members of Game of Thrones]]

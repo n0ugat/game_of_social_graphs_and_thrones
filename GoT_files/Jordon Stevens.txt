@@ -1,0 +1,36 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Jordon Stevens.jpg
+| Birth   = 
+| Death   = 
+| Role    = [[Elinda Massey]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]] {{*}} [[House of the Dragon: Season 2|2]]
+| Credits = 7 episodes {{Below|Credits}}
+| First   = "[[The Princess and the Queen]]"
+| Last    = 
+}}
+'''Jordon Stevens''' is a British-Irish actress.
+
+In ''[[House of the Dragon]]'', she portrays [[Elinda Massey]].<ref>https://www.spotlight.com/4370-7868-4875</ref>
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1||||||yes||yes||yes}}
+{{House of the Dragon: Season 2||yes|yes||yes||yes}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb|#=4098884}}
+*{{Spotlight|#=4370-7868-4875}}
+*{{Instagram|#=jordon_ellen}}
+*{{Twitter|#=Jordon_stevens}}
+
+{{DEFAULTSORT:Stevens, Jordon}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Jordon Stevens]]

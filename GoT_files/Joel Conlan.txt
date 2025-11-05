@@ -1,0 +1,41 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Joel Conlan.jpg
+| Birth   = 
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[Game of Thrones]]''<br>''[[House of the Dragon]]''
+| Season  = ''Game of Thrones'':<br>[[Game of Thrones: Season 4|4]] {{*}} [[Game of Thrones: Season 5|5]] {{*}} [[Game of Thrones: Season 6|6]]<br>''House of the Dragon'':<br>[[House of the Dragon: Season 1|1]]
+| Credits = 6 episodes {{Below|Credits}}
+| First   = "[[The Laws of Gods and Men]]"
+| Last    = 
+}}
+'''Joel Conlan''' is a stuntman.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 4|fourth season]] episodes "[[The Laws of Gods and Men]]" and "[[The Watchers on the Wall]]", the [[Game of Thrones: Season 5|fifth season]] episode "[[Hardhome (episode)|Hardhome]]" and the [[Game of Thrones: Season 6|sixth season]] episode "[[Battle of the Bastards (episode)|Battle of the Bastards]]".
+
+In ''[[House of the Dragon]]'', he was a stunt performer in the [[House of the Dragon: Season 1|first season]] episodes "[[The Heirs of the Dragon]]" and "[[Second of His Name]]".
+
+==Credits==
+===Stunts===
+====''[[Game of Thrones]]''====
+{{Game of Thrones: Season 4||||||yes|||yes}}
+{{Game of Thrones: Season 5||||||||yes}}
+{{Game of Thrones: Season 6|||||||||yes}}
+
+====''[[House of the Dragon]]''====
+{{House of the Dragon: Season 1|yes||yes}}
+
+==See also==
+*{{IMDb
+|# = 6005805}}
+*{{Twitter
+|# = jcostunts}}
+*{{Instagram
+|# = jcostunts}}
+*{{Linkedin
+|# = /in/joel-conlan-b65110101}}
+{{DEFAULTSORT:Conlan, Joel}}
+[[Category:Stunt performers of Game of Thrones]]
+[[Category:Stunt performers of House of the Dragon]]

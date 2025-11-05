@@ -1,0 +1,52 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Manwoody.svg
+| Link  = House Manwoody
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Martell
+| Image        = Kingsgrave Pin.png
+| Type         = Castle
+| Status       = 
+| Location     = [[Dorne]], [[Westeros]]
+| Population   = 
+| Rulers       = [[House Manwoody]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+{{Quote|A crowned skull: The Manwoodys of Kingsgrave.|[[Podrick Payne]]|Two Swords}}
+'''Kingsgrave'''{{Ref|GOT401}} is a castle in [[Dorne]], the region controlled by [[House Martell]] of [[Sunspear]], and the seat of [[House Manwoody]]. The castle is located in the north-west of Dorne near the border with the [[Stormlands]]. It is east of the [[Prince's Pass]] and west of the [[Kingsroad]], located deep within the [[Red Mountains]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Kingsgrave is the seat of [[House Manwoody]], a loyal vassal house of the Martells.
+
+The name "Kingsgrave" as well as the Manwoody sigil - a crowned skull - refer to the fact that an old [[King of the Reach]] was slain in battle there centuries ago.
+
+==Appearances==
+*{{GOT|Two Swords}} {{Mentioned}}
+*{{GOT|Dragonstone}} {{Map}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Dorne}}
+
+<!--Categories-->
+[[Category:Castles of Dorne]]
+[[Category:House Manwoody]]
+
+<!--Languages-->
+[[de:Königsgrab]]
+[[es:Sepulcro del Rey]]
+[[it:Tomba del Re]]
+[[nl:Koningsgraf]]
+[[ru:Королевская Гробница]]
+[[zh:王冢城]]

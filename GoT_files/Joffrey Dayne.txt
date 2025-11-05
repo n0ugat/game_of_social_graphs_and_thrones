@@ -1,0 +1,70 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Dayne.svg
+| Link  = House Dayne
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Martell
+| Image       = Joffrey Dayne.png
+| Birth       = During the [[Century of Blood]], at [[Starfall]]
+| Death       = 
+| House       = [[House Dayne|Dayne]]
+| Affiliation = 
+| Titles      = [[Knighthood|Ser]]<br>[[Sword of the Morning]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Dornishmen|Dornish]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Joffrey Dayne, who answered Aegon the Conqueror's demand to submit by invading Aegon's Seven Kingdoms and marching an army to the gates of Oldtown, where Aegon had been crowned.|[[Eddard Stark]]|House Dayne (short)}}
+Ser '''Joffrey Dayne''' was a knight of [[House Dayne]] during [[Aegon's Conquest]]. He was the Sword of the Morning during his time, and had wielded [[Dawn]], his family's ancestral sword.
+
+==Biography==
+When [[Aegon I Targaryen]] demanded that Joffrey and House Dayne surrender themselves, Joffrey marched with an army to [[Oldtown]], the city where Aegon had been crowned.{{Ref|H&L613}}
+
+==In the books==
+In ''The World of Ice & Fire'', Joffrey Dayne led an army from [[Starfall]] to [[Oldtown]] during the [[First Dornish War]]. He was unable to breach the city's walls and therefore had the fields, farms and villages burned for twenty leagues around the city. Lord [[Manfred Hightower]]'s son Garmon led a sortie against Joffrey, who killed him for it. He later melted back into the [[Red Mountains]] and [[King|Queen]] [[Visenya Targaryen]] and her [[dragon]] [[Vhagar]] attacked and burned Starfall in retaliation for his attack on Oldtown.
+
+Unlike in the [[House Dayne (short)|thirteenth short]] of the [[Histories & Lore: Season 6|sixth season]] of ''[[Histories & Lore]]'', Sir Joffrey was never mentioned nor shown to have been a wielder of Dawn, nor was he a Sword of the Morning.
+
+==Appearances==
+*{{H&L|House Dayne}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Dayne}}
+
+<!--Categories-->
+{{DEFAULTSORT:Dayne, Joffrey}}
+[[Category:Dornishmen]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Knights]]
+[[Category:Members of House Dayne|Joffrey Dayne]]
+
+<!--Languages-->
+[[de:Gottfrid Dayn]]
+[[es:Joffrey Dayne]]
+[[it:Joffrey Dayne]]
+[[nl:Joffry Dayn]]
+[[ru:Джоффри Дейн]]
+[[zh:乔佛里·戴恩]]

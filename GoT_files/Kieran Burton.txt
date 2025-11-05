@@ -1,0 +1,33 @@
+
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Kieran Burton.jpg
+| Birth   = 
+| Death   = 
+| Role    = [[Davos Blackwood]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]]
+| Credits = "[[The Burning Mill]]"
+| First   = 
+| Last    = 
+}}
+'''Kieran Burton''' is an actor. He plays [[Davos Blackwood]] in the [[House of the Dragon: Season 2|second season]] of ''[[House of the Dragon]]''. He is also known for his performance in ''Aftersun''.<ref>https://epicstream.com/article/kieran-burton-house-of-the-dragon</ref>
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 2|||yes}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb|#=12302924}}
+
+<!--Categories-->
+{{DEFAULTSORT:Burton, Kieran}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Kieran Burton]]
+[[pl:Kieran Burton]]

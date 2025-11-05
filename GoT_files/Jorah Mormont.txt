@@ -1,0 +1,546 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Leftimage  = House Mormont.svg
+| Leftlink   = House Mormont
+| Image2     = Golden Company.svg
+| Link2      = Golden Company
+| Rightimage = Kingsguard.svg
+| Rightlink  = Kingsguard#Daenerys Targaryen's Queensguard
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Targaryen
+| Image       = Winterfell ep Jorah s8.jpg
+| Birth       = 
+| Death       = [[305 AC]]{{Dateref|Game of Thrones: Season 8}}<br>[[Winterfell]], the [[North]]{{Ref|GOT803}}
+| House       = [[House Mormont|Mormont]]{{Ref|GOT101}}
+| Affiliation = [[House Stark]]{{Ref|GOT102}}<br>[[Golden Company]]{{Ref|H&L705}}<br>{[[Varys]]}{{Ref|GOT107}}<br>[[House Targaryen]]{{Ref|GOT101}}<br>[[Kingsguard#Daenerys Targaryen's Queensguard|Queensguard]]
+| Titles      = [[Knighthood|Ser]]{{Ref|GOT101}}<br>[[Lord of Bear Island]]{{Ref|GOT102}} {{C|formerly}}
+| AKA         = "the Andal"{{Ref|GOT101}}
+| Culture     = [[Northmen|Northern]]{{Ref|GOT802}}
+| Religion    = 
+| Father      = {[[Jeor Mormont]]}{{Ref|GOT802}}
+| Mother      = 
+| Spouse      = [[Lynesse Hightower (daughter of Leyton)|Lynesse Hightower]]{{Ref|GOT104}} {{C|separated}}
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 1|1]] {{*}} [[Game of Thrones: Season 2|2]] {{*}} [[Game of Thrones: Season 3|3]] {{*}} [[Game of Thrones: Season 4|4]] {{*}} [[Game of Thrones: Season 5|5]] {{*}} [[Game of Thrones: Season 6|6]] {{*}} [[Game of Thrones: Season 7|7]] {{*}} [[Game of Thrones: Season 8|8]]
+| Appearances = 52 episodes {{Below|Appearances}}
+| First       = "[[Winter Is Coming]]"
+| Last        = "[[The Last of the Starks]]" {{Corpse}}
+| DeathEp     = "[[The Long Night]]"
+| Actor       = [[Iain Glen]]
+}}
+{{Quote|There's a beast in every man, and it stirs when you put a sword in his hand.|Jorah Mormont to [[Daenerys Targaryen]]|Walk of Punishment (episode)}}
+Ser '''Jorah Mormont''' was an [[exile]]d [[Northmen|Northern]] [[Lordship|lord]] from [[Westeros]], previously living in [[Essos]]. He had sworn fealty to his fellow exile [[Daenerys Targaryen]], the [[House Targaryen|Targaryen]] claimant to the [[Iron Throne]], and was the first to help her adapt to life as a ''[[khaleesi]]'' of the [[Dothraki]].
+
+Originally, Jorah was working as a [[Little birds|spy]] for [[Varys]], [[King of the Andals and the Rhoynar and the First Men|King]] [[Robert Baratheon]]'s [[Master of Whisperers|spymaster]], sending him information about [[Viserys Targaryen (son of Aerys II)|Viserys Targaryen]]'s efforts to reclaim the throne. However, he grows to respect and admire Daenerys, serving her in earnest. After preventing an [[Wineseller|assassination attempt]] on Daenerys, he stops sending reports to Varys, ignoring an official royal pardon that would allow him to return to [[Westeros]]. He also developed strong, but unrequited, feelings for his queen.
+
+When Daenerys learns of his past espionage, he is dismissed from her service and ordered to leave her presence. He later captures [[Tyrion Lannister]] in the hope of winning his way back to her, an endeavor that leads to him contracting the deadly [[greyscale]]. On his way back to Daenerys, this time with Tyrion, the pair are captured by slavers and sold into the fighting pits of [[Meereen]]. After he helps save her life from both the [[Sons of the Harpy]] and the Dothraki, Daenerys accepts him back into her service, and orders him to come back to her after he finds a cure to his disease, which he eventually does at the hands of [[Citadel]] acolyte [[Samwell Tarly]] at [[Oldtown]]. 
+
+Following their reunion on [[Dragonstone (island)|Dragonstone]], he aids Daenerys further in order [[Wight hunt|to provide proof]] to [[Cersei Lannister]] of the threat of the [[Wight|army of the dead]], after which he joins the [[Great War|northern cause]] at [[Winterfell]] following a [[Dragonpit Summit|parley]] in [[King's Landing]]. Participating in the [[Battle of Winterfell]], Jorah dies protecting his queen.
+
+==Biography==
+===Background===
+[[File:Jorah in Pyke.png|thumb|180px|Jorah fighting in the Siege of Pyke.]]
+Jorah Mormont is the son of [[Jeor Mormont]] of [[House Mormont]], the [[Lord of Bear Island|Lords of Bear Island]] and vassals of [[House Stark]] in the [[North]]. Jorah had a distinguished early career, and participated in the [[Siege of Pyke]] during the [[Greyjoy Rebellion]], for which he was [[Knighthood|knighted]] by [[King of the Andals and the Rhoynar and the First Men|King]] [[Robert Baratheon]].{{Ref|GOT305}} His father later voluntarily joined the [[Night's Watch]] in favor of Jorah becoming Lord of Bear Island and head of House Mormont.{{Cite}}
+
+Jorah married [[Lynesse Hightower (daughter of Leyton)|Lynesse Hightower]], but his new wife had expensive tastes that Jorah struggled to fund. Ultimately, he resorted to selling poachers into [[slavery]], which has been illegal in the [[Seven Kingdoms]] for millennia and is a great taboo throughout Westeros. Jorah was eventually caught and disgraced. He was stripped of his lordship and fled to the [[Free Cities]] to avoid being executed by [[Eddard Stark]], though he decided to leave his family's ancestral [[Valyrian steel]] sword, [[Longclaw]], behind, which Jeor would pass down to [[Jon Snow]]. He served in [[Mercenary|mercenary companies]] such as the [[Golden Company]].{{Ref|GOT407}} However, his income would not be enough to satisfy Lynesse, and she eventually left him and became a concubine for a [[Tregar Ormollen|richer man]].<ref name="Jorah viewers guide">[http://viewers-guide.hbo.com/game-ofthrones/season2/#!/guide/houses/targaryen/jorah-mormont/ HBO viewers guide, season 2 guide to houses, House Targaryen - Jorah Mormont entry]</ref>
+
+He is called "Jorah the Andal" by the [[Dothraki]], as they assume that all people from Westeros are [[Andals]].{{Ref|GOT101}} However, Jorah is actually a [[Northmen|Northman]], descended from the [[First Men]].{{Cite}}
+
+Besides the [[Common Tongue]] of Westeros, Ser Jorah is fluent in the [[Dothraki (language)|Dothraki language]].{{Ref|GOT101}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+[[File:JorahGiftToDaenerysSeason1.PNG|thumb|Jorah meets Daenerys at her wedding.]]
+Jorah appears at the wedding of Khal [[Drogo]] and [[Daenerys Targaryen]], in a marriage arranged by [[Illyrio Mopatis]]. He introduces himself and presents Daenerys with some books containing songs and stories from Westeros. She asks his origin, correctly assuming he is from Westeros. He tells her of his Northern origin that he served her [[Aerys II Targaryen|father]] for many years, and pledges to serve the rightful king, her brother [[Viserys Targaryen (son of Aerys II)|Viserys]].{{Ref|GOT101}}
+
+[[File:Flatlands.jpg|thumb|Jorah moves west with Drogo's khalasar.]]
+While traveling to Vaes Dothrak, Jorah notices that Daenerys is struggling to cope with Drogo's sexual appetites. He gives her bark to eat in order to keep her strength, telling her of the Dothraki [[Ghost grass]] theory and consoling her that her marriage will get easier. Ser Jorah tells Viserys that he lost his home because he sold some poachers to slavers (which is illegal in the Seven Kingdoms). [[Eddard Stark]] wanted to execute him for breaking the law. He fled instead. Viserys dismisses the charges as foolishness, saying such things will be tolerated under his rule. Mormont is less than certain that this will happen.{{Ref|GOT102}}
+
+[[File:Daenerys 1x03.png|thumb|Daenerys and Jorah Mormont in the Dothraki sea.]]
+Jorah is impressed by Daenerys's growing ability to command. When Viserys tries to hit Daenerys, she is defended by her bodyguard [[Rakharo]], who asks her if she wants Viserys killed. She commands that no harm come to him. Viserys orders Ser Jorah to kill Daenerys's men, a suicidal order that Jorah pointedly ignores; from this point on he is under Daenerys's command. Rakharo orders Viserys's horse taken so he has to walk; a disgrace for a Dothraki.{{Ref|GOT103}}
+
+[[File:Jorah and Rakharo 1x03.jpg|thumb|Jorah and Rakharo debate combat techniques.]]
+Jorah talks to Rakharo and helps him learn some Westerosi words to better serve her. Jorah and Rakharo also swap their opinions on the value of swords and armors versus the ''[[arakh]]'' and some personal information: Jorah states that [[Jeor Mormont|his father]] is a man of great honor and integrity, and that Jorah's disgrace betrayed him.{{Ref|GOT103}}
+
+When Jorah learns that Daenerys is pregnant, he rides to the nearby [[Free Cities|Free City]] of [[Qohor]],{{Ref|GOT103}} where he sends information to [[Varys]] in King's Landing about Daenerys's pregnancy.{{Ref|GOT105}}
+
+[[File:Dothrakhorses.jpg|thumb|Jorah arrives at Vaes Dothrak with the ''khalasar''.]]
+Arriving at Vaes Dothrak, Daenerys asks Jorah if he thinks the Dothraki could retake the Seven Kingdoms for her House. Mormont points out the difficulties of persuading them to cross the [[Narrow Sea]], but believes success would be possible if that could be accomplished and if King Robert was foolish enough to meet them in open battle. He says that if their opponents retreated behind stone walls, the Dothraki would not be able to root them out. They move to discussing Jorah's background and he admits to selling the poachers as slaves to raise money for his expensive wife. When Daenerys asks him where his wife is, Jorah replies that she is with another man in another place.{{Ref|GOT104}} In King's Landing, Eddard Stark learns that Jorah Mormont is Varys's agent and spy in Daenerys's retinue. He puts little faith in Jorah's information that Daenerys is pregnant, considering him a traitor who will say anything for a royal pardon. However, King Robert and his council are adamant that his information can be relied on and order the assassination of Daenerys.{{Ref|GOT105}}
+
+[[File:Jorah and Viserys.jpg|thumb|Jorah threatens Viserys.]]
+Jorah translates for the benefit of Viserys during the ceremony where Daenerys eats a stallion's heart so that the ''[[Dosh Khaleen]]'' can prophesy about her [[Rhaego|baby]]. Viserys thinks it is disgusting, but when he realizes that the Dothraki love Daenerys, he slips away. Jorah follows and finds him trying to steal Daenerys's three [[dragon]] eggs. He is tired of waiting, and he wants to sell the eggs to buy an army. Viserys accuses Jorah of having desires for his sister, but Jorah still stops him from leaving, using a variation of the motto of his house, "Yet here I stand." Viserys backs down and leaves without the eggs.{{Ref|GOT106}}
+
+Later, when Viserys threatens Daenerys, Jorah tries to stop him, as drawing blood in the sacred city is punishable by death. When Drogo executes Viserys with a pot of molten gold, he urges Daenerys to look away, but she refuses.{{Ref|GOT106}}
+
+[[File:Dany-jorah-market.png|thumb|Ser Jorah foils the assassination attempt of the wineseller in the markets of Vaes Dothrak.]]
+Jorah accompanies Daenerys and her handmaidens to the market. He receives a message from a [[Little bird (You Win or You Die)|lad]] (one of Varys's informers that he calls his [[little birds]]), who says "the Spider sends his greetings, and his congratulations", and hands him a parchment which he says is his pardon and he can go home now. Ser Jorah clutches it and looks at it with longing, but realizes it means that if they don't need anyone to spy on Daenerys anymore, she is likely in danger. He goes back to the market and, seeing a [[wineseller]] trying to give Daenerys a cask as a gift, he intervenes and prevents the assassination (as the wine is [[poison]]ed). Drogo rewards his loyalty with a horse of his choosing before vowing to invade and seize the Seven Kingdoms in vengeance.{{Ref|GOT107}}
+
+Ser Jorah accompanies Daenerys as the ''khalasar'' raids the lands of [[Lhazar]]. When Daenerys orders that Dothraki warriors are to be prevented from raping the local women, Ser Jorah helps carry out the order, upsetting the Dothraki. He witnesses the fight between Drogo and [[Mago]]; Drogo wins but takes a small wound.{{Ref|GOT108}}
+
+Drogo's wound begins to fester. As Drogo's condition worsens, Ser Jorah fears for the chaos that will be unleashed if he dies. Daenerys is shocked to learn that her unborn son will be killed in the resulting power struggle as different bloodriders fight to succeed Drogo. Jorah suggests they leave quietly and try to get to [[Asshai]], where there is a port, but Daenerys refuses. She begs the Lhazareen witch, [[Mirri Maz Duur]], to help Drogo with blood magic and tells Ser Jorah that he should put on his armor.{{Ref|GOT109}}
+
+[[File:Daenerys.png|thumb|Ser Jorah carries Daenerys to the tent.]]
+When Drogo's bloodrider [[Qotho]] tries to halt the ceremony, Ser Jorah stops him with his sword. They fight and the younger Dothraki swiftly gains the upper hand through his superior agility, but his ''arakh'' is unable to penetrate Jorah's heavy armor, allowing Jorah to kill him. Daenerys goes into labor, but the midwives are too afraid to help her (thinking she is cursed because of the maegi). Jorah takes her into Drogo's tent to seek Duur's aid.{{Ref|GOT109}}
+
+[[File:Dany-awake.png|thumb|Jorah tells Daenerys about Rhaego.]]
+Jorah is with Daenerys when she wakes the next morning. He tells her to rest, but she insists on being taken to Drogo and her child. She learns that her son was stillborn, badly malformed, and that [[Drogo]] is alive but comatose, while the ''khalasar'' has scattered to the winds. Duur admits that she orchestrated Drogo's condition and the death of Daenerys's son as vengeance for the destruction of her village. Daenerys ends Drogo's suffering by smothering him with a pillow.{{Ref|GOT110}}
+
+[[File:Jorah & Daenerys 1x10.png|thumb|Jorah tries to prevent Daenerys from stepping onto the pyre.]]
+She builds a funeral pyre for Drogo, has her dragon eggs placed on the pyre, and has Jorah bind Duur to the pyre so that she may burn alive. Ser Jorah tries to stop Daenerys from burning the dragon eggs, as they can be sold to buy her a life of travel to exotic places. He tells her he knows she is planning on stepping onto the pyre as well and says she must not. She kisses his cheek and gives a speech to her people saying that they may go, but if they stay she will lead them to a great destiny. She then walks into the flames as the remaining Dothraki kneel in reverence.{{Ref|GOT110}}
+
+Jorah and Daenerys's remaining ''khalasar'' stand vigil all night until the fire finally burns out. In the morning, they find Daenerys unhurt among the ashes with three newly-hatched [[dragon]]s. A stunned Jorah drops to his knees and proclaims Daenerys his queen and liege, using the Dothraki declaration of undying loyalty, "Blood of my blood."{{Ref|GOT110}}
+
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+Ser Jorah crosses the [[Red Waste]] with Daenerys and her ''khalasar''. After Dany's mare - Drogo's first gift to her - dies of exhaustion, she wonders where should they go and what can she do against starvation. Jorah reminds her that returning either to [[Lhazar]] or to the [[Dothraki Sea]] would mean their death and the loss of her dragons at the hands of either the [[Lhazareen]] or another ''khalasar''. He also reminds her that she must remain strong for her people's sake. She tells him that he is her strength and then sends her [[bloodrider]]s to scout ahead on their three remaining horses.{{Ref|GOT201}}
+
+[[File:Jorah 2x02.jpg|thumb|Ser Jorah discovers the severed head of Rakharo.]]
+The ''khalasar'' sit amidst the heat as they wait for the scouts. Jorah notices a horse approaching and rouses Daenerys. The mount is riderless and covered in bright red war paint. Jorah notices blood dripping from a saddlebag and opens it to find the head of [[Rakharo]] and his severed braid inside. Jorah warns Daenerys not to look, but she insists. She asks Jorah who killed Rakharo and he speculates it might have been another ''khalasar'', possibly Khal [[Pono]] or Khal [[Jhaqo]], who are opposed to a woman leading a ''khalasar''. Daenerys vows that they will like it less when she is done with them.{{Ref|GOT202}}
+
+[[Kovarro]] returns to the camp. Daenerys notices that he has changed mounts and he reveals that he was given a new horse by the [[Thirteen]], the leaders of [[Qarth]]. He reports that on hearing of her dragons, the Thirteen have invited Daenerys to the city.{{Ref|GOT204}}
+
+[[File:Qarth walls.jpg|thumb|Jorah and Daenerys's khalasar reach Qarth.]]
+Daenerys asks Jorah what he knows of Qarth and he tells her that the desert around it is known as the [[Garden of Bones]] because it is littered with the remains of travelers who have been refused entry to the city. Jorah and the rest of the ''khalasar'' reach Qarth. The ''khalasar'' is met by the Thirteen with distrust and are denied entry, to which Daenerys reacts in anger, despite Jorah warning her to be careful. Nevertheless, [[Xaro Xhoan Daxos]], one of the Thirteen, intervenes on behalf of Daenerys and her people, who are admitted into the city.{{Ref|GOT204}}
+
+[[File:Daenerys 2x05.png|thumb|Daenerys and Ser Jorah in Qarth meet Pyat Pree.]]
+Xaro holds a reception for Daenerys and her people in the gardens of his home. Jorah prevents the Dothraki from stealing from their host. Daenerys and Jorah are perturbed by the tricks of the warlock [[Pyat Pree]], who invites Daenerys to visit the [[House of the Undying]]. The masked woman [[Quaithe]] delivers an enigmatic warning to Jorah about Daenerys's need for protection from those who lust after her dragons.{{Ref|GOT205}}
+
+Xaro offers to fund Daenerys's invasion of Westeros in exchange for her hand in marriage. Later, she seeks Jorah's advice about the proposal and he cautions against accepting financial aid. He suggests that she will be able to win her throne should she reach Westeros with just a single ship. He accidentally reveals his depth of feeling for her and while she accepts his counsel she looks away and does not reciprocate.{{Ref|GOT205}}
+
+[[File:Daenerys and Jorah 2x08.png|thumb|Daenerys instructs Jorah to find her dragons.]]
+While Jorah is away seeking a ship, Daenerys appeals to members of the Thirteen for aid. She is refused and returns to Xaro's home to find that [[Irri]] and several of her guards have been murdered and the dragons stolen.{{Ref|GOT206}} Jorah rushes back to her when he hears the news and she asks him to help find them after telling her to trust him, which Daenerys stresses he is becoming repetitive at. He speaks with Quaithe, who warns him that Daenerys is with the thief she seeks. He finds her appealing to the Thirteen for the return of her dragons, but they all deny knowledge of their whereabouts.{{Ref|GOT207}}
+
+[[File:GOT207.jpg|thumb|Jorah attempts to protect Daenerys from Pyat Pree.]]
+Then [[Pyat Pree]] admits to taking them to the House of the Undying, as part of a deal struck with Xaro, who has proclaimed himself king of Qarth. Suddenly, each servant of the Thirteen becomes a copy of Pree that steps forward and cuts the throat of each of the Thirteen (except Pree and Xaro). Jorah tries to kill Pree while escaping with Daenerys, but only succeeds in dispelling one of his many magical copies, stabbing them through the back. Jorah, Daenerys, and Kovarro escape, wary of Pree's request for Daenerys to meet him in the [[House of the Undying]].{{Ref|GOT207}}
+
+[[File:Daenerys and Jorah 2x08.jpg|thumb|Jorah asks Dany to leave Qarth.]]Jorah finds Daenerys refuge in a disused square, advising her to leave her dragons and flee Qarth, as he has recently booked passage to [[Astapor]], but Daenerys insists on reclaiming her dragons, saying that they are her children. She reminds Jorah that she has [[magic]] of her own, and he agrees to help her despite knowing they will be walking into a trap.{{Ref|GOT208}}
+
+Whilst searching for an entrance into the House of the Undying, Daenerys is magically transported inside, leaving a distraught Jorah calling for her outside. Daenerys overcomes the warlock's spells and reunites with her dragons. Once they are together she commands them to breathe flames at the sorcerer, killing him and allowing them to escape. Following her success, Daenerys returns to her remaining khalasar.{{Ref|GOT210}}
+
+[[File:Daenerys, Jorah and dragons 2x10.jpg|thumb|Jorah, Daenerys, and her dragons confront Xaro.]]
+They return to Xaro's home to confront him for his treachery and find him in bed with [[Doreah]]. They go to his vault, which proves to be empty, and lock Xaro and Doreah inside to die. Daenerys asks Jorah about the value of the Xaro's gold and jewels, to which Jorah replies that they are real, maybe even real enough to buy a ship. In response, Jorah orders the members of the ''khalasar'' to take all the gold and jewels of Xaro's manse.{{Ref|GOT210}}
+
+===[[Game of Thrones: Season 3|''Game of Thrones'': Season 3]]===
+[[File:Dany Drogon Jorah S3 Ep1.jpg|thumb|Jorah and Daenerys arrive in Astapor, eager to purchase Unsullied.]]
+Jorah is on Daenerys's ship that sailed from [[Qarth]] to [[Astapor]]. He is also with her when [[Kraznys mo Nakloz]] demonstrates the level of obedience of his [[Unsullied]] soldiers by slicing off one of their nipples and urges her to purchase them. During the conversation, Daenerys finds herself distracted by a young girl playing with a ball. A cloaked stranger appears from behind them to knock the ball out of her hands, and Jorah engages in a struggle with him. The ball hits the floor and cracks open to reveal a [[manticore]], which the stranger promptly stabs with his dagger. When he removes his hood, Jorah recognizes him as Ser [[Barristan Selmy]], who pledges fealty to her.{{Ref|GOT301}}
+
+[[File:Dany jorah selmy 3x03.jpg|thumb|Jorah and Barristan advise Daenerys on warfare.]]
+Jorah reaches the [[Walk of Punishment]] with Daenerys and Ser Barristan. He and Ser Barristan debate the merits of buying the Unsullied. Barristan advises Daenerys that there is no honor in conquering with a purchased slave army. Jorah counters that honor does not win battles and that the Unsullied are not like a regular army. They will not rape and pillage, and will only kill who they are ordered to kill. Daenerys eventually offers one of her dragons to Kraznys in return for all 8,000 of his Unsullied, a deal that Jorah and Barristan both strongly advise her against. Nevertheless, Daenerys stands her ground and scolds her two advisors for contradicting her in public.{{Ref|GOT303}}
+
+[[File:Season 3 Ep 4 Dany.png|thumb|Jorah joins Daenerys before the fall of Astapor.]]
+Jorah is present at the [[fall of Astapor]] where Daenerys manages to both keep all of her dragons and win the army as well as their trust in her as a queen and not as a mistress, effectively getting the best out of both Jorah and Barristan's prior arguments.{{Ref|GOT304}}
+
+On the road north to [[Yunkai]], Jorah reminisces with Barristan about the day he was knighted by King Robert for his part in the [[Siege of Pyke]] in the [[Greyjoy Rebellion]]. He recalls that the only thing on his mind was how badly he needed to urinate, having been sealed in armor for sixteen hours. Barristan prods Jorah about his past, when he was disgraced and exiled for his involvement in the slave trade, and warns him that his presence alongside Daenerys may harm her image in Westeros. Jorah questions Barristan about the advisors on King Robert's [[Small Council]], subtly trying to ascertain whether Barristan knows that he was previously spying on Daenerys for Varys. However, Barristan explains that as a former Targaryen loyalist, King Robert did not fully trust him, and excluded him from council meetings. Jorah and Barristan briefly bicker about the fact that Barristan has only just arrived, while Jorah has been protecting Daenerys for months. Jorah tells Barristan that he is not Lord Commander here, and Jorah only takes orders from Daenerys.{{Ref|GOT305}}
+
+[[File:Dany_and_Dragons_S3E7.jpg|thumb|Jorah is present with Daenerys's parley with Razdal.]]
+Upon arriving at Yunkai's gates, Jorah is dismissive of Daenerys's and Barristan's claims that its reputation for training bed slaves rather than soldiers will give them a clear advantage and explains that Yunkai will in all likelihood just shut its gates and chip away at Daenerys's army using guerrilla tactics. He also advises Dany that conquering Yunkai is irrelevant in their quest to return to Westeros, but she is adamant on freeing the hundreds of thousands of slaves within the city walls. Jorah is present in Daenerys's tent when the Yunkish slave-trader [[Razdal mo Eraz]] arrives bearing gifts, who she quickly dismisses after taking his gold.{{Ref|GOT307}}
+
+Following her orders, he spies on the mercenary group, the [[Second Sons]], and is again present in her tent when she is hosting the two mercenary captains [[Mero]] and [[Prendahl na Ghezn]], and their lieutenant [[Daario Naharis]]. Mero is sexually vulgar towards Daenerys which prompts Ser Jorah to threaten him to "mind his tongue."{{Ref|GOT308}}
+
+[[File:Battle of Yunkai.jpg|thumb|Jorah sacks Yunkai with Grey Worm and Daario.]]
+With Daario's help, Jorah and [[Grey Worm]] enter Yunkai from one of its posterior tunnels, and the three of them successfully fight off a number of guards and open the gates of Yunkai from the inside, allowing the Unsullied to sweep in and win the city for Daenerys. Jorah, however, is noticeably distraught when all of Daenerys's post-victory attention is centered on Daario.{{Ref|GOT309}}
+
+[[File:Mhysa Dany Jorah finale.png|thumb|Jorah watches as the Yunkish crowd call for Daenerys.]]
+Jorah, along with Ser Barristan, Daario, and [[Missandei]], is also present when Daenerys is meet by the freed slaves of Yunkai. Daenerys frets that the Yunkish slaves, who are better treated than Astapor's, might have grown to like their chains and will not welcome freedom. Finally, the gates open and the freedmen pour out. Missandei begins to tell them of how Daenerys the Unburnt freed them, but Daenerys interrupts and says that it is the slaves' own choice to reach for their freedom. After a moment, one of the freedmen stretches his hand towards Daenerys and calls out "mhysa" (Old Ghiscari for "mother"), followed by an entire crowd echoing him. Although wary of her safety, Daenerys tells Jorah that they won't hurt her. This is proven to be true when she greeted with open arms by the newly freed slaves of Yunkai.{{Ref|GOT310}}
+
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+While feeding her dragons, Dany is warned by Jorah once again about the fact that they are not tamable beasts. He also informs her that Daario Naharis and Grey Worm are gambling. When the army of Unsullied halts in unison, Jorah faces the crucifixion of a small child - one of 163 along the path to [[Meereen]], greatest of the cities of [[Slaver's Bay]].{{Ref|GOT401}}
+
+[[File:BreakerOfChainsS4EP03.png|thumb|Jorah arrives in Meereen with Daenerys.]]
+As the one who has been at her side the longest, Ser Jorah volunteers to face the champion sent out by Meereen when Daenerys arrives at their gates. Daenerys refuses to gamble with the life of her most trusted advisor, general, and dearest friend. She instead chooses Daario as her champion, who is successful in killing the Meereenese champion, [[Oznak zo Pahl]]. Following this, Dany begins her siege of the city by speaking of freedom to the gathered slaves and then catapulting the broken chains of those she has freed across the city walls, demonstrating her previous successes.{{Ref|GOT403}}
+
+During the [[Siege of Meereen]], Jorah accompanies Daenerys when she gives her commands to Grey Worm, just before their infiltration among the Meereenese slaves. Following her success, she plans to crucify 163 [[Great Masters]] in retaliation for the 163 slaves, against the advice of Jorah and many others. However, she follows through with her plan, hanging the Targaryen standard from the [[Great Pyramid of Meereen]] during the crucifixions.{{Ref|GOT404}}
+
+[[File:Dany decision.png|thumb|Jorah watches as Daenerys ascends as Queen of Meereen.]]
+Ser Jorah informs Daenerys that King [[Joffrey Baratheon]] has been poisoned at his own wedding. He also informs her of the disasters in the two cities she liberated, Yunkai and Astapor. Daenerys's companions debate about possibly mounting an invasion of Westeros due to its current state. Jorah is against it, stating that their forces could not conquer all of Westeros alone and they have no real allies on the continent. After Daenerys dismisses the rest of her council, she tells Jorah that her business in Slaver's Bay is not yet complete and intends to stay.{{Ref|GOT405}}
+
+Jorah is present when Daenerys receives a goatherd whose flock was incinerated by [[Drogon]], which Dany pays for by giving him triple the value of the goats. Following this, [[Hizdahr zo Loraq]] pleads for his father's body to be removed from its crucifix, along with those of the other Meereenese nobility, for burial in the [[Temple of the Graces]]. Daenerys allows this, having sent a clear message to the Great Masters.{{Ref|GOT406}}
+
+Some weeks later, Jorah enters Daenerys's chambers early in the morning and is not pleased to find a partially-dressed Daario exiting. Daario quips that it is a good time to petition Daenerys because she is in a very good mood. Entering the queen's conference room, he expresses his distrust for Daario, insinuating that Daario only murdered his superiors and joined forces with Daenerys out of lust, and thus is not a trustworthy ally. Daenerys tells Jorah that she sent Daario to take the Second Sons to Yunkai to regain control over the city and kill the masters that have resurfaced. Jorah relates to the mercy shown by Eddard Stark for his dealings in slavery and convinces Daenerys to bring the masters to justice without execution. Daenerys considers for a moment and then tells Jorah to assign Hizdahr zo Loraq as her ambassador to offer the masters a choice: they can live free in the new world she wants to create, or they can die clinging to their old one. The Second Sons will be stationed in Yunkai to enforce whichever choice the masters make. She also says to let Daario know that it was Jorah who changed her mind.{{Ref|GOT407}}
+
+[[File:Barristan confronts jorah.png|thumb|Ser Jorah is confronted by Ser Barristan Selmy regarding Mormont's royal "pardon."]]
+As [[Barristan Selmy]] watches the Unsullied taking down the crucified slave masters outside of Meereen, a [[Little bird (The Mountain and the Viper)|small boy]] approaches him, giving him a scroll bearing the seal of the king's hand. As Barristan reads it, he realizes that the letter was signed by [[Robert Baratheon]], the same year Jorah and Daenerys first met each other. Barristan confronts Jorah about this before telling Daenerys, saying that he doesn't want to go behind Jorah's back. He tells Jorah that he knows the truth; Jorah was initially working as a spy for Robert. As Jorah asks to speak with Daenerys alone, Barristan tells him "you will never be alone with her again."{{Ref|GOT408}}
+
+[[File:DanyJorahExile.png|thumb|Daenerys banishes Ser Jorah from her service.]]
+In the throne room, as Jorah walks up the steps towards Daenerys, the tension mounts when she asks for an explanation. Jorah explains that the situation is a ploy by [[Tywin Lannister]] in order to divide them. However, as the scroll was signed the year Jorah first met Daenerys, she asks if the pardon was forged. Reluctantly, Jorah tells the truth, at Daenerys's request. He confesses to providing [[Varys|the spider]] the information on Daenerys's activities in Essos.{{Ref|GOT408}}
+
+[[File:Jorah leaves meeren.png|thumb|Ser Jorah leaves Meereen.]]
+Daenerys gets angry when Jorah also admits that he provided the information of her pregnancy with [[Rhaego|Drogo's child]], as it led to her nearly getting poisoned by the [[Wineseller|wine merchant]] outside of [[Vaes Dothrak]]. Jorah defensively tells her that if it hadn't been for him she would have been poisoned, but she counters that was only because he saw it coming. Jorah calls her name and begs for her forgiveness, but she rejects, saying that he sold all her secrets to Robert, the man whom she finds guilty of her [[Sack of King's Landing|family's murder]]. Jorah is forced to leave the city within the day or have his head thrown into the [[Slaver's Bay]]. Jorah then leaves Meereen.{{Ref|GOT408}}
+
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+[[File:jorahandtyrion-s5e3.jpg|thumb|Ser Jorah kidnaps Tyrion, intending to take him to Daenerys.]]
+Jorah resurfaces in [[Volantis]], drinking in a brothel and shamefully eyeing a [[Prostitution|whore]] dressed as Daenerys. From afar, he recognizes [[Tyrion Lannister]] and Varys. Jorah later approaches Tyrion while he is urinating alone and binds him with rope and gags him, telling Tyrion that he is taking him to "[[Daenerys Targaryen|the Queen]]."{{Ref|GOT503}}
+
+With Tyrion captive, Jorah steals a small boat and begins to sail east towards [[Meereen]]. En route, Tyrion pesters Jorah with muffled whining until he relents and removes Tyrion's gag. Tyrion notices that they are traveling east and not west towards Cersei in King's Landing. Jorah reveals that he is taking Tyrion to the queen he serves, Daenerys Targaryen. Tyrion is pleasantly surprised and tries to convince him that they are on the same side since he was traveling to meet Daenerys anyway. He also accurately deduces who Jorah is by his appearance and equipment. He also correctly assumes that Jorah must have been banished by Daenerys because she discovered that he was spying on her for Varys. Tyrion mockingly asks Jorah if he really believes that he will earn a pardon for simply delivering him to Daenerys; alternately, she might pardon Tyrion and behead Jorah instead. Fed up with his captive, Jorah knocks Tyrion across the face, leaving him unconscious.{{Ref|GOT504}}
+
+[[File:jorah-greyscale-s5e5.jpg|thumb|Ser Jorah notices that his wrist has been infected with Greyscale.]]
+As Jorah and Tyrion continue their journey, Tyrion continues to mock House Mormont, as well as Bear Island. Eventually the two find [[Old Valyria]], and passes through its ruins to find Meereen. While sailing through the ruins the two look in astonishment as they see [[Drogon]] fly past them. In a quick turn of events, [[Stone Men|men infected with]] [[greyscale]] appear and attack the two. Jorah manages to fight them off, but Tyrion is pulled underwater. When Tyrion wakes up, he finds himself on shore, saved by Jorah. Jorah and Tyrion continue but Jorah looks at his wrists, and notices he has been infected with greyscale.{{Ref|GOT505}}
+
+[[File:Unbowed, Unbent, Unbroken 04.jpg|thumb|Jorah learns of the deaths of Jeor and Tywin.]]
+Jorah and Tyrion continue towards Meereen on foot, having failed to acquire a boat. During conversation, Tyrion mentions to Jorah that he knew his father, Jeor Mormont, from his trip to the Wall, and reveals that he was killed by his own men in a [[Mutiny at Craster's Keep|mutiny]] while returning from a great ranging, leaving Jorah visibly saddened at his father's death. Jorah is also pressed by Tyrion for information as to why he is serving Daenerys in the first place.{{Ref|GOT506}}
+
+[[File:jorahandtyrion-s5e6.jpg|thumb|Ser Jorah and Tyrion are captured by slavers.]]
+Jorah tells him that he grew to truly believe in her when he saw her emerge from Khal [[Drogo]]'s funeral pyre unscathed with three dragon hatchlings, and that she also has a birthright to the throne, even though Tyrion mentions the infamous Targaryen madness that may surface in her later in life. Later on, they are found and captured by slavers. The leader, [[Malko]], plans to sell them in Volantis, but Tyrion convinces them to allow Jorah to participate in the fighting pits in Meereen to make them rich, offering the information that Jorah once unseated [[Jaime Lannister]] in a jousting match. When Malko scoffs this, Jorah brings up that he slew Qotho in single combat, inciting Malko's interest and convincing him to take them to Meereen.{{Ref|GOT506}}
+
+[[File:The Gift promo.jpg|thumb|Jorah prepares to meet Daenerys.]]
+On the outskirts of Meereen, Jorah is put on auction by Malko, who exaggerates Jorah's accomplishments by claiming that along with fighting alongside "[[Robert Baratheon|The Stag King]]", he took part in the [[Siege of Pyke|attack on "Spike"]] with his flaming sword (when it was really [[Thoros]] of [[Myr]]), single-handedly killed Khal Drogo, and was betrayed by his wife and willingly sold into slavery in order to repay his debts. A slaver, [[Yezzan zo Qaggaz]], buys both Jorah and Tyrion. They are taken to one of the [[Fighting pit|fighting pits]]. When Jorah learns that Daenerys is present for the opening of the games, he takes a sword and enters the arena, knocking out the other fighters while disguised with a helmet. Jorah approaches Daenerys and removes his helmet to reveal his identity, but Daenerys, who still hasn't forgiven him, orders Jorah to be taken away. Jorah informs her that he has brought a gift, and Tyrion reveals himself, meeting Daenerys face-to-face at last.{{Ref|GOT507}}
+
+[[File:tyrion-jorah-s5e8.jpg|thumb|Ser Jorah and Tyrion are brought before Daenerys in the Great Pyramid.]]
+Back in Meereen, Daenerys, after learning Tyrion wants to advise her, asks him what he thinks she should do with Jorah. [[Tyrion Lannister|Tyrion]] tells her how devoted Jorah seemed to be to her and that he did not think she would be wise enough to forgive him. He then tells her how killing people devoted to her is not a ruler who inspires devotion and that she would need lots of it if she was ever going to rule Westeros, but when she did he couldn't be by her side. Daenerys then orders Jorah removed from the city once more. Jorah, with his Greyscale slowly progressing, returns to the fighting pits where [[Yezzan zo Qaggaz]] remains. Since he won the earlier match Jorah demanded that he fight at the great pit in front of the queen. Jorah says he is the best he has and that if he wins he will belong to Yezzan.{{Ref|GOT508}}
+
+Jorah later joins the Great Games in the [[Great Pit of Daznak]] in front of the queen, along with a Water Dancer from Braavos, a Dothraki warrior, a Summer Islander with a halberd, a Meereenese champion wielding a spear, and another fighter. When Daenerys recognizes Jorah she is visibly distraught, and as the fighting continues and Jorah is severely wounded by the water dancer, Tyrion reminds Daenerys that she could stop the fight at any moment to save Jorah.{{Ref|GOT509}}
+
+[[File:jorah-s5e8.jpg|thumb|Ser Jorah fighting in the Great Pit of Daznak.]]
+Even though the fear is clearly shown on her face, Daenerys refuses. Jorah manages to win the fight despite being outmatched. Just as the fight ends, Jorah throws a spear towards Daenerys, who, believing the spear was meant for her, ducks out of the way. The spear strikes a Son of the Harpy who was sneaking up behind her. Much of the audience reveals themselves to be Sons of the Harpy, proceeding to kill everyone they can. Jorah joins the ensuing battle for Daenerys and tries to help escort her out of the fighting pit, but they eventually end up surrounded and vastly outnumbered. At that moment, [[Drogon]] appears in the arena and starts killing the Sons of the Harpy and scaring off the rest. Jorah, Tyrion, Daario and Missandei all observe in awe as Daenerys flies off on Drogon, the first Targaryen dragonrider in over 150 years.{{Ref|GOT509}}
+
+[[File:Mother’s Mercy 01.jpg|thumb|Jorah, Tyrion and Daario plan their next move.]]
+Back in the Great Pyramid, Tyrion addresses both Jorah and Daario's feelings for Daenerys, understanding how one could love the wrong woman. The three argue about Jorah's betrayal, but they will not make any judgments without Daenerys first. The dragon was seen taking her north and it is agreed that Jorah will join Daario to ride and search for her. Grey Worm, still recovering from his injuries, offers to go with them, as does Tyrion. Daario firmly nixes both ideas: Grey Worm is needed to command the Unsullied in keeping the city under control, while Tyrion is the only one of them to have any political experience. Thus, Daario and Jorah depart together, hoping to find their Queen in the Dothraki Sea.{{Ref|GOT510}}
+
+===[[Game of Thrones: Season 6|''Game of Thrones'': Season 6]]===
+[[File:Game-of-Thrones-Season-6-Episode-1-Daario-and-Jorah.png|thumb|Jorah and Daario search for Dany.]]
+Jorah and Daario follow Drogon's trail into the Dothraki sea, where Daario gets him to admit he is in love with Daenerys. While Daario isn't looking, Jorah examines the spreading greyscale on his arm to determine how long he has left to live. They eventually discover a circle of hoof prints, where Jorah finds Daenerys's ring in the middle, leading them to realize a Dothraki ''khalasar'' has taken her captive.{{Ref|GOT601}}
+
+[[File:Book of the Stranger 16.jpg|thumb|Jorah and Daario plot to free Dany.]]
+Jorah and Daario make their way to Vaes Dothrak, with Daario taunting Jorah about how Daenerys chose him as her lover. Jorah scans the city and deduces that Daenerys has been taken to the [[Temple of the Dosh Khaleen|Temple of the ''Dosh Khaleen'']]. Daario confronts Jorah on his attraction to Daenerys, stating that his age makes her feeling the same way unlikely. Jorah and Daario leave their weapons outside the city, and Daario notices Jorah's greyscale. Jorah assures Daario that he was not infected. The two sneak into the city at night and are caught by two Dothraki. Jorah tries to pass off himself and Daario as lost merchants, but the Dothraki see through the ruse.{{Ref|GOT604}}
+
+[[File:Book of the Stranger 34.jpg|thumb|Jorah bows before his Khaleesi.]]
+After killing them, Jorah and Daario find Daenerys and offer to help her escape the city, but she enlists them in her plan to take control of the Dothraki. Jorah and Daario kill the guards outside the temple in which the khals are determining Daenerys's fate and bar the door, resulting in the khals being unable to escape when Daenerys sets the temple ablaze. When Daenerys emerges from the inferno unburnt, Jorah and Daario bow before her along with the rest of the Dothraki.{{Ref|GOT604}}
+
+[[File:The_Door_35.jpg|thumb|Jorah shows Daenerys his greyscale.]]
+The next day, overlooking the smoldering ruins of the Temple of the ''Dosh Khaleen'', Daenerys confronts Jorah. She reminds him that she has banished him twice, but remembers that he has twice returned, and has saved her life. As she ponders what to do, Jorah interjects that she must send him away, revealing his greyscale. He explains that he does not know of a cure, or how long the disease takes, but that he will "end things" before he becomes a stone man himself. Jorah then tells Daenerys that Tyrion Lannister was right about him; he loves her and will always love her, and begins to leave. Daenerys stops him, and, rather than dismissing him, tearfully orders Jorah to go and find a cure for his disease, so that he may be by her side when she takes back the Seven Kingdoms. Jorah and Dany then part on good terms as he watches her lead her new ''khalasar'' out of Vaes Dothrak, before embarking on his own new quest.{{Ref|GOT605}}
+
+===[[Game of Thrones: Season 7|''Game of Thrones'': Season 7]]===
+Jorah has traveled to [[Oldtown]] seeking a cure for his greyscale, which has progressed enough to cover much of his chest and back, as well as his entire left arm. He has been confined to one of the sick cells in the [[Citadel]]. As [[Samwell Tarly]] is collecting empty bowls from cells, Jorah reaches out for him and asks if Daenerys has reached Westeros yet, but Sam claims he does not know.{{Ref|GOT701}}
+
+[[File:Jorah-Stormbrn.jpg|thumb|Jorah accepts the likelihood of his death from greyscale.]]
+Jorah is later deemed beyond saving by [[Archmaester]] [[Ebrose]], and is told that he has one more day before he will be deported to the [[Valyrian peninsula]], to live out the rest of his days with the [[Stone Men]], as the greyscale will take over his mind in six months. Within that time, he still seeks to end his own life before then. He properly introduces himself to Samwell, explaining that there is no point writing to [[Lyanna Mormont]], as [[House Mormont]] forgot about him a long time ago.{{Ref|GOT702}}
+
+[[File:Sam helps Jorah Stormborn.jpg|thumb|180x180px|Sam performs a risky treatment on Jorah to cure him of his greyscale.]]
+Later that night, as Jorah writes a farewell note to Daenerys, he is visited by Sam, who properly introduces himself as one of the [[Night's Watch]] and claims that out of respect for his father, Jeor Mormont, he will try to save him from his greyscale, though he admits he has never tried before and is the only one who will, despite it being risky for both Sam and Jorah. Aware of the alternative, Jorah consents to the treatment. He is given rum as anesthesia and a mouthguard to bite on during the painful procedure to stay silent. Bearing the pain, Jorah allows Sam to start peeling his infected skin away.{{Ref|GOT702}}
+
+With his greyscale now cured by Samwell, Ebrose allows the release of Jorah from his cell. When Ebrose asks of the disease, Jorah says it must have cured itself from having plenty of rest. Before Jorah leaves, he tells Sam he will return to [[Daenerys Targaryen|Daenerys]] - that both she and Sam has saved his life. Jorah shakes Sam's offered hand in gratitude before leaving.{{Ref|GOT703}}
+
+[[File:Jorah_returns.jpg|thumb|Jorah returns to Dany.]]
+After leaving the Citadel, Jorah makes his way to [[Dragonstone (island)|Dragonstone]], where he is finally reunited with Daenerys, who gladly accepts him back into her service and calls him a friend. He also meets [[Jon Snow]], who served under his father, [[Jeor Mormont]], in the Night's Watch. Jorah later attends a meeting, during which [[Tyrion Lannister]] suggests that they should capture a [[wight]] and bring it to [[Cersei Lannister]], thus proving that the army of the dead is marching upon [[Westeros]] and allowing Daenerys to take her troops to help Jon.{{Ref|GOT705}}
+
+[[File:Dany and Jorah Eastwatch.jpg|thumb|Jorah bids Daenerys farewell.]]
+Jorah volunteers to join the mission and leaves Dragonstone with Jon, [[Davos Seaworth]] and [[Gendry Baratheon|Gendry]]. Upon arriving at [[Eastwatch-by-the-Sea]], Jorah quickly recognizes the imprisoned [[Thoros]] of [[Myr]], having fought together in the [[Greyjoy Rebellion]]. Unfortunately, the mention of Jorah's family name creates friction with [[Tormund]], due to Jeor Mormont's role in persecuting the wildlings. Nevertheless, Jorah accompanies the party north of the Wall.{{Ref|GOT705}}
+
+[[File:706-Jorah-Jon-Longclaw.jpg|thumb|Jorah instructs Jon to keep Longclaw.]]
+Once beyond the Wall, Jorah discusses his father's death with Jon Snow, stating that being killed by his own men was the worst way for Jeor to pass away. They also discuss the fact that [[Eddard Stark]] wanted to execute Jorah, and Jon offers to give [[Longclaw]] back to [[House Mormont]]. However, Jorah refuses: as he brought shame on his family, he has no longer the right to wield the weapon, which must remain with Jon, as Jeor wanted. Later, the party is attacked by an undead bear which severely injures Thoros before Jorah kills the beast with a final strike. Jorah and Thoros then discuss the [[Siege of Pyke]], with Thoros acknowledging that he was so drunk that day that he completely forgot the battle.{{Ref|GOT706}}
+
+[[File:706-Sandor-Jorah-wight.jpg|thumb|Jorah assists in subduing a wight.]]
+The party finally encounters a small group of wights led by a [[White Walker 1 (Beyond the Wall)|White Walker]]. They attack it and Jorah is assaulted by a wight who tries to choke him to death before being shattered when Jon kills the White Walker leading them. They successfully capture an undead, but it draw the attention of the whole undead army, which rushed at them. While Gendry returns to Eastwatch to send a raven to Daenerys, Jorah and the others find refuge on a small island in the middle of the frozen lake that the wights cannot cross.{{Ref|GOT706}}
+
+[[File:Beyond-the-Wall-Jorah.jpg|thumb|Jorah waits for the army of the dead to attack.]]
+They spend the night on the rocks, to which Thoros does not survive, and are later attacked by the army of the Night King as the ice layer over the water is solid enough. Jorah fights along the others with a pair of dragonglass daggers, destroying many wights, but the party is easily outnumbered and only survives thanks to the arrival of Daenerys and her dragons. Jorah is shocked and saddened when he witnesses the death of Daenerys's dragon, Viserion, at the hands of the Night King. The survivors manage to escape, except Jon Snow, who is taken beneath the lake by wights. Back to the Wall, Jorah tells Daenerys that they should return to [[King's Landing]] and attends Jon's return to Eastwatch after he was saved by [[Benjen Stark]].{{Ref|GOT706}}
+
+[[File:707_Jorah_at_Meeting.png|thumb|Jorah during the negotiation in the Dragonpit.]]
+Jorah goes to King's Landing to attend the negotiation between Daenerys, Cersei and Jon, explaining the origins of the [[Dragonpit]] to [[Missandei]] on the way. They are greeted by [[Bronn]] who escorts them to their seats, with Jorah sitting right next to Daenerys. Jorah does not speak during the discussions. Like everyone else, he is surprised when Jon openly pledges allegiance to Daenerys and stays at the Dragonpit while Tyrion tries to convince Cersei to help them after she left the negotiation. After Cersei seemingly agrees to send troops to fight the army of the [[Night King]], Jorah leaves King's Landing with the others and make his way to the [[North]].{{Ref|GOT707}}
+
+===[[Game of Thrones: Season 8|''Game of Thrones'': Season 8]]===
+[[File:Season-8-8.jpg|thumb|Jorah watches as the meeting of Sam and Daenerys turns sour.]]
+Jorah arrives in [[Winterfell]] along with Daenerys and her large army. He later goes to the castle's library with Daenerys so she can meet Samwell and thank him for saving Jorah from the greyscale. When Sam tells them that he is the son of [[Randyll Tarly]] and the brother of [[Dickon Tarly]], who were both executed by Daenerys, Jorah looks away as they face Samwell's evident sorrow. Samwell excuses himself, after which both Daenerys and Jorah look on in regretful irony, with Samwell having saved Daenerys's oldest friend, but Daenerys herself having killed Samwell's family.{{Ref|GOT801}}
+
+[[File:Episode 69.jpg|thumb|Jorah attends Jaime's interrogation.]]
+Jorah witnesses [[Jaime Lannister]]'s arrival in Winterfell, and the revelation that the army promised by [[Cersei Lannister]] will not come. Sensing that Daenerys could remove Tyrion from the position of Hand of the Queen for having underestimated his sister, Jorah goes to Daenerys and vouches for Tyrion, insisting that he learns from his mistakes and that he should remain her Hand, even though Daenerys considered Jorah himself for the position before his betrayal was revealed. Jorah also advises Daenerys to try and build a more cordial relationship with [[Sansa Stark]].{{Ref|GOT802}}
+
+[[File:Varys Dany Jorah S8 EP2.jpg|thumb|Jorah attends a war council.]]Jorah's advice is heeded by Daenerys during a war council, in which she orders Tyrion to hide in the crypt during the battle as he is too valuable for her to lose. He later attempts to convince his younger cousin [[Lyanna Mormont]] to remain far from the battle in order to preserve the future of [[House Mormont]], but she refuses, and wishes Jorah good luck in the fight to come. Jorah is then approached by Samwell, who gives him his family sword [[Heartsbane]], and Jorah promises to wield it in memory of his father Jeor. He then rides into battle as the army of the dead has arrived.{{Ref|GOT802}}
+
+As the battle is about to begin, Jorah and his [[Dothraki]] cavalry are approached by [[Melisandre]], who sets fire to the cavalry's blades to help them in their fight against the dead. Jorah leads the charge of the cavalry, but is forced to retreat as his forces are overwhelmed by the wights.{{Ref|GOT803}}
+
+[[File:Jorah's Death S8 EP3.jpg|thumb|Jorah dies in Dany's arms.]]
+During the battle, Jorah destroys innumerable wights but then witnesses Daenerys falling off [[Drogon]], who was being attacked by a swarm of wights. Jorah runs to pick her up and protects her from the encircling wights; while protecting his Queen, Jorah is stabbed multiple times. Moments after [[Arya Stark]] kills the [[Night King]], Jorah dies staring into the eyes of his beloved Queen, having fulfilled his vow to protect her while Daenerys grieves over his body.{{Ref|GOT803}}
+
+[[File:804 Dany Jorah Promo.jpg|thumb|right|Daenerys mourns Jorah.]]Jorah's body is reclaimed after the battle and put onto one of the many funeral pyres held for all those who fell fighting the wights. Daenerys kisses his forehead before joining the crowd assembled to listen to Jon's eulogy, after which Jorah's pyre is set on fire by Daenerys herself. Later, Jon assures Daenerys that Jorah would not have chosen another way to die than being killed protecting his queen. Daenerys recalls that Jorah loved her in a way she could never love him back.{{Ref|GOT804}}
+
+==Personality==
+{{ReferencesSection}}
+{{Quote|You're an awful traveling companion, do you know that? Possibly the least charming man I’ve ever met|[[Tyrion Lannister]] to Jorah Mormont|Unbowed, Unbent, Unbroken}}
+Jorah is a complex character. He was Daenerys Targaryen's most loyal advisor and a formidable warrior. Jorah had a deep respect, loyalty and love for Daenerys, and has always tried to give her reasonable, practical, and effective advice. While Jorah was a moral person and always tried to be honorable, he had done several dishonorable acts out of love or for his own survival. He sold poachers into slavery to pay for his wife's spending habits, fled Westeros to escape execution, and briefly spied on Daenerys in the hope of receiving a royal pardon, though he stopped spying on her after becoming her advisor. Jorah was Daenerys's most level-headed advisor, at least until the arrival of [[Barristan Selmy]].
+
+Jorah was intelligent, literate, and well traveled, knowing the histories of Essos and speaking several tongues, including Dothraki.
+
+His relationship with his father, and likely the rest of his family, wasn't approached until the fifth season. Although he never showed any feelings towards [[Jeor Mormont|Jeor]], once he was given the news about his death, Jorah was visibly shaken and deeply upset, even angrily demanding to know the details of his father's death. This was most likely because he was still feeling guilty about bringing his family shame and never fully reconciling with Jeor.
+
+Although stoic, short-spoken and sometimes cold, Jorah does have the ability to warm up to people once they earn his respect. At first, he treated Tyrion like a hostage, but later, after the two barely survived the sinking of their boat, he started to trust Tyrion enough to leave him untied and later the two men shared their life stories and freely discussed Daenerys and her claim to the throne, although their newfound trust was shattered when Tyrion convinced Daenerys to exile Jorah from Meereen again (which he did to spare him Daenerys's wrath). However, after reuniting on Dragonstone, their relationship seems to be repaired, as Tyrion gives Jorah the coin that the slaver Yezzan had given him, with the promise to bring it back after returning from the wight hunt beyond the Wall. Both of them recognize each other's value to Daenerys, and Jorah even convinced her to keep Tyrion as her Hand even though he had made costly mistakes while counseling her.
+
+He was also a skilled warrior, though he does have a honor code, and tries not to kill his opponent if such option was possible. This was shown in the fighting pit, where every other warrior was brutally slaughtering one another, but Jorah came victorious without any loss of life in his hands. This worked in his favor since he was aware that Daenerys was becoming increasingly appalled by the needless violence happening in the pit right before Jorah got into the skirmish. And even after using brute force to harm another person, he did seem to try compensate for his actions, as he did give some money to a knocked out fisherman for his stolen boat. Also, Jorah had an immense tolerance for pain as he managed to stay silent during Sam's procedure to cure him of the greyscale even though the Citadel apprentice was effectively cutting off much of Jorah's skin. Jorah was also able to sustain multiple severe wounds inflicted by the wights during the [[Battle of Winterfell]], including one stabbing him in the chest, and kept getting back on his feet to protect Daenerys until the fight was ended.
+
+Although he was initially willing to betray Daenerys's trust in order to return to his home of Bear Island, Jorah fully accepted the consequences of the crime that had led him into exile. He admitted that even though he hated [[Eddard Stark]] for wanting to execute him, the then Warden of the North was in his right as Jorah had violated the laws of Westeros. Even when he returned to Westeros, Jorah did not attempt in any way to restore his former position as head of House Mormont. Instead, he fully recognized his much younger cousin [[Lyanna Mormont]] as the future of their family, and refused to be given back the family sword [[Longclaw]] by Jon, claiming that his father Jeor's wishes have to be respected. Jorah also recalls to Daenerys that he betrayed her even long after she had forgiven him. This demonstrates how humble Jorah could be and his willingness to accept the consequences of his actions instead of trying to cover up his misdeeds.
+
+==Quotes==
+===Spoken by Jorah===
+{{Quote|The common people pray for rain, health and a summer that never ends. They don’t care what game the high lords play.|Jorah Mormont to [[Daenerys Targaryen]]|Cripples, Bastards, and Broken Things}}
+
+{{Quote|Gods be good, I hope to always serve the rightful king.|Jorah to Viserys and Daenerys when he meets them for the first time.|Winter Is Coming}}
+
+{{Dialogue a-b-a-b|Viserys Targaryen|Does loyalty mean nothing to you?|Jorah Mormont|It means ''everything'' to me.|And yet here you stand.|And yet here I stand.|Jorah shows his loyalty to [[Daenerys Targaryen]] when he stops her brother [[Viserys Targaryen (son of Aerys II)|Viserys]] from stealing her dragon eggs.|A Golden Crown}}
+
+{{Quote|You have a gentle heart. There are times when I look at you and I still can’t believe you're real.|Jorah Mormont to [[Daenerys Targaryen]]|The Ghost of Harrenhal}}
+
+{{Quote|No one can survive in this world without help.|Jorah Mormont to Daenerys Targaryen|A Man Without Honor}}
+
+{{Quote|Even the bravest men fear death.|Jorah Mormont.|Valar Dohaeris}}
+
+{{Quote|There is a beast in every man, and it stirs when you put a sword in his hand.|Jorah Mormont.|Walk of Punishment (episode)}} 
+
+{{Quote|[[Rhaegar Targaryen|Rhaegar]] fought valiantly, Rhaegar fought nobly. And Rhaegar [[Battle of the Trident|died]].|Jorah Mormont to Daenerys Targaryen|Walk of Punishment (episode)}}{{Quote|It's tempting to see your enemies as evil, all of them, but there is good and evil on both sides of every war ever fought|Jorah advises [[Daenerys Targaryen|Daenerys]] on war.|Mockingbird}} 
+
+{{Dialogue a-b-a-b-a|Jorah Mormont|Forgive me. I never meant--please, Khaleesi, forgive me.|Daenerys Targaryen|You sold my secrets to the man who killed my father and stole my brother's throne...|I have protected you, fought for you, killed for you...|...and you want me to forgive you!?|I have loved you.|Jorah begs Daenerys to forgive him for previously spying on her.|The Mountain and the Viper}}
+
+{{Quote|I'm taking you to the [[Daenerys Targaryen|queen]].|Jorah abducts [[Tyrion Lannister]]|High Sparrow (episode)}}
+
+{{Quote|Tyrion Lannister was right. I love you. I'll always love you. Goodbye, khaleesi.|Jorah confesses his love for Daenerys before leaving her due to his greyscale|The Door}}
+
+{{Quote|I'm hurt.|Jorah's last words, to Daenerys.|The Long Night}}
+
+===Spoken about Jorah===
+{{Dialogue a-b-a-b|Varys|No rumor, my lord. The princess is with child.|Eddard|Based on whose information?|Ser Jorah Mormont. He is serving as advisor to the Targaryens.|Mormont? You bring us the whispers of a traitor, half a world away, and call it fact?|Varys and Eddard Stark about Jorah's information of Daenerys.|The Wolf and the Lion}}
+
+{{Dialogue a-b|Petyr|Jorah Mormont's a slaver, not a traitor. Small difference, I know, to an honorable man.|Eddard|He broke the law, betrayed his family, fled our land. We commit murder on the word of this man?|Petyr Baelish and Eddard Stark|The Wolf and the Lion}}
+
+{{Quote|You'll never be alone with [[Daenerys Targaryen|her]] again.|[[Barristan Selmy]] after discovering that Jorah had previously spied on Daenerys.|The Mountain and the Viper}}
+
+{{Quote|Love? Love!? How can you say that to me? Any other man and I would have you executed, but you, I don't want you in my city dead or alive. Go back to your masters in King's Landing, collect your pardon if you can.|Daenerys to Jorah|The Mountain and the Viper}}
+
+{{Quote|Don't ''ever'' presume to touch me again or speak my name. You have until dusk to collect your things and leave this city. If you are found in Meereen past break of day, I'll have your head thrown into Slaver's Bay. Go...''now''.|Daenerys to Jorah|The Mountain and the Viper}}
+
+{{Quote|Whomever Ser Jorah was when he started informing on you, he is no longer that man. I can't remember ever seeing a sane man as devoted to anything as he is to serving you. He claims he would kill for you and die for you, and nothing I have witnessed gives me reason to doubt him....and yet, he ''did'' betray you....he worships you. He is in love with you, I think. But he did not trust you with the truth; an unpleasant truth, to be sure, but one of great significance to you. He did not trust that you would be wise enough to forgive him.|[[Tyrion Lannister]]'s thoughts on Jorah while conversing with [[Daenerys Targaryen]].|Hardhome (episode)}}
+
+{{Quote|I banished you twice. You came back to me twice.|Daenerys to Jorah|The Door}}
+
+{{Dialogue a-b|Jon Snow|I didn't know Ser Jorah well, but I know this. If he could have chosen a way to die, it would have been protecting you.|Daenerys Targaryen|He loved me. And I couldn't love him back. Not the way he wanted.|Jon and Daenerys discuss Jorah after his death.|The Last of the Starks}}
+
+==Family==
+{{Mormont tree}}
+
+==Behind the scenes==
+*[[James Embree]] was a stunt double for [[Iain Glen]] in the role of Jorah Mormont.
+*In an interview published a few months after the end of the series, screenwriter [[Dave Hill]] revealed that the original script had a different ending, for Ser Jorah: after surviving the battle against the White Walkers, he would have followed Daenerys to King's Landing, but just like Tyrion, he would have been horrified by the destruction she would have caused. With the woman he loved killed for good and nothing else to live for, both in the newly founded [[Six Kingdoms]] or [[North|Kingdom of North]], he would have joined the Night's Watch alongside [[Jon Snow]]. Ultimately, however, it was decided that his death was necessary in order to justify Daenerys' descent into madness. In the same interview, Iain Glen himself stated that he thought it was better for Ser Jorah to die protecting the woman he loved than to witness the atrocities she would commit<ref>https://time.com/5594836/game-of-thrones-season-8-jorah-lives/</ref><ref>https://ew.com/tv/2019/05/23/game-of-thrones-character-survive/</ref>.
+
+==In the books==
+[[File:Roman Papsuev - Jorah Mormont.png|thumb|300px|right|Jorah Mormont by Roman "Amok" Papsuev.©]]
+In the ''[[A Song of Ice and Fire]]'' novels, Jorah is described as balding and hairy but still fit, though "not a handsome man." He is the son of Lord Jeor Mormont of Bear Island.
+
+Jorah is not a POV character in the novels; his actions are witnessed and interpreted through the eyes of Daenerys (in the first three novels) and Tyrion.
+
+Jorah won honor in the [[Greyjoy Rebellion]] when he was one of the first through the breach during the storming of [[Pyke]]. For his valor, he won praise from King [[Robert Baratheon]] and a [[knighthood]]. With a strong, vigorous son ready to take over the lordship, Jeor decided to join the [[Night's Watch]], where he rapidly rose to the rank of [[Lord Commander of the Night's Watch|Lord Commander]], leaving Jorah as [[Lord of Bear Island]]. Jorah found the island quite suitable for him, and never lacked for women; he had his share of fishwives and crofter's daughters, before and after he was first wed.
+
+Jorah's first wife was an unnamed woman of [[House Glover]], who was unable to carry a child to term in ten years of marriage and died after a third miscarriage. Jorah describes her as a plain-faced woman, but not unkind. He came to love her after a fashion, though their relations were dutiful rather than passionate. She has not been referred to in the TV series.
+
+Jorah later married Lynesse Hightower, of the extremely powerful [[House Hightower]] of [[Oldtown]], after winning a tournament to celebrate the victory of King Robert against the [[Greyjoy Rebellion]] in which Jorah wore Lynesse's favor. Lynesse was used to the riches and luxury of the second-largest city in [[Westeros]] and found Bear Island primitive and crude. Jorah's attempts to please his wife led to him spending all of his money. He disgraced himself through behavior unbefitting a lord by arresting poachers and selling them to slavers. Slavery is illegal in the Seven Kingdoms and has been for millennia. When [[Eddard Stark]] came to arrest Jorah, he and Lynesse fled across the [[Narrow Sea]] to the [[Free Cities|Free City]] of [[Lys]], leaving his aunt Maege to become the ruling Lady of Bear Island. Jorah attempted to make his living as a sellsword but was unable to provide an income acceptable to Lynesse. She left him and became a concubine to the merchant lord Tregar Ormollen, who then exiled Jorah from the city.
+
+Daenerys learns of Jorah's past spying for [[Varys]] earlier in the book narrative, before she conquers Meereen. Ser Barristan initially conceals his true identity from her, claiming to be a squire named Arstan Whitebeard (this storyline was omitted from the TV series) and when he finally reveals himself, he also tells her of Jorah's treachery, which Barristan knew from attending Robert's [[Small Council]] meetings (in the series, Barristan was not a member of the Small Council, and thus he knew nothing of Jorah's spying). She initially dismisses both and assigns them a suicide mission to conquer Meereen by entering the city via its sewers. To her surprise and disappointment, both survive the mission and help her capture the city.
+
+She forgives Ser Barristan and re-admits him into her service. She intends to pardon Jorah too, but is angered by his attitude: he remains defensive and lacks contrition when she thinks he ought to be begging for her forgiveness, so she dismisses him although she fights back tears as she does so. Daenerys tells Jorah that if she sees him again, she will order Strong Belwas (who does not appear in the TV series) to wrench his head off. [[Daario Naharis]] offers to kill Jorah for her but Daenerys decides to spare him and he is allowed to leave the city. Daario warns that it would have been wiser to kill Jorah or otherwise keep him close.
+
+There is no mentioning in the books that Jorah ever served in the [[Golden Company]], though it is said that after Lynesse left him he scraped by as a sellsword for years until he came to Pentos to spy on the Targaryens. At first, he fought as a sellsword for Lys but after Lynesse's new lover exiled him from the city, he drifted to [[Volantis]] where he spent the better part of a year working as a sellsword and owning nothing but his sword.
+
+Jorah is never attacked by Stone Men or infected with Greyscale. Instead, Tyrion was attacked by Stone Men earlier in his journey, in the ruins of Chroyane instead of Valyria. It is a man named Griff (actually, the presumed-dead [[Jon Connington]]), one of Tyrion's companions at the time, who gets infected with Greyscale instead.
+
+Jorah, Tyrion, and their dwarf companion Penny board a ship at Volantis, heading for Qarth. The ship is badly damaged in a storm. After drifting for at least nineteen days, slavers from Yunkai appear. Tyrion and all the rest of the passengers yield without fight, but Jorah resists fiercely and kills three of the slavers before he is overcome. As a result, the slavers treat him much more harshly than their other captives: he is chained to an oar, beaten within an inch of his life, starved and branded with a tattoo of demon's mask on one cheek. His face becomes so bruised and swollen, that he is almost unrecognizable. Although Jorah has treated Tyrion very brutally, Tyrion takes no pleasure from Jorah's miseries.
+
+The slavers who capture Jorah and Tyrion have no idea who Jorah is. He is introduced by the auctioneer simply as "big and strong" man. He is nearly bought by Zahrina for the fighting pits, but Tyrion intervenes and persuades the overseer of Yezzan's slaves to buy Jorah too, claiming that he takes part in the show that Tyrion and Penny play for entertainment. Jorah does not try to escape or resist his captors; he simply ignores their commands with muttered curses, so he is locked in a cage and beaten severely every evening to the point that he hardly looks human. He is kept naked except for a breechclout, a filthy bit of yellow rag. He never gets to see Daenerys, let alone speak with her, and she has no idea he is nearby.
+
+Following Daenerys's departure from Meereen, Tyrion, Jorah and Penny escape from Yezzan to the camp of the Second Sons, who betrayed Daenerys and joined the Yunkai. Brown Ben Plumm, the company leader, is astonished to see Jorah. He accepts them to the company.
+
+During the [[Second siege of Meereen#In the books|battle between Yunkai and the defenders of Meereen]], Jorah tries to persuade the Second Sons to switch sides. He promises that "Find her hostages [Daario, Hero and Jhogo] and free them. And I will swear on the honor of my house and home that this was Brown Ben's plan from the beginning." One of the sellswords says that it is for Ben Plumm to say. Shortly afterwards, a messenger arrives to deliver new orders. Suddenly he recognizes Tyrion as an escaped slave of Yezzan and orders surrender him. Jorah responds by killing the messenger.
+
+By the point the books reached, Jorah is still alive.
+
+Jeor Mormont, in his last breath, told Sam Tarly: "Tell my son. Jorah. Tell him, take the black. My wish. Dying wish. Tell Jorah. Forgive him. My son. Please." So far in the novels, Jorah has not been informed about his father's death and his last wish.
+
+According to the TV series official [[pronunciation guide]] developed for the cast and crew, "Jorah Mormont" is pronounced "JOR-uh MORE-mont."
+
+==Gallery==
+<gallery>
+JorahGiftToDaenerysSeason1.PNG|[[File:Jorah Mormont...jpg|thumb]]Jorah brings Khaleesi gifts at her wedding in "[[Winter Is Coming]]".
+Flatlands.jpg|Jorah rides along side Khalessi and the [[Dothraki]] in "[[The Kingsroad]]"
+Daenerys 1x03.png|Jorah stays be Khaleesi's side, "[[Lord Snow]]", Season 1.
+Jorah and Rakharo 1x03.jpg|Jorah and [[Rakharo]] in "[[Lord Snow]]".
+Jorah and Viserys.jpg|Jorah and [[Viserys Targaryen (son of Aerys II)|Viserys Targaryen]] in "[[A Golden Crown]]".
+Jorah Main.jpg|Ser Jorah in season 2
+Dany-jorah-market.png|Jorah accompanies Khaleesi into the market in [[Vaes Dothrak]], episode "[[You Win or You Die]]"
+Daenerys.png|Jorah carries Dany in "[[Baelor]]".
+Dany-awake.png|Jorah must tell Dany about [[Rhaego]].
+Jorah & Daenerys 1x10.png|Jorah and Dany in "[[Fire and Blood]]".
+Jorah 1x03.png|Jorah riding with Drogo's ''khalasar'' in "[[Lord Snow]]."
+Jorah 2x02.jpg|Jorah in [[Game of Thrones: Season 2|Season 2]]
+Jorah discovers Rakharo.jpg|Jorah discovers that Rakharo has been killed in the Red Waste.
+Daenerys & Irri 2x02.png|Jorah, Daenerys, and Irri in the Red Waste.
+Daenerys 2x05.png|Jorah joins Dany in [[Qarth]]
+Dany & Jorah 2x10.jpeg|A promotional image of [[Daenerys Targaryen]] and Jorah Mormont in "[[Valar Morghulis]]."
+Daenerys and Jorah 2x08.png|Dany entrusts Jorah to find her dragons, [[Game of Thrones: Season 2|Season 2]].
+Daenerys and Jorah 2x08.jpg|Jorah begs Dany to leave Qarth [[Game of Thrones: Season 2|Season 2]]
+Daenerys, Jorah and dragons 2x10.jpg|Jorah, Dany and her dragons
+Jorah 2x10.jpg|Jorah in "[[Valar Morghulis]]" Season 2
+Dany Drogon Jorah S3 Ep1.jpg|Jorah looks upon the dragons, "[[Valar Dohaeris]]" [[Game of Thrones: Season 3|Season 3]]
+Dany jorah selmy 3x03.jpg|Jorah and [[Barristan Selmy]] are by Dany's side when Warfare is upon them, "[[Walk of Punishment (episode)|Walk of Punishment]]".
+Battle of Yunkai.jpg|Jorah fights in the [[battle in Yunkai]]
+Season 3 Ep 4 Dany.png|Jorah joins Dany, Barristan, [[Missandei]] and [[Grey Worm]], "[[And Now His Watch Is Ended]]"
+Dany and Dragons S3E7.jpg|Jorah stands close while Dany offers a parlay in "[[The Bear and the Maiden Fair (episode)|The Bear and the Maiden Fair]]"
+Mhysa Dany Jorah finale.png|Jorah hears the [[Yunkai]] crowd call for Dany.
+DanyJorahExile.png|Dany must exile/banish Jorah after she finds out he is a spy in [[Game of Thrones: Season 4|Season 4]], "[[The Mountain and the Viper]]"
+Season4-GOT-SerJorahposter.jpg|Promotional image for Jorah in [[Game of Thrones: Season 4|Season 4]].
+5x05-Jorah-Stonemen-fight.jpg|Jorah fights off the Stone Men in "[[Kill the Boy]]"
+Empty cages.jpg|Daenerys wants Ser Jorah to find her dragons in "[[A Man Without Honor]]".
+Dany decision.png|Jorah is there when Dany ascends to queen of [[Meereen]], Season 4
+Jorah leaves meeren.png|Jorah leaves [[Meereen]]
+Unbowed, Unbent, Unbroken 04.jpg|Jorah confides in Tyrion he has [[Greyscale]], in "[[Unbowed, Unbent, Unbroken]]" [[Game of Thrones: Season 5|Season 5]].
+Jorahandtyrion-s5e3.jpg|Jorah kidnaps [[Tyrion Lannister]] to bring to Dany, [[Game of Thrones: Season 5|Season 5]].
+Jorahandtyrion-s5e6.jpg|Jorah and Tyrion find themselves in trouble [[Game of Thrones: Season 5|Season 5]].
+Tyrion-jorah-s5e8.jpg|Jorah and Tyrion, Season 5
+Jorah-s5e8.jpg|Jorah fights in the great pit [[Game of Thrones: Season 5|Season 5]].
+The Gift promo.jpg|Jorah prepares to battle in the hopes of regaining Dany's trust, in "[[The Gift]]", [[Game of Thrones: Season 5|Season 5]].
+Mother’s Mercy 01.jpg|Jorah, Tyrion and [[Daario Naharis]] in "[[Mother's Mercy]]", Season 5.
+Game-of-Thrones-Season-6-Episode-1-Daario-and-Jorah.png|[[Game of Thrones: Season 6|Season 6]], "[[The Red Woman]]".
+Book of the Stranger 16.jpg|Jorah and Darrio work to free Dany, [[Game of Thrones: Season 6|Season 6]].
+Book of the Stranger 34.jpg|Jorah watches Dany walk through the flames to free herself from a burning building, [[Game of Thrones: Season 6|Season 6]], "[[Book of the Stranger]]"
+The Door 35.jpg|Jorah must admit to Dany he has Greyscale, [[Game of Thrones: Season 6|Season 6]].
+Jorah-Stormbrn.jpg|Jorah seeks treatment at [[The Citadel]] {{*}} [[Game of Thrones: Season 7|Season 7]].
+Sam helps Jorah Stormborn.jpg|Jorah gets help from [[Samwell Tarly]] at the Citadel.
+Jorah returns.jpg|After being cured, Jorah returns to his queen and friend, [[Game of Thrones: Season 7|Season 7]].
+Dany and Jorah Eastwatch.jpg|Dany must let Jorah go on his mission to get a Wight, [[Game of Thrones: Season 7|Season 7]], "[[Eastwatch]]".
+File:Jorah_must_leave_to_capture_a_wight.jpg|Jorah shows his devotion by kissing the Queen's hands, "[[Eastwatch]]".
+706-Jorah-Jon-Longclaw.jpg|Jorah tells Jon to keep [[Longclaw]], his father's sword, as it was a gift to him.
+706-Sandor-Jorah-wight.jpg|Jorah assists and capturing a [[wight]].
+Beyond-the-Wall-Jorah.jpg|Jorah, "[[Beyond the Wall (episode)|Beyond the Wall]]", Season 7.
+707 Jorah at Meeting.png|Jorah at the [[Dragonpit]] to discuss the future of mankind, [[Game of Thrones: Season 7|Season 7]].
+Season-8-8.jpg|Jorah with Dany in [[Game of Thrones: Season 8|Season 8]].
+Iain-Glen-Jorah-Mormont-Winter-Town-Season-8-801.jpg|Jorah arrives at [[Winterfell]].
+Daenerys-and-Jorah-S8-Promo.png|Joran remains close to Dany always.
+File:Varys_&_Jorah_EW_S8_Cover.jpg|Season 8 EW promo
+File:Winterfell_episode_dany_and_Jorah_confront_sam.png|Jorah remains by Dany's side when she must tell the truth about Randyll and Dickon Tarly to Sam.
+</gallery>
+
+==Appearances==
+{{Scroll box|
+*{{GOT|Pilot}} {{Unreleased}} {{Nc}}
+*{{GOT|Winter Is Coming}}
+*{{GOT|The Kingsroad}}
+*{{GOT|Lord Snow}}
+*{{GOT|Cripples, Bastards, and Broken Things}}
+*{{GOT|The Wolf and the Lion}} {{Mentioned}}
+*{{GOT|A Golden Crown}}
+*{{GOT|You Win or You Die}}
+*{{GOT|The Pointy End}}
+*{{GOT|Baelor}}
+*{{GOT|Fire and Blood}}
+*{{GOT|The North Remembers}}
+*{{GOT|The Night Lands}}
+*{{GOT|Garden of Bones}}
+*{{GOT|The Ghost of Harrenhal}}
+*{{GOT|A Man Without Honor}}
+*{{GOT|The Prince of Winterfell}}
+*{{GOT|Valar Morghulis}}
+*{{H&L|Greyjoy Rebellion - Robb Stark}} {{Illustrated}}
+*{{H&L|The Free Cities}} {{Voice}}
+*{{GOT|Valar Dohaeris}}
+*{{GOT|Walk of Punishment}}
+*{{GOT|And Now His Watch Is Ended}}
+*{{GOT|Kissed by Fire}}
+*{{GOT|The Bear and the Maiden Fair}}
+*{{GOT|Second Sons}}
+*{{GOT|The Rains of Castamere}}
+*{{GOT|Mhysa}}
+*{{H&L|Battle of Qohor}} {{Voice}}
+*{{H&L|Old Ghis & Slaver's Bay}} {{Voice}}
+*{{H&L|Lord of Light}} {{Illustrated}}
+*{{GOT|Two Swords}}
+*{{GOT|Breaker of Chains}}
+*{{GOT|Oathkeeper}}
+*{{GOT|First of His Name}}
+*{{GOT|The Laws of Gods and Men}}
+*{{GOT|Mockingbird}}
+*{{GOT|The Mountain and the Viper}}
+*{{H&L|Valyrian Steel}} {{Voice}}
+*{{GOT|High Sparrow}}
+*{{GOT|Sons of the Harpy}}
+*{{GOT|Kill the Boy}}
+*{{GOT|Unbowed, Unbent, Unbroken}}
+*{{GOT|The Gift}}
+*{{GOT|Hardhome}}
+*{{GOT|The Dance of Dragons}}
+*{{GOT|Mother's Mercy}}
+*{{GOT|The Red Woman}}
+*{{GOT|Book of the Stranger}}
+*{{GOT|The Door}}
+*{{H&L|Vaes Dothrak}} {{Voice}}
+*{{H&L|The Dothraki}} {{Voice}}
+*{{GOT|Dragonstone}}
+*{{GOT|Stormborn}}
+*{{GOT|The Queen's Justice}}
+*{{GOT|Eastwatch}}
+*{{GOT|The Spoils of War}}
+*{{GOT|The Dragon and the Wolf}}
+*{{H&L|The Golden Company}} {{Voice}}
+*{{GOT|Winterfell}}
+*{{GOT|A Knight of the Seven Kingdoms}}
+*{{GOT|The Long Night}}
+*{{GOT|The Last of the Starks}} {{Corpse}}
+}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+*{{HBO|game-of-thrones/cast-and-crew/jorah-mormont}}
+*{{WP}}
+
+<!--Succession box-->
+{{S-start}}
+{{Succession box
+ | title  = [[Lord of Bear Island]]
+ | years  = 
+ | with   = 
+ | before = [[Jeor Mormont]]
+ | after  = [[Maege Mormont]]
+}}
+{{S-end}}
+
+<!--Navboxes-->
+{{House Mormont}}
+{{House Targaryen}}
+{{Queensguard of Daenerys Targaryen}}
+{{Game of Thrones}}
+{{Histories & Lore}}
+
+<!--Categories-->
+{{DEFAULTSORT:Mormont, Jorah}}
+[[Category:Bannermen of House Stark]]
+[[Category:Exiles]]
+[[Category:Golden Company]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Individuals narrating Histories & Lore]]
+[[Category:Knights]]
+[[Category:Little birds]]
+[[Category:Lords of Bear Island|Jorah Mormont]]
+[[Category:Members of House Mormont|Jorah Mormont]]
+[[Category:Northmen]]
+[[Category:Queensguard of Daenerys Targaryen]]
+[[Category:Slaves and freedmen]]
+[[Category:Victims of greyscale]]
+
+<!--Languages-->
+[[de:Jorah Mormont]]
+[[es:Jorah Mormont/Game of Thrones]]
+[[fr:Jorah Mormont]]
+[[it:Jorah Mormont]]
+[[ja:ジョラー・モーモント]]
+[[lt:Jorah Mormont]]
+[[nl:Jorah Mormont]]
+[[pl:Jorah Mormont]]
+[[pt-br:Jorah Mormont]]
+[[ro:Jorah Mormont (serial)]]
+[[ru:Джорах Мормонт]]
+[[uk:Джорах Мормонт]]
+[[zh:乔拉·莫尔蒙]]

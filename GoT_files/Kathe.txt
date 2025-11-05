@@ -1,0 +1,49 @@
+{{Canonicity|Non}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Ghiscari
+| Image       = 
+| Birth       = 
+| Death       = [[303 AC]]{{Dateref|Game of Thrones: Season 6}} in [[Meereen]]<br>Stabbed in the back by a [[Sons of the Harpy|Son of the Harpy]]
+| House       = 
+| Affiliation = [[Great Masters]] {{C|[[Slavery|slave]]}}
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 6|6]]
+| Appearances = "[[Battle of the Bastards (episode)|Battle of the Bastards]]" {{Script}}
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Kathe''' was a freed [[Slavery|slave]] of [[Meereen]].
+
+==Behind the scenes==
+Kathe appears in the [https://storyfactory.uk/wp-content/uploads/2019/05/Game-of-Thrones-S06E09-Battle-Of-The-Bastards.pdf script] for "[[Battle of the Bastards (episode)|Battle of the Bastards]]," in the scene where the [[Sons of the Harpy]] are massacring escaping freedmen at the gate of Meereen.{{Scriptref|GOT609}} She does not appear in the filmed version.{{Ref|GOT609}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no character named Kathe.
+
+==Appearances==
+*{{GOT|Battle of the Bastards}} {{Script}} {{Nc}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Categories-->
+[[Category:Individuals from Game of Thrones]]
+[[Category:Slaves and freedmen]]

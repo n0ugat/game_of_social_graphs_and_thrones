@@ -1,0 +1,65 @@
+{{Canonicity|Canon}}
+{{Distinguish|Jon Snow}}
+{{Heraldry
+| Image = House Stark.svg
+| Link  = House Stark
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Stark
+| Image       = 
+| Birth       = At [[Winterfell]]
+| Death       = 
+| House       = [[House Stark|Stark]]
+| Affiliation = 
+| Titles      = [[King in the North]]
+| Predecessor = 
+| Successor   = {[[Rickard Stark (son of Jon)|Rickard Stark]]}
+| AKA         = 
+| Culture     = [[Northmen|Northern]]
+| Religion    = [[Old Gods]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = {[[Rickard Stark (son of Jon)|Rickard Stark]]}
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+King '''Jon Stark''' was a [[King in the North]] of [[House Stark]].
+
+==Biography==
+Jon drove pirates out of the [[White Knife]] and claimed the eastern coast of the [[North]] for the Starks.{{Ref|H&L304}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Jon Stark built a castle, the Wolf's Den, along the White Knife after taking it from the pirates there, and was succeeded by his son, Rickard.
+
+==Appearances==
+*{{H&L|House Bolton}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Stark}}
+{{Kings of Westeros}}
+
+<!--Categories-->
+{{DEFAULTSORT:Stark, Jon}}
+[[Category:Individuals from Histories & Lore]]
+[[Category:Kings in the North|Jon Stark]]
+[[Category:Members of House Stark|Jon Stark]]
+[[Category:Northmen]]
+
+<!--Languages-->
+[[fr:Jon Stark]]
+[[ru:Джон Старк]]

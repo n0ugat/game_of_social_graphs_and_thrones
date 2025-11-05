@@ -1,0 +1,30 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Jodie Saunders.jpg
+| Birth   = Jodie Marie Saunders-Gray
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = 2 episodes {{Below|Credits}}
+| First   = "[[King of the Narrow Sea (episode)|King of the Narrow Sea]]"
+| Last    = 
+}}
+'''Jodie Marie Saunders-Gray''' is a stuntwoman and actress.
+
+In ''[[House of the Dragon]]'', she was a stunt performer in the [[House of the Dragon: Season 1|first season]] episodes "[[King of the Narrow Sea (episode)|King of the Narrow Sea]]" and "[[The Green Council]]".
+
+==Credits==
+===Stunts===
+{{House of the Dragon: Season 1||||yes|||||yes}}
+
+==See also==
+*{{IMDb
+|# = 7603895}}
+*{{Instagram
+|# = jodinabina}}
+*{{Facebook
+|# = JodeMarieSaunders}}
+{{DEFAULTSORT:Saunders, Jodie}}
+[[Category:Stunt performers of House of the Dragon]]

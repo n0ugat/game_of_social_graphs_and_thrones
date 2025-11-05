@@ -1,0 +1,51 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Lannister
+| Image       = Lannister Captain (Home).png
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[House Lannister]]
+| Titles      = Captain
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Westerlands|Westermen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 6|6]]
+| Appearances = "[[Home]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Richard Laing]]
+}}
+{{Dialogue a-b-a|Lannister captain|He would like you to remain in the Red Keep, Your Grace, for your own protection.|Cersei Lannister|You're barring me from attending my own daughter's funeral?|Forgive me, Your Grace, by the king's command, I cannot let you pass.|The captain to [[Cersei Lannister]]|Home}}
+A '''Lannister captain''' is ordered by King [[Tommen Baratheon]] to bar [[Cersei Lannister]] from going to [[Myrcella Baratheon|her daughter's]] funeral.
+
+==Biography==
+===[[Game of Thrones: Season 6|''Game of Thrones'': Season 6]]===
+When Cersei tries to go to her daugther's funeral, he and a small group of soldiers bars her from doing so, stating that the King ordered them to do so. When [[Gregor Clegane|Ser Gregor Clegane]] intimidates him with his size, the Lannister captain and his men prepared themselves to fight him, should he attack. However, Cersei acquiesces, and the Kingsguard escorts her back to her room, much to the relief of the Lannister captain and his men.{{Ref|GOT602}}
+
+==Appearances==
+*{{GOT|Home}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House Lannister}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Men-at-arms]]
+[[Category:Servants and retainers of House Lannister]]
+[[Category:Westermen]]

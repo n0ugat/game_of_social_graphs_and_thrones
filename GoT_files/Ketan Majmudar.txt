@@ -1,0 +1,28 @@
+{{Person
+| Title   = Ketan Majmudar
+| Type    = Dragon
+| Image   = Ketan-Majmudar-Headshot-portrait.png
+| Birth   = 1971<br>London, England, United Kingdom
+| Death   = 
+| Role    = Household Targaryen Guard
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = 
+| First   = 
+| Last    = 
+}}
+'''Ketan Majmudar''' is an English actor.
+
+In ''[[House of the Dragon]]'', he played a Household Targaryen Guard.<ref>https://app.spotlight.com/7613-0160-2977</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb|#=9838395}}
+*{{Spotlight|#=7613-0160-2977}}
+*{{Twitter|#=ketan}}
+
+<!--Categories-->
+{{DEFAULTSORT:Majmudar, Ketan}}
+[[Category:Uncredited cast members of House of the Dragon]]

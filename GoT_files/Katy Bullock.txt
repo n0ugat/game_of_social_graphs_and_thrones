@@ -1,0 +1,42 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Katy Bullock.jpg
+| Birth   = Katy Bullock
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[Game of Thrones]]''<br>''[[House of the Dragon]]''
+| Season  = ''Game of Thrones'':<br>[[Game of Thrones: Season 8|8]]<br>''House of the Dragon'':<br>[[House of the Dragon: Season 2|2]]
+| Credits = 3 episodes {{Below|Credits}}
+| First   = "[[The Long Night]]"
+| Last    = 
+}}
+'''Katy Bullock''' is an stuntwoman.
+
+In ''[[Game of Thrones]]'', she was a stunt performer in the [[Game of Thrones: Season 8|eighth season]] episodes "[[The Long Night]]" and "[[The Bells]]".
+
+In ''[[House of the Dragon]]'', she was a stunt performer in the [[House of the Dragon: Season 2|second season]] episode "[[The Red Sowing]]".
+
+==Credits==
+===Stunts===
+====''[[Game of Thrones]]''====
+{{Game of Thrones: Season 8|||yes||yes}}
+
+====''[[House of the Dragon]]''====
+{{House of the Dragon: Season 2|||||||yes}}
+
+==See also==
+*{{IMDb
+|# = 5611972}}
+*{{Twitter
+|# = katybullock169}}
+*{{Instagram
+|# = katybullock}}
+*{{Linkedin
+|# = /in/katy-bullock-12346074}}
+
+==References==
+{{reflist}}
+{{DEFAULTSORT:Bullock, Katy}}
+[[Category:Stunt performers of Game of Thrones]]
+[[Category:Stunt performers of House of the Dragon]]

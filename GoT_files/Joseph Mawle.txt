@@ -1,0 +1,37 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Joseph-mawle-empire-awards-2016-01.jpg
+| Birth   = Joseph Daniel Turner Mawle<br>March 21, 1974 {{Age|1974|3|21}}<br>Oxford, England
+| Death   = 
+| Role    = [[Benjen Stark]]
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 1|1]] {{*}} [[Game of Thrones: Season 6|6]] {{*}} [[Game of Thrones: Season 7|7]]
+| Credits = 6 episodes {{Below|Credits}}
+| First   = "[[Winter Is Coming]]"
+| Last    = "[[Beyond the Wall (episode)|Beyond the Wall]]"
+}}
+'''Joseph Daniel Turner Mawle''' (born 21 March 1974) is a British actor, best known for his portrayal of [[wikipedia:Jesus Christ|Jesus]] in ''[[wikipedia:The Passion (TV serial)|The Passion]]''. He has appeared in the television series ''[[wikipedia:Red Riding|Red Riding]]'' and ''[[wikipedia:Merlin (TV series)|Merlin]]''. In 2012 he appeared in the BBC adaptation of ''[[wikipedia:Birdsong (TV serial)|Birdsong]]'' as World War I sapper Jack Firebrace, and in 2013 he appeared as DI Jedediah Shine in ''[http://en.wikipedia.org/wiki/Ripper_Street Ripper Street]''.
+
+In ''[[Game of Thrones]],'' Mawle plays the role of [[Benjen Stark]]. He was confirmed in the role on 20 October 2009.
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 1|yes|yes|yes}}
+{{Game of Thrones: Season 6||||||yes||||yes}}
+{{Game of Thrones: Season 7||||||yes}}
+
+==See also==
+*{{WP}}
+*{{Template:IMDb
+|# = 1152798}}
+* [http://www.josephmawle.com/ Joseph Mawle's official website.]
+
+{{Stub}}
+
+
+[[de:Joseph Mawle]]
+[[fr:Joseph Mawle]]
+[[ru:Джозеф Моул]]
+{{DEFAULTSORT:Mawle, Joseph}}
+[[Category:Guest starring cast members of Game of Thrones]]

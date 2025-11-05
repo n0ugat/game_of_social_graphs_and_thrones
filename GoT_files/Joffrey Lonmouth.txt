@@ -1,0 +1,79 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Velaryon
+| Image       = Joffrey Lonmouth Official Guide.jpg
+| Birth       = [[86-95 AC]]{{Dateref|Joffrey Lonmouth}}
+| Death       = [[116 AC]]{{Dateref|We Light the Way}} (aged 21-30)<br>[[Throne room]], [[King's Landing]]{{Ref|HOTD105}}
+| House       = [[House Lonmouth|Lonmouth]]{{Ref|HOTD105}}
+| Affiliation = [[House Velaryon]]{{Ref|HOTD105}}
+| Titles      = [[Knighthood|Ser]]{{Ref|HOTD105}}
+| AKA         = The Knight of Kisses{{Ref|HOTD105}}
+| Culture     = [[Stormlands|Stormlander]]{{Guideref|Joffrey Lonmouth}}
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = [[Laenor Velaryon]]{{Ref|HOTD105}}
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 1|1]]
+| Appearances = 2 episodes {{Below|Appearances}}
+| First       = "[[Second of His Name]]"
+| Last        = "[[We Light the Way]]"
+| DeathEp     = "We Light the Way"
+| Actor       = [[Solly McLeod]]
+}}
+{{Quote|Ser Joffrey Lonmouth, or the Knight of Kisses, they call me, though I don't know why.|Joffrey Lonmouth|We Light the Way}}
+Ser '''Joffrey Lonmouth''', called the '''Knight of Kisses''', was a [[Knighthood|knight]] of [[House Lonmouth]] and a [[Knighthood#Types of knights|sworn sword]] of [[House Velaryon]].
+
+==Biography==
+===Background===
+Joffrey is from the [[Stormlands]]. He is a companion and lover of Ser [[Laenor Velaryon]].{{Guideref|Joffrey Lonmouth}}
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+[[File:SOHN Vaemond Laenor Joffrey Corlys.jpg|left|thumb|[[Vaemond Velaryon|Ser Vaemond]], [[Laenor Velaryon|Ser Laenor]], [[Joffrey Velaryon|Ser Joffrey]] and [[Corlys Velaryon|Lord Corlys]] in the [[War for the Stepstones]].]]Joffrey is on the Velaryon war council during the [[siege of Bloodstone]]. He announces the return of [[Caraxes]] and [[Daemon Targaryen]]. He later pulls Daemon away when the prince almost beats a messenger to death. Later fights and helps defeat the Triarchy.{{Ref|HOTD103}} 
+
+Following their victory in the [[Stepstones]], he returned to [[Driftmark]].[[File:WLTW Joffrey and Laenor Still.jpg|thumb|Joffrey and Laenor.]]
+
+In [[116 AC]],{{Dateref|We Light the Way}}while he is sparring with [[Laenor Velaryon|Laenor]], Joffrey witness King [[Viserys I Targaryen]] arriving at [[High Tide]] to formalize a marriage pact with [[House Velaryon]]. In the dunes near the beach of Driftmark, Laenor relays the agreement reached between him and [[Rhaenyra Targaryen|Rhaenyra]], Joffrey chides Laenor for being worried, as pleased with the agreement. 
+
+He joins the [[House Velaryon|Velaryons]] in sailing to King's Landing to attend the celebrations. At the wedding of Laenor and Rhaenyra, he gossips with Laenor and shares that he has deduced that Rhaenyra has a secret lover of her own: Ser [[Criston Cole]] of the [[Kingsguard]]. Joffrey later proposes to Criston, to keep each other's affairs secret, unaware of the breakdown of Criston and Rhaenyra's relationship. Criston Cole starts a fight with Joffrey and beats him to death. Laenor tries to intervene but his pushed away by Criston, after Criston is comes to his senses and departs, Laenor cries at the sight of his dead body.{{Ref|HOTD105}}
+
+Laenor names [[Joffrey Velaryon]] in honor of his deceased lover.{{Ref|HOTD106}}
+==In the books==
+In ''[[Fire & Blood]]'', Joffrey Lonmouth is a knight of House Lonmouth, and the favorite companion of Laenor Velaryon, of whom he was rumored to be a lover. He is known as the Knight of Kisses on account of the heraldry of his house: Quartered of six: red lips strewn on a yellow field, yellow skulls strewn on a black field.
+
+Joffrey competed in a tournament during the wedding celebrations of Laenor and Rhaenyra. He rode as Laenor's champion, while [[Harwin Strong]] rode as Rhaenyra's. Ser Criston Cole, furious that Rhaenyra bestowed her garter on Ser Harwin instead of him, took it out on the other competitors, especially Joffrey: he mercilessly used his morningstar on Joffrey, cracking his helm and leaving him senseless. According to Mushroom, Laenor did not leave Joffrey's bedside, and wept bitterly when he died six days afterwards.
+
+==Appearances==
+*{{HOTD|Second of His Name}}
+*{{HOTD|We Light the Way}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+*{{TOG|character-guide#joffrey-lonmouth}}
+
+<!--Navboxes-->
+{{House Lonmouth/House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Lonmouth, Joffrey}}
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Knights]]
+[[Category:Members of House Lonmouth|Joffrey Lonmouth]]
+[[Category:Servants and retainers of House Velaryon]]
+[[Category:Stormlanders]]
+
+<!--Languages-->
+[[de:Gottfrid Lonmund]]
+[[es:Joffrey Lonmouth/House of the Dragon]]
+[[fr:Joffrey Lonbec]]
+[[ru:Джоффри Лонмаут]]

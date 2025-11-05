@@ -1,0 +1,86 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Free
+| Image       = Lady Crane.png
+| Birth       = 
+| Death       = [[303 AC]]{{Dateref|Game of Thrones: Season 6}}<br>[[Braavos]]{{Ref|GOT608}}
+| House       = 
+| Affiliation = [[Izembaro]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = Braavosi
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 6|6]]
+| Appearances = 3 episodes {{Below|Appearances}}
+| First       = "[[The Door]]"
+| Last        = "[[No One]]"
+| DeathEp     = "No One"
+| Actor       = [[Essie Davis]]
+}}
+{{Quote|I do what I can with what I'm given.|Crane on [[Izembaro]]'s scripting|Blood of My Blood}}
+'''Lady Crane''' was the leading mummer in [[Izembaro]]'s [[Braavos]]i theater troupe.
+
+==Biography==
+===Background===
+Lady Crane is an elegant, fun, charismatic, rum-drinking mummer in Izembaro's traveling theater company. She portrays [[Cersei Lannister|Cersei]] in the play ''[[The Bloody Hand]]''.<ref>http://gameofthrones.com/game-of-thrones/season-6/episode-5/people/217/lady-crane</ref>
+
+===[[Game of Thrones: Season 6|''Game of Thrones'': Season 6]]===
+[[File:The Door 23.jpg|thumb|200px|Crane portraying Cersei Lannister in the play.]]
+[[Jaqen H'ghar]] tasks [[Arya Stark|Arya]] with assassinating Lady Crane for a client. To prepare, Arya watches the play, where Crane is playing Cersei. When she goes backstage, she discovers Crane playfully flirting with [[Bobono]], the dwarf mummer portraying [[Tyrion Lannister|Tyrion]]. When she overhears that Crane is the only member of the troupe to drink rum, Arya plans on poisoning it. Jaqen refuses to tell Arya who has paid for Crane's death, but she suspects [[Bianca]], a younger and less talented mummer portraying [[Sansa Stark|Sansa]]. Despite her misgivings over Crane being a decent person, she promises to go through with the assassination.{{Ref|GOT605}}
+
+After their third performance of the play, Lady Crane runs into Arya backstage. The two converse about the theater life, Crane explaining how she ran away from home to join the theater and escape her poor home life. She asks Arya's opinion of the play and later tries to express her own opinions among the group, but is shot down by her peers. As she goes to drink some of the poisoned rum, Arya rushes in and stops her, telling her to watch out for Bianca.{{Ref|GOT606}}
+
+[[File:No one lady crane.jpg|thumb|200px|Crane tends to Arya's wounds.]]
+Later, after taking the advice of Arya on-stage and being angry at "[[Joffrey Baratheon|Joffrey]]"'s death instead of just sad, she finds the girl badly injured, having been stabbed by the [[Waif]]. She cares for Arya, dressing her wounds, feeding her, and giving her [[milk of the poppy]]. However, the Waif finds them both the next morning, kills Lady Crane in a brief tussle resulting in the latter's slit throat, and then proceeds to chase Arya once more. Lady Crane's death is later avenged by Arya, who successfully kills the Waif in her hideout.{{Ref|GOT608}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the character is named Lady Stork. Arya has not been assigned to kill her as of the last published material. She is the leading mummer in Izembaro's theater troupe in Braavos. Just as in the show, she is a heavy drinker and portrays Cersei in the troupe's current performance.
+
+It is possible that the character's name was changed due to the similarity between "Stork" and "Stark." However, book readers may find the change to "Lady Crane" confusing, as there is a House Crane of Red Lake in the novels, located in the [[Reach]]. However, House Crane has not been alluded to on the show, and there is nothing to indicate that she is a noblewoman from Westeros.
+
+==Gallery==
+<gallery>
+The Door 27.jpg|Lady Crane alongside [[Izembaro]] during the play ''[[The Bloody Hand]]'' in "[[The Door]]".
+The Door 31.jpg|''The Bloody Hand'' theater seen from a distance in "The Door".
+The Door 32.jpg|Lady Crane and [[Clarenzo]] portraying their roles during ''The Bloody Hand'' play in "The Door".
+Play-Prince-Joffrey-and-Lady-Crane-in-Game-of-Thrones-Season-6-Episode-6-Blood-of-My-Blood-630x420.jpg|Lady Crane while portraying Cersei in "[[Blood of My Blood]]".
+Blood of My Blood 05.jpg|Lady Crane in "Blood of My Blood".
+</gallery>
+
+==Appearances==
+*{{GOT|The Door}}
+*{{GOT|Blood of My Blood}}
+*{{GOT|No One}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|Lady Stork}}
+*{{HBO|game-of-thrones/cast-and-crew/lady-crane}}
+
+<!--Categories-->
+{{DEFAULTSORT:Crane, Lady}}
+[[Category:Braavosi]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Mummers]]
+
+<!--Languages-->
+[[de:Lady Crane]]
+[[es:Lady Stork/Game of Thrones]]
+[[fr:Lady Cigogne]]
+[[ro:Lady Crane]]
+[[ru:Леди Крейн]]

@@ -1,0 +1,49 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Dalt.svg
+| Link  = House Dalt
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Martell
+| Image        = Lemonwood Pin.png
+| Type         = Castle
+| Status       = 
+| Location     = [[Dorne]], [[Westeros]]
+| Population   = 
+| Rulers       = [[House Dalt]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+{{Quote|Wild lemons on a purple field: House Dalt of Lemonwood.|[[Podrick Payne]]|Two Swords}}
+'''Lemonwood'''{{Ref|GOT401}} is a castle in [[Dorne]], the region controlled by [[House Martell]] of [[Sunspear]], and the seat of [[House Dalt]]. The castle is located on the east coast of Dorne, south of the mouth of the [[Greenblood]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Lemonwood is the seat of [[House Dalt]], loyal vassals of the Martells. It lies just south of the Planky Town.
+
+==Appearances==
+*{{GOT|Two Swords}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Dorne}}
+
+<!--Categories-->
+[[Category:Castles of Dorne]]
+[[Category:House Dalt]]
+
+<!--Languages-->
+[[de:Zitronenhain]]
+[[es:Limonar]]
+[[nl:Citroenwoud]]
+[[pl:Cytrynowy Las]]
+[[ru:Лимонная Роща]]
+[[zh:柠檬林]]

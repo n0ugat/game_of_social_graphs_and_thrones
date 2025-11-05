@@ -1,0 +1,37 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Junade Khan.jpg 
+| Birth   = January 14, 1982 {{Age|1982|1|14}}<br>Sheffield, South Yorkshire, England
+| Death   = 
+| Role    = [[Moro's bloodrider 2|Moro's bloodrider]]
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 6|6]]
+| Credits = 3 episodes {{Below|Credits}}
+| First   = "[[The Red Woman]]"
+| Last    = "[[Book of the Stranger]]"
+}}
+'''Junade Khan''' (born 1982) is an actor. He has appeared in television series such as ''{{WPS|Coronation Street}}'', ''{{WPS|Hollyoaks}}'' and ''{{WPS|Waking the Dead}}''.
+
+In ''[[Game of Thrones]]'', he portrayed one of [[Moro's bloodrider 2|Moro's bloodriders]] in the sixth season.<ref>https://www.imdb.com/name/nm2999602/</ref>
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 6|yes||yes|yes}}
+
+==See also==
+*{{IMDb
+|# = 2999602}}
+*{{Twitter
+|# = junadekhanactor}}
+*{{Instagram
+|# = junadekhanactor}}
+*{{Facebook
+|# = junade.khan.94}}
+*{{Linkedin
+|# = /in/junade-khan-399091aa}}
+
+== References ==
+{{Reflist}}
+{{DEFAULTSORT:Khan, Junade}}
+[[Category:Guest starring cast members of Game of Thrones]]

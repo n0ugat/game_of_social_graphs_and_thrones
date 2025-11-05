@@ -1,0 +1,73 @@
+{{Canonicity|Canon}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Westeros
+| Part          = [[Aegon's Conquest]]
+| Image         = End of the Last Storm.png
+| Previous      = [[Burning of Harrenhal]]
+| Concurrent    = 
+| Next          = [[Field of Fire]]
+| Date          = [[2 BC]]{{Dateref|Aegon's Conquest}}
+| Place         = [[Storm's End]], the [[Stormlands]]
+| Outcome       = Targaryen victory
+*Death of King Argilac
+*Capitulation of the Stormlands
+*Ascension of Orys Baratheon as Lord Paramount of the Stormlands
+*Legal extinction of [[House Durrandon]]
+*Founding of [[House Baratheon]]
+| Factions1     = {{COA|House Targaryen|small}} '''[[House Targaryen]]'''
+| Factions2     = {{COA|House Durrandon|small}} '''[[Stormlands]]'''/[[House Durrandon]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = [[Orys Baratheon]]<br>{{COA|House Targaryen|inline}} [[King|Queen]] [[Rhaenys Targaryen (sister of Aegon I)|Rhaenys Targaryen]]
+| Leaders2      = {{COA|House Durrandon|inline}} [[Storm King|King]] [[Argilac Durrandon]] †<br>{{COA|House Durrandon|inline}} [[Storm King|Queen]] [[Argella Baratheon|Argella Durrandon]]
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = Unknown
+| Participants2 = Unknown; nearly twice the Targaryen host
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = Unknown
+| Casualties2   = Heavy
+*King Argilac
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Quote|Argilac and his men charged and the Baratheon line broke, revealing Queen Rhaenys and Meraxes. Argilac's vanguard burst into flame and his men panicked. The victory charge fell into chaos and Argilac himself was thrown from his horse, but he didn't yield. When Orys Baratheon arrived, he found the old king holding off half-a-dozen men, another half-dozen dead at his feet. Orys dismounted to meet the king on equal footing and offered Argilac one final chance to yield. Argilac cursed him instead. As the storm raged around them, the grizzled old warrior and the bearded upstart fought for life and kingdom. In the end, Argilac got his wish; he died sword in hand.|[[Varys]]|House Durrandon, the Storm Kings}}
+The '''Last Storm'''{{Ref|C&R04}} was a major battle in [[Aegon's Conquest]]. [[Aegon I Targaryen|Aegon the Conqueror]] sent his commander and rumored bastard half-brother [[Orys Baratheon]], to conquer the [[Stormlands]]. The Stormlands were under the control of [[Argilac Durrandon|Argilac the Arrogant]] of [[House Durrandon]], the [[Storm King]].
+
+Even though the massive walls of [[Storm's End]] provided protection against Orys and his army, Argilac decided to meet them in open battle after hearing about how Aegon Targaryen's dragon [[Balerion]] destroyed [[Harrenhal]]. Orys Baratheon and the Targaryen army were victorious and Argilac was killed.
+
+As a reward for the victory, Aegon legitimized Orys Baratheon and named him [[Lord Paramount of the Stormlands]]. To cement his rule, Orys took Argilac's daughter, [[Argella Baratheon|Argella]], as his wife. He also took both the sigil (a black stag on yellow), and [[House words|words]] ("Ours is the Fury") of House Durrandon as his own: thus, [[House Baratheon]] was founded.<ref>"[[House Baratheon (short)|House Baratheon]]"</ref><ref>"[[The Stormlands]]"</ref>
+
+==In the books==
+Argilac Durrandon was said to be arrogant for engaging the Targaryens in open battle rather than withstanding a siege in the infamously impregnable castle of Storm's End. However, Argilac was motivated in this after having heard of the death of [[Harren Hoare]] in similar circumstances at [[Harrenhal]], who prepared for a siege in his immense castle only for Aegon and his dragon to fly right over the walls. If Argilac resisted a siege by Orys it would only be a matter of time until the Targaryens directed their dragons towards Storm's End. Wishing to avoid this fate, Argilac met Orys Baratheon in pitched battle. It is possible that Argilac knew he couldn't win, but simply wanted the dignity of dying while fighting, not burned out of his castle like a rat.
+
+Orys' army suffered a defeat on the march to Storm's End but was able to recover with minimal losses and continue on. Orys was accompanied by Aegon's sister-wife [[Rhaenys Targaryen (sister of Aegon I)|Rhaenys]] and her dragon [[Meraxes]], though because Rhaenys was not as militaristic as her sister Visenya or as skilled as a general, Orys remained in command of their army.
+
+Despite Aegon's success at Harrenhal, the battle against Argilac the Arrogant was grueling: he had the sense to sally forth to attack during one of the frequent lightning storms which blew in from [[Shipbreaker Bay]], during which it was too dangerous for Meraxes to fly. Orys was outnumbered two-to-one, and at one point was outflanked, that is until Rhaenys plugged the gap while riding Meraxes on the ground - while being denied the advantage of flight, the dragon still proved to be formidable, even while on the ground, and King Argilac was thrown off his horse. The battle culminated when the Storm King faced Orys in single combat and was killed by the latter.
+
+Afterwards Argilac's daughter Argella barred the gates of Storm's End. Having proclaimed herself as the Storm Queen, she vowed to fight on, however, she was betrayed by her followers and was handed over to Orys naked and in chains. Orys treated her with courtesy, freeing and feeding her, and accepted her surrender. Orys later married Argella to cement his control over the Stormlands, and in the process founded House Baratheon.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Wars of Conquest}}
+
+<!--Categories-->
+[[Category:2 BC]]
+[[Category:Aegon's Conquest]]
+[[Category:Battles]]
+
+<!--Languages-->
+[[de:Letzter Sturm]]
+[[fr:Dernier Orage]]
+[[ru:Последний Шторм]]

@@ -1,0 +1,70 @@
+{{Canonicity|Non}}
+{{Heraldry
+| Leftimage  = House Cerwyn.svg
+| Leftlink   = House Cerwyn
+| Rightimage = House Umber.svg
+| Rightlink  = House Umber
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Stark
+| Image       = Umber lineage.jpg
+| Birth       = Katrina Cerwyn<br>At [[Castle Cerwyn]]
+| Death       = 
+| House       = [[House Cerwyn|Cerwyn]]<br>[[House Umber|Umber]] {{C|by marriage}}
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Northmen|Northern]]
+| Religion    = [[Old Gods]]
+| Father      = {[[Cleos Umber]]}
+| Mother      = {[[Vivian Cerwyn]]}
+| Spouse      = {[[Joseth Umber]]}
+| Lovers      = 
+| Children    = {[[Maynard Umber]]}<br>{[[Cedric Umber]]}
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Katrina Umber''', née '''Cerwyn''', was a member of [[House Cerwyn]].
+
+==Biography==
+===Background===
+Katrina was born to [[Cleos Umber]] and [[Vivian Cerwyn]] and married [[Joseth Umber]], with whom she had two children.{{Ref|GOT104}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+She is mentioned in ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]''.{{Ref|GOT104}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no such character.
+
+==Appearances==
+*{{GOT|Cripples, Bastards, and Broken Things}} {{Text}}
+*{{GOT|A Golden Crown}} {{Text}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House Cerwyn}}
+{{House Umber}}
+
+<!--Categories-->
+{{DEFAULTSORT:Umber, Katrina}}
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Members of House Cerwyn|Katrina Umber]]
+[[Category:Members of House Umber|Katrina Umber]]
+[[Category:Northmen]]
+
+<!--Languages-->
+[[de:Katrina Umber]]
+[[es:Katrina Cerwyn]]
+[[fr:Katrina Omble]]
+[[ru:Катрина Амбер]]

@@ -1,0 +1,34 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = John-Paul Hurley.jpg
+| Birth   = January 1974 {{Age|1974|1|31}}<br>Denaby Main, South Yorkshire, England
+| Death   = 
+| Role    = [[Lord Darry]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]]
+| Credits = 2 episodes {{Below|Credits}}
+| First   = "[[Regent (episode)|Regent]]"
+| Last    = 
+}}
+'''John-Paul Hurley''' (born January 1974) is an English actor.
+
+Hurley plays [[Lord Darry]] in the [[House of the Dragon: Season 2|second season]] of ''[[House of the Dragon]]''.<ref>https://twitter.com/RedanianIntel/status/1661758007825317888?s=20</ref>
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 2|||||yes||yes}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb|#=0403461}}
+*{{Spotlight|#=9515-4505-5679}}
+
+<!--Categories-->
+{{DEFAULTSORT:Hurley, John-Paul}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:John-Paul Hurley]]

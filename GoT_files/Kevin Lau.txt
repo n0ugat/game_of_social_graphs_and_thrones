@@ -1,0 +1,38 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Kevin Lau.jpg
+| Birth   = Los Angeles County, California, United States
+| Death   = 
+| Role    = Producer<br>Writer
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = 10 episodes {{Below|Credits}}
+| First   = "[[The Heirs of the Dragon]]"
+| Last    = 
+}}
+'''Kevin Lau''' is an American screenwriter and director. He is a producer and member of the writing staff on ''[[House of the Dragon]]'' for its [[House of the Dragon: Season 1|first season]].
+
+==Biography==
+Kevin Lau's first full writing credit was for one episode of the 2017 Western drama ''Damnation'', which ran for one season of ten episodes. He went on to work on several high-profile HBO projects, becoming a staff writer as well as story editor on both ''Lovecraft Country'' (2020) and ''The Nevers'' (2021). Before the airing of ''House of the Dragon'', Lau was a Supervising Producer on the fourth season of ''Westworld'' (2022).
+
+==Credits==
+===Producer===
+*{{HOTD|Season 1}}
+
+===Writer===
+{{House of the Dragon: Season 1|||||||yes}}
+
+==See also==
+*{{Template:IMDb|# = 1879398}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+{{DEFAULTSORT:Lau, Kevin}}
+[[Category:Producers of House of the Dragon]]
+[[Category:Writers of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Kevin Lau]]

@@ -1,0 +1,66 @@
+{{Canonicity|Non}}
+{{Heraldry
+| Image = House Karstark.svg
+| Link  = House Karstark
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Stark
+| Image       = Umber lineage.jpg
+| Birth       = At [[Karhold]]
+| Death       = 
+| House       = [[House Karstark|Karstark]]
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Northmen|Northern]]
+| Religion    = [[Old Gods]]
+| Father      = {[[Tommard Karstark]]}
+| Mother      = {[[Regan Karstark|Regan Umber]]}
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = {[[Berrican Karstark]]}<br>{[[Uthor Karstark]]}<br>{[[Petyr Karstark]]}<br>{[[Jon Karstark]]}
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Wedded on her seventeenth nameday to Tommard Karstark, Third of His Name, son of Lord Beric Karstark and Lady Mara Karstark at Karhold. Mother to five sons, their names being: Berrican, Uthor, Petyr, Jon and Laurence. |Excerpt from ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]''|Cripples, Bastards, and Broken Things}}
+'''Laurence Karstark''' was a member of [[House Karstark]].
+
+==Biography==
+===Background===
+Laurence Karstark was the fifthborn son of [[Tommard Karstark]] and his wife, [[Regan Karstark|Regan]].{{Ref|GOT104}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+He has an entry in ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]''.{{Ref|GOT104}}
+
+==In the books==
+Laurence Karstark is referenced only in the TV adaptation of ''A Song of Ice and Fire'' and has no corresponding counterpart in the books.
+
+==Appearances==
+*{{GOT|Cripples, Bastards, and Broken Things}} {{Text}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House Karstark}}
+
+<!--Categories-->
+{{DEFAULTSORT:Karstark, Laurence}}
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Members of House Karstark|Laurence Karstark]]
+[[Category:Northmen]]
+
+<!--Languages-->
+[[de:Laurence Karstark]]
+[[es:Laurence Karstark]]
+[[fr:Laurence Karstark]]
+[[ru:Лоренс Карстарк]]

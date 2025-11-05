@@ -1,0 +1,32 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Kenneth Collard.jpg
+| Birth   = Rinteln, Lower Saxony, West Germany
+| Death   = 
+| Role    = [[Forrest Frey]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]]
+| Credits = "[[Regent (episode)|Regent]]"
+| First   = 
+| Last    = 
+}}
+'''Kenneth Collard''' is a German-born British actor. He has appeared in the films ''{{WPS|Tormented (2009 British film)|Tormented}}'', ''{{WPS|Ironclad (film)|Ironclad}}'', ''{{WPS|Albatross (2011 film)|Albatross}}'', ''{{WPS|Albert Nobbs}}'', ''{{WPS|Anna Karenina (2012 film)|Anna Karenina}}'', ''{{WPS|Muppets Most Wanted}}'', ''{{WPS|She Will (film)|She Will}}'' and ''{{WPS|Dungeons & Dragons: Honor Among Thieves}}'' and the  television series ''{{WPS|Life of Riley (British TV series)|Life of Riley}}'', ''{{WPS|The Tudors}}'', ''{{WPS|The Borgias (2011 TV series)|The Borgias}}'', ''{{WPS|Fresh Meat (TV series)|Fresh Meat}}'', ''{{WPS|Skins (British TV series)|Skins}}'', ''{{WPS|Dirk Gently (TV series)|Dirk Gently}}'', ''{{WPS|Episodes (TV series)|Episodes}}'', ''{{WPS|My Mad Fat Diary}}'', ''{{WPS|Pramface}}'', ''{{WPS|Will (TV series)|Will}}'', ''{{WPS|Cuckoo (TV series)|Cuckoo}}'', ''{{WPS|Bad Education (TV series)|Bad Education}}'', ''{{WPS|Black Mirror}}'', ''{{WPS|Father Brown (2013 TV series)|Father Brown}}'' and ''{{WPS|The Regime (miniseries)|The Regime}}''.
+
+Collard plays [[Forrest Frey]] in the [[House of the Dragon: Season 2|second season]] of ''[[House of the Dragon]]''.
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 2|||||yes}}
+
+==External links==
+*{{IMDb|# = 0171674}}
+*{{Twitter|# = kennethcollard}}
+*{{Instagram|# = thehourofthedog}}
+
+<!--Categories-->
+{{DEFAULTSORT:Collard, Kenneth}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Kenneth Collard]]

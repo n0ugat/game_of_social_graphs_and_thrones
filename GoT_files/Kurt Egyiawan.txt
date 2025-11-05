@@ -1,0 +1,41 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Kurt Egyiawan.webp
+| Birth   = 
+| Death   = 
+| Role    = [[Orwyle]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]] {{*}} [[House of the Dragon: Season 2|2]] {{*}} [[House of the Dragon: Season 3|3]]
+| Credits = 14 episodes {{Below|Credits}}
+| First   = "[[We Light the Way]]"
+| Last    = 
+}}
+'''Kurt Egyiawan''' is an English actor.
+
+In ''[[House of the Dragon]]'', he portrayed [[Orwyle]].<ref>https://pressroom.warnermedia.com/us/bio/house-dragon-character-descriptions</ref>
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1|||||yes|yes||yes|yes|yes}}
+
+===Starring===
+{{House of the Dragon: Season 2|yes|yes|yes|yes|yes|yes|yes|yes}}
+{{House of the Dragon: Season 3||||yes}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb|#=5339326}}
+
+<!--Navboxes-->
+{{House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Egyiawan, Kurt}}
+[[Category:Starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[de:Kurt Egyiawan]]
+[[fr:Kurt Egyiawan]]

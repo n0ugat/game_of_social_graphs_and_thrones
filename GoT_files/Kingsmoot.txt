@@ -1,0 +1,45 @@
+{{Canonicity|Canon}}
+{{SameName|Ironborn custom|short|The Kingsmoot}}
+{{Dialogue a-b-a|Aeron Greyjoy|The Salt Throne is not yours to swear upon, not unless the kingsmoot chooses you.|Yara Greyjoy|My father would have wanted me to rule!|Your father does not get to choose! The law is clear!|[[Aeron Greyjoy]] insists that the succession of the [[Iron Islands]] must be decided by a kingsmoot|Home}}
+[[File:H&L The Kingsmoot.png|thumb|The first Kingsmoot.]]
+The '''kingsmoot'''{{Ref|GOT602}} is an [[Ironborn]] custom and part of the traditions which they call the [[Old Way]]. Unlike regular lordships or the kings of the mainland, in past centuries the [[King of the Iron Islands]] was not a hereditary monarchy, but an [[Wikipedia:Elective monarchy|elective kingship]]: all the lords and ship captains of the [[Iron Islands]] would gather at an assembly known as a kingsmoot to hold an election for a new king from among their own numbers.
+
+==History==
+In the [[Iron Islands]], it is believed that every ship captain is essentially a king of his boat on the open sea.  If a captain is foolish or incompetent, he gets his men killed, so in ancient times the Ironborn came to accept that a captain could not hold his position without the consent of his crew - and by extension, that the petty kings of each of the islands (who were "captains" in a sense, and often admirals of their fleets).  These grew into "kingsmoot" elections, where all the lords and ship captains have a vote on who should be their next king, not simply letting the previous king's son inherit rule.<ref name=":0">[[The Kingsmoot]]</ref>
+
+Among the Ironborn, legend says that during the [[Dawn Age]], after the [[Grey King]] slew the sea dragon [[Nagga]] he unified the isles, but eventually died.  The Grey King's hundred sons then fought for rule until only sixteen were left, but found that their powers were too evenly matched to continue, so they agreed to arbitrate the matter by holding a vote on who should succeed as king.  Given that the Grey King was a legendary figure who is said to have warred with gods and monsters, some doubt that he or his sons ever existed.  But the fact remains that due to their harsh life at sea, the Ironborn developed a strong tradition that their kings must achieve their office through support of most of their subordinates, by means of voting in open elections.<ref name=":0" />
+
+After King [[Harren Hoare|Harren the Black]] and his sons were killed in [[Aegon's Conquest]], [[Aegon I Targaryen|Aegon the Conqueror]] had the Ironborn select a new house to rule the Iron Islands (under the overall rule of the Targaryens), according to their custom. The Ironborn chose [[Vickon Greyjoy]] as [[Lord of the Iron Islands]], and [[House Greyjoy]] continued to rule over the Ironborn by hereditary right for the next three centuries.<ref name=":0" />
+
+The Greyjoys continued to have symbolic kingsmoots ever since, but in truth it was little more than  empty ceremony.  After the Conquest, the Greyjoys functionally practiced the same rule-through-inheritance laws as the rest of Westeros, and these "kingsmoots" always picked the blood heir of the last leader - nor did they rule as "kings" but a regional Lord Paramount under the Targaryen kings.<ref name=":0" />
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, during a kingsmoot all captains may cast a vote to choose the new Iron King and any captain may put his name as candidate. kingsmoots are traditionally held on [[Nagga]]'s hill on [[Old Wyk]]. According to the book ''History of the Ironborn'' there hasn't been a kingsmoot in four thousand years, but according to ''Questions'', it has been two thousand years (the ''World of Ice and Fire'' sourcebook establishes that the maesters have used competing dating schema, and therefore differences of up to two thousand years between various sources are common). Some famous Iron Kings were chosen at a kingsmoot: Urras Ironfoot, Sylas Flatnose, Harrag Hoare (of [[House Hoare]]), and the Old Kraken (of [[House Greyjoy]]).
+
+Any ironborn may nominate himself, not necessarily royalty, even from a House which is regarded poorly in the eyes of the other ironborn (though the chances of a member of one of the weaker and less distinguished Houses tend to be lower). Women are not officially forbidden from participating in the kingsmoot, but the ironborn are not likely to choose a woman to rule them. The TV series stated that no woman has ever ruled over the ironborn: this hasn't been outright confirmed in the novels but seems strongly implied, given that no female ruler was ever mentioned (even over the vassal Houses on the isles).
+
+The nominee must give a stump speech to the assembled captains explaining why he is a better choice than the others: boast about his past accomplishments and his abilities, describe his future plans as a king (usually which parts of the world he intends to raid), and offer gifts to the crowd, the richer the better. This is not considered bribery but an expected part of the kingsmoot: logically, the man who has accumulated the most plunder to give out must be skilled at acquiring plunder, which means he will probably be the best candidate to direct all of the ironborn's raiding activities. Gifts of riches are expected and impressive but not necessarily required: sometimes kings were selected who had little wealth but were so impressive with their skills as warriors and military commanders that this swayed votes to their favor anyway, or if they promised to avenge some grievance, etc. The wise nominees would not speak first, but wait patiently till the less worthy candidates are rejected by the voters. The vote is performed by yelling the names of the candidates; whoever has more supporters is declared the winner by the officiating [[Drowned Men]].
+
+Once a candidate puts himself forth, he is bound to the kingsmoot decision. Only once in the history of the Iron Islands has the election been declared unlawful. When one king died, the king's brother called a kingsmoot while Torgon the Latecomer, the deceased king's son, was off at sea raiding. The king's brother hoped he would be elected in the son's absence, but the kingsmoot raised up Urragon Goodbrother, whose first act was to put all the present kin of the old king to death. Torgon returned two years later and claimed the kingsmoot was unlawful since he, the previous king's son, was not present to put forth his candidacy as was his right. Since Urragon was bloodthirsty and his cruelty made him many enemies, the [[Drowned Men|priests]] and ironborn denounced him and raised Torgon to be the new Iron King.
+
+The last Kingmoot was a bloodbath and took place centuries before the [[coming of the Andals]]. Urron Greyiron gathered his men and killed all the other attendees and set up the Greyiron dynasty, which lasted a thousand years until the arrival of the [[Andals]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Kings of the Iron Islands}}
+
+<!--Categories-->
+[[Category:Ironborn culture]]
+[[Category:Kingsmoots| ]]
+[[Category:Terms]]
+
+<!--Languages-->
+[[de:Königsthing]]
+[[fr:États généraux de la royauté]]
+[[pt-br:Assembleia de homens livres]]
+[[ru:Вече королей]]

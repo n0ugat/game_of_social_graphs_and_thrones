@@ -1,0 +1,70 @@
+{{Canonicity|Canon}}
+{{Region
+| Title      = {{PAGENAME}}
+| Theme      = Walker
+| Image      =
+<gallery>
+Walkerhorse3.png|Appearance
+Lands of Always Winter.png|Location
+</gallery>
+| Type       = Remote lands very far north of the [[Wall]]
+| Location   = [[Beyond the Wall]], [[Westeros]]
+| Geography  = Snow, ice, mountains
+| Population = None<br>[[Children of the Forest]] {{C|formerly; prehistoric times}}<br>[[White Walkers]] and [[wight]]s {{C|formerly}}<br>[[Free Folk]] {{C|formerly; some areas}}
+| Rulers     = 
+| Culture    = 
+| Religion   = 
+| Military   = 
+| Capital    = 
+| Castles    = 
+| Cities     = 
+| Towns      = 
+| Villages   = 
+| Places     = 
+| Founded    = 
+}}
+{{Quote|I've seen how the land stretches much farther than any man knows, into the Land of Always Winter where the White Walkers came from during the Long Night.|[[Jon Snow]]|The North}}
+The '''Land of Always Winter''',{{Ref|H&L212}} also called the '''Lands of Always Winter''',{{Guideref|Map of Westeros}} is a colloquial term referring to the north-most regions of the continent of [[Westeros]]. They are so-named as snow falls in these lands even in the warmest summers. The [[Free Folk|wildlings]] controlled some of this territory, but it also extends into subarctic wastelands that are inhospitable to human life. These lands are said to lie north of even the [[Haunted Forest]] and the [[Frozen Shore]], [[beyond the Wall]]. The land was not always so, having once been a lush, forested land inhabited by the [[Children of the Forest]] in ancient history which they used to perform rituals and turn a [[Night King|captured human]] into the first of the [[White Walkers]]. Thereafter, the land became an icy tundra, birthplace of the Walkers and their last stronghold to which they retreated after the [[Long Night|War for the Dawn]]. 
+
+==History==
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+[[File:LandsOfAlwaysWinter.jpg|thumb|180x180px|A White Walker rides through the frozen wasteland of the Land of Always Winter.]]
+A [[White Walker (Oathkeeper)|White Walker]] seizes the [[Craster's last son|last son]] of the [[Free Folk|wildling]] [[Craster]] and takes him all the way to the Land of Always Winter. There he is transformed into a White Walker by the Night King.<ref>"[[Oathkeeper (episode)|Oathkeeper]]"</ref>
+
+===[[Game of Thrones: Season 6|''Game of Thrones'': Season 6]]===
+[[Bran Stark]] and [[Brynden Rivers]] see the lands north of the Wall in a prehistoric period of time when they were green and inhabited by the Children of the Forest. Bran later sees the lands in the present day in a subsequent vision, where a massive army of wights and the [[Night King]] are stationed.
+
+===[[Game of Thrones: Season 7|''Game of Thrones'': Season 7]]===
+Bran [[warg]]s into a flight of [[raven]]s that fly over the Wall into the Land of Always Winter. Through the ravens, he sees the Army of the Dead: an army of Wights led by the White Walkers and the Night King, traveling south towards [[Eastwatch-by-the-Sea]].<ref>"[[Eastwatch]]"</ref>
+
+===[[Game of Thrones: Season 8|''Game of Thrones'': Season 8]]===
+After the [[Great War]] is over and the [[Night King]] and his [[Wight|army]] are destroyed, it is unknown what became of the Land of Always Winter. It is likely that it remained frozen and empty, as there are presumably no known living creatures that could survive there.
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the Land of Always Winter is mostly unexplored. It lies beyond the northern-most wildling kingdom, the land of the [[Thenns]] in the northern valleys of the [[Frostfangs]]. The wildlings believe that the White Walkers hail from this icy place, but even the northernmost wildling tribes have little if any knowledge of the region - as few who have ventured so far north have ever lived to tell about it, if only due to the deathly cold temperatures.
+
+==Appearances==
+*{{H&L|The North}} {{Mentioned}}
+*{{GOT|Oathkeeper}}
+*{{GOT|The Door}} {{Vision}}
+*{{GOT|Eastwatch}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Known world}}
+{{Beyond the Wall}}
+
+<!--Categories-->
+[[Category:Beyond the Wall]]
+[[Category:Regions]]
+
+<!--Languages-->
+[[de:Land des Ewigen Winters]]
+[[fr:Contrées de l'éternel hiver]]
+[[ru:Земли Вечной Зимы]]
+[[zh:永冬之地]]

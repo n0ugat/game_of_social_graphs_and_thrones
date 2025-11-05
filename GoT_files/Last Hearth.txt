@@ -1,0 +1,80 @@
+{{Canonicity|Canon}}
+{{MapNeeded}}
+{{Heraldry
+| Image = House Umber.svg
+| Link  = House Umber
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Stark
+| Image        = 801 Last Hearth.png
+| Type         = Castle
+| Status       = Abandoned
+| Location     = The [[North]], [[Westeros]]
+| Population   = 
+| Rulers       = {[[House Umber]]} {{C|formerly}}
+| Institutions = 
+| Military     = 
+| Religion     = [[Old Gods]]
+| Places       = 
+| Founded      = 
+}}
+{{Dialogue a-b|Bran|Will you know how to find the Last Hearth?|Osha|You Southerners build your big castles and you never move. You're easy to find.|[[Bran Stark]] and [[Osha]] before the latter leaves for the Last Hearth.|The Rains of Castamere (episode)}}
+'''Last Hearth''',{{Ref|GOT306}} also known as '''the Last Hearth''',{{Ref|GOT104}} is an abandoned castle in the [[North]], formerly the seat of [[House Umber]], a vassal house holding fealty to [[House Stark]] of [[Winterfell]]. It is located south of the [[Gift]], east of the [[Kingsroad]] and north of the [[Last River]].
+
+==History==
+===[[Game of Thrones: Season 3|''Game of Thrones'': Season 3]]===
+When [[Theon Greyjoy]] is being tortured by [[Ramsay Bolton|Ramsay Snow]], Ramsay forces Theon to play a guessing game of their location. Theon guesses Last Hearth, but is ultimately incorrect and after another wrong guess, Ramsay flays Theon's little finger.<ref>"[[The Climb]]"</ref>
+
+[[Bran Stark]] decides that he must go north of the [[Wall]] with [[Hodor]], [[Meera Reed|Meera]], and [[Jojen Reed]] and realizes that his younger brother [[Rickon Stark]] cannot go with him. To keep Rickon safe, he instructs him to leave with [[Osha]] and [[Shaggydog]] and attempt to reach the relative safety of Last Hearth.<ref>"[[The Rains of Castamere (episode)|The Rains of Castamere]]"</ref>
+
+===[[Game of Thrones: Season 7|''Game of Thrones'': Season 7]]===
+[[Greatjon Umber]] dies at some point during the [[War of the Five Kings]], and was later succeeded by his son, [[Smalljon Umber]], who is killed during the [[Battle of the Bastards]]. After Smalljon dies, Last Hearth passes to his son and heir, [[Ned Umber]]. [[Sansa Stark|Sansa]] advocates stripping both House Umber and [[House Karstark]] of their lands and titles for their treachery. However, [[Jon Snow|Jon]] refuses to punish Ned and [[Alys Karstark]] for their fathers' actions, and instead pardons the houses on the condition that Ned and Alys once more swearing fealty to House Stark. After reaffirming their loyalty, Ned and Alys retain their homes and titles.<ref>"[[Dragonstone (episode)|Dragonstone]]"</ref>
+
+As the furthest northern settlement in the North, Last Hearth will (as Jon Snow remarked) likely be the first obstacle in the path of the army of the dead, having penetrated the [[Wall]].
+
+===[[Game of Thrones: Season 8|''Game of Thrones'': Season 8]]===
+[[File:801 Last Hearth Courtyard.png|thumb|right|Tormund and Beric search a ravaged Last Hearth.]]
+Last Hearth, as the northernmost castle, [[Fall of Last Hearth|falls]] to the [[Night King]], the [[White Walkers]], and the [[Wight|army of the dead]] after they [[Breaching of the Wall|breach]] the [[Wall]]. In the aftermath of the slaughter, [[Tormund]], [[Beric Dondarrion]], and [[Eddison Tollett]] search Last Hearth, only to find it abandoned and ravaged. Inside, they find the corpse of [[Ned Umber]] impaled to a wall, surrounded by limbs forming the mysterious spiral symbol used by the White Walkers. Ned eventually wakes up as a wight and is quickly burned by Beric with his flaming sword.<ref name="E68">"[[Winterfell (Game of Thrones)|Winterfell]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the Last Hearth is the seat of House Umber.
+
+==Appearances==
+*{{GOT|The Climb}} {{Mentioned}}
+*{{GOT|The Rains of Castamere}} {{Mentioned}}
+*{{GOT|Kill the Boy}} {{Map}}
+*{{GOT|Dragonstone}} {{Indirect}}
+*{{GOT|Winterfell}}
+
+==Gallery==
+<gallery>
+505 Bolton map 1.jpg|Last Hearth on the [[House Bolton|Boltons]]' map in "[[Kill the Boy]]": the castle-seat that is closest to the [[Wall]].
+S8 Title Sequence Last Hearth.png|Last Hearth as it appears in the Season 8 title sequence.
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Umber}}
+{{North}}
+
+<!--Categories-->
+[[Category:Castles of the North]]
+[[Category:House Umber]]
+
+<!--Languages-->
+[[de:Letzter Herd]]
+[[es:Último Hogar]]
+[[fr:Âtre-lès-Confins]]
+[[it:Ultimo Focolare]]
+[[nl:Laatste Haard]]
+[[pl:Ostatnie Domostwo]]
+[[pt-br:Última Lareira]]
+[[ru:Последний Очаг]]
+[[uk:Останній Осередок]]
+[[zh:最后壁炉城]]

@@ -1,0 +1,66 @@
+{{DISPLAYTITLE:Joss {{C|A Golden Crown}}}}
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Character
+| Title       = Joss
+| Type        = Tully
+| Image       = Riverlands refugee.jpg
+| Birth       = In the [[Riverlands]]
+| Death       = 
+| House       = 
+| Affiliation = [[House Tully]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Riverlands|Rivermen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 1|1]]
+| Appearances = "[[A Golden Crown]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Niall Cusack]]
+}}
+{{Quote|They burned almost everything in the Riverlands. Our fields... our granaries... our homes! They took our women. Then they... took 'em again. When they was done them... butchered them as if they was animals. They covered... our children in pitch... and lit them on fire.|Joss recounts [[Gregor Clegane|Gregor Clegane's]] atrocities to [[Eddard Stark]].|A Golden Crown}}
+'''Joss'''{{Con|ASOIAF}} is a [[smallfolk|peasant]] from the [[Riverlands]].
+
+==Biography==
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+He attends court in [[King's Landing]] escorted by some bannermen of [[House Tully]] to report a series of brutal raids being carried out by [[Gregor Clegane]] in the [[Riverlands]]. He wears the sigil of [[House Tully]] on his sleeve. He brings a sack of dead fish that had been left by Clegane at the scene of his atrocities. [[Eddard Stark]] responds by stripping Clegane of his titles and ordering his execution.{{Ref|GOT106}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the handful of surviving [[smallfolk]] from the town of Sherrer are brought before the [[Iron Throne]] by a trio of knights from the Riverlands (Karyl Vance, Marq Piper, and Raymun Darry). The commoner who speaks directly to Ned Stark, and indicates that Gregor Clegane was responsible for the attack, is a brewer from Sherrer named Joss. The TV series credits only listed him as "Riverlands refugee", but it is clear which book character he was portraying.
+
+==Appearances==
+*{{GOT|A Golden Crown}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|Joss}}
+*{{AWOIAF|Raymun Darry}}
+*{{AWOIAF|Marq Piper}}
+*{{AWOIAF|Karyl Vance}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Rivermen]]
+[[Category:Smallfolk]]
+
+<!--Languages-->
+[[fr:Joss]]
+[[pt-br:Joss (Uma Coroa de Ouro)]]
+[[ru:Джосс]]
+[[zh:乔斯]]

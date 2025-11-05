@@ -1,0 +1,66 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Baratheon
+| Image       = Lady Fell.png
+| Birth       = 
+| Death       = 
+| House       = [[House Fell|Fell]]{{Ref|HOTD109}}
+| Affiliation = [[Blacks]]{{Ref|HOTD109}}
+| Titles      = 
+| AKA         = 
+| Culture     = [[Stormlands|Stormlander]]{{Ref|HOTD109}}
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 1|1]]
+| Appearances = "[[The Green Council]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Miriam Lucia]]
+}}
+{{Quote|House Fell keeps its sworn oath to the princess.|Lady Fell to Otto Hightower|The Green Council}}
+'''Lady Fell''' is the head of [[House Fell]] during the reign of [[Viserys I Targaryen|Viserys I]].
+
+==Biography==
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+[[Otto Hightower]] demands that the assembled lords in [[King's Landing]] swear that [[Aegon II Targaryen|Aegon II]] is the new king. Lady Fell is one of the three lords who refuse to betray their oaths to [[Rhaenyra Targaryen|Rhaenyra]]. She is shortly thereafter removed from the [[throne room]] along with [[Lord Merryweather]].{{Ref|HOTD109}}
+
+==In the books==
+In ''[[Fire & Blood]]'', Lady Fell was the Lady of Felwood and the head of House Fell during the reigns of kings Viserys I and Aegon II Targaryen. Her given name is unknown.
+
+Lady Fell was arrested and later beheaded for refusing to renounce Rhaenyra and swear allegiance to Aegon II. Her head was mounted on a spike above the gates of King's Landing, along with those of [[Lord Merryweather]] and [[Allun Caswell|Lord Caswell]].
+
+In the approved online roleplaying game ''Blood of Dragons'', she is named Alora Fell.
+
+==Appearances==
+*{{HOTD|The Green Council}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Fell}}
+
+<!--Categories-->
+{{DEFAULTSORT:Fell}}
+[[Category:Blacks]]
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Members of House Fell]]
+[[Category:Ruling ladies]]
+[[Category:Stormlanders]]
+
+<!--Languages-->
+[[es:Lady Fell/House of the Dragon]]
+[[fr:Lady Fell]]
+[[ru:Леди Фелл]]

@@ -1,0 +1,66 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = House Royce.svg
+| Link  = House Royce
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Royce
+| Image       = H&L 1x11 King's Landing.png
+| Birth       = [[Runestone]], the [[Vale of Arryn]]
+| Death       = [[281 AC]]{{Dateref|Robert's Rebellion}}<br>[[King's Landing]], the [[Crownlands]]
+| House       = [[House Royce|Royce]]
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Vale of Arryn|Valemen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Kyle Royce'''{{Con|ASOIAF}} was a companion of [[Brandon Stark]] in the time leading up to [[Robert's Rebellion]].
+
+==Biography==
+Kyle accompanied Brandon Stark to [[King's Landing]], demanding justice for the alleged kidnapping of Brandon's sister [[Lyanna Stark]] by Prince [[Rhaegar Targaryen]]. In response, King [[Aerys II Targaryen]] had them arrested and executed.{{Ref|H&L111}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Kyle Royce's background and fate are the same.
+
+==Appearances==
+*{{H&L|Mad King Aerys - House Baratheon}} {{Illustrated}}
+*{{H&L|Mad King Aerys - House Stark}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Royce}}
+
+<!--Categories-->
+{{DEFAULTSORT:Royce, Kyle}}
+[[Category:Individuals from Histories & Lore]]
+[[Category:Members of House Royce|Kyle Royce]]
+[[Category:Valemen]]
+
+<!--Languages-->
+[[ru:Кайл Ройс]]

@@ -1,0 +1,26 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = 
+| Birth   = 
+| Death   = 
+| Role    = Producer
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = 
+| First   = 
+| Last    = 
+}}
+'''Karen Wacker''' is a production manager and producer. She is a producer on the [[House of the Dragon: Season 1|first season]] of ''[[House of the Dragon]]''.
+
+==Credits==
+===Producer===
+*{{HOTD|Season 1}}
+
+==See also==
+*{{IMDb|#=1103687}}
+
+{{DEFAULTSORT:Wacker, Karen}}
+[[Category:Producers of House of the Dragon]]
+
+[[fr:Karen Wacker]]

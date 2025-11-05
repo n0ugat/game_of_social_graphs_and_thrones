@@ -1,0 +1,25 @@
+{{Crew
+|Image = Katrina Gelfand.jpg
+|dateofbirth = April 1, 1994
+|birthplace = {{WPS|Riverside, California}}, {{WPS|United States of America}}
+|job = Stunt Performer
+|imdb = http://www.imdb.com/name/nm8343739}}
+'''Katrina Michelle Gelfand''' (born April 1, 1994) is an American stuntwoman and actress.
+
+In ''[[Game of Thrones]]'', she was a stunt performer in the [[Game of Thrones: Season 8|eighth season]] episode "[[The Bells]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 8|||||yes}}
+
+==See also==
+*{{IMDb
+|# = 8343739}}
+*{{Facebook
+|# = katrina.gelfand}}
+*{{Linkedin
+|# = /in/katrina-gelfand-0678571a3}}
+
+==References==
+{{reflist}}{{DEFAULTSORT:Gelfand, Katrina}}
+[[Category:Stunt performers of Game of Thrones]]

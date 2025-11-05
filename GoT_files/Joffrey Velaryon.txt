@@ -1,0 +1,116 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Leftimage  = House Velaryon.svg
+| Leftlink   = House Velaryon
+| Rightimage = House Targaryen.svg
+| Rightlink  = House Targaryen/House of the Dragon
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Velaryon
+| Image       = Joffrey Velaryon HotD.webp
+| Birth       = [[126 AC]]{{Dateref|The Princess and the Queen}} (age 6){{Dateref|House of the Dragon: Season 2}}<br>[[Red Keep]], [[King's Landing]]{{Ref|HOTD106}}
+| Death       = 
+| House       = [[House Velaryon|Velaryon]]{{Ref|HOTD105}}<br>[[House Targaryen/House of the Dragon|Targaryen]]{{Ref|HOTD106}}
+| Affiliation = [[Blacks]]{{Ref|HOTD106}}
+| Titles      = [[Prince]]
+| AKA         = 
+| Culture     = [[Valyrians|Valyrian]]{{Ref|HOTD106}}
+| Religion    = 
+| Father      = {[[Harwin Strong]]}{{Ref|HOTD106}} {{C|biological}}<br>[[Laenor Velaryon]]{{Ref|HOTD106}} {{C|legal}}
+| Mother      = [[Rhaenyra Targaryen]]{{Ref|HOTD106}}
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = [[Jacaerys Velaryon]]<br>{[[Lucerys Velaryon]]}
+----
+Maternal half-siblings:<br>[[Aegon Targaryen (son of Rhaenyra)|Aegon Targaryen]]<br>[[Viserys Targaryen (son of Rhaenyra)|Viserys Targaryen]]<br>{[[Visenya Targaryen (daughter of Rhaenyra)|Visenya Targaryen]]}
+| Arms        = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 1|1]] {{*}} [[House of the Dragon: Season 2|2]]
+| Appearances = 6 episodes {{Below|Appearances}}
+| First       = "[[The Princess and the Queen]]"
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Oscar Eskinazi]] {{C|Season 2}}
+}}
+{{Quote|Do keep trying, Ser Laenor. Soon or late, you may get one who looks like you.|Alicent Hightower to Laenor Velaryon upon inspecting the color of Joffrey's hair|The Princess and the Queen}}
+Prince '''Joffrey Velaryon''' is a [[prince]] of the [[House Targaryen/House of the Dragon|Targaryen dynasty]] and the third son of Princess [[Rhaenyra Targaryen]] and Ser [[Laenor Velaryon]]. He is bonded to the dragon [[Tyraxes]].
+
+==Biography==
+===Background===
+Joffrey is the youngest son of [[Rhaenyra Targaryen]] and [[Laenor Velaryon]]. He has two older brothers, Prince [[Jacaerys Velaryon]] and Prince [[Lucerys Velaryon]] and is presently second-in-line to succeed to the [[Iron Throne]]. Additionally, Joffrey becomes the heir to [[Driftmark]] after Lucerys is murdered at the start of the [[Dance of the Dragons]].
+
+Although presented as legitimate, Joffrey and his brothers are actually [[bastard]]s fathered by Ser [[Harwin Strong]]. He was named in honor of his putative father's deceased lover, Ser [[Joffrey Lonmouth]].{{Ref|HOTD106}}
+
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+Shortly after his birth, Queen [[Alicent Hightower]] summons Rhaenyra so she can see the baby. When she notices that Joffrey has brown hair like his brothers, and unlike his supposed father, Alicent quietly insults Laenor, telling him to "keep trying." He is relocated to Dragonstone, along with the rest of Rhaenyra's court.{{Ref|HOTD106}}
+
+In [[132 AC]],{{Dateref|The Lord of the Tides}} Joffrey is present when his [[Jacaerys Velaryon|older brother]] recites [[High Valyrian]] under the tutelage of Maester [[Gerardys]], he is entertained with a book by his mother's handmaid [[Elinda Massey]]. After [[Daemon Targaryen|Daemon]] arrives, he leaves the chamber with Elinda.{{Ref|HOTD108}}
+
+Joffrey witnesses the coronation of his mother at the funeral of his [[Visenya Targaryen (daughter of Rhaenyra)|half-sister]], he kneels alongside his brothers, after Rhaenyra is declared Queen.{{Ref|HOTD110}}
+
+===[[House of the Dragon: Season 2|''House of the Dragon'': Season 2]]===
+During the funeral of his brother [[Lucerys Velaryon]], he is held by his brother [[Jacaerys Velaryon]] and throws a toy horse, formerly in possession of his brother Lucerys, into the funeral pyre.{{Ref|HOTD201}}
+
+Rhaenyra sends Joffrey to the [[Eyrie]] following the attempted [[Duel on Dragonstone|assassination]] on her.{{Ref|HOTD203}}
+
+==Family==
+===Biological paternal===
+{{Strong tree}}
+
+===Legal paternal===
+{{Velaryon tree}}
+
+===Maternal===
+{{Targaryen tree (House of the Dragon)}}
+
+==In the books==
+In ''[[Fire & Blood]]'', Joffrey Velaryon was the third and youngest son of Princess [[Rhaenyra Targaryen]] and her husband, Ser [[Laenor Velaryon]]. He was named after his father's favorite companion, Ser [[Joffrey Lonmouth]]. He had brown hair, brown eyes, and a pug nose.
+
+==Appearances==
+*{{TDOD}} {{Illustrated}}
+*{{HOTD|The Princess and the Queen}}
+*{{HOTD|The Lord of the Tides}}
+*{{HOTD|The Green Council}} {{Indirect}}
+*{{HOTD|The Black Queen}}
+*{{HOTD|A Son for a Son}}
+*{{HOTD|The Burning Mill}}
+*{{HOTD|Smallfolk}}
+*{{HOTD|The Red Sowing}} {{Indirect}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+*{{TOG|character-guide#joffrey-velaryon}}
+
+<!--Navboxes-->
+{{House Velaryon}}
+{{House Targaryen/House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Velaryon, Joffrey}}
+[[Category:Bastards]]
+[[Category:Blacks]]
+[[Category:Crownlanders]]
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Individuals from The Dance of Dragons]]
+[[Category:Members of House Targaryen|Joffrey Velaryon]]
+[[Category:Members of House Velaryon|Joffrey Velaryon]]
+[[Category:Princes]]
+
+<!--Languages-->
+[[de:Gottfrid Velaryon]]
+[[es:Joffrey Velaryon/House of the Dragon]]
+[[fr:Joffrey Velaryon]]
+[[it:Joffrey Velaryon]]
+[[nl:Joffry Velaryon]]
+[[pl:Joffrey Velaryon]]
+[[ru:Джоффри Веларион]]
+[[uk:Джофрі Веларіон]]
+[[zh:J乔佛里·瓦列利安]]

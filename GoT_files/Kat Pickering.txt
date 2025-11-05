@@ -1,0 +1,33 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Kat Pickering.jpg
+| Birth   = Katharine Pickering
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]] {{*}} [[House of the Dragon: Season 2|2]]
+| Credits = 2 episodes {{Below|Credits}}
+| First   = "[[Second of His Name]]"
+| Last    = 
+}}
+'''Katharine Pickering''' is a British professional stunt rider and trainer.
+
+In ''[[House of the Dragon]]'', she was a stunt performer in the [[House of the Dragon: Season 1|first season]] episode "[[Second of His Name]]" and the [[House of the Dragon: Season 2|second season]] episode "[[The Red Sowing]]".
+
+==Credits==
+===Stunts===
+{{House of the Dragon: Season 1|||yes}}
+{{House of the Dragon: Season 2|||||||yes}}
+
+==See also==
+*{{IMDb
+|# = 11982665}}
+*{{Instagram
+|# = kat_pickering_horses}}
+*{{Facebook
+|# =katpickeringhorses}}
+*{{YouTube
+|# = channel/UCWhatKefoA3nYUhHV9L1l6Q}}
+{{DEFAULTSORT:Pickering, Kat}}
+[[Category:Stunt performers of House of the Dragon]]

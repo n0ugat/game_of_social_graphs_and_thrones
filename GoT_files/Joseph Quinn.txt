@@ -1,0 +1,34 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Joseph Quinn.jpg
+| Birth   = January 26, 1994 {{Age|1994|1|26}}<br>London, England
+| Death   = 
+| Role    = [[Koner]]
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 7|7]]
+| Credits = "[[The Spoils of War]]"
+| First   = 
+| Last    = 
+}}
+'''Joseph Quinn''' is an English actor. He is known for his roles as {{WPS|Arthur Havisham}} in ''{{WPS|Dickensian (TV series)|Dickensian}}'' and {{WPS|Eddie Munson}} in ''{{WPS|Stranger Things}}''.
+
+In ''[[Game of Thrones]],'' he portrayed [[Koner]] in the [[Game of Thrones: Season 7|seventh season]].<ref>[http://watchersonthewall.com/two-new-actors-cast-game-thrones-season-7/ Watchers on the Wall - Two New Actors Cast for Game of Thrones Season 7]</ref>
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 7||||yes}}
+
+==See also==
+*{{IMDb
+|# = 4806449}}
+*{{Twitter
+|# = _joe_quinn}}
+
+==References==
+{{Reflist}}
+[[de:Joseph Quinn]]
+[[fr:Joseph Quinn]]
+[[ru:Джозеф Куинн]]
+{{DEFAULTSORT:Quinn, Joseph}}
+[[Category:Guest starring cast members of Game of Thrones]]

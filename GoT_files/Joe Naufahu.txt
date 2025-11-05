@@ -1,0 +1,34 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Joe Naufahu.jpg
+| Birth   = New Zealand
+| Death   = 
+| Role    = [[Moro]]
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 6|6]]
+| Credits = 3 episodes {{Below|Credits}}
+| First   = "[[The Red Woman]]"
+| Last    = "[[Book of the Stranger]]"
+}}
+'''Joe Naufahu''' is an actor from New Zealand.<ref>[http://www.hollywoodreporter.com/live-feed/game-thrones-emilia-clarke-season-884789 ]</ref> He is best known for his role in the TV series ''Spartacus: Vengeance''.
+
+In ''Game of Thrones'', he played ''[[Khal]]'' [[Moro]] in the [[Game of Thrones: Season 6|sixth season]].<ref>[http://watchersonthewall.com/joe-naufahus-game-of-thrones-role-revealed/ Watchers on the Wall — Joe Naufahu’s Game of Thrones role revealed!]</ref>
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 6|yes||yes|yes}}
+
+==See also==
+*{{IMDb
+|# = 0622533}}
+*{{Instagram|# = joenaufahu}}
+
+==References==
+{{reflist}}
+
+[[de:Joe Naufahu]]
+[[fr:Joseph Naufahu]]
+[[ru:Джо Нофаху]]
+{{DEFAULTSORT:Naufahu, Joe}}
+[[Category:Guest starring cast members of Game of Thrones]]

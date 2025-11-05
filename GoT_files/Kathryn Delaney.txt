@@ -1,0 +1,29 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Kathryn Delaney.jpg
+| Birth   = 
+| Death   = 
+| Role    = Wet nurse
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = "[[Second of His Name]]"
+| First   = 
+| Last    = 
+}}
+'''Kathryn Delaney''' is an actress. She has appeared in the television series ''{{WPS|Monroe (TV series)|Monroe}}''.
+
+In ''[[House of the Dragon]]'', she portrayed a wet nurse in the [[House of the Dragon: Season 1|first season]].
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1|||yes}}
+
+==See also==
+*{{IMDb|# = 5271822}}
+*{{Twitter|# = kathryndelaney2}}
+*{{Linkedin|# = /in/kathryn-delaney-23011538}}
+
+<!--Categories-->
+{{DEFAULTSORT:Delaney, Kathryn}}
+[[Category:Co-starring cast members of House of the Dragon]]

@@ -1,0 +1,77 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Leftimage  = House Stark.svg
+| Leftlink   = House Stark
+| Rightimage = House Karstark.svg
+| Rightlink  = House Karstark
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Stark
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = [[House Stark|Stark]]<br>[[House Karstark|Stark of Karl's Hold]]
+| Affiliation = 
+| Titles      = [[Lord of Karhold|Lord of Karl's Hold]]
+| Predecessor = 
+| Successor   = 
+| AKA         = Karl
+| Culture     = [[Northmen|Northern]]
+| Religion    = [[Old Gods]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|A Stark granted a keep and land to his younger son, Karlon, in return for putting down a rebellion. His family then grew up into the Karstarks.|[[Jon Snow]]|The North}}
+'''Karlon Stark''' was a younger son of the [[King in the North]] who was awarded lands on the eastern region of the [[North]] after putting down a rebellion of [[House Bolton]] of the [[Dreadfort]].
+
+==Biography==
+Karlon was a younger son of the [[King in the North]] who was awarded lands on the eastern region of the [[North]] after putting down a rebellion of [[House Bolton]] of the [[Dreadfort]].{{Ref|H&L311}}
+
+Over time, Karlon's seat, known as Karl's Hold, became known as [[Karhold]], and his descendants became known as the [[House Karstark|Karstarks]].<ref>[http://viewers-guide.hbo.com/game-of-thrones/season1/#!/locations/karhold/ HBO viewers guide, season 1 map, Karhold entry]</ref><ref>[http://viewers-guide.hbo.com/game-of-thrones/season2/#!/locations/karhold/ HBO viewers guide, season 2 map, Karhold entry]</ref>{{Ref|H&L311}}{{Ref|H&L609}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Karlon Stark's story is the same. The rebellion that he helped put down was aided by another cadet branch of the Starks, House Greystark.
+
+==Appearances==
+*{{H&L|The North}} {{Mentioned}}
+*{{H&L|Northern Allegiances to House Stark}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Stark}}
+{{House Karstark}}
+
+<!--Categories-->
+{{DEFAULTSORT:Stark, Karlon}}
+[[Category:Bannermen of House Stark]]
+[[Category:House founders]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Lords of Karhold|Karlon Stark]]
+[[Category:Members of House Karstark|Karlon Stark]]
+[[Category:Members of House Stark|Karlon Stark]]
+[[Category:Northmen]]
+
+<!--Languages-->
+[[de:Karlon Stark]]
+[[es:Karlon Stark]]
+[[fr:Karlon Stark]]
+[[nl:Karlon Stark]]
+[[ru:Карлон Старк]]
+[[zh:卡隆·史塔克]]

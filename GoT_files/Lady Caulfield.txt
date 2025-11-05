@@ -1,0 +1,55 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Caulfield.svg
+| Link  = House Caulfield
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Westeros
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = [[House Caulfield|Caulfield]]
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Lady Caulfield.|[[Samwell Tarly]] to [[Jon Snow]]|Sons of the Harpy (episode)}}
+'''Lady Caulfield''' is the head of [[House Caulfield]].
+
+==Biography==
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+Lady Caulfield sends a message to Lord Commander [[Jon Snow]], in which she agrees to send men to the [[Night's Watch]].{{Ref|GOT504}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no mention of any House Caulfield. The mention of "Lady Caulfield" in the TV show is apparently an in-joke reference to one of the TV show's producers, [[Bernadette Caulfield]].
+
+==Appearances==
+*{{GOT|Sons of the Harpy}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+{{DEFAULTSORT:Caulfield}}
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Members of House Caulfield]]
+[[Category:Ruling ladies]]
+[[Category:Westerosi]]

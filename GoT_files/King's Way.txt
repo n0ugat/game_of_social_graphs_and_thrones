@@ -1,0 +1,38 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Crownlander
+| Image        = 
+| Type         = Street
+| Status       = 
+| Location     = [[King's Landing]], the [[Crownlands]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = 
+| Places       = 
+| Founded      = 
+}}
+{{Dialogue a-b|Rhaenys Targaryen|Where are we?|Erryk Cargyll|Just south of King's Way.|[[Rhaenys Targaryen]] and [[Erryk Cargyll]]|The Green Council}}
+'''King's Way'''{{Ref|HOTD109}} is a street in [[King's Landing]].
+
+==History==
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+[[Erryk Cargyll]] and [[Rhaenys Targaryen]] find themselves south of King's Way as they escape the [[Red Keep]].{{Ref|HOTD109}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the King's Way is one of four streets that starts at the great square in the centre of [[King's Landing]], with the other three being the God's Way, the Muddy Way, and the Street of the Sisters.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Crownlands}}
+
+<!--Categories-->
+[[Category:King's Landing]]
+[[Category:Streets]]

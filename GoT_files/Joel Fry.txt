@@ -1,0 +1,35 @@
+{{Cast
+|Title = Joel Fry
+|Image = Joel-fry.jpg
+|dateofbirth = 
+|birthplace = UK
+|role = [[Hizdahr zo Loraq]]
+|status = 
+|imdb = http://www.imdb.com/name/nm2181128
+|twitter = http://twitter.com/fryjoel
+|First = "[[Breaker of Chains]]"
+|Last = "[[The Dance of Dragons (episode)|The Dance of Dragons]]"
+}}'''Joey Fry''' is a British actor. He portrays [[Hizdahr zo Loraq]] in seasons [[Game of Thrones: Season 4|4]] and [[Game of Thrones: Season 5|5]].
+
+He is best known for his role as Lu'kibu in the film ''[[wikipedia:10,000 BC (film)|10,000 B.C.]]'' He has also appeared in TV series such as ''[[wikipedia: Trollied|Trollied]]'' (alongside [[Mark Addy]]) and ''[[wikipedia: Plebs (TV Series)|Plebs]]''.
+
+==Credit==
+===Guest starring===
+{{Game of Thrones: Season 4|||yes|||yes}}
+{{Game of Thrones: Season 5|yes|yes||yes|yes||yes||yes}}
+
+==See also==
+*{{WP|Joel Fry (actor)|Joey Fry}}
+*{{Template:IMDb
+|# = 2181128}}
+*{{Template:Twitter
+|# = fryjoel}}
+
+==References==
+{{Reflist}}
+
+[[de:Joel Fry]]
+[[ru:Джоэл Фрай]]
+[[fr:Joel Fry]]
+{{DEFAULTSORT:Fry, Joel}}
+[[Category:Guest starring cast members of Game of Thrones]]

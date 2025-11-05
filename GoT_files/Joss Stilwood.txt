@@ -1,0 +1,71 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = Unknown.svg
+| Link  = 
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Lannister
+| Image       = Joss Stillwood infobox.PNG
+| Birth       = The [[Westerlands]]
+| Death       = 
+| House       = 
+| Affiliation = [[House Clegane]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Westerlands|Westermen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 1|1]] {{*}} [[Game of Thrones: Season 4|4]]
+| Appearances = 2 episodes {{Below|Appearances}}
+| First       = "[[The Wolf and the Lion]]"
+| Last        = "[[The Mountain and the Viper]]"
+| DeathEp     = 
+| Actor       = Unidentified
+}}
+{{Quote|Sword!|Gregor Clegane to Joss Stilwood|The Wolf and the Lion}}
+'''Joss Stilwood'''{{Con|ASOIAF}} is the [[squire]] of [[Knighthood|Ser]] [[Gregor Clegane]], the Mountain.
+
+==Biography==
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+Joss Stilwood squires for the Mountain in the [[Tournament#Tourney of the Hand|Tourney of the Hand]]. After Gregor is defeated in a joust by [[Loras Tyrell]], he orders Joss to bring him his sword, then beheads his horse in anger.{{Ref|GOT105}}
+
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+Joss squires for Gregor when he faces [[Oberyn Martell]] in the [[second trial by combat of Tyrion Lannister]].{{Ref|GOT408}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Joss Stilwood is the squire of Ser [[Gregor Clegane]] and belongs to his group of men-at-arms from the Westerlands, known as the ''Mountain's men''. He takes part in the gang rape of Layna, an innkeeper's daughter.
+
+==Appearances==
+*{{GOT|The Wolf and the Lion}}
+*{{GOT|The Mountain and the Viper}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Clegane}}
+
+<!--Categories-->
+{{DEFAULTSORT:Stilwood, Joss}}
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Squires]]
+[[Category:Westermen]]
+
+<!--Languages-->
+[[ru:Джосс Стилвуд]]

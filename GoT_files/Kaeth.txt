@@ -1,0 +1,63 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Order of Maesters.svg
+| Link  = Order of Maesters
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Citadel
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[Order of Maesters]]<br>[[House Targaryen]]
+| Titles      = [[Grand Maester]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|<u>The Lives of Four Kings</u>. Grand Maester Kaeth's history of the reigns of Daeron the Young Dragon, Baelor the Blessed, Aegon the Unworthy, and Daeron the Good. A book every king should read.|[[Tyrion Lannister]]|The Lion and the Rose}}
+'''Kaeth''' was a [[Grand Maester]], and the author of the book ''[[The Lives of Four Kings]]''.{{Ref|GOT402}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Kaeth was made Grand Maester at the age of eighty, and sent to the court of King [[Aegon Targaryen (son of Maekar)|Aegon V Targaryen]]. He died within a year of his appointment and was succeeded by Grand Maester Ellendor.
+
+Kaeth's ''Lives of Four Kings'' is considered a literary classic, despite scanting [[Viserys Targaryen (son of Rhaenyra)|Viserys II Targaryen]], and his hand-drawn illuminations to be a masterpiece; only four original copies of his book survived, until [[Joffrey Baratheon|Joffrey]] senselessly destroyed one at [[Purple Wedding|his wedding feast]].
+
+==Appearances==
+*{{GOT|The Lion and the Rose}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+[[Category:Authors]]
+[[Category:Grand Maesters]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Westerosi]]
+
+<!--Languages-->
+[[de:Kaeth]]
+[[es:Kaeth]]
+[[fr:Kaeth]]
+[[nl:Kaeth]]
+[[ru:Каэт]]
+[[zh:喀斯]]

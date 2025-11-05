@@ -1,0 +1,22 @@
+{{Crew
+|Image = Kai Martin.jpg
+|dateofbirth = 
+|birthplace = 
+|job = Stunt Performer
+|imdb = http://www.imdb.com/name/nm1661740}}
+'''Kai Martin''' is an stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 8|eighth season]] episode "[[The Long Night]]", "[[The Last of the Starks]]" and "[[The Bells]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 8|||yes|yes|yes}}
+
+==See also==
+*{{IMDb
+|# = 1661740}}
+
+==References==
+{{reflist}}
+{{DEFAULTSORT:Martin, Kai}}
+[[Category:Stunt performers of Game of Thrones]]

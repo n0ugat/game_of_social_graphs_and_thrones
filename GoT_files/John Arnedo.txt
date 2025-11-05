@@ -1,0 +1,27 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = John Arnedo.png
+| Birth   = 
+| Death   = 
+| Role    = Gargantuan brute
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = "[[The Heirs of the Dragon]]"
+| First   = 
+| Last    = 
+}}
+'''John Arnedo''' is an actor.
+
+In ''[[House of the Dragon]]'', he portrayed a gargantuan brute in the [[House of the Dragon: Season 1|first season]].
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1|yes}}
+
+==See also==
+*{{IMDb|# = 13967053}}
+
+<!--Categories-->
+{{DEFAULTSORT:Arnedo, John}}
+[[Category:Co-starring cast members of House of the Dragon]]

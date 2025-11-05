@@ -1,0 +1,43 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Josh Ravenscroft.jpg
+| Birth   = 
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[Game of Thrones]]''<br>''[[House of the Dragon]]''
+| Season  = ''Game of Thrones'':<br>[[Game of Thrones: Season 8|8]]<br>''House of the Dragon'':<br>[[House of the Dragon: Season 1|1]] {{*}} [[House of the Dragon: Season 2|2]]
+| Credits = 7 episodes {{Below|Credits}}
+| First   = "[[The Long Night]]"
+| Last    = 
+}}
+'''Josh Ravenscroft''' is an stuntman.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 8|eighth season]] episode "[[The Long Night]]", "[[The Last of the Starks]]", "[[The Bells]]" and "[[The Iron Throne]]".
+
+In ''[[House of the Dragon]]'', he was a stunt performer in the [[House of the Dragon: Season 1|first season]] episodes "[[Second of His Name]]" and "[[The Green Council]]" and the [[House of the Dragon: Season 2|second season]] episode "[[The Red Dragon and the Gold]]".
+
+==Credits==
+===Stunts===
+====''[[Game of Thrones]]''====
+{{Game of Thrones: Season 8|||yes|yes|yes|yes}}
+
+====''[[House of the Dragon]]''====
+{{House of the Dragon: Season 1|||yes||||||yes}}
+{{House of the Dragon: Season 2||||yes}}
+
+==See also==
+*{{IMDb
+|# = 9607958}}
+*{{Instagram
+|# = josh_ravenscroft_}}
+*{{Facebook
+|# = josh.ravenscroft.9}}
+*{{YouTube
+|# = channel/UCm6e9cvofzcfOqRpn0Heztg}}
+
+==References==
+{{reflist}}
+{{DEFAULTSORT:Ravenscroft, Josh}}
+[[Category:Stunt performers of Game of Thrones]]
+[[Category:Stunt performers of House of the Dragon]]

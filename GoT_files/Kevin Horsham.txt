@@ -1,0 +1,31 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Kevin Horsham.jpg
+| Birth   = Wales
+| Death   = 
+| Role    = [[Westerosi trader]]
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 6|6]]
+| Credits = "[[The Broken Man]]"
+| First   = 
+| Last    = 
+}}
+'''Kevin Horsham''' is a Welsh actor and producer.
+
+In ''[[Game of Thrones]]'', he portrayed a [[Westerosi trader]] in Braavos in the [[Game of Thrones: Season 6|sixth season]].<ref>[https://twitter.com/WatchersOTWall/status/643931007822000128 Watchers on the Wall — Kevin Horsham cast in small role]</ref>
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 6|||||||yes}}
+
+==See also==
+*{{IMDb
+|# = 3638451}}
+*{{Twitter
+|# = KJHORSHAM}}
+
+==References==
+{{Reflist}}
+{{DEFAULTSORT:Horsham, Kevin}}
+[[Category:Guest starring cast members of Game of Thrones]]

@@ -1,0 +1,28 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Jonathan Jaynes.jpg
+| Birth   = 
+| Death   = 
+| Role    = [[Theatre player]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = "[[King of the Narrow Sea (episode)|King of the Narrow Sea]]"
+| First   = 
+| Last    = 
+}}
+'''Jonathan Jaynes''' is an actor. He was appeared in the films ''{{WPS|First Knight}}'', ''{{WPS|Cemetary Junction (film)|Cemetary Junction}}'', ''{{WPS|The Numbers Station}}'' and ''{{WPS|The Invisible Woman (2013 film)|The Invisible Woman}}'' and the television series ''{{WPS|Coronation Street}}'', ''{{WPS|The Bill}}'', ''{{WPS|Two Pints of Lager and a Packet of Crisps}}'', ''{{WPS|Downton Abbey}}'', ''{{WPS|Law & Order: UK}}'', ''{{WPS|Midsomer Murders}}'', ''{{WPS|EastEnders}}'', ''{{WPS|Will (TV series)|Will}}'' and ''{{WPS|Doctors (2000 TV series)|Doctors}}''.
+
+In ''[[House of the Dragon]]'', he portrayed a [[theatre player]] in the [[House of the Dragon: Season 1|first season]].
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1||||yes}}
+
+==See also==
+*{{IMDb|# = 0419771}}
+*{{Twitter|jonnyjaynes}}
+
+<!--Categories-->
+{{DEFAULTSORT:Jaynes, Jonathan}}
+[[Category:Co-starring cast members of House of the Dragon]]

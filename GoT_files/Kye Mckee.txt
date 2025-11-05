@@ -1,0 +1,35 @@
+{{Crew
+|Type = Dragon
+|Image = Kye Mckee.jpg
+|dateofbirth = 
+|birthplace = 
+|job = Stunt Performer<br>Stunt Double for [[Jamie Campbell Bower]]
+|imdb = https://www.imdb.com/name/nm7597490/
+|twitter = }}
+'''Kye Mckee''' is a stuntman.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 8|eighth season]] episode "[[The Bells]]".
+
+In the [[Pilot (Bloodmoon)|pilot]] of ''[[Bloodmoon]]'', he was a stunt double for [[Jamie Campbell Bower]].
+
+In ''[[House of the Dragon]]'', he was a stunt performer in the [[House of the Dragon: Season 1|first season]] episodes "[[Second of His Name]]" and "[[Driftmark (episode)|Driftmark]]".
+
+==Credits==
+===''[[Game of Thrones]]''===
+{{Game of Thrones: Season 8|||||yes}}
+
+===''[[House of the Dragon]]''===
+{{House of the Dragon: Season 1|||yes||||yes}}
+
+==See also==
+*{{IMDb|# = 7597490}}
+*{{Linkedin|# = /in/kye-mckee-43779319}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+{{DEFAULTSORT:Mckee, Kye}}
+[[Category:Stunt performers of Bloodmoon]]
+[[Category:Stunt performers of Game of Thrones]]
+[[Category:Stunt performers of House of the Dragon]]

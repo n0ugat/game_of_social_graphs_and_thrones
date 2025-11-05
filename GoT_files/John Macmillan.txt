@@ -1,0 +1,38 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = John Macmillan.jpg
+| Birth   = 
+| Death   = 
+| Role    = [[Laenor Velaryon]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = 2 episodes {{Below|Credits}}
+| First   = "[[The Princess and the Queen]]"
+| Last    = 
+}}
+'''John Macmillan''', sometimes credited as '''MacMillan''', is a British actor and writer, best known for his role as Julian in the Mitchell and Webb sitcom ''Back''.
+
+He portrays Ser [[Laenor Velaryon]] in ''[[House of the Dragon]]''.<ref>https://winteriscoming.net/2021/05/08/small-council-first-official-house-of-the-dragon-images-game-of-thrones/</ref><ref>https://www.reddit.com/r/HouseOfTheDragon/comments/n18zdg/this_feels_like_confirmation_john_macmillan_will/</ref>
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1||||||yes|yes}}
+
+==See also==
+*{{IMDb
+|# = 3025293}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House of the Dragon: Inside the Episode}}
+
+<!--Categories-->
+{{DEFAULTSORT:Macmillan, John}}
+[[Category:Co-starring cast members of House of the Dragon]]
+[[Category:Commentators of House of the Dragon: Inside the Episode]]
+
+<!--Languages-->
+[[fr:John Macmillan]]

@@ -1,0 +1,69 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Leftimage  = Unknown.svg
+| Rightimage = House Caswell.svg
+| Rightlink  = House Caswell
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Tyrell
+| Image       = Lady Caswell.png
+| Birth       = 
+| Death       = 
+| House       = [[House Caswell|Caswell]]{{Ref|HOTD106}} {{C|by marriage}}
+| Affiliation = [[Blacks]]{{Ref|HOTD106}}
+| Titles      = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = {[[Allun Caswell]]}{{Ref|HOTD106}}
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 1|1]]
+| Appearances = "[[The Princess and the Queen]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Lady Caswell'''{{Con|F&B}} is the widow of Lord [[Allun Caswell]].
+
+==Biography==
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+Lady Caswell is with her husband when he congratulates [[Rhaenyra Targaryen|Rhaenyra]] on the birth of Prince [[Joffrey Velaryon|Joffrey]].{{Ref|HOTD106}}
+
+==In the books==
+In ''[[Fire & Blood]]'', Lady Caswell ruled [[Bitterbridge]] on behalf of her young son after the execution of her husband.
+
+==Appearances==
+*{{HOTD|The Princess and the Queen}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{House Caswell}}
+
+<!--Categories-->
+{{DEFAULTSORT:Caswell, Lady}}
+[[Category:Blacks]]
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Ladies]]
+[[Category:Members of House Caswell]]
+[[Category:Westerosi]]
+
+<!--Languages-->
+[[es:Lady Caswell/House of the Dragon]]
+[[ru:Леди Касвелл]]

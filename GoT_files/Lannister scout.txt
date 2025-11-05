@@ -1,0 +1,59 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Lannister
+| Image       = Lannister scout.jpg
+| Birth       = The [[Westerlands]]
+| Death       = 
+| House       = 
+| Affiliation = [[House Lannister]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Westerlands|Westermen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 1|1]]
+| Appearances = "[[The Pointy End]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Chris Gallagher]]
+}}
+{{Dialogue a-b|Robb Stark|Tell Lord Tywin winter is coming for him. 20,000 Northerners marching south to find out if he really does shit gold.|Lannister scout|Yes, my lord. Thank you, my lord.|The scout after being spared by [[Robb Stark]]|The Pointy End}}
+A '''Lannister scout''' is a scout in service to [[House Lannister]].
+
+==Biography==
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+He is captured by the forces of [[House Stark]]. [[Robb Stark|Robb]] interrogates him and learns that he has overestimated the size of the Stark army as 20,000 men. Robb feigns mercy and lets him go in order to trick [[Tywin Lannister|Tywin]] into thinking 20,000 [[Northmen]] were marching to the [[Green Fork]] against his army, when in actuality Robb sent only 2,000 men. The deception assists Robb to defeat Jaime's troops in the [[Battle of Whispering Wood]].{{Ref|GOT108}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, this character has no equivalent.
+
+Prior to the battle in the Whispering Wood, the Lannisters sent scouts to spy on the Stark host, but those scouts either vanished (presumably killed by Marq Piper) or claimed that they saw nothing.
+
+==Appearances==
+*{{GOT|The Pointy End}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House Lannister}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Men-at-arms]]
+[[Category:Servants and retainers of House Lannister]]
+[[Category:Westermen]]
+
+<!--Languages-->
+[[ru:Лазутчик Ланнистеров]]

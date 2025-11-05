@@ -1,0 +1,56 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Stark
+| Image       = Northern Lord.jpg
+| Birth       = In the [[North]]
+| Death       = 
+| House       = 
+| Affiliation = [[House Stark]]
+| Titles      = [[Lordship|Lord]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Northmen|Northern]]
+| Religion    = [[Old Gods]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 2|2]]
+| Appearances = "[[The North Remembers]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Pat Mooney]]
+}}
+{{Quote|The walls of my Holdfast will not stand the winter. The stones were last mortared in the time of King Aerys, and I'm afraid the masons today are not fit to carry their fathers' hammers. When I was a boy, I remember seeing them put up a new tower at [[Torrhen's Square]] in a summer. Men worked back then. Today, my Holdfast looks like it was built by drunk children. At night you can hear the wind howling through the gaps. And the Gods forbid it rains. Why, I might as well sleep beneath a waterfall.|Leadranach|The North Remembers}}
+Lord '''Leadranach''' is a vassal of [[House Stark]].
+
+==Biography==
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+He visits [[Winterfell]] to complain about the state of his holdfast and to request help rebuilding it in the coming winter. He annoys [[Bran Stark|Bran]] by showing a lack of respect for [[Robb Stark|Robb]]. [[Order of Maesters|Maester]] [[Luwin]] grants his request to get him to leave.{{Ref|GOT201}}
+
+==Behind the scenes==
+According to the episode subtitles and audio commentary, the lord's name is Leadranach, which means "Boring" in Old Celtic; the name is not mentioned on-screen in the episode.
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no character by this name.
+
+==Appearances==
+*{{GOT|The North Remembers}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+[[Category:Bannermen of House Stark]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Lords]]
+[[Category:Northmen]]
+
+<!--Languages-->
+[[ru:Лидранах]]

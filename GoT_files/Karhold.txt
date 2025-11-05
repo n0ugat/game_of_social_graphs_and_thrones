@@ -1,0 +1,50 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Karstark.svg
+| Link  = House Karstark
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Stark
+| Image        = Karhold Pin.png
+| Type         = Castle
+| Status       = 
+| Location     = The [[North]], [[Westeros]]
+| Population   = 
+| Rulers       = {[[House Karstark]]} {{C|formerly}}
+| Institutions = 
+| Military     = 
+| Religion     = [[Old Gods]]
+| Places       = 
+| Founded      = by {[[Karlon Stark]]}
+}}
+{{Quote|Rickard Karstark, Lord of Karhold, here in sight of gods and men I sentence you to die.|[[Robb Stark]]|Kissed by Fire}}
+'''Karhold'''{{Ref|GOT305}} is the seat of [[House Karstark]], a vassal house holding fealty to [[House Stark]] of [[Winterfell]]. It is located in the far east of the [[North]], south of the [[Bay of Seals]] and inland from the coast of the [[Shivering Sea]].
+
+The castle was founded by [[Karlon Stark]], a younger son of the then-[[King in the North]] after he was rewarded with lands by his father for putting down a rebellion by [[House Bolton]] of the [[Dreadfort]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Karhold's location and history are the same. The castle was originally called "Karl's Hold."
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Karstark}}
+{{North}}
+
+<!--Categories-->
+[[Category:Castles of the North]]
+[[Category:House Karstark]]
+
+<!--Languages-->
+[[de:Karholt]]
+[[es:Bastión Kar]]
+[[fr:Karhold]]
+[[nl:Karborg]]
+[[pl:Karhold]]
+[[ru:Кархолд]]
+[[zh:卡霍城]]

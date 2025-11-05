@@ -1,0 +1,33 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Tully
+| Image        = 
+| Type         = Town
+| Status       = 
+| Location     = [[Riverlands]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Lake Town'''{{Ref|THTDB201}} is a town in the [[Riverlands]], near the [[Gods Eye]] lake.
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the town on the southern shore of the Gods Eye is unnamed. [[Yoren]] brings his band of [[Night's Watch]] recruits there, only to find the town completely abandoned.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Gods Eye town}}
+
+<!--Navboxes-->
+{{Riverlands}}
+
+<!--Categories-->
+[[Category:Riverlands]]
+[[Category:Towns]]

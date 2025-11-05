@@ -1,0 +1,76 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Tully
+| Image       = 104 Kurleket.png
+| Birth       = The [[Riverlands]], [[Westeros]]
+| Death       = [[298 AC]]{{Dateref|Game of Thrones: Season 1}}<br>The [[Eastern Road]], the [[Vale of Arryn]]
+| House       = 
+| Affiliation = [[House Bracken]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Riverlands|Rivermen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 1|1]]
+| Appearances = 2 episodes {{Below|Appearances}}
+| First       = "[[Cripples, Bastards, and Broken Things]]"
+| Last        = "[[The Wolf and the Lion]]"
+| DeathEp     = "The Wolf and the Lion"
+| Actor       = [[Kevin Keenan]]
+}}
+{{Quote|My lord is honored by his trust.|Kurleket to [[Catelyn Stark]]|Cripples, Bastards, and Broken Things}}
+'''Kurleket'''{{Con|ASOIAF}} was a [[man-at-arms]] sworn to [[House Bracken]]. 
+
+==Biography==
+===Background===
+Kurleket is a loyal [[Man-at-arms|Man-at-Arms]] of [[House Bracken]], a vassal house of [[House Tully]]. He is traveling the [[Kingsroad]] following the [[Tournament|Tourney of the Hand]].{{Ref|GOT104}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+Kurleket is drinking with companions at the [[Inn at the Crossroads]] when [[Tyrion Lannister|Tyrion]] arrives on his way south. [[Catelyn Stark|Catelyn]] is also in the inn. She turns to the knights from the [[Riverlands]] to help her to arrest Tyrion, accusing him of attempting to murder [[Bran Stark|Bran]]. She asserts her origin as a daughter of [[House Tully]], and then tells Kurleket that she recognizes the red stallion of [[House Bracken]] and says that her father, Lord [[Hoster Tully]] of [[Riverrun]], considers Lord [[Jonos Bracken]] one of his most loyal bannermen. Kurleket draws his sword and threatens Tyrion.{{Ref|GOT104}}
+
+[[File:Tyrion in the inn.png|thumb|Kurleket holds his sword on Tyrion Lannister at the Crossroads Inn.]]
+Kurleket is among the men who accompany Catelyn into the Vale. The party is attacked by warriors from the [[hill tribes]], and Kurleket dies defending Catelyn.{{Ref|GOT105}}
+
+==In the books==
+In ''[[A Song of Ice and Fire]]'' novels, three men-at-arms from House Bracken accompany Catelyn into the Vale. Kurleket is the leader of the trio, and he is the one who speaks to Catelyn in the inn. He assists in capturing Tyrion and is among the party that travels into the Mountains of the Moon. He is slain during a battle with the Mountain clans.{{Bookref|AGOT|31}}
+
+Kurleket's name is an inside joke by author [[George R.R. Martin]]. All three men from House Bracken whom Catelyn recruits at the Crossroads Inn are named "Mohor", "Lharys", and "Kurleket" - as in Moe, Larry, and Curly, the infamous [[Wikipedia:The Three Stooges|Three Stooges]]. Martin has himself confirmed the reference.<ref>[http://www.westeros.org/Citadel/SSM/Category/C91/ So Spake Martin, March 10, 2006]</ref>
+
+==Appearances==
+*{{GOT|Cripples, Bastards, and Broken Things}}
+*{{GOT|The Wolf and the Lion}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Bracken}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Men-at-arms]]
+[[Category:Rivermen]]
+[[Category:Servants and retainers of House Bracken]]
+[[Category:Smallfolk]]
+
+<!--Languages-->
+[[de:Kurleket]]
+[[fr:Kurleket]]
+[[ru:Курлекет]]
+[[zh:库雷凯特]]

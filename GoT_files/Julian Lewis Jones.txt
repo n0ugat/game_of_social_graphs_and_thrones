@@ -1,0 +1,34 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Julian Lewis Jones.jpg
+| Birth   = August 21, 1968 {{Age|1968|8|21}}<br>Anglesey, Wales
+| Death   = 
+| Role    = [[Boremund Baratheon]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = 2 episodes {{Below|Credits}}
+| First   = "[[The Heirs of the Dragon]]"
+| Last    = "[[King of the Narrow Sea (episode)|King of the Narrow Sea]]"
+}}
+'''Julian Lewis "Jules" Jones''' (born 21 August 1968) is a Welsh actor.
+
+In ''[[House of the Dragon]]'', he portrayed [[Boremund Baratheon]] in "[[The Heirs of the Dragon]]" and "[[King of the Narrow Sea (episode)|King of the Narrow Sea]]."
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1|yes|||yes}}
+
+==See also==
+*{{WP}}
+*{{IMDb|#=0428484}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+{{DEFAULTSORT:Jones, Julian Lewis}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Julian Lewis Jones]]

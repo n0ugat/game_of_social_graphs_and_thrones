@@ -1,0 +1,31 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = John-Standing-200.jpg
+| Birth   = John Ronald Leon<br>August 16, 1934 {{Age|1934|8|16}}<br>London, England
+| Death   = 
+| Role    = [[Jon Arryn]]
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 1|1]]
+| Credits = "[[Winter Is Coming]]"
+| First   = 
+| Last    = 
+}}
+'''Sir John Ronald Leon, 4th Baronet''' (born 16 August 1934), known professionally as '''John Standing''', is a British actor. He has a very long career in television and film, as well as theatrical work. His most recent genre role was in ''[[wikipedia:V For Vendetta (film)|V For Vendetta]]''. He has a previous [[George R.R. Martin]] connection, as he appeared in the 1987 film based on Martin's novella ''[[wikipedia:Nightflyers|Nightflyers]]''.
+
+In ''[[Game of Thrones]]'' he plays Lord [[Jon Arryn]] (as a corpse). He was confirmed in the role on 16 July 2010.
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 1|yes}}
+
+==See also==
+*{{WP}}
+*{{Template:IMDb
+|# = 0822062}}
+
+[[de:John Standing]]
+[[fr:John Standing]]
+[[ru:Джон Стандинг]]
+{{DEFAULTSORT:Standing, John}}
+[[Category:Guest starring cast members of Game of Thrones]]

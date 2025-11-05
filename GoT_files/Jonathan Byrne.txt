@@ -1,0 +1,30 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Jonathan Byrne.jpg
+| Birth   = Dublin, Ireland
+| Death   = 
+| Role    = [[Brant]]
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 5|5]]
+| Credits = "[[The Gift]]"
+| First   = 
+| Last    = 
+}}
+'''Jonathan Byrne''' is an Irish actor.
+
+He portrays [[Brant]] in the [[Game of Thrones: Season 5|fifth season]].<ref>[http://watchersonthewall.com/season-five-casting-news-updates/]</ref>
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 5|||||||yes}}
+
+==​See also==
+*{{Template:IMDb
+|# = 1071171}}
+
+==References==
+{{Reflist}}{{DEFAULTSORT:Byrne, Jonathan}}
+
+[[fr:Jonathan Byrne]]
+[[Category:Guest starring cast members of Game of Thrones]]

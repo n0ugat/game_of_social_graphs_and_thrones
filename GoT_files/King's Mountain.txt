@@ -1,0 +1,35 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Baratheon
+| Image        = 
+| Type         = 
+| Status       = 
+| Location     = [[Stormlands]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''King's Mountain'''{{Ref|THTDB201}} is a place in the [[Stormlands]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, King's Mountain is the origin of Ser Patrek of King's Mountain. Patrek holds lands in the south, but it is unknown if they are at King's Mountain.
+
+The name "King's Mountain" is a translation of "Montreal," being part of a reference to [[George R.R. Martin]]'s friend Patrick St. Denis, who is from Montreal.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Stormlands}}
+
+<!--Categories-->
+[[Category:Mountains]]
+[[Category:Stormlands]]

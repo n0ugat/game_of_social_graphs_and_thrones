@@ -1,0 +1,61 @@
+{{Canonicity|Non}}
+{{Heraldry
+| Image = House Royce.svg
+| Link  = House Royce
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Royce
+| Image       = House Royce lineage.jpeg
+| Birth       = [[209 AC/Non-canon|209 AC]]{{Dateref|Junia Royce}}<br>[[Runestone]], the [[Vale of Arryn]]
+| Death       = [[226 AC]]{{Dateref|Junia Royce death}} (aged 17)<br>Runestone, the Vale of Arryn
+| House       = [[House Royce|Royce]]
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Vale of Arryn|Valemen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = {[[Maynard Royce]]}
+| Mother      = {[[Mavis Royce|Mavis Belmore]]}
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = {[[Andar Royce]]}<br>{[[Paxter Royce]]}<br>[[Serena Royce]]
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Junia Royce''' was a member of [[House Royce]], a daughter of Lord [[Maynard Royce]].
+
+==Biography==
+Junia Royce was the thirdborn child, and firstborn daughter, of Lord [[Maynard Royce]] and Lady [[Mavis Royce]]. She was murdered in her own bed at the age of 17 by [[Brammax Egen]], a jealous suitor.<ref name="s1prop">''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]'' prop from Season 1</ref>
+
+==Behind the scenes==
+Junia Royce is mentioned in the section on House Royce in the Season 1 prop for ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]''. The section on House Royce never appears on-screen in the TV series, as its planned appearance, where [[Eddard Stark]] would have read from it, was cut.
+
+==In the books==
+Junia Royce is referenced only in the TV adaptation of ''[[A Song of Ice and Fire]]'' and has no corresponding counterpart in the books.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{House Royce}}
+
+<!--Categories-->
+{{DEFAULTSORT:Royce, Junia}}
+[[Category:Individuals from Game of Thrones]]
+[[Category:Members of House Royce|Junia Royce]]
+[[Category:Valemen]]
+
+<!--Languages-->
+[[ru:Юния Ройс]]

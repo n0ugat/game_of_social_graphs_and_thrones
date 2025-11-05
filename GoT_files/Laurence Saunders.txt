@@ -1,0 +1,30 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Laurence Saunders.jpg
+| Birth   = UK
+| Death   = 
+| Role    = Rook's Rest guardsman
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]]
+| Credits = "[[The Red Dragon and the Gold]]"
+| First   = 
+| Last    = 
+}}
+'''Laurence Saunders''' is a British actor. He has appeared in the television series ''{{WPS|Dalziel and Pascoe (TV series)|Dalziel and Pascoe}}'', ''{{WPS|Crossroads (British TV series)|Crossroads}}'', ''{{WPS|Holby City}}'', ''{{WPS|Line of Duty}}'', ''{{WPS|EastEnders}}'' and ''{{WPS|Doctors (2000 TV series)|Doctors}}''.
+
+Saunders plays a Rook's Rest guardsman in the [[House of the Dragon: Season 2|second season]] of ''[[House of the Dragon]]''.
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 2||||yes}}
+
+==External links==
+*{{IMDb|# = 1063422}}
+*{{Twitter|# = mrlsaunders}}
+*{{Vimeo|# = user2188228}}
+*{{Linkedin|# = /in/laurence-saunders-4362a610}}
+
+<!--Categories-->
+{{DEFAULTSORT:Saunders, Laurence}}
+[[Category:Co-starring cast members of House of the Dragon]]

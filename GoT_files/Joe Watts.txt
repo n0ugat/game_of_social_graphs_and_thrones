@@ -1,0 +1,20 @@
+{{Crew
+|Image = Joe Watts.jpg
+|dateofbirth = 
+|birthplace = 
+|job = Stunt Performer
+|imdb = https://www.imdb.com/name/nm4619524/
+|twitter = }}
+'''Joe Watts''' is a stuntman and actor. He is the fiancé of [[Tilly Powell]].
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 8|eighth season]] episodes "[[Winterfell (Game of Thrones)|Winterfell]]" and "[[The Long Night]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 8|yes||yes}}
+
+==See also==
+*{{IMDb
+|# = 4619524}}
+{{DEFAULTSORT:Watts, Joe}}
+[[Category:Stunt performers of Game of Thrones]]

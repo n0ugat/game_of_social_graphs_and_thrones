@@ -1,0 +1,56 @@
+{{Canonicity|Canon}}
+{{Spoiler|HOTD}}
+{{Heraldry
+| Image = 
+| Link  = House Roxton
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Tyrell
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = [[House Roxton|Roxton]]
+| Affiliation = [[House Tyrell]]
+| Titles      = [[Knighthood|Ser]]
+| AKA         = 
+| Culture     = [[Reach]]
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 3|3]]
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Joplin Sibtain]]
+}}
+Ser '''Jon Roxton''',  also known as Bold Jon Roxton, is a [[Knighthood|knight]] who lived during the [[Dance of the Dragons]].{{Ref|TDOD}}
+
+==In the books==
+In ''[[Fire & Blood]]'', Jon Roxton was a knight of [[House Roxton]] who wielded the Valyrian steel longsword Orphan-Maker.
+
+==Appearances==
+*{{TDOD}} {{C|illustrated or mentioned indirectly}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Categories-->
+{{DEFAULTSORT:Roxton, Jon}}
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Individuals from The Dance of Dragons]]
+[[Category:Knights]]
+[[Category:Members of House Roxton]]
+
+<!--Languages-->
+[[pl:Jon Roxton]]

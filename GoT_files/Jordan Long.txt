@@ -1,0 +1,30 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Jordan Long.jpg
+| Birth   = 1974<br>London, England, United Kingdom
+| Death   = 
+| Role    = Lyseni captain
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]]
+| Credits = "[[The Queen Who Ever Was]]"
+| First   = 
+| Last    = 
+}}
+'''Jordan Long''' is an English actor.
+
+Long plays a Lyseni captain in the [[House of the Dragon: Season 2|second season]] of ''[[House of the Dragon]]''.<ref>https://redanianintelligence.com/2023/09/30/every-new-cast-member-house-of-the-dragon-season-2/</ref>
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 2||||||||yes}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb|#=8917917}}
+
+<!--Categories-->
+{{DEFAULTSORT:Long, Jordan}}
+[[Category:Co-starring cast members of House of the Dragon]]

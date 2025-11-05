@@ -1,0 +1,23 @@
+{{stub}}
+{{Template:Cast
+|Title = Karl Jackson
+|Image = Karl Jackson.jpg
+|role = Unsullied
+|status = 
+|Appearances = "[[Oathkeeper (episode)|Oathkeeper]]"
+|imdb = http://www.imdb.com/name/nm5159678/|twitter = https://twitter.com/KL_Jackson|dateofbirth = }}
+'''Karl Jackson''' is a British actor.
+
+In ''[[Game of Thrones]]'' he is playing an Unsullied.
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 4||||yes}}
+
+==See also==
+*{{Template:IMDb
+|# = 5159678}}
+*{{Template:Twitter
+|# = KL_Jackson}}
+{{DEFAULTSORT:Jackson, Karl}}
+[[Category:Guest starring cast members of Game of Thrones]]

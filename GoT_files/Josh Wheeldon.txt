@@ -1,0 +1,27 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = 
+| Birth   = 
+| Death   = 
+| Role    = Stunt Trainee
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]] {{*}} [[House of the Dragon: Season 2|2]]
+| Credits = 16 episodes {{Below|Credits}}
+| First   = "[[The Heirs of the Dragon]]"
+| Last    = 
+}}
+'''Josh Wheeldon''' is a stuntman.
+
+In ''[[House of the Dragon]]'', he was a stunt trainee in the [[House of the Dragon: Season 1|first season]] episodes "[[The Heirs of the Dragon]]", "[[The Rogue Prince]]", "[[Second of His Name]]", "[[King of the Narrow Sea (episode)|King of the Narrow Sea]]", "[[We Light the Way]]", "[[The Princess and the Queen]]", "[[Driftmark (episode)|Driftmark]]", "[[The Lord of the Tides]]", "[[The Green Council]]" and "[[The Black Queen]]" and the [[House of the Dragon: Season 2|second season]] episodes "[[A Son for a Son]]", "[[Rhaenyra the Cruel]]", "[[The Burning Mill]]", "[[The Red Dragon and the Gold]]", "[[The Red Sowing]]" and "[[The Queen Who Ever Was]]".
+
+==Credits==
+===Stunts===
+{{House of the Dragon: Season 1|yes|yes|yes|yes|yes|yes|yes|yes|yes|yes}}
+{{House of the Dragon: Season 2|yes|yes|yes|yes|||yes|yes}}
+
+==See also==
+*{{IMDb
+|# = 13992840}}
+{{DEFAULTSORT:Wheeldon, Josh}}
+[[Category:Stunt performers of House of the Dragon]]

@@ -1,0 +1,34 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Lannister
+| Image        = 
+| Type         = Walled town and castle
+| Status       = 
+| Location     = [[Westerlands]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Kayce'''{{Ref|THTDB201}} is a town and castle in the [[Westerlands]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Kayce is the seat of a junior branch of the [[ironborn]] [[House Kenning]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Westerlands}}
+
+<!--Categories-->
+[[Category:Castles of the Westerlands]]
+[[Category:House Kenning]]
+[[Category:Towns]]

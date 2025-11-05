@@ -1,0 +1,35 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Lawrence Hansen.jpg
+| Birth   = 
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[Game of Thrones]]''<br>''[[House of the Dragon]]''
+| Season  = ''Game of Thrones'':<br>[[Game of Thrones: Season 7|7]] {{*}} [[Game of Thrones: Season 8|8]]<br>''House of the Dragon'':<br>[[House of the Dragon: Season 1|1]] {{*}} [[House of the Dragon: Season 2|2]]
+| Credits = 15 episodes {{Below|Credits}}
+| First   = "[[Dragonstone (episode)|Dragonstone]]"
+| Last    = 
+}}
+'''Lawrence Hansen''' is a stuntman.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 7|seventh season]] episodes "[[Dragonstone (episode)|Dragonstone]]", "[[Eastwatch]]", "[[Beyond the Wall (episode)|Beyond the Wall]]" and "[[The Dragon and the Wolf]]" and the [[Game of Thrones: Season 8|eighth season]] episodes "[[A Knight of the Seven Kingdoms (Game of Thrones)|A Knight of the Seven Kingdoms]]", "[[The Long Night]]" and "[[The Bells]]".
+
+In ''[[House of the Dragon]]'', he was a stunt performer in the [[House of the Dragon: Season 1|first season]] episodes "[[King of the Narrow Sea (episode)|King of the Narrow Sea]]" and "[[Driftmark (episode)|Driftmark]]" and the [[House of the Dragon: Season 2|second season]] episodes "[[A Son for a Son]]", "[[Rhaenyra the Cruel]]", "[[The Burning Mill]]", "[[The Red Dragon and the Gold]]", "[[The Red Sowing]]" and "[[The Queen Who Ever Was]]".
+
+==Credits==
+===Stunts===
+====''[[Game of Thrones]]''====
+{{Game of Thrones: Season 7|yes||||yes|yes|yes}}
+{{Game of Thrones: Season 8||yes|yes||yes}}
+
+====''[[House of the Dragon]]''====
+{{House of the Dragon: Season 1||||yes|||yes}}
+{{House of the Dragon: Season 2|yes|yes|yes|yes|||yes|yes}}
+
+==See also==
+*{{IMDb
+|# = 7430382}}
+{{DEFAULTSORT:Hansen, Lawrence}}
+[[Category:Stunt performers of Game of Thrones]]
+[[Category:Stunt performers of House of the Dragon]]

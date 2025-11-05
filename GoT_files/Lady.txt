@@ -1,0 +1,84 @@
+{{Canonicity|Canon}}
+{{Animal
+| Title       = {{PAGENAME}}
+| Type        = Stark
+| Image       = Eddard & Lady.jpg
+| Species     = [[Direwolf]]
+| Birth       = [[298 AC]]{{Dateref|Game of Thrones: Season 1}}<br>The [[North]], the [[Seven Kingdoms]]
+| Death       = [[298 AC]]{{Dateref|Game of Thrones: Season 1}} (aged 0)<br>The [[Inn at the Crossroads]], the [[Riverlands]]
+| AKA         = 
+| Affiliation = [[Sansa Stark]]
+| Family      = {[[Grey Wind]]} {{C|brother}}<br>[[Nymeria (direwolf)|Nymeria]] {{C|sister}}<br>{[[Summer]]} {{C|brother}}<br>{[[Shaggydog]]} {{C|brother}}<br>[[Ghost]] {{C|brother}}
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 1|1]]
+| Appearances = 2 episodes {{Below|Appearances}}
+| First       = "[[Winter Is Coming]]"
+| Last        = "[[The Kingsroad]]"
+| DeathEp     = "The Kingsroad"
+}}
+{{Quote|Lady didn't bite anyone! She's good!|Sansa Stark about Lady|The Kingsroad}}
+'''Lady''' was one of six [[direwolf]] pups found by the children of [[House Stark]]. Lady was adopted and raised by [[Sansa Stark]].
+
+==Biography==
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+Lady was adopted as a pup with the rest of the Stark direwolves, after [[Eddard Stark]] and his entourage came upon the pups and their deceased mother. At [[Jon Snow]]'s request, the pups were spared and each Stark child adopted one as their own. Sansa named her direwolf Lady.{{Ref|GOT101}}
+
+Having grown to the size of an adult dog already, Lady accompanies Sansa when she moves to [[King's Landing]]. While they are near the [[Inn at the Crossroads]], however, she is executed by her father after [[Cersei Lannister|Cersei]] spitefully demands she be killed in place of [[Nymeria (direwolf)|Nymeria]], who was driven away by [[Arya Stark|Arya]] to save her from certain death after biting [[Joffrey Baratheon|Joffrey]] in defense of Arya. Although [[Ilyn Payne]] was supposed to kill Lady, Ned remorsefully carried out the sentence himself citing that, being of the [[North]], Lady deserves a merciful death than being butchered. At the moment Lady is killed, [[Bran Stark|Bran]] awakes from his coma.{{Ref|GOT102}}
+
+==Family==
+{{Direwolf tree}}
+
+==Behind the scenes==
+[[File:Sophie Turner and Zunni 1.png|thumb|Sophie Turner and Zunni, who played Lady.]]
+Series author [[George R.R. Martin]] reported on his blog that after the filming of the episode in which Sansa's direwolf, Lady, is executed, the dog that played Lady, a Northern Inuit named Zunni, was adopted by [[Sophie Turner]], the actress who plays Sansa.<ref>http://www.imdb.com/title/tt0944947/trivia</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Lady is arguably the gentlest and most trusting of the six wolf pups, as well as the smallest.
+
+When [[Robert Baratheon|Robert]] acquiesces to Cersei's demand that Lady be put down in place of Nymeria, Ned beseeches him to reconsider by invoking the name of his deceased sister [[Lyanna Stark|Lyanna]], which appears to have an effect on Robert, as he turns around and curses Cersei. Ned also goes on to tell Robert to do it himself, but Robert slowly walks away. Sansa pleads for Lady's life, reminding Ned of his sister's pleading. With great reluctance, Ned gives Lady a quick death, but refuses to let Cersei have her pelt, and orders a group of his men to take the slain direwolf back to Winterfell for burial, which they do. [[Grey Wind]], [[Summer]], and [[Shaggydog]] are later heard howling in grief for their fallen sister near her grave. Robert later tells Ned that he is sorry for allowing Lady to be killed, adding that he knows Joffrey was lying about being attacked.
+
+There is no connection in the books between Lady's death and Bran's awakening.
+
+When Catelyn tells Ned about the [[Catspaw|attempt]] on Bran's life and how [[Summer|his direwolf]] saved his life, Ned recalls what Jon said about the pack ("''Your children were meant to have these pups''"), and is filled with guilt and fear about killing Lady: If the gods had sent these wolves, what folly had he done?
+
+While Sansa stays at [[Petyr Baelish|Littlefinger]]'s [[Baelish keep|ancestral home]], she befriends an old blind guard dog. Recalling her dead direwolf, she says to the old dog, "I wish that you were Lady".
+
+While Cersei performs the [[walk of atonement]], she begins to hallucinate and sees Sansa with a shaggy grey dog that might have been Lady.
+
+Both in the books and the TV show, Lady is the first to die of the pack.
+
+==Gallery==
+<gallery>
+Sansa in the Camp.jpg|[[Sansa Stark]] and Lady on the Kingsroad.
+Screen Shot 2013-06-16 at 12.54.45 AM.png|Lady in "The Kingsroad."
+</gallery>
+
+==Appearances==
+*{{GOT|Pilot}} {{Nc}}
+*{{GOT|Winter Is Coming}}
+*{{GOT|The Kingsroad}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Direwolves}}
+
+<!--Categories-->
+[[Category:Direwolves]]
+[[Category:Individuals appearing in Game of Thrones]]
+
+<!--Languages-->
+[[de:Lady (Schattenwolf)]]
+[[es:Dama]]
+[[fr:Lady]]
+[[pl:Dama]]
+[[pt-br:Lady (lobo gigante)]]
+[[ru:Леди]]
+[[zh:淑女]]

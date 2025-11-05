@@ -1,0 +1,26 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Jonathan Staples.png
+| Birth   = 
+| Death   = 
+| Role    = Special action performer
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = "[[The Rogue Prince]]"
+| First   = 
+| Last    = 
+}}
+'''Jonathan Staples''' is a stuntman and actor.
+
+In ''[[House of the Dragon]]'', he was a special action performer in the [[House of the Dragon: Season 1|first season]] episode "[[The Rogue Prince]]".
+
+==Credits==
+===Stunts===
+{{House of the Dragon: Season 1||yes}}
+
+==See also==
+*{{IMDb
+|# = 10462509}}
+{{DEFAULTSORT:Staples, Jonathan}}
+[[Category:Stunt performers of House of the Dragon]]

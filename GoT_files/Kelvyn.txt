@@ -1,0 +1,63 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Order of Maesters.svg
+| Link  = Order of Maesters
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Citadel
+| Image       = Kelvyn.png
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[Order of Maesters]]{{Ref|HOTD108}}<br>[[House Velaryon]]{{Ref|HOTD107}}
+| Titles      = Maester{{Ref|HOTD108}}
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 1|1]]
+| Appearances = 2 episodes {{Below|Appearances}}
+| First       = "[[Driftmark (episode)|Driftmark]]"
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Haqi Ali]]
+}}
+'''Kelvyn''' is a [[Order of Maesters|maester]] of the [[Citadel]] in service to [[House Velaryon]] at [[High Tide]].
+
+==Biography==
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+After the funeral of [[Laena Velaryon]], Kelvyn tends to [[Aemond Targaryen|Aemond]]'s eye injury, [[Lucerys Velaryon|Luke]]'s broken nose, and [[Rhaenyra Targaryen|Rhaenyra]]'s cut.{{Ref|HOTD107}}
+
+Kelvyn informs [[Rhaenys Targaryen]] that [[Corlys Velaryon|Corlys]] has been gravely injured in the [[Stepstones]].{{Ref|HOTD108}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels and ''[[Fire & Blood]]'', there is no character named Kelvyn. The name of the maester in service of House Velaryon during the rule of Corlys Velaryon is unknown.
+
+==Appearances==
+*{{HOTD|Driftmark}}
+*{{HOTD|The Lord of the Tides}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House Velaryon}}
+
+<!--Categories-->
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Maesters]]
+[[Category:Servants and retainers of House Velaryon]]
+[[Category:Westerosi]]
+
+<!--Languages-->
+[[es:Kelvyn]]
+[[fr:Kelvyn]]
+[[ru:Кельвин]]

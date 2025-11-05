@@ -1,0 +1,26 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Jonathan Fee.jpg
+| Birth   = 
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = "[[Second of His Name]]"
+| First   = 
+| Last    = 
+}}
+'''Jonathan Fee''' is a stuntman.
+
+In ''[[House of the Dragon]]'', he was a stunt performer in the [[House of the Dragon: Season 1|first season]] episode "[[Second of His Name]]".
+
+==Credits==
+===Stunts===
+{{House of the Dragon: Season 1|||yes}}
+
+==See also==
+*{{IMDb
+|# = 14014437}}
+{{DEFAULTSORT:Fee, Jonathan}}
+[[Category:Stunt performers of House of the Dragon]]

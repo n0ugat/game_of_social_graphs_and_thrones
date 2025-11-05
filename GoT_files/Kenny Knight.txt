@@ -1,0 +1,38 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Kenny Knight.jpg
+| Birth   = Ekene Ikedife<br>April 23, 1987 {{Age|1987|4|23}}<br>Brighton, East Sussex, England
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = "[[Second of His Name]]"
+| First   = 
+| Last    = 
+}}
+'''Ekene Ikedife''' (born April 23, 1987), known professionally as '''Kenny Knight''', is an English stuntman and actor.
+
+In ''[[House of the Dragon]]'', he was a stunt performer in the [[House of the Dragon: Season 1|first season]] episode "[[Second of His Name]]".
+
+==Credits==
+===Stunts===
+{{House of the Dragon: Season 1|||yes}}
+
+==See also==
+*{{IMDb
+|# = 2147617}}
+*{{Twitter
+|# = kenny_stunts}}
+*{{Twitter
+|# = kennyknightpt}}
+*{{Instagram
+|# = kennyknightpt}}
+*{{Facebook
+|# = kennyknightpt}}
+*{{YouTube
+|# = channel/UCdAsCDb7oADgP2d49VK71LQ}}
+*{{Linkedin
+|# = /in/kennyknightpt}}
+{{DEFAULTSORT:Knight, Kenny}}
+[[Category:Stunt performers of House of the Dragon]]

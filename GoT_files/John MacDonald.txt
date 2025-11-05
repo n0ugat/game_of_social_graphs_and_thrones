@@ -1,0 +1,28 @@
+{{Crew
+|Image = John Macdonald.jpg
+|dateofbirth = 
+|birthplace = {{WPS|United Kingdom}}
+|job = Stunt Performer
+|imdb = http://www.imdb.com/name/nm7517591
+|twitter = https://twitter.com/hashtagJohnMac/}}
+'''John MacDonald''' is a British stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 8|eighth season]] episode "[[The Bells]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 8|||||yes}}
+
+==See also==
+*{{IMDb
+|# = 7517591}}
+*{{Twitter
+|# = hashtagJohnMac}}
+*{{Instagram
+|# = hashtagjohnmac}}
+*{{Vimeo
+|# = user61353659}}
+
+==References==
+{{reflist}}{{DEFAULTSORT:MacDonald, John}}
+[[Category:Stunt performers of Game of Thrones]]

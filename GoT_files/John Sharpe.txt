@@ -1,0 +1,26 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = John Sharpe.jpg
+| Birth   = 
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = "[[Second of His Name]]"
+| First   = 
+| Last    = 
+}}
+'''John Sharpe''' is a stuntman and actor.
+
+In ''[[House of the Dragon]]'', he was a stunt performer in the [[House of the Dragon: Season 1|first season]] episode "[[Second of His Name]]".
+
+==Credits==
+===Stunts===
+{{House of the Dragon: Season 1|||yes}}
+
+==See also==
+*{{IMDb
+|# = 5233309}}
+{{DEFAULTSORT:Sharpe, John}}
+[[Category:Stunt performers of House of the Dragon]]

@@ -1,0 +1,36 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Joshua Ben-Tovim.jpg 
+| Birth   = 
+| Death   = 
+| Role    = [[Brynden Rivers]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]]
+| Credits = "[[The Queen Who Ever Was]]"
+| First   = 
+| Last    = 
+}}
+'''Joshua Ben-Tovim''', also known as '''Josh Ben-Tovim''', is a director, actor, and dancer. In ''[[House of the Dragon]]'', he portrayed [[Brynden Rivers]].
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 2||||||||yes}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb|# = 11468001}}
+*{{Twitter|# = JoshBentovim}}
+*{{Instagram|# = joshbentovim}}
+*{{Facebook|# = josh.bentovim}}
+*{{YouTube|# = joshben-tovim8811}}
+*{{Linkedin|# = in/josh-ben-tovim-6b15a226}}
+
+<!--Categories-->
+{{DEFAULTSORT:Ben-Tovim, Joshua}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Joshua Ben-Tovim]]

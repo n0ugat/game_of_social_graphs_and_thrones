@@ -1,0 +1,31 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Jocelyn Diaz.jpg
+| Birth   = 
+| Death   = 
+| Role    = Executive producer
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = 
+| First   = 
+| Last    = 
+}}
+'''Jocelyn Diaz''' is a film producer. She was an executive producer on the [[House of the Dragon: Season 1|first season]] of ''[[House of the Dragon]]''.<ref>https://www.hbo.com/house-of-the-dragon</ref> She is not returning for the [[House of the Dragon: Season 2|second season]].<ref>https://deadline.com/2022/09/house-of-the-dragon-jocelyn-diaz-exits-season-2-executive-producer-1235127500/</ref>
+
+==Credits==
+===Executive producer===
+*{{HOTD|Season 1}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb|#=8166789}}
+
+<!--Categories-->
+{{DEFAULTSORT:Diaz, Jocelyn}}
+[[Category:Executive producers of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Jocelyn Diaz]]

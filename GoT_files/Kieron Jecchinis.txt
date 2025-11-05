@@ -1,0 +1,33 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Kieron Jecchinis.jpg
+| Birth   = England
+| Death   = 
+| Role    = Dragonkeeper Elder
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]] {{*}} [[House of the Dragon: Season 2|2]]
+| Credits = 4 episodes {{Below|Credits}}
+| First   = "[[The Lord of the Tides]]"
+| Last    = 
+}}
+'''Kieron Jecchinis''' is an English actor best known for his role as Crazy Earl in {{WPS|Stanley Kubrick}}'s ''{{WPS|Full Metal Jacket}}''. He has  also appeared in the films ''{{WPS|Empire of the Sun (film)|Empire of the Sun}}'', ''{{WPS|Coriolanus (film)|Coriolanus}}'' and ''{{WPS|Jack Ryan: Shadow Recruit}}'' and the television series ''{{WPS|Agatha Christie's Poirot}}'', ''{{WPS|The Bill}}'', ''{{WPS|Doctors (2000 TV series)|Doctors}}'', ''{{WPS|EastEnders}}'' and ''{{WPS|Coronation Street}}''.
+
+In ''[[House of the Dragon]]'', he portrayed a Dragonkeeper Elder.
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1||||||||yes}}
+{{House of the Dragon: Season 2||||yes||yes|yes}}
+
+==See also==
+*{{IMDb|# = 0420029}}
+*{{Twitter|# = HRHSpankyman}}
+*{{Linkedin|# = /in/kieron-jecchinis-6578a03a}}
+
+<!--Categories-->
+{{DEFAULTSORT:Jecchinis, Kieron}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--InterWiki-Links-->
+[[fr:Kieron Jecchinis]]

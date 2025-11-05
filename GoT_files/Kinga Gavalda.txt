@@ -1,0 +1,24 @@
+{{Crew
+|Image = Kinga Gavalda.jpg
+|dateofbirth = {{WPS|February 19}}, {{WPS|1981}}
+|birthplace = {{WPS|Hungary}}
+|job = Stunt Performer
+|imdb = http://www.imdb.com/name/nm2379868
+|twitter = }}
+'''Kinga Gavalda Kosa''' (born February 19, 1981) is a Hungarian stuntwoman and actress.
+
+In ''[[Game of Thrones]]'', she was a stunt performer in the [[Game of Thrones: Season 1|first season]] episode "[[Winter Is Coming]]".
+
+She was also a stunt double for [[Emilia Clarke]] in the [[Game of Thrones: Season 1|first season]] episode "[[Fire and Blood]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 1|yes|||||||||yes}}
+
+==See also==
+*{{IMDb
+|# = 2379868}}
+*{{Facebook
+|# = kinga.gavalda}}
+{{DEFAULTSORT:Gavalda, Kinga}}
+[[Category:Stunt performers of Game of Thrones]]

@@ -1,0 +1,71 @@
+{{Canonicity|Non}}
+{{Heraldry
+| Leftimage  = House Umber.svg
+| Leftlink   = House Umber
+| Rightimage = Night's Watch.svg
+| Rightlink  = Night's Watch
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = Umber lineage.jpg
+| Birth       = [[225 AC]]{{Dateref|Kear Umber}} at [[Last Hearth]]
+| Death       = [[275 AC]]{{Dateref|Kear Umber death}} (aged 50) [[beyond the Wall]]<br>Froze to death
+| House       = [[House Umber|Umber]]
+| Affiliation = [[Night's Watch]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Northmen|Northern]]
+| Religion    = [[Old Gods]]
+| Father      = {[[Gareth Umber]]}
+| Mother      = {[[Hollys Umber|Hollys Tallhart]]}
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = {[[Emilia Umber]]}<br>{[[Brandon Umber]]}<br>{[[Finn Umber]]}<br>{[[Iain Umber (son of Gareth)|Iain Umber]]}<br>{[[Morgana Umber]]}
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Kear Umber''' was a member of [[House Umber]].
+
+==Biography==
+===Background===
+Gareth Umber was the second born son of [[Gareth Umber]] and his wife [[Hollys Umber|Hollys Tallhart]]. Gareth joined the [[Night's Watch]], which he served until he froze to death beyond the Wall at fifty years old.{{Ref|GOT104}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+He has an entry in ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]''.{{Ref|GOT104}}
+
+==In the books==
+Kear Umber is referenced only in the TV adaptation of ''[[A Song of Ice and Fire]]'' and has no corresponding counterpart in the books.
+
+==Appearances==
+*{{GOT|Cripples, Bastards, and Broken Things}} {{Text}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{House Umber}}
+
+<!--Categories-->
+{{DEFAULTSORT:Umber, Kear}}
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Members of House Umber|Kear Umber]]
+[[Category:Men of the Night's Watch]]
+[[Category:Northmen]]
+
+<!--Languages-->
+[[de:Kear Umber]]
+[[es:Kear Umber]]
+[[fr:Kear Omble]]
+[[ru:Кир Амбер]]

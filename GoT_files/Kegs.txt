@@ -1,0 +1,69 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Night's Watch.svg
+| Link  = Night's Watch
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = Kegs.jpg
+| Birth       = 
+| Death       = [[301 AC]]{{Dateref|Game of Thrones: Season 4}}<br>[[Mole's Town]], the [[Gift]]{{Ref|GOT408}}
+| House       = 
+| Affiliation = [[Night's Watch]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 4|4]]
+| Appearances = "[[The Mountain and the Viper]]"
+| First       = 
+| Last        = 
+| DeathEp     = "The Mountain and the Viper"
+| Actor       = [[Tim Landers]]
+}}
+{{Dialogue a-b-a-b|Grenn|We just cower in here while they slaughter our brothers?|Edd|Our brother had orders to stay at Castle Black.|Oh, so it's alright, then?! Black Jack and Kegs and Mully chopped to pieces because they broke the rules?!|I didn't say it was alright! I'm saying they shouldn't have been there.|[[Grenn]] and [[Eddison Tollett]]|The Mountain and the Viper}}
+'''Kegs''' was a [[Builder]] of the [[Night's Watch]].
+
+==Biography==
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+Along with [[Jack Bulwer|Black Jack Bulwer]] and [[Mully]], he travels to the [[Prostitution|brothel]] in [[Mole's Town]]. They sit drinking and listening to a [[Mole's Town whore|whore]] belching out the melodies to popular songs. Kegs guesses that she is belching "[[The Rains of Castamere]]," and she chastises him for getting it wrong. They are later slaughtered when a group of [[Free Folk|wildlings]] led by [[Tormund]] and [[Styr]] [[Sack of Mole's Town|attack the village]]. News of their deaths soon reaches [[Castle Black]].{{Ref|GOT408}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Kegs is a [[Builder]] of the Night's Watch. He is noted to be slow. He is not killed in a wildling attack on Mole's Town. 
+
+During the Battle of Castle Black, while retreating with other defenders to the stair, Kegs is caught and nearly killed by a [[Thenns|Thenn]], but he is saved by a crossbow shot from Satin. So far he is alive and well.
+
+==Appearances==
+*{{GOT|The Mountain and the Viper}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Night's Watch}}
+
+<!--Categories-->
+[[Category:Builders of the Night's Watch]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Westerosi]]
+
+<!--Languages-->
+[[de:Kegs]]
+[[fr:Muid]]
+[[ru:Кегс]]

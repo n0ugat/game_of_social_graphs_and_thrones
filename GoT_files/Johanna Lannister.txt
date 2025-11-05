@@ -1,0 +1,72 @@
+{{Canonicity|Canon}}
+{{Spoiler|HOTD}}
+{{BookConjecture}}
+{{SameName|wife of Jason Lannister|wife of Tywin Lannister|Joanna Lannister}}
+{{Heraldry
+| Leftimage  = House Westerling.svg
+| Leftlink   = House Westerling
+| Rightimage = House Lannister.svg
+| Rightlink  = House Lannister/House of the Dragon
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Lannister
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = [[House Westerling|Westerling]]{{Con|F&B}}<br>[[House Lannister/House of the Dragon|Lannister]]{{Ref|H&L601}} {{C|by marriage}}
+| Affiliation = 
+| Titles      = 
+| AKA         = 
+| Culture     = [[Westerlands|Westermen]]{{Con|F&B}}
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = [[Jason Lannister]]{{Ref|H&L601}}
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+Lady '''Johanna Lannister''',{{Con|TWOI&F}} née '''Westerling''',{{Con|F&B}} is the wife of [[Jason Lannister]].{{Ref|H&L601}}
+
+==Family==
+{{Lannister tree (House of the Dragon)}}
+
+==In the books==
+In ''[[The World of Ice & Fire]]'' and ''[[Fire & Blood]]'', Johanna Lannister is the wife of Lord [[Jason Lannister]].
+
+==Appearances==
+*{{H&L|The Old Way}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{House Westerling/House of the Dragon}}
+{{House Lannister/House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Lannister, Johanna}}
+[[Category:Individuals from Histories & Lore]]
+[[Category:Ladies]]
+[[Category:Members of House Lannister|Johanna Lannister]]
+[[Category:Members of House Westerling|Johanna Lannister]]
+[[Category:Westermen]]
+
+<!--Languages-->
+[[pl:Johanna Lannister]]
+[[ru:Джоханна Ланнистер]]

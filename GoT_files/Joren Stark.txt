@@ -1,0 +1,61 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Leftimage  = House Stark.svg
+| Leftlink   = House Stark/House of the Dragon
+| Rightimage = Night's Watch.svg
+| Rightlink  = Night's Watch
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = 2x01 Joren Stark Profile.png 
+| Birth       = 
+| Death       = 
+| House       = [[House Stark/House of the Dragon|Stark]]
+| Affiliation = [[Night's Watch]]
+| Titles      = 
+| AKA         = 
+| Culture     = [[Northmen|Northern]]
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 2|2]]
+| Appearances = "[[A Son for a Son]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[James Craven]]
+}}
+'''Joren Stark'''{{Webref|name=Spotlight |author=Unknown author |date=Unknown date |url=https://www.spotlight.com/9097-9056-3430 |title=JAMES CRAVEN |website=Spotlight |access-date=July 21, 2024 }} is a member of the [[Night's Watch]].
+
+==Biography==
+===[[House of the Dragon: Season 2|''House of the Dragon'': Season 2]]===
+Joren is chosen by lot to join the Night's Watch as part of a traditional offering started by [[Torrhen Stark]].{{Ref|HOTD201}}
+
+==In the books==
+In ''[[Fire & Blood]]'', there is no character named Joren Stark.
+
+==Appearances==
+*{{HOTD|A Son for a Son}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House Stark/House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Stark, Joren}}
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Members of House Stark|Joren Stark]]
+[[Category:Men of the Night's Watch]]
+[[Category:Northmen]]
+
+<!--Languages-->
+[[pl:Joren Stark]]

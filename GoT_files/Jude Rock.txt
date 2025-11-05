@@ -1,0 +1,27 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Jude Rock.jpg
+| Birth   = 
+| Death   = 
+| Role    = [[Jaehaerys Targaryen (son of Aegon II)|Jaehaerys Targaryen]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]]
+| Credits = "[[A Son for a Son]]"
+| First   = 
+| Last    = 
+}}
+'''Jude Rock''' is a child actor.
+
+Rock plays [[Jaehaerys Targaryen (son of Aegon II)|Jaehaerys Targaryen]] in the [[House of the Dragon: Season 2|second season]] of ''[[House of the Dragon]]''.
+
+==Credits==
+===Uncredited===
+{{House of the Dragon: Season 2|yes}}
+
+<!--Categories-->
+{{DEFAULTSORT:Rock, Jude}}
+[[Category:Uncredited cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Jude Rock]]

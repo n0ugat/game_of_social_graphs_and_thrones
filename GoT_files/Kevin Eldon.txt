@@ -1,0 +1,33 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Kevin Eldon.jpg
+| Birth   = October 3, 1960 {{Age|1960|10|3}}<br>Kent, England
+| Death   = 
+| Role    = [[Camello]]<br>[[Gold Cloak 2 (Eastwatch)|Gold Cloak]]
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 6|6]] {{*}} [[Game of Thrones: Season 7|7]]
+| Credits = 3 episodes {{Below|Credits}}
+| First   = "[[The Door]]"
+| Last    = "[[Eastwatch]]"
+}}
+'''Kevin Eldon''' is an English actor and comedian. He has appeared in television series such as ''I'm Alan Partridge'', ''Jam'', ''Spaced'', ''Brass Eye'', ''Big Train'', ''Skins'', ''Robin Hood'', ''Merlin'', ''The IT Crowd'' and ''Ruddy Hell! It's Harry and Paul'' and films such as ''Charlie and the Chocolate Factory'', ''Hot Fuzz'', ''Four Lions'', ''Arthur Christmas'' and ''Hugo''.
+
+In ''[[Game of Thrones]]'', he portrayed [[Camello]] in the [[Game of Thrones: Season 6|sixth season]] and a [[Gold Cloak 2 (Eastwatch)|Gold Cloak]] in the [[Game of Thrones: Season 7|seventh season]].<ref>[http://watchersonthewall.com/kevin-eldon-joins-the-cast-of-game-of-thrones/ Watchers on the Wall — Kevin Eldon joins the cast of Game of Thrones]</ref>
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 6|||||yes|yes}}
+{{Game of Thrones: Season 7|||||yes}}
+
+==See also==
+*{{WP}}
+*{{IMDb
+|# = 0253126}}
+
+==References==
+{{Reflist}}[[de:Kevin Eldon]]
+[[fr:Kevin Eldon]]
+[[ru:Кевин Элдон]]
+{{DEFAULTSORT:Eldon, Kevin}}
+[[Category:Guest starring cast members of Game of Thrones]]

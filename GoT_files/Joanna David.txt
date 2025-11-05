@@ -1,0 +1,31 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Joanna David.jpg
+| Birth   = Joanna Elizabeth Hacking<br>January 17, 1947 {{Age|1947|1|17}}<br>Lancaster, Lancashire, England
+| Death   = 
+| Role    = [[Joselyn Redwyne]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = "[[Second of His Name]]"
+| First   = 
+| Last    = 
+}}
+'''Joanna David''' (born '''Joanna Elizabeth Hacking'''; 17 January, 1947) is an English actress. She has appeared in the films ''{{WPS|Anna Karenina (1985 film)|Anna Karenina}}'' and ''{{WPS|You Will Meet a Tall Dark Stranger}}'' and the television series ''{{WPS|Sense and Sensibility (1971)|Sense and Sensibility}}'', ''{{WPS|The Last of the Mohicans (TV series)|The Last of the Mohicans}}'', ''{{WPS|War and Peace (1972 TV series)|War and Peace}}'', ''{{WPS|Ballet Shoes (TV serial)|Ballet Shoes}}'', ''{{WPS|Rebecca (1979 TV series)|Rebecca}}'', ''{{WPS|The Agatha Christie Hour}}'', ''{{WPS|Jackanory}}'', ''{{WPS|First Among Equals (TV series)|First Among Equals}}'', ''{{WPS|Prince Caspian and The Voyage of the Dawn Treader (1989 TV serial)|Prince Caspian and the Voyage of the Dawn Treader}}'', ''{{WPS|Inspector Morse (TV series)|Inspector Morse}}'', ''{{WPS|Pride and Prejudice (1995 TV series)|Pride and Prejudice}}'', ''{{WPS|A Touch of Frost}}'', ''{{WPS|Dalziel and Pascoe (TV series)|Dalziel and Pascoe}}'', ''{{WPS|Foyle's War}}'', ''{{WPS|Heartbeat (British TV series)|Heartbeat}}'', ''{{WPS|Midsomer Murders}}'', ''{{WPS|Agatha Christie's Marple}}'', ''{{WPS|Holby City}}'', ''{{WPS|Downton Abbey}}'', ''{{WPS|Death in Paradise (TV series)|Death in Paradise}}'', ''{{WPS|Doctors (2000 TV series)|Doctors}}'', and ''{{WPS|Casualty (TV series)|Casualty}}''.
+
+In ''[[House of the Dragon]]'', she portrayed Lady [[Joselyn Redwyne]] in the [[House of the Dragon: Season 1|first season]]. Her son, [[Freddie Fox]], portrays [[Gwayne Hightower]] in the [[House of the Dragon: Season 2|second season]].
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1|||yes}}
+
+==See also==
+*{{WP}}
+*{{IMDb|# = 0202945}}
+
+<!--Categories-->
+{{DEFAULTSORT:David, Joanna}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--InterWiki-Links-->
+[[fr:Joanna David]]

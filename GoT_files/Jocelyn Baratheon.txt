@@ -1,0 +1,80 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Leftimage  = House Baratheon.svg
+| Leftlink   = House Baratheon/House of the Dragon
+| Rightimage = House Targaryen.svg
+| Rightlink  = House Targaryen/House of the Dragon
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Targaryen
+| Image       = 
+| Birth       = [[Storm's End]], the [[Stormlands]]{{Con|F&B}}
+| Death       = 
+| House       = [[House Baratheon/House of the Dragon|Baratheon]]{{Guideref|Character Guide}}<br>[[House Targaryen/House of the Dragon|Targaryen]]{{Guideref|Character Guide}} {{C|by marriage}}
+| Affiliation = 
+| Titles      = 
+| AKA         = 
+| Culture     = [[Stormlands|Stormlander]]{{Guideref|Character Guide}}
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = {[[Aemon Targaryen (son of Jaehaerys I)|Aemon Targaryen]]}{{Guideref|Character Guide}}
+| Lovers      = 
+| Issue       = {[[Rhaenys Targaryen]]}{{Guideref|Character Guide}}
+| Siblings    = 
+| Arms        = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|You have Baratheon blood from your grandmother, Rhaenys.|[[Rhaenyra Targaryen]] to [[Lucerys Velaryon]]|The Black Queen}}
+'''Jocelyn Baratheon''' was the wife of Prince [[Aemon Targaryen (son of Jaehaerys I)|Aemon Targaryen]], and the mother of Princess [[Rhaenys Targaryen]].
+
+==Biography==
+Born a [[House Baratheon|Baratheon]] of [[Storm's End]], Lady Jocelyn wed Prince Aemon Targaryen, the eldest son of [[Jaehaerys I Targaryen]]. They had one daughter, Princess Rhaenys. Jocelyn passed away by 112 AC.{{Dateref|The Heirs of the Dragon}}{{Guideref|Character Guide}}
+
+==Family==
+{{Targaryen tree (House of the Dragon)}}
+
+==In the books==
+In ''[[Fire & Blood]]'', Jocelyn is the daughter of Lord Rogar Baratheon and Queen Alyssa Velaryon, the latter of whom was the widow of King [[Aenys I Targaryen]]. Her mother died giving birth to her; her father believed she was to be a son, and risked her mother's life by agreeing to a dangerous procedure that cost Alyssa her life, to the horror of Jocelyn's much older half-sister, Princess [[Rhaena Targaryen (daughter of Aenys)|Rhaena]]. Jocelyn was the full sister of Lord [[Boremund Baratheon]].
+
+Jocelyn was eventually fostered at [[King's Landing]] as a [[ward]] of her half-siblings, King [[Jaehaerys I Targaryen]] and Queen [[Alysanne Targaryen|Alysanne]] at the request of her terminally ill father. She sat by her half-nephew, Prince Aemon, in the ceremony after he was invested as [[Prince of Dragonstone]]. They were betrothed some years later, though Aemon had originally been betrothed to his older sister Daenerys, who had died of the Shivers. Some years later, they were wed in a splendid ceremony.
+
+Jocelyn had only one child: a daughter, Rhaenys, who for a time was considered as a potential future queen of Westeros. However, Jocelyn was widowed when her husband died on [[Tarth]], attempting to stop an invasion of the island by [[Myr]]ish pirates. She was angered to see her daughter and potential descendants passed over when King Jaehaerys declared her husband's younger brother, Prince [[Baelon Targaryen (son of Jaehaerys I)|Baelon Targaryen]], to be the new Prince of Dragonstone. Though she lived to see the birth of her granddaughter, [[Laena Velaryon]], her precise date of death is unknown.
+
+It is unclear if Jocelyn is the sister of Boremund Baratheon in the TV series, as Rhaenys addresses him as her cousin rather than her uncle.
+
+==Appearances==
+*{{HOTD|The Black Queen}} {{Indirect}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{House Baratheon/House of the Dragon}}
+{{House Targaryen/House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Baratheon, Jocelyn}}
+[[Category:Individuals mentioned in House of the Dragon]]
+[[Category:Ladies]]
+[[Category:Members of House Baratheon|Jocelyn Baratheon]]
+[[Category:Members of House Targaryen|Jocelyn Baratheon]]
+[[Category:Stormlanders]]
+
+<!--Languages-->
+[[es:Jocelyn Baratheon]]
+[[fr:Jocelyne Baratheon]]
+[[ru:Джоселин Баратеон]]

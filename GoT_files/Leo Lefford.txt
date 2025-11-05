@@ -1,0 +1,79 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = House Lefford.svg
+| Link  = House Lefford
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Lannister
+| Image       = Leo Lefford.jpg
+| Birth       = [[Golden Tooth]]
+| Death       = 
+| House       = [[House Lefford|Lefford]]
+| Affiliation = [[House Lannister]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Westerlands|Westermen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 1|1]]
+| Appearances = 2 episodes {{Below|Appearances}}
+| First       = "[[Baelor]]"
+| Last        = "[[Fire and Blood]]"
+| DeathEp     = 
+| Actor       = [[Vinnie McCabe]]
+}}
+{{Quote|The first order of business is ransoming Ser Jaime.|Leo Lefford|Fire and Blood}}
+[[File:LannisterCouncil.jpg|thumb|180x180px|Leo at a meeting with Tywin.]]
+Lord '''Leo Lefford'''{{Con|ASOIAF}} is the head of [[House Lefford]] and Lord of the [[Golden Tooth]]. He is fighting for his liege lord [[Tywin Lannister]] in the [[War of the Five Kings]].
+
+==Biography==
+===Background===
+Leo Lefford is the Lord of the [[Golden Tooth]] and the head of [[House Lefford]], a vassal house of [[House Lannister]].{{Ref|GOT110}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+Leo Lefford has dinner with [[Tywin Lannister|Tywin]] and his other commanders the night before their victory in the [[battle on the Green Fork]].{{Ref|GOT109}} He is present for a strategy meeting with Tywin following the defeat in the [[Battle of Whispering Wood]]. He wears a blue and yellow cloak over his armor. Also present are [[Tyrion Lannister|Tyrion]], [[Kevan Lannister|Kevan]], [[Addam Marbrand]], another bannerman, Tywin's servant and several Lannister officers. He reports that [[Grey Wind]] killed a dozen men and as many horses during the battle. He believes that they should try to ransom [[Jaime Lannister|Jaime]]. He also suggests returning to [[Casterly Rock]] to raise levies. Tywin dismisses his bannermen and then announces plans to relocate to [[Harrenhal]].{{Ref|GOT110}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the bannermen present for the meeting are Leo Lefford, Harys Swyft, and Addam Marbrand. It is Lefford who suggests ransoming Jaime, but several of Lefford's other lines from the passage in the book are given to Kevan in the episode. 
+
+Lord Leo Lefford is the bannerman in charge of Tywin's baggage train. He later participates in the [[Battle of the Fords#In the books|Battle of the Fords]], in which he drowns. 
+
+According to the appendices of the fourth and fifth novels, he is succeeded by Lady Alysanne Lefford as the head of House Lefford.
+
+==Appearances==
+*{{GOT|Baelor}}
+*{{GOT|Fire and Blood}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Lefford}}
+
+<!--Categories-->
+{{DEFAULTSORT:Lefford, Leo}}
+[[Category:Bannermen of House Lannister]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Lords]]
+[[Category:Members of House Lefford|Leo Lefford]]
+[[Category:Westermen]]
+
+<!--Languages-->
+[[de:Leo Leffert]]
+[[ru:Лео Леффорд]]

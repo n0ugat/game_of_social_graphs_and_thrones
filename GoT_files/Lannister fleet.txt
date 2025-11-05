@@ -1,0 +1,38 @@
+{{Canonicity|Canon}}
+{{Stub}}
+{{Organization
+| Title       = {{PAGENAME}}
+| Theme       = Lannister
+| Image       =Lannister Fleet.png 
+| Type        = Fleet
+| Status      = Defunct
+| Symbol      = 
+| Words       = 
+| Center      = [[Lannisport]]
+| Leader      = 
+| Affiliation = [[House Lannister]]
+| Religion    = 
+| Military    = 
+| Founded     = 
+}}
+{{Quote|I still remember seeing my father's fleet burn in Lannisport. I believe your uncles were responsible.|[[Tyrion Lannister]] to [[Theon Greyjoy]]|Cripples, Bastards, and Broken Things}}
+The '''Lannister fleet'''{{Ref|GOT701}} was a fleet of ships commanded by [[House Lannister]] of [[Casterly Rock]]. It was anchored at the port city of [[Lannisport]].
+
+==History==
+When [[Balon Greyjoy]], [[Lord Reaper of Pyke]], first [[Greyjoy Rebellion|rebelled]] against King [[Robert Baratheon]] and declared himself [[King of the Iron Islands]], his brother [[Euron Greyjoy|Euron]] carried out an [[Raid on Lannisport|attack]] against the Lannister fleet and burned it at port, in order to prevent it being used against the [[Iron Islands]]. This was, however, the only [[Ironborn]]'s victory during the rebellion; [[Stannis Baratheon|Stannis]] led the [[royal fleet]] to victory against the Ironborn.<ref>"[[Cripples, Bastards, and Broken Things]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, no information is given about the Lannister fleet (like the number of its ships), except that it was destroyed by [[Victarion Greyjoy]] during the Greyjoy Rebellion.
+
+According to [[George R.R. Martin]], the Lannister fleet consisted of 20 - 30 ships, and [[Tywin Lannister|Tywin]] replaced the ships that were destroyed by the ironborn.<ref>[https://www.westeros.org/Citadel/SSM/Entry/The_Lannister_Fleet/ So Spake Martin, September 26, 1999]</ref> Such a small fleet could not be used for fighting a major battle; in such case, the Lannisters would have to depend on the ships of their bannermen.
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+[[Category:Fleets]]
+[[Category:House Lannister|fleet]]
+
+<!--Languages-->
+[[fr:Flotte Lannister]]
+[[ru:Флот Ланнистеров]]
