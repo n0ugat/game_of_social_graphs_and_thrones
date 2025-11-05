@@ -1,0 +1,38 @@
+{{OtherUses|episode of House of the Dragon: The House That Dragons Built|Episode 1 (disambiguation)}}
+{{Episode
+| Title    = {{PAGENAME}}
+| Type     = Built
+| Image    = THTDB101.jpg
+| Season   = 1
+| Episode  = 1
+| Date     = August 21, 2022{{Listref|THTDB}}
+| Runtime  = 26 minutes{{HBOref|THTDB101}}
+| Writer   = 
+| Director = 
+| Year     = 
+| Previous = 
+| Next     = "[[Episode 02]]"{{HBOref|THTDB}}
+}}
+"'''Episode 01'''" is the first episode of the [[House of the Dragon: The House That Dragons Built: Season 1|first season]] of ''[[House of the Dragon: The House That Dragons Built]]''. It is the first episode of the series overall. It was released on August 21, 2022 on [[HBO Max]].
+
+==Description==
+{{Description|THTDB101}}
+
+==Gallery==
+<gallery bordersize="none">
+The Tournament / BTS: S1 EP1 / House of the Dragon (HBO)
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{HBO|house-of-the-dragon-the-house-that-dragons-built/season-1/1-episode-01}}
+*{{HBO Max|video/watch/1283cf94-ccf4-4b8a-9fad-a5f95a8709a9/240158a6-42b3-4185-b3c3-91b13b5c8779}}
+
+<!--Navboxes-->
+{{House of the Dragon: The House That Dragons Built}}
+
+<!--Categories-->
+[[Category:Episodes of House of the Dragon: The House That Dragons Built: Season 1| 01]]
+[[Category:Episodes released in 2022|8.21A]]

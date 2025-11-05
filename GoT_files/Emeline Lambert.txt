@@ -1,0 +1,30 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Emeline Lambert.jpg
+| Birth   = 
+| Death   = 
+| Role    = [[Alyssa Targaryen]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]]
+| Credits = "[[Regent (episode)|Regent]]"
+| First   = 
+| Last    = 
+}}
+'''Emeline Lambert''' is an actress. She has appeared in the television series ''{{WPS|Django (TV series)|Django}}'' and ''{{WPS|Invasion (2021 TV series)|Invasion}}''.
+
+Lambert plays [[Alyssa Targaryen]] in the [[House of the Dragon: Season 2|second season]] of ''[[House of the Dragon]]''.
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 2|||||yes}}
+
+==External links==
+*{{IMDb|# = 10039766}}
+*{{Instagram|# = emelinelambert_}}
+<!--Categories-->
+{{DEFAULTSORT:Lambert, Emeline}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Emeline Lambert]]

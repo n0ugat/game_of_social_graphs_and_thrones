@@ -1,0 +1,29 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Elynia Betts.jpg
+| Birth   = 
+| Death   = 
+| Role    = Tavern girl
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 6|6]]
+| Credits = "[[Home]]"
+| First   = 
+| Last    = 
+}}
+'''Elynia Betts''' is an Irish actress.
+
+In ''[[Game of Thrones]]'', she portrayed a tavern girl in the [[Game of Thrones: Season 6|sixth season]] episode "[[Home]]".<ref>[http://www.castingcallpro.com/uk/actor/profile/elynia-betts-1-2/ Casting Call Pro - Elynia Betts, Actor]</ref>
+
+==Credits==
+{{Game of Thrones: Season 6||yes}}
+
+==See also==
+*{{IMDb
+|# = 7250066}}
+*{{Twitter
+|# = TheAptronym}}
+
+==References==
+{{Reflist}}{{DEFAULTSORT:Betts, Elynia}}
+[[Category:Uncredited cast members of Game of Thrones]]

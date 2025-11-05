@@ -1,0 +1,36 @@
+{{Episode
+| Title    = Ep. 3: The Burning Mill<br>{{C|with Bethany Antonia and director Geeta Vasant Patel}}
+| Type     = Podcast
+| Image    = TOGOTPHOTD207.jpg
+| Season   = 2
+| Episode  = 7
+| Date     = June 30, 2024{{Listref|TOGOTPHOTD}}
+| Runtime  = 1:22:22{{HBOref|TOGOTPHOTD}}
+| Writer   = 
+| Director = 
+| Year     = 
+| Previous = "[[Ep. 2: Rhaenyra the Cruel (with Tom Glynn-Carney and Matthew Needham)]]"{{Listref|TOGOTPHOTD}}
+| Next     = "[[Ep. 4: The Red Dragon and the Gold (with Eve Best and director Alan Taylor)]]"{{Listref|TOGOTPHOTD}}
+}}
+"'''Ep. 3: The Burning Mill (with Bethany Antonia and director Geeta Vasant Patel)'''"{{HBOref|TOGOTPHOTD}} is the seventh episode of the [[The Official Game of Thrones Podcast: House of the Dragon: Season 2|second season]] of ''[[The Official Game of Thrones Podcast: House of the Dragon]]''. It is the twenty-fifth episode of the series overall. It was released on June 30, 2024.
+
+==Description==
+{{Description|TOGOTPHOTD207}}
+
+==Gallery==
+<gallery bordersize="none">
+HOTD: Official Podcast: S2 Ep. 3: Bethany Antonia’s Rising Impact on Team Black
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{HBO Max|video/watch/PROM727478/PROM1182016|House of the Dragon Podcast: S2 E3}}
+
+<!--Navboxes-->
+{{The Official Game of Thrones Podcast: House of the Dragon}}
+
+<!--Categories-->
+[[Category:Episodes of The Official Game of Thrones Podcast: House of the Dragon: Season 2| 07]]
+[[Category:Episodes released in 2024|6.30B]]

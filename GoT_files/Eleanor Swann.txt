@@ -1,0 +1,62 @@
+{{Canonicity|Non}}
+{{Heraldry
+| Image = House Swann.svg
+| Link  = House Swann
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Baratheon
+| Image       = Umber lineage.jpg
+| Birth       = 
+| Death       = 
+| House       = [[House Swann|Swann]] {{C|by marriage}}
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Andals|Andal]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = {[[Ector Swann]]}
+| Lovers      = 
+| Children    = {[[Arwen Swann]]}
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+Lady '''Eleanor Swann''' was the wife of [[Ector Swann]] and a member of [[House Swann]] through marriage.
+
+==Biography==
+===Background===
+Eleanor Swann married [[Ector Swann]], and bore him at least one child, [[Arwen Swann]]. It is unknown which house she was originally from.{{Ref|GOT104}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+She is referenced in the entry of [[Iain Umber]], her son-in-law, in ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]''.{{Ref|GOT104}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no such character.
+
+==Appearances==
+*{{GOT|Cripples, Bastards, and Broken Things}} {{Text}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+{{DEFAULTSORT:Swann, Eleanor}}
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Ladies]]
+[[Category:Members of House Swann|Eleanor Swann]]
+[[Category:Westerosi]]
+
+<!--Languages-->
+[[de:Eleanor Swann]]
+[[fr:Eleanor Swann]]
+[[ru:Элеанор Сванн]]

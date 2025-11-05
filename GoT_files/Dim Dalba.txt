@@ -1,0 +1,66 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Wildling
+| Image       = 607 Dim Dalba.png
+| Birth       = [[Beyond the Wall]]
+| Death       = 
+| House       = 
+| Affiliation = {[[Mance Rayder]]}<br>[[Jon Snow]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Free Folk]]
+| Religion    = [[Old Gods]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 5|5]] {{*}} [[Game of Thrones: Season 6|6]]
+| Appearances = 2 episodes {{Below|Appearances}}
+| First       = "[[Hardhome (episode)|Hardhome]]"
+| Last        = "[[The Broken Man]]"
+| DeathEp     = 
+| Actor       = [[Murray McArthur]]
+}}
+{{Quote|I'm with Tormund. We stay here, we're dead men. At least with "King Crow"... there's a chance.|Dim Dalba|Hardhome (episode)}}
+'''Dim Dalba''' is a wildling elder who resided at [[Hardhome]] before being saved by [[Jon Snow]] and taken south of the [[Wall]] to settle in the [[Gift]].
+
+==Biography==
+===Background===
+Dim Dalba is an elderly warrior and raider and one of the prominent leaders in the [[Free Folk]] army gathered by [[Mance Rayder]]. Following the defeat of the wildling army in the [[battle for the Wall]], he leads his followers to the relative safety of [[Hardhome]].{{Ref|GOT508}}
+
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+Dalba attends the meeting where [[Jon Snow]] explains why he has arrived at Hardhome to recruit the wildlings. Dalba observes the dragonglass, and announces he is with [[Tormund]] and will travel to [[Castle Black]]. He is present at Hardhome when it is [[Massacre at Hardhome|attacked]] by [[White Walkers]] and the [[Wight|army of the dead]] led by the [[Night King]].{{Ref|GOT508}}
+
+===[[Game of Thrones: Season 6|''Game of Thrones'': Season 6]]===
+Dim Dalba acts as an elder for the entirety of the remaining Free Folk in the [[Gift]]. Dim Dalba and [[Tormund]] debate whether the Free Folk should fight with [[Jon Snow]] against [[House Bolton]]. Dim Dalba is initially against it, arguing that if they lose, the remainder of the Free Folk might be wiped out altogether. After Tormund points out that the Free Folk owe their lives to Jon Snow, he ultimately follows [[Wun Weg Wun Dar Wun|Wun Wun]] in supporting Jon Snow.{{Ref|GOT607}}
+
+==Gallery==
+<gallery hideaddbutton="true">
+WildlingElder1 (Hardhome).jpg|Dalba in Hardhome.
+WildlingElder (Hardhome).jpg|Dalba speaking at the meeting.
+</gallery>
+
+==Appearances==
+*{{GOT|Hardhome}}
+*{{GOT|The Broken Man}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+{{DEFAULTSORT:Dalba, Dim}}
+[[Category:Free Folk]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Mance Rayder's army]]
+
+<!--Languages-->
+[[de:Dim Dalba]]
+[[es:Dim Dalba]]
+[[fr:Dim Dalba]]
+[[ru:Дим Далба]]

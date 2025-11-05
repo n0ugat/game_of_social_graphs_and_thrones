@@ -1,0 +1,63 @@
+{{Canonicity|Non}}
+{{Heraldry
+| Image = House Swann.svg
+| Link  = House Swann
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Baratheon
+| Image       = Umber lineage.jpg
+| Birth       = At [[Stonehelm]]
+| Death       = 
+| House       = [[House Swann|Swann]]
+| Affiliation = [[House Baratheon]]
+| Titles      = [[Lordship|Lord]] of Stonehelm
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Andals|Andal]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = {[[Eleanor Swann]]}
+| Lovers      = 
+| Children    = {[[Arwen Swann]]}
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Ector Swann''' was the head of [[House Swann]] sometime around the early reign of [[Aerys II Targaryen]].
+
+==Biography==
+===Background===
+Ector Swann married [[Eleanor Swann]], who bore him at least one child, [[Arwen Swann]].{{Ref|GOT104}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+He is referenced in the entry of [[Iain Umber]], his son-in-law, in ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]''.{{Ref|GOT104}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no such character.
+
+==Appearances==
+*{{GOT|Cripples, Bastards, and Broken Things}} {{Text}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+{{DEFAULTSORT:Swann, Ector}}
+[[Category:Bannermen of House Baratheon]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Lords]]
+[[Category:Members of House Swann|Ector Swann]]
+[[Category:Stormlanders]]
+
+<!--Languages-->
+[[de:Ector Swann]]
+[[fr:Ector Swann]]
+[[ru:Эктор Сванн]]

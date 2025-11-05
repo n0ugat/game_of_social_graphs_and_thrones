@@ -1,0 +1,41 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Eddie Eyre.jpg
+| Birth   = Eddie Wilson<br>July 24, 1988 {{Age|1988|7|24}}<br>England
+| Death   = 
+| Role    = [[Gerold Hightower]]<br>[[Axell Bulwer]]
+| Series  = ''[[Game of Thrones]]''<br>''[[House of the Dragon]]''
+| Season  = ''Game of Thrones'':<br>[[Game of Thrones: Season 6|6]]<br>''House of the Dragon'':<br>[[House of the Dragon: Season 2|2]]
+| Credits = 5 episodes {{Below|Credits}}
+| First   = "[[Oathbreaker]]"
+| Last    = 
+}}
+'''Eddie Eyre''' (born '''Eddie Wilson'''; July 24, 1988) is an English actor.
+
+In ''[[Game of Thrones]]'', he portrays Ser [[Gerold Hightower]] in the [[Game of Thrones: Season 6|sixth season]].<ref>[https://twitter.com/EddieEyre/status/732878808970334209 Eddie Eyrie's Twitter]</ref> In the [[House of the Dragon: Season 2|second season]] of ''[[House of the Dragon]]'', he plays Ser [[Axell Bulwer]], a knight in service to the [[Greens]].<ref>https://www.spotlight.com/0274-6723-1457</ref><ref>https://i.redd.it/z8ija071cu1b1.jpg</ref>
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 6|||yes}}
+
+===Co-starring===
+{{House of the Dragon: Season 2|||yes|yes|yes|||yes}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{WP}}
+*{{IMDb|#=6793798}}
+*{{Spotlight|#=0274-6723-1457}}
+*{{Twitter|#=EddieEyre}}
+
+<!--Categories-->
+{{DEFAULTSORT:Eyre, Eddie}}
+[[Category:Co-starring cast members of House of the Dragon]]
+[[Category:Guest starring cast members of Game of Thrones]]
+
+<!--Languages-->
+[[de:Eddie Eyre]]
+[[fr:Eddie Eyre]]

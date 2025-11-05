@@ -1,0 +1,75 @@
+{{Canonicity|Formerly}}
+{{Heraldry
+| Image = House Bolton.svg
+| Link  = House Bolton
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Bolton
+| Image       = 
+| Birth       = At the [[Dreadfort]]
+| Death       = 
+| House       = [[House Bolton|Bolton]]
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| Aka         = 
+| Culture     = [[Northmen|Northman]]
+| Religion    = [[Old Gods]]
+| Father      = {[[Roose Bolton]]}
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = Paternal half-siblings:<br>{[[Ramsay Bolton]]}<br>{[[Roose Bolton's son|Paternal half-brother]]}
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Domeric Bolton''' is a character cut from ''[[Game of Thrones]]''. He has only been indirectly mentioned in press interviews by the cast and crew.
+
+==Biography==
+Domeric Bolton was the first trueborn son and heir of Lord [[Roose Bolton]], the [[Lord of the Dreadfort]]. He was a harpist and very well-read. As a young man, he "fell ill", died, and was buried underneath the [[Dreadfort]].<ref name="IFI">[[File:IFI Domeric Quote.ogg]]</ref> Following his death, Lord Bolton's only living offspring was [[Ramsay Bolton|Ramsay Snow]], his [[bastard]] son, who was [[Legitimization|legitimized]] many years later as Ramsay Bolton.<ref name=BofW>[https://www.youtube.com/watch?v=HHXWSXgXF6k Game of Thrones: Bastards of Westeros (HBO)]</ref>
+
+==Family==
+{{Bolton tree}}
+
+==Behind the scenes==
+Domeric Bolton has only been indirectly mentioned in press interviews by [[Iwan Rheon]]<ref>[http://www.youtube.com/watch?v=qfGTNmgJ9Q8 Flicks And The City]</ref><ref>[http://www.accesshollywood.com/game-of-thrones-season-3-iwan-rheon-talks-finally-revealing-the-name-of-the-boy-torturing-theon-greyjoy_article_80540 Access Hollywood]</ref> and [[Michael McElhatton]]<ref>[http://www.zap2it.com/blogs/game_of_thrones_season_4_roose_is_wary_of_psychotic_son_ramsay_says_michael_mcelhatton-2014-04 Zap2it]</ref><ref>[http://www.vulture.com/2015/05/game-of-thrones-michael-mcelhatton-on-the-bolton-boys.html Vulture]</ref> as well as [[George R.R. Martin]] in the "Bastards of Westeros" promotional video.<ref name=BofW/>
+
+"Iron From Ice", the first episode of ''[[Game of Thrones: A Telltale Games Series]]'', features cut dialogue of Ramsay mentioning Domeric's death to Ethan Forrester and his mother, remarking sarcastically that he "fell ill" and mockingly expressing sorrow.<ref name = "IFI"></ref>
+
+{{Quote|I had a brother once. Domeric. I think you would've liked him. He played the harp, and liked books. But he fell ill, unfortunately. It was terrible, to lose a brother so young. We buried him beneath the Dreadfort.|[[Ramsay Bolton|Ramsay Snow]] to Ethan Forrester|:File:IFI Domeric Quote.ogg}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Domeric Bolton was the only son and heir of Lord Roose Bolton and Lady Bethany Ryswell, his second wife. According to Roose, Domeric was quiet but accomplished; he read history, played the harp, and rode horses as if born in the saddle. Domeric's aunt (his mother's younger sister), Lady [[Barbrey Dustin]], was quite fond of him as he had served as a page for her at [[Barrowton]]. He also served as a squire for Lord [[Redfort]] in the [[Vale of Arryn|Vale]], who said Domeric had the makings of a tournament champion. Domeric enjoyed the company of Redfort's sons in the Vale and, longing for a brother of his own, rode up the [[Weeping Water]] to seek out his [[Ramsay Bolton|bastard half-brother]] despite his father's forbidding it.
+
+According to the Dreadfort's [[Order of Maesters|maester]], Uthor, Domeric died of a sickness of the bowels. [[Theon Greyjoy|Reek]] once heard Skinner (one of the Bastard's Boys) say that Ramsay had killed his trueborn brother, but he had never dared to believe it. Roose and Lady Dustin, among others, strongly suspect Ramsay murdered Domeric with poison to take his place as Roose's heir. In view of Ramsay's personality, it is very likely that the taboo of [[kinslaying]] means nothing to him, and that he did indeed murder Domeric. Roose, while telling Reek about Domeric, speculates that Ramsay will also murder any trueborn siblings that Walda will give birth to; this is perhaps a foreshadowing of Ramsay's [[Assassinations at Winterfell|vile deeds]] in the show (which have not been performed in the books, at least not yet).
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Bolton}}
+
+<!--Categories-->
+{{DEFAULTSORT:Bolton, Domeric}}
+[[Category:Individuals from Game of Thrones]]
+[[Category:Members of House Bolton|Domeric Bolton]]
+[[Category:Musicians]]
+[[Category:Northmen]]
+
+<!--Languages-->
+[[de:Domeric Bolton]]
+[[es:Domeric Bolton]]
+[[nl:Domeric Bolten]]
+[[pl:Domeric Bolton]]
+[[zh:多米利克·波顿]]

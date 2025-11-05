@@ -1,0 +1,36 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Kingdoms
+| Image   = Dexter Sol Ansell.jpg
+| Birth   = September 16, 2014 {{Age|2014|9|16}}<br>United Kingdom
+| Death   = 
+| Role    = [[Egg]]
+| Series  = ''[[A Knight of the Seven Kingdoms]]''
+| Season  = [[A Knight of the Seven Kingdoms: Season 1|1]] {{*}} [[A Knight of the Seven Kingdoms: Season 2|2]]
+| Credits = 
+| First   = 
+| Last    = 
+}}
+'''Dexter Sol Ansell''' (born September 16, 2014) is an English actor. He has portrayed a young {{WPS|Coriolanus Snow}} in ''{{WPS|The Hunger Games: The Ballad of Songbirds & Snakes}}'' and has appeared in television series such as ''{{WPS|Emmerdale}}'' and ''{{WPS|The Midwich Cuckoos (TV series)|The Midwich Cuckoos}}''.
+
+He will portray [[Egg]] in ''[[A Knight of the Seven Kingdoms]]''.{{Webref|name=VarietyLeadsCast |author=Joe Otterson |date=April 5, 2024 |url=https://variety.com/2024/tv/news/game-of-thrones-prequel-hedge-knight-knight-of-the-seven-kingdoms-cast-peter-claffey-dexter-sol-ansell-1235961895/ |title=‘Game of Thrones’ Prequel ‘Knight of the Seven Kingdoms: The Hedge Knight’ Casts Peter Claffey, Dexter Sol Ansell in Lead Roles |website=Variety |access-date=April 6, 2024 }}
+
+==Credits==
+===Starring===
+{{A Knight of the Seven Kingdoms: Season 1}}
+{{A Knight of the Seven Kingdoms: Season 2}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{WP}}
+*{{IMDb|# = 11274700}}
+*{{Instagram|# = dextersolansell}}
+
+<!--Navboxes-->
+{{A Knight of the Seven Kingdoms}}
+
+<!--Categories-->
+{{DEFAULTSORT:Ansell, Dexter Sol}}
+[[Category:Starring cast members of A Knight of the Seven Kingdoms]]

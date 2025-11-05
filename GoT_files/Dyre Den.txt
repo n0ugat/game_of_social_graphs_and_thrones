@@ -1,0 +1,36 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Crownlander
+| Image        = Whispers.png
+| Type         = Castle
+| Status       = 
+| Location     = [[Crackclaw Point]], the [[Crownlands]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+The '''Dyre Den'''{{Ref|THTDB201}} is a castle on [[Crackclaw Point]] in the [[Crownlands]]. It lies on the coast to the north of the [[Whispers]].
+
+==History==
+===[[Game of Thrones: Season 7|''Game of Thrones'': Season 7]]===
+The Dyre Den{{Note|Misspelled as "Dire Den."}} appears on the large floor map of [[Westeros]] that [[Cersei Lannister|Cersei]] observes.{{Ref|GOT701}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the Dyre Den is ruled by [[House Brune]] of the Dyre Den. It was built on a cliff overlooking the Bay of Crabs.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+[[Category:Castles of the Crownlands]]

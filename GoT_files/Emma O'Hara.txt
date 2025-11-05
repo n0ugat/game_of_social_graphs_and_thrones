@@ -1,0 +1,28 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Emma O'Hara.jpg
+| Birth   = 
+| Death   = 
+| Role    = [[Cassandra Baratheon]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = "[[The Black Queen]]"
+| First   = 
+| Last    = 
+}}
+'''Emma O'Hara''' is an English actress.
+
+In ''[[House of the Dragon]]'', she portrays [[Cassandra Baratheon]] in "[[The Black Queen]]".<ref>https://www.mandy.com/uk/a/emma-ohara</ref>
+
+==See also==
+*{{IMDb|#=4301615}}
+*{{Twitter|#=emmaohara}}
+
+==References==
+{{Reflist}}
+{{DEFAULTSORT:O'Hara, Emma}}
+[[Category:Uncredited cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Emma O'Hara]]

@@ -1,0 +1,69 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = House Yronwood.svg
+| Link  = House Yronwood
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Martell
+| Image       = Edgar Yronwood.png
+| Birth       = At [[Yronwood]]
+| Death       = At Yronwood<br>Died of an infection after being cut with a [[poison]]ed sword by [[Oberyn Martell]]
+| House       = [[House Yronwood|Yronwood]]
+| Affiliation = [[House Martell]]
+| Titles      = Lord of Yronwood
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Dornishmen|Dornish]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|When I was a boy of sixteen a great lord caught me with his mistress. He should have been honored, instead the fat old fool challenged me to a duel. Thanks to my age and status, only to first blood. But his mistress... and his wife, warned me which of my parts he intended to draw first blood from.|Oberyn Martell|Poisons}}
+'''Edgar Yronwood'''{{Con|ASOIAF}} was a Dornish lord, and the head of [[House Yronwood]].
+
+==Biography==
+In his youth, Prince [[Oberyn Martell]] was fostered by Lord Yronwood at [[Yronwood]]. When Oberyn was sixteen, he was found abed with Lord Edgar's mistress. Edgar challenged the prince to a duel, though only to first blood due to Oberyn's youth and high birth. Both men took cuts and honor was satisfied. However, while Oberyn soon recovered, Edgar's wounds festered and he died. Afterward it was rumored that Oberyn had poisoned his sword, gaining his nickname of "the Red Viper."{{Ref|H&L404}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Edgar Yronwood's backstory is much the same. In the TV continuity, however, it is implied that Oberyn slept with both Edgar's wife and his paramour.
+
+Edgar's death might have resulted in a blood feud and a rebellion, but [[Doran Martell]] acted quickly to prevent that: Oberyn went to [[Oldtown]], and from there across the [[Narrow Sea]] to [[Lys]], though none dared call it exile. In due time, Doran's second son Quentyn was given to Lord Anders to foster as a sign of trust. Those steps helped to heal the breach between Sunspear and the Yronwoods.
+
+==Appearances==
+*{{H&L|Poisons}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+{{DEFAULTSORT:Yronwood, Edgar}}
+[[Category:Bannermen of House Martell]]
+[[Category:Dornishmen]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Lords]]
+[[Category:Members of House Yronwood|Edgar Yronwood]]
+
+<!--Languages-->
+[[fr:Edgar Ferboys]]
+[[pl:Edgar Yronwood]]
+[[ru:Эдгар Айронвуд]]

@@ -1,0 +1,67 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = Night's Watch.svg
+| Link  = Night's Watch
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = 
+| Birth       = In the [[North]]ern mountains
+| Death       = 
+| House       = 
+| Affiliation = [[Night's Watch]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Northmen|Northern]]
+| Religion    = [[Old Gods]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 5|5]]
+| Appearances = "[[Hardhome (episode)|Hardhome]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = Unidentified
+}}
+{{Quote|Duncan! Hold the line! Hold the line!|[[Jon Snow]] to Duncan|Hardhome (episode)}}
+'''Duncan Liddle'''{{Con|ASOIAF}} is a [[ranger]] of the [[Night's Watch]].
+
+==Biography==
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+Duncan accompanies [[Jon Snow]] on his expedition to [[Hardhome]] to convince the [[Free Folk|wildlings]] to join him at the [[Wall]]. When the [[White Walkers]] attack the settlement and their [[wight]]s attempt to break through Hardhome's gates, the Free Folk attempt en masse to board boats to reach safety. Jon orders Duncan to hold the line.{{Ref|GOT508}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the only Duncan mentioned as part of the Night's Watch is Duncan Liddle, known as Big Liddle, the eldest son of Torren Liddle, the head or clan chief of the Liddles, one of the [[North|northern]] mountain clans.
+
+Duncan Liddle is first mentioned in the Appendix of ''A Dance with Dragons''. He is not mentioned as being part of the expedition to Hardhome.
+
+==Appearances==
+*{{GOT|Hardhome}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+{{DEFAULTSORT:Liddle, Duncan}}
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Nobles]]
+[[Category:Northmen]]
+[[Category:Rangers of the Night's Watch]]
+
+<!--Languages-->
+[[ru:Дункан Лиддль]]

@@ -1,0 +1,34 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Elizabeth Webster.jpg
+| Birth   = 
+| Death   = 
+| Role    = [[Walda Bolton]]
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 4|4]] {{*}} [[Game of Thrones: Season 5|5]] {{*}} [[Game of Thrones: Season 6|6]]
+| Credits = 5 episodes {{Below|Credits}}
+| First   = "[[The Lion and the Rose]]"
+| Last    = "[[Home]]"
+}}
+'''Elizabeth Webster'''​ is a British actress. She portrays [[Walda Bolton]] in the [[Game of Thrones: Season 4|fourth]], [[Game of Thrones: Season 5|fifth]], and [[Game of Thrones: Season 6|sixth]] seasons of ''[[Game of Thrones]]''.
+
+Webster also starred in the 2012 film ''[http://www.imdb.com/title/tt1362058/?ref_=nm_ov_bio_lk1 Cockneys vs Zombies]''.<ref>[http://winteriscoming.net/2013/09/two-more-actors-for-s4-and-a-return/ Winter Is Coming]</ref>
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 4||yes}}
+{{Game of Thrones: Season 5|||yes||yes|yes}}
+{{Game of Thrones: Season 6||yes}}
+
+==See also==
+*{{Template:IMDb
+|# = 3531913}}
+
+==References==
+{{Reflist}}
+[[de:Elizabeth Webster]]
+[[ru:Элизабет Уэбстер]]
+[[fr:Elizabeth Webster]]
+{{DEFAULTSORT:Webster, Elizabeth}}
+[[Category:Guest starring cast members of Game of Thrones]]

@@ -1,0 +1,93 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = Faith of the Seven.svg
+| Link  = Faith of the Seven
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Faith
+| Image       = Septa Eglantine.jpg
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[Faith of the Seven]]<br>[[House Baratheon of King's Landing]]
+| Titles      = [[Septa]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Andals|Andal]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 2|2]]
+| Appearances = 3 episodes {{Below|Appearances}}
+| First       = "[[The North Remembers]]"
+| Last        = "[[The Old Gods and the New]]"
+| DeathEp     = 
+| Actor       = Unidentified
+}}
+'''Eglantine'''{{Con|ASOIAF}} was the [[septa]] of Princess [[Myrcella Baratheon]].
+
+==Biography==
+===Background===
+Eglantine is a [[septa]] of the [[Faith of the Seven]]. She serves at the [[Red Keep]] in [[King's Landing]] as governess and companion to Princess [[Myrcella Baratheon]].{{Ref|GOT201}}
+
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+Eglantine is among the royal entourage for a tourney to celebrate [[Joffrey Baratheon|Joffrey]]'s [[nameday]].{{Ref|GOT201}}
+
+[[File:Myrcella leaves.jpg|thumb|Eglantine accompanies Myrcella on her journey.]]
+Eglantine later watches over Myrcella as she plays blind man's bluff with two courtiers{{Ref|GOT205}} before accompanying her to [[Sunspear]], as part of the betrothal arranged by [[Tyrion Lannister|Tyrion]] to Prince [[Trystane Martell]].{{Ref|GOT206}}
+
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+While Myrcella makes her way back to King's Landing from Sunspear and dies on the way from poisoning, it is likely that Eglantine accompanies her.{{Ref|GOT510}}
+
+===[[Game of Thrones: Season 8|''Game of Thrones'': Season 8]]===
+Assuming that Eglantine returned to the Red Keep after Myrcella's death, it is likely she is killed along with most of the royal household when [[Daenerys Targaryen|Daenerys]] and her troops [[Battle of King's Landing|destroy the city]].{{Ref|GOT805}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Septa Eglantine is a loyal servant of the royal family and Princess Myrcella Baratheon. 
+
+Similarly to the show, she accompanies Myrcella as a member of her retinue when she is sent to [[Dorne]] as part of the marriage alliance with [[House Martell]]. On the way, Eglantine puts brown dye in Myrcella's hair; she says it is a game, but Myrcella knows it is meant to protect her, in case [[Stannis Baratheon|Stannis]] captures the ship.
+
+==Gallery==
+<gallery>
+Tommen S2.png|In "[[The North Remembers]]"<br>(above Joffrey's head)
+Myrcella eglantine.jpg|In "[[The Ghost of Harrenhal]]"
+</gallery>
+
+==Appearances==
+*{{GOT|The North Remembers}}
+*{{GOT|The Ghost of Harrenhal}}
+*{{GOT|The Old Gods and the New}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Baratheon of King's Landing}}
+{{House Martell}}
+
+<!--Categories-->
+[[Category:Crownlanders]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Septas]]
+[[Category:Servants and retainers of House Baratheon of King's Landing]]
+
+<!--Languages-->
+[[es:Eglantine]]
+[[fr:Eglantine]]
+[[pt-br:Eglantine]]
+[[ru:Эглантина]]
+[[zh:伊兰婷]]

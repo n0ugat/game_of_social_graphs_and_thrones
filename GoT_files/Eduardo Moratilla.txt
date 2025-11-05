@@ -1,0 +1,30 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Eduardo Moratilla.jpg
+| Birth   = Eduardo Moratilla Jiménez<br>March 14, 1972 {{Age|1972|3|14}}<br>Madrid, Spain
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = "[[The Heirs of the Dragon]]"
+| First   = 
+| Last    = 
+}}
+'''Eduardo Moratilla Jiménez''' (born March 14, 1972) is a Spanish stuntman and actor.
+
+In ''[[House of the Dragon]]'', he was a stunt performer in the [[House of the Dragon: Season 1|first season]] episode "[[The Heirs of the Dragon]]".
+
+==Credits==
+===Stunts===
+{{House of the Dragon: Season 1|yes}}
+
+==See also==
+*{{IMDb
+|# = 0603152}}
+*{{Facebook
+|# = eduardo.moratilla}}
+*{{Linkedin
+|# = /in/eduardomoratilla}}
+{{DEFAULTSORT:Moratilla, Eduardo}}
+[[Category:Stunt performers of House of the Dragon]]

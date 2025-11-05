@@ -1,0 +1,40 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Crownlander
+| Image        =
+<gallery>
+Dun Fort.png|Appearance
+Duskendale Pin.png|Location
+</gallery>
+| Type         = Castle
+| Status       = 
+| Location     = [[Duskendale]], the [[Crownlands]]
+| Population   = 
+| Rulers       = {[[House Darklyn]]} {{C|formerly}}
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+The '''Dun Fort'''{{Ref|H&L805}} is a castle in the port-town of [[Duskendale]]. It formerly served as the seat of [[House Darklyn]], and the administrative center of Duskendale.{{Ref|H&L805}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, [[Brienne of Tarth|Brienne]] visits the Dun Fort during her search for [[Sansa Stark|Sansa]]. She wishes to speak with Lord Renfred Rykker, but he is not there; the guards tell her he rode to [[Maidenpool]] with [[Randyll Tarly]]. The [[castellan]] who was assigned to look after Lady Rykker and her children, Ser Rufus Leek, cannot help Brienne, and sends her to the [[Order of Maesters|maester]] of the castle, a bald man with a freckled scalp and a red mustache. The maester tells Brienne about the Darklyns and whatever he knows about [[Dontos Hollard]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Crownlands}}
+
+<!--Categories-->
+[[Category:Castles of the Crownlands]]
+[[Category:House Darklyn]]
+
+<!--Languages-->
+[[ru:Сумеречный форт]]

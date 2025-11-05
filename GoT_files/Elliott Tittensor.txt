@@ -1,0 +1,41 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Elliott Tittensor.jpg
+| Birth   = Elliott John Tittensor<br>November 3, 1989 {{Age|1989|11|3}}<br>Heywood, Greater Manchester, England
+| Death   = 
+| Role    = [[Erryk Cargyll]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]] {{*}} [[House of the Dragon: Season 2|2]]
+| Credits = 7 episodes {{Below|Credits}}
+| First   = "[[The Heirs of the Dragon]]"
+| Last    = "[[The Burning Mill]]"
+}}
+'''Elliott John Tittensor''' (born 3 November 1989) is an English actor. He is known for his role as {{WPS|Carl Gallagher}} in the television series ''{{WPS|Shameless (British TV series)|Shameless}}''. He has also appeared in the films ''{{WPS|Spike Island (film)|Spike Island}}'' and ''{{WPS|Dunkirk (2017 film)|Dunkirk}}''.
+
+He portrays Ser [[Erryk Cargyll]] in ''[[House of the Dragon]]''. His identical twin brother [[Luke Tittensor|Luke]] portrays his character's twin brother, Ser [[Arryk Cargyll]], in the series.<ref>[https://winteriscoming.net/2021/04/01/game-of-thrones-prequel-house-of-the-dragon-casts-twin-kingsguard-brothers/ Game of Thrones prequel casts twin Kingsguard brothers (winteriscoming.net)]</ref>
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1|yes|||||||yes|yes|yes}}
+{{House of the Dragon: Season 2|yes|yes|yes}}
+
+==See also==
+*{{WP}}
+*{{IMDb|# = 1541685}}
+*{{Twitter|# = ejtittensor}}
+*{{Instagram|# = etittensor}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House of the Dragon: Inside the Episode}}
+
+<!--Categories-->
+{{DEFAULTSORT:Tittensor, Elliott}}
+[[Category:Co-starring cast members of House of the Dragon]]
+[[Category:Commentators of House of the Dragon: Inside the Episode]]
+
+<!--Languages-->
+[[fr:Elliott Tittensor]]

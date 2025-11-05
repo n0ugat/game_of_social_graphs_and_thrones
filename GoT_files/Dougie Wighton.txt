@@ -1,0 +1,23 @@
+{{Crew
+|Image = 
+|dateofbirth = 
+|birthplace = 
+|job = Stunt Performer<br>Horse Wrangler
+|imdb = https://www.imdb.com/name/nm8101895/
+|twitter = }}
+'''Douglas Wighton''' is a stuntman and horse wrangler.
+
+In ''[[Game of Thrones]]'', he was a horse wrangler in the [[Game of Thrones: Season 6|sixth season]] episodes "[[The Red Woman]]", "[[Home]]", "[[Oathbreaker]]", "[[Book of the Stranger]]", "[[The Door]]", "[[Blood of My Blood]]", "[[The Broken Man]]", "[[No One]]", "[[Battle of the Bastards (episode)|Battle of the Bastards]]" and "[[The Winds of Winter]]" and a stunt performer in the [[Game of Thrones: Season 7|seventh season]] episode "[[Dragonstone (episode)|Dragonstone]]".
+
+==Credits==
+===Horse wrangler===
+{{Game of Thrones: Season 6|yes|yes|yes|yes|yes|yes|yes|yes|yes|yes}}
+
+===Stunts===
+{{Game of Thrones: Season 7|yes}}
+
+==See also==
+*{{IMDb
+|# = 8101895}}
+{{DEFAULTSORT:Wighton, Douglas}}
+[[Category:Stunt performers of Game of Thrones]]

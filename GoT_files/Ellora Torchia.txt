@@ -1,0 +1,36 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Ellora Torchia.jpg
+| Birth   = Rashmika Ellora Torchia<br>April 1992 {{Age|1992|4|30}}<br>Hammersmith, London, England
+| Death   = 
+| Role    = [[Kat]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]] {{*}} [[House of the Dragon: Season 3|3]]
+| Credits = 5 episodes {{Below|Credits}}
+| First   = "[[Rhaenyra the Cruel]]"
+| Last    = 
+}}
+'''Rashmika Ellora Torchia''' (born April 1992) is an English actress. She plays [[Kat]] in the [[House of the Dragon: Season 2|second season]] of ''[[House of the Dragon]]''.{{Webref|name=WBD2 |author=Unknown author |date=Unknown date |url=https://press.wbd.com/us/bio/house-dragon-s2-character-descriptions |title=House of the Dragon S2 <nowiki>|</nowiki> Character Descriptions |website=Warner Bros. Discovery |access-date=June 5, 2024 }}
+
+==Credits==
+===Starring===
+{{House of the Dragon: Season 2||yes|||yes|yes|yes}}
+{{House of the Dragon: Season 3||||yes}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{WP}}
+*{{IMDb|#=4089168}}
+
+<!--Navboxes-->
+{{House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Torchia, Ellora}}
+[[Category:Starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Ellora Torchia]]

@@ -1,0 +1,70 @@
+{{Canonicity|Non}}
+{{Heraldry
+| Leftimage  = House Umber.svg
+| Leftlink   = House Umber
+| Rightimage = House Blackbrow.svg
+| Rightlink  = House Blackbrow
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Stark
+| Image       = Umber lineage.jpg
+| Birth       = [[228 AC]]{{Dateref|Emilia Umber}} at [[Last Hearth]]
+| Death       = Died in childbirth
+| House       = [[House Umber|Umber]]<br>[[House Blackbrow|Blackbrow]] {{C|by marriage}}
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Northmen|Northern]]
+| Religion    = [[Old Gods]]
+| Father      = {[[Gareth Umber]]}
+| Mother      = {[[Hollys Umber|Hollys Tallhart]]}
+| Spouse      = {[[Jore Blackbrow]]}
+| Lovers      = 
+| Children    = {[[Marek Blackbrow]]}<br>{[[Helos Blackbrow]]}<br>{[[Emilia Blackbrow]]}
+| Siblings    = {[[Brandon Umber]]}<br>{[[Kear Umber]]}<br>{[[Finn Umber]]}<br>{[[Iain Umber (son of Gareth)|Iain Umber]]}<br>{[[Morgana Umber]]}
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Emilia Umber''' was a member of [[House Umber]].
+
+==Biography==
+===Background===
+Emilia was born to Lord [[Gareth Umber]] and [[Hollys Umber]]. She married [[Jore Blackbrow]]. Emilia died giving birth to her and Jore's third child, a daughter that was then named after her.{{Ref|GOT104}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+She has an entry in ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]''.{{Ref|GOT104}}
+
+==In the books==
+Emilia Umber is referenced only in the TV adaptation of ''[[A Song of Ice and Fire]]'' and has no corresponding counterpart in the books.
+
+==Appearances==
+*{{GOT|Cripples, Bastards, and Broken Things}} {{Text}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{House Umber}}
+
+<!--Categories-->
+{{DEFAULTSORT:Umber, Emilia}}
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Members of House Umber|Emilia Umber]]
+[[Category:Northmen]]
+
+<!--Languages-->
+[[de:Emilia Umber]]
+[[es:Emilia Umber]]
+[[fr:Emilia Omble]]
+[[ru:Эмилия Амбер]]

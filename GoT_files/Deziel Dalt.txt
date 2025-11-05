@@ -1,0 +1,71 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = House Dalt.svg
+| Link  = House Dalt
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Martell
+| Image       = Deziel Dalt 4x01.jpg
+| Birth       = At [[Lemonwood]]
+| Death       = 
+| House       = [[House Dalt|Dalt]]
+| Affiliation = [[House Martell]]
+| Titles      = [[Knighthood|Ser]]<br>Knight of Lemonwood
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Dornishmen|Dornish]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 4|4]]
+| Appearances = "[[Two Swords]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = Unidentified
+}}
+Ser '''Deziel Dalt'''{{Con|ASOIAF}} is a landed [[Knighthood|knight]] and the head of [[House Dalt]], a knightly house sworn to [[House Martell]] of [[Dorne]].
+
+==Biography==
+===Background===
+Deziel Dalt is the Knight of Lemonwood.{{Ref|GOT401}}
+
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+Ser Deziel is a member of the group of [[Dorne|Dornish]] lords and knights and that accompany Prince [[Oberyn Martell]] to [[King's Landing]].{{Ref|GOT401}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Ser Deziel Dalt is one of the many Dornish nobles that escort Prince Oberyn to [[King's Landing]].
+
+==Appearances==
+*{{GOT|Two Swords}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+{{DEFAULTSORT:Dalt, Deziel}}
+[[Category:Bannermen of House Martell]]
+[[Category:Dornishmen]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Knights]]
+[[Category:Members of House Dalt|Deziel Dalt]]
+
+<!--Languages-->
+[[de:Deziel Dalt]]
+[[fr:Deziel Dalt]]
+[[ru:Дэзиель Дальт]]
+[[zh:丹泽尔·达特]]

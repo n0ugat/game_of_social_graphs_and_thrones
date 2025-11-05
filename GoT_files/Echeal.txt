@@ -1,0 +1,58 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Night's Watch.svg
+| Link  = Night's Watch
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[Night's Watch]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 1|1]]
+| Appearances = "[[You Win or You Die]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = Unidentified
+}}
+{{Quote|Echeal, to the Builders.|Lord Commander [[Jeor Mormont]]|You Win or You Die}}
+'''Echeal'''<ref>https://entertainment.ha.com/itm/movie-tv-memorabilia/props/jeor-mormont-james-cosmo-hero-castle-black-duty-roster-from-game-of-thrones-hbo-r-original/a/7366-89090.s</ref> is a newly made Builder of the [[Night's Watch]], of the same group of recruits as [[Jon Snow]].
+
+==Biography==
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+Echeal is present during the speech Lord Commander [[Jeor Mormont]] gave to the "graduating" recruits. He is assigned to the Builders.{{Ref|GOT107}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there's no member of the Night's Watch called Echeal.
+
+==Appearances==
+*{{GOT|You Win or You Die}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{Night's Watch}}
+
+<!--Categories-->
+[[Category:Builders of the Night's Watch]]
+[[Category:Individuals appearing in Game of Thrones]]
+
+<!--Languages-->
+[[ru:Ихил]]

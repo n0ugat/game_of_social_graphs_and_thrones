@@ -1,0 +1,24 @@
+{{Crew
+|Image = Dylan Jones.jpg
+|dateofbirth = {{WPS|January 6}}, {{WPS|1977}}
+|birthplace = 
+|job = Stunt Performer
+|imdb = https://www.imdb.com/name/nm1725975/
+|twitter = https://twitter.com/dylanfilmhorses/}}
+'''Dylan Jones''' (born January 6, 1977) is a stuntman, horse master and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 7|seventh season]] episode "[[The Queen's Justice]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 7|||yes}}
+
+==See also==
+*{{IMDb
+|# = 1725975}}
+*{{Twitter
+|# = dylanfilmhorses}}
+*{{Linkedin
+|# = /in/dylan-jones-459b5534/}}
+{{DEFAULTSORT:Jones, Dylan}}
+[[Category:Stunt performers of Game of Thrones]]

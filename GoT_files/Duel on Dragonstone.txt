@@ -1,0 +1,61 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Dragon
+| Part          = the [[Dance of the Dragons]]{{Ref|HOTD202}}
+| Image         = 2x2 Erryk and Arryk Still 1.jpg
+| Previous      = [[Assassination of Jaehaerys Targaryen]]{{Ref|HOTD201}}
+| Concurrent    = [[Blockade of the Gullet]]{{Ref|HOTD202}}
+| Next          = [[Battle at the Burning Mill]]{{Ref|HOTD203}} 
+| Date          = [[132 AC]]{{Dateref|House of the Dragon: Season 2}}
+| Place         = [[Dragonstone]], the [[Crownlands]]
+| Outcome       = Death of both combatants{{Ref|HOTD202}}
+| Factions1     = {{COA|Blacks|s}} [[Blacks]]{{Ref|HOTD202}}
+*{{COA|Kingsguard/House of the Dragon|i}} [[Kingsguard/House of the Dragon|Queensguard]]{{Ref|HOTD202}}
+| Factions2     = {{COA|Greens|s}} [[Greens]]{{Ref|HOTD202}}
+*{{COA|Kingsguard/House of the Dragon|i}} [[Kingsguard/House of the Dragon|Kingsguard]]{{Ref|HOTD202}}
+| Leaders1      = None
+| Leaders2      = {{COA|Kingsguard/House of the Dragon|i}} Ser [[Criston Cole]]{{Ref|HOTD202}}
+| Participants1 = {{COA|Kingsguard/House of the Dragon|i}} Ser [[Erryk Cargyll]]{{Ref|HOTD202}}
+| Participants2 = {{COA|Kingsguard/House of the Dragon|i}} Ser [[Arryk Cargyll]]{{Ref|HOTD202}}
+| Casualties1   = Erryk Cargyll{{Ref|HOTD202}}
+| Casualties2   = Arryk Cargyll{{Ref|HOTD202}}
+| Civilian      =
+}}
+{{Quote|Which?! Which is Erryk?!|Lorent Marbrand|Rhaenyra the Cruel}}
+A '''duel on Dragonstone''' took place early on in the [[Dance of the Dragons]] in [[132 AC]]. It was fought between the [[House Cargyll|Cargyll]] twins, Ser [[Arryk Cargyll|Arryk]] of the [[Kingsguard/House of the Dragon|Kingsguard]] of King [[Aegon II Targaryen]] and Ser [[Erryk Cargyll|Erryk]] of the Queensguard of Queen [[Rhaenyra Targaryen]], resulting in the deaths of both brothers.
+
+==History==
+===Prelude===
+{{Dialogue a-b-a-b|Erryk|Something must be done. Aegon is unfit to rule.|Arryk|You tolerated the prince's proclivities for years.|Because it was my sworn duty, Arryk.|It's for the Hand to find wisdom. We swore an oath of service until death.|Arryk and Erryk Cargyll|The Green Council}}
+During the [[coup in King's Landing]], the [[House Cargyll|Cargyll]] twins on the [[Kingsguard/House of the Dragon|Kingsguard]] were divided. While Ser [[Arryk Cargyll]] supported [[Aegon II Targaryen|Aegon II]]'s ascent due to their Kingsguard oath, Ser [[Erryk Cargyll]] saw Aegon II's coronation as [[treason]] and fled [[King's Landing]] with [[Viserys I Targaryen|Viserys I]]'s crown.{{Ref|HOTD109}} Erryk eventually found his way to [[Dragonstone (island)|Dragonstone]], where he swore himself to [[Rhaenyra Targaryen|Rhaenyra]] as she was crowned with her father's crown. Erryk thus joined her Queensguard, while Arryk remained on Aegon II's Kingsguard.{{Ref|HOTD201}}[[File:2x2 Criston and Arryk Still.jpg|thumb|Criston dispatches Arryk to kill Rhaenyra.]]
+
+After the [[Fight above Shipbreaker Bay|death]] of her son [[Lucerys Velaryon|Lucerys]], Rhaenyra declared her want for Prince [[Aemond Targaryen]]. Hoping to appease his wife's desire for vengeance, [[Daemon Targaryen|Daemon]] snuck into [[King's Landing]], where he hired [[Blood]] and [[Cheese]] to slay Aemond, or "a son for a son" if they did not find him. The two ultimately [[Assassination of Jaehaerys Targaryen|murdered]] the young [[Prince]] [[Jaehaerys Targaryen (son of Aegon II)|Jaehaerys]], son of Aegon II and Queen [[Helaena Targaryen]].{{Ref|HOTD201}} With his own son's death, Aegon II sought vengeance and declared war against Rhaenyra, beginning the [[Dance of the Dragons]] in earnest. [[Lord Commander of the Kingsguard|Lord Commander]] [[Criston Cole]], subsequently charged Ser Arryk with infiltrating [[Dragonstone]], disguised as his twin, in order to kill Rhaenyra, under threat of branding him a traitor to the [[king]] like his brother.{{Ref|HOTD202}}
+===The duel===
+{{Dialogue a-b|Erryk|We were born together.|Arryk|You parted us! But I still love you, brother.|Erryk and Arryk's last words to one another|Rhaenyra the Cruel}}
+Arryk, impersonating his brother Erryk, arrives on Dragonstone via boat and walks towards the castle amongst a group of [[smallfolk]]. On his way, he is spotted by [[Mysaria]], who calls forth her escort to issue a warning. Arryk sneaks through the castle undetected, eventually finding Rhaenyra's bedchambers. Arryk locks the back door before approaching Ser [[Lorent Marbrand]] posing as his brother, relieving him of the evening watch. After Lorent departs, Arryk enters the room and draws his blade, confessing to Rhaenyra he had no choice in what he was about to do. Before he can attack, Erryk walks into the room and calls out his brother. Erryk pleads with him to stop, but Arryk accuses him of treason and advances at Rhaenyra, prompting Erryk to intercept. Rhaenyra sends her [[handmaiden]], [[Elinda Massey]], to find Ser Lorent as the two brothers fight. Arryk slices Erryk at the knee and charges toward Rhaenyra again, but Erryk catches him and knocks him down.{{Ref|HOTD202}}
+[[File:2x3 Criston Cole Still 1.jpg|thumb|Following the attempted assassination of Rhaenyra, Ser Criston becomes [[Hand of the King]].]]
+Ser Lorent enters the room and grabs Rhaenyra, who cannot flee through the locked back door. Lorent is unable to assist Erryk, however, as he cannot tell the brothers apart. Pinned to the ground by his brother, Erryk reminds him they were born together. Arryk accuses Erryk of abandoning him but confesses he still loves him. Erryk then throws his brother off by digging into an open wound with his hand. Arryk crawls toward his sword and, lifting it, turns back towards his brother to continue the duel. Erryk, however, charges at him with his own sword, piercing him through his armor and [[Kinslaying|killing]] him as [[Man-at-arms|guards]] rush in. Still unable to tell the brothers apart, the guards make no move as Lorent stands by Rhaenyra's side with his sword pointed toward Erryk. Injured and devastated over slaying his brother, Erryk tearfully apologizes to Rhaenyra before finally killing himself by falling on his sword.{{Ref|HOTD202}}
+
+==In the books==
+In ''[[Fire & Blood]]'' by [[George R. R. Martin]], the duel between the Cargyll twins is not described in detail, and accounts differ on how it took place. One account claims that the brothers died cursing each other as traitors, while another states they died with tears on their cheeks after professing their love. Rhaenyra was also not present for the duel, as the brothers happened upon each other in the halls of Dragonstone rather than in Rhaenyra's bedchambers, but it was said that the clashing of their steel woke half the castle. As in the show, the two were witnessed by onlookers who did not intervene as they could not tell the brothers apart. What's more, the target of the attack was disputed: while one account suggested that Rhaenyra was the target, another suggested that it was her sons [[Jacaerys Velaryon|Jacaerys]] and [[Joffrey Velaryon]]. Ultimately, the duel resulted in the deaths of both brothers, though it was said that they both dealt one another mortal wounds, as opposed to one of the brothers slaying the other before committing suicide. The fate of the two brothers was written poetically into a tragic ballad known as "Farewell, My Brother."
+
+In ''[[A Song of Ice and Fire]]'' novels, [[Bran Stark|Bran]] and [[Sansa Stark|Sansa]] relate to the Cargyll twins' tragic death.{{Bookref|AGOT|8}}{{Bookref|ACOK|41}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{Dance of the Dragons}}
+
+<!--Categories-->
+[[Category:132 AC]]
+[[Category:Assassinations]]
+[[Category:Dance of the Dragons]]
+
+<!--Languages-->
+[[fr:Duel à Peyredragon]]

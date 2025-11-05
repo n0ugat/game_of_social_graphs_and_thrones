@@ -1,0 +1,62 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Massey.svg
+| Link  = House Massey
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Targaryen
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = [[House Massey|Massey]]{{Ref|HOTD203}}
+| Affiliation = [[Citadel]]{{Ref|HOTD203}}
+| Titles      = 
+| AKA         = 
+| Culture     = [[Crownlands|Crownlander]]{{Ref|HOTD203}}
+| Religion    = 
+| Father      = [[Gormon Massey]]{{Ref|HOTD203}}
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = [[Gormon Massey's son|Brother]]{{Ref|HOTD101}}<br>[[Elinda Massey]]{{Ref|HOTD203}}
+| Arms        = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|My youngest brother, Emmon, would stand at guard with the soldiers when he was three years old. Father has sent him to the Citadel.|Elinda Massey|The Burning Mill}}
+'''Emmon Massey''' is a member of [[House Massey]] during the [[Dance of the Dragons]].
+
+==Biography==
+===Background===
+Emmon is the youngest son of Lord [[Gormon Massey]]. His father has sent him to study at the [[Citadel]].{{Ref|HOTD203}}
+
+===[[House of the Dragon: Season 2|''House of the Dragon'': Season 2]]===
+[[Elinda Massey]] talks about her brother with [[Mysaria]].{{Ref|HOTD203}}
+
+==In the books==
+In ''[[Fire & Blood]]'', there is no character named Emmon Massey.
+
+==Appearances==
+*{{HOTD|The Burning Mill}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House Massey}}
+
+<!--Categories-->
+{{DEFAULTSORT:Massey, Emmon}}
+[[Category:Crownlanders]]
+[[Category:Individuals mentioned in House of the Dragon]]
+[[Category:Members of House Massey|Emmon Massey]]
+
+<!--Languages-->
+[[ru:Эммон Масси]]

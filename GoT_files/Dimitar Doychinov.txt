@@ -1,0 +1,22 @@
+{{Crew
+|Image = Dimitar Doychinov.jpeg
+|dateofbirth = 
+|birthplace = 
+|job = Stunt Performer
+|imdb = https://www.imdb.com/name/nm1350205/
+|twitter = }}
+'''Dimitar Doychinov''' is a stuntman.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 6|sixth season]] episode "[[Battle of the Bastards (episode)|Battle of the Bastards]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 6|||||||||yes}}
+
+==See also==
+*{{IMDb
+|# = 1350205}}
+*{{Facebook
+|# = dimitar.doichinov.7}}
+{{DEFAULTSORT:Doychinov, Dimitar}}
+[[Category:Stunt performers of Game of Thrones]]

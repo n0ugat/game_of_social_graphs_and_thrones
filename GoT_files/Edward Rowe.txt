@@ -1,0 +1,34 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Edward Rowe.jpg
+| Birth   = Roche, Cornwall, England
+| Death   = 
+| Role    = [[Howland Sharp]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = "[[Second of His Name]]"
+| First   = 
+| Last    = 
+}}
+'''Edward Rowe''' is a Cornish actor. He is known for the lead role as a struggling fisherman in the {{WPS|BAFTA}}-winning film ''{{WPS|Bait (2019 film)|Bait}}''.
+
+He portrayed [[Howland Sharp]] in ''[[House of the Dragon]]''.<ref>[https://redanianintelligence.com/2021/10/14/hbos-game-of-thrones-prequel-house-of-the-dragon-casts-young-mysaria-and-others/ HBO's Game of Thrones prequel House of the Dragon casts Young Mysaria and others - Redanian Intelligence]</ref>
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1|||yes}}
+
+==See also==
+*{{WP|Edward Rowe (actor)|Edward Rowe}}
+*{{IMDb
+|# = 8196922}}
+*{{Twitter
+|# = kernow_king}}
+*{{Instagram
+|# = kernowking_}}
+
+==References==
+{{Reflist}}
+{{DEFAULTSORT:Rowe, Edward}}
+[[Category:Co-starring cast members of House of the Dragon]]

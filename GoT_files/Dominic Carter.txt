@@ -1,0 +1,39 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Dominic carter.png
+| Birth   = April 17, 1966 {{Age|1966|4|17}}<br>Liverpool, England
+| Death   = 
+| Role    = [[Janos Slynt]]
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 1|1]] {{*}} [[Game of Thrones: Season 2|2]] {{*}} [[Game of Thrones: Season 4|4]] {{*}} [[Game of Thrones: Season 5|5]]
+| Credits = 15 episodes {{Below|Credits}}
+| First   = "[[Cripples, Bastards, and Broken Things]]"
+| Last    = "[[High Sparrow (episode)|High Sparrow]]"
+}}
+'''Dominic Carter''' is a British actor. He is best known for a recurring role on [[wikipedia:Coronation Street|''Coronation Street'']] as DC Hooch.
+
+In ''[[Game of Thrones]]'' Carter played [[Janos Slynt]]. He was confirmed in the role on 16 July 2010. He initially appeared as a guest star in the [[Game of Thrones: Season 1|first season]] and returned in this role for the [[Game of Thrones: Season 2|second]], [[Game of Thrones: Season 4|fourth]] and [[Game of Thrones: Season 5|fifth]] seasons.
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 1||||yes|||yes|yes|yes}}
+{{Game of Thrones: Season 2|yes|yes}}
+{{Game of Thrones: Season 4|yes||yes|yes|||yes||yes|yes}}
+{{Game of Thrones: Season 5|yes|yes|yes}}
+
+==See also==
+*{{Template:IMDb
+|# = 0141582}}
+*{{Template:Twitter
+|# = dominiccarter7}}
+
+{{stub}}
+
+==References==
+{{Reflist|2}}
+[[de:Dominic Carter]]
+[[ru:Доминик Картер]]
+[[fr:Dominic Carter]]
+{{DEFAULTSORT:Carter, Dominic}}
+[[Category:Guest starring cast members of Game of Thrones]]

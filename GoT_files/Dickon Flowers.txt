@@ -1,0 +1,70 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = Faith Militant.svg
+| Link  = Faith Militant
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Militant
+| Image       = 
+| Birth       = At [[Honeyholt]]
+| Death       = In [[King's Landing]]<br>Killed in the [[trial by seven of Maegor Targaryen]]
+| House       = 
+| Affiliation = [[House Beesbury]]<br>[[Faith Militant]]
+| Titles      = [[Knighthood|Ser]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Andals|Andal]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Ser Damon Morrigen proposed a trial by seven. Ser Damon and six of the Faith Militant against the king and his six champions.|The [[High Sparrow]]|The Faith Militant}}
+Ser '''Dickon Flowers'''{{Con|F&B}} was a member of the [[Faith Militant]] during [[Faith Militant uprising|the order's revolt]] against [[House Targaryen]].
+
+==Biography==
+[[File:HL5 Maegor trial of seven versus Damon Morrigen.png|thumb|Dickon Flowers engages in the [[trial by seven of Maegor Targaryen]].]]
+Ser Dickon was a knight and a [[bastard]] of [[House Beesbury]] and a devotee of the [[Faith Militant]]. When newly-crowned King [[Maegor Targaryen]] returned to [[King's Landing]], Ser [[Damon Morrigen]] challenged the Faith Militant to a [[Trial by combat]] to prove his right to rule. They accepted, and [[Trial by seven of Maegor Targaryen|the resulting trial of seven]] pitted Maegor and six of his [[Kingsguard]] against Ser Damon and six other champions of the Faith Militant, among whom was Ser Dickon. The tales about the resulting confrontation are many, but by the end, of the fourteen men who entered the field only Maegor was left alive.{{Ref|H&L502}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Ser Dickon Flowers is a member of the Warrior's Sons - one of two military orders that comprises the Faith Militant. In the TV show the Faith Militant is condensed into a single order. Ser Dickon, also known as the Bastard of Beesbury, was stationed at the [[King's Landing]] chapter of the Warrior's Sons, based in the [[Sept of Remembrance]], in 42 AC. He was killed in the [[trial by seven]] between the Warrior's Sons and [[Maegor Targaryen]] and his [[Kingsguard]].
+
+==Appearances==
+*{{H&L|The Faith Militant}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+{{DEFAULTSORT:Flowers, Dickon}}
+[[Category:Bastards]]
+[[Category:Ennobled commoners]]
+[[Category:Faith Militant]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Individuals from the Reach]]
+[[Category:Knights]]
+[[Category:Members of House Beesbury|Dickon Flowers]]
+
+<!--Languages-->
+[[de:Dickon Flowers]]
+[[es:Dickon Flowers]]
+[[nl:Dickon Flowers]]

@@ -1,0 +1,78 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Stub}}
+{{References}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Westeros
+| Part          = the [[First Dornish War]]
+| Image         = Dragon's Wroth.png
+| Previous      = [[Attack on Hellholt]]
+| Concurrent    = 
+| Next          = [[Attempted assassination of Aegon I Targaryen]]
+| Date          = 
+| Place         = [[Dorne]]
+| Outcome       = Pyrrhic [[House Martell|Dornish]] victory
+*The armies and people of Dorne remain loyal to House Martell
+*Destruction of most of Dorne's castles and settlements
+*Civilian population of Dorne decimated
+*[[House Targaryen|Targaryens]] withdraw from Dorne
+| Factions1     = [[File:House Targaryen.svg|30px|center|link=House Targaryen]] '''[[Iron Throne]]'''<br><small>([[House Targaryen]])</small>
+| Factions2     = [[File:House Martell.svg|30px|center|link=House Martell]] '''[[Dorne]]'''<br><small>([[House Martell]])</small>
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = {{COA|House Targaryen|i}} [[King of the Andals and the Rhoynar and the First Men|King]] [[Aegon I Targaryen]]<br>{{COA|House Targaryen|i}} [[King|Queen]] [[Visenya Targaryen]]
+| Leaders2      = {{COA|House Martell|i}} [[Prince of Dorne|Princess]] [[Meria Martell]]
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = Targaryen army
+*2 dragons
+**[[Balerion]]
+**[[Vhagar]]
+| Participants2 = Dornish army
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = Moderate
+| Casualties2   = Heavy
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = Catastrophic
+}}
+{{Quote|In their wrath, Aegon and Visenya set flame to every castle and city but Sunspear, trying to turn the people against House Martell. But the Dornish stayed loyal.|[[Varys]] on [[House Targaryen]]'s wrath after the death of [[Rhaenys Targaryen (sister of Aegon I)|Rhaenys Targaryen]].|House Martell, Princes of Dorne}}
+The '''Dragon's Wroth'''{{Con|TWOI&F}} was a punitive campaign undertaken by King [[Aegon I Targaryen]] and Queen [[Visenya Targaryen]] as retribution for the death of their sister, Queen [[Rhaenys Targaryen (sister of Aegon I)|Rhaenys Targaryen]]. The campaign consisted of a series of genocidal attacks against the populations of [[Dorne]].
+
+==History==
+===Prelude===
+During the [[First Dornish War]], Queen [[Rhaenys Targaryen (sister of Aegon I)|Rhaenys Targaryen]] returned to [[Dorne]], both to subdue the Dornish after their succesful [[Defenestration of Sunspear|overthrow]] of the Targaryen occupation and to avenge her failure to subdue Dorne during [[Aegon's Conquest]]. Nevertheless, the Dornishmen were prepared for Rhaenys and fought valiantly, despite heavy losses, when Rhaenys [[Attack on Hellholt|assaulted]] [[Hellholt]]. Rhaenys was ultimately killed by the Dornish during this battle, along with her [[dragon]], [[Meraxes]], when the latter was shot through the eye with a [[scorpion]] bolt. Angered by the death of their sister, King [[Aegon I Targaryen]] and Queen [[Visenya Targaryen]] flew to [[Dorne]], atop their dragons [[Balerion]] and [[Vhagar]].
+
+===The campaign===
+In the hopes of inciting a Dornish civil war, the two Targaryens set Dorne aflame, excluding [[Sunspear]], the capital of Dorne and the seat of its [[Great House|ruling house]], [[House Martell]]. Countless cities and castles throughout Dorne were destroyed by Balerion and Vhagar, leading to the deaths of thousands, if not, tens of thousands of cvilians and military troops alike. Through these genocidal attacks, the Targaryens hoped to shatter [[Dornishmen|the population]]'s will to fight and turn them against their princes. This would divide the Dornish and allow for an easier subjugation of Dorne and its annexation into the [[Seven Kingdoms]].
+
+===Aftermath===
+Despite the devastating losses inflicted upon Dorne by Aegon and his sister, the Dornish remained loyal and continued to resist the Targaryens. Seeing that the Dornish would not yield even in the face of the mass destruction brought on by their dragons, Aegon and Visenya realized the war was lost. As such, the two withdrew with their dragons back to [[King's Landing]], while their remaining forces were evacuated from Dorne. Aegon's defeat in Dorne was one of the few, if only, major defeat he faced during the Wars of Conquest, as he failed where he succeeded everywhere else in [[Westeros]], subduing Dorne and truly uniting the Seven Kingdoms.
+
+== In the books ==
+The grief Aegon and Visenya felt at the death of Rhaenys was great; the next two years would later be called the years of the Dragon's Wroth. The Targaryens burned every Dornish stronghold at least once, with the exception of Sunspear and its shadow city. The Dornish believed that the Targaryens refused to attack Sunspear because they were afraid that [[Meria Martell|Princess Meria]] might have purchased a device from [[Lys]] to slay dragons with. Archmaester Timotty offers a different explanation, suggesting in his ''Conjectures'' that Aegon hoped this would instead turn the Dornish against the Martells. Indeed, letters have been discovered in which [[Dornish Marches|Marcher]] lords urge Dornish lords to surrender, while claiming that House Martell had purchased their safety from the dragons. Regardless of the truth, the Dornish lords and [[smallfolk]] remained loyal.
+
+Aegon and Visenya also placed bounties on the heads of Dornish lords, who, in turn, placed bounties on the Targaryens and their allies. Half a dozen Dornish lords were successfully assassinated, though only two of their killers ever lived to collect their bounties. King Aegon was attacked on three occasions, and Visenya was attacked on several occasions as well. One day, when Aegon and Visenya were assaulted on the streets of [[King's Landing]], only Visenya's swift intervention saved Aegon's life. This attack led to the creation of the elite royal bodyguard known as the [[Kingsguard]] in 10 AC. Lord Fell was killed in a brothel in King's Landing, while the Wyl of [[Wyl]] committed atrocities, particularly in Fawnton and Old Oak.
+
+Although Dorne was a blasted, burning ruin from the [[Red Mountains]] to the mouth of the [[Greenblood]], the Dornish continued to fight.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|First Dornish War#The Dragon's Wroth}}
+
+<!--Navboxes-->
+{{Wars of Conquest}}
+
+<!--Categories-->
+[[Category:Battles]]
+[[Category:First Dornish War]]
+
+<!--Languages-->
+[[ru:Драконий гнев]]

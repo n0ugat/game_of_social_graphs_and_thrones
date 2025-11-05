@@ -1,0 +1,36 @@
+{{Episode
+| Title    = Ep. 1: A Son for a Son<br>{{C|with Olivia Cooke and Phia Saban}}
+| Type     = Podcast
+| Image    = TOGOTPHOTD205.jpg
+| Season   = 2
+| Episode  = 5
+| Date     = June 16, 2024{{Listref|TOGOTPHOTD}}
+| Runtime  = 56:44{{HBOref|TOGOTPHOTD}}
+| Writer   = 
+| Director = 
+| Year     = 
+| Previous = "[[A Look Ahead to Season 2 with Showrunner Ryan Condal]]"{{Listref|TOGOTPHOTD}}
+| Next     = "[[Ep. 2: Rhaenyra the Cruel (with Tom Glynn-Carney and Matthew Needham)]]"{{Listref|TOGOTPHOTD}}
+}}
+"'''Ep. 1: A Son for a Son (with Olivia Cooke and Phia Saban)'''"{{HBOref|TOGOTPHOTD}} is the fifth episode of the [[The Official Game of Thrones Podcast: House of the Dragon: Season 2|second season]] of ''[[The Official Game of Thrones Podcast: House of the Dragon]]''. It is the twenty-third episode of the series overall. It was released on June 16, 2024.
+
+==Description==
+{{Description|TOGOTPHOTD205}}
+
+==Gallery==
+<gallery bordersize="none">
+A Son for a Son (with Olivia Cooke and Phia Saban)
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{HBO Max|video/watch/PROM727476/PROM1182010|House of the Dragon Podcast: S2 E1}}
+
+<!--Navboxes-->
+{{The Official Game of Thrones Podcast: House of the Dragon}}
+
+<!--Categories-->
+[[Category:Episodes of The Official Game of Thrones Podcast: House of the Dragon: Season 2| 05]]
+[[Category:Episodes released in 2024|6.16B]]

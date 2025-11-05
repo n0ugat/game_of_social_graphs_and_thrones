@@ -1,0 +1,63 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Stokeworth.svg
+| Link  = House Stokeworth
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Targaryen
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = [[House Stokeworth|Stokeworth]]{{Ref|HOTD101}}
+| Affiliation = 
+| Titles      = 
+| AKA         = 
+| Culture     = [[Crownlands|Crownlander]]{{Ref|HOTD101}}
+| Religion    = 
+| Father      = [[Lord Stokeworth]]{{Ref|HOTD101}}
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Dialogue a-b-a-b|Rhaenyra|Lord Stokeworth's daughter is promised to that young Tarly squire.|Alicent|Lord Massey's son?|Mm-hm. They're to be married as soon as he wins his knighthood.|Best get on with it. I heard that Lady Elinor is hiding a swollen belly beneath her dress.|Rhaenyra Targaryen and Alicent Hightower|The Heirs of the Dragon}}
+'''Elinor Stokeworth''' is a member of [[House Stokeworth]] during the reign of [[Viserys I Targaryen]].
+
+==Biography==
+===Background===
+Elinor is the daughter of [[Lord Stokeworth]]. She is betrothed to the [[Gormon Massey's son|son]] of Lord [[Gormon Massey]].{{Ref|HOTD101}}
+
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+[[Alicent Hightower|Alicent]] and [[Rhaenyra Targaryen|Rhaenyra]] gossip about her and her betrothed during the [[Heir's Tournament]]. Alicent alleges that Elinor is already pregnant.{{Ref|HOTD101}}
+
+==In the books==
+In ''[[Fire & Blood]]'', there is no character named Elinor Stokeworth. There is, however, a character named Elinor Massey, though she is a young maiden 20 years after this point in time.
+
+==Appearances==
+*{{HOTD|The Heirs of the Dragon}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House Stokeworth/House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Stokeworth, Elinor}}
+[[Category:Crownlanders]]
+[[Category:Individuals mentioned in House of the Dragon]]
+[[Category:Members of House Stokeworth|Elinor Stokeworth]]
+
+<!--Languages-->
+[[es:Elinor Stokeworth]]
+[[ru:Элинор Стокворт]]

@@ -1,0 +1,75 @@
+{{Canonicity|Canon}}
+{{Spoiler|AKOTSK}}
+{{BookConjecture}}
+{{Heraldry
+| Leftimage  = House Dayne.svg
+| Leftlink   = House Dayne
+| Rightimage = House Targaryen.svg
+| Rightlink  = House Targaryen
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Targaryen
+| Image       = 
+| Birth       = At [[Starfall]]
+| Death       = 
+| House       = [[House Dayne|Dayne]]<br>[[House Targaryen|Targaryen]] {{C|by marriage}}
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Dornishmen|Dornish]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = [[Maekar Targaryen]]
+| Lovers      = 
+| Issue       = [[Daeron Targaryen (son of Maekar)|Daeron Targaryen]]<br>[[Aerion Targaryen]]<br>[[Aemon|Aemon Targaryen]]<br>[[Aegon Targaryen (son of Maekar)|Aegon Targaryen]]
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Dyanna Dayne'''{{Con|TWOI&F}} was the wife of [[Maekar Targaryen]].
+
+==Biography==
+Dyanna Dayne was the wife of [[Maekar Targaryen]], and the mother of his sons [[Daeron Targaryen (son of Maekar)|Daeron]], [[Aerion Targaryen|Aerion]], [[Aemon]], and [[Aegon Targaryen (son of Maekar)|Aegon]].{{Ref|GOT507}}
+
+==Family==
+{{Targaryen tree (A Knight of the Seven Kingdoms)}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Dyanna Dayne was the wife of Maekar Targaryen and the mother of Daeron, Aerion, Aemon, Daella, Aegon, and Rhae Targaryen. She died by [[209 AC]].
+
+==Appearances==
+*{{GOT|The Gift}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|AKOTSK}}
+
+<!--Navboxes-->
+{{House Dayne}}
+{{House Targaryen}}
+
+<!--Categories-->
+{{DEFAULTSORT:Dayne, Dyanna}}
+[[Category:Dornishmen]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Ladies]]
+[[Category:Members of House Dayne|Dyanna Dayne]]
+[[Category:Members of House Targaryen|Dyanna Dayne]]
+
+<!--Languages-->
+[[fr:Dyanna Dayne]]
+[[ru:Дианна Дейн]]

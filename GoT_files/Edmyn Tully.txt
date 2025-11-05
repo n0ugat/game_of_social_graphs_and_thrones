@@ -1,0 +1,71 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Tully.svg
+| Link  = House Tully
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Tully
+| Image       = Edmyn Tully.png
+| Birth       = During the [[Century of Blood]], at [[Riverrun]]
+| Death       = 
+| House       = [[House Tully|Tully]]
+| Affiliation = [[House Hoare]]<br>[[House Targaryen]]
+| Titles      = [[Lord of Riverrun]]<br>[[Lord Paramount of the Trident]]<br>[[Hand of the King]] {{C|to [[Aegon I Targaryen|Aegon I]]}}
+| Predecessor = {[[Orys Baratheon]]} {{C|Hand of the King}}
+| Successor   = 
+| AKA         = 
+| Culture     = [[Riverlands|Rivermen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|In return for Edmyn's service, House Tully was made Aegon's new Lord Paramount of the Trident and all the other lords had to swear us fealty.|[[Brynden Tully]]|House Tully (short)}}
+Lord '''Edmyn Tully''' was the [[Lord of Riverrun]] and a vassal of King [[Harren Hoare|Harren the Black]].
+
+==Biography==
+Edmyn rebelled against his liege, [[Harren Hoare]], when [[Aegon I Targaryen|Aegon the Conqueror]] [[Aegon's Conquest|invaded]] [[Westeros]]. After the elimination of Harren and his entire line at the [[Burning of Harrenhal]], Aegon rewarded Edmyn by elevating the Tullys to rule over the [[Riverlands]] (under the Targaryens), even though they had never ruled the Riverlands as kings - indeed, the Riverlands had been occupied by powerful neighboring kingdoms for centuries, and before that were rarely politically unified. Aegon made Edmyn Tully the first [[Lord Paramount of the Trident]],{{Ref|H&L306}} a title his family would hold up until the [[Red Wedding]].{{Ref|GOT310}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Lord Edmyn was the first of the riverlords who turned against their king Harren; his act encouraged the other lords to revolt as well. As a result, House Tully was greatly rewarded by the Targaryens.
+
+==Appearances==
+*{{H&L|House Frey}} {{Mentioned}}
+*{{H&L|House Tully}} {{Illustrated}}
+*{{H&L|The Riverlands}} {{Illustrated}}
+*{{C&R|House Hoare, Ironborn Kings of the Riverlands}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Tully}}
+
+<!--Categories-->
+{{DEFAULTSORT:Tully, Edmyn}}
+[[Category:Bannermen of House Targaryen]]
+[[Category:Hands of the King]]
+[[Category:Individuals from Game of Thrones: Conquest & Rebellion: An Animated History of the Seven Kingdoms]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Lords of Riverrun]]
+[[Category:Lords Paramount of the Trident]]
+[[Category:Members of House Tully|Edmyn Tully]]
+[[Category:Rivermen]]
+
+<!--Languages-->
+[[de:Edmyn Tully]]
+[[ru:Эдмин Талли]]

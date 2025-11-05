@@ -1,0 +1,21 @@
+{{Template:Cast
+|Title = Dez McMahon
+|Image = Dez McMahon.jpg
+|birthplace = Ireland
+|role = [[Endrew Tarth]]
+|status = 
+|First = |imdb = http://www.imdb.com/name/nm4757478/
+|twitter = https://twitter.com/Dez_mcmactor|Appearances = "[[Two Swords]]"}}
+'''Dez McMahon''' ​is an Irish actor. In ''[[Game of Thrones]]'' he plays the role of Ser [[Endrew Tarth]].
+
+==Credits==
+{{Game of Thrones: Season 4|yes}}
+
+==See also==
+*{{Template:IMDb
+|# = 4757478}}
+*{{Template:Twitter
+|# = Dez_mcmactor}}
+[[fr:Dez McMahon]]
+{{DEFAULTSORT:McMahon, Dez}}
+[[Category:Guest starring cast members of Game of Thrones]]

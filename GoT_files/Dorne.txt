@@ -1,0 +1,164 @@
+{{Canonicity|Canon}}
+{{SameName|region|short|Dorne (short)}}
+{{Heraldry
+| Image = House Martell.svg
+| Link  = House Martell
+}}
+{{Region
+| Title      = {{PAGENAME}}
+| Theme      = Martell
+| Image      = Dorne.png
+| Type       = Administrative region of the [[Six Kingdoms]]
+| Location   = [[Westeros]]
+| Geography  = Parched, temperate to arid; mountains {{C|west}}<br>Rolling-sands deserts {{C|center}}<br>Semi-arid hills punctuated by river valleys {{C|east}}
+| Population = [[Dornishmen]]
+| Rulers     = [[House Martell]]<br>{[[Ellaria Sand]]} {{C|formerly}}
+| Culture    = [[Dornishmen]] {{C|[[Rhoynar]]/[[Andals|Andal]]/[[First Men]] mixture}}
+| Religion   = [[Faith of the Seven]] {{C|with regional variation}}
+| Military   = 
+| Capital    = [[Sunspear]]
+| Castles    = [[Blackmont]] {{*}} [[Ghost Hill]] {{*}} [[Godsgrace]] {{*}} [[Hellholt]] {{*}} [[Kingsgrave]] {{*}} [[Lemonwood]] {{*}} [[Salt Shore]] {{*}} [[Sandstone]] {{*}} [[Skyreach]] {{*}} [[Starfall]] {{*}} [[Tor]] {{*}} [[Vaith]] {{*}} [[Water Gardens]] {{*}} [[Yronwood]]
+| Cities     = 
+| Towns      = [[Vulture's Roost]]
+| Villages   = 
+| Places     = [[Boneway]] {{*}} [[Brimstone]] {{*}} [[Greenblood]] {{*}} [[Prince's Pass]] {{*}} [[Red Mountains]] {{*}} [[Scourge]]
+| Founded    = by {[[Mors Martell]]} and {[[Nymeria]]}
+}}
+[[File:Dorne.PNG|thumb|right|200px|Map showing the location of Dorne within the continent of Westeros.]]
+{{Quote|Before the Seven Kingdoms, before the Iron Throne, there was Dorne. Twelve thousand years ago the First Men crossed the land bridge from Essos to here. Of course they were men so they soon broke it. Then while their cousins to the north built kingdoms, the Dornish squabbled over land, water and wives, for centuries. Until Nymeria, a warrior princess in Essos. She led a fleet of 10,000 ships across the Narrow Sea to Dorne. Almost all of the petty lords made it clear that she wasn't welcome. All but one, Mors of House Martell. He saw in her a strength to match any man, including his rivals. After she accepted his marriage offer she set fire to her ships. For 50 leagues the coast was bright as day. And in the burning light, Princess Nymeria names Mors Martell, the Prince of Dorne.|[[Ellaria Sand]] on the founding of Dorne|Dorne (short)}}
+'''Dorne'''{{Ref|GOT102}} is one of the nine constituent regions of the [[Seven Kingdoms]]. It is the southernmost part of the continent of [[Westeros]], located thousands of miles from [[Winterfell]] and the [[North]], and has a harsh desert climate. The [[Dornishmen]] are ethnically distinct from the rest of the Seven Kingdoms, being largely descended from [[Rhoynar]] refugees who intermarried with the local population of [[Andals]] and [[First Men]] roughly a thousand years ago. As a result, they have very different customs and traditions compared to the other regions of Westeros.
+
+Dorne was a sovereign kingdom before the invasion of [[Aegon I Targaryen|Aegon the Conqueror]], and weathered his attack to remain one afterwards, the only one of the Seven Kingdoms to retain its independence. It joined the [[Seven Kingdoms]] through peaceful marriage alliance nearly two centuries later, only one century before [[Robert's Rebellion]]. As a result of joining through marriage and not conquest, Dorne was allowed to keep many of its local customs and laws, such as equal inheritance laws for male and female heirs. Due to these different ethnic, legal, and political factors, the Dornishmen are very independently minded, with a stronger sense of "national identity" than many of the other Seven Kingdoms.
+
+Dorne is ruled from the castle of [[Sunspear]]. [[Bastard]]s born in Dorne are given the surname Sand. Things from Dorne are known as "Dornish," while the people of Dorne are properly known as the "[[Dornishmen]]," though its people are sometimes simply referred to as "the Dornish."
+
+Following the recent [[Sand Snakes]]-led [[Coup in Dorne|rebellion]], all known trueborn members of House Martell are now dead, with the region under the command of [[Ellaria Sand]]. However, Ellaria herself was captured and imprisoned in King's Landing after [[Euron Greyjoy]] attacked the fleet transporting her back to Dorne for the army, leaving a new [[Prince of Dorne (Last War)|Prince of Dorne]] to assume power in Dorne.
+
+==Geography==
+===Overview===
+Dorne contains the only desert on the entire continent of Westeros, and due to its arid climate it has one of the smallest overall populations. It is the only part of Westeros where citrus fruits and spices grow. Dornish wine is also highly prized throughout all of Westeros, and considered to be among the best imports available.
+
+Dorne is separated from the Stormlands by the [[Sea of Dorne]] and is surrounded by water on three sides. However, the coast of Dorne is rocky and mostly consists of towering cliffs. The only notable port is at Sunspear, and even this is poor compared to [[Oldtown]] to the west or [[King's Landing]] to the north. For this reason, Sunspear lacks any major strength at sea and is not a notable center for trade. However, the Dornish traditionally have greater ties to [[Essos]] than many of the other parts of Westeros, with the [[Prince of Dorne]] enjoying friendly relations with several of the [[Free Cities]].
+
+According to legend, Dorne once formed part of a land bridge, called the "Arm of Dorne," that linked Westeros and the eastern continent of [[Essos]]. The [[First Men]] arrived in Westeros by crossing this land bridge some 12,000 years ago, and came into conflict with the non-human [[Children of the Forest]] that already inhabited the continent. To try to halt the advance of the First Men, the Children are said to have called upon powerful magics which shattered the Arm of Dorne, sinking large portions of it into the Narrow Sea. All that remains of the Arm of Dorne in the present day is a string of islands called the [[Stepstones]], which run between Westeros and Essos. The eastern peninsula of Dorne which terminates at the ocean is thus often called the Broken Arm of Dorne. The destruction of the Arm of Dorne, however, did not stop the advance of the First Men throughout Westeros.{{Ref|H&L101}}
+
+===Western Dorne and the Dornish Marches===
+[[File:DornishMarches.jpg|thumb|The Dornish and Stormlanders have fought over the Marches for centuries.]]
+Overland travel between the Dorne peninsula and the rest of Westeros is severely restricted due to the [[Red Mountains]], a large mountain chain along Dorne's northern and western borders, which possess only a few passes such as the [[Boneway]] and the [[Prince's Pass]]. The rough valleys of the Red Mountains have been the site of border squabbles between Dorne, the [[Reach]], and the [[Stormlands]], for the better part of the past thousand years. The salient of territory possessed by the Stormlands in the Red Mountains, along Dorne's northern border, is thus called the [[Dornish Marches]].
+
+=== Central Dorne and the harsh desert ===
+Central Dorne, east of the Red Mountains and west of the hills where the Greenblood river system begins, is completely inhospitable. Central Dorne is a true rolling-sands desert, with little plant life and almost completely uninhabited by people, save for the occasional oasis-castle.
+
+===Eastern Dorne and the valleys of the Greenblood===
+Dorne's population is congregated around the coasts, and the few major rivers such as the [[Greenblood]]. The valley of the Greenblood begins in the hills of eastern Dorne and continues east until it empties into the Narrow Sea. Most of the population is concentrated in the river valleys of the east, and are so crowded that casual observers visiting Dorne don't realize how small its total population actually is (not realizing that the towns they see in the valley of the Greenblood represent almost the entire population). Even the eastern region of Dorne is arid, but irrigation in the river valleys makes it agriculturally productive.
+
+While overland travel through the desert is possible by caravan, it is very difficult for large armies to move across. No major roads comparable to the [[Kingsroad]] or [[Roseroad]] connect Sunspear in the east with the Boneway and Prince's Pass in the mountains of the west.
+
+===Settlements===
+*{{COA|House Martell|small}} [[Sunspear]], the seat of [[House Martell]] and the regional capital.
+**[[Planky Town]] - Dorne's only major port and largest town, though modestly sized by the standards of the rest of Westeros. Located on the east coast at the mouth of the Greenblood river.
+**{{COA|House Blackmont|small}} [[Blackmont]], a holdfast in the far west of Dorne near the border with the [[Reach]]. Seat of [[House Blackmont]].
+**{{COA|House Dayne|small}} [[Starfall]], a holdfast in the far west of Dorne near the border with the Reach. Seat of [[House Dayne]].
+**{{COA|House Manwoody|small}} [[Kingsgrave]], a holdfast in the northwest of Dorne near the border with the [[Stormlands]]. Seat of [[House Manwoody]].
+**[[Vulture's Roost]], a holdfast in the north west of Dorne on the border with the Stormlands.
+**[[Wyl]], a holdfast south west of Storm's End across the border with Dorne.
+**[[Yronwood]], a holdfast in the north west of Dorne at the foot of the [[Kingsroad]]. Seat of [[House Yronwood]].
+**{{COA|House Qorgyle|small}} [[Sandstone]], a holdfast in the south west of Dorne west of the [[Brimstone]]. Seat of [[House Qorgyle]].
+**[[Hellholt]], a holdfast in the south west of Dorne near the Brimstone.
+**{{COA|House Jordayne|small}} The [[Tor]], a holdfast in the north of Dorne on the shore of the [[Sea of Dorne]]. Seat of [[House Jordayne]]
+**[[Vaith]], a holdfast in the center of Dorne in the headlands of the [[Greenblood]].
+**[[Godsgrace]], a holdfast in the center of Dorne where the [[Scourge]] meets the [[Greenblood]].
+**[[Salt Shore]], a holdfast on the southern shore of Dorne. Seat of [[House Gargalen]].
+**{{COA|House Dalt|small}} [[Lemonwood]], a holdfast in the east of Dorne near the estuary of the Greenblood. Seat of [[House Dalt]].
+**[[Ghost Hill]], a holdfast in the north east of Dorne on the shore of the Sea of Dorne.
+**{{COA|House Martell|small}} The [[Water Gardens]], a palace a short distance away from Sunspear, serving as leisure residence to House Martell.
+
+===Mountains===
+*[[Red Mountains]]
+
+===Rivers===
+*[[Brimstone]]
+*[[Scourge]]
+*[[Greenblood]]
+
+===Roads===
+* [[Prince's Pass]]
+* The [[Boneway]]
+
+==Military strength==
+Dornish soldiers seem to be equipped with boiled leather tunics under studded yellow robes and carry distinctive spears. Their heads are covered with yellow wind scarfs, apparently to avoid sunburnt. 
+[[File:Hotah-5x06-Promo.jpg|thumb|right|230px|[[Areo Hotah]] and [[House Martell|Martell]] soldiers.]]
+Like the [[Reach]] and the [[Vale of Arryn]], during the [[War of the Five Kings]] the military strength of Dorne has been left largely unscathed, in part due to their isolation from the conflicts of the war, except the loss of a very few soldiers (killed by [[Bronn]] in "[[Sons of the Harpy (episode)|Sons of the Harpy]]"). 
+
+The [[Dornishmen]], under the command of [[Ellaria Sand]], support [[House Targaryen]] in the [[Last War]], but a large part of the Dornish army and its navy is destroyed during the [[Assault on the Targaryen fleet]] ("[[Stormborn]]"). Afterwards, Dorne is no longer involved in the conflict between Daenerys and her allies and the Lannisters.
+
+It is unknown how many the Dornish troops number at the beginning of the War of the Five Kings, and how many are left after the destruction of the Dornish fleet.
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Dorne is one of the nine constituent regions of [[Westeros]]. It lies along the large peninsula which makes up the southernmost part of the continent. It is bordered by the [[Sea of Dorne]] to the north, the islands known as the [[Stepstones]] to the east, the [[Summer Sea]] to the south, and the [[Red Mountains]] to the west and north-west. The landscape consists largely of rocky mountains and parched deserts, with more fertile lands along the rivers and eastern coast. Dorne is ruled from the castle of [[Sunspear]] by [[House Martell]].
+
+One thousand years ago, Dorne was a shifting patchwork of small [[Andals|Andal]] states, with no ruler strong enough to seize control of the entire region. However, a people known as the [[Rhoynar]] had fled [[Essos]] after their homeland was overrun and destroyed by the expanding power of the [[Valyrian Freehold]]. After much wandering, the Rhoynar eventually landed in Dorne, and their leader, Princess [[Nymeria]], forged a marriage alliance with Lord [[Mors Martell]] of Sunspear. With his support, she was able to conquer the entire peninsula, uniting it as the Principality of Dorne.
+
+Seven centuries later, when King [[Aegon I Targaryen]] [[Aegon's Conquest|invaded]] Dorne, the Dornish refused to give open battle. Having heard of the defeat of the [[Reach]] and the [[Westerlands]] at the [[Field of Fire]], they knew that a pitched battle would allow Aegon to deploy his [[dragon]]s, so instead they adopted guerrilla warfare tactics, striking at Aegon's flanks and supply lines. Aegon was forced to concede defeat and leave the kingdom untaken. A century and a half later King [[Daeron I Targaryen|Daeron I]], the Young Dragon, [[Conquest of Dorne|invaded]] Dorne and successfully subdued the kingdom, but lost ten thousand soldiers in the process. Unfortunately for the Targaryens, Dorne rose in rebellion almost immediately after Daeron's troops returned home. In the resulting conflict, forty thousand Targaryen soldiers died, including the Young Dragon, and his successor King [[Baelor I Targaryen|Baelor]] ended up making peace with Dorne instead. Fifty years later, after the long and fruitful marriage of Princess Myria Martell to Prince [[Daeron II Targaryen|Daeron]] (later King Daeron II), Dorne finally joined the Seven Kingdoms through peaceful alliance.
+
+The people of Dorne, the [[Dornishmen|Dornish]], are considered a passionate and fiery people, and have more relaxed views on sexual morality than other parts of the Seven Kingdoms. Since Dorne joined the Seven Kingdoms through peaceful alliance and a marriage contract, its people were allowed more indulgences than the other regions conquered by the [[House Targaryen|Targaryens]] in war. In particular, the rulers of Dorne are allowed to style themselves "Prince" rather than "Lord" and inheritance always passes to the eldest child regardless of gender, in contrast to the male-favoring primogeniture practiced elsewhere in Westeros.
+
+Dorne has never been a sea power; the ten thousand ships that the Rhoynar arrived in were destroyed at Princess Nymeria's order, who turned her back upon the sea forever once she married her Dornish prince. Even though many years passed, the Dornish have never made any efforts to rebuild a fleet. Some Dornish, however, have chosen to continue to practice the traditions of their river-faring ancestors, and built boats from the hulks of the burned ships - they are known as "Orphans of the Greenblood". The watercrafts they have cannot be considered as a fleet, though.
+
+Dorne and the Reach are old enemies, and their ambivalence remains strong despite being unified under the [[Iron Throne]]. In the current generation there is also great antipathy for the [[House Lannister|Lannisters]], due to the death of Princess [[Elia Martell]] (married to [[Rhaegar Targaryen]]) and her two children during the Sack of King's Landing by Lannister armies. Dorne has maintained something of an isolationist policy for much of the last generation.
+
+The ''World of Ice and Fire'' sourcebook (2014) officially confirmed that Dorne is formally styled as a "principality," not a "princedom."
+
+According to author [[George R.R. Martin]], Dorne is loosely inspired by Spain, particularly the south's Moorish heritage, which culturally sets it apart from the rest of the country and of Western Europe. There is also some slight inspiration from Wales; the Norman invasion of England in 1066 didn't succeed in conquering the mountainous peninsula of Wales, and it took generations to bring Wales under control. Similarly, the Targaryen Conquest didn't succeed in conquering Dorne, and it remained an independent border state which frustrated any further attempts at conquest by the Targaryens for another two centuries, before being peacefully absorbed through marriage-alliance. Furthermore, Dorne's status as a principality also matches that of medieval Wales, which styled its rulers as princes.
+
+Climatically, culturally and geographically, however, Dorne has many more similarities with Moorish Spain. Politically, Spain's isolation from the rest of Europe throughout much of its history also mirrors that of Dorne. Daeron's invasion of Dorne and subsequent rebellion against him also has strong parallelisms with the Spain's guerrilla war of liberation against Napoleon. In any case, Martin discourages making one for one comparisons:
+
+:"Dorne is definitely influenced a bit by Spain, a bit by Wales. But nothing is one and one. I took that together. Dorne is a very special land, with a slightly different cultural basis than the rest of Westeros... it was politically apart for a long time, it was also culturally apart because of the Rhoynar and the traditions they brought, but they didn’t influence the rest of Westeros so much. So the Dornish have their own particular sort of customs. I see that in Spain with the whole history, particularly the Moorish history of Spain, you know... it really sets it apart from France."<ref>[http://www.adriasnews.com/2012/10/george-r-r-martin-interview.html Adria's News, Un Blog en Catala. October 7, 2012.]</ref>
+:
+:"I read a lot of history, and mine it for good stuff, but I also like to mix and match. That is to say, I don't do straight one-for-one transplants, as some authors do, so you can't really say that X in Westeros equals Y in real life. More often X in Westeros equals Y and Z in real life, with squidges of Q, L, and A. In the case of Dorne, yes, Wales was definitely an influence, for all the reasons you cite. But there's also some distinctly unWelsh elements down there. South of the wall of mountains [the Red Mountains] you have a hot, dry country more like Spain or Palestine than the cool green valleys of Wales, with most of the settlements along the seacoast and in few great river basins. And you also have the flavor given the culture by the great Rhoynar influx led by Nymeria. I suppose the closest real life equivalent to that would be the Moorish influence in parts of Spain. So you could say Dorne is Wales mixed with Spain and Palestine with some entirely imaginary influences mixed in. Or you could just say it's Dorne."<ref>[http://www.westeros.org/Citadel/SSM/Entry/Historical_Influences_for_Dorne/ So Spake Martin], February 29, 2001, Westeros.org</ref>
+
+Dorne also seems to have taken some inspiration from [[Wikipedia:Cornwall|Cornwall]], the southwestern peninsula of Britain that like Wales was ethnically distinct from England (being Celtic) and for a time independent. This is in keeping with Martin's comments that Westeros was generally conceived of as a continent-sized analogue of the British Isles. Both Cornwall and Dorne are peninsulas whose relatively isolated position allowed them to remain ethnically distinct from the core regions of their landmass (Cornwall is hilly, Dorne has mountains and deserts). Moreover, the adjective for people and things from Dorne is "Dornish", while the adjective for people and things from Cornwall is "Cornish", which seem to parallel each other.
+
+Another subtle hint of Welsh/Cornish inspiration for Dorne is that despite its people and climate physically bearing a closer resemblance to Moorish Spain, many Dornish characters have names taken from Celtic mythology: one of Prince Doran's sons is outright named "[[Trystane Martell]]" (as in the Cornish knight Tristan from the romance of ''[[Wikipedia:Tristan and Iseult|Tristan and Iseult]]''), and "[[Oberyn Martell]]" is a homonym for "[[Wikipedia:Oberon|Oberon]]" (magical king of the fairies/sprites and powerful sorcerer, also several other characters from Arthurian myth); others have names which appear in French adaptations of the original Welsh Arthurian myths - Arianne (Ariane), Quentyn (Quentin), Lewyn (Lewin), etc. instead of pseudo Moorish-style names. However, it is important to take into account that Celtic culture is also a part of the multicultural heritage that Spain takes from it's northern countries, like Asturias or Galicia, where Celts also settled.
+
+==Gallery==
+<gallery>
+File:Dorne Season 5.png|The Water Gardens, a Dornish Palace.
+File:Jaime in Sunspear with Areo Hotah.png|Jaime in the hall of the Water Gardens.
+File:Dorne-title sequence.png|Dorne as depicted in the title sequence
+File:Doran, Ellaria, Areo & Sand Snakes.png|Sunspear
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Known world}}
+{{Nations}}
+{{Dorne}}
+{{Houses from Dorne}}
+{{House Martell}}
+
+<!--Categories-->
+[[Category:Deserts]]
+[[Category:Dorne| ]]
+[[Category:House Martell]]
+[[Category:Nations]]
+[[Category:Regions]]
+[[Category:Seven Kingdoms]]
+[[Category:Six Kingdoms]]
+[[Category:Westeros]]
+
+<!--Languages-->
+[[de:Dorne]]
+[[es:Dorne]]
+[[fr:Dorne]]
+[[it:Dorne]]
+[[pl:Dorne]]
+[[pt-br:Dorne]]
+[[ru:Дорн]]
+[[uk:Дорн]]
+[[zh:多恩]]

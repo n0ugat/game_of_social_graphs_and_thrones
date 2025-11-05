@@ -1,0 +1,22 @@
+{{Crew
+|Image = Domonkos Pardanyi.jpg
+|dateofbirth = 
+|birthplace = 
+|job = Stunt Performer<br>Set Supervisor
+|imdb = https://www.imdb.com/name/nm0378489/
+|twitter = }}
+'''Domonkos Pardanyi''' is a stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a set supervisor in the [[Game of Thrones: Season 1|first season]] episodes "[[Winter Is Coming]]", "[[The Kingsroad]]", "[[Lord Snow]]", "[[Cripples, Bastards, and Broken Things]]", "[[You Win or You Die]]", "[[The Pointy End]]" and "[[Fire and Blood]]" and a stunt performer in the [[Game of Thrones: Season 1|first season]] episodes "[[The Wolf and the Lion]]", "[[A Golden Crown]]", "[[The Pointy End]]" and "[[Baelor]]" and the [[Game of Thrones: Season 2|second season]] episodes "[[The Prince of Winterfell]]", "[[Blackwater]]" and "[[Valar Morghulis]]" and the [[Game of Thrones: Season 3|third season]] episodes "[[And Now His Watch Is Ended]]" and "[[The Bear and the Maiden Fair (episode)|The Bear and the Maiden Fair]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 1|yes|yes|yes|yes|yes|yes|yes|yes|yes|yes}}
+{{Game of Thrones: Season 2||||||||yes|yes|yes}}
+{{Game of Thrones: Season 3||||yes|||yes}}
+
+==See also==
+*{{IMDb
+|# = 1425725}}
+{{DEFAULTSORT:Pardanyi, Domonkos}}
+[[Category:Stunt performers of Game of Thrones]]

@@ -1,0 +1,87 @@
+{{Canonicity|Canon}}
+{{SameName|event|pitched television series|Doom of Valyria (pitch)}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Westeros
+| Part          = 
+| Image         = Valyria on the Doom.png
+| Previous      = [[Nymeria's War]]
+| Concurrent    = 
+| Next          = [[Century of Blood]]
+| Date          = [[102 BC]]{{Dateref|Doom of Valyria}}
+| Place         = [[Valyrian peninsula]]
+| Outcome       = Annihilation of the [[Valyrian Freehold]] and surrounding colonies
+| Factions1     = 
+| Factions2     = 
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = 
+| Leaders2      = 
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = 
+| Participants2 = 
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = *Millions<ref>[[:File:Go to the Map With George R.R. Martin - House of the Dragon (HBO)]]</ref>
+**All [[dragonlord]]s and their [[dragon]]s save those of the [[House Targaryen|Targaryen family]]
+| Casualties2   = 
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Quote|An event that came to be known only as 'the Doom' laid waste to the Valyrians, their capital city, and its surrounding lands. The peninsula itself was shattered, becoming what is now the Smoking Sea. Every dragon was thought to be lost... as were the Valyrians' spells, knowledge, and recorded history. Thus, the mighty empire collapsed.|[[Viserys Targaryen (son of Aerys II)|Viserys Targaryen]]|Valyria & the Dragons}}
+The '''Doom of Valyria''',{{Ref|GOT401}} also known as the '''Doom of the Valyrian Freehold'''<ref>[https://dedalvs.com/work/house-of-the-dragon/misc/shrubbery_v4.pdf ''Shrubbery'' version 4 | dedalvs.com]</ref> or simply the '''Doom''',{{Ref|GOT207}} was a catastrophic event that took place nearly four hundred years before the [[War of the Five Kings]]. It destroyed the city of [[Old Valyria]] and devastated most of the surrounding [[Valyrian peninsula]]. The destruction of its capital city in a single day in turn caused the fall of the entire [[Valyrian Freehold]], which for thousands of years had ruled most of [[Essos]].
+
+Indirectly, the disaster led to [[Aegon's Conquest]] of the [[Seven Kingdoms]] of [[Westeros]].
+
+==History==
+===Background===
+{{Quote|They held each other close and turned their backs upon the end.<br>The hills that split asunder and the black that ate the skies;<br>The flames that shot so high and hot that even dragons burned;<br>Would never be the final sights that fell upon their eyes.<br>A fly upon a wall, the waves the sea wind whipped and churned —<br>The city of a thousand years, and all that men had learned;<br>The Doom consumed it all alike, and neither of them turned|[[Tyrion Lannister]] and [[Jorah Mormont]], quoting a poem about the Doom|Kill the Boy}}For nearly five thousand years, the Valyrian Freehold had remained the dominant power in the continent of [[Essos]], thanks to their [[dragon]]s, mighty beasts that were key to their power. At its height, the Valyrian Freehold ruled most of Essos - from [[Pentos]] to [[Meereen]] - constituting about half of the [[known world]]. However, one fateful day four hundred years ago a cataclysm - which became known in later years simply as "the Doom" - laid waste to the Valyrian capital, its people, and the surrounding lands. The string of volcanoes near Valyria known as the [[Fourteen Flames]] exploded in a massive eruption, consuming the city of Valyria in ash and flame, and the entire region was wracked by corresponding earthquakes. The [[Valyrian peninsula]] itself was shattered and the ocean came sweeping in, becoming the area now known as the [[Smoking Sea]] - which no sailor dares cross and which is believed to be haunted by demons.[[File:The Doom of Valyria - Fallen, Fallen is Bablyon.png|thumb|left|300px|Massive volcanic eruptions obliterated Valyria.]]
+
+The exact cause of the Doom remains unknown: some believe the volcanic eruption was a natural disaster, while others believe it was inadvertently triggered by the Valyrians' own sorcery. Whatever the cause, Valyria was destroyed, and all their dragons were lost with it, along with Valyrian recorded history, spells, and knowledge. With its center of power destroyed, the Freehold collapsed. Of the mighty families of dragonlords who ruled the Freehold, only one survived, [[House Targaryen]], which had re-established itself on [[Dragonstone (island)|Dragonstone]] in Westeros years before the Doom. Most importantly, the Targaryens on Dragonstone possessed the only Valyrian dragons that survived the Doom, the only remaining dragons in the known world.<ref>"[[Valyria & the Dragons]]"</ref>[[File:Doom of Valyria.png|thumb|250px|The Doom left Valyria a smoking ruin.]]
+
+With the heartland of the Freehold destroyed, its surviving colonies to the west and east re-asserted their independence, politically fracturing the continent and initiating a series of savage wars for dominance known as the "[[Century of Blood]]", during which [[Volantis]] attempted to reform the Valyrian empire under their rule. Several of these colonies formed into the [[Free Cities]] in the west, and the cities of [[Slaver's Bay]] in the east.
+
+[[File:Century of Blood Qohor.png|thumb|left|300px|After Valyria fell, their former empire imploded from civil wars and Dothraki raids.]]Meanwhile, without the Valyrians and their dragons to keep them in check, the [[Dothraki]] mounted hordes swept across the continent from the central plains of the [[Dothraki Sea]], plundering and carving out new domains from surrounding areas - from the Dothraki point of view, the Doom started their own golden age of conquest and expansion. In the far northwest of Essos, the hidden city of [[Braavos]], founded by escaped slaves who fled Valyria, now revealed itself to the world. While the other Valyrian colonies were left in chaos, Braavos was an island of stability because it had no political or economic ties with the Freehold, and quickly rose to become the most powerful of the Free Cities.<ref>"[[The Free Cities]]"</ref>
+
+Valyria has remained a smoking ruin in the four centuries since the Doom. Even attempts to pass through it, much less resettle it, end in disaster - to the point that even pirates are too afraid to sail through the Smoking Sea. Ships rounding the Valyrian peninsula make sure to stay a long distance away from the mainland, due to the belief that demons and other dangers still haunt the region. The Free Cities exile some victims of advanced [[greyscale]] disease, called "[[Stone Men]]", in the Valyrian peninsula, and a few manage to survive in the shadows of the ruins.<ref>"[[Kill the Boy]]"</ref>
+
+=== [[Game of Thrones: Season 2|''Game of Thrones'': Season 2]] ===
+In [[Qarth]], [[Jorah Mormont]] meets with [[Quaithe]] as she paints a sailor preparing to sail the [[Smoking Sea]] past Old Valyria. She explains that the tattoo is a protective ward against the Doom, which still rules in Valyria.<ref>"[[A Man Without Honor]]"</ref>
+
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+{{Quote|No one's made a new Valyrian steel sword since the Doom of Valyria.|[[Jaime Lannister]]|Two Swords}}
+Upon receiving a fresh-forged [[Valyrian steel]] sword from his father, [[Jaime Lannister|Jaime]] remarks that a new Valyrian steel weapon hasn't been produced since the Doom of Valyria. [[Tywin Lannister|Tywin]] explains that the sword ([[Oathkeeper]] along with its sister [[Widow's Wail|sword]]) was actually reforged from a pre-existing Valyrian steel sword ([[Ice]]).<ref>"[[Two Swords]]"</ref>
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+{{Quote|You know what they say, 'The Doom still rules Valyria'...How many <u>centuries</u> before we learn how to build cities like this again?|Tyrion Lannister, on seeing the massive ruins of Valyria|Kill the Boy}}
+[[File:Valyria 5x05 (4).png|thumb|300px|Tyrion and Jorah travel by boat on the [[Smoking Sea]] through the towering ruins of old Valyria]]
+While sailing from [[Volantis]] to [[Meereen]] with his captive [[Tyrion Lannister|Tyrion]], Jorah goes through the overgrown ruins of old Valyria, partially flooded by the waters of the Smoking Sea, to avoid pirates and slavers. They recite a poem about the Doom and observe [[Drogon]] flying overhead, when their boat is suddenly attacked by [[Stone Men]].<ref>"[[Kill the Boy]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the Doom of Valyria was an epochal event which dramatically changed the course of world history. Massive tidal waves caused by the eruptions and earthquakes resulted in giant tsunamis which struck many far away coasts. The three major cities of Slaver's Bay were shielded from the tsunamis by the Isle of Cedars, a large island between the bay and Valyria; however cities on the Isle of Cedars were swept away by the waves, and the island has been uninhabited ever since.
+[[File:Doom of Valyria Title Sequence.jpg|thumb|left|300px|The Doom of Valyria as artistically depicted in the title sequence of ''Game of Thrones'', with a rearing [[dragon]] against the backdrop of a volcano and a burning city.]]
+The Doom occurred in exactly the year 114 BC, 112 years before the Targaryen conquest of Westeros began in 2 BC. Twelve years before the Doom, in 126 BC, Aenar Targaryen relocated his entire household to [[Dragonstone (island)|Dragonstone]], a small volcanic island off the east coast of Westeros. The Targaryens were one of the forty major families of dragonlords in the Valyrian Freehold, though they were not one of the more powerful ones. Aenar was encouraged to flee Valyria by the prophetic dreams of his daughter, which warned of the coming disaster. Along with them the Targaryens took five dragons, who became the only dragons to survive the Doom. Balerion was one of these, but the other four later died through unrevealed circumstances. They did leave eggs behind, however, and from these hatched Vhagar and Meraxes.
+
+The Doom is partially inspired by ancient disasters, although a specific inspiration comes from the relatively recent destruction of {{WPS|New Zealand}}'s {{WPS|Pink and White Terraces}} during the {{WPS|1886 eruption of Mount Tarawera}}<ref name="specficmedia">[https://specficmedia.com/2016/05/27/btws06es1-george-r-r-martin-interview/ BTWS06ES1 – George R.R. Martin Interview]</ref>. It is also partially inspired by myths about the fall of Atlantis<ref name="specficmedia" />
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+[[Category:102 BC]]
+[[Category:Events]]
+
+<!--Languages-->
+[[de:Untergang Valyrias]]
+[[es:Maldición de Valyria]]
+[[fr:Fléau de Valyria]]
+[[pl:Zguba Valyrii]]
+[[ru:Рок Валирии]]
+[[zh:瓦雷利亚的末日浩劫]]

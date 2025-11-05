@@ -1,0 +1,81 @@
+{{Canonicity|Canon}}
+{{Update|"[[A Son for a Son]]," "[[Rhaenyra the Cruel]]," and "[[The Burning Mill]]"}}
+{{Heraldry
+| Leftimage  = Kingsguard.svg
+| Leftlink   = Kingsguard/House of the Dragon
+| Rightimage = Night's Watch.svg
+| Rightlink  = Night's Watch
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = Eddard Waters Kingsguard.png
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[Greens]]<br>[[Kingsguard/House of the Dragon|Kingsguard]]<br>[[Night's Watch]]{{Ref|HOTD207}}
+| Titles      = [[Knighthood|Ser]]{{Webref|name=WBD |author=Unknown author |date=Unknown date |url=https://press.wbd.com/us/bio/house-dragon-s2-character-descriptions |title=House of the Dragon S2 <nowiki>|</nowiki> Character Descriptions |website=Warner Bros. Discovery |access-date=June 5, 2024 }}
+| AKA         = Red Ned<ref name="WBD" />
+| Culture     = [[Crownlands|Crownlander]]
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 2|2]]
+| Appearances = 7 episodes {{Below|Appearances}}
+| First       = "[[A Son for a Son]]"
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Tok Stephen]]
+}}
+{{Quote|You had more pressing matters to attend to. Such as holding court, choosing your sobriquet, and naming imbecilic lickspittles to our Kingsguard.|[[Aemond Targaryen|Aemond]] to Aegon|The Red Dragon and the Gold}}
+Ser '''Eddard Waters''', also known as '''Red Ned''', is a [[bastard]] [[hedge knight]] from the [[Crownlands]] during the [[Dance of the Dragons]], who briefly served as a member of King [[Aegon II Targaryen]]'s [[Kingsguard/House of the Dragon|Kingsguard]].
+
+==Biography==
+Eddard is currently in the service of King [[Aegon II Targaryen]].<ref name="WBD" />
+
+==Behind the scenes==
+Eddard Waters's character description reads as follows:
+:''"A bastard hedge knight serving King Aegon II."''<ref name="WBD" />
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels and ''[[Fire & Blood]]'', there is no character named Eddard Waters. "Waters" is the surname used for noble-born bastards from the crownlands.
+
+==Appearances==
+*{{HOTD|A Son for a Son}}
+*{{HOTD|Rhaenyra the Cruel}}
+*{{HOTD|The Burning Mill}}
+*{{HOTD|The Red Dragon and the Gold}}
+*{{HOTD|Regent}}
+*{{HOTD|Smallfolk}}
+*{{HOTD|The Red Sowing}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{Kingsguard of Aegon II Targaryen}}
+
+<!--Categories-->
+{{DEFAULTSORT:Waters, Eddard}}
+[[Category:Bastards]]
+[[Category:Crownlanders]]
+[[Category:Ennobled commoners]]
+[[Category:Hedge knights]]
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Kingsguard of Aegon II Targaryen]]
+[[Category:Men of the Night's Watch]]
+[[Category:Servants and retainers of House Targaryen]]
+
+<!--Languages-->
+[[fr:Eddard Waters]]
+[[ru:Эддард Уотерс]]
+[[uk:Едад Вотез]]

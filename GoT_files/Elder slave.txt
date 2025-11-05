@@ -1,0 +1,49 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Ghiscari
+| Image       = Elder slave.png
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[Great Masters]] {{C|[[Slavery|slave]]}}
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 4|4]]
+| Appearances = "[[Oathkeeper (episode)|Oathkeeper]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Philip Philmar]]
+}}
+{{Quote|Shka ma khurf. P’ashkesh she kraj waov.<br/>(You’re a fool. The masters are too strong.)|Elder slave|Oathkeeper (episode)}}
+An '''elder slave''' is one of the older slaves in [[Meereen]] and has experienced two slaves revolts.
+
+==Biography==
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+He is one of the older slaves in [[Meereen]] and has experienced two slaves revolts. He is unwilling to take part in the [[Siege of Meereen|revolt]] in favor of [[Daenerys Targaryen|Daenerys]] because he thinks all revolts end the same way - with slavers victorious and slaves punished. They are, however, persuaded by [[Grey Worm]] and take up arms against their masters.{{Ref|GOT404}}
+
+==Appearances==
+*{{GOT|Oathkeeper}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Meereenese]]
+[[Category:Slaves and freedmen]]
+
+<!--Languages-->
+[[ru:Раб 2 (Верный клятве)]]

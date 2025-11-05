@@ -1,0 +1,67 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Baratheon.svg
+| Link  = House Durrandon
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Baratheon
+| Image       = Elenei.png
+| Birth       = 
+| Death       = 
+| House       = [[House Durrandon|Durrandon]] {{C|by marriage}}
+| Affiliation = 
+| Titles      = [[King#Queens|Queen Consort]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = [[God of the sea]]
+| Mother      = [[Goddess of the wind]]
+| Spouse      = {[[Durran Godsgrief]]}
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|In the Stormlands, according to ballads of the age, a man named Durran fell in love with Elenei, whose father was god of the sea and mother was goddess of the wind. She gave her maidenhead to him, committing herself to a mortal life.|[[Bran Stark]]|The Age of Heroes}}
+'''Elenei''' was daughter of the [[God of the sea|sea god]] and the [[Goddess of the wind|wind goddess]]. She fell in love with a mortal man named [[Durran Godsgrief]], who took her as his wife. By giving up her maidenhead to him, Elenei became mortal, while Durran earned the hatred of Elenei's parents.
+
+==Biography==
+[[File:Durran_elenei.jpg|thumb|Elenei, daughter of the gods, fell in love with Durran, a mortal man.]]
+In their rage, the gods sent a storm to destroy Durran's keep over [[Shipbreaker Bay]]. Declaring war against them, Durran built a new castle, larger and more formidable than the previous one, though this one too was destroyed by the divine storms.{{Ref|H&L102}}
+
+[[File:Durran_stormsend.jpg|thumb|Elenei became the mortal queen of Durran, the first Storm King.]]
+Four more keeps Durran built and lost to the fury of the gods. Finally, the seventh castle, which Durran built with the aid of [[Brandon the Builder|Bran the Builder]], withstood the rage of the Elenei's parents and became known as [[Storm's End]], while Durran earned the nickname of "Durran's Godsgrief."{{Ref|H&L102}}{{Ref|H&L314}}
+
+==Appearances==
+*{{H&L|The Age of Heroes}} {{Illustrated}}
+*{{H&L|The Stormlands}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Durrandon}}
+{{Legendary figures}}
+
+<!--Categories-->
+[[Category:Individuals from Histories & Lore]]
+[[Category:Legendary figures]]
+[[Category:Members of House Durrandon]]
+[[Category:Queens]]
+[[Category:Stormlanders]]
+
+<!--Languages-->
+[[de:Elenei]]
+[[ru:Эленея]]

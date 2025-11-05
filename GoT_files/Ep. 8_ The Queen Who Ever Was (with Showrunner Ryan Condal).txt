@@ -1,0 +1,36 @@
+{{Episode
+| Title    = Ep. 8: The Queen Who Ever Was<br>{{C|with Showrunner Ryan Condal}}
+| Type     = Podcast
+| Image    = TOGOTPHOTD212.jpg
+| Season   = 2
+| Episode  = 12
+| Date     = August 4, 2024{{Listref|TOGOTPHOTD}}
+| Runtime  = 1:22:46{{HBOref|TOGOTPHOTD}}
+| Writer   = 
+| Director = 
+| Year     = 
+| Previous = "[[Ep. 7: The Red Sowing (with showrunner Ryan Condal)]]"{{Listref|TOGOTPHOTD}}
+| Next     = "[[Season 2 In Review with Fabien Frankel]]"{{Listref|TOGOTPHOTD}}
+}}
+"'''Ep. 8: The Queen Who Ever Was (with Showrunner Ryan Condal)'''"{{HBOref|TOGOTPHOTD}} is the twelfth episode of the [[The Official Game of Thrones Podcast: House of the Dragon: Season 2|second season]] of ''[[The Official Game of Thrones Podcast: House of the Dragon]]''. It is the thirtieth episode of the series overall. It was released on August 4, 2024.
+
+==Description==
+{{Description|TOGOTPHOTD212}}
+
+==Gallery==
+<gallery bordersize="none">
+HOTD: Official Podcast: S2 Ep. 8: Ryan Condal on the Season Two Finale
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{HBO Max|video/watch/PROM729361/PROM1182021|House of the Dragon Podcast: S2 E8}}
+
+<!--Navboxes-->
+{{The Official Game of Thrones Podcast: House of the Dragon}}
+
+<!--Categories-->
+[[Category:Episodes of The Official Game of Thrones Podcast: House of the Dragon: Season 2| 12]]
+[[Category:Episodes released in 2024|8.04B]]

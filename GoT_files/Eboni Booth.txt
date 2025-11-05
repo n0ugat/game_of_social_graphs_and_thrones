@@ -1,0 +1,24 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Ships
+| Image   = 
+| Birth   = New York City, New York, United States
+| Death   = 
+| Role    = Writer
+| Series  = ''[[Ten Thousand Ships]]''
+| Season  = 
+| Credits = [[Pilot (Ten Thousand Ships)|Pilot]]
+| First   = 
+| Last    = 
+}}
+'''Eboni Booth''' is an American playwright and actress. She is working on the [[Pilot (Ten Thousand Ships)|pilot]] of ''[[Ten Thousand Ships]]''.{{Webref|name=NAB |author=George R.R. Martin |date=June 11, 2024 |url=https://georgerrmartin.com/notablog/2024/06/11/awards-season-2/ |title=Awards Season |website=Not a Blog |access-date=June 12, 2024 }}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{Ten Thousand Ships}}
+
+<!--Categories-->
+{{DEFAULTSORT:Booth, Eboni}}
+[[Category:Writers of Ten Thousand Ships]]

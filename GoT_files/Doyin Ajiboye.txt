@@ -1,0 +1,33 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Bloodmoon
+| Image   = Doyin Ajiboye.jpg
+| Birth   = 
+| Death   = 
+| Role    = [[Leaf]]
+| Series  = ''[[Bloodmoon]]'' {{Rejected}}
+| Season  = 
+| Credits = [[Pilot (Bloodmoon)|Pilot]] {{Unreleased}}
+| First   = 
+| Last    = 
+}}
+'''Doyin Ajiboye''' is an actress.
+
+She portrayed [[Leaf]] in the [[Pilot (Bloodmoon)|pilot]] of ''[[Bloodmoon]]''.<ref>[https://redanianintelligence.com/2020/07/21/new-tidbits-about-the-cancelled-game-of-thrones-prequel-leaf/ The cancelled Game of Thrones prequel featured a character from the original show and other new tidbits - Redanian Intelligence]</ref>
+
+==See also==
+*{{IMDb|# = 10555824}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{Bloodmoon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Ajiboye, Doyin}}
+[[Category:Cast members of the pilot of Bloodmoon]]
+
+<!--Languages-->
+[[de:Doyin Ajiboye]]
+[[ru:Дойин Аджибой]]

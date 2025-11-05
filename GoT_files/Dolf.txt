@@ -1,0 +1,56 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Westeros
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[Stone Crows]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Hill tribes]]
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = [[Shagga]]
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|When you meet your gods, you tell them Shagga, son of Dolf, of the Stone Crows sent you.|[[Shagga]] to [[Tyrion Lannister]]|The Pointy End}}
+'''Dolf''' is a member of the [[Stone Crows]], one of the [[hill tribes]] of the [[Mountains of the Moon]] in the [[Vale of Arryn]]. He is the father of [[Shagga]], the current leader of the Stone Crows.{{Ref|GOT108}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Dolf, father of Shagga, is a Stone Crow and the son of Holger. Shagga claims that Dolf taught him everything he knew about warfare.
+
+==Appearances==
+*{{GOT|The Pointy End}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+[[Category:Hill tribes]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Valemen]]
+
+<!--Languages-->
+[[de:Dolf]]
+[[es:Dolf]]
+[[fr:Dolf]]
+[[nl:Dolf]]
+[[ru:Дольф]]
+[[zh:多夫]]

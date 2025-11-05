@@ -1,0 +1,22 @@
+{{Crew
+|Image = Diego Herberg.jpg
+|dateofbirth = 
+|birthplace = 
+|job = Stunt Rider
+|imdb = https://www.imdb.com/name/nm0378489/
+|twitter = }}
+'''Diego Herberg''' is a stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt rider in the [[Game of Thrones: Season 5|fifth season]] episode "[[Unbowed, Unbent, Unbroken]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 5||||||yes}}
+
+==See also==
+*{{IMDb
+|# = 0378489}}
+*{{Linkedin
+|# = /in/diego-herberg-3b918764}}
+{{DEFAULTSORT:Herberg, Diego}}
+[[Category:Stunt performers of Game of Thrones]]

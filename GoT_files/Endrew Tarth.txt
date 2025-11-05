@@ -1,0 +1,83 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Leftimage  = House Tarth.svg
+| Leftlink   = House Tarth
+| Rightimage = Night's Watch.svg
+| Rightlink  = Night's Watch
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = EndrewTarth.jpg
+| Birth       = At [[Evenfall Hall]]
+| Death       = 
+| House       = [[House Tarth|Tarth]]
+| Affiliation = [[Night's Watch]]
+| Titles      = [[Knighthood|Ser]]<br>[[Master-at-arms]] at [[Castle Black]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Andals|Andal]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 4|4]]
+| Appearances = "[[Two Swords]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Dez McMahon]]
+}}
+Ser '''Endrew Tarth'''{{Con|ASOIAF}} is a [[Knighthood|knight]] of [[House Tarth]] and a sworn brother of the [[Night's Watch]], serving as the [[Master-at-arms]] at [[Castle Black]].
+
+==Biography==
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+[[File:ArcheryTraining4x01.jpg|thumb|left|Ser Endrew oversees archery training]]
+Ser Endrew oversees the archery training of new recruits of the Watch who have arrived in Castle Black along with Ser [[Alliser Thorne]] and [[Janos Slynt]].{{Ref|GOT401}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Ser Endrew Tarth is summoned from the [[Shadow Tower]] to serve as the new Master-at-arms of Castle Black after Lord Commander [[Jeor Mormont]] decides to send [[Alliser Thorne]] to [[King's Landing]].
+
+During the [[battle for the Wall]], [[Bowen Marsh]] chases three hundred wildlings led by the Weeper to the [[Shadow Tower]], fights them at the Bridge of Skulls and defeats them, but at great cost: more than hundred brothers are killed, among them Ser Endrew.
+
+His relation with the main branch of [[House Tarth]] is not mentioned.
+
+==Appearances==
+*{{GOT|Two Swords}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Tarth}}
+
+<!--Categories-->
+{{DEFAULTSORT:Tarth, Endrew}}
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Knights]]
+[[Category:Masters-at-arms]]
+[[Category:Members of House Tarth|Endrew Tarth]]
+[[Category:Men of the Night's Watch]]
+[[Category:Stormlanders]]
+
+<!--Languages-->
+[[de:Endru Tarth]]
+[[es:Endrew Tarth]]
+[[fr:Endrew Torth]]
+[[it:Endrew Tarth]]
+[[nl:Andrys Tarth]]
+[[pl:Endrew Tarth]]
+[[ru:Эндрю Тарт]]
+[[zh:安德鲁·塔斯]]

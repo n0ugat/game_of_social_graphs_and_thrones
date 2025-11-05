@@ -1,0 +1,81 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = House Celtigar.svg
+| Link  = House Celtigar
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Targaryen
+| Image       = 
+| Birth       = On [[Claw Isle]]
+| Death       = 
+| House       = [[House Celtigar|Celtigar]]
+| Affiliation = [[House Targaryen]]
+| Titles      = [[Lordship|Lord]] of [[Claw Isle]]<br>[[Hand of the King]] {{C|to [[Maegor Targaryen|Maegor I]]}}
+| Predecessor = {[[Lucas Harroway]]} {{C|Hand of the King}}
+| Successor   = 
+| AKA         = 
+| Culture     = [[Valyrians|Valyrian]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Though Maegor stamped out the fires of rebellion, his cruelty and fear only scattered more tinder over the realm until even the smallest ember could set the realm alight. One day, the Faith Militant emerged from the shadows, and the lords sent to quash it joined it instead. His Hand resigned and retired to his island home.|[[Varys]]|Maegor the Cruel (short)}}
+Lord '''Edwell Celtigar'''{{Con|TWOI&F}} was the [[Lordship|Lord]] of [[Claw Isle]] and [[Hand of the King]] to [[Maegor Targaryen]].
+
+==Biography==
+[[Maegor Targaryen]] fought to wipe out the [[Faith Militant uprising]], though the cruelty and fear he inspired only inspired more people to rise up against him, with even the lords that he sent to combat the [[Faith Militant]] joining forces with them. It was due to this that Edwell resigned and returned home to [[Claw Isle]].{{Ref|H&L806}}
+
+==In the books==
+In ''The World of Ice & Fire'' and ''Fire & Blood'', Edwell was named [[Hand of the King]] by King [[Maegor Targaryen]] in 44 AC, following the execution of the previous Hand, Lord [[Lucas Harroway]]. Maegor left Edwell to rule [[King's Landing]] alongside his wife, Queen [[Tyanna of the Tower]], when the king went to combat the [[Faith Militant uprising]] in 45 AC.
+
+In 47 AC, Maegor had no heir and Edwell suggested that he take another wife to increase his chances of producing one. Edwell suggested his own maiden daughters Prunella and Prudence, who were twelve and thirteen at the time. Maegor did take another, but did not select either of Edwell's daughters. He resigned as Hand and returned in [[Claw Isle]] in 48 AC when even previously loyal lords began to turn against Maegor.
+
+King [[Jaehaerys I Targaryen]] later ascended to the [[Iron Throne]] and Edwell was pardoned and named lord treasurer and [[Master of Coin]] by Lord Rogar Baratheon, the new Hand of the King. The wars that Maegor had fought had almost bankrupted the crown and Edwell enforced taxes upon the [[smallfolk]] such as tripling the port fees in King's Landing, [[Lannisport]] and [[Oldtown]]. He placed upon the smallfolk for fear of offending the high lords. The taxes made Edwell a hated figure among the smallfolk and resulted in a decline in business, with some ignoring his demands that the fees be raised.
+
+Edwell was dismissed by King Jaehaerys when he returned to King's Landing for his sixteenth [[nameday]], thanking him for his services. Three days later, Jaehaerys undid most of the taxes that Edwell had introduced, which was very popular among the smallfolk.
+
+A disease known as the Shivers afflicted [[Westeros]] in the winter of 59 AC. Lord Edwell was one of the first high lords to die once it reached the [[Crownlands]].
+
+In 130 AC, during the [[Dance of the Dragons]], Edwell's descendant Lord Bartimos Celtigar was Master of Coin to Queen [[Rhaenyra Targaryen]] and reinstated the unpopular taxes that Edwell has once imposed.
+
+==Appearances==
+*{{H&L|Maegor the Cruel}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Celtigar}}
+
+<!--Categories-->
+{{DEFAULTSORT:Celtigar, Edwell}}
+[[Category:Bannermen of House Targaryen]]
+[[Category:Crownlanders]]
+[[Category:Hands of the King]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Lords]]
+[[Category:Members of House Celtigar|Edwell Celtigar]]
+[[Category:Servants and retainers of House Targaryen]]
+
+<!--Languages-->
+[[fr:Edwell Celtigar]]
+[[ru:Эдвелл Селтигар]]

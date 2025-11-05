@@ -1,0 +1,80 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = Night's Watch.svg
+| Link  = Night's Watch
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = Donnel Hill.PNG
+| Birth       = The [[Westerlands]]
+| Death       = [[301 AC]]{{Dateref|Game of Thrones: Season 4}}<br>[[Castle Black]]
+| House       = 
+| Affiliation = [[Night's Watch]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Westerlands|Westermen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 4|4]]
+| Appearances = "[[The Watchers on the Wall]]"
+| First       = 
+| Last        = 
+| DeathEp     = "The Watchers on the Wall"
+| Actor       = [[Jack Roth]]
+}}
+{{Quote|Mother save me, Father save me.|Cooper after seeing [[Mag Mar Tun Doh Weg]]|The Watchers on the Wall}}
+'''Donnel Hill'''​{{Con|ASOIAF}} was a member of the [[Night's Watch]].
+
+==Biography==
+===Background===
+Donnel Hill is a [[bastard]] from the [[Westerlands]]. It is unknown which [[noble house]] he hailed from.{{Ref|GOT409}}
+
+===​[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+During the [[battle for the Wall]], Donnel takes part in defending the [[Wall]] against [[Mance Rayder]]'s forces. He helps load the barrels onto the ramps. When [[Castle Black]]'s inner gate is threatened by the [[Giants|giant]] [[Mag Mar Tun Doh Weg]], he accompanies [[Grenn]], [[Cooper]], and three other black brothers to defend it. Although he initially wavers and considers fleeing upon seeing the giant, he is convinced by Grenn to stay and fulfill his oath to the Night's Watch. They successfully kill the giant, but all of the black brothers are slain in the process. Their bodies are discovered by [[Jon Snow]] and [[Samwell Tarly]] after the battle.{{Ref|GOT409}}
+
+After the arrival of [[Stannis Baratheon]] and his forces, though not seen Donnel is among the numerous bodies of fallen black brothers burned in Castle Black's courtyard.{{Ref|GOT410}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Donnel Hill, nicknamed "Sweet Donnel Hill", is a steward of the Night's Watch and the squire of Ser Mallador Locke. He claims to be a bastard of [[House Lannister]], and many fans speculate that he is a son of [[Tywin Lannister]] for his similarities to other Lannisters of Tywin's line (yellow hair worn down in a tumble, fat lips, and a sarcastic japing personality).
+
+While the [[great ranging]] force camps at the [[Fist of the First Men]], Donnel is among the fourteen brothers (alongside Chett, Lark, Dirk, Ollo Lophand, Paul and [[Karl Tanner#In the books|Clubfoot Karl]]) who plot to murder [[Jeor Mormont]], [[Samwell Tarly|Sam]] and other prominent brothers and to desert. The sudden snowfall and the subsequent [[fight at the Fist]] foils their plan. However, during the [[Mutiny at Craster's Keep]] Donnel sides with those who are loyal to Mormont; it is unknown what made him change his mind. He and the other Loyalists make it to Castle Black long before [[Jon Snow|Jon]] and Sam.
+
+Donnel survives the battle for the Wall. He is not one of the brothers who go with the blacksmith Donal Noye to protect the gate, thus he is not killed by the giant Mag.
+
+Donnel is one of the four brothers who, at Jon's command, shoot arrows at Mance Rayder (actually, it is the [[Lord of Bones]] in disguise) while he is executed by burning, in order to grant him a quick and painless death.
+
+==Appearances==
+*{{GOT|The Watchers on the Wall}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Night's Watch}}
+
+<!--Categories-->
+{{DEFAULTSORT:Hill, Donnel}}
+[[Category:Bastards]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Stewards of the Night's Watch]]
+[[Category:Westermen]]
+
+<!--Languages-->
+[[fr:Donnel Hill]]
+[[ru:Доннел Хилл]]

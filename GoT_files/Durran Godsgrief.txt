@@ -1,0 +1,82 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Baratheon.svg
+| Link  = House Durrandon
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Baratheon
+| Image       = Durran.png
+| Birth       = 
+| Death       = 
+| House       = [[House Durrandon|Durrandon]]
+| Affiliation = 
+| Titles      = [[Storm King]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[First Men]]
+| Religion    = [[Old Gods]]
+| Father      = 
+| Mother      = 
+| Spouse      = {[[Elenei]]}
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Durran declared war on the gods and rebuilt his keep, which was also destroyed.|[[Bran Stark]]|The Age of Heroes}}
+King '''Durran Godsgrief''' was a legendary [[First Men]] figure of the [[Age of Heroes]] and the first of the [[Storm King]]s, who ruled the [[Stormlands]] until [[Aegon's Conquest]] of [[Westeros]].
+
+==Biography==
+According to legend, Durran won the love of [[Elenei]], daughter of the [[God of the sea|sea god]] and the [[Goddess of the wind|wind goddess]], and took her as his wife.{{Ref|H&L102}}
+
+In rage, the gods sent a storm to destroy his keep over [[Shipbreaker Bay]], killing his family and guests. Declaring war against them, Durran built new castles, each larger and more formidable than the previous one, though all were the destroyed by the divine storms. Finally, the seventh castle, which Durran built with the aid of either the [[Children of the Forest]] or a very young [[Brandon the Builder|Bran the Builder]], withstood the rage of the gods and became known as [[Storm's End]], while Durran earned the nickname of "Durran Godsgrief" and ruled as the first [[Storm King]].{{Ref|H&L102}}{{Ref|H&L314}}
+
+Durran's dynasty, [[House Durrandon]], perished with the death of [[Argilac Durrandon]]. However, [[House Baratheon]] descends from it through its female bloodline.{{Ref|H&L121}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Durran's story is the same.
+
+==Gallery==
+<gallery>
+Durran elenei.jpg|Durran, a mortal man, fell in love with Elenei, immortal daughter of gods
+MarkIStormsEnd.png|Durran's first castle
+MarkIIStormsEnd.png|Durran's second castle
+Durran stormsend.jpg|Durran Godsgrief, with his Queen Elenei, before Storm's End, his seventh and final castle
+</gallery>
+
+==Appearances==
+*{{H&L|The Age of Heroes}} {{Illustrated}}
+*{{H&L|House Baratheon}} {{Illustrated}}
+*{{H&L|The Stormlands}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Durrandon}}
+{{Kings of Westeros}}
+{{Legendary figures}}
+
+<!--Categories-->
+[[Category:House founders]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Legendary figures]]
+[[Category:Members of House Durrandon]]
+[[Category:Storm Kings]]
+[[Category:Stormlanders]]
+
+<!--Languages-->
+[[de:Durran Götterfluch]]
+[[ru:Дюрран Богоборец]]
+[[zh:杜伦]]

@@ -1,0 +1,39 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Tyrell
+| Image        = 
+| Type         = Castle
+| Status       = 
+| Location     = [[Reach]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Dunstonbury'''{{Ref|THTDB201}} is a castle in the [[Reach]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Dunstonbury was the ancestral seat of [[House Manderly]]. When the Manderlys were [[exile]]d to the [[North]], the castle was given to their rivals, [[House Peake]]. The Peakes were stripped of Dunstonbury for siding with the [[Daemon Blackfyre|Black Dragon]] in the [[Blackfyre Rebellion|First Blackfyre Rebellion]]. Its current rulers are unknown.
+
+The New Castle in [[White Harbor]] resembles Dunstonbury.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Reach}}
+
+<!--Categories-->
+[[Category:Castles of the Reach]]
+[[Category:House Manderly]]
+[[Category:House Peake]]
+
+<!--Languages-->
+[[ru:Данстонбери]]

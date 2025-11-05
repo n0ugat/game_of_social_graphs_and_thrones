@@ -1,0 +1,80 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = House Waynwood.svg
+| Link  = House Waynwood
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Arryn
+| Image       = Donnel-Waynwood.jpg
+| Birth       = At [[Ironoaks]]
+| Death       = 
+| House       = [[House Waynwood|Waynwood]]
+| Affiliation = [[House Arryn]]
+| Titles      = [[Knighthood|Ser]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Vale of Arryn|Valemen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = [[Anya Waynwood]]
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 4|4]]
+| Appearances = 2 episodes {{Below|Appearances}}
+| First       = "[[First of His Name]]"
+| Last        = "[[The Mountain and the Viper]]"
+| DeathEp     = 
+| Actor       = [[Alisdair Simpson]]
+}}
+{{Quote|Who would pass the Bloody Gate?|Donnel Waynwood's question to people wishing to pass the [[Bloody Gate]].|First of His Name}}
+Ser '''Donnel Waynwood'''{{Con|ASOIAF}} is a [[Knighthood|knight]] of [[House Waynwood]] and serves [[House Arryn]] at the [[Bloody Gate]].
+
+==Biography==
+===Background===
+Ser Donnel is a son of Lady [[Anya Waynwood]], the current head of House Waynwood.{{Cite}}
+
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+Ser Donnel is at the Gate when [[Petyr Baelish|Littlefinger]] and [[Sansa Stark|Sansa]] arrive. Littlefinger introduces Sansa as his niece, Alayne. Donnel believes him and lets them pass.{{Ref|GOT405}}
+
+When [[Sandor Clegane|the Hound]] and [[Arya Stark|Arya]] reaches the Bloody Gate and Donnel orders them to stop, Sandor tells him who they are expecting ransom for reuniting Arya with her aunt [[Lysa Arryn|Lysa]]. After Donnel explains that Lysa died three days ago, Sandor is left in shock while Arya bursts out in laughter, because of the irony.{{Ref|GOT408}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Ser Donnel Waynwood is described as being a stocky man of twenty, with a wide nose and thick brown hair. Donnel is the second of Lady Anya's three sons: Morton, Donnel, and Wallace. He serves at the Bloody Gate and leads the sortie that saves [[Catelyn Stark]] and her retinue from the [[Hill tribes|mountain clans]] at the [[Mountains of the Moon]]. After [[Brynden Tully]] departs with Catelyn, Donnel later replaces him as the new Knight of the Gate.
+
+Later at the Bloody Gate, Anya introduces her grandson Roland, a muscular man about 25 years old, as well as her youngest son Wallace, who is identified as Roland's uncle. It is not clear if Roland is Morton's son or Donnel's son.
+
+==Appearances==
+*{{GOT|First of His Name}}
+*{{GOT|The Mountain and the Viper}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Waynwood}}
+
+<!--Categories-->
+{{DEFAULTSORT:Waynwood, Donnel}}
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Knights]]
+[[Category:Members of House Waynwood|Donnel Waynwood]]
+[[Category:Servants and retainers of House Arryn]]
+[[Category:Valemen]]
+
+<!--Languages-->
+[[de:Donnel Waynwald]]
+[[fr:Donnel Vanbois]]
+[[pl:Donnel Waynwood]]
+[[ru:Доннел Уэйнвуд]]

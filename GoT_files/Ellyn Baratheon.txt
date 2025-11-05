@@ -1,0 +1,69 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Baratheon.svg
+| Link  = House Baratheon/House of the Dragon
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Baratheon
+| Image       = Ellyn Baratheon.png
+| Birth       = 
+| Death       = 
+| House       = [[House Baratheon/House of the Dragon|Baratheon]]{{Ref|HOTD110}}
+| Affiliation = 
+| Titles      = 
+| AKA         = 
+| Culture     = [[Stormlands|Stormlander]]{{Ref|HOTD110}}
+| Religion    = 
+| Father      = [[Borros Baratheon]]{{Ref|HOTD110}}
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 1|1]]
+| Appearances = "[[The Black Queen]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Laura Lake]]
+}}
+'''Ellyn Baratheon''' is a noblewoman from [[House Baratheon/House of the Dragon|House Baratheon]].
+
+==Biography==
+Ellyn is a daughter of Lord [[Borros Baratheon]] of [[Storm's End]]. She has three sisters: [[Cassandra Baratheon|Cassandra]], [[Maris Baratheon|Maris]], and [[Floris Baratheon|Floris]].{{Ref|HOTD109}}
+
+==Family==
+{{Baratheon tree (House of the Dragon)}}
+
+==In the books==
+In ''[[Fire & Blood]]'', Ellyn and her sisters Cassandra, Maris, and Floris were known as the "Four Storms". Their mother was Lady Elenda of [[House Caron]]. Not much is known about Ellyn among the four of them: Cassandra was the eldest, Floris the prettiest, and Maris the cleverest. Ellyn may have been the youngest.
+
+==Appearances==
+*{{HOTD|The Green Council}} {{Indirect}}
+*{{HOTD|The Black Queen}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{House Baratheon/House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Baratheon, Ellyn}}
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Members of House Baratheon|Ellyn Baratheon]]
+[[Category:Stormlanders]]
+
+<!--Languages-->
+[[de:Ellyn Baratheon]]
+[[fr:Ellyn Baratheon]]
+[[ru:Эллин Баратеон]]

@@ -1,0 +1,60 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Animal
+| Title       = {{PAGENAME}}
+| Type        = Dothraki
+| Image       = The Red.png
+| Species     = [[Horse]]
+| Birth       = 
+| Death       = [[298 AC]]{{Dateref|Game of Thrones: Season 1}}<br>The [[Dothraki Sea]]{{Ref|GOT109}}
+| AKA         = 
+| Affiliation = {[[Drogo]]}
+| Family      = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 1|1]]
+| Appearances = 6 episodes {{Below|Appearances}}
+| First       = "[[Winter Is Coming]]"
+| Last        = "[[Baelor]]"
+| DeathEp     = "Baelor"
+}}
+{{Quote|Bring me his horse.|[[Mirri Maz Duur]] to [[Daenerys Targaryen]]|Baelor}}
+'''Drogo's stallion'''{{Con|ASOIAF}} is a stallion belonging to ''[[Khal]]'' [[Drogo]].
+
+==Biography==
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+Drogo rides his stallion to [[Pentos]] to meet with [[Illyrio Mopatis]] and [[Viserys Targaryen (son of Aerys II)|Viserys Targaryen]] to accept a pact to marry Viserys's sister [[Daenerys Targaryen|Daenerys]].{{Ref|GOT101}}
+
+Drogo rides his stallion through the [[Dothraki Sea]],{{Ref|GOT102}}{{Ref|GOT103}} [[Vaes Dothrak]],{{Ref|GOT104}} and [[Lhazar]].{{Ref|GOT108}}
+
+After suffering a wound from [[Mago]] and subsequently being treated by the [[maegi]] [[Mirri Maz Duur]], Drogo falls from his stallion having grown weak from the festering wound. In a desperate attempt to save him, Daenerys begs Mirri to perform [[bloodmagic]]. The few bloodriders who remain loyal to him carry Drogo into a tent, and Mirri tells them that only death can pay for life, requesting that they bring her his stallion. His stallion is uneasy as it is brought in, and Mirri calms it with a chant before slitting its throat.{{Ref|GOT109}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the [[Dothraki]] are an unsentimental people who do not name their horses or dogs, and Drogo refers to his stallion as his "red". When Mirri decides to sacrifice it, [[Rakharo]], [[Aggo (The North Remembers)|Aggo]] and Quaro have to force it into the tent as it is frightened of the stench of death. As in the TV series, Mirri slits its throat for her bloodmagic.
+
+When Daenerys walks into Drogo's funeral pyre, for a moment she glimpses Drogo on his red.
+
+==Appearances==
+*{{GOT|Pilot}} {{Nc}}
+*{{GOT|Winter Is Coming}}
+*{{GOT|The Kingsroad}}
+*{{GOT|Lord Snow}}
+*{{GOT|Cripples, Bastards, and Broken Things}}
+*{{GOT|You Win or You Die}}
+*{{GOT|Baelor}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+[[Category:Horses]]
+[[Category:Individuals appearing in Game of Thrones]]
+
+<!--Languages-->
+[[pt-br:O Vermelho]]
+[[ru:Рыжий]]

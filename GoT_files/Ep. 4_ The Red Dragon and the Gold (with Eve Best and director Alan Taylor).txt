@@ -1,0 +1,36 @@
+{{Episode
+| Title    = Ep. 4: The Red Dragon and the Gold<br>{{C|with Eve Best and director Alan Taylor}}
+| Type     = Podcast
+| Image    = TOGOTPHOTD208.jpg
+| Season   = 2
+| Episode  = 8
+| Date     = July 7, 2024{{Listref|TOGOTPHOTD}}
+| Runtime  = 1:12:26{{HBOref|TOGOTPHOTD}}
+| Writer   = 
+| Director = 
+| Year     = 
+| Previous = "[[Ep. 3: The Burning Mill (with Bethany Antonia and director Geeta Vasant Patel)]]"{{Listref|TOGOTPHOTD}}
+| Next     = "[[Ep. 5: Regent (with Ewan Mitchell and director Clare Kilner)]]"{{Listref|TOGOTPHOTD}}
+}}
+"'''Ep. 4: The Red Dragon and the Gold (with Eve Best and director Alan Taylor)'''"{{HBOref|TOGOTPHOTD}} is the eighth episode of the [[The Official Game of Thrones Podcast: House of the Dragon: Season 2|second season]] of ''[[The Official Game of Thrones Podcast: House of the Dragon]]''. It is the twenty-sixth episode of the series overall. It was released on July 7, 2024.
+
+==Description==
+{{Description|TOGOTPHOTD208}}
+
+==Gallery==
+<gallery bordersize="none">
+HOTD: Official Podcast: S2 Ep. 4: Eve Best on Rhaenys' Epic Dragon Battle
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{HBO Max|video/watch/PROM727479/PROM1182017|House of the Dragon Podcast: S2 E4}}
+
+<!--Navboxes-->
+{{The Official Game of Thrones Podcast: House of the Dragon}}
+
+<!--Categories-->
+[[Category:Episodes of The Official Game of Thrones Podcast: House of the Dragon: Season 2| 08]]
+[[Category:Episodes released in 2024|7.07B]]

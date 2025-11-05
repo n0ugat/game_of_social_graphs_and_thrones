@@ -1,0 +1,67 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Stark.svg
+| Link  = House Stark
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Stark
+| Image       = 
+| Birth       = At [[Winterfell]]
+| Death       = 
+| House       = [[House Stark|Stark]]
+| Affiliation = 
+| Titles      = [[King in the North]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Northmen|Northern]]
+| Religion    = [[Old Gods]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|All the Kings in the North are buried there. Bran the Builder and King Dorren and...|[[Shireen Baratheon]] to [[Davos Seaworth]]|Kill the Boy}}
+King '''Dorren Stark''' was a [[King in the North]] before [[Aegon's Conquest]].
+
+==Biography==
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+[[Shireen Baratheon]] mentions that Dorren's tomb is in the ancient crypts underneath [[Winterfell]], along with [[Brandon the Builder]].{{Ref|GOT505}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Dorren Stark is mentioned only in passing. According to legend, during the time of his rule the [[Night's Watch]] fought [[Giants]] and actively traded with the [[Children of the Forest]].
+
+==Appearances==
+*{{GOT|Kill the Boy}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Stark}}
+{{Kings of Westeros}}
+
+<!--Categories-->
+{{DEFAULTSORT:Stark, Dorren}}
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Kings in the North|Dorren Stark]]
+[[Category:Members of House Stark|Dorren Stark]]
+[[Category:Northmen]]
+
+<!--Languages-->
+[[de:Dorren Stark]]
+[[pl:Dorren Stark]]
+[[ru:Доррен Старк]]

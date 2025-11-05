@@ -1,0 +1,40 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Outlaw
+| Image        = 
+| Type         = Cave<br>Outlaw hideout
+| Status       = 
+| Location     = [[Dornish Marches]], the [[Stormlands]]
+| Population   = 
+| Rulers       = [[Bandit Lords of the Marches]] {{C|formerly}}
+| Institutions = 
+| Military     = 
+| Religion     = 
+| Places       = 
+| Founded      = 
+}}
+The '''Diamond Cave'''{{Ref|GOT806}} is a cave in the [[Dornish Marches]].
+
+==History==
+===Background===
+During the reign of [[Aerys II Targaryen]], a band of outlaws known as the [[Bandit Lords of the Marches]] kidnapped Lord and Lady [[House Dondarrion|Dondarrion]] and held them in the Diamond Cave. Ser [[Gwayne Gaunt]]{{Note|The paragraph mentioning this event is erroneously placed in Arthur Dayne's entry. The opening sentence calling him the "thirdborn son to Lord Symon of House Gaunt" makes it apparent that this paragraph was meant for Gwayne Gaunt's entry.|name=Gwayne Gaunt}} then killed the outlaws and rescued the Dondarrions.
+
+===[[Game of Thrones: Season 8|''Game of Thrones'': Season 8]]===
+[[Brienne of Tarth|Brienne]], now [[Lord Commander of the Kingsguard]], flicks through the ''[[Book of Brothers]]'' and briefly comes across [[Arthur Dayne]]'s{{Note|name=Gwayne Gaunt}} entry, in which the Diamond Cave is mentioned.{{Ref|GOT806}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, this cave is not mentioned.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{Stormlands}}
+
+<!--Categories-->
+[[Category:Caves]]
+[[Category:Stormlands]]

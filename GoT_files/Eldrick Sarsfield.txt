@@ -1,0 +1,62 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Sarsfield.svg
+| Link  = House Sarsfield
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Lannister
+| Image       = Ser Eldrick Sarsfield.jpg
+| Birth       = [[Sarsfield]]
+| Death       = 
+| House       = [[House Sarsfield|Sarsfield]]
+| Affiliation = 
+| Titles      = [[Knighthood|Ser]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Westerlands|Westermen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 3|3]]
+| Appearances = "[[Mhysa]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = Unidentified
+}}
+{{Dialogue a-b-a|Tyrion Lannister|Ser Eldrick Sarsfield and Lord Desmond Crakehall. Ser Eldrick Sarsfield and Lord Desmond Crakehall.|Sansa Stark|What are you doing? |I have a list.|[[Tyrion Lannister]] and [[Sansa Stark]]|Mhysa}}
+Ser '''Eldrick Sarsfield''' is a [[Knighthood|knight]] of [[House Sarsfield]].
+
+==Biography==
+===Background===
+Ser Eldrick Sarsfield is a member of [[House Sarsfield]], a vassal of [[House Lannister]].{{Ref|GOT310}}
+
+===[[Game of Thrones: Season 3|''Game of Thrones'': Season 3]]===
+As [[Tyrion Lannister|Tyrion]] and [[Sansa Stark|Sansa]] walk through the [[Red Keep]]'s gardens, Ser Eldrick and Lord [[Desmond Crakehall]] walk by, clearly laughing at Tyrion, who notes their names for future humiliation.{{Ref|GOT310}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no character named Eldrick Sarsfield.
+
+==Appearances==
+*{{GOT|Mhysa}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+{{DEFAULTSORT:Sarsfield, Eldrick}}
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Knights]]
+[[Category:Members of House Sarsfield|Eldrick Sarsfield]]
+[[Category:Westermen]]
+
+<!--Languages-->
+[[es:Eldrick Sarsfield]]
+[[ru:Элдрик Сарсфилд]]

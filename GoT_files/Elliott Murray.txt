@@ -1,0 +1,36 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Elliott Murray.jpg
+| Birth   = 
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[Game of Thrones]]''<br>''[[House of the Dragon]]''
+| Season  = ''Game of Thrones'':<br>[[Game of Thrones: Season 8|8]]<br>''House of the Dragon'':<br>[[House of the Dragon: Season 1|1]]
+| Credits = 5 episodes {{Below|Credits}}
+| First   = "[[The Bells]]"
+| Last    = 
+}}
+'''Elliott Murray''' is a stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 8|eighth season]] episode "[[The Bells]]".
+
+In ''[[House of the Dragon]]'', he was a stunt performer in the [[House of the Dragon: Season 1|first season]] episodes "[[Second of His Name]]", "[[We Light the Way]]", "[[The Green Council]]" and "[[The Black Queen]]".
+
+==Credits==
+===Stunts===
+====''[[Game of Thrones]]''====
+{{Game of Thrones: Season 8|||||yes}}
+
+====''[[House of the Dragon]]''====
+{{House of the Dragon: Season 1|||yes||yes||||yes|yes}}
+
+==See also==
+*{{IMDb
+|# = 6788730}}
+
+==References==
+{{reflist}}
+{{DEFAULTSORT:Murray, Elliott}}
+[[Category:Stunt performers of Game of Thrones]]
+[[Category:Stunt performers of House of the Dragon]]

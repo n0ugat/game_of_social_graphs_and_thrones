@@ -1,0 +1,77 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Baratheon.svg
+| Link  = House Baratheon of Dragonstone
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Baratheon
+| Image       = Baratheon stillborns Kissed by Fire.png
+| Birth       = [[Dragonstone]], the [[Crownlands]]{{Ref|GOT305}}
+| Death       = Dragonstone, the Crownlands{{Ref|GOT305}}
+| House       = [[House Baratheon of Dragonstone|Baratheon of Dragonstone]]{{Ref|GOT305}}
+| Affiliation = 
+| Titles      = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = {[[Stannis Baratheon]]}{{Ref|GOT305}}
+| Mother      = {[[Selyse Baratheon|Selyse Florent]]}{{Ref|GOT305}}
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 3|3]]
+| Appearances = "[[Kissed by Fire]]" {{Corpse}}
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|My sweet boys. Petyr, Tommard, Edric...|Queen [[Selyse Baratheon]]|Kissed by Fire}}
+'''Edric Baratheon''' was the third son of [[Stannis Baratheon|Stannis]] and [[Selyse Baratheon]], the younger brother of Petyr Baratheon and Tommard Baratheon, and the older brother of [[Shireen Baratheon]], who died during childbirth. His mother keeps his corpse in a glass jar on display in her chamber along with his other stillborn brothers, [[Tommard Baratheon|Tommard]] and [[Petyr Baratheon|Petyr]].
+
+==Biography==
+===Background===
+Selyse had given birth to three stillborn sons, one of whom was Edric. She sealed their bodies in glass jars.{{Ref|GOT305}}
+
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+While trying to seduce Stannis, [[Melisandre]] convinces him that his wife had failed to give him a son, only stillborns, referring to Edric and his two brothers.{{Ref|GOT202}}
+
+==Family==
+{{Baratheon tree}}
+
+==Behind the scenes==
+Staff writer [[Bryan Cogman]] came up with the idea of the stillborn fetuses being preserved in jars. Cogman said in an interview, "''It was a proud day for me as a writer when I walked on set and saw those magnificently nasty prop dead babies floating in those jars.''"<ref>[http://www.hbo.com/game-of-thrones/episodes/3/25-kissed-by-fire/interview/bryan-cogman.html HBO: Game of Thrones: Interview With Bryan Cogman]</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no mention Selyse Baratheon having any sons, live or stillborn.
+
+He shares a name with King Robert's only acknowledged [[bastard]] from the novels: Edric Storm. For the TV series, Edric Storm's storyline in the third novel is merged with [[Gendry Baratheon|Gendry]]'s.
+
+==Gallery==
+<gallery>
+Selyse Fetus Jar Concept Art.jpg|Concept art of the fetus jars.
+</gallery>
+
+==Appearances==
+*{{GOT|The Night Lands}} {{Indirect}}
+*{{GOT|Kissed by Fire}} {{Unborn}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House Baratheon of Dragonstone}}
+
+<!--Categories-->
+{{DEFAULTSORT:Baratheon, Edric}}
+[[Category:Crownlanders]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Members of House Baratheon of Dragonstone|Edric Baratheon]]
+
+<!--Languages-->
+[[fr:Edric Baratheon]]
+[[ru:Эдрик Баратеон]]

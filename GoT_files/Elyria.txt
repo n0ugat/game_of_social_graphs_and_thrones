@@ -1,0 +1,49 @@
+{{Canonicity|Canon}}
+{{References}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Westeros
+| Image        = Elyria map.png
+| Type         = Mercantile city-state
+| Status       = 
+| Location     = [[Slaver's Bay]], [[Essos]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = 
+| Places       = 
+| Founded      = by the [[Valyrian Freehold]]
+}}
+'''Elyria'''{{Mapref|Viewer's Guide}} is a city on an island just off the coast of [[Essos]], in the western part of [[Slaver's Bay]]. It is west of [[Tolos]] and southeast of [[Mantarys]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Elyria is a city-state in the west of [[Slaver's Bay]]. It trades with the slaver cities of [[Meereen]], [[Yunkai]] and [[Astapor]] to the east.
+
+Not much has been said about Elyria. Tolos is said to have the best slingers in the world, who use dangerous lead pellets. Soldiers from Elyria who appear in an army at one point are said to be crossbowmen - though it isn't clear if that should be taken to mean that Elyria is generally associated with fine crossbowmen.
+
+Elyria, Tolos, and Mantarys are the only three surviving cities on the [[Valyrian peninsula]], each in the northern sections not too close to Valyria itself when [[Doom of Valyria|the Doom struck]]. They were colonies ruled directly by governors from the Valyrian Freehold, not "Free Cities" that had purchased contracts for some limited rule over local affairs. After the Doom, because they were located on the east coast, Tolos and Elyria developed closer economic and social ties with the Ghiscari cities of Slaver's Bay to the east. They then came into something of an odd position, as while more akin to the Valyrians and their colonies in the Free Cities, Tolos and Elyria fell into the cultural orbit of the main Ghiscari cities on the other side of Slaver's Bay, and came to be thought of as more of an extension of that region - though not quite fully belonging to either Slaver's Bay or the Free Cities. Mantarys, however, is located far from the coast, up in the foothills of the Painted Mountains, and as a result it became increasingly isolated.
+
+In ''A Dance with Dragons'', Elyria joins the coalition of Yunkai and other cities against [[Daenerys Targaryen]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Known world}}
+{{Valyrian peninsula}}
+{{Slaver's Bay}}
+
+<!--Categories-->
+[[Category:Cities]]
+[[Category:Islands]]
+[[Category:Slaver's Bay]]
+[[Category:Valyrian successor states]]
+
+<!--Languages-->
+[[ru:Элирия]]
+[[uk:Еліріа]]
+[[zh:埃利亚]]

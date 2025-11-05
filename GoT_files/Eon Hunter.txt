@@ -1,0 +1,72 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = House Hunter.svg
+| Link  = House Hunter
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Arryn
+| Image       = Eon Hunter.jpg
+| Birth       = At [[Longbow Hall]]
+| Death       = 
+| House       = [[House Hunter|Hunter]]
+| Affiliation = [[House Arryn]]
+| Titles      = Lord of Longbow Hall
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Vale of Arryn|Valemen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 1|1]]
+| Appearances = "[[A Golden Crown]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Barrington Cullen]]
+}}
+{{Quote|The honor should be mine. For the love I bore your lord husband, let me avenge his death.|Eon Hunter to [[Lysa Arryn]], requesting to be her champion in [[Tyrion Lannister]]'s [[First trial by combat of Tyrion Lannister|trial by combat]]|A Golden Crown}}
+Lord '''Eon Hunter'''{{Con|ASOIAF}} is the Lord of [[Longbow Hall]] and the head of [[House Hunter]], a vassal family to [[House Arryn]] of the [[Eyrie]].
+
+==Biography==
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+Lord Hunter is present when [[Tyrion Lannister|Tyrion]] demands a [[First trial by combat of Tyrion Lannister|trial by combat]] for the charges of murdering [[Jon Arryn]] and conspiring to murder [[Bran Stark]]. After a [[Lynderly knight|young knight]] offers to champion for [[Lysa Arryn]], Lord Hunter asks for the chance to avenge the death of Lord Arryn as well. Ultimately, [[Vardis Egen|another knight]] champions for Lysa, and is defeated by [[Bronn]].{{Ref|GOT106}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Eon Hunter is the head of House Hunter of Longbow Hall and has been so for nearly sixty years. Half-crippled by gout, Lord Eon is older than Jon Arryn and has three quarrelsome sons: Gilwood, Eustace and Harlan. He is one of the many suitors of Lysa Arryn.
+
+In ''A Storm of Swords'', [[Sansa Stark|Sansa]] hears that Lord Eon died suddenly, and Eustace and Harlan were accusing their elder brother Gilwood of murdering him. 
+
+In ''A Feast for Crows'', [[Petyr Baelish|Littlefinger]] reveals to Sansa that Harlan is responsible for Lord Eon's death, and he will probably kill his elder brother too.
+
+==Appearances==
+*{{GOT|A Golden Crown}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+{{DEFAULTSORT:Hunter, Eon}}
+[[Category:Bannermen of House Arryn]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Lords]]
+[[Category:Members of House Hunter|Eon Hunter]]
+[[Category:Valemen]]
+
+<!--Languages-->
+[[de:Eon Jäger]]
+[[fr:Éon Veneur]]
+[[ru:Эон Хантер]]

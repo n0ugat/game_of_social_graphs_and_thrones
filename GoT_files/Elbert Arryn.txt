@@ -1,0 +1,70 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = House Arryn.svg
+| Link  = House Arryn
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Arryn
+| Image       = H&L 1x11 King's Landing.png
+| Birth       = At the [[Eyrie]]
+| Death       = [[281 AC]]{{Dateref|Robert's Rebellion}} in [[King's Landing]]<br>[[Execution|Executed]] on the orders of [[Aerys II Targaryen]]
+| House       = [[House Arryn|Arryn]]
+| Affiliation = 
+| Titles      = [[Knighthood|Ser]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Vale of Arryn|Valemen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = {[[Ronnel Arryn (son of Jasper)|Ronnel Arryn]]}
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+Ser '''Elbert Arryn'''{{Con|ASOIAF}} was a [[Knighthood|knight]] of [[House Arryn]] and nephew and heir to [[Defender of the Vale|Lord]] [[Jon Arryn]].
+
+==Biography==
+After [[Lyanna Stark]] was allegedly [[Abduction of Lyanna Stark|kidnapped]] by [[Prince of Dragonstone|Prince]] [[Rhaegar Targaryen]], her brother [[Brandon Stark|Brandon]] rode to [[King's Landing]] with four companions, including Elbert. Brandon demanded justice from [[King of the Andals and the Rhoynar and the First Men|King]] [[Aerys II Targaryen]], but the [[king]] responded by [[Execution|executing]] the group.{{Ref|H&L111}}
+
+==Family==
+{{Arryn tree}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Elbert Arryn's background and fate are the same.
+
+==Appearances==
+*{{H&L|Mad King Aerys - House Baratheon}} {{Illustrated}}
+*{{H&L|Mad King Aerys - House Stark}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Arryn}}
+
+<!--Categories-->
+{{DEFAULTSORT:Arryn, Elbert}}
+[[Category:Individuals from Histories & Lore]]
+[[Category:Knights]]
+[[Category:Members of House Arryn|Elbert Arryn]]
+[[Category:Valemen]]
+
+<!--Languages-->
+[[ru:Элберт Аррен]]

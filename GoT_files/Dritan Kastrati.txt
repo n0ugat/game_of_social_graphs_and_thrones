@@ -1,0 +1,30 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Dritan Kastrati.jpg
+| Birth   = 1990 {{Age|1990|12|31}}<br>Yugoslavia
+| Death   = 
+| Role    = Dornish merchant
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]]
+| Credits = "[[The Burning Mill]]"
+| First   = 
+| Last    = 
+}}
+'''Dritan Kastrati''' is an Albanian actor. He will appear in the upcoming film ''{{WPS|Kraven the Hunter (film)|Kraven the Hunter}}'' and has appeared in the television series ''{{WPS|Stan lee's Lucky Man}}'' and ''{{WPS|My Lady Jane}}''. 
+
+Kastrati plays a Dornish merchant in the [[House of the Dragon: Season 2|second season]] of ''[[House of the Dragon]]''.
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 2|||yes}}
+
+==External links==
+*{{IMDb|# = 2461660}}
+*{{Twitter|# = DritanDritSkin}}
+*{{Instagram|# = dritanrkastrati}}
+*{{Facebook|# = p/Dritan-Kastrati-100063452418557}}
+
+<!--Categories-->
+{{DEFAULTSORT:Kastrati, Dritan}}
+[[Category:Co-starring cast members of House of the Dragon]]

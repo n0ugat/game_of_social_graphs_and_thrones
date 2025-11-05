@@ -1,0 +1,36 @@
+{{Episode
+| Title    = Ep. 7: The Red Sowing<br>{{C|with showrunner Ryan Condal}}
+| Type     = Podcast
+| Image    = TOGOTPHOTD211.jpg
+| Season   = 2
+| Episode  = 11
+| Date     = July 28, 2024{{Listref|TOGOTPHOTD}}
+| Runtime  = 1:11:00{{HBOref|TOGOTPHOTD}}
+| Writer   = 
+| Director = 
+| Year     = 
+| Previous = "[[Ep. 6: Smallfolk (with Sonoya Mizuno and executive producer Sara Hess)]]"{{Listref|TOGOTPHOTD}}
+| Next     = "[[Ep. 8: The Queen Who Ever Was (with Showrunner Ryan Condal)]]"{{Listref|TOGOTPHOTD}}
+}}
+"'''Ep. 7: The Red Sowing (with showrunner Ryan Condal)'''"{{HBOref|TOGOTPHOTD}} is the eleventh episode of the [[The Official Game of Thrones Podcast: House of the Dragon: Season 2|second season]] of ''[[The Official Game of Thrones Podcast: House of the Dragon]]''. It is the twenty-ninth episode of the series overall. It was released on July 28, 2024.
+
+==Description==
+{{Description|TOGOTPHOTD211}}
+
+==Gallery==
+<gallery bordersize="none">
+HOTD: Official Podcast: S2 Ep. 7: Ryan Condal on Rhaenyra’s Dragonseed Plan
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{HBO Max|video/watch/PROM727482/PROM1182020|House of the Dragon Podcast: S2 E7}}
+
+<!--Navboxes-->
+{{The Official Game of Thrones Podcast: House of the Dragon}}
+
+<!--Categories-->
+[[Category:Episodes of The Official Game of Thrones Podcast: House of the Dragon: Season 2| 11]]
+[[Category:Episodes released in 2024|7.28B]]

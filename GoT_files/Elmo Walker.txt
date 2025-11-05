@@ -1,0 +1,29 @@
+{{Crew
+| Image       = Elmo Walker.jpg
+| dateofbirth = 
+| birthplace  = 
+| job         = Stunt Performer
+| imdb        = http://www.imdb.com/name/nm7301265
+| twitter     = https://twitter.com/360_fitness
+}}
+'''Elmo Walker''' is a stuntman.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 8|eighth season]] episode "[[The Bells]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 8|||||yes}}
+
+==See also==
+*{{IMDb
+|# = 7301265}}
+*{{Twitter
+|# = 360_fitness}}
+*{{Instagram
+|# = 360_fitness}}
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Walker, Elmo}}
+[[Category:Stunt performers of Game of Thrones]]

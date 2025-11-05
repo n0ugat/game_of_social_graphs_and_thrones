@@ -1,0 +1,62 @@
+{{Canonicity|Non}}
+{{Heraldry
+| Leftimage  = House Egen.svg
+| Leftlink   = House Egen
+| Rightimage = House Royce.svg
+| Rightlink  = House Royce
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Royce
+| Image       = House Royce lineage.jpeg
+| Birth       = In the [[Vale of Arryn|Vale]]
+| Death       = 
+| House       = [[House Egen|Egen]]<br>[[House Royce|Royce]] {{C|by marriage}}
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Vale of Arryn|Valemen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = {[[Xander Egen]]}
+| Mother      = {[[Rusalia Egen]]}
+| Spouse      = {[[Andar Royce]]}
+| Lovers      = 
+| Issue       = [[Yohn Royce]]<br>[[Maxim Royce]]<br>[[Waymar Royce (son of Andar)|Waymar Royce]]
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Elena Egen''' was a member of [[House Egen]] and the wife of [[Andar Royce]], [[Lord of Runestone]]. She is the mother of [[Yohn Royce]], as well as of his brothers [[Maxim Royce]] and [[Waymar Royce (son of Andar)|Waymar Royce]].
+
+==Biography==
+Elena Egen was a daughter of Lord [[Xander Egen]] and [[Rusalia Egen]]. She married [[Andar Royce]] on his eighteenth nameday and bore him three sons [[Yohn Royce|Yohn]], [[Maxim Royce|Maxim]], and [[Waymar Royce (son of Andar)|Waymar Royce]].<ref name = "s1prop">''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]'' prop from Season 1</ref>
+
+==Behind the scenes==
+Elena Egen is mentioned in the section on House Royce in the Season 1 prop for ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]''. The section on House Royce never appears on-screen in the TV series, as its planned appearance, where [[Eddard Stark]] would have read from it, was cut.
+
+==In the books==
+Elena Egen is referenced only in the TV adaptation of ''[[A Song of Ice and Fire]]'' and has no corresponding counterpart in the books. The name of Yohn Royce's mother has not been mentioned in the books.
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House Royce}}
+
+<!--Categories-->
+{{DEFAULTSORT:Egen, Elena}}
+[[Category:Individuals from Game of Thrones]]
+[[Category:Ladies]]
+[[Category:Members of House Egen|Elena Egen]]
+[[Category:Members of House Royce|Elena Egen]]
+[[Category:Valemen]]
+
+<!--Languages-->
+[[ru:Елена Иген]]

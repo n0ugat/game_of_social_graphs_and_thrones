@@ -1,0 +1,63 @@
+{{Canonicity|Canon}}
+{{Spoiler|AKOTSK}}
+{{BookConjecture}}
+{{Heraldry
+| Image = Kingsguard.svg
+| Link  = Kingsguard
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Targaryen
+| Image       = 
+| Birth       = In [[Duskendale]]
+| Death       = 
+| House       = 
+| Affiliation = [[Kingsguard]]
+| Titles      = [[Knighthood|Ser]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Andals|Andal]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+Ser '''Donnel of Duskendale'''{{Con|D&EN}} is a [[Knighthood|knight]] of the [[Kingsguard]] of [[Daeron II Targaryen|Daeron II]].{{Ref|H&L416}}
+
+==In the books==
+In the [[Dunk & Egg novellas]], Donnel has red hair and a beard. He is of [[Smallfolk|low birth]] and hails from [[Duskendale]].
+
+In 208 AC, Donnel was defeated by Ser [[Humfrey Hardyng]] in a [[Tournament|tourney]] at [[Maidenpool]].
+
+==Appearances==
+*{{H&L|Justice of the Seven Kingdoms}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|AKOTSK}}
+
+<!--Navboxes-->
+{{Kingsguard of Daeron II Targaryen}}
+
+<!--Categories-->
+[[Category:Crownlanders]]
+[[Category:Ennobled commoners]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Kingsguard of Daeron II Targaryen]]
+[[Category:Knights]]

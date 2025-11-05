@@ -1,0 +1,52 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Heraldry
+| Image = House Hightower.svg
+| Link  = House Hightower
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Hightower
+| Image       = Hightower First Wife.PNG
+| Birth       = 
+| Death       = 
+| House       = [[House Hightower|Hightower]] {{C|by marriage}}
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[First Men]]
+| Religion    = [[Old Gods]]
+| Father      = 
+| Mother      = 
+| Spouse      = {[[Dorian Hightower]]} {{C|annulled}}
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|When the Andals invaded Westeros, Lord Dorian Hightower told his wife of twenty years that wars are bad for trade. And to make his point, traded her for a young Andal princess.|[[Qyburn]]|Oldtown (short)}}
+'''Dorian Hightower's first wife''' was the first wife of [[Dorian Hightower]], the head of [[House Hightower]] during the [[coming of the Andals]].
+
+==Biography==
+When the [[Andals]] invaded [[Westeros]], Lady Hightower had been married to Dorian for twenty years. Dorian told her that wars have a negative impact on trade, and abandoned her to marry [[Dorian Hightower's second wife|a young Andal princess]].{{Ref|H&L612}}
+
+==Appearances==
+*{{H&L|Oldtown}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+{{DEFAULTSORT:Hightower's first wife, Dorian}}
+[[Category:First Men]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Ladies]]
+[[Category:Members of House Hightower|Dorian Hightower's first wife]]

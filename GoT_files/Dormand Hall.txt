@@ -1,0 +1,37 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Dormand.svg
+| Link  = House Dormand
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Stark
+| Image        = 
+| Type         = Keep
+| Status       = 
+| Location     = [[North]]
+| Population   = 
+| Rulers       = [[House Dormand]]
+| Institutions = 
+| Military     = 
+| Religion     = 
+| Places       = 
+| Founded      = [[7 AC]]<br>by [[Artys Dormand]]
+}}
+'''Dormand Hall'''<ref>https://entertainment.ha.com/itm/movie-tv-memorabilia/props/tywin-lannister-charles-dance-leather-bound-histories-of-the-greater-and-lesser-houses-book-from-game-of-th/a/7366-89163.s</ref> is a keep in the [[North]] and the seat of [[House Dormand]]. It is located south of [[Winterfell]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no location named Dormand Hall.
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{North}}
+
+<!--Categories-->
+[[Category:Castles of the North]]
+[[Category:House Dormand]]
+
+<!--Languages-->
+[[ru:Звёздный Пик]]

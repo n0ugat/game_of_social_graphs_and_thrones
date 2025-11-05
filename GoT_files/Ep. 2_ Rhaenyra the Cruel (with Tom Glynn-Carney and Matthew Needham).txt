@@ -1,0 +1,36 @@
+{{Episode
+| Title    = Ep. 2: Rhaenyra the Cruel<br>{{C|with Tom Glynn-Carney and Matthew Needham}}
+| Type     = Podcast
+| Image    = TOGOTPHOTD206.jpg
+| Season   = 2
+| Episode  = 6
+| Date     = June 23, 2024{{Listref|TOGOTPHOTD}}
+| Runtime  = 57:13{{HBOref|TOGOTPHOTD}}
+| Writer   = 
+| Director = 
+| Year     = 
+| Previous = "[[Ep. 1: A Son for a Son (with Olivia Cooke and Phia Saban)]]"{{Listref|TOGOTPHOTD}}
+| Next     = "[[Ep. 3: The Burning Mill (with Bethany Antonia and director Geeta Vasant Patel)]]"{{Listref|TOGOTPHOTD}}
+}}
+"'''Ep. 2: Rhaenyra the Cruel (with Tom Glynn-Carney and Matthew Needham)'''"{{HBOref|TOGOTPHOTD}} is the sixth episode of the [[The Official Game of Thrones Podcast: House of the Dragon: Season 2|second season]] of ''[[The Official Game of Thrones Podcast: House of the Dragon]]''. It is the twenty-fourth episode of the series overall. It was released on June 23, 2024.
+
+==Description==
+{{Description|TOGOTPHOTD206}}
+
+==Gallery==
+<gallery bordersize="none">
+HOTD: Official Podcast: S2 Ep. 2: Tom Glynn-Carney on Aegon's Growth
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{HBO Max|video/watch/PROM727477/PROM1182015|House of the Dragon Podcast: S2 E2}}
+
+<!--Navboxes-->
+{{The Official Game of Thrones Podcast: House of the Dragon}}
+
+<!--Categories-->
+[[Category:Episodes of The Official Game of Thrones Podcast: House of the Dragon: Season 2| 06]]
+[[Category:Episodes released in 2024|6.23B]]

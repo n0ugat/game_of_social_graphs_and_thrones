@@ -1,0 +1,36 @@
+{{Episode
+| Title    = {{PAGENAME}}
+| Type     = Podcast
+| Image    = TOGOTPHOTD202.jpg
+| Season   = 2
+| Episode  = 2
+| Date     = May 29, 2024{{Listref|TOGOTPHOTD}}
+| Runtime  = 48:32{{HBOref|TOGOTPHOTD}}
+| Writer   = 
+| Director = 
+| Year     = 
+| Previous = "[[The Enemy Within featuring Showrunner Ryan Condal]]"{{Listref|TOGOTPHOTD}}
+| Next     = "[[The Real History Behind Westeros with Medieval Historian Charles Farris]]"{{Listref|TOGOTPHOTD}}
+}}
+"'''Dragon Deep Dive with Sound Designer Paula Fairfield'''"{{HBOref|TOGOTPHOTD}} is the second episode of the [[The Official Game of Thrones Podcast: House of the Dragon: Season 2|second season]] of ''[[The Official Game of Thrones Podcast: House of the Dragon]]''. It is the twentieth episode of the series overall. It was released on May 29, 2024.
+
+==Description==
+{{Description|TOGOTPHOTD202}}
+
+==Gallery==
+<gallery bordersize="none">
+Dragon Deep Dive with Sound Designer Paula Fairfield
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{HBO Max|video/watch/PROM727473/PROM1182012|House of the Dragon Podcast: Dragon Deep Dive}}
+
+<!--Navboxes-->
+{{The Official Game of Thrones Podcast: House of the Dragon}}
+
+<!--Categories-->
+[[Category:Episodes of The Official Game of Thrones Podcast: House of the Dragon: Season 2| 02]]
+[[Category:Episodes released in 2024|5.29]]

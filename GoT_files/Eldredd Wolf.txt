@@ -1,0 +1,32 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Eldredd Wolf.jpg
+| Birth   = Chelmsford, Essex, England
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = 2 episodes {{Below|Credits}}
+| First   = "[[Second of His Name]]"
+| Last    = 
+}}
+'''Eldredd Wolf''' is an English stuntman and actor.
+
+In ''[[House of the Dragon]]'', he was a stunt performer in the [[House of the Dragon: Season 1|first season]] episodes "[[Second of His Name]]" and "[[The Green Council]]".
+
+==Credits==
+===Stunts===
+{{House of the Dragon: Season 1|||yes||||||yes}}
+
+==See also==
+*{{IMDb
+|# = 4730964}}
+*{{Twitter
+|# = eldreddwolf}}
+*{{Instagram
+|# = eldredd_wolf}}
+*{{YouTube
+|# = user/elDreddnaught}}
+{{DEFAULTSORT:Wolf, Eldredd}}
+[[Category:Stunt performers of House of the Dragon]]

@@ -1,0 +1,38 @@
+{{SameName|episode of House of the Dragon: The House That Dragons Built: Season 1|episode of House of the Dragon: The House That Dragons Built: Season 2|Episode 8}}
+{{Episode
+| Title    = {{PAGENAME}}
+| Type     = Built
+| Image    = THTDB108.jpg
+| Season   = 1
+| Episode  = 8
+| Date     = October 9, 2022{{Listref|THTDB}}
+| Runtime  = 23 minutes{{HBOref|THTDB108}}
+| Writer   = 
+| Director = 
+| Year     = 
+| Previous = "[[Episode 07]]"{{HBOref|THTDB}}
+| Next     = "[[Episode 09]]"{{HBOref|THTDB}}
+}}
+"'''Episode 08'''" is the eighth episode of the [[House of the Dragon: The House That Dragons Built: Season 1|first season]] of ''[[House of the Dragon: The House That Dragons Built]]''. It is the eighth episode of the series overall. It was released on October 9, 2022 on [[HBO Max]].
+
+==Description==
+{{Description|THTDB108}}
+
+==Gallery==
+<gallery bordersize="none">
+BTS: Model of Old Valyria / House of the Dragon (HBO)
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{HBO|house-of-the-dragon-the-house-that-dragons-built/season-1/8-episode-08}}
+*{[Max|video/watch/a23ef2ed-c607-43ca-b2b5-25d4f21bfdd0/c8028ea5-2dd4-4531-822b-cf4fb50b2317}}
+
+<!--Navboxes-->
+{{House of the Dragon: The House That Dragons Built}}
+
+<!--Categories-->
+[[Category:Episodes of House of the Dragon: The House That Dragons Built: Season 1| 08]]
+[[Category:Episodes released in 2022|A.09A]]

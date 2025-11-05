@@ -1,0 +1,70 @@
+{{Canonicity|Canon}}
+{{OtherUses|island|Driftmark (disambiguation)}}
+{{Heraldry
+| Image = House Velaryon.svg
+| Link  = House Velaryon
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Velaryon
+| Image        =
+<gallery>
+Velaryon Funeral.png|Appearance
+Driftmark.png|Location
+</gallery>
+| Type         = Island
+| Status       = 
+| Location     = [[Blackwater Bay]], [[Westeros]]
+| Population   = 
+| Rulers       = [[House Velaryon]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = [[Castle Driftmark]] {{*}} [[High Tide]] {{*}} [[Hull]] {{*}} [[Spicetown]]
+| Founded      = 
+}}
+'''Driftmark''',{{Ref|HOTD106}}{{Note|[[High Valyrian]]: ''Driftmāki''}} also known as the '''Seat of the Sea''',{{Ref|HOTD107}}{{Note|[[High Valyrian]]: ''Embrurlion''}} is an island in [[Blackwater Bay]] near [[Dragonstone (island)|Dragonstone]]. It is ruled by [[House Velaryon]] from the castle [[High Tide]].
+
+==History==
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+Driftmark is ruled by Lord [[Corlys Velaryon]], the successor of [[Daemon Velaryon]].
+[[File:0 20092022-HouseoftheDragon1.jpg.webp|thumb|[[Viserys I Targaryen|Viserys]] travels on the wheelhouse along the causeway to High Tide.]]
+
+==Behind the scenes==
+Driftmark was depicted by the island castle of St Michael's Mount in Cornwall in [[House of the Dragon: Season 1|''House of the Dragon'': Season 1]].<ref>https://www.bbc.co.uk/news/uk-england-cornwall-56919320</ref>
+
+==Gallery==
+<gallery>
+File:S2 Seasmoke.jpg|Seasmoke flying over Driftmark.
+File:House-of-the-Dragon-Dragonstone.png|Vhagar and the dragons flying away from Driftmark.
+File:WLTW Rhaenyra and Laenor Still 3.jpg|Cave within Driftmark near Laenor and Rhaenyra.
+</gallery>
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+*{{TOG|map-of-westeros#driftmark}}
+
+<!--Navboxes-->
+{{House Velaryon}}
+{{Crownlands}}
+
+<!--Categories-->
+[[Category:Blackwater Bay]]
+[[Category:Driftmark| ]]
+[[Category:House Velaryon]]
+[[Category:Islands]]
+
+<!--Languages-->
+[[de:Driftmark]]
+[[es:Marcaderiva]]
+[[fr:Lamarck]]
+[[it:Driftmark]]
+[[pl:Driftmark]]
+[[ru:Дрифтмарк]]
+[[zh:潮头岛]]

@@ -1,0 +1,41 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Donald Sumpter HBO premiere.jpg
+| Birth   = February 13, 1943 {{Age|1943|2|13}}<br>Brixworth, England
+| Death   = 
+| Role    = [[Luwin]]
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 1|1]] {{*}} [[Game of Thrones: Season 2|2]]
+| Credits = 14 episodes {{Below|Credits}}
+| First   = "[[Winter Is Coming]]"
+| Last    = "[[Valar Morghulis]]"
+}}
+'''Donald Sumpter''' (born 13 February 1943) is a British actor who has worked regularly since 1966. He has appeared three times in [[wikipedia:Doctor Who|''Doctor Who'']] and once in its spin-off, [[wikipedia:The Sarah-Jane Adventures|''The Sarah-Jane Adventures'']]. He recently had a major role as Kemp, the primary antagonist in the second season of ''[[wikipedia:Being Human (TV series)|Being Human]]'', and has also been cast as Pythol in the long-awaited ''[[wikipedia:Warhammer 40,000|Warhammer 40,000]]'' film ''[[wikipedia:Ultramarines: The Movie|Ultramarines: The Movie]]''.
+
+He portrayed framed murder suspect Alexander Bonaparte Cust in an episode of ''[[Wikipedia:Agatha Christie's Poirot|Agatha Christie's Poirot]]''.
+
+In ''[[Game of Thrones]]'' Sumpter is playing [[Order of Maesters|Maester]] [[Luwin]]. He was announced in the role on 20 October 2009. He initially appeared as a guest star in the [[Game of Thrones: Season 1|first season]] and returned in this role for the [[Game of Thrones: Season 2|second season]].
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 1|yes|yes||yes|yes||yes|yes||yes}}
+{{Game of Thrones: Season 2|yes||yes||yes|yes|yes|yes||yes}}
+
+==See also==
+*{{Template:WP}}
+*{{Template:IMDb|# = 0838910}}
+
+<!--Navboxes-->
+{{Histories & Lore}}
+
+<!--Categories-->
+{{DEFAULTSORT:Sumpter, Donald}}
+[[Category:Cast members of Histories & Lore]]
+[[Category:Guest starring cast members of Game of Thrones]]
+
+<!--Languages-->
+[[de:Donald Sumpter]]
+[[fr:Donald Sumpter]]
+[[pl:Donald Sumpter]]
+[[ru:Дональд Самптер]]

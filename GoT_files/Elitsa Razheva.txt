@@ -1,0 +1,26 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Elitsa Razheva.jpg
+| Birth   = 
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = 2 episodes {{Below|Credits}}
+| First   = "[[The Heirs of the Dragon]]"
+| Last    = 
+}}
+'''Elitsa Razheva''' is an stuntwoman and actress.
+
+In ''[[House of the Dragon]]'', she was a stunt performer in the [[House of the Dragon: Season 1|first season]] episodes "[[The Heirs of the Dragon]]" and "[[The Black Queen]]".
+
+==Credits==
+===Stunts===
+{{House of the Dragon: Season 1|yes|||||||||yes}}
+
+==See also==
+*{{IMDb
+|# = 1351604}}
+{{DEFAULTSORT:Razheva, Elitsa}}
+[[Category:Stunt performers of House of the Dragon]]

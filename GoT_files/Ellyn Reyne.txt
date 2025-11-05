@@ -1,0 +1,91 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Leftimage  = House Reyne.svg
+| Leftlink   = House Reyne
+| Image2     = House Lannister.svg
+| Link2      = House Lannister
+| Rightimage = House Tarbeck.svg
+| Rightlink  = House Tarbeck
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Reyne
+| Image       = Ellyn Reyne.png
+| Birth       = [[Castamere]]
+| Death       = [[258 AC]]{{Dateref|Reyne-Tarbeck revolt}}<br>[[Tarbeck Hall]]
+| House       = [[House Reyne|Reyne]]<br>[[House Lannister|Lannister]] {{C|by marriage}}<br>[[House Tarbeck|Tarbeck]] {{C|by marriage}}
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = Ellyn Tarbeck
+| Culture     = [[Westerlands|Westermen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = {[[Tion Lannister]]} {{C|1st husband}}<br>{[[Walderan Tarbeck]]} {{C|2nd husband}}
+| Lovers      = 
+| Issue       = {[[Tion Tarbeck]]}
+| Siblings    = {[[Roger Reyne]]}<br>{[[Reynard Reyne]]}
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Lady Ellyn Reyne was betrothed to my great uncle, but when he fell in battle Lady Ellyn sought comfort in his twin brother's bed, beating out the other woman he had promised to marry.|[[Jaime Lannister]]|The Rains of Castamere (Histories & Lore)}}
+Lady '''Ellyn Reyne''' was the wife of [[Lordship|Lord]] [[Walderan Tarbeck]]. She was previously married to [[Knighthood|Ser]] [[Tion Lannister]]. She died in the [[Reyne-Tarbeck revolt]] along with both of her houses.
+
+==Biography==
+Ellyn Reyne was [[Marriage|betrothed]] to Ser [[Tywald Lannister]], but following his death she seduced his twin brother [[Tion Lannister|Tion]], despite him having already promised to marry another woman. He was later killed in battle and she attempted to seduce the heir to [[Casterly Rock]], [[Tytos Lannister]], who refused her and informed his wife [[Jeyne Marbrand|Jeyne]]. As punishment, Ellyn was forced to marry Lord [[Walderan Tarbeck]] of the failing [[House Tarbeck]].{{Ref|H&L708}}
+
+Lady Ellyn returned to extravagant wealth when her brothers [[Roger Reyne|Roger]] and [[Reynard Reyne|Reynard]] acquired a loan from the naive Tytos. Lord Walderan was imprisoned in a dungeon in [[Casterly Rock]] by [[Tywin Lannister]] upon his return from the [[War of the Ninepenny Kings]] and Lady Ellyn protested by threatening war. Tytos released Walderan and declared peace with House Tarbeck.{{Ref|H&L708}}
+
+The following year, Tywin summoned the Reynes and Tarbecks to Casterly Rock and they rose in revolt. Once Tywin's army reached [[Tarbeck Hall]], Lady Ellyn closed the gates and sent [[raven]]s to her brothers at [[Castamere]], though before they could arrive Tywin raised trebuchets and brought down the keep within hours, crushing Lady Ellyn and her son [[Tion Tarbeck|Tion]] to death.{{Ref|H&L708}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Ellyn Reyne was a strong-willed, hot-tempered and ambitious woman who dreamed of marrying into [[House Lannister]] and becoming the Lady of [[Casterly Rock]]. [[House Reyne]]'s wealth and position allowed her father Robert to arrange her betrothal to Ser [[Tywald Lannister]], though both her father and betrothed were killed in the Peake Uprising in 233 AC. She then seduced the new heir, [[Tion Lannister]], who was already betrothed to a daughter of [[House Rowan]]. Lord [[Gerold Lannister]] opposed the match due to how quickly she had acted following Robert and Tywald's death, but allowed his son to follow his heart.
+
+Ellyn married Tion in 235 AC and became a rival of [[Tytos Lannister]]'s wife [[Jeyne Marbrand|Jeyne]]. She hosted extravagant events and used her position to empower [[House Reyne]], including giving positions of power to her relatives. Her husband died in the Fourth Blackfyre Rebellion, making Tytos the heir to Casterly Rock. Jeyne surpassed Ellyn in influence as a result of this, and Ellyn made an unsuccessful attempt to seduce Tytos to remedy this. When Tytos told Jeyne what Ellyn had done, she was quick to inform her father-in-law, who acted swiftly.
+
+Ellyn was then forced to marry Lord [[Walderan Tarbeck]], with whom she had two daughters, Rohanne and Cyrelle, and a son, Tion. The rivalry between Ellyn and Jeyne was dubbed the "War of the Wombs" by Lord Toad, the [[fool]] of Casterly Rock. Ellyn was present at the betrothal of [[Genna Lannister]] and Emmon Frey, and found it amusing as she did not consider them a good match. She used the wealth of House Lannister to rebuild [[Tarbeck Hall]].
+
+[[Tywin Lannister|Tywin]] demanded that House Reyne and House Tarbeck repay their debts to Casterly Rock and imprisoned Walderan when he attempted to intimidate Tytos. Ellyn took two members of House Lannister of Lannisport as well as Ser [[Stafford Lannister]], the brother of Tywin's betrothed [[Joanna Lannister|Joanna]], hostage in response to this. She threatened to kill them if Walderan was harmed, and Tytos agreed to an exchange despite Tywin advising his father to send Lord Tarbeck back in three pieces.
+
+Ellyn was killed in 261 AC along with her son Tion when Tywin had their keep attacked with trebuchets.
+
+==Appearances==
+*{{H&L|The Rains of Castamere}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Reyne}}
+{{House Lannister}}
+
+<!--Categories-->
+{{DEFAULTSORT:Reyne, Ellyn}}
+[[Category:Individuals from Histories & Lore]]
+[[Category:Ladies]]
+[[Category:Members of House Lannister|Ellyn Reyne]]
+[[Category:Members of House Reyne|Ellyn Reyne]]
+[[Category:Members of House Tarbeck|Ellyn Reyne]]
+[[Category:Westermen]]
+
+<!--Languages-->
+[[de:Ellyn Regn]]
+[[es:Ellyn Reyne]]
+[[fr:Ellyn Reyne]]
+[[it:Ellyn Reyne]]
+[[nl:Ellyn Reyn]]
+[[ru:Эллин Рейн]]
+[[zh:艾莲·雷耶斯]]

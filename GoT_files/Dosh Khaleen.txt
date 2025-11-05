@@ -1,0 +1,77 @@
+{{DISPLAYTITLE:''Dosh Khaleen''}}
+{{Canonicity|Canon}}
+{{Organization
+| Title       = ''{{PAGENAME}}''
+| Theme       = Dothraki
+| Image       = Dosh khaleen.jpg
+| Type        = Priesthood
+| Status      = Defunct
+| Symbol      = 
+| Words       = 
+| Center      = [[Vaes Dothrak]]
+| Leader      = High Priestess
+| Affiliation = 
+| Religion    = [[Great Stallion]]
+| Military    = 
+| Founded     = 
+}}
+{{Quote|Yer ver yomme rhaesheser. Reki izvena.<br>(You went out into the world. That is forbidden.)|The [[High Priestess (Oathbreaker)|High Priestess]] to [[Daenerys Targaryen]] on the rules of the Dosh Khaleen|Oathbreaker}}
+The '''''Dosh Khaleen'''''{{Ref|GOT601}} are a ruling group within the [[Dothraki]] social hierarchy, specifically the crones who preside over the holy city of [[Vaes Dothrak]]. The ''Dosh Khaleen'' are composed of the widows of slain ''[[khal]]'', and serve as seers foretelling the future and interpreting omens for the Dothraki. In this capacity they essentially also serve as the leaders of the [[Great Stallion|Dothraki religion]]. Even powerful ''khali'' and fierce male Dothraki warriors fear disobeying the will of the ''Dosh Khaleen''.
+
+The name ''Dosh Khaleen'' literally means "council of crones" in the [[Dothraki (language)|Dothraki language]]. Each one of them was formerly the wife of a ''khal'', and thus each of them was once a ''[[khaleesi]]''. An individual member of the group is called a ''khaleen''.<ref>https://twitter.com/Dedalvs/status/637070299507372032</ref>
+
+==History==
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+[[File:Dosh khaleen and Daenerys.jpg|thumb|[[Daenerys Targaryen]] meets with the ''Dosh Khaleen'', so they can interpret omens about her child.]]
+[[File:Daenerys flanked by dosh khaleen.png|thumb|Daenerys eats a [[stallion heart]] in a ritual conducted by the ''Dosh Khaleen''.]]
+In Vaes Dothrak, [[Daenerys Targaryen|Daenerys]] is summoned by the ''Dosh Khaleen'' to eat a stallion's heart so that the crones can read the omens. At first, it seems she won't hold the raw meat down, but to both her and [[Drogo]]'s relief she is able to compose herself. The crones declare Daenerys and Drogo's son will be the [[stallion who mounts the world]], a great conqueror whose coming is long foretold in Dothraki history. Daenerys says his name will be [[Rhaego]], after her brother [[Rhaegar Targaryen|Rhaegar]] who was slain by [[Robert Baratheon]].<ref>"[[A Golden Crown]]"</ref>
+
+=== [[Game of Thrones: Season 6|''Game of Thrones'': Season 6]] ===
+After being captured by the Dothraki, Daenerys was offered to Khal [[Moro]] as a gift. She eventually earned the respect of the ''khal'' after explaining to him that she was Drogo's wife. However, instead of escorting her to Meereen as per her request, [[Moro's wife 1|Moro's wife]] tells her that she must remain in the temple of Vaes Dothrak with the ''Dosh Khaleen'' for the rest of her life as she was a widow of a ''khal'' and a former ''khaleesi''.<ref>"[[The Red Woman]]"</ref>
+
+Daenerys is welcomed to the temple by the [[High Priestess (Oathbreaker)|High Priestess]], who admonishes her for not returning to the temple immediately after Drogo's death. She relates her own history as the wife of ''Khal'' Savo to connect with Daenerys, but warns her that because she violated tradition, it is up to the ''khali'' assembling for the ''[[Khalar Vezhven]]'' to decide whether Daenerys will join their ranks.<ref>"[[Oathbreaker]]"</ref>
+
+Later on, the High Priestess, hoping that Daenerys will be allowed to stay with them, explains the politics of the ''Dosh Khaleen'', and that some of them dislike Daenerys and her [[Valyrians|Valyrian]] features, thinking that the Dothraki shouldn't breed with outsiders. The High Priestess dismisses them, however, pointing out that the Dothraki have always interbred and taken outsiders as ''khaleesisi''. She points out a ''khaleen'' of [[Lhazareen]] origin to illustrate her point.
+
+During the ''Khalar Vezhven'', the ''Dosh Khaleen'' bring Daenerys before the ''khali'' to be judged, but it seems they are barred from attending themselves. The Mother of Dragons turns the tables on the ''khali'' and destroys the temple of the ''Dosh Khaleen'', killing everyone inside. The ''Dosh Khaleen'' are amongst the crowd gathering to watch the conflagration, and when they see Daenerys emerge from the flames unburnt, they bow with the rest.<ref>"[[Book of the Stranger]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the ''dosh khaleen'' have great honor and status amongst the Dothraki. At their bidding, no blood may be spilled or blade bared within the confines of Vaes Dothrak, though this does not prevent other inventive forms of killing. Daenerys, as the wife of Khal Drogo, is told that when Drogo dies, she will be expected to return to Vaes Dothrak and join the ''dosh khaleen'', on pain of death if she refuses.
+
+The ''dosh khaleen'' are attended by [[eunuch]] slaves to maintain their purity.{{Bookref|AGOT|46}}
+
+==Gallery==
+<gallery>
+Dosh khaleen leader.jpg|The [[Dothraki crone|''khaleen'']] that officiated the marriage between Khal Drogo and Daenerys.
+Dosh khaleen chanting.png|One of the ''Dosh Khaleen'' (left) chanting during the ritual for Daenerys.
+</gallery>
+
+==Appearances==
+{{IncompleteList}}
+*{{GOT|A Golden Crown}}
+*{{GOT|Oathbreaker}}
+*{{GOT|Book of the Stranger}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Dosh khaleen|''Dosh khaleen''}}
+
+<!--Navboxes-->
+{{Dothraki}}
+
+<!--Categories-->
+[[Category:Clergy]]
+[[Category:Dosh Khaleen| ]]
+[[Category:Dothraki culture]]
+[[Category:Khaleesisi]]
+[[Category:Religious organizations]]
+
+<!--Navboxes-->
+[[es:Dosh khaleen]]
+[[fr:Dosh khaleen]]
+[[pl:Dosh khaleen]]
+[[pt-br:Dosh khaleen]]
+[[ru:Дош кхалин]]
+[[zh:多希卡林]]

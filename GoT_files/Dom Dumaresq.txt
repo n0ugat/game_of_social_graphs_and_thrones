@@ -1,0 +1,45 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Dom Dumaresq.jpg
+| Birth   = Dominique Dumaresq
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[Game of Thrones]]''<br>''[[House of the Dragon]]''
+| Season  = ''Game of Thrones'':<br>[[Game of Thrones: Season 6|6]] {{*}} [[Game of Thrones: Season 8|8]]<br>''House of the Dragon'':<br>[[House of the Dragon: Season 1|1]] {{*}} [[House of the Dragon: Season 2|2]]
+| Credits = 10 episodes {{Below|Credits}}
+| First   = "[[Book of the Stranger]]"
+| Last    = 
+}}
+'''Dominique Dumaresq''' is a stuntman.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 6|sixth season]] episode "[[Book of the Stranger]]" and the [[Game of Thrones: Season 8|eighth season]] episodes "[[Winterfell (Game of Thrones)|Winterfell]]", "[[A Knight of the Seven Kingdoms (Game of Thrones)|A Knight of the Seven Kingdoms]]", "[[The Long Night]]", "[[The Last of the Starks]]", "[[The Bells]]" and "[[The Iron Throne]]".
+
+In ''[[House of the Dragon]]'', he was a stunt performer in the [[House of the Dragon: Season 1|first season]] episode "[[We Light the Way]]" and the [[House of the Dragon: Season 2|second season]] episodes "[[The Red Dragon and the Gold]]" and "[[The Red Sowing]]".
+
+==Credits==
+===Stunts===
+====''[[Game of Thrones]]''====
+{{Game of Thrones: Season 6||||yes}}
+{{Game of Thrones: Season 8|yes|yes|yes|yes|yes|yes}}
+
+====''[[House of the Dragon]]''====
+{{House of the Dragon: Season 1|||||yes}}
+{{House of the Dragon: Season 2||||yes|||yes}}
+
+==See also==
+*{{IMDb
+|# = 5336430}}
+*{{Twitter
+|# = reel_fighter}}
+*{{Instagram
+|# = sandaboxer}}
+*{{Facebook
+|# = domd.stunty}}
+*{{Google+
+|# = 103660545903179994633}}
+*{{Linkedin
+|# = /in/dom-dumaresq-a4768128}}
+{{DEFAULTSORT:Dumaresq, Dom}}
+[[Category:Stunt performers of Game of Thrones]]
+[[Category:Stunt performers of House of the Dragon]]

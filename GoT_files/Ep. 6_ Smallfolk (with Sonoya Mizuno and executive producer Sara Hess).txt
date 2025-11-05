@@ -1,0 +1,36 @@
+{{Episode
+| Title    = Ep. 6: Smallfolk<br>{{C|with Sonoya Mizuno and executive producer Sara Hess}}
+| Type     = Podcast
+| Image    = TOGOTPHOTD210.jpg
+| Season   = 2
+| Episode  = 10
+| Date     = July 21, 2024{{Listref|TOGOTPHOTD}}
+| Runtime  = 1:21:32{{HBOref|TOGOTPHOTD}}
+| Writer   = 
+| Director = 
+| Year     = 
+| Previous = "[[Ep. 5: Regent (with Ewan Mitchell and director Clare Kilner)]]"{{Listref|TOGOTPHOTD}}
+| Next     = "[[Ep. 7: The Red Sowing (with showrunner Ryan Condal)]]"{{Listref|TOGOTPHOTD}}
+}}
+"'''Ep. 6: Smallfolk (with Sonoya Mizuno and executive producer Sara Hess)'''"{{HBOref|TOGOTPHOTD}} is the tenth episode of the [[The Official Game of Thrones Podcast: House of the Dragon: Season 2|second season]] of ''[[The Official Game of Thrones Podcast: House of the Dragon]]''. It is the twenty-eighth episode of the series overall. It was released on July 21, 2024.
+
+==Description==
+{{Description|TOGOTPHOTD210}}
+
+==Gallery==
+<gallery bordersize="none">
+HOTD: Official Podcast: S2 Ep. 6 Sonoya Mizuno on the Relationship between Mysaria and Rhaenyra
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{HBO Max|video/watch/PROM727481/PROM1182019|House of the Dragon Podcast: S2 E6}}
+
+<!--Navboxes-->
+{{The Official Game of Thrones Podcast: House of the Dragon}}
+
+<!--Categories-->
+[[Category:Episodes of The Official Game of Thrones Podcast: House of the Dragon: Season 2| 10]]
+[[Category:Episodes released in 2024|7.21B]]

@@ -1,0 +1,56 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Westeros
+| Part          = 
+| Image         = First Sack of Highgarden.jpg
+| Previous      = [[Gendel and Gorne's invasion]]
+| Concurrent    = 
+| Next          = [[Rhoynish Wars]]
+| Date          = 
+| Place         = [[Highgarden]], [[Reach]]
+| Outcome       = Tactical Dornish victory
+*Highgarden plundered
+*The [[Oakenseat]] destroyed
+| Factions1     = [[Dorne|Dornish]] forces
+| Factions2     = [[File:House Gardener.svg|30px|center|link=House Gardener]] '''[[Reach]]'''<br>([[House Gardener]])
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = 
+| Leaders2      = 
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = 
+| Participants2 = 
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = 
+| Casualties2   = 
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Quote|In those dark days, the ironborn raided up and down the Mander at will, and the Dornish were even more trouble than they are now. In our enduring shame, a Dornish army once sacked Highgarden and destroyed the Oakenseat, the living throne of the Gardener kings, planted by Garth Greenhand himself.|[[Randyll Tarly]]|Highgarden (short)}}
+A [[Dorne|Dornish]] force '''sacked''' [[Highgarden]], the seat of [[House Gardener]], some time between the [[coming of the Andals]] and [[Aegon's Conquest]]. The Dornish even burned the ancestral throne of the Gardener kings, the [[Oakenseat]].<ref>[[Highgarden (short)|Highgarden]]</ref>
+
+==In the books==
+The exact date when the [[Dornishmen]] sacked [[Highgarden]] and burned the Oakenseat is unclear, though it was some time after the [[coming of the Andals]]. It seems to have happened around 1,000 years or so prior to the Targaryen Conquest, given that it happened after the reign of Gyles III Gardener (who ruled a thousand years ago) but ''apparently'' before the [[Rhoynar]] migrated to Dorne, slightly after a thousand years ago (mention is made of war with a Dornish "king", not a "prince" in Rhoynar style). It had to have happened over a thousand years ago, because [[House Manderly]] had not yet been exiled from the Reach.
+
+This was long after the golden age of Gardener power ended (when they nearly conquered the Stormlands), and the sack of Highgarden marked its nadir. It came at the end of King Garth X Gardener, known as Garth Greybeard, as he was the longest-ruling king in the history of the Reach: he came to rule at the age of seven, and died at 96 years old. Garth X was a vain and frivolous man, who surrounded himself at court with fools and flatters, allowing two rival political factions to become the real power in the Reach, one led by [[House Manderly]] and one by House Peake. Garth X was never a wise man, and in his old age he lost his wits entirely, but remained alive and useless. Moreover, Garth X never produced any sons, but several daughters: the Manderlys married one daughter, and the Peakes another one, and their rival claims soon spilled out into open civil war within the Reach.
+
+With the Reach so weakened from within, all of its enemies attacked from without: the Lannister kings and [[Storm King]]s seized large swath of territories along their borders, but the most devastating were the invasions that came out of [[Dorne]], penetrating deeply into their core territories. One Dornish king besieged Oldtown, whose walls were too strong to take, but he burned out all of the surrounding countryside. Another crossed the Mander and sacked Highgarden. There they found the senile old Garth X totally senseless, tied to his bed and covered in his own filth - those who found him slit his throat, as they said, out of mercy. After carrying off all the wealth of Highgarden, they put the entire castle to the torch, and destroyed the Oakenseat - a living throne made from a tree which was, according to legend, planted by Garth Greenhand.
+
+The Manderlys and Peakes ''continued'' to fight each other throughout all of this, and after Garth X's death, a ten year long period of anarchy continued. The chaos only ended when the Tyrells finally rallied all the other vassals to defeat both the Manderlys and the Peakes, retook the ruins of Highgarden, and then put a second cousin of Garth X on the throne, who ruled as King Mern VI Gardener. The Gardeners gradually rebuilt their power in the centuries that followed, relying on the wise counsel of their hereditary stewards from House Tyrell, who became even more influential at court - up until the time the Targaryens came.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Anarchy in the Reach}}
+
+<!--Categories-->
+[[Category:Sacks]]
+
+<!--Languages-->
+[[fr:Sac des Dorniens à Hautjardin]]

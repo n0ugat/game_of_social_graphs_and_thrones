@@ -1,0 +1,38 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Species
+| Title   = {{PAGENAME}}
+| Theme   = Westeros
+| Image   = Dwarf elephant.png
+| Type    = Mammal
+| Status  = Active
+| Diet    = Herbivore
+| Habitat = Deserts
+| Range   = [[Volantis]]
+| Origin  = 
+}}
+{{Quote|The drivers of the [[hathay]]s, the carts pulled by the small elephants of [[Volantis]], are marked with wheels.|[[Varys]]|Volantis (short)}}
+'''Dwarf elephants'''{{Con|ASOIAF}} are a small species of [[elephant]] known to inhabit [[Volantis]]. They are used to pull [[hathay]]s, carts pulled by [[Slavery|slaves]] whose faces are tattooed with wheels.{{Ref|H&L503}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, dwarf elephants are only known to be found in Volantis, where they are a common mode of transport. Their skin is white and they emit a honking noise. [[Tyrion Lannister]] mistakes one of them for [[Illyrio Mopatis]].
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+*{{WP}}
+
+<!--Navboxes-->
+{{Animals and plants}}
+
+<!--Categories-->
+[[Category:Animals]]
+
+<!--Languages-->
+[[pt-br:Elefante anão]]
+[[ru:Карликовые слоны]]

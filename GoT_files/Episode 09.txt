@@ -1,0 +1,37 @@
+{{Episode
+| Title    = {{PAGENAME}}
+| Type     = Built
+| Image    = THTDB109.jpg
+| Season   = 1
+| Episode  = 9
+| Date     = October 16, 2022{{Listref|THTDB}}
+| Runtime  = 22 minutes{{HBOref|THTDB109}}
+| Writer   = 
+| Director = 
+| Year     = 
+| Previous = "[[Episode 08]]"{{HBOref|THTDB}}
+| Next     = "[[Episode 10]]"{{HBOref|THTDB}}
+}}
+"'''Episode 09'''" is the ninth episode of the [[House of the Dragon: The House That Dragons Built: Season 1|first season]] of ''[[House of the Dragon: The House That Dragons Built]]''. It is the ninth episode of the series overall. It was released on October 16, 2022 on [[HBO Max]].
+
+==Description==
+{{Description|THTDB109}}
+
+==Gallery==
+<gallery bordersize="none">
+BTS: Rhaenys and Meleys' Great Escape / House of the Dragon (HBO)
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{HBO|house-of-the-dragon-the-house-that-dragons-built/season-1/9-episode-09}}
+*{{HBO Max|video/watch/58535712-857f-49f5-8eae-d556cb32c943/50910c50-603f-42e3-aba1-a1b88be6c53b}}
+
+<!--Navboxes-->
+{{House of the Dragon: The House That Dragons Built}}
+
+<!--Categories-->
+[[Category:Episodes of House of the Dragon: The House That Dragons Built: Season 1| 09]]
+[[Category:Episodes released in 2022|A.16A]]

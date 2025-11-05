@@ -1,0 +1,33 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Eline Powell.jpg
+| Birth   = December 1, 1989 {{Age|1989|12|1}}<br>London, England
+| Death   = 
+| Role    = [[Bianca]]
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 6|6]]
+| Credits = 2 episodes {{Below|Credits}}
+| First   = "[[The Door]]"
+| Last    = "[[Blood of My Blood]]"
+}}
+'''Eline Powell''' is a Belgian<ref>https://www.rada.ac.uk/profiles?aos=acting&yr=2011&fn=eline&sn=powell</ref> actress. She is known for her role in the films ''Quartet'', ''Anita B.'' and ''Knights of the Roundtable: King Arthur''.
+
+In ''[[Game of Thrones]]'', she portrayed the mummer [[Bianca]] in the [[Game of Thrones: Season 6|sixth season]].<ref>[http://watchersonthewall.com/game-of-thrones-gets-theatrical-plus-massive-spoilers-for-season-six/ Watchers on the Wall — Game of Thrones gets theatrical; plus massive spoilers for season six!]</ref>
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 6|||||yes|yes}}
+
+==See also==
+*{{IMDb
+|# = 4730958}}
+*{{Twitter
+|# = elinepowell}}
+
+==References==
+{{Reflist}}
+[[fr:Eline Powell]]
+[[ru:Элин Пауэлл]]
+{{DEFAULTSORT:Powell, Eline}}
+[[Category:Guest starring cast members of Game of Thrones]]

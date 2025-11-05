@@ -1,0 +1,66 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Hightower.svg
+| Link  = House Hightower
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Hightower
+| Image       = Dorian Hightower.png
+| Birth       = At the [[Hightower]], in [[Oldtown]]
+| Death       = 
+| House       = [[House Hightower|Hightower]]
+| Affiliation = [[House Targaryen]]
+| Titles      = [[Lord of Oldtown]]<br>[[Beacon of the South]]<br>[[Defender of the Citadel]]<br>[[Voice of Oldtown]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[First Men]]
+| Religion    = [[Old Gods]]
+| Father      = 
+| Mother      = 
+| Spouse      = {[[Dorian Hightower's first wife|Wife]]} {{C|annulled}}<br>{[[Dorian Hightower's second wife|Andal princess]]}
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|When the Andals invaded Westeros, Lord Dorian Hightower told his wife of twenty years that wars are bad for trade. And to make his point, traded her for a young Andal princess.|[[Qyburn]]|Oldtown (short)}}
+Lord '''Dorian Hightower''' was the head of [[House Hightower]] during the [[coming of the Andals]].
+
+==Biography==
+When the [[Andals]] invaded Westeros, Dorian told [[Dorian Hightower's first wife|his wife]], to whom he had been married for two decades, that wars have a negative impact on trade, and abandoned her to marry [[Dorian Hightower's second wife|a young Andal princess]].{{Ref|H&L612}}
+
+==In the books==
+In ''The World of Ice & Fire'', Dorian Hightower's story is the same.
+
+==Appearances==
+*{{H&L|Oldtown}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Hightower}}
+
+<!--Categories-->
+{{DEFAULTSORT:Hightower, Dorian}}
+[[Category:Individuals from Histories & Lore]]
+[[Category:Individuals from the Reach]]
+[[Category:Lords of Oldtown|Dorian Hightower]]
+[[Category:Members of House Hightower|Dorian Hightower]]
+
+<!--Languages-->
+[[de:Dorian Hohenturm]]
+[[es:Dorian Hightower]]
+[[nl:Dorian Hoogtoren]]
+[[ru:Дориан Хайтауэр]]

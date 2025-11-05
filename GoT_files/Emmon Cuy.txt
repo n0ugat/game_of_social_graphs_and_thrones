@@ -1,0 +1,77 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Leftimage  = Unknown.svg
+| Leftlink   = 
+| Rightimage = Kingsguard.svg
+| Rightlink  = Kingsguard#Renly Baratheon's Kingsguard
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Baratheon
+| Image       = Renly's Kingsguard 1.png
+| Birth       = [[Sunhouse]], the [[Reach]]{{Con|AWOIAF}}
+| Death       = [[299 AC]]{{Dateref|Game of Thrones: Season 2}}<br>Near [[Storm's End]], the [[Stormlands]]{{Ref|GOT205}}
+| House       = 
+| Affiliation = [[Kingsguard]] of [[Renly Baratheon]]
+| Titles      = [[Knighthood|Ser]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Andals|Andal]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 2|2]]
+| Appearances = "[[The Ghost of Harrenhal]]"
+| First       = 
+| Last        = 
+| DeathEp     = "The Ghost of Harrenhal"
+| Actor       = 
+}}
+{{Quote|You'll die for this!|Emmon to [[Brienne of Tarth]]|The Ghost of Harrenhal}}
+Ser '''Emmon Cuy'''{{Con|ASOIAF}} was a [[Knighthood|knight]] and member of the [[Kingsguard]] to [[King of the Andals and the Rhoynar and the First Men|King]] [[Renly Baratheon]].
+
+==Biography==
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+[[Renly Baratheon|Renly]]'s camp is a hive of activity as his troops prepare for the coming battle with the forces of [[Stannis Baratheon|Stannis]] in darkness. The camp is beset by strong winds. [[Catelyn Stark|Catelyn]] meets with Renly in his command tent. Ser Emmon and his sworn brother Ser [[Robar Royce]] are outside while [[Brienne of Tarth|Brienne]] stands watch inside the tent. Hearing Brienne scream the guards rush into the tent with swords in hand. They see Brienne kneeling over Renly's corpse and assume that she is responsible. The two knights threaten her life. Catelyn tries to intervene but they push her aside. Brienne fights both of them off, killing them.{{Ref|GOT205}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Ser Emmon Cuy is a member of the Rainbow Guard as "Emmon the Yellow" and hails from House Cuy of Sunflower Hall, a noble house from the Reach. 
+
+Unlike in the episode, he, Robar Royce, and two guards enter Renly's tent just after [[Assassination of Renly Baratheon|his assassination]]. Cuy blames Brienne for the death and attacks her. One of the guards tries to burn her using a flaming torch, but her cloak is too soaked with blood to burn. Brienne cuts the guard's hand, fights Cuy and the remaining guard, and apparently kills the latter. [[Catelyn Stark|Catelyn]] convinces Robar that Brienne is innocent and he fights off the men-at-arms that follow Cuy, while Catelyn uses an iron brazier to knock Emmon Cuy unconscious, then she and Brienne escape. Ser Emmon and Ser Robar are later killed by [[Loras Tyrell]] in a fit of rage, because of their failure to protect Renly and allowing Brienne to escape. As he lay dying, Ser Emmon swears it was Brienne that killed Renly, and thus the rumors of this follow her.
+
+Later, after [[Jaime Lannister|Jaime]] makes Loras realize that Brienne did not kill Renly, he is filled with deep remorse for killing Cuy and Royce, realizing they were innocent, too.
+
+==Appearances==
+*{{GOT|The Ghost of Harrenhal}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Kingsguard of Renly Baratheon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Cuy, Emmon}}
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Individuals from the Reach]]
+[[Category:Kingsguard of Renly Baratheon]]
+[[Category:Knights]]
+[[Category:Nobles]]
+
+<!--Languages-->
+[[de:Emmon Cuy]]
+[[fr:Emmon Cuy]]
+[[ru:Эммон Кью]]
