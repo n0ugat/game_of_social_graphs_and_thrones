@@ -1,0 +1,34 @@
+{{DISPLAYTITLE:A Knight of the Seven Kingdoms {{C|''The Game Revealed''}}}}
+{{Episode
+| Title    = A Knight of the Seven Kingdoms
+| Type     = Revealed
+| Image    = TGR802.jpg
+| Season   = 8
+| Episode  = 2
+| Date     = April 22, 2019{{Listref|TGR78}}
+| Runtime  = 19 minutes{{Appleref|TGR802}}
+| Writer   = 
+| Director = 
+| Year     = 
+| Previous = "[[Winterfell (The Game Revealed)|Winterfell]]"{{Listref|TGR}}
+| Next     = "[[The Long Night (The Game Revealed)|The Long Night]]"{{Listref|TGR}}
+}}
+"'''A Knight of the Seven Kingdoms'''" is the second episode of the [[The Game Revealed: Season 8|third season]] of ''[[The Game Revealed]]''. It is the fourteenth episode of the series overall. It was released on April 22, 2019.
+
+==Description==
+{{Description|TGR802}}
+
+==Gallery==
+<gallery bordersize="none">
+Game of Thrones / Season 8 Episode 2 / Game Revealed (HBO)
+</gallery>
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{The Game Revealed}}
+
+<!--Categories-->
+[[Category:Episodes of The Game Revealed: Season 8| 02]]
+[[Category:Episodes released in 2019|4.22]]

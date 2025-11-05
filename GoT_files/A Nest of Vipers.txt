@@ -1,0 +1,88 @@
+{{Episode
+| Title    = {{PAGENAME}}
+| Type     = Telltale
+| Image    = ATGS05.png
+| Season   = 
+| Episode  = 5
+| Date     = July 21, 2015{{Webref|name=EW |author=Jonathon Dornbush |date=July 16, 2015 |url=https://ew.com/article/2015/07/16/telltale-game-of-thrones-episode-5-release-date-trailer/ |title=Telltale Games Game of Thrones fifth episode release date and trailer |website=Entertainment Weekly |access-date=February 3, 2024 }} {{C|PC, Mac, PlayStation 4, PlayStation 3}}<br>July 22, 2015<ref name="EW" /> {{C|Xbox One, Xbox 360}}<br>July 23, 2015<ref name="EW" /> {{C|iOS, Android}}
+| Runtime  = 
+| Writer   = Meghan Thornton{{Ref|ATGS05}}<br>Brad Kane{{Ref|ATGS05}}
+| Director = Jason Latino{{Ref|ATGS05}}
+| Year     = [[301 AC/Non-canon|301 AC]]{{Dateref|The Sword in the Darkness}}
+| Previous = "[[Sons of Winter]]"{{Ref|ATGS04}}
+| Next     = "[[The Ice Dragon]]"{{Ref|ATGS06}}
+}}
+"'''A Nest of Vipers'''"{{Ref|ATGS05}} is the fifth episode of ''[[Game of Thrones: A Telltale Games Series]]''. It premiered on July 21, 2015. It was written by Meghan Thornton and Brad Kane, and directed by Jason Latino.
+
+==Premise==
+{{Premise|ATGS05}}
+
+==Cast==
+*[[Emilia Clarke]] as [[Daenerys Targaryen]]
+*[[Peter Dinklage]] as [[Tyrion Lannister]]
+*[[Lena Headey]] as [[Cersei Lannister]]
+*[[Iwan Rheon]] as [[Ramsay Bolton|Ramsay Snow]]
+*[[Natalie Dormer]] as [[Margaery Tyrell]]
+*Russ Bain as Rodrik Forrester
+*Alex Jordan as Asher Forrester
+*Daniel Kendrick as Gared Tuttle
+*Martha Mackintosh as Mira Forrester
+*Joseph Balderrama as Cotter
+*JB Blanc as Malcolm
+*Sacha Dhawan as Gryff Whitehill
+*Robin Atkin Downes as Duncan Tuttle & Andros
+*Brian George as Ser Royland Degore
+*Clare Louise Connolly as Sylvi
+*Matt Littler as Arthur Glenmore
+*Natasha Loring as Sera
+*Yuri Lowenthal as Finn
+*Paul Nakauchi as Bloodsong
+*Toks Olagundoye as Beskha
+*Amy Pemberton as Elaena Glenmore
+*Lara Pulver as Lady Forrester
+*Nuufolau Joel Seanoa (Samoa Joe) as Beast
+*Jaye Jacobs as Amaya
+*Molly Stone as Talia Forrester
+*Matt Wolf as Lucan, Pit Fighters
+*Tamaryn Payne as Pit Fighters
+
+==Gallery==
+===Video===
+<gallery bordersize="none">
+Game of Thrones: A Telltale Games Series - Episode 5: 'A Nest of Vipers' Trailer
+</gallery>
+
+===Images===
+<gallery>
+NOV Mira and Cersei.png
+NOV Mira and Tyrion.png
+NOV Asher Fight.png
+NOV Asher Faceoff.png
+NOV Asher Arrival.png
+</gallery>
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{TTGOT}}
+
+<!--Navboxes-->
+{{Game of Thrones: A Telltale Games Series}}
+{{Game of Thrones}}
+
+<!--Categories-->
+{{DEFAULTSORT:Nest of Vipers, A}}
+[[Category:Episodes directed by Jason Latino]]
+[[Category:Episodes of Game of Thrones: A Telltale Games Series| 05]]
+[[Category:Episodes released in 2015|7.21]]
+[[Category:Episodes written by Brad Kane]]
+[[Category:Episodes written by Meghan Thornton]]
+
+<!--Languages-->
+[[de:Ein Nest von Vipern (Episode)]]
+[[fr:Un Nid de Vipères]]
+[[ru:Змеиное гнездо]]

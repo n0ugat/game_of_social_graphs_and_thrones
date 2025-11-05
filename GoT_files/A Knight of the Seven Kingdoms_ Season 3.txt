@@ -1,0 +1,96 @@
+{{DISPLAYTITLE:''A Knight of the Seven Kingdoms'': Season 3}}
+{{Spoiler|AKOTSK}}
+{{PureConjecture}}
+{{Season
+| Season     = 3
+| Type       = Kingdoms
+| Image      = 
+| Episodes   = 6{{Notes|Episodes}} {{C|expected}}
+| Premiere   = [[A Knight of the Seven Kingdoms: Season 3, Episode 1|Season 3, Episode 1]]{{Webref|name=Orsi |author=Nellie Andreeva |date=February 12, 2025 |url=https://deadline.com/2025/02/house-of-the-dragon-season-3-game-of-thrones-spinoff-knight-renewed-1236285772/ |title=HBO Drama Chief Touts Big ‘House Of The Dragon’ Season 3 Battle, Talks ‘Knight Of The 7 Kingdoms’ 3-Season Plan, Teases New ‘Game Of Thrones’ Spinoff |website=Deadline |access-date=February 20, 2025 }}
+| Finale     = [[A Knight of the Seven Kingdoms: Season 3, Episode 6|Season 3, Episode 6]]{{Notes|Episodes}}
+| Network    = [[HBO]]<ref name="Orsi" /><br>[[HBO Max]]<ref name="Orsi" />
+| First      = 
+| Final      = 
+| Runtime    = 
+| Home       = 
+| Starring   = [[Peter Claffey]]<ref name="Orsi" /><br>[[Dexter Sol Ansell]]<ref name="Orsi" />
+| Producers  = 
+| Writers    = 
+| Directors  = 
+| Production = 
+| Wrapped    = 
+| Year       = 
+| Previous   = [[A Knight of the Seven Kingdoms: Season 2|Season 2]]{{HBOref|AKOTSK2}}
+| Next       = 
+}}
+'''''A Knight of the Seven Kingdoms'': Season 3''' is the planned third season of ''[[A Knight of the Seven Kingdoms]]''. It is expected to consist of six episodes. It would be based on ''[[The Mystery Knight]]'', the third of the [[Dunk & Egg novellas]] by [[George R.R. Martin]].
+
+==Premise==
+{{Premise|AKOTSK3}}
+
+==Episodes==
+{| {{Prettytable}}
+! Episode
+! Image
+! Title
+! Air date
+|-
+| style="text-align: center;" | 1<ref name="Orsi" />
+| 
+| [[A Knight of the Seven Kingdoms: Season 3, Episode 1|Season 3, Episode 1]]<ref name="Orsi" />
+| 
+|-
+| style="text-align: center;" | 2{{Notes|Episodes}}
+| 
+| [[A Knight of the Seven Kingdoms: Season 3, Episode 2|Season 3, Episode 2]]{{Notes|Episodes}}
+| 
+|-
+| style="text-align: center;" | 3{{Notes|Episodes}}
+| 
+| [[A Knight of the Seven Kingdoms: Season 3, Episode 3|Season 3, Episode 3]]{{Notes|Episodes}}
+| 
+|-
+| style="text-align: center;" | 4{{Notes|Episodes}}
+| 
+| [[A Knight of the Seven Kingdoms: Season 3, Episode 4|Season 3, Episode 4]]{{Notes|Episodes}}
+| 
+|-
+| style="text-align: center;" | 5{{Notes|Episodes}}
+| 
+| [[A Knight of the Seven Kingdoms: Season 3, Episode 5|Season 3, Episode 5]]{{Notes|Episodes}}
+| 
+|-
+| style="text-align: center;" | 6{{Notes|Episodes}}
+| 
+| [[A Knight of the Seven Kingdoms: Season 3, Episode 6|Season 3, Episode 6]]{{Notes|Episodes}}
+| 
+|}
+
+==Cast==
+===Starring===
+*[[Peter Claffey]] as [[Duncan the Tall]]<ref name="Orsi" />
+*[[Dexter Sol Ansell]] as [[Egg]]<ref name="Orsi" />
+
+==Production==
+On May 26, 2023, Francesca Orsi stated that ''A Knight of the Seven Kingdoms'', then titled ''The Hedge Knight'', was envisioned to run "ideally year-to-year and arcing out a three-season series, which maps out the three novellas that George wrote."{{Webref|name=THK |author=Nellie Andreeva |date=May 26, 2023 |url=https://deadline.com/2023/05/francesca-orsi-hbo-qa-succession-finale-the-last-of-us-house-of-the-dragon-white-lotus-euphoria-perry-mason-1235374588/ |title=HBO Drama Chief Francesca Orsi On ‘Succession’ Finale & WGA Strike; ‘The Last Of Us’, ‘House Of The Dragon’, ‘White Lotus’, ‘Euphoria’ Updates & More |website=Deadline |access-date=December 6, 2023 }}
+
+On February 12, 2025, Orsi revealed that [[HBO]] are considering filming [[A Knight of the Seven Kingdoms: Season 2|Seasons 2]] and 3 back-to-back.<ref name="Orsi" />
+
+==In the books==
+The season would be adapted from ''The Mystery Knight'', the third of the [[Dunk & Egg novellas]].<ref name="Orsi" />
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{A Knight of the Seven Kingdoms}}
+{{World of Westeros}}
+
+<!--Categories-->
+{{DEFAULTSORT:Knight of the Seven Kingdoms: Season 3, A}}
+[[Category:A Knight of the Seven Kingdoms: Season 3| ]]
+[[Category:Seasons of A Knight of the Seven Kingdoms|3]]
+[[Category:Seasons with undetermined release dates]]
