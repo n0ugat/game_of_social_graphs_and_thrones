@@ -1,0 +1,76 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = Unknown.svg
+| Link  = 
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Greyjoy
+| Image       = AdrackHumble S4.jpg
+| Birth       = The [[Iron Islands]]{{Con|AWOIAF}}
+| Death       = [[301 AC]]{{Dateref|Game of Thrones: Season 4}}<br>[[Moat Cailin]], the [[North]]{{Ref|GOT408}}
+| House       = 
+| Affiliation = [[House Greyjoy]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Ironborn]]
+| Religion    = [[Drowned God]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 4|4]]
+| Appearances = "[[The Mountain and the Viper]]"
+| First       = 
+| Last        = 
+| DeathEp     = "The Mountain and the Viper"
+| Actor       = [[Jody Halse]]
+}}
+{{Quote|If we yield we live? Is that what it says on this paper here?|Adrack Humble to [[Theon Greyjoy]]|The Mountain and the Viper}}
+'''Adrack Humble'''{{Con|ASOIAF}} was an [[Ironborn]] raider.
+
+==Biography==
+===Background===
+Adrack Humble was part of the [[Ironborn]] [[raiding]] party sent by King [[Balon Greyjoy]] to [[Fall of Moat Cailin|seize]] [[Moat Cailin]] during the [[War of the Five Kings]]. He is illiterate.{{Ref|GOT408}}
+
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+[[File:Fashionableflaying.png|thumb|left|Humble's flayed corpse on public display.]]
+When [[Ralf Kenning]] refuses the terms of surrender that [[Theon Greyjoy]] has offered on behalf of [[Roose Bolton]], Humble kills him with an axe to the head, preferring to surrender and live than to die. Being unable to read, he asks Theon to clarify that if they surrender they will be allowed to leave. Theon confirms this, and the Ironborn open the gates to [[House Bolton]]. However, [[Ramsay Bolton|Ramsay Snow]] and his men [[Flaying|flay]] them alive anyway. Ramsay is then [[Legitimization|legitimized]] as a true member of House Bolton for [[Siege of Moat Cailin|taking Moat Cailin]].{{Ref|GOT408}}
+
+==In the books==
+In the ''A Song of Ice and Fire'' novels, Adrack Humble is an ironborn raider and a member of House Humble, a lesser house descended from [[thrall]]s and [[Salt wife|salt wives]]. He lost one of his arms in battle, but is still a fierce fighter. He has one rock wife and three salt wives, three of whom were pregnant when he left the Iron Islands.
+
+Adrack is among the ironborn that Victarion Greyjoy leaves to guard [[Moat Cailin]] under the command of [[Ralf Kenning]]. The garrison lives under constant attack from the [[crannogmen]], who attack them with poisoned darts, resulting in the death of several men and the sickness of many others.
+
+[[Ramsay Bolton]] sends [[Theon Greyjoy]] to give peace terms to the Ironborn at [[Moat Cailin]], promising them food and safe passage. The surviving ironborn are unsure whether to accept the terms or not. Dagon Codd firmly objects, reminding the others that Theon is the one called "The Turncloak" and they should not believe him. Then Adrack Humble kills Dagon by throwing an axe at his forehead. He tells the others threateningly that they must leave. The other ironborn comply. On the way to Ramsay's camp, Adrack tells Theon about his wives, promising that when he returns to the Iron Islands, he may name a son after Theon in gratitude. Theon is unimpressed, knowing what Ramsay plans for the ironborn. The next day, Theon notices that, among the sixty-three flayed bodies of the ironborn displayed on pikes along the moat, one of the bodies is one-armed.
+
+==Appearances==
+*{{GOT|The Mountain and the Viper}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+{{DEFAULTSORT:Humble, Adrack}}
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Ironborn]]
+[[Category:Nobles]]
+[[Category:Servants and retainers of House Greyjoy]]
+
+<!--Languages-->
+[[es:Adrack Humble]]
+[[fr:Adrack Humble]]
+[[ru:Адрак Хамбл]]
+[[zh:阿大克·汉博利]]

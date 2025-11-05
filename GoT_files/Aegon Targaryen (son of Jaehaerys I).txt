@@ -1,0 +1,67 @@
+{{DISPLAYTITLE:Aegon Targaryen {{C|son of Jaehaerys I}}}}
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = House Targaryen.svg
+| Link  = House Targaryen/House of the Dragon
+}}
+{{Character
+| Title       = Aegon Targaryen
+| Type        = Targaryen
+| Image       = 
+| Birth       = [[Red Keep]], [[King's Landing]]{{Con|F&B}}
+| Death       = 
+| House       = [[House Targaryen/House of the Dragon|Targaryen]]{{Guideref|Jaehaerys I Targaryen}}
+| Affiliation = 
+| Titles      = [[Prince]]
+| AKA         = 
+| Culture     = [[Valyrians|Valyrian]]
+| Religion    = 
+| Father      = {[[Jaehaerys I Targaryen]]}{{Guideref|Jaehaerys I Targaryen}}
+| Mother      = {[[Alysanne Targaryen]]}{{Guideref|Jaehaerys I Targaryen}}
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+Prince '''Aegon Targaryen'''{{Note|[[High Valyrian]]: ''Āegon Targārien''}}{{Con|F&B}} was the firstborn child of King [[Jaehaerys I Targaryen|Jaehaerys I]] and Good Queen [[Alysanne Targaryen|Alysanne]].{{Guideref|Jaehaerys I Targaryen}}
+
+==Family==
+{{Targaryen tree (House of the Dragon)}}
+
+==In the books==
+In ''[[Fire & Blood]]'', Aegon was named in honor of both [[Aegon I Targaryen|Aegon the Conqueror]] and [[Aegon Targaryen (son of Aenys)|Aegon the Uncrowned]]. He was born prematurely in 52 AC and died three days later. Queen Alysanne blamed this on a woman who attacked her at Jonquil's Pool in [[Maidenpool]], believing the healing waters of the pool would have allowed Aegon to live if she had bathed there long enough.
+
+==Appearances==
+*{{HOTD|Second of His Name}} {{Indirect}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Targaryen/House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Targaryen, Aegon}}
+[[Category:Crownlanders]]
+[[Category:Individuals mentioned in House of the Dragon]]
+[[Category:Members of House Targaryen|Aegon Targaryen]]
+[[Category:Princes]]
+
+<!--Languages-->
+[[ru:Эйгон Таргариен (сын Джейхейриса I)]]
+[[uk:Еґон Тарґеріен (син Джехеріса I)]]

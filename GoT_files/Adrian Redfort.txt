@@ -1,0 +1,64 @@
+{{Canonicity|Canon}}
+{{Spoiler|HOTD}}
+{{Heraldry
+| Image = Unknown.svg
+| Link  = House Redfort
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Arryn
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = [[House Redfort|Redfort]]
+| Affiliation = 
+| Titles      = [[Knighthood|Ser]]
+| AKA         = 
+| Culture     = [[Vale of Arryn|Valemen]]
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 3|3]]
+| Appearances = [[House of the Dragon: Season 3, Episode 4|Season 3, Episode 4]]
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Barry Sloane]]
+}}
+Ser '''Adrian Redfort''' is a [[Knighthood|knight]] who lived during the [[Dance of the Dragons]].{{Ref|TDOD}}
+
+==In the books==
+In ''[[Fire & Blood]]'', Adrian Redfort was a knight of [[House Redfort]], one of the major vassal Houses in the Vale. His relationship with Jessamyn Redfort, the only other named Redfort in this time period, is unclear. 
+
+Rhaenyra began the war with three out of her father's seven [[Kingsguard]], but then [[Erryk Cargyll]] died fighting his twin brother and [[Steffon Darklyn]] died trying to claim a dragon. This left only Ser [[Lorent Marbrand]], as up to that point Rhaenyra hadn't had the opportunity to name any other replacements to round out her Queensguard to a full seven members. After Steffon's death, however, the need for replacements became painfully clear, so Rhaenyra charged Ser Lorent with the large task of naming six replacements all at the same time.  Lorent was able to find six knights who all served Rhaenyra capably, among them Adrian Redfort and Lyonel Bentley.
+
+==Appearances==
+*{{TDOD}} {{C|illustrated or mentioned indirectly}}
+
+===Forthcoming===
+{{Collapse|
+*{{HOTD|Season 3, Episode 4}}{{Webref|name=Leak |author=Gravemaster |date=March 13, 2025 |url=https://redanianintelligence.com/2025/03/13/major-character-leak-from-house-of-the-dragon-season-3/ |title=Major Character Leak From House of the Dragon Season 3 |website=Redanian Intelligence |access-date=July 18, 2025 }} {{Unreleased}}
+}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Categories-->
+{{DEFAULTSORT:Redfort, Adrian}}
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Individuals from The Dance of Dragons]]
+[[Category:Knights]]
+[[Category:Members of House Redfort]]
+[[Category:Valemen]]
+
+<!--Languages-->
+[[pl:Adrian Redfort]]

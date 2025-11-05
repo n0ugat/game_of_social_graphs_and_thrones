@@ -1,0 +1,29 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Kingdoms
+| Image   = Abigail O'Regan.jpg
+| Birth   = 
+| Death   = 
+| Role    = 
+| Series  = ''[[A Knight of the Seven Kingdoms]]''
+| Season  = [[A Knight of the Seven Kingdoms: Season 1|1]]
+| Credits = 
+| First   = 
+| Last    = 
+}}
+'''Abigail O'Regan''' is an Irish actress.
+
+O'Regan portrays an unknown character in ''[[A Knight of the Seven Kingdoms]]''.<ref>https://x.com/RedanianIntel/status/1815803857110257706</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb|#=13220555}}
+*{{Instagram|# = abigail.oregan}}
+<!--Categories-->
+{{DEFAULTSORT:O'Regan, Abigail}}
+[[Category:Cast members of unknown billing of A Knight of the Seven Kingdoms]]
+
+<!--Languages-->
+[[pl:Abigail O'Regan]]

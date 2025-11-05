@@ -1,0 +1,36 @@
+{{Episode
+| Title    = A Walking Tour of Westeros<br>{{C|with guest Steve Toussaint}}
+| Type     = Podcast
+| Image    = TOGOTPHOTD102.jpg
+| Season   = 1
+| Episode  = 2
+| Date     = August 10, 2022{{Listref|TOGOTPHOTD}}
+| Runtime  = 39:30{{HBOref|TOGOTPHOTD}}
+| Writer   = 
+| Director = 
+| Year     = 
+| Previous = "[[Everything We Know About House of the Dragon (with Paddy Considine and Matt Smith)|Everything We Know About ''House of the Dragon'' (with Paddy Considine and Matt Smith)]]"{{Listref|TOGOTPHOTD}}
+| Next     = "[[An Interview with George R.R. Martin]]"{{Listref|TOGOTPHOTD}}
+}}
+"'''A Walking Tour of Westeros (with guest Steve Toussaint)'''"{{HBOref|TOGOTPHOTD}} is the second episode of the [[The Official Game of Thrones Podcast: House of the Dragon: Season 1|first season]] of ''[[The Official Game of Thrones Podcast: House of the Dragon]]''. It is the second episode of the series overall. It was released on August 10, 2022.
+
+==Description==
+{{Description|TOGOTPHOTD102}}
+
+==Gallery==
+<gallery bordersize="none">
+A Walking Tour of Westeros with Steve Toussaint / Official Game of Thrones Podcast: Episode 2 (HBO)
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{HBO Max|video/watch/PROM705229/PROM1182008|Game of Thrones Podcast — Pre-Premiere Ep. 2}}
+
+<!--Navboxes-->
+{{The Official Game of Thrones Podcast: House of the Dragon}}
+
+<!--Categories-->
+[[Category:Episodes of The Official Game of Thrones Podcast: House of the Dragon: Season 1| 02]]
+[[Category:Episodes released in 2022|8.10]]

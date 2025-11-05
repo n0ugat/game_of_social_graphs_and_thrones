@@ -1,0 +1,56 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Targaryen.svg
+| Link  = House Targaryen
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Targaryen
+| Image        =
+<gallery>
+Aegonfort.png|Appearance
+King's Landing Pin.png|Location
+</gallery>
+| Type         = Fort
+| Status       = Built into the [[Red Keep]]
+| Location     = [[King's Landing]], the [[Crownlands]]
+| Population   = 
+| Rulers       = [[House Targaryen]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = [[2 BC]]{{Dateref|Aegon's Conquest}}<br>by {[[Aegon I Targaryen|Aegon the Conqueror]]}
+}}
+{{Quote|Aegon landed at the mouth of the Blackwater River and raised a primitive Aegonfort in the disputed lands between Harren's and Argilac's kingdom, so that neither could decide whose problem he was.|[[Varys]]|Invasion}}
+The '''Aegonfort'''{{Ref|C&R02}} was a primitive fort which [[Aegon I Targaryen]] had built at the mouth of the [[Blackwater Rush|Blackwater River]] in the disputed land between the [[king]]doms of [[Argilac Durrandon]] and [[Harren Hoare]] when he launched [[Aegon's Conquest|his conquest]].<ref>"[[Invasion]]"</ref>
+
+[[Image:Aegonfort town.png|thumb|right|200px|A town is built around the Aegonfort.]]
+Following the victories of his forces at the [[burning of Harrenhal]]<ref>"[[House Hoare, Ironborn Kings of the Riverlands]]"</ref>, the [[Last Storm]]<ref>"[[House Durrandon, the Storm Kings]]"</ref> and the [[Field of Fire]]<ref>"[[House Lannister, Kings of the Rock & House Gardener, Kings of the Reach]]"</ref>, as well as the surrenders of [[House Stark]]<ref>"[[House Stark, The Kings of Winter]]"</ref> and [[House Arryn]]<ref>"[[House Arryn, Kings of the Vale]]"</ref>, Aegon had the [[Armament|swords]] of his defeated foes brought to the Aegonfort. During the conquest, a town had sprouted around the Aegonfort, which the locals dubbed "[[King's Landing]]" in honor of their new master. Once all of the [[Seven Kingdoms]] with exception of [[Dorne]] had bowed to him, Aegon had the Aegonfort built into the [[Red Keep]] and his [[dragon]] [[Balerion]] used his fire to forge the swords of Aegon's enemies into the [[Iron Throne]].<ref>"[[Aegon, First of His Name]]"</ref>
+
+==In the books==
+[[Image:Aegonfort becomes Red Keep.png|thumb|right|200px|The Aegonfort is built into the [[Red Keep]].]]
+In ''The World of Ice & Fire'', the Aegonfort was a sloppy confusion of earth, wood and brick with a fifty foot wooden palisade built around it.
+
+Aegon defeated a dozen castles in the vicinity of [[Blackwater Bay]] and commanded the defeated lords to attend him at Aegonfort, atop what would become Aegon's High Hill. There, they placed their swords at his feet, and he confirmed them in their lands and titles.
+
+Originally, the hills at the mouth of the Blackwater had largely empty, with only a small fishing village on the riverbank. Wars passed over this disputed border region so often that, apparently, no one ever tried to build a major port there before, despite its ideal location.  Aegon's armies and camp followers started throwing up temporary wooden buildings as a shantytown around the fort almost as soon as it was constructed.  By the end of the Conquest two years later, it had already grown into a bustling boom town - of hastily built wooden structures and mud streets.  After Aegon was crowned king by the High Septon at the end of the Conquest, he declared that he would build a great new royal capital around the Aegonfort:  [[King's Landing]].  While the city rapidly mushroomed in size around the Aegonfort, it simply grew haphazardly from the original shantytown, with no central planning whatsoever, and it would be many decades before these errors in urban planning were addressed (if at all).  
+
+In 35 AC, Aegon realized that the fort was not suited to be the seat of a king. He moved his family back to [[Dragonstone (island)|Dragonstone]], and had the Aegonfort burned to the ground. Construction began on the castle that would be known as the [[Red Keep]] - though Aegon himself only lived to see the first foundations of it set, as he died of old age only two years later.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+[[Category:Castles of the Crownlands]]
+[[Category:House Targaryen]]
+
+<!--Languages-->
+[[fr:Fort-Aegon]]
+[[ru:Эйгонфорт]]

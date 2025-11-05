@@ -1,0 +1,78 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Blackfyre.svg
+| Link  = House Blackfyre
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Blackfyre
+| Image       = History and Lineages Blackfyre.jpg
+| Birth       = [[183 AC]]{{Dateref|Aegon and Aemon Blackfyre}}<br>[[Westeros]]{{Con|AWOIAF}}
+| Death       = [[196 AC]]{{Dateref|Battle of Redgrass Field}} (aged 13)<br>[[Redgrass Field]], the [[Crownlands]]{{Ref|GOT104}}
+| House       = [[House Blackfyre|Blackfyre]]{{Ref|GOT104}}
+| Affiliation = 
+| Titles      = 
+| AKA         = 
+| Culture     = [[Valyrians|Valyrian]]{{Ref|GOT104}}
+| Religion    = 
+| Father      = {[[Daemon Blackfyre]]}{{Ref|GOT104}}
+| Mother      = {[[Rohanne of Tyrosh]]}{{Ref|H&L803}}{{Note|The prop book ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]'' stated that [[Daemon Blackfyre]]'s wife was a commoner named "[[Serena Blackfyre|Serena]]." Later, the ''[[Histories & Lore]]'' short "[[The Blackfyres]]" mentioned that King [[Daeron II Targaryen|Daeron]] arranged a marriage for Daemon, referencing [[Rohanne of Tyrosh]] who was introduced in book-canon after the ''Lineages'' book was written.}}
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Aegon Blackfyre''' was the firstborn son of [[Daemon Blackfyre]], a legitimized [[bastard]] son of King [[Aegon IV Targaryen]].
+
+==Biography==
+===Background===
+Aegon Blackfyre was the firstborn son of Daemon Blackfyre, a legitimized bastard son of King Aegon IV Targaryen and his cousin [[Daena Targaryen]]. He had three brothers: [[Aemon Blackfyre|Aemon]], his twin, as well as [[Daemon Blackfyre (son of Daemon)|Daemon Blackfyre]] and [[Haegon Blackfyre]].{{Ref|GOT104}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+Aegon, along with his siblings, is mentioned in the [[House Targaryen]] entry of the book ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]''.{{Ref|GOT104}}
+
+==Family==
+{{Blackfyre tree}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Aegon's background is the same. He was his father's heir, and squired for him with his twin brother Aemon.
+
+Aegon was killed in the [[Battle of Redgrass Field|Battle of the Redgrass Field]] alongside his father and Aemon.
+
+==Appearances==
+*{{GOT|Cripples, Bastards, and Broken Things}} {{Text}}
+*{{GOT|A Golden Crown}} {{Text}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Blackfyre/A Knight of the Seven Kingdoms}}
+
+<!--Categories-->
+{{DEFAULTSORT:Blackfyre, Aegon}}
+[[Category:Crownlanders]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Members of House Blackfyre|Aegon Blackfyre]]
+[[Category:Squires]]
+
+<!--Languages-->
+[[de:Aegon Schwarzfeuer]]
+[[fr:Aegon Feunoyr]]
+[[ru:Эйгон Блэкфайр]]
+[[uk:Еґон Чорножар]]
+[[zh:伊耿·黑火]]

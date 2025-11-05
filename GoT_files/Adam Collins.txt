@@ -1,0 +1,43 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Adam Collins.jpg
+| Birth   = Nottingham, England
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[Game of Thrones]]''<br>''[[House of the Dragon]]''
+| Season  = ''Game of Thrones'':<br>[[Game of Thrones: Season 8|8]]<br>''House of the Dragon'':<br>[[House of the Dragon: Season 1|1]]
+| Credits = 3 episodes {{Below|Credits}}
+| First   = "[[The Bells]]"
+| Last    = 
+}}
+'''Adam Collins''' is an English stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 8|eighth season]] episode "[[The Bells]]".
+
+In ''[[House of the Dragon]]'', he was a stunt performer in the [[House of the Dragon: Season 1|first season]] episodes "[[King of the Narrow Sea (episode)|King of the Narrow Sea]]" and "[[The Lord of the Tides]]".
+
+==Credits==
+===Stunts===
+====''[[Game of Thrones]]''====
+{{Game of Thrones: Season 8|||||yes}}
+
+====''[[House of the Dragon]]''====
+{{House of the Dragon: Season 1||||yes||||yes}}
+
+==See also==
+*{{IMDb
+|# = 5143645}}
+*{{Twitter
+|# = adamevo1}}
+*{{Instagram
+|# = adamcollins_stunts}}
+*{{Facebook
+|# = AdamCollinsActor}}
+*{{YouTube
+|# = channel/UCNPbWLPaxuddzQp5Fy2OVDQ}}
+*{{Vimeo
+|# = user32757147}}
+{{DEFAULTSORT:Collins, Adam}}
+[[Category:Stunt performers of Game of Thrones]]
+[[Category:Stunt performers of House of the Dragon]]

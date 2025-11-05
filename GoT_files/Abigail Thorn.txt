@@ -1,0 +1,38 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Abigail Thorn.jpg
+| Birth   = April 24, 1993 {{Age|1993|4|24}}<br>Newcastle upon Tyne, England, United Kingdom
+| Death   = 
+| Role    = [[Sharako Lohar]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]] {{*}} [[House of the Dragon: Season 3|3]]
+| Credits = "[[The Queen Who Ever Was]]"
+| First   = 
+| Last    = 
+}}
+'''Abigail Thorn''' (born 24 April 1993) is an English YouTuber, actress, and playwright.
+
+Thorn plays [[Triarchy]] commander [[Sharako Lohar]] in the [[House of the Dragon: Season 2|second season]] of ''[[House of the Dragon]]''.<ref>https://twitter.com/RedanianIntel/status/1690737622887337984</ref>
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 2||||||||yes}}
+{{House of the Dragon: Season 3}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{WP}}
+*{{IMDb|#=9651588}}
+*{{YouTube|#=@PhilosophyTube}}
+*{{Twitter|#=PhilosophyTube}}
+*{{Instagram|#=theabigailthorn}}
+
+<!--Categories-->
+{{DEFAULTSORT:Thorn, Abigail}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Abigail Thorn]]

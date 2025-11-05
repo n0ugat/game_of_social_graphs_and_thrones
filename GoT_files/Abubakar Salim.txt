@@ -1,0 +1,38 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Abubakar Salim.jpg
+| Birth   = January 7, 1993 {{Age|1993|1|7}}<br>Welwyn Garden City, Hertfordshire, England
+| Death   = 
+| Role    = [[Alyn of Hull]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]] {{*}} [[House of the Dragon: Season 3|3]]
+| Credits = 7 episodes {{Below|Credits}}
+| First   = "[[A Son for a Son]]"
+| Last    = 
+}}
+'''Abubakar Salim''' (born 7 January 1993) is an English actor and video game developer.
+
+In ''[[House of the Dragon]]'', he plays [[Alyn of Hull]] in the [[House of the Dragon: Season 2|second season]].<ref name="Variety">[https://variety.com/2023/tv/news/house-of-the-dragon-alys-rivers-season-2-1235592500/ 'House of the Dragon' Season 2 Casts Alys Rivers and Three More Characters | ''Variety'']</ref>
+
+==Credits==
+===Starring===
+{{House of the Dragon: Season 2|yes|yes||yes||yes|yes|yes}}
+{{House of the Dragon: Season 3||||yes}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{WP}}
+*{{IMDb|#=5349813}}
+
+<!--Navboxes-->
+{{House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Salim, Abubakar}}
+[[Category:Starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Abubakar Salim]]

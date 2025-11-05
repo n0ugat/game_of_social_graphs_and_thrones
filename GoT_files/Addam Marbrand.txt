@@ -1,0 +1,89 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = House Marbrand.svg
+| Link  = House Marbrand
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Lannister
+| Image       = Addam Marbrand.jpg
+| Birth       = [[Ashemark]]
+| Death       = 
+| House       = [[House Marbrand|Marbrand]]
+| Affiliation = [[House Lannister]]
+| Titles      = [[Knighthood|Ser]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Westerlands|Westermen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = [[Damon Marbrand]]{{Con|asoiaf}}
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 1|1]]
+| Appearances = "[[Fire and Blood]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[B.J. Hogg]]
+}}
+{{Quote|No truces. We can't afford to look weak. We should march on them at once.|Addam Marbrand|Fire and Blood}}
+Ser '''Addam Marbrand'''{{Con|ASOIAF}} is the heir of Lord [[Damon Marbrand|Damon]] of [[House Marbrand]] and a bannerman of [[House Lannister]].
+
+==Biography==
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+A messenger reports news from Ser Addam's outriders to [[Tywin Lannister]]. Ser Addam's scouts have noticed [[Robb Stark]]'s forces have crossed the [[Neck]] and are moving south along the east bank of the [[Green Fork]] of the [[Trident]].{{Ref|GOT108}} Tywin's forces later engage and defeat the Stark force in the [[battle on the Green Fork]]. The Stark army is much smaller than the scouts reported because they separated at the [[Twins]].{{Ref|GOT109}}
+
+Ser Addam is present for a strategy meeting with Tywin following the defeat in the [[Battle of Whispering Wood]] by the main portion of the Stark army. Also present are [[Tyrion Lannister|Tywin]], [[Kevan Lannister|Kevan]], [[Leo Lefford]], [[Harys Swyft]] and another bannerman, as well as Tywin's servant and several Lannister officers. He asks about [[Stannis Baratheon|Stannis]] and [[Renly Baratheon]], and Kevan confirms that both Baratheon brothers have declared against the Lannisters. Later he dismisses suing for a truce so as to not appear weak, and proposes that they march against the Starks instead. Tywin dismisses his bannermen and then announces plans to relocate to [[Harrenhal]].{{Ref|GOT110}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Ser Addam Marbrand is one of the chief knights in the service of Tywin. He is a rangy man, with long, dark copper hair and wears a smoke grey cape.
+
+During his youth, Addam was a page at [[Casterly Rock]] and a childhood friend of [[Jaime Lannister]].
+
+Similarly to the show, Addam attends the council that Tywin holds after the recent defeats at the [[Battle of Whispering Wood|battle in the Whispering Wood]] and the [[Battle of the Camps]]. He is against asking for a truce, stating that two battles do not make a war, and volunteers to try his own steel against "[[Robb Stark|that Stark boy]]". Tywin orders his host to [[Harrenhal]], dispatching Addam's outriders to screen their movements.
+
+Ser Addam is one of Tywin's bannermen present at Harrenhal and departs the ruined castle a day before his liege lord. He survives the Battle of the Fords and joins Tywin in the march south when the latter receives word of [[Stannis Baratheon]]'s imminent attack. After the [[Battle of the Blackwater]], Addam is made Commander of the [[City Watch of King's Landing|City Watch]]. Tyrion considers this a shrewd move on his father's part, as like his brother Jaime, Addam is both a skilled commander and has the charisma to convince men to follow him into battle.
+
+After Jaime returns to King's Landing, he practices with Addam for a while, but fearing that Addam may get drunk and reveal what poor fighter Jaime is now, he moves to practice with [[Ilyn Payne]].
+
+At Tywin's orders, Addam continues the search for the missing [[Tyrek Lannister]] who disappeared during the [[Riots in King's Landing|riots of King's Landing]], but has no more success than his predecessors.
+
+Addam accompanies Jaime in his mission to resolve the siege of Riverrun. He is quite content to leave the City Watch and command the outriders.
+
+==Appearances==
+*{{GOT|The Pointy End}} {{Mentioned}}
+*{{GOT|Fire and Blood}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Marbrand}}
+
+<!--Categories-->
+{{DEFAULTSORT:Marbrand, Addam}}
+[[Category:Bannermen of House Lannister]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Knights]]
+[[Category:Members of House Marbrand|Addam Marbrand]]
+[[Category:Westermen]]
+
+<!--Languages-->
+[[de:Addam Marbrand]]
+[[es:Addam Marbrand]]
+[[it:Addam Marbrand]]
+[[nl:Addam Marbrand]]
+[[ru:Аддам Марбранд]]
+[[zh:亚当·马尔布兰]]

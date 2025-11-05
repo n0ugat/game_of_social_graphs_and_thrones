@@ -1,0 +1,28 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Aaron Schmidt.jpg
+| Birth   = 
+| Death   = 
+| Role    = Line producer
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]]
+| Credits = 
+| First   = 
+| Last    = 
+}}
+'''Aaron Schmidt''' is a line producer on the [[House of the Dragon: Season 2|second season]] of ''[[House of the Dragon]]''.
+
+==Credits==
+===Line producer===
+*{{HOTD|Season 2}}<ref>https://productionlist.com/production/house-dragon-season-2/</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb|#=2087164}}
+
+<!--Categories-->
+{{DEFAULTSORT:Schmidt, Aaron}}
+[[Category:Producers of House of the Dragon]]

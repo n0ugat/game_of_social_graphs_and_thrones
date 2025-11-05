@@ -1,0 +1,36 @@
+{{Episode
+| Title    = Adding Fuel to the Fire:<br><small>A Season 1 Recap</small>
+| Type     = Podcast
+| Image    = TOGOTPHOTD114.jpg
+| Season   = 1
+| Episode  = 14
+| Date     = October 26, 2022{{Listref|TOGOTPHOTD}}
+| Runtime  = 58:13{{HBOref|TOGOTPHOTD}}
+| Writer   = 
+| Director = 
+| Year     = 
+| Previous = "[[House of the Dragon: Ep. 10 “The Black Queen”|''House of the Dragon'': Ep. 10 “The Black Queen”]]"{{Listref|TOGOTPHOTD}}
+| Next     = "[[The Sounds of Westeros with Ramin Djawadi]]"{{Listref|TOGOTPHOTD}}
+}}
+"'''Adding Fuel to the Fire: A Season 1 Recap'''"{{HBOref|TOGOTPHOTD}} is the fourteenth episode of the [[The Official Game of Thrones Podcast: House of the Dragon: Season 1|first season]] of ''[[The Official Game of Thrones Podcast: House of the Dragon]]''. It is the fourteenth episode of the series overall. It was released on October 26, 2022.
+
+==Description==
+{{Description|TOGOTPHOTD114}}
+
+==Gallery==
+<gallery bordersize="none">
+HOTD: Official Podcast “Adding Fuel to the Fire: A Season 1 Recap” / House of the Dragon (HBO)
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{HBO Max|video/watch/PROM708268/PROM1182001|The Official Game of Thrones Podcast - House of the Dragon - Adding Fuel to the Fire: A Season 1 Recap}}
+
+<!--Navboxes-->
+{{The Official Game of Thrones Podcast: House of the Dragon}}
+
+<!--Categories-->
+[[Category:Episodes of The Official Game of Thrones Podcast: House of the Dragon: Season 1| 14]]
+[[Category:Episodes released in 2022|A.26]]

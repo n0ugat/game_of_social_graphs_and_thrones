@@ -1,0 +1,28 @@
+{{Crew
+|Image = Adam Behan.jpg
+|dateofbirth = 
+|birthplace = {{WPS|Ireland}}
+|job = Stunt Rider
+|imdb = https://www.imdb.com/name/nm7728725/
+|twitter = https://twitter.com/adamcbehan/}}
+'''Adam Behan''' is an Irish stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt rider in the [[Game of Thrones: Season 8|eighth season]] episode "[[The Iron Throne]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 8||||||yes}}
+
+==See also==
+*{{IMDb
+|# = 7728725}}
+*{{Twitter
+|# = adamcbehan}}
+*{{Instagram
+|# = adam_behan}}
+*{{Facebook
+|# = adam.behan.9}}
+*{{Linkedin
+|# = /in/adam-behan-35536b93}}
+{{DEFAULTSORT:Behan, Adam}}
+[[Category:Stunt performers of Game of Thrones]]

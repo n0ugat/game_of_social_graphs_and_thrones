@@ -1,0 +1,219 @@
+{{Canonicity|Canon}}
+{{Spoiler|AKOTSK}}
+{{OtherUses|maester|Aemon (disambiguation)}}
+{{Heraldry
+| Leftimage  = House Targaryen.svg
+| Leftlink   = House Targaryen
+| Image2     = Order of Maesters.svg
+| Link2      = Order of Maesters
+| Rightimage = Night's Watch.svg
+| Rightlink  = Night's Watch
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = Aemonepisode5.png
+| Birth       = Aemon Targaryen{{Ref|GOT109}}<br>[[202 AC]]{{Dateref|Aemon Targaryen}}<br>[[Red Keep]], [[King's Landing]]{{Con|AWOIAF}}
+| Death       = [[302 AC]]{{Dateref|Game of Thrones: Season 5}} (aged 100)<br>[[Castle Black]], the [[Gift]]{{Ref|GOT507}}
+| House       = [[House Targaryen|Targaryen]]{{Ref|GOT109}} {{C|renounced}}
+| Affiliation = [[Order of Maesters]]{{Ref|GOT103}}<br>[[Night's Watch]]{{Ref|GOT103}}
+| Titles      = [[Prince]]{{Ref|GOT109}} {{C|formerly}}<br>Maester{{Ref|GOT103}}
+| AKA         = 
+| Culture     = [[Valyrians|Valyrian]]{{Ref|GOT109}}
+| Religion    = 
+| Father      = {[[Maekar Targaryen|Maekar I Targaryen]]}{{Ref|GOT109}}
+| Mother      = {[[Dyanna Dayne]]}{{Ref|GOT507}}
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = {[[Daeron Targaryen (son of Maekar)|Daeron Targaryen]]}<br>{[[Aerion Targaryen]]}<br>{[[Aegon Targaryen (son of Maekar)|Aegon V Targaryen]]}
+| Arms        = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 1|1]] {{*}} [[Game of Thrones: Season 3|3]] {{*}} [[Game of Thrones: Season 4|4]] {{*}} [[Game of Thrones: Season 5|5]]
+| Appearances = 11 episodes {{Below|Appearances}}
+| First       = "[[Lord Snow]]"
+| Last        = "[[The Gift]]"
+| DeathEp     = "The Gift"
+| Actor       = [[Peter Vaughan]]
+}}
+{{Dialogue a-b|Jon Snow|You're Aemon <u>Targaryen</u>?|Aemon|I am a maester of the Citadel, bound in service to Castle Black and the Night's Watch. I will not tell you to stay or go. You must make that choice yourself, and live with it for the rest of your days — as I have.|Aemon reveals his true identity to [[Jon Snow]].|Baelor}}
+'''Aemon''' was the [[Order of Maesters|maester]] at [[Castle Black]] in service of the [[Night's Watch]]. He was among [[Lord Commander of the Night's Watch|Lord Commander]] [[Jeor Mormont]]'s closest advisors.
+
+He was born '''Aemon Targaryen'''{{Note|[[High Valyrian]]: ''Aemon Targārien''}} and was the last known Targaryen in [[Westeros]]. He was the great-uncle of [[Daenerys Targaryen]], and unbeknownst to him, the great-great uncle of [[Jon Snow]]. Aemon's origins have long been forgotten by most, as he remained dedicated to his vows as a Maester and a brother of the Night's Watch for many decades. 
+
+==Biography==
+===Background===
+Aemon was born into [[House Targaryen]]. He was the third son of King [[Maekar Targaryen|Maekar I]] and Lady [[Dyanna Dayne]]. Originally known as Prince Aemon Targaryen, he was not his father's eldest son, so he eventually joined the [[Order of Maesters]]. Aemon gave up all rights to inheritance when he took his vows, which also included relinquishing his surname "Targaryen".{{Ref|GOT109}}
+
+Aemon's older brothers Daeron and, [[Aerion Targaryen|Aerion]], later died, however. Despite being a sworn maester, there were those who felt that the crown should pass to Aemon. Aemon refused the throne and it passed to his younger brother, who became King [[Aegon Targaryen (son of Maekar)|Aegon V]]. Aegon later became known as "Aegon the Unlikely" due to the unlikely chain of events causing a fourthborn prince to become king. Aemon then joined the [[Night's Watch]] to further remove himself from the political intrigues of the royal court and from those who wished to set him up as a rival against his brother.{{Ref|GOT109}}
+
+Many years later, Aegon V died in the [[fire of Summerhall]] and the crown passed to his son, Aemon's nephew [[Aerys II Targaryen|Aerys II]], who later became known as "The Mad King". Aerys's growing insanity ultimately led to the outbreak of [[Robert's Rebellion]], which saw House Targaryen deposed and practically exterminated. Upon hearing about the brutal deaths of his family in [[King's Landing]] during the rebellion, Aemon bore great sadness which never left him.{{Ref|GOT109}}
+
+Around one hundred years old, Aemon is thought to be one of the oldest living men in Westeros, though he has retained all of his wits and his mind is still very sharp. He has served as the maester at Castle Black for many decades.<ref>[http://viewers-guide.hbo.com/game-of-thrones/season2/#!/guide/houses/targaryen/aemon-targaryen/ HBO viewers guide, season 2 guide to houses, House Targaryen - Aemon Targaryen entry]</ref>
+
+Aemon has long since gone blind due to old age. It is not clear when he went blind (he was not born blind), though he has stated that he was already old and blind during Robert's Rebellion.{{Ref|GOT109}} As a man of learning, he laments not being able to read anymore, even though Castle Black ironically has an ancient and well-stocked library consisting of thousands of books.{{Ref|GOT409}} Because one of a maester's basic duties is to handle messages sent to and from a castle by messenger-[[raven]]s, Aemon has to rely on the assistance of others to physically read the letters for him.{{Ref|GOT108}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+[[File:Lord Snow mormont 1x03.png|thumb|Aemon and Jeor discuss the coming winter.]]
+After [[Tyrion Lannister]] has arrived at [[Castle Black]], Maester Aemon asks him to urge his sister, Queen [[Cersei Lannister]], to send more men to the [[Night's Watch]]: there is a severe lack of men to defend the [[Wall]]. They discuss the coming winter, and Aemon assures Tyrion that the next winter will be long and terrible. [[Lord Commander of the Night's Watch|Lord Commander]] Mormont is worried about rumors of White Walkers abroad [[Beyond the Wall|north of the Wall]]. He sends [[Benjen Stark]] ranging [[beyond the Wall]] to investigate.{{Ref|GOT103}}
+
+[[File:Aemon-Castle-Black.jpg|thumb|Aemon charges the recruits with their duties.]]
+When [[Jon Snow]] and the other new recruits are done with their first training, Maester Aemon gives the new stewards their assignments. Jon is to become [[Jeor Mormont]]'s steward, which is a great disappointment to Jon: he had hoped to become a ranger. [[Samwell Tarly]] is assigned as Aemon's steward, to help physically read letters delivered by messenger-ravens to the blind old man. Aemon chides Jon that he swore a vow to serve the Watch in any capacity, then departs.{{Ref|GOT107}} The bodies of two of [[Othor|the]] [[Jafer Flowers|rangers]] who accompanied Benjen are found near the [[Godswood]]. Jeor plans to have Aemon examine them, but they return as [[wight]]s and have to be burned before he does so.{{Ref|GOT108}}
+
+[[File:Aemon 1x09.jpg|thumb|Aemon advises Jon Snow.]]
+When Jon hears about his "father" [[Eddard Stark]]'s imprisonment, he is torn between his loyalty to the Night's Watch and his love for his family. Maester Aemon intercepts Jon as he is preparing to desert the Watch. Aemon says he is aware of Jon's struggle and reveals his Targaryen heritage to him, recounting the deaths of his nephew Aerys II, Aerys's son [[Rhaegar Targaryen|Rhaegar]], and Rhaegar's two [[Rhaenys Targaryen (daughter of Rhaegar)|young]] [[Aegon Targaryen (son of Elia Martell)|children]]; neither Aemon nor Jon are aware that Rhaegar and his children were Jon's true father and half-siblings.{{Ref|GOT610}} He sat and waited on the [[Wall]] in utter rage while he heard about his [[Sack of King's Landing|family being butchered]] during [[Robert's Rebellion]] and the two survivors ([[Viserys Targaryen (son of Aerys II)|Viserys]] and [[Daenerys Targaryen|Daenerys]]) fleeing into [[exile]], and did nothing because having joined the Watch, his duty was with his brothers there and no longer with his House. Aemon explains that this was a difficult decision, yet he had to make it and that one must live with the consequences of one's choices for the rest of one's life.{{Ref|GOT109}} Maester Aemon remains at Castle Black during the Lord Commander's great ranging.{{Ref|GOT110}}
+
+===[[Game of Thrones: Season 3|''Game of Thrones'': Season 3]]===
+Maester Aemon is still at [[Castle Black]] when [[Samwell Tarly]] returns with [[Gilly]] after [[Mutiny at Craster's Keep|escaping]] from [[Craster's Keep]]. Aemon at first advises Sam that he swore an oath when joining the Night's Watch, believing that Sam fathered [[Sam|Gilly's son]]. Samwell corrects him that he is not the father, but that the girl is one of [[Craster]]'s daughter-wives, which engenders sympathy in Aemon.{{Ref|GOT310}}
+
+[[File:AemonDictatesALetterToSam.png|thumb|Aemon orders Samwell to inform the nobility of Westeros of the conflict beyond the Wall.]]
+Because it is too dangerous beyond the Wall, Aemon relents and offers shelter to Gilly in Castle Black for the time being. Gilly thanks him and calls him "my lord", but Aemon insists that he gave up being a lord many years ago (when he joined the Order of Maesters and left House Targaryen). With the matter settled, Aemon commands Samwell to make sure all of the messenger-[[raven]]s are well-fed, and tells him to take a quill and parchment: he dictates to Samwell a request for help which will be sent to all the major lords throughout the [[Seven Kingdoms]], imploring them for aid against the threat of the [[White Walkers]].{{Ref|GOT310}}
+
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+[[File:Aemon_part_of_jon_s_judging.jpg|thumb|Aemon presides over Jon's hearing.]]
+Maester Aemon is one of the five black brothers to "judge" [[Jon Snow]] for his actions during his time with the [[Free Folk|wildlings]]. Jon hides nothing of his actions, neither his murder of [[Qhorin]] or his affair with [[Ygritte]]. Ser [[Alliser Thorne]], the acting Commander of the Night's Watch, and the recently arrived [[Janos Slynt]] believe that Jon should be executed for his actions and for the breaking of his vows, but Aemon defends him, saying that Jon was merely following Qhorin's orders and that he isn't the first to have broken his vow of chastity. Ser Alliser points out that Jon has quite literally slept with the enemy.{{Ref|GOT401}}
+
+Jon counters with all the information that he had learned while among the wildlings, such as [[Mance Rayder]]'s strategy of attacking the Wall from the North and the South, and demands that they either kill him or let him go. Aemon tells him that they have no intention of executing him and Jon leaves. Alliser reprimands Aemon for having overruled him but the maester answers that he knows when a man is lying and when he is telling the truth. When asked how he acquired such insight, Aemon wryly replies that he grew up in [[King's Landing]].{{Ref|GOT401}}
+
+Maester Aemon is present when [[Olly]] brings news of the massacre that occurred in his village. Many black brothers present want to retaliate, but Aemon reminds everyone that there are just over 100 men at Castle Black (including himself). He insists that defending Castle Black is the priority and they cannot afford to lose a single man. Jon Snow reluctantly agrees, reminding everyone that he knows from his time infiltrating the wildlings that they are ''trying'' to lure as many men out of Castle Black as possible, to weaken it for the main assault from the north.{{Ref|GOT403}}
+
+[[File:Aemon in library.png|thumb|Aemon in the library with Sam.]]
+On the eve of the [[battle for the Wall]], Maester Aemon confronts Sam in Castle Black's library. Aemon remarks on the ironies of old age: the library is well-stocked with thousands of books, but his blind eyes can no longer read them. They discuss some of the propaganda surrounding wildlings before discussing Sam's feelings for Gilly. Aemon shares with Sam the same warning he gave to Jon, that love is the death of duty.{{Ref|GOT409}}
+
+Aemon implies that he would have become [[King of the Andals and the Rhoynar and the First Men|King of the Andals and the First Men]] if he'd been willing to break his vows. He also mentions that as a royal prince, he was sought after by a great many women in his youth – but there was only one whose advances he accepted. Aemon reprimands Sam for not realizing his elders were young once too. Although Aemon says that his memories of that woman are in some ways more real to him than Sam is (given that he'll never really know what Sam looks like), he lets the subject drop and says that he and Sam should both focus on their duties.{{Ref|GOT409}}
+
+[[File:Aemon speech.png|thumb|Aemon delivers a eulogy before burning the dead.]]
+Following the arrival of [[Stannis Baratheon]], Maester Aemon leads the eulogy for the black brothers that gave their lives defending Castle Black. When Jon Snow speaks to [[Tormund]], the captive wildling curiously asks why he was given medical treatment. Jon tells Tormund that it is Aemon's duty as a maester to treat anyone who is wounded, friend or foe.{{Ref|GOT410}}
+
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+Maester Aemon presides over the [[Elections#Night's Watch|choosing]] of the 998th [[Lord Commander of the Night's Watch]]. He allows people to speak for their candidates before the voting begins. When Sam asks to speak and is mocked by [[Janos Slynt]], Sam reveals that he had found Janos hiding in a cellar during the [[battle for the Wall]]. As Sam continues to humiliate Lord Janos to the delight of many black brothers, Maester Aemon smiles at his steward's boldness. When all of the votes are counted, it is revealed that there is a tie between [[Jon Snow]] and Ser [[Alliser Thorne]]. Aemon is the last to vote and breaks the tie by voting for Jon.{{Ref|GOT502}}
+
+Jon Snow notices Maester Aemon's absence when he presides over his first meeting of the Night's Watch as Lord Commander and questions Sam. According to Sam, Aemon does not feel well and apologizes for not being able to attend. Jon tells Sam to take good care of the old maester.{{Ref|GOT503}}
+
+[[File:Aemon Samwell Kill the Boy.jpg|thumb|Samwell informs Aemon of Daenerys.]]
+Sam reads him a letter from Slaver's Bay detailing the recent activities of [[Daenerys Targaryen]], Aemon's great-niece. In spite of his dedication to his vows, Aemon muses with sadness at the injustice of Daenerys fighting her battles alone, with her last relation "useless and dying" thousands of miles away. Jon Snow then arrives, asking for Aemon's advice on a plan he's been devising. Jon asks how he's feeling, and Aemon sardonically points out he feels like a hundred-year-old man slowly freezing to death at the Wall. Aemon bluntly tells him to "kill the boy, and let the man be born", that Snow must make mature decisions that will save lives in spite of the unpopularity and dissent they will bring.{{Ref|GOT505}}
+
+[[File:Gilly_Aemon_The_Gift_.jpg|thumb|Gilly tends to Maester Aemon on his death bed.]]
+Aemon's old age catches up to him and he takes to bed as he grows weaker, tended by [[Gilly]] and Sam. His mind starts to wander, and he imagines conversations with his late brother "[[Aegon Targaryen (son of Maekar)|Egg]]" before he passes away. Sam later gives a eulogy as Aemon's body is cremated on a funeral pyre.{{Ref|GOT507}}
+
+===[[Game of Thrones: Season 8|''Game of Thrones'': Season 8]]===
+When Tyrion is urging Jon to [[Assassination of Daenerys Targaryen|assassinate Daenerys]], Jon struggles with the idea due to his love for Daenerys. He reflects on Aemon's wisdom, "Love is the death of duty," telling Tyrion that Maester Aemon told him this long ago. Tyrion reverses Aemon's words to tell Jon, "Sometimes, duty is the death of love."{{Ref|GOT806}}
+
+==Personality==
+Aemon Targaryen was an extremely wise old man, and a source of guidance at the Wall for anyone who approached him. Having lived for over a hundred years, Aemon has become aware of the struggles of men of the Night's Watch, in particular the significance of one's duty and dedication, primarily because he has faced a major struggle of such kind in his life. As a Targaryen, Aemon's refusal of the Iron Throne shows that he has no interest in personal power and would rather devote himself to knowledge and the guidance of others. He was aware that the Night's Watch was not what it used to be, and understood the severe weaknesses and threats that came with this fact. Aemon possessed a very sly nature when it suited him, and could tell quite efficiently if someone was lying - a skill he apparently acquired while growing up in King's Landing. Aemon possessed a dry wit, remarking that if every ranger who slept with a girl were beheaded, then the Wall would be garrisoned by headless men.
+
+Clearly, Aemon does not suffer from the same Targaryen madness as the likes of [[Aerys II Targaryen|Aerys]] and [[Viserys Targaryen (son of Aerys II)|Viserys]] did, since his mind remained completely and totally sharp and clear throughout his entire life, perhaps a tribute to the fact that he rejected positions of extreme power, whereas the Mad King and Viserys coveted extreme power. However, Aemon clearly had a deep and personal love for his family, and cited that the death of that family was absolutely devastating for him - he was faced with an extraordinary decision when he learned of the [[Robert's Rebellion|defiance]] and [[Sack of King's Landing|destruction of House Targaryen]], between his family loyalty and his oath to the Night's Watch. He hints that he still deeply regrets his decision, but knows that he could have done very, very little. All the same, Aemon's love for his family shows with his reference to his father as 'Maekar, the First of His Name' in recognition of his ascendance to the Iron Throne, and continuing to refer to his brother Aegon as 'Egg'. He was particularly appalled by the slaughter of children, discussing with rage the deaths of Rhaegar's children. When he learned that his great-niece Daenerys was alive in Meereen, he once again showed how much he loved his family as he lamented that Daenerys is alone and he is too old and sickly to help her.
+
+Aemon was an intelligent man who loved reading, and lamented the irony of being blind and surrounded by so many books. He became an extremely close friend of Samwell Tarly, whom he (rather uniquely) didn't judge based on his cowardice and obesity, and was constantly respectful of him. Their friendship was so powerful that Sam didn't want Aemon to die, and he gave a heartfelt eulogy upon Aemon's death.
+
+==Quotes==
+===Spoken by Aemon===
+{{Quote|The [[House Stark|Starks]] are always right, eventually: winter is coming. This one will be long, and dark things will come with it.|Aemon to [[Tyrion Lannister]]|Lord Snow}}
+
+{{Quote|The [[Night's Watch]] is the only thing standing between the realm and what lies beyond, and it has become an army of undisciplined boys and tired old men. There are less than a thousand of us, now. We can't man the other castles on the [[Wall]]. We can't properly patrol the wilderness. We have barely enough resources to keep our lads armed and fed.|Maester Aemon to Tyrion Lannister|Lord Snow}}
+
+{{Quote|Love is the death of duty.|Maester Aemon to [[Jon Snow]]|Baelor}}
+
+{{Quote|We're all human. Oh, we all do our duty when there's no cost to it. Honor comes easy then. Yet, sooner or later in every man's life there comes a day when it's not easy. A day when he must choose.|Maester Aemon to Jon Snow|Baelor}}
+
+{{dialogue a-b-a-b-a|Maester Aemon|The gods were cruel when they saw fit to test my vow. They waited until I was old. What could I do when the ravens brought the news from the south? The ruin of my house. The death of my family. I was helpless, blind, frail, but when I heard they had killed my brother's [[Aerys II Targaryen|son]], and ''his'' poor [[Rhaegar Targaryen|son]], and the children. Even the [[Rhaenys Targaryen (daughter of Rhaegar)|little]] [[Aegon Targaryen (son of Elia Martell)|children]]!|Jon Snow|Who are you?|My father was [[Maekar Targaryen|Maekar, the First of his Name]]. My brother [[Aegon Targaryen (son of Maekar)|Aegon]] reigned after him, when I had refused the throne, and he was followed by his son [[Aerys II Targaryen|Aerys]], whom they called 'the Mad King'.|You're Aemon ''Targaryen?!''|I am a [[Order of Maesters|maester]] of the [[Citadel]], bound in service to [[Castle Black]] and the [[Night's Watch]]. I will not tell you... to stay or go. You must make that choice yourself, and live with it for the rest of your days. As ''I'' have.|Aemon reveals to Jon that he is a long-forgotten uncle of the Mad King, who unbeknownst to them both was Jon's grandfather.|Baelor}}
+
+{{Quote|If we beheaded every [[ranger]] who lay with a girl, the Wall would be manned by headless men.|Maester Aemon defends [[Jon Snow]] when he admits to breaking his vows.|Two Swords}}
+
+{{Dialogue a-b|Jon Snow|Do you intend to execute me or am I free to go?|Aemon|None of us are free. We are men of the Night's Watch. But we won't be taking your head today, Jon Snow. Go on.|Aemon to Jon Snow|Two Swords}}
+
+{{Dialogue a-b|Alliser Thorne|You always know when a man is telling a lie. How did you acquire this magical power?|Aemon|I grew up in [[King's Landing]].|Maester Aemon and [[Alliser Thorne]]|Two Swords}}
+
+{{Quote|Thousands of books, and no eyes to read them. Old age is a wonderful source of ironies, if nothing else.|Maester Aemon on his blindness.|The Watchers on the Wall}}
+
+{{Quote|They came to us from [[White Harbor]] and [[Barrowton]], from [[Fairmarket]] and [[King's Landing]]. From north and south, from east and west. They died protecting men, women, and children who will never know their names. It is for us to remember our brothers. We shall never see their like again...and now, their watch is ended.|Maester Aemon delivery the eulogy of those who died during the [[battle for the Wall]].|The Children}}
+
+{{Quote|A Targaryen alone in the world is a terrible thing.|Aemon about his great-niece [[Daenerys Targaryen|Daenerys]], the "last" scion of his house.|Kill the Boy}}
+
+{{Quote|You will find little joy in your command, but with luck, you'll find the strength to do what needs to be done. Kill the boy, Jon Snow. Winter is almost upon us. Kill the boy, and let the man be born.|Aemon to (unknowingly, his great-great nephew) Jon Snow|Kill the Boy}}
+
+{{Quote|[[Aegon Targaryen (son of Maekar)|Egg]]! I dreamed...that I was old...|Aemon's last words.|The Gift}}
+
+===Spoken about Aemon===
+{{Quote|His name was Aemon Targaryen. He came to us from [[King's Landing]]. A [[Order of Maesters|maester]] of the [[Citadel]], chained and sworn, and sworn Brother of the Night's Watch, ever faithful. No man was wiser, or gentler or kinder. At the Wall, a dozen [[Lord Commander of the Night's Watch|Lord Commander]]s came and went during his years of service, but he was always there to counsel them. He was the blood of the Dragon... but now his fire has gone out. And now his Watch is ended.|[[Samwell Tarly]] eulogizes Aemon at his funeral.|The Gift}}
+
+==Family==
+{{Targaryen tree (Game of Thrones)}}
+
+==In the books==
+[[File:Roman Papsuev - Maester Aemon.png|thumb|300px|right|Maester Aemon by Roman "Amok" Papsuev.©]]
+In the ''[[A Song of Ice and Fire]]'' novels, Maester Aemon is widely believed to be one of the oldest living men in all of [[Westeros]]. He is nearly a hundred years old in the first novel, and advances into his 102nd year by the third novel (corresponding to his appearance in Season 3). He has been on the [[Wall]] for almost seventy years and is known for his great wisdom, wise counsel and trusted judgment. He is the third son of King Maekar I Targaryen, and the older brother of King [[Aegon Targaryen (son of Maekar)|Aegon V Targaryen]] ("Egg" from the [[Dunk & Egg novellas]] by [[George R.R. Martin]]), the uncle of King Jaehaerys II Targaryen and thus the great-uncle of the Mad King and the great-great-uncle of [[Daenerys Targaryen]]. Aemon was actually offered the throne after the deaths of his elder brothers Daeron and Aerion, but declined on account of his vows, thus allowing Aegon V "the Unlikely" to assume the throne. Aemon then joined the Night's Watch in the hope that having taken oaths as both a member of the maesters and then the Night's Watch to forsake any claim to inheritance, no one would think of him as a legitimate heir to be used as political pawn against his younger brother. Despite being isolated at the Wall for many decades and unable to travel due to his increasing age, Aemon knew his great-grandnephew Prince [[Rhaegar Targaryen]] well because they regularly corresponded via messenger-raven, making Aemon's decision not to leave the Wall all the more painful.
+
+For the TV series, Jaehaerys II has been removed, with Aerys II being the son of Aegon V, thus the televised Aemon more closely related to Daenerys and Viserys, being their great-uncle instead of their great-great uncle.
+
+Aemon began training to be a maester when he was 9 or 10 years old, and finished his studies when he was 19, during the reign of his uncle King [[Aerys Targaryen (son of Daeron II)|Aerys I]] (Pycelle was only a baby at the time). The Dunk & Egg novellas begin about two years after Aemon left to train at the Citadel, so while he is alive in that timeframe he does not prominently appear (though his brothers do). When he received his chain of office, Aemon's father asked him to come to King's Landing to serve on his small council, but fearing that this would cause him to clash with the Grand Maester, Aemon chose instead to serve as at [[Dragonstone]]. Aemon joined the Night's Watch when he was 35, following the death of his father and succession of Aegon V, meaning that by the time Jon Snow joined the Night's Watch Aemon had been at the Wall for about 65 years.
+
+In the books, Lord Commander Jeor Mormont makes it clear to Jon Snow that he is fully aware that Aemon is actually a Targaryen. However, he saw no reason to tell Robert Baratheon, as the rules of the Night's Watch are that any member sheds all previous family ties, and the Night's Watch are their family now. Further, Aemon was already a blind old man, and a respected member of the Night's Watch for decades. Aemon took no particular action in support of House Targaryen when it was overthrown by Robert, so Mormont was confident that Aemon held true to his vows and no longer considered himself a Targaryen.
+
+Other characters later point out that it is somewhat unusual that Aemon, a respected member of the Order of Maesters for decades, was never promoted to the rank of [[Archmaester]], to become part of the ruling [[Conclave]] in [[Oldtown]]. It is speculated that the Conclave was wary about making a member of the royal family an Archmaester, given the entanglements this might create with the Targaryens. Whatever the case, the entire reason that Aemon joined the Night's Watch was to move as far away from the centers of power as possible, so it is probable that even if he were asked he would have declined a promotion to Archmaester at the Citadel.
+
+Aemon is 99 years old in the first novel. Actor Peter Vaughan was 88 years old during Season 1. While portraying the blind Aemon, Vaughan is himself partially blind.
+
+Aemon should have the rare and distinctive purple-colored irises of House Targaryen, though no one ever mentions it - and they might deduce his secret past as a Targaryen from this. More probably, his blind eyes are apparently so white with cataracts that no one can tell what their original color was.
+
+In the novels, Aemon does not automatically take Sam as his personal steward, but is persuaded to do so by Jon Snow.
+
+In ''A Feast for Crows'', Aemon doesn't perish in Castle Black. Instead, Lord Commander Snow sends him to the [[Citadel]] in [[Oldtown]] via Braavos, along with Sam and Gilly, fearing that [[Melisandre]] may sacrifice him for his "king's blood".
+
+Aemon grows weaker and feverish during the journey and his mind starts to wander not just to his youth with Egg but also dreams of [[dragon]]s and Daenerys Targaryen, cursing his age for making him unable to seek her out and counsel her; he becomes certain that Daenerys is the [[Prince That Was Promised|prince that was promised]], and that Melisandre was wrong about Stannis. He explains Sam that initially he thought Rhaegar was the one whom the prophecy referred to, but it was a mistake, since the word "prince" in High Valyrian is gender-neutral: "''Daenerys is the one, born amidst salt and smoke. The dragons prove it''". Fearing that he will not make it to Oldtown, he begs Sam to tell that to the archmaesters at the Citadel and have them send Daenerys a maester, for counseling and protection.
+
+During one of his fits, Aemon grows convinced that it was a mistake for him to leave the Wall because "cold preserves", implying that the ice magic of the Wall was keeping him alive. He finally perishes aboard the ''Cinnamon Wind'', a merchant "swan ship" of the [[Summer Isles]] traveling from Braavos to Oldtown. The eulogy Sam gives aboard is the following:
+
+''"He was a good man... No. He was a great man. A maester of the Citadel, chained and sworn, and Sworn Brother of the Night's Watch, ever faithful. When he was born they named him for a hero who had died too young, but though he lived a long long time, his own life was no less heroic. No man was wiser, or gentler, or kinder. At the Wall, a dozen lords commander came and went during his years of service, but he was always there to counsel them. He counseled kings as well. He could have been a king himself, but when they offered him the crown he told them they should give it to his younger brother. How many men would do that? He was the blood of the dragon, but now his fire has gone out. He was Aemon Targaryen. And now his watch is ended."''
+
+Aemon's body has not been burned yet, because the captain would not allow a funeral pyre aboard the ship. It is currently being preserved in a cask of blackbelly rum until Sam has a chance to conduct a proper funeral in Oldtown.
+
+In honor of Aemon's memory, Gilly decides to name Mance Rayder's baby son "Aemon Battleborn" or "Aemon Steelsong", but only after he is two years old, as per wildling tradition (she has not chosen a name for her own baby yet).
+
+==Appearances==
+*{{GOT|Lord Snow}}
+*{{GOT|You Win or You Die}}
+*{{GOT|Baelor}}
+*{{GOT|Mhysa}}
+*{{GOT|Two Swords}}
+*{{GOT|Breaker of Chains}}
+*{{GOT|The Watchers on the Wall}}
+*{{GOT|The Children}}
+*{{ATGS|The Sword in the Darkness}} {{Ncm}}
+*{{GOT|The House of Black and White}}
+*{{GOT|Kill the Boy}}
+*{{GOT|The Gift}}
+*{{H&L|The Lord Commanders}} {{Mentioned}}
+*{{GOT|The Iron Throne}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|Aemon Targaryen (son of Maekar I)}} {{Spoilers|AKOTSK}}
+*{{HBO|game-of-thrones/cast-and-crew/maester-aemon|Maester Aemon}}
+
+<!--Navboxes-->
+{{House Targaryen}}
+{{Night's Watch}}
+
+<!--Categories-->
+[[Category:Crownlanders]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Individuals mentioned in Game of Thrones: A Telltale Games Series]]
+[[Category:Maesters of the Night's Watch]]
+[[Category:Members of House Targaryen]]
+[[Category:Princes]]
+
+<!--Languages-->
+[[de:Aemon]]
+[[fr:Aemon]]
+[[pl:Aemon Targaryen]]
+[[pt-br:Aemon]]
+[[ru:Эймон]]
+[[uk:Еймон]]
+[[zh:伊蒙·坦格利安(梅卡一世之子)]]

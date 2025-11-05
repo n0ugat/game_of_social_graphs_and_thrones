@@ -1,0 +1,54 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Smallwood.svg
+| Link  = House Smallwood
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Tully
+| Image        = Acorn Hall Pin.png
+| Type         = Castle
+| Status       = 
+| Location     = The [[Riverlands]], [[Westeros]]
+| Population   = 
+| Rulers       = [[House Smallwood]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Acorn Hall'''{{Ref|GOT107}} is a castle in the [[Riverlands]], the region controlled by [[House Tully]] of [[Riverrun]]. The castle is located south east of Riverrun, near the hill [[High Heart]]. It is the seat of [[House Smallwood]].
+
+==History==
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+[[Pypar]] mentions that he once sang at Acorn Hall.<ref>"[[You Win or You Die]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels Acorn Hall is the seat of [[House Smallwood]], a minor House sworn to House Vance of Wayfarer's Rest. It is an oaken keep surrounded by stone curtain walls.
+
+In ''A Storm of Swords'', [[Arya Stark|Arya]], [[Gendry Baratheon|Gendry]], and several members of the [[Brotherhood Without Banners]] arrive at Acorn Hall, where Lady Smallwood welcomes them amiably.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Smallwood}}
+{{Riverlands}}
+
+<!--Categories-->
+[[Category:Castles of the Riverlands]]
+[[Category:House Smallwood]]
+
+<!--Languages-->
+[[de:Eichelhall]]
+[[es:Torreón Bellota]]
+[[it:Sala delle Ghiande]]
+[[nl:Eikelhove]]
+[[pl:Żołędziowy Dwór]]
+[[ru:Жёлуди]]
+[[uk:Акорн Хол]]
+[[zh:橡果厅]]
