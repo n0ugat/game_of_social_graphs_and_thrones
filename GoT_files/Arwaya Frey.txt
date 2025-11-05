@@ -1,0 +1,76 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Frey.svg
+| Link  = House Frey
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Frey
+| Image       = Arwaya Frey Brightened.png
+| Birth       = At the [[Twins]]
+| Death       = 
+| House       = [[House Frey|Frey]]
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Riverlands|Rivermen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = {[[Walder Frey]]}
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = {[[Stevron Frey]]}<br>{[[Lothar Frey]]}<br>{[[Olyvar Frey]]}<br>[[Roslin Tully]]<br>{[[Waldron Frey]]}<br>[[Walda Frey (The Rains of Castamere)|Walda Frey]]<br>[[Derwa Frey]]<br>[[Waldra Frey]]<br>[[Shirei Frey]]
+----
+[[Bastard]] paternal half-siblings:<br>{[[Walder Rivers]]}<br>{[[Ryger Rivers]]}
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 1|1]] {{*}} [[Game of Thrones: Season 3|3]]
+| Appearances = 2 episodes {{Below|Appearances}}
+| First       = "[[Baelor]]"
+| Last        = "[[The Rains of Castamere (episode)|The Rains of Castamere]]"
+| DeathEp     = 
+| Actor       = Unidentified
+}}
+{{Quote|This is Arwaya, my daughter.|Lord [[Walder Frey]] to Robb Stark|The Rains of Castamere (episode)}}
+'''Arwaya Frey''' is one of the many daughters of [[Walder Frey]].
+
+==Biography==
+===Background===
+Arwaya is one of the many daughters of [[Walder Frey]], the [[Lord of the Crossing]].{{Ref|GOT109}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+Arwaya is present when her father confers with Lady [[Catelyn Stark]], standing beside her [[bastard]] half-brother [[Ryger Rivers]].{{Ref|GOT109}}
+
+===[[Game of Thrones: Season 3|''Game of Thrones'': Season 3]]===
+Along with several of Lord Frey's other daughters and granddaughters, [[Robb Stark]] had the option of marrying her. When he arrives at the [[Twins]] for his uncle [[Edmure Tully|Edmure]]'s [[Red Wedding|wedding]], Robb apologizes for his slight against them.{{Ref|GOT309}}
+
+==Family==
+{{Frey tree}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there's no mention of any member of House Frey named "Arwaya Frey".
+
+==Appearances==
+*{{GOT|Baelor}}
+*{{GOT|The Rains of Castamere}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House Frey}}
+
+<!--Categories-->
+{{DEFAULTSORT:Frey, Arwaya}}
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Members of House Frey|Arwaya Frey]]
+[[Category:Rivermen]]
+
+<!--Languages-->
+[[de:Arwyn Frey]]
+[[es:Arwaya Frey]]
+[[fr:Arwaya Frey]]
+[[ro:Arwaya Frey]]
+[[ru:Арвин Фрей]]

@@ -1,0 +1,33 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Antonio Magro.jpg
+| Birth   = March 4, 1987 {{Age|1987|4|3}}<br>Worcestershire, England, United Kingdom
+| Death   = 
+| Role    = [[Petyr Piper]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]]
+| Credits = 3 episodes {{Below|Credits}}
+| First   = "[[Regent (episode)|Regent]]"
+| Last    = 
+}}
+'''Antonio Magro''' (born 4 March 1987) is an English actor and singer.
+
+Magro plays [[Petyr Piper]] in the [[House of the Dragon: Season 2|second season]] of ''[[House of the Dragon]]''.<ref>https://redanianintelligence.com/2023/09/30/every-new-cast-member-house-of-the-dragon-season-2/</ref>
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 2|||||yes||yes|yes}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb|#=3210821}}
+
+<!--Categories-->
+{{DEFAULTSORT:Magro, Antonio}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Antonio Magro]]

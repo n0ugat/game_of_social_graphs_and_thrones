@@ -1,0 +1,36 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Archie Barnes.jpg
+| Birth   = 
+| Death   = 
+| Role    = [[Oscar Tully]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]]
+| Credits = 2 episodes {{Below|Credits}}
+| First   = "[[The Red Dragon and the Gold]]"
+| Last    = 
+}}
+'''Archie Barnes''' is a British actor. He has appeared in films such as ''{{WPS|The Dig (2021 film)|The Dig}}'' and ''{{WPS|The Batman (film)|The Batman}}'' and the television series ''{{WPS|Stonehouse (TV series)|Stonehouse}}''.
+
+He portrays [[Oscar Tully]] in the [[House of the Dragon: Season 2|second season]] of ''[[House of the Dragon]]''.<ref>[https://thewaymgmt.com/artists/archie-barnes/Archie Barnes - The Way (thewaymgmt.com)] </ref>
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 2||||yes|||yes}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb|# = 10706149}}
+
+<!--Navboxes-->
+{{House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Barnes, Archie}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Archie Barnes]]

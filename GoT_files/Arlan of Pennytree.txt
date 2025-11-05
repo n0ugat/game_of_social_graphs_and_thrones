@@ -1,0 +1,66 @@
+{{Canonicity|Canon}}
+{{Spoiler|AKOTSK}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Tully
+| Image       = 
+| Birth       = [[Pennytree]], the [[Riverlands]]{{Ref|GOT806}}
+| Death       = 
+| House       = 
+| Affiliation = 
+| Titles      = [[Knighthood|Ser]]{{Ref|GOT806}}
+| AKA         = 
+| Culture     = [[Riverlands|Rivermen]]{{Ref|GOT806}}
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[A Knight of the Seven Kingdoms]]''
+| Season      = [[A Knight of the Seven Kingdoms: Season 1|1]]
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Danny Webb]]
+}}
+Ser '''Arlan of Pennytree''' is a [[hedge knight]] and the mentor of [[Duncan the Tall]].{{Ref|GOT806}} His personal heraldry displays a winged silver chalice on a brown field.{{Webref|name=NAB |author=George R.R. Martin |date=October 10, 2024 |url=https://georgerrmartin.com/notablog/2024/10/10/a-tourney-at-ashford/ |title=A Tourney at Ashford |website=Not a Blog |access-date=December 27, 2024 }}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Ser Arlan was a hedge knight who was born in the village of [[Pennytree]]. As a child, he was taken to [[King's Landing]] by his grandfather, who showed him the [[last dragon]], who died later that same year.
+
+As an adult, Arlan defeated Ser [[Damon Lannister]] in a [[Tournament|tourney]] at [[Lannisport]]. In 193 AC, Arlan fought in a melee at King's Landing where he unhorsed the lord of [[House Stokeworth]] and the [[Bastard]] of [[Harrenhal]]. He was defeated by Prince [[Baelor Targaryen]] in a tourney at [[Storm's End]] in 199 AC, with Arlan claiming to have broken seven lances against Baelor, with Baelor claiming that it was only four.
+
+Arlan's nephew Roger served as his squire during the [[Blackfyre Rebellion]], with the two fighting for Lord Hayford. They fought in the [[Battle of Redgrass Field|Battle of the Redgrass Field]], in which Roger and Arlan fought alongside Lord Hayford when he was killed by Lord Gormon Peake. Arlan later found [[Duncan the Tall|Dunk]] in the slums of [[Flea Bottom]] and took him as his squire. They served the lord of [[House Dondarrion]] in the conflict with the [[Vulture King]].
+[[File:(KSK) Arlan of Pennytree (deceased).png|thumb]]
+Arlan died of a chill as he and Dunk were traveling to a tourney at [[Ashford]], with Dunk inheriting his [[horse]]s Thunder, Chestnut, and Sweetfoot.
+
+His personal sigil was a silver winged chalice on a brown field.
+
+==Appearances==
+*{{GOT|The Iron Throne}} {{Text}}
+
+===Forthcoming===
+{{Collapse|
+*{{AKOTSK|Season 1}} {{Unreleased}}
+}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|AKOTSK}}
+
+<!--Categories-->
+[[Category:Ennobled commoners]]
+[[Category:Hedge knights]]
+[[Category:Individuals appearing in A Knight of the Seven Kingdoms]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Rivermen]]
+
+<!--Languages-->
+[[pl:Arlan z Pennytree]]
+[[ru:Арлан из Пеннитри]]

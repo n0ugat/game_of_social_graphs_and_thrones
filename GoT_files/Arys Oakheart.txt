@@ -1,0 +1,106 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Leftimage  = Unknown.svg
+| Leftlink   = 
+| Rightimage = Kingsguard.svg
+| Rightlink  = Kingsguard
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Lannister
+| Image       = Arys-HBO.jpg
+| Birth       = [[Old Oak]], the [[Reach]]{{Con|AWOIAF}}
+| Death       = [[305 AC]]{{Dateref|Game of Thrones: Season 8}}<br>The [[Red Keep]], [[King's Landing]]{{Ref|GOT805}}
+| House       = 
+| Affiliation = [[Kingsguard]]<br>Queensguard
+| Titles      = [[Knighthood|Ser]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Andals|Andal]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 1|1]] {{*}} [[Game of Thrones: Season 2|2]] {{*}} [[Game of Thrones: Season 5|5]] {{*}} [[Game of Thrones: Season 6|6]] {{*}} [[Game of Thrones: Season 8|8]]
+| Appearances = 6 episodes {{Below|Appearances}}
+| First       = "[[You Win or You Die]]"
+| Last        = "[[The Bells]]"
+| DeathEp     = "The Bells"
+| Actor       = Unidentified
+}}
+Ser '''Arys Oakheart'''{{Con|ASOIAF}} was a [[Knighthood|knight]] and a member of the [[Kingsguard]]. 
+
+==Biography==
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+Ser Arys is among the guards who [[Massacre in the Red Keep|attack]] [[Eddard Stark]] when he tried to de-throne King Joffrey.{{Ref|GOT107}} He is also present when Ser [[Barristan Selmy]] is dismissed from the Kingsguard.{{Ref|GOT108}}
+
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+[[File:Myrcella_leaves.jpg|thumb|Ser Arys in Princess Myrcella's retinue.]]
+Ser Arys accompanies [[Myrcella Baratheon|Myrcella]] as her sworn shield for her journey to [[Dorne]].{{Ref|GOT206}}
+
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+Ser Arys returns to King's Landing after Myrcella's arrival in Dorne and escorts Tommen in his attempt to enter the [[Great Sept of Baelor]] to speak to the [[High Sparrow]] about the arrest of [[Loras Tyrell]].{{Ref|GOT504}}
+
+===[[Game of Thrones: Season 6|''Game of Thrones'': Season 6]]===
+Ser Arys accompanies Tommen and guards him during his conversation with the High Sparrow.{{Ref|GOT603}}
+
+===[[Game of Thrones: Season 8|''Game of Thrones'': Season 8]]===
+Ser Arys escorts Cersei to [[Maegor's Holdfast]] during the [[Battle of King's Landing]], but is cut down by [[Sandor Clegane|the Hound]] or crushed by the falling debris.{{Ref|GOT805}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Arys Oakheart is a member of Robert Baratheon's Kingsguard, appointed after his predecessor - whose name has not been mentioned - perished during the [[Greyjoy Rebellion]]. He is a member of House Oakheart, a noble house from the Reach.
+
+He is regarded as one of the kinder knights of the Kingsguard under King [[Joffrey Baratheon|Joffrey]], objecting at first to the orders to beat [[Sansa Stark|Sansa]], then only hitting her as lightly as he can. He is also of a much more pleasant demeanor, often engaging in pleasant conversation with the Stark girl.{{Bookref|ACOK|2}}
+
+Arys remains in Dorne as Myrcella's sworn shield. During this time, Arianne Martell, Prince [[Doran Martell|Doran]]'s daughter and heiress, sexually seduces him. She persuades him to take part in her plan to crown Myrcella to incite war with the Iron Throne in retaliation for the death of [[Oberyn Martell]].{{Bookref|AFFC|13}} The plan is foiled, as Arianne's party is intercepted by [[Areo Hotah]]. Ser Arys, bravely but foolishly, charges at the surrounding soldiers and kills some of them, but is killed by Hotah. During the confrontation, Myrcella is gravely injured and nearly killed by one of their escorts, Ser Gerold "Darkstar" Dayne.{{Bookref|AFFC|21}}
+
+Cersei is pleased to hear about Ser Arys's death since it creates a vacancy on the Kingsguard - which is filled by her new champion, Ser [[Gregor Clegane#In the books|Robert Strong]].{{Bookref|ADWD|54}}
+
+==Appearances==
+*{{GOT|You Win or You Die}}
+*{{GOT|The Pointy End}}
+*{{GOT|The Old Gods and the New}}
+*{{GOT|Sons of the Harpy}}
+*{{GOT|Oathbreaker}}
+*{{GOT|The Bells}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Kingsguard of Robert I Baratheon}}
+{{Kingsguard of Joffrey I Baratheon}}
+{{Kingsguard of Tommen I Baratheon}}
+{{Queensguard of Cersei I Lannister}}
+{{House Baratheon of King's Landing}}
+
+<!--Categories-->
+{{DEFAULTSORT:Oakheart, Arys}}
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Individuals from the Reach]]
+[[Category:Kingsguard of Joffrey I Baratheon]]
+[[Category:Kingsguard of Robert I Baratheon]]
+[[Category:Kingsguard of Tommen I Baratheon]]
+[[Category:Knights]]
+[[Category:Nobles]]
+[[Category:Queensguard of Cersei I Lannister]]
+[[Category:Sworn shields]]
+
+<!--Languages-->
+[[de:Arys Eichenherz]]
+[[es:Arys Oakheart]]
+[[pl:Arys Oakheart]]
+[[ru:Арис Окхарт]]
+[[zh:亚历斯·奥克赫特]]

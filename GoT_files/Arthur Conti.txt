@@ -1,0 +1,31 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Arthur Conti.jpg
+| Birth   = 
+| Death   = 
+| Role    = Queen's page
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = "[[We Light the Way]]"
+| First   = 
+| Last    = 
+}}
+'''Arthur Conti''' is an actor.
+
+In ''[[House of the Dragon]]'', he portrayed the queen's page in the [[House of the Dragon: Season 1|first season]].
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1|||||yes}}
+
+==See also==
+*{{IMDb|# = 14057859}}
+*{{Twitter|# = artconti}}
+
+<!--Categories-->
+{{DEFAULTSORT:Conti, Arthur}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--InterWiki-Links-->
+[[fr:Arthur Conti]]

@@ -1,0 +1,40 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Anthony Flanagan.jpg
+| Birth   = Anthony Bonello<br>April 11, 1972 {{Age|1972|4|11}}<br>Stockport, Cheshire, England
+| Death   = 
+| Role    = [[Steffon Darklyn]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]] {{*}} [[House of the Dragon: Season 2|2]]
+| Credits = 9 episodes {{Below|Credits}}
+| First   = "[[The Rogue Prince]]"
+| Last    = "[[Smallfolk (episode)|Smallfolk]]"
+}}
+'''Anthony Flanagan''' (born '''Anthony Bonello'''; 11 April 1972) is an English actor.
+
+In ''[[House of the Dragon]]'', he portrays [[Steffon Darklyn]].<ref>https://www.independenttalent.com/actors/anthony-flanagan/</ref><ref>https://www.imdb.com/name/nm01340424/</ref>
+
+==Background==
+Anthony Flanagan was born in Stockport, Cheshire, on 11 April 1972. He decided to become an actor after seeing a friend of his sister perform at the Royal Academy of Dramatic Art in London. He is married to actress Rebekah Staton.
+
+His acting debut was as Pat Harford in Peter Whelan's play ''A Russian in the Woods''. He is best known for his portrayal of Tony in Channel 4's comedy-drama series ''Shameless''. He has also appeared in ''Doctor Who'' and ''The Crown'', in which fellow ''House of the Dragon'' cast member [[Matt Smith]] starred as the Eleventh Doctor and Prince Philip respectively.
+
+Flanagan was spotted on location in Cornwall and Devon, where he appeared to be playing a member of the [[Kingsguard]].<ref>https://www.reddit.com/r/HouseOfTheDragon/comments/ptg16l/the_man_seen_on_the_beach_is_anthony_flanagan/</ref>
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1||yes||||||yes||yes}}
+{{House of the Dragon: Season 2|yes|yes|yes|yes|yes|yes}}
+
+==See also==
+*{{WP}}
+*{{IMDb|#=01340424}}
+
+==References==
+{{Reflist}}
+{{DEFAULTSORT:Flanagan, Anthony}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--Interwiki links-->
+[[fr:Anthony Flanagan]]

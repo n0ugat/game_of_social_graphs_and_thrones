@@ -1,0 +1,63 @@
+{{Canonicity|Canon}}
+{{OtherUses|little bird|Arthur (disambiguation)}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Lannister
+| Image       = Arthur little bird.png
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = {[[Varys]]}{{Ref|GOT603}}<br>{[[Qyburn]]}{{Ref|GOT603}}
+| Titles      = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 6|6]]
+| Appearances = 2 episodes {{Below|Appearances}}
+| First       = "[[Oathbreaker]]"
+| Last        = "[[The Winds of Winter]]"
+| DeathEp     = 
+| Actor       = [[Nathanael Saleh]]
+}}
+{{Quote|He called us his "little birds". He gave us sweets.|Arthur to [[Qyburn]] about [[Varys]].|Oathbreaker}}
+'''Arthur''' was part of [[Varys]]'s network of informants and spies, and he is now under the command of [[Qyburn]].
+
+==Biography==
+===[[Game of Thrones: Season 6|''Game of Thrones'': Season 6]]===
+[[File:Nathanael Saleh Game of Thrones.png|thumb|Arthur and the other little birds.]]He is first seen around other [[little birds]] in Qyburn's chamber, where Qyburn is tending to his bruised eye. It's revealed that Qyburn has done away with Arthur's abusive father, and has taken the boy under his wing along with the rest of the little birds. When another child asks about Lord Varys, Arthur reveals that he and the other children were the [[eunuch]]'s network of 'little birds'. Qyburn bribes the children with candied plums to take allegiance with him, and do for him what they did for Varys.{{Ref|GOT603}}
+
+Later on, Arthur lures [[Lancel Lannister|Lancel]] from the [[Great Sept of Baelor]] to a maze of tunnels underneath the Sept. Taking advantage of the dark, he stabs the unsuspecting [[Sparrows|sparrow]] in the spine, paralyzing him. He studies the man, before leaving him to die, and flees down the tunnels.{{Ref|GOT610}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there are several characters whose first name is Arthur ([[Arthur Dayne]], Arthur Ambrose, Arthur Goodbrother), but none of them are Varys's henchmen.
+
+The names of Varys's little birds are not mentioned.
+
+==Appearances==
+*{{GOT|Oathbreaker}}
+*{{GOT|The Winds of Winter}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Little birds}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Little birds]]
+[[Category:Smallfolk]]
+[[Category:Westerosi]]
+
+<!--Languages-->
+[[de:Arthur]]
+[[fr:Arthur]]
+[[ru:Артур]]

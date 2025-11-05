@@ -1,0 +1,87 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Baratheon.svg
+| Link  = House Durrandon
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Baratheon
+| Image       = Argilac-Durrandon.png
+| Birth       = During the [[Century of Blood]], at [[Storm's End]]
+| Death       = [[2 BC]]{{Dateref|Aegon's Conquest}} near Storm's End<br>Slain by [[Orys Baratheon]] during the [[Last Storm]]
+| House       = [[House Durrandon|Durrandon]]
+| Affiliation = 
+| Titles      = [[Storm King]]
+| Predecessor = 
+| Successor   = {[[Argella Baratheon|Argella Durrandon]]}
+| AKA         = Argilac the Arrogant
+| Culture     = [[Andals|Andal]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = {[[Argella Baratheon]]}
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Argilac may have been arrogant, but he wasn't stupid or a coward.|[[Varys]]|House Durrandon, the Storm Kings}}
+King '''Argilac Durrandon''', also known as '''Argilac the Arrogant''', was the last of the [[Storm King]]s, the rulers of the [[Stormlands]] since [[Durran Godsgrief]], a legendary figure of the [[Age of Heroes]] and founder of [[Storm's End]]. Argilac was responsible for setting the events of [[Aegon's Conquest]] into motion, which would lead to his own death.
+
+==Biography==
+[[File:Orys_vs_Argilac.png|thumb|Argilac is killed by Orys Baratheon]]
+When [[Aegon I Targaryen|Aegon the Conqueror]] invaded [[Westeros]], Argilac feared that [[Harren Hoare]] would turn his eye southward, seeking to gain more land after the completion of [[Harrenhal]]. Then sent an envoy to [[Dragonstone (island)|Dragonstone]], asking Aegon for his armies and his dragons, which in return he would give lands owned by Harren and a wife in his daughter, [[Argella Baratheon|Argella]]. However, Aegon had already married his two sisters, [[Visenya Targaryen|Visenya]] and [[Rhaenys Targaryen (sister of Aegon I)|Rhaenys]].{{Ref|C&R02}}
+
+Upon receiving the envoy, Aegon sent his own with a counteroffer; Argilac would wed Argella to his commander and rumored bastard half-brother, [[Orys Baratheon]]. Outraged, Argilac answered with a box containing the hands of Aegon's envoy and a letter announcing: "''These are the only hands your [[bastard]] shall have of me!" ''As Aegon had been waiting for an excuse to use his armies and force on Westeros, he sent his army by ship to [[Storm's End]], then sending ravens to all [[Seven Kingdoms]]. Aegon then strategically placed himself at the mouth of the [[Blackwater Rush]], land disputed between the [[Riverlands]] and the [[Stormlands]], so that Argilac and Harren could not decide on who should take action against him.{{Ref|C&R02}}
+
+During his conquest, Aegon sent Orys Baratheon to take the ancestral stronghold of the Storm Kings. To avoid the same fate as Harren, who was [[Burning of Harrenhal|burned alive]] inside his castle by dragonfire, Argilac met Orys's forces in [[Last Storm|open battle]] and was soundly defeated. Afterward, Orys took not only Storm's End and the Stormlands, but also Argilac's sigil, a black stag on a yellow field, his words - "Ours is the Fury" - and his daughter for his own, becoming the first Lord Paramount of the Stormlands and the founder of House Baratheon.{{Ref|C&R04}}
+
+==Family==
+{{Durrandon tree}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Argilac was the leader of House Durrandon, the rulers of the Stormlands for centuries. After his death, Orys Baratheon took the sigil and words of House Durrandon as those of House Baratheon.
+
+Argilac got his nickname for arrogantly refusing Aegon's offer of marrying Orys (a bastard) to his daughter, cutting off the hands of Aegon's envoy and sending them back to him. He was also arrogant in engaging the Targaryens in open battle rather than withstanding a siege in the infamously impregnable castle of Storm's End. However, Argilac was motivated in this by having heard of the death of [[Harren Hoare]] in similar circumstances at [[Harrenhal]], who prepared for a siege in his immense castle only for the Targaryen dragons to fly right over the walls. If Argilac resisted a siege by Orys it would only be a matter of time until the Targaryens directed their dragons to the castle, so wishing to avoid this fate Argilac met Orys in pitched battle.
+
+==Appearances==
+*{{GOT|A Golden Crown}} {{Text}}
+*{{H&L|The Field of Fire - House Targaryen}} {{Mentioned}}
+*{{H&L|House Baratheon}} {{Mentioned}}
+*{{H&L|The Stormlands}} {{Illustrated}}
+*{{C&R|Invasion}} {{Illustrated}}
+*{{C&R|House Durrandon, the Storm Kings}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Durrandon}}
+{{Kings of Westeros}}
+
+<!--Categories-->
+{{DEFAULTSORT:Durrandon, Argilac}}
+[[Category:Individuals from Game of Thrones: Conquest & Rebellion: An Animated History of the Seven Kingdoms]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Members of House Durrandon|Argilac Durrandon]]
+[[Category:Storm Kings]]
+[[Category:Stormlanders]]
+
+<!--Languages-->
+[[de:Argilac Durrandon]]
+[[es:Argilac Durrandon]]
+[[fr:Argilac Durrandon]]
+[[ru:Аргилак Надменный]]

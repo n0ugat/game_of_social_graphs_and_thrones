@@ -1,0 +1,37 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Arran Topham.jpg
+| Birth   = 
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[Game of Thrones]]''<br>''[[House of the Dragon]]''
+| Season  = ''Game of Thrones'':<br>[[Game of Thrones: Season 2|2]]<br>''House of the Dragon'':<br>[[House of the Dragon: Season 1|1]]
+| Credits = 4 episodes {{Below|Credits}}
+| First   = "[[A Man Without Honor]]"
+| Last    = 
+}}
+'''Arran Topham''' is a stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 2|second season]] episode "[[A Man Without Honor]]".
+
+In ''[[House of the Dragon]]'', he was a stunt performer in the [[House of the Dragon: Season 1|first season]] episodes "[[Second of His Name]]", "[[We Light the Way]]" and "[[The Lord of the Tides]]".
+
+==Credits==
+===Stunts===
+====''[[Game of Thrones]]''====
+{{Game of Thrones: Season 2|||||||yes}}
+
+====''[[House of the Dragon]]''====
+{{House of the Dragon: Season 1|||yes||yes|||yes}}
+
+==See also==
+*{{IMDb
+|# = 2432691}}
+*{{Facebook
+|# = arran.topham1}}
+*{{Linkedin
+|# = /in/arran-topham-2265013}}
+{{DEFAULTSORT:Topham, Arran}}
+[[Category:Stunt performers of Game of Thrones]]
+[[Category:Stunt performers of House of the Dragon]]

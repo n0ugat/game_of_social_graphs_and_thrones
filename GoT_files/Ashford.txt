@@ -1,0 +1,56 @@
+{{Canonicity|Canon}}
+{{Spoiler|AKOTSK}}
+{{Heraldry
+| Image = House Ashford.svg
+| Link  = House Ashford
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Bronn
+| Image        =
+<gallery>
+Ashford.png|Appearance
+Ashford Pin.png|Location
+</gallery>
+| Type         = Town
+| Status       = 
+| Location     = The [[Reach]], [[Westeros]]
+| Population   = 
+| Rulers       = [[House Ashford]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = [[Ashford Castle]] {{*}} [[Ashford Meadow]]
+| Founded      = 
+}}
+'''Ashford'''{{Guideref|Map of Westeros}} is a settlement in the [[Reach]], the region controlled by [[House Tyrell]] of [[Highgarden]]. It is located on the [[Cockleswhent]] river north east of Highgarden. [[Ashford Castle]] is found there.{{Ref|H&L114}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Ashford is the seat of House Ashford. It consists of a castle, a surrounding town and a large meadow nearby which is a perfect location for [[tournament]]s.
+
+In 281 AC, during [[Robert's Rebellion]], Ashford was the site of a major battle and [[Robert Baratheon]]'s only notable defeat. The army of [[House Tyrell]] was advancing towards the [[Stormlands]] with the intention of destroying Robert's army and taking [[Storm's End]]. Robert elected to fight a field battle rather than withstand siege and intercepted the Tyrell army near Ashford. Robert attacked the Tyrell vanguard (which Robert's army outnumbered at a local level, since the bulk of the Tyrell army had not yet arrived). However, Lord [[Randyll Tarly]], commanding the Tyrell van, withstood the attack and drove the Baratheon army from the field. Robert's army was defeated, but managed to withdraw in good order northwards towards the [[Riverlands]]. The Tyrell army was commanded to march on to Storm's End (held by [[Stannis Baratheon]]) and besiege it rather than pursue Robert. This proved unwise, as Robert was able to combine his army with those of the [[House Stark|Starks]], [[House Arryn|Arryns]] and [[House Tully|Tullys]], enabling him to ultimately triumph in the war.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|AKOTSK}}
+
+<!--Navboxes-->
+{{House Ashford}}
+{{Reach}}
+
+<!--Categories-->
+[[Category:House Ashford]]
+[[Category:Reach]]
+[[Category:Towns]]
+
+<!--Languages-->
+[[de:Aschfurt]]
+[[es:Vado Ceniza]]
+[[fr:Cendregué]]
+[[it:Ashford]]
+[[nl:Esfoort]]
+[[pt-br:Vaufreixo]]
+[[ru:Эшфорд]]
+[[zh:岑树滩]]

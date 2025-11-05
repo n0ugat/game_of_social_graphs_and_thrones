@@ -1,0 +1,38 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Antonio Oña Sánchez.jpg
+| Birth   = 
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[Game of Thrones]]''<br>''[[House of the Dragon]]''
+| Season  = ''Game of Thrones'':<br>[[Game of Thrones: Season 5|5]] {{*}} [[Game of Thrones: Season 6|6]] {{*}} [[Game of Thrones: Season 7|7]] {{*}} [[Game of Thrones: Season 8|8]]<br>''House of the Dragon'':<br>[[House of the Dragon: Season 1|1]]
+| Credits = 8 episodes {{Below|Credits}}
+| First   = "[[The Dance of Dragons (episode)|The Dance of Dragons]]"
+| Last    = 
+}}
+'''Antonio Oña Sánchez''' is a stuntman.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 5|fifth season]] episode "[[The Dance of Dragons (episode)|The Dance of Dragons]]", the [[Game of Thrones: Season 6|sixth season]] episode "[[Battle of the Bastards (episode)|Battle of the Bastards]]", the [[Game of Thrones: Season 7|seventh season]] episodes "[[The Spoils of War]]", "[[Eastwatch]]" and "[[The Dragon and the Wolf]]" and the [[Game of Thrones: Season 8|eighth season]] episode "[[The Long Night]]".
+
+In ''[[House of the Dragon]]'', he was a stunt performer in the [[House of the Dragon: Season 1|first season]] episodes "[[The Heirs of the Dragon]]" and "[[The Rogue Prince]]".
+
+==Credits==
+===Stunts===
+====''[[Game of Thrones]]''====
+{{Game of Thrones: Season 5|||||||||yes}}
+{{Game of Thrones: Season 6||||||||||yes}}
+{{Game of Thrones: Season 7||||yes|yes||yes}}
+{{Game of Thrones: Season 8|||yes}}
+
+====''[[House of the Dragon]]''====
+{{House of the Dragon: Season 1|yes|yes}}
+
+==See also==
+*{{IMDb
+|# = 4600838}}
+*{{Facebook
+|# = antonio.onasanchez}}
+{{DEFAULTSORT:Sánchez, Antonio Oña}}
+[[Category:Stunt performers of Game of Thrones]]
+[[Category:Stunt performers of House of the Dragon]]

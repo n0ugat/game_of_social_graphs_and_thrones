@@ -1,0 +1,32 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Ant Wright.jpg
+| Birth   = United Kingdom
+| Death   = 
+| Role    = Stark squire<br>Lannister brother<br>Driftmark noble<br>Dragonstone noble
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = 4 episodes {{Below|Credits}}
+| First   = "[[Second of His Name]]"
+| Last    = 
+}}
+'''Ant Wright''' is an English YouTuber and an extra in the [[House of the Dragon: Season 1|first season]] of ''[[House of the Dragon]]''.<ref>[https://www.youtube.com/watch?v=5fw9rNnCruo Ant Wright, "My Time on House of the Dragon"]</ref>
+
+==Credits==
+*{{HOTD|Second of His Name}} {{C|Stark squire}}
+*{{HOTD|We Light the Way}} {{C|Lannister brother}}
+*{{HOTD|Driftmark}} {{C|Driftmark noble}}
+*{{HOTD|The Black Queen}} {{C|Dragonstone noble}}
+
+==See also==
+*{{YouTube|#=antwright}}
+*{{Twitter|#=AntWright_}}
+*{{Instagram|#=antuswrightus}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+{{DEFAULTSORT:Wright, Ant}}
+[[Category:Uncredited cast members of House of the Dragon]]

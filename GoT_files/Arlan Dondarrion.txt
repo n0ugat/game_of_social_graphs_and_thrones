@@ -1,0 +1,63 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Dondarrion.svg
+| Link  = House Dondarrion
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Baratheon
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = [[House Dondarrion|Dondarrion]]{{Ref|HOTD102}}
+| Affiliation = 
+| Titles      = [[Knighthood|Ser]]{{Ref|HOTD102}}
+| AKA         = 
+| Culture     = [[Dornish Marches|Marcher]]{{Ref|HOTD102}}
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Ser Arlan Dondarrion knighted me after we razed two of the watchtowers along the Boneway.|Criston Cole|The Rogue Prince}}
+Ser '''Arlan Dondarrion''' was a [[Knighthood|knight]] of [[House Dondarrion]].
+
+==Biography==
+===Background===
+Ser Arlan fought in a series of border conflicts with [[Dorne]]. He knighted [[Criston Cole]], a footsoldier and son of the [[Criston Cole's father|steward]] of [[Blackhaven]], after the razing of two Dornish watchtowers along the [[Boneway]].{{Ref|HOTD102}}
+
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+Criston mentions Ser Arlan when he is brought before [[Rhaenyra Targaryen]] in [[Maegor's Holdfast]] as a candidate to replace Ser [[Ryam Redwyne]] on the [[Kingsguard/House of the Dragon|Kingsguard]].{{Ref|HOTD102}}
+
+==In the books==
+In ''[[Fire & Blood]]'', there is no character named Arlan Dondarrion.
+
+==Appearances==
+*{{HOTD|The Rogue Prince}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House Dondarrion/House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Dondarrion, Arlan}}
+[[Category:Individuals mentioned in House of the Dragon]]
+[[Category:Knights]]
+[[Category:Members of House Dondarrion|Arlan Dondarrion]]
+[[Category:Stormlanders]]
+
+<!--Languages-->
+[[ru:Арлан Дондаррион]]

@@ -1,0 +1,22 @@
+{{Template:Cast
+|Title = Anthony Boyle
+|Image = Anthony Boyle.jpg
+|role = Bolton guard
+|status = 
+|Appearances = "[[The Laws of Gods and Men]]"
+|imdb = http://www.imdb.com/name/nm4996269/
+|twitter = https://twitter.com/bastanto88
+}}'''Anthony Boyle''' is an actor who portrayed a Bolton guard in the episode "[[The Laws of Gods and Men]]".
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 4||||||yes}}
+
+==See also==
+*{{Template:IMDb
+|# = 4996269}}
+*{{Template:Twitter
+|# = bastanto88}}
+{{DEFAULTSORT:Boyle, Anthony}}
+[[ro:Anthony Boyle]]
+[[Category:Guest starring cast members of Game of Thrones]]

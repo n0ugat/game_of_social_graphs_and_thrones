@@ -1,0 +1,36 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Arty Froushan.jpg
+| Birth   = Artemas Bolour-Froushan<br>April 16, 1993 {{Age|1993|4|16}}<br>Hartford, Connecticut, United States
+| Death   = 
+| Role    = [[Qarl Correy]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = 2 episodes {{Below|Credits}}
+| First   = "[[The Princess and the Queen]]"
+| Last    = "[[Driftmark (episode)|Driftmark]]"
+}}
+'''Artemas Bolour-Froushan''' (born 16 April 1993) is a British-Iranian<ref>https://twitter.com/artyfroushan/</ref> actor.
+
+In ''[[House of the Dragon]]'', he portrayed [[Qarl Correy]] in "[[The Princess and the Queen]]" and "[[Driftmark (episode)|Driftmark]]."<ref>https://markhamfroggattandirwin-cdn-1.s3.eu-west-2.amazonaws.com/wp-content/uploads/2018/01/15154951/Arty-Froushan-CV-.pdf</ref>
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1||||||yes|yes}}
+
+==See also==
+*{{WP}}
+*{{IMDb|#=8284671}}
+*{{Twitter|#=artyfroushan}}
+*{{Instagram|#=artyfroushan}}
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Froushan, Arty}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[de:Arty Froushan]]
+[[fr:Arty Froushan]]

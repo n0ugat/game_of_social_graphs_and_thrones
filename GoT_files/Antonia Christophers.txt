@@ -1,0 +1,32 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Antonia-Christophers-200.jpg
+| Birth   = 
+| Death   = 
+| Role    = [[Mhaegen]]
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 1|1]] {{*}} [[Game of Thrones: Season 2|2]]
+| Credits = 2 episodes {{Below|Credits}}
+| First   = "[[The Wolf and the Lion]]"
+| Last    = "[[The North Remembers]]"
+}}
+'''Antonia Christophers''' is a British actress. She has appeared in the TV series ''The Hour'' and in the film ''Higher Education''.
+
+In [[HBO]]'s ''[[Game of Thrones]]'' she plays [[Mhaegen]]. She was announced in the role on 16 July 2010. She initially appeared as a guest star in the [[Game of Thrones: Season 1|first season]] and returned in this role for the [[Game of Thrones: Season 2|second season]].
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 1|||||yes}}
+{{Game of Thrones: Season 2|yes}}
+
+==See also==
+*{{Template:IMDb
+|# = 4460936}}
+
+{{Stub}}
+
+[[de:Antonia Christophers]]
+[[ro:Antonia Christophers]]
+{{DEFAULTSORT:Christophers, Antonia}}
+[[Category:Guest starring cast members of Game of Thrones]]

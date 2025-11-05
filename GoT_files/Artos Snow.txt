@@ -1,0 +1,57 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Night's Watch.svg
+| Link  = Night's Watch
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = 
+| Birth       = In the [[North]]
+| Death       = 
+| House       = 
+| Affiliation = [[Night's Watch]]
+| Titles      = [[First Ranger]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Northmen|Northern]]
+| Religion    = [[Old Gods]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Artos Snow''' was a [[First Ranger]] of the [[Night's Watch]].
+
+==Biography==
+===Background===
+Artos was appointed First Ranger by [[Robert of Oxbridge]].<ref>[[:File:5x2 Night's Watch Book.jpg]]</ref>
+
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+Artos is mentioned in a book that [[Samwell Tarly]] is reading.{{Ref|GOT502}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no character named Artos Snow.
+
+==Appearances==
+*{{GOT|The House of Black and White}} {{Text}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+{{DEFAULTSORT:Snow, Artos}}
+[[Category:Bastards]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Northmen]]
+[[Category:Rangers of the Night's Watch]]

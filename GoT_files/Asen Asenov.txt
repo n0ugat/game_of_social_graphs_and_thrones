@@ -1,0 +1,21 @@
+{{Crew
+|Image = Asen Asenov.png
+|dateofbirth = 
+|birthplace = 
+|job = Stunt Performer
+|imdb = http://www.imdb.com/name/nm1282392
+|twitter = }}
+'''Asen Asenov''' is a stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 1|first season]] episodes "[[Winter Is Coming]]", "[[A Golden Crown]]", "[[You Win or You Die]]" and "[[The Pointy End]]" and the [[Game of Thrones: Season 7|seventh season]] episodes "[[The Spoils of War]]" and "[[The Dragon and the Wolf]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 1|yes|||||yes|yes|yes}}
+{{Game of Thrones: Season 7||||yes|||yes}}
+
+==See also==
+*{{IMDb
+|# = 1282392}}
+{{DEFAULTSORT:Asenov, Asen}}
+[[Category:Stunt performers of Game of Thrones]]

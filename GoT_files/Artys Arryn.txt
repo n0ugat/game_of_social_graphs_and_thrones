@@ -1,0 +1,80 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Arryn.svg
+| Link  = House Arryn
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Arryn
+| Image       = Artys Arryn Histories & Lore.jpg
+| Birth       = At the [[Giant's Lance]]
+| Death       = 
+| House       = [[House Arryn|Arryn]]
+| Affiliation = 
+| Titles      = [[Knighthood|Ser]]<br>[[King of the Mountain and the Vale]]
+| Predecessor = 
+| Successor   = 
+| AKA         = The Falcon Knight<br>The [[Winged Knight]]
+| Culture     = [[Andals|Andal]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Learning from the First Men, the remaining Andals united behind a leader of their own. Not a king or a lord, but a knight who'd been born in the Vale and knew it as well as the First Men. Ser Artys Arryn, known as the Falcon Knight.|[[Petyr Baelish]]|Knights of the Vale (short)}}
+King '''Artys I Arryn''', also known as '''the Falcon Knight''', was a [[Knighthood|knight]] that participated in the [[coming of the Andals]] and the founder of [[House Arryn]]. He is sometimes conflated with the '''[[Winged Knight]]'''.
+
+==Biography==
+Artys Arryn was an [[Andals|Andal]] knight born at the [[Giant's Lance]] in the [[Vale of Arryn|Vale]]. This meant that he knew the region as well as the [[First Men]] who inhabited it, and the Andals in the Vale united behind him as their leader. In the [[Battle of the Seven Stars]], the Andals under Ser Artys fought against the First Men under [[Bronze King|King]] [[Robar II Royce]] to determine the fate of the Vale.{{Ref|H&L615}}
+
+The First Men preferred to use infantry and had dug trenches lined with sharpened stakes on the high ground, while the Andals had mounted knights. The first six charges against Robar's line failed, until [[Torgold Tollett]] broke through. Seeing Artys's falcon-shaped helmet, Robar charged at him in the hope that the Andal army would dissolve if their leader was killed. Using the [[Valyrian steel]] sword [[Lady Forlorn]], Robar beheaded the Falcon Knight after a duel, only to see five hundred fresh Andal knights charging from the Giant's Lance with Artys at their head. Esteeming cunning even more than brute force, Artys had clad one of his knights in his own distinctive armor to distract Robar while he led a force of his best cavalry up a goat track he knew from childhood.{{Ref|H&L615}}
+
+Afterwards, Artys became [[King of the Mountain and the Vale]] and founded House Arryn.{{Ref|H&L122}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Ser Artys is the hero of a thousand tales. [[Robin Arryn|Robert Arryn]], the child lord of the Eyrie, is fond of Ser Artys's stories. In the ''The World of Ice & Fire'' book it is revealed that the historical Ser Artys Arryn has been conflated by singers with a previous legendary First Men figure known as the [[Winged Knight]].
+
+The Winged Knight was a legendary figure of the [[Age of Heroes]] - made a knight by singers and storytellers as [[knighthood]] was an Andal tradition - said to have flown upon a huge falcon and had armies of eagles at this command. He won the Vale by slaying the [[Griffin King]] atop the Giant's Lance. He is said to have been friendly with [[giants]] and merlings. His [[Marriage|wife]], one of the [[Children of the Forest|children of the forest]], died giving birth to his son. [[Order of Maesters|Maester]] [[Yandel]] speculates singers conflated the two figures to curry favor with the Arryn dynasty, giving rise to legends that Ser Artys was the Winged Knight who drove the First Men from the Vale and took the [[Eyrie]], instead of its construction being carried out by descendants of Ser Artys ever since his grandson, Roland I Arryn, ordered it.
+
+Although Artys and the Winged Knight are presented as the same in the [[Histories & Lore: Season 1|first season]] of ''[[Histories & Lore]]'' by [[Catelyn Stark]], the [[Histories & Lore: Season 6|sixth season]] of ''Histories & Lore'' presents the story of the true Artys Arryn.
+
+==Appearances==
+*{{H&L|House Arryn}} {{Illustrated}}
+*{{H&L|The Vale}} {{Illustrated}}
+*{{H&L|Knights of the Vale}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Arryn}}
+{{Kings of Westeros}}
+
+<!--Categories-->
+{{DEFAULTSORT:Arryn, Artys}}
+[[Category:Andals]]
+[[Category:House founders]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Kings of the Mountain and the Vale|Artys Arryn]]
+[[Category:Knights]]
+[[Category:Legendary figures]]
+[[Category:Members of House Arryn|Artys Arryn]]
+[[Category:Valemen]]
+
+<!--Languages-->
+[[de:Artys Arryn]]
+[[fr:Artys Arryn]]
+[[ru:Артис Аррен]]

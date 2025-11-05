@@ -1,0 +1,38 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Crownlander
+| Image        = Antlers Pin.png
+| Type         = Castle
+| Status       = 
+| Location     = The [[Crownlands]], [[Westeros]]
+| Population   = 
+| Rulers       = [[House Buckwell]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Antlers'''{{Guideref|Map of Westeros}} is a castle in the [[Crownlands]], the region controlled directly by the [[Iron Throne]] in [[King's Landing]]. The castle is located north of King's Landing near the border with the [[Riverlands]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Antlers is the seat of House Buckwell. It is alternatively called "the Antlers."
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Crownlands}}
+
+<!--Categories-->
+[[Category:Castles of the Crownlands]]
+
+<!--Languages-->
+[[de:Geweih]]
+[[es:Astas]]
+[[ru:Оленьи Рога]]
+[[zh:鹿角堡]]

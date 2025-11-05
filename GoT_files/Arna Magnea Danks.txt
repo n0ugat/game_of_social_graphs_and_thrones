@@ -1,0 +1,20 @@
+{{Crew
+|Image = Arnoddur Magnus Danks.jpg
+|dateofbirth = {{WPS|1970}}
+|birthplace = {{WPS|Reykjavík}}, {{WPS|Iceland}}
+|job = Stunt Performer
+|imdb = https://www.imdb.com/name/nm2049261/
+|twitter = }}
+'''Arna Magnea Danks Danks''' (born 1970) is an Icelandic stunt performer, fight director and actress.
+
+In ''[[Game of Thrones]]'', she was a stunt performer and fight director in the [[Game of Thrones: Season 4|fourth season]] episode "[[Two Swords]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 4|yes}}
+
+==See also==
+*{{IMDb
+|# = 2049261}}
+{{DEFAULTSORT:Danks, Arna Magnea}}
+[[Category:Stunt performers of Game of Thrones]]

@@ -1,0 +1,55 @@
+{{Canonicity|Canon}}
+{{MapNeeded}}
+{{Heraldry
+| Image = House Marbrand.svg
+| Link  = House Marbrand
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Lannister
+| Image        = 701 BtS Map Ashemark.png
+| Type         = Castle
+| Status       = 
+| Location     = The [[Westerlands]], [[Westeros]]
+| Population   = 
+| Rulers       = [[House Marbrand]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+{{Quote|You've been to Ashemark?|[[Jaime Lannister]]|Valar Morghulis}}
+'''Ashemark'''{{Ref|GOT210}} is a stronghold in the [[Westerlands]]. It is the seat of [[House Marbrand]], a noble house sworn to [[House Lannister]] of [[Casterly Rock]]. It is located close to where the [[Tumblestone]] river begins, southeast of the [[Crag]] and northeast of Casterly Rock.
+
+==Behind the scenes==
+*Ashemark is misspelled as "Ashmark" on the [[Painted Table]].<ref>"[[Stormborn]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Ashemark is the seat of House Marbrand.
+
+After the [[Battle of Oxcross]] opened up the northern Westerlands to [[Robb Stark]]'s army, his forces easily captured Ashemark. For some reason, the TV series doesn't refer to a minor engagement at the "Battle of Ashemark", instead referring to a [[battle at the Yellow Fork]] taking place around the same point. It seems that they changed the name to avoid confusion with [[Ashford]], which is a castle in the Reach. It is possible that the "Yellow Fork" is meant to be the tributary of the Tumblestone, which is itself a tributary of the [[Trident]] River system, with its three main forks also named after colors: [[Red Fork|Red]], [[Blue Fork|Blue]], and [[Green Fork|Green]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Marbrand}}
+{{Westerlands}}
+
+<!--Categories-->
+[[Category:Castles of the Westerlands]]
+[[Category:House Marbrand]]
+
+<!--Languages-->
+[[de:Aschmark]]
+[[es:Marcaceniza]]
+[[fr:Cendremarc]]
+[[it:Ashemark]]
+[[nl:Essenmark]]
+[[pl:Ashemark]]
+[[ru:Эшмарк]]
+[[zh:烙印城]]

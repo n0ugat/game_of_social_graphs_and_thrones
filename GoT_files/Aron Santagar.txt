@@ -1,0 +1,83 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = Unknown.svg
+| Link  = 
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Lannister
+| Image       = Aron Santagar.jpg
+| Birth       = At Spottswood
+| Death       = 
+| House       = 
+| Affiliation = [[House Baratheon of King's Landing]]
+| Titles      = [[Knighthood|Ser]]<br>[[Master-at-arms]] at the [[Red Keep]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Dornishmen|Dornish]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 1|1]]
+| Appearances = "[[The Pointy End]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = Unidentified
+}}
+{{Quote|Ser Aron.|[[Sansa Stark]] greets Aron Santagar|The Pointy End}}
+Ser '''Aron Santagar'''{{Con|ASOIAF}} was a [[Knighthood|knight]].
+
+==Biography==
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+Ser Aron is present at a court session in the [[Red Keep]], in which [[Janos Slynt]] is created Lord Slynt and given the castle of [[Harrenhal]], and later [[Barristan Selmy]] is dismissed from the [[Kingsguard]]. When [[Sansa Stark|Sansa]] appears to ask for mercy for [[Eddard Stark|her father]], she greets Ser Aron, though he turns away.{{Ref|GOT108}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Ser Aron Santagar is the Master-at-Arms of the Red Keep. He is Dornish, as revealed in the fourth novel,{{Bookref|AFFC|24}} and is described by Ser [[Rodrik Cassel]] as a vain but honest man.{{Bookref|AGOT|18}}
+
+In the first book, Ser Aron is secretly approached by Ser Rodrik to see if he might recognize the dagger used by the [[Catspaw|assassin]] sent to murder [[Bran Stark|Bran]].{{Bookref|AGOT|18}} He also participates in the Tourney of the Hand.{{Bookref|AGOT|29}}
+
+Upon their arrival in King's Landing, [[Tyrion Lannister|Tyrion]] sends [[Podrick Payne|Podrick]] to Ser Aron for training. Pod's training comes to an end when Ser Aron is killed.{{Bookref|AFFC|14}}
+
+During the [[riots in King's Landing]], Tyrion sees Ser Aron being pulled from his saddle, the gold-and-black Baratheon stag torn from his grasp. His body is later found in a gutter, his head a red pulp inside a crushed helm. According to [[Sandor Clegane|the Hound]], four men held Ser Aron down and took turns bashing at his head with a cobblestone; the Hound intervened and gutted one, but his action did not save Ser Aron's life.{{Bookref|ACOK|41}}
+
+In the parallel episode scene of the riot, several courtiers are shown to be attacked by the rioting mob; it is unclear if any of these were meant to be Ser Aron.
+
+While Ser Aron died in the second novel, as of the fifth novel no specific replacement for him as Master-of-Arms at the Red Keep has been mentioned.
+
+[[Tommen Baratheon|Tommen]], who has befriended [[Loras Tyrell]], tells [[Cersei Lannister|his mother]] he wishes Loras to be the new Master-of-Arms. [[Jaime Lannister|Jaime]] thinks too that Loras is a good choice, but Cersei - who deeply loathes all the [[House Tyrell|Tyrells]] - refuses to hear about it, and contemplates about appointing a Dornish for the office (because that would annoy the Tyrells).{{Bookref|AFFC|24}}
+
+==Appearances==
+*{{GOT|The Pointy End}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Baratheon of King's Landing}}
+
+<!--Categories-->
+{{DEFAULTSORT:Santagar, Aron}}
+[[Category:Dornishmen]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Knights]]
+[[Category:Masters-at-arms]]
+[[Category:Nobles]]
+
+<!--Languages-->
+[[fr:Aron Santagar]]
+[[it:Aron Santagar]]
+[[ru:Арон Сантагар]]

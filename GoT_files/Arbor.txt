@@ -1,0 +1,75 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Redwyne.svg
+| Link  = House Redwyne
+}}
+{{Region
+| Title      = {{PAGENAME}}
+| Theme      = Bronn
+| Image      = Oldtown Complete Guide to Westeros.png
+| Type       = 
+| Location   = The [[Reach]], [[Westeros]]
+| Geography  = Large island<br>Temperate to sub-tropical
+| Population = 
+| Rulers     = [[House Redwyne]]
+| Culture    = 
+| Religion   = [[Faith of the Seven]]
+| Military   = 
+| Capital    = 
+| Castles    = 
+| Cities     = 
+| Towns      = [[Ryamsport]] {{*}} [[Starfish Harbor]] {{*}} [[Vinetown]]
+| Villages   = 
+| Places     = 
+| Founded    = 
+}}
+{{Quote|I have a dry red from the Arbor. Nectar of the gods.|The [[wineseller]] to [[Daenerys Targaryen]]|You Win or You Die}}
+[[Image:Arbor Location.png|thumb|right|200px|Map showing the location of the Arbor off the coast of [[Westeros]].]]
+The '''Arbor'''{{Ref|GOT107}} is a large island off the southwestern coast of [[Westeros]], separated from the mainland by the [[Redwyne Straits]]. It is part of the [[Reach]] and its rulers, [[House Redwyne]], hold fealty to [[House Tyrell]] of [[Highgarden]]. House Redwyne controls a [[Redwyne fleet|large fleet]] from the Arbor. The Arbor is famous across much of the known world for its high-quality wines.
+
+==History==
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+The poisoned wine, which a wineseller in [[Vaes Dothrak]] offers [[Daenerys Targaryen|Daenerys]] in attempt to kill her, is said to have originated from the Arbor.<ref>"[[You Win or You Die]]"</ref>
+
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+[[Stannis Baratheon|Stannis]] composes a letter revealing the truth of [[Cersei Lannister|Cersei]]'s incestuous relationship with her brother [[Jaime Lannister|Jaime]], that Jaime is the real father of [[Joffrey Baratheon|Joffrey]], and orders that copies of the letter be sent to every corner of Westeros, "from the Arbor to the [[Wall]]".<ref>"[[The North Remembers]]"</ref>
+
+===[[Game of Thrones: Season 7|''Game of Thrones'': Season 7]]===
+[[Arya Stark|Arya]], posing as the late [[Walder Frey]], entices the Frey families to toast with "the finest Arbor Gold" wine, calling it "a proper wine, for proper heroes". In truth, the wine was actually laced with poison, resulting in all the Frey men who drank it to cough up blood and drop down dead.<ref>"[[Dragonstone (episode)|Dragonstone]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the Arbor is the biggest shipyard in Westeros. Its fleet is the largest in the realm, consisting of more ships than the [[royal fleet]] and the [[Iron Fleet]] together.
+The Arbor has a warm and pleasant climate, due to its position surrounded by water off Westeros's southern coast. This climate is ideal for viticulture, and the Arbor is home to vast vineyards. Locations on the Arbor include Starfish Harbor and Vinetown.
+
+[[Samwell Tarly|Sam]] was sent to the Arbor as a page and [[cupbearer]], where Horas and Hobber Redwyne despised him and found many different ways to shame and humiliate him. Had he pleased Lord [[Paxter Redwyne|Paxter]], Samwell would have been betrothed to his daughter, but was ultimately sent home to [[Horn Hill]].
+
+In the fourth novel, the Arbor is attacked by [[Euron Greyjoy]], following the fall of the [[Shield Islands]]. Since most of the Redwyne fleet is away at the siege of Dragonstone, the small fleet left to defend the island is soon overwhelmed and destroyed. The [[ironborn]] sack Ryamsport and take Vinetown and Starfish Harbor for their own, as well as several of the neighboring islands, using them as bases to send their ships into the Whispering Sound and threaten [[Oldtown]].
+
+==Appearances==
+*{{GOT|You Win or You Die}} {{Mentioned}}
+*{{H&L|The Order of the Maesters}} {{Map}}
+*{{GOT|The North Remembers}} {{Mentioned}}
+*{{GOT|The Night Lands}} {{Mentioned}}
+*{{GOT|The Dance of Dragons}} {{Mentioned}}
+*{{GOT|Dragonstone}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Redwyne}}
+{{Reach}}
+
+<!--Categories-->
+[[Category:House Redwyne]]
+[[Category:Islands]]
+[[Category:Reach]]
+
+<!--Languages-->
+[[de:Arbor]]
+[[pl:Arbor]]
+[[ru:Арбор]]
+[[zh:青亭岛]]

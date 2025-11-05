@@ -1,0 +1,37 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Free
+| Image        = 
+| Type         = Island citadel
+| Status       = 
+| Location     = [[Braavos]], the [[Free Cities]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = 
+| Places       = 
+| Founded      = 
+}}
+The '''Arsenal of Braavos'''{{Ref|H&L504}} is an island citadel guarding the sea entrance to the [[Free Cities|Free City]] of [[Braavos]]. It is located at the entrance to the lagoon, just beyond the [[Titan of Braavos|Titan]].<ref>"[[Braavos (short)|Braavos]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels the Arsenal sits upon a knob of rock, fortified with stone battlements and bristling with scorpions, trebuchets, and spitfires. The Arsenal is also a dock with room for dozens of galleys. It houses the defense fleet of the city and is the center of shipbuilding in Braavos. It is said that a war galley can be built in a day there.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Arsenal}}
+
+<!--Navboxes-->
+{{Braavos}}
+
+<!--Categories-->
+[[Category:Braavos]]
+[[Category:Islands]]
+
+<!--Languages-->
+[[pt-br:Arsenal de Braavos]]
+[[ru:Арсенал Браавоса]]

@@ -1,0 +1,68 @@
+{{Canonicity|Non}}
+{{Heraldry
+| Leftimage  = House Swann.svg
+| Leftlink   = House Swann
+| Rightimage = House Umber.svg
+| Rightlink  = House Umber
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Stark
+| Image       = Umber lineage.jpg
+| Birth       = At [[Stonehelm]]
+| Death       = 
+| House       = [[House Swann|Swann]]<br>[[House Umber|Umber]] {{C|by marriage}}
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Andals|Andal]]
+| Religion    = [[Faith of the Seven]]
+| Father      = {[[Ector Swann]]}
+| Mother      = {[[Eleanor Swann]]}
+| Spouse      = {[[Iain Umber (son of Gareth)|Iain Umber]]}
+| Lovers      = 
+| Children    = {[[Iain Umber]]}
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+Lady '''Arwen Swann''' was a member of [[House Swann]]. 
+
+==Biography==
+===Background===
+Arwen Swann was the daughter of [[Ector Swann]] and [[Eleanor Swann]]. She married [[Iain Umber (son of Gareth)|Iain Umber]] and bore him a son, also named [[Iain Umber]].{{Ref|GOT104}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+She is referenced in her husband's entry in ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]''.{{Ref|GOT104}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no such character.
+
+==Appearances==
+*{{GOT|Cripples, Bastards, and Broken Things}} {{Text}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House Umber}}
+
+<!--Categories-->
+{{DEFAULTSORT:Swann, Arwen}}
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Ladies]]
+[[Category:Members of House Swann|Arwen Swann]]
+[[Category:Members of House Umber|Arwen Swann]]
+[[Category:Stormlanders]]
+
+<!--Languages-->
+[[es:Arwen Swann]]
+[[fr:Arwen Swann]]
+[[ru:Арвен Сванн]]

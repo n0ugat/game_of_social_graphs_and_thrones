@@ -1,0 +1,47 @@
+{{Canonicity|Canon}}
+{{Spoiler|AKOTSK}}
+{{Heraldry
+| Image = House Ashford.svg
+| Link  = House Ashford
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Bronn
+| Image        =
+<gallery>
+Ashford.png|Appearance
+Ashford Pin.png|Location
+</gallery>
+| Type         = Castle
+| Status       = 
+| Location     = [[Ashford]], the [[Reach]]
+| Population   = 
+| Rulers       = [[House Ashford]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+{{Quote|We tried to take Ashford Castle in the Reach but the Tyrells beat us back.|[[Robert Baratheon]]|Robert's Rebellion - House Baratheon}}
+'''Ashford Castle'''{{Ref|H&L114}} is a castle in the [[Reach]]. It is located in the town of [[Ashford]] and ruled by [[House Ashford]].
+
+==Behind the scenes==
+The exterior of Ashford Castle is portrayed by Myra Castle in County Down, Northern Ireland. It is the same castle that portrays the exterior of the [[Dreadfort]].{{Webref|name=Redanian |author=Gravemaster |date=April 23, 2024 |url=https://redanianintelligence.com/2024/04/23/the-hedge-knight-revisit-iconic-game-of-thrones-filming-locations/ |title=The Hedge Knight To Revisit Iconic Game of Thrones Filming Locations |website=Redanian Intelligence |access-date=April 23, 2024}}
+
+==In the books==
+In the [[Dunk & Egg novellas]], Ashford Castle is a small, triangular castle with round thirty-foot towers connected by thick crenelated walls. Its Great Hall is decorated with tapestries of fruits and flowers.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Ashford}} {{Spoilers|AKOTSK}}
+
+<!--Navboxes-->
+{{House Ashford}}
+{{Reach}}
+
+<!--Categories-->
+[[Category:Castles of the Reach]]
+[[Category:House Ashford|Castle]]

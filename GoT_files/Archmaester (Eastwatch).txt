@@ -1,0 +1,53 @@
+{{DISPLAYTITLE:Archmaester {{C|Eastwatch}}}}
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Order of Maesters.svg
+| Link  = Order of Maesters
+}}
+{{Character
+| Title       = Archmaester
+| Type        = Citadel
+| Image       = Archmaester Eastwatch.png
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[Order of Maesters]]{{Ref|GOT705}}
+| Titles      = [[Archmaester]]{{Ref|GOT705}}
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 7|7]]
+| Appearances = "[[Eastwatch]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Philip O'Sullivan]]
+}}
+{{Quote|It brings to mind the work of Jenny of Oldstones, the charlatan who claimed to descend from the Children of the Forest.|Archmaester|Eastwatch}}
+This '''man''' is an [[Archmaester]] of the [[Citadel]].
+
+==Biography==
+===[[Game of Thrones: Season 7|''Game of Thrones'': Season 7]]===
+He met with the other [[Archmaester]]s of the [[Citadel]] to discuss a [[raven]] they had received from [[Order of Maesters|Maester]] [[Wolkan]] of [[Winterfell]] claiming that [[Bran Stark]] has seen the [[Night King]] and his army marching on [[Eastwatch-by-the-Sea]] through [[warg]]ing. He compared the content of the message to the work of [[Jenny of Oldstones]], a woodswitch who claimed to be descended from the [[Children of the Forest]].{{Ref|GOT705}}
+
+==Appearances==
+*{{GOT|Eastwatch}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+[[Category:Archmaesters]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Westerosi]]
+
+<!--Languages-->
+[[ru:Архимейстер (Восточный дозор)]]
