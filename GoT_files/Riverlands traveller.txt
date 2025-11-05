@@ -1,0 +1,55 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Tully
+| Image       = Riverrun traveler.jpg
+| Birth       = In the [[Riverlands]]
+| Death       = 
+| House       = 
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Riverlands|Rivermen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 3|3]]
+| Appearances = "[[Dark Wings, Dark Words]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Joe Purcell]]
+}}
+{{Quote|That's him, all right. I saw him fight at the tourney for Ser Willem Frey's wedding.|The Riverlands traveller to [[Locke]]|Dark Wings, Dark Words}}
+A '''Riverlands traveller''' was from the [[Riverlands]].
+
+==Biography==
+===Background===
+He is a peasant who travels through the [[Riverlands]] to trade and sell.{{Ref|GOT302}}
+
+===[[Game of Thrones: Season 3|''Game of Thrones'': Season 3]]===
+He sees [[Jaime Lannister|Jaime]] and [[Brienne of Tarth|Brienne]] travel in the Riverlands, and tips them off to [[Locke]]. Locke commands the [[House Bolton|Bolton]] men to give him the reward.{{Ref|GOT302}}
+
+==In the books==
+There is no mention of a traveller in the books. The noise Brienne and Jaime made while fighting was what led to their capture by a dozen of the Brave Companions, a [[Mercenary|sellsword]] company led by Vargo Hoat, the book counterpart of Locke.
+
+==Appearances==
+*{{GOT|Dark Wings, Dark Words}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Rivermen]]
+[[Category:Smallfolk]]
+
+<!--Languages-->
+[[ru:Путник из Риверрана]]

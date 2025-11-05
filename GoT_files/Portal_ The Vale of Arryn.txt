@@ -1,0 +1,20 @@
+{|style="width:100%; margin:0; background:#1e5467; font-size:120%; font-weight:bold; border:4px groove #C0C0C0; text-align:center; color:#C0C0C0; padding:0.2em 0.4em;"
+|colspan="5" style="text-align:center;" |The Vale of Arryn
+|- align="center"
+|{{PortalIcon|image=Vale of Arryn.png|articlename=Vale of Arryn|name=The Vale of Arryn}}
+|{{PortalIcon|image=Arr-Portal.png|articlename=House Arryn|name=House Arryn}}
+|- align="center"
+|{{PortalIcon|image=The Bloody Gate.png|articlename=Bloody Gate|name=The Bloody Gate}}
+|{{PortalIcon|image=The Eyrie (Viewer's Guide).png|articlename=Eyrie|name=The Eyrie}}
+|- align="center"
+|{{PortalIcon|image=501 Runestone Littlefinger Sansa Sweetrobin training.jpg|articlename=Runestone|name=Runestone}}
+|{{PortalIcon|image=Roy-Portal.PNG|articlename=House Royce|name=House Royce}}
+|- align="center"
+|{{PortalIcon|image=Eastern Road.png|articlename=Mountains of the Moon|name=The Mountains of the Moon}}
+|{{PortalIcon|image=Shagga.jpg|articlename=Hill tribes|name=The hill tribes}}
+|- align="center"
+|{{PortalIcon|image=Alayne Littlefinger Royce 501.jpg|articlename=Petyr Baelish|name=Littlefinger}}
+|{{PortalIcon|image=HL5 Andals cross the Narrow Sea.png
+|articlename=Coming of the Andals|name=The coming of the Andals}}
+|}
+[[Category:Portals]]

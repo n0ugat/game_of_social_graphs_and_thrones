@@ -1,0 +1,33 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Owen Oakeshott.jpg
+| Birth   = 
+| Death   = 
+| Role    = [[Gerold Royce]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = "[[We Light the Way]]"
+| First   = 
+| Last    = 
+}}
+'''Owen Oakeshott''' is an actor. He has appeared in the film ''{{WPS|The Upside of Anger}}'' and the television series ''{{WPS|The Bill}}'', ''{{WPS|Bad Girls (TV series)|Bad Girls}}'', ''{{WPS|Outlander (TV series)|Outlander}}'' and ''{{WPS|Doctors (2000 TV series)|Doctors}}''.
+
+In ''[[House of the Dragon]]'', he portrayed Ser [[Gerold Royce]] in the [[House of the Dragon: Season 1|first season]].
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1|||||yes}}
+
+==See also==
+*{{IMDb|# = 1052995}}
+*{{Twitter|# = owenoakeshott}}
+*{{Facebook|# = owen.oakeshott}}
+*{{Linkedin|# = /in/owen-oakeshott-6b2a9a11}}
+
+<!--Categories-->
+{{DEFAULTSORT:Oakeshott, Owen}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--InterWiki-Links-->
+[[fr:Owen Oakeshott]]

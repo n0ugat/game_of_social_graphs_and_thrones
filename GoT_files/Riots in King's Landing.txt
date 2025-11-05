@@ -1,0 +1,97 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Distinguish|riot in King's Landing}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Thrones
+| Part          = the [[War of the Five Kings]]
+| Image         = KingsLandingFoodRiot.jpg
+| Previous      = [[Capture of Winterfell]]
+| Concurrent    = 
+| Next          = [[Battle at the Yellow Fork]]
+| Date          = [[299 AC]]{{Dateref|Game of Thrones: Season 2}}
+| Place         = [[King's Landing]], [[Crownlands]]
+| Outcome       = Rioters barely suppressed
+| Factions1     = {{COA|House Baratheon of King's Landing|small}} '''[[Iron Throne]]'''/[[House Baratheon of King's Landing|House Baratheon]]<br>{{COA|House Lannister|small}} [[House Lannister]]
+| Factions2     = Rioting [[Smallfolk]] in King's Landing
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = {{COA|House Baratheon of King's Landing|inline}} [[King of the Andals and the Rhoynar and the First Men|King]] [[Joffrey Baratheon]]<br>{{COA|House Lannister|inline}} [[Hand of the King|Lord]] [[Tyrion Lannister]]
+| Leaders2      = None
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = *{{COA|Kingsguard|inline}} 5 [[Kingsguard]]
+**[[Sandor Clegane]]
+**[[Knighthood|Ser]] [[Meryn Trant]]
+**[[Knighthood|Ser]] [[Mandon Moore]]
+**[[Knighthood|Ser]] [[Boros Blount]]
+**[[Knighthood|Ser]] [[Preston Greenfield]]
+*{{COA|City Watch of King's Landing|inline}} 2,000 City Watch guards
+*Token number of Lannister guardsmen
+| Participants2 = Several hundred rioting peasants and smallfolk
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = Several 
+*[[High Septon (Joffrey)|High Septon]]
+| Casualties2   = Heavy; several dozen rioters killed or wounded
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = Heavy
+}}
+{{Dialogue a-b|Joffrey Baratheon|I want these people executed!|Sandor Clegane|They want the same for you!|King [[Joffrey Baratheon]] and [[Sandor Clegane]]|The Old Gods and the New}}
+The '''riots in King's Landing'''{{Con|ASOIAF}} were an event during the [[War of the Five Kings]]. After seeing off [[Myrcella Baratheon|Myrcella]] at the docks on a ship bound for [[Dorne]], the royal procession including [[Joffrey Baratheon|Joffrey]] is subjected to the jeers of the starving crowds of the capital city, culminating in Joffrey foolishly ordering his outnumbered personal guard to execute the entire crowd, sparking off a city-wide riot.{{Ref|GOT206}}
+
+==History==
+===Background===
+Since the outbreak of the [[War of the Five Kings]], the problems in King's Landing have multiplied, particularly the worsening food shortages. The [[Crownlands]] do not produce enough food to feed the large population of King's Landing, so food is mostly imported from the [[Reach]] and the [[Riverlands]]. Food from the Riverlands stops arriving, because [[House Tully]] has sided with [[Robb Stark|Robb]]'s rebellion, and the southern portions of the Riverlands occupied by Lannister armies have either been foraged to feed the occupation force or put to the torch. Meanwhile, [[House Tyrell]] of the Reach has sided with [[Renly Baratheon|Renly]], cutting off food shipments to the capital along the [[Roseroad]]. Despite the [[Assassination of Renly Baratheon|Renly's recent assassination]], House Tyrell is still wavering on which faction to align with.
+
+The war in the Riverlands has also brought a large influx of refugees into King's Landing, seeking the protection of the city walls. This drastically exacerbates the food shortages. Lord Commander [[Janos Slynt]] of the City Watch had desperately tried to convince [[Cersei Lannister|Cersei]] that the dire situation was spiraling out of control, as did [[Tyrion Lannister|Tyrion]], who was serving as the acting [[Hand of the King]] at the time, but she waved aside such concerns.
+
+Furthermore, thanks to the letter sent by [[Stannis Baratheon|Stannis]] to all corners of the realm, the rumors about Joffrey's parentage, that he is really the [[incest]]uous [[bastard]] of Cersei and [[Jaime Lannister|Jaime]], are spreading among the nobles and the [[smallfolk]]. The commoners were also recently incensed by the [[Massacre in King's Landing|massacre]] of [[Robert Baratheon]]'s bastard children carried out by the [[City Watch of King's Landing|City Watch]] on Joffrey's orders.
+
+===The riot===
+{{Quote|They threw a cowpie at you, so you decide to <u>kill</u> them all?!  They're <u>starving</u>, you fool!  All because of a war <u>you</u> started!|[[Tyrion Lannister]] to King [[Joffrey Baratheon]]|The Old Gods and the New}}
+As the royal procession works their way back to the [[Red Keep]], crowds of peasants gather around them, and some began sarcastically shouting empty praise at Joffrey. Soon they are begging for bread, as they are starving due to the disruptions in trade caused by the war. Tyrion, sensing trouble, orders [[Tommen Baratheon|Tommen]] to be taken back to the Red Keep by an alternate route. After being subjected to the japes and jests of the crowd, including shouts of "bastard!", "monster of incest!", "Stannis!", and a sarcastic "Hail King Joffrey!" someone throws a cow pie at Joffrey's head.
+
+[[File:JoffreyAttackedSeason2.png|thumb|Joffrey during the riot.]]
+Enraged at the excrement thrown in his face, Joffrey demands that his guards seize whoever threw it. With mounting tension between his guards and the commoners nearby, Joffrey loses his temper, and screams: "Just kill them! Kill them all!" 
+[[File:High Septon torn.jpg|thumb|The High Septon is torn limb from limb by starving men and women.]]
+However, Joffrey discovers that his orders count for little when his guards are heavily outnumbered by a frenzied mob, rather than in the safety of the Red Keep with its large garrison. His few dozen guards, despite their weapons and armor, are outnumbered a hundred to one and chaos quickly ensues. Individual Lannister and City Watch men are swarmed by wild rioters whilst the [[High Septon (Joffrey)|High Septon]] is dragged down screaming by the crazed crowd and literally torn limb from limb. Tyrion is visibly horrified when he sees this and realizes that in the commotion, [[Sansa Stark|Sansa]] has been separated from the group, and begins frantically demanding where she is in hopes that she does not suffer a similar - or worse - fate as the High Septon did.
+[[File:Sansa Nearly Raped 206.jpg|thumb|220x220px|Sansa about to be raped by some rioters.]]
+The [[Kingsguard]] carve a path through the mob with their swords, barely managing to rush Joffrey, Cersei, and Tyrion to the security of the Red Keep. Joffrey, still hysterically demanding that all the rioters be executed, is slapped and scolded by Tyrion for inciting the starving crowd and absurdly overreacting to having cow dung thrown at him, describing him as a "vicious idiot". Tyrion continues the search for Sansa, but Joffrey petulantly refuses to order his Kingsguard to rescue her ([[Meryn Trant]] outright refusing when Tyrion orders him to look for her), even though she is a vital [[hostage]] and if any harm comes to her, Jaime will be killed by the [[House Stark|Starks]] in retaliation. It turns out that Sansa was chased by a handful of rioters before being pinned down in a stable, where she was nearly raped before [[Sandor Clegane|the Hound]] saves her and brings her to the Keep. When Tyrion thanks Sandor for saving Sansa and averting a political disaster, he responds, "I didn't do it for you."{{Ref|GOT206}}
+
+===Aftermath===
+Much of the city remains in chaos for some time, with random violence and looting spreading across the capital. The pent up frustrations with Lannister rule and the starvation conditions in the city, which Cersei had flippantly ignored for months, now came back to haunt Joffrey's court. So far, along with the [[Battle of the Blackwater]], this has been one of two occasions during his reign in which Joffrey was very nearly deposed and killed. It also served to show how little loyalty he really had among the people.
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the party of nobles and their guards are horseback not on foot. The riot begins after a woman walks out before Joffrey's horse, halting the procession. She holds up her dead baby, which died from malnutrition. Tyrion sees Sansa say something to Joffrey, and Joffrey callously tosses one silver coin at the woman. It bounces off the dead baby to roll into the crowd, where people fight over it. The woman begins screaming insults at Joffrey and Cersei - shouting that they are a "bastard" and a "brother-fucker", respectively. The crowd takes this up as well and then someone throws manure at Joffrey, who demands that the culprit be executed. He foolishly sends the Hound in the general direction of where the culprit was and makes him cut through the crowd, which sends them into a frenzy, causing the riot to break out. Curses shower down on the party, further inflaming the situation. While other rioters called out the names of Robb, Stannis, and Renly, many of them call out for bread. 
+
+In the ensuing violence, Ser [[Preston Greenfield]] of the Kingsguard and Ser [[Aron Santagar]], the Red Keep's [[master-at-arms]], are killed. Nine [[City Watch of King's Landing|Gold Cloaks]] are also killed and forty are wounded. [[Lollys Stokeworth]], the [[Halfwit|feeble-witted]] second daughter of [[Tanda Stokeworth]], is raped by dozens of men, and is found wandering naked and in shock by the Gold Cloaks. [[Tyrek Lannister]] — one of [[Robert Baratheon|Robert]]'s former squires and son of Tyrion's late uncle [[Tygett Lannister|Tygett]] — disappears, and he was never found. Nobody bothers to count all the rioters that died. The High Septon is torn limb from limb in the book, leading Tyrion to quip that "''starving men take a dim view of priests too fat to walk''". His crystal crown is also stolen.
+
+The book does not indicate if there was an attempt to rape Sansa. The Hound does rescue her and bring her back within the castle, after all of the knights inside refuse to risk going out again, but this chapter is narrated from Tyrion's POV, so the details of her rescue are not shown. When she is brought back, she has a deep bleeding gash on her scalp, and says, "They... they were throwing things... rocks and filth, eggs... I tried to tell them, I had no bread to give them. A man tried to pull me from the saddle. The Hound killed him, I think. His arm... he cut off his arm."
+
+After the riots, Tyrion orders a curfew from dusk to dawn, with the penalty that anyone found on the streets will be executed. This measure is horribly unpopular, but curtails the nightly murder-robberies that have been taking place. The growing danger in the city is what prompts Tyrion to bring [[Shae]] into the Red Keep for safety. With [[Varys]]'s help, he gets her a position as handmaiden to Lollys Stokeworth, who becomes pregnant after being raped. Tyrion and Varys both try very hard to find Tyrek, to no avail.
+[[File:Gold cloaks.jpg|thumb]]
+In the fourth novel, someone asks Jaime if Tyrek has been found. Jaime initially states that the rioters presumably killed Tyrek and then dumped his body in the [[Blackwater Rush|river]] when they realized who he was for fear of [[Tywin Lannister|Tywin]]'s wrath, but in private, Jaime later wonders if [[Varys]] might have been involved. As he was told, Varys was not present to see Myrcella off to Dorne, thereby avoiding the riot. He had [[little birds|agents and informers]] all over the city, so he probably knew the riot was about to happen, but did not forewarn Cersei; it would have been easy for Varys to have his agents kidnap Tyrek in the confusion (and Varys's people may have potentially sparked the riot in the first place to provide the opportunity). Since the youth served as Robert's squire alongside Lancel, he might have had knowledge about the circumstances surrounding [[Assassination of Robert Baratheon|the king's death]]; such knowledge is highly valuable, a fact which Varys knew well. It is unknown whether Jaime's suspicion is correct, and what has become of Tyrek.{{Bookref|AFFC|27}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{War of the Five Kings}}
+
+<!--Categories-->
+[[Category:299 AC]]
+[[Category:Events]]
+[[Category:War of the Five Kings]]
+
+<!--Languages-->
+[[de:Aufstand von Königsmund]]
+[[fr:Émeute de Port-Réal]]
+[[ru:Бунт в Королевской Гавани]]

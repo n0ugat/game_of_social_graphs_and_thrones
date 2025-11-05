@@ -1,0 +1,61 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Westeros
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = 
+| Titles      = [[King]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Westeros]]i
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = {Brother}
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Orys the First was just. Everyone applauded his reforms. Nobles and commoners alike. But he wasn't just for long. He was murdered in his sleep after less than a year by his own brother. Was that truly just of him? To abandon his subjects to an evil that he was too gullible to recognize?|Tywin Lannister to Tommen Baratheon|Breaker of Chains}}
+'''Orys I''' was a king who ruled in [[Westeros]] at some point prior to the [[War of the Five Kings]].
+
+==Biography==
+===Background===
+King Orys the First was a king that once ruled in the continent of [[Westeros]]. He was devoted to being just, enacting reforms that were praised by both [[smallfolk|commoners]] and nobles alike. Yet he was [[regicide|murdered]] in his sleep by [[kinslaying|his own brother]], after ruling for less than a year. The reforms of his reign did not last long, after his evil brother [[Usurper|usurped]] his throne. Later generations came to see Orys the First as an infamous example of a well-intentioned and just monarch, who nonetheless severely harmed his realm and the people he ruled over, because he would not deal pragmatically with unjust political realities (and thus could not see the threat his own brother posed).{{Ref|GOT403}}
+
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+[[Tywin Lannister|Tywin]] recounts the story of Orys the First to his grandson [[Tommen Baratheon|Tommen]], soon after the [[Purple Wedding|Joffrey's assassination]], which means that Tommen will now be crowned king. Tywin questions Tommen on what qualities he thinks a good king needs, and when he suggests "Justice", Tywin points out that a just nature alone did not make Orys the First a good king for his people.{{Ref|GOT403}}
+
+==In the books==
+There is no "King Orys the First" in the ''[[A Song of Ice and Fire]]'' novels - and a full listing exists for ''every'' monarch to ever sit on the [[Iron Throne]]. The only character by that name is [[Orys Baratheon]], but he never was a king (nor was he murdered by his brother). There is the possibility that he was a local king before the Seven Kingdoms were unified, in spite of the Valyrian-sounding name. Nor does any Targaryen king match the description given for him: enacting well-received reforms but ruling less than a year before his own brother murdered him in his sleep.
+
+As Elio Garcia of Westeros.org, co-author of ''The World of Ice & Fire'' sourcebook explained, this was also not simply a matter of Charles Dance (Tywin) mispronouncing a name, because he had seen the broadcast script, and it clearly said "Orys the First" (the on-screen subtitles also spell this name the same way). Garcia stated that the TV writers had apparently just invented this "Orys the First" and he doesn't correspond to any character from the books. In order to reconcile this, Garcia thinks "Orys the First" should probably be interpreted as just a king of the independent [[Stormlands]], from long before the Targaryen Conquest - in which case he was not one of the established Targaryen kings but a local king of [[House Durrandon]]. This would make his full name "Orys I Durrandon". In Garcia's view then, Tywin was not speaking of a king on the Iron Throne, but of an infamous local king remembered centuries later. Garcia also pointed out that "Orys" was not a common name used in the Stormlands until ''after'' Orys Baratheon became their new ruler during the Targaryen Conquest.<ref>[http://asoiaf.westeros.org/index.php/topic/107962-spoilers-nitpicking-with-impunity/page-3#entry5673304 Westeros.org forum, "King Orys the First"?]</ref>
+
+==Appearances==
+*{{GOT|Breaker of Chains}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{Kings of Westeros}}
+
+<!--Categories-->
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Kings]]
+[[Category:Westerosi]]
+
+<!--Languages-->
+[[fr:Orys I]]
+[[ru:Орис I]]

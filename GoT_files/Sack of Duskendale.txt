@@ -1,0 +1,90 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Dragon
+| Part          = the [[Dance of the Dragons]]
+| Image         = TRDATG Duskendale.jpg
+| Previous      = [[Submission of Stokeworth]]
+| Concurrent    = [[Blockade of the Gullet]]
+| Next          = [[Battle at Rook's Rest]]
+| Date          = [[132 AC]]{{Dateref|House of the Dragon: Season 2}}
+| Place         = [[Duskendale]], the [[Crownlands]]
+| Outcome       = Strategic [[Greens|Green]] victory
+*[[Duskendale]] is captured by the Greens
+*Lord [[Gunthor Darklyn]] is executed by Ser [[Criston Cole]]
+*[[House Darklyn]] switches sides, swearing allegiance to the Greens
+| Factions1     = {{COA|Greens|s}} [[Greens]]
+*{{COA|House Hightower/House of the Dragon|i}} [[House Hightower/House of the Dragon|House Hightower]]
+*{{COA|House Rosby|i}} [[House Rosby]]
+*{{COA|House Stokeworth|i}} [[House Stokeworth]]
+| Factions2     = {{COA|Blacks|s}} [[Blacks]]
+*{{COA|House Darklyn|i}} [[House Darklyn]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = {{COA|Kingsguard/House of the Dragon|i}} Ser [[Criston Cole]]<br>{{COA|House Hightower/House of the Dragon|i}} Ser [[Gwayne Hightower]]
+| Leaders2      = {{COA|House Darklyn|i}} Lord [[Gunthor Darklyn]] {{Executed}}
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = *Green army
+**Targaryen-Hightower knights
+**Rosby and Stokeworth levies
+| Participants2 = *Duskendale Darklyn garrison
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = Minimal
+| Casualties2   = Heavy
+*Significant Darklyn casualties
+*Lord Gunthor Darklyn {{Executed}}
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = Unknown
+}}
+{{Quote|Is there no honor left in this world, Cole? Sacking your queen's own castles and putting her people to the sword?|Gunthor Darklyn|The Red Dragon and the Gold}}
+The '''sack of Duskendale''' was an engagement of the [[Dance of the Dragons]], part of Ser [[Criston Cole]]'s campaign in the [[Crownlands]] in [[132 AC]].{{Dateref|House of the Dragon: Season 2}} It ended in the capture of [[Duskendale]], the execution of Lord [[Gunthor Darklyn]], and the submission of the remainder of [[House Darklyn]] to the [[Greens]].{{Ref|HOTD204}}
+
+==History==
+===Prelude===
+After Ser [[Criston Cole]] is named [[Hand of the King]] by King [[Aegon II Targaryen|Aegon II]], he assembles a [[Greens|Targaryen]]-[[House Hightower/House of the Dragon|Hightower]] army in [[King's Landing]] and marches north on the [[Rosby Road]] to force the submission of all the noble houses of the [[Crownlands]] to the Greens. During their march to [[Rosby]], Criston's army is harassed by Lady [[Baela Targaryen]] and [[Moondancer]]. Subsequently, Criston began marching his army solely at night to exploit the treecover and mask his movements from the [[Blacks]].{{Ref|HOTD203}}
+
+During the initial part of his campaign, both Houses [[House Rosby|Rosby]] and [[House Stokeworth|Stokeworth]] willingly submitted to the Greens' cause, adding their forces to Criston's army. Upon arrival at [[Duskendale]], however, [[House Darklyn]], led by Lord [[Gunthor Darklyn]], remained defiant and refused to submit to the Greens, being loyal banners to the Blacks and Queen [[Rhaenyra Targaryen]]. As a result, Criston's army is forced to attack.{{Ref|HOTD204}}
+
+===Sack===
+On the day of the assault, Criston's army attack Duskendale, defended by Lord Gunthor and the town's Darklyn garrison. Despite their efforts, the Green army overcome the Darklyn defenders and breach the town's walls. Duskendale is sacked by the Green army, and the [[Dun Fort]] and Lord Gunthor are captured.{{Ref|HOTD204}}
+[[File:Rosby and Stokeworth soldiers.png|thumb|Rosby and Stokeworth levies in the Green army. ]]
+
+===Aftermath===
+After the battle, Criston assembles the remaining Darklyn forces on a beach outside Duskendale. He announces to the Darklyn soldiers that if they swear allegiance to Aegon and join his army to fight the Blacks, they will be spared. Those that refuse, however, will be marked as traitors and executed. At that moment, Lord Gunthor is brought before them in chains and taken to the edge of a breakwater nearby.{{Ref|HOTD204}}
+
+As Criston prepares to execute Gunthor, Gunthor rebukes him, asking Criston if he has any honor left for sacking his castle and putting the people of Duskendale to the sword in opposition to Rhaenyra. He mocks his moniker of "Kingmaker" before declaring him unfit as a knight of the [[Kingsguard/House of the Dragon|Kingsguard]]. Criston simply responds that Gunthor's execution is a better death than he deserves as a traitor. Gunthor's last words are that Criston's own death will come in time, as Criston publicly beheads Gunthor is front of his forces, who subsequently bend the knee.{{Ref|HOTD204}}
+
+With House Darklyn's forces added to his own army, Criston receives a message from [[Aemond Targaryen]] for him to move on [[Rook's Rest]]. He proceeds to march his army northeast from Duskendale, following the coast.{{Ref|HOTD204}}
+
+==Gallery==
+<gallery>
+File:S2 Darklyn Execution.jpg|Execution of Lord [[Gunthor Darklyn|Darklyn]].
+File:2x4 Gwayne Hightower Still.jpg|Fresh from the sack. 
+</gallery>
+
+==In the books==
+In ''[[Fire & Blood]]'', Duskendale was caught completely by surprise and quickly fell to Criston's forces. The city was sacked and the ships in the harbor were set afire. Most of the Darklyn household bent the knee to Aegon, but some stood beside Lord Darklyn and were executed for it.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Dance of the Dragons}}
+
+<!--Categories-->
+[[Category:132 AC]]
+[[Category:Dance of the Dragons]]
+[[Category:Sacks|Duskendale]]
+
+<!--Languages-->
+[[ru:Разгром Сумеречного Дола]]

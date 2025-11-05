@@ -1,0 +1,20 @@
+{{Crew
+|Image = Paul Jennings.jpg
+|dateofbirth = 
+|birthplace = 
+|job = Stunt Coordinator
+|imdb = https://www.imdb.com/name/nm8132428/
+|twitter = }}
+'''Paul Jennings''' is a stuntman, second unit director and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt coordinator in the [[Game of Thrones: Season 1|first season]].
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 1|yes|yes|yes|yes|yes|yes|yes|yes|yes|yes}}
+
+==See also==
+*{{IMDb
+|# = 0421230}}
+{{DEFAULTSORT:Jennings, Paul}}
+[[Category:Stunt performers of Game of Thrones]]

@@ -1,0 +1,69 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = House Qoherys.svg
+| Link  = House Qoherys
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Tully
+| Image       = 
+| Birth       = During the [[Century of Blood]], at [[Dragonstone]]
+| Death       = 
+| House       = [[House Qoherys|Qoherys]]
+| Affiliation = [[House Targaryen]]<br>[[House Tully]]
+| Titles      = [[Master-at-arms]] at [[Dragonstone]]<br>[[Lord of Harrenhal]]
+| Predecessor = {[[Harren Hoare]]}
+| Successor   = 
+| AKA         = 
+| Culture     = [[Valyrians|Valyrian]]
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|We should've torn down the castle stone by stone then but Harrenhal seemed such a magnificent prize Aegon gave it to one of his commanders, whose line then withered to extinction; as would every family to hold it thereafter.|[[Catelyn Stark]]|Harrenhal (short)}}
+Lord '''Quenton Qoherys'''{{Con|TWOI&F}} was the [[Lord of Harrenhal]] after [[Aegon's Conquest]].
+
+==Biography==
+Quenton served as a general of [[Aegon I Targaryen]]. After the [[Burning of Harrenhal]], the castle was given to him by Aegon, although his line eventually went extinct.{{Ref|H&L214}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Quenton Qoherys was the master-at-arms of Dragonstone castle, and was granted Harrenhal by Aegon the Conqueror, after which he married the daughter of his liege lord, [[Edmyn Tully]].
+
+==Appearances==
+*{{H&L|Harrenhal}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+{{DEFAULTSORT:Qoherys, Quenton}}
+[[Category:Bannermen of House Tully]]
+[[Category:Crownlanders]]
+[[Category:House founders]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Lords of Harrenhal]]
+[[Category:Masters-at-arms]]
+[[Category:Members of House Qoherys|Quenton Qoherys]]
+[[Category:Servants and retainers of House Targaryen]]
+
+<!--Languages-->
+[[fr:Quenton Qoherys]]
+[[ru:Квентон Квохерис]]

@@ -1,0 +1,58 @@
+{{Canonicity|Non}}
+{{Heraldry
+| Image = House Bolton.svg
+| Link  = House Bolton
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Bolton
+| Image       = 
+| Birth       = [[Age of Heroes]]{{Note|''[[Bloodmoon]]'' was set during the Age of Heroes. Rowly Bolton was a human, therefore he must have been born in this age.}}
+| Death       = 
+| House       = [[House Bolton|Bolton]]{{Webref|name=Redanian |author=Redanian Intelligence |date=November 21, 2024 |url=https://x.com/RedanianIntel/status/1859672534502998283 |title=Two king roles from the cancelled Bloodmoon prequel |website=X |access-date=December 28, 2024 }}
+| Allegiance  = 
+| Titles      = [[Red King]]{{Ref|H&L506}}
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[Bloodmoon]]'' {{Rejected}}
+| Season      = 
+| Appearances = [[Pilot (Bloodmoon)|Pilot]] {{Unreleased}}
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[James O'Driscoll]]
+}}
+'''Rowly Bolton''' was a [[Red King]] of [[House Bolton]] who lived during the [[Age of Heroes]].
+
+==Behind the scenes==
+On November 21, 2024, ''Redanian Intelligence'' revealed that [[James O'Driscoll]] had portrayed a character named King Rowly Bolton in ''[[Bloodmoon]]'', the rejected ''[[Game of Thrones]]'' [[World of Westeros|prequel]] [[Pilot (Bloodmoon)|pilot]].<ref name="Redanian" />
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels and its supplementary material, there is no mention of a character named Rowly Bolton. The character was invented by [[Jane Goldman]] for ''Bloodmoon''.
+
+==Appearances==
+*{{BM|Pilot}} {{Unreleased}} {{Nc}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{House Bolton}}
+{{Bloodmoon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Bolton, Rowly}}
+[[Category:Individuals from Bloodmoon]]
+[[Category:Members of House Bolton|Rowly Bolton]]
+[[Category:Red Kings|Rowly Bolton]]

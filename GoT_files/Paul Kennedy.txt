@@ -1,0 +1,36 @@
+{{Cast
+| Title       = {{PAGENAME}}
+| Type        = Dragon
+| Image       = Paul Kennedy.jpg
+| dateofbirth = 
+| birthplace  = Belfast, Northern Ireland, United Kingdom
+| role        = [[Eyrie guard]]<br>[[Jasper Wylde]]
+| status      = 
+| First       = "[[The House of Black and White]]"
+| Last        = 
+| Appearances = 12 episodes {{Below|Credits}}
+| imdb        = http://www.imdb.com/name/nm0448273/
+| twitter     = https://twitter.com/poljkennedi
+}}
+'''Paul Kennedy''' is as Irish actor and filmmaker. He has appeared in films such as ''Fifty Dead Men Walking'', ''Five Minutes of Heaven'', ''Cherrybomb'' and '' '71'' and television series such as ''Ripper Street'', ''Halo: Nightfall'' and ''The Fall''.
+
+In ''[[Game of Thrones]]'', he portrayed an [[Eyrie guard]] in the episode "[[The House of Black and White]]". In ''[[House of the Dragon]]'', he portrayed [[Jasper Wylde]].
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 5||yes}}
+
+===Co-starring===
+{{House of the Dragon: Season 1||||||yes||yes|yes}}
+{{House of the Dragon: Season 2|yes|yes|yes|yes|yes|yes|yes|yes}}
+
+==See also==
+*{{IMDb|#=0448273}}
+*{{Twitter|#=poljkennedi}}
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Kennedy, Paul}}
+[[Category:Co-starring cast members of House of the Dragon]]
+[[Category:Guest starring cast members of Game of Thrones]]

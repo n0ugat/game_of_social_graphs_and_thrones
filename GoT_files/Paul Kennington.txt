@@ -1,0 +1,29 @@
+{{Crew
+|Image = Paul Kennington.jpg
+|dateofbirth = 
+|birthplace = 
+|job = Stunt Performer
+|imdb = https://www.imdb.com/name/nm1300280/
+|twitter = https://twitter.com/pkstunts/}}
+'''Paul Kennington''' is a stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 2|second season]] episode "[[The Old Gods and the New]]" and the [[Game of Thrones: Season 3|third season]] episodes "[[The Rains of Castamere (episode)|The Rains of Castamere]]" and "[[Mhysa]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 2||||||yes}}
+{{Game of Thrones: Season 3|||||||||yes|yes}}
+
+==See also==
+*{{IMDb
+|# = 1300280}}
+*{{Twitter
+|# = pkstunts}}
+*{{Instagram
+|# = paulkennington}}
+*{{YouTube
+|# = channel/UC8ssD38Ad4fhZLykQ2n0qUA}}
+*{{Linkedin
+|# = /in/paul-kennington-a814a32b}}
+{{DEFAULTSORT:Kennington, Paul}}
+[[Category:Stunt performers of Game of Thrones]]

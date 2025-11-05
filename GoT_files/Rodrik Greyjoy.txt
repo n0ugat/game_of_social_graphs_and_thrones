@@ -1,0 +1,98 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Greyjoy.svg
+| Link  = House Greyjoy
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Greyjoy
+| Image       = Rodrik greyjoy.jpg
+| Birth       = 
+| Death       = [[289 AC]]{{Dateref|Greyjoy Rebellion}}<br>[[Seagard]], the [[Riverlands]]{{Ref|H&L202}}
+| House       = [[House Greyjoy|Greyjoy]]
+| Affiliation = 
+| Titles      = [[Prince]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Ironborn]]
+| Religion    = [[Drowned God]]
+| Father      = {[[Balon Greyjoy]]}
+| Mother      = {[[Alannys Greyjoy|Alannys Harlaw]]}
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = {[[Maron Greyjoy]]}<br>[[Yara Greyjoy]]<br>{[[Theon Greyjoy]]}
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|This isn't Winterfell, boy. Your sister took over command of your eldest brother's ship, after your new father killed him.|[[Balon Greyjoy]] to [[Theon Greyjoy]]|The Night Lands}}
+'''Rodrik Greyjoy''' was the son and heir of [[Balon Greyjoy]], [[Lord Reaper of Pyke]]. He was killed during the [[Greyjoy Rebellion]].
+
+==Biography==
+===Background===
+Rodrik was the oldest son of [[Balon Greyjoy]] and [[Alannys Greyjoy|Alannys Harlaw]].  Rodrik used to be the captain of the ''[[Black Wind]]''. After his father crowned himself [[King of the Iron Islands]] and rebelled against the Iron Throne, Rodrik was killed by Lord [[Jason Mallister]] at an [[assault on Seagard]].{{Ref|H&L202}} Balon blamed [[Eddard Stark]] for his son's death.{{Ref|GOT202}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+Tyrion mentions the deaths of Theon's brothers during the rebellion. He wonders what Balon would make of Theon's loyalty to [[House Stark]] given that he is Balon's only surviving son.{{Ref|GOT104}}
+
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+Balon reminds Theon the death of his brothers, bitterly demanding to know whether he has forgotten his own blood. Theon answers that he remembers his brothers. Balon mentions that Yara took over command of Rodrik's ship after his death.{{Ref|GOT202}}
+
+Theon tries to dissuade his father from [[Ironborn invasion of the North|his plan of invasion]], claiming that Robb won't give up the North so easily. Balon tells him harshly that his brothers were killed at the hands of those he seems so eager to protect.{{Ref|GOT203}}
+
+Theon reminds Ser [[Rodrik Cassel]] that his brothers were killed fighting Stark men, men like him; Ser Rodrik angrily retorts that they died fighting a war Theon's father started.{{Ref|GOT206}}
+
+===[[Game of Thrones: Season 6|''Game of Thrones'': Season 6]]===
+Yara reminds her father that the last time they provoked the mainlanders too far, they were crushed and her two oldest brothers were killed. Balon retorts that he lost three sons.{{Ref|GOT602}}
+
+==Family==
+{{Greyjoy tree}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Rodrik led a raid on the coastal castle [[Seagard]] during the Greyjoy Rebellion. He was killed by Lord [[Jason Mallister]] beneath the walls of Seagard.
+
+There is no mentioning in the novels that Rodrik was the former captain of the ''Black Wind''.
+
+In ''A Clash of Kings'' and ''A Dance with Dragons'' it is revealed that Rodrik and Maron used to bully Theon.{{Bookref|ACOK|11}}{{Bookref|ADWD|42}} Even after so many years, Theon still remembers the beating and cruel japes he suffered from them. He does not resent Lord Jason for killing Rodrik.
+
+==Appearances==
+*{{GOT|Cripples, Bastards, and Broken Things}} {{Indirect}}
+*{{GOT|The Night Lands}} {{Mentioned}}
+*{{GOT|What Is Dead May Never Die}} {{Indirect}}
+*{{GOT|The Old Gods and the New}} {{Indirect}}
+*{{H&L|Greyjoy Rebellion - Theon Greyjoy}} {{Illustrated}}
+*{{GOT|Home}} {{Indirect}}
+*{{H&L|The Greyjoy Rebellion}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Greyjoy}}
+
+<!--Categories-->
+{{DEFAULTSORT:Greyjoy, Rodrik}}
+[[Category:Individuals from Histories & Lore]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Ironborn]]
+[[Category:Members of House Greyjoy|Rodrik Greyjoy]]
+
+<!--Languages-->
+[[de:Rodrik Graufreud]]
+[[es:Rodrik Greyjoy]]
+[[fr:Rodrik Greyjoy]]
+[[it:Rodrik Greyjoy]]
+[[ru:Родрик Грейджой]]
+[[zh:罗德利克·葛雷乔伊]]

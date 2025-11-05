@@ -1,0 +1,25 @@
+{{Cast
+| Title= Paul Portelli
+| Image= Paul Portelli.jpg
+| dateofbirth= 
+| birthplace= 
+| role= Drunk man
+| status= 
+| First=
+| Last=
+| imdb= http://www.imdb.com/name/nm1015968/
+|Appearances = "[[Lord Snow]]"}}'''Paul Portelli''' is an actor based in Malta. In ''[[Game of Thrones]]'' he plays the role of a drunk man.
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 1|||yes}}
+
+==See also==
+*{{Template:IMDb
+|# = 1015968}}
+
+{{Stub}}
+
+[[ro:Paul Portelli]]
+{{DEFAULTSORT:Portelli, Paul}}
+[[Category:Guest starring cast members of Game of Thrones]]

@@ -1,0 +1,20 @@
+{|style="width:100%; margin:0; background:#1e5467; font-size:120%; font-weight:bold; border:4px groove #C0C0C0; text-align:center; color:#C0C0C0; padding:0.2em 0.4em;"
+|colspan="5" style="text-align:center;" |The Westerlands
+|- align="center"
+|{{PortalIcon|image=The Westerlands.png|articlename=Westerlands|name=The Westerlands}}
+|{{PortalIcon|image=Lan-Portal.png|articlename=House Lannister|name=House Lannister}}
+|- align="center"
+|{{PortalIcon|image=Casterly Rock.png|articlename=Casterly Rock|name=Casterly Rock}}
+|{{PortalIcon|image=Lannisport.png|articlename=Lannisport|name=Lannisport}}
+|- align="center"
+|{{PortalIcon|image=Tywin Lannister.jpg
+|articlename=Tywin Lannister|name=Tywin Lannister}}
+|{{PortalIcon|image=ReyneRebellion.png|articlename=Reyne-Tarbeck revolt|name=The Reyne-Tarbeck revolt}}
+|- align="center"
+|{{PortalIcon|image=The Winds of Winter 30.jpeg|articlename=Cersei Lannister|name=Cersei Lannister}}
+|{{PortalIcon|image=No One 01.jpg|articlename=Gregor Clegane|name=Gregor Clegane}}
+|- align="center"
+|{{PortalIcon|image=Blood of My Blood 11.jpg|articlename=Jaime Lannister|name=Jaime Lannister}}
+|{{PortalIcon|image=Game of Thrones Season 6 19.jpg|articlename=Tyrion Lannister|name=Tyrion Lannister}}
+|}
+[[Category:Portals]]

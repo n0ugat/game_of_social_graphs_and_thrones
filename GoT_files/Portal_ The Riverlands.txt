@@ -1,0 +1,19 @@
+{|style="width:100%; margin:0; background:#1e5467; font-size:120%; font-weight:bold; border:4px groove #C0C0C0; text-align:center; color:#C0C0C0; padding:0.2em 0.4em;"
+|colspan="5" style="text-align:center;" |The Riverlands
+|- align="center"
+|{{PortalIcon|image=Riverlands map.jpg|articlename=Riverlands|name=The Riverlands}}
+|{{PortalIcon|image=Inn at the Crossroads.jpg|articlename=Inn at the Crossroads|name=The Inn at the Crossroads}}
+|- align="center"
+|{{PortalIcon|image=Riverrun. battlements.png|articlename=Riverrun|name=Riverrun}}
+|{{PortalIcon|image=Tul-Portal.png|articlename=House Tully|name=House Tully}}
+|- align="center"
+|{{PortalIcon|image=The-Twins-Second-Sons.jpg|articlename=Twins|name=The Twins}}
+|{{PortalIcon|image=Fre-Portal.png|articlename=House Frey|name=House Frey}}
+|- align="center"
+|{{PortalIcon|image=Harrenhal.jpg|articlename=Harrenhal|name=Harrenhal}}
+|{{PortalIcon|image=Tourney.jpg|articlename=Tournament|name=Tournament}}
+|- align="center"
+|{{PortalIcon|image=Riverlands refugee.jpg|articlename=Smallfolk|name=Smallfolk}}
+|{{PortalIcon|image=Beric-Dondarian-Thoros-of-Myr-Game-of-Thrones-Season-6.jpg|articlename=Brotherhood Without Banners|name=The Brotherhood Without Banners}}
+|}
+[[Category:Portals]]

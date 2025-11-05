@@ -1,0 +1,19 @@
+{|style="width:100%; margin:0; background:#1e5467; font-size:120%; font-weight:bold; border:4px groove #C0C0C0; text-align:center; color:#C0C0C0; padding:0.2em 0.4em;"
+|colspan="5" style="text-align:center;" |The Further East
+|- align="center"
+|{{PortalIcon|image=HL6 Yi Ti model.png|articlename=Yi Ti|name=Yi Ti}}
+|{{PortalIcon|image=Melisandre approves.jpg|articlename=Asshai|name=Asshai}}
+|- align="center"
+|{{PortalIcon|image=Westeros and Essos.jpg|articlename=Bone Mountains|name=The Bone Mountains}}
+|{{PortalIcon|image=Jade Sea.png|articlename=Jade Sea|name=The Jade Sea}}
+|- align="center"
+|{{PortalIcon|image=Westeros and Essos.jpg|articlename=Jogos Nhai|name=The Jogos Nhai}}
+|{{PortalIcon|image=Westeros and Essos.jpg|articlename=Hyrkoon|name=Hyrkoon}}
+|- align="center"
+|{{PortalIcon|image=Shadow men 4.png|articlename=Shadow Men|name=The Shadow Men}}
+|{{PortalIcon|image=HL6 Ibbenese whaling ship deck.png|articlename=Ibbenese|name=The Ibbenese}}
+|- align="center"
+|{{PortalIcon|image=HL6 Yi Ti model.png|articlename=Maiden-Made-of-Light|name=The Maiden-Made-of-Light}}
+|{{PortalIcon|image=Lion of Night Many-Faced God Histories and Lore.png|articlename=Lion of Night|name=The Lion of Night}}
+|}
+[[Category:Portals]]

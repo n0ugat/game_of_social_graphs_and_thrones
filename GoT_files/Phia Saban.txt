@@ -1,0 +1,43 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Phia-Saban.png
+| Birth   = Sophia Alison M. Boreham Saban<br>September 19, 1998 {{Age|1998|9|19}}<br>Hackney, London, England
+| Death   = 
+| Role    = [[Helaena Targaryen]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]] {{*}} [[House of the Dragon: Season 2|2]] {{*}} [[House of the Dragon: Season 3|3]]
+| Credits = 9 episodes {{Below|Credits}}
+| First   = "[[The Lord of the Tides]]"
+| Last    = 
+}}
+'''Sophia Alison M. Boreham Saban''' (born 19 September 1998) is an English actress known for ''{{WPS|The Last Kingdom (TV series)|The Last Kingdom}}''.
+
+She portrays [[Helaena Targaryen]] in ''[[House of the Dragon]]''.<ref>[https://pressroom.warnermedia.com/us/bio/house-dragon-character-descriptions WarnerMedia]</ref>
+
+==Credits==
+===Starring===
+{{House of the Dragon: Season 1||||||||yes|yes}}
+{{House of the Dragon: Season 2|yes|yes|yes||yes|yes||yes}}
+{{House of the Dragon: Season 3||||yes}}
+
+==See also==
+*{{WP}}
+*{{IMDb|# = 11064417}}
+*{{Instagram|# = phiasaban}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House of the Dragon}}
+{{House of the Dragon: Inside the Episode}}
+
+<!--Categories-->
+{{DEFAULTSORT:Saban, Phia}}
+[[Category:Commentators of House of the Dragon: Inside the Episode]]
+[[Category:Starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Phia Saban]]
+[[pl:Phia Saban]]

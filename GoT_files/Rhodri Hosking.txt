@@ -1,0 +1,30 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Rhodri-Hosking-200.jpg
+| Birth   = 1994-1995 {{Age|1994|12|31}}
+| Death   = 
+| Role    = [[Mycah]]
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 1|1]]
+| Credits = "[[The Kingsroad]]"
+| First   = 
+| Last    = 
+}}
+'''Rhodri Hosking''' is a British actor. He was 16 years old as of July 2010 and is a member of the Diamond Theatre School.
+
+In [[HBO]]'s ''[[Game of Thrones]]'' he played the role of [[Mycah]] and was confirmed in the role on 16 July 2010.
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 1||yes}}
+
+==See also==
+*{{Template:IMDb
+|# = 4430905}}
+
+{{stub}}
+
+[[ro:Rhodri Hosking]]
+{{DEFAULTSORT:Hosking, Rhodri}}
+[[Category:Guest starring cast members of Game of Thrones]]

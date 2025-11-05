@@ -1,0 +1,56 @@
+{{Canonicity|Non}}
+{{Heraldry
+| Image = House Hunter.svg
+| Link  = House Hunter
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Arryn
+| Image       = House Royce lineage.jpeg
+| Birth       = At [[Longbow Hall]]
+| Death       = 
+| House       = [[House Hunter|Hunter]]
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Vale of Arryn|Valemen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = {[[Stentey Hunter]]}
+| Mother      = [[Serena Royce]]
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = [[Dareon Hunter]]<br>[[Simon Hunter]]<br>[[Stephus Hunter]]<br>[[Maynard Hunter]]<br>[[Lionel Hunter]]<br>[[Gilwood Hunter]]<br>[[Dorgas Hunter]]<br>[[Sansa Hunter]]<br>[[Millicent Hunter]]
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Samwell Hunter''' is a member of [[House Hunter]]. His status is uncertain.
+
+==Biography==
+Samwell Hunter is the seventhborn son of Ser [[Stentey Hunter]] and [[Serena Royce]].<ref name = "s1prop">''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]'' prop from Season 1</ref>
+
+==Behind the scenes==
+Samwell Hunter is mentioned in the section on House Royce in the Season 1 prop for ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]''. The section on House Royce never appears on-screen in the TV series, as its planned appearance, where [[Eddard Stark]] would have read from it, was cut.
+
+==In the books==
+Samwell Hunter is referenced only in the TV adaptation of ''[[A Song of Ice and Fire]]'' and has no corresponding counterpart in the books.
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+{{DEFAULTSORT:Hunter, Samwell}}
+[[Category:Individuals from Game of Thrones]]
+[[Category:Members of House Hunter|Samwell Hunter]]
+[[Category:Valemen]]
+
+<!--Languages-->
+[[fr:Samwell Veneur]]
+[[ru:Сэмвелл Хантер]]

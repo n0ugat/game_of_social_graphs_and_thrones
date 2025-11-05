@@ -1,0 +1,66 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = House Corbray.svg
+| Link  = House Corbray
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Westeros
+| Image       = 
+| Birth       = 
+| Death       = c. [[5700 BC]]{{Dateref|Coming of the Andals}} at the [[Giant's Lance]]<br>Killed by [[Robar II Royce]] in the [[Battle of the Seven Stars]]
+| House       = [[House Corbray|Corbray]]
+| Affiliation = 
+| Titles      = King of the [[Fingers]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Vale of Arryn|Valemen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|For King Robar had taken a Valyrian sword off a dead Andal lord and it sheared through Ser Artys' helm much like a bird's wing through the air.|[[Petyr Baelish]]|Knights of the Vale (short)}}
+King '''Qyle Corbray'''{{Con|TWOI&F}} was the King of the [[Fingers]] during the [[coming of the Andals]].
+
+==Biography==
+Qyle and his fellow [[Andals|Andal]] warriors fought against the [[First Men]] in the Vale under King [[Robar II Royce]] in the [[Battle of the Seven Stars]]. Robar killed Qyle and took his [[Valyrian steel]] sword [[Lady Forlorn]].{{Ref|H&L615}}
+
+==In the books==
+In ''The World of Ice & Fire'', Qyle Corbray ruled as King of the Fingers during the [[coming of the Andals]]. He was the first of the [[Andals|Andal]] kings of the [[Vale of Arryn|Vale]] to fall to King [[Robar II Royce]], who was said to have personally killed him after striking [[Lady Forlorn]] from his grasp.
+
+==Appearances==
+*{{H&L|Knights of the Vale}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+{{DEFAULTSORT:Corbray, Qyle}}
+[[Category:Andals]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Kings]]
+[[Category:Members of House Corbray|Qyle Corbray]]
+[[Category:Valemen]]
+
+<!--Languages-->
+[[fr:Qyle Corbray]]
+[[ru:Кайл Корбрей]]

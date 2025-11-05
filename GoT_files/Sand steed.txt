@@ -1,0 +1,52 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Species
+| Title   = {{PAGENAME}}
+| Theme   = Westeros
+| Image   = Dornish sand steed.jpg
+| Type    = Mammal
+| Status  = Domesticated
+| Diet    = Herbivore
+| Habitat = Arid plains, castles, and towns of [[Dorne]]
+| Range   = Primarily in Dorne, [[Westeros]]
+| Origin  = 
+}}
+{{Quote|Always wanted a Dornish stallion. Beasts can run a day and night without tiring.|Ser [[Bronn]]|Sons of the Harpy (episode)}}
+The '''sand steed'''{{Con|ASOIAF}} is a unique breed of [[horse]] bred in [[Dorne]], the southernmost region of [[Westeros]] with a primarily desert climate.
+
+==Biology==
+They are splendid beasts that can run for a day and a night without tiring. A [[Knighthood|knight]] wearing full metal plate armor would bake in the hot desert sun, so [[Dornishmen]] wear only light armor, and thus their horses are bred for extreme stamina instead of strength. Sand Steeds are therefore not intended for use as full war horses, as they cannot carry the weight of a fully armored rider, but for an unarmored traveler they make an excellent mount.
+
+==History==
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+When [[Jaime Lannister|Jaime]] and [[Bronn]] sneak into Dorne, they are accosted by a mounted patrol, and end up fighting and killing them. Afterwards they take the patrol's horses for their own use, and Bronn remarks on the merits of Dornish steeds who can run for a day and a night without rest.<ref>"[[Sons of the Harpy (episode)|Sons of the Harpy]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, sand steeds are lean animals bred for stamina and endurance: they are characterized as long-necked with narrow heads. They are smaller than war horses, both in overall size and in muscle mass. They come in a wide array of colors, anything from white to black, or red to golden.
+
+Due to Dorne's desert climate, the style of warfare used by the Dornishmen developed differently from the rest of Westeros. Armored knights riding heavy armored horses would quickly bake in the desert sun and suffer from thirst. Warfare in Dorne therefore developed to center around light, fast attacks by smaller numbers, so that they will not overheat or exhaust the available water supply. At most, a Dornish rider would only wear light armor, thus Sand Steeds are not required to support this much weight. Sand Steeds are smaller and narrower than normal warhorses, slim even compared to palfreys (also bred for stamina), but are very graceful. Famed for their stamina, Sand Steeds can run a day and a half without tiring.
+
+Sand steeds are highly prized, and Dornish lords are said to love them as much as their children.
+
+When [[Oberyn Martell]] and his Dornish embassy arrives at [[King's Landing]], it is expressly described that they are all riding sand steeds. Oberyn's mount is "black as sin", with a fiery red mane and tail.
+
+Sand steeds are somewhat like the real-life breed known as an [[Wikipedia:Arabian horse|Arabian horse]].
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Animals and plants}}
+
+<!--Categories-->
+[[Category:Horses]]
+
+<!--Languages-->
+[[pt-br:Cavalo Dornês de Areia]]
+[[ru:Дорнийский песчаный скакун]]

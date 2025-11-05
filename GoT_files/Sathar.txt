@@ -1,0 +1,40 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Westeros
+| Image        = Sathar.jpg
+| Type         = City
+| Status       = Ruined
+| Location     = [[Kingdom of Sarnor]], [[Essos]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = 
+| Places       = 
+| Founded      = 
+}}
+{{Quote|When Khal Mengo's son, Khal Moro, laid waste to the Waterfall City of Sathar, renaming it "The Place of Wailing Children", the Tall Men finally realized their peril.|[[Jorah Mormont]]|The Dothraki}}
+'''Sathar''',{{Ref|H&L608}} also known as the '''Waterfall City'''{{Ref|H&L608}} and referred to by the [[Dothraki]] as the '''Place of Wailing Children''',{{Ref|H&L608}} was a city of the [[Kingdom of Sarnor]].
+
+==History==
+Sathal was laid waste to by a [[Dothraki]] horde led by [[Khal]] [[Moro (son of Mengo)|Moro]]. Following its destruction, Moro renamed it "The Place of Wailing Children". This caused the [[Sarnori]] to realize how big of a threat the Dothraki were and rally behind the High King [[Mazor Alexi]].<ref>"[[The Dothraki]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Sathar bordered the central [[Dothraki Sea]]. In the period in which the novels is set, the ruins of the city of are known as Yalli Qamayi, "The Place of Wailing Children".
+
+[[Daenerys Targaryen]] travels north of the city whilst Khal [[Drogo]]'s ''[[khalasar]]'' makes its journey from [[Pentos]] to [[Vaes Dothrak]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Yalli Qamayi}}
+
+<!--Categories-->
+[[Category:Dothraki Sea]]
+[[Category:Ruined cities]]
+[[Category:Sarnori cities]]
+
+<!--Languages-->
+[[ru:Сатар]]

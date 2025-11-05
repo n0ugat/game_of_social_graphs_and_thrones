@@ -1,0 +1,21 @@
+{{Crew
+| Title=  Peter Brown
+| Image= Peter_Brown_Sound_Dept.jpg
+| dateofbirth= 1969
+| birthplace= Rochester, New York, USA
+| job= Sound designer
+| imdb= http://www.imdb.com/name/nm0114431/
+}}
+'''Peter Brown''' (born 1969) is a New Yorker Emmy-nominated sound designer. He has worked on such films as ''Spider-Man (2002)'', ''Terminator 3: Rise of the Machines'', ''Starship Troopers'', ''Mystery Men'', and ''Equilibrium''.
+
+Brown is the Sound Designer on ''[[Game of Thrones]]''. He was responsible for developing the inhuman "ice-cracking" sounds of [[Skroth]], the language of the [[White Walkers]]. Another major task Brown worked on where the explosion sounds during the [[Battle of the Blackwater]]<ref>http://insidetv.ew.com/2012/05/27/game-of-thrones-blackwater-2/2/</ref>, for which he won a [[wikipedia:Creative Arts Emmy Award|Creative Arts Emmy Award]]<ref>[http://www.westeros.org/GoT/News/Entry/Game_of_Thrones_Wins_Big_at_Creative_Arts_Emmys/ Westeros.org]</ref>.
+
+==See also==
+*{{Template:IMDb
+|# = 0114431}}
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Brown, Peter}}
+[[Category:Production staff members of Game of Thrones]]

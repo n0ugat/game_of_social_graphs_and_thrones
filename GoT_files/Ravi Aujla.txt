@@ -1,0 +1,30 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Ravi Aujla.jpg
+| Birth   = 
+| Death   = 
+| Role    = Pentoshi surgeon
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = "[[The Princess and the Queen]]"
+| First   = 
+| Last    = 
+}}
+'''Ravi Aujla''' is an actor and producer.
+
+In ''[[House of the Dragon]]'', he portrayed a Pentoshi Surgeon in "[[The Princess and the Queen]]".<ref>https://www.spotlight.com/3212-0165-1213</ref>
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1||||||yes}}
+
+==See also==
+*{{IMDb|#=0042001}}
+*{{Twitter|#=raviaujla}}
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Aujla, Ravi}}
+[[Category:Co-starring cast members of House of the Dragon]]

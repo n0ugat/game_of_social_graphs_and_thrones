@@ -1,0 +1,64 @@
+{{DISPLAYTITLE:Roland Crakehall {{C|Kingsguard}}}}
+{{Canonicity|Canon}}
+{{Spoiler|AKOTSK}}
+{{BookConjecture}}
+{{Heraldry
+| Leftimage  = House Crakehall.svg
+| Leftlink   = House Crakehall
+| Rightimage = Kingsguard.svg
+| Rightlink  = Kingsguard
+}}
+{{Character
+| Title       = Roland Crakehall
+| Type        = Targaryen
+| Image       = 
+| Birth       = At [[Crakehall]]
+| Death       = 
+| House       = [[House Crakehall|Crakehall]]
+| Affiliation = [[Kingsguard]]
+| Titles      = [[Knighthood|Ser]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Andals|Andal]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+Ser '''Roland Crakehall'''{{Con|D&EN}} is a [[Knighthood|knight]] of [[House Crakehall]] and member of the [[Kingsguard]] of [[Daeron II Targaryen|Daeron II]].{{Ref|H&L416}}
+
+==In the books==
+In the [[Dunk & Egg novellas]], Roland is large and powerful.
+
+==Appearances==
+*{{H&L|Justice of the Seven Kingdoms}} {{Indirect}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|AKOTSK}}
+
+<!--Navboxes-->
+{{Kingsguard of Daeron II Targaryen}}
+
+<!--Categories-->
+{{DEFAULTSORT:Crakehall, Roland}}
+[[Category:Individuals from Histories & Lore]]
+[[Category:Kingsguard of Daeron II Targaryen]]
+[[Category:Knights]]
+[[Category:Members of House Crakehall|Roland Crakehall]]

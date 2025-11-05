@@ -1,0 +1,70 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Leftimage  = House Hightower.svg
+| Leftlink   = House Hightower
+| Rightimage = Order of Maesters.svg
+| Rightlink  = Order of Maesters
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Citadel
+| Image       = Prince Peremore Hightower.png
+| Birth       = At the [[Hightower]], in [[Oldtown]]
+| Death       = 
+| House       = [[House Hightower|Hightower]]
+| Affiliation = [[Order of Maesters]]
+| Titles      = [[Prince]]
+| Predecessor = 
+| Successor   = 
+| AKA         = Peremore the Twisted
+| Culture     = [[First Men]]
+| Religion    = [[Old Gods]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = {[[Urrigon Hightower]]}
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Back when House Hightower still ruled Oldtown as kings, a crippled younger son sought solace in books and those who wrote them and became the greatest patron of learning in his day. Scholars of all sorts flocked to Oldtown to debate and write and...debate. After this Prince Peremore's death, his brother granted land to "Peremore's Pets", as the wise men were called, though now they're known as Maesters.|[[Samwell Tarly]]|The Citadel}}
+Prince '''Peremore Hightower''' was the younger brother of King [[Urrigon Hightower]] and is believed to be a founder of the [[Order of Maesters]].
+
+==Biography==
+Peremore was a second son of [[House Hightower]], and surrounded himself with scholars and priests, enjoying enquiries and debates. After Peremore died, his elder brother King Urrigon supposedly gave land that would become the [[Citadel]] as a home for the learned men, referred to in legend as Peremore's "pets". This allowed them to continue their work, allegedly laying the foundations for the Order of Maesters.{{Ref|H&L612}}{{Ref|H&L702}}
+
+==In the books==
+The Order of Maesters was founded many centuries before the [[coming of the Andals]], from the original guild of scholars that Peremore gathered together in [[Oldtown]]. Peremore was the second son of King Uthor of the Hightower, who allegedly also contracted [[Brandon the Builder]] to rebuild the Hightower in Oldtown, nearly 8,000 years ago (Uthor and Peremore may have actually lived many centuries later, if at all, and later got mixed up with other legends).
+
+Peremore was born with a withered arm and twisted back. Sickly, he devoted himself to intellectual pursuits, patronizing various scholars, and he enjoyed nothing more than hearing them debate.
+
+==Appearances==
+*{{H&L|Oldtown}} {{Illustrated}}
+*{{H&L|The Citadel}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Hightower}}
+
+<!--Categories-->
+{{DEFAULTSORT:Hightower, Peremore}}
+[[Category:Individuals from Histories & Lore]]
+[[Category:Individuals from the Reach]]
+[[Category:Maesters]]
+[[Category:Members of House Hightower|Peremore Hightower]]
+[[Category:Princes]]
+
+<!--Languages-->
+[[de:Peremor Hohenturm]]
+[[ru:Перемор Хайтауэр]]

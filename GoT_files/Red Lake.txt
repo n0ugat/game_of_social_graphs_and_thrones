@@ -1,0 +1,42 @@
+{{Canonicity|Canon}}
+{{References}}
+{{Heraldry
+| Image = House Crane.svg
+| Link  = House Crane
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Bronn
+| Image        = Red Lake Pin.png
+| Type         = Castle
+| Status       = 
+| Location     = The [[Reach]], [[Westeros]]
+| Population   = 
+| Rulers       = [[House Crane]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Red Lake'''{{Guideref|Map of Westeros}} is a castle in the [[Reach]], the region controlled by [[House Tyrell]] of [[Highgarden]]. The castle is located north-west of Highgarden and due west of [[Goldengrove]], near the border with the [[Westerlands]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Red Lake is the seat of House Crane. It is located along the shores of a large lake of the same name. According to legend, in the Dawn Age the lake was originally called Blue Lake until one of Garth Greenhand's sons, Brandon of the Bloody Blade fought a battle there to expel the giants from the Reach, after this battle the lake became known as Red Lake.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Reach}}
+
+<!--Categories-->
+[[Category:Castles of the Reach]]
+[[Category:House Crane]]
+
+<!--Languages-->
+[[de:Rotsee]]
+[[ru:Красное Озеро]]

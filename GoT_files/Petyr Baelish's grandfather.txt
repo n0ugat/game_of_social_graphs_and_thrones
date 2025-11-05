@@ -1,0 +1,62 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Arryn
+| Image       = Baelish (hedge knight).png
+| Birth       = 
+| Death       = 
+| House       = [[House Baelish|Baelish]]
+| Affiliation = [[House Arryn]]
+| Titles      = [[Knighthood|Ser]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Vale of Arryn|Valemen]]
+| Religion    = 
+| Father      = {[[Petyr Baelish's great-grandfather|Father]]}
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = {[[Lord Baelish]]}
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|My grandfather raised himself to the status of hedge knight and even managed to acquire a bit of land and a keep on the smallest of the Fingers, though I do believe he often missed sleeping under his titular hedges.|[[Petyr Baelish]]|House Baelish (short)}}
+'''Petyr Baelish's grandfather''' was a [[hedge knight]].
+
+==Biography==
+He was a poor wandering [[hedge knight]], who eventually was rewarded for his services with a small portion of land and a keep - a tiny, hardscrabble holding in the smallest peninsula of the [[Fingers]].{{Ref|H&L402}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Littlefinger's grandfather (his first name is not mentioned) was a landless hedge knight. His own father was born in [[Braavos]] and came to the [[Vale of Arryn|Vale]] as a sellsword in the hire of Lord [[House Corbray|Corbray]], so Littlefinger's grandfather took the head of the [[Titan of Braavos]] as his sigil when he was [[Knighthood|knighted]]. His arms were a grey stone head with fiery eyes on a light green field.
+
+In ''A Storm of Swords'', when Littlefinger and [[Sansa Stark|Sansa]] arrive at the [[Fingers]], Littlefinger shows Sansa the shield and briefly speaks about his grandfather and great-grandfather.
+
+==Appearances==
+*{{H&L|House Baelish}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Baelish (hedge knight)}}
+
+<!--Navboxes-->
+{{House Baelish}}
+
+<!--Categories-->
+{{DEFAULTSORT:Baelish's grandfather, Petyr}}
+[[Category:Hedge knights]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Members of House Baelish|Petyr Baelish's grandfather]]
+[[Category:Valemen]]
+
+<!--Languages-->
+[[ru:Бейлиш (межевой рыцарь)]]

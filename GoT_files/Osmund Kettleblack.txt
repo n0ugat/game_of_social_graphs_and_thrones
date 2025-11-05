@@ -1,0 +1,91 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Image}}
+{{Heraldry
+| Image = Kingsguard.svg
+| Link  = Kingsguard
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Lannister
+| Image       = 
+| Birth       = [[Westeros]]{{Con|AWOIAF}}
+| Death       = [[305 AC]]{{Dateref|Game of Thrones: Season 8}}<br>The [[Red Keep]], [[King's Landing]]{{Ref|GOT805}}
+| House       = 
+| Affiliation = [[Kingsguard]]<br>Queensguard
+| Titles      = [[Knighthood|Ser]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Andals|Andal]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 5|5]] {{*}} [[Game of Thrones: Season 7|7]] {{*}} [[Game of Thrones: Season 8|8]]
+| Appearances = 2 episodes {{Below|Appearances}}
+| First       = "[[Sons of the Harpy (episode)|Sons of the Harpy]]"
+| Last        = "[[The Bells]]"
+| DeathEp     = "The Bells"
+| Actor       = Unidentified
+}}
+Ser '''Osmund Kettleblack'''{{Con|ASOIAF}} was a [[Knighthood|knight]] and a member of the [[Kingsguard|Queensguard]], defending Queen [[Cersei Lannister]] as he defended King [[Tommen Baratheon]] before her.
+
+==Biography==
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+Five members of the Kingsguard escort King [[Tommen Baratheon]] to the steps before the [[Great Sept of Baelor]] so the king can meet with the [[High Sparrow]]. Members of the [[Faith Militant]] block them.{{Ref|GOT504}}
+
+===[[Game of Thrones: Season 8|''Game of Thrones'': Season 8]]===
+All of Cersei's Queensguard are killed during the [[Battle of King's Landing]], two from the falling debris and the other five including [[Gregor Clegane]] at the hands of [[Sandor Clegane]].{{Ref|GOT805}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Osmund Kettleblack is one of three brothers, sons of a grizzled man-at-arms called Oswell 'Kettleblack', who enter the service of Queen [[Cersei Lannister|Cersei]] during "''A Clash of Kings''". Like his brothers, he's a mercenary and boasts of having served in the [[Disputed Lands]] and the [[Stepstones]] with the Gallant Men - a sellsword company - fighting for [[Lys]] and then [[Tyrosh]]. He claims of having been knighted on the battlefield by the supposedly now-dead Ser Robert Stone (who might have been a bastard from the Vale, or made up by Osmund).
+
+Lancel hired Osmund and his brothers Osney and Osfryd at Cersei's command. He had no way to know the three were Littlefinger's henchmen, whom he carefully planted, as he explained Sansa much later.
+
+Ser Osmund is named to the Kingsguard after Ser [[Boros Blount]] is dismissed on grounds of cowardice for giving up Prince Tommen to agents of [[Tyrion Lannister]] to save his own life. Following the [[Battle of the Blackwater]], Ser Boros is reinstated after the death of Ser [[Mandon Moore]] and the desertion of [[Sandor Clegane]]. Unlike the case of the show, in the novels the roster of the Kingsguard is quickly completed.
+
+Ser Osmund is one of the witnesses in Tyrion's trial, following his brothers. While Osney and Osfryd's testimony is partially true, Osmund lies outright: he swears that Joffrey had told him that Tyrion meant to murder him and be a king in his place.
+
+Jaime thinks of Ser Osmund disdainfully ''"What was Cersei thinking when she gave this one a white cloak?"'' and does not like Osmund's evasive answers about his background and how he was knighted. But, since he is likely to know how to use a sword and shield, Jaime decides not to press the matter.
+
+When Jaime releases Tyrion, Tyrion tells him that Osmund (alongside Lancel) is one of Cersei's lovers. Actually it is Osmund's brother Osney with whom Cersei slept, murdered [[High Septon (Tommen)|the previous High Septon]] at her command, and collaborated in her scheme against Margaery.
+
+In "''A Dance with Dragons''", Cersei confesses that she has slept with Lancel and Osney. As a precaution, since she has no idea what Osmund and Osfryd have told, she claims that she bedded them too. Kevan, who shares Jaime's negative opinion about Osmund (and his brothers), takes advantage of Cersei's confession to remove Osmund and Osfryd from their positions and arrest them.
+
+While Osney is soon to be executed for his crimes, Osmund and Osfryd are given a choice: if they admit their guilt of fornication with the queen, they will be sent to the Wall; if not, they will face Ser [[Gregor Clegane|Robert Strong]].
+
+==Appearances==
+*{{GOT|Sons of the Harpy}}
+*{{GOT|The Bells}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Kingsguard of Joffrey I Baratheon}}
+{{Kingsguard of Tommen I Baratheon}}
+{{Queensguard of Cersei I Lannister}}
+{{House Baratheon of King's Landing}}
+
+<!--Categories-->
+{{DEFAULTSORT:Kettleblack, Osmund}}
+[[Category:Crownlanders]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Kingsguard of Joffrey I Baratheon]]
+[[Category:Kingsguard of Tommen I Baratheon]]
+[[Category:Queensguard of Cersei I Lannister]]
+
+<!--Languages-->
+[[pl:Osmund Kettleblack]]
+[[ru:Осмунд Кеттлблэк]]

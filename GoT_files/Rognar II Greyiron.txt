@@ -1,0 +1,64 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{ConjectureInfo}}
+{{Heraldry
+| Image = Unknown.svg
+| Link  = 
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Westeros
+| Image       = 
+| Birth       = On [[Orkmont]]
+| Death       = Killed by [[Andals]] during the [[coming of the Andals]]
+| House       = 
+| Affiliation = 
+| Titles      = [[King of the Iron Islands]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Ironborn]]
+| Religion    = [[Drowned God]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|True, they conquered and killed our king; but in time they forsook their septs for the shore, and their fat Septons for the Drowned Men.|[[Yara Greyjoy]]|The Drowned God}}
+King '''Rognar II Greyiron'''{{Con|TWOI&F}} was the [[King of the Iron Islands]] during the [[coming of the Andals]].
+
+==Biography==
+When the [[Andals]] attacked the [[Iron Islands]] in an attempt to convert the [[Ironborn]] to the [[Faith of the Seven]], they were able to bring down and kill King Rognar, but they eventually turned to the [[Drowned God]] themselves.{{Ref|H&L217}}
+
+==In the books==
+In ''[[The World of Ice & Fire]]'', Rognar's story is told in a wider context. While the ''[[Histories & Lore]]'' video "[[The Drowned God]]" presents his death as a defeat for the ironborn and part of an Andal conquest, Rognar was in fact brought down by an alliance of Andal pirates, sellswords and warlords, along with the Orkwoods, [[House Drumm|Drumms]], [[House Hoare|Hoares]], and [[House Greyjoy|Greyjoys]]. House Greyiron had ruled the Iron Islands as hereditary kings and abolished the [[kingsmoot]], but with the death of their last king, Harras Hoare become king, winning the crown in a contest of the finger dance according to the tales.
+
+==Appearances==
+*{{H&L|The Drowned God}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Kings of the Iron Islands}}
+
+<!--Categories-->
+{{DEFAULTSORT:Greyiron, Rognar II}}
+[[Category:Individuals from Histories & Lore]]
+[[Category:Ironborn]]
+[[Category:Kings of the Iron Islands]]

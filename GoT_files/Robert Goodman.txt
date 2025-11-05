@@ -1,0 +1,21 @@
+{{stub}}
+{{Template:Cast
+|Title = Robert Goodman
+|Image = Robert Goodman.jpg
+|role = [[Valyrian slave]]
+|status = 
+|Appearances = "[[Oathkeeper (episode)|Oathkeeper]]"
+|imdb = http://www.imdb.com/name/nm0329210/|twitter = |dateofbirth = |birthplace = Northampton, England, UK}}
+'''Robert Goodman''' is an English actor.
+
+In ''[[Game of Thrones]]'', he played a [[Valyrian slave]].
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 4||||yes}}
+
+==See also==
+*{{Template:IMDb
+|# = 0329210}}
+{{DEFAULTSORT:Goodman, Robert}}
+[[Category:Guest starring cast members of Game of Thrones]]

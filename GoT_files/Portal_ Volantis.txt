@@ -1,0 +1,19 @@
+{|style="width:100%; margin:0; background:#1e5467; font-size:120%; font-weight:bold; border:4px groove #C0C0C0; text-align:center; color:#C0C0C0; padding:0.2em 0.4em;"
+|colspan="5" style="text-align:center;" |The North
+|- align="center"
+|{{PortalIcon|image=Volantis 5x03 (1).jpg|articlename=Volantis|name=Volantis}}
+|{{PortalIcon|image=Black and White Lord of Light.jpg|articlename=Lord of Light|name=The Lord of Light}}
+|- align="center"
+|{{PortalIcon|image=Longbridge.png|articlename=Long Bridge|name=The Long Bridge}}
+|{{PortalIcon|image=Rhoynar cities.png|articlename=Rhoyne|name=The Rhoyne River}}
+|- align="center"
+|{{PortalIcon|image=Cyvasse animated.png|articlename=Cyvasse|name=Cyvasse}}
+|{{PortalIcon|image=Century of Blood Qohor.png|articlename=Century of Blood|name=The Century of Blood}}
+|- align="center"
+|{{PortalIcon|image=Volantis 5x03 (1).jpg|articlename=Triarchs of Volantis|name=The triarchs of Volantis}}
+|{{PortalIcon|image=503 Volantis slave whores.jpg|articlename=Slavery|name=Slavery}}
+|- align="center"
+|{{PortalIcon|image=Hathay.png|articlename=Hathay|name=Hathay carts}}
+|{{PortalIcon|image=Second sons promo 4.png|articlename=Mercenary|name=Sellswords}}
+|}
+[[Category:Portals]]

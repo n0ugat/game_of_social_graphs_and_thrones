@@ -1,0 +1,29 @@
+{{Crew
+|Image = Richard Bradshaw.jpg
+|dateofbirth = {{WPS|September 12}}, {{WPS|1965}}
+|birthplace = {{WPS|England}}, {{WPS|United Kingdom}}
+|job = Stunt Performer<br>Assistant Stunt Coordinator
+|imdb = http://www.imdb.com/name/nm0103525
+|twitter = https://twitter.com/richbradshaw129/}}
+'''Richard Bradshaw''' is an English stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 3|third season]] episodes "[[Valar Dohaeris]]", "[[Dark Wings, Dark Words]]", "[[Walk of Punishment (episode)|Walk of Punishment]]", "[[And Now His Watch Is Ended]]" and "[[The Rains of Castamere (episode)|The Rains of Castamere]]", the [[Game of Thrones: Season 4|fourth season]] episodes "[[The Lion and the Rose]]", "[[Breaker of Chains]]" and "[[The Watchers on the Wall]]" and the [[Game of Thrones: Season 7|seventh season]] episode "[[The Spoils of War]]" and an assistant stunt coordinator in the [[Game of Thrones: Season 5|fifth season]] episodes "[[The Wars To Come]]", "[[The House of Black and White]]", "[[High Sparrow (episode)|High Sparrow]]", "[[Sons of the Harpy (episode)|Sons of the Harpy]]", "[[Kill the Boy]]", "[[Unbowed, Unbent, Unbroken]]", "[[The Gift]]", "[[Hardhome (episode)|Hardhome]]", "[[The Dance of Dragons (episode)|The Dance of Dragons]]" and "[[Mother's Mercy]]", the [[Game of Thrones: Season 6|sixth season]] episodes "[[The Red Woman]]", "[[Home]]", "[[Oathbreaker]]", "[[Book of the Stranger]]", "[[The Door]]", "[[Blood of My Blood]]", "[[No One]]", "[[Battle of the Bastards (episode)|Battle of the Bastards]]", "[[The Winds of Winter]]", the [[Game of Thrones: Season 7|seventh season]] episodes "[[Dragonstone (episode)|Dragonstone]]", "[[Stormborn]]", "[[The Queen's Justice]]", "[[The Spoils of War]]", "[[Eastwatch]]", "[[Beyond the Wall (episode)|Beyond the Wall]]" and "[[The Dragon and the Wolf]]" and the [[Game of Thrones: Season 8|eighth season]] episodes "[[Winterfell (Game of Thrones)|Winterfell]]", "[[A Knight of the Seven Kingdoms (Game of Thrones)|A Knight of the Seven Kingdoms]]", "[[The Long Night]]", "[[The Last of the Starks]]", "[[The Bells]]" and "[[The Iron Throne]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 3|yes|yes|yes|yes|||||yes}}
+{{Game of Thrones: Season 4||yes|yes||||||yes}}
+{{Game of Thrones: Season 5|yes|yes|yes|yes|yes|yes|yes|yes|yes|yes}}
+{{Game of Thrones: Season 6|yes|yes|yes|yes|yes|yes||yes|yes|yes}}
+{{Game of Thrones: Season 7|yes|yes|yes|yes|yes|yes|yes}}
+{{Game of Thrones: Season 8|yes|yes|yes|yes|yes|yes}}
+
+==See also==
+*{{IMDb
+|# = 0103525}}
+*{{Twitter
+|# = richbradshaw129}}
+*{{Linkedin
+|# = /company-beta/4477106}}
+{{DEFAULTSORT:Bradshaw, Richard}}
+[[Category:Stunt performers of Game of Thrones]]

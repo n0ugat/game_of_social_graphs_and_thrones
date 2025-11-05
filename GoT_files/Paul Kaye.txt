@@ -1,0 +1,40 @@
+{{Cast
+|Title = Paul Kaye
+|Image = Paul Kaye.jpg
+|dateofbirth = 15 December 1964
+|birthplace = Clapton, London, England
+|role = [[Thoros]]
+|status = 
+|First = "[[Dark Wings, Dark Words]]"
+|Last = "[[Beyond the Wall (episode)|Beyond the Wall]]"
+|imdb = http://www.imdb.com/name/nm443373/
+}}
+'''Paul Kaye '''is a British actor and comedian, best known for his role as fake celebrity TV reporter 'Dennis Pennis' on various British shows in the late 1990s. He has since appeared in TV shows such as ''[[wikipedia:Hustle (TV series)|Hustle]]'' and ''[[wikipedia:Waking the Dead (TV series)|Waking the Dead]]''.
+
+In ''[[Game of Thrones]]'' he plays the role of [[Thoros]]. He was announced in the role at the San Diego Comic-Con on 13 July 2012.<ref>[http://www.youtube.com/watch?v=rpSDSgChsaI HBO's YouTube announcement]</ref>
+
+==Credits==
+{{Game of Thrones: Season 3||yes|yes|yes|yes|yes|yes}}
+{{Game of Thrones: Season 6||||||||yes}}
+{{Game of Thrones: Season 7|yes||||yes|yes}}
+
+==See also==
+* {{WP}}
+*{{Template:IMDb
+|# = 443373}}
+
+==References==
+{{Reflist|2}}
+
+<!--Navboxes-->
+{{Histories & Lore}}
+
+<!--Categories-->
+{{DEFAULTSORT:Kaye, Paul}}
+[[Category:Cast members of Histories & Lore]]
+[[Category:Guest starring cast members of Game of Thrones]]
+
+<!--Languages-->
+[[de:Paul Kaye]]
+[[fr:Paul Kaye]]
+[[ru:Пол Кэй]]

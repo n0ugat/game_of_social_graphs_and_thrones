@@ -1,0 +1,68 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image  = House Martell.svg
+| Link   = House Martell
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Martell
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = [[House Martell|Martell]]{{Ref|HOTD106}}
+| Affiliation = 
+| Titles      = [[Prince of Dorne]]
+| AKA         = 
+| Culture     = [[Dornishmen|Dornish]]{{Ref|HOTD106}}
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|The Triarchy has made common cause with Qoren Martell of Dorne.|Reggio Haratis|The Princess and the Queen}}
+Prince '''Qoren Martell''' is the head of [[House Martell]] and the sovereign [[Prince of Dorne]] during the [[War for the Stepstones]] and the [[Dance of the Dragons]].
+
+==Biography==
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+[[Prince of Pentos|Prince]] [[Reggio Haratis]] informs [[Daemon Targaryen|Daemon]] and his family that Qoren Martell has allied [[Dorne]] to the [[Triarchy]], threatening the [[Stepstones]] once more.{{Ref|HOTD106}}
+
+==In the books==
+In ''[[Fire & Blood]]'', Qoren Martell joined the [[War for the Stepstones]] in support of the Triarchy, four years after [[Daemon Targaryen|Daemon]] and [[Corlys Velaryon|Corlys]] originally went to war with them.
+
+Viserys considered a marriage between [[Rhaenyra Targaryen|Rhaenyra]] and the Prince of Dorne in order to bring Dorne under the Iron Throne, though he eventually made her marry [[Laenor Velaryon]].
+
+At the beginning of the [[Dance of the Dragons]], the [[Greens]] reached out to Qoren to try and forge an alliance. Qoren outright rejected [[Otto Hightower]]'s terms, replying "''Dorne [[First Dornish War|has danced with dragons before]]. I would sooner sleep with scorpion''s," and declared Dorne neutral during the civil war. Otto's failure to broker the alliance was one of several reasons why King [[Aegon II Targaryen|Aegon II]] replaced him as [[Hand of the King]].
+
+==Appearances==
+*{{HOTD|The Princess and the Queen}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{House Martell/House of the Dragon}}
+{{Kings of Westeros}}
+
+<!--Categories-->
+{{DEFAULTSORT:Martell, Qoren}}
+[[Category:Dornishmen]]
+[[Category:Individuals mentioned in House of the Dragon]]
+[[Category:Members of House Martell|Qoren Martell]]
+[[Category:Princes of Dorne|Qoren Martell]]
+
+<!--Languages-->
+[[ru:Кворен Мартелл]]

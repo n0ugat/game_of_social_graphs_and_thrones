@@ -1,0 +1,64 @@
+{{Canonicity|Canon}}
+{{MapNeeded}}
+{{Heraldry
+| Image = House Staunton.svg
+| Link  = House Staunton
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Crownlander
+| Image        = RooksRest-204.jpg
+| Type         = Castle
+| Status       = 
+| Location     = The [[Crownlands]], [[Westeros]]
+| Population   = 
+| Rulers       = [[House Staunton]]
+| Institutions = 
+| Military     = 
+| Religion     = 
+| Places       = 
+| Founded      = 
+}}
+{{Quote|Row for a full day and night and you'll reach Rook's Rest.|[[Davos Seaworth]] to [[Gendry Baratheon|Gendry]]|Mhysa}}
+'''Rook's Rest'''{{Ref|GOT310}} is a castle in the [[Crownlands]] which answers directly to the King on the [[Iron Throne]]. It is located north and east of [[King's Landing]] on the north coast of [[Blackwater Bay]], east of [[Duskendale]] but west of [[Crackclaw Point]].
+
+==History==
+[[File:OT2 Rook's Rest.png|thumb|The Green army march on Rook's Rest.]]
+
+===[[House of the Dragon: Season 2|''House of the Dragon'': Season 2]]===
+A major [[Battle at Rook's Rest|battle]] is fought at Rook's Rest during the [[Dance of the Dragons]]. It ends in the death of [[Rhaenys Targaryen|Rhaenys]] and [[Meleys]], the severe injury of [[Aegon II Targaryen|Aegon II]] and [[Sunfyre]], and the capture of the castle by Ser [[Gwayne Hightower]].{{Ref|HOTD204}}
+
+===[[Game of Thrones: Season 3|''Game of Thrones'': Season 3]]===
+[[Davos Seaworth|Davos]] helps [[Gendry Baratheon|Gendry]] escape from [[Dragonstone (island)|Dragonstone]] island, so [[Melisandre]] cannot burn him alive as a human sacrifice, provides him with a small rowing boat and directions. Davos instructs Gendry to row due west for a full day and night, then he will reach Rook's Rest, but should continue on lest Melisandre finds him.{{Ref|GOT310}}
+
+==In the books==
+
+In the ''[[A Song of Ice and Fire]]'' novels, Rook's Rest is the seat of House Staunton. The map in the fourth novel, ''A Feast for Crows'', misspells the name as "Rooks Rest".
+==Gallery==
+<gallery>
+File:Starting Siege.png
+File:Rook's Rest tree-line.png
+File:House Staunton garrison.png|House Staunton garrison defends the castle against Green army.
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{House Staunton}}
+{{Crownlands}}
+
+<!--Categories-->
+[[Category:Castles of the Crownlands]]
+[[Category:House Staunton]]
+
+<!--Languages-->
+[[de:Krähenruh]]
+[[es:Reposo del Grajo]]
+[[it:Riposo del Corvo]]
+[[nl:Roekenrust]]
+[[ru:Грачиный Приют]]
+[[zh:鸦栖堡]]

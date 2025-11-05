@@ -1,0 +1,29 @@
+{{Cast
+| Title= Richard Buick
+| Image= Richard Buick.jpg
+| dateofbirth= 17 August 1976
+| birthplace= {{WPS|Ballymena}}, {{WPS|Northern Ireland}}
+| role= Tyrell Wedding Guest <small>(Season 4)</small><br>Faith Militant <small>(Season 5)</small>
+| status= 
+| First= "[[The Lion and the Rose]]"
+| Last="[[Unbowed, Unbent, Unbroken]]" 
+| imdb= http://www.imdb.com/name/nm6080848/
+| twitter= https://twitter.com/rjbuick
+|Appearances = }}'''Richard Buick''' (born 17 August 1976) is an actor from Northern Ireland.
+
+In ''[[Game of Thrones]]'' he has portrayed a [[House Tyrell|Tyrell]] Wedding Guest and a [[Faith Militant]].
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 4||yes}}
+{{Game of Thrones: Season 5||||||yes}}
+
+==See also==
+*{{IMDb
+|# = 6080848}}
+*{{Twitter
+|# = rjbuick}}
+*{{Linkedin
+|# = /in/richardbuick}}
+{{DEFAULTSORT:Buick, Richard}}
+[[Category:Uncredited cast members of Game of Thrones]]

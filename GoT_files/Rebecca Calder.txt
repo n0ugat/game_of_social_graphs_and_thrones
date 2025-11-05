@@ -1,0 +1,29 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Rebecca Calder.jpg
+| Birth   = Consett, County Durham, England
+| Death   = 
+| Role    = Harrenhal servant<br>Dragonkeeper Elder
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]]
+| Credits = 4 episodes {{Below|Credits}}
+| First   = "[[The Burning Mill]]"
+| Last    = 
+}}
+'''Rebecca Calder''' is an English actress. She has appeared in the films ''{{WPS|King Arthur: Legend of the Sword}}'' and ''{{WPS|Wrath of Man}}'' and the television series ''{{WPS|Primeval (TV series)|Primeval}}'', ''{{WPS|The Bill}}'', ''{{WPS|Doctors (2000 TV series)|Doctors}}'', ''{{WPS|Silent Witness}}'' and ''{{WPS|I May Destroy You}}''.
+
+Calder plays a Harrenhal servant and a Dragonkeeper Elder in the [[House of the Dragon: Season 2|second season]] of ''[[House of the Dragon]]''.
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 2|||yes|yes||yes|yes}}
+
+==External links==
+*{{WP}}
+*{{IMDb|# = 3072339}}
+*{{Instagram|# = rebeccacalder_}}
+
+<!--Categories-->
+{{DEFAULTSORT:Calder, Rebecca}}
+[[Category:Co-starring cast members of House of the Dragon]]

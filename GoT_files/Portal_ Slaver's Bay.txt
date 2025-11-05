@@ -1,0 +1,19 @@
+{|style="width:100%; margin:0; background:#1e5467; font-size:120%; font-weight:bold; border:4px groove #C0C0C0; text-align:center; color:#C0C0C0; padding:0.2em 0.4em;"
+|colspan="5" style="text-align:center;" |Slaver's Bay
+|- align="center"
+|{{PortalIcon|image=Good Masters.jpg|articlename=Slaver's Bay|name=Slaver's Bay}}
+|{{PortalIcon|image=Razdal Slaves.jpg|articlename=Slavery|name=Slavery}}
+|- align="center"
+|{{PortalIcon|image=Meereen.png|articlename=Meereen|name=Meereen}}
+|{{PortalIcon|image=Yunkai 2.png|articlename=Yunkai|name=Yunkai}}
+|- align="center"
+|{{PortalIcon|image=Walk of Punishment.png|articlename=Astapor|name=Astapor}}
+|{{PortalIcon|image=Ghiscari Empire at its height.png|articlename=Ghiscari Empire|name=The Ghiscari Empire}}
+|- align="center"
+|{{PortalIcon|image=Meereen Daznak's Pit 5x09.jpg|articlename=Fighting pit|name=Fighting pits}}
+|{{PortalIcon|image=UnsuelliedS3.jpg|articlename=Unsullied|name=The Unsullied}}
+|- align="center"
+|{{PortalIcon|image=GatesOfFate.jpg|articlename=Temple of the Graces|name=The Temple of the Graces}}
+|{{PortalIcon|image=LowValyrianMap.png|articlename=Low Valyrian|name=Low Valyrian}}
+|
+[[Category:Portals]]

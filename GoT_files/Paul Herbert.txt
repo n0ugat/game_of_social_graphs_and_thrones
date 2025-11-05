@@ -1,0 +1,24 @@
+{{Stub}}
+{{Crew
+| Title= Paul Herbert
+| Image=Paul Herbert.png
+| dateofbirth= 
+| birthplace= 
+| job= Stunt Coordinator
+| imdb= http://www.imdb.com/name/nm0378609/
+}}
+'''Paul Herbert''' is an Emmy-nominated stunt coordinator who worked on the [[Game of Thrones: Season 2|second]], [[Game of Thrones: Season 3|third]] and [[Game of Thrones: Season 4|fourth]] seasons of ''[[Game of Thrones]]''.
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 2|yes|yes|yes|yes|yes|yes|yes|yes|yes|yes}}
+{{Game of Thrones: Season 3|yes|yes|yes|yes|yes|yes|yes|yes|yes|yes}}
+{{Game of Thrones: Season 4|yes|yes|yes|yes|yes|yes|yes|yes|yes|yes}}
+
+==See also==
+*{{Template:IMDb
+|# = 0378609}}
+
+{{DEFAULTSORT:Herbert, Paul}}
+[[Category:Production staff members of Game of Thrones]]
+[[Category:Stunt performers of Game of Thrones]]

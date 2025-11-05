@@ -1,0 +1,157 @@
+{{Canonicity|Canon}}
+{{SameName|region|short|The Riverlands}}
+{{Heraldry
+|Image = House Tully.svg
+|Link = House Tully
+}}
+{{Region
+| Title      = {{PAGENAME}}
+| Theme      = Tully
+| Image      = The Riverlands.png
+| Type       = Administrative region of the [[Six Kingdoms]]
+| Location   = [[Westeros]]
+| Geography  = Broad and fertile river basins, temperate
+| Population = Rivermen
+| Rulers     = {[[House Mudd]]} {{C|formerly}}<br>{[[House Justman]]} {{C|formerly}}<br>{[[House Durrandon]]} {{C|formerly}}<br>{[[House Hoare]]} {{C|formerly}}<br>[[House Tully]]<br>[[House Frey]] {{C|formerly}}
+| Culture    = [[Andals]] {{C|majority}}<br>[[Northmen]] {{C|minority}}
+| Religion   = [[Faith of the Seven]] {{C|majority}}<br>[[Old Gods]] {{C|minority}}
+| Military   = Around 10,000 men {{C|[[War of the Five Kings]]}}
+| Capital    = [[Riverrun]]
+| Castles    = [[Acorn Hall]] {{*}} [[Harrenhal]] {{*}} [[Pinkmaiden]] {{*}} [[Raventree Hall]] {{*}} [[Seagard]] {{*}} [[Stone Hedge]] {{*}} [[Twins]] {{*}} [[Wayfarer's Rest]]
+| Cities     = 
+| Towns      = [[Fairmarket]] {{*}} [[Maidenpool]] {{*}} [[Mummer's Ford]] {{*}} [[Pennytree]] {{*}} [[Saltpans]] {{*}} [[Stoney Sept]] {{*}} [[Wendish Town]]
+| Villages   = 
+| Places     = [[Blackwater Rush]] {{*}} [[Cape of Eagles]] {{*}} [[Gods Eye]] {{*}} [[High Heart]] {{*}} [[Hollow hill]] {{*}} [[Inn at the Crossroads]] {{*}} [[Ironman's Bay]] {{*}} [[Isle of Faces]] {{*}} [[Neck]] {{*}} [[Trident]] {{*}} [[Whispering Wood]]
+| Founded    = [[2 BC]]{{Dateref|Aegon's Conquest}} by {[[Aegon I Targaryen|Aegon the Conqueror]]}
+}}
+{{Quote|The Riverlands is our home and Gods help us we love it. Still...they say "The King eats and the Hand takes the shit". The same is true of the Riverlands. The Seven Kingdoms piss and the Riverlands change clothes.|Ser [[Brynden Tully]]|The Riverlands}}
+The '''Riverlands'''{{Ref|GOT106}} are one of the constituent regions of the [[Seven Kingdoms]]. They have been a frequent battleground in the civil wars that have afflicted the [[Seven Kingdoms]] and also in the wars that took place between the old nations of the continent before [[Aegon's Conquest]]. During the time of the [[First Men]], the Riverlands were an independent kingdom ruled by the [[King of the Rivers and Hills]].
+
+Located roughly in the center of the continent, and with few geographical boundaries such as mountains, for centuries it has been a borderland between surrounding strong kingdoms. The Riverlands were ruled by the [[Ironborn]] at the time of the [[House Targaryen|Targaryen]] Conquest, and [[Aegon I Targaryen|Aegon the Conqueror]]'s assault was assisted by a popular uprising led by [[House Tully]]. For this reason, the Riverlands didn't have a king at the time of the invasion, and the Riverlands are not technically counted as one of the "Seven" Kingdoms (instead essentially making up the eighth "kingdom") . However, for administrative purposes, the Riverlands and their rulers are equal to any other region of the realm. [[Bastard]]s born in the Riverlands are given the surname Rivers.
+
+During the [[War of the Five Kings]], the riverlords hailed [[Robb Stark]], who was the grandson of [[Hoster Tully]] through his daughter [[Catelyn Stark|Catelyn]] as their [[King in the North]], thus becoming part of the resurgent [[North|Kingdom of the North]].<ref>"[[Fire and Blood]]"</ref> However, Robb, [[Edmure Tully]], and their [[Noble house|bannermen]] were betrayed at the [[Red Wedding]] by two of their own bannermen: [[Roose Bolton]] and [[Walder Frey]].<ref>"[[The Rains of Castamere (episode)|The Rains of Castamere]]"</ref> [[House Frey]] was then elevated to rule of the Riverlands.<ref>"[[Mhysa]]"</ref> However, the Freys were actively opposed by many of the riverlords, including [[Knighthood|Ser]] [[Brynden Tully]] who managed to [[Taking of Riverrun|retake]] Riverrun though eventually lost it when a Lannister host arrived to assist the Freys in the [[second siege of Riverrun]].<ref>"[[Blood of My Blood]]"</ref><ref>"[[No One]]"</ref> Walder Frey and the rest of the Frey men were eventually [[Assassinations at the Twins|assassinated]] by [[Arya Stark]] in retribution for their treachery, leaving the Riverlands in disarray and their political status ambiguous.<ref>"[[The Winds of Winter]]"</ref><ref>"[[Dragonstone (episode)|Dragonstone]]"</ref> The ensuing power vacuum eventually allowed the Tullys to regain control over the Riverlands, and by the time of a [[Great Council in the Dragonpit]], Edmure had reclaimed his rightful position as [[Lord of Riverrun]].<ref>"[[The Iron Throne]]"</ref>
+
+==Geography==
+The Riverlands are dominated by the watershed of the Trident River, so-called because of its three major tributaries - the [[Green Fork]], the [[Blue Fork]], and the [[Red Fork]] - which converge at [[Ruby Ford]] in the east. The Green Fork is the northernmost, running north-to-south almost up to the [[Neck]] near the entrance to the Stark-held [[North]]. The Green Fork is only traversable via the castle-bridge complex known as the [[Twins]] ruled by House Frey. Thus, large armies attempting to move into or out of the North are faced with only two, predictable choices: travel along the [[Kingsroad]] as it crosses the Ruby Ford to the east, or cross the Green Fork at the Twins to the west, which requires paying an often steep toll to [[House Frey]].
+The Blue Fork is south of the Green Fork, and terminates near Seagard. The Red Fork is the southernmost and winds its way through the heart of the Riverlands, between the Red Fork and the [[Gods Eye]] lake further south. After it passes [[Riverrun]] castle, the capital of the Riverlands, the Red Fork passes further to the south and west until it reaches the borders of the [[Westerlands]] held by [[House Lannister]].
+
+[[File:Riverlands map.jpg|thumb|The Riverlands' geographical position often results in it becoming a battleground for civil war.]]
+On the whole, the Riverlands possess few natural defenses or borders. They are bordered to the west and the east by mountains, but these are possessed by the Westerlands and the [[Vale of Arryn]] respectively. Rather, these are natural defenses that the Westerlands and Vale possess ''against'' the Riverlands. The extensive swamps and narrow isthmus of the [[Neck]] also form an effective natural barrier, but these are part of the North under the Starks, again more of a defense against invasion from the Riverlands than the other way around. The southern border of the Riverlands is more or less formed by the upper reaches of the Blackwater River, but this is not a particular impediment to travel between the Riverlands and the [[Reach]] to the south. To the southeast, the Riverlands border the [[Crownlands]], but this is purely administrative and not a geographical border. Further, the northwest coast of the Riverlands sits on [[Ironman's Bay]], and is thus open to raiding from the [[Iron Islands]].
+
+All told, the Riverlands border five other regions of the Seven Kingdoms, six if the water border with the Iron Islands is counted (and which due to frequent [[Ironborn]] coastal raids, it usually is). Thus the Riverlands match the Reach in bordering the largest number of other regions in the Seven Kingdoms. However, the Reach has some natural defenses, such as the [[Red Mountains]] along its eastern border, and a large coastline which (while open to Ironborn raiding) isn't as open to attack as the long land borders of the Riverlands, which are not very defensible. The Reach is located in the southwest corner of [[Westeros]], while the Riverlands are surrounded on all sides by powerful neighbors. Further, the Riverlands are still fairly close to the [[Stormlands]], to the point that the Stormlands conquered and ruled the Riverlands for 300 years before the Targaryen Conquest (before being pushed out by the Iron Islands).
+
+The Riverlands have a true temperate climate with warm summers and moderately cold winters, which increase in severity north of the Neck. Rainfall is moderate and adequate providing for the fertility of the region.
+
+===Castles===
+*{{COA|House Tully|small}} [[Riverrun]], the seat of [[House Tully]], the ruling House of the Riverlands. Located on the Red Fork of the [[Trident]]. The Tullys were [[Attainder|attainted]] following the [[Red Wedding]], and Riverrun and its lands were bestowed upon [[House Frey]]. The Tullys again hold the castle after Walder Frey and his male heirs were assassinated by [[Arya Stark]]
+**[[Harrenhal]], formerly the seat of [[House Whent]], the largest castle in [[Westeros]]. Thought by some to be cursed, as every noble house that it was given to died out. Formerly held by [[Petyr Baelish]], its current owner is unknown.
+**{{COA|House Blackwood|small}} [[Raventree Hall]], the seat of [[House Blackwood]].
+**{{COA|House Mallister|small}} [[Seagard]], the seat of [[House Mallister]].
+**{{COA|House Bracken|small}} [[Stone Hedge]], the seat of [[House Bracken]].
+**{{COA|House Frey|small}} The [[Twins]], the seat of [[House Frey]].
+**{{COA|House Piper|small}} [[Pinkmaiden]], the seat of [[House Piper]].
+**[[Acorn Hall]], the seat of [[House Smallwood]].
+
+===Towns and settlements===
+*{{COA|House Mooton|small}} [[Maidenpool]], the seat of [[House Mooton]], a port-town near the borders with the [[Crownlands]]
+*[[Stoney Sept]]
+*[[Saltpans]]
+*[[Pennytree]]
+*[[Mummer's Ford]]
+*[[Wendish Town]]
+*[[Fairmarket]]
+*The [[Inn at the Crossroads]]
+
+===Forests and hills===
+*The [[hollow hill]], a hideout for the [[Brotherhood Without Banners]]
+*[[High Heart]]
+*[[Whispering Wood]]
+
+===Coastal areas===
+*The [[Cape of Eagles]]
+*[[Ironman's Bay]]
+
+===Lakes and rivers===
+*The [[Trident]]
+**The [[Trident#The Blue Fork|Blue Fork]]
+**The [[Trident#The Red Fork|Red Fork]]
+**The [[Trident#The Green Fork|Green Fork]]
+*[[Blackwater Rush]]
+*[[Gods Eye]]
+**[[Isle of Faces]], an island in the Gods Eye
+
+==Military strength==
+[[File:6x07 Blackfish.png|thumb|right|220px| [[Brynden Tully|Ser Brynden Tully]] in scale armor.]]
+House Tully commanded a formidable military prior to the outbreak of the [[War of the Five Kings]], capable of fielding thousands of men. As [[Lord Paramount of the Trident]], the Riverlands' forces are the strongest within their respective region. Due to the disadvantageous location of the Riverlands, House Tully relies on strategic marriages with the other Great Houses. Thus, securing the necessary support of more formidable houses, such as House Stark and [[House Arryn]]. Nevertheless, it is clear that Riverlands field well-provisioned and well-armed forces possibly rivaling the [[Reach]], in terms of logistics. 
+
+Riverlands soldiers seem to be well-provisioned, yet still far behind to the Lannisters and the Tyrells. This is particularly evidenced by the uniformity of their army, due to the Riverlands' fertile lands supplying high-quality to the Rivermen soldiers. Rivermen armor themselves with leather armor, apparently to avoid rust. For example, the [[House Tully|Tullys]] wear leather scales, the [[House Frey|Freys]] wear leather brigandines, and some other minor houses, like [[House Whent]] and [[House Bracken]], equip their soldiers with leather cuirasses.   
+
+During Robert's Rebellion and the War of the Five Kings, the Riverlands have proven capable in times of conflict, fighting and prevailing with several engagements within each conflict, such as the [[Battle of the Trident]] and the [[Battle of the Fords]].
+
+In "[[Dark Wings, Dark Words]]", [[Rickard Karstark]] states that the Lannister-Tyrell forces outnumber the Stark-Tully forces by 2:1. If this statement is correct, then the Stark-Tully forces number 22,000-23,000 soldiers.{{Note|The Lannister-Tyrell army consists of approximately 45,800 soldiers (see the calculation in "[[Battle of the Blackwater#Numbers]]").}} Given that the Northmen number around 16,000 soldiers at this point,{{Note|See the calculation in "[[Fall of Harrenhal#Prelude]]".}} it can be assumed that the other 6,000-7,000 soldiers are Rivermen. Adding the forces of House Frey (3,000-4,000 men){{Note|See the calculation in "[[Battle of Whispering Wood#Numbers]]".}} to this conclusion, the total forces of the Riverlands during the [[War of the Five Kings]] number around 10,000 men.
+
+However, much of the Riverlands army is later annihilated by the Freys and Boltons at the [[Red Wedding]], leading to the eventual downfall of the once formidable Great House; only the Tullys keep fighting, till [[Second siege of Riverrun|Riverrun was taken]] by the combined Lannister-Frey host.
+
+==In the books==
+[[File:Riverlands-0.PNG|thumb|565x565px|Map of the continent of Westeros, marking the location of the Riverlands in red.]]
+In the ''[[A Song of Ice and Fire]]'' novels, the Riverlands is relatively small in size but high in population. It is fertile due to the numerous rivers that run across its expanse, most notably the massive [[Trident]] and its numerous tributaries.
+
+The people of the Riverlands are known as 'rivermen'. They are a mixture of hardy warriors, peaceful fisherfolk and devout [[smallfolk]]. The Riverlands possess a number of middling-to-large towns, such as Maidenpool, Saltpans, Fairmarket and Stoney Sept.
+
+The borders of the Riverlands are held to be the marshes of the Neck in the far north, the [[Mountains of the Moon]] to the north-east, the [[Blackwater Rush]] to the south and the hills of the Westerlands to the west.
+
+The Riverlands used to be a kingdom in its own right, but centuries before the Targaryen invasion they were overrun and conquered by the armies of the Storm King. The Storm King couldn't hold such a large territory, especially when the ironborn invaded in force from the west, and was forced to cede the Riverlands to King Hoare of the [[Iron Islands]]. The ironborn set about erecting a massive fortress on the lake known as the [[Gods Eye]], completing it on the very day that Aegon the Conqueror set foot on the shores of Westeros. Aegon's dragons burned out the castle, [[Harrenhal]], killing King Harren the Black. Lord [[Edmyn Tully]] of Riverrun led a popular rebellion of the river lords against the ironborn, helping Aegon drive them out. For this act, Aegon made House Tully the rulers of the Riverlands in his name.
+
+==Gallery==
+<gallery>
+File:Houndaryarideaway.png
+File:The Riverlands Histories & Lore.png
+File:Kingdom of the Riverlands.jpg
+File:The broken Riverrun land.jpg|[[Riverrun]] capital of the Riverlands.
+File:Caraxes in the Riverlands.png|[[Caraxes]] in [[House Bracken|Bracken]] land in the Riverlands.
+File:WA Harrenhal.png|[[Harrenhal]] and its surrounding land.
+File:Red Fork.jpg|Red Fork one the main rivers in the kingdom.
+</gallery>
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{Known world}}
+{{Nations}}
+{{Riverlands}}
+{{Houses from the Riverlands}}
+{{House Mudd}}
+{{House Justman}}
+{{House Hoare}}
+{{House Tully}}
+{{House Frey}}
+
+<!--Categories-->
+[[Category:House Durrandon]]
+[[Category:House Frey]]
+[[Category:House Hoare]]
+[[Category:House Justman]]
+[[Category:House Mudd]]
+[[Category:House Tully]]
+[[Category:Nations]]
+[[Category:Regions]]
+[[Category:Riverlands| ]]
+[[Category:Seven Kingdoms]]
+[[Category:Six Kingdoms]]
+[[Category:Westeros]]
+
+<!--Languages-->
+[[de:Flusslande]]
+[[es:Tierras de los Ríos]]
+[[fr:Conflans]]
+[[nl:Rivierlanden]]
+[[pl:Dorzecze]]
+[[ru:Речные земли]]
+[[zh:河间地]]

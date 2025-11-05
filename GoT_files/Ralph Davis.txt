@@ -1,0 +1,33 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Ralph Davis.jpg
+| Birth   = 
+| Death   = 
+| Role    = [[Leon Estermont]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]]
+| Credits = 6 episodes {{Below|Credits}}
+| First   = "[[A Son for a Son]]"
+| Last    = "[[Smallfolk (episode)|Smallfolk]]"
+}}
+'''Ralph Davis''' is an actor.
+
+Davis plays [[Leon Estermont]] in the [[House of the Dragon: Season 2|second season]] of ''[[House of the Dragon]]''.<ref>https://redanianintelligence.com/2023/05/22/house-of-the-dragon-season-2-adds-more-cast-filming-in-spain-and-england/</ref><ref>https://wikiofthrones.com/house-estermont-greens-in-house-of-the-dragon-season-2</ref>
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 2|yes|yes|yes|yes|yes|yes}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb|#=9148037}}
+
+<!--Categories-->
+{{DEFAULTSORT:Davis, Ralph}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Ralph Davis]]

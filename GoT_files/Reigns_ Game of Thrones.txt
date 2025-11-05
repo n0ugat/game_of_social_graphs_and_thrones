@@ -1,0 +1,33 @@
+{{DISPLAYTITLE:''Reigns: Game of Thrones''}}
+{{Stub}}
+{{Game
+| Title     = ''Reigns:<br><small>Game of Thrones</small>''
+| Type      = Thrones
+| Image     = {{PAGENAME}}.png
+| Episodes  = 
+| Date      = October 18, 2018{{Webref|name=Gameplay |author=DevolverDigital |date=October 15, 2018 |url=https://www.youtube.com/watch?v=lcOYlTbl-as |title=Reigns: Game Of Thrones - Gameplay Trailer |website=YouTube |access-date=March 11, 2025 }}
+| Platforms = 
+| Designer  = 
+| Voice     = 
+| Years     = 
+| Website   = 
+}}
+'''''Reigns: Game of Thrones'''''<ref name="Gameplay" /> is a strategy game.
+
+==Gallery==
+<gallery bordersize="none">
+Reigns: Game Of Thrones - Animated Trailer
+Reigns: Game Of Thrones - Gameplay Trailer
+</gallery>
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{Game of Thrones}}
+
+<!--Categories-->
+[[Category:Games based on Game of Thrones]]
+[[Category:Games released in 2018|A.18]]
+[[Category:Mobile games]]
+[[Category:Video games]]

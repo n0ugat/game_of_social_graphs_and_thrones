@@ -1,0 +1,75 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Frey
+| Image       = Ryger Rivers.jpg
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[House Frey]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Riverlands|Rivermen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = {[[Walder Frey]]}
+| Mother      = Milkmaid
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = Paternal half-siblings:<br>{[[Stevron Frey]]}<br>{[[Lothar Frey]]}<br>{[[Olyvar Frey]]}<br>[[Roslin Tully]]<br>{[[Waldron Frey]]}<br>[[Arwaya Frey]]<br>[[Walda Frey (The Rains of Castamere)|Walda Frey]]<br>[[Derwa Frey]]<br>[[Waldra Frey]]<br>[[Shirei Frey]]<br>{[[Walder Rivers]]}
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 1|1]]
+| Appearances = "[[Baelor]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Bryan McCaugherty]]
+}}
+{{Dialogue a-b|Ryger Rivers|Father please...|Walder Frey|I need lessons in courtesy from you, bastard? Your mother would still be a milkmaid if I hadn't squirted you into her belly!|[[Walder Frey]] to his bastard son|Baelor}}
+'''Ryger Rivers'''{{Con|ASOIAF}} was a [[bastard]] son of Lord [[Walder Frey]], the head of [[House Frey]] and [[Lord of the Crossing]].
+
+==Biography==
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+Ryger is present when [[Catelyn Stark|Catelyn]] visits Lord [[Walder Frey|Frey]] to negotiate passage for [[Robb Stark|her son]]'s army across the [[Trident]]. Like his trueborn half-brother, [[Stevron Frey]], Ryger admonishes his father to remember his courtesies. Lord Frey rudely dismisses his son and reminds him that he's a bastard born of a milkmaid.{{Ref|GOT109}}
+
+==Family==
+{{Frey tree}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Ryger is a natural son of Lord Frey and a woman who milked goats. He is described as being younger than Stevron Frey, who is 65 years old.
+
+Ryger appears on-screen only in one book scene - when Catelyn enters the [[Twins]] to request that Lord Walder grants Robb's army passage over the river. The dialogue in this scene matches the parallel show scene fairly closely.
+
+==Appearances==
+*{{GOT|Baelor}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Frey}}
+
+<!--Categories-->
+{{DEFAULTSORT:Rivers, Ryger}}
+[[Category:Bastards]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Members of House Frey]]
+[[Category:Rivermen]]
+
+<!--Languages-->
+[[de:Ryger Strom]]
+[[es:Ryger Ríos]]
+[[fr:Ryger Rivers]]
+[[nl:Reyger Stroom]]
+[[ro:Ryger Rivers]]
+[[ru:Риджер Риверс]]
+[[zh:莱格·河文]]

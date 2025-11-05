@@ -1,0 +1,70 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Leftimage  = House Hightower.svg
+| Leftlink   = House Hightower
+| Rightimage = Night's Watch.svg
+| Rightlink  = Night's Watch
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = Runcel Hightower.png
+| Birth       = At the [[Hightower]], in [[Oldtown]]
+| Death       = 
+| House       = [[House Hightower|Hightower]]
+| Affiliation = [[Night's Watch]]
+| Titles      = [[Lord Commander of the Night's Watch]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Andals|Andal]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = {[[Bastard]]}
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Runcel Hightower tried to bequeath the Watch to his bastard.|[[Alliser Thorne]]|The Lord Commanders}}
+'''Runcel Hightower '''was a [[Lord Commander of the Night's Watch]].
+
+==Biography==
+When Runcel was Lord Commander, he tried to bequeath the [[Night's Watch]] to his bastard, and has since been remembered as one of the worst Lord Commanders in the history of the order.{{Ref|H&L507}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Runcel Hightower's story is the same.
+
+==Appearances==
+*{{H&L|The Lord Commanders}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Hightower}}
+
+<!--Categories-->
+{{DEFAULTSORT:Hightower, Runcel}}
+[[Category:Individuals from Histories & Lore]]
+[[Category:Individuals from the Reach]]
+[[Category:Lords Commander of the Night's Watch]]
+[[Category:Members of House Hightower|Runcel Hightower]]
+
+<!--Languages-->
+[[de:Runkel Hohenturm]]
+[[es:Runcel Hightower]]
+[[fr:Runcel Hightower]]
+[[nl:Runcel Hoogtoren]]
+[[ru:Рансель Хайтауэр]]
+[[zh:伦赛·海塔尔]]

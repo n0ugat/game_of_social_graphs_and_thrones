@@ -1,0 +1,78 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Leftimage  = House Stark.svg
+| Leftlink   = House Stark
+| Rightimage = Night's Watch.svg
+| Rightlink  = Night's Watch
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = Osric Stark Portrait.png
+| Birth       = At [[Winterfell]]
+| Death       = Aged ~70
+| House       = [[House Stark|Stark]]
+| Affiliation = [[Night's Watch]]
+| Titles      = [[Lord Commander of the Night's Watch]]
+| Predecessor = 
+| Successor   = {[[Robert of Oxbridge]]}
+| AKA         = 
+| Culture     = [[Northmen|Northern]]
+| Religion    = [[Old Gods]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Did you know that the youngest Lord Commander in history, Osric Stark, was elected at the age of ten?|[[Samwell Tarly]] researches past Lords Commander|The House of Black and White}}
+'''Osric Stark''' was a member of [[House Stark]] and later the [[Night's Watch]].
+
+==Biography==
+===Background===
+Osric was a younger brother of the [[King in the North]]. He was elected [[Lord Commander of the Night's Watch]] at the age of ten, angering his opponent [[Mors Umber]], who accused that the king had intervened to support his brother. When Mors relented, Osric appointed him [[First Ranger]]. He continued to serve as Lord Commander for sixty years, after which he was succeeded by [[Robert of Oxbridge]].<ref>[[:File:5x2 Night's Watch Book.jpg]]</ref>
+
+[[Osric's Hill]], near [[Craster's Keep]], may have been named after him.{{Ref|GOT407}}
+
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+[[Samwell Tarly]], knowing that a [[Elections#Night's Watch|choosing]] will be occurring soon, decides to read about the history of past Lords Commander. He is amazed that Osric was chosen at such a young age.{{Ref|GOT502}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Osric Stark was elected Lord Commander of the Night's Watch at age ten, four hundred years before [[Aegon's Conquest]], though he ultimately served as Lord Commander for sixty years.
+
+Samwell Tarly specifically brings up the example of Osric Stark to point out that in the centuries-long history of the Night's Watch, boys younger than Jon Snow (who is around 16 years old at that point) have been elected as Lord Commander of the Night's Watch.
+
+==Appearances==
+*{{GOT|The House of Black and White}} {{Mentioned}}
+*{{H&L|The Lord Commanders}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Stark}}
+{{Night's Watch}}
+
+<!--Categories-->
+{{DEFAULTSORT:Stark, Osric}}
+[[Category:Individuals from Histories & Lore]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Lords Commander of the Night's Watch]]
+[[Category:Members of House Stark|Osric Stark]]
+[[Category:Northmen]]
+
+<!--Languages-->
+[[de:Osric Stark]]
+[[ru:Озрик Старк]]
+[[zh:欧斯里克·史塔克]]

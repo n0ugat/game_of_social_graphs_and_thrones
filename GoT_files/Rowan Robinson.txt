@@ -1,0 +1,27 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Kingdoms
+| Image   = Rowan Robinson.jpg
+| Birth   = Eve Rowan Robinson<br>Salford, Greater Manchester, England
+| Death   = 
+| Role    = [[Rowan]]
+| Series  = ''[[A Knight of the Seven Kingdoms]]''
+| Season  = [[A Knight of the Seven Kingdoms: Season 1|1]]
+| Credits = 
+| First   = 
+| Last    = 
+}}
+'''Eve Rowan Robinson''' is an English actress.
+
+Robinson portrays [[Rowan]] in ''[[A Knight of the Seven Kingdoms]]''.<ref>https://x.com/RedanianIntel/status/1815803857110257706</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{WP}}
+*{{IMDb|#=14037697}}
+
+<!--Categories-->
+{{DEFAULTSORT:Robinson, Rowan}}
+[[Category:Cast members of unknown billing of A Knight of the Seven Kingdoms]]

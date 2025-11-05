@@ -1,0 +1,28 @@
+{{Crew
+|Image = Pablo Verdejo.jpg
+|dateofbirth = 
+|birthplace = {{WPS|Valencia}}, {{WPS|Spain}}
+|job = Stunt Performer
+|imdb = https://www.imdb.com/name/nm5210879/
+|twitter = }}
+'''Pablo Verdejo''' is a Spanish stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 5|fifth season]] episodes "[[The House of Black and White]]", "[[Sons of the Harpy (episode)|Sons of the Harpy]]", "[[Unbowed, Unbent, Unbroken]]", "[[Hardhome (episode)|Hardhome]]" and "[[The Dance of Dragons (episode)|The Dance of Dragons]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 5||yes||yes||yes||yes|yes}}
+
+==See also==
+*{{IMDb
+|# = 5206935}}
+*{{Instagram
+|# = pabstunts}}
+*{{Facebook
+|# = pablo.verdejocarratala}}
+*{{Vimeo
+|# = user52095721}}
+*{{Linkedin
+|# = /in/pablo-verdejo-a3910635}}
+{{DEFAULTSORT:Verdejo, Pablo}}
+[[Category:Stunt performers of Game of Thrones]]

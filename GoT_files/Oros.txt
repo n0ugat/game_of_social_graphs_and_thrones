@@ -1,0 +1,52 @@
+{{Canonicity|Canon}}
+{{References}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Westeros
+| Image        = Oros Pin.png
+| Type         = City
+| Status       = Ruined
+| Location     = [[Valyrian peninsula]], [[Essos]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = 
+| Places       = 
+| Founded      = by the [[Valyrian Freehold]]
+}}
+[[File:Slaver's Bay.png|thumb|200px|Oros is located at the south end of the [[Valyrian peninsula]]'s mainland, at the north coast of the [[Smoking Sea]].]]
+'''Oros'''{{Mapref|Viewer's Guide}} is a ruined city in the [[Valyrian peninsula]] in southern [[Essos]].  
+
+The city was left in ruins by the [[Doom of Valyria]], when it struck [[Old Valyria]] itself to the south.  The volcanic eruption of the [[Fourteen Flames]] in the Doom shattered the Valyrian peninsula, flooding large portions of it and forming the [[Smoking Sea]].  The remains of the peninsula to the south are now a string of islands in the Smoking Sea - the ruins of Old Valyria itself still exist on one of these islands.  
+
+Prior to the Doom, Oros was actually an inland city located away from the coasts.  Following the Doom, however, it now sits on the north side of the Smoking Sea, on the southernmost coast of mainland Essos in the area.  The ruins of [[Tyria]], another Valyrian city, lie directly south across the Smoking Sea from Oros, at the north end of the same new island that Old Valyria is now located on.
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Oros is connected by a Valyrian road to [[Mantarys]]. It was located close to the Fourteen Flames, the great volcanic mountain range stretching across the neck of the Valyrian peninsula. It was laid waste during the Doom.
+
+In ''[[The World of Ice & Fire]]'', it is mentioned that there are rumors of men and shadowy figures living in the ruins of Oros - somewhat implied to be [[Stone Men]], exiled to the ruins of the Valyrian peninsula similar to how they are also exiled to a large colony at the ruins of [[Chroyane]], on the [[Rhoyne]] River in the middle of the Free Cities. 
+
+[[Tyrion Lannister|Tyrion]] is attacked by Stone Men while passing through Chroyane in the novels, but the TV series condensed this to have him attacked by them while passing through the ruins of Valyria (though the novels imply that there are also Stone Men in the Valyrian peninsula).
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Known world}}
+{{Valyrian peninsula}}
+
+<!--Categories-->
+[[Category:Ruined cities]]
+[[Category:Valyrian peninsula]]
+
+<!--Languages-->
+[[es:Oros]]
+[[nl:Oros]]
+[[pl:Oros]]
+[[ru:Орос]]
+[[uk:Орос]]
+[[zh:奥罗斯]]

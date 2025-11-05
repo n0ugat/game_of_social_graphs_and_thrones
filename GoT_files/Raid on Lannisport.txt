@@ -1,0 +1,77 @@
+{{Canonicity|Canon}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Westeros
+| Part          = the [[Greyjoy Rebellion]]
+| Image         = Annotation 2019-12-11 195503.jpg
+| Previous      = 
+| Concurrent    = 
+| Next          = [[Assault on Seagard]]
+| Date          = [[289 AC]]{{Dateref|Greyjoy Rebellion}}
+| Place         = [[Lannisport]], the [[Westerlands]]
+| Outcome       = *Greyjoy victory
+*Destruction of the [[House Lannister|Lannister]] fleet
+| Factions1     = [[File:House Greyjoy.svg|30px|center|link=House Greyjoy]] [[House Greyjoy]]
+| Factions2     = [[File:House Lannister.svg|30px|center|link=House Lannister]] [[House Lannister]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = [[Prince]] [[Euron Greyjoy]]<br>[[Prince]] [[Aeron Greyjoy]]
+| Leaders2      = Unknown
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = [[Iron Fleet]]
+| Participants2 = [[Lannister fleet]]
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = Light
+| Casualties2   = [[Lannister fleet]] burned at anchor
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Quote|Weren't you the one who started that rebellion by sailing to Casterly Rock and burning the Lannister fleet? You certainly caught us there. Very smart move on your part.|[[Jaime Lannister]] to [[Euron Greyjoy]]|Dragonstone (episode)}}
+The '''raid on Lannisport'''{{Ref|H&L202}} was one of the opening attacks of the [[Greyjoy Rebellion]], taking place approximately nine years before the [[War of the Five Kings]]. 
+
+==History==
+===Background===
+The [[Lannister fleet]], docked at [[Lannisport]] was destroyed in an attack carried out by [[Euron Greyjoy]], brother of [[Balon Greyjoy]], who had crowned himself [[King of the Iron Islands|King]] of the [[Iron Islands]].
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+[[Tyrion Lannister|Tyrion]] remembers seeing the Lannister fleet burning at Lannisport, implying the fire was visible from [[Casterly Rock]]. He tells [[Theon Greyjoy|Theon]] his uncles were responsible.<ref name="E4">"[[Cripples, Bastards, and Broken Things]]"</ref>{{Note|In the books, Victarion Greyjoy carries out the plan devised by Euron. But since Victarion is not introduced in the show, Tyrion seems to be referring to [[Aeron Greyjoy]] as the other uncle with Euron.}}
+
+===[[Game of Thrones: Season 7|''Game of Thrones'': Season 7]]===
+[[Jaime Lannister|Jaime]] recalls Euron burning the Lannister fleet at [[Casterly Rock]] (actually it took place in Lannisport), the very act which started the Greyjoy Rebellion, when he meets with [[Cersei Lannister|Cersei]] to propose to her and form an alliance. Jaime goes on to recount how he killed many [[ironborn]], which Euron is grateful of since the Iron Islands were "overcrowded" and how it led to Euron's exile, which made him the "greatest captain of the fourteen seas," discomforting Jaime.<ref name="E61">"[[Dragonstone (episode)|Dragonstone]]"</ref>
+
+==In the books==
+﻿In the ''[[A Song of Ice and Fire]]'' novels, the attack on Lannisport was the first stage of the Greyjoy Rebellion, devised by Euron but carried out by his brother [[Victarion Greyjoy|Victarion]], Lord Captain of the Iron Fleet; he personally flung the first torch onto Tywin's flagship. That was, however, the ''only'' successful stage of the rebellion; from that point, the ironborn were repeatedly defeated until Balon surrendered.
+
+The destruction of the Lannister fleet (which consisted of about twenty to thirty ships) gave the ironborn freedom to launch the next stage of the rebellion - an [[Assault on Seagard|attack against Seagard]] - and raid the coastline.
+
+Balon hoped that the destruction of the Lannister fleet would give the ironborn naval supremacy over the [[Sunset Sea]], but was wrong; [[Stannis Baratheon|Stannis]] eventually defeated Victarion's Iron Fleet in a [[sea battle off Fair Isle]], allowing Robert to invade the rebellious Iron Islands.
+
+In the fourth novel, Euron spreads rumors about his past deeds, taking the credit for destroying the Lannister fleet as if he performed that himself, not just planned it.{{Bookref|AFFC|18}}
+
+During the [[second siege of Meereen]], when [[Tyrion Lannister|Tyrion]] hears that the Iron Fleet are attacking the [[Yunkai|Yunkish]] fleet blockading [[Slaver's Bay]] and landing troops on the shore to attack the besiegers' camp, he recalls the raid on Lannisport, musing to himself that the [[Wise Masters]] and their slave soldiers stand no chance against the ironborn's savagery.{{Bookref|TWOW|Tyrion I}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|Burning of the Lannister fleet}}
+
+<!--Navboxes-->
+{{Greyjoy Rebellion}}
+
+<!--Categories-->
+[[Category:289 AC]]
+[[Category:Battles]]
+[[Category:Greyjoy Rebellion]]
+
+<!--Languages-->
+[[de:Überfall auf Lennishort]]
+[[fr:Raid sur Port-Lannis]]
+[[pt-br:Ataque a Lannisporto]]
+[[ru:Нападение на Ланниспорт]]

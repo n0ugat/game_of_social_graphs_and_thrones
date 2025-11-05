@@ -1,0 +1,35 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Kingdoms
+| Image   = Owen Harris.jpg
+| Birth   = 1972 {{Age|1972|12|31}}<br>London, England, United Kingdom
+| Death   = 
+| Role    = Executive producer<br>Director
+| Series  = ''[[A Knight of the Seven Kingdoms]]''
+| Season  = [[A Knight of the Seven Kingdoms: Season 1|1]]
+| Credits = 6 episodes {{Below|Credits}}
+| First   = [[A Knight of the Seven Kingdoms: Season 1, Episode 1|Season 1, Episode 1]]
+| Last    = 
+}}
+'''Owen Harris''' (born 1972) is an English director and producer. He is an executive producer{{Webref|name=VarietyLeadsCast |author=Joe Otterson |date=April 5, 2024 |url=https://variety.com/2024/tv/news/game-of-thrones-prequel-hedge-knight-knight-of-the-seven-kingdoms-cast-peter-claffey-dexter-sol-ansell-1235961895/ |title=‘Game of Thrones’ Prequel ‘Knight of the Seven Kingdoms: The Hedge Knight’ Casts Peter Claffey, Dexter Sol Ansell in Lead Roles |website=Variety |access-date=April 6, 2024 }} and director{{Webref|name=Harris |author=Gravemaster |date=May 5, 2024 |url=https://redanianintelligence.com/2024/05/05/dunk-egg-series-adds-black-mirrors-san-junipero-director/ |title=Dunk & Egg Series Adds Black Mirror's San Junipero Director |website=Redanian Intelligence |access-date=May 6, 2024 }} on [[A Knight of the Seven Kingdoms: Season 1|''A Knight of the Seven Kingdoms'': Season 1]].
+
+==Credits==
+===Executive producer===
+{{Plainlist
+|{{AKOTSK|Season 1}}
+}}
+
+===Director===
+{{A Knight of the Seven Kingdoms: Season 1|yes|yes|yes}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb|#=2787176}}
+*{{WP|Owen Harris (director)}}
+
+<!--Categories-->
+{{DEFAULTSORT:Harris, Owen}}
+[[Category:Directors of A Knight of the Seven Kingdoms]]
+[[Category:Executive producers of A Knight of the Seven Kingdoms]]

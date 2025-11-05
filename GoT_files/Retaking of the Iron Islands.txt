@@ -1,0 +1,67 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Thrones
+| Part          = the [[Last War]]
+| Image         = 801 Yara's Fleet.png
+| Previous      = [[Battle of Winterfell]]
+| Concurrent    = 
+| Next          = [[Battle at Dragonstone]]
+| Date          = [[305 AC]]{{Dateref|Game of Thrones: Season 8}}
+| Place         = The [[Iron Islands]]
+| Outcome       = Victory for [[Yara Greyjoy]] in the name of [[Daenerys Targaryen]]
+| Factions1     = {{COA|House Greyjoy|small}} [[House Greyjoy]]<br><small>([[Euron Greyjoy|Euron]]'s faction)</small>
+| Factions2     = {{COA|House Greyjoy|small}} [[House Greyjoy]]<br><small>([[Yara Greyjoy|Yara]]'s faction)</small>
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = Unknown
+| Leaders2      = {{COA|House Greyjoy|inline}} [[King of the Iron Islands|Queen]] [[Yara Greyjoy]]
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = Token island garrisons left by Euron
+| Participants2 = Three [[ships]] and [[Ironborn]] warriors loyal to Yara
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = 
+| Casualties2   = 
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Quote|Yara Greyjoy has retaken the Iron Islands in her queen's name.|[[Varys]]|The Last of the Starks}}
+The '''retaking of the Iron Islands''' was a successful attempt by the [[Ironborn]] forces loyal to [[King of the Iron Islands|Queen]] [[Yara Greyjoy]] to retake the [[Iron Islands]] from [[King of the Iron Islands|King]] [[Euron Greyjoy]], whose [[Iron Fleet]] was in [[King's Landing]] helping [[King of the Andals and the Rhoynar and the First Men|Queen]] [[Cersei Lannister]] defend the capital from [[Daenerys Targaryen]].
+
+==History==
+===Prelude===
+Yara Greyjoy and her brother [[Theon Greyjoy|Theon]] were forced to flee the Iron Islands{{Ref|GOT605}} when their uncle Euron Greyjoy [[Assassination of Balon Greyjoy|murdered]] their [[Balon Greyjoy|father]]{{Ref|GOT602}} and won the [[Salt Throne]], but they were able to steal the best ships of the Iron Fleet{{Ref|GOT605}} and beat Euron to [[Meereen]], where they made a pact with Daenerys Targaryen leading into the [[Last War]].{{Ref|GOT609}} As a result, Euron traveled to King's Landing and allied with Cersei Lannister, the new Queen of the [[Seven Kingdoms]].{{Ref|GOT701}} Euron went on to [[Assault on the Targaryen fleet|smash]] his niece and nephew's fleet and captured Yara, though Theon was able to escape by jumping overboard.{{Ref|GOT702}}
+
+After rallying the remaining Ironborn loyal to Yara at [[Dragonstone]],{{Ref|GOT707}} Theon [[Rescue of Yara Greyjoy|rescued]] his sister while their uncle was in the [[Red Keep]] with Cersei. Yara decided to use the three ships and Ironborn still at her command to take the Iron Islands back from her uncle in Queen Daenerys's name. With Yara's permission, Theon took a small portion of this force north to fight{{Ref|GOT801}} and ultimately die for the [[House Stark|Starks]] at the [[Battle of Winterfell]] against the [[White Walkers]].{{Ref|GOT803}}
+
+===Recapturing the Iron Islands===
+According to the reports of [[Varys]], the reconquest was successful. Considering the bulk of Euron's fleet was occupied serving Cersei on the other side of the continent, Yara's men likely encountered little resistance.{{Ref|GOT804}}
+
+===Aftermath===
+At a war council at [[Winterfell]] after the battle, Varys reports to Daenerys that Yara has successfully retaken the Iron Islands in her name.{{Ref|GOT804}} Since Euron has been slain by [[Jaime Lannister|Jaime]] in the Battle of King's Landing,{{Ref|GOT805}} Yara becomes the unopposed queen of the Iron Islands.{{Ref|GOT806}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, an equivalent event has not occurred. The TV show has surpassed the timeline of the books, so it is unclear if such an event will occur.
+
+Currently, Asha (Yara's name in the novels) is held captive by [[Stannis Baratheon]]; nearly all her troops and ships [[Fight by Deepwood Motte|have been destroyed]]. Asha is rather pessimistic about her chances to overthrow Euron and take over the Iron Islands, since the ironborn are not a forgiving people, and she has been defeated twice: once at the [[kingsmoot on Old Wyk]], and again at by Stannis - more than enough to stamp her as unfit to rule in the eyes of the ironborn. Moreover, Stannis intends to wed her to one of his subordinates, Ser Justin Massey; Asha knows well that being married to a "green land lord" will make her a laughingstock in the eyes of the ironborn, and totally destroy her political ambitions.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{Last War}}
+
+<!--Categories-->
+[[Category:305 AC]]
+[[Category:Battles]]
+[[Category:Last War]]
+
+<!--Languages-->
+[[ru:Битва за Железные острова]]

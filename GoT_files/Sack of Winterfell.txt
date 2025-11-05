@@ -1,0 +1,169 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Thrones
+| Part          = the [[Ironborn invasion of the North]]
+| Image         = Winterfell Burning.jpg
+| Previous      = [[Battle of the Blackwater]]<br><small>([[War of the Five Kings]])</small><br>[[Capture of Winterfell]]<br><small>([[Ironborn invasion of the North]])</small>
+| Concurrent    = 
+| Next          = [[Fall of Harrenhal]]<br><small>([[War of the Five Kings]])</small><br>[[Assault on the Dreadfort]]<br><small>([[Ironborn invasion of the North]])</small>
+| Date          = [[299 AC]]{{Dateref|Game of Thrones: Season 2}}
+| Place         = [[Winterfell]], [[North]]
+| Outcome       = [[House Bolton|Bolton]] Victory
+*Prince [[Theon Greyjoy]] is taken captive by the Boltons
+*[[Winterfell]] abandoned by the Ironborn and put to the torch by [[Ramsay Bolton|Ramsay Snow]]
+*Death of Maester [[Luwin]] and several members of the Stark household
+*Escape of [[Bran Stark|Bran]] and [[Rickon Stark]], [[Osha]] and [[Hodor]]
+| Factions1     = [[File:House Greyjoy.svg|30px|center|link=House Greyjoy]] '''[[Salt Throne]]'''/[[House Greyjoy]]
+| Factions2     = [[File:House Bolton.svg|30px|center|link=House Bolton]] [[House Bolton]]
+| Factions3     = [[File:House Stark.svg|30px|center|link=House Stark]] '''[[North|Kingdom of the North]]'''/[[House Stark]] 
+| Factions4     = 
+| Leaders1      = {{COA|House Greyjoy|i}} [[Prince of Winterfell|Prince]] [[Theon Greyjoy]] <small>(POW)</small><br>[[Dagmer]] {{Surrender}} {{Executed}}
+| Leaders2      = [[Ramsay Bolton|Ramsay Snow]]
+| Leaders3      = None
+| Leaders4      = 
+| Participants1 = 18 [[Ironborn]]
+| Participants2 = 500 men
+| Participants3 = Multiple unarmed citizens and captured [[men-at-arms]] at Winterfell
+| Participants4 = 
+| Casualties1   = Catastrophic
+*17 Ironborn [[Flaying|flayed]] alive
+**[[Dagmer]] 
+**[[Black Lorren]] 
+**[[Gelmarr]] 
+**[[Stygg]] 
+**[[Aggar]] 
+**[[Urzen]]
+**[[Wex Pyke]] 
+| Casualties2   = None
+| Casualties3   = Heavy
+*Many civilians of Winterfell put to the sword.
+*[[Order of Maesters|Maester]] [[Luwin]]
+*Entirety of the Stark household
+| Casualties4   = 
+}}
+{{Dialogue a-b|Bran|They burned it down. They burned everything.|Luwin|Not everything. Not you.|Prince [[Bran Stark]] and Maester [[Luwin]] after the sack of Winterfell|Valar Morghulis}}
+The '''sack of Winterfell'''{{Con|ASOIAF}} was a military engagement at [[Winterfell]] during the [[Ironborn invasion of the North]].
+
+==History==
+===Prelude===
+After news of the [[capture of Winterfell]] to a band of [[Ironborn]] led by [[Theon Greyjoy|Theon]] and the death of [[Rodrik Cassel]] reached [[Robb Stark|Robb]], his vassal [[Roose Bolton]] offers to send word to his bastard [[Ramsay Bolton|son]] to gather a force to retake [[Winterfell]]. Unaware of [[House Bolton]]'s true intentions, Robb agrees, and orders Roose to tell his son to keep Theon alive so Robb can [[Execution|execute]] him personally.<ref>"[[The Old Gods and the New]]"</ref>
+
+Some time later, after Roose reassures him that his son is only a few days' ride from Winterfell, Robb orders him to send word to Ramsay that any Ironborn who surrenders will be granted mercy, with the exception of Theon. Robb hopes to turn Theon's garrison against him and spare his people and brothers from any retaliation.<ref>"[[The Prince of Winterfell]]"</ref>
+
+===The siege===
+After the Northern force reaches Winterfell, a horn is sounded constantly as means of demoralizing Theon and his force. Maester [[Luwin]], bound to serve whoever rules Winterfell, suggests Theon to escape through one of the hidden passageways and flee to the [[Wall]] and [[Night's Watch|take the black]]. Theon, fearing that [[Jon Snow|Jon]] will kill him, rejects Luwin's counsel and opts for a different plan.<ref name="E20">"[[Valar Morghulis]]"</ref>
+
+Theon gathers his men in Winterfell's main yard and delivers a speech to them, in which he exhorts them to resist the Northmen and, even though they will all die, attain glory, ending with a frenzied cry of the prayer to the [[Drowned God]]: "What is dead may never die". Theon's men respond in various degrees of emotion. After the cry is over, [[Dagmer]] knocks Theon unconscious and tells the men that it's time to go [[Iron Islands|home]].<ref name="E20"/>
+
+As Theon's men place a hood over his head, Luwin comes out into the yard asking to know what's happening. The sole response Dagmer gives him is a spear thrust to the abdomen.<ref name="E20"/>
+
+After these events, Winterfell is put to the torch by Ramsay and his men, to blame the Ironborn the destruction and silence all witnesses of the deed where its inhabitants are killed, captured, or routed, leaving the castle empty. Luwin manages to get himself inside the [[godswood]].<ref name="E20"/>
+
+===Aftermath===
+[[Bran Stark|Bran]] and [[Rickon Stark|Rickon]] emerge from the catacombs of Winterfell, where they had hidden with their protectors [[Osha]] and [[Hodor]], to find Winterfell covered in smoke and dying flames and its people dead. They also find [[Summer]] and [[Shaggydog]] on the gates of the godswood and enter it, only to find an injured Luwin beside the [[weirwood]] [[heart tree]]. Luwin urges Bran and Rickon to go north to the [[Gift]], so Jon can keep them safe. As they set to leave, Luwin tells Osha to protect the two boys and then asks her to mercy-kill him. Afterward, the four leave the home of [[House Stark]].<ref name="E20"/>
+
+Despite having sworn them safe passage, Ramsay Snow flippantly broke his promise, and flayed all of the Ironborn alive anyway. All, that is, except for Theon, whom he brought to the [[Dreadfort]]'s dungeons for prolonged and sadistic torture.<ref>"[[Mhysa]]"</ref>
+
+Ramsay subsequently sent false reports to his father Roose via messenger-[[raven]], claiming that it was the Ironborn who had burned out Winterfell, and that Bran and Rickon have disappeared, either escaped or have been taken as Ironborn hostages.<ref>"[[Dark Wings, Dark Words]]"</ref> In reality, the Boltons had agreed on this course of action long in advance when it became clear that the [[House Lannister|Lannisters]] would probably win the war, after a victory at the [[Battle of the Blackwater]].
+
+Ramsay's deception keeps Robb and [[Catelyn Stark|his mother]] from realizing that it was truly Ramsay and his Bolton soldiers who burned Winterfell. Robb had no idea that the Boltons had turned on him until months later at the betrayal of the [[Red Wedding]], when Roose personally drove a dagger through his heart.<ref>"[[The Rains of Castamere (episode)|The Rains of Castamere]]"</ref>
+
+=== Known residents of Winterfell who disappeared after the sack ===
+* [[Mikken]], the blacksmith
+* [[Farlen]], the [[kennelmaster]]
+* [[Palla]], Farlen's daughter
+* [[Tommy]], the barber
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the sack of Winterfell takes place in an extremely different manner.
+
+===Background===
+Theon, eager to prove himself to his [[Balon Greyjoy|father]], sends Dagmer and most of his ironborn force to [[Torrhen's Square]], as a diversion. Rodrik Cassel falls for the trick and marches there with most of the garrison of Winterfell (600 soldiers). Dagmer suffers heavy casualties and retreats with the survivors to the [[Stony Shore]]; in the meantime, Theon seizes Winterfell.{{Bookref|ACOK|56}}
+
+Bran and Rickon escape, accompanied by their direwolves, Hodor, Osha and [[Jojen Reed|the]] [[Meera Reed|Reeds]]. Theon searches for them in vain. One of his servants, a man named "Reek" (actually, Ramsay Snow in disguise) suggests killing two miller's sons as a cover up, and Theon agrees.{{Bookref|ACOK|50}} [[Billy#In the books|The]] [[Jack#In the books|boys]] (and their mother) are killed at Theon's command, and their charred bodies are brought to Winterfell.{{Bookref|ACOK|56}}
+
+The news about the alleged murder of the Stark boys soon spreads all over the North and to other regions of Westeros, reaching [[King's Landing]] and [[Harrenhal]]. [[Arya Stark|Arya]] is heartbroken to hear the news about her brothers and her home, though she incorrectly thinks it was the Lannisters' handiwork.{{Bookref|ACOK|64}}
+
+Upon hearing that Robb has lost the North, his brothers, and Winterfell - and the news about [[Battle of the Blackwater|Stannis's defeat]] and that the [[House Tyrell|Tyrells]] joined the Lannisters - the [[House Frey|Frey]] officers have second thoughts about supporting Robb; they believe that Robb's cause is lost and that he must yield. They share their doubts with Roose Bolton, who does not reveal to them his personal opinion;{{Bookref|ACOK|64}} later, he reveals to [[Jaime Lannister|Jaime]] that he has decided to switch sides exactly for those reasons.{{Bookref|ASOS|37}}
+
+Ser Rodrik Cassel rallies Northern forces (from Houses [[House Tallhart|Tallhart]], [[House Cerwyn|Cerwyn]], [[House Manderly|Manderly]], [[House Hornwood|Hornwood]], [[House Flint|Flint]], and [[House Karstark|Karstark]]), nearly 2,000 soldiers. He sends a report from [[Castle Cerwyn]] to Robb and Catelyn about the capture of Winterfell and the alleged death of Bran and Rickon, then marches back to Winterfell.{{Bookref|ACOK|56}}
+
+Dagmer returns to Torrhen's Square and seizes the sparsely-garrisoned keep; from that point, he takes no part in the following events in the North.{{Bookref|ASOS|76}}
+
+
+Robb and Catelyn are devastated by the bad news. Consumed by grief, both of them perform rash acts whose applications are disastrous for the Starks: at [[Riverrun]], Catelyn releases Jaime, in hope to exchange him for [[Sansa Stark|Sansa]];{{Bookref|ACOK|55}} at the [[Crag]], Robb, who has been "comforted" by [[Talisa Stark#In the books|Jeyne Westerling]] in bed, feels honor-bound to marry her.{{Bookref|ASOS|14}} As a result of those ill-advised deeds, Robb loses the Karstark and Frey troops - and [[Red Wedding|much more]]. Thus Theon unwittingly serves as a catalyst of the Red Wedding.
+
+Theon receives reports that Ser Rodrik is on his way, reinforced by Tallhart troops, and that [[Wyman Manderly|Lord Manderly]] has sent a dozen barges upriver packed with knights, warhorses, and siege engines. He sends his [[Balon Greyjoy|father]], [[Yara Greyjoy|sister]], and Victarion requests for reinforcements; Balon and Victarion do not even bother to answer. Asha (Yara's name in the books) finally arrives with pathetically small reinforcements (ten men). She chides and taunts Theon for his stupidity and unnecessary cruelty, urging him to leave before Ser Rodrik arrives, but Theon insists on holding his "prize". Eventually Asha gives up trying to persuade Theon and leaves him.{{Bookref|ACOK|56}} 
+
+"Reek" approaches Theon, suggesting bringing at least 200 men as reinforcements. Theon does not trust him, but agrees to let him go, because he has no other choice.{{Bookref|ACOK|56}}
+
+Theon assembles his men and makes a short speech, without shouting and without any promises of eternal glory: "The northmen will be on us before nightfall. Ser Rodrik Cassel and all the lords who have come to his call. I will not run from them. I took this castle and I mean to hold it, to live or die as [[Prince of Winterfell]]. But I will not command any man to die with me. If you leave now, before Ser Rodrik's main force is upon us, there's still a chance you may win free." [[Wex Pyke#In the books|Wex]], Black Lorren, [[Harrag#In the books|Harrag]], and 14 others choose to stay; the rest (among them [[Stygg]] and [[Urzen]]) leave.{{Bookref|ACOK|66}}
+
+===The siege===
+Ser Rodrik's force arrives and encircles the castle; Theon prepares a nasty "surprise" for him. Lorren urges Theon to kill all the castle occupants and fight the besiegers to death; since they are outnumbered 1:100, Lorren knows their chances of survival are slim to none and prefers to die heroically. Theon refuses, thus earning Lorren's contempt.
+
+Ser Rodrik knows that Theon has no more than 50 men (actually, 17); therefore, he can easily liberate Winterfell but does not attack, perhaps because he is concerned about the safety of the hostages (among them his daughter Beth) or prefers to avoid an unnecessary bloodshed. As things turn to be, an immediate assault would have been the preferred strategy, though it might have cost the hostages' lives.
+
+[[Cley Cerwyn]] approaches the castle, asking for a [[parley]]. Theon confronts Ser Rodrik, who calls him "Theon Turncloak" (this becomes Theon's derogatory nickname). He bluntly tells Theon that he wants two things - Winterfell and his life. He promises that if the ironborn surrender, those who have murdered no children will be free to walk away, but Theon shall be held for King Robb's justice.
+
+In response, Theon arrogantly claims that the ironborn hold the entire North (an extremely unrealistic statement), and that those who swear fealty to Balon as their king and to Theon as Prince of Winterfell will be confirmed in their rights and properties and suffer no harm; those who defy them will be destroyed. Unimpressed at Theon's vanity, Ser Rodrik points out that the ironborn hold three castles, and he intends to liberate this one.
+
+Theon then draws Ser Rodrik's attention to the castle wall, where his daughter Beth is held, a noose around her neck. Theon threatens that if the besiegers are still before the gate when the sun sets - Beth will be hung, followed by the rest of the hostages every dawn and every dusk. Ser Rodrik curses Theon bitterly, calls him a viper and a childkiller without a shred of honor. He offers himself as a hostage in exchange for Beth; Theon refuses and returns to Winterfell, expecting to feel arrows at his back.
+
+Theon realizes that he has gotten himself into a hopeless situation: if he hangs Beth - the besiegers will attack without delay; if he does not - the same result, for Ser Rodrik will conclude that his threats were empty. His despair increases as his subordinates grow to despise him, though they do not actually turn against him.
+
+Luwin approaches Theon, advising him to yield and take the black. Theon considers the advice positively, though not as a chance to redeem himself; he thinks of all the possible benefits he can get. Unlike in the show, he does not take into consideration that Jon may kill him as a payback for the atrocities he performed against the North and against House Stark in particular (that might have been the outcome, had Theon joined the Watch, but it would have been much more merciful fate than Ramsay's treatment).{{Bookref|ACOK|66}}
+
+===The battle===
+"Reek" arrives with 600 Dreadfort soldiers and pretends to join the besiegers. Believing the Dreadfort men to be reinforcements, Ser Rodrik offers his hand in greeting to their helmeted leader; "Reek" cuts his arm, then his soldiers slaughter the besiegers in a surprise attack, taking them totally off-guard, despite being outnumbered 1:3. Soon the besieging force is overpowered, its three commanders (Ser Rodrik, Leobald Tallhart, and Cley Cerwyn) are killed; part of it is destroyed, and the survivors run away. The Dreadfort troops suffer only minor casualties.
+
+Theon, believing himself saved, opens the gates and allows the "saviors" inside. Then "Reek" reveals his true identity to Theon. He demands that Theon gives him [[Kyra]]; Theon reacts angrily, and Ramsay punches him in the face, shattering his cheekbone. Ramsay orders his men "''Save me the Freys,'' [the two grandsons of Lord Frey, "Big" Walder and "Little" Walder] '', and burn the rest. Burn it, burn it all''." The last thing Theon sees before passing out is his horse with his mane ablaze.{{Bookref|ACOK|66}}
+
+===Aftermath===
+Winterfell has been put to the torch, most of its occupants - ironborn and the Starks' servants alike - have been massacred. Unlike in the show, the bodies have not been flayed. Maester Luwin is fatally injured and left to die.{{Bookref|ACOK|69}} Wex is the only ironborn who is neither killed nor captured by the Boltons; he hides in the godswood, witnessing the atrocities that Ramsay and his men commit.{{Bookref|ADWD|29}}
+
+Theon, Kyra, and seven of the household of Winterfell (among them [[Old Nan]], Palla, and Beth Cassel) are taken captive by Ramsay. [[Walder Frey|Lord Frey]]'s grandsons are brought to the [[Dreadfort]] as guests.
+
+In the following morning, the Stark boys and their companions come out of their hiding place. They find Luwin near death. He advises them to split, but is uncertain where should they go, for the North is crawling with ironborn and Boltons.{{Bookref|ACOK|69}} After giving Luwin the gift of mercy, Bran, Hodor, the Reeds, and Summer head north, seeking for the [[Cave of the Three-Eyed Raven]], while Rickon, Osha, and Shaggydog go to the isle of [[Skagos]], followed by Wex.{{Bookref|ADWD|29}}
+
+Some time later, Asha comes to Winterfell, searching for her brother. She finds only mutilated, unrecognizable dead bodies, partly eaten by wolves and other scavenging animals. She assumes Theon is dead, though she cannot be certain. It seems to her that the northmen fought amongst themselves - a rather accurate description of the battle.{{Bookref|AFFC|11}} Only in the fifth novel she finds out Theon is alive and held prisoner at the Dreadfort, as implied in a taunting letter she receives from Ramsay, but unlike in the show she never [[Assault on the Dreadfort|attempts to rescue him]].{{Bookref|ADWD|26}}
+
+
+In ''A Storm of Swords'', [[Lothar Frey]] tells the Starks that his nephews "Big" Walder and "Little" Walder sent a letter from the Dreadfort to the [[Twins]], informing him that Winterfell has been destroyed and Ser Rodrik is dead; that the Northern lords tried to retake Winterfell from the ironborn, and when Theon saw that his prize was lost - he put the castle to the torch and put many of the Starks' servants to the sword; that a few women and children were saved and carried back to the Dreadfort by Ramsay Snow, and they are safe in the Dreadfort. To Robb's question, Lothar says that the letter did not mention what happened to Theon. Since the treacherous Freys are later revealed to be in league with the Boltons, it is unclear whether Lothar has deliberately lied to the Starks, or simply repeated the contents of the letter (which was undoubtedly dictated by Ramsay) and did not know if they were true or not.
+
+After the Starks hear the news about [[Assassination of Balon Greyjoy|Balon's death]], Roose comes to the Twins and tells them the same false news they have already heard from Lothar, that the ironborn have burnt Winterfell and killed most of its residents, and Ramsay saved the day and took the survivors to the Dreadfort; he also reveals what Lothar did not know - that Theon is alive, held prisoner at the Dreadfort and being flayed by Ramsay (this is the only true part of Roose's report). Robb says furiously that he wants Theon's head, not his skin; Roose persuades him to keep Theon alive for the present, in order to demand concessions from the ironborn who currently [[Kingsmoot|compete over the Seastone Chair]]. Robb reluctantly agrees.
+
+It is unclear whether Ramsay acted on his own or at his father's orders. The fact that he commanded his soldiers to spare the Freys suggests that he got orders from his father (they could have made contact by sending ravens between Harrenhal and Dreadfort without Robb's knowledge, as Roose contacted the Lannisters), but it is uncertain.
+
+Soon after Jon returns to [[Castle Black]], he is told by Maester [[Aemon]] that his brothers died at Theon's command, after he took Winterfell in his father's name; when his father's bannermen threatened to retake it, he put the castle to the torch. [[Grenn]] adds that Jon's brothers were avenged by Ramsay, who killed all the ironborn, and it is said he's flaying Theon inch by inch for what he did (obviously Aemon and Grenn have not deliberately given Jon false information, but innocently relied on false reports). Jon is overwhelmed by the bad news, but is confused to hear that Bran is dead, recalling that he saw [[Summer]] at [[Queenscrown]].
+
+In ''A Dance with Dragons'' it is revealed that Theon is indeed held prisoner at the Dreadfort and tortured by Ramsay. Kyra's fate is revealed too,{{Bookref|ADWD|12}} but it is unknown what has become of the seven Starks' servants who have been taken captive by Ramsay. According to the appendix of ''A Feast with Crows'', they are held prisoners at the Dreadfort too; in view of the manner Ramsay treats his prisoners (especially women) it is unlikely they survived, but maybe some of them are still alive.
+
+Wex, who secretly followed Osha and Rickon, arrives at [[White Harbor]] and informs Lord Manderly and [[Robett Glover]] what he has seen. Thus they and [[Davos Seaworth|Davos]] realize who was really responsible to the sack of Winterfell; this has not become public knowledge yet, though.{{Bookref|ADWD|29}}
+
+By the point the books reached, Dagmer is still in Torrhen's Square.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+*{{AWOIAF|Battle at Winterfell}}
+
+<!--Navboxes-->
+{{War of the Five Kings}}
+
+<!--Categories-->
+[[Category:299 AC]]
+[[Category:Ironborn invasion of the North]]
+[[Category:Sacks|Winterfell]]
+
+<!--Languages-->
+[[de:Plünderung von Winterfell]]
+[[fr:Sac de Winterfell]]
+[[ru:Разгром Винтерфелла]]

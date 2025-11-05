@@ -1,0 +1,30 @@
+{{Cast
+| Title= Richard Laing
+| Image= Richard Laing.jpg
+| birthdate = 
+| birthplace = {{WPS|Seaton}}, {{WPS|Devon}}, {{WPS|England}}
+| role= [[Lannister captain]]
+| status= 
+| Appearances="[[Home]]" 
+| imdb= http://www.imdb.com/name/nm0481924/
+| twitter= 
+| First = 
+| Last = 
+}}'''Richard Laing''' is an English actor. He has appeared in the films ''{{WPS|Batman Begins}}'', ''{{WPS|V for Vendetta (film)|V for Vendetta}}'', ''{{WPS|Gulliver's Travels (2010 film)|Gulliver's Travels}}'' and ''{{WPS|Now You See Me 2}}''.
+
+In ''[[Game of Thrones]]'', he portrayed a [[Lannister captain]] in the [[Game of Thrones: Season 6|sixth season]] episode "[[Home]]".
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 6||yes}}
+
+==See also==
+*{{IMDb
+|# = 0481924}}
+*{{Twitter
+|# = rlaingactor}}
+
+==References==
+{{Reflist}}
+{{DEFAULTSORT:Laing, Richard}}
+[[Category:Guest starring cast members of Game of Thrones]]

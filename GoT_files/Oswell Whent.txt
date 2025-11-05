@@ -1,0 +1,83 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Leftimage  = House Whent.svg
+| Leftlink   = House Whent
+| Rightimage = Kingsguard.svg
+| Rightlink  = Kingsguard
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Targaryen
+| Image       = Oswell Whent.png
+| Birth       = At [[Harrenhal]]
+| Death       = [[281 AC]]{{Dateref|Robert's Rebellion}} in the [[Red Mountains]]<ref>''[[Book of Brothers]]''</ref>
+| House       = [[House Whent|Whent]]
+| Affiliation = [[Kingsguard]]
+| Titles      = [[Knighthood|Ser]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Riverlands|Rivermen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = {[[Walter Whent]]}
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Lord Commander Gerold Hightower, the White Bull; Arthur Dayne, the Sword of the Morning; Barristan Selmy, the Bold; Prince Lewyn Martell; Oswell Whent; Jonothor Darry... and, soon enough, the boy prodigy: me.|[[Jaime Lannister]]|The Kingsguard - Jaime Lannister}}
+Ser '''Oswell Whent''' was a [[Knighthood|knight]] of [[House Whent]] and a sworn brother of the [[Kingsguard]] under [[Aerys II Targaryen]]. 
+
+==Biography==
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+Ser Oswell is mentioned in the entry of his sworn brother, Lord Commander [[Gerold Hightower]] as recorded in the ''[[Book of Brothers]]''. The entry mentions the death of Ser Oswell in the [[Red Mountains]] of [[Dorne]] after refusing to [[bending the knee|bend the knee]] to the new king, [[Robert Baratheon]].{{Ref|GOT401}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Ser Oswell Whent was a younger brother of Lord Whent, known and remembered for his dark humor. He wore a distinctive helmet emblazoned with a black bat with its wings spread, symbolizing House Whent. 
+
+Oswell was present at the [[Tournament|Tourney]] at Harrenhal where [[Jaime Lannister|Jaime]] became a Kingsguard. 
+
+Ser Oswell was present with Ser [[Gerold Hightower]] and Ser [[Arthur Dayne]] in the [[Skirmish at the Tower of Joy]] with [[Eddard Stark]]. After Ser Gerold told Eddard they were not at the [[Battle of the Trident]], Ser Oswell declared, "Woe to the Usurper if we had been." He and his two brothers were slain along with the bulk of Eddard's force in the ensuing melee.
+
+==Appearances==
+*{{GOT|Two Swords}} {{Text}}
+*{{H&L|The Kingsguard - Jaime Lannister}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Kingsguard of Aerys II Targaryen}}
+
+<!--Categories-->
+{{DEFAULTSORT:Whent, Oswell}}
+[[Category:Individuals from Histories & Lore]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Kingsguard of Aerys II Targaryen]]
+[[Category:Knights]]
+[[Category:Members of House Whent|Oswell Whent]]
+[[Category:Rivermen]]
+
+<!--Languages-->
+[[de:Oswell Whent]]
+[[es:Oswell Whent]]
+[[fr:Oswell Whent]]
+[[it:Oswell Whent]]
+[[nl:Oswel Whent]]
+[[pl:Oswell Whent]]
+[[ru:Освелл Уэнт]]
+[[zh:奥斯威尔·河安]]

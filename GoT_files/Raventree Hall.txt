@@ -1,0 +1,61 @@
+{{Canonicity|Canon}}
+{{References}}
+{{Heraldry
+| Image = House Blackwood.svg
+| Link  = House Blackwood
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Tully
+| Image        = Raventree Hall Pin.png
+| Type         = Castle
+| Status       = 
+| Location     = The [[Riverlands]], [[Westeros]]
+| Population   = 
+| Rulers       = [[House Blackwood]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Old Gods]]
+| Places       = 
+| Founded      = [[Age of Heroes]]
+}}
+'''Raventree Hall'''{{Guideref|Map of Westeros}} is a castle in the [[Riverlands]]. It is the seat of [[House Blackwood]], a vassal house holding fealty to [[House Tully]] of [[Riverrun]]. The castle is located just north of Riverrun, near the coast of [[Ironman's Bay]].
+
+==History==
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+During the [[War of the Five Kings]], Raventree Hall is occupied by the forces of [[House Lannister]].<ref name="5KingsBluray">"War of the Five Kings" Season 2 Blu-ray feature</ref>
+
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+[[Robb Stark|Robb]] splits his army before invading [[Westerlands]]. The second host led by [[Greatjon Umber]] is sent to [[Liberation of Raventree Hall|liberate]] Raventree Hall from Lannister occupation.<ref name="5KingsBluray"/>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Raventree Hall is ancient, dating back to the days of the [[First Men]]. The walls are covered in moss, with a tower at each angle in the wall. Two huge, square towers flank the gate. Inside the walls are an outer ward, a large timber keep and a [[godswood]]. The godswood contains a single [[weirwood]] of massive size. Hundreds of [[raven]]s roost on the dead weirwood, which is said to have been poisoned by the [[House Bracken|Brackens]], the Blackwoods' ancestral foes.
+
+Following the Red Wedding, the yielding of most of the Riverlords and recently [[Riverrun]], Raventree Hall is last castle in the Riverlands refusing to yield to the Lannisters. Lord [[Jonos Bracken]], who chooses to submit to the Iron Throne (figuring there is no sense dying for a lost cause), besieges it on behalf of the Lannisters.{{Bookref|AFFC|38}}
+
+After resolving the [[Second siege of Riverrun|siege of Riverrun]], [[Jaime Lannister|Jaime]] travels to Raventree. He persuades Lord Tytos Blackwood, non-violently, to surrender.{{Bookref|ADWD|48}}
+
+The exact location of Raventree Hall is unconfirmed in maps from the novels, though maps in the TV series place it north of Riverrun and the Red Fork of the Trident, south of Seagard and the Blue Fork. Subsequent descriptions in ''The World of Ice & Fire'' (2014) do seem to generally match this: when the ironborn under [[Harwyn Hoare]] conquered the Riverlands, they advanced east from the coast, then fought the Blackwoods, ''then'' engaged the Storm Kings in a battle farther east at [[Fairmarket]] - which does seem to confirm that Raventree Hall is in this general location.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Riverlands}}
+{{House Blackwood}}
+
+<!--Categories-->
+[[Category:Castles of the Riverlands]]
+[[Category:House Blackwood]]
+
+<!--Languages-->
+[[de:Burg Rabenbaum]]
+[[fr:Corneilla]]
+[[pl:Raventree Hall]]
+[[pt-br:Solar de Corvarbor]]
+[[ru:Воронодрев]]
+[[uk:Рейвентрі]]
+[[zh:鸦树城]]

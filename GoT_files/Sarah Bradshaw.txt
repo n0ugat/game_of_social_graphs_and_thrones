@@ -1,0 +1,32 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Kingdoms
+| Image   = Sarah Bradshaw.jpg
+| Birth   = 
+| Death   = 
+| Role    = Executive producer
+| Series  = ''[[A Knight of the Seven Kingdoms]]''
+| Season  = [[A Knight of the Seven Kingdoms: Season 1|1]]
+| Credits = 
+| First   = 
+| Last    = 
+}}
+'''Sarah Bradshaw''' is a television producer and production manager.
+
+Bradshaw is an executive producer on [[A Knight of the Seven Kingdoms: Season 1|''A Knight of the Seven Kingdoms'': Season 1]].{{Webref|name=VarietyLeadsCast |author=Joe Otterson |date=April 5, 2024 |url=https://variety.com/2024/tv/news/game-of-thrones-prequel-hedge-knight-knight-of-the-seven-kingdoms-cast-peter-claffey-dexter-sol-ansell-1235961895/ |title=‘Game of Thrones’ Prequel ‘Knight of the Seven Kingdoms: The Hedge Knight’ Casts Peter Claffey, Dexter Sol Ansell in Lead Roles |website=Variety |access-date=April 6, 2024 }}
+
+==Credits==
+===Executive producer===
+{{Plainlist
+|{{AKOTSK|Season 1}}
+}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb|#=0103530}}
+
+<!--Categories-->
+{{DEFAULTSORT:Bradshaw, Sarah}}
+[[Category:Executive producers of A Knight of the Seven Kingdoms]]

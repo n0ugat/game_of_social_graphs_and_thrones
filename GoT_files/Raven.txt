@@ -1,0 +1,57 @@
+{{Canonicity|Canon}}
+{{Species
+| Title   = {{PAGENAME}}
+| Theme   = Westeros
+| Image   = Raven 1x10.jpg
+| Type    = Bird
+| Status  = Active, both domesticated and wild
+| Diet    = Omnivore
+| Habitat = Forests<br>Plains<br>Mountains
+| Range   = Domesticated ravens are raised in the rookeries of every major castle in [[Westeros]]; wild ravens common across the continent, including [[beyond the Wall]]
+| Origin  = 
+}}
+{{Quote|Grand Maester Pycelle... send a raven to Casterly Rock.|[[Eddard Stark]]|A Golden Crown}}
+'''Ravens'''{{Ref|GOT101}} are a species of large, black-feathered bird native to [[Westeros]]. In addition to holding a certain level of cultural symbolism, ravens are a primary means of long-distance communication throughout the continent.   
+
+==Messenger-ravens==
+Compared to other birds, ravens are uncommonly intelligent, and are used by the [[Order of Maesters|maesters]] to send messages between the castles and cities of the [[Seven Kingdoms]]. Ravens can fly great distances at speed, and through complex training methods, the maesters are able to send messages from almost any castle in the realm to any other.
+
+Although most messages brought by ravens are standard and innocuous, the birds have also been linked to ominous tidings, giving rise to the phrase "Dark wings, dark words".
+
+While most messenger-ravens are the standard black-feathered variety, there is also a much rarer species which bears white plumage. Said to be even cleverer than their dark-feathered cousins, the [[Conclave]] of [[archmaester]]s dispatches these birds from the the [[Citadel]] in [[Oldtown]] only when they agree that the often years-longs seasons of Westeros have officially turned. This happened in 299 AC, when Summer turned into Autumn, and then again in 303 AC, when winter had officially come.<ref>"[[The North Remembers]]"</ref>
+
+==Behind the scenes==
+[[File:WhiteRaven.jpg|thumb|200px|[[Grand Maester]] [[Pycelle]] presents a white raven to the small council.]]Live ravens are used in most shots in which the animals appear in cages, though more complex shots of them flying around often need to use CGI ravens. The rare white raven which [[Pycelle]] presented to the small council in [[Game of Thrones: Season 2|Season 2]] had to be brought in all the way from Austria.<ref>[http://www.makinggameofthrones.com/production-diary/2013/4/17/behind-the-scenes-of-the-first-three-episodes.html Making Game of Thrones blog], April 17th, 2013</ref>
+
+==In the books==
+[[File:Winterfell ravens.jpg|thumb|Dozens of ravens are released at Winterfell to call in the bannermen, in "[[The Pointy End]]".]]In the ''[[A Song of Ice and Fire]]'' novels, ravens in [[Westeros]] are depicted as identical in appearance to real-life ravens, but objectively somewhat "smarter". They are used essentially the same way [[Wikipedia:Carrier_pigeon|carrier pigeons]] were in real-life, though most ravens can only be trained to fly to a specific castle once released. They usually have to be transported back to their point of origin by land or water.
+
+According to Tybald, the maester of the [[Dreadfort]], only a small handful of ravens are intelligent enough to be trained as message carriers, and as such are greatly prized. Even more rarely found are ravens who are so intelligent that they can be trained to fly between multiple locations; a bird who is capable of travelling between four or even five castles occurs only once a century.
+
+The messenger-ravens of Westeros are capable of replicating simple human speech, in a manner similar to talking parrots. Real-life ravens ''can'' actually do this, but simply aren't coaxed to do it as frequently as pet parrots are. Unlike parrots, which often have high-pitched voices, real-life ravens have a much deeper vocal range and can thus (if given sufficient training) make surprisingly accurate replications of human speech. It is also stated that ravens can speak the language of the [[Children of the Forest]], known as the "True Tongue" and which no human can speak.
+
+The white ravens used by the maesters of the Citadel are not albinos, but a separate sub-species. This is evidenced by the fact that their eyes are black, not red as is typically seen in albino animals. White ravens are larger and generally more intelligent than normal ravens, thus they are bred and used for only the most important messages, such as notification that the erratic years-long seasons are changing.
+
+[[King of the Andals and the Rhoynar and the First Men|King]] [[Baelor I Targaryen]], in one of his pious [[Targaryen madness|delusions]], tried to replace all the realm's messenger ravens with doves (a symbol of purity), but this was unsuccessful. Maester [[Aemon]] says at one point that while doves and pigeons can both be trained to carry messages, the maesters don't use doves because ravens are larger and more clever: They have the physical strength to fly longer distances as well as the intellectual capacity to accurately remember the longer path they must take; they are also able to fend off attacks from larger birds of prey - such as hawks - much better than smaller doves or pigeons can.
+
+Ravens and crows are both members of the genus ''Corvus'' in real life, but a raven is not a kind of crow. In-universe, Maester Aemon says that "the crow is the raven's poor cousin", and there are several differences distinguishing them: Ravens are somewhat larger (almost the size of hawks) and have larger bills; crows have a more rounded tail, while ravens have a more pointed tail; crows make a high-pitched "caw" sound, while ravens make a low "croak" sound; crows live around 8 years, while ravens can live for up to 30 years. The collective noun for a group of crows is a "murder", but the collective noun for a group of ravens is actually "unkindness" (alternatively, "conspiracy"). As carrion birds, both crows and ravens will eat corpses on a battlefield, but euphemistically "crows" are more often spoken of as carrion-eaters, i.e. that a battle will make "a feast for crows".
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+*{{WP}}
+
+<!--Navboxes-->
+{{Animals and plants}}
+
+<!--Categories-->
+[[Category:Animals]]
+
+<!--Languages-->
+[[de:Raben]]
+[[fr:Corbeau]]
+[[pt-br:Corvos]]
+[[ru:Вороны]]
+[[zh:渡鸦]]

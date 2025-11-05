@@ -1,0 +1,75 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = House Darry.svg
+| Link  = House Darry
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Tully
+| Image       = Raymun Darry.png
+| Birth       = 
+| Death       = [[298 AC]]{{Dateref|Game of Thrones: Season 1}}<br>The [[Mummer's Ford]], the [[Riverlands]]
+| House       = [[House Darry|Darry]]
+| Affiliation = [[House Tully]]
+| Titles      = [[Knighthood|Ser]]<br>[[Lordship|Lord]] of Darry
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Riverlands|Rivermen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|I saw a single blow from his sword take a man's arm off and kill the horse beneath him.|[[Thoros]] recalls Raymun's death by Ser [[Gregor Clegane]] at the [[Battle at the Mummer's Ford]].|Brotherhood Without Banners (short)}}
+Lord '''Raymun Darry'''{{Con|ASOIAF}} was a casualty of the [[Battle at the Mummer's Ford]].
+
+==Biography==
+Lord Raymun accompanied [[Beric Dondarrion]] and a hundred men sent by [[Eddard Stark]] to kill Ser [[Gregor Clegane]] for his pillaging of the [[Riverlands]]. When the party reached the [[Mummer's Ford]] however, an [[Battle at the Mummer's Ford|ambush]] ensued, led by Ser Gregor, who killed Lord Raymun by cutting off his arm and killing his [[horse]] with a single strike of his sword.{{Ref|H&L611}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Ser Raymun Darry was a knight of House Darry and its lord.
+
+Raymun was present when [[Arya Stark|Arya]] was brought before King [[Robert Baratheon|Robert]] for punishment, following [[Nymeria (direwolf)|Nymeria]]'s attack on [[Joffrey Baratheon|Joffrey]].
+
+Raymun was later sent to [[King's Landing]] by Lord [[Hoster Tully]], to receive the king's permission to hunt down Ser Gregor Clegane due to his ravaging of the Riverlands. Eddard Stark agreed to this request and sent a party, which included Raymun, under the command of Beric Dondarrion, to hunt Ser Gregor down. Raymun was killed by Gregor in the Battle at the Mummer's Ford.
+
+Raymun was succeeded by his minor son Lyman, who was killed during the War of the Five Kings, leaving House Darry lordless.
+
+==Appearances==
+*{{H&L|Brotherhood Without Banners}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Darry}}
+
+<!--Categories-->
+{{DEFAULTSORT:Darry, Raymun}}
+[[Category:Individuals from Histories & Lore]]
+[[Category:Knights]]
+[[Category:Lords]]
+[[Category:Members of House Darry|Raymun Darry]]
+[[Category:Rivermen]]
+
+<!--Languages-->
+[[pt-br:Raymun Darry]]
+[[ru:Реймен Дарри]]

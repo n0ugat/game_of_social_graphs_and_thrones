@@ -1,0 +1,33 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Rachel Redford.jpg
+| Birth   = Rachel Leonie Ford<br>1990-1991
+| Death   = 
+| Role    = [[Rhea Royce]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = "[[We Light the Way]]"
+| First   = 
+| Last    = 
+}}
+'''Rachel Leonie Ford''' (born 1990/1991), known professionally as '''Rachel Redford''', is a Welsh actress best known for playing Fruszi in ''Shadow and Bone'', Lauren in ''Gap Year'', and Hannah in ''The Riot Club''.
+
+She portrays [[Rhea Royce]] in ''[[House of the Dragon]]''.<ref>https://www.hitc.com/en-gb/2022/08/22/who-is-daemon-targaryen-wife-rhea-royce-house-of-the-dragon/</ref>
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1|||||yes}}
+
+==See also==
+*{{IMDb|# = 6197342}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+{{DEFAULTSORT:Redford, Rachel}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Rachel Redford]]

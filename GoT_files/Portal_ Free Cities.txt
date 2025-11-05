@@ -1,0 +1,19 @@
+{|style="width:100%; margin:0; background:#1e5467; font-size:120%; font-weight:bold; border:4px groove #C0C0C0; text-align:center; color:#C0C0C0; padding:0.2em 0.4em;"
+|colspan="5" style="text-align:center;" |Free Cities
+|- align="center"
+|{{PortalIcon|image=Free Cities portal.png|articlename=Free Cities|name=The Free Cities}}
+|{{PortalIcon|image=Titan of Braavos.jpg|articlename=Braavos|name=Braavos}}
+|- align="center"
+|{{PortalIcon|image=Narrow_Sea.jpg|articlename=Pentos|name=Pentos}}
+|{{PortalIcon|image=Longbridge.png|articlename=Volantis|name=Volantis}}
+|- align="center"
+|{{PortalIcon|image=Thoros-for-the-night-is-dark.jpg|articlename=Myr|name=Myr}}
+|{{PortalIcon|image=Daario1.jpg|articlename=Tyrosh|name=Tyrosh}}
+|- align="center"
+|{{PortalIcon|image=Lys.png|articlename=Lys|name=Lys}}
+|{{PortalIcon|image=Shae.jpg|articlename=Lorath|name=Lorath}}
+|- align="center"
+|{{PortalIcon|image=Areo-3.jpg|articlename=Norvos|name=Norvos}}
+|{{PortalIcon|image=Tobho Mott.jpg|articlename=Qohor|name=Qohor}}
+|}
+[[Category:Portals]]

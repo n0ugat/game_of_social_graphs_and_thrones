@@ -1,0 +1,80 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Arryn
+| Image       = Baelish (founder).png
+| Birth       = [[Braavos]]{{Ref|GOT408}}
+| Death       = 
+| House       = [[House Baelish|Baelish]]{{Ref|H&L402}}
+| Affiliation = [[House Corbray]]{{Ref|H&L402}}
+| Titles      = 
+| AKA         = 
+| Culture     = [[Braavos]]i{{Ref|GOT408}}
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = {[[Petyr Baelish's grandfather|Son]]}{{Ref|H&L402}}
+| Siblings    = 
+| Arms        = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Our house began with my great-grandfather, a Braavosi sellsword who came to the Vale at the invitation of House Corbray.|[[Petyr Baelish]]|House Baelish (short)}}
+'''Petyr Baelish's great-grandfather''' was the founder of [[House Baelish]].
+
+==Biography==
+===Background===
+He was a [[Mercenary|sellsword]] from [[Braavos]] who traveled to the [[Vale of Arryn]] at the invitation of [[House Corbray]]. Once there he founded [[House Baelish]].{{Ref|H&L402}}
+
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+Littlefinger mentions his great-grandfather when questioned by Lord [[Yohn Royce]] about his family history.{{Ref|GOT408}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, his story is the same.
+
+In ''A Storm of Swords'', Littlefinger briefly tells [[Sansa Stark|Sansa]] about his great-grandfather when they stay at the [[Fingers]].
+
+==Appearances==
+*{{GOT|The Mountain and the Viper}} {{Mentioned}}
+*{{H&L|House Baelish}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Baelish (sellsword)}}
+
+<!--Succession box-->
+{{S-start}}
+{{Succession box
+ | title  = Head of [[House Baelish]]
+ | years  = 
+ | with   = 
+ | before = None
+ | after  = [[Petyr Baelish's grandfather]]
+}}
+{{S-end}}
+
+<!--Navboxes-->
+{{House Baelish}}
+
+<!--Categories-->
+{{DEFAULTSORT:Baelish's great-grandfather, Petyr}}
+[[Category:Braavosi]]
+[[Category:Ennobled commoners]]
+[[Category:House founders]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Members of House Baelish|Petyr Baelish's great-grandfather]]
+[[Category:Mercenaries]]
+
+<!--Languages-->
+[[ru:Бейлиш (основатель)]]

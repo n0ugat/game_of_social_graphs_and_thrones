@@ -1,0 +1,19 @@
+{|style="width:100%; margin:0; background:#1e5467; font-size:120%; font-weight:bold; border:4px groove #C0C0C0; text-align:center; color:#C0C0C0; padding:0.2em 0.4em;"
+|colspan="5" style="text-align:center;" |Qarth
+|- align="center"
+|{{PortalIcon|image=Qarth2.jpg|articlename=Qarth|name=Qarth}}
+|{{PortalIcon|image=Red Waste.jpg|articlename=Red Waste|name=The Red Waste}}
+|- align="center"
+|{{PortalIcon|image=Pyat double.jpg|articlename=Warlocks|name=The Warlocks}}
+|{{PortalIcon|image=House of the Undying.png|articlename=House of the Undying|name=The House of the Undying}}
+|- align="center"
+|{{PortalIcon|image=Thirteen.jpg|articlename=Thirteen|name=The Thirteen}}
+|{{PortalIcon|image=H&L216.png|articlename=Pureborn|name=The Pureborn}}
+|- align="center"
+|{{PortalIcon|image=2x04 CivicGuard.jpg|articlename=Civic Guard|name=The Civic Guard}}
+|{{PortalIcon|image=Spice King closeup.jpg|articlename=Spice King|name=The Spice King}}
+|- align="center"
+|{{PortalIcon|image=XaroGhostOfHarrenhal.jpg |articlename=Xaro Xhoan Daxos|name=Xaro Xhoan Daxos}}
+|{{PortalIcon|image=Daenerys 2x05.png|articlename=Pyat Pree|name=Pyat Pree}}
+|}
+[[Category:Portals]]

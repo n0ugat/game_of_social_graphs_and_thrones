@@ -1,0 +1,31 @@
+{{Crew
+|Type = Dragon
+|Image = Paul Shapcott.jpg
+|dateofbirth = 
+|birthplace = 
+|job = Assistant Stunt Coordinator<br>Stunt Performer
+|imdb = https://www.imdb.com/name/nm0788425/
+|twitter = }}
+'''Paul A. Shapcott''' is a stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was an assistant stunt coordinator in the [[Game of Thrones: Season 5|fifth season]] episode "[[The House of Black and White]]", "[[High Sparrow (episode)|High Sparrow]]", "[[Sons of the Harpy (episode)|Sons of the Harpy]], "[[Kill the Boy]]", "[[Unbowed, Unbent, Unbroken]]", "[[The Gift]]", "[[Hardhome (episode)|Hardhome]]", "[[The Dance of Dragons (episode)|The Dance of Dragons]]" and "[[Mother's Mercy]]", the [[Game of Thrones: Season 6|sixth season]] episodes "[[The Red Woman]]", "[[Home]]", "[[Oathbreaker]]", "[[Book of the Stranger]]", "[[The Door]]", "[[Blood of My Blood]]", "[[The Broken Man]]", "[[No One]]", "[[Battle of the Bastards (episode)|Battle of the Bastards]]" and "[[The Winds of Winter]]", the [[Game of Thrones: Season 7|seventh season]] episodes "[[Dragonstone (episode)|Dragonstone]]", "[[Stormborn]]", "[[The Queen's Justice]]", "[[The Spoils of War]]", "[[Eastwatch]]", "[[Beyond the Wall (episode)|Beyond the Wall]]" and "[[The Dragon and the Wolf]]" and the [[Game of Thrones: Season 8|eighth season]] episodes "[[Winterfell (Game of Thrones)|Winterfell]]", "[[A Knight of the Seven Kingdoms (Game of Thrones)|A Knight of the Seven Kingdoms]]", "[[The Long Night]]", "[[The Last of the Starks]]", "[[The Bells]]" and "[[The Iron Throne]]" and a stunt performer in the [[Game of Thrones: Season 7|seventh season]] episode "[[The Dragon and the Wolf]]".
+
+In ''[[House of the Dragon]]'', he was an assistant stunt coordinator in the [[House of the Dragon: Season 1|first season]] episodes "[[The Heirs of the Dragon]]", "[[The Rogue Prince]]", "[[Second of His Name]]", "[[King of the Narrow Sea (episode)|King of the Narrow Sea]]", "[[We Light the Way]]", "[[The Princess and the Queen]]", "[[Driftmark (episode)|Driftmark]]", "[[The Lord of the Tides]]", "[[The Green Council]]" and "[[The Black Queen]]" and a stunt performer in the [[House of the Dragon: Season 1|first season]] episode "[[The Heirs of the Dragon]]".
+
+==Credits==
+===Stunts===
+====''[[Game of Thrones]]''====
+{{Game of Thrones: Season 5|yes|yes|yes|yes|yes|yes|yes|yes|yes|yes}}
+{{Game of Thrones: Season 6|yes|yes|yes|yes|yes|yes|yes|yes|yes|yes}}
+{{Game of Thrones: Season 7|yes|yes|yes|yes|yes|yes|yes}}
+{{Game of Thrones: Season 8|yes|yes|yes|yes|yes|yes}}
+
+====''[[House of the Dragon]]''====
+{{House of the Dragon: Season 1|yes|yes|yes|yes|yes|yes|yes|yes|yes|yes}}
+
+==See also==
+*{{IMDb
+|# = 0788425}}
+{{DEFAULTSORT:Shapcott, Paul}}
+[[Category:Stunt performers of Game of Thrones]]
+[[Category:Stunt performers of House of the Dragon]]

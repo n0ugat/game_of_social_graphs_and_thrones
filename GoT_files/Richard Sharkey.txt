@@ -1,0 +1,24 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Richard Sharkey.jpg
+| Birth   = 
+| Death   = 
+| Role    = Consulting producer
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = 
+| First   = 
+| Last    = 
+}}
+'''Richard Sharkey''' is a producer. He is a consulting producer on the [[House of the Dragon: Season 1|first season]] of ''[[House of the Dragon]]''.
+
+==Credits==
+===Consulting producer===
+*{{HOTD|Season 1}}
+
+==See also==
+*{{IMDb|#=0003183}}
+
+{{DEFAULTSORT:Sharkey, Richard}}
+[[Category:Producers of House of the Dragon]]

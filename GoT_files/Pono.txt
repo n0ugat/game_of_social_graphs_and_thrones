@@ -1,0 +1,64 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Dothraki
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = {[[Drogo]]}
+| Titles      = ''Ko'' {{C|formerly}}<br>''[[Khal]]''
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Dothraki]]
+| Religion    = [[Great Stallion]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Dialogue a-b|Daenerys Targaryen|Who did this?|Jorah Mormont|Khal Pono, perhaps... Khal Jhaqo... They don't like the idea of a woman leading a khalasar.|Ser Jorah Mormont to Daenerys Targaryen, regarding Rakharo's beheading.|The Night Lands}}
+'''Pono''' is a [[Dothraki]] ''[[khal]]''.
+
+==Biography==
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+After discovering the severed head of [[Rakharo]] inside a bag carried by Rakharo's horse, Ser [[Jorah Mormont]] considers either ''Khal'' Pono or [[Jhaqo]] as the culprits and that Rakharo was killed as a demonstration of contempt for the notion of a [[Daenerys Targaryen|woman]] leading a ''[[khalasar]]''.{{Ref|GOT202}}
+
+===[[Game of Thrones: Season 6|''Game of Thrones'': Season 6]]===
+All known great ''khal''s are burned alive by Daenerys at the ''[[Khalar Vezhven]]''. Pono's fate is unknown, since he is not mentioned to be among them.{{Ref|GOT604}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Pono is a ''ko'' in Khal [[Drogo]]'s khalasar. After Drogo's fall from his horse and subsequent incapacitation, Pono is one the first of several kos that declares himself khal, taking ten thousand of the khalasar as his own.
+
+In ''A Dance With Dragons'', it is reported that Pono is near the headwaters of the Selhoru with a khalasar of thirty thousand, and that other khals fear of him.
+
+==Appearances==
+*{{GOT|The Night Lands}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+[[Category:Dothraki]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Khali]]
+
+<!--Languages-->
+[[de:Pono]]
+[[es:Pono]]
+[[nl:Pono]]
+[[ru:Поно]]
+[[zh:波诺]]

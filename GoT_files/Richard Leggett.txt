@@ -1,0 +1,35 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Richard Leggett.jpg
+| Birth   = Richard John Leggett
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[Bloodmoon]]'' {{Rejected}}<br>''[[House of the Dragon]]''
+| Season  = ''House of the Dragon'':<br>[[House of the Dragon: Season 1|1]]
+| Credits = 3 episodes {{Below|Credits}}
+| First   = "[[Second of His Name]]"
+| Last    = 
+}}
+'''Richard John Leggett''' is a stuntman.
+
+In the [[Pilot (Bloodmoon)|pilot]] of ''[[Bloodmoon]]'', he was a stunt performer.
+
+In ''[[House of the Dragon]]'', he was a stunt performer in the [[House of the Dragon: Season 1|first season]] episodes "[[Second of His Name]]", "[[King of the Narrow Sea (episode)|King of the Narrow Sea]]" and "[[We Light the Way]]".
+
+==Credits==
+===Stunts===
+{{House of the Dragon: Season 1|||yes|yes|yes}}
+
+==See also==
+*{{IMDb|# = 9429967}}
+*{{Twitter|# = DickieLegs}}
+*{{Instagram|# = dickielegs}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+{{DEFAULTSORT:Leggett, Richard}}
+[[Category:Stunt performers of Bloodmoon]]
+[[Category:Stunt performers of House of the Dragon]]

@@ -1,0 +1,46 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Robert Aramayo.jpg
+| Birth   = November 6, 1992 {{Age|1992|11|6}}<br>Kingston upon Hull, East Riding of Yorkshire, England
+| Death   = 
+| Role    = Young [[Eddard Stark]]
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 6|6]] {{*}} [[Game of Thrones: Season 7|7]]
+| Credits = 5 episodes {{Below|Credits}}
+| First   = "[[Oathbreaker]]"
+| Last    = "[[The Dragon and the Wolf]]"
+}}
+'''Robert Aramayo''' is an English actor. He is known for his role in the 2016 film ''{{WPS|Lost in Florence}}''.
+
+In ''[[Game of Thrones]]'', he played [[Eddard Stark]] in the [[Game of Thrones: Season 6|sixth season]].<ref>[http://watchersonthewall.com/robert-aramayo-joins-the-cast-of-game-of-thrones/ Watchers on the Wall — Robert Aramayo joins the cast of Game of Thrones]</ref>
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 6|||yes||yes|yes||||yes}}
+{{Game of Thrones: Season 7|||||||yes}}
+
+== See also ==
+*{{WP}}
+*{{IMDb
+|# = 7075019}}
+*{{Twitter
+|# = robaramayo}}
+*{{Linkedin
+|# = /pub/robert-aramayo/90/915/687}}
+
+==References==
+{{reflist}}
+
+<!--Navboxes-->
+{{Histories & Lore}}
+
+<!--Categories-->
+{{DEFAULTSORT:Aramayo, Robert}}
+[[Category:Cast members of Histories & Lore]]
+[[Category:Guest starring cast members of Game of Thrones]]
+
+<!--Languages-->
+[[de:Robert Aramayo]]
+[[fr:Robert Aramayo]]
+[[ru:Роберт Арамайо]]

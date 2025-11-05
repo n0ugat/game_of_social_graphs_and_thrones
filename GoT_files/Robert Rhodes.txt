@@ -1,0 +1,33 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Robert Rhodes.jpg
+| Birth   = 1993-1994
+| Death   = 
+| Role    = [[Silver Denys]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]]
+| Credits = "[[The Red Sowing]]"
+| First   = 
+| Last    = 
+}}
+'''Robert Rhodes''' is an actor.
+
+Rhodes plays [[Silver Denys]] in the [[House of the Dragon: Season 2|second season]] of ''[[House of the Dragon]]''.<ref>https://redanianintelligence.com/2023/08/13/house-of-the-dragon-season-2-adds-silver-denys-dragonseed/</ref>
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 2|||||||yes}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb|#=13566004}}
+
+<!--Categories-->
+{{DEFAULTSORT:Rhodes, Robert}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Robert Rhodes]]

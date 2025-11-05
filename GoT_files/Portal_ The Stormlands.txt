@@ -1,0 +1,19 @@
+{|style="width:100%; margin:0; background:#1e5467; font-size:120%; font-weight:bold; border:4px groove #C0C0C0; text-align:center; color:#C0C0C0; padding:0.2em 0.4em;"
+|colspan="5" style="text-align:center;" |The Stormlands
+|- align="center"
+|{{PortalIcon|image=The Stormlands.png|articlename=Stormlands|name=The Stormlands}}
+|{{PortalIcon|image=Bar-Portal.png|articlename=House Baratheon|name=House Baratheon<br>of Storm's End}}
+|- align="center"
+|{{PortalIcon|image=Storm's end.jpg|articlename=Storm's End|name=Storm's End}}
+|{{PortalIcon|image=StormsEndCompleteGuide.png|articlename=Shipbreaker Bay|name=Shipbreaker Bay}}
+|- align="center"
+|{{PortalIcon|image=The-Rainwood.jpg|articlename=Rainwood|name=Rainwood}}
+|{{PortalIcon|image=DornishMarches.jpg|articlename=Dornish Marches|name=The Dornish Marches}}
+|- align="center"
+|{{PortalIcon|image=BrienneAndCatelynMeet.jpg|articlename=Brienne of Tarth|name=Brienne of Tarth}}
+|{{PortalIcon|image=Davos rides through the camp.jpg|articlename=Davos Seaworth|name=Davos Seaworth}}
+|- align="center"
+|{{PortalIcon|image=Robert Baratheon.jpg|articlename=Robert Baratheon|name=Robert Baratheon}}
+|{{PortalIcon|image=Gendry S2.jpg|articlename=Gendry Baratheon|name=Gendry Baratheon}}
+|}
+[[Category:Portals]]

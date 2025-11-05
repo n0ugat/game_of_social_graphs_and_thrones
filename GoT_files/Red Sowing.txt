@@ -1,0 +1,72 @@
+{{Canonicity|Canon}}
+{{OtherUses|project|The Red Sowing (disambiguation)}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Dragon
+| Part          = the [[Dance of the Dragons]]
+| Image         = THTDB207.jpg
+| Previous      = [[Taking of Stone Hedge]]
+| Concurrent    = [[Blockade of the Gullet]]<br>[[Riot in King's Landing]]
+| Next          = [[Burning of Sharp Point]]
+| Date          = [[132 AC]]{{Dateref|House of the Dragon: Season 2}}
+| Place         = [[Dragonstone]], the [[Crownlands]]
+| Outcome       = Successful
+*[[Seasmoke]] is claimed by [[Addam of Hull]]{{Ref|HOTD206}}
+*[[Vermithor]] is claimed by [[Hugh]]{{Ref|HOTD207}}
+*[[Silverwing]] is claimed by [[Ulf]]{{Ref|HOTD207}}
+| Factions1     = {{COA|Blacks|s}} [[Blacks]]
+| Leaders1      = {{COA|House Targaryen/House of the Dragon|i}} Queen [[Rhaenyra Targaryen]]<br>{{COA|House Velaryon|i}} Prince [[Jacaerys Velaryon]]
+| Participants1 = {{COA|Kingsguard/House of the Dragon|i}} Ser [[Steffon Darklyn]]<br>[[Hugh]]<br>[[Ulf]]<br>[[Silver Denys]]<br>Dozens of [[dragonseed]]s
+| Casualties1   = Ser Steffon Darklyn<br>At least 1 [[Dragonkeepers|Dragonkeeper]]<br>Silver Denys<br>Dozens of dragonseeds<br>Several House Targaryen [[Man-at-arms|men-at-arms]]
+}}
+{{Quote|Let us raise an army of bastards.|Rhaenyra Targaryen|The Red Sowing}}
+The '''Red Sowing'''{{Ref|HOTD207}} was a project initiated by the [[Blacks]] in [[132 AC]] during the [[Dance of the Dragons]]. The goal of the project was to find new [[dragonrider]]s for the multiple unclaimed [[dragon]]s on the Blacks' stronghold of [[Dragonstone]].{{Ref|HOTD206}}
+
+==History==
+===Prelude===
+After the death of [[Rhaenys Targaryen]] and [[Meleys]] in the [[Battle at Rook's Rest]], [[Rhaenyra Targaryen|Rhaenyra]] and the [[Black Council]] find their stength diminished as the [[Greens]] gather their own. Cut off from continental [[Westeros]] by the Green armies, without any mainland armies of their own at the time, and having lost their largest [[dragon]] in Meleys, the [[Blacks]] look for other ways to replenish their strength. [[Jacaerys Velaryon|Jacaerys]] proposes to his mother that they search their marital records to find descendants of [[House Targaryen/House of the Dragon|House Targaryen]] and have them attempt to mount the unclaimed dragons that dwell on Dragonstone, [[Vermithor]], [[Silverwing]], and [[Seasmoke]]. Rhaenyra considers it a mad thought,{{Ref|HOTD205}} but believing they have no other choice, ultimately agrees to it.{{Ref|HOTD206}}
+
+===The Sowing===
+[[File:Seasmoke burns Steffon.png|thumb|left|250px|Ser Steffon is burned to death by Seasmoke.]]
+The closest match found is Ser [[Steffon Darklyn]], the [[Lord Commander of the Kingsguard|Lord Commander]] of Rhaenyra's [[Kingsguard/House of the Dragon|Queensguard]], whose great-great-grandmother was [[Aeriana Targaryen]]. Steffon accepts his duty, and attempts to claim Seasmoke at the [[Dragonstone]] gantry, but the dragon is startled by his approach and burns him alive, along with a [[Dragonkeepers|Dragonkeeper]] who promptly slits his own throat with a [[dragonglass]] dagger. After Steffon's death, Rhaenyra doubts if anyone else will want to try. Even so, she intends to keep looking.{{Ref|HOTD206}}
+
+Seasmoke later departs Dragonstone and seeks out [[Addam of Hull]], a [[Bastardy|bastard]] son of Lord [[Corlys Velaryon]], Rhaenyra's [[Hand of the King|Hand]].{{Ref|HOTD206}} The two bond, and Addam becomes the dragon's rider. Rhaenyra confronts Addam on a beach on [[Driftmark]], but Addam [[Bending the knee|bends the knee]] to her and offers his service in exchange for learning the art of dragonriding.{{Ref|HOTD207}}
+[[File:2x5 Elinda Massey Still.jpg|thumb|[[Elinda Massey|Elinda]] and Mysaria's spies spread the word.]]
+[[File:2x7 Rhaenyra Targaryen Still 3.jpg|thumb|Rhaenyra and Mysaria oversee the plan. ]]
+Addam's claiming of Seasmoke restores Rhaenyra's faith in the possibility that Vermithor and Silverwing can be claimed. [[Mysaria]] suggests that they broaden their search by recruiting [[Smallfolk|lowborn]] [[dragonseed]]s from [[King's Landing]], which Rhaenyra agrees to, despite the protests of Jace. [[Elinda Massey]] and Mysaria's spies travel around King's Landing to recruit dragonseeds, while Corlys charges Addam's brother [[Alyn of Hull|Alyn]] with gathering boats to row the dragonseeds to Dragonstone. Among those brought to Dragonstone are the blacksmith [[Hugh]] and the raconteur [[Ulf]].{{Ref|HOTD207}}
+
+When the dragonseeds are gathered inside Dragonstone, the Dragonkeepers resign in protest, accusing Rhaenyra of treating the dragons, which they see as the last magical remnants of [[Old Valyria]], as playthings for lesser men. Rhaenyra is thus left by herself to train the dragonseeds. Nevertheless, Rhaenyra leads the dragonseeds to the Dragonstone gantry, where she summons Vermithor. Rhaenyra calms Vermithor and allow the dragon to decide who will be his rider when a dragonseed named [[Silver Denys]] approaches. Vermithor inspects Denys and the other dragonseeds, but burns and devours most of them. However, Hugh intervenes to save a fellow dragonseed's life, and challenges Vermithor to kill him. The dragon then unexpectedly bends his neck to Hugh as Rhaenyra watches.{{Ref|HOTD207}}
+
+Ulf, who was knocked off the gantry by the restless Vermithor, flees toward the caves of the [[Dragonmont]], where he stumbles upon Vermithor's mate, Silverwing, who is resting next to a mound of eggs. Ulf accidentally steps into one of her layings, stirring the dragon. Though he is prepared to die, Ulf is surprised when Silverwing instead sniffs and nudges him several times before she accepts him as her rider.{{Ref|HOTD207}}
+
+===Aftermath===
+[[File:Almost-100-years-old-and-not-a-single-scratch-on-her-wings-v0-cbdu8uozimfd1.jpg|thumb|New dragonrider [[Ulf]] flies over King's Landing.]]
+Ulf flies Silverwing above King's Landing, causing [[Aemond Targaryen|Aemond]] to pursue them on [[Vhagar]] as they fly back toward Dragonstone. When he sees that Rhaenyra has added more dragons to her cause, Aemond has Vhagar flee and turn back around toward King's Landing, recognizing that his half-sister now has the numbers and the means to take the [[Iron Throne]].{{Ref|HOTD207}}
+
+Jacaerys angrily rebukes his mother for listening to Mysaria and raising up dragonriders from the lowborn. He fears that they will undermine his legitimacy as his mother's heir, for they have the traditional Targaryen silver hair, while he favors his unacknowledged biological father, [[Harwin Strong]], with his dark hair. Jacaerys warns his mother that one of her "silver-haired bastards" could thus turn against them if they decided they should be king instead of him.{{Ref|HOTD207}}
+
+==In the books==
+In ''[[Fire & Blood]]'', the Red Sowing is also known as the Sowing of the Seeds, or simply the Sowing.
+
+Rhaenyra and Jace did not carefully search family histories to find suitable dragonriders. Instead, Jace sent out a call to all [[dragonseed]]s, promising [[knighthood]], lands, and wealth to anyone who could master a dragon.
+
+Among the failed dragonriders were a score of Rhaenyra's household knights (including Steffon Darklyn), [[squire]]s, scullions, sailors, [[Man-at-arms|men-at-arms]], [[mummers]], and two of Rhaenyra's maids. The court [[fool]] Mushroom claimed he attempted to mount [[Silverwing]], though his account of the Dance of the Dragons is considered to be largely apocryphal.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|Sowing}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{Dance of the Dragons}}
+
+<!--Categories-->
+[[Category:132 AC]]
+[[Category:Dance of the Dragons]]
+[[Category:Events]]
+
+[[ru:Красный Посев (событие)]]

@@ -1,0 +1,63 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Free
+| Image       = Reggio Haratis Official Guide.jpg
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = 
+| Titles      = [[Prince of Pentos]]{{Guideref|Reggio Haratis}}
+| AKA         = 
+| Culture     = [[Pentos]]hi{{Ref|HOTD106}}
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 1|1]]
+| Appearances = "[[The Princess and the Queen]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Dean Nolan]]
+}}
+{{Quote|My aim is to protect Pentos from the lustful eye of the Triarchy.|Reggio Haratis|The Princess and the Queen}}
+Prince '''Reggio Haratis''' is the [[Prince of Pentos]] during the [[War for the Stepstones]] and the [[Dance of the Dragons]].
+
+==Biography==
+Haratis is the nominal ruler of the [[Free Cities|Free City]] of [[Pentos]], elected by the [[magister]]s to act as the city's figurehead. He is an ally of [[Daemon Targaryen]] and [[Laena Velaryon]]. He owns a manse overlooking the city of Pentos.{{Guideref|Reggio Haratis}}
+
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+[[File:TPATQ Reggio Haratis Still.jpg|left|thumb|Dining with his guests [[Daemon Targaryen|Daemon]], [[Laena Velaryon|Laena]], [[Baela Targaryen|Baela]] and [[Rhaena Targaryen|Rhaena]].]]
+[[File:TPATQ Pentos Still.jpg|left|thumb|Inside a Pentoshi manse.]]
+Haratis allows [[Daemon Targaryen|Daemon]] and his wife [[Laena Velaryon|Laena]] to live as honored guests in his manse, hoping that their presence acts as a deterrent to the [[Triarchy]] to the south. One day, Haratis reveals to them that the Triarchy has launched a new campaign into the Stepstones, allying with [[Qoren Martell]] of Dorne, and offers them a permanent residence in Pentos and land in exchange for their support against the Triarchy.{{Ref|HOTD106}}
+
+==In the books==
+In ''[[Fire & Blood]]'', Daemon and Laena are mentioned to have been hosted by the Prince of Pentos, but his name is not given. Gessio Haratis, a Pentoshi historian mentioned in ''The World of Ice & Fire'', shares his surname.
+
+==Appearances==
+*{{HOTD|The Princess and the Queen}}
+*{{HOTD|The Burning Mill}} {{Mentioned}}
+*{{HOTD|Smallfolk}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{TOG|character-guide#reggio-haratis}}
+
+<!--Categories-->
+{{DEFAULTSORT:Haratis, Reggio}}
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Pentoshi]]
+[[Category:Princes]]
+
+<!--Languages-->
+[[es:Reggio Haratis]]
+[[fr:Reggio Haratis]]
+[[ru:Реджио Харатис]]

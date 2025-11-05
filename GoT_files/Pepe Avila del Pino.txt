@@ -1,0 +1,17 @@
+{{Crew
+| Title=Pepe Avila del Pino
+| Type= Dragon
+| Image=Pepe Avila del Pino.jpg
+| dateofbirth=
+| birthplace=Mexico City, Mexico
+| job=Cinematographer
+| imdb=https://www.imdb.com/name/nm2689400/
+}}
+'''Pepe Avila del Pino''' is a Mexican cinematographer working on ''[[House of the Dragon]]'' with director [[Greg Yaitanes]].
+
+==Credits==
+===Cinematographer===
+*[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]
+
+{{DEFAULTSORT:Avila del Pino, Pepe}}
+[[Category:Production staff members of House of the Dragon]]

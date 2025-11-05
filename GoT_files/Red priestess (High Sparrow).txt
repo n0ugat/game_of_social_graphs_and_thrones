@@ -1,0 +1,84 @@
+{{DISPLAYTITLE:Red priestess {{C|High Sparrow}}}}
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Heraldry
+| Image = Lord of Light.svg
+| Link  = Lord of Light
+}}
+{{Character
+| Title       = Red priestess
+| Type        = Light
+| Image       = Red Priestess.jpg
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[Red Temple of Volantis]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Volantis|Volantene]]
+| Religion    = [[Lord of Light]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 5|5]]
+| Appearances = "[[High Sparrow (episode)|High Sparrow]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Rila Fukushima]]
+}}
+{{Quote|Āeksios aōhos oñoso īlōn jehikās kesrio syt bantis zōbrie issa se ossȳngnoti lēdys! Hae jeme istin. Sindity se liorty, qilonty se ozbārty.<br>(Lord cast your light upon us for the night is dark and full of terrors! I was once as you are now. Bought and sold, scourged and branded.)|The red priestess preaches to a group of [[slavery|slaves]] in [[Volantis]]|High Sparrow (episode)}}
+A '''red priestess''' is based in [[Volantis]].
+
+==Biography==
+===Background===
+This woman was originally a [[Slavery|slave]]. According to the Volantene tattoo on her face, she was trained as a [[Prostitution|prostitute]]. It seems that she was eventually bought by the [[Red Temple of Volantis]], or was freed by some other means and joined the Red Temple thereafter. She was eventually ordained as a [[red priest]]ess.{{Ref|GOT503}}
+
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+At the [[Long Bridge]] in [[Volantis]], [[Essos]], she preaches to the slaves gathered around her there that [[Daenerys Targaryen]] is a [[Prince That Was Promised|prophesied savior]] sent by the [[Lord of Light]]. [[Tyrion Lannister]] and [[Varys]] watch and listen from a distance; Tyrion mocks her until she turns to face him, seemingly knowing his words despite the distance. She stares at him intently, forcing the two to leave the scene in unease.{{Ref|GOT503}}
+
+==Behind the scenes==
+The red priestess's necklace, belt and chest piece clearly displays a motif of elongated hexagons, a shape associated with [[Asshai]] and featuring prominently in the wardrobes of the red priestess's fellow missionary, [[Melisandre]], the Asshai'i expatriate [[Quaithe]], and the red priestess's own superior, [[Kinvara]]. See "[[Costumes/Essos#Asshai|Costumes/Essos - Asshai]]".<ref>"A Man Without Honor" HBO featurette</ref>
+
+Rila Fukushima is the first East Asian actor to appear as a character with speaking lines in the TV series. There are people in the [[known world]] of the novels who are ethnically East Asian in appearance, but they live in the far east of Essos, far east of Qarth and the Dothraki Sea, in the great empire of [[Yi Ti]] (the narrative's analogue to ancient China). As [[George R.R. Martin]] has explained, Yi Ti is so far away from Westeros that encountering Yi Tish people in King's Landing is as unlikely as encountering people from China in Medieval England - medieval long-distance travel was quite limited. Further east in Essos, it becomes slightly more probable to encounter travelers from Yi Ti, though it is still quite rare (i.e., a Yi Tish from the east preaching as a missionary in Volantis would be rare, but not implausible). In the novels, the only time Yi Tish people ever appear is when [[Daenerys Targaryen]] is even further east at the [[Dothraki]] city [[Vaes Dothrak]], and mentions in passing that several of the merchants at the city's market are from Yi Ti.
+
+==In the books==
+In the books, a male red priest in [[Selhorys]], a town under Volantene rule, plays the same role. Benerro, the [[High Priest (Lord of Light)|High Priest]] of the [[Red Temple]] in Volantis, preaches a similar message in Volantis itself, very much like the red priestess.
+
+In the novels, all slaves bought by the Red Temple of Volantis are branded with tattoos in the shape of flames, be they red priests, temple guards (known as the Fiery Hand) or temple prostitutes. The red priestess implies that she was a conventional bed-slave rather than a temple prostitute, however.
+
+==Gallery==
+<gallery>
+File:Red Priestess.png
+File:Volantis-Red Priestess.jpg
+File:503 Red Priestess slave tattoo.jpg
+File:503 Volantis Long Bridge Red Priestess marketplace.jpg
+</gallery>
+
+==Appearances==
+*{{GOT|High Sparrow}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Benerro}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Prostitutes]]
+[[Category:Red priests]]
+[[Category:Slaves and freedmen]]
+[[Category:Volantenes]]
+
+<!--Languages-->
+[[de:Rote Priesterin (Der Hohe Spatz)]]
+[[fr:Prêtresse Rouge (Le Poids du nom)]]
+[[pt-br:Sacerdotisa Vermelha (Alto Pardal)]]
+[[ru:Красная жрица (Его Воробейшество)]]

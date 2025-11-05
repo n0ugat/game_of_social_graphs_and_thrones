@@ -1,0 +1,43 @@
+{{Canonicity|Canon}}
+{{Species
+| Title   = {{PAGENAME}}
+| Theme   = Westeros
+| Image   = Nagga.jpg
+| Type    = Reptile, magical
+| Status  = Possibly extinct
+| Diet    = 
+| Habitat = Seas<br>Oceans
+| Range   = [[Sunset Sea]] {{C|formerly}}
+| Origin  = 
+}}
+{{Quote|Blessed by the Drowned God, the Grey King fought and slew Nagga the great Sea Dragon and took her fire for his own.|[[Theon Greyjoy]]|House Greyjoy (short)}}
+'''Sea dragons'''{{Ref|H&L209}} are massive reptiles that were once native to the seas of the [[known world]]. They are similar to their mainland counterpart, [[dragon]]s, except they are wingless.
+
+==History==
+During the [[Age of Heroes]], the sea dragon [[Nagga]] was killed by the first [[King of the Iron Islands]], the [[Grey King]].{{Ref|H&L209}}
+
+==In the books==
+Sea dragons are possibly mythical creatures of the sea. It is unknown if sea dragons are related to dragons. Some [[Order of Maesters|maesters]] question their existence since they have not been seen in millennia. Believers think they still exist deep in the [[Sunset Sea]], far from the sight of man.
+
+There are a couple of references to sea dragons with Sea Dragon Tower, a dragon-shaped tower, at [[Dragonstone]] and [[Sea Dragon Point]] is a large peninsula in the [[North]].
+
+According to ironborn legend, Nagga was the first and mightiest sea dragon, a creature which fed on krakens and leviathans. She was slain by the Grey King, however, and her bones formed part of the Grey King's Hall. The alleged ruins of his hall still exist on [[Old Wyk]], and Nagga's Bones are the traditional location where each [[kingsmoot]] is held.
+
+It was a little unclear in the main novels if "Nagga's Bones" were actual bones or some natural stone pillar formation: ''The World of Ice & Fire'' sourcebook (2014) confirmed that they are indeed the fossilized bones of some ancient animal of massive size - though whether they are from a sea dragon, a huge whale, or some other kind of creature is anyone's guess.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+[[Category:Animals]]
+[[Category:Legendary and magical creatures]]
+[[Category:Magic]]
+[[Category:Sea dragons| ]]
+
+<!--Languages-->
+[[pt-br:Dragões do mar]]
+[[ru:Морские драконы]]
+[[vi:Rồng biển]]

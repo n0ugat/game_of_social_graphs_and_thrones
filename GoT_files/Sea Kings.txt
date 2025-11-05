@@ -1,0 +1,37 @@
+{{Canonicity|Canon}}
+{{Organization
+| Title       = {{PAGENAME}}
+| Theme       = Outlaw
+| Image       = 
+| Type        = Pirate band
+| Status      = 
+| Symbol      = 
+| Words       = 
+| Center      = [[Narrow Sea]]
+| Leader      = 
+| Affiliation = 
+| Religion    = 
+| Military    = 
+| Founded     = 
+}}
+The '''Sea Kings'''{{Ref|GOT806}} are a band of pirates operating in the [[Narrow Sea]].
+
+==History==
+===Background===
+The Sea Kings once laid [[Siege of White Harbor|siege]] to [[White Harbor]], but it was lifted by the forces under the command of Ser [[Gwayne Gaunt]],{{Note|The paragraph mentioning this event is erroneously placed in Arthur Dayne's entry. The opening sentence calling him the "thirdborn son to Lord Symon of House Gaunt" makes it apparent that this paragraph was meant for Gwayne Gaunt's entry.|name=Gwayne Gaunt}} a member of the [[Kingsguard]] of [[Aerys II Targaryen]]. During the siege, [[Rickard Stark]] was saved from drowning by Gaunt.
+
+===[[Game of Thrones: Season 8|''Game of Thrones'': Season 8]]===
+The Sea Kings are mentioned in [[Arthur Dayne]]'s{{Note|name=Gwayne Gaunt}} entry in the ''[[Book of Brothers]]''.{{Ref|GOT806}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no mention of this group.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Categories-->
+[[Category:Organizations]]
+[[Category:Pirates]]

@@ -1,0 +1,74 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Dragon
+| Part          = the [[Dance of the Dragons]]
+| Image         = 
+| Previous      = [[Battle at Rook's Rest]]
+| Concurrent    = [[Blockade of the Gullet]]
+| Next          = [[Taking of Stone Hedge]]
+| Date          = [[132 AC]]{{Dateref|House of the Dragon: Season 2}}
+| Place         = [[Lambswold]] and [[Mory]], the [[Riverlands]]
+| Outcome       = [[Blacks|Black]] victory
+*Lambswold and Mory looted
+*House Bracken's defenses are dispersed and [[Stone Hedge]] falls
+| Factions1     = {{COA|Blacks|s}} [[Blacks]]
+*{{COA|House Blackwood|i}} [[House Blackwood]]
+| Factions2     = {{COA|Greens|s}} [[Greens]]
+*{{COA|House Bracken|i}} [[House Bracken]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = {{COA|House Blackwood|i}} Ser [[Willem Blackwood]]
+| Leaders2      = ''Unknown''
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = 
+| Participants2 = 
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = 
+| Casualties2   = 
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = Heavy
+}}
+{{Quote|I have seen my fair share of their quarrels, and I tell you there is no honor in a fight such as this.|[[Petyr Piper]]|Regent (episode)}}
+The villages of [[Lambswold]] and [[Mory]] were '''raided''' by the forces of [[Willem Blackwood]] during the [[Dance of the Dragons]].
+
+==History==
+===Prelude===
+[[File:2x5 Brackens.jpg|thumb|250px|left|Daemon threatens Lord Bracken.]]
+In the early Dance of the Dragons, Houses [[House Blackwood|Blackwood]] and [[House Bracken|Bracken]] enter open war, beginning with the [[Battle at the Burning Mill]].{{Ref|HOTD203}} Later, [[Daemon Targaryen|Daemon]] joins with Willem Blackwood to defeat the Brackens and make them raise [[Rhaenyra Targaryen|Rhaenyra]]'s banner, but Lord [[Amos Bracken]] remains defiant even in the face of Daemon's [[dragon]] [[Caraxes]]. Still intent on turning the Brackens to his cause, Daemon lets Amos live and orders Willem to harry House Bracken's [[smallfolk]] and force a surrender.{{Ref|HOTD205}}
+
+===Raids===
+[[Lambswold]] and [[Mory]] are brutally raided by the Blackwoods. [[Sept]]s are looted and put to the torch, fields and farms are burned, livestock are stolen, peasants are put to the sword, and women and children are taken from their homes.{{Ref|HOTD205}}
+
+===Aftermath===
+With the Brackens overwhelmed, [[Stone Hedge]] falls and Amos Bracken declares for the [[Blacks]].{{Ref|HOTD205}}
+
+The raids are strongly condemned by several riverlords, including Lords [[Petyr Piper|Piper]], [[Lord Darry|Darry]], and [[Walys Mooton|Mooton]], and [[Lady Mallister]], who denounce Daemon as a tyrant. [[Alys Rivers]] also disapproves of the raids, pointing out that many innocent people were harmed; Daemon tries to justify the raids, but Alys is not convinced.{{Ref|HOTD205}}
+
+Willem is sentenced to death for his actions by Lord [[Oscar Tully]] and beheaded by Daemon.{{Ref|HOTD207}}
+
+==In the books==
+In ''[[Fire & Blood]]'', the raids on Bracken lands were carried out by Lord [[Samwell Blackwood]], who is dead by this point in the TV series. It is not specified which villages were raided.
+
+In contrast to the show, the raids took place before the [[Battle at the Burning Mill|Battle of the Burning Mill]], not afterwards, and none of the riverlords complained about them.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{Dance of the Dragons}}
+
+<!--Categories-->
+[[Category:132 AC]]
+[[Category:Dance of the Dragons]]
+[[Category:Sacks]]
+
+<!--Languages-->
+[[ru:Рейды на земли Бракенов]]

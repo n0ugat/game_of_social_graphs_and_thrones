@@ -1,0 +1,19 @@
+{|style="width:100%; margin:0; background:#1e5467; font-size:120%; font-weight:bold; border:4px groove #C0C0C0; text-align:center; color:#C0C0C0; padding:0.2em 0.4em;"
+|colspan="5" style="text-align:center;" |Beyond the Wall
+|- align="center"
+|{{PortalIcon|image=The Wall.jpg|articlename=Wall|name=The Wall}}
+|{{PortalIcon|image=Wights 1x10.png|articlename=Beyond the Wall|name=Beyond the Wall}}
+|- align="center"
+|{{PortalIcon|image=Castle Black.jpg|articlename=Castle Black|name=Castle Black}}
+|{{PortalIcon|image=Jon and Benjen 1x03.png|articlename=Night's Watch|name=The Night's Watch}}
+|- align="center"
+|{{PortalIcon|image=Wildling-Portal.png|articlename=Free Folk|name=The Free Folk}}
+|{{PortalIcon|image=Wight01 2x10.jpg|articlename=Wight|name=Wights}}
+|- align="center"
+|{{PortalIcon|image=1508 promo stills 12001692731.jpg|articlename=White Walkers|name=The White Walkers}}
+|{{PortalIcon|image=Walkerhorse3.png|articlename=Land of Always Winter|name=The Land of Always Winter}}
+|- align="center"
+|{{PortalIcon|image=Giant working S3 Ep1.jpg|articlename=Giants|name=Giants}}
+|{{PortalIcon|image=Childrenoftheforest.jpg|articlename=Children of the Forest|name=The Children of the Forest}}
+|}
+[[Category:Portals]]

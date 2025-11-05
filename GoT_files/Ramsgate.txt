@@ -1,0 +1,41 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Stark
+| Image        = Ramsgate Pin.png
+| Type         = Castle
+| Status       = 
+| Location     = The [[North]], [[Westeros]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = [[Old Gods]]
+| Places       = 
+| Founded      = 
+}}
+'''Ramsgate'''{{Ref|GOT402}} is a castle in the [[North]], the region ruled by [[House Stark]] of [[Winterfell]]. Ramsgate is located south-east of Winterfell, near the mouth of the [[Broken Branch]] river.
+
+==History==
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+Ramsgate is seen on a map of the North that [[Roose Bolton]] has in the [[Dreadfort]], when he is pointing at [[Moat Cailin]] to the west.{{Ref|GOT402}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Ramsgate is in the same area. The rulers of Ramsgate have not been mentioned, but they are sworn to [[House Manderly]] of [[White Harbor]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{North}}
+
+<!--Categories-->
+[[Category:Castles of the North]]
+
+<!--Languages-->
+[[de:Widdertor]]
+[[ru:Бараньи Ворота]]
+[[zh:公羊门]]

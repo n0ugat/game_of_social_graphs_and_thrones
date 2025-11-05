@@ -1,0 +1,38 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Rebecca Benson.jpg
+| Birth   = Edingburgh, Scotland
+| Death   = 
+| Role    = [[Talla Tarly]]
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 6|6]]
+| Credits = "[[Blood of My Blood]]"
+| First   = 
+| Last    = 
+}}
+'''Rebecca Benson''' is a Scottish actress. She stars in HBO's ''Game of Thrones'' as [[Talla Tarly]] in the [[Game of Thrones: Season 6|sixth season]].
+
+Benson graduated from the Royal Conservatoire of Scotland in 2011.
+
+She previously appeared as s Eli in the National Theatre of Scotland’s ''Let the Right One In'', which later transferred to London and New York.
+
+She appeared in the film ''[http://www.imdb.com/title/tt1672845/?ref_=nm_flmg_act_8 You Instead]'' alongside [[Natalia Tena]], who portrays [[Osha]].
+
+Benson has also guested on episodes of ''Shetland'', ''Vera'', and ''Holby City''.
+
+More recently she appeared in the 2015 ''Macbeth'' film adaptation starring Michael Fassbender.
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 6||||||yes}}
+
+==See also==
+*{{IMDb
+|# = 5039410}}
+*{{Twitter
+|# = rebjbenson}}
+{{DEFAULTSORT:Benson, Rebecca}}
+[[fr:Rebecca Benson]]
+[[ru:Ребекка Бенсон]]
+[[Category:Guest starring cast members of Game of Thrones]]

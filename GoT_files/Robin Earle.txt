@@ -1,0 +1,22 @@
+{{Crew
+|Image = Robin Earle.jpg
+|dateofbirth = 
+|birthplace = 
+|job = Stunt Performer
+|imdb = http://www.imdb.com/name/nm0991024
+|twitter = }}
+'''Robin Earle''' is a stuntwoman.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 1|first season]] episodes "[[Winter Is Coming]]", "[[Cripples, Bastards, and Broken Things]]", "[[Baelor]]", and "[[Fire and Blood]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 1|yes|||yes|||||yes|yes}}
+
+==See also==
+*{{IMDb
+|# = 0991024}}
+*{{Linkedin
+|# = /in/robin-earle-b73b2837}}
+{{DEFAULTSORT:Earle, Robin}}
+[[Category:Stunt performers of Game of Thrones]]

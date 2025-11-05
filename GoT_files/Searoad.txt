@@ -1,0 +1,30 @@
+{{Canonicity|Canon}}
+{{References}}
+[[File:Searoad.png|thumb|right|200px|A map showing the location of the Searoad on the continent of Westeros.]]
+The '''Searoad''',{{Mapref|Viewer's Guide}} or the '''Oceanroad''',{{Ref|THTDB201}} is a major highway in the [[Seven Kingdoms]]. It connects [[Casterly Rock]] and [[Lannisport]] in the [[Westerlands]] to the castle of [[Highgarden]] in the [[Reach]]. The Searoad passes through [[Crakehall]] and [[Old Oak]]. The road has to cross the [[Mander]] River to reach Highgarden, which is located on the southern bank of the river. At Highgarden the Searoad meets the [[Roseroad]], which heads north and east towards [[King's Landing]], and south to [[Oldtown]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the Searoad is in the same location. Curiously, the first four novels in the series label is the "Searoad," as does the official map for HBO's TV series adaptation. However, the map accompanying the fifth novel, ''A Dance With Dragons'', inexplicably labels it the "Ocean Road." It's not clear if this is an alternate name, or a mistake in publication.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Ocean Road}}
+
+<!--Navboxes-->
+{{Westerlands}}
+{{Reach}}
+{{Roads}}
+
+<!--Categories-->
+[[Category:Reach]]
+[[Category:Roads]]
+[[Category:Westerlands]]
+
+<!--Languages-->
+[[de:Meerstraße]]
+[[es:Camino del Mar]]
+[[pl:Morski Trakt]]
+[[ru:Морская дорога]]
+[[zh:滨海大道]]

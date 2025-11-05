@@ -1,0 +1,35 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Roxanne-McKee-200.jpg
+| Birth   = August 10, 1980 {{Age|1980|8|10}}<br>Canada
+| Death   = 
+| Role    = [[Doreah]]
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 1|1]] {{*}} [[Game of Thrones: Season 2|2]]
+| Credits = 11 episodes {{Below|Credits}}
+| First   = "[[The Kingsroad]]"
+| Last    = "[[Valar Morghulis]]"
+}}
+'''Roxanne McKee''' (born 10 August 1980) is an English model and actress. After a successful modelling career, McKee was cast in the role of [[wikipedia:Louise Summers|Louise Summers]] in the British soap ''[[wikipedia:Hollyoaks|Hollyoaks]]'' in 2004, after impressing producers during an open audition. She played the role until 2008 in which the character was killed off, intending to have a temporary departure. However, Roxanne never returned to the role and the character's death was confirmed in December 2011.
+
+In ''[[Game of Thrones]]'' she plays the role of [[Doreah]]. She was confirmed in the role on 28 July 2010. She initially appeared as a guest star in the [[Game of Thrones: Season 1|first season]] and returned in this role for the [[Game of Thrones: Season 2|second season]].
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 1||yes||yes||yes|yes|yes|yes}}
+{{Game of Thrones: Season 2|yes|yes||yes|yes|||||yes}}
+
+==See also==
+* {{WP}}
+*{{Template:IMDb
+|# = 1861467}}
+*{{Template:Twitter
+|# = Roxanne_Mckee}}
+* [http://roxannemckee.tumblr.com/ Roxanne McKee fansite.]
+
+[[de:Roxanne McKee]]
+[[ru:Роксанна МакКи]]
+[[fr:Roxanne McKee]]
+{{DEFAULTSORT:McKee, Roxanne}}
+[[Category:Guest starring cast members of Game of Thrones]]

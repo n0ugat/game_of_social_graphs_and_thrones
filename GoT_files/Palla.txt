@@ -1,0 +1,70 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Stark
+| Image       = Palla.png
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[House Stark]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Northmen|Northern]]
+| Religion    = [[Old Gods]]
+| Father      = [[Farlen]]
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 2|2]]
+| Appearances = 3 episodes {{Below|Appearances}}
+| First       = "[[The North Remembers]]"
+| Last        = "[[A Man Without Honor]]"
+| DeathEp     = 
+| Actor       = [[Joy Carleton]]
+}}
+'''Palla'''{{Con|ASOIAF}} is the daughter of [[Farlen]], the [[kennelmaster]] of Winterfell.
+
+==Biography==
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+Palla carries a large pallet of straw through the Great Hall of Winterfell. [[Summer]] passes by, and she becomes uncomfortable by the [[direwolf]]'s proximity.{{Ref|GOT201}}
+
+[[Farlen]] is defiant when Winterfell is [[Capture of Winterfell|occupied]] by [[Theon Greyjoy]] and his men. Palla helps him up when he is beaten for his words.{{Ref|GOT206}} They are both present when Theon assembles the people after the escape of [[Bran Stark|Bran]] and [[Rickon Stark]], and unveils two charred corpses.{{Ref|GOT207}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Palla is raped by two of the ironborn (one of whom is [[Drennan]]). Theon has the men whipped to show the people of Winterfell that he means to be just, but they still blame him for the rape, which Theon considers unfair.
+
+Later, after Bran and Rickon escape, Theon threatens Palla's safety if her father does not lead the search to find them.
+
+While Ser [[Rodrik Cassel]] and his host are on their way to liberate Winterfell, the northern collaborator "Reek" (actually a disguised [[Ramsay Bolton|Ramsay Snow]]) offers to get reinforcements, demanding Palla as his reward. Theon agrees, providing that he brings at least 200 men.
+
+After the [[Sack of Winterfell]], Palla is brought to the [[Dreadfort]]. Her fate is unknown.
+
+==Appearances==
+*{{GOT|The North Remembers}}
+*{{GOT|The Old Gods and the New}}
+*{{GOT|A Man Without Honor}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Northmen]]
+[[Category:Servants and retainers of House Stark]]
+[[Category:Smallfolk]]
+
+<!--Languages-->
+[[fr:Palla]]
+[[ru:Палла]]

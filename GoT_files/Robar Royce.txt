@@ -1,0 +1,94 @@
+{{Canonicity|Canon}}
+{{SameName|knight|king|Robar II Royce}}
+{{BookConjecture}}
+{{Heraldry
+| Leftimage  = House Royce.svg
+| Leftlink   = House Royce
+| Rightimage = Kingsguard.svg
+| Rightlink  = Kingsguard#Renly Baratheon's Kingsguard
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Baratheon
+| Image       = Renly's Kingsguard 2.png
+| Birth       = [[Runestone]], the [[Vale of Arryn]]
+| Death       = [[299 AC]]{{Dateref|Game of Thrones: Season 2}}<br>Near [[Storm's End]], the [[Stormlands]]
+| House       = [[House Royce|Royce]]
+| Affiliation = [[Kingsguard]] of [[Renly Baratheon]]
+| Titles      = [[Knighthood|Ser]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Vale of Arryn|Valemen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = [[Yohn Royce]]
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = {[[Waymar Royce]]}
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 2|2]]
+| Appearances = "[[The Ghost of Harrenhal]]"
+| First       = 
+| Last        = 
+| DeathEp     = "The Ghost of Harrenhal"
+| Actor       = Unidentified
+}}
+Ser '''Robar Royce'''{{Con|ASOIAF}} was a [[Knighthood|knight]] of [[House Royce]] and a member of the [[Kingsguard]] to [[King of the Andals and the Rhoynar and the First Men|King]] [[Renly Baratheon]].
+
+==Biography==
+===Background===
+Robar Royce is a knight of [[House Royce]], a proud and ancient noble family of the [[Vale of Arryn]], and a son of Lord [[Yohn Royce]], the [[Lord of Runestone|Lord]] of [[Runestone]]. At the onset of the [[War of the Five Kings]], he pledged his allegiance to Renly Baratheon.{{Cite}}
+
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+[[Renly Baratheon|Renly]]'s camp is a hive of activity as his troops prepare for the coming battle with the forces of [[Stannis Baratheon|Stannis]]. The camp is beset by strong winds. At night, [[Catelyn Stark|Catelyn]] meets with Renly in his command tent.{{Ref|GOT205}}
+
+[[File:Brienne kills.jpg|thumb|left|Brienne kills Robar Royce.]]
+Ser Robar and his sworn brother, Ser [[Emmon Cuy]], are outside while [[Brienne of Tarth|Brienne]] stands watch inside the tent. Hearing Brienne scream, the guards rush into the tent with swords in hand. They see Brienne kneeling over Renly's corpse and assume that she is responsible. They threaten her life. Catelyn tries to intervene, but they push her aside. Brienne fights them off, killing both.{{Ref|GOT205}}
+
+==Family==
+{{Royce tree}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Ser Robar Royce is a member of Renly's Rainbow Guard as "Robar the Red", the second son of Lord [[Yohn Royce]] of [[Runestone]] after Ser Andar Royce and older brother of [[Waymar Royce]] of the [[Night's Watch]]. He is first seen in [[King's Landing]] at the Tourney of the Hand with his father and Ser Andar where he wears steel armor with ancient bronze runes that are supposed to have mystical powers of protection. He unhorses freerider [[Lothor Brune]], but is then defeated by Ser [[Loras Tyrell]].
+
+When [[Eddard Stark|Eddard]] sends [[Beric Dondarrion]] after Ser [[Gregor Clegane]], who is terrorizing the [[Riverlands]], Ser Robar is sent to the [[kingswood]] to inform [[Robert Baratheon|Robert]], who is hunting with others, including Yohn Royce. Ser Robar and his father return to [[King's Landing]] from the hunt before Robert's fatal encounter with the boar.
+
+In Renly's camp, he tells Catelyn as he escorts her to the [[sept]] that the reason that he had joined Renly was to seek the glory he would never find as the second son of a noble house and he was weary of being in tournaments. Catelyn guesses him to be about 21 years old. When Renly names him to his Rainbow Guard he names him the red knight Robar the Red. At the feast at [[Bitterbridge]], Ser Bryce Caron dares him to juggle daggers.
+
+When [[Assassination of Renly Baratheon|Renly is murdered]], Brienne's scream causes Ser Robar and Ser Emmon Cuy and two guards to rush into the tent. They arrive just after Renly's death to find Brienne bending over his body and covered in his blood. Cuy blames Brienne for the death, then he and the other two guards attack her. Catelyn convinces Robar that Brienne is innocent. He tells Catelyn to get her away and he fights off the men-at-arms that follow Cuy, while Catelyn uses an iron brazier to knock Cuy unconscious, then she and Brienne escape. Ser Robar and Ser Emmon are subsequently killed in a fit of rage by their Lord Commander Loras, for their failure to protect their king.
+
+In ''A Storm of Swords'', when Loras escorts [[Sansa Stark|Sansa]] to meet [[Margaery Tyrell|his sister]] and [[Olenna Tyrell|grandmother]], Sansa mentions the tourney in which he unhorsed Ser Robar. Loras sadly responds "I slew Robar at [[Storm's End]]."
+
+Later, after [[Jaime Lannister|Jaime]] makes Loras realize that Brienne did not kill Renly, he is filled with remorse, realizing that Robar and Emmon were innocent, too.
+
+==Appearances==
+*{{GOT|The Ghost of Harrenhal}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Royce}}
+{{Kingsguard of Renly Baratheon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Royce, Robar}}
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Kingsguard of Renly Baratheon]]
+[[Category:Knights]]
+[[Category:Members of House Royce|Robar Royce]]
+[[Category:Valemen]]
+
+<!--Languages-->
+[[de:Robar Rois]]
+[[fr:Robar Royce]]
+[[ru:Робар Ройс]]
+[[zh:罗拔·罗伊斯]]

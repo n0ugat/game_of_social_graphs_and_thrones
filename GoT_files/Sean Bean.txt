@@ -1,0 +1,46 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Sean Bean 2017.jpg
+| Birth   = Shaun Mark Bean<br>April 17, 1959 {{Age|1959|4|17}}<br>Handsworth, Sheffield, England
+| Death   = 
+| Role    = [[Eddard Stark]]
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 1|1]]
+| Credits = 10 episodes {{Below|Credits}}
+| First   = "[[Winter Is Coming]]"
+| Last    = "[[Fire and Blood]]"
+}}
+'''Sean Bean''' (born '''Shaun Mark Bean''', 17 April 1959) is an English actor who has worked in film, television and theatrical productions, as well as providing voice-overs for commercials and computer games.
+
+He first became well known for his portrayal of [[wikipedia:Richard Sharpe (fictional character)|Richard Sharpe]] in the long-running British television series [[wikipedia:Sharpe (TV series)|''Sharpe'']], before appearing as [[wikipedia:Boromir|Boromir]] in [[wikipedia:Peter Jackson|Peter Jackson]]'s [[wikipedia:Lord of the Rings film trilogy|''Lord of the Rings'']] movie trilogy. He has also carved out a role as a [[wikipedia:Hollywood|Hollywood]] villain, appearing in antagonistic roles in films such as [[wikipedia:Patriot Games (film)|''Patriot Games'']], [[wikipedia:GoldenEye|''GoldenEye'']] and [[wikipedia:National Treasure (film)|''National Treasure'']]. Other notable works include [[wikipedia:Odysseus|Odysseus]] in ''[[wikipedia:Troy (film)|Troy]]'' (which also featured [[James Cosmo]] and [[Julian Glover]]), Dr. Merrick in ''[[wikipedia:The Island (2005 film)|The Island]]'', Zeus in ''[[wikipedia:Percy Jackson & the Olympians: The Lightning Thief|Percy Jackson &amp; the Olympians: The Lightning Thief]]'' and Ulric in ''[[wikipedia:Black Death (film)|Black Death]]'', which also starred ''Game of Thrones'' cast members [[Emun Elliott]] and [[Carice van Houten]].
+
+He starred in [[HBO]]'s ''[[Game of Thrones]]'' as Lord [[Eddard Stark]]. He was announced in the role on 19 July 2009. He appeared in nine episodes of the [[Game of Thrones: Season 1|first season]] (though was credited for all ten) before being written out, following the character's fate as depicted in the novel.
+
+In an interview after [[Game of Thrones: Season 4|Season 4]] aired, Bean mentioned that he would enjoy possibly returning to ''Game of Thrones'' to play Ned Stark in flashback scenes.<ref>"[http://winteriscoming.net/2014/07/18/sean-bean-wants-return-game-thrones/ Sean Bean wants to return to Game of Thrones]</ref>
+
+==Credits==
+===Starring===
+{{Game of Thrones: Season 1|yes|yes|yes|yes|yes|yes|yes|yes|yes|note}}
+<nowiki>*</nowiki> Credit only.
+
+==References==
+{{Reflist}}
+
+==See also==
+*{{WP}}
+*{{IMDb|# = 0000293}}
+
+<!--Navboxes-->
+{{Game of Thrones}}
+
+<!--Categories-->
+{{DEFAULTSORT:Bean, Sean}}
+[[Category:Starring cast members of Game of Thrones]]
+
+<!--Languages-->
+[[de:Sean Bean]]
+[[fr:Sean Bean]]
+[[ja:ショーン・ビーン]]
+[[pl:Sean Bean]]
+[[ru:Шон Бин]]

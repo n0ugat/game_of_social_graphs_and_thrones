@@ -1,0 +1,43 @@
+{{Canonicity|Canon}}
+{{References}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Free
+| Image        = Selhorys.png
+| Type         = Town
+| Status       = 
+| Location     = The [[Rhoyne]], [[Essos]]
+| Population   = 
+| Rulers       = [[Triarchs of Volantis]]
+| Institutions = 
+| Military     = 
+| Religion     = 
+| Places       = 
+| Founded      = 
+}}
+'''Selhorys'''{{Mapref|Viewer's Guide}} is a town in western [[Essos]], located on the eastern bank of the [[Rhoyne]]. The town is located north of [[Volantis]] and [[Valysar]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels Selhorys is a settlement under the rule of Volantis. It is located at the confluence of the Rhoyne and the Selhoru. It pays tribute to passing [[Dothraki]] ''[[khalasar]]s'', which can easily reach the city from the western-most edge of the [[Dothraki Sea]], which is located not far to the east of the settlement. By the standards of the [[Free Cities]], Selhorys is a middling-sized town, although by the standards of [[Westeros]] it would be a large city.
+
+The events that transcur in Volantis in the TV series take place in Selhorys, most notably [[Tyrion Lannister|Tyrion]] being kidnapped by [[Jorah Mormont]], who then does take him to Volantis.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Known world}}
+{{Free Cities}}
+
+<!--Categories-->
+[[Category:Towns]]
+[[Category:Volantis]]
+
+<!--Languages-->
+[[pl:Selhorys]]
+[[pt-br:Selhorys]]
+[[ru:Селорис]]
+[[uk:Селхоріс]]

@@ -1,0 +1,34 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Savannah Steyn.png
+| Birth   = 1996 {{Age|1996|12|31}}<br>Wandsworth, South London, England
+| Death   = 
+| Role    = Young [[Laena Velaryon]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = "[[We Light the Way]]"
+| First   = 
+| Last    = 
+}}
+'''Savannah Steyn''' is an English actress best known for portraying Ash Harper in Sky’s ''Intergalactic'' and a minor role in ''A Discovery of Witches''.
+
+She portrays [[Laena Velaryon]] in ''[[House of the Dragon]]''<ref>[https://pressroom.warnermedia.com/us/media-release/hbo-releases-first-official-teaser-house-dragon]</ref>.
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1|||||yes}}
+
+==See also==
+*{{IMDb|# = 8449814}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+{{DEFAULTSORT:Steyn, Savannah}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[de:Savannah Steyn]]
+[[fr:Savannah Steyn]]

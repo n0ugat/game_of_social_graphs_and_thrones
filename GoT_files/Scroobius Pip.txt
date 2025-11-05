@@ -1,0 +1,30 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Scroobius Pip.jpg
+| Birth   = David Peter Meads<br>August 3, 1981 {{Age|1981|8|3}}<br>Stanford-le-Hope, Essex, England
+| Death   = 
+| Role    = Herald
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]]
+| Credits = "[[Rhaenyra the Cruel]]"
+| First   = 
+| Last    = 
+}}
+'''David Peter Meads''' (born 3 August 1981), known professionally as '''Scroobius Pip''', is an English actor, podcaster, and former hip hop musician and spoken word poet.
+
+Meads plays a herald in the [[House of the Dragon: Season 2|second season]] of ''[[House of the Dragon]]''.<ref name="PremiereTitle">Redanian Intelligence: [https://redanianintelligence.com/2023/09/15/house-of-the-dragon-season-2-premiere-episode-title-and-more-details/ House of the Dragon Season 2 Premiere Episode Title and More Details] - 15 Sep 2023</ref>
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 2||yes}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{WP}}
+*{{IMDb|#=2883357}}
+
+<!--Categories-->
+[[Category:Co-starring cast members of House of the Dragon]]

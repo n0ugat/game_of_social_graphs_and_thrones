@@ -1,0 +1,48 @@
+{{Canonicity|Canon}}
+{{References}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Westeros
+| Image        = Samyrian map.png
+| Type         = 
+| Status       = 
+| Location     = [[Hyrkoon]], [[Essos]], [[Jade Sea]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = 
+| Places       = 
+| Founded      = 
+}}
+'''Samyrian'''{{Mapref|Viewer's Guide}} is a city located in the east of Essos on the shores of the [[Jade Sea]], north-east of the [[Red Waste]] and [[Lhazar]], north of [[Bayasabhad]], and south-east of [[Vaes Dothrak]]. The name "Samyrian" comes from the HBO Season 2 Viewers' Guide, but it may be the same city that is called "Shamyriana" in the books and "Samyriana" in ''The Lands of Ice and Fire'' map collection. If that is the case, "Shamyriana" is the correct name; however, the city in ''The Lands of Ice and Fire'' is in a slightly different location.
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, no city called "Samyrian" has appeared. A city called "Shamyriana" has been mentioned. Like [[Bayasabhad]], it is known for its warrior-women. Merchants from Shamyriana trade at [[Vaes Dothrak]]. There has been some confusion as to whether Samyrian and Shamyriana are the same city or different locations.
+
+''The Lands of Ice and Fire'' map collection does feature a city called "Samyriana", located east of the [[Dothraki Sea]] in roughly the same location but on the edge of a vast desert rather than on the coast of the [[Jade Sea]] (the Jade Sea having been moved on those maps so it runs south of Essos rather than forming a large bay within it).
+
+Ran, the founder of Westeros.org and co-author of ''The Worlds of Ice and Fire'' book with [[George R.R. Martin]], weighed in on the issue: while ''The Lands of Ice and Fire'' is meant to be the new canonical geography, the name "Samyriana" appearing on its maps is itself a misprint, and the proper spelling is indeed "Shamyriana". However, because the city was mentioned only once in the first novel, rather than live with a known misprint on the official maps, subsequent reprints of the first novel may just be revised to use the spelling "Samyriana".<ref>[http://asoiaf.westeros.org/index.php/topic/63618-the-lands-of-ice-and-fire-a-new-map-book-out-in-oct-2012/page__st__180#entry3751336 Westeros.org forum]</ref> Either way, the name of the city is supposed to end in an "a", and the HBO Season 2 map is in error.
+
+According to the ''World of Ice and Fire'' sourcebook, Samyriana (sic) is one of three fortified cities in the Bone Mountains, and the passes leading up to the city itself are so straight, only 100 men can occupy it at once. Samyriana and its 2 other sister-cities are cities which are collectively the last remnant of an ancient civilization known as the Patrimony of Hyrkoon, which flourished to the east of the Bones. Samyriana, built out of the very mountain it sits on, guards the Stone Road, the middle pass of the Bones, which starts at Vaes Dothrak. Like its sister cities, Samyriana's warriors are exclusively women as it is believed that only those who give life can take it. These female fighters are skilled in a variety of weapons and are taught to ride before they can walk. They are also famous for fighting bare-breasted, wearing iron rings in their nipples and ruby studs in their cheeks. The cities are ruled by the Great Fathers, the comeliest, largest and strongest of men, while most male children are gelded before they are allowed to assume whatever role in society they might be suited for.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Shamyriana}}
+
+<!--Navboxes-->
+{{Known world}}
+{{Further East}}
+
+<!--Categories-->
+[[Category:Cities]]
+[[Category:Hyrkoon]]
+
+<!--Languages-->
+[[de:Samyriana]]
+[[nl:Samyriana]]
+[[ru:Самириан]]
+[[uk:Шаміріан]]
+[[zh:沙米利安纳]]

@@ -1,0 +1,42 @@
+{{Crew
+|Type = Dragon
+|Image = Roy Taylor.jpg
+|dateofbirth = 
+|birthplace = 
+|job = Stunt Performer<br>Head Stunt Rigger
+|imdb = https://www.imdb.com/name/nm2213734/
+|twitter = }}
+'''Roy Elvis Taylor''' is a stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 1|first season]] episode "[[Fire and Blood]]", the [[Game of Thrones: Season 2|second season]] episode "[[Blackwater]]", the [[Game of Thrones: Season 3|third season]] episodes "[[And Now His Watch Is Ended]]" and "[[The Rains of Castamere (episode)|The Rains of Castamere]]", the [[Game of Thrones: Season 4|fourth season]] episodes "[[The Watchers on the Wall]]" and "[[The Children]]" and the [[Game of Thrones: Season 5|fifth season]] episodes "[[Hardhome (episode)|Hardhome]]" and "[[Mother's Mercy]]".
+
+In the [[Pilot (Bloodmoon)|pilot]] of ''[[Bloodmoon]]'', he was a head stunt rigger.
+
+In ''[[House of the Dragon]]'', he was an assistant stunt coordinator in the [[House of the Dragon: Season 1|first season]] episode "[[Driftmark (episode)|Driftmark]]".
+
+==Credits==
+===Stunts===
+====''[[Game of Thrones]]''====
+{{Game of Thrones: Season 1||||||||||yes}}
+{{Game of Thrones: Season 2|||||||||yes}}
+{{Game of Thrones: Season 3||||yes|||||yes}}
+{{Game of Thrones: Season 4|||||||||yes|yes}}
+{{Game of Thrones: Season 5||||||||yes||yes}}
+
+====''[[House of the Dragon]]''====
+{{House of the Dragon: Season 1|||||||yes}}
+
+==See also==
+*{{IMDb|# = 2213734}}
+*{{Facebook|# = roy.taylor.739}}
+*{{Google+|# = 102610667443551175512}}
+*{{Linkedin|# = /in/roy-taylor-6a259b25}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+{{DEFAULTSORT:Taylor, Roy}}
+[[Category:Stunt performers of Bloodmoon]]
+[[Category:Stunt performers of Game of Thrones]]
+[[Category:Stunt performers of House of the Dragon]]

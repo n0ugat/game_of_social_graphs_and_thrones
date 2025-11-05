@@ -1,0 +1,36 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Ricardo Rocca.jpg
+| Birth   = 
+| Death   = 
+| Role    = Horse rider<br>Stunt performer
+| Series  = ''[[Game of Thrones]]''<br>''[[House of the Dragon]]''
+| Season  = ''Game of Thrones'':<br>[[Game of Thrones: Season 7|7]]<br>''House of the Dragon'':<br>[[House of the Dragon: Season 1|1]]
+| Credits = 2 episodes {{Below|Credits}}
+| First   = "[[The Spoils of War]]"
+| Last    = "[[The Heirs of the Dragon]]"
+}}
+'''Ricardo Rocca Millán''' is a stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a horse rider in the [[Game of Thrones: Season 7|seventh season]] episode "[[The Spoils of War]]".
+
+In ''[[House of the Dragon]]'', he was a stunt performer in the [[House of the Dragon: Season 1|first season]] episode "[[The Heirs of the Dragon]]".
+
+==Credits==
+===Stunts===
+====''[[Game of Thrones]]''====
+{{Game of Thrones: Season 7||||yes}}
+
+====''[[Game of Thrones]]''====
+{{House of the Dragon: Season 1|yes}}
+
+==See also==
+*{{IMDb
+|# = 2804067}}
+*{{Instagram
+|# = roccastunt}}
+*{{YouTube
+|# = user/roccastunt}}
+{{DEFAULTSORT:Rocca, Ricardo}}
+[[Category:Stunt performers of House of the Dragon]]

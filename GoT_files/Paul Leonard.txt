@@ -1,0 +1,30 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Paul Leonard.jpeg
+| Birth   = 
+| Death   = 
+| Role    = [[Beric Dondarrion (son of Simon)|Beric Dondarrion]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = "[[King of the Narrow Sea (episode)|King of the Narrow Sea]]"
+| First   = 
+| Last    = 
+}}
+'''Paul Leonard''' is an actor. He has appeared in the films ''{{WPS|Gambit (2012 film)|Gambit}}'', ''{{WPS|Les Misérables (2012 film)|Les Misérables}}'', ''{{WPS|Darkest Hour (film)|Darkest Hour}}'', ''{{WPS|Mamma Mia! Here We Go Again}}'' and ''{{WPS|The Witches (2020 film)|The Witches}}'' and the television series ''{{WPS|The Bill}}'', ''{{WPS|Coronation Street}}'', ''{{WPS|Sherlock (TV series)|Sherlock}}'', ''{{WPS|Episodes (TV series)|Episodes}}'', ''{{WPS|Doctors (2000 TV series)|Doctors}}'', ''{{WPS|Red Dwarf}}'' and ''{{WPS|Doctor Who}}''.
+
+In ''[[House of the Dragon]]'', he portrayed Lord [[Beric Dondarrion (son of Simon)|Beric Dondarrion]] in the [[House of the Dragon: Season 1|first season]].
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1||||yes}}
+
+==See also==
+*{{IMDb|# = 0502734}}
+
+<!--Categories-->
+{{DEFAULTSORT:Leonard, Paul}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Paul Leonard]]

@@ -1,0 +1,46 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Night's Watch.svg
+| Link  = Night's Watch
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Watch
+| Image        = 
+| Type         = Castle
+| Status       = Abandoned
+| Location     = The [[Wall]], the [[Gift]]
+| Population   = 
+| Rulers       = [[Night's Watch]]
+| Institutions = 
+| Military     = 
+| Religion     = 
+| Places       = 
+| Founded      = 
+}}
+{{Quote|A long time ago, you may have had men from Queensgate and Long Barrow and the other sixteen castles of the Wall come to Castle Black for an election.|Alliser Thorne|The Lord Commanders}}
+'''Queensgate'''{{Ref|H&L507}} is a castle on the [[Wall]].<ref>"[[The Lord Commanders]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Queensgate is an abandoned castle on the [[Wall]] located between Deep Lake to west and [[Castle Black]] to the east. It was originally named Snowgate, but was renamed when Queen [[Alysanne Targaryen]] visited the castle on her dragon [[Silverwing]]. There was a war between the commanders of Queensgate and the [[Nightfort]] six hundred years before the [[War of the Five Kings]].
+
+[[Stannis Baratheon]] inspects the ruins of Queensgate and Oakenshield during his stay at the Wall. [[Lord Commander of the Night's Watch|Lord Commander]] [[Jon Snow]] later gives the castle to the [[Free Folk|wildling]] warrior witch Morna White Mask to garrison and settle her people.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Night's Watch}}
+{{Gift}}
+
+<!--Categories-->
+[[Category:Castles of the Wall]]
+
+<!--Languages-->
+[[de:Königintor]]
+[[pl:Brama Królowej]]
+[[ru:Врата Королевы]]
+[[zh:王后门]]

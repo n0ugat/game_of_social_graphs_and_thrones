@@ -1,0 +1,75 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Westeros
+| Part          = the [[Greyjoy Rebellion]]
+| Image         = The Greyjoy Rebellion.png
+| Previous      = [[Assault on Seagard]]
+| Concurrent    = 
+| Next          = [[Capture of Great Wyk]]<br>[[Assault on Old Wyk]]
+| Date          = [[289 AC]]{{Dateref|Greyjoy Rebellion}}
+| Place         = [[Fair Isle]], the [[Westerlands]]
+| Outcome       = Baratheon victory
+*[[Iron Fleet]] destroyed
+| Factions1     = [[File:House Greyjoy.svg|30px|center|link=House Greyjoy]] '''[[Salt Throne]]'''<br><small>([[House Greyjoy]])</small>
+| Factions2     = [[File:House Baratheon.svg|30px|center|link=House Baratheon of Dragonstone]] [[House Baratheon of Dragonstone]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = [[Iron Fleet|Captain]] [[Euron Greyjoy]]<br>[[Iron Fleet|Captain]] [[Aeron Greyjoy]]
+| Leaders2      = Lord [[Stannis Baratheon]]
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = [[Iron Fleet]]
+| Participants2 = [[Royal fleet]]
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = Heavy
+*Iron Fleet
+| Casualties2   = Light
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Quote|Stannis is a commander. He's led men into war twice. He destroyed the Greyjoy fleet.|[[Eddard Stark]]|You Win or You Die}}
+A '''sea battle off Fair Isle'''{{Con|ASOIAF}} was a pivotal naval battle in the [[Greyjoy Rebellion]], taking place approximately nine years before the [[War of the Five Kings]]. 
+
+==History==
+===Background===
+After the defeat of the [[ironborn]] in an [[assault on Seagard]], [[Stannis Baratheon|Stannis]], [[Master of Ships]] to King [[Robert Baratheon]], smashed the [[Iron Fleet]], paving the way for the [[Iron Throne]] to [[Siege of Pyke|invade the Iron Islands themselves]] and ultimately crush the rebellion.<ref>"[[Greyjoy Rebellion - Theon Greyjoy]]"</ref><ref>"[[Greyjoy Rebellion - Stannis Baratheon]]"</ref>
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+While Robert is dying, his youngest brother [[Renly Baratheon|Renly]] argues with [[Eddard Stark]] that he should succeed ahead of middle brother Stannis, citing that Stannis is not fit to be a king because he is a stern man who inspires no love or loyalty. Eddard counters that Stannis is a proven battlefield commander, in both [[Robert's Rebellion]] and the Greyjoy Rebellion in which he "destroyed the Greyjoy fleet" (though he doesn't mention the "Battle of Fair Isle" by name).<ref>"[[You Win or You Die]]"</ref>
+
+==In the books==
+﻿In the ''[[A Song of Ice and Fire]]'' novels, Stannis and Lord [[Paxter Redwyne]] were sent to deal with the Iron Fleet, following the [[Raid on Lannisport|attack on Lannisport]]. Stannis devised a trap for [[Victarion Greyjoy]], the Lord Captain: the Iron Fleet was in the Straits of Fair Isle, in the [[Sunset Sea]], with the island to their west and the mainland of the Westerlands to their east. Stannis's ships trapped them from the north and the south, smashing the Iron Fleet off the coast of Fair Isle. Aeron's ship ''Golden Storm'' was destroyed and he was taken captive.{{Bookref|AFFC|1}}{{Bookref|ADWD|63}}
+
+The Battle of Fair Isle was one of the largest naval battles fought in several decades, and one of the largest fought entirely at sea. No major naval battles were fought in Robert's Rebellion, which was conducted almost entirely on land. It is unknown if any of the five [[House Blackfyre|Blackfyre Rebellions]] fought during the past century involved extensive ship-to-ship naval warfare - the final [[War of the Ninepenny Kings]] against the last Blackfyre Pretender at least needed ships to transport soldiers to the [[Stepstones]] where the rebels were based, but it hasn't been stated if the rebels had their own fleet which tried to repulse the royal fleet.
+
+Only the subsequent [[Battle of the Blackwater]] neared the Battle of Fair Isle in size, but that was not primarily a naval battle between ships but an amphibious landing. Even so, there wasn't much ship-to-ship fighting in the Battle of the Blackwater, as most of Stannis's fleet was destroyed in the [[wildfire]] trap set by [[Tyrion Lannister|Tyrion]] - and the Lannisters also used up many of their remaining ships by converting them into fire-ships to carry the volatile wildfire.
+
+Victarion has never forgotten the Battle of Fair Isle. He sometimes reminds it to himself as a lesson that one has to learn, in order not to be overconfident and underestimate opponents. It does not mean Victarion refrains from taking risks; whenever a battle is imminent, he evaluates the situation gravely, taking into consideration possible steps that his enemy may take.{{Bookref|ADWD|63}}
+
+When a captive [[Theon Greyjoy|Theon]] warns Stannis not to underestimate [[Ramsay Bolton]], who is [[Battle in the ice|riding out to face him]], Stannis cites Fair Isle, along with the [[Siege of Storm's End]] and his [[Battle for the Wall|defeat]] of [[Mance Rayder]], as proof he has won harder battles against worse odds, in contrast to Ramsay, who for all his cruelty, has never fought a pitched battle in his life. {{Bookref|TWOW|Theon I}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Greyjoy Rebellion}}
+
+<!--Categories-->
+[[Category:289 AC]]
+[[Category:Battles]]
+[[Category:Greyjoy Rebellion]]
+
+<!--Languages-->
+[[de:Schlacht bei der Schönen Insel]]
+[[pt-br:Batalha de Ilha Bela]]
+[[ru:Битва у Светлого острова]]

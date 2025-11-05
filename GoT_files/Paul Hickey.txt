@@ -1,0 +1,32 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Paul Hickey.jpeg
+| Birth   = 
+| Death   = 
+| Role    = [[Allun Caswell]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = 3 episodes {{Below|Credits}}
+| First   = "[[The Princess and the Queen]]"
+| Last    = "[[The Green Council]]"
+}}
+'''Paul Hickey''' is an Irish actor.
+
+In ''[[House of the Dragon]]'', he portrayed [[Allun Caswell]] in [[House of the Dragon: Season 1|Season 1]].<ref>[[:File:Ty tenant insta screenshot.jpeg]]</ref>
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1||||||yes||yes|yes}}
+
+==See also==
+*{{IMDb|#=0382657}}
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Hickey, Paul}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Paul Hickey]]

@@ -1,0 +1,32 @@
+{{Stub}}
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Sam Callis.jpg
+| Birth   = May 29, 1973 {{Age|1973|5|29}}<br>Sussex, England
+| Death   = 
+| Role    = [[Gold Cloak (The Night Lands)|Gold Cloak]]
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 2|2]]
+| Credits = 2 episodes {{Below|Credits}}
+| First   = "[[The Night Lands]]"
+| Last    = "[[What Is Dead May Never Die]]"
+}}
+'''Sam Callis''' (29 May 1973) is a British actor.
+
+Callis has appeared in a number of well-known television shows in the UK, including [[wikipedia:London's Burning|London's Burning]], [[wikipedia:Ultimate Force|Ultimate Force]] and [[wikipedia:The Bill|The Bill]].
+
+In ''[[Game of Thrones]]'' he played a [[Gold Cloak (The Night Lands)|Gold Cloak]]. He joined the cast as a guest star in the [[Game of Thrones: Season 2|second season]].
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 2||yes|yes}}
+
+==See also==
+*{{Template:IMDb
+|# = 0130538}}
+
+{{DEFAULTSORT:Callis, Sam}}
+
+[[ru:Сэм Кэллис]]
+[[Category:Guest starring cast members of Game of Thrones]]

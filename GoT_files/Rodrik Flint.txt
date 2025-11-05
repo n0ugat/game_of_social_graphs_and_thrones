@@ -1,0 +1,69 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Leftimage  = House Flint.svg
+| Leftlink   = House Flint
+| Rightimage = Night's Watch.svg
+| Rightlink  = Night's Watch
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = Rodrick Flint.png
+| Birth       = In the [[North]]
+| Death       = 
+| House       = [[House Flint|Flint]]
+| Affiliation = [[Night's Watch]]
+| Titles      = [[Lord Commander of the Night's Watch]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Northmen|Northern]]
+| Religion    = [[Old Gods]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Rodrik Flint thought to make himself [[King-Beyond-the-Wall]].|[[Alliser Thorne]]|The Lord Commanders}}
+'''Rodrik Flint''' was a [[Lord Commander of the Night's Watch]].
+
+==Biography==
+Lord Commander Rodrik Flint is remembered in the [[Night's Watch]] for betraying his vows and trying to make himself [[King-Beyond-the-Wall]].{{Ref|H&L507}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Rodrik Flint's story is the same.
+
+==Appearances==
+*{{H&L|The Lord Commanders}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+{{DEFAULTSORT:Flint, Rodrik}}
+[[Category:Individuals from Histories & Lore]]
+[[Category:Lords Commander of the Night's Watch]]
+[[Category:Members of House Flint|Rodrik Flint]]
+[[Category:Men of the Night's Watch]]
+[[Category:Northmen]]
+
+<!--Languages-->
+[[de:Rodrik Flint]]
+[[es:Rodrik Flint]]
+[[fr:Rodrik Flint]]
+[[nl:Rodrik Grind]]
+[[pt-br:Rodrik Flint]]
+[[ru:Родрик Флинт]]
+[[zh:罗德里克·菲林特]]

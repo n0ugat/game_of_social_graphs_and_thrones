@@ -1,0 +1,58 @@
+{{Canonicity|Canon}}
+{{Spoiler|AKOTSK}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Tyrell
+| Image       = Plummer.png
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[House Ashford]]
+| Titles      = [[Steward]] of [[Ashford]]
+| AKA         = 
+| Culture     = [[Reach]]
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[A Knight of the Seven Kingdoms]]''
+| Season      = [[A Knight of the Seven Kingdoms: Season 1|1]]
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Tom Vaughan-Lawlor]]
+}}
+'''Plummer''' is the [[steward]] of [[Ashford]] during the reign of [[Daeron II Targaryen]].
+
+==In the books==
+In ''The Hedge Knight'', Plummer has a narrow, pinched face and thin grey hair. He acts as the master of the games during the [[Tournament at Ashford Meadow|tourney at Ashford Meadow]].
+
+==Appearances==
+===Forthcoming===
+{{Collapse|
+*{{AKOTSK|Season 1}} {{Unreleased}}
+}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|AKOTSK}}
+
+<!--Navboxes-->
+{{House Ashford}}
+
+<!--Categories-->
+[[Category:Individuals appearing in A Knight of the Seven Kingdoms]]
+[[Category:Individuals from the Reach]]
+[[Category:Servants and retainers of House Ashford]]
+[[Category:Smallfolk]]
+[[Category:Stewards]]
+
+<!--Languages-->
+[[pl:Plummer]]

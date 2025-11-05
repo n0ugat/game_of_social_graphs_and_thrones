@@ -1,0 +1,71 @@
+{{DISPLAYTITLE:Samwell Tarly {{C|lord}}}}
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = House Tarly.svg
+| Link  = House Tarly
+}}
+{{Character
+| Title       = Samwell Tarly
+| Type        = Tyrell
+| Image       = Lord Sam Tarly.png
+| Birth       = At [[Horn Hill]]
+| Death       = 
+| House       = [[House Tarly|Tarly]]
+| Affiliation = [[House Tyrell]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = Savage Sam
+| Culture     = [[Andals|Andal]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|When Aegon's son faced rebellion from the Vulture King of Dorne, my ancestor, Savage Sam Tarly, led the royal forces on a Vulture Hunt. Heartsbane, our ancestral Valyrian sword, and the pride of our house, soon ran red from point to hilt with rebel blood.|[[Randyll Tarly]]|House Tarly (short)}}
+Lord '''Samwell Tarly''',{{Con|F&B}} also known as '''Savage Sam''', was the head of [[House Tarly]] during the reign of [[Aenys Targaryen]].
+
+==Biography==
+When the [[Dornishmen|Dornish]] [[Vulture King]] rebelled against King Aenys, Sam played a leading part in the [[Vulture Hunt]] to defeat him. He wielded the family's ancestral [[Valyrian steel]] sword [[Heartsbane]], which was said to run red from point to hilt with rebel blood.{{Ref|H&L616}}
+
+==In the books==
+In ''[[The World of Ice & Fire]]'', Savage Sam's story is the same.
+
+==Appearances==
+*{{H&L|House Tarly}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Tarly}}
+
+<!--Categories-->
+{{DEFAULTSORT:Tarly, Samwell}}
+[[Category:Individuals from Histories & Lore]]
+[[Category:Individuals from the Reach]]
+[[Category:Lords of Horn Hill|Samwell Tarly]]
+[[Category:Members of House Tarly|Samwell Tarly]]
+
+<!--Languages-->
+[[de:Sam Tarly]]
+[[es:Sam Tarly]]
+[[nl:Sam Tarling]]
+[[ru:Сэм Тарли]]

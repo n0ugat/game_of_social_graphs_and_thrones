@@ -1,0 +1,62 @@
+{{Canonicity|Canon}}
+{{Spoiler|AKOTSK}}
+{{BookConjecture}}
+{{Heraldry
+| Image = Unknown.svg
+| Link  = 
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Tyrell
+| Image       = 
+| Birth       = At [[Coldmoat]]
+| Death       = 
+| House       = 
+| Affiliation = [[House Rowan]]
+| Titles      = [[Lordship|Lady]] of Coldmoat
+| Predecessor = 
+| Successor   = 
+| AKA         = The Red Widow of Coldmoat
+| Culture     = [[Andals|Andal]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+Lady '''Rohanne Webber''',{{Con|D&EN}} also known as the '''Red Widow of Coldmoat''',{{Ref|GOT806}} is the Lady of [[Coldmoat]].
+
+==In the books==
+In the [[Dunk & Egg novellas]], Rohanne Webber was nicknamed the "Red Widow" because of the deaths of her four husbands (the first two are unnamed, and the last two were Ser Simon Staunton and Ser Rolland Uffering). She became the Lady of Coldmoat after the death of her father Wyman.
+
+==Appearances==
+*{{GOT|The Iron Throne}} {{Text}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|AKOTSK}}
+
+<!--Categories-->
+{{DEFAULTSORT:Webber, Rohanne}}
+[[Category:Bannermen of House Rowan]]
+[[Category:Individuals from the Reach]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Nobles]]
+[[Category:Ruling ladies]]
+
+<!--Languages-->
+[[ru:Роанна Веббер]]

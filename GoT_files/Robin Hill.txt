@@ -1,0 +1,69 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Night's Watch.svg
+| Link  = Night's Watch
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = 
+| Birth       = The [[Westerlands]]
+| Death       = 
+| House       = 
+| Affiliation = [[Night's Watch]]
+| Titles      = [[Lord Commander of the Night's Watch]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Westerlands|Westermen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Tristan Mudd, Mad Marq Rankenfell, Robin Hill. Each nearly destroyed us with their foolishness.|Ser [[Alliser Thorne]]|The Lord Commanders}}
+'''Robin Hill''' was a [[bastard]] from the the [[Westerlands]].
+
+==Biography==
+Robin Hill was a [[bastard]] from the the [[Westerlands]]. At some point he joined the [[Night's Watch]], and eventually rose to become its [[Lord Commander of the Night's Watch|Lord Commander]]. The Watch nearly collapsed under his leadership, and history remembers him as one of the worst Lord Commanders the Black Brothers ever had - along with the likes of [[Tristan Mudd]] and [[Marq Rankenfell]].{{Ref|H&L507}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, his story is the same.
+
+==Appearances==
+*{{H&L|The Lord Commanders}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Night's Watch}}
+
+<!--Categories-->
+{{DEFAULTSORT:Hill, Robin}}
+[[Category:Bastards]]
+[[Category:Ennobled commoners]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Lords Commander of the Night's Watch]]
+[[Category:Westermen]]
+
+<!--Languages-->
+[[de:Robin Hügel]]
+[[es:Robin Colina]]
+[[fr:Robin Hill]]
+[[nl:Robin Heuvel]]
+[[ru:Робин Хилл]]
+[[zh:罗宾·希山]]

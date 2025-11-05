@@ -1,0 +1,77 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = House Merryweather.svg
+| Link  = House Merryweather
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Tyrell
+| Image       = Owen Merryweather.png
+| Birth       = At [[Longtable]]
+| Death       = 
+| House       = [[House Merryweather|Merryweather]]
+| Affiliation = [[House Tyrell]]<br>[[House Targaryen]]
+| Titles      = Lord of Longtable<br>[[Hand of the King]] {{C|to [[Aerys II Targaryen|Aerys II]]}}
+| Predecessor = {[[Tywin Lannister]]} {{C|Hand of the King}}
+| Successor   = {[[Jon Connington]]} {{C|Hand of the King}}
+| AKA         = 
+| Culture     = [[Andals|Andal]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|The Mad King then cycled through every mistake of his ancestors. Soldiers, toadying lords and at the end even an alchemist, perhaps to save the crown's growing expenses on wildfire.|[[Petyr Baelish]]|The Hand of the King}}
+Lord '''Owen Merryweather'''{{Con|ASOIAF}} was a [[Hand of the King]] to King [[Aerys II Targaryen]].{{Ref|H&L707}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Lord Owen Merryweather was an old man at the time of [[Robert's Rebellion]] and was known for throwing feasts and lavishing praise on the [[Aerys II Targaryen|Mad King]]. During a feast that the king held when [[Cersei Lannister|Cersei]] came to court for the first time, Owen proposed that a tax be raised on wine, which led Lord Rykker to joke about [[Tywin Lannister|Tywin]] shitting gold.{{Bookref|AFFC|7}} Tywin's sister [[Genna Lannister|Genna]] remarks to [[Jaime Lannister|Jaime]] that her brother mockingly nicknamed Owen "the Chuckler," since his only skill was laughing at Aerys's pathetic jokes.{{Bookref|AFFC|33}} Jaime, who briefly knew Merryweather in his capacity as a knight of Aerys's [[Kingsguard]], describes him as being amiably natured, but overall an ineffectual sycophant.{{Bookref|AFFC|16}}
+
+Owen was named [[Hand of the King]] after Tywin resigned from the position in 281 AC;  Cersei scathingly thinks that replacing her father with Merryweather was like replacing a destrier with a donkey.{{Bookref|AFFC|39}} Aerys was extremely paranoid and mistrusting of his son [[Rhaegar Targaryen|Rhaegar]], which led to tension at court between the faction loyal to the king and those loyal to the prince. Lord Merryweather and [[Pycelle]] were tasked with keeping peace between the two factions.
+
+Owen was ineffective in preventing the uprising that later became known as Robert's Rebellion. He sent missives of the lords of the [[Seven Kingdoms]], declaring Lords [[Jon Arryn]], [[Robert Baratheon]], and [[Eddard Stark]] outlaws and demanding that they be beheaded. Owen never left [[King's Landing]] and this, along with Ned and Robert's successful returns to [[Winterfell]] and [[Storm's End]] and the rebel victory at the [[Battle of Summerhall]], led the paranoid Aerys to believe that Owen was conspiring against him. The king then stripped Owen of his lands and titles and exiled him from Westeros, with [[Jon Connington]] replacing him as his Hand. Robert later returned [[House Merryweather]]'s titles and some of their lands to Owen's grandson Orton.
+
+==Appearances==
+*{{H&L|The Hand of the King}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Merryweather}}
+{{Small Council of Aerys II Targaryen}}
+
+<!--Categories-->
+{{DEFAULTSORT:Merryweather, Owen}}
+[[Category:Bannermen of House Tyrell]]
+[[Category:Hands of the King]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Individuals from the Reach]]
+[[Category:Lords]]
+[[Category:Members of House Merryweather|Owen Merryweather]]
+[[Category:Servants and retainers of House Targaryen]]
+
+<!--Languages-->
+[[de:Owen Sonnwetter]]
+[[es:Owen Merryweather]]
+[[it:Owen Merryweather]]
+[[nl:Owein Blijleven]]
+[[ru:Оуэн Мерривезер]]
+[[zh:欧文·玛瑞魏斯]]

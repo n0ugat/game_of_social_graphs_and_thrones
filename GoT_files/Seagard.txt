@@ -1,0 +1,58 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Mallister.svg
+| Link  = House Mallister
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Tully
+| Image        =
+<gallery>
+Seagard attack.png|Appearance
+Seagard Pin.png|Location
+</gallery>
+| Type         = Castle<br>Town
+| Status       = 
+| Location     = The [[Riverlands]], [[Westeros]]
+| Population   = 
+| Rulers       = [[House Mallister]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+[[File:Riverlands map.jpg|right|thumb|A map of the Riverlands showing Seagard.]]
+{{Quote|My eldest brother, Rodrik, led a frontal assault on Seagard, a town built to protect the mainland from [[Ironborn|us]].|[[Theon Greyjoy]]|Greyjoy Rebellion - Theon Greyjoy}}
+'''Seagard'''{{Ref|GOT210}} is a castle in the [[Riverlands]]. It is the seat of [[House Mallister]], a vassal house holding fealty to [[House Tully]] of [[Riverrun]]. The castle is located north of [[Riverrun]], on the coast of [[Ironman's Bay]]. It lies between the [[Red Fork]] and the [[Blue Fork]] of the [[Trident]]. Seagard was built as a defense against marauders from the [[Iron Islands]].
+
+==History==
+During the [[Greyjoy Rebellion]], Seagard was [[Assault on Seagard|assaulted]] by an [[Ironborn]] fleet led by [[Rodrik Greyjoy]], Lord [[Balon Greyjoy|Balon]]'s eldest son and heir. Lord [[Jason Mallister]] slew him in combat and threw the Ironborn back into the sea.<ref>"[[Greyjoy Rebellion - Theon Greyjoy]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Seagard is the largest and indeed only port of note on the west coast of the [[Riverlands]], consisting of a castle, town and port. [[House Mallister]] maintains a small fleet of half a dozen war [[ships|longships]] and two war galleys at Seagard.
+
+House Mallister is a loyal vassal of House Tully, and fought underneath their banner during [[Robert's Rebellion]]. Lord [[Jason Mallister]] is noted as one of the most stalwart, reliable and honorable of the river lords. When [[Hoster Tully]] declared for King [[Robb Stark]] during the [[War of the Five Kings]], Lord Jason also supported that move and threw his loyalty behind Robb.
+
+Following the Red Wedding, Seagard is one of the three strongholds which have not yielded to the Iron Throne (alongside [[Riverrun]] and [[Raventree Hall]]). Lord Jason is forced to surrender, though, since the Freys threaten to kill his son Patrek.{{Bookref|ASOS|60}}{{Bookref|AFFC|38}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Mallister}}
+{{Riverlands}}
+
+<!--Categories-->
+[[Category:Castles of the Riverlands]]
+[[Category:Harbors]]
+[[Category:House Mallister]]
+
+<!--Languages-->
+[[de:Seegart]]
+[[it:Seagard]]
+[[pl:Seagard]]
+[[ru:Сигард]]

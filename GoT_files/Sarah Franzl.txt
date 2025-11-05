@@ -1,0 +1,27 @@
+{{Crew
+|Image = Sarah Franzl.jpg
+|dateofbirth = 
+|birthplace = 
+|job = Stunt Performer
+|imdb = http://www.imdb.com/name/nm0291897
+|twitter = }}
+'''Sarah Franzl''' is a stuntwoman and actress.
+
+In ''[[Game of Thrones]]'', she was a stunt performer in the [[Game of Thrones: Season 8|eighth season]] episode "[[The Bells]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 8|||||yes}}
+
+==See also==
+*{{IMDb
+|# = 0291897}}
+*{{Facebook
+|# = 100005790557055}}
+*{{Linkedin
+|# = /in/sarah-franzl-7214602b}}
+
+==References==
+{{reflist}}
+{{DEFAULTSORT:Franzl, Sarah}}
+[[Category:Stunt performers of Game of Thrones]]

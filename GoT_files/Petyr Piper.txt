@@ -1,0 +1,78 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = House Piper.svg
+| Link  = House Piper
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Tully
+| Image       = 2x7 Petyr Piper Infobox.png
+| Birth       = 
+| Death       = 
+| House       = [[House Piper|Piper]]
+| Affiliation = [[House Tully/House of the Dragon|House Tully]]<br>[[Blacks]]
+| Titles      = [[Lordship|Lord]] of [[Pinkmaiden]]
+| AKA         = 
+| Culture     = [[Riverlands|Rivermen]]
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = Sons
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 2|2]]
+| Appearances = 3 episodes {{Below|Appearances}}
+| First       = "[[Regent (episode)|Regent]]"
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Antonio Magro]]
+}}
+{{Quote|I have seen my fair share of their quarrels, and I tell you there is no honor in a fight such as this.|Petyr on the Blackwood raids against House Bracken|Regent (episode)}}
+Lord '''Petyr Piper'''{{Con|F&B}}{{Note|Only identified by surname in closed captions.}} is the Lord of [[Pinkmaiden]] and head of [[House Piper]] during the [[Dance of the Dragons]].{{Ref|HOTD205}}
+
+==Biography==
+===[[House of the Dragon: Season 2|''House of the Dragon'': Season 2]]===
+Petyr Piper and three other riverlords arrive at [[Harrenhal]] to complain to [[Daemon Targaryen|Daemon]] about the [[Raids on Bracken lands|atrocities]] performed by the [[House Blackwood|Blackwoods]] at the [[House Bracken|Brackens]]' lands. He angrily states there were works of barbarity, and that there is no honor in such fighting.{{Ref|HOTD205}}
+
+At a meeting of the riverlords in Harrenhal's godswood, Lord Piper questions why he should respect the word of [[Oscar Tully]], a boy younger than his own sons. Oscar proves himself a capable leader, however, and Piper follows him in supporting [[Rhaenyra Targaryen|Rhaenyra]]'s claim to the [[Iron Throne]].{{Ref|HOTD207}}
+
+As the river lords gather at Harrenhal, Lord Piper informs Daemon that all the sheep in his land have been sold upriver and his vassals have sent pigs for [[Caraxes]] to feed on instead. Daemon says Caraxes prefer pigs over sheep and commands Lord Piper to feed them to his [[Dragons|dragon]].{{Ref|HOTD208}}
+
+==In the books==
+In ''[[Fire & Blood]]'', Petyr was a grizzled old man by 129 AC. In 105 AC, he was among the lords who swore fealty to [[Rhaenyra Targaryen|Rhaenyra]] as [[Viserys I Targaryen|Viserys]]'s heir. The name might be a reference to the nursery rhyme {{WPS|Peter Piper}}.
+
+==Appearances==
+*{{HOTD|Regent}}
+*{{HOTD|The Red Sowing}}
+*{{HOTD|The Queen Who Ever Was}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{House Piper}}
+
+<!--Categories-->
+{{DEFAULTSORT:Piper, Petyr}}
+[[Category:Bannermen of House Tully]]
+[[Category:Blacks]]
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Lords]]
+[[Category:Members of House Piper|Petyr Piper]]
+[[Category:Rivermen]]
+
+<!--Languages-->
+[[es:Petyr Piper/House of the Dragon]]
+[[fr:Petyr Piper]]
+[[pl:Petyr Piper]]
+[[ru:Петир Пайпер]]

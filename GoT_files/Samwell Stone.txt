@@ -1,0 +1,72 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Royce
+| Image       = Allan Gildea as Samwell Stone.png
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[House Royce]]
+| Titles      = [[Knighthood|Ser]]<br>[[Master-at-arms]] at [[Runestone]]
+| Predecessor = 
+| Successor   = 
+| AKA         = Sam
+| Culture     = [[Vale of Arryn|Valemen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 5|5]]
+| Appearances = "[[The Wars To Come]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Allan Gildea]]
+}}
+{{Quote|Shield up! Attack, my Lord! Attack! Don't cross your feet!|Samwell Stone to [[Robin Arryn]]|The Wars To Come}}
+Ser '''Samwell Stone'''{{Con|ASOIAF}} is a [[Knighthood|knight]] of the [[Vale of Arryn|Vale]] in service to [[House Royce]].
+
+==Biography==
+===Background===
+Sam Stone is a [[bastard]] from the Vale. He serves as the [[master-at-arms]] of [[Runestone]].{{Ref|GOT501}}
+
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+Sam Stone is training [[Robin Arryn]] in swordfighting while he is being [[Ward|fostered]] at Runestone by Lord [[Yohn Royce]].{{Ref|GOT501}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'', novels Ser Samwell Stone, dubbed "Strong Sam Stone", is a renowned knight and the master-at-arms of Runestone. He supports his liege lord Yohn Royce when the latter gathers a group of nobles, dubbed the "Lords Declarant", to denounce [[Petyr Baelish|Littlefinger]] and oppose his rule over the Vale.
+
+==Appearances==
+*{{GOT|The Wars To Come}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Royce}}
+
+<!--Categories-->
+{{DEFAULTSORT:Stone, Samwell}}
+[[Category:Bastards]]
+[[Category:Ennobled commoners]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Knights]]
+[[Category:Masters-at-arms]]
+[[Category:Servants and retainers of House Royce]]
+[[Category:Valemen]]
+
+<!--Languages-->
+[[de:Samwell Stein]]
+[[ro:Samwell Stone]]
+[[ru:Сэмвелл Стоун]]

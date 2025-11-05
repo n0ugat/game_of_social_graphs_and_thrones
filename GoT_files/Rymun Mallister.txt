@@ -1,0 +1,67 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Mallister.svg
+| Link  = House Mallister
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Tully
+| Image       = Rymun Mallister.png
+| Birth       = 
+| Death       = 
+| House       = [[House Mallister|Mallister]]{{Ref|HOTD102}}
+| Affiliation = 
+| Titles      = [[Knighthood|Ser]]{{Ref|HOTD102}}
+| AKA         = 
+| Culture     = [[Riverlands|Rivermen]]{{Ref|HOTD102}}
+| Religion    = 
+| Father      = [[Lymond Mallister]]{{Ref|HOTD102}}
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 1|1]]
+| Appearances = "[[The Rogue Prince]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Tony Woodhead]]
+}}
+{{Quote|Ser Rymun Mallister. Son of Lord Lymond Mallister of Seagard. Winner of the melee at Cider Hall, he was the last mounted of three-and-twenty knights.|Ser Harrold Westerling|The Rogue Prince}}
+Ser '''Rymun Mallister''' is a [[Knighthood|knight]] of [[House Mallister]] during the reign of [[Viserys I Targaryen|Viserys I]].
+
+==Biography==
+===Background===
+Rymun is the son of Lord [[Lymond Mallister]] of [[Seagard]]. He was knighted at the age of 18. He won a melee at [[Cider Hall]].{{Ref|HOTD102}}
+
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+Rymun is brought before [[Rhaenyra Targaryen]] in [[Maegor's Holdfast]] as a candidate to replace Ser [[Ryam Redwyne]] on the [[Kingsguard/House of the Dragon|Kingsguard]]. On account of his lack of real combat experience, Ser [[Criston Cole]] is chosen instead.{{Ref|HOTD102}}
+
+==In the books==
+In ''[[Fire & Blood]]'', there is no character named Rymun Mallister, and it is unknown whether Lymond Mallister had any children.
+
+==Appearances==
+*{{HOTD|The Rogue Prince}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House Mallister/House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Mallister, Rymun}}
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Knights]]
+[[Category:Members of House Mallister|Rymun Mallister]]
+[[Category:Rivermen]]
+
+<!--Languages-->
+[[de:Rymun Mallister]]
+[[es:Rymun Mallister]]
+[[fr:Rymun Mallister]]
+[[pt-br:Rymun Mallister]]
+[[ru:Раймун Маллистер]]

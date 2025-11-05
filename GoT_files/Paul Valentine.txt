@@ -1,0 +1,37 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Paul Valentine.jpg
+| Birth   = November 7, 1987 {{Age|1987|11|7}}<br>Sidcup, England
+| Death   = 
+| Role    = [[Germund Strong]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]]
+| Credits = 4 episodes {{Below|Credits}}
+| First   = "[[The Burning Mill]]"
+| Last    = 
+}}
+'''Paul Valentine''' is an English actor.
+
+Valentine plays [[Germund Strong]] in the [[House of the Dragon: Season 2|second season]] of ''[[House of the Dragon]]''.
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 2|||yes|yes|yes|yes}}
+
+==External links==
+*{{IMDb|# = 6644186}}
+*{{Spotlight|# = 4218-8948-9534}}
+*{{Twitter|# = paulvalentine}}
+*{{Instagram|# = paulvalentine87}}
+*{{Facebook|# = paul.valentine2}}
+*{{YouTube|# = user/paulvalentine}}
+*{{Vimeo|# = paulvalentine}}
+*{{Linkedin|# = /in/paulvalentineactor}}
+
+<!--Categories-->
+{{DEFAULTSORT:Valentine, Paul}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Paul Valentine]]

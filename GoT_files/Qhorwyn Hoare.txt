@@ -1,0 +1,69 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = House Hoare.svg
+| Link  = House Hoare
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Hoare
+| Image       = Qhorwyn Hoare death.png
+| Birth       = On [[Orkmont]]
+| Death       = 
+| House       = [[House Hoare|Hoare]]
+| Affiliation = 
+| Titles      = [[King of the Iron Islands]]
+| Predecessor = 
+| Successor   = 
+| AKA         = Qhorwyn the Cunning
+| Culture     = [[Ironborn]]
+| Religion    = [[Drowned God]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = {[[Harlan Hoare]]}<br>{[[Harwyn Hoare]]}
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|As an unruly and worthless youngest son, Harwyn was sent away to the east to vanish, and so he did. But when his father died, Harwyn returned to the Iron Islands for the kingsmoot.|[[Euron Greyjoy]]|The Kingsmoot}}
+King '''Qhorwyn Hoare'''{{Con|TWOI&F}} was a [[King of the Iron Islands]].
+
+==Biography==
+Qhorwyn's son [[Harwyn Hoare|Harwyn]] was considered unruly and worthless, and was sent away. Following Qhorwyn's death, Harwyn succeeded him as [[King of the Iron Islands]] after being elected in the [[kingsmoot]].{{Ref|H&L602}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Qhorwyn greatly valued his wealth and shrewdly avoided war in order to maintain it. In an effort to discourage his enemies from rising against him he tripled the size of his fleet and ordered the creation of additional weaponry. His eldest son died from [[greyscale]] and his second son [[Harlan Hoare|Harlan]] was killed by a fall from a horse, with his third son [[Harwyn Hoare|Harwyn]] succeeding when he died and conquering the [[Riverlands]] with his father's strengthened military.
+
+==Appearances==
+*{{H&L|The Kingsmoot}} {{Corpse}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Hoare}}
+{{Kings of the Iron Islands}}
+{{Kings of Westeros}}
+
+<!--Categories-->
+{{DEFAULTSORT:Hoare, Qhorwyn}}
+[[Category:Individuals from Histories & Lore]]
+[[Category:Ironborn]]
+[[Category:Kings of the Iron Islands]]
+[[Category:Members of House Hoare|Qhorwyn Hoare]]
+
+<!--Languages-->
+[[ru:Куорвин Хоар]]

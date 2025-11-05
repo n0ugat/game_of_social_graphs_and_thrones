@@ -1,0 +1,63 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = Order of Maesters.svg
+| Link  = Order of Maesters
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Citadel
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[Order of Maesters]]
+| Titles      = [[Archmaester]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Didn't one Archmaester link the fortress to the vanished mazemakers of Lorath? |[[Qyburn]]|Oldtown (short)}}
+'''Quillion'''{{Con|TWOI&F}} was an [[archmaester]] of the [[Citadel]].
+
+==Biography==
+Quillion suggested that the vanished [[mazemakers]] of [[Lorath]] were behind the construction of [[Battle Isle]], the ancient fortress on which the [[Hightower]] of [[Oldtown]] was built.{{Ref|H&L612}}
+
+==In the books==
+In ''The World of Ice & Fire'', Quillon's story is the same. He is not mentioned in the ''[[A Song of Ice and Fire]]'' novels.
+
+==Appearances==
+*{{H&L|Oldtown}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+[[Category:Archmaesters]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Westerosi]]
+
+<!--Languages-->
+[[pt-br:Quillion]]
+[[ru:Квиллион]]

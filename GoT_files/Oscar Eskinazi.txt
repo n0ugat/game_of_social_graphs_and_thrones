@@ -1,0 +1,30 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Oscar Eskinazi.jpg
+| Birth   = 
+| Death   = 
+| Role    = [[Joffrey Velaryon]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]]
+| Credits = 3 episodes {{Below|Credits}}
+| First   = "[[A Son for a Son]]"
+| Last    = 
+}}
+'''Oscar Eskinazi''' is an actor. He has appeared in the television series ''{{WPS|Life After Life (TV series)|Life After Life}}''.
+
+Eskinazi plays [[Joffrey Velaryon]] in the [[House of the Dragon: Season 2|second season]] of ''[[House of the Dragon]]''.
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 2|yes||yes|||yes}}
+
+==External links==
+*{{IMDb|# = 12469833}}
+
+<!--Categories-->
+{{DEFAULTSORT:Eskinazi, Oscar}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Oscar Eskinazi]]

@@ -1,0 +1,71 @@
+{{DISPLAYTITLE:Rickard Stark {{C|son of Jon}}}}
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Stark.svg
+| Link  = House Stark
+}}
+{{Character
+| Title       = Rickard Stark
+| Type        = Stark
+| Image       = 
+| Birth       = At [[Winterfell]]
+| Death       = 
+| House       = [[House Stark|Stark]]
+| Affiliation = 
+| Titles      = [[King in the North]]
+| Predecessor = {[[Jon Stark]]}
+| Successor   = 
+| AKA         = The Laughing Wolf
+| Culture     = [[Northmen|Northern]]
+| Religion    = [[Old Gods]]
+| Father      = {[[Jon Stark]]}
+| Mother      = 
+| Spouse      = {[[Marsh King]]'s daughter}
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|The last Marsh King died at the hands of King Rickard Stark and House Reed has held the swamps of the Neck ever since.|[[Sansa Stark]]|Northern Allegiances to House Stark}}
+King '''Rickard Stark''' was a [[King in the North|King]] of the [[House Stark|Stark]] dynasty.
+
+==Biography==
+During the [[Thousand Years War]], he fought the [[Marsh King]] and killed him, taking his daughter as his wife. He gave the dominion of the the [[Neck]] to his bannermen, [[House Reed]].{{Ref|H&L609}}
+
+==In the books==
+King Rickard, who was sometimes called the Laughing Wolf for his good nature, took the Neck away from the Marsh King and took his daughter as his wife.
+
+==Appearances==
+*{{H&L|Northern Allegiances to House Stark}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Rickard Stark (king)}}
+
+<!--Navboxes-->
+{{House Stark}}
+{{Kings of Westeros}}
+
+<!--Categories-->
+{{DEFAULTSORT:Stark, Rickard}}
+[[Category:Individuals from Histories & Lore]]
+[[Category:Kings in the North|Rickard Stark]]
+[[Category:Members of House Stark|Rickard Stark]]
+[[Category:Northmen]]
+
+<!--Languages-->
+[[de:Rickard Stark (König)]]
+[[es:Rickard Stark, hijo de Jon]]
+[[fr:Rickard Stark (Roi)]]
+[[it:Rickard Stark (re)]]
+[[nl:Rickard Stark (koning)]]
+[[ru:Рикард Старк (король)]]
+[[zh:瑞卡德·史塔克(国王)]]

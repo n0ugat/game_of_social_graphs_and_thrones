@@ -1,0 +1,32 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Ryan Green.jpg
+| Birth   = 
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = 3 episodes {{Below|Credits}}
+| First   = "[[Second of His Name]]"
+| Last    = 
+}}
+'''Ryan Green''' is a stuntman and actor.
+
+In ''[[House of the Dragon]]'', he was a stunt performer in the [[House of the Dragon: Season 1|first season]] episodes "[[Second of His Name]]", "[[The Lord of the Tides]]" and "[[The Green Council]]".
+
+==Credits==
+===Stunts===
+{{House of the Dragon: Season 1|||yes|||||yes|yes}}
+
+==See also==
+**{{IMDb
+|# = 3631657}}
+*{{YouTube
+|# = channel/UCAuPfItwfxexI0tAvhFkCpw}}
+*{{Vimeo
+|# = user34338005}}
+*{{Linkedin
+|# = /in/ryan-green-0491b764}}
+{{DEFAULTSORT:Green, Ryan}}
+[[Category:Stunt performers of House of the Dragon]]

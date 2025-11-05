@@ -1,0 +1,23 @@
+{{Crew
+|Image = Rory Mulroe.jpg
+|dateofbirth = 
+|birthplace = 
+|job = Stunt Performer
+|imdb = https://www.imdb.com/name/nm3727611/
+|twitter = }}
+'''Rory T. Mulroe''' is a stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 2|second season]] episode "[[Blackwater]]" and the [[Game of Thrones: Season 3|third season]] episodes "[[The Rains of Castamere (episode)|The Rains of Castamere]]" and "[[Mhysa]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 2|||||||||yes}}
+{{Game of Thrones: Season 3|||||||||yes|yes}}
+
+==See also==
+*{{IMDb
+|# = 3727611}}
+*{{Facebook
+|# = rorymulroe}}
+{{DEFAULTSORT:Mulroe, Rory}}
+[[Category:Stunt performers of Game of Thrones]]

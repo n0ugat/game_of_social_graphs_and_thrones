@@ -1,0 +1,41 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Peter-Vaughan-200.jpg
+| Birth   = Peter Ewart Ohm<br>April 4, 1923<br>Wem, Shropshire, England
+| Death   = December 6, 2016 (aged 93)<br>Surrey, England
+| Role    = [[Aemon]]
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 1|1]] {{*}} [[Game of Thrones: Season 3|3]] {{*}} [[Game of Thrones: Season 4|4]] {{*}} [[Game of Thrones: Season 5|5]]
+| Credits = 11 episodes {{Below|Credits}}
+| First   = "[[Lord Snow]]"
+| Last    = "[[The Gift]]"
+}}
+'''Peter Vaughan''' (born '''Peter Ewart Ohm'''; 4 April 1923 – 6 December 2016) was a British actor. He has appeared many times on screen and on stage since the 1950s, including a leading role alongside Frank Sinatra in ''The Naked Runner''. He appeared in many British television series of the 1960s and 1970s, including ''[[wikipedia:Porridge (TV series)|Porridge]]'', ''[[wikipedia:Randall and Hopkirk (Deceased)|Randall and Hopkirk (Deceased)]]'' and ''[[wikipedia:Citizen Smith|Citizen Smith]]''. He also played the role of [[wikipedia:Denethor|Denethor]] in the acclaimed 1981 BBC radio dramatization of ''[[wikipedia:The Lord of the Rings|The Lord of the Rings]]''. More recent roles included a recurring stint on ''[[wikipedia:Lark Rise to Candleford (TV series)|Lark Rise to Candleford]]''.
+
+In ''[[Game of Thrones]]'' Vaughan played [[Order of Maesters|Maester]] [[Aemon]]. He was confirmed in the role on 16 July 2010.
+
+Vaughan was partially blind and portrayed the blind character, Aemon, in the show.
+
+Peter Vaughan passed away on 6 December 2016 due to natural causes at the age of 93 - less than two years after his filming for ''Game of Thrones'' ended, when his character died within the story from old age.<ref>[http://watchersonthewall.com/peter-vaughan-known-many-game-thrones-maester-aemon-passed-away/#more-83590 ]</ref>
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 1|||yes||||yes||yes}}
+{{Game of Thrones: Season 3||||||||||yes}}
+{{Game of Thrones: Season 4|yes||yes||||||yes|yes}}
+{{Game of Thrones: Season 5||yes|||yes||yes}}
+
+==See also==
+* {{WP}}
+*{{Template:IMDb
+|# = 0891092}}
+
+==References==
+{{reflist}}
+[[de:Peter Vaughan]]
+[[ru:Питер Вон]]
+[[fr:Peter Vaughan]]
+[[pl:Peter Vaughan]]
+{{DEFAULTSORT:Vaughan, Peter}}
+[[Category:Guest starring cast members of Game of Thrones]]

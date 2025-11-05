@@ -1,0 +1,55 @@
+{{DISPLAYTITLE:Septon {{C|Valar Morghulis}}}}
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Faith of the Seven.svg
+| Link  = Faith of the Seven
+}}
+{{Character
+| Title       = Septon
+| Type        = Faith
+| Image       = Septon 2x10.png
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[Faith of the Seven]]
+| Titles      = [[Septon]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Westeros|Westerosi]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 2|2]]
+| Appearances = "[[Valar Morghulis]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Terry Byrne]]
+}}
+{{Quote|I hereby seal these two souls, binding them as one for eternity.|The Septon performing [[Robb Stark|Robb]] and [[Talisa Stark|Talisa]]'s wedding|Valar Morghulis}}
+An unidentified '''Septon '''is the performer of [[Robb Stark|Robb]] and [[Talisa Stark]]'s wedding.
+
+==Biography==
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+The septon carries out the wedding between King Robb Stark and Lady Talisa Maegyr during the night.{{Ref|GOT210}}
+
+==Appearances==
+*{{GOT|Valar Morghulis}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Septons]]
+[[Category:Westermen]]
+
+<!--Languages-->
+[[pt-br:Septão (Valar Morghulis)]]
+[[ru:Септон (Валар Моргулис)]]

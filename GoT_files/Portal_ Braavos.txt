@@ -1,0 +1,19 @@
+{|style="width:100%; margin:0; background:#1e5467; font-size:120%; font-weight:bold; border:4px groove #C0C0C0; text-align:center; color:#C0C0C0; padding:0.2em 0.4em;"
+|colspan="5" style="text-align:center;" |Braavos
+|- align="center"
+|{{PortalIcon|image=Titan of Braavos.jpg|articlename=Braavos|name=Braavos}}
+|{{PortalIcon|image=Braavos Histories and Lore.png|articlename=Titan of Braavos|name=The Titan of Braavos}}
+|- align="center"
+|{{PortalIcon|image=Iron Bank of Braavos.png|articlename=Iron Bank of Braavos|name=The Iron Bank of Braavos}}
+|{{PortalIcon|image=Braavosi coin inside the episode.jpg|articlename=Money|name=Money}}
+|- align="center"
+|{{PortalIcon|image=Facelessmen-Portal.png|articlename=Faceless Men|name=The Faceless Men}}
+|{{PortalIcon|image=H&L512.png|articlename=Many-Faced God|name=The Many-Faced God}}
+|- align="center"
+|{{PortalIcon|image=Tycho Nestoris-406.jpg|articlename=Tycho Nestoris|name=Tycho Nestoris}}
+|{{PortalIcon|image=Jaqen H'ghar 2x8 1.png|articlename=Jaqen H'ghar|name=Jaqen H'ghar}}
+|- align="center"
+|{{PortalIcon|image=Syrio's last stand.jpg|articlename=Water dance|name=The water dance}}
+|{{PortalIcon|image=Moonsingers' Braavosi temple.png|articlename=Moonsingers|name=The Moonsingers}}
+|}
+[[Category:Portals]]

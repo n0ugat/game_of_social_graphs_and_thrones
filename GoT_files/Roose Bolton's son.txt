@@ -1,0 +1,87 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Heraldry
+| Image = House Bolton.svg
+| Link  = House Bolton
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Bolton
+| Image       = Famtree-BoltonNewborn.png
+| Birth       = [[303 AC]]{{Dateref|Game of Thrones: Season 6}}<br>[[Winterfell]], the [[North]]{{Ref|GOT602}}
+| Death       = [[303 AC]]{{Dateref|Game of Thrones: Season 6}} (aged 0)<br>Winterfell, the North{{Ref|GOT602}}
+| House       = [[House Bolton|Bolton]]
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Northmen|Northern]]
+| Religion    = 
+| Father      = {[[Roose Bolton]]}
+| Mother      = {[[Walda Bolton|Walda Frey]]}
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = {[[Ramsay Bolton]]} {{C|paternal half-brother}}
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 6|6]]
+| Appearances = "[[Home]]"
+| First       = 
+| Last        = 
+| DeathEp     = "Home"
+| Actor       = Unidentified
+}}
+{{Dialogue a-b|Walda Bolton|Please, Ramsay ... he's your brother!|Ramsay Bolton|I prefer being an only child.|[[Walda Bolton]] unsuccessfully attempts to plead for the life of her son.|Home}}
+'''Roose Bolton's son''' was killed alongside his mother, [[Walda Bolton]], shortly after his birth by his paternal half-brother, [[Ramsay Bolton]].
+
+==Biography==
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+During a family dinner attended by Ramsay's betrothed, Lady [[Sansa Stark]], Roose becomes increasingly irritated by his son's behavior. He has Walda announce the news that she is pregnant, and that from the way she is carrying, [[Order of Maesters|Maester]] [[Wolkan]] expects it is a boy. Ramsay is visibly distressed by the news, and expresses his distress after dinner. Though Roose dismisses his concern about his position, he subtly warns Ramsay that he better behave himself if he wants to keep it.{{Ref|GOT505}}
+
+Ramsay later tells Sansa that he will one day be Lord of Winterfell and Warden of the North, but Sansa retorts that if Walda gives birth to a boy he will overtake Ramsay as Roose's heir, as a trueborn will have a stronger claim than a legitimized bastard.{{Ref|GOT507}}
+
+===[[Game of Thrones: Season 6|''Game of Thrones'': Season 6]]===
+Following the [[battle in the ice]], Sansa escapes from the castle with the aid of [[Theon Greyjoy|Theon]], whom Ramsay had previously captured and tortured into accepting a new identity as "Reek". Despite their victory over [[Stannis Baratheon|Stannis]], Roose is disappointed in Ramsay for allowing Sansa to escape, and states that if he is unable to produce an heir, that responsibility may pass to his son by Walda.{{Ref|GOT601}}
+
+After the squad that Ramsay sends after them is wiped out due to the intervention of [[Brienne of Tarth|Brienne]] and [[Podrick Payne|Pod]], Roose expresses his disappointment once again, and is angered by Ramsay's suggestion that they should attack [[Castle Black]] to retrieve Sansa and kill her half-brother [[Jon Snow]], the [[Lord Commander of the Night's Watch]]. It is then that Maester Wolkan announces Walda has given birth to a healthy baby boy. When Ramsay goes to embrace Roose in congratulations, he suddenly [[Assassinations at Winterfell|stabs]] his father in the chest, killing him, and commands the Maester to bring Lady Walda and the baby to him in the courtyard.{{Ref|GOT602}}
+
+Walda arrives to meet with "Lord Bolton", where Ramsay receives her, taking his newborn brother in his arms momentarily, before handing him back over to his mother. He then guides her into the kennels, where he says Lord Bolton is waiting for her, and locks the gate behind them, before proceeding to open the cages of [[Bastard's girls|his hounds]] one by one. Walda soon realizes what is happening, and demands to see Lord Bolton, at which point Ramsay announces; "I am Lord Bolton". Realizing her husband is dead, Walda begs to be allowed to leave and return to her [[Walder Frey|grandfather]] in the [[Riverlands]], promising she will never return to Winterfell again, and reminds Ramsay that what he is about to do, he's about to do to his own brother. Ramsay replies that he prefers to be an only child, and sets the hounds on Walda and the baby, who tear them apart.{{Ref|GOT602}}
+
+==Family==
+===Paternal===
+{{Bolton tree}}
+
+===Maternal===
+{{Frey tree}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, it is mentioned Walda is pregnant in the last of Theon's POV chapters in the fifth novel, but she has not given birth yet.{{Bookref|ADWD|51}} At the point the books reached, she and Roose are still alive.
+
+After Roose tells Reek about his trueborn son Domeric's death, he comments that Ramsay will probably also attempt to kill any trueborn children that Walda gives birth to (he also wrote that earlier to [[Edmure Tully|Edmure]]).{{Bookref|ACOK|55}}{{Bookref|ADWD|32}} Roose also explains to Reek a major reason that he won't kill Ramsay to prevent this: he is hesitant to place the fate of his entire House on a child lord. Roose is no longer a young man, and there is a good chance that Walda's baby will only grow to adulthood after he dies. He observes that noble Houses have often been destroyed by their enemies when underaged children rule (for example, young [[Tommen Baratheon|Tommen]]'s reign is currently falling apart). Either way, House Bolton's recently acquired rule over the North is tenuous enough that, in Roose's estimation, this period of weak rule would guarantee a revolt against them by the Northern vassal houses, all of whom lost family at the Red Wedding due to the Boltons' betrayal. Thus Roose hopes that Ramsay will shape up to be a more capable ruler but as his bastard son's impulsive behavior continues, Roose begins to worry that he will never be fit to lead House Bolton after him.
+
+==Appearances==
+*{{GOT|Kill the Boy}} {{Mentioned}}
+*{{GOT|The Gift}} {{Mentioned}}
+*{{GOT|The Red Woman}} {{Mentioned}}
+*{{GOT|Home}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{House Bolton}}
+
+<!--Categories-->
+{{DEFAULTSORT:Bolton's son, Roose}}
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Members of House Bolton|Roose Bolton's son]]
+[[Category:Northmen]]
+
+<!--Languages-->
+[[de:Unbenannter Bolton (Sohn von Roose)]]
+[[fr:Nouveau-né Bolton]]
+[[ro:Bolton (fiul lui Roose)]]

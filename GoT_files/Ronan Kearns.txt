@@ -1,0 +1,29 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Kingdoms
+| Image   = Ronan Kearns.jpg
+| Birth   = February 8, 1986 {{Age|1986|2|8}}<br>Dublin, Ireland
+| Death   = 
+| Role    = Stunt rigger
+| Series  = ''[[A Knight of the Seven Kingdoms]]''
+| Season  = [[A Knight of the Seven Kingdoms: Season 1|1]]
+| Credits = [[A Knight of the Seven Kingdoms: Season 1, Episode 1|Season 1, Episode 1]]
+| First   = 
+| Last    = 
+}}
+'''Ronan Kearns''' (born February 8, 1986) is an Irish stuntman.
+
+In ''[[A Knight of the Seven Kingdoms]]'', he was a stunt rigger in an upcoming episode.
+
+==Credits==
+{{A Knight of the Seven Kingdoms: Season 1|yes}}
+
+==External links==
+*{{Facebook|# = ronan.kearns}}
+*{{IMDb|# = 8128492}}
+*{{Instagram|# = ronankearns86}}
+*{{Vimeo|# = user51445171}}
+
+<!--Categories-->
+{{DEFAULTSORT:Kearns, Ronan}}
+[[Category:Stunt performers of A Knight of the Seven Kingdoms]]

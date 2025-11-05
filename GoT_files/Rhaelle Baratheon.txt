@@ -1,0 +1,77 @@
+{{Canonicity|Non}}
+{{Spoiler|AKOTSK}}
+{{Heraldry
+| Leftimage  = House Targaryen.svg
+| Leftlink   = House Targaryen
+| Rightimage = House Baratheon.svg
+| Rightlink  = House Baratheon
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Baratheon
+| Image       = House Baratheon lineage.jpg
+| Birth       = Rhaelle Targaryen{{Ref|GOT106}}
+| Death       = 
+| House       = [[House Targaryen|Targaryen]]{{Ref|GOT106}}<br>[[House Baratheon|Baratheon]]{{Ref|GOT106}} {{C|by marriage}}
+| Affiliation = 
+| Titles      = [[Prince]]ss{{Ref|GOT106}}
+| AKA         = 
+| Culture     = [[Valyrians|Valyrian]]{{Ref|GOT106}}
+| Religion    = 
+| Father      = {[[Egg|Aegon V Targaryen]]}{{Con|AWOIAF}}
+| Mother      = 
+| Spouse      = {[[Lyonel Baratheon]]}{{Note|Ormund Baratheon was not yet introduced in the books when the ''Lineages'' prop book was written, so at the time it said that Rhaelle was married to [[Lyonel Baratheon]]. However, Ormund has since appeared in ''Histories & Lore'' shorts, similarly to [[Rohanne of Tyrosh]] being mentioned in "[[The Blackfyres]]" despite the ''Lineages'' book claiming [[Daemon Blackfyre]] was married to a commoner named "[[Serena Blackfyre|Serena]]."}}
+| Lovers      = 
+| Issue       = {[[Steffon Baratheon]]}{{Notes|Lineages}}
+| Siblings    = 
+| Arms        = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Rhaelle Baratheon''', née '''Targaryen''', was a [[prince]]ss of the [[House Targaryen|Targaryen dynasty]]. She married [[Lyonel Baratheon]] and was the mother of [[Steffon Baratheon]].
+
+==Biography==
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+She is mentioned under [[Lyonel Baratheon]]'s entry in ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]''.{{Ref|GOT106}}
+
+==Behind the scenes==
+Lyonel Baratheon's entry in the prop for ''The Lineages and Histories of the Great Houses of the Seven Kingdoms'' was written during production of the first season of ''Game of Thrones'', which was released in 2011. His heir, Ormund Baratheon, was first introduced in the book series with ''[[The World of Ice & Fire]]'' in 2014. The Season 1 prop establishes Lyonel Baratheon as the husband of Rhaelle Targaryen and father of Steffon Baratheon, but subsequent ''[[Histories & Lore]]'' shorts established Ormund as Steffon's father. With the effective retcon of Steffon's father, it is unclear if Rhaelle Targaryen married Ormund as in the book series (as she is listed in the prop as Steffon's mother) or Lyonel (her husband per the prop).
+
+==In the books==
+In the novels, Rhaelle Targaryen was a daughter of King [[Egg|Aegon V Targaryen]] (her exact relations to the royal family are not made clear in the TV series prop for ''The Lineages and Histories of the Great Houses of the Seven Kingdoms'').
+
+In the TV series continuity, Rhaelle was the wife of Lyonel rather than Ormund. The reasons for this change are unknown; it might be a case of the TV writers just filling in the gaps of knowledge for the prop book or it could be related to the removal of King Jaehaerys II Targaryen from the TV series continuity (who in the books is the son of Aegon V and father of Aerys II; in the series Aegon V is Aerys II's father) and its effects on the Targaryen genealogy and timeline.
+
+==Appearances==
+*{{GOT|A Golden Crown}} {{Text}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|Rhaelle Targaryen}} {{Spoilers|AKOTSK}}
+
+<!--Navboxes-->
+{{House Targaryen}}
+{{House Baratheon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Baratheon, Rhaelle}}
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Ladies]]
+[[Category:Members of House Baratheon|Rhaelle Baratheon]]
+[[Category:Members of House Targaryen|Rhaelle Baratheon]]
+[[Category:Princesses]]
+
+<!--Languages-->
+[[fr:Rhaelle Baratheon]]
+[[ru:Рейль Баратеон]]
+[[uk:Рейел Тарґеріен]]

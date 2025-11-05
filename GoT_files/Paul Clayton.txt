@@ -1,0 +1,37 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Paul Clayton.jpg
+| Birth   = March 8, 1957 {{Age|1957|3|8}}<br>Sheffield, West Riding of Yorkshire, England
+| Death   = 
+| Role    = [[Lord Merryweather]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = "[[The Green Council]]"
+| First   = 
+| Last    = 
+}}
+'''Paul Clayton''' (born 8 March 1957) is an English actor.
+
+In ''[[House of the Dragon]]'', he portrays [[Lord Merryweather]] in "[[The Green Council]]".
+
+==Background==
+Paul Clayton has appeared in ''Doctor Who'' and ''The Crown'', in which fellow ''House of the Dragon'' cast member [[Matt Smith]] played the Eleventh Doctor and Prince Philip respectively.
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1|||||||||yes}}
+
+==See also==
+*{{WP|Paul Clayton (actor)|Paul Clayton}}
+*{{IMDb|#=0165757}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+{{DEFAULTSORT:Clayton, Paul}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Paul Clayton]]

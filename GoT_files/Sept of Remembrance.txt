@@ -1,0 +1,55 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = Faith Militant.svg
+| Link  = Faith of the Seven
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Faith
+| Image        = HL5 Balerion burns Sept of Remembrance 2.png
+| Type         = [[Sept]]
+| Status       = [[Burning of the Sept of Remembrance|Destroyed]]
+| Location     = [[King's Landing]], the [[Crownlands]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = [[Faith Militant]]
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = After the [[First Dornish War]]<br>by {[[Aegon I Targaryen|Aegon the Conqueror]]}
+}}
+{{Quote|[[Maegor Targaryen|Maegor]] mounted the black [[dragon]], [[Balerion]], and burned down the sept in [[King's Landing]] while the [[Faith Militant]] were inside at morning prayers. The screams of the burning and dying men were said to echo throughout the city.|[[High Sparrow]]|The Faith Militant}}
+The '''Sept of Remembrance'''{{Con|TWOI&F}} was formerly the headquarters of the [[Faith Militant]] in the early years of [[King's Landing]], located atop Rhaenys's Hill.
+
+==History==
+[[File:HL5 Balerion burns Sept of Remembrance 3.png|thumb|Gathered for morning prayers, the Faith Militant were all burned inside the sept.]]
+The Sept of Remembrance was the local headquarters of the [[Faith Militant]] in [[King's Landing]].
+
+The order seized control of the capital city at the beginning of the [[Faith Militant uprising]], causing the weak King [[Aenys Targaryen]] to flee the city, after which he soon died from the stress. He was succeeded by his vicious younger half-brother, [[Maegor Targaryen|Maegor the Cruel]], who returned to King's Landing and promptly [[Burning of the Sept of Remembrance|burned down the sept]] using the [[dragon]] [[Balerion]], while all of the local Faith Militant members were gathered inside for morning prayers.<ref>"[[The Faith Militant]]"</ref>
+
+The sept was never rebuilt. Instead, Maegor ordered the construction of the [[Dragonpit]] over its ruins.
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the "Sept of Remembrance" was so-named in honor of Aenys's mother [[Rhaenys Targaryen (sister of Aegon I)|Rhaenys Targaryen]], who had died thirty years before in the [[First Dornish War]] - as opposed to Maegor's still-living mother [[Visenya Targaryen|Visenya]], who always resented that Rhaenys's son Aenys was put ahead of her son in line of succession. Maegor's destruction of the sept was thus also something of a slight against the rival branch of House Targaryen (though Aenys was dead, Maegor usurped the throne ahead of Aenys's ''five'' children three sons and two daughters). A few years later, as if to hammer home his dominance over the Faith Militant, instead of having the sept rebuilt Maegor ordered that a massive "stable for dragons" should be built over its ruins: the [[Dragonpit]].
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Crownlands}}
+{{Faith of the Seven}}
+
+<!--Categories-->
+[[Category:King's Landing]]
+[[Category:Septs|Remembrance]]
+
+<!--Languages-->
+[[pt-br:Septo da Memória]]
+[[ru:Септа Поминовения]]

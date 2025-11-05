@@ -1,0 +1,448 @@
+{{Canonicity|Canon}}
+{{SameName|firstborn son of Randyll Tarly|head of House Tarly|Samwell Tarly (lord)}}
+{{Heraldry
+| Leftimage  = House Tarly.svg
+| Leftlink   = House Tarly
+| Image2     = Night's Watch.svg
+| Link2      = Night's Watch
+| Rightimage = Order of Maesters.svg
+| Rightlink  = Order of Maesters
+}}
+{{Character
+| Title       = Samwell
+| Type        = Citadel
+| Image       = Maester Sam.png
+| Birth       = Samwell Tarly{{Ref|GOT104}}<br>[[280 AC]]{{Dateref|Samwell Tarly}} (age 25){{Dateref|Game of Thrones: Season 8}}<br>[[Horn Hill]], the [[Reach]]{{Con|AWOIAF}}
+| Death       = 
+| House       = [[House Tarly|Tarly]]{{Ref|GOT104}}
+| Affiliation = [[Night's Watch]]{{Ref|GOT104}} {{C|formerly}}<br>[[Order of Maesters]]{{Ref|GOT806}}<br>[[Small Council]]{{Ref|GOT806}}
+| Titles      = [[Grand Maester]]{{Ref|GOT806}}
+| AKA         = Sam{{Ref|GOT104}}<br>Ser Piggy{{Cite}}<br>Prince Pork-chop{{Cite}}<br>Lady Piggy{{Ref|GOT104}}<br>Sam the Slayer{{Ref|GOT403}}
+| Culture     = [[Dornish Marches|Marcher]]
+| Religion    = [[Faith of the Seven]]{{Ref|GOT107}} {{C|raised}}<br>[[Old Gods]]{{Ref|GOT107}} {{C|convert}}
+| Father      = {[[Randyll Tarly]]}{{Ref|GOT104}}
+| Mother      = [[Melessa Tarly|Melessa Florent]]{{Ref|GOT104}}
+| Spouse      = 
+| Lovers      = [[Gilly]]{{Ref|GOT507}}
+| Issue       = [[Sam]]{{Ref|GOT606}} {{C|adoptive}}
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 1|1]] {{*}} [[Game of Thrones: Season 2|2]] {{*}} [[Game of Thrones: Season 3|3]] {{*}} [[Game of Thrones: Season 4|4]] {{*}} [[Game of Thrones: Season 5|5]] {{*}} [[Game of Thrones: Season 6|6]] {{*}} [[Game of Thrones: Season 7|7]] {{*}} [[Game of Thrones: Season 8|8]]
+| Appearances = 48 episodes {{Below|Appearances}}
+| First       = "[[Cripples, Bastards, and Broken Things]]"
+| Last        = "[[The Iron Throne]]"
+| DeathEp     = 
+| Actor       = [[John Bradley]]
+}}
+{{Quote|I saw it with my own eyes on our way down to Castle Black. He drove a dagger into the walker’s heart. He risked his own life to save mine more than once. He's a greater warrior than either of you will ever be.|[[Gilly]] to [[Randyll Tarly|Randyll]] and [[Dickon Tarly]]|Blood of My Blood}}
+'''Samwell''', born '''Samwell Tarly''', and often called '''Sam''', is [[Jon Snow]]'s closest friend, the eldest son of Lord [[Randyll Tarly]] and Lady [[Melessa Tarly]] of [[Horn Hill]], and the older brother of [[Dickon Tarly|Dickon]] and [[Talla Tarly]]. Eventually he becomes the new [[Grand Maester]].
+
+==Biography==
+===Background===
+Samwell Tarly is the oldest son and former heir of Lord [[Randyll Tarly]], the head of [[House Tarly]]. House Tarly is one of the most powerful noble families in the [[Reach]], and sworn to [[House Tyrell]]. By rights, Samwell would have grown up to be one of the top ranking lords of the [[Seven Kingdoms]].{{Ref|GOT104}}
+
+[[File:Horn Hill.png|thumb|left|Sam in his youth (seated left), out of place among soldiers.]]
+Randyll, one of the most skilled military commanders in Westeros, hoped for a son who would carry on his legacy and lead House Tarly into battle. Much to his dismay, his firstborn turned out to be an overweight scholarly-minded boy with no thirst for violence. Randyll, ashamed of his son, forced Sam to take the black under threat of death in order to disinherit him (though it is unknown if Randyll would really have done this). Sam departed for the Wall, leaving his younger brother [[Dickon Tarly|Dickon]] as heir to House Tarly.<ref name="Samwell Tarly viewers guide">[http://viewers-guide.hbo.com/game-of-thrones/season2/#!/guide/houses/nightswatch/samwell-tarly/ HBO viewers guide, season 2 guide to houses, Night's Watch - Samwell Tarly entry]</ref>
+
+Sam was a virgin when he left for the Wall, and is a bit despondent about the restriction that his vows forbid him from ever taking a wife in the future.{{Ref|GOT104}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+[[File:Jon, Sam and Pyp.jpg|thumb|right|Sam trains with Jon Snow, Grenn, and Pyp at Castle Black.]]
+Samwell Tarly arrives at [[Castle Black]]. Ser [[Alliser Thorne]] identifies him as a soft, pampered lordling and has the other recruits attack him harshly, mockingly calling him "Lady Piggy". To Alliser's annoyance, [[Jon Snow]] defends Sam. Sam is assigned watches with Jon. He tells Jon that he is craven and that his father forced him to come to the [[Wall]] or face a 'hunting accident' that would result in his death. Jon convinces the other recruits to go easy on Sam, even using [[Ghost]] to intimidate [[Rast]] into doing so. Sam befriends [[Pypar]] and [[Grenn]].{{Ref|GOT104}}
+
+[[File:Samwell.jpg|thumb|left|Samwell is told of the harsh conditions beyond the Wall.]]
+Thorne is furious at Jon's actions and confronts him and Sam. He tells them of the harsh conditions that exist beyond the Wall and claims men are driven to do terrible things to survive out there, especially in winter. He says that by avoiding the harsh discipline of the [[Night's Watch]], they are condemning themselves to death.{{Ref|GOT104}}
+
+[[File:Jon and Sam oaths.jpg|thumb|right|Sam and Jon takes their oaths to the Night's Watch in front of a heart tree.]]
+After the trainees are named men of the Night's Watch and Samwell is assigned to the stewards, specifically to the service of Maester [[Aemon]]. When Jon complains about his appointment as a steward to Lord Commander [[Jeor Mormont]], Sam points out that Mormont could be grooming him for command. Sam, feeling that his [[Faith of the Seven|own gods]] have abandoned him, elects to say his oath to the Watch before a [[heart tree]] like Jon, hoping that the [[Old Gods]] would answer his prayers in a way that the Seven never did. After the ceremony, they are surprised when Ghost arrives, carrying a severed hand in his mouth.{{Ref|GOT107}}
+
+The hand leads them to the bodies of [[Othor|two]] [[Jafer Flowers|rangers]]. They bring the corpses back to Castle Black and Sam notes that there is no smell of rotten flesh on them. The Lord Commander orders the bodies examined, and tells Sam that he may be a coward, but certainly not stupid.{{Ref|GOT108}}
+
+Jon Snow and the Lord Commander are attacked by one of the dead, who has risen as a [[wight]]. Jon dispatches the wight and Sam watches as the two corpses are burned. Sam tells the others that he has read an old book that claimed that reviving the dead can only be achieved by the touch of the [[White Walkers]], who sleep for thousands of years beneath the ice. When the others ask what will happen when they wake up, he only says that he hopes that the Wall is high enough.{{Ref|GOT108}} Sam admires Jon's new sword, [[Longclaw]], given as a gift for defending the Lord Commander.{{Ref|GOT109}} Samwell tries, unsuccessfully, to stop Jon leaving the Wall when he receives news of his father's execution in King's Landing. He then convinces Pyp and Grenn to help him to pursue Jon. He is knocked off his horse by a low hanging branch which draws Jon back to check if he is okay. Sam stands, unharmed, and recites his vows with his friends to convince Jon to return.{{Ref|GOT110}}
+
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+[[File:Sam, Edd and Jon 2x01.jpg|thumb|left|Sam arrives at Craster's Keep.]]
+Sam is part of [[Lord Commander of the Night's Watch|Lord Commander]] [[Jeor Mormont]]'s [[great ranging]] [[beyond the Wall]]. After traveling for months and passing several abandoned [[Free Folk|wildling]] villages they reach [[Craster's Keep]]. [[Craster]] is an unsavory ally of the Watch who marries his daughters and apparently has no sons. Craster tells them that the wildlings are gathering under [[King-Beyond-the-Wall]] [[Mance Rayder]].{{Ref|GOT201}}
+
+[[File:Sam S2.jpg|thumb|right|Samwell encounters Gilly during his errands at Craster's Keep.]]
+Sam calls off Ghost, Jon's direwolf, when he comes near [[Gilly]], one of Craster's wives. Gilly calls Sam brave. Sam takes her to Jon for help rescuing her unborn child from Craster but Jon refuses to disobey their orders to stay away from Craster's wives. Jon later follows Craster into the woods and sees him leaving a newborn boy for the [[White Walkers]]. Craster spots him and incapacitates him.{{Ref|GOT202}} Craster drags Jon back to his keep and demands that the Watch leave. Sam becomes infatuated with Gilly, vowing to return and rescue her.{{Ref|GOT203}}
+
+[[File:Arriving at the fist of the first men.jpg|thumb|left|Sam arrives at the Fist of the First Men.]]
+They march to the [[Fist of the First Men]] and Sam is amazed at the ancient fortification. Sam assumes Jon's responsibilities as steward to the Lord Commander so that Jon can accompany [[Qhorin |Qhorin Halfhand]] scouting the [[Skirling Pass]].{{Ref|GOT205}} The party does not return and are believed dead but Sam refuses to give up hope. He finds a cache of [[Dragonglass]] weapons buried at the Fist while working with Grenn and Edd.{{Ref|GOT208}}
+
+[[File:Sam, Grenn and Edd 2x10.jpeg|thumb|right|Samwell, Grenn and Edd are warned of the White Walkers.]]
+While collecting dung for fuel, the companions hear three horn blasts, signalling White Walkers. In a panic, they rush back to the Fist, but the slower Sam is left behind after tripping in the snow. As an eerie blizzard rolls in, Sam takes shelter behind a rock. He watches as armed wights and White Walkers approach out of the snow. [[White Walker (Valar Morghulis)|A White Walker mounted on a dead horse]] notices Sam, but appears to ignore him, ordering the wights towards the Fist.{{Ref|GOT210}}
+
+===[[Game of Thrones: Season 3|''Game of Thrones'': Season 3]]===
+[[File:Sam trying to fight off the wight.png|thumb|left|Sam tries to fight off a wight.]]
+After the [[fight at the Fist]], Sam is wandering in the blizzard looking for shelter. He suddenly notices another man of the Night's Watch. When he walks toward him, he discovers the man has been decapitated. A [[wight]] then approaches Sam, about to attack him. The [[direwolf]] [[Ghost]] knocks the wight down and rips out its flesh as it drags towards Sam. Finally, the wight is lit on fire by Lord Commander [[Jeor Mormont]] and the last remaining Night's Watch of the [[Fight at the Fist|fight]] appeared. Mormont is angry that Sam didn't send any ravens in the confusion of the attack of the White Walkers. Finally, Mormont announces that they should retreat to the Wall and warn about the White Walkers to the others in Castle Black and the rest of [[Westeros]].{{Ref|GOT301}}
+
+[[File:Grenn and ed help sam up.png|thumb|right|Grenn and Ed help Sam up.]]
+Lord Commander Jeor Mormont of the [[Night's Watch]] leads the few survivors of the slaughter at the [[fight at the Fist]] south in hope of reaching the Wall. Samwell Tarly is exhausted and collapses. [[Rast]] is annoyed that Sam hid during the battle, and thinks they should leave him because he's slowing them down. Sam is upset that [[Grenn]] and [[Eddison Tollett|Edd]] abandoned him at the start of the attack, although they refuse to leave him now. Mormont tells Sam that he has to keep moving, and sternly forbids Sam to die. Mormont orders Rast to keep Sam alive until they reach the Wall on pain of death.{{Ref|GOT302}}
+
+Farther south beyond the Wall, Lord Commander Jeor Mormont leads the ragged survivors of the Night's Watch expedition to [[Craster's Keep]]. [[Craster]] mocks the survivors of the [[Fight at the Fist|fight]] when they reach his Keep. He initially wants to refuse them shelter until he notices some of them stroking their weapons. Fearful that in desperation they might try to rush him, he relents. As the black brothers warm by his hearth, Craster mocks them. Craster insists that the black brothers should be grateful for his generosity, and that he is a "godly man" for helping them. Mormont tensely questions that he is a godly man, but Craster insists that he is - to the "real gods", the [[White Walkers]], who consume entire armies on their way to the Wall but will spare Craster for his loyalty.{{Ref|GOT303}}
+
+[[File:Sam watching gilly giving birth.jpg|thumb|left|Sam witnesses Gilly giving birth.]]
+He admits that he's feeding his pigs better than them - as pigs are valuable to him - and half-seriously suggests to his guests that they should eat the fat Samwell Tarly. He is also annoyed by Gilly's loud wailing from birthing pains. Sam leaves the main house to a birthing hut where he witnesses Gilly giving birth with the aid of a few other women. To her horror, the baby is a boy. Sam and Gilly realize that Craster will want to sacrifice him to the White Walkers.{{Ref|GOT303}}
+
+Samwell Tarly visits Gilly, who is deeply distraught about the impending fate of her newborn son. She is frantic, and yells at Sam not to draw attention to the fact that it's a boy by calling it a "he" so loud, as Craster will want to offer it up as a sacrifice when he finds out it is a son. He asks her if she has decided on a name, but she responds that there's no point in naming her baby if he's only going to be offered up as a human sacrifice. She gives Sam back his mother's thimble and says she doesn't care about such stupid things, all she is focused on is protecting the life of her baby.{{Ref|GOT304}}
+
+[[File:Sam runs away with gilly.jpg|thumb|right|Sam runs away with Gilly and her son.]]
+When the traitors of the Night's Watch [[Mutiny at Craster's Keep|kill]] Craster and Jeor Mormont, Sam rushes to Gilly's hut and orders her that they have to escape now or they never will. Sam runs out of Craster's Keep with Gilly and her baby, as loyal Night's Watch members fall to the mutineers, who also kill and/or rape Craster's other wives. Gilly leads the way into the night because she knows the woods around her home. Covered in Mormont's blood, Rast shouts into the darkness that "Piggy" can run for now, but he'll soon be cutting Sam's throat too.{{Ref|GOT304}}
+
+Sam and Gilly stop to camp during their journey to the Wall, after having fled Craster's Keep. Sam shows Gilly the [[Dragonglass]] dagger he found at the [[Fist of the First Men]] and tells her about Castle Black. Gilly wonders if Sam can sing, the he tells her that he can't sing well. However, he knew one song and starts to sing it for Gilly and her baby.{{Ref|GOT306}}
+
+On their way to Castle Black, they take refuge in a destroyed cabin next to a heart tree. Before they enter, two crows land on a branch on the heart tree, and begin to squawk loudly. Later that night, Sam tries to light a fire. When he is unable to, Gilly does it instead. Meanwhile, Sam suggests that Gilly name her son, but she does not know any boy names, Sam gives her some examples, and also explains the difference between first and last names.{{Ref|GOT308}}
+
+[[File:Gilly2.jpg|thumb|left|Samwell investigates the scourge of crows.]]
+Suddenly, they are interrupted by the loud squawks of the crows. Sam and Gilly go outside to investigate, and see hundreds of crows angrily squawking at them. Gilly is then horrified to see a White Walker approaching them, and knows that it is after [[Sam|her child]]. Sam tries to halt its advance, but the Walker shatters his sword with his bare hand and knocks him aside, and heads for Gilly and her baby (unbeknown to them both, Craster had made an arrangement with the White Walkers that his male offspring would be added to their numbers after being turned by the [[Night King]]).{{Ref|GOT308}}
+
+[[File:White walker dies S3E8.jpg|thumb|right|Sam kills the White Walker.]]
+Sam staggers back to his feet, pulls out his Dragonglass dagger, and attacks the Walker, stabbing it in the back. The Walker howls in pain, as its whole body begins to freeze from the point at which he was stabbed It falls to its knees and shatters, leaving nothing behind but white dust and the dagger. Leaving behind the dagger, Sam takes Gilly's arm, and runs as the crows chase after them.{{Ref|GOT308}}
+
+[[File:SamwellTarly.png|thumb|left|Samwell tells Gilly about the Night's Watch.]]
+Following their encounter with the White Walker, Sam and Gilly continued their journey south to Castle Black. While they were still a considerable distance from their destination, Sam knew that they were approaching [[Nightfort]], the original headquarters of the Night's Watch which was located between Castle Black and Beyond the Wall. Nightfort had been abandoned centuries ago when the Night's Watch's numbers dwindled.{{Ref|GOT309}}
+
+[[File:SamGilly.jpg|thumb|right|Sam and Gilly glimpse the Nightfort.]]
+Sam explained to Gilly that he planned to get them across the Wall using a secret sally-port which would lead right into the Nightfort. Gilly expressed her amazement that Sam knew so much history just from reading books, insisting that he is a wizard much to Sam's delight, since Sam had a childhood dream to be a wizard, giving him a sense of nostalgia. When they finally caught a glimpse of the Wall, which Gilly had never seen before, she is awestruck.{{Ref|GOT309}}
+
+Later, Samwell and Gilly finally arrived at the Nightfort. There, he encountered [[Bran Stark]], Jon's younger half-brother and his companions-[[Hodor]], [[Jojen Reed|Jojen]] and [[Meera Reed]], and his [[direwolf]] [[Summer]]-who were traveling north beyond the Wall to find the [[Brynden Rivers|Three-Eyed Raven]]. Bran and his companions initially mistook him for an intruder but sheltered them after seeing Gilly and her baby. Samwell, noticing the gigantic Hodor and Summer, realizes who Bran is and offered to take them to Castle Black. They decline and Jojen tells Sam that he and Bran were traveling to go beyond the Wall.{{Ref|GOT310}}
+
+[[File:Sam with bran and co.jpg|thumb|left|Sam bids Bran and his companions, giving them dragonglass weaponry for protection against the White Walkers.]]
+Due to his earlier encounters with the White Walkers, Samwell and Gilly were unwilling to return to the north. However, Sam reluctantly gave them the obsidian blades which he had found north of the Wall and which he had used to slay a White Walker. While Samwell and Gilly stayed behind in the castle, Bran and company finally reached the lands beyond the Wall.{{Ref|GOT310}}
+
+[[File:AemonDictatesALetterToSam.png|thumb|right|Sam is ordered by Aemon to inform the lords of Westeros of the conflict beyond the Wall.]]
+After traveling for some distance, Samwell and Gilly finally arrived at [[Castle Black]]. There, they met with Maester [[Aemon]], who is displeased at the prospect that Sam had violated his vows. Sam defended himself by reciting the Night's Watch oath to protect the realms of men whatever side of the Wall they are on and repeating [[Jeor Mormont]]'s assertion that a wall of ice 500 leagues long and 700 feet high was not built to keep out barbarians. Aemon's demeanor softened upon learning that Gilly was one of the late Craster's wives, and acknowledged that she is now a refugee and should be sheltered since the North is no longer safe for humans. Aemon then ordered Sam to begin writing letters immediately and to make sure that all forty-four of Castle Black's ravens are well-fed, as every one of them is to fly that night: the White Walkers have returned, and Westeros must be warned. Having reached safety, an injured Jon is brought inside the castle by the guards, where he encounters Sam and Pyp, who are overjoyed to see him and insist that his injuries be taken care of.{{Ref|GOT310}}
+
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+Sam is present in Castle Black in the weeks following Jon's return. Sam tells Jon that Alliser Thorne and Maester Aemon are ready to judge Jon for his actions. Sam tries to cheer Jon up and tells him he hasn't done anything wrong. Jon counters that he's "done plenty wrong".{{Ref|GOT401}}
+
+[[File:GillyAndSamS4EP03.png|thumb|left|Sam with Gilly in the kitchen.]]
+People mockingly call him "Slayer" after he claimed to kill a White Walker. Sam visits Gilly to ask how she is doing at Castle Black. He complains to her that nobody believes he killed the White Walker. Then, he admits to being paranoid about what his fellow brothers are thinking about her. Sam tells Gilly that he thinks that she would be safer at [[Mole's Town]]. He assures that he is only doing this to protect her. They arrive at Mole's Town and Sam tells the manager that she can cook and clean. He also refuses to let Gilly do "[[Prostitution|other jobs]]". Gilly thinks that Sam is doing it for himself and not thinking of her, which upsets Sam.{{Ref|GOT403}} Sam and Jon are talking in the library and Sam is worried about Gilly now that he realizes the wildlings are attacking villages. Jon tries to assure him she's safer there. They then discuss Bran going beyond the Wall, which Sam told Jon. They try to work out where he is before they are interrupted by [[Locke]].{{Ref|GOT404}}
+
+When Jon and his fellow black brothers return from the [[Raid on Craster's Keep]], Sam is one of the first to greet him. He is also present when Jon tries to convince Alliser Thorne that they should seal the tunnel due to the threat of Mance Rayder and his wildling army.{{Ref|GOT407}}
+
+[[File:Sam crying because of gilly.png|thumb|right|Sam cries over the possibility of Gilly's death.]]
+The news of the wildling [[Sack of Mole's Town|attack]] on Mole's Town reaches Castle Black. Sam is horrified by the news, believing he sent Gilly and her baby to their deaths. Eddison Tollett argues that Gilly managed to survive Craster, the long march back to the Wall, and even a White Walker. This gives Sam hope that Gilly may have survived.{{Ref|GOT408}}
+
+Atop the Wall, Jon and Sam are staring out into the darkness of the north and awaiting the imminent wildling invasion. Sam attempts to interrogate Jon about what it was like to be with a woman, stating that as their deaths are likely imminent, it may be his last chance to find out. Sam brings up that the vows of the Night's Watch only explicitly forbid members from taking wives or producing children, and that other "activities" are open to interpretation. Jon replies glumly that [[Alliser Thorne]] most likely does not care about their interpretations. When further pressed by Sam to describe lying down with Ygritte, Jon attempts to explain but is unable to properly express it, proclaiming exasperatedly that he's "not a bleeding poet." Jon offers to take the watch up alone so Sam can go below.{{Ref|GOT409}}
+
+[[File:Aemon in library.png|thumb|left|Aemon and Samwell discuss love]]
+Meanwhile, Sam is caught reading a book about wildlings by [[Order of Maesters|Maester]] [[Aemon]]. Aemon correctly guesses that Sam is reading the book because he wants to know what kind of fate might have befallen Gilly if she fell into wildling hands during the sack of [[Mole's Town]]. He also surmises that Sam has shown such a keen interest in her fate because he is in love with her, despite Sam's protests to the contrary. Aemon muses about the girl he once loved, stating that he can still picture her as clear as day and that she is more real than Sam is.{{Ref|GOT409}}
+
+After being dismissed by Aemon, Sam leaves the maester's chambers only to hear Gilly at the gate begging to be allowed inside, revealing her survival of the Mole's Town massacre and her identity as the cloaked figure approaching Castle Black. Pypar attempts to deny her passage into the castle, saying he is not allowed to open the gate at any circumstances. However, Sam roars at Pyp to allow her in, causing Pyp to relent and let her in. Sam promises Gilly wherever she goes next he will go too, but their reunion is cut short by two blows from the horn, indicating that Mance's wildling army has finally begun their assault on Castle Black. Sam rushes to get Gilly safely inside the castle while other brothers of the Night's Watch prepares for the imminent attack by the wildlings.{{Ref|GOT409}}
+
+[[File:Gilly and sam kiss.jpg|thumb|right|Sam and Gilly share a tender kiss before the battle for the wall.]]
+Sam brings Gilly​ and her baby to a storage room where she can hide. Gilly wants Sam to stay with her as he promised, but he cannot as he sworn to defend the Wall as a brother of the Night's Watch. Before he leaves her, Gilly begs Sam to promise her that he won't die and the two finally share a kiss. As Sam and Pypar are preparing arrows at the southern gate, Pypar laments that he never seen a real battle before or ever even held an edged blade. Pypar asks how Sam is not afraid, but Sam replies that he is, as there are thousands of wildlings about to overrun them. Pypar asks how he managed to kill a White Walker while being afraid, and Sam says that at that moment, he just had to do something or Gilly would have been killed and her baby would have been taken. Sam further explains that at that moment, he wasn't himself; he was nothing, and when you are nothing there is nothing to be afraid of. Before walking away, he looks at Pypar and says, "I'm not nothing anymore." When the [[battle for the Wall]] begins, Sam and Pyp take part in defending Castle Black's southern gate. Pyp is firing a crossbow as Sam assists by reloading another crossbow, but Pyp's aim is poor due to inexperience and nerves and he repeatedly misses his shots.{{Ref|GOT409}}
+
+[[File:S04E09 - Pypar's death.png|thumb|left|Pyp dies in Sam's arms.]]
+The band of wildlings manage to reach Castle Black's walls and begin scaling them using grappling hooks and ropes, forcing Sam and Pyp to retreat. Later, Pyp is fatally shot by [[Ygritte]] and Sam comforts him as he dies. Sam is forced to leave Pyp's body and as he heads to Castle Black's lift system, but he is spotted by the [[Thenn warg]].{{Ref|GOT409}}
+
+[[File:Sam kills thenn warg.png|thumb|right|Sam kills the Thenn warg.]]
+The warg charges at Sam as he desperately attempts to load his crossbow, managing to do so and firing a bolt into the warg's head just before he reaches him. Sam then arrives atop the Wall to ask Jon for more men to defend the castle, and Jon tasks Sam with releasing [[Ghost]] from his pen to assist in the fighting. Once the battle was over, Sam returns to Gilly just like he promised and discovers [[Janos Slynt]], who hid in fear during the entire battle.{{Ref|GOT409}}
+
+The following morning, Jon discusses with Sam that he has a suicidal solution to end the wildling threat; he plans to assassinate Mance Rayder, noting that he is the only thing binding the disparate wildling clans that make up the army, and his death will rob them of that purpose and leadership. Sam tries to talk sense into Jon, but to no avail. As Jon prepares to leave via Castle Black's tunnel, they discover the bodies of the black brothers who held the inner gate against the giant. Grenn is amongst the casualties and Jon tells Sam that all bodies must be burned. Before Jon leaves, he remembers the promise he made to Jeor Mormont and decides to leave Longclaw with Sam. Sam tells Jon to come back, and Jon looks and Sam and smiles unreassuringly before stepping out into the wilderness on the other side of the gate.{{Ref|GOT409}}
+
+After the arrival of [[Stannis Baratheon]], Sam is present when the Night's Watch burn the bodies of those who were slain during the battle.{{Ref|GOT410}}
+
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+At [[Castle Black]], Sam attempts to comfort [[Gilly]] since she is worried of being sent away by Ser [[Alliser Thorne]], which would most likely happen if Alliser is elected as the new [[Lord Commander of the Night's Watch|Lord Commander]]. Sam reaffirms his promise that where ever Gilly and her baby go, he will go too in order to protect her. Later, Sam is present when [[Mance Rayder]] is executed by [[Stannis Baratheon]] for refusing to bend the knee, and comforts Gilly, who cries in his shoulder.{{Ref|GOT501}}
+
+Sam is reading a book on previous Lord Commanders while Princess [[Shireen Baratheon]], his second cousin, teaches Gilly how to read. He also learns how the young princess survived [[Greyscale]] and that Gilly also had sisters who perished from the disease. At the choosing for the 998th Lord Commander of the Night's Watch, Jon reveals Stannis's offer of legitimization to Sam. Jon states that it was always his dream to be [[Lord of Winterfell]], but he reveals that he will decline the king's offer, much to Sam's surprise. When Maester [[Aemon]] asks if there are any more candidates wishing to run against Ser Alliser Thorne and Ser Denys Mallister, Sam puts Jon's name forward as a candidate. Janos Slynt mocks Sam by calling him "Slayer" and pointing out his love for Gilly being similar to Jon's love for Ygritte, and Sam retaliates by publicly mocking Slynt for hiding in the pantry with Gilly and her baby during the wildling attack.{{Ref|GOT502}}
+
+[[File:LCJonSnow.png|thumb|left|Sam applauds Jon's election as Lord Commander.]]
+Sam reminds all of the black brothers present that Jon was [[Jeor Mormont]]'s personal steward, that he led the force to [[Raid on Craster's Keep|deal with the mutineers]] at Craster's Keep, and took command of Castle Black's garrison during the wildling attack when Thorne was wounded. Sam's speech ultimately results in Jon being chosen as the new Lord Commander of the Night's Watch.{{Ref|GOT502}}
+
+At a meeting of the Night's Watch, Jon questions Sam about Maester Aemon's absence. He reports that Aemon apologizes for his absence because he is not feeling well. Jon tells Sam to take good care of the old maester. Sam later witnesses Jon personally behead [[Janos Slynt]] for refusing to obey orders.{{Ref|GOT503}}
+
+Sam drafts numerous letters for Jon to sign in order to request the Northern houses to send more men to man the Wall. Jon signs all of them until Sam gives him a letter meant for [[Roose Bolton]], the new [[Warden of the North]]. Jon is against asking for help from the man who [[Red Wedding|murdered]] his half-brother, but Sam convinces him that they need all the help that they can get. Sam departs when [[Melisandre]] enters the room to speak with Jon.{{Ref|GOT504}}
+
+[[File:Aemon Samwell Kill the Boy.jpg|thumb|right|Aemon explains his sympathy for Daenerys to Sam.]]
+At the library, Sam reads a note from [[Slaver's Bay]] to Maester Aemon updating him on [[Daenerys Targaryen|Daenerys]]'s situation. Sam praises the courage of Daenerys but Maester Aemon worries about her safety because she is all alone, under siege, and with hardly anyone to guide her, while he, as her only living relative, is useless and dying thousands of miles away. Then, Jon enters and asks to speak with Aemon in private, so Sam leaves them. Later, Sam tells Gilly about his wish to go to Citadel and become a Maester before he was sent to the Night’s Watch, when Stannis Baratheon walks in. Stannis reminisces about how Sam’s father, Randyll Tarly, defeated [[Robert Baratheon]] in the [[Battle of Ashford]]. Stannis wants to know how Sam killed the White Walker and Sam tells him how he did it with a dagger made of dragonglass. Stannis muses that it is abundantly available on [[Dragonstone (island)|Dragonstone]]. Sam has been researching dragonglass and how it can kill White Walkers, but has yet to come up with anything. Stannis tells him to continue his research and leaves him to investigate the further weaknesses of the Army of the Dead.{{Ref|GOT505}}
+
+[[File:Ghost 5x07.png|thumb|left|Ghost protects Sam from Gilly's attempted rapers.]]
+Later, after Jon has left for [[Hardhome]], Sam and Gilly visit Maester [[Aemon]], who has fallen ill and grown delirious. Aemon imagines Little Sam as Egg, his long-dead brother. Aemon's condition steadily deteriorates as the day goes on, and he dies in the night. Sam eulogizes him before lighting his funeral pyre, declaring for all to hear that he was the blood of the dragon. Ser Alliser whispers that Sam's friends are abandoning him one by one. Afterward, Gilly is attacked in the dining hall by two brothers, but Sam and Jon's direwolf, Ghost, come to her rescue. Sam is badly beaten, and Gilly takes care of him before the two have sex for the first time.{{Ref|GOT507}}
+
+Gilly continues to tend Sam's wounds. Olly enters with some food, having heard what happened. Once Gilly leaves, Olly expresses concern at joining forces with the wildlings, particularly Tormund, who led the raid in which his parents were killed. Sam reassures Olly that Jon knows what he is doing, and that unless he is successful, neither the Night's Watch nor Westeros stands a chance against the White Walkers. Sam explains this is a hard choice Jon had to make, however unpopular, and then tells him not to worry, as Jon always comes back. Olly appears unconvinced.{{Ref|GOT508}}
+
+[[File:Jon and Samwell The Dance of Dragons.jpg|thumb|right|Jon confides in Sam about Hardhome.]]
+Samwell reunites with Jon, who is despondent, saying that the mission was a [[Massacre at Hardhome|disaster]] and they only managed to save a small fraction of the wildlings at Hardhome, where the [[Night King]], the leader of the White Walkers has revealed himself to the participants of the battle, and tens of thousands of wildlings have been raided as wights. Sam points to different wildlings passing by and notes that each of them would have died if he had done nothing at all, so it wasn't a complete failure.{{Ref|GOT509}}
+
+[[File:Mother’s Mercy 04.jpg|thumb|left|Sam asks Jon to be sent to Oldtown to become a Maester.]]
+A few nights later, Jon tells of what he saw at Hardhome to Sam. Sam asks Jon if he can travel to [[Oldtown]] to study and replace Aemon as the new Maester of the Watch. He feels there is no other way he can help them as he cannot fight, he is also afraid for Gilly and her child's safety, and wishes to take them along. Jon reminds him that the [[Citadel]] will also not allow Sam to be with women, but is humored to hear that it is already too late for that. Sam promises he will return, they toast to that and Jon sees his only friend off.{{Ref|GOT510}}
+
+===[[Game of Thrones: Season 6|''Game of Thrones'': Season 6]]===
+On the voyage to Oldtown, Gilly tells a seasick Sam that she'll be happy to see the city, having learned much about it from the ship's captain. Instead, Sam doesn't want Gilly and Little Sam to be alone in the city while he trains as a maester and plans to take them to his family at [[Horn Hill]], as the Citadel also doesn't allow women and there won't be anyone there to make an exception. Gilly protests against this, but Sam assures her that it is for her protection.{{Ref|GOT603}}
+
+[[File:SamArrival.jpg|thumb|right|Sam returns to Horn Hill for the first time in years.]]
+After landing in Oldtown, Samwell, Gilly, and Little Sam are transported to Horn Hill by station coach. Knowing his father's hatred for Wildlings, Sam tells Gilly that he had told his father's retainers that Gilly is a Northern woman he had bedded in [[Mole's Town]] and that Little Sam is their son. Upon arriving at Horn Hill, Sam is greeted by his mother [[Melessa Tarly|Melessa]] and sister [[Talla Tarly]], who are delighted to see Sam and his "family." Sam quickly learns that his father Randyll and brother [[Dickon Tarly]] are out hunting. Talla dresses Gilly in an ornate dress in traditional Reach fashion, astounding Sam with her beauty.{{Ref|GOT606}}
+
+[[File:Blood of my blood House Tarly dinner.jpg|thumb|left|Sam is embarrassed during a family reunion. ]]
+Later that evening, Sam and Gilly joined the other Tarlys for dinner. Sam reveals his plans to train as a [[Order of Maesters|maester]] at the Citadel and promises that he will return to the Wall as soon as he has finished his studies. When Dickon asks him about hunting Beyond the Wall, Sam responds that he hunts rabbits. An openly scornful Randyll then interjects that Jon did all the hunting for him. He also criticizes his son's size (even though Sam is markedly slimmer than he was when he first arrived at [[Castle Black]]), and hunting and fighting abilities. Randyll also adds that he will not let his son inherit the family's [[Valyrian steel]] sword [[Heartsbane]] and House Tarly. Gilly then springs to her lover's defense by pointing out that Sam had killed a [[Thenn warg|Thenn]] and a [[White Walker (Valar Morghulis)|White Walker]]. While Dickon dismisses the White Walkers as a fairy tale, Randyll quickly realizes that Gilly is a wildling. He disparages Sam for allowing himself to be seduced by a "wildling whore." In response, Melessa chides her husband for his "dishonorable" conduct and motions for Gilly to leave the dining room with her and Talla.{{Ref|GOT606}}
+
+[[File:Blood of My Blood 27.jpg|thumb|right|Samwell steals his father's sword Heartsbane before leaving with Gilly and Sam.]]
+After the women have left, Randyll tells Sam that Gilly and Little Sam are welcome to stay. He will find work for Gilly as a servant and promises to raise the "[[bastard]]" Little Sam as his grandson. However, he warns Sam that he is no longer welcome at Horn Hill and must leave at first light. Later, Sam apologizes for his father's actions but Gilly tells him that he does not need to. Unwilling to be separated from his family, Sam tells Gilly to pack up and leave together with Little Sam. Before leaving with his "family", Samwell steals Heartsbane.{{Ref|GOT606}}
+
+After arriving in Oldtown, Sam and Gilly meet a [[Citadel maester]]. Sam gives him a letter from Jon about Sam becoming a maester for the Night's Watch, but the maester is skeptical about Jon's state, saying that no word was given about Lord Commander Mormont's death from Maester Aemon.{{Ref|GOT610}}
+
+[[File:Sam in tower library.png|thumb|left|Sam enters the Citadel's library in awe. ]]
+The maester states that Sam's situation is "irregular" to which Sam responds, "Life is irregular." The maester then says that Sam must speak to the Archmaester in order to discuss these issues. The maester then allows Sam to use the library, but blocks Gilly and Little Sam from entering. In the library, Sam looks on in wonder and awe at the vast size of the library and the knowledge stored in its texts.{{Ref|GOT610}}
+
+===[[Game of Thrones: Season 7|''Game of Thrones'': Season 7]]===
+[[File:GOT Season 7 01.jpg|thumb|right|Sam questions Archmaester Ebrose on his utility.]]
+Sam is assigned to menial labor in the Citadel, from sorting books in the library to serving meals to the other maesters and even latrine duty, with Sam himself growing increasingly impatient with the daily repetition. After seeing another maester entering a gated section of the library, Sam asks [[Archmaester]] [[Ebrose]] about the Long Night while helping with a dissection, since very few people in the South believe the White Walkers exist. While Ebrose doesn't doubt Sam's awareness of the Walkers, he does assure him that the beginning of this winter is not the end of the world and reminds him of the importance of healthy skepticism.{{Ref|GOT701}}
+
+[[File:GoT-Sn7 FirstLook 04.jpg|thumb|Sam researches Dragonstone.]]
+Nevertheless, after stealing some books from the forbidden section of the library, Sam does research with Gilly at her new home, discovering that an abundance of dragonglass exists on Dragonstone, and writes to Jon to inform him. The next day, while collecting bowls from the sick cells, he is stopped by [[Jorah Mormont|a patient with an arm covered in greyscale]], who asks him if Daenerys Targaryen, the Dragon Queen, has arrived, but Sam claims not to know.{{Ref|GOT701}}
+
+He is present when the same patient is deemed unable to treat by Ebrose, and that he has six months before the [[greyscale]] takes over his mind. Sam then reminds Ebrose of Shireen Baratheon's treatment of the condition, but Ebrose counters that her maester, [[Cressen]], only managed to stop the spread early, and while she was still at a young age.{{Ref|GOT702}}
+
+[[File:Stormborn Sam and the Archmaester.jpg|thumb|left|Sam and Ebrose discuss the finality of greyscale.]]
+Once Ebrose leaves, Sam asks if there is any family he should write to, to which the patient introduces himself as Jorah Mormont, and that [[House Mormont|his family]] forgot about him a long time ago. Sympathetic to his Lord Commander's son, Sam later asks if he can try to heal Jorah using a procedure developed by Archmaester [[Pylos]], but Ebrose advises against it; due to the dangerous nature of the operation to both sides, it was declared forbidden, emphasizing that Pylos himself died as a result of contracting Greyscale.{{Ref|GOT702}}
+
+[[File:Sam helps Jorah Stormborn.jpg|thumb|right|Sam performs an operation on Jorah.]]
+Undaunted, Sam decides to treat Jorah and secretly visits his quarters after dark. He tells Jorah, "You're not dying today," reveals himself to be a sworn brother of the Night's Watch, that he served under Jorah's father, the late Lord Commander Jeor Mormont and was present when he died. Sam gives Jorah rum to drink after taking a fortifying swig himself, telling him that the process will be painful. Sam also provides Jorah with a mouthguard so he can focus on biting down on it to help muffle his screams, as he explains that he's performing the procedure without permission. Sam's plan involves using a scalpel to separate and cut away Jorah's infected skin and then applying ointment to the exposed layer, though Jorah gives him a look that tells Sam he shouldn't bother trying to explain it to him. Despite experiencing the pain of having a patch of greyscale skin debrided, Jorah nods his consent for Sam to continue the debridement.{{Ref|GOT702}}
+
+[[File:Sam Desk.jpg|thumb|left|Sam is questioned about Jorah's recovery. ]]
+When Ebrose arrives in the morning to see to Jorah, he finds him completely healed. Despite being told by Jorah that no one tended to him, Ebrose realizes immediately what Sam has done and arranges an evening meeting in his office. There, he chastises Sam on the potential danger of infecting the rest of the Citadel through himself, but then congratulates him on saving Jorah's life with a procedure few maesters have ever mastered. He then immediately orders Sam, who had expected a reward, to copy some old scrolls and tells him that his reward is not being banished from the Citadel for ignoring orders.{{Ref|GOT703}}
+
+Samwell walks in on a meeting of the [[Conclave]], the collective [[Archmaester]]s, and overhears them discussing a [[raven]] sent by [[Bran Stark]] about the [[Wight|army of the dead]]. They are in disbelief over the matter, but Samwell attempts to warn them that the wight army is real. He tells the gathered Archmaesters that he let Bran [[beyond the Wall|beyond]] the [[Wall]] and says he is credible for he has survived the perils beyond the Wall whereas many [[Night's Watch]] rangers and [[Free Folk|wildlings]] have not. Even so, the Archmaesters continue to question the credibility of Bran Stark and the validity of the contents of the letter. Archmaester Ebrose promises to find the truth of this and will send a raven back to [[Winterfell]] asking Maester [[Wolkan]] for confirmation. As Samwell leaves, he hears the Archmaesters laughing over the matter, comparing it to past times where they received similar ravens.{{Ref|GOT705}}
+
+[[File:Sam and Gilly Eastwatch.jpg|thumb|right|180x180px|Samwell voices his frustration to Gilly.]]
+Samwell later reads with [[Gilly]], who, while reading the journal of [[High Septon]] [[High Septon (Robert's Rebellion)|Maynard]], discovers that "[[Prince of Dragonstone|Prince]] [[Rhaegar Targaryen|Ragger]]" (a mispronunciation of "Rhaegar") had his first marriage annulled and secretly [[Lyanna Stark|remarried]] while in [[Dorne]]. Samwell, however, pays no attention to this and vents his frustration over the Citadel likely not doing anything about the undead threat. He resolves to leave Oldtown with Gilly and Little Sam. He gathers dozens of books from the forbidden library in the Citadel before departing from Oldtown, quoting his [[Randyll Tarly|father]] on how he is sick of reading about the achievements of better men.{{Ref|GOT705}}
+
+[[File:707 Gilly Samwell.jpg|thumb|left|Samwell arrives in Winterfell, aware of Rhaegar's annulment against Elia.]]
+Sam later arrives at Winterfell, having learned of Jon's leaving the Night's Watch and becoming King in the North. He is greeted by Brandon Stark, who recalls how Sam helped him and the Reeds pass through the Wall. After learning of Bran's new powers as the [[Three-Eyed Raven]], Sam states his intent to help Jon win the war against the Night King. Brandon reveals his discovery that Jon is actually the son of Rhaegar Targaryen and Lyanna Stark, saying that as he was born in Dorne his bastard surname should actually be "Sand". Shocked, Sam counters that the transcription Gilly read to him before said that Rhaegar had annulled his marriage to Elia so that he could marry Lyanna. They both realize that Robert's Rebellion was built on a lie and that Jon (whose birth name was Aegon Targaryen) far from being illegitimate, is the true heir to the Iron Throne.{{Ref|GOT707}}
+
+===[[Game of Thrones: Season 8|''Game of Thrones'': Season 8]]===
+[[File:Dany_confronts_Sam_8x01.jpg|thumb|right|Daenerys tells Samwell of her role in the death of his father and brother.]]
+Sam is studying in Winterfell's library when Queen [[Daenerys Targaryen]] and Ser [[Jorah Mormont]] come to visit him. Daenerys thanks the man that saved Jorah's life from [[greyscale]] and asks if she can offer him anything in return. Sam requests a pardon for stealing books from the [[Citadel]], as well as "borrowing" his family's sword, [[Heartsbane]]. Hearing this, Daenerys realizes that Sam is the son of Randyll Tarly and informs him that his father refused to bend the knee and was [[Battle of the Goldroad|executed]]. Sam is shaken by the news of his father's death, but jokes that at least his brother will allow him to return to Horn Hill. When Daenerys reveals that Dickon was also executed, however, Sam is visibly upset and chokes back some tears. He then asks to leave the library to gather his composure.{{Ref|GOT801}}
+
+Outside, Sam sees [[Bran Stark]] and asks why he's in the courtyard. Bran states he's "waiting for an [[Jaime Lannister|old friend]]" and reminds him it is time to tell Jon the truth about his parents. He then says that Sam must be the one to tell Jon, because Jon trusts him more than anyone.{{Ref|GOT801}}
+
+Sam finds Jon by himself in the crypts of Winterfell. He confronts Jon about the death of his father and brother, asking if he would have done the same thing in Daenerys's position. He then tells Jon about the diary entry he found from [[High Septon (Robert's Rebellion)|High Septon Maynard]] stating that he annulled the marriage between [[Rhaegar Targaryen]] and [[Elia Martell]], that Rhaegar then married [[Lyanna Stark]] and that Jon was their true born son, all of which Bran confirmed using the [[Sight]]. Jon, visibly shocked at the revelation, says that Ned Stark is the most honorable man he has ever known and cannot believe that Ned would have lied to him his whole life. Sam reminds Jon that Ned lied to protect him from [[Robert Baratheon]], who would have killed him if he ever found out the truth of Jon's parentage. Sam goes on to state that Jon is the rightful heir to the Iron Throne, and asks rhetorically whether Daenerys would give up her crown to save her people as he did.{{Ref|GOT801}}
+
+The next day, Sam and Jon welcome the arrival of Edd, [[Beric Dondarrion]] and [[Tormund]] to Winterfell, who inform the two that [[Last Hearth]] has [[Fall of Last Hearth|fallen]] to the White Walkers, and that they'll be at Winterfell before the next sunrise, forcing Winterfell to immediately prepare for battle.{{Ref|GOT802}}
+
+[[File:Sam Gilly and Sam Jr s8 ep2 a.jpg|thumb|left|Sam joins his family in the crypts.]]
+That evening, against Jon's advice, Sam volunteers to help defend Winterfell, due to his combat experience. Later, after overhearing an argument between Jorah and [[Lyanna Mormont]], Sam provides the former with his family's sword, Heartsbane, since it is made of Valyrian steel and will be much more useful in the hands of Jeor Mormont's son. Sam then joins Gilly and Little Sam in Winterfell's crypt.{{Ref|GOT802}}
+
+[[File:Sam Battle S8 EP3.jpg|thumb|right|Sam battles a wight during the attack on Winterfell.]]
+However, Sam later decides to participate in the [[Battle of Winterfell]], armed only with two dragonglass daggers. He is nearly killed by a wight in the heat of battle, but is saved by Edd, only to watch in horror as Edd is quickly killed by another wight. Sam manages to retreat inside Winterfell, but breaks down and cries as the living are slowly overwhelmed by the Army of the Dead. Fortunately, [[Arya Stark]] kills the Night King, saving Sam and other survivors of the battle.{{Ref|GOT803}}
+
+After the battle with the dead, Sam takes part in the mass funeral, lighting the funeral pyre with Edd's body on top, and the celebrations at Winterfell. Before departing to fight the Lannister forces at [[King's Landing]], Jon bids farewell to Sam, who informs him that Gilly is pregnant with his child.{{Ref|GOT804}}
+
+[[File:Sam_suggests_democracy.png|thumb|left|Sam suggests the smallfolk be allowed to elect the monarch.]]
+After the [[Battle of King's Landing]] and the [[Assassination of Daenerys Targaryen|assassination of Daenerys]], Sam takes part in the trial of Jon and [[Tyrion Lannister]] at a [[Great Council in the Dragonpit]]. Tyrion states that they need a new king to pass judgment and asks the lords and ladies present there to choose one. Sam suggests that everyone in the Seven Kingdoms be allowed to choose a new king, but was mocked for this idea by all the lords and ladies, who found it ridiculous. After Tyrion suggested that [[Bran Stark]] be chosen as the new king, Sam was the first one to assent to the proposal.{{Ref|GOT806}}
+
+Samwell was chosen as the new [[Grand Maester]] by Bran after his election. After his appointment, he assisted [[Archmaester]] [[Ebrose]] with the [[A Song of Ice and Fire (Ebrose)|title of his history book]] recounting the wars in Westeros after the [[assassination of Robert Baratheon]], which he showed to Tyrion, the new [[Hand of the King]], at the first [[Small Council]] meeting. When Tyrion asks what the book states about him, he reluctantly replies that he isn't mentioned.{{Ref|GOT806}}
+
+[[File:Sam_at_small_council.png|thumb|right|Grand Maester Samwell takes part in the first reformed Small Council meeting.]]
+When King Bran arrives and asks if they have heard anything about [[Drogon]], he tries to state that he was last seen flying east of [[Volantis]], but is interrupted by [[Bronn]] before he can complete his sentence. After Bran goes looking for the dragon himself with the [[Sight]], Tyrion discusses with him about clean water improving the health of people, based on his experience with the Casterly Rock sewers. Sam tries to inform him about the research done by Ebrose on this subject, but is interrupted again by Bronn who sums it up as "the strong live and the weak don't." Tyrion then assigns Sam to hire the best builders for building a proper sewage system and providing clean water to [[King's Landing]]. When Bronn suggests rebuilding the brothels, Sam is dismissive of the idea.{{Ref|GOT806}}
+
+==Personality==
+{{ReferencesSection}}
+On the outside, Samwell Tarly may appear completely antithetical to the standards of his house - he is extremely timid, awkward, cowardly, nervous, and easily frightened. When he was first tested in combat by Alliser Thorne, he didn't even pick up a weapon and allowed himself to be beaten, terrified, leading to the impression that Sam was worthless (an impression that Randyll Tarly had never allowed him to forget). However, in reality, Sam is actually a good man - he is extremely loyal to those who show him kindness, as evidenced by his almost brotherly relationship with Jon, who remained his best friend throughout his time as a member of the Night's Watch. His loyalty to Jon would resonate from the moment that he volunteered to take Jon's vows with him. His extreme personal loyalty is potentially one of his best qualities, and ironically evidence that Sam aligns with the expectations of his house - after all, House Tarly breeds soldiers, and soldiers are supposed to be loyal.
+
+When he comes to Castle Black, it is quickly realized that he is not a great warrior, but Sam makes up for it considerably by being highly intelligent and observant. He shows himself to be so insightful that he assures Jon that Lord Commander Mormont is seeking to groom him for command based on the duties that being a squire would entail. Sam has an encyclopedic knowledge of Westerosi history, including the history of the Night's Watch, and is deeply fascinated by that history, to such an extent that his fellow sworn brothers often find him annoying for it. Even Jeor Mormont recognized Sam's intelligence and commended him for it. Those who could see through Sam's gluttony and cowardice would realize how clever and valuable a person he was. Sam loves to read books at any given opportunity, so much that the blind Maester Aemon easily deduced that Sam had come to see him, based on the fact that he had decided to enter the library at night to read.
+
+Throughout the series, Sam has shown himself to be capable of incredible bravery when he is pushed. While he cowered during the fight at the Fist, especially when he encountered a White Walker for the first time. One of his shining moments came when he faced off against another White Walker when it tried to attack Gilly and her son - Sam's extreme capacity for love towards Gilly compelled him to continue to attack the creature, even after it easily overpowered him already, and in spite of Sam being aware of the historical reputation of the White Walkers and how they had decimated the Rangers at the Fist of the First Men. Sam later proved himself to be gradually immune to the bullies that he had suffered most of his life, as evidenced by how he shamed Janos Slynt for ''his'' cowardice when the latter tried to shame him for loving Gilly. Sam's bravery wavered temporarily when he returned to Horn Hill and was chastised by his father Randyll again, so much that he was unable to speak throughout most of the conversation, but later on, he openly defied his fearsome father by stealing the family heirloom Heartsbane and verbally daring Randyll to try and take it back (albeit, not to his face).
+
+Sam was very good friends with Maester Aemon, so much that Sam gave the man's eulogy at his funeral and didn't condemn him for being a Targaryen. Before Aemon passed away, Sam showed reluctance to believe that he was dying, showing that he deeply cared about the old man.
+
+==Quotes==
+===Spoken by Samwell===
+{{Quote|On the morning of my eighteenth nameday, [[Randyll Tarly|my father]] came to me. 'You're almost a man now', he said, 'but you're not worthy of my land and title. Tomorrow, you're going to take the black, forsake all claim to your inheritance and start north. If you do not,' he said, 'then we'll have a hunt, and somewhere in these woods your horse will stumble, and you'll be thrown from your saddle to die. Or so I'll tell [[Melessa Tarly|your mother]]. Nothing would please me more.'|Sam tells the story of how he came to join the Night's Watch.|Cripples, Bastards, and Broken Things}}
+{{Quote|I can't steal her. She's a person, not a goat.|Samwell Tarly referring to [[Gilly]].|The Night Lands}}
+{{Dialogue a-b-a|Samwell Tarly|The thing about [[Gilly|her]] that I find so interesting is that after all that Craster's done to her, she's still got hope that life might get better.|Eddison Tollett|The thing about Gilly that you find so interesting is that she said six words to you.|And the thing about ''you'' that I find so interesting is absolutely nothing!|Sam jesting with [[Eddison Tollett]].|Valar Morghulis}}
+{{Quote|We didn't build 500 miles of ice wall 700 feet high to keep out men. The [[White Walkers|night]] is gathering, Maester Aemon, I've seen it. It's coming for all of us.|Samwell Tarly|Mhysa}}
+{{Quote|[[Pypar|Pyp]], open the fucking gate!|Sam demands that [[Pypar|Pyp]] opens the gate for [[Gilly]].|The Watchers on the Wall}}
+{{Quote|How many brothers can say that they've killed a White Walker and a Thenn? I might be the first in history.|Samwell Tarly|The Wars To Come}}
+{{Quote|Whilst [[Janos Slynt|Lord Janos]] was hiding with the women and children, [[Jon Snow]] was leading. [[Alliser Thorne|Ser Alliser]] fought bravely, it is true, but when he was wounded, it was Jon who saved us. He took charge of the Wall's defense, he killed the [[Styr|Magnar]] of the Thenns, he went north to deal with [[Mance Rayder]], knowing that it certainly meant his own death. Before that, he led the mission to avenge Lord Commander [[Jeor Mormont|Mormont]]. Mormont himself chose Jon to be his steward. He saw something in Jon and now we've all seen it too. He may be young, but he's the commander we turned to when the night was darkest.|Samwell Tarly nominates [[Jon Snow|Jon Snow]] as the 998th [[Lord Commander of the Night's Watch]]|The House of Black and White}}
+{{Quote|Oh, my...!|Sam, upon finally losing his virginity to [[Gilly]].|The Gift}}
+{{Quote|Sometimes a man has to make hard choices, choices that might look wrong to others, but you know are right in the long run.|Sam explaining to [[Olly]] why Jon is helping the wildlings.|Hardhome (episode)}}
+{{Dialogue a-b-a-b|Gilly|Sam, that's your father's sword.|Samwell Tarly|It's my ''family's'' sword.|Sam, won't he come for it?|He can bloody well try.|Sam steals Heartsbane from Horn Hill.|Blood of My Blood}}
+{{Dialogue a-b-a-b-a|Gilly|What does 'annulment' mean?|Samwell Tarly|It's when a man sets aside his lawful wife.|[[High Septon (Robert's Rebellion)|Maynard]] says here that he issued an annulment for a '[[Rhaegar Targaryen|Prince Ragger]]' and re-married him to someone else at the same time in a secret ceremony in [[Dorne]]. Is that a common thing in the south, or is...|These Maesters, they set me to the task at preserving that man's window-counting and annulments and bowel movements for all eternity while the secret to defeating the [[Night King]] is probably sitting on some dusty shelf somewhere completely ignored - oh, but that's alright, isn't it? We can all become slathering murderous imbeciles enthralled to evil incarnate as long as we can have access to the full records of [[High Septon]] Maynard's fifteen-thousand-seven-hundred-and-eighty-two shits!|Steps. That number was the steps.|Sam and Gilly.|Eastwatch}}
+{{Quote|You gave up your crown to save your people. Would she do the same?|Sam to [[Jon Snow]], regarding [[Daenerys Targaryen]].|Winterfell (Game of Thrones)}}
+{{Quote|That's what death is, isn't it? Forgetting. Being forgotten. If we forget where we've been, and what we've done, we're not men anymore. Just animals.|Sam|A Knight of the Seven Kingdoms (Game of Thrones)}}
+{{Quote|Why just us? We represent all the Great Houses, but, whoever we choose, they won't just rule over lords and ladies. Maybe the decision about what's best for everyone should be left to... well, everyone.|Sam suggests letting the [[smallfolk]] choose the next [[King of the Andals and the Rhoynar and the First Men|ruler]] at a [[Great Council in the Dragonpit]]|The Iron Throne}}
+
+===Spoken about Samwell===
+{{Dialogue a-b|Grenn|What in seven hells is that?!|Pypar|They'll need an eighth hell to fit him in!|[[Grenn]] and [[Pypar]]'s initial reactions to Sam.|Cripples, Bastards, and Broken Things}}
+{{Quote|No one touches Sam.|[[Jon Snow]] threatening [[Rast]].|Cripples, Bastards, and Broken Things}}
+{{Quote|You may be a coward, Tarly, but you're not stupid.|[[Jeor Mormont]] to Sam.|The Pointy End}}
+{{Quote|Samwell Tarly. Slayer of White Walkers. Lover of ladies. As if we needed any more sign the world was ending.|[[Eddison Tollett]]|A Knight of the Seven Kingdoms (Game of Thrones)}}
+
+==Family==
+===Paternal===
+{{Tarly tree}}
+
+===Maternal===
+{{Florent tree}}
+
+==In the books==
+[[File:Roman Papsuev - Samwell Tarly.png|thumb|300px|right|Samwell Tarly by Roman "Amok" Papsuev.©]]
+In ''[[A Song of Ice and Fire]]'' novels, Lord Randyll is a stern, fierce taskmaster and disciplinarian who holds martial valor and military skill above all other attributes. His eldest son Sam is soft, kindhearted, bookish and fat, enjoying music and reading over fighting and war, although his younger son Dickon shows much more military promise. Furious with Sam's lack of military potential, Lord Randyll sends him packing to join the Night's Watch, making Dickon heir in Sam's place.
+
+Sam's father took him once to the Arbor, intending to leave him there as Lord Paxter's page and cupbearer, and had Sam pleased him - he would have been betrothed to his daughter. Things had gone from bad to worse: Lord Redwyne’s twin sons, Hobber and Horas, despised Sam on first sight, bullied him mercilessly, and every day they found some fresh way to shame him in the practice yard: the third day Horas made Sam squeal like a pig when he begged for quarter; on the fifth Hobber clad a kitchen girl in his own armor and let her beat Sam with a wooden sword until he began to cry. When she revealed herself, all the squires and pages and stableboys howled with laughter. Randyll had no choice but to take Sam back home. Needless to say the experience has not improved Randyll's opinion on his elder son.
+
+When Sam suggested his father to send him to the Citadel in Oldtown, Randyll answered furiously "''They make you wear a chain about your neck. If it is chains you want, come with me''". He had Sam manacled hand and foot to a wall for three days and three nights. The chain around his throat was so tight it broke the skin, and whenever he rolled the wrong way in his sleep it would cut off his breath. That experience has traumatized poor Sam so much, that long time afterwards he objected (fruitlessly) to Jon's command to travel to the Citadel, although he has always wanted that.
+
+[[Horn Hill]] is located in the warm lands of the southern Reach, where it rarely snows. Sam says that he never saw snow in his life before he was sent to the Wall, making it an even more desolate and alien environment for him.
+
+Some may have seen Samwell as better suited to joining the [[Order of Maesters]], as like the Night's Watch they swear vows that abandon all claim to inheritance, but their intellectual pursuits would fit Sam's talents much better. However, Randyll felt that a Tarly joining the non-martial Maesters would still be a massive embarrassment to the military reputation of their House. Because Randyll was horrified at the prospect of a member of House Tarly ever wearing a Maester's chain, he instead sent Sam off to join the Night's Watch, where at least in theory he would be defending the realm from the dangers beyond the Wall. Ironically, the officers at Castle Black decide that the best use for Sam at the Wall is to serve as an aide to the blind old Maester [[Aemon]], given that many of their recruits are starving peasant boys or criminals who can't even read, and Sam is not only literate but quite well-read. Sam gains some small respite from his suffering at the Wall when he discovers that Maester Aemon's library at Castle Black contains thousands of books collected by the Watch over the millennia, many of them extremely rare (even a well-stocked library such as at Winterfell normally only contains several hundred books).
+
+Sam becomes a POV character in the third novel. In the first two novels, his actions are narrated and interpreted from Jon's POV.
+
+In the book, Sam's encounter with the White Walker is different in the show: it takes place during the retreat from the Fist of the First Men. Sam collapses, and only [[Grenn]] stays with him and urges him to move on. A steward of the Watch named Paul joins them and carries Sam on his back. Due to the delay, the three fall behind the other survivors, and one of the Others attacks them. The Other kills Paul, and Sam desperately stabs it with [[dragonglass]] dagger. To Sam and Grenn's amazement, the Other is destroyed. Sam does not leave the dagger behind, but tells Grenn to pick it up once it is warm enough to touch. Eventually Sam and Grenn catch up with the rest of the Watch. Grenn tells everyone how Sam destroyed the Other. Since then, Sam earns the nickname "the Slayer", which the other rangers use either as respect or (more often) for mockery. Sam hates that nickname, even though it is better than "Ser Piggy", because he does not feel he deserves it. He keeps asking people not to call him that, but for no avail.
+
+The thing that attacks Sam and Gilly is not an Other but a wight. Although Sam is scared, he is determined to protect Gilly, and fights valiantly against the wight. Both the dragonglass and steel daggers prove to be useless against the wight, but Sam destroys it by shoving a burning stick into its mouth.
+
+Since in the books Jon has killed a wight but not any Others, Sam is the only known character that killed both an Other and a wight. He is also the one who discovered (by trial-and-error) that dragonglass is lethal to Others but ineffective against wights.
+
+When Sam and Gilly part with Bran's group at the Nightfort, Jojen Reed warns Sam that no one can know about Bran going beyond the Wall, so Jon is never told of his whereabouts. Sam is not present during the wildling attack against the Night's Watch, as he and Gilly are still en route to Castle Black.
+
+Unlike in the TV show, Sam is not among the defenders of Castle Black during the [[Battle for the Wall|battle]], since he and Gilly arrive after the battle is over. They do not pass through [[Mole's Town]]. They are lucky to get lost while on their way from [[Craster's Keep]], otherwise they would have found themselves caught in the battle or at the [[Free Folk|wildlings]]' camp. Jon, Grenn, and Pyp are overjoyed that Sam survived against all odds, and welcome him heartily.
+
+In the novel ''A Feast for Crows'', Jon sends Sam alongside Gilly, Mance Rayder's baby son and Maester Aemon to Oldtown via Braavos, fearing that Melisandre may sacrifice either Aemon or the baby for their "king's blood". During the voyage to Oldtown aboard the ''Cinnamon Wind'', Aemon dies. Following the funeral, Gilly and Sam grow intimate and have sex for the first time. Afterwards Sam is filled with guilt, not only for breaking his vows: he loves Gilly but is forbidden of marrying her; he believes she deserves a better man, not a big fat coward like him; and cannot bear the thought of hurting her feelings by taking advantage of her and later leaving her (in sharp contrast to Theon Greyjoy, who used a [[captain's daughter]] for sex and then dumped her without second thought). The captain's daughter, however, poses him an ultimatum: either he goes to bed with Gilly, or will be thrown overboard. Defeated, Sam goes to Gilly and tells her he would like to marry her, would prefer her for any princess or highborn lady, but is bound by his vows. Gilly wipes his tears and tells him "The trees watch over us. In the forest, they see all. but there are no trees here. Only water, Sam. Only water."
+
+At Braavos, Sam briefly encounters [[Arya Stark|Arya]]. She saves him from two bullies and gives him food. Sam tells her his name and that he is of the Night's Watch, but she does not reveal to him her true identity.
+
+In the Citadel, Sam is approached by a novice who introduces himself as Alleras. Sam tells him about Maester Aemon and why he thought that Daenerys was "the prince that was promised", then everything that happened since the ranging force left Castle Black. Alleras listens intently, then takes Sam to see Archmaester Marwyn. Marwyn listens to Sam's story and then declares that he is off to meet Daenerys. He orders Sam to keep quiet about Daenerys and the dragons, finish his studies as quickly as he can, and then return to the Wall.
+
+By the point the books reached, Sam has not visited his family yet. He plans to take Gilly and the baby to Horn Hill as soon as possible.
+
+[[George R.R. Martin]] has stated that he is a big fan of J.R.R. Tolkien's ''The Lord of the Rings'', in which main character Frodo Baggins's best friend is Samwise Gamgee, called Sam for short. Similarly, Jon's best friend Samwell Tarly (also called "Sam" for short) is also an overweight, not martially skilled everyman character who enjoys reading stories in books. Moreover, [[Pypar]] (called Pyp) for short, has a similar name to Frodo's other companion Pippin Took (sometimes shortened to "Pip"). Thus both Jon and Frodo Baggins have two companions named "Sam and Pyp".
+
+==Gallery==
+<gallery>
+File:Samwell_Tarly_1x04.jpg|Young Samwell when he first joined the Watch
+File:Jon_and_Samwell_The_Dance_of_Dragons.jpg|Sam and Jon first meet 
+Samwell.jpg|Sam on arrival at Castle Black in "[[Cripples, Bastards, and Broken Things]]".
+Grenn-yield.png|Grenn yields to Samwell.
+Dareon.jpg|Sam waits to hear his assignment in "[[You Win or You Die]]".
+Sam S2.jpg|Sam on the great ranging in "[[The Night Lands]]".
+Arriving at the fist of the first men.jpg|Sam, Edd, Grenn, and Jon on the Fist of the First Men.
+File:SamwellTarlyS3EP02.png|Sam beyond the Wall, Season 3
+Sam, Grenn and Edd 2x10.jpeg|A promotional image of Samwell Tarly, Grenn and [[Eddison Tollett]] in "[[Valar Morghulis]]."
+Nightswatch 3x01.jpg|The surviving [[Night's Watch]] members after the fight with [[wight]]s and [[White Walkers]].
+SamwellTarlyS3EP02.png|Sam struggling to keep up with his brothers in "[[Dark Wings, Dark Words]]."
+Blood_of_my_blood_House_Tarly_dinner.jpg|Sam having an awkward dinner with the Tarly family, Season 6
+SamwellTarly.png|Sam with Gilly in "[[Mhysa]]".
+File:Samwell_Tarly.PNG|Sam studying at the Citadel, Season 7
+Aemon Samwell Kill the Boy.jpg|Sam with [[Aemon]] in "[[Kill the Boy]]".
+Jon and Samwell The Dance of Dragons.jpg|Sam with [[Jon Snow]] in "[[The Dance of Dragons (episode)|The Dance of Dragons]]"
+Blood of My Blood 19.jpg|Samwell stealing Heartsbane before leaving with Gilly and Sam in "[[Blood of My Blood]]".
+File:Sam_and_Gilly_Eastwatch.jpg|Sam and Gilly researching
+File:Sam_at_Winterfell.jpg|In Winterfell, Season 7
+Dany confronts Sam 8x01.jpg|Same meets Queen Daenerys
+File:Gilly_&_Sam_EW_S8_Cover.jpg|2019, final season promo
+File:Sam_S8.jpg|Season 8
+File:EW_Season_8_Samwell.jpg|Season 8 Promo Shot
+</gallery>
+
+==Appearances==
+{{Scroll box|
+*{{GOT|Cripples, Bastards, and Broken Things}}
+*{{GOT|You Win or You Die}}
+*{{GOT|The Pointy End}}
+*{{GOT|Baelor}}
+*{{GOT|Fire and Blood}}
+*{{GOT|The North Remembers}}
+*{{GOT|The Night Lands}}
+*{{GOT|What Is Dead May Never Die}}
+*{{GOT|The Ghost of Harrenhal}}
+*{{GOT|The Prince of Winterfell}}
+*{{GOT|Valar Morghulis}}
+*{{GOT|Valar Dohaeris}}
+*{{GOT|Dark Wings, Dark Words}}
+*{{GOT|Walk of Punishment}}
+*{{GOT|And Now His Watch Is Ended}}
+*{{GOT|The Climb}}
+*{{GOT|Second Sons}}
+*{{GOT|The Rains of Castamere}}
+*{{GOT|Mhysa}}
+*{{H&L|The Reach}} {{Illustrated}}
+*{{GOT|Two Swords}}
+*{{GOT|Breaker of Chains}}
+*{{GOT|Oathkeeper}}
+*{{GOT|Mockingbird}}
+*{{GOT|The Mountain and the Viper}}
+*{{GOT|The Watchers on the Wall}}
+*{{GOT|The Children}}
+*{{H&L|The Wall}} {{Voice}}
+*{{GOT|The Wars To Come}}
+*{{GOT|The House of Black and White}}
+*{{GOT|High Sparrow}}
+*{{GOT|Sons of the Harpy}}
+*{{GOT|Kill the Boy}}
+*{{GOT|The Gift}}
+*{{GOT|Hardhome}}
+*{{GOT|The Dance of Dragons}}
+*{{GOT|Mother's Mercy}}
+*{{ATGS|The Ice Dragon}} {{Ncm}}
+*{{H&L|The Lord Commanders}} {{Illustrated}}
+*{{GOT|Oathbreaker}}
+*{{GOT|Blood of My Blood}}
+*{{GOT|The Winds of Winter}}
+*{{H&L|House Tarly}} {{Illustrated}}
+*{{GOT|Dragonstone}}
+*{{GOT|Stormborn}}
+*{{GOT|The Queen's Justice}}
+*{{GOT|Eastwatch}}
+*{{GOT|The Dragon and the Wolf}}
+*{{H&L|The Citadel}} {{Voice}}
+*{{H&L|Prophecies of the Known World}} {{Voice}}
+*{{GOT|Winterfell}}
+*{{GOT|A Knight of the Seven Kingdoms}}
+*{{GOT|The Long Night}}
+*{{GOT|The Last of the Starks}}
+*{{GOT|The Iron Throne}}
+}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+*{{HBO|game-of-thrones/cast-and-crew/samwell-tarly}}
+*{{WP}}
+
+<!--Succession box-->
+{{S-start}}
+{{S-bef| before = [[Pycelle]]}}
+{{S-ttl| title = [[Grand Maester]] | years = [[305 AC]] -}}
+{{S-inc}}
+{{S-end}}
+
+<!--Navboxes-->
+{{House Tarly}}
+{{Night's Watch}}
+{{Small Council of Bran I the Broken}}
+{{Game of Thrones}}
+{{Histories & Lore}}
+
+<!--Categories-->
+{{DEFAULTSORT:Tarly, Samwell}}
+[[Category:Grand Maesters]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Individuals from the Reach]]
+[[Category:Individuals mentioned in Game of Thrones: A Telltale Games Series]]
+[[Category:Individuals narrating Histories & Lore]]
+[[Category:Members of House Tarly|Samwell Tarly]]
+[[Category:Stewards of the Night's Watch]]
+
+<!--Languages-->
+[[de:Samwell Tarly]]
+[[es:Samwell Tarly/Game of Thrones]]
+[[fr:Samwell Tarly]]
+[[it:Samwell Tarly]]
+[[ja:サムウェル・ターリー]]
+[[pl:Samwell Tarly]]
+[[pt-br:Samwell Tarly]]
+[[ru:Сэмвелл Тарли]]
+[[zh:山姆威尔·塔利]]

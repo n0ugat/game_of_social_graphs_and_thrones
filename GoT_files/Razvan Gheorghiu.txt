@@ -1,0 +1,20 @@
+{{Crew
+|Image = 
+|dateofbirth = 
+|birthplace = 
+|job = Stunt Performer
+|imdb = http://www.imdb.com/name/nm1279440
+|twitter = }}
+'''Razvan Gheorghiu''' is a stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 1|first season]] episode "[[The Kingsroad]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 1||yes}}
+
+==See also==
+*{{IMDb
+|# = 1279440}}
+{{DEFAULTSORT:Gheorghiu, Razvan}}
+[[Category:Stunt performers of Game of Thrones]]

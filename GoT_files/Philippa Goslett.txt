@@ -1,0 +1,41 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Philippa Goslett.jpg
+| Birth   = February 3, 1974 {{Age|1974|2|3}}<br>London, England, United Kingdom
+| Death   = 
+| Role    = Co-executive producer<br>Writer
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]] {{*}} [[House of the Dragon: Season 3|3]] {{*}} [[House of the Dragon: Season 4|4]]
+| Credits = 8 episodes {{Below|Credits}}
+| First   = "[[A Son for a Son]]"
+| Last    = 
+}}
+'''Philippa Goslett''' is a British screenwriter. She joined the writing staff for ''[[House of the Dragon]]'' in its [[House of the Dragon: Season 3|third season]]. She is best known for her work on HBO's ''The Nevers'', for which she was chosen to replace Joss Whedon as showrunner after he left the project amidst scandal in the middle of its first season.{{Webref|name=Nevers |author=Peter White |date=January 28, 2021 |url=https://deadline.com/2021/01/the-nevers-philippa-goslett-showrunner-hbo-sci-fi-drama-joss-whedon-departure-1234682519/ |title=‘The Nevers’: Philippa Goslett Named As Showrunner Of HBO Sci-Fi Drama Following Joss Whedon’s Departure |website=Deadline |access-date=January 14, 2024 }}
+
+==Biography==
+Goslett wrote the screenplays for several movies, including ''Little Ashes'' and ''Mary Magdalene''. She also notably wrote the screenplay for ''How to Talk to Girls at Parties'' - a film adaptation of a short story by Neil Gaiman. 
+
+By 2021 to 2023 she advanced to producer and then showrunner on HBO's ''The Nevers''. 
+
+On December 6, 2023, George R.R. Martin revealed in his blog that Philippa Goslett was part of the writing staff for ''House of the Dragon'': Season 3.{{Webref|name=GRRM |author=George R.R. Martin |date=December 6, 2023 |url=https://georgerrmartin.com/notablog/2023/12/06/a-visit-to-old-blighty/ |title=A Visit to Old Blighty |website=Not a Blog |access-date=January 14, 2024}}
+
+==Credits==
+===Co-executive producer===
+*{{HOTD|Season 2}}
+
+===Writer===
+{{House of the Dragon: Season 3}}
+{{House of the Dragon: Season 4}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{WP}}
+*{{IMDb|#=1514357}}
+
+<!--Categories-->
+{{DEFAULTSORT:Goslett, Philippa}}
+[[Category:Co-executive producers of House of the Dragon]]
+[[Category:Writers of House of the Dragon]]

@@ -1,0 +1,489 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Baelish.svg
+| Link  = House Baelish
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Arryn
+| Image       = Profile-Littlefinger.png
+| Birth       = The [[Fingers]], the [[Vale of Arryn]]{{Ref|GOT104}}
+| Death       = [[304 AC]]{{Dateref|Game of Thrones: Season 7}}<br>[[Winterfell]], the [[North]]{{Ref|GOT707}}
+| House       = [[House Baelish|Baelish]]{{Ref|H&L402}}
+| Affiliation = [[House Tully]]{{Ref|H&L402}} {{C|[[ward]]}}<br>[[House Arryn]]{{Ref|H&L402}}<br>[[House Baratheon of King's Landing]]{{Ref|GOT103}}<br>[[House Stark]]{{Ref|GOT609}}
+| Titles      = [[Master of Coin]]{{Ref|GOT103}} {{C|formerly}}<br>[[Lord of Harrenhal]]{{Ref|GOT210}}<br>[[Lord Protector]] of the [[Vale of Arryn|Vale]]{{Ref|GOT707}}
+| AKA         = Littlefinger{{Ref|GOT104}}
+| Culture     = [[Vale of Arryn|Valemen]]{{Ref|H&L402}}
+| Religion    = 
+| Father      = {[[Lord Baelish]]}{{Ref|H&L402}}
+| Mother      = 
+| Spouse      = {[[Lysa Arryn]]}{{Ref|GOT405}}
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = Yellow, a black mockingbird{{Ref|GOT306}}{{Note|The ancestral arms of House Baelish (the head of the [[Titan of Braavos]] on a green field) never appears in the TV series, but it is stated in "[[The North Remembers]]" that the mockingbird is Littlefinger's personal sigil.}}
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 1|1]] {{*}} [[Game of Thrones: Season 2|2]] {{*}} [[Game of Thrones: Season 3|3]] {{*}} [[Game of Thrones: Season 4|4]] {{*}} [[Game of Thrones: Season 5|5]] {{*}} [[Game of Thrones: Season 6|6]] {{*}} [[Game of Thrones: Season 7|7]]
+| Appearances = 41 episodes {{Below|Appearances}}
+| First       = "[[Lord Snow]]"
+| Last        = "[[The Dragon and the Wolf]]"
+| DeathEp     = "The Dragon and the Wolf"
+| Actor       = [[Aidan Gillen]]
+}}
+{{Quote|Chaos isn’t a pit. Chaos is a ladder. Many who try to climb it fail, and never get to try again. The fall breaks them. And some are given a chance to climb, but refuse. They cling to the realm, or the gods, or love... illusions. Only the ladder is real. The climb is all there is. |Petyr Baelish to [[Varys]]|The Climb}}
+Lord '''Petyr Baelish''', popularly called '''Littlefinger''', was the [[Master of Coin]] on the [[Small Council]] under King [[Robert Baratheon]] and King [[Joffrey Baratheon]]. He was a skilled manipulator and used his ownership of brothels in [[King's Landing]] to both acquire vast wealth and accrue intelligence on political rivals. Baelish's spy network is eclipsed only by that of his arch-rival [[Varys]]. In his quest for power, he orchestrated a huge conflict in Westeros via multiple conspiracies and assassinations, which effectively began the [[War of the Five Kings]] leading to widespread devastation and the destruction of several major houses.
+
+After marrying Lady [[Lysa Arryn]], widow of Lord [[Jon Arryn]] of the [[Vale of Arryn|Vale]], and her subsequent death at his hand, he became the [[Lord Protector]] of the Vale. Because of his relationship with her, Baelish was able to heavily influence Lysa's son [[Robin Arryn]], the new [[Defender of the Vale]]. To further his goal of sitting on the [[Iron Throne]], Baelish took [[Sansa Stark]] under his wing in order to gain some influence within [[House Stark]], but his role in the deaths of [[Eddard Stark]], Jon Arryn, and Lysa Arryn was finally exposed, and he was executed for his crimes.
+
+==Biography==
+===Background===
+Petyr Baelish was the head of [[House Baelish]] and the lord of an [[Baelish keep|extremely minor holding]], so small it has neither name nor a [[Order of Maesters|maester]], located in a small area within the [[Fingers]], a coastal region in the northeastern shores of the [[Vale of Arryn]].{{Ref|H&L402}}
+
+House Baelish had very meager origins and no distinguished lineage: [[Petyr Baelish's great-grandfather|Petyr's great-grandfather]] was a lowly [[Mercenary|sellsword]] from [[Braavos]] who came to the Vale at the invitation of [[House Corbray]]. [[Petyr Baelish's grandfather|Petyr's grandfather]] was a poor [[hedge knight]], who managed to earn a minor lordship of a few stony acres in the smallest peninsula of the [[Fingers]].{{Ref|H&L402}}
+
+[[File:Hoster Baelish.jpg|thumb|Petyr's father (left) befriends Lord Hoster Tully during the War of the Ninepenny Kings.]]
+[[Lord Baelish|Petyr's father]] fought in the [[War of the Ninepenny Kings]], the preemptive assault on the forces of [[Maelys Blackfyre]], the last of the [[House Blackfyre|Blackfyre Pretenders]], before they could attempt an invasion of Westeros. During the conflict, Petyr's father served well under Lord [[Hoster Tully]]. Through their good relationship, Hoster agreed to foster his son Petyr at [[Riverrun]], a great honor for a lesser house.{{Ref|H&L402}}
+
+Petyr went to [[Riverrun]] when he was eight years old, carrying all he owned in a bundle.{{Ref|GOT408}} At Riverrun, he befriended Hoster's daughters [[Catelyn Stark|Catelyn]] and [[Lysa Arryn|Lysa]]. Their brother [[Edmure Tully|Edmure]] mockingly nicknamed Petyr "Littlefinger", in reference to his small height at the time and the location of his minor landholdings.{{Ref|H&L402}} The nickname would stick with him throughout his life. Eventually, even Petyr sarcastically embraced the nickname, because it showed how far he had risen, from an impoverished noble-born boy from an insignificant minor house in the "little Finger" peninsula of the Vale, to one of the most powerful officials at the royal court.{{Ref|GOT104}}
+
+[[File:Petyr_vs_Brandon.png|thumb|Petyr's failed attempt to win Catelyn's hand.]]
+Petyr became obsessed and in love with Catelyn, but she never returned his affections. Lysa was infatuated with Petyr, but he only loved Catelyn. Eventually when she was betrothed to [[Brandon Stark]], heir to [[Winterfell]], Petyr challenged him to a duel, thinking he could win through pluck and courage but he was promptly overpowered and nearly killed, though Catelyn begged Brandon to spare his life (an act which she deeply regretted years later{{Ref|H&L207}}). Embittered, Petyr was cast out of Riverrun and returned to the Vale. During the course of [[Robert's Rebellion]], however, Brandon was killed by the Mad King [[Aerys II Targaryen]], so Catelyn married his younger brother [[Eddard Stark]], while to secure a political alliance Lysa was wed to [[Jon Arryn]], ruler of the Vale. Manipulating Lysa's infatuation with himself, Petyr ingratiated himself into Jon's services, first as a customs officer at [[Gulltown]], where he increased the port's revenues tenfold. Seeing Littlefinger's financial acumen, Jon was easily convinced by Lysa to later bring Littlefinger to the royal court at [[King's Landing]], and make him [[Master of Coin]] on King [[Robert Baratheon]]'s [[Small Council]].{{Ref|H&L402}} Petyr's blatant ambition often placed him at odds with the [[Master of Whisperers]], [[Varys]].{{Ref|GOT105}}
+
+In charge of the crown's treasury, Littlefinger rapidly grew into a powerful player in royal politics and a master of court intrigues. Of an older mindset, few who did not know him suspected Littlefinger as a threat, seeing only that he was a man from a very minor House, with no distinguished lineage, significant landholdings, or armies. Instead, Littlefinger based his newfound power on [[money]].{{Ref|H&L402}} Baelish is unscrupulous in his search for power and wealth: he has bought multiple brothels in the city. Particularly [[Littlefinger's brothel|a high-class brothel catering to the nobles in the city]], cynically noting that [[Prostitution|whores]] make a better investment than ships because they rarely sink. Baelish makes good use of his brothels to have his agents spy on and manipulate his clientele and owns one of the largest spy networks in Westeros, second only to Varys's. Littlefinger has been known to privately bribe lords who have unusual or violent sexual fetishes if they pay the right price; ranging from supplying lords with amputee prostitutes, to delivering young boys to pederasts,{{Ref|GOT105}} and even delivering prostitutes to be secretly murdered by his clients for thrill-kills.{{Ref|GOT202}}{{Ref|GOT306}}
+
+Due to their past friendship as children, Catelyn continued to believe that Lord Baelish was a friend she could count on at court.{{Ref|GOT103}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+Littlefinger greets [[Eddard Stark|Eddard]] upon his arrival in [[King's Landing]]. They quickly catch up, and Baelish recalls his duel with [[Brandon Stark]], stating that Brandon had left a scar from Petyr's navel to collarbone. At the first [[Small Council]] meeting with Ned as the Hand, Littlefinger reports that the realm is six million [[Money|gold dragons]] in debt, half of it owed to [[House Lannister]]. [[Catelyn Stark]] and Ser [[Rodrik Cassel]] attempt to sneak into the city, but are spotted by one of Littlefinger's men. They are taken to meet Littlefinger at one of his brothels. Catelyn is angered by their treatment, but asks Littlefinger for aid. She is trying to identify the people who tried to have her son [[Bran Stark]] killed. Littlefinger is able to answer this quickly: the elaborate [[Valyrian steel dagger|dagger]] wielded by the [[Catspaw|assassin]] used to be his, but he lost it in a bet with [[Tyrion Lannister]].{{Ref|GOT103}}
+
+[[File:Eddard_and_Petyr_1x03.png|thumb|Eddard assaulting Petyr for saying his wife is in this brothel.]]
+Littlefinger fetches Eddard to meet his wife, but when Eddard realizes he was being brought to a brothel, he thinks Littlefinger is insulting him by saying his wife is a whore. Eddard throws Littlefinger up against a wall before Catelyn appears and Eddard becomes pacified. After hearing her news, he vows to find the truth and expose the Lannisters to Robert and Littlefinger agrees to be his ally in this, for the affection he once bore Catelyn as a youngster. Eddard correctly believes that Littlefinger is still in love with his wife.{{Ref|GOT103}}
+
+[[File:Small Council.png|thumb|Baelish attends the Small Council.]]
+Baelish attends a Small Council meeting concerning discourse due to the visitors attracted by Robert's tourney for Eddard, where he is told that he must find expenses to strengthen the [[City Watch of King's Landing]].{{Ref|GOT104}}
+
+[[File:Eddard and Petyr 1x04.png|thumb|Littlefinger tells Ned about King's Landing espionage.]]
+Littlefinger meets with Eddard and suggests that he keep his investigation into [[Jon Arryn]]'s death lower in profile, where he reveals that [[Pycelle]] has told him of Eddard's possession of ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]''. After pointing out a gardener as a spy of [[Cersei Lannister]], an urchin boy as a [[little birds|little bird]] of [[Varys]] and a [[septa]] as one of his own, he gives Eddard some interesting intelligence: Jon Arryn's [[Hugh of the Vale|former squire]] has been [[Knighthood|knighted]] and will fight in the forthcoming Hand's tourney. He also advises him to investigate [[Tobho Mott|an armorer]] located in the city. Eddard decides that Littlefinger may be more trustworthy than he first thought, but Littlefinger discourages him from thinking that way.{{Ref|GOT104}}
+
+[[File:Cripples-Bastards-and-Broken-Things-sansa-stark-23083167-1280-720.jpg|thumb|Petyr meets Sansa and Arya.]]
+Littlefinger sits next to [[Sansa Stark]] during the tournament, and remarks that she and [[Joffrey Baratheon|Joffrey]] have had a lover's quarrel. When her sister, [[Arya Stark|Arya]], asks about how he got his moniker, he tells her of how his home, the [[Fingers]], was combined with his small height as a child. Following the death of Ser Hugh at the hands of [[Gregor Clegane]], Baelish then tells Sansa that Gregor, the "Mountain That Rides", has a dark reputation: he pushed his little brother [[Sandor Clegane|Sandor]]'s face into a fire for taking and playing with a toy of his when they were young, burning him severely. Littlefinger recommends that Sansa not spread that story around.{{Ref|GOT104}}
+
+Littlefinger loses a bet to [[Renly Baratheon]] over the joust between Ser [[Loras Tyrell]] and Ser [[Gregor Clegane]]. He makes it clear that he knows about Renly's sexual relationship with Loras, to Renly's discomfort. He then explains to Sansa that Loras had been crafty in his attack, to which Sansa defends Loras's honour. Petyr rebuffs this by saying that gold provides exception.{{Ref|GOT105}}
+
+[[File:Petyr_and_Varys_1x05.png|thumb|Baelish and Varys converse in the Throne Room.]]
+Varys finds Littlefinger in the [[throne room]] staring at the [[Iron Throne]], where he reveals that he would intend to execute all those who have ever mocked or looked down on him if he was [[King of the Andals and the Rhoynar and the First Men|King]]. Varys reveals that he knows about Littlefinger's assistance in Eddard's investigation of Jon Arryn's death and reminds Littlefinger of the consequences that may befall him should the Lannisters discover his involvement. In response, Littlefinger reveals that he already knows about Varys having met with both Eddard and [[Illyrio Mopatis]], a [[Pentos]]hi m[[Magister|agister]] representing [[House Targaryen]]. Their conversation is interrupted by Renly, who informs them that Robert will be joining them at their Small Council meeting. They then both support the motion to have [[Daenerys Targaryen]] and [[Rhaego|her unborn child]] assassinated before the [[Dothraki]] can invade [[Westeros]]; Petyr in particular emphasises that the situation should be dealt with quickly, comparing the situation to unwanted sex.{{Ref|GOT105}}
+
+Littlefinger later introduces Eddard to [[Mhaegen]], a prostitute and mother of yet [[Barra|another]] of King Robert's bastard children. Outside the brothel, Eddard gets into a [[Skirmish at Littlefinger's brothel|fight]] with Ser [[Jaime Lannister]]. Littlefinger flees, promising to return with the [[City Watch of King's Landing|City Watch]].{{Ref|GOT105}}
+
+Littlefinger is stunned when Eddard orders that [[Gregor Clegane]] be arrested and executed for his raids on the [[Riverlands]] and when he orders [[Tywin Lannister]] to present himself at court to answer for his bannerman's crimes. Littlefinger reminds Eddard that Tywin is the richest man in Westeros and that it is gold that wins wars, not armies. Eddard disagrees, asking why Tywin is not the king if this is the case.{{Ref|GOT106}}
+
+[[File:Littlefinger and Ros 1x07.jpg|thumb|Petyr explains his ambitions to Ros.]]
+Littlefinger instructs the newly-arrived [[Ros]] and another prostitute, [[Armeca]], on how to please their customers and make them happy. When they ask him to join them, he refuses, saying that he only ever had eyes for [[Catelyn Stark|one woman]]. He tells them about his past, how he loved and fought a duel for a woman. He lost and subsequently realized that he could never beat those in power by honorable means, as they would never let him compete on equal terms and will defeat them with his intellect. When Ros asks him what he wants, he says, "Oh, everything." before excusing the two [[Prostitution|prostitutes]].{{Ref|GOT107}}
+
+[[File:Eddard_and_Petyr_1x07.png|thumb|Baelish betrays Ned in order to remain and gain power.]]
+Later, Eddard tells him the truth of [[Joffrey Baratheon|Joffrey]]'s parentage and his plan to install [[Stannis Baratheon|Stannis]] on the throne when Robert dies. Littlefinger suggests instead that they let Joffrey rule but act as the powers behind the throne. If he does not mature into the king they want, they can expose his dirty secret and install Lord Renly instead. Eddard rejects the plan as treason and instead asks Littlefinger to win over the City Watch to their cause. Littlefinger agrees, but later the City Watch turns on Eddard's men and [[Massacre in the Red Keep|kills]] them, while Littlefinger holds a dagger to Eddard's throat, pointing out, "I did warn you not to trust me."{{Ref|GOT107}}
+
+[[File:Littlefinger 1x08.png|thumb|Petyr tries to convince Cersei of Sansa's innocence.]]
+Lord Baelish asks the Queen to allow Sansa Stark to prove her loyalty as he attends the girl’s audience with the Queen and the council. He defends Sansa during her testimony, suggesting that she is innocent of any wrong, much to the chagrin of Varys (who believes that Sansa's confession is the only way to free Ned) and Pycelle (who is under threat from the Lannisters). Subsequently, Cersei orders that Sansa write to her brother, [[Robb Stark|Robb]], in order to settle the situation peacefully. He stands with the Small Council as the details of Joffrey’s reign are read out and Barristan Selmy’s position is ordered to be taken up by Jaime Lannister; a snide remark from Baelish at Selmy's expense causes the seasoned knight to draw his sword and toss it at the king's feet. He glances suspiciously at Varys as Sansa seeks pardon for her father's actions.{{Ref|GOT108}}
+
+Baelish watches on as Eddard Stark confesses at his trial and is [[Execution of Eddard Stark|executed]].{{Ref|GOT109}}
+
+Littlefinger discusses kingship with Varys, and they engage in banter revolving around the Master of Whisperers' lack of genitalia. They eventually acknowledge their mutual admiration and respect of one another, before being interrupted by Joffrey and his entourage.{{Ref|GOT110}}
+
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+The [[Citadel]] announces the coming of winter and Littlefinger warns the [[Small Council]] that they do not have enough food for a protracted winter lasting more than five years. Cersei orders the city barred to refugees from the [[War of the Five Kings]]. [[Tyrion Lannister]] arrives to take up his position as acting [[Hand of the King]] to Cersei's consternation.{{Ref|GOT201}}
+
+[[File:Cersei Little Finger Season2.jpg|thumb|Cersei tasks Petyr with finding Arya Stark.]]
+[[Stannis Baratheon]] learns of [[Jaime Lannister]]'s incestuous relationship with Cersei in a letter sent by [[Eddard Stark]] before his death, which was sent with Petyr's knowledge. Stannis composes his own missive and sends it to all the high lords of the Seven Kingdoms asking them to declare their loyalty to him and telling them of Joffrey's illegitimacy. Cersei tasks Littlefinger with finding the missing [[Arya Stark]] and needles him about his love for [[Catelyn Stark]].{{Ref|GOT201}}
+
+[[File:Cersei-and-Littlefinger-cersei-lannister-30310091-1024-576.jpg|thumb|180x180px|Cersei threatens Petyr.]]
+He responds by referencing her incest, reminding her that with knowledge, comes power. Littlefinger receives a violent reprimand when Cersei tells her men to cut Littlefinger's throat but then says she has changed her mind, in order to remind him of his place, and that being born into power can never match Petyr's ambitiousness, threatening his life if does not locate Arya. King [[Joffrey Baratheon]] responds to the ensuing rumors by ordering a city wide [[Massacre in King's Landing|massacre]] of [[Robert Baratheon|his father's]] bastards. The City Watch storm into Littlefinger's brothel in search of one of Robert's illegitimate children - a baby girl named [[Barra]]. They rip Barra from her mother's arms and kill the child in front of Littlefinger's employees.{{Ref|GOT201}}
+
+Littlefinger mocks a request from the [[Night's Watch]] for assistance combating [[Free Folk|wildling]] activity and reporting an attack by [[wight]]s. Tyrion has Lord [[Janos Slynt]] exiled to the [[Wall]] for his part in the massacre. Littlefinger later has to reorganise a nobleman to whore with Armeca when [[Ros]] begins to cry during his time with her. She explains that she is traumatised with Barra's murder, giving her insomnia. In order to convince her that it is best for her to keep up her work, Littlefinger intimidates [[Ros]] with a story of a [[Lys]]ene who did not bring him significant income due to her sadness, who he eventually sold to a violently perverted individual. He allows her to take the rest of the day off, but asks her to resume her work the following day.{{Ref|GOT202}}
+
+Tyrion meets with Littlefinger and outlines a plan to wed [[Myrcella Baratheon]] to [[Robin Arryn]] to secure the support of the [[Vale of Arryn|Vale]]. He promises to make Littlefinger the [[Lord of Harrenhal]] and [[Lord Paramount of the Trident]] in exchange for his assistance and swears him to secrecy. [[Pycelle]] is arrested for revealing that Tyrion plans to wed Myrcella into [[House Martell]] and Littlefinger realizes that he was involved in a ruse. He confronts Tyrion who apologizes and offers him another opportunity; to act as an envoy to Catelyn to propose a prisoner exchange.{{Ref|GOT203}}
+
+Littlefinger reaches Catelyn at [[Renly Baratheon]]'s camp in the [[Stormlands]]. He faces a frosty reception from Renly but nevertheless offers to betray the Lannisters and open the gates of King's Landing to Renly's army. He takes interest in Renly's new bride [[Margaery Tyrell]] and lets Margaery know that he is aware that it is a purely political marriage because of Renly's homosexuality.{{Ref|GOT204}}
+
+[[File:SilentSistersNedsBones.jpg|thumb|Petyr gives Ned's bones to Catelyn.]]He meets with Catelyn as planned and delivers Eddard's remains as a sign of good faith. She greets him with angry recriminations over his betrayal of Eddard and rejects his poorly timed advances. He delivers Tyrion's suggested exchange terms; Jaime for [[Sansa Stark|Sansa]] and [[Arya Stark]]. Littlefinger lies that the Lannisters have Arya in their custody.{{Ref|GOT204}}
+
+[[File:Loras vengeance Renly.jpg|thumb|Petyr Baelish forges a new alliance with the Tyrells.]][[Assassination of Renly Baratheon|Renly is killed in mysterious circumstances]] and Littlefinger then approaches the Tyrells with a new proposal of an alliance with Joffrey. This will allow Margaery Tyrell to remain a queen and provide Loras Tyrell vengeance on Stannis. He leaves the camp with them for Highgarden.{{Ref|GOT205}} Catelyn acts alone to free Jaime on returning to Robb's camp, just as Littlefinger suggested.{{Ref|GOT208}}
+
+Littlefinger travels to [[Harrenhal]] to propose an alliance between [[House Lannister]] and [[House Tyrell]] to Lord [[Tywin Lannister]]. When arrives at camp, his cupbearer, Arya Stark, who Cersei tasked Petyr with tries to hide her face to prevent Littlefinger from identifying her. Baelish discusses the assassination of Renly, and the subsequent rallying of the noble Houses from the [[Stormlands]] under [[House Baratheon of Dragonstone|the banner of Stannis Baratheon]]. However, House Tyrell of the Reach has retreated its large army back to their capital at Highgarden, and has not joined Stannis. Baelish discusses with Tywin the possibility of forming an alliance between House Lannister and House Tyrell.{{Ref|GOT206}}
+
+Littlefinger is successful in negotiating with the Tyrells and the allied forces arrive in time to claim victory at the [[Battle of the Blackwater]].{{Ref|GOT209}}
+
+[[File:Margaery love 2x10.jpg|thumb|Petyr introduces Margaery to Joffrey.]]
+Littlefinger is elevated to [[Lord of Harrenhal]] in reward for brokering the alliance. He jokes that now he must get started on producing some heirs. Hence, Sansa's betrothal to King Joffrey is broken so that Joffrey can marry Margaery. Sansa is overjoyed at that she no longer has to marry Joffrey but tries to look heartbroken.{{Ref|GOT210}}
+
+[[File:Sansa and Petyr 2x10.jpg|thumb|Petyr warns Sansa about Joffrey.]]
+Littlefinger warns Sansa that she isn't fooling anyone and that Joffrey will not let her go despite setting her aside. He stresses that, if anything, she is in more danger than ever, as she still remains captive, and now has no protection from her egagement. Lord Petyr tells her that she reminds him of Catelyn and offers to take her home to Winterfell but she is reluctant to trust him.{{Ref|GOT210}}
+
+===[[Game of Thrones: Season 3|''Game of Thrones'': Season 3]]===
+[[File:Ros set photo Season 3.jpg|thumb|Ros escorts Littlefinger to meet with Sansa.]]
+Baelish colludes with Sansa Stark that he plans to smuggle her out of the city on his ship when he leaves on an upcoming mission. She displays an eagerness to leave as soon as possible. He suggests that when he next leaves the capital by sea, she might be able to stow away. Sansa advises him not to give her too many details since she is a terrible liar. Meanwhile, Ros, who seems to be acting as Littlefinger's aide, reminisces about the day Sansa was born, when all the bells in Winterfell were rung in celebration. She asks Shae to look out for Sansa, particularly in regards to Littlefinger.{{Ref|GOT301}}
+
+[[File:Tyrion littlefinger 3x03.jpg|thumb|Petyr explains the privileges of the Master of Coin. ]]
+With his new position as Lord of Harrenhal, Littlefinger's status is elevated considerably, enough for him to leave his position as [[Master of Coin]] to Tyrion, purchase a ship and prepare to sail to the Eyrie with a marriage proposal to the widowed [[Lysa Arryn]]. However, knowing full well that Sansa could end up being a more politically powerful wife than Lysa, he plans to take her on his ship with him. Ros, now secretly working for Varys, discovers his intentions and informs Varys who promptly convinces Lady [[Olenna Tyrell]] to arrange a marriage between Sansa and Loras.{{Ref|GOT303}}
+
+[[File:Cersei Baelish Kissed by Fire.png|thumb|Cersei expresses her worries about the Tyrells to Petyr.]]
+Cersei asks Littlefinger to collect information on the Tyrells, explaining that she fears that the Tyrells do not have the Lannisters' best interests at heart, but her father won't listen. Therefore, she asks that Littlefinger use his spies to try to find out what they're up to, because he has a good working relationship with them after brokering the Lannister-Tyrell alliance. He agrees, but Cersei warns him that this had better produce more results than when she previously asked him to find Arya Stark. Littlefinger orders one of his homosexual prostitutes, [[Olyvar]], to act as Loras's squire and seduce him all the way to the bedroom. He does so and manages to get Loras to admit to the secret wedding plans. Olyvar relays this piece of information back to Littlefinger, who tests Sansa. When she declines her place on his ship, Baelish realizes Varys's plan and tips off Cersei and Tywin.{{Ref|GOT305}}
+
+A short time later, Littlefinger meets with Sansa, offering her a place on his ship that will take him from the capital to the Vale of Arryn. Sansa practices lying for a change, and tells him that they should wait until after Joffrey's wedding, primarily because she fears for ''his'' safety if the plan fails (in actuality, she believes her staying in King's Landing will result in a marriage to Loras). A master manipulator, Littlefinger is clearly suspicious of her motives, but doesn't press the matter for the moment. Instead he says he is touched by her concern for his safety, and insists that she call him "Petyr."{{Ref|GOT305}}
+
+[[File:Baelish Varys the climb.jpg|thumb|Petyr tells Varys of Ros's death.]]
+Baelish deduces that it must have been Ros who betrayed him, so he gives her to King Joffrey, who tortures and kills her with his crossbow. In the throne room, Littlefinger confronts Varys about his foiled plot. Varys responds by telling him that he "did what he did for the good of the realm" to prevent it spiraling into chaos but Littlefinger counters him by asserting that he views chaos as the perfect scenario to climb further up the social ladder. His ship then departs for the [[Vale of Arryn]], much to Sansa's distress, who had just discovered her engagement to Tyrion Lannister.{{Ref|GOT306}}
+
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+After Joffrey's [[Purple Wedding|death]], [[Dontos Hollard]] delivers [[Sansa Stark]] to Lord Baelish's ship. After Sansa climbs aboard, Dontos reminds Lord Baelish about his payment. Baelish snaps his fingers, and crossbowmen kill Dontos. Baelish takes off Sansa's necklace, which he made himself, and throws it overboard, landing on Dontos' body.{{Ref|GOT403}}
+
+Still sailing, Lord Baelish approaches Sansa at her cabin and tells her that they are on their way to the Vale where she will be safe. Sansa accuses him of killing Joffrey; he tries to deny it at first, but Sansa knows that he had something to do with the murder because getting her out of King's Landing was part of the plan. He admits it, telling her about the [[Strangler|poison]] in the necklace, and states that Joffrey couldn't be trusted and had to be removed. Because Baelish has been away for a while, he would never be suspected, and the whole purpose of the murder was to confuse the Lannisters--which his new friend, Lady [[Olenna Tyrell|Olenna]], wanted very badly.{{Ref|GOT404}}
+
+Littlefinger and Sansa, now pretending to be his niece Alayne, pass the [[Bloody Gate]] and make their ascent to the [[Eyrie]], where they meet [[Lysa Arryn]] and her son, Lord [[Robin Arryn|Robin]]. After Sansa is acquainted with the two of them and is told that no one can know about her presence, Robin takes her to her chambers. Baelish is left alone with Lysa, who kisses him and tells him she wants to marry him immediately.{{Ref|GOT405}}
+
+[[File:Littlefinger_reveal.png|thumb|Lysa reminds Petyr she killed her husband at his behest.]]
+He is reluctant at first and wants to inform the Lords of the Vale about the ceremony, but Lysa says that they already had their wedding night long ago. She then asks him what wife would do for him the things she had done for him, including poisoning her husband's wine, thus killing him, and then writing a letter to her sister [[Catelyn Stark|Catelyn]] claiming it had been the Lannisters who did it, all of this at Littlefinger's behest. He starts to kiss her before anyone can overhear her. Although Littlefinger states he will inform a [[septon]] the following day, Lysa then brings one into the hall to wed them immediately and says that she will scream loudly as her husband, Lord Baelish, is making love to her that night, even being able to her across the [[Narrow Sea]]. She keeps her promise, much to Sansa's annoyance.{{Ref|GOT405}}
+
+[[File:Littlefinger-sansa kiss.png|thumb|Littlefinger kisses Sansa.]]
+The next day, after Sansa slaps Robin for ruining the snow castle of Winterfell she made in the Eyrie's courtyard, Littlefinger approaches her and calms her down, stating that Robin should've been disciplined by his mother long ago and that he will deal with Lysa. When Sansa states she will never see Winterfell again, he counters that a lot can happen between "now and never" and that she must demolish her old home if she wants to build one anew. Sansa insists to know why he killed Joffrey.{{Ref|GOT407}}
+
+[[File:Petyr Baelish and Lysa Arryn 4x07.jpg|thumb|Petyr cruelly manipulates Lysa before he kills her.]]
+He answers that he did it out of love for Sansa's mother. He adds that in a different world she might have been his child. He dismisses the notion and states she's more beautiful that Catelyn ever was. He kisses Sansa afterward. Later, Petyr prevents Lysa from throwing Sansa out of the Moon Door after she saw the kiss. After, Lysa is more subdued, Petyr tells her he has always loved only one woman, her sister. He then pushes Lysa out of the Moon Door.{{Ref|GOT407}}
+
+[[File:Littlefinger-the-vale-640x502.png|thumb|Baelish is interrogated following Lysa's death.]]
+Following Lysa's death, Petyr Baelish is questioned by Lord [[Yohn Royce]], Lady [[Anya Waynwood]], and Ser [[Vance Corbray]] about Lysa's death, which he claims was suicide. The lords don't believe him, given Lysa's devotion to her son. They rebuff Littlefinger's explanations in favor of speaking with the only other witness: his "niece", Alayne. Baelish is noticeably concerned after they reveal that they will not allow him to speak to her prior to her testimony so they can hear the "unadulterated truth." However, after confirming that Baelish can stay for her testimony, Alayne reveals her true identity, the tale of her captivity and flight from King's Landing. She then speaks of Lysa's mental instability, jealousy, and death, changing only a few details: saying Littlefinger only kissed her on the cheek and that Lysa did throw herself from the Moon Door. Sansa breaks down in tears and the lords are convinced, but while none of them are looking, she gives Littlefinger a stony, almost triumphant gaze.{{Ref|GOT408}}
+
+[[File:Waynwood and Royce costumes.jpg|thumb|Petyr requests that the Lords of the Vale help Robin in his transition from boy to man.]]
+Following the questioning, Petyr admonishes the lords for hiding away in the Vale during the [[War of the Five Kings]], questioning their loyalty because they refused Catelyn Stark's plea for assistance in the conflict against the Lannisters. When asked who he thinks they should back, he responds that they should back "Robin Arryn, Lord of the Vale." When the lords scoff at his suggestion, claiming that Robin is just a sickly boy, Petyr responds by declaring that "even sickly little boys can become powerful men," and that it is time for young Robin to leave the nest. The boy, he claims, needs to learn to ride a horse, to swing a sword, and to become the lord the Vale needs. He offers to take Lord Robin on a tour of the Vale in order for him to become acquainted with his domains, a request that the lords agree to.{{Ref|GOT408}}
+
+Later, Baelish visits Sansa and asks why she lied on his behalf. Without looking up from the dress she is mending, Sansa explains that she has no idea what Royce, Corbray, and Waynwood would want from her if he were eliminated, but that she does know what it is he wants. Littlefinger seems impressed that she made such a calculating decision, but attempts to cast doubt on her certainty. Sansa doesn't take the bait.{{Ref|GOT408}}
+
+[[File:Screen-shot-2014-02-10-at-1-34-48-pm.png|thumb|Baelish prepares Robin to leave the Eyrie.]]
+Later on, Baelish and Robin stand in the High Hall, preparing to depart for their tour of the Vale. Robin expresses his uncertainty about leaving the Eyrie, echoing his mother's words that the outside world is a dangerous place where he could die. Petyr calms his fears by stating that people die from everyday causes, and that instead of worrying about his inevitable death to spend time focusing on his life, which lays before him. At that moment, a raven-haired Sansa appears at the top of the stairs in a feathered black dress with a plunging neckline. Petyr stares at her intently, clearly intrigued and pleased by her recent transformation, and she returns his smile knowingly.{{Ref|GOT408}}
+
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+[[File:Sansa-petr-yohn.png|thumb|Littlefinger watches Lord Robin practice his swordsmanship along with Sansa and Yohn Royce.]]Littlefinger attends a sword jousting session for Lord [[Robin Arryn|Robin]] at [[Runestone]], along with [[Sansa Stark|Alayne]] and [[Yohn Royce]]. Royce remarks on Robin's weak skills at swordsmanship, but Petyr insists [[House Arryn|his name]] is all that matters, not his skill. A maester delivers him a raven message, which he reads discreetly. Littlefinger leaves Robin in the care of Lord Royce, for further training. On the carriage ride, he is questioned by Sansa as to why they are heading west when Lord Royce was told they would be traveling to the Fingers, unsure of his source of distrust. Petyr promises her that they are going somewhere far away, where Sansa will be safe from Queen [[Cersei Lannister|Cersei]].{{Ref|GOT501}}
+
+While at an inn, Petyr and Sansa are confronted by [[Brienne of Tarth]], who previously swore an oath to Catelyn Stark to keep the Stark girls safe. Petyr reminds Brienne that she swore an oath to Renly Baratheon and Catelyn Stark, both of whom are now dead, in order to stop Sansa from trusting her. Petyr attempts to "persuade" Brienne to rest with them, but Brienne and her squire, [[Podrick Payne]], escape, and discreetly continue to follow Petyr and his party.{{Ref|GOT502}}
+
+[[File:Littlefinger and Alayne Season 5 trailer.jpg|thumb|Petyr tells Sansa of her engagement to Ramsay Bolton.]]
+However, when the party arrives at the ruins of [[Moat Cailin]], Sansa realizes that Petyr intends to marry her to [[Ramsay Bolton]], the son of Lord [[Roose Bolton]], who betrayed and murdered her brother and mother. Despite Sansa's reluctance to marry into another family that harmed hers, Petyr persuades her to go along with the plan, citing it as a chance to avenge her family. They subsequently ride through Moat Cailin, and arrive at [[Winterfell]].{{Ref|GOT503}}
+
+[[File:LittlefingerandRoose.jpg|thumb|Littlefinger's motives are questioned by Roose Bolton.]]
+Later, Petyr speaks with Ramsay and subtly warns him not to inflict any harm on Sansa. He also speaks with Roose regarding the validity of Sansa's marriage to Tyrion Lannister. Petyr insists that since Tyrion never slept with Sansa, their marriage is invalid. Roose declares that he is only interested in Sansa's name, not her virtue (after Baelish suggests he have Sansa inspected) and voices his doubts as to whose side Petyr is truly on, having essentially betrayed the Lannisters by taking Sansa away from them and returning her to the North to marry into a family that the Lannisters are no longer backing, though Petyr counters by citing Roose's betrayal of the Starks and Tullys. Roose then presents a letter for Petyr from Cersei which arrived from the Eyrie, and demands to read Petyr's reply before it is sent off.{{Ref|GOT503}}
+
+Later on, Petyr finds Sansa in the crypts of Winterfell paying her respects to her deceased family members. Petyr recalls about how Rhaegar Targaryen kidnapped Sansa's aunt, Lyanna, which started Robert Baratheon's rebellion against the Targaryen family. Petyr then tells Sansa that he has to return to King's Landing on Cersei's request. Sansa expresses unease about being left alone in Winterfell, but Petyr tells her not to worry, since [[Stannis Baratheon]] is garrisoned at Castle Black and will most likely make another try for the Iron Throne, which will require him to retake Winterfell, destroy the Boltons and win the Northern Lords to his side, and out of respect for Ned Stark's support of his claim, Stannis will rescue Sansa and name her the new Warden of the North, and if Stannis is killed or does not even come, then Petyr suggests Sansa can destroy the Boltons from within. He kisses her on the lips again and departs.{{Ref|GOT504}}
+
+Baelish returns to King's Landing to find the city under the rule of the newly-reestablished [[Faith Militant]]. [[Lancel Lannister]], a member of the religious cult known as the [[Sparrows]], warns him that his days as a brothel owner in the capital are over; Littlefinger flippantly dismisses the warning and informs Lancel he is in the capital to meet Cersei, obliging the Sparrows to let him pass. At his meeting with Cersei, after questioning her wisdom of letting the Faith Militant reform and alienating House Tyrell with the formers arrest of Ser Loras, Baelish informs her of the Boltons' plans to marry Sansa to Ramsay. Angered at the Boltons' betrayal, Cersei agrees with Baelish's plans to lead an army of Vale knights to Winterfell to reclaim the North for the Lannisters, as the warriors from the Eyrie are trained to fight in winter (the weather is starting to turn at this point), but only once the Boltons and Stannis Baratheon have battled over the North and weakened both armies. In exchange, Baelish asks to be appointed as the new Warden of the North once Winterfell is taken and both the Boltons and Stannis are defeated. Cersei agrees and tells him to return that night to have the King sign a royal decree promoting him.{{Ref|GOT506}}
+
+[[File:LittlefingerandOlena.jpg|thumb|Baelish reveals crucial information to Olenna.]]
+Baelish later stands in his ruined brothel with a look of regret. He is approached by Olenna Tyrell, having sent her a letter to speak with him. As they speak, Olenna mentions how her grandchildren, Margaery and Loras, have been arrested due to Cersei's machinations and demands his help by threatening that if anything happens to her or if House Tyrell goes down, she will reveal his involvement in Joffrey's murder, which will certainly lead to his execution; she also threatens to have her men murder him should any harm befall her. Outmaneuvered, Baelish reveals that Cersei summoned him to King's Landing for ''"a piece of information he had"'', his prostitute Olyvar, and he tells Olenna that he will give her the same thing he gave Cersei: a handsome young man — implied, in this instance, to be Lancel. Olenna subsequently forces Lancel to reveal the adulterous affair he had with Cersei to the [[High Sparrow]], who has her arrested.{{Ref|GOT507}}
+
+===[[Game of Thrones: Season 6|''Game of Thrones'': Season 6]]===
+[[File:Book of the Stranger 05.jpg|thumb|Baelish convinces Robin Arryn to join the fray.]]
+Baelish returns to [[Runestone]] and greets Robin Arryn and Yohn Royce. Yohn quickly voices his suspicion of Baelish's involvement in Sansa's marriage to Ramsay Bolton since Baelish had told Yohn that Sansa was going to the Fingers with him. With the intention of manipulating Robin, Baelish responds by falsely claiming the Boltons ambushed Sansa and Baelish on the way to the Fingers and insinuates that Yohn leaked the information to the Boltons. Robin suggests having Yohn thrown through the Moon Door for this false treason but asks for Baelish's advice on what to do with Yohn. Baelish responds that if Yohn can ensure his loyalty to Robin Arryn, which Yohn quickly gives, that Yohn should be given a final chance. Baelish then immediately follows-up and tells Robin that he has learned that Sansa has fled Winterfell and will likely head to her half-brother Lord Commander [[Jon Snow]] at Castle Black for protection, though the Boltons will pursue her. Robin responds that since Sansa is his cousin, he should help her. Baelish takes his cue and orders Yohn to gather the knights of the Vale to rescue Sansa from the Boltons. This brings an end to the neutrality of House Arryn, which until then had steered clear of the [[War of the Five Kings]].{{Ref|GOT604}}
+
+[[File:The Door 05.jpg|thumb|Petyr tells Sansa about Brynden's victory at Riverrun.]]
+Later, Baelish sends a letter to Sansa at Castle Black asking to meet in [[Mole's Town]]. Sansa travels to Mole's Town with [[Brienne of Tarth|Brienne]] and confronts Baelish about her marriage to Ramsay, coldly asking if he knew the truth about Ramsay's sadistic side all along or if he was unaware and therefore, just stupid. Baelish responds that he made a mistake "trusting a [[Ramsay Bolton|stranger]]" and apologizes profusely, horrified at what Ramsay did, but has rallied the knights of the Vale to her cause and that the army is encamped at [[Moat Cailin]]. Sansa refuses his offer, saying that Baelish cannot help her - that he cannot even help himself if she orders Brienne to strike him down. She tells him that she already has her brother Jon's help and they will rally other Northern houses to their cause. She finishes by warning him never to speak to her again. Baelish, as he prepares to leave, tells Sansa of her great-uncle [[Brynden Tully]]'s success in recapturing [[Riverrun]] and suggests reaching out to him for support. Before he leaves, he reminds Sansa of Jon's [[bastard]]y.{{Ref|GOT605}}
+
+[[File:Battle of the Bastards 30.jpg|thumb|Baelish arrives with the Knights of the Vale.]]
+When failing to rally enough houses to their side, Sansa secretly writes Baelish to take him up on the offer she previously rejected.{{Ref|GOT607}} Baelish arrives with the Vale Knights of [[House Arryn]] just when the Stark force is about to be massacred in the [[Battle of the Bastards]], and the Vale forces easily wipe out what remains of the [[House Bolton|Bolton]] army. Baelish is present when Wun Wun smashes down the door to Winterfell and witnesses Jon defeat Ramsay in combat. House Stark is subsequently restored as Lords of Winterfell and Ramsay is executed.{{Ref|GOT609}}
+
+[[File:GOT S6 28.png|thumb|Littlefinger tells Sansa of his intentions to sit on the Iron Throne, with her as his queen.]]
+In the battle's aftermath, Baelish approaches Sansa in the Godswood and finally admits that his goal is to sit on the Iron Throne with Sansa as his queen. Despite Baelish having declared for House Stark, Sansa refuses to trust him, due to Baelish's tendency to betray those he declares for his own well-being. Upon Sansa's refusal of him, Baelish attempts to convince Sansa that she should rule the North, calling Jon a "motherless bastard." Baelish is later present at the meeting where Jon is proclaimed the new King in the North by the Northern lords along with the Vale lords. Baelish is the only one who does not cheer, and instead stares at Sansa.{{Ref|GOT610}}
+
+===[[Game of Thrones: Season 7|''Game of Thrones'': Season 7]]===
+Petyr watches disapprovingly as Jon hands the castles of [[Last Hearth]] and [[Karhold]] back over to [[Ned Umber]] and [[Alys Karstark]], despite their parents' role in the Battle of the Bastards.{{Ref|GOT701}}
+
+[[File:GoT-Sn7 FirstLook 07.jpg|thumb|180x180px|Petyr questions Sansa's happiness.]]
+He later confronts Sansa to see if she is truly "safe" and "happy." She tells him she is safe in [[Winterfell]], but he continues to question her in regards to her happiness. Sansa dismisses him. Just before he tries to resume speaking, Sansa dismisses Petyr again as Brienne arrives.{{Ref|GOT701}}
+
+[[File:Jon and Petyr in Stormborn.PNG|thumb|Petyr admits his love for Sansa to Jon.]]
+In the Great Hall, Petyr watches as Jon discusses accepting the deal to meet with [[Daenerys Targaryen]] to the other lords, citing the need for [[Dragonglass]] to forge weapons to kill [[White Walkers]] after receiving a raven from [[Samwell Tarly]]. Petyr smirks as Jon places his half-sister Sansa in charge of the North while he is gone. In Winterfell's crypts, Petyr finds Jon visiting his father's tomb and claims to Jon that he only wants to help him. Jon does not buy it and angrily orders Baelish out of the crypt, bluntly stating he has nothing to say to the man. Slightly offended, Baelish retorts that Jon might show him a little gratitude for saving him from death at the hands of [[Ramsay Bolton]]. He also admits his love for Sansa - just as he "loved her mother." Disgusted, Jon shoves Petyr against the wall and strangles him, angrily promising Baelish that he will kill him if he ever touches Sansa, and angrily leaves the crypts.{{Ref|GOT702}}
+
+[[File:Petyr Cunning.jpg|thumb|Petyr advises Sansa to plan for every possibility. ]]
+Sansa and Petyr learn from [[Order of Maesters|Maester]] [[Wolkan]] that they have about 4,000 bushels of wheat. Sansa realizes that they don't have enough food for the coming winter. She advocates building granaries to stockpile for a famine and orders leather to be placed on the armoury. While walking, Baelish and Sansa talk about the threat of Cersei. Petyr urges her to fight every battle and to look for threats in every corner. They are then interupted by a guard who tells Lady Stark that she has received a visitor at the gates, who turns out to be her younger brother [[Bran Stark]].{{Ref|GOT703}}
+
+Petyr later meets with the recently returned Bran and gives him the [[Valyrian steel dagger]] that was used to make an attempt on his life from the [[catspaw]]. Unimpressed and uninterested, Bran simply asks if he knows who had the dagger before the assassin to which Petyr responds that same question started the [[War of the Five Kings]]. Petyr then asks Bran how he survived [[beyond the Wall]] only to return to such chaos. Bran replies, "Chaos is a ladder," the very thing Petyr said to [[Varys]] during his rise in power after allowing [[Joffrey Baratheon]] to kill [[Ros]]. Slightly unnerved, Petyr then exits upon the entrance of [[Meera Reed]], addressing Bran as "Lord Stark." However, Bran corrects Littlefinger, explaining that he cannot be a lord because he is now the three-eyed-raven.{{Ref|GOT704}}
+
+[[File:Littlefinger-Spoils-of-War.jpg|thumb|180x180px|Littlefinger cunningly watches Arya's return.]]
+Petyr watches from the battlements as [[Arya Stark]] returns to Winterfell and later when she spars with [[Brienne of Tarth|Brienne]]. However, after the practice, Arya looks up at Petyr with a disapproving and untrustworthy look. Yet again hatching another cunning plan, Petyr bows from the high walls and walks away from Arya's view.{{Ref|GOT704}}
+
+After trying and failing to manipulate Bran, Petyr formulates a plan to separate the Stark sisters, starting with Arya. Arya herself becomes increasingly suspicious of Petyr and begins shadowing him in order to figure out his plan. He engages in conversation with a common girl, before giving her money for her information. Arya follows Petyr around Winterfell and watches him from the battlements as he eerily converses with [[Yohn Royce]] and [[Robett Glover]]. Petyr then receives Maester [[Luwin]]'s copy of Sansa's letter to Robb, asking him to surrender to Joffrey, from [[Wolkan]], who assures him that there is no other copy in Winterfell. Arya retrieves the letter after investigating his chambers. However, Petyr watches from the shadows as Arya exits, showing that he knew all along of her spying on him, and was counting on her to find the letter. Petyr smiles, hoping this will turn the hot-tempered Arya against her sister.{{Ref|GOT705}}
+
+After Arya confronts Sansa over the letter, Sansa becomes worried that Arya could turn the Northerners against her or even worse, harm her in some way and voices her concerns to Petyr. Petyr reminds her that Brienne swore an oath to [[Catelyn Stark|Catelyn]] that she would watch over both Stark sisters and should protect her from Arya if the latter was to try and murder Sansa.{{Ref|GOT706}}
+
+Following this, Sansa receives a letter from Jon, stating his pledge to Daenerys Targaryen. Petyr then talks of rumors of the Dragon Queen's beauty, making Sansa believe that Jon wishes to marry her. Petyr is also told that Arya had previously worked as a [[Faceless Men|Faceless Man]] in [[Braavos]], to which he plays on the idea of Arya being a ruthless assassin. Petyr then tells Sansa that he always imagines the worst possible ideas a person has in their mind. He then implants the idea that Arya has come to Winterfell after discovering the letter and her marriages to Tyrion and Ramsay, after which she would become Lady of Winterfell.{{Ref|GOT707}}
+
+However, still unsure of Petyr's intentions, Sansa visits Bran. From this, she learns of the [[Sight]], in which Bran proves Petyr's ultimate guilt in the [[War of the Five Kings]]. This proves everything Petyr has done to gain power: his murder of [[Jon Arryn]], his attempt to kill Bran, his betrayal of Ned and his attempt to turn Arya and Sansa against each other.<ref>http://viewers-guide.hbo.com/game-of-thrones/season-7/episode-7/people/100/petyr-littlefinger-baelish</ref>
+
+[[File:707 Petyr Baelish.jpg|thumb|Petyr watches smugly as Arya is brought to trial, unaware that the trial is for him.]]
+When Arya is seemingly brought to face trial for murder and treason, Sansa catches Petyr off guard when she asks how ''he'' wishes to answer for his crimes. She then reveals to all the Northern and Vale lords gathered there, including Yohn Royce (whom she previously lied to), that Petyr did, in fact, kill her aunt Lysa. He also planned the assassination of Jon Arryn and conspired with the Lannisters to imprison Ned so they could frame him for treason.{{Ref|GOT707}}
+
+When Baelish tries to deny the charges, Bran reminds Petyr that he held a knife to Ned's throat and repeats what Petyr told Ned: "I did warn you not to trust me," at which the stunned Petyr fails to muster any type of defense. Arya, holding the [[Valyrian steel dagger]] that was given to the [[catspaw]] to kill Bran, who had himself been gifted the dagger by Petyr in an attempt of manipulating him, who passed it along to Arya due to its uselessness is his hands, reminds him that he told their mother the weapon belonged to Tyrion, but deduces it was Petyr's all along.{{Ref|GOT707}}
+
+[[File:707 Petyr.jpg|thumb|Baelish begs for his life.]]
+Seeing how things are going, Petyr steps closer to the table, telling Sansa that he has known her since she was a girl and all he did was to protect her; Sansa sarcastically replies "Protected me? By selling me to the Boltons?." He then asks Sansa if they can speak alone and asks if he can or deserves to defend himself, before he tries to order Yohn Royce as Lord Protector to escort him back to the Eyrie, but Royce scornfully refuses. With no one to turn to for aid, Petyr falls to his knees and begs for his life, claiming that he had loved Catelyn since he was a boy, but Sansa replies he still betrayed her.{{Ref|GOT707}}
+
+[[File:Game-of-thrones-season-finale-stills-06.jpg|thumb|180x180px|Littlefinger lays dead in Winterfell.]]
+Petyr insists he loves Sansa, but she replies he betrayed her too. After Sansa thanks him for the many lessons he gave her and that she will never forget, sharing an affirmative look as Arya proceed to kill him. As he pleads for his life Arya slits his throat with the dagger on behalf of the Stark siblings. Petyr collapses to the floor and dies in a pool of his own blood watched by everyone present. Later on, Sansa and Arya discuss the execution, Sansa tells Arya, "In his own horrible way, I believe he [Petyr] loved me."{{Ref|GOT707}}
+
+With Petyr Baelish dead, Westeros is finally free from his deception; all who were killed in the War of the Five Kings because of his actions are finally avenged.{{Ref|GOT707}}
+
+==Personality==
+{{ReferencesSection}}
+{{Quote|He would see this [[Seven Kingdoms|country]] burn '''if he could be king of the ashes.'''|[[Varys]] on Petyr Baelish|And Now His Watch Is Ended}}
+Littlefinger is a cunning, Machiavellian, unpredictable, deceitful, and ruthless opportunist. He is at times capable of putting on a seemingly friendly face with a friendly smile - but his eyes don't smile when his mouth does. Unlike in the books, where the exact inner motivations that drive Littlefinger are unclear, as are his ultimate goals, in the show he has made clear in several occasions that the [[Iron Throne]] is what he desires. Behind his smiles and forced mild manners, Littlefinger is shrewd and calculating, willing to dispose of anyone, even those who trust him, as he would an old coat. He is an extremely intelligent man, not only a genius at financial matters but at controlling those around him. As [[Varys]] observed, he is a grasper from a minor House, with a very great skill at befriending and ultimately manipulating powerful people.
+
+In truth, underneath Littlefinger's people-mask, he is a cold sociopath who hungers for power over others basically for its own sake. Curiously, even seemingly plausible goals such as "revenge against the Starks and Tullys" - which at times is what he tells himself he is doing - are really only excuses and rationalizations for his utter ambition to control everything around him - he has stated more than once that he wants "everything." 
+
+Littlefinger enjoys exerting power over other people. He is willing to use other people, often vulnerable and weak people (i.e., prostitutes), purely for his own gain, while at the same time using the weaknesses of his enemies as leverage; sometimes he doesn't even use people for any actual purpose, but simply because he enjoys destroying them like a man swatting a fly.
+
+Despite his ingenious planning and manipulation, Littlefinger is not incapable of making mistakes, nor is he above overplaying his hand if he is convinced of the superiority of his position.
+
+==Quotes==
+===Spoken by Petyr===
+{{Quote|Distrusting me was the wisest thing you've done since you climbed off your horse.|Littlefinger to [[Eddard Stark]]|Cripples, Bastards, and Broken Things}}
+
+{{Quote|When you find yourself in bed with an ugly woman, best close your eyes, get it over with. Cut her throat. Be done with it.|Littlefinger about [[Robert Baratheon]]'s proposal of killing [[Daenerys Targaryen]].|The Wolf and the Lion}}
+
+{{Dialogue a-b|Ros|What she doesn't know won't hurt her.|Petyr Baelish|A stupid saying. What we don't know is usually what get us killed.|[[Ros]] and Littlefinger|You Win or You Die}}
+
+{{Quote|She told me about all the horses that she liked, the castle she wanted to live in and the man that she wanted to marry. A northerner with a jaw like an anvil. So I challenged him to a duel. I mean, why not? I'd read all the stories. The little hero always beats the big villain in all the stories. In the end, she wouldn't even let him kill me. "He's just a boy," she said. "Please don't hurt him." So he gave me a nice little scar to remember him by and off they went.|Littlefinger recounts his duel with [[Brandon Stark]].|You Win or You Die}}
+
+{{Dialogue a-b-a|Petyr Baelish|You know what I learnt losing that duel? I learnt that I'll never win. Not that way. That's their game, their rules. I'm not going to fight them. I'm going to <u>fuck</u> them. That's what I know, that's what I am, and only by admitting what we are can we get what we want.|Ros|And what do you want?|Oh, everything, my dear. Everything there is.|Littlefinger and [[Ros]]|You Win or You Die}}
+
+{{Quote|I '''did''' warn you not to trust me.|Littlefinger betrays [[Eddard Stark]].|You Win or You Die}}
+
+{{Dialogue a-b|Varys|I admire you, Lord Baelish: a grasper from a minor [[House Baelish|House]], with a major talent for befriending powerful men, and women.|Petyr Baelish|A useful talent, I'm sure you'd agree.|[[Varys]] and Littlefinger|Fire and Blood}}
+
+{{Quote|Those who have the most power have the least grace.|Littlefinger to [[Ros]]|The Night Lands}}
+
+{{Quote|Look around you, we're all liars here, and every one of us is better than you.|Littlefinger to [[Sansa Stark]]|Valar Morghulis}}
+
+{{Dialogue a-b-a|Petyr Baelish|Do you know what the [[Seven Kingdoms|realm]] is? It's the thousand blades of [[Aegon I Targaryen|Aegon]]'s enemies, a story we agree to tell each other over and over until we forget that it's a lie.|Varys|But what do we have left once we abandon the lie? Chaos, a gaping pit, waiting to swallow us all.|Chaos isn't a pit. Chaos is a ladder. Many who try to climb it fail and never get to try again. The fall breaks them. And some are given a chance to climb, but they refuse; they cling to the realm or the gods or love. Illusions. Only the ladder is real. The climb is all there is.|Littlefinger and [[Varys]]|The Climb}}
+
+{{Quote|Always keep your foes confused. If they don't know who you are or what you want, they can't know what you plan to do next.|Littlefinger to [[Sansa Stark|Sansa]]|Oathkeeper (episode)}}
+
+{{Quote|I don't want friends like me.|Littlefinger to Sansa|Oathkeeper (episode)}}
+
+{{Dialogue a-b-a|Littlefinger|So many men, they risk so little. They spend their lives avoiding danger. And then they die. I'd risk everything to get what I want.|Sansa|And what do you want?|Everything.|Littlefinger and Sansa|Oathkeeper (episode)}}
+
+{{dialogue a-b-a-b|Sansa Stark|Why did you really kill [[Joffrey Baratheon|Joffrey]]? Tell me why.|Petyr Baelish|I loved your [[Catelyn Stark|mother]] more than you could ever know. Given the opportunity, what do we do to those who've hurt the ones we love? In a better world, one where love could overcome strength and duty, you might have been my child. But we don't live in that world. You're more beautiful than she ever was.|Lord Baelish?|Call me Petyr...|Littlefinger explains his warped motivations and skewed worldview to Sansa - after which he holds the side of her face and gives her a long romantic kiss on the lips.|Mockingbird}}
+
+{{Quote|Oh, my sweet wife. My sweet, silly wife. I have only loved one woman... only one, my entire life. Your [[Catelyn Stark|sister]].|Littlefinger's last words to his wife [[Lysa Arryn]] before pushing her through the moon door.|Mockingbird}}
+
+{{Quote|People die at their dinner tables. They die in their beds. They die squatting over their chamber pots. Everybody dies sooner or later. And don't worry about your death. Worry about your life. Take charge of your life for as long as it lasts.|Littlefinger giving advice to [[Robin Arryn]].|The Mountain and the Viper}}
+
+{{Quote|There's no justice in this world, not unless we make it. You loved your family, avenge them.|Littlefinger to Sansa|High Sparrow (episode)}}
+
+{{Quote|We both peddle fantasies, Brother Lancel. Mine just happen to be entertaining.|Littlefinger to [[Lancel Lannister|Lancel]]|Unbowed, Unbent, Unbroken}}
+
+{{Quote|Every time I'm faced with a decision, I close my eyes and see the same picture. Whenever I consider a question, I ask myself 'Will this action make this picture a reality', pull it out of my mind and into the world...and I only act if the answer is yes. A picture of ''me'' on the Iron Throne, and ''you'' by my side.|Petyr Baelish finally reveals his true goal to Sansa Stark.|The Winds of Winter}}
+
+{{Dialogue a-b-a|Petyr Baelish|News of [[Battle of the Bastards|this battle]] will spread quickly through the Seven Kingdoms. I've declared for House Stark for all to hear.|Sansa Stark|You've declared for other Houses before, Lord Baelish, but it's never stopped you from serving yourself.|The past is gone for good. You can sit here mourning its departure or you can prepare for the future. You, my love, are the future of House Stark. Who should the North rally behind? A trueborn daughter of Ned and Catelyn Stark, born here at Winterfell? Or a [[Jon Snow|motherless bastard]] born in the South?|Petyr Baelish sows seeds of distrust between Sansa Stark and Jon Snow.|The Winds of Winter}}
+
+{{Quote|Don't fight in the North or the South. Fight every battle, everywhere, always, in your mind. Everyone is your enemy, everyone is your friend. Every possible series of events is happening all at once. Live that way and nothing will surprise you. Everything that happens will be something that you've seen before.|Petyr Baelish to [[Sansa Stark]]|The Queen's Justice}}
+
+===Spoken about Petyr===
+{{Quote|I don't like you, Lord Baelish. I don't like your face, I don't like the words that come oozing out of your mouth, I don't want you in my tent one minute more than necessary. So, tell me. Why are you here?|[[Renly Baratheon]] to Littlefinger|Garden of Bones (episode)}}
+
+{{Quote|Is there an idiot in any village who trusts Littlefinger?|[[Tyrion Lannister]]'s opinion of Littlefinger.|Dark Wings, Dark Words}}
+
+{{Dialogue a-b|Ros|I'm afraid of him.|Varys|Oh, you should be. He's a dangerous man.|[[Varys]] and [[Ros]] discuss Littlefinger|Valar Morghulis}}
+
+{{Quote|Littlefinger was born with no lands, no wealth, no armies. He has acquired the first two. How long before he has the army? Perhaps you'll laugh, but I know him better than most, and this is the truth. Littlefinger is one of the most dangerous men in Westeros.|Varys, regarding Littlefinger to [[Olenna Tyrell]]|And Now His Watch Is Ended}}
+
+{{Quote|He's not a generous man. He wouldn't give you anything unless he thought he was getting something back.|[[Sansa Stark|Sansa]]'s opinion of Littlefinger.|The Spoils of War}}
+
+{{Quote|It's just strange. In his own horrible way, I believe he loved me.|Sansa to [[Arya Stark]], after executing Littlefinger|The Dragon and the Wolf}}
+
+==Family==
+{{Arryn tree}}
+
+==In the books==
+[[File:Roman Papsuev - Petyr Baelish.png|thumb|300px|right|Petyr Baelish by Roman "Amok" Papsuev.©]]
+In the ''[[A Song of Ice and Fire]]'' novels, Petyr Baelish's father made the acquaintance of Lord [[Hoster Tully]] during the War of the Ninepenny Kings, where they fought together. Nothing is known about Petyr's mother, except that her name was Alayne.
+
+"Littlefinger" is a nickname given to Petyr by Edmure Tully during their time at Riverrun together. It is a reference to the fact that Petyr Baelish's holdings are on the smallest of the Fingers, the numerous headlands and peninsulas protruding into the Narrow Sea on the Vale's east coast, and to the fact that he has been slight and short for his age.
+
+On the basis of the above acquaintance, Petyr was sent to foster at Riverrun, where he met Hoster's own daughters, [[Catelyn Stark|Catelyn]] and [[Lysa Arryn|Lysa]]. Lysa developed a crush on Petyr, but Petyr preferred the older, more unobtainable Catelyn. When Catelyn was betrothed to Brandon Stark of [[Winterfell]] Petyr challenged Brandon to a duel of honor for Catelyn's hand, but was soundly defeated. After he had recovered sufficiently from his injures, Lord Hoster had Petyr returned home.
+
+According to Catelyn, Petyr sent her a letter after Brandon's [[Execution of Rickard and Brandon Stark|murder]] by the [[Aerys II Targaryen|Mad King]] (the contents of the letter are not revealed - perhaps he hoped she would agree to marry him), but she burned it unopened, because she knew Ned would marry her in his brother's place. 
+
+Petyr was later appointed as a customs official in [[Gulltown]], the main city of [[Vale of Arryn|the Vale]]. His extreme success in raising funds, bringing in three times as much as any of the king’s other collectors, led Lord [[Jon Arryn]], the [[Hand of the King]], to appoint him to the Small Council as [[Master of Coin]], a task at which Petyr has excelled: he has made the crown's revenues ten times what they have been under [[Qarlton Chelsted|his beleaguered predecessor]] (though the crown's debts have grown vast as well).
+
+Littlefinger did not simply collect gold and keep it; instead, he paid the king’s debts in promises, and put the king’s gold to work. He bought wagons, shops, ships, houses; he bought grain when it was plentiful and sold bread when it was scarce. In the process, he moved his own men into key positions: harbormasters, tax farmers, customs sergeants, wool factors, toll collectors, pursers, wine factors, etc. No one has ever questioned those appointments, since Littlefinger was no threat to anyone: a clever, friendly person, always able to find whatever gold the king or his Hand required, and yet of such undistinguished birth, he was not a man to fear. He had no banners to call, no army of retainers, no great stronghold, no holdings to speak of, no prospects of a great marriage.
+
+Unlike in the TV series, [[Tyrion Lannister|Tyrion]] learns from Catelyn that it was Littlefinger who told her the dagger found on the [[catspaw]] sent to kill [[Bran Stark|Bran]] belonged to Tyrion. Littlefinger explained that it had previously belonged to him until he lost it in a wager with Tyrion when [[Jaime Lannister|Jaime]] was unhorsed by [[Loras Tyrell]]. Tyrion states that this cannot be true because he never bets against Jaime. Catelyn asks why Petyr would lie to her, to which Tyrion retorts: "why does a bear shit in the woods? Because it is in his nature." Catelyn realizes too late that Littlefinger lied to her, when Jaime independently verifies Tyrion's account and had no reason to lie having just confessed to pushing Bran from the window. Catelyn does not have a chance to confront Littlefinger about his lie; Tyrion does, but he does not settle his score with Littlefinger, even though he suffered a lot and almost got killed three times due to that lie (Tyrion pragmatically recognizes Littlefinger is too valuable for his talents as Master of Coin and has too many of his own agents in positions of power at court to eliminate him for the sake of vengeance at the outbreak of the [[War of the Five Kings]], though Tyrion's inner monologue does note that once Littlefinger's usefulness has passed and Tyrion can replace Littlefinger's agents with people loyal to him, he'll gladly revenge himself on Littlefinger).
+
+Unlike in the show, Littlefinger does not go to Harrenhal, neither before nor after he becomes its lord. He explains to Sansa it is because of the curse, which caused the destruction of every house that held Harrenhal, and the death of every individual who served as its castellan: Lady Whent, Tywin, Amory Lorch, Vargo Hoat, the Mountain and Polliver.
+
+Following the [[Massacre in the Red Keep]], [[Jeyne Poole]] is taken by force to one of Littlefinger's brothels, where she is viciously molested and beaten. In the third novel, Littlefinger comes up with the idea to wed her, disguised as Arya Stark, to Ramsay Bolton. Other than that, he has no contact with the Boltons. 
+
+It is implied in the novels that Littlefinger lusts after Sansa, perhaps because she looks so much like her mother, who is lost to him forever. In the fourth novel he kisses Sansa passionately several times, and once touches her breasts; in the fifth novel, Cersei recalls that he offered to wed Sansa, but was denied because he was much too lowborn. Nevertheless, Littlefinger does not let his personal desires 
+interfere with his plans.
+
+Unlike in the show, Littlefinger and Lysa are married at the Fingers, because Lysa insists that they do that without delay. Littlefinger does not like the idea and tries to persuade Lysa to hold the wedding in public, at the Eyrie and in presence of Lysa's whole court (in order to make the Vale lords acknowledge his new position), but Lysa is too stubborn. 
+
+It is unknown whether Littlefinger has planned in advance to dispose of Lysa and seized the opportunity to do that, or it was a spontaneous decision. Either way, the timing of the murder (not the murder itself) has posed him a problem: he has not been married to Lysa long enough to establish his position as the Lord Protector of the Vale in the eyes of the local lords.
+
+Soon afterward, Lord Nestor Royce comes to inquire about Lysa's death and is satisfied by Littlefinger's smooth lies that it was [[Marillion]]. At that occasion, Sansa shivers with fear, especially when Littlefinger says brazenly "it was I who killed her" (as if talking metaphorically), but Littlefinger gets away with the murder. 
+
+Lord Yohn Royce and other lords of the Vale (known as "Lords Declarant"), who scornfully consider Littlefinger an outsider upstart, intend to oust him from the Vale and assume the rearing and training of Robert ([[Robin Arryn]]'s name in the novels). They inform Cersei about their intentions. Littlefinger can request military assistance from Cersei but does not: he sends her a letter, asking for some old tapestries and barely mentions the lords who oppose him. Cersei thinks it over and answers the lords of the Vale that the crown is content with whatever dispositions they may make for the governance of the Vale during Robert Arryn's minority, providing that no harm happens to Littlefinger.
+
+Yohn Royce and five of the most powerful lords of the Vale come to the Eyrie, demanding that Littlefinger leave the Vale and give them custody over Robert. Littlefinger manipulates them into giving him a trial period of one year on his wardship over Robert. Later, he explains to Sansa that in one year, five of those lords either will die or be bribed by him. Lord Royce is the only serious obstacle, but so long as he stands alone - he is not so much a threat.
+
+Littlefinger does not leave the Vale. Instead, he spends his time making contacts and attempting to win over lords of the Vale, the neutral ones and those who oppose him. So far, he has managed to draw three of the six Lords Declarant to his side: Symond Templeton, Benedar Belmore and Anya Waynwood. 
+
+Littlefinger explains his plan to Sansa: after Robert dies (his health is so poor that he will probably die within a few years), she will wed his heir Ser Harrold Hardyng. Sansa reminds Littlefinger she is married and he answers "[[Tyrion Lannister|The dwarf]] wed Ned Stark's daughter, not mine. Be that as it may. This is only a betrothal. The marriage must needs wait until Cersei is done and Sansa's safely widowed." At the wedding, Sansa will reveal her true identity; every knight in the Vale will pledge his sword to win back her birthright and that way she will take over both the Vale and the North.
+
+Littlefinger is still alive by the point the books reached.
+
+Whereas in the series Littlefinger's goals are more transparent (sitting on the Iron Throne), this is not the case of the novels. As Littlefinger is only seen through the POV of other characters (Eddard, Catelyn, Sansa, Tyrion), his ultimate objective remains a mystery. Likewise, his rivalry with Varys was developed for the show.
+
+According to the TV series official [[pronunciation guide]] developed for the cast and crew, "Petyr Baelish" is pronounced "PEE-ter BAY-lish", i.e. like the normal given name "Peter."
+
+==Gallery==
+<gallery>
+Eddard and Petyr 1x04.png|Baelish advises Eddard on politics in King's Landing in "[[Cripples, Bastards, and Broken Things]]."
+Small Council.png|Baelish attends a [[Small Council]] meeting in "Cripples, Bastards, and Broken Things."
+Littlefinger_and_Ned_1x03.jpg|Ned threatening Petyr in "[[Lord Snow]]."
+Cersei_Little_Finger_Season2.jpg|Cersei asks Baelish to locate Arya Stark in [[Game of Thrones: Season 2|Season 2]].
+Baelish Varys the climb.jpg|Littlefinger and Varys speak in "[[The Climb]]."
+Petyr vs Brandon.png
+Petyr and Varys 1x05.png
+Eddard and Petyr 1x07.png|"I did warn you ''not'' to trust me."
+Petyr Baelish and Lysa Arryn 4x07.jpg|Petyr Baelish and Lysa Arryn in "[[Mockingbird]]"
+GOT S6 28.png
+Petyr_littlefinger_s6_The_Door.jpg|Petyr meets with Sansa in "[[The Door]]."
+</gallery>
+
+==Appearances==
+{{Scroll box|
+*{{GOT|Lord Snow}}
+*{{GOT|Cripples, Bastards, and Broken Things}}
+*{{GOT|The Wolf and the Lion}}
+*{{GOT|A Golden Crown}}
+*{{GOT|You Win or You Die}}
+*{{GOT|The Pointy End}}
+*{{GOT|Baelor}}
+*{{GOT|Fire and Blood}}
+*{{GOT|The North Remembers}}
+*{{GOT|The Night Lands}}
+*{{GOT|What Is Dead May Never Die}}
+*{{GOT|Garden of Bones}}
+*{{GOT|The Ghost of Harrenhal}}
+*{{GOT|The Old Gods and the New}}
+*{{GOT|Valar Morghulis}}
+*{{H&L|Robert's Rebellion - Catelyn Stark}} {{Illustrated}}
+*{{GOT|Valar Dohaeris}}
+*{{GOT|Walk of Punishment}}
+*{{GOT|Kissed by Fire}}
+*{{GOT|The Climb}}
+*{{H&L|Robert's Rebellion - Petyr Baelish and Varys}} {{Voice}}
+*{{H&L|The Vale}} {{Voice}}
+*{{GOT|Breaker of Chains}}
+*{{GOT|Oathkeeper}}
+*{{GOT|First of His Name}}
+*{{GOT|Mockingbird}}
+*{{GOT|The Mountain and the Viper}}
+*{{H&L|House Baelish}} {{Voice}}
+*{{GOT|The Wars To Come}}
+*{{GOT|The House of Black and White}}
+*{{GOT|High Sparrow}}
+*{{GOT|Sons of the Harpy}}
+*{{GOT|Unbowed, Unbent, Unbroken}}
+*{{GOT|The Gift}}
+*{{GOT|Book of the Stranger}}
+*{{GOT|The Door}}
+*{{GOT|Battle of the Bastards}}
+*{{GOT|The Winds of Winter}}
+*{{H&L|Knights of the Vale}} {{Voice}}
+*{{GOT|Dragonstone}}
+*{{GOT|Stormborn}}
+*{{GOT|The Queen's Justice}}
+*{{GOT|The Spoils of War}}
+*{{GOT|Eastwatch}}
+*{{GOT|Beyond the Wall}}
+*{{GOT|The Dragon and the Wolf}}
+*{{H&L|The Hand of the King}} {{Voice}}
+*{{C&R|House Arryn, Kings of the Vale}} {{Voice}}
+*{{GOT|The Last of the Starks}} {{Mentioned}}
+}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+*{{WP}}
+
+<!--Succession box-->
+{{S-start}}
+{{Succession box
+ | title  = [[House Baelish|Lord Baelish]]
+ | years  = ? - [[304 AC]]
+ | with   = 
+ | before = [[Lord Baelish]]
+ | after  = None
+}}
+{{Succession box
+ | title  = [[Master of Coin]]
+ | years  = ? - [[301 AC]]
+ | with   = 
+ | before = [[Qarlton Chelsted]]
+ | after  = [[Tyrion Lannister]]
+}}
+{{Succession box
+ | title  = [[Lord of Harrenhal]]
+ | years  = [[300 AC|300]] - [[304 AC]]
+ | with   = 
+ | before = [[Janos Slynt]]
+ | after  = Unknown
+}}
+{{S-end}}
+
+<!--Navboxes-->
+{{House Baelish}}
+{{House Arryn}}
+{{Small Council of Robert I Baratheon}}
+{{Small Council of Joffrey I Baratheon}}
+{{Game of Thrones}}
+{{Histories & Lore}}
+{{Game of Thrones: Conquest & Rebellion: An Animated History of the Seven Kingdoms}}
+
+<!--Categories-->
+{{DEFAULTSORT:Baelish, Petyr}}
+[[Category:Bannermen of House Arryn]]
+[[Category:Bannermen of House Stark]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Individuals narrating Game of Thrones: Conquest & Rebellion: An Animated History of the Seven Kingdoms]]
+[[Category:Individuals narrating Histories & Lore]]
+[[Category:Lords of Harrenhal]]
+[[Category:Masters of Coin]]
+[[Category:Members of House Baelish|Petyr Baelish]]
+[[Category:Regents]]
+[[Category:Servants and retainers of House Baratheon of King's Landing]]
+[[Category:Servants and retainers of House Tully]]
+[[Category:Spies]]
+[[Category:Valemen]]
+[[Category:Wards]]
+
+<!--Languages-->
+[[de:Petyr Baelish]]
+[[es:Petyr Baelish/Game of Thrones]]
+[[fr:Petyr Baelish]]
+[[it:Petyr Baelish]]
+[[ja:ピーター・ベイリッシュ]]
+[[nl:Petyr Baelish]]
+[[pl:Petyr Baelish]]
+[[pt-br:Petyr Baelish]]
+[[ro:Petyr Baelish (serial)]]
+[[ru:Петир Бейлиш]]
+[[tr:Petyr Baelish]]
+[[uk:Петір Бейліш]]
+[[zh:培提尔·贝里席]]

@@ -1,0 +1,76 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Blackwood.svg
+| Link  = House Blackwood
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Tully
+| Image       = 
+| Birth       = 
+| Death       = [[132 AC]]{{Dateref|House of the Dragon: Season 2}}<br>[[Burning Mill]], the [[Riverlands]]{{Ref|HOTD203}}
+| House       = [[House Blackwood|Blackwood]]{{Ref|HOTD106}}
+| Affiliation = [[House Tully/House of the Dragon|House Tully]]{{Ref|HOTD106}}<br>[[Blacks]]{{Ref|HOTD203}}
+| Titles      = Lord of [[Raventree Hall]]
+| AKA         = 
+| Culture     = [[Riverlands|Rivermen]]{{Ref|HOTD106}}
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = [[Benjicot Blackwood]]{{Ref|HOTD204}}
+| Siblings    = {[[Willem Blackwood]]}{{Ref|HOTD204}}
+| Arms        = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     =
+| Actor       = 
+}}
+{{Quote|Did your brother's head keep on its way back to you, Willem? I heard the maggots got to it.|Amos Bracken to Willem Blackwood|Regent (episode)}}
+Lord '''Samwell Blackwood'''{{Ref|HOTD203}} was the Lord of [[Raventree Hall]] and head of [[House Blackwood]] during the reigns of [[Viserys I Targaryen|Viserys I]] and [[Aegon II Targaryen|Aegon II]].
+
+==Biography==
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+The [[Small Council]] discuss a complaint made by Lord Blackwood to the crown that [[House Bracken]] is illegally annexing Blackwood lands. They eventually dismiss this as a problem that would be better handled by Lord [[Grover Tully]], the liege lord to the Blackwoods and Brackens. [[Lyman Beesbury]] belatedly adds his opinion that the Blackwoods have the upper hand.{{Ref|HOTD106}}
+
+===[[House of the Dragon: Season 2|''House of the Dragon'': Season 2]]===
+[[Aemond Targaryen|Aemond]] states that Samwell Blackwood was among the many casualties suffered in the [[Battle at the Burning Mill]].{{Ref|HOTD203}}
+
+After his death, Samwell is succeeded by his son [[Benjicot Blackwood|Benjicot]], with his brother, [[Willem Blackwood|Willem]], acting as regent.{{Ref|HOTD204}}
+
+[[Amos Bracken]] taunts Willem about Samwell's death during his parley with [[Daemon Targaryen|Daemon]].{{Ref|HOTD205}}
+
+==In the books==
+In ''[[Fire & Blood]]'', Samwell Blackwood lost a duel with [[Amos Bracken]] over [[Rhaenyra Targaryen]]'s hand (in the show, this duel transpired between [[Willem Blackwood]] and [[Jerrel Bracken]]). Samwell later succeeded his father as Lord of Raventree.
+
+==Appearances==
+*{{HOTD|The Princess and the Queen}} {{Mentioned}}
+*{{HOTD|The Burning Mill}} {{Mentioned}}
+*{{HOTD|Regent}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{House Blackwood}}
+
+<!--Categories-->
+{{DEFAULTSORT:Blackwood, Samwell}}
+[[Category:Blacks]]
+[[Category:Individuals mentioned in House of the Dragon]]
+[[Category:Lords]]
+[[Category:Members of House Blackwood|Samwell Blackwood]]
+[[Category:Rivermen]]
+
+<!--Languages-->
+[[ru:Сэмвелл Блэквуд]]

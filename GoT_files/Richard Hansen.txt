@@ -1,0 +1,38 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Richard Hansen.jpg
+| Birth   = 
+| Death   = 
+| Role    = Stunt Performer<br>Assistant Stunt Coordinator
+| Series  = ''[[Game of Thrones]]''<br>''[[House of the Dragon]]''
+| Season  = ''Game of Thrones'':<br>[[Game of Thrones: Season 1|1]] {{*}} [[Game of Thrones: Season 5|5]] {{*}} [[Game of Thrones: Season 6|6]] {{*}} [[Game of Thrones: Season 7|7]] {{*}} [[Game of Thrones: Season 8|8]]<br>''House of the Dragon'':<br>[[House of the Dragon: Season 1|1]] {{*}} [[House of the Dragon: Season 2|2]]
+| Credits = 46 episodes {{Below|Credits}}
+| First   = "[[Winter Is Coming]]"
+| Last    = 
+}}
+'''Richard Hansen''' is a stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 1|first season]] episodes "[[Winter Is Coming]]", "[[Lord Snow]]", "[[Cripples, Bastards, and Broken Things]]", "[[The Wolf and the Lion]]", "[[A Golden Crown]]", "[[You Win or You Die]]", "[[The Pointy End]]", "[[Baelor]]" and "[[Fire and Blood]]", the [[Game of Thrones: Season 5|fifth season]] episodes "[[The House of Black and White]]", "[[High Sparrow (episode)|High Sparrow]]", "[[Kill the Boy]]", "[[Hardhome (episode)|Hardhome]]", "[[The Dance of Dragons (episode)|The Dance of Dragons]]" and "[[Mother's Mercy]]", the [[Game of Thrones: Season 6|sixth season]] episodes "[[The Red Woman]]", "[[Book of the Stranger]]", "[[Blood of My Blood]]" and "[[Battle of the Bastards (episode)|Battle of the Bastards]]", the [[Game of Thrones: Season 7|seventh season]] episodes "[[The Queen's Justice]]", "[[The Spoils of War]]", "[[Eastwatch]]" and "[[The Dragon and the Wolf]]" and the [[Game of Thrones: Season 8|eighth season]] episodes "[[Winterfell (Game of Thrones)|Winterfell]]", "[[The Long Night]]", "[[The Last of the Starks]]", "[[The Bells]]" and "[[The Iron Throne]]".
+
+In ''[[House of the Dragon]]'', he was an assistant stunt coordinator in the [[House of the Dragon: Season 1|first season]] episodes "[[The Heirs of the Dragon]]", "[[The Rogue Prince]]", "[[Second of His Name]]", "[[King of the Narrow Sea (episode)|King of the Narrow Sea]]", "[[We Light the Way]]", "[[The Princess and the Queen]]", "[[Driftmark (episode)|Driftmark]]", "[[The Lord of the Tides]]", "[[The Green Council]]" and "[[The Black Queen]]" and the [[House of the Dragon: Season 2|second season]] episodes "[[A Son for a Son]]", [[Rhaenyra the Cruel]]", "[[The Burning Mill]]", "[[The Red Dragon and the Gold]]", "[[Regent (episode)|Regent]]", "[[Smallfolk (episode)|Smallfolk]]", "[[The Red Sowing]]" and "[[The Queen Who Ever Was]]" and a stunt performer in the [[House of the Dragon: Season 1|first season]] episode "[[The Heirs of the Dragon]]".
+
+==Credits==
+===Stunts===
+====''[[Game of Thrones]]''====
+{{Game of Thrones: Season 1|yes||yes|yes|yes|yes|yes|yes|yes|yes}}
+{{Game of Thrones: Season 5|yes||yes||yes||yes|yes|yes}}
+{{Game of Thrones: Season 6|yes|||yes||yes|||yes}}
+{{Game of Thrones: Season 7|||yes|yes|yes||yes}}
+{{Game of Thrones: Season 8|yes||yes|yes|yes|yes}}
+
+====''[[House of the Dragon]]''====
+{{House of the Dragon: Season 1|yes|yes|yes|yes|yes|yes|yes|yes|yes|yes}}
+{{House of the Dragon: Season 2|yes|yes|yes|yes|yes|yes|yes|yes}}
+
+==See also==
+*{{IMDb
+|# = 2090160}}
+{{DEFAULTSORT:Hansen, Richard}}
+[[Category:Stunt performers of Game of Thrones]]
+[[Category:Stunt performers of House of the Dragon]]

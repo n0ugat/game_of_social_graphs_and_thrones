@@ -1,0 +1,33 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Oscar Garland.jpg
+| Birth   = 
+| Death   = 
+| Role    = [[Addam]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = "[[Second of His Name]]"
+| First   = 
+| Last    = 
+}}
+'''Oscar Salem''', also known as '''Oscar Garland''', is an actor. He has appeared in the film ''{{WPS|The Lady of Heaven}}'' and the television series ''{{WPS|Doctors (UK TV series)|Doctors}}'' and ''{{WPS|Des (TV series)|Des}}''.
+
+He portrays Ser [[Addam]] in ''[[House of the Dragon]]''.<ref>[https://winteriscoming.net/2021/12/09/oscar-garland-plays-ser-addam-house-of-the-dragon-hbo/ Oscar Garland plays "Ser Addam" in House of the Dragon (winteriscoming.net)]</ref>
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1|||yes}}
+
+==See also==
+*{{IMDb
+|# = 6354959}}
+*{{Twitter
+|# = OscarSalemG}}
+*{{Instagram
+|# = oscarsalem_}}
+
+==References==
+{{Reflist}}
+{{DEFAULTSORT:Garland, Oscar}}
+[[Category:Co-starring cast members of House of the Dragon]]

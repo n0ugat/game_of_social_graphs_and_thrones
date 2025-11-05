@@ -1,0 +1,25 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Rubi Ali.jpg
+| Birth   = 
+| Death   = 
+| Role    = [[Moro's wife 1|Moro's wife]]
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 6|6]]
+| Credits = "[[The Red Woman]]"
+| First   = 
+| Last    = 
+}}
+'''Rubi Ali''' is an actress.
+
+In ''[[Game of Thrones]]'', she portrayed a [[Moro's wife 1|Moro's wife]] in the episode "[[The Red Woman]]".<ref>"[[The Red Woman]]"</ref>
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 6|yes}}
+
+==References==
+{{Reflist}}[[ro:Rubi Ali]]
+{{DEFAULTSORT:Ali, Rubi}}
+[[Category:Guest starring cast members of Game of Thrones]]

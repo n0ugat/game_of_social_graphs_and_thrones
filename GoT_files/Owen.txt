@@ -1,0 +1,56 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Westeros
+| Image       = 
+| Birth       = 
+| Death       = [[257 AC]]{{Dateref|War of the Ninepenny Kings}}<br>The [[Stepstones]], [[Narrow Sea]]{{Ref|H&L604}}
+| House       = 
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Westeros]]i
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = {[[Willam]]}{{Ref|H&L604}}<br>{[[Ray]]}{{Ref|H&L604}}
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|In the Stepstones, I saw a mace cave in my last brother's head...|Ray|War of the Ninepenny Kings (short)}}
+'''Owen'''{{Con|ASOIAF}} was a brother of [[Ray]], a [[septon]] in the [[Riverlands]].
+
+==Biography==
+Owen fought alongside his brothers [[Willam]] and [[Ray]] in the [[War of the Ninepenny Kings]], during which his head was caved in by a mace.{{Ref|H&L604}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Owen's story is the same, except that he is the brother of Septon Meribald, not Ray.
+
+==Appearances==
+*{{H&L|War of the Ninepenny Kings}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|Owen (brother of Meribald)}}
+
+<!--Categories-->
+[[Category:Individuals from Histories & Lore]]
+[[Category:Men-at-arms]]
+[[Category:Smallfolk]]
+[[Category:Westerosi]]

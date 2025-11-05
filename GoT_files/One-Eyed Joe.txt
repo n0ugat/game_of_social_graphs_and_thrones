@@ -1,0 +1,59 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Night's Watch.svg
+| Link  = Night's Watch
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[Night's Watch]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Report to One-Eyed Joe in the stables.|[[Order of Maesters|Maester]] [[Aemon]] to [[Luke]]|You Win or You Die}} 
+'''One-Eyed Joe''' is a member of the [[Night's Watch]], and apparently chief among the stewards stationed in the stables at [[Castle Black]].
+
+==Biography==
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+When the newly graduated recruits are assigned to their orders [[Luke]] is told by [[Order of Maesters|Maester]] [[Aemon]] to report to One-Eyed Joe in the stables.{{Ref|GOT107}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there's no member of the Night's Watch called One-Eyed Joe.
+
+==Appearances==
+*{{GOT|You Win or You Die}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{Night's Watch}}
+
+<!--Categories-->
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Stewards of the Night's Watch]]
+
+<!--Languages-->
+[[de:Einäugiger Joe]]
+[[ru:Одноглазый Джо]]

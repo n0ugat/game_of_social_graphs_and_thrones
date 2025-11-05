@@ -1,0 +1,19 @@
+{|style="width:100%; margin:0; background:#1e5467; font-size:120%; font-weight:bold; border:4px groove #C0C0C0; text-align:center; color:#C0C0C0; padding:0.2em 0.4em;"
+|colspan="5" style="text-align:center;" |The Crownlands
+|- align="center"
+|{{PortalIcon|image=The Crownlands.png|articlename=Crownlands|name=The Crownlands}}
+|{{PortalIcon|image=Targ-Portal.png|articlename=House Targaryen|name=House Targaryen}}
+|- align="center"
+|{{PortalIcon|image=Dragonstone (day).jpg|articlename=Dragonstone|name=Dragonstone}}
+|{{PortalIcon|image=Red Keep.png|articlename=King's Landing|name=King's Landing}}
+|- align="center"
+|{{PortalIcon|image=S05E10 - Red Keep.jpg|articlename=Red Keep|name=The Red Keep}}
+|{{PortalIcon|image=Joffrey 2x04.jpg|articlename=Iron Throne|name=The Iron Throne}}
+|- align="center"
+|{{PortalIcon|image=GreatSeptS3.jpg|articlename=Great Sept of Baelor|name=The Great Sept of Baelor}}
+|{{PortalIcon|image=Dragonpit.png|articlename=Dragonpit|name=The Dragonpit}}
+|- align="center"
+|{{PortalIcon|image=Flea bottom.jpg|articlename=Flea Bottom|name=Flea Bottom}}
+|{{PortalIcon|image=BarKL-Portal.png|articlename=House Baratheon of King's Landing|name=House Baratheon<br>of King's Landing}}
+|}
+[[Category:Portals]]

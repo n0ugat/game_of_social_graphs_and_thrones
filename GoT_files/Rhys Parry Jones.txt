@@ -1,0 +1,32 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Rhys Parry Jones.jpg
+| Birth   = Wales
+| Death   = 
+| Role    = [[Master of Revels (The Heirs of the Dragon)|Master of Revels]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = "[[The Heirs of the Dragon]]"
+| First   = 
+| Last    = 
+}}
+'''Rhys Parry Jones''' is a Welsh actor best known for his role as Llew Matthews in ''{{WPS|Pobol y Cwm}}''. He has also appeared in the film ''{{WPS|Ironclad (film)|Ironclad}}'' and the television series ''{{WPS|Casualty (TV series)|Casualty}}'', ''{{WPS|Outlander (TV series)|Outlander}}'', ''{{WPS|A Very English Scandal (TV series)|A Very English Scandal}}'', and ''{{WPS|The Crown (TV series)|The Crown}}''.
+
+In ''[[House of the Dragon]]'', he portrayed the [[Master of Revels (The Heirs of the Dragon)|Master of Revels]] in the [[House of the Dragon: Season 1|first season]].
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1|yes}}
+
+==See also==
+*{{WP}}
+*{{IMDb|# = 0429094}}
+*{{Twitter|# = pjrhys}}
+
+<!--Categories-->
+{{DEFAULTSORT:Parry Jones, Rhys}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Rhys Parry Jones]]

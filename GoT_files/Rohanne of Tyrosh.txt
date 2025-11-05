@@ -1,0 +1,74 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Rightimage = House Blackfyre.svg
+| Rightlink  = House Blackfyre
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Blackfyre
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = [[House Blackfyre|Blackfyre]] {{C|by marriage}}
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Tyrosh]]i
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = {[[Daemon Blackfyre]]}
+| Lovers      = 
+| Issue       = {[[Aegon Blackfyre]]}<br>{[[Aemon Blackfyre]]}<br>[[Daemon Blackfyre (son of Daemon)|Daemon Blackfyre]]<br>[[Haegon Blackfyre]]
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|But over time, their grievances and flattery wore down his objections, along with any sense of obligation to the half-brother who had granted him lands and a wife.|[[Varys]]|The Blackfyres}}
+'''Rohanne of Tyrosh'''{{Con|TWOI&F}} is the widow of [[Daemon Blackfyre]].
+
+==Biography==
+The marriage between Rohanne and Daemon was arranged by Daemon's half-brother, King [[Daeron II Targaryen]].{{Ref|H&L803}} She and Daemon had at least four children: [[Aegon Blackfyre|Aegon]], [[Aemon Blackfyre|Aemon]],{{Ref|GOT106}} [[Daemon Blackfyre (son of Daemon)|Daemon]], and [[Haegon Blackfyre|Haegon]].{{Ref|H&L803}}
+
+==Family==
+{{Blackfyre tree (A Knight of the Seven Kingdoms)}}
+
+==In the books==
+In ''[[The World of Ice & Fire]]'', Rohanne was betrothed to Daemon by King [[Aegon IV Targaryen|Aegon IV]] and the [[Archon]] of [[Tyrosh]]. After Aegon's death, his successor Daeron II finalized the marriage in 184 AC and paid a dowry to the Archon.
+
+While the marriage had been arranged to ensure an alliance with Tyrosh, Daemon supposedly wished to marry his half-sister [[Daenerys Targaryen (daughter of Aegon IV)|Daenerys]] instead, and had expected to wed her polygamously, which King Daeron refused.{{Bookref|TWOI&F|4|12}}
+
+Rohanne and Daemon had seven sons (including Aegon, Aemon, Daemon, Haegon, and Aenys) and at least two daughters (including Calla). 
+
+After the [[Battle of Redgrass Field]] on the [[Blackfyre Rebellion]], her brother-in-law [[Aegor Rivers|Bittersteel]] managed to rescue her and her surviving children and flee with them to Tyrosh.{{Bookref|TWOI&F|4|12}}
+
+==Appearances==
+*{{H&L|The Blackfyres}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|AKOTSK}}
+
+<!--Navboxes-->
+{{House Blackfyre/A Knight of the Seven Kingdoms}}
+
+<!--Categories-->
+[[Category:Individuals from Histories & Lore]]
+[[Category:Members of House Blackfyre]]
+[[Category:Tyroshi]]
+
+<!--Languages-->
+[[ru:Роанна Тирошийская]]

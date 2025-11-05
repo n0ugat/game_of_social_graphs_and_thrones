@@ -1,0 +1,31 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Patrice Naiambana.png
+| Birth   = 
+| Death   = 
+| Role    = [[Dragonkeeper Elder (The Princess and the Queen)|Dragonkeeper Elder]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = "[[The Princess and the Queen]]"
+| First   = 
+| Last    = 
+}}
+'''Patrice Naiambana''' is an actor. He has appeared in the film ''{{WPS|Spectre (2015 film)|Spectre}}'' and the television series ''{{WPS|Judge John Deed}}'', ''{{WPS|Silent Witness}}'', ''{{WPS|Torchwood}}'', ''{{WPS|Casualty (TV series)|Casualty}}'', ''{{WPS|It's a Sin (TV series)|It's a Sin}}'' and ''{{WPS|Inside No. 9}}''. He portrayed the Biblical figure {{WPS|Balthazar (magus)|Balthazar}} in the film ''{{WPS|Son of God (film)|Son of God}}'' and the television series ''{{WPS|The Bible (miniseries)|The Bible}}''.
+
+In ''[[House of the Dragon]]'', he portrayed a [[Dragonkeeper Elder (The Princess and the Queen)|Dragonkeeper Elder]] in the [[House of the Dragon: Season 1|first season]].
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1||||||yes}}
+
+==See also==
+*{{IMDb|# = 0619628}}
+*{{Linkedin|# = /in/patrice-naiambana-77586b17}}
+
+<!--Categories-->
+{{DEFAULTSORT:Naiambana, Patrice}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--InterWiki-Links-->
+[[fr:Patrice Naiambana]]

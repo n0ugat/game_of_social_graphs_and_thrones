@@ -1,0 +1,24 @@
+{{Crew
+|Image = Russell MacLeod.jpg
+|dateofbirth = 
+|birthplace = 
+|job = Stunt Performer
+|imdb = https://www.imdb.com/name/nm1915835/
+|twitter = }}
+'''Russell MacLeod''' is a stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 4|fourth season]] episode "[[The Watchers on the Wall]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 4|||||||||yes}}
+
+==See also==
+*{{IMDb
+|# = 1915835}}
+*{{Facebook
+|# = russell.macleod.75}}
+*{{Linkedin
+|# = /in/russell-macleod-88185172}}
+{{DEFAULTSORT:MacLeod, Russell}}
+[[Category:Stunt performers of Game of Thrones]]

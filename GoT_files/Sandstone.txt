@@ -1,0 +1,45 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Qorgyle.svg
+| Link  = House Qorgyle
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Martell
+| Image        = Sandstone Pin.png
+| Type         = Castle
+| Status       = 
+| Location     = [[Dorne]], [[Westeros]]
+| Population   = 
+| Rulers       = [[House Qorgyle]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Sandstone'''{{Guideref|Map of Westeros}} is a castle in [[Dorne]], the region controlled by [[House Martell]] of [[Sunspear]], and the seat of [[House Qorgyle]]. The castle is located in the south-west of Dorne, near the [[Brimstone]] in the deepest part of the Dornish desert. It is west of the [[Hellholt]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Sandstone is the seat of House Qorgyle. Prince Oberyn Martell was a [[ward]] at Sandstone for a time.
+
+==Appearances==
+*{{GOT|Dragonstone}} {{Map}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Dorne}}
+
+<!--Categories-->
+[[Category:Castles of Dorne]]
+[[Category:House Qorgyle]]
+
+<!--Languages-->
+[[de:Sandstein]]
+[[pl:Piaskowiec]]
+[[ru:Песчаник]]

@@ -1,0 +1,66 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Royce.svg
+| Link  = House Royce
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Royce
+| Image        =
+<gallery>
+Runestone Official Guide.jpg|Appearance
+Runestone Pin.png|Location
+</gallery>
+| Type         = Castle
+| Status       = 
+| Location     = The [[Vale of Arryn]], [[Westeros]]
+| Population   = 
+| Rulers       = [[House Royce]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Runestone'''{{Ref|HOTD101}} is a castle in the [[Vale of Arryn]]. It is the seat of [[House Royce]], an ancient House once ruled the Vale as the "Bronze Kings" of the Vale before the [[coming of the Andals]]. House Royce are now one of the major vassal houses holding fealty to [[House Arryn]] of the [[Eyrie]]. The castle is located east of the Eyrie, on the coast of the [[Narrow Sea]]. It is north of the port-city [[Gulltown]].
+
+==History==
+===Background===
+The current head of House Royce and Lord of Runestone is [[Yohn Royce]], father of [[Robar Royce|Robar]] and [[Waymar Royce]]. The [[Order of Maesters|maester]] appointed to the castle is [[Helliweg]] and its [[master-at-arms]] is Ser [[Samwell Stone]].
+
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+[[Robin Arryn]] is sent to be [[Ward|fostered]] at Runestone, where Royce's men begin attempting to train him to use a sword, but he is miserably bad at it. Robin was over-sheltered by his mother [[Lysa Arryn|Lysa]] for years, and has never swung a sword before - unlike most boys who are even younger than the 13-year-old Robin. [[Petyr Baelish|Littlefinger]] and [[Sansa Stark|Sansa]] observe Robin tripping over himself in a practice yard, along with Yohn Royce. As Littlefinger and Sansa depart, Lord Royce promises that he will keep the boy safe, though he cannot promise his swordsmanship will improve.<ref>"[[The Wars To Come]]"</ref>
+
+===[[Game of Thrones: Season 6|''Game of Thrones'': Season 6]]===
+Lord Royce oversees Robin's archery training, watching in contempt as Robin fails to hit the marks. The training is interrupted when Littlefinger arrives by carriage. Royce is outraged as Littlefinger told him that he and Sansa would return to the [[Fingers]], yet Sansa was married to [[Ramsay Bolton]] at Winterfell. Littlefinger uses the opportunity, falsely claiming that on the way to the Fingers they were attacked by a vast Bolton host which seemed to have inside knowledge of Littlefinger's travel plans. Littlefinger reveals that Royce was the only one he told about his route and begins casting aspersions on his loyalty, asking Robin how to fare with him. Although Robin at first plans to throw Royce out of the Moon Door, Littlefinger advises him to spare Royce because of his loyalty to House Arryn. With the dark realization that Robin is under Littlefinger's control, Royce pleads with Robin for another chance, and Robin agrees. Royce is named commander of the armies of the Vale and told to round up the Vale's soldiers in order to march North and save Sansa from Ramsay.<ref>"[[Book of the Stranger]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, House Royce proudly descends from the First Men, one of the very few of their Houses to survive the coming of the Andals. The head of House Royce wears ceremonial bronze armor covered in the rune symbols of the [[Old Tongue]] of the First Men, which are also featured on House Royce's sigil. It seems probable that "Rune-stone" was named after runes left behind by the First Men in the area.
+
+==Gallery==
+<gallery>
+501 Runestone Littlefinger Sansa Sweetrobin training.jpg|Littlefinger, Sansa, and Lord Yohn Royce at Runestone, watching Sweetrobin Arryn begin training with the master-at-arms.
+501 Sweetrobin training at Runestone.jpg|Sweetrobin training in the practice yard at Runestone, the mountains behind them.
+Runestone miniature.png|For filming the castle of Runestone, a tabletop miniature was used.
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+*{{TOG|map-of-westeros#runestone}}
+
+<!--Navboxes-->
+{{House Royce}}
+{{Vale of Arryn}}
+
+<!--Categories-->
+[[Category:Castles of the Vale of Arryn]]
+[[Category:House Royce]]
+
+<!--Languages-->
+[[de:Runenstein]]
+[[fr:Roches-aux-runes]]
+[[pl:Runestone]]
+[[ru:Рунный Камень]]

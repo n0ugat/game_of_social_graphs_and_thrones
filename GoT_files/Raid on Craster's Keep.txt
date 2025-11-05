@@ -1,0 +1,90 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Thrones
+| Part          = the [[conflict beyond the Wall]]
+| Image         = Jon Snow-So4Ep5.jpg
+| Previous      = [[Mutiny at Craster's Keep]]
+| Concurrent    = 
+| Next          = [[Sack of Mole's Town]]
+| Date          = [[301 AC]]{{Dateref|Game of Thrones: Season 4}}
+| Place         = [[Craster's Keep]], the [[Haunted Forest]], [[Beyond the Wall]]
+| Outcome       = Night's Watch victory
+*Death of all mutineers
+*Destruction of Craster's Keep
+| Factions1     = {{COA|Night's Watch|small}} [[Night's Watch]]<br>{{COA|House Bolton|small}} [[House Bolton]] <small>(clandestinely)</small>
+| Factions2     = {{COA|Night's Watch|small}} [[Mutineers]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = {{COA|Night's Watch|inline}} [[Jon Snow]]
+| Leaders2      = {{COA|Night's Watch|inline}} [[Karl Tanner]] †
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = *{{COA|Night's Watch|inline}} [[Grenn]]
+*{{COA|Night's Watch|inline}} [[Eddison Tollett]]
+*{{COA|Night's Watch|inline}} [[Locke]] †
+*[[Ghost]]
+*Other black brothers
+----
+*{{COA|House Stark|inline}} [[Bran Stark]]
+*[[File:House Reed.svg|16px|link=House Reed]] [[Jojen Reed]]
+*[[File:House Reed.svg|16px|link=House Reed]] [[Meera Reed]]
+*[[Hodor]]
+| Participants2 = 11 mutinous black brothers
+*{{COA|Night's Watch|inline}} [[Rast]] †
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = Five black brothers
+*Locke
+| Casualties2   = All mutineers killed
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Quote|Night's Watch!|[[Rast]]|First of His Name}}
+The '''raid on Craster's Keep''' is an event during the [[conflict beyond the Wall]].
+
+==History==
+===Prelude===
+The brothers of the [[Night's Watch]] learn of the [[mutineers]] from [[Grenn]] and [[Eddison Tollett]], who escaped from their captivity. It is [[Jon Snow]] who understands that if the mutineers are captured by [[Mance Rayder]]'s army, they will reveal how vulnerable [[Castle Black]] really is.<ref>"[[Breaker of Chains]]"</ref> While hesitant, acting [[Lord Commander of the Night's Watch|Lord Commander]] [[Alliser Thorne]] sanctions Jon Snow's plan to capture or kill all of the mutineers. However, Thorne will not command anyone to go with Jon, meaning he must ask for volunteers. Jon gives an impassioned speech about former Lord Commander [[Jeor Mormont]], stating that dealing with these mutineers will give the Old Bear justice. [[Grenn]], Edd, [[Locke]] (secretly a spy sent by [[Roose Bolton]] to find [[Bran Stark|Bran]] and [[Rickon Stark]]), and several other black brothers volunteer to participate in the raid.<ref>"[[Oathkeeper (episode)|Oathkeeper]]"</ref>
+
+North of the Wall, Bran, [[Meera Reed|Meera]], [[Jojen Reed|Jojen]] and [[Hodor]] are captured by the mutineers when they try to free the trapped [[Direwolf|direwolves]], [[Summer]] and [[Ghost]].
+
+When the Night's Watch force led by Jon Snow reaches [[Craster's Keep]], Locke acts as a scout and gathers intelligence on the mutineers. He also locates where the mutineers are holding Bran and his companions, a hut on the west side of the keep. Locke returns to his allies and states that there are only 11 mutineers, who are mostly drunk and have not posted any guards. However, he cleverly tells them they should steer clear of the hut where Bran is being held, telling that there are hounds chained up inside.
+
+===The raid===
+At night and under a new moon, Jon Snow leads the initial assault on Craster's Keep. While the mutineers clash with loyal black brothers, Locke sneaks away to the hut he found earlier. Bran and his friends initially believe he is an ally of Jon, but quickly realizes the truth when Locke cuts Bran's leg to confirm who he is. Locke attempts to escape with Bran, but is killed when Bran wargs into Hodor and snaps Locke's neck. Bran tries to get Jon's attention, but Jojen convinces him that Jon would try to stop them. Bran and his companions quietly escape as the raid continues.
+
+[[File:Karl's_death.png|thumb|Jon Snow kills Karl Tanner inside the keep.]] Jon enter​s Craster's Keep to find [[Karl Tanner|Karl]] finishing off a loyal black brother. Karl taunts Jon while fighting him, mocking how he learned to fight with "honor" while growing up in a castle. They seem to be evenly matched, but Karl has the advantage of using daggers in close quarters over Jon's bastard sword, [[Longclaw]]. Karl knocks down Jon and disarms him, but before he can deliver the killing blow, he is stabbed in the back by [[Sissy]], one of Craster's wives that he abused. Just as Karl is about to kill her, Jon stabs Karl through the head with Longclaw.
+
+===Aftermath===
+[[File:S04E5_-_Craster's_Keep_on_fire.png|thumb|Craster's Keep is burned to the ground.]]
+Once the fight was over, the men of the Night's Watch sorted through the bodies. Among the dead mutineers were also five of their own men, including Locke. Jon counts ten dead mutineers, which means one escaped. It is revealed to be [[Rast]], who fled when the fighting started. He is quickly killed by Ghost, who is now out of his cage. Jon is overjoyed to be reunited with his direwolf. Jon tells [[Craster's wives]] that, with the threat of Mance Rayder and the [[White Walkers]] nearby, it is not safe for them to stay here. He offers them sanctuary at Castle Black, but they decline. Before the Night's Watch and Craster's wives leave, they burn down Craster's Keep along with the bodies of the deceased to prevent them from returning as [[wight]]s.<ref>"[[First of His Name]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, no punitive action is taken against mutineers by the Watch, neither before nor after the Battle of Castle Black.
+
+Five of the mutineers (one of whom is presumably Ollo Lophand, who killed Mormont) abandon the keep, planning on climbing over the [[Wall]] and heading south. After wandering into the [[Haunted Forest]], they are killed by a mysterious man known as [[Benjen Stark#In the books|Coldhands]], and [[Summer]] finds their bodies.
+
+The fate of the remaining Betrayers and of Craster's surviving wives is unknown.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{Conflict beyond the Wall}}
+
+<!--Categories-->
+[[Category:301 AC]]
+[[Category:Battles]]
+[[Category:Conflict beyond the Wall]]
+
+<!--Languages-->
+[[de:Überfall auf Crasters Bergfried]]
+[[fr:Raid au Manoir de Craster]]
+[[pt-br:Invasão a Fortaleza de Craster]]
+[[ru:Рейд на замок Крастера]]

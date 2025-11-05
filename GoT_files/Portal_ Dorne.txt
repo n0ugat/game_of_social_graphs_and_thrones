@@ -1,0 +1,20 @@
+{|style="width:100%; margin:0; background:#1e5467; font-size:120%; font-weight:bold; border:4px groove #C0C0C0; text-align:center; color:#C0C0C0; padding:0.2em 0.4em;"
+|colspan="5" style="text-align:center;" |Dorne
+|- align="center"
+|{{PortalIcon|image=Dorne.png|articlename=Dorne|name=Dorne}}
+|{{PortalIcon|image=Mar-Portal.png|articlename=House Martell|name=House Martell}}
+|- align="center"
+|{{PortalIcon|image=DornishBannermen.jpg|articlename=Dornishmen|name=The Dornishmen}}
+|{{PortalIcon|image=Rhoynar alliance.png|articlename=Rhoynar|name=The Rhoynar}}
+|- align="center"
+|{{PortalIcon|image=Oberyn-Martell-IEllaria-Sand s4 Kings landing.jpg
+|articlename=Paramour|name=Paramour}}
+|{{PortalIcon|image=EllariaBastardsVid.jpg|articlename=Bastard|name=Bastards}}
+|- align="center"
+|{{PortalIcon|image=Dorne Season 5.png|articlename=Water Gardens|name=The Water Gardens}}
+|{{PortalIcon|image=H&L401.png|articlename=Nymeria|name=Nymeria}}
+|- align="center"
+|{{PortalIcon|image=Ser Arthur Dayne (right) at the Tower of Joy.png|articlename=House Dayne|name=House Dayne}}
+|{{PortalIcon|image=Ellaria sand and the sand snakes game of thrones finale s6.jpg|articlename=Sand Snakes|name=The Sand Snakes}}
+|}
+[[Category:Portals]]

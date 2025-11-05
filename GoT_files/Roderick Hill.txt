@@ -1,0 +1,30 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Roderick Hill.jpg
+| Birth   = 1972
+| Death   = 
+| Role    = Guildmaster
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]]
+| Credits = 
+| First   = 
+| Last    = 
+}}
+'''Roderick Hill''' (born 1972) is an actor.
+
+Hill plays a guildmaster in the [[House of the Dragon: Season 2|second season]] of ''[[House of the Dragon]]''.<ref>https://redanianintelligence.com/2023/07/21/house-of-the-dragon-season-2-adds-a-new-member-of-house-strong-and-more-new-cast/</ref>
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 2|yes}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb|#=7077109}}
+
+<!--Categories-->
+{{DEFAULTSORT:Hill, Roderick}}
+[[Category:Co-starring cast members of House of the Dragon]]

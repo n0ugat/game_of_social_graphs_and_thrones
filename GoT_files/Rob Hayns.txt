@@ -1,0 +1,36 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Rob Hayns.jpg
+| Birth   = Rob Hayns
+| Death   = 
+| Role    = Stunt Rigger<br>Stunt Safety Technician<br>Stunt Performer
+| Series  = ''[[Game of Thrones]]''<br>''[[House of the Dragon]]''
+| Season  = ''Game of Thrones'':<br>[[Game of Thrones: Season 6|6]] {{*}} [[Game of Thrones: Season 7|7]] {{*}} [[Game of Thrones: Season 8|8]]<br>''House of the Dragon'':<br>[[House of the Dragon: Season 1|1]] {{*}} [[House of the Dragon: Season 2|2]]
+| Credits = 32 episodes {{Below|Credits}}
+| First   = "[[Home]]"
+| Last    = 
+}}
+'''Rob Hayns''' is a stuntman.
+
+In ''[[Game of Thrones]]'', he was a stunt rigger in the [[Game of Thrones: Season 6|sixth season]] episodes "[[Home]]", "[[Oathbreaker]]", "[[Book of the Stranger]]", "[[The Door]]", "[[The Broken Man]]", "[[No One]]", "[[Battle of the Bastards (episode)|Battle of the Bastards]]" and "[[The Winds of Winter]]", the [[Game of Thrones: Season 7|seventh season]] episodes "[[Dragonstone (episode)|Dragonstone]]", "[[Stormborn]]", "[[The Queen's Justice]]", "[[Eastwatch]]", "[[Beyond the Wall (episode)|Beyond the Wall]]" and "[[The Dragon and the Wolf]]" and the [[Game of Thrones: Season 8|eighth season]] episodes "[[Winterfell (Game of Thrones)|Winterfell]]", "[[A Knight of the Seven Kingdoms (Game of Thrones)|A Knight of the Seven Kingdoms]]", "[[The Long Night]]", "[[The Last of the Starks]]", "[[The Bells]]" and "[[The Iron Throne]]", a stunt safety technician in the [[Game of Thrones: Season 6|sixth season]] episode "[[Battle of the Bastards (episode)|Battle of the Bastards]]" and a stunt performer in the [[Game of Thrones: Season 7|seventh season]] episode "[[The Spoils of War]]" and the [[Game of Thrones: Season 8|eighth season]] episode "[[The Bells]]".
+
+In ''[[House of the Dragon]]'', he was a stunt rigger in the [[House of the Dragon: Season 1|first season]] episodes "[[The Heirs of the Dragon]]", "[[The Rogue Prince]]" and "[[The Green Council]]" and the [[House of the Dragon: Season 2|second season]] episodes "[[A Son for a Son]]", "[[Rhaenyra the Cruel]]", "[[The Burning Mill]]", "[[The Red Dragon and the Gold]]", "[[Regent (episode)|Regent]]", "[[Smallfolk (episode)|Smallfolk]]", "[[The Red Sowing]]" and "[[The Queen Who Ever Was]]".
+
+==Credits==
+===Stunts===
+====''[[Game of Thrones]]''====
+{{Game of Thrones: Season 6||yes|yes|yes|yes|yes|yes|yes|yes|yes}}
+{{Game of Thrones: Season 7|yes|yes|yes|yes|yes|yes|yes}}
+{{Game of Thrones: Season 8|yes|yes|yes|yes|yes|yes}}
+
+====''[[House of the Dragon]]''====
+{{House of the Dragon: Season 1|yes|yes|||||||yes}}
+{{House of the Dragon: Season 2|yes|yes|yes|yes|yes|yes|yes|yes}}
+
+==See also==
+*{{IMDb
+|# = 3772020}}
+{{DEFAULTSORT:Hayns, Rob}}
+[[Category:Stunt performers of Game of Thrones]]
+[[Category:Stunt performers of House of the Dragon]]

@@ -1,0 +1,59 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Martell
+| Image        = 
+| Type         = Port town
+| Status       = 
+| Location     = [[Dorne]], [[Westeros]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+{{Quote|A ship's captain who found me in Planky Town claiming he had information to sell. He told me he smuggled Jaime Lannister into Dorne.|[[Obara Sand]] to [[Ellaria Sand]]|Sons of the Harpy (episode)}}
+'''Planky Town'''{{Ref|GOT504}} is a town in [[Dorne]], the region controlled by [[House Martell]]. It lies at the mouth of the [[Greenblood]] River, near the Martells' former seat at [[Sunspear]], and is the main port of Dorne.
+
+==History==
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+A [[merchant captain]] meets [[Obara Sand]] in Planky Town and tries to sell her information. Insulted that he will not offer up such a vital warning for free, she tortures him into revealing that he has smuggled [[Jaime Lannister|Jaime]] into [[Dorne]].{{Ref|GOT504}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the Planky Town is a trading town that lies at the mouth of the [[Greenblood]]. It is called "Planky Town" because much of it is actually composed of barges left permanently tied up at anchor and then lashed together.
+
+Dorne has a rocky coastline with few natural harbors, so Planky Town functions as the region's main port. Its location at the mouth of the Greenblood also means that it commands all river traffic, and most of Dorne's population is centered around the valleys of the Greenblood and its tributaries.
+
+Dorne has a small overall population, with few major towns and no settlement large enough to be counted as a true "city" - Westeros actually only has five full cities: [[King's Landing]] and [[Oldtown]] (with populations near 500,000), [[Lannisport]] (about half as large, around 250,000), then [[Gulltown]] and [[White Harbor]] (with populations measured only in the tens of thousands). The mud-brick shadow city surrounding Sunspear and Planky Town might even be the only two settlements in Dorne large enough to be called "towns".
+
+It is unclear who rules Planky Town. [[House Dalt]] of [[Lemonwood]] is established on the southern side of the mouth of the Greenblood, but Planky Town is on the northern side - a short distance south from Sunspear, which is also near the coast. As a market town, it might actually not have any noble House ruling over it.
+
+Despite its relatively small size, Planky Town nonetheless sees brisk long-distance trade with other parts of Westeros as well as foreign lands. Due to its location at the southeastern tip of the continent, it is very close to the [[Free Cities]] (particularly [[Tyrosh]], [[Myr]], and [[Lys]]), so foreign merchants are a very common sight there. Disproportionate to its size, Planky Town is therefore one of the main routes through which trade and cultural products often pass between Westeros and the Free Cities. The game of [[cyvasse]] was introduced to [[Westeros]] by a trading ship from [[Volantis]] that stopped at the Planky Town.
+
+Its location at the southeastern tip of Westeros also means that ships passing from the [[Narrow Sea|narrow sea]] in the east to the [[Summer Sea]] in the west tend to stop there, i.e. ships from the Free Cities (including Lys and Volantis due east), King's Landing, Gulltown, or White Harbor, that are attempting to sail around the southern end of Westeros to reach Oldtown or Lannisport. In Season 5 of the TV series Jaime and Bronn go to Dorne on a ship from [[Pentos]] that stopped in King's Landing and was headed on to Oldtown: while this subplot didn't happen in the novels, Planky Town would in fact be a common stopping point for a ship traveling between King's Landing and Oldtown.
+
+During the [[Conquest of Dorne]] by King [[Daeron I Targaryen]], his strategy was to lead a feint with his land armies in the [[Red Mountains]] of western Dorne, which was successful on a tactical level, but was only really meant to lure most of Dorne's armies away from the population centers along the Greenblood. Recognizing that Planky Town was the true key to Dorne, the [[royal fleet]] commanded by Daeron I's admiral, Alyn "Oakenfist" Velaryon, then made a daring amphibious landing in the east. Oakenfist smashed Planky Town and sailed up the Greenblood, where the core population centers were left undefended, causing Dorne to surrender. The victory was short-lived, however, as it turned into a four-year long insurgency which proved more costly than the conquest itself, and eventually saw the death of Daeron I and a complete withdrawal of the Targaryens from Dorne.
+
+==Appearances==
+*{{GOT|Sons of the Harpy}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Dorne}}
+
+<!--Categories-->
+[[Category:Dorne]]
+[[Category:Harbors]]
+[[Category:Towns]]
+
+<!--Languages-->
+[[de:Plankenstadt]]
+[[ru:Дощатый город]]
+[[zh:板条镇]]

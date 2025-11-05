@@ -1,0 +1,27 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Samuel Sargeant.jpg
+| Birth   = 
+| Death   = 
+| Role    = Vendor
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = "[[King of the Narrow Sea (episode)|King of the Narrow Sea]]"
+| First   = 
+| Last    = 
+}}
+'''Samuel Sargeant''' is an actor.
+
+In ''[[House of the Dragon]]'', he portrayed a vendor in the [[House of the Dragon: Season 1|first season]].
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1||||yes}}
+
+==See also==
+*{{IMDb|# = 14035126}}
+
+<!--Categories-->
+{{DEFAULTSORT:Sargeant, Samuel}}
+[[Category:Co-starring cast members of House of the Dragon]]

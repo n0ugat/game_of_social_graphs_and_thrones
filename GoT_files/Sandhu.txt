@@ -1,0 +1,57 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Order of Maesters.svg
+| Link  = Order of Maesters
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Citadel
+| Image       = Sandhu.png
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[Order of Maesters]]
+| Titles      = [[Archmaester]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 7|7]]
+| Appearances = "[[Eastwatch]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Julian Firth]]
+}}
+{{Quote|The North has dulled many good Maesters' wits. Hard to say whether it's the cold, the drink or the company. A crippled boy claims to have seen dead men on the march beyond the Wall thanks to the magical help of a raven with three eyes?|Sandhu|Eastwatch}}
+'''Sandhu''' is an [[Archmaester]] of the [[Citadel]].
+
+==Biography==
+===[[Game of Thrones: Season 7|''Game of Thrones'': Season 7]]===
+Sandhu meets with the other Archmaesters of the Citadel to discuss a [[raven]] they have received from [[Order of Maesters|Maester]] [[Wolkan]] at [[Winterfell]], claiming that [[Bran Stark]] has seen the [[Night King]] and [[Wight|his army]] marching on [[Eastwatch-by-the-Sea]] through [[warg]]ing. Sandhu is very skeptical of this and suggests that [[Samwell Tarly|Sam]] discipline his mind with more scribing; Sam insists that they take the message seriously. He agrees with Archmaester [[Ebrose]] that the message could be a ploy by [[Daenerys Targaryen|Daenerys]] to leave [[Westeros]] defenseless, by having the [[Great House]]s send their armies to the [[Wall]]. He compares the content of the message to the work of [[Lodos]], a prophet who claimed that the [[Drowned God]] would rise up and destroy [[Aegon I Targaryen]].{{Ref|GOT705}}
+
+==In the books==
+This character has no specific counterpart in the ''[[A Song of Ice and Fire]]'' novels.
+
+==Appearances==
+*{{GOT|Eastwatch}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+[[Category:Archmaesters]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Westerosi]]
+
+<!--Languages-->
+[[de:Sandhu]]
+[[ru:Санду]]

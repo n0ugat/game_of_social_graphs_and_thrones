@@ -1,0 +1,82 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Baratheon.svg
+| Link  = House Baratheon
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Baratheon
+| Image       = Fallen Ormund Baratheon.png
+| Birth       = At [[Storm's End]]
+| Death       = [[257 AC]]{{Dateref|War of the Ninepenny Kings}} on the [[Stepstones]]<br>Killed fighting in the [[War of the Ninepenny Kings]]
+| House       = [[House Baratheon|Baratheon]]
+| Affiliation = [[House Targaryen]]
+| Titles      = [[Lord of Storm's End]]<br>[[Lord Paramount of the Stormlands]]<br>[[Hand of the King]] {{C|to [[Aegon Targaryen (son of Maekar)|Aegon V]]}}
+| Predecessor = {[[Lyonel Baratheon]]} {{C|Lord of Storm's End}}
+| Successor   = {[[Steffon Baratheon]]} {{C|Lord of Storm's End}}
+| AKA         = 
+| Culture     = [[Andals|Andal]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = {[[Steffon Baratheon]]}
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|His Hand commanded the crown's armies and died valiantly in his son's arms. Or so the singers say. I never saw that, either.|[[Ray]]|War of the Ninepenny Kings (short)}}
+Lord '''Ormund Baratheon''' was the [[Lord of Storm's End]], [[Lord Paramount of the Stormlands]], [[Hand of the King]] and father of [[Steffon Baratheon]].
+
+==Biography==
+Ormund was Hand of the King to [[Aegon Targaryen (son of Maekar)|Aegon V Targaryen]] and commanded the royal forces against [[Maelys Blackfyre]] during the [[War of the Ninepenny Kings]]. He died in the fighting at the [[Stepstones]], and according to singers, he spent his dying moments in the arms of his son, Steffon.{{Ref|H&L604}}
+
+==Family==
+{{Baratheon tree}}
+
+==In the books==
+According to the TV series continuity, the Mad King [[Aerys II Targaryen|Aerys II]] succeeded his father King [[Aegon Targaryen (son of Maekar)|Aegon V]], while the book series continuity adds a generation. King Aerys II's father was King Jaehaerys II, second son of King Aegon V. As per the prop of the book ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]'', [[Lyonel Baratheon]] married [[Rhaelle Baratheon#In the books|Rhaelle Targaryen]] (rather than Ormund marrying her as in the book series).
+
+Ormund was the heir of Lord [[Lyonel Baratheon]], who rebelled against the [[Iron Throne]] and declared himself [[Storm King]] upon King Aegon V's eldest son and heir Prince [[Duncan Targaryen]] spurning his betrothal to Lyonel's daughter by eloping with [[Jenny of Oldstones]]. The rebellion only ended when Ormund himself was betrothed to the King's daughter Princess Rhaelle Targaryen. Ormund later became [[Hand of the King]] to Princess Rhaelle's brother King Jaehaerys II. When the threat of [[Maelys Blackfyre]] became apparent, Jaehaerys II sent a large force to defeat him at the [[Stepstones]], and was willing to take command himself. However, Lord Ormund dissuaded him and took command instead.
+
+While fighting at the Stepstones at the head of the royal forces, Ormund was killed by Maelys and died in the arms of his and Princess Rhaelle's son, Steffon. Command of the royal forces passed to Ser [[Gerold Hightower]], [[Lord Commander of the Kingsguard]].
+
+==Appearances==
+*{{H&L|War of the Ninepenny Kings}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Baratheon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Baratheon, Ormund}}
+[[Category:Bannermen of House Targaryen]]
+[[Category:Hands of the King]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Lords of Storm's End|Ormund Baratheon]]
+[[Category:Lords Paramount of the Stormlands|Ormund Baratheon]]
+[[Category:Members of House Baratheon|Ormund Baratheon]]
+[[Category:Stormlanders]]
+
+<!--Languages-->
+[[de:Ormund Baratheon]]
+[[es:Ormund Baratheon]]
+[[fr:Ormund Baratheon]]
+[[it:Ormund Baratheon]]
+[[nl:Ormund Baratheon]]
+[[ru:Ормунд Баратеон]]
+[[zh:蒙德·拜拉席恩]]

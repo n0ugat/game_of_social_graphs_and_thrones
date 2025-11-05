@@ -1,0 +1,38 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Westeros
+| Image        = 
+| Type         = Town<br>Pirate den
+| Status       = 
+| Location     = [[Basilisk Isles]], [[Sothoryos]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = 
+| Places       = 
+| Founded      = by pirates
+}}
+{{Quote|Once every generation, the Free Cities send fleets to destroy the towns and hang every man they find. They do, and the towns are abandoned to rot and sink back into the slime. But come the next year, another "Port Plunder" sprouts up somewhere else in the isles, like a toadstool from a new pile of shit. |[[Euron Greyjoy]]|The Summer Sea}}
+'''Port Plunder'''{{Ref|H&L603}} is a major pirate den in the [[Basilisk Isles]], off the north coast of [[Sothoryos]].<ref>"[[The Summer Sea]]"</ref>
+
+In truth, there have actually been numerous towns named "Port Plunder" over the centuries.  Every generation or so, the [[Free Cities]] send a fleet to scour the Basilisk Isles of pirates, burning their ramshackle settlements to the ground.  Within a year, however, a new settlement will pop up somewhere else to replace it, and the pirates will just name it "Port Plunder" again.<ref>"[[The Summer Sea]]"</ref>
+
+==In the books==
+Due to the fact that a new "Port Plunder" gets rebuilt every generation or so, it is stated that there have been about a dozen "Port Plunders".  The books point out that each new "Port Plunder" isn't simply rebuilt in the same location or even the same island:  each new "Port Plunder" was in fact on a different island.  "Port Plunder" seems to be one of the more popular names for these recurrent pirate dens, though there are others like [[Sty]] and [[Whore's Gash]].
+
+The Basilisk Isles used to be controlled by the Valyrians but got depopulated about eighty years after the [[Doom of Valyria]] by terrible plagues; afterwards they were abandoned for a full century before large numbers of pirates began settling them.  Thus the pirates have continuously inhabited them for roughly the past two and a half centuries:  thus the pattern holds that "Port Plunder" gets destroyed every 20 years or so, then rebuilt somewhere else (250 divided by 20 equaling roughly a dozen).
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Sothoryos}}
+
+<!--Categories-->
+[[Category:Basilisk Isles]]
+[[Category:Harbors]]

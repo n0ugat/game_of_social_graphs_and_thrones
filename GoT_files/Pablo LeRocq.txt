@@ -1,0 +1,29 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Pablo LeRocq.jpg
+| Birth   = Pablo Andrés Sciepura<br>March 11, 1978 {{Age|1978|3|11}}<br>Quilmes, Buenos Aires, Argentina
+| Death   = 
+| Role    = Dragonseed
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]]
+| Credits = 
+| First   = 
+| Last    = 
+}}
+'''Pablo Andrés Sciepura''' (born 11 March 1978), known professionally as '''Pablo LeRocq''' or '''Paul LeRocq''', is an Argentinian actor and musician.
+
+LeRocq plays a dragonseed in the [[House of the Dragon: Season 2|second season]] of ''[[House of the Dragon]]''.<ref>https://twitter.com/RedanianIntel/status/1690599207046975488</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{YouTube|#=channel/UCJmuH1XIBe6pVwegE1E6YYw}}
+*{{Instagram|#=paullerocq.ok}}
+*{{Facebook|#=pol.lerocq}}
+*{{Twitter|#=PaulLeRocq}}
+
+<!--Categories-->
+{{DEFAULTSORT:LeRocq, Pablo}}
+[[Category:Uncredited cast members of House of the Dragon]]

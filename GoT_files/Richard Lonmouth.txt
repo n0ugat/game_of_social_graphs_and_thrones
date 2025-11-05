@@ -1,0 +1,69 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = House Lonmouth.svg
+| Link  = House Lonmouth
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Targaryen
+| Image       = 
+| Birth       = In the [[Stormlands]]
+| Death       = 
+| House       = [[House Lonmouth|Lonmouth]]
+| Affiliation = [[House Targaryen]]
+| Titles      = [[Knighthood|Ser]]
+| Predecessor = 
+| Successor   = 
+| AKA         = Knight of skulls and kisses
+| Culture     = [[Andals|Andal]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Lord Baratheon drank down a knight of skulls and kisses in a wine cup war.|[[Meera Reed]]|The Great Tourney at Harrenhal}}
+Ser '''Richard Lonmouth'''{{Con|ASOIAF}} was present at the [[Great Tourney at Harrenhal]].
+
+==Biography==
+Ser Richard was present at the [[Great Tourney at Harrenhal]] in the [[Year of the False Spring]]. [[Robert Baratheon]] drank him down in a drinking game.{{Ref|H&L605}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Richard Lonmouth is briefly mentioned a few times: according to [[Barristan Selmy]], he was a close personal friend and [[squire]] of Prince [[Rhaegar Targaryen]], alongside Myles Mooton; later they were both [[Knighthood|knighted]] by Rhaegar, and remained his close companions.
+
+Meera Reed tells [[Bran Stark|Bran]] that at the [[Great Tourney at Harrenhal]], the [[Robert Baratheon|storm lord]] played a drinking game with "the knight of skulls and kisses" (who is presumed to be Richard Lonmouth), in which Robert won. Following the amazing performance of the mysterious [[Knight of the Laughing Tree]], they promised King [[Aerys II Targaryen]] that they would unmask him, but never did, since he disappeared the next morning.
+
+==Appearances==
+*{{H&L|The Great Tourney at Harrenhal}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Lonmouth}}
+
+<!--Categories-->
+{{DEFAULTSORT:Lonmouth, Richard}}
+[[Category:Individuals from Histories & Lore]]
+[[Category:Knights]]
+[[Category:Members of House Lonmouth|Richard Lonmouth]]
+[[Category:Stormlanders]]
+
+<!--Languages-->
+[[ru:Ричард Лонмаут]]

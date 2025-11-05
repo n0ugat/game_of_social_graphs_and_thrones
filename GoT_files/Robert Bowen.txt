@@ -1,0 +1,32 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Robert Bowen.jpg
+| Birth   = 
+| Death   = 
+| Role    = Stunt peformer
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = 6 episodes {{Below|Credits}}
+| First   = "[[The Heirs of the Dragon]]"
+| Last    = 
+}}
+'''Robert Bowen''' is an English stuntman and actor.
+
+In ''[[House of the Dragon]]'', he was a stunt performer in the [[House of the Dragon: Season 1|first season]] episodes "[[The Heirs of the Dragon]]", "[[Second of His Name]]", "[[Driftmark (episode)|Driftmark]]", "[[The Lord of the Tides]]", "[[The Green Council]]" and "[[The Black Queen]]".
+
+==Credits==
+===Stunts===
+{{House of the Dragon: Season 1|yes||yes||||yes|yes|yes|yes}}
+
+==See also==
+*{{IMDb
+|# = 7438195}}
+*{{Instagram
+|# = robcbowen}}
+*{{Facebook
+|# = RobCBowen}}
+*{{YouTube
+|# = channel/UCoBqCy8-_OKBrZRcnQBpkeA}}
+{{DEFAULTSORT:Bowen, Robert}}
+[[Category:Stunt performers of House of the Dragon]]

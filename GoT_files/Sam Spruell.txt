@@ -1,0 +1,34 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Kingdoms
+| Image   = Sam Spruell.jpg
+| Birth   = January 1, 1977 {{Age|1977|1|1}}<br>Southwark, London, England
+| Death   = 
+| Role    = [[Maekar Targaryen]]
+| Series  = ''[[A Knight of the Seven Kingdoms]]''
+| Season  = [[A Knight of the Seven Kingdoms: Season 1|1]]
+| Credits = 
+| First   = 
+| Last    = 
+}}
+'''Sam Spruell''' (born 1 January 1977) is an English actor.
+
+Spruell portrays [[Maekar Targaryen]] in ''[[A Knight of the Seven Kingdoms]]''.{{Webref|name=FirstLook |author=Nick Romano |date=June 18, 2024 |url=https://ew.com/game-of-thrones-a-knight-of-the-seven-kingdoms-first-look-cast-confirmed-8665658 |title=''Game of Thrones'' spinoff unveils its Hedge Knight in first look at ''A Knight of the Seven Kingdoms'' |website=Entertainment Weekly |access-date=June 18, 2024}}
+
+==Credits==
+===Starring===
+{{A Knight of the Seven Kingdoms: Season 1}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{WP}}
+*{{IMDb|#=0819874}}
+
+<!--Navboxes-->
+{{A Knight of the Seven Kingdoms}}
+
+<!--Categories-->
+{{DEFAULTSORT:Spruell, Sam}}
+[[Category:Starring cast members of A Knight of the Seven Kingdoms]]

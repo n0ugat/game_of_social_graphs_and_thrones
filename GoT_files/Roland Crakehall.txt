@@ -1,0 +1,70 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = House Crakehall.svg
+| Link  = House Crakehall
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Lannister
+| Image       = 
+| Birth       = [[Crakehall]]
+| Death       = 
+| House       = [[House Crakehall|Crakehall]]
+| Affiliation = [[House Lannister]]
+| Titles      = [[Knighthood|Ser]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Westerlands|Westermen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = {[[Burton Crakehall]]}
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|My father's knights burst into the hall in time to see the last of it, so there was no way for me to vanish and let some bragger steal the glory or blame. I knew at once when I saw the way they looked at me. It would be blame. Lannister or no, I'd been one of Aerys's Kingsguard. I commanded them to announce that the Mad King was dead and to spare all those who yielded. They asked me if they should proclaim a new king as well. I knew what they meant. Would it be my father, or Robert Baratheon, or maybe the child Viserys who'd fled to Dragonstone?|[[Jaime Lannister]]|Robert's Rebellion - Jaime Lannister}}
+'''Roland Crakehall'''{{Con|ASOIAF}} was a [[Knighthood|knight]] of [[House Crakehall]] during the reign of [[Aerys II Targaryen]]. He participated in the [[Sack of King's Landing]].
+
+==Biography==
+After [[Jaime Lannister|Jaime]] killed the [[Aerys II Targaryen|Mad King]], Roland and more of [[Tywin Lannister|Tywin]]'s knights entered the [[Red Keep]] hall, and saw Jaime standing over Aerys's body. They incorrectly assumed Jaime killed the king in order to give the throne to his father, and asked him whether they should proclaim a new king. Jaime considered naming [[Viserys Targaryen (son of Aerys II)|Viserys]], but fearing that the boy would grow to be like his monstrous father, he just said "Proclaim who you bloody well like".{{Ref|H&L606}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Roland Crakehall is the current Lord of Crakehall and the head of House Crakehall (there is no character named [[Desmond Crakehall]] in the novels). He is a bannerman of [[House Lannister]].
+
+Roland is mentioned in Jaime's flashback about the aforementioned event,{{Bookref|ASOS|11}} as narrated in "[[Robert's Rebellion - Jaime Lannister]]".
+
+In ''A Clash of Kings'', Roland participates in the [[Battle of Oxcross]]. It is reported he was killed in that battle,{{Bookref|ACOK|32}} but the report turns to be wrong, since Roland is mentioned among the lords who attend King [[Joffrey Baratheon]]'s first audience after the [[Battle of the Blackwater]].{{Bookref|ACOK|65}} He is also listed as the Lord of Crakehall in the appendices of the following novels.
+
+In ''A Feast for Crows'', Jaime thinks Roland would make an able [[Hand of the King]].{{Bookref|AFFC|44}}
+
+==Appearances==
+*{{H&L|Robert's Rebellion - Jaime Lannister}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+{{DEFAULTSORT:Crakehall, Roland}}
+[[Category:Individuals from Histories & Lore]]
+[[Category:Knights]]
+[[Category:Members of House Crakehall|Roland Crakehall]]
+[[Category:Westermen]]
+
+<!--Languages-->
+[[ru:Роланд Крейкхолл]]

@@ -1,0 +1,25 @@
+{{Crew
+|Image = Rocky Taylor.jpg
+|dateofbirth = {{WPS|February 28}}, {{WPS|1945}}
+|birthplace = {{WPS|Bermondsey}}, {{WPS|London}}, {{WPS|England}}, {{WPS|United Kingdom}}
+|job = Stunt Performer
+|imdb = https://www.imdb.com/name/nm0853092/
+|twitter = https://twitter.com/StuntmanRocky/}}
+'''Laurie 'Rocky' Taylor''' (born February 28, 1945} is a stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 1|first season]] episodes "[[You Win or You Die]]" and "[[The Pointy End]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 1|||||||yes|yes}}
+
+==See also==
+*{{WP}}
+*{{IMDb
+|# = 0853092}}
+*{{Twitter
+|# = StuntmanRocky}}
+*{{Linkedin
+|# = /in/rocky-taylor-b0b17776}}
+{{DEFAULTSORT:Taylor, Rocky}}
+[[Category:Stunt performers of Game of Thrones]]

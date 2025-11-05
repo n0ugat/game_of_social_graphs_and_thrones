@@ -1,0 +1,66 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Free
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[Triarchy]]{{Ref|HOTD106}}
+| Titles      = General{{Ref|HOTD106}}
+| AKA         = 
+| Culture     = [[Tyrosh]]i{{Ref|HOTD106}}
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|He says there is a Tyroshi general there, a giant, they say, who dyes his beard purple and wears women's frocks.|Laenor Velaryon|The Princess and the Queen}}
+'''Racallio Ryndoon'''{{Con|TWOI&F}} is a [[Tyrosh]]i general fighting for the [[Triarchy]] in the [[War for the Stepstones]].
+
+==Biography==
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+The new troubles in the [[Stepstones]] are mentioned to the [[Small Council]] of [[Viserys I Targaryen]]. [[Laenor Velaryon|Laenor]] tells [[Rhaenyra Targaryen|Rhaenyra]] that according to [[Qarl Correy|his lover]], there is a Tyroshi general there, a giant who dyes his beard purple and wears women's frocks.{{Ref|HOTD106}}
+
+==In the books==
+In ''[[Fire & Blood]]'', Racallio Ryndoon is one of the most infamous and flamboyant rogues in the history of the world's seas. A cunning commander and dangerous warrior, he was ambidextrous and capable of fighting armed with swords in both hands. He stood six and a half feet tall, though with a loping gait as one of his shoulders was higher than the other. He was fond of dyeing his beard bright purple, with orange streaks in it, and he often took baths perfumed with lavender. He was also fond of dressing up as a woman and pretending to be a whore in city dockyards, hence his nickname "Queen Racallio".
+
+Ryndoon was a man of extreme contradictions: he loved pregnant women but hated children, he loved kittens but hated cats. He had sex with both men and women and took multiple wives, though it was said he enjoyed having his wives hit him during sex. Despite being a great warrior, he was also a gluttonous drunkard when not in combat. He was surprisingly well-educated, speaking [[High Valyrian]] and a dozen of its vulgate dialects, but he was also notoriously foul-mouthed. Ryndoon would often steal vast treasures of plunder only to give it away to his men or to beggars. 
+
+While Ryndoon was first encountered serving with Tyrosh, his exact origin is unknown. He hated slavery, leading some to speculate that he was a former slave himself. As he dyed his beard purple, a color often associated with Braavos, a connection with that city was also possible. His surprisingly high level of education has led some to suspect that he was originally a highborn. 
+
+In 110 AC, two years after [[Daemon Targaryen]]'s victory over [[Craghas Drahar]] at [[Bloodstone]], the [[Triarchy]] dispatched a fresh invasion force under Ryndoon's command to retake the Stepstones.
+
+==Appearances==
+*{{HOTD|The Princess and the Queen}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Categories-->
+{{DEFAULTSORT:Ryndoon, Racallio}}
+[[Category:Individuals mentioned in House of the Dragon]]
+[[Category:Sailors]]
+[[Category:Triarchy]]
+[[Category:Tyroshi]]
+
+<!--Languages-->
+[[ru:Ракаллио Риндун]]

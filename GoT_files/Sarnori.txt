@@ -1,0 +1,56 @@
+{{Canonicity|Canon}}
+{{Stub}}
+{{Culture
+| Title        = {{PAGENAME}}
+| Type         = Westeros
+| Image        = Sarnori warriors.png  
+| AKA          = Tall Men
+| Status       = Active
+| Origin       = 
+| Predecessors = 
+| Successors   = 
+| Location     = [[Kingdom of Sarnor]], [[Essos]]<br>[[Dothraki Sea]], Essos
+| Ruler        = Loose confederacy of city-states occasionally united under one High King
+| Society      = 
+| Language     = 
+| Religion     = 
+| Features     = Dark skin<br>Tall stature
+}}
+{{Quote|When Khal Mengo's son, Khal Moro, laid waste to the Waterfall City of Sathar, renaming it "The Place of Wailing Children", the Tall Men finally realized their peril.|[[Jorah Mormont]]|The Dothraki}}
+The '''Sarnori''',{{Ref|H&L608}} referring to themselves in their own language as the '''Tall Men''',{{Ref|H&L608}} are a people from central [[Essos]]. The territory they ruled over, known as the [[Kingdom of Sarnor]], was located in the western half of what later became the [[Dothraki Sea]]. The Sarnori were one of the great civilizations of Essos, with fabulous city-states, but they were largely wiped out by the [[Dothraki]] during their great waves of conquest in the [[Century of Blood]], which ended about 400 years before the [[War of the Five Kings]]. They were notably dark-skinned.
+
+At their height, the Sarnori fielded thousands of infantry and cavalry, though their signature weapon was scythed chariots, used to cut down enemy cavalry.{{Ref|H&L608}}
+
+==In the books==
+No mention whatsoever was made about the Sarnori in the first five novels of the ''[[A Song of Ice and Fire]]'' series. They were first introduced in ''[[The World of Ice & Fire]]'', which gave extensive historical background on the cultures of Essos. The reason they weren't mentioned before is also straightforward: the Dothraki are repeatedly said to have conquered much of central Essos after the [[Doom of Valyria]], but it wasn't really clear ''who'' they conquered, and logically, any prior civilizations they wiped out no longer enter into the story four centuries later during the time of the main novels. As a result of their absence from the first five novels, they did not officially enter the TV continuity at all until their history was prominently explained in the Season 6 Histories & Lore animated featurette on "[[The Dothraki]]".
+
+The Sarnori aren't entirely extinct, as a few of their colonies survived here and there or individuals fled to other cities in Essos. They are not flourishing as they were four centuries ago but presumably Sarnori are not an uncommon sight throughout Essos even in the present day.
+
+The Sarnori are described as very tall, long of limb, attractive, with brown skin, black hair and black eyes. There is no hint of any historical link or migration from one continent to the other: all human nations and tribes during the [[Dawn Age]] migrated from somewhere else. Apparently the Sarnori just happened to first originate as a civilization in the west-central plains of Essos. The artistic depictions of the Sarnori in the Season 6 animated featurettes match this physical description from the ''World'' book.
+
+While the Dothraki were mounted nomads, the Sarnori build great city-states throughout the western plains. The name "[[Kingdom of Sarnor]]" was something of a misnomer because each city-state had its own king and they frequently warred against each other in shifting alliances (not unlike the [[Rhoynar]]). It was more of a loose affiliation or confederacy, though they would unite under a single High King against external threats. Though they used both infantry and cavalry, the Sarnori's signature weapon was scythed chariots, which they deployed by the hundreds and thousands. Sarnori apparently also considered women to be equal to men, or at least, their women fought in war just as often as men did (again, like the Rhoynar).
+
+According to legendary accounts, the original ancestors of the Sarnori during the [[Dawn Age]] warred with and ultimately conquered three surrounding peoples: the Cymmeri, the Zoqora, and the Gipps. They then actively assimilated these groups through intermarriage, so that the modern "Sarnori" are a mixture of all four.
+
+For some time after the [[Long Night]] the Sarnori continued to expand and frequently warred with another civilization to their southeast, the Qaathi - ancestors of the [[Qarth]]een. The Sarnori tended to win these conflicts more than they lost, until with the tides of war the Qaath were increasingly pushed farther away to the arid lands of the southeast. When the Dothraki later attacked during the Century of Blood all of their meager irrigation systems were destroyed, creating the [[Red Waste]] and ruined Qaathi cities; Qarth alone survived, but pushed into becoming a sea power it soon found fabulous wealth dominating the east-west shipping routes.
+
+The Sarnori later entered into the [[Ghiscari wars]] between the [[Valyrian Freehold]] to their south and the [[Ghiscari Empire]] farther to the southeast. These were a series of five great wars across many centuries, the last of which ended in the destruction of [[Old Ghis]] 5,000 years ago. The Sarnori fought as allies of the Valyrians in the Second and Third Ghiscari Wars. The Sarnori were seldom unified, however, and in the Fourth Ghiscari War different Sarnori city-states fought on opposite sides.
+
+The Valyrians never tried to directly conquer the Sarnori, even after they utterly defeated the Ghiscari and went on to dominate most of the rest of Essos - apparently this would have been a great effort, and they were more valuable as a client kingdom / buffer state anyway, a bulwark against any migrating invaders from the east such as the Dothraki. Even so, before the fall of Valyria, the Dothraki were confined to the eastern regions of what was later known as "the Dothraki Sea", centered around [[Vaes Dothrak]] itself: everything east the same rough line of longitude as [[Meereen]] and Slaver's Bay, everything west of that extending across to the [[Free Cities]] was held by the Sarnori. The Dothraki were terrified of the Valyrians' dragons and viewed them with almost religious awe; if they ever caused too much trouble for the Sarnori a dragon-rider would come to make a show of force and they dared not attack again.
+
+Following the sudden [[Doom of Valyria]], however, the [[dragon]]s were all gone, leaving the Sarnori wide open to a massive wave of conquest by the Dothraki as they exploded in all directions across Essos.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Tall Men}}
+
+<!--Navboxes-->
+{{Cultures and peoples}}
+
+<!--Categories-->
+[[Category:Essosi peoples]]
+
+<!--Languages-->
+[[ru:Сарнорцы]]

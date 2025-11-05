@@ -1,0 +1,84 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Reyne.svg
+| Link  = House Reyne
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Reyne
+| Image       = Dying Reynard Reyne.png
+| Birth       = [[Castamere]]
+| Death       = [[258 AC]]{{Dateref|Reyne-Tarbeck revolt}}<br>Castamere
+| House       = [[House Reyne|Reyne]]
+| Affiliation = 
+| Titles      = [[Knighthood|Ser]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Westerlands|Westermen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = {[[Roger Reyne]]}<br>{[[Ellyn Reyne]]}
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Though Lady Ellyn was no longer welcome at Casterly Rock, Tytos didn't refuse her brothers Roger and Reynard Reyne, not even when they asked for extravagant loans.|[[Jaime Lannister]]|The Rains of Castamere (Histories & Lore)}}
+Ser '''Reynard Reyne''' was a [[Knighthood|knight]] of [[House Reyne]] and the younger brother of [[Lord of Castamere|Lord]] [[Roger Reyne]]. He was killed during the [[Reyne-Tarbeck revolt]] by Ser [[Tywin Lannister]] along with the rest of his house.
+
+==Biography==
+With their sister [[Ellyn Reyne]] unwelcome at [[Casterly Rock]] due to her attempted affair with [[Lord of Casterly Rock|Lord]] [[Tytos Lannister]], Reynard and his brother [[Roger Reyne]] met with the lord to asked him for extravagant loans. Lady Ellyn then used the gold they had been granted to restore [[Tarbeck Hall]] to its former splendor. Tytos approached them for repayment and they laughed at him, with Tytos soon laughing along with them.{{Ref|H&L708}}
+
+Following his return from the [[War of the Ninepenny Kings]], Tytos's son [[Tywin Lannister|Tywin]] was determined to re-establish [[House Lannister]] as the dominant house in the [[Westerlands]] and demanded that all debts owed to them be paid immediately or a [[hostage]] from those who could not. Reynard merely laughed when he received the [[raven]].{{Ref|H&L708}}
+
+Tywin later marched on [[Tarbeck Hall]] and [[Castamere]] with an army behind him. Upon seeing them approach Tarbeck Hall, Ellyn sent ravens to her brothers at Castamere. Roger's army reached Tarbeck Hall just in time to see it consumed by flames. He charged Tywin's camp, hoping the element of surprise would overcome Tywin's greater numbers. Half of Roger's men were killed and he received a crossbow bolt to the back before he fled back to Castamere. Tywin's host arrived three days later and the Reyne brothers retreated into the underground mines and offered terms to him to avoid a long siege. Tywin gave no reply and ordered the mines to be sealed with stone and soil to prevent them from escaping. He then had the stream beside the castle dammed and directed to the main entrance, drowning the brothers. Their deaths inspired the song "[[The Rains of Castamere]]."{{Ref|H&L708}}
+
+==In the books==
+In ''The World of Ice & Fire'', Ser Reynard Reyne was a charming and cunning man who was less headstrong than his brother Roger Reyne. The brothers were often present at Casterly Rock during their sister Ellyn Reyne's marriage to [[Tion Lannister]]. They returned to Castamere following Tion's death as his younger brother Tytos Lannister was groomed for leadership by their father Lord [[Gerold Lannister]]. Ellyn later wed [[Walderan Tarbeck]], Lord of Tarbeck Hall.
+
+It has been claimed that in 255 AC [[House Tarbeck]] angered King [[Aegon Targaryen (son of Maekar)|Aegon V Targaryen]] with their territorial demands. Lord Tytos sent Lord Denys Marbrand to capture them, but he and his men were killed when they were ambushed by a force led by Roger. Reynard convinced Tytos that Roger had mistaken the men for outlaws and Tytos pardoned both the Reynes and Tarbecks.
+
+Tywin Lannister returned from the War of the Ninepenny Kings and attempted to restore order to the [[Westerlands]]. Roger oversaw the safe exchange of hostages held by House Lannister and House Tarbeck at Castamere.
+
+During the [[Reyne-Tarbeck revolt]], Tywin killed Lord Walderan in the field and [[Fall of Tarbeck Hall|destroyed Tarbeck Hall]]. House Reyne's army attacked Tywin's, but were overpowered by their greater numbers. Reynard took charge of the army once Roger had become feverish after a crossbow wound and was incapable of leading.
+
+Reynard led the Reyne force back to Castamere and had them retreat into the underground mines. It has been said that he offered peace terms to Tywin if Tywin's brothers were sent into Castamere as hostages. Tywin refused the offer and ordered his men to barricade Castamere's entrances with stone. He then had them redirect a nearby stream into the castle, flooding it and drowning the remaining members of House Reyne.
+
+==Appearances==
+*{{H&L|The Rains of Castamere}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Reyne}}
+
+<!--Categories-->
+{{DEFAULTSORT:Reyne, Reynard}}
+[[Category:Individuals from Histories & Lore]]
+[[Category:Knights]]
+[[Category:Members of House Reyne|Reynard Reyne]]
+[[Category:Westermen]]
+
+<!--Languages-->
+[[de:Reynard Regn]]
+[[es:Reynard Reyne]]
+[[fr:Reynard Reyne]]
+[[it:Reynard Reyne]]
+[[nl:Reynaart Reyn]]
+[[ru:Рейнард Рейн]]
+[[zh:雷纳多·雷耶斯]]

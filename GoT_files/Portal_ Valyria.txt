@@ -1,0 +1,19 @@
+{|style="width:100%; margin:0; background:#1e5467; font-size:120%; font-weight:bold; border:4px groove #C0C0C0; text-align:center; color:#C0C0C0; padding:0.2em 0.4em;"
+|colspan="5" style="text-align:center;" |Valyria
+|- align="center"
+|{{PortalIcon|image=Valyria 5x05 (4).png|articlename=Old Valyria|name=Old Valyria}}
+|{{PortalIcon|image=Valyria.png|articlename=Valyrian Freehold|name=The Valyrian Freehold}}
+|- align="center"
+|{{PortalIcon|image=Doom.png|articlename=Doom of Valyria|name=The Doom of Valyria}}
+|{{PortalIcon|image=Post-Doom Valyrian Peninsula.png|articlename=Valyrian peninsula|name=The Valyrian peninsula}}
+|- align="center"
+|{{PortalIcon|image=Oathkeeper.png|articlename=Valyrian steel|name=Valyrian steel}}
+|{{PortalIcon|image=Daenerys and Viserys.jpg|articlename=Valyrians|name=The Valyrians}}
+|- align="center"
+|{{PortalIcon|image=DrogonHD.jpg|articlename=Dragon|name=Dragons}}
+|{{PortalIcon|image=Talisaletter.jpg|articlename=High Valyrian|name=High Valyrian}}
+|- align="center"
+|{{PortalIcon|image=H&L302.png|articlename=Ghiscari wars|name=The Ghiscari wars}}
+|{{PortalIcon|image=Rhoynar alliance.png|articlename=Rhoynish Wars|name=The Rhoynish Wars}}
+|}
+[[Category:Portals]]

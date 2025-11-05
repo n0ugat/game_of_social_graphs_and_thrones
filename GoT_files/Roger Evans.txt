@@ -1,0 +1,33 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Roger Evans.png
+| Birth   = Roger G. Evans<br>Bridgend, Wales
+| Death   = 
+| Role    = [[Borros Baratheon]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = "[[The Black Queen]]"
+| First   = 
+| Last    = 
+}}
+'''Roger G. Evans''' is a Welsh actor.
+
+In ''[[House of the Dragon]]'', he portrayed [[Borros Baratheon]] in [[House of the Dragon: Season 1|Season 1]].<ref>https://pressroom.warnermedia.com/us/bio/house-dragon-character-descriptions</ref>
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1||||||||||yes}}
+
+==See also==
+*{{IMDb|#=0263181}}
+*{{Twitter|#=rogergevans}}
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Evans, Roger}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Roger Evans]]

@@ -1,0 +1,31 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Rosa Escoda.jpg
+| Birth   = 
+| Death   = 
+| Role    = Younger midwife
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = "[[The Princess and the Queen]]"
+| First   = 
+| Last    = 
+}}
+'''Rosa Escoda''' is an actress and writer. She is known for her role as Amanda Yeo in the television series ''{{WPS|Line of Duty}}''. She has also appeared in films such as ''{{WPS|Justice League (film)|Justice League}}'' and ''{{WPS|Greta (film)|Greta}}'' and television series such as ''{{WPS|Four Weddings and a Funeral (miniseries)|Four Weddings and a Funeral}}'' and ''{{WPS|Holby City}}''.
+
+She portrays a younger midwife in ''[[House of the Dragon]]''.<ref>[https://www.spotlight.com/interactive/cv/3332-4533-8019 Rosa Escoda on Spotlight]</ref>
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1||||||yes}}
+
+==See also==
+*{{IMDb
+|# = 8142076}}
+*{{Instagram
+|# = roescoda}}
+
+==References==
+{{Reflist}}
+{{DEFAULTSORT:Escoda, Rosa}}
+[[Category:Co-starring cast members of House of the Dragon]]

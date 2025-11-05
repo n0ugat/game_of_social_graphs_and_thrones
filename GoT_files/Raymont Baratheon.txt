@@ -1,0 +1,88 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Leftimage  = House Baratheon.svg
+| Leftlink   = House Baratheon
+| Rightimage = Kingsguard.svg
+| Rightlink  = Kingsguard
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Targaryen
+| Image       = Raymont Baratheon.png
+| Birth       = At [[Storm's End]]
+| Death       = 
+| House       = [[House Baratheon|Baratheon]]
+| Affiliation = [[Kingsguard]]
+| Titles      = [[Knighthood|Ser]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Andals|Andal]]
+| Religion    = [[Faith of the Seven]]
+| Father      = {[[Orys Baratheon]]}
+| Mother      = {[[Argella Baratheon|Argella Durrandon]]}
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = {[[Axel Baratheon]]}<br>{[[Serac Baratheon]]}{{Notes|Lineages}}<br>{[[Theresa Baratheon]]}{{Notes|Lineages}}<br>{[[Ethelide Baratheon]]}{{Notes|Lineages}}<br>{[[Mychal Baratheon]]}{{Notes|Lineages}}
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|A few of the Faith Militant's more... militant members even scaled the walls of the castle and would have slain the king and his family had a knight of the Kingsguard not intervened.|The [[High Sparrow]]|The Faith Militant}}
+Ser '''Raymont Baratheon'''{{Con|TWOI&F}} was a [[Knighthood|knight]] of [[King of the Andals and the Rhoynar and the First Men|King]] [[Aenys Targaryen]]'s [[Kingsguard]].
+
+==Biography==
+[[File:HL5 Faith Militant versus Aenys's Kingsguard in the Red Keep.png|thumb|right|225px|The Faith Militant attack King Aenys in the Red Keep but are repulsed by his Kingsguard, led by Ser Raymont Baratheon.]]
+Raymont was a son of [[Orys Baratheon]] and [[Argella Baratheon|Argella Durrandon]]. During a [[Faith Militant raid on the Red Keep]], Raymont was able to keep the raiders from killing King Aenys and his family.{{Ref|H&L502}}
+
+==Family==
+===Paternal===
+{{Targaryen tree (Aegon's Conquest)}}
+
+===Maternal===
+{{Durrandon tree}}
+
+==In the books==
+In ''The World of Ice & Fire'' and ''[[Fire & Blood]]'', Raymont's story is the same.
+
+In [[Game of Thrones: Season 1|''Game of Thrones'': Season 1]], Ned Stark looks through the pages of ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]'', but for the visual medium of television the prop had to be filled in with other pages of writing beyond the sections on Robert and Joffrey that Ned specifically read. Writer [[Bryan Cogman]] said that he filled in much of this by simply making up names or using in-jokes - and these aren't strictly canon. On the other hand, some of the details are accurate to the novels, such as information on the [[Blackfyre Rebellion]], and do match the already released novels.
+
+One of the entries visible in the book says that one of Orys's sons, [[Mychal Baratheon]], died preventing an assassination attempt on King Aenys - it is unclear if this was behind-the-scenes information that George R.R. Martin shared with Cogman, or if he simply ''guessed'' that one of Aenys's Kingsguard may have died fighting off an assassination attempt in the Faith Militant uprising (the details of which weren't specified until some time after Season 1 was produced).
+
+In the print material so far, it is unclear if Raymont Baratheon died defending Aenys during the Faith Militant's attack on the Red Keep.
+
+While ''Fire & Blood'' does mention a Kingsguard knight saving Aenys's life, Raymont is not mentioned by name, so it is currently uncertain if he is still considered canon or if a different Kingsguard knight saved Aenys.
+
+==Appearances==
+*{{H&L|The Faith Militant}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Baratheon}}
+{{Kingsguard of Aenys I Targaryen}}
+
+<!--Categories-->
+{{DEFAULTSORT:Baratheon, Raymont}}
+[[Category:Individuals from Histories & Lore]]
+[[Category:Kingsguard of Aenys I Targaryen]]
+[[Category:Knights]]
+[[Category:Members of House Baratheon|Raymont Baratheon]]
+[[Category:Stormlanders]]
+
+<!--Languages-->
+[[fr:Raymont Baratheon]]
+[[ru:Реймонт Баратеон]]

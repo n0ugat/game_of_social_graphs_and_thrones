@@ -1,0 +1,74 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Strong.svg
+| Link  = House Strong
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Tully
+| Image       = Paxter Strong.png
+| Birth       = 
+| Death       = 
+| House       = [[House Strong|Strong]]
+| Affiliation = 
+| Titles      = 
+| AKA         = 
+| Culture     = [[Riverlands|Rivermen]]
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 2|2]]
+| Appearances = 4 episodes {{Below|Appearances}}
+| First       = "[[The Burning Mill]]"
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Graeme McKnight]]
+}}
+{{Quote|I like the goose, myself.|Paxter Strong|Regent (episode)}}
+'''Paxter Strong''' is a member of [[House Strong]] during the [[Dance of the Dragons]].
+
+==Biography==
+===Background===
+Paxter is a grandson of Ser [[Simon Strong]]{{Con|F&B}} and either the brother or cousin of [[Germund Strong]].
+
+===[[House of the Dragon: Season 2|''House of the Dragon'': Season 2]]===
+Paxter Strong is present when [[Daemon Targaryen]] arrives at [[Harrenhal]] to claim the castle for [[Rhaenyra Targaryen]]. Paxter and Simon Strong serve Daemon dinner while discussing how to make [[House Tully]] declare for the [[Blacks]].{{Ref|HOTD203}}
+
+==Family==
+{{Strong tree}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels and ''[[Fire & Blood]]'', there is no character named Paxter Strong. The only character whose first name is Paxter is Lord [[Paxter Redwyne]]. Simon Strong's grandsons are mentioned but unnamed.
+
+==Appearances==
+*{{HOTD|The Burning Mill}}
+*{{HOTD|The Red Dragon and the Gold}}
+*{{HOTD|Regent}}
+*{{HOTD|Smallfolk}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{House Strong}}
+
+<!--Categories-->
+{{DEFAULTSORT:Strong, Paxter}}
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Members of House Strong|Paxter Strong]]
+[[Category:Rivermen]]
+
+<!--Languages-->
+[[fr:Paxter Fort]]
+[[pl:Paxter Strong]]
+[[ru:Пакстер Стронг]]
+[[uk:Пакстер Дужий]]

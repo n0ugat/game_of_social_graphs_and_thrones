@@ -1,0 +1,82 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Distinguish|riots in King's Landing}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Dragon
+| Part          = the [[Dance of the Dragons]]
+| Image         = S2 Alicent Hightower 5.jpg
+| Previous      = [[Taking of Stone Hedge]]
+| Concurrent    = [[Blockade of the Gullet]]<br>[[Red Sowing]]
+| Next          = [[Burning of Sharp Point]]
+| Date          = [[132 AC]]{{Dateref|House of the Dragon: Season 2}}
+| Place         = [[King's Landing]], [[Crownlands]]{{Ref|HOTD207}}
+| Outcome       = Strategic [[Blacks|Black]] victory
+*Rioters barely suppressed
+*Public opinion in King's Landing turned against the [[Greens]] in favor of the Blacks
+*Death of Ser [[Leon Estermont]]
+*Ser [[Martyn Reyne]] and Ser [[Eddard Waters]] condemned to the [[Night's Watch]]
+| Factions1     = {{COA|Greens|s}} [[Greens]]
+| Factions2     = {{COA|Blacks|s}} [[Blacks]] {{C|clandestinely}}<br>Rioting [[Smallfolk]] in King's Landing
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = {{COA|House Hightower|i}} Dowager Queen [[Alicent Hightower]]<br>{{COA|House Targaryen|i}} Queen [[Helaena Targaryen]]
+| Leaders2      = {{COA|House Targaryen/House of the Dragon|i}} [[King of the Andals and the Rhoynar and the First Men|Queen]] [[Rhaenyra Targaryen]] {{C|clandestinely}}<br>[[Mysaria]] {{C|clandestinely}}
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = *{{COA|Kingsguard/House of the Dragon|i}} 4 [[Kingsguard]]
+**[[Knighthood|Ser]] [[Rickard Thorne]]
+**[[Knighthood|Ser]] [[Martyn Reyne]]
+**[[Knighthood|Ser]] [[Eddard Waters]]
+**[[Knighthood|Ser]] [[Leon Estermont]] †
+*{{COA|City Watch of King's Landing/House of the Dragon|i}} [[City Watch of King's Landing/House of the Dragon|City Watch]]
+*Token number of Targaryen knights
+| Participants2 = Several hundred rioting peasants and smallfolk
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = Ser Leon Estermont
+| Casualties2   = Several dozen rioters killed or wounded
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Quote|There is more than one way to fight a war.|Mysaria|Regent (episode)}}
+In [[132 AC]],{{Dateref|House of the Dragon: Season 2}} a '''riot''' erupted in [[King's Landing]] during the [[Dance of the Dragons]]. The cause of the riot lay with the deteriorating economic situation in the capital caused by the [[Blacks]]' ongoing [[blockade of the Gullet]], exacerbated by both the [[Greens]]' relative inaction to mitigate the situation and the spreading of anti-Green propaganda by agents of [[Mysaria]].{{Ref|HOTD207}}
+
+==History==
+===Prelude===
+At the outbreak of the [[Dance of the Dragons]], the [[Blacks]]' initial strategy in the civil war involved the use of the massive [[Velaryon fleet]] to institute a [[Blockade of the Gullet|blockade]] in the [[Gullet]], a strait  connecting [[Blackwater Bay]] to the [[Narrow Sea]]. The goal of the blockade was to slowly strangle [[King's Landing]]'s economy by shutting down all seaborne trade and travel into and out of the city to the rest of [[Westeros]] and [[Essos]].{{Ref|HOTD110}} Within weeks, the effects of the blockade became evident to the [[smallfolk]], as food and goods from seaborne trade became scarce and prices soared. Meanwhile, merchants and craftsmen supporting the [[Greens]]' war efforts went unpaid, despite public assurances from [[Aegon II Targaryen|Aegon II]], leading to increasing disillusionment with the Green regime.{{Ref|HOTD201}}
+
+Despite a [[Submission of Rosby|string]] [[Submission of Stokeworth|of]] [[Sack of Duskendale|victories]], including the [[Battle at Rook's Rest|deaths of Rhaenys and Meleys]] at [[Rook's Rest]], the Blacks' blockade, while weakened, continued uninterrupted through its naval element.{{Ref|HOTD204}} With [[Aemond Targaryen|Aemond]] and [[Vhagar]] forced to remain in King's Landing to protect it, the [[House Lannister/House of the Dragon|Lannister]] and [[House Hightower|Hightower]] fleets still months away, and attempts to treat with Lord [[Dalton Greyjoy]] and the [[Iron Fleet]] being ignored, the Greens' had no immediate answer in disrupting the Blacks' blockade. All the while, the situation in the capital continued to deteriorate, with increasing incidences of hoarding and thievery among the smallfolk as food and goods grew scarcer and more expensive. The level of food scarcity was so severe that normal meat became rare, forcing taverns and ordinary folk alike to fish in Blackwater Bay. Further exacerbating the situation was a growing fear of a possible Black retaliation on King's Landing to avenge Rhaenys and Meleys. This led to many members of the capital's populace to flee elsewhere. To combat this, Aemond, in his new capacity as [[Regent|Prince Regent]], ordered for the city's gates to be closed to inbound and outbound travel for the smallfolk without the Green Council's approval, with only merchants being exempt.{{Ref|HOTD205}}
+
+Through her agents that still remained in King's Landing, [[Mysaria]] learned of the rising civil unrest and souring public opinion on the Greens. Using this knowledge, she presents to [[Rhaenyra Targaryen|Rhaenyra]] a plan to capitalize on this development. With Rhaenyra's blessing, Mysaria tasked her agents in King's Landing to spread anti-Green rumors alleging of their excess and debauchery in the [[Red Keep]], much to the chagrin of the smallfolk who listened. Their efforts only furthered fomented resentment against the Greens amongst King's Landing's people, heightened further by the public viewing of substantial amounts of food being requisitioned for the Green war effort, whilst the populace of the city faced the prospect of a famine. Hoping to curtail this, Aemond ordered Ser [[Tyland Lannister]] to meet with the [[Triarchy]] for the possibility of an alliance.{{Ref|HOTD206}}
+
+===The riot===
+{{Dialogue a-b|Mysaria|My queen, our gift is sent.|Rhaenyra|Let us hope for clouds over the Blackwater tonight.|Mysaria and Rhaenyra Targaryen |Smallfolk}}
+With King's Landing populace growing ever angrier and desperate, Rhaenyra and Mysaria enact phase two of their plan: the deployment of dozens of boats filled with fresh food and goods to King's Landing. As the flotilla bearing the black-red heraldry of House Targaryen makes its way to the capital, it is eventually spotted by a number of smallfolk fishing along the beaches of Blackwater Bay. News swiftly spreads of the bounty of food arriving from Rhaenyra on the shores of King's Landing, sparking the formation of massive mobs. Chaos quickly consumes the capital as hundreds, if not thousands, of civilians begin racing through the streets towards the beach to claim a portion of the food arriving. Some smallfolk even openly attack others who have gotten food already for their claim share, as the [[City Watch of King's Landing/House of the Dragon|City Watch]] and Targaryen garrison in the city attempt to maintain order.{{Ref|HOTD206}}
+[[File:Alicent-Helaena-House-of-the-Dragon-Season-2-Episode-6.jpg|thumb|Alicent and Helaena flee.]]
+With the situation in the capital rapidly deteriorating, Ser [[Rickard Thorne]] urges [[Alicent Hightower|Alicent]] and [[Helaena Targaryen|Helaena]] to evacuate the [[Grand Sept]], where they were praying. As he and the queens make their way outside, a large crowd has already assembled outside the sept, with the City Watch barely holding a corridor open for their escape. Rickard then orders Ser [[Martyn Reyne]], Ser [[Eddard Waters]], and Ser [[Leon Estermont]] to assist him in getting the queens to the royal wheelhouse safely. As the group makes their way down the Grand Sept's steps, the growing crowd of smallfolk presses in closer, heckling Alicent and Helaena and even throwing fish and other refuse at them, while praising Rhaenyra's name. Alicent is then grabbed by a commoner, prompting Ser Leon to hastily amputate his arm with his sword. The act shocks the crowd, inciting them into violence as they descend on the royal retinue, while Alicent and Rickard order for Ser Leon and the other Kingsguard to sheathe their swords. Alicent and Helaena are subsequently separated from the Kingsguard and forced against a wall by the rioting mob, only protected from attack by the timely intervention of Targaryen knights and City Watch guards. The two queens are then safely extracted to the royal wheelhouse, with Rickard ordering for the carriage to run down the smallfolk in front of them if they have to as they make their way back to the Red Keep. As the carriage begins moving along, Alicent  notices she has been slashed along her left arm. Meanwhile, Leon, Eddard, and Martyn are surrounded by the violent mob. Despite holding them back with their swords, Leon is dragged down by the mob and subsequently beaten to death, while both Martyn and Eddard are injured.{{Ref|HOTD206}}
+
+===Aftermath===
+Following the riot, Ser Eddard and Ser Martyn, having survived their encounter with the mob, were brought before Aemond. Having failed to properly protect Aemond's mother and sister and being partly responsible for inciting the riot through the actions of the late Ser Leon and their own general incompetence, Aemond strips Eddard and Martyn of their white cloaks. He then forces the two into exile at the [[Wall]] by having them join the [[Night's Watch]].{{Ref|HOTD207}}
+
+The riot in King's Landing represented the culmination of a gradual shift in public favor from the Greens to the Blacks amongst the smallfolk in the capital. While the Greens started the Dance enjoying popular support amongst the city's populace with Aegon’s public coronation, coupled with sympathy garnered from [[Jaehaerys Targaryen|Jaehaerys]]'s [[Assassination of Jaehaerys Targaryen|murder]] and funeral, it was by their own actions that the Greens whittled away their public support. Aegon's public execution of the Red Keep's ratcatchers, Criston Cole’s parading of Meleys's head through the streets, and the Greens relative inaction to addressing the Blacks' blockade all served to tarnish and diminish the Greens in the eyes of the smallfolk. The latter served as the immediate threat to the smallfolk's livelihood, which the Blacks were able to exploit through the spreading of scandalous rumors and assisting in lifting the impending famine through a massive food delivery effort. As a result, the smallfolk effectively shifted their support from Aegon and the Greens to Rhaenyra and the Blacks.
+
+==In the books==
+In ''[[Fire & Blood]]'', this event never happened. Aegon received reports that merchants were complaining about shortages of food in King's Landing, and indifferently told [[Otto Hightower]] to take care of that; however, the situation never escalated into a full-scale riot, nor did the Blacks play a part in instigating it.
+
+The riot in the show bears striking similarities to the [[riots in King's Landing]] during the [[War of the Five Kings]], which would take place roughly two centuries later. Just like those riots, the riot's cause lay with food shortages caused by the ongoing civil war and the Crown's relative inaction in addressing them. Additionally, the riot is incited when a member of the royal retinue attacks the crowd; [[Sandor Clegane|a Kingsguard]] cuts off a rioter's arm; [[Preston Greenfield|a Kingsguard]] is killed by the angry mob.{{Bookref|ACOK|41}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{Dance of the Dragons}}
+
+<!--Categories-->
+[[Category:132 AC]]
+[[Category:Dance of the Dragons]]
+[[Category:Events]]

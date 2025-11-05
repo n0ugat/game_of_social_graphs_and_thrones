@@ -1,0 +1,61 @@
+{{Canonicity|Non}}
+{{Heraldry
+| Image = House Royce.svg
+| Link  = House Royce
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Royce
+| Image       = House Royce lineage.jpeg
+| Birth       = [[206 AC]]{{Dateref|Paxter Royce}}<br>[[Runestone]], the [[Vale of Arryn]]
+| Death       = [[246 AC]]{{Dateref|Paxter Royce death}} (aged 40)
+| House       = [[House Royce|Royce]]
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Vale of Arryn|Valemen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = {[[Maynard Royce]]}
+| Mother      = {[[Mavis Royce|Mavis Belmore]]}
+| Spouse      = {[[Wylla Waynwood]]}
+| Lovers      = 
+| Issue       = [[Edwina Royce]]
+| Siblings    = {[[Andar Royce]]}<br>{[[Junia Royce]]}<br>[[Serena Royce]]
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Paxter Royce''' was a member of [[House Royce]], a son of Lord [[Maynard Royce]].
+
+==Biography==
+Paxter Royce was the secondborn son of Lord [[Maynard Royce]] and Lady [[Mavis Royce]]. At 21 years old he married [[Wylla Waynwood]], who bore him one daughter, [[Edwina Royce]]. He died of an unknown illness at the age of 40.<ref name="s1prop">''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]'' prop from Season 1</ref>
+
+==Behind the scenes==
+Paxter Royce is mentioned in the section on House Royce in the Season 1 prop for ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]''. The section on House Royce never appears on-screen in the TV series, as its planned appearance, where [[Eddard Stark]] would have read from it, was cut.
+
+==In the books==
+Paxter Royce is referenced only in the TV adaptation of ''[[A Song of Ice and Fire]]'' and has no corresponding counterpart in the books. The name of Yohn Royce's father has not been mentioned in the books.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{House Royce}}
+
+<!--Categories-->
+{{DEFAULTSORT:Royce, Paxter}}
+[[Category:Individuals from Game of Thrones]]
+[[Category:Members of House Royce|Paxter Royce]]
+[[Category:Valemen]]
+
+<!--Languages-->
+[[ru:Пакстер Ройс]]

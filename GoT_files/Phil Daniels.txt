@@ -1,0 +1,35 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Phil Daniels.jpg
+| Birth   = Philip William Daniels<br>October 25, 1958 {{Age|1958|10|25}}<br>Islington, London, England
+| Death   = 
+| Role    = [[Gerardys]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]] {{*}} [[House of the Dragon: Season 2|2]]
+| Credits = 11 episodes {{Below|Credits}}
+| First   = "[[Driftmark (episode)|Driftmark]]"
+| Last    = 
+}}
+'''Philip William Daniels''' (born 25 October 1958) is an English actor and musician.
+
+In ''[[House of the Dragon]]'', he portrays [[Gerardys]].<ref>https://pressroom.warnermedia.com/us/bio/house-dragon-character-descriptions</ref>
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1|||||||yes|yes||yes}}
+{{House of the Dragon: Season 2|yes|yes|yes|yes|yes|yes|yes|yes}}
+
+==See also==
+*{{WP}}
+*{{IMDb|#=0200057}}
+*{{Twitter|#=1phildaniels}}
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Daniels, Phil}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Phil Daniels]]

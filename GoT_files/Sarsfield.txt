@@ -1,0 +1,47 @@
+{{Canonicity|Canon}}
+{{MapNeeded}}
+{{References}}
+{{Heraldry
+| Image = House Sarsfield.svg
+| Link  = House Sarsfield
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Lannister
+| Image        = Westerlands on-screen map.jpg
+| Type         = Castle
+| Status       = 
+| Location     = The [[Westerlands]], [[Westeros]]
+| Population   = 
+| Rulers       = [[House Sarsfield]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Sarsfield'''{{Ref|GOT105}} is a castle in the [[Westerlands]] and the seat of [[House Sarsfield]], a noble house sworn to [[House Lannister]] of [[Casterly Rock]]. It is located southwest to [[Golden Tooth]] and northeast of Casterly Rock, being connected to the two castles through the [[River Road]], and northeast of [[Hornvale]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Sarsfield is the seat of the eponymous House Sarsfield.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Westerlands}}
+
+<!--Categories-->
+[[Category:Castles of the Westerlands]]
+[[Category:House Sarsfield]]
+
+<!--Languages-->
+[[de:Sarsfeld]]
+[[es:Sarsfield]]
+[[it:Sarsfield]]
+[[pl:Sarsfield]]
+[[ru:Сарсфилд]]
+[[zh:萨斯菲尔德城]]

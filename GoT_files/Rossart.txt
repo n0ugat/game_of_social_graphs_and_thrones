@@ -1,0 +1,82 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Targaryen
+| Image       = Rossart.jpg
+| Birth       = 
+| Death       = [[281 AC]]{{Dateref|Robert's Rebellion}}<br>The [[throne room]], [[King's Landing]]{{Ref|GOT305}}
+| House       = 
+| Affiliation = [[Alchemists' Guild]]<br>[[House Targaryen]]
+| Titles      = [[Wisdom]]<br>[[Hand of the King]] {{C|to [[Aerys II Targaryen|Aerys II]]}}
+| Predecessor = {[[Qarlton Chelsted]]} {{C|Hand of the King}}
+| Successor   = {[[Jon Arryn]]} {{C|Hand of the King}}
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Aerys saw traitors everywhere, so he had his pyromancer place caches of wildfire all over the city.|Jaime Lannister reminiscing to Brienne of Tarth|Kissed by Fire}}
+'''Rossart''' was a [[Wisdom]] of the [[Alchemists' Guild]] and later served as the last [[Hand of the King]] to the Mad King, [[Aerys II Targaryen]].
+
+==Biography==
+===Background===
+Wisdom Rossart was a loyal servant of Aerys, during whose reign the Guild rose again to royal favor. Rossart burned Aerys's enemies alive in the [[throne room]] of the [[Red Keep]]. During [[Robert's Rebellion]], he rose to Hand of the King.{{Ref|H&L218}}
+
+Following the [[Battle of the Trident]], Aerys had Rossart [[Wildfire plot|fill King's Landing with secret caches of wildfire]] in order to destroy the city and all those in it, should the capital fall to the rebels. However, Rossart was killed by [[Jaime Lannister|Jaime]] during the [[Sack of King's Landing]], to prevent him from carrying out the Mad King's order of destroying the entire city.{{Ref|GOT305}}
+
+===[[Game of Thrones: Season 3|''Game of Thrones'': Season 3]]===
+While feverishly taking a bath in [[Harrenhal]] alongside [[Brienne of Tarth|Brienne]], Jaime recalls the turn of events that led him to killing King Aerys, indirectly referring to Rossart as "his pyromancer".{{Ref|GOT305}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Wisdom Rossart was the head of the Alchemist's Guild during the reign of King Aerys. He had been elevated largely because he shared the king's passion for fire. He was the pyromancer who had cooked Lord [[Rickard Stark]] in his armor with wildfire.
+
+After Lord [[Qarlton Chelsted]] was executed at the Mad King's orders, because he refused to take part in Aerys's plan to destroy the city and tried in vain to dissuade him, Rossart became the new Hand of the King, choosing a burning torch as his personal sigil. Rossart served as Hand for less than a fortnight, before being killed during the Sack of King's Landing. Many people, who were not in the capital at that time, do not even remember that he was briefly Hand of the King.
+
+After being sent by Aerys to kill Tywin, Jaime caught up with Rossart and killed him, then he returned to the throne room and killed Aerys. Before he died, Aerys asked him whose blood was on Jaime's sword, to which Jaime replied that it was Rossart's. Jaime noted that Rossart at least tried to make a fight of it, while Aerys did not resist at all when Jaime slit his throat. Days later, Jaime hunted down the other pyromancers and slew them as well; Belis offered him gold, and Garigus wept for mercy, but Jaime killed them anyway.
+
+==Appearances==
+*{{H&L|The Alchemist Guild}} {{Illustrated}}
+*{{GOT|Kissed by Fire}} {{Mentioned}}
+*{{H&L|Robert's Rebellion - Jaime Lannister}} {{Illustrated}}
+*{{H&L|The Hand of the King}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Small Council of Aerys II Targaryen}}
+
+<!--Categories-->
+[[Category:Crownlanders]]
+[[Category:Hands of the King]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Servants and retainers of House Targaryen]]
+[[Category:Wisdoms]]
+
+<!--Languages-->
+[[de:Rossart]]
+[[es:Rossart]]
+[[fr:Rossart]]
+[[it:Rossart]]
+[[nl:Rossart]]
+[[ru:Россарт]]
+[[zh:罗萨特]]

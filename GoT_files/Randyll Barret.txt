@@ -1,0 +1,69 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = City Watch of King's Landing.svg
+| Link  = City Watch of King's Landing/House of the Dragon
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Targaryen
+| Image       = Randyll Barret.png
+| Birth       = [[83-92 AC]]{{Dateref|Randyll Barret}}
+| Death       = 
+| House       = 
+| Affiliation = [[City Watch of King's Landing/House of the Dragon|City Watch of King's Landing]]{{Ref|HOTD101}}
+| Titles      = Captain<ref name="Script">https://deadline.com/wp-content/uploads/2023/06/House-Of-The-Dragon-It-Starts-On-The-Page.pdf</ref>
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 1|1]]
+| Appearances = "[[The Heirs of the Dragon]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Frankie Wilson]]
+}}
+{{Quote|Commander on the floor!|Randyll Barret|The Heirs of the Dragon}}
+'''Randyll Barret''' is a captain of the [[City Watch of King's Landing/House of the Dragon|City Watch of King's Landing]].
+
+==Biography==
+===Background===
+Randyll is a commonborn man with highborn ambitions. He is one of the seven gate captains of the City Watch of King's Landing,<ref name="Script" /> and a lickspittle to [[Daemon Targaryen]].{{Ref|HOTD101}}
+
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+Randyll is among the gold cloaks rounding up criminals for summary punishment. He points to various criminals, announcing their crimes and personally carrying out the appropriate punishment: he castrates a raper and takes a hand from a thief. He reserves a murderer for Daemon himself, who decapitates him with [[Dark Sister]].{{Ref|HOTD101}}
+
+He is later present at the celebratory party the gold cloak officers hold in a brothel on the [[Street of Silk]]. He yells to everyone to quiet down so that Daemon may speak.{{Ref|HOTD101}}
+
+==In the books==
+In ''[[Fire & Blood]]'', there is no character named Randyll Barret.
+
+Below the Commander of the entire City Watch, there are seven "captains" in all - one for each garrison, posted at each of the city's seven gates.
+
+==Appearances==
+*{{HOTD|The Heirs of the Dragon}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Categories-->
+{{DEFAULTSORT:Barret, Randyll}}
+[[Category:City Watch of King's Landing]]
+[[Category:Crownlanders]]
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Servants and retainers of House Targaryen]]
+[[Category:Smallfolk]]
+
+<!--Languages-->
+[[es:Randyll Barret]]
+[[fr:Randyll Barret]]

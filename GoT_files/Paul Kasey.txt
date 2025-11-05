@@ -1,0 +1,30 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Paul Casey.jpg
+| Birth   = August 5, 1973 {{Age|1973|8|5}}<br>Chatham, Kent, England
+| Death   = 
+| Role    = White Walker
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]]
+| Credits = "[[The Queen Who Ever Was]]"
+| First   = 
+| Last    = 
+}}
+'''Paul Kasey''' is an English creature performer and actor. He has portrayed various creatures in the ''{{WPS|Star Wars}}'' and ''{{WPS|Whoniverse|Doctor Who}}'' franchises.
+
+Kasey plays a White Walker in the [[House of the Dragon: Season 2|second season]] of ''[[House of the Dragon]]''.
+
+==Credits==
+{{House of the Dragon: Season 2||||||||yes}}
+
+==External links==
+*{{WP}}
+*{{IMDb|# = 01208004}}
+
+<!--Categories-->
+{{DEFAULTSORT:Kasey, Paul}}
+[[Category:Uncredited cast members of House of the Dragon]]
+
+ <!--Languages-->
+[[fr:Paul Kasey]]

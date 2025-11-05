@@ -1,0 +1,19 @@
+{{Crew
+|Image = 
+|birthplace = 
+|job = Stunt Wire Rigger
+|imdb = http://www.imdb.com/name/nm1383042/
+|twitter = }}
+'''Scott Hillier''' is a rigger.
+
+In ''[[Game of Thrones]]'', he was a stunt wire rigger in the [[Game of Thrones: Season 3|third season]] episode "[[The Climb]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 3||||||yes}}
+
+==See also==
+*{{IMDb
+|# = 1383042}}
+{{DEFAULTSORT:Hillier, Scott}}
+[[Category:Stunt performers of Game of Thrones]]

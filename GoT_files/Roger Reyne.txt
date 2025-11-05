@@ -1,0 +1,85 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Reyne.svg
+| Link  = House Reyne
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Reyne
+| Image       = Roger Reyne.png
+| Birth       = [[Castamere]]
+| Death       = [[258 AC]]{{Dateref|Reyne-Tarbeck revolt}}<br>Castamere
+| House       = [[House Reyne|Reyne]]
+| Affiliation = [[House Lannister]]
+| Titles      = [[Knighthood|Ser]]<br>[[Lord of Castamere]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Westerlands|Westermen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = {[[Reynard Reyne]]}<br>{[[Ellyn Reyne]]}
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|And so he spoke, and so he spoke, that Lord of Castamere, but now the rains weep o'er his hall with no one there to hear.|"[[The Rains of Castamere]]"|Blackwater}}
+Lord '''Roger Reyne''' was the last [[Lord of Castamere]] and of [[House Reyne]]. He was killed during the [[Reyne-Tarbeck revolt]] by [[Knighthood|Ser]] [[Tywin Lannister]] along with the rest of his house.
+
+==Biography==
+With their sister [[Ellyn Reyne]] unwelcome at [[Casterly Rock]] due to her attempted affair with Lord [[Tytos Lannister]], Roger and his brother [[Reynard Reyne]] met with the lord to asked him for extravagant loans. Lady Ellyn then used the gold they had been granted to restore [[Tarbeck Hall]] to its former splendor. Lord Tytos approached them for repayment and they laughed at him, with Tytos soon laughing along with them.{{Ref|H&L708}}
+
+Tytos' son [[Tywin Lannister]] returned from the [[War of the Ninepenny Kings]] and demanded that all debts owed to [[House Lannister]] be paid. Lord Tarbeck rode to Casterly Rock to convince Tytos to overturn this demand, for which Tywin had him thrown into a dungeon. The Reynes threatened to declare war on the Lannisters and Tytos released Lord Tarbeck and apologized and forgave all debts that the Tarbecks owed to his house. To celebrate the end of the hostilities between them, Roger feasted Tytos at Castamere and the two lords proclaimed their eternal friendship.{{Ref|H&L708}}
+
+Tywin later marched on Tarbeck Hall and [[Castamere]] with an army behind him. Upon seeing them approach Tarbeck Hall, Ellyn sent [[raven]]s to her brothers at Castamere. Roger's army reached Tarbeck Hall just in time to see it consumed by flames. He charged Tywin's camp, hoping the element of surprise would overcome Tywin's greater numbers. Half of Roger's men were killed and he received a crossbow bolt to the back before he fled back to Castamere. Tywin's host arrived three days later and the Reyne brothers retreated into the underground mines and offered terms to him to avoid a long siege. Tywin gave no reply and ordered the mines to be sealed with stone and soil to prevent them from escaping. He then had the stream beside the castle dammed and directed to the main entrance, drowning the brothers. Their deaths inspired the song "[[The Rains of Castamere]]."{{Ref|H&L708}}
+
+==In the books==
+In ''The World of Ice & Fire'', Ser Roger Reyne was known as "Roger the Red" and was considered one of the deadliest men in the [[Westerlands]]. He became the [[Lord of Castamere]] following the death of his father Robert during the Peake Uprising in 233 AC. He was said to have killed seven captive Peakes at Starpike before being stopped by Prince [[Aegon Targaryen (son of Maekar)|Aegon V Targaryen]].
+
+Roger and his brother [[Reynard Reyne|Reynard]] were frequently present at [[Casterly Rock]] during their sister [[Ellyn Reyne|Ellyn]]'s [[marriage]] to [[Tion Lannister]]. They returned to [[Castamere]] following Tion's death as [[Gerold Lannister]] began grooming [[Tytos Lannister]] for leadership. Ellyn later married [[Walderan Tarbeck]], the Lord of Tarbeck Hall.
+
+It has been claimed that [[House Tarbeck]] angered King Aegon V with their territorial demands in 255 AC. Lord Tytos sent Lord Denys Marbrand to capture them, but Roger came to his sister's aid and killed the men of [[House Marbrand]] in the night before they reached [[Tarbeck Hall]]. The Reynes and Tarbecks were pardoned when Reynard convinced Lord Tytos that it had been a misunderstanding. In the [[War of the Ninepenny Kings]], Roger capably led [[House Lannister]]'s army following the death of Lord [[Jason Lannister]]. [[Kevan Lannister]] served as Roger's squire, and it was Roger who granted him his [[knighthood]].
+
+In 261 AC, [[Tywin Lannister]] sought to reaffirm his house's dominance over the [[Westerlands]]. The Reynes and Tarbecks [[Reyne-Tarbeck revolt|rebelled]] against the Lannisters and Tywin's retaliation was swift and brutal. Failing to save his sister's family at Tarbeck Hall and defeat Tywin's force in a surprise attack, Roger fled back to Castamere and took refuge in the mines with his brother. He challenged Tywin to a single combat, which Tywin refused, instead opting to divert the nearby stream into the Reyne stronghold and drown all within.
+
+==Appearances==
+*{{GOT|Blackwater}} {{Mentioned}}
+*{{H&L|The Rains of Castamere}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Reyne}}
+
+<!--Categories-->
+{{DEFAULTSORT:Reyne, Roger}}
+[[Category:Bannermen of House Lannister]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Lords]]
+[[Category:Members of House Reyne|Roger Reyne]]
+[[Category:Westermen]]
+
+<!--Languages-->
+[[de:Roger Regn]]
+[[es:Roger Reyne]]
+[[fr:Roger Reyne]]
+[[it:Roger Reyne]]
+[[nl:Rutger Reyn]]
+[[ru:Роджер Рейн]]
+[[zh:罗杰·雷耶斯]]

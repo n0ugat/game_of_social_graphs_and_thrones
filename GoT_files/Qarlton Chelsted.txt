@@ -1,0 +1,87 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = Unknown.svg
+| Link  = 
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Targaryen
+| Image       = Qarlton Chelsted.png
+| Birth       = 
+| Death       = [[King's Landing]], the [[Crownlands]]{{Ref|GOT305}}
+| House       = 
+| Affiliation = [[House Targaryen]]
+| Titles      = [[Master of Coin]]<br>[[Hand of the King]] {{C|to Aerys II}}
+| Predecessor = {[[Jon Connington]]} {{C|Hand of the King}}
+| Successor   = {[[Rossart]]} {{C|Hand of the King}}<br>{[[Petyr Baelish]]} {{C|Master of Coin}}
+| AKA         = 
+| Culture     = [[Andals|Andal]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|He loved to watch people burn, the way their skin blackened and blistered and melted off their bones. He burned lords he didn't like. He burned Hands who disobeyed him. He burned anyone who was against him. Before long, half the country was against him.|[[Jaime Lannister]] describing the death of Qarlton Chelsted.|Kissed by Fire}}
+'''Qarlton Chelsted'''{{Con|ASOIAF}} was the [[Hand of the King]] late in the reign of [[King of the Andals and the Rhoynar and the First Men|King]] [[Aerys II Targaryen]].
+
+==Biography==
+===Background===
+Lord Qarlton briefly served as Hand of the King during [[Robert's Rebellion]], but was [[Execution|executed]] with [[wildfire]] for disobeying King Aerys.{{Ref|H&L111}}
+
+===[[Game of Thrones: Season 3|''Game of Thrones'': Season 3]]===
+While in the baths of [[Harrenhal]] with [[Brienne of Tarth|Brienne]], [[Jaime Lannister|Jaime]] recalls Aerys's fondness for wildfire and his execution of [[Lordship|lords]] and hands with the substance, including Qarlton.{{Ref|GOT305}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Jaime recalls Qarlton Chelsted as a craven man up until his defiance of Aerys. He was nicknamed the "mace-and-dagger Hand" because of his sigil.
+
+According to ''The World of Ice & Fire'', Chelsted served as Master of Coin late in the reign of Aerys and was a strong supporter of the king over [[Rhaegar Targaryen|Rhaegar]]. When the [[Great Tourney at Harrenhal]] took place, it was believed that Rhaegar was secretly funding it as a means to call a Great Council and depose his father, and Qarlton unsuccessfully tried to convince Aerys to forbid the tourney. He later accompanied Aerys to Harrenhal and after Rhaegar won the final joust, Qarlton and Lord Symond Staunton brought the king's suspicions to a boil by claiming that Rhaegar had participated to endear the smallfolk and present himself to the lords as the true heir to Aegon the Conqueror. Rhaegar's crowning of [[Lyanna Stark]] as the queen of love and beauty was seen by Qarlton as further proof of the prince's betrayal.
+
+After [[Jon Connington]] lost the [[Battle of the Bells]] during Robert's Rebellion, he was dismissed as Hand and exiled. Qarlton succeeded him as Hand, and soon noticed the comings and goings of members of the [[Alchemists' Guild]]. He eventually discovered that Aerys [[Wildfire plot|plotted]] to burn [[King's Landing]] to the ground with wildfire in the event of a rebel victory; he pleaded with the king to abandon this plan. When Aerys refused, Qarlton resigned as Hand, only to be dipped in wildfire and burned alive as punishment (Jaime privately admits that, having always dismissed Chelsted as a sycophant, he admired the man for finding the courage to defy Aerys). He was succeeded as Hand by the king's pyromancer, [[Rossart]].
+
+==Appearances==
+*{{H&L|Mad King Aerys - House Baratheon}} {{Indirect}}
+*{{GOT|Kissed by Fire}} {{Indirect}}
+*{{H&L|The Hand of the King}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Small Council of Aerys II Targaryen}}
+
+<!--Categories-->
+{{DEFAULTSORT:Chelsted, Qarlton}}
+[[Category:Bannermen of House Targaryen]]
+[[Category:Crownlanders]]
+[[Category:Hands of the King]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Masters of Coin]]
+[[Category:Nobles]]
+[[Category:Servants and retainers of House Targaryen]]
+
+<!--Languages-->
+[[de:Qarlton Chelsted]]
+[[es:Qarlton Chelsted]]
+[[fr:Qarlton Chelsted]]
+[[it:Qarlton Chelsted]]
+[[nl:Carlton Chelstede]]
+[[ru:Кварлтон Челстед]]
+[[zh:科尔顿·切斯德]]

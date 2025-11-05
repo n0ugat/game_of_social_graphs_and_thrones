@@ -1,0 +1,106 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Leftimage  = Unknown.svg
+| Leftlink   = 
+| Rightimage = Kingsguard.svg
+| Rightlink  = Kingsguard
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Lannister
+| Image       = 
+| Birth       = Greenfield
+| Death       = [[305 AC]]{{Dateref|Game of Thrones: Season 8}}<br>[[King's Landing]]
+| House       = 
+| Affiliation = [[Kingsguard]]<br>Queensguard
+| Titles      = [[Knighthood|Ser]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Westerlands|Westermen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 1|1]] {{*}} [[Game of Thrones: Season 3|3]] {{*}} [[Game of Thrones: Season 5|5]] {{*}} [[Game of Thrones: Season 8|8]]
+| Appearances = 11 episodes {{Below|Appearances}}
+| First       = "[[Winter Is Coming]]"
+| Last        = "[[The Bells]]"
+| DeathEp     = "The Bells"
+| Actor       = Unidentified
+}}
+{{Quote|Ser Preston will be stationed here beside the... primary entertainment.|Ser [[Jaime Lannister]]|Two Swords}}
+Ser '''Preston Greenfield'''{{Con|ASOIAF}} was a [[Knighthood|knight]] and a member of the [[Kingsguard]].
+
+==Biography==
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+Ser Preston is among the guards that [[Massacre in the Red Keep|attacked Eddard Stark]], when he attempts to arrest [[Cersei Lannister|Cersei]], and take her children into his custody.{{Ref|GOT107}}
+
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+After [[Jaime Lannister|Jaime]] returns to [[King's Landing]], he goes over with [[Meryn Trant]] the placement of the Kingsguard members in defensive positions during [[Purple Wedding|Joffrey's wedding]], assigning Ser Preston a place close to the wedding feast "primary entertainment".{{Ref|GOT401}}
+
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+Five members of the Kingsguard escort [[Tommen Baratheon|Tommen]] to the steps before the [[Great Sept of Baelor]] so the king can meet with the [[High Sparrow]]. Members of the [[Faith Militant]] block them.{{Ref|GOT504}}
+
+===[[Game of Thrones: Season 8|''Game of Thrones'': Season 8]]===
+Ser Preston is presumably killed by [[Sandor Clegane|the Hound]] or crushed by debris, while protecting Cersei during the [[Battle of King's Landing]], along with the other Kingsguard.{{Ref|GOT805}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Greenfield is a member of Robert Baratheon's Kingsguard. He is noted as the shortest member of the Kingsguard. He accompanied Robert on his boar hunting trip,{{Bookref|AGOT|43}} where [[Assassination of Robert Baratheon|he was mortally wounded]]. He pledges allegiance to Joffrey following Robert's death.
+
+Similarly to at least three other members of the Kingsguard (Jaime, [[Boros Blount]], and [[Arys Oakheart]]), Ser Preston used to violate his vow of celibacy at a certain draper's house whenever the draper was away.{{Bookref|AFFC|13}}
+
+Ser Preston is killed in the [[riots in King's Landing]] while trying to fight his way through the mob to defend the [[High Septon (Joffrey)|High Septon]]; he has been stabbed and hacked so cruelly that he was red-brown from head to heel.{{Bookref|ACOK|41}}
+
+Ser Preston is replaced by Ser [[Balon Swann]],{{Bookref|ACOK|49}} who has been mentioned in the series but not as part of the Kingsguard. In the series, no Kingsguard is shown to be killed by the rioters. Ser Preston is later mentioned as being alive at the time of Joffrey's wedding, meaning he survived the riots in TV continuity.
+
+==Appearances==
+*{{GOT|Winter Is Coming}}
+*{{GOT|The Kingsroad}}
+*{{GOT|Cripples, Bastards, and Broken Things}}
+*{{GOT|The Wolf and the Lion}}
+*{{GOT|You Win or You Die}}
+*{{GOT|The Pointy End}}
+*{{GOT|The Bear and the Maiden Fair}}
+*{{GOT|Second Sons}}
+*{{GOT|Two Swords}} {{Mentioned}}
+*{{GOT|Sons of the Harpy}}
+*{{GOT|Unbowed, Unbent, Unbroken}}
+*{{GOT|The Gift}}
+*{{GOT|The Bells}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Kingsguard of Robert I Baratheon}}
+{{Kingsguard of Joffrey I Baratheon}}
+{{Kingsguard of Tommen I Baratheon}}
+{{Queensguard of Cersei I Lannister}}
+{{House Baratheon of King's Landing}}
+
+<!--Categories-->
+{{DEFAULTSORT:Greenfield, Preston}}
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Kingsguard of Joffrey I Baratheon]]
+[[Category:Kingsguard of Robert I Baratheon]]
+[[Category:Kingsguard of Tommen I Baratheon]]
+[[Category:Knights]]
+[[Category:Nobles]]
+[[Category:Queensguard of Cersei I Lannister]]
+[[Category:Westermen]]
+
+<!--Languages-->
+[[ru:Престон Гринфилд]]
+[[zh:普列斯顿·格林菲尔]]

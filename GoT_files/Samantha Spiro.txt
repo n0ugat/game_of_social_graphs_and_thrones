@@ -1,0 +1,33 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Samantha Spiro.jpg
+| Birth   = June 20, 1968 {{Age|1968|6|20}}<br>Mill Hill, London, England
+| Death   = 
+| Role    = [[Melessa Tarly]]
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 6|6]]
+| Credits = "[[Blood of My Blood]]"
+| First   = 
+| Last    = 
+}}
+'''Samantha Spiro''' (born 20 June 1968) is an actress who has been cast as [[Melessa Tarly]] in the [[Game of Thrones: Season 6|sixth season]].
+
+Spiro has previously appeared in ''Psychobitches'', ''Coupling'', ''M.I.T: Murder Investigation Team'', ''Rock and Chips'' (with [[Tom Brooke]]), ''Cold Feet'', and ''Grandma’s House'', as well as a victim of the Ripper in ''From Hell''.
+
+She plays Detective Taylor in the Fall 2015 drama series ''London Spy''.
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 6||||||yes}}
+
+==See also==
+*{{IMDb
+|# = 0819087}}
+*{{Twitter
+|# = samanthaspiro}}
+
+[[fr:Samantha Spiro]]
+[[ru:Саманта Спиро]]
+{{DEFAULTSORT:Spiro, Samantha}}
+[[Category:Guest starring cast members of Game of Thrones]]

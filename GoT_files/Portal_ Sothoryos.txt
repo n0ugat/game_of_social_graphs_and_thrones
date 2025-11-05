@@ -1,0 +1,16 @@
+{|style="width:100%; margin:0; background:#1e5467; font-size:120%; font-weight:bold; border:4px groove #C0C0C0; text-align:center; color:#C0C0C0; padding:0.2em 0.4em;"
+|colspan="5" style="text-align:center;" |Sothoryos
+|- align="center"
+|{{PortalIcon|image=Sothoryos Title Sequence.jpg|articlename=Sothoryos|name=Sothoryos}}
+|{{PortalIcon|image=Summer Sea.png|articlename=Summer Sea|name=The Summer Sea}}
+|- align="center"
+|{{PortalIcon|image=Missandei-ep303.jpg|articlename=Naath|name=Naath}}
+|{{PortalIcon|image=504 walano.png|articlename=Summer Isles|name=The Summer Isles}}
+|- align="center"
+|{{PortalIcon|image=H&L Swan ship.PNG|articlename=Swan ship|name=Swan ships}}
+|{{PortalIcon|image=H&L Swan ship.PNG|articlename=Goldenheart|name=Goldenheart}}
+|- align="center"
+|{{PortalIcon|image=Sothoryos Title Sequence.jpg|articlename=Basilisk Isles|name=The Basilisk Isles}}
+|{{PortalIcon|image=Sothoryos Title Sequence.jpg|articlename=Port Plunder|name=Port Plunder}}
+|}
+[[Category:Portals]]

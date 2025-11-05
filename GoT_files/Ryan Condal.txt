@@ -1,0 +1,56 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Ryan Condal Premiere.webp
+| Birth   = Ryan J. Condal<br>1979-1980<br>Hasbrouck Heights, New Jersey, United States
+| Death   = 
+| Role    = Co-creator<br>Showrunner<br>Executive producer<br>Writer
+| Series  = ''[[House of the Dragon]]''<br>''[[A Knight of the Seven Kingdoms]]''
+| Season  = ''House of the Dragon'':<br>[[House of the Dragon: Season 1|1]] {{*}} [[House of the Dragon: Season 2|2]] {{*}} [[House of the Dragon: Season 3|3]] {{*}} [[House of the Dragon: Season 4|4]]<br>''A Knight of the Seven Kingdoms'':<br>[[A Knight of the Seven Kingdoms: Season 1|1]]
+| Credits = 24 episodes {{Below|Credits}}
+| First   = "[[The Heirs of the Dragon]]"
+| Last    = 
+}}
+'''Ryan J. Condal''' is an American screenwriter and producer. He serves as showrunner for the prequel ''[[House of the Dragon]]'',<ref name="Hollywood">https://www.hollywoodreporter.com/tv/tv-news/house-of-the-dragon-miguel-sapochnik-leaving-1235208276/</ref> jointly with [[Miguel Sapochnik]] in the [[House of the Dragon: Season 1|first season]].<ref>[https://deadline.com/2019/10/game-of-thrones-new-series-house-of-the-dragons-targaryen-hbo-max-greenlight-1202771886/ ‘Game Of Thrones’ Spinoff ‘House Of The Dragon’ Gets Straight To Series Go-Ahead From HBO,] Deadline, October 29, 2019 - retrieved October 30, 2019</ref> He has previously been a showrunner for the American science fiction drama series ''[[wikipedia:Colony (TV series)|Colony]]''.<ref>[https://ew.com/article/2015/02/03/usa-orders-carlton-cuse-drama-colony-series/ USA orders Carlton Cuse drama 'Colony' to series] Entertainment Weekly, February 3, 2015 - retrieved October 31, 2019</ref> He has also worked on a cancelled fantasy western, at the filming of which he met [[George R.R. Martin]].
+
+Condal is familiar with ''[[A Song of Ice and Fire]]'', having discovered the series when ''A Storm of Swords'' was published. According to Martin, Condal originally wanted to create a show based on the [[Dunk & Egg novellas]], a series that Martin claimed was not ready to be brought to television.<ref>[http://georgerrmartin.com/notablog/2019/10/30/the-dragons-take-wing/ The Dragons Take Wing] George R.R. Martin, Not A Blog, October 30, 2019 - retrieved October 31, 2019</ref> However, Warner Bros. Discovery announced in April 2023 that ''[[A Knight of the Seven Kingdoms]]'', then titled ''A Knight of the Seven Kingdoms: The Hedge Knight'', had been greenlit, and Condal was attached as an executive producer.<ref name="VarietyDaE">[https://variety.com/2023/tv/news/game-of-thrones-prequel-series-a-knight-of-the-seven-kingdoms-hbo-1235578466/ 'Game of Thrones' Prequel Series 'A Knight of the Seven Kingdoms: The Hedge Knight' Ordered at HBO | ''Variety'']</ref>
+
+Condal wrote the pilot script and series bible for ''House of the Dragon''.<ref>[http://georgerrmartin.com/notablog/2019/11/10/a-tip-o-the-crown/ A Tip o' the Crown] George R.R. Martin, Not A Blog, November 10, 2019 - retrieved November 10, 2019</ref>
+
+==Credits==
+===Co-creator/showrunner/executive producer===
+*{{HOTD|Season 1}}
+*{{HOTD|Season 2}}
+*{{HOTD|Season 3}} {{Unreleased}}
+*{{HOTD|Season 4}} {{Unreleased}}
+
+===Executive producer===
+*{{AKOTSK|Season 1}} {{Unreleased}}
+
+===Writer===
+{{House of the Dragon: Season 1|yes|yes|yes|||||||yes}}
+{{House of the Dragon: Season 2|yes|||yes}}
+{{House of the Dragon: Season 3}}
+{{House of the Dragon: Season 4}}
+
+==See also==
+*{{IMDb|# = 2952284}}
+*{{WP}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House of the Dragon}}
+{{House of the Dragon: Inside the Episode}}
+
+<!--Categories-->
+{{DEFAULTSORT:Condal, Ryan}}
+[[Category:Co-creators of House of the Dragon]]
+[[Category:Commentators of House of the Dragon: Inside the Episode]]
+[[Category:Executive producers of A Knight of the Seven Kingdoms]]
+[[Category:Showrunners of House of the Dragon]]
+[[Category:Writers of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Ryan Condal]]

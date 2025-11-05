@@ -1,0 +1,22 @@
+{{Crew
+|Image = Sasa Tomasevic.jpg
+|dateofbirth = 
+|birthplace = 
+|job = Stunt Performer
+|imdb = https://www.imdb.com/name/nm6538614/
+|twitter = }}
+'''Saša Tomašević''' is a stuntman.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 4|fourth season]] episode "[[The Mountain and the Viper]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 4||||||||yes}}
+
+==See also==
+*{{IMDb
+|# = 6538614}}
+*{{Facebook
+|# = sasa.tomasevic.798}}
+{{DEFAULTSORT:Tomašević, Saša}}
+[[Category:Stunt performers of Game of Thrones]]

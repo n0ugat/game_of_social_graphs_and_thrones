@@ -1,0 +1,84 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Hightower.svg
+| Link  = House Hightower/House of the Dragon
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Hightower
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = [[House Hightower/House of the Dragon|Hightower]]
+| Affiliation = [[House Tyrell]]<br>[[Greens]]
+| Titles      = [[Lord of Oldtown]]<br>[[Beacon of the South]]<br>[[Defender of the Citadel]]<br>[[Voice of Oldtown]]
+| Predecessor = {[[Hobert Hightower]]}
+| Successor   = 
+| AKA         = 
+| Culture     = [[Reach]]
+| Religion    = [[Faith of the Seven]]
+| Father      = {[[Hobert Hightower]]}
+| Mother      = [[Lynesse Hightower]]
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 3|3]]
+| Appearances = [[House of the Dragon: Season 3, Episode 4|Season 3, Episode 4]]
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[James Norton]]{{Webref|name=JN |author=Joe Otterson |date=January 31, 2025 |url=https://variety.com/2025/tv/news/house-of-the-dragon-season-3-cast-james-norton-ormund-hightower-1236292789/ |title=‘House of the Dragon’ Season 3 Casts James Norton as Ormund Hightower (EXCLUSIVE) |website=Variety |access-date=February 1, 2025 }}
+}}
+Lord '''Ormund Hightower''' is the head of [[House Hightower/House of the Dragon|House Hightower]] and Lord of [[Oldtown]] during the [[Dance of the Dragons]].
+
+==Biography==
+===Background===
+Ormund is the son and successor of Lord [[Hobert Hightower]]{{Ref|HOTD201}} After the death of his father he takes Hobert's [[ward]], [[Alicent Hightower]]'s youngest son [[Daeron Targaryen]], as his own.{{Webref|name=Variety |author=Adam B. Vary |date=October 23, 2022 |url=https://variety.com/2022/tv/news/house-of-the-dragon-finale-explained-aemond-luke-rhaenrya-daemon-season-2-1235412136/ |title=‘House of the Dragon’ Showrunner Talks [SPOILER] in the Finale, Changes From George R.R. Martin’s Book, and What to Expect for Season 2 |website=Variety |access-date=November 15, 2022 }}
+
+===[[House of the Dragon: Season 2|''House of the Dragon'': Season 2]]===
+[[Otto Hightower|Otto]] mentions his nephew in a meeting of the [[Green Council]], stating that Lord Ormund is mustering his forces to march out from Oldtown.{{Ref|HOTD201}}
+
+At a meeting of the [[Green Council]], Lord [[Jasper Wylde]] reveals that Lord Ormund has begun the march from Oldtown with his host. His cousin, Ser [[Gwayne Hightower]], arrives in King's Landing ahead of the main army to reinforce Ser [[Criston Cole]].{{Ref|HOTD203}}
+
+==Family==
+{{Hightower tree}}
+
+==In the books==
+In ''[[Fire & Blood]]'', Ormund supported [[Aegon II Targaryen|Aegon II]] during the Dance of the Dragons. He had three sons: Lyonel, Martyn, and Garmund; and a daughter, Bethany. His first wife was mother to all four of his children, though her name is unknown. None of his sons were old enough to march to war with him during the Dance of the Dragons: the eldest, Lyonel, was only 15 when the war began. 
+
+After Ormund's first wife died in childbirth, he remarried to Samantha Tarly, a beautiful maid young enough to be his daughter, as she was only two years older than his own son Lyonel. Their marriage became strained, as Lady Sam's father was from [[House Tarly]] and her mother was from [[House Rowan]], both of which were Reach houses that declared for Rhaenyra and against the Hightowers. Several sources allege that behind Ormund's back, Lady Sam began having an affair with her stepson Lyonel.
+
+==Appearances==
+*{{HOTD|A Son for a Son}} {{Mentioned}}
+*{{HOTD|The Burning Mill}} {{Mentioned}}
+*{{HOTD|The Red Sowing}} {{Mentioned}}
+
+===Forthcoming===
+{{Collapse|
+*{{HOTD|Season 3, Episode 4}}{{Webref|name=Leak |author=Gravemaster |date=March 13, 2025 |url=https://redanianintelligence.com/2025/03/13/major-character-leak-from-house-of-the-dragon-season-3/ |title=Major Character Leak From House of the Dragon Season 3 |website=Redanian Intelligence |access-date=July 18, 2025 }} {{Unreleased}}
+}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{House Hightower/House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Hightower, Ormund}}
+[[Category:Bannermen of House Tyrell]]
+[[Category:Greens]]
+[[Category:Individuals from the Reach]]
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Lords of Oldtown|Ormund Hightower]]
+[[Category:Members of House Hightower|Ormund Hightower]]
+
+<!--Languages-->
+[[pl:Ormund Hightower]]
+[[ru:Ормунд Хайтауэр]]
+[[uk:Ормунд Хайтауер]]

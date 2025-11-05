@@ -1,0 +1,24 @@
+{{Crew
+|Image = Ray Nicholas.jpg
+|dateofbirth = {{WPS|October 10}}, {{WPS|1959}}
+|birthplace = 
+|job = Stunt Performer
+|imdb = https://www.imdb.com/name/nm0629425/
+|twitter = }}
+'''Raymond Leslie Nicholas''' (born October 10, 1959) is a stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 2|second season]] episode "[[Blackwater]]", the [[Game of Thrones: Season 3|third season]] episodes "[[The Rains of Castamere (episode)|The Rains of Castamere]]" and "[[Mhysa]]" and the [[Game of Thrones: Season 4|fourth season]] episodes "[[The Laws of Gods and Men]]" and "[[The Watchers on the Wall]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 2|||||||||yes}}
+{{Game of Thrones: Season 3|||||||||yes|yes}}
+{{Game of Thrones: Season 4||||||yes|||yes}}
+
+==See also==
+*{{IMDb
+|# = 0629425}}
+*{{Vimeo
+|# = user27116817}}
+{{DEFAULTSORT:Nicholas, Raymond Leslie}}
+[[Category:Stunt performers of Game of Thrones]]

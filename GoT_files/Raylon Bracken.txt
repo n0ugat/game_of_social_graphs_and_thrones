@@ -1,0 +1,75 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Bracken.svg
+| Link  = House Bracken
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Tully
+| Image       = 2x7 Raylon Bracken Infobox.png
+| Birth       = 
+| Death       = 
+| House       = [[House Bracken|Bracken]]{{Ref|HOTD207}}
+| Affiliation = [[Greens]]{{Ref|HOTD205}} {{C|formerly}}<br>[[Blacks]]{{Ref|HOTD206}}
+| Titles      = 
+| AKA         = 
+| Culture     = [[Riverlands|Rivermen]]{{Ref|HOTD207}}
+| Religion    = 
+| Father      = [[Amos Bracken]]{{Ref|HOTD207}}
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 2|2]]
+| Appearances = 2 episodes {{Below|Appearances}}
+| First       = "[[Regent (episode)|Regent]]"
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Aedan Day]]
+}}
+'''Raylon Bracken''' is the heir to [[Stone Hedge]] during the [[Dance of the Dragons]].
+
+==Biography==
+===Background===
+Raylon is the son of Lord [[Amos Bracken]].{{Ref|HOTD207}}
+
+===[[House of the Dragon: Season 2|''House of the Dragon'': Season 2]]===
+Raylon is present at Amos's parley with [[Daemon Targaryen|Daemon]] near Stone Hedge.{{Ref|HOTD205}}
+
+Raylon accompanies his father to [[Harrenhal]] and witnesses the execution of [[Willem Blackwood]].{{Ref|HOTD207}}
+
+==Family==
+{{Bracken tree}}
+
+==In the books==
+In ''[[Fire & Blood]]'', there is no character named Raylon Bracken and it is not stated that Amos Bracken had a son, but Amos did have a [[bastard]] half-brother named Raylon Rivers. It was Raylon who led the survivors of the Burning Mill back to Stone Hedge, which had been taken by Daemon in the meantime. Since Lord Humfrey and his family were hostages of Daemon, Raylon surrendered.
+
+==Appearances==
+*{{HOTD|Regent}}
+*{{HOTD|The Red Sowing}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Raylon Rivers}}
+
+<!--Navboxes-->
+{{House Bracken/House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Bracken, Raylon}}
+[[Category:Blacks]]
+[[Category:Greens]]
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Members of House Bracken|Raylon Bracken]]
+[[Category:Rivermen]]
+
+<!--Languages-->
+[[es:Raylon Bracken]]
+[[fr:Raylon Bracken]]
+[[pl:Raylon Bracken]]
+[[ru:Рейлон Бракен]]

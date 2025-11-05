@@ -1,0 +1,97 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Thrones
+| Part          = the [[Last War]]
+| Image         = Lannister army reaches Highgarden s7.JPG
+| Previous      = [[Assault on the Targaryen fleet]]
+| Concurrent    = [[Fall of Casterly Rock]]
+| Next          = [[Battle of the Goldroad]]
+| Date          = [[304 AC]]{{Dateref|Game of Thrones: Season 7}}
+| Place         = [[Highgarden]]
+| Outcome       = '''Strategic [[Iron Throne]] victory'''
+*Highgarden is plundered
+*Death of [[Olenna Tyrell]]
+*Extinction of [[House Tyrell]]
+*[[Daenerys Targaryen]] [[Battle of the Goldroad|retaliates]] against Lannister-Tarly forces on the [[Goldroad]].
+| Factions1     = {{COA|House Lannister|small}} '''[[Iron Throne]]'''<br><small>([[House Lannister]])</small><br><br>{{COA|House Tarly|small}} [[House Tarly]]
+| Factions2     = {{COA|House Tyrell|small}} [[House Tyrell]] †
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = [[Knighthood|Ser]] [[Jaime Lannister]]<br>[[Knighthood|Ser]] [[Bronn]]<br>Lord [[Randyll Tarly]]<br>[[Dickon Tarly]]
+| Leaders2      = [[Lord of Highgarden|Lady]] [[Olenna Tyrell]] †
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = *10,000+ manpower
+**~10,000 [[House Lannister|Lannister]] infantrymen
+**Unknown number of [[House Tarly|Tarly]] infantrymen
+| Participants2 = *[[Highgarden]] Tyrell garrison
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = Light
+| Casualties2   = Near total
+*Highgarden Tyrell garrison completely destroyed or captured
+*[[Olenna Tyrell]]
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Dialogue a-b-a|Olenna Tyrell|And now the rains weep o'er our halls. Did we fight well?|Jaime Lannister|As well as could be expected.|It was never our forte. Golden roses indeed.|Olenna and Jaime after the fall.|The Queen's Justice}}
+The '''sack of Highgarden''' is an engagement during the [[Last War]]. With the backing of [[House Tarly]], [[Jaime Lannister|Jaime]] leads a [[House Lannister|Lannister]] host to the [[Reach]], the region ruled by the Tyrells, and sacks their seat of power, [[Highgarden]].
+
+==History==
+=== Prelude ===
+During the [[War of the Five Kings]], [[House Tyrell]] backed [[Renly Baratheon]] until [[Assassination of Renly Baratheon|his death]]. Afterwards, the Tyrells secretly brokered an alliance with [[House Lannister]] and helped them defeat [[Stannis Baratheon|Stannis]] at the [[Battle of the Blackwater]]. In exchange, [[Joffrey Baratheon]] wed [[Margaery Tyrell]]. Joffrey was eventually poisoned at his own [[Purple Wedding|wedding]], and his younger brother [[Tommen Baratheon|Tommen]] ascended to the [[Iron Throne]] and wed Margaery. 
+
+[[Cersei Lannister|Cersei]] believed the Tyrells to be their rivals and were threatening the Lannisters' hold over the Iron Throne. After the [[Assassinations in the Tower of the Hand|assassination]] of Tywin, Cersei plotted against the Tyrells, elevating the religiously fanatic [[Sparrows]] to power in the [[Faith of the Seven]] and using them to incarcerate Loras and Margaery. However, her plan backfired, and the [[High Sparrow]] also had Cersei incarcerated and humiliated. Eventually backed into a corner by the Sparrows when the High Sparrow's influence grew over Tommen, Cersei had the [[Destruction of the Great Sept of Baelor|the Great Sept of Baelor destroyed]]. Within seconds, the [[Faith Militant]] was obliterated - as were Loras, Margaery, and [[Mace Tyrell]], ending the main line of House Tyrell.
+
+Olenna Tyrell, who had been the true power of the Reach, had fled [[King's Landing]] earlier. When she received word of the deaths of her son and grandchildren, she traveled to [[Dorne]], where she entered into an alliance with [[House Targaryen]], agreeing to back [[Daenerys Targaryen|Daenerys]]'s claim to the Iron Throne.
+
+With the Lannister armies heavily depleted from the War of the Five Kings due to fighting Stannis and [[Robb Stark]], Cersei planned to have Highgarden sacked and plundered of its grain and wealth to feed the Lannister armies. Furthermore, the crown owed a tremendous debt to the [[Iron Bank of Braavos]]. After summoning the lords of the Reach to King's Landing, Cersei attempted to persuade them to turn against the Tyrells; Jaime later met privately with [[Randyll Tarly]], one of the most prominent bannermen of the Tyrells, and convinced him to join the Lannisters. Jaime also promised Randyll the position of [[Warden of the South]] and lordship of the Reach if he helped the Lannisters defeat their enemies, which Randyll reluctantly accepted.
+
+=== The sack ===
+[[File:703 Lannisters Approaching Highgarden.png|thumb|The Lannister army, aligned with House Tarly, marches on Highgarden.]]
+[[Tyrion Lannister|Tyrion]], acting as the [[Hand of the King|Hand of the Queen]] to Daenerys, believes that the Lannister armies are still in the [[Westerlands]] defending [[Casterly Rock]], at least 10,000 men. He sends the [[Unsullied]] army, led by [[Grey Worm]], to take the Rock. However, Jaime in fact marches a Lannister host to the Reach with the backing of Randyll Tarly, and together sack Highgarden, crushing the House Tyrell garrison.<ref name="E63">"[[The Queen's Justice]]"</ref>
+
+=== Aftermath ===
+[[File:703_Tyrell_Casualties.png|thumb|The aftermath of the battle.]]After Highgarden falls to the Lannister-Tarly host, Jaime meets privately with Olenna, who puts together the tactics Jaime had used to march to Highgarden and defeat her forces. Jaime remarks he learned from his defeat by Robb at the [[Battle of Whispering Wood]]. He then pours poison into a cup of wine and offers it to her as opposed to taking her back to King's Landing to face the "justice" of his sister. After drinking the poisoned wine, Olenna confesses to murdering his and Cersei's son Joffrey, imploring Jaime to tell Cersei that it was she who committed the murder.<ref name="E63" />
+[[File:Olenna_after_Highgarden_falls_s7.png|thumb|Olenna has her final words with Jaime.]] The fall of Highgarden and House Tyrell also marks the loss of Daenerys's last Westerosi ally, which will seriously hinder her efforts to retake the Iron Throne; even more so if the other lords of the Reach or Dorne don't support her cause. It also seriously hinders her political stance with Jon, and the situation may force her to concede to his demands if she were to ask for his help in retaking the Iron Throne.
+
+The remaining gold and food left after the battle is taken under control of Jaime and is transported to King's Landing so that Cersei can feed the Lannister armies and pay the remaining debts of the Iron Bank, in order to take out a new loan.
+
+In retaliation, Daenerys realizes she needs to be more upfront with the fact that she has three dragons, so she attacks the Lannister-Tarly forces with [[Drogon]] at the [[Battle of the Goldroad]]. The majority of the grain seized from Highgarden is destroyed in the battle, although the gold safely reached King's Landing beforehand.<ref>"[[The Spoils of War]]"</ref>
+
+Brienne, updating Jaime's entry in the ''[[Book of Brothers]]'', mentions the sack of Highgarden.<ref>"[[The Iron Throne]]"</ref>
+[[File:703 Tarlys and Bronn.png|thumb|Bronn and the Tarlys supporting Jaime.]]
+
+== In the books ==
+In the ''[[A Song of Ice and Fire]]'' novels, Highgarden remains under the control of [[House Tyrell]].
+
+In the fourth novel, while the Lannisters are still allied with the Tyrells, Euron launches a military campaign against the Reach. The Lannisters are not actively involved in that conflict; their only "contribution" is Cersei's refusal to send the Redwyne fleet back from Dragonstone in order to drive the ironborn away. The ironborn manage to conquer the Shield Islands, the Arbor and several of its neighboring islands, even threatening Oldtown; perhaps Euron plans to take Highgarden as well, but currently he focuses on the imminent naval battle against the Redwyne fleet.
+
+The [[Last War]] has not begun yet. Instead, her presumed-dead nephew [[Aegon Targaryen (son of Elia Martell)|Aegon Targaryen]], the son of Rhaegar and Elia who has the strongest claim to the throne, and his guardian [[Jon Connington]] land at Wesetros with nearly half of the [[Golden Company]], and begin their campaign of conquest. The Lannisters and the Tyrells, while engaged in a soft power struggle, remain allies. Cersei's scheme against Margaery has nearly broken that alliance, but Kevan takes steps to appease the Tyrells: Mace Tyrell is appointed as Hand of the King for King Tommen, and two of his bannermen - Randyll Tarly and [[Paxter Redwyne]] - are granted seats at the Small Council as [[Master of Laws]] and [[Master of Ships]] respectively.
+
+The "[http://asoiaf.westeros.org/index.php?/topic/136430-friends-in-the-reach/ Friends in the Reach]" theory, however, states that Randyll may be among the Reach lords that will turn on House Tyrell.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{Last War}}
+
+<!--Categories-->
+[[Category:304 AC]]
+[[Category:Featured pages]]
+[[Category:Last War]]
+[[Category:Sacks|Highgarden]]
+
+<!--Languages-->
+[[de:Einnahme von Rosengarten]]
+[[fr:Sac de Hautjardin]]
+[[it:Sacco di Alto Giardino]]
+[[pt-br:Queda de Jardim de Cima]]
+[[ru:Падение Хайгардена]]

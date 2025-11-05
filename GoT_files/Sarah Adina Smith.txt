@@ -1,0 +1,29 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Kingdoms
+| Image   = 
+| Birth   = Fort Collins, Colorado, United States
+| Death   = 
+| Role    = Director
+| Series  = ''[[A Knight of the Seven Kingdoms]]''
+| Season  = [[A Knight of the Seven Kingdoms: Season 1|1]]
+| Credits = 3 episodes {{Below|Credits}}
+| First   = [[A Knight of the Seven Kingdoms: Season 1, Episode 4|Season 1, Episode 4]]
+| Last    = 
+}}
+'''Sarah Adina Smith''' is an American film writer, director, and editor. She is a director on [[A Knight of the Seven Kingdoms: Season 1|''A Knight of the Seven Kingdoms'': Season 1]].{{Webref|name=FirstLook |author=Nick Romano |date=June 18, 2024 |url=https://ew.com/game-of-thrones-a-knight-of-the-seven-kingdoms-first-look-cast-confirmed-8665658 |title=''Game of Thrones'' spinoff unveils its Hedge Knight in first look at ''A Knight of the Seven Kingdoms'' |website=Entertainment Weekly |access-date=June 18, 2024}}
+
+==Credits==
+===Director===
+{{A Knight of the Seven Kingdoms: Season 1||||yes|yes|yes}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb|#=2262138}}
+*{{WP}}
+
+<!--Categories-->
+{{DEFAULTSORT:Smith, Sarah Adina}}
+[[Category:Directors of A Knight of the Seven Kingdoms]]

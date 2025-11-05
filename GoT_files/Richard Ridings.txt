@@ -1,0 +1,27 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Richard-Ridings-200.jpg
+| Birth   = September 19, 1958 {{Age|1958|9|19}}<br>Henley-on-Thames, England
+| Death   = 
+| Role    = [[Gared]]
+| Series  = ''[[Game of Thrones]]''
+| Season  = 
+| Credits = [[Pilot (Game of Thrones)|Pilot]] {{Unreleased}}
+| First   = 
+| Last    = 
+}}
+'''Richard Ridings''' (born 19 September 1958) is a British actor. He has a significant number of acting roles to his name, appearing in television, in film, on stage and as a voice-over artist for cartoons and computer games. He was a series regular on ''[[wikipedia:Fat Friends|Fat Friends]]'' and ''[[wikipedia:Common as Muck|Common as Muck]]''. He has several notable appearances in the science fiction and fantasy genre, appearing in ''[[wikipedia:Red Dwarf|Red Dwarf]]'', ''[[wikipedia:Highlander: The Series|Highlander: The Series]]'' and ''[[wikipedia:Merlin (TV series)|Merlin]]''. He has lent his voice-over talents to computer games such as ''[[wikipedia:Fable II|Fable II]]'', ''[[wikipedia:Killzone 2|Killzone 2]]'', ''[[wikipedia:Quake III|Quake III: Arena]]'', ''[[wikipedia:Dungeon Keeper|Dungeon Keeper]]'', its [[Wikipedia:Dungeon Keeper 2|sequel]], [[Wikipedia:Dungeon Keeper Mobile|reboot]], and [[Wikipedia:War for the Overworld|War for the Overworld]]
+
+In ''[[Game of Thrones]]'' Ridings played the role of [[Gared]] in the unscreened pilot. He was confirmed in the role on 20 October 2009, but on 17 July 2010 it was revealed that he had been replaced in the role by [[Dermot Keaney]] in the reshoots of the prologue sequence.
+
+==See also==
+*{{WP}}
+*{{IMDb|# = 0725956}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+{{DEFAULTSORT:Ridings, Richard}}
+[[Category:Cast members of the pilot of Game of Thrones]]

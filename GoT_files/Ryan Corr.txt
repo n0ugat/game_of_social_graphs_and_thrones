@@ -1,0 +1,34 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Ryan Corr.jpg
+| Birth   = January 15, 1989 {{Age|1989|1|15}}<br>Melbourne, Victoria, Australia
+| Death   = 
+| Role    = [[Harwin Strong]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = 4 episodes {{Below|Credits}}
+| First   = "[[Second of His Name]]"
+| Last    = "[[The Princess and the Queen]]"
+}}
+'''Ryan Corr''' (born 15 January 1989) is an Australian actor. He has appeared in films such as ''{{WPS|Where the Wild Things Are (film)|Where the Wild Things Are}}'', ''{{WPS|Wolf Creek 2}}'', ''{{WPS|The Water Diviner}}'', ''{{WPS|Holding the Man (film)|Holding the Man}}'', ''{{WPS|Hacksaw Ridge}}'' and ''{{WPS|Mary Magdalene (2018 film)|Mary Magdalene}}'' and television series such as ''{{WPS|Packed to the Rafters}}'' and ''{{WPS|Love Child (TV series)|Love Child}}''.
+
+He portrays Ser [[Harwin Strong]] in ''[[House of the Dragon]]''.<ref name=HBO>[https://www.hbo.com/house-of-the-dragon House of the Dragon: The Game of Thrones Prequel (hbo.com)]</ref>
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1|||yes|yes|yes|yes}}
+
+==See also==
+*{{WP}}
+*{{IMDb
+|# = 1507708}}
+*{{Twitter
+|# = Ryan_Corr}}
+*{{Instagram
+|# = rycorr}}
+
+==References==
+{{Reflist}}
+{{DEFAULTSORT:Corr, Ryan}}
+[[Category:Co-starring cast members of House of the Dragon]]

@@ -1,0 +1,32 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Sean Cernow.jpg
+| Birth   = June 3, 1977 {{Age|1977|6|3}}<br>Oldham, Greater Manchester, England
+| Death   = 
+| Role    = Black Cell gaunt prisoner
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = 2 episodes {{Below|Credits}}
+| First   = "[[The Princess and the Queen]]"
+| Last    = 
+}}
+'''Sean Cernow''' (born June 3, 1977) is an English actor. He has appeared in the films ''{{WPS|24 Hour Party People}}'', ''{{WPS|Cockneys vs Zombies}}'' and ''{{WPS|Spike Island (film)|Spike Island}}'' and the television series ''{{WPS|The Twilight Zone (2002 TV series)|The Twilight Zone}}'', ''{{WPS|Hollyoaks}}'', ''{{WPS|The Musketeers}}'', ''{{WPS|Casualty (TV series)|Casualty}}'', ''{{WPS|Foyle's War}}'', ''{{WPS|The Hollow Crown (TV series)|The Hollow Crown}}'', ''{{WPS|Coronation Street}}'', ''{{WPS|Les Misérables (TV series)|Les Misérables}}'', ''{{WPS|Carnival Row}}'', ''{{WPS|Doctors (2000 TV series)|Doctors}}'' and ''{{WPS|Emmerdale}}''.
+
+In ''[[House of the Dragon]]'', he portrays a Black Cell gaunt prisoner in the [[House of the Dragon: Season 1|first season]].
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1||||||yes|||yes}}
+
+==See also==
+*{{IMDb|# = 1175174}}
+*{{Twitter|# = scernow}}
+*{{Instagram|# = cernow77}}
+
+<!--Categories-->
+{{DEFAULTSORT:Cernow, Sean}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--InterWiki-Links-->
+[[fr:Sean Cernow]]

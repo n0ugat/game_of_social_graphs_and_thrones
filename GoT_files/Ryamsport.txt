@@ -1,0 +1,39 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Redwyne.svg
+| Link  = House Redwyne
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Tyrell
+| Image        = 
+| Type         = Port town
+| Status       = 
+| Location     = [[Arbor]], the [[Reach]]
+| Population   = 
+| Rulers       = [[House Redwyne]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Ryamsport'''{{Ref|THTDB201}} is a port town on the [[Arbor]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Ryamsport is sacked by the forces of [[Euron Greyjoy]] during his invasion of the [[Reach]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Reach}}
+
+<!--Categories-->
+[[Category:Harbors]]
+[[Category:House Redwyne]]
+[[Category:Reach]]
+[[Category:Towns]]

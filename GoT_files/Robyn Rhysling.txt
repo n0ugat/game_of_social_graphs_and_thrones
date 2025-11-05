@@ -1,0 +1,63 @@
+{{Canonicity|Canon}}
+{{Spoiler|AKOTSK}}
+{{BookConjecture}}
+{{Heraldry
+| Image = Unknown.svg
+| Link  = 
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Tyrell
+| Image       = 
+| Birth       = In the [[Reach]]
+| Death       = 
+| House       = 
+| Affiliation = 
+| Titles      = [[Knighthood|Ser]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Andals|Andal]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+Ser '''Robyn Rhysling'''{{Con|D&EN}} is a [[Knighthood|knight]] during the reign of [[Daeron II Targaryen|Daeron II]].{{Ref|H&L416}}
+
+==In the books==
+In the [[Dunk & Egg novellas]], Robyn is a grizzled old knight with a salt-and-pepper beard.
+
+In 204 AC, he lost an eye to a splinter from a broken lance.
+
+==Appearances==
+*{{H&L|Justice of the Seven Kingdoms}} {{Indirect}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|AKOTSK}}
+
+<!--Categories-->
+{{DEFAULTSORT:Rhysling, Robyn}}
+[[Category:Individuals from Histories & Lore]]
+[[Category:Individuals from the Reach]]
+[[Category:Knights]]
+[[Category:Nobles]]
+
+<!--Languages-->
+[[fr:Robyn Rhysling]]

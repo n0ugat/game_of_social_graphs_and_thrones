@@ -1,0 +1,76 @@
+{{Canonicity|Non}}
+{{Heraldry
+| Leftimage  = House Umber.svg
+| Leftlink   = House Umber
+| Rightimage = House Karstark.svg
+| Rightlink  = House Karstark
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Stark
+| Image       = Umber lineage.jpg
+| Birth       = Regan Umber<br>[[186 AC]]{{Dateref|Regan Umber}} at [[Last Hearth]]
+| Death       = [[256 AC]]{{Dateref|Regan Umber death}} (aged 70) at Karhold<br>Died peacefully in her sleep
+| House       = [[House Umber|Umber]]<br>[[House Karstark|Karstark]] {{C|by marriage}}
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Northmen|Northern]]
+| Religion    = [[Old Gods]]
+| Father      = {[[Hothor Umber]]}
+| Mother      = {[[Amarylis Umber|Amarylis Manderly]]}
+| Spouse      = {[[Tommard Karstark]]}
+| Lovers      = 
+| Children    = {[[Berrican Karstark]]}<br>{[[Uthor Karstark]]}<br>{[[Petyr Karstark]]}<br>{[[Jon Karstark]]}<br>{[[Laurence Karstark]]}
+| Siblings    = {[[Harkon Umber]]}<br>{[[Mycah Umber]]}<br>{[[Lucan Umber]]}<br>{[[Gareth Umber]]}<br>{[[Joseth Umber]]}<br>{[[Corin Umber]]}
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Born to Lord Hothor Umber and Lady Amarylis Umber in the 186th year after Aegon's Landing at the Last Hearth. Blue of eye, dark brown of hair and fair complected. Wedded on her seventeenth nameday to Tommard Karstark, Third of His Name, son of Lord Beric Karstark and Lady Mara Karstark at Karhold. Mother to five sons, their names being: Berrican, Uthor, Petyr, Jon and Laurence. Died peacefully in her sleep in her seventy eighth year.|Excerpt from ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]''|Cripples, Bastards, and Broken Things}}
+Lady '''Regan Karstark''', née '''Umber''', was a member of [[House Umber]].
+
+==Biography==
+===Background===
+[[File:Umber lineage.jpg|thumb|Regan's entry in ''The Lineages and Histories of the Great Houses of the Seven Kingdoms''.]]
+Regan Karstark is an early member of [[House Umber]]. She was the daughter of Lord [[Hothor Umber]] and his wife, Lady [[Amarylis Umber]]. She married [[Tommard Karstark]] and bore him five sons. She died peacefully in her sleep at the age of seventy.{{Ref|GOT104}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+She has an entry in ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]''.{{Ref|GOT104}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no such character.
+
+==Appearances==
+*{{GOT|Cripples, Bastards, and Broken Things}} {{Text}}
+*{{GOT|A Golden Crown}} {{Text}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{House Umber}}
+{{House Karstark}}
+
+<!--Categories-->
+{{DEFAULTSORT:Karstark, Regan}}
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Ladies]]
+[[Category:Members of House Karstark|Regan Karstark]]
+[[Category:Members of House Umber|Regan Karstark]]
+[[Category:Northmen]]
+
+<!--Languages-->
+[[de:Regan Karstark]]
+[[es:Regan Umber]]
+[[fr:Regan Karstark]]
+[[ru:Реган Карстарк]]

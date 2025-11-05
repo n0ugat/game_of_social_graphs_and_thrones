@@ -1,0 +1,59 @@
+{{Canonicity|Non}}
+{{Heraldry
+| Leftimage  = Unknown.svg
+| Rightimage = House Royce.svg
+| Rightlink  = House Royce
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Royce
+| Image       = House Royce lineage.jpeg
+| Birth       = 
+| Death       = 
+| House       = [[House Royce|Royce]] {{C|by marriage}}
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Westeros]]i
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = {[[Donal Royce]]}
+| Lovers      = 
+| Children    = [[Donal Royce (son of Donal)|Donal Royce]]<br>{[[Wayrick Royce]]}
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Priscilla Royce''' was the wife of [[Donal Royce]].
+
+==Biography==
+Priscilla Royce, who originally came from an unknown noble house, married [[Donal Royce]] and bore him at least two sons, [[Donal Royce (son of Donal)|Donal]] and [[Wayrick Royce|Wayrick]].<ref name = "s1prop">''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]'' prop from Season 1</ref>
+
+==Behind the scenes==
+Priscilla Royce is mentioned in the section on House Royce in the Season 1 prop for ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]''. The section on House Royce never appears on-screen in the TV series, as its planned appearance, where [[Eddard Stark]] would have read from it, was cut.
+
+==In the books==
+Priscilla Royce is referenced only in the TV adaptation of ''[[A Song of Ice and Fire]]'' and has no corresponding counterpart in the books.
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House Royce}}
+
+<!--Categories-->
+{{DEFAULTSORT:Royce, Priscilla}}
+[[Category:Individuals from Game of Thrones]]
+[[Category:Members of House Royce|Priscilla Royce]]
+[[Category:Valemen]]
+
+<!--Languages-->
+[[ru:Присцилла Ройс]]

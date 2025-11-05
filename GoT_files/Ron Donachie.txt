@@ -1,0 +1,38 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Ron-Donachie-200.jpg
+| Birth   = Ronald Eaglesham Porter<br>April 26, 1956 {{Age|1956|4|26}}<br>Dundee, Tayside, Scotland
+| Death   = 
+| Role    = [[Rodrik Cassel]]
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 1|1]] {{*}} [[Game of Thrones: Season 2|2]]
+| Credits = 13 episodes {{Below|Credits}}
+| First   = "[[Winter Is Coming]]"
+| Last    = "[[The Old Gods and the New]]"
+}}
+[[File:Ron Donachie & George R.R. Martin.jpg|thumb|Ron Donachie and series creator George R.R. Martin during the filming of the pilot episode.]]
+'''Ronald Eaglesham Porter''' (born 26 April 1956), known professionally as '''Ron Donachie''', is a Scottish actor. He has an immense list of acting roles to his name, including many UK television dramas, including ''[[wikipedia:Doctor Who|Doctor Who]]'', ''[[wikipedia:Rebus (TV series)|Rebus]]'', and ''[[wikipedia:The Bill|The Bill]]''. In film he may be best known for a supporting role in [[wikipedia:James Cameron|James Cameron]]'s ''[[wikipedia:Titanic (film)|Titanic]]'', where he played a character that was also called "Master-at-Arms".
+
+In ''[[Game of Thrones]]'', Donachie played [[Knighthood|Ser]] [[Rodrik Cassel]]. He was confirmed in the role on 20 October 2009. He initially appeared as a guest star in the [[Game of Thrones: Season 1|first season]] and returned in this role for the [[Game of Thrones: Season 2|second season]].
+
+Donachie had read the ''[[A Song of Ice and Fire]]'' novels and other works by Martin before working on ''Game of Thrones''; [[Michelle Fairley]] described him as "an intellect".<ref name="wheeler">[https://www.youtube.com/watch?v=vLkvLpPWWv Game of Thrones with George R.R. Martin and Michelle Fairley]. Wheeler Centre, 2015-01-26.</ref> He is the father of [[Daniel Portman]], who plays [[Podrick Payne]].<ref>[http://www.makinggameofthrones.com/production-diary/50-things-season-2-pt-2 Making Game of Thrones blog]</ref>
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 1|yes|yes|yes|yes|yes|yes||yes|yes|yes}}
+{{Game of Thrones: Season 2|yes||yes||yes|yes}}
+
+==See also==
+*{{Template:WP}}
+*{{Template:IMDb
+|# = 0231871}}
+
+==References==
+{{Reflist}}
+[[de:Ron Donachie]]
+[[fr:Ron Donachie]]
+[[pl:Ron Donachie]]
+[[ru:Рон Донахи]]
+{{DEFAULTSORT:Donachie, Ron}}
+[[Category:Guest starring cast members of Game of Thrones]]

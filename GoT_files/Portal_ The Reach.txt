@@ -1,0 +1,19 @@
+{|style="width:100%; margin:0; background:#1e5467; font-size:120%; font-weight:bold; border:4px groove #C0C0C0; text-align:center; color:#C0C0C0; padding:0.2em 0.4em;"
+|colspan="5" style="text-align:center;" |The Reach
+|- align="center"
+|{{PortalIcon|image=The Reach.png|articlename=Reach|name=The Reach}}
+|{{PortalIcon|image=Tyr-Portal.png|articlename=House Tyrell|name=House Tyrell}}
+|- align="center"
+|{{PortalIcon|image=Highgarden.jpg|articlename=Highgarden|name=Highgarden}}
+|{{PortalIcon|image=Knight of the Flowers.png|articlename=Knighthood|name=Knighthood}}
+|- align="center"
+|{{PortalIcon|image=Oldtown6x10.png|articlename=Oldtown|name=Oldtown}}
+|{{PortalIcon|image=S06E10 - The Citadel.png|articlename=Citadel|name=The Citadel}}
+|- align="center"
+|{{PortalIcon|image=Tar-Portal.png|articlename=House Tarly|name=House Tarly}}
+|{{PortalIcon|image=Horn Hill highres.png|articlename=Horn Hill|name=Horn Hill}}
+|- align="center"
+|{{PortalIcon|image=Tyrell lady Growing Strong.jpg|articlename=Cadet branch|name=Cadet branch}}
+|{{PortalIcon|image=House Redwyne.svg|articlename=Arbor|name=The Arbor}}
+|}
+[[Category:Portals]]

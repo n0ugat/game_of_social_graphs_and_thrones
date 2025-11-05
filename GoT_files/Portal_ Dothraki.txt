@@ -1,0 +1,19 @@
+{|style="width:100%; margin:0; background:#1e5467; font-size:120%; font-weight:bold; border:4px groove #C0C0C0; text-align:center; color:#C0C0C0; padding:0.2em 0.4em;"
+|colspan="5" style="text-align:center;" |Dothraki
+|- align="center"
+|{{PortalIcon|image=Drogo Dany Wedding Day.png|articlename=Dothraki|name=The Dothraki}}
+|{{PortalIcon|image=Drogo 1x08.jpg|articlename=Dothraki (language)|name=The Dothraki language}}
+|- align="center"
+|{{PortalIcon|image=Dothraki Sea Map.png|articlename=Dothraki Sea|name=The Dothraki Sea}}
+|{{PortalIcon|image=Vaes Dothrak.jpg|articlename=Vaes Dothrak|name=Vaes Dothrak}}
+|- align="center"
+|{{PortalIcon|image=Flatlands.jpg|articlename=Khalasar|name=''Khalasar''}}
+|{{PortalIcon|image=Daenerys-capture-dothraki.png|articlename=Horse|name=Horses}}
+|- align="center"
+|{{PortalIcon|image=Dothrakhorses.jpg|articlename=Great Stallion|name=Great Stallion}}
+|{{PortalIcon|image=Dosh khaleen and Daenerys.jpg |articlename=Dosh Khaleen|name=''Dosh Khaleen''}}
+|- align="center"
+|{{PortalIcon|image=Kovarro-foto.jpg|articlename=Arakh|name=''Arakh''}}
+|{{PortalIcon|image=Mirri Maz Duur.jpg|articlename=Lhazareen|name=Lhazareen}}
+|}
+[[Category:Portals]]

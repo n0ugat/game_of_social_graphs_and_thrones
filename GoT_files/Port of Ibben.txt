@@ -1,0 +1,47 @@
+{{Canonicity|Canon}}
+{{References}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Westeros
+| Image        = Ibben map.png
+| Type         = Capital city
+| Status       = 
+| Location     = [[Ib]], [[Essos]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = 
+| Places       = 
+| Founded      = 
+}}
+The '''Port of Ibben'''{{Mapref|Viewer's Guide}} is the main city on the large, frozen island of [[Ib]] in the [[Shivering Sea]], far east of Westeros and roughly due north from [[Vaes Dothrak]].
+
+The Port of Ibben is located in the middle of the southern side of Ib.
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the Port of Ibben is the primary city on Ib, where most of the population is concentrated. A much smaller second city, Ib Nor, lies on the north side of the island.
+
+Since the dawn of Ib's history, the Port of Ibben has been its capital. It is the hub of all the Ibbenese whaling fleets, and thus its main exports are whale blubber, oil, and bone. This industry has made it the largest and richest city in the [[Shivering Sea]] (though that isn't saying much, given how few cities are in it at all). Any foreigners who dock at the Port of Ibben are legally obligated to remain within its confines; venturing beyond into the heart of the island is forbidden without express invitation (rarely given) and must be done in the company of an Ibbenese host.
+
+Physically, the Port of Ibben is "grey and gloomy," a city of cobbled alleys, steep hills, and teeming docks and shipyards. It is lit by hundreds of whale-oil lamps suspended over the streets on iron chains. The largest structure in the city is the colossal ruin of the God-Kings' castle, an imposing palace of rough-hewn stone. It was the home to a hundred Ibbenese kings throughout history, but their local line of God-Kings was overthrown in the aftermath of the [[Doom of Valyria]], leaving the palace ruined and abandoned. Afterwards all of Ib, including the city, is ruled by the Shadow Council, a council of [[magister]]s similar to those governing several of the [[Free Cities]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Central Essos}}
+
+<!--Categories-->
+[[Category:Cities]]
+[[Category:Harbors]]
+[[Category:Ib]]
+
+<!--Languages-->
+[[de:Hafen von Ibben]]
+[[es:Puerto de Ibben]]
+[[nl:Ibbenhaven]]
+[[zh:伊班港]]

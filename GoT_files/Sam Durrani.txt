@@ -1,0 +1,34 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = 
+| Birth   = June 2, 1981 {{Age|1981|6|2}}
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = "[[Second of His Name]]"
+| First   = 
+| Last    = 
+}}
+'''Samir Alam Durrani''' (born June 2, 1981) is an English stuntman and actor.
+
+In ''[[House of the Dragon]]'', he was a stunt performer in the [[House of the Dragon: Season 1|first season]] episode "[[Second of His Name]]".
+
+==Credits==
+===Stunts===
+{{House of the Dragon: Season 1|||yes}}
+
+==See also==
+*{{IMDb
+|# = 1977926}}
+*{{Twitter
+|# = SamirDurrani}}
+*{{Instagram
+|# = samdurran1}}
+*{{Facebook
+|# = Samdurranistunts}}
+*{{YouTube
+|# = channel/UCtFnExYsg1kyhPcOl81iemA}}
+{{DEFAULTSORT:Durrani, Sam}}
+[[Category:Stunt performers of House of the Dragon]]

@@ -1,0 +1,32 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Free
+| Image        = Palace of Justice.png
+| Type         = Palace
+| Status       = 
+| Location     = [[Braavos]], the [[Free Cities]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = 
+| Places       = 
+| Founded      = 
+}}
+{{Quote|From the sprawling Sealord's Palace with its menagerie of strange beasts and birds to the imposing Palace of Justice and the aqueduct we call the Sweetwater River that bears fresh water from the mainland, Braavos is without rival, in either engineering or elegance.|[[Tycho Nestoris]]|Braavos (short)}}
+The '''Palace of Justice'''{{Ref|H&L504}} is a palace located in [[Braavos]].<ref>"[[Braavos (short)|Braavos]]"</ref>
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{Braavos}}
+
+<!--Categories-->
+[[Category:Braavos]]
+[[Category:Palaces]]
+
+<!--Languages-->
+[[pt-br:Palácio da Justiça]]
+[[ru:Дворец правосудия]]

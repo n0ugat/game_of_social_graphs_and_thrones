@@ -1,0 +1,28 @@
+{{Cast
+|Title = Sam Coleman
+|Image = Sam Coleman.png
+|dateofbirth = 26 September 1996
+|birthplace = High Wycombe, England
+|role = Young [[Hodor]]
+|status = 
+|First = "[[Home]]"
+|Last = "[[The Door]]"
+|imdb = http://www.imdb.com/name/nm4744043/
+}}
+'''Sam Coleman''' is an English actor.
+
+In ''[[Game of Thrones]]'', he portrays young [[Hodor]] in the [[Game of Thrones: Season 6|sixth season]].<ref>[http://watchersonthewall.com/young-actor-cast-for-game-of-thrones-season-6-plus-cast-sightings-and-s6-returns/ Watchers on the Wall — Young actor cast for Game of Thrones season 6]</ref>
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 6||yes|||yes}}
+
+==See also==
+*{{IMDb
+|# =4744043}}
+
+==References==
+{{reflist}}
+[[fr:Sam Coleman]]
+{{DEFAULTSORT:Coleman, Sam}}
+[[Category:Guest starring cast members of Game of Thrones]]

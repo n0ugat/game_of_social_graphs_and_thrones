@@ -1,0 +1,22 @@
+{{Crew
+|Image = Peter Miles.jpg
+|dateofbirth = {{WPS|June 25}}, {{WPS|1963}}
+|birthplace = 
+|job = Stunt Performer
+|imdb = https://www.imdb.com/name/nm0587215/
+|twitter = }}
+'''Peter 'Milesy' Miles''' (born June 25, 1963} is a stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 1|first season]] episodes "[[You Win or You Die]]" and "[[Baelor]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 1|||||||yes||yes}}
+
+==See also==
+*{{IMDb
+|# = 0587215}}
+*{{YouTube
+|# = channel/UCsGBxgM31mQ1OU-WIdib9Cg}}
+{{DEFAULTSORT:Miles, Peter}}
+[[Category:Stunt performers of Game of Thrones]]

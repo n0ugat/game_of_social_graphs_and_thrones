@@ -1,0 +1,89 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Night's Watch.svg
+| Link  = Night's Watch
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = Othor.jpg
+| Birth       = 
+| Death       = [[298 AC]]{{Dateref|Game of Thrones: Season 1}}<br>[[Haunted Forest]], [[beyond the Wall]]{{Ref|GOT108}} {{C|alive}}<br>298 AC{{Dateref|Game of Thrones: Season 1}}<br>[[Castle Black]], the [[Wall]]{{Ref|GOT108}}
+| House       = 
+| Affiliation = [[Night's Watch]]<br>[[White Walkers]] {{C|in death}}
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 1|1]]
+| Appearances = "[[The Pointy End]]"
+| First       = 
+| Last        = 
+| DeathEp     = "The Pointy End"
+| Actor       = Unidentified
+}}
+{{Quote|The first wight I ever saw was brought into Castle Black from beyond the Wall.|[[Jon Snow]] to Daenerys and her council|Eastwatch}}
+'''Othor''' was a [[ranger]] of the [[Night's Watch]] and is killed while beyond the [[Wall]]. His body is found and returned to [[Castle Black]] where he rises again as a [[wight]] before being destroyed by [[Jon Snow]].
+
+==Biography==
+===Background===
+Othor is a ranger in the [[Night's Watch]]. He and [[Jafer Flowers]] accompanied [[Benjen Stark]]'s ranging mission beyond the [[Wall]]. Both Jafer and Othor are killed while on this mission.{{Ref|GOT108}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+The corpses of Othor and Jafer Flowers are found beyond the Wall by [[Samwell Tarly]], [[Jon Snow]] and a party led by [[Othell Yarwyck]] with the assistance of Jon's [[direwolf]], [[Ghost]]. They return the corpses to [[Castle Black]] and suggest they be burned. Lord Commander [[Jeor Mormont]] decides to let Maester [[Aemon]] examine them first.{{Ref|GOT108}}
+
+At night, the corpses rise as wights. Othor attacks Mormont, but warned by Ghost, Jon Snow intervenes and burns the wight, destroying it. Othor's and Jafer's bodies are re-burned the next day. Samwell notes that according to a book he found in Aemon's library, the touch of the [[White Walkers]] can animate the dead.{{Ref|GOT108}}
+
+===[[Game of Thrones: Season 7|''Game of Thrones'': Season 7]]===
+Othor is mentioned by Jon to [[Daenerys Targaryen|Daenerys]] and her council, when [[Tyrion Lannister|Tyrion ]] suggests to bring a [[Captured wight|wight]] down to [[King's Landing]], to show [[Cersei Lannister|Cersei]] that the army of the dead is real.{{Ref|GOT705}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Othor is noted as a big, ugly man who enjoyed singing bawdy songs.
+
+In the books, where the bodies of Othor and Jafer were brought to Castle Black, both corpses had blue eyes – different from the eye color they had in their lives. In the series, Othor's eyes were blue only while he was fighting Jon.
+
+When Othor came to life as wight, he killed at least one guard before entering Mormont's quarters. Jon found the body sprawled bonelessly, its head had been twisted completely around.
+
+Jon's fight against Othor the wight is slightly different than portrayed in the TV series: first, Othor's blue eyes glowed; second, after Jon cut Othor's arm off, the severed limb continued fighting by grabbing at Jon's calf and he barely managed to pry the fingers off his leg, while in the series it simply fell on the floor; third, Jon destroyed Othor not by throwing a lamp directly at him: instead, he snatched the lamp from Mormont, used it to set the drapes on fire, then grabbed a fistful of the burning drapes and whipped them at the dead man, severely burning his fingers while doing so.
+
+The fight with Othor made Jon realize that Valyrian steel is useless against wights, the same conclusion that Sam reached about dragonglass when fighting against Paul the wight: the only two known materials that are lethal to Others - are ineffective against their minions. Fire is still the only effective weapon against the wights.
+
+==Appearances==
+*{{GOT|The Pointy End}} {{Corpse}}
+*{{GOT|Baelor}} {{Mentioned}}
+*{{GOT|Eastwatch}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Night's Watch}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Rangers of the Night's Watch]]
+[[Category:Smallfolk]]
+[[Category:Wights]]
+
+<!--Languages-->
+[[de:Othor]]
+[[es:Othor]]
+[[fr:Othor]]
+[[nl:Othor]]
+[[ru:Отор]]
+[[zh:奥瑟]]

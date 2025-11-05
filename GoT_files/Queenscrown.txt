@@ -1,0 +1,65 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Night's Watch.svg
+| Link  = Night's Watch
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Watch
+| Image        =
+<gallery>
+The Gift Queenscrown.jpg|Appearance
+Queenscrown Pin.png|Location
+</gallery>
+| Type         = Holdfast
+| Status       = Abandoned
+| Location     = The [[Gift]], the [[North]]
+| Population   = 
+| Rulers       = [[Night's Watch]]
+| Institutions = 
+| Military     = 
+| Religion     = 
+| Places       = 
+| Founded      = 
+}}
+[[File:505 Bolton map 1.jpg|thumb|Queenscrown on the Boltons' map of the North and the Wall.]]
+{{Quote|It doesn't seem to be supporting anyone at the moment.|[[Jojen Reed]]|The Rains of Castamere (episode)}}
+'''Queenscrown'''{{Ref|GOT505}} is a settlement in the [[Gift]], the lands south of the [[Wall]] administered by the [[Night's Watch]]. It is located south of the [[Nightfort]]. Queenscrown was once a thriving town and holdfast, but is now abandoned.
+
+==History==
+===[[Game of Thrones: Season 3|''Game of Thrones'': Season 3]]===
+During their journey toward the [[Wall]], the six-person group of [[Bran Stark]], [[Rickon Stark]], [[Hodor]], [[Osha]], [[Jojen Reed]], and [[Meera Reed]] (along with [[direwolf|direwolves]] [[Summer]] and [[Shaggydog]]) stop in Queenscrown to seek shelter in a derelict windmill during a rainstorm. While there, a band of wildlings chases down an elderly man. When thundering from the storm starts, Hodor panics and shouts out in response. On suggestion from Jojen, Bran wargs into Hodor to silence him but actually renders Hodor unconscious. Jojen then further recommends that Bran skinchange through Summer and Shaggydog outside. Once this is done, the direwolves maul to death some of the wildlings. During this time, Bran saw Jon Snow outside, also fighting the wildlings.<ref>"[[The Rains of Castamere (episode)|The Rains of Castamere]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels Queenscrown was renamed after Queen Alysanne Targaryen stayed there. The tower's merlons were repainted in gold in honor of her visit.
+
+Queenscrown consists of a single tall tower located on an island in the midst of a lake. There is a causeway located just under the water, but its location is difficult to see. This makes attacking the holdfast difficult. A small village and inn used to lie on the shores of the lake near the holdfast. The holdfast has been abandoned out of fear of [[Free Folk|wildling]] raids from the north. While the village has long-since fallen into disrepair, the tower remains relatively intact.
+
+It is at Queenscrown (and not an abandoned mill as depicted on the show) that [[Bran Stark]] and his companions stay overnight as they waited for a storm to pass. While they waited, [[Old man|a man]] passing through arrived and stayed in the ruined village to wait out the storm too. [[Jon Snow]] arrived with the [[Free Folk|wildlings]] he was travelling with and they captured the man. Jon was ordered to kill the man, but balked and [[Ygritte]] killed the man anyway.
+
+Curiously, the map in HBO's Viewer's Guide does specify the location of Queenscrown, but no dialogue in "[[The Rains of Castamere (episode)|The Rains of Castamere]]" specified that this was the identity of the ruins where Bran's party took shelter.
+
+==Appearances==
+*{{GOT|The Rains of Castamere}}
+*{{GOT|Kill the Boy}} {{Map}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Gift}}
+
+<!--Categories-->
+[[Category:Gift]]
+[[Category:Towns]]
+
+<!--Languages-->
+[[de:Königinkron]]
+[[es:Corona de la Reina]]
+[[nl:Vrouwenkroon]]
+[[pt-br:Coroadarrainha]]
+[[ru:Корона Королевы]]
+[[zh:后冠镇]]

@@ -1,0 +1,71 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = House Bolton.svg
+| Link  = House Bolton
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Bolton
+| Image       = Rogar Bolton.png
+| Birth       = At the [[Dreadfort]]
+| Death       = 
+| House       = [[House Bolton|Bolton]]
+| Affiliation = [[House Stark]]
+| Titles      = [[Red King]] {{C|abdicated}}<br>[[Lord of the Dreadfort]]
+| Predecessor = 
+| Successor   = 
+| AKA         = Rogar the Huntsman
+| Culture     = [[Northmen|Northern]]
+| Religion    = [[Old Gods]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|After years of war, my ancestors gave up their barbaric practices and bent the knee to their new kings.|Lord [[Roose Bolton]] on Rogar's submission.|House Bolton (short)}}
+'''Rogar Bolton''',{{Con|TWOI&F}} also known as '''Rogar the Huntsman''',{{Con|TWOI&F}} was the last [[Red King]] of the [[Dreadfort]] before [[bending the knee]] to the [[House Stark|Stark]] [[King in the North|Kings in the North]].
+
+==Biography==
+Rogar Bolton was the the last head of House Bolton who ruled as a petty king. He bent the knee to [[House Stark]], forswearing the practice of [[flaying]] as a sign of allegiance to his new king.{{Ref|H&L304}}
+
+==In the books==
+According to ''The World of Ice & Fire'' (2014), Rogar Bolton was the last of the Red Kings of House Bolton, who ruled their own independent kingdom in the eastern parts of what later became "the North", and vied with the Starks for control over the rest of it. Rogar submitted to the Starks and sent them his sons as [[hostage]]s just as the [[coming of the Andals]] was beginning in southern [[Westeros]]. This means that he lived roughly 6,000 years ago.
+
+==Appearances==
+*{{H&L|House Bolton}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Bolton}}
+{{Kings of Westeros}}
+
+<!--Categories-->
+{{DEFAULTSORT:Bolton, Rogar}}
+[[Category:Bannermen of House Stark]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Lords of the Dreadfort|Rogar Bolton]]
+[[Category:Members of House Bolton|Rogar Bolton]]
+[[Category:Northmen]]
+[[Category:Red Kings|Rogar Bolton]]
+
+<!--Languages-->
+[[fr:Rogar Bolton]]
+[[ru:Рогар Болтон]]

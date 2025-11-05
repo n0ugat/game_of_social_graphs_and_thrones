@@ -1,0 +1,78 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Second Sons.svg
+| Link  = Second Sons
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Ghiscari
+| Image       = Prendhahl Second Sons.png
+| Birth       = 
+| Death       = [[300 AC]]{{Dateref|Game of Thrones: Season 3}}<br>[[Yunkai]], [[Slaver's Bay]]
+| House       = 
+| Affiliation = [[Second Sons]]
+| Titles      = Captain of the Second Sons
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Ghiscari]]
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 3|3]]
+| Appearances = "[[Second Sons (episode)|Second Sons]]"
+| First       = 
+| Last        = 
+| DeathEp     = "Second Sons"
+| Actor       = [[Ramon Tikaram]]
+}}
+{{Quote|That dragon bitch, she talks too much.|Prendahl na Ghezn about [[Daenerys Targaryen]]|The Kingsroad}}
+'''Prendahl na Ghezn''' was one of the captains of the [[Second Sons]], a [[mercenary]] company.
+
+==Biography==
+===Background===
+Prendahl na Ghezn is a warrior and mercenary of [[Ghiscari]] origin. Alongside [[Mero]], he is one of the captains of the Second Sons.{{Ref|GOT308}}
+
+===[[Game of Thrones: Season 3|''Game of Thrones'': Season 3]]===
+Along with his co-captain Mero, and their lieutenant [[Daario Naharis]], Prendahl meets [[Daenerys Targaryen|Daenerys]] in her tent outside [[Yunkai]]. He rejects Daenerys's offer of breaking the Second Sons' contract with the [[Wise Masters]], and watches as Mero rudely snubs Daenerys's offers.{{Ref|GOT308}}
+
+Prendahl then discusses how to deal with Daenerys with Mero and Daario. To avoid facing her [[Unsullied]], Mero proposes that one of them slips into Daenerys's camp and assassinates her. He gives three different coins - a [[Meereen]]ese, a [[Braavos]]i, and a [[Volantis|Volantene]] - to the [[Yunkai'i whore|bedslave]] attending them and has her hand them out at random to the three of them, the one with the Braavosi coin being charged with the assassination. Daario winds up with the Braavosi coin.{{Ref|GOT308}}
+
+Later that night, after sneaking into Daenerys's pavilion, Daario presents Prendahl's head, along with that of Mero. He explains that he, Prendahl, and Mero had "philosophical differences" regarding Daenerys's beauty, and that they fought when he refused to kill her. Daario then pledges the Second Sons to Daenerys.{{Ref|GOT308}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]] ''novels, Prendahl is a sellsword of [[Ghiscari]] descent and serves as the commander of the [[Stormcrows#In the books|Stormcrows]], a noted mercenary company which fights for the highest bidder. [[Daario Naharis]] and Sallor the Bald are the other two captains of the company.
+
+Prendahl and Sallor are killed by Daario. Later he sneaks into Daenerys's camp and produces the severed heads of his comrades as proof of his loyalty to her.
+
+==Gallery==
+<gallery>
+Prendahl na Ghezn 3x08.jpg
+</gallery>
+
+==Appearances==
+*{{GOT|Second Sons}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+{{DEFAULTSORT:Ghezn, Prendahl na}}
+[[Category:Ghiscari]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Second Sons]]
+
+<!--Languages-->
+[[de:Prendahl na Ghezn]]
+[[ru:Прендаль на Гхезн]]

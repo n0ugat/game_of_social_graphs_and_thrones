@@ -1,0 +1,45 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Wylde.svg
+| Link  = House Wylde
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Baratheon
+| Image        = Rain House Pin.png
+| Type         = Castle
+| Status       = 
+| Location     = The [[Stormlands]], [[Westeros]]
+| Population   = 
+| Rulers       = [[House Wylde]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Rain House'''{{Guideref|Map of Westeros}} is a castle in the [[Stormlands]], the region controlled by [[House Baratheon]] of [[Storm's End]]. It is the seat of [[House Wylde]]. The castle is located south-east of Storm's End, near the eastern tip of a peninsula extending into the [[Narrow Sea]]. It overlooks the southern coastline of [[Shipbreaker Bay]], south of the island of [[Tarth]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Rain House is the seat of House Wylde. It lies on the far eastern edge of Cape Wrath.
+
+In ''A Dance with Dragons'', a force of the [[Golden Company]] captures Rain House on behalf of the presumed-dead [[Aegon Targaryen (son of Elia Martell)|Aegon Targaryen]], the son of Rhaegar and Elia who has returned to Westeros to claim the [[Iron Throne]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Wylde}}
+{{Stormlands}}
+
+<!--Categories-->
+[[Category:Castles of the Stormlands]]
+[[Category:House Wylde]]
+
+<!--Languages-->
+[[ru:Дождливый Дом]]
+[[uk:Дощовий Будинок]]
+[[zh:雨屋城]]

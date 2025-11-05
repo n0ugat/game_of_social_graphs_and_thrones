@@ -1,0 +1,67 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = Faith of the Seven.svg
+| Link  = Faith of the Seven
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Faith
+| Image       = Scolera.png
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[Faith of the Seven]]
+| Titles      = [[Septa]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = 
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 5|5]]
+| Appearances = 2 episodes {{Below|Appearances}}
+| First       = "[[The Gift]]"
+| Last        = "[[Mother's Mercy]]"
+| DeathEp     = 
+| Actor       = [[Mary Jordan]]
+}}
+'''Scolera'''{{Con|ASOIAF}} is a [[septa]] of the [[Faith of the Seven]] serving at the [[Great Sept of Baelor]] in [[King's Landing]].
+
+==Biography==
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+Scolera is present along with Septas [[Unella]] and [[Moelle]] during the arrest of [[Cersei Lannister|Cersei]]. She watches as Unella throws Cersei into a cell under the orders of the [[High Sparrow]].{{Ref|GOT507}}
+
+Before Cersei performs the [[walk of atonement]], Scolera and Moelle escort and help remove her clothes.{{Ref|GOT510}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Scolera is described as short and thick waisted with heavy breasts and olive skin.
+
+==Appearances==
+*{{GOT|The Gift}}
+*{{GOT|Mother's Mercy}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+[[Category:Faith Militant]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Septas]]
+[[Category:Westerosi]]
+
+<!--Languages-->
+[[fr:Scolera]]
+[[ru:Сколера]]

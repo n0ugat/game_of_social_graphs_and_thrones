@@ -1,0 +1,47 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{MapNeeded}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Lannister
+| Image        = Battle of Oxcross.jpg
+| Type         = Village
+| Status       = 
+| Location     = The [[Westerlands]], [[Westeros]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+{{Quote|Using some vile sorcery, your brother fell on Stafford Lannister with an army of wolves. Thousands of good men were butchered. After the slaughter, the Northmen feasted on the flesh of the slain.|[[Knighthood|Ser]] [[Lancel Lannister]]'s "report" on the [[Battle of Oxcross]]|Garden of Bones (episode)}}
+'''Oxcross'''{{Con|ASOIAF}} is a village in the [[Westerlands]]. It is located behind the defensive mountain range that protects the border with the [[Riverlands]] and is thought to be protected by the stronghold [[Golden Tooth]]. It is the site of [[Battle of Oxcross|a major battle]] in the [[War of the Five Kings]].<ref>"[[Garden of Bones (episode)|Garden of Bones]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Oxcross is three days ride from [[Lannisport]].
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Westerlands}}
+
+<!--Categories-->
+[[Category:Villages]]
+[[Category:Westerlands]]
+
+<!--Languages-->
+[[de:Ochsenfurt]]
+[[es:Cruce de Bueyes]]
+[[it:Oxcross]]
+[[nl:Ossenwade]]
+[[ru:Окскросс]]
+[[zh:牛津镇]]

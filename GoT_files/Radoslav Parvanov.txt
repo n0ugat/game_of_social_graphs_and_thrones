@@ -1,0 +1,25 @@
+{{Crew
+|Image = Radoslav Parvanov.jpeg
+|dateofbirth = {{WPS|January 15}}, {{WPS|1977}}
+|birthplace = {{WPS|Bulgaria}}
+|job = Stunt Performer
+|imdb = https://www.imdb.com/name/nm1515832/
+|twitter = https://twitter.com/littlelowey/}}
+'''Radoslav Parvanov''' (born January 15, 1977) is a Bulgarian stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 5|fifth season]] episodes "[[Sons of the Harpy (episode)|Sons of the Harpy]]", "[[The Gift]]", "[[Hardhome (episode)|Hardhome]]" and "[[The Dance of Dragons (episode)|The Dance of Dragons]]", the [[Game of Thrones: Season 6|sixth season]] episodes "[[Book of the Stranger]]", "[[The Door]]", "[[No One]]" and "[[Battle of the Bastards (episode)|Battle of the Bastards]]", the [[Game of Thrones: Season 7|seventh season]] episodes "[[Stormborn]]", "[[The Queen's Justice]]", "[[Eastwatch]]", "[[Beyond the Wall (episode)|Beyond the Wall]]" and "[[The Dragon and the Wolf]]" and the [[Game of Thrones: Season 8|eighth season]] episodes "[[The Long Night]]" and "[[The Bells]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 5||||yes|||yes|yes|yes}}
+{{Game of Thrones: Season 6||||yes|yes|||yes|yes}}
+{{Game of Thrones: Season 7||yes|yes||yes|yes|yes}}
+{{Game of Thrones: Season 8|||yes||yes}}
+
+==See also==
+*{{IMDb
+|# = 1515832}}
+*{{Linkedin
+|# = /in/radoslav-parvanov-98703473}}
+{{DEFAULTSORT:Parvanov, Radoslav}}
+[[Category:Stunt performers of Game of Thrones]]

@@ -1,0 +1,55 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Westeros
+| Part          = 
+| Image         = Rhoynar migration.png
+| Previous      = [[Rhoynish Wars]]
+| Concurrent    = 
+| Next          = [[Nymeria's War]]
+| Date          = 
+| Place         = [[Narrow Sea]]
+| Outcome       = The [[Rhoynar]] leave [[Essos]] and migrate to [[Dorne]]
+| Factions1     = [[Rhoynar]]
+| Factions2     = 
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = {{COA|Nymeria|i}} Princess [[Nymeria]]
+| Leaders2      = 
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = 
+| Participants2 = 
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = 
+| Casualties2   = 
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Quote|Thousands of years ago, the warrior queen Nymeria crossed into Dorne from Essos, fleeing the dragonlords of Valyria. After she landed, she burned her ships, all ten thousand of them, so no cowards could slink home. What a woman, Dornish in spirit before she ever was in flesh.|[[Oberyn Martell]]|House Martell (short)}}
+The '''Rhoynar migration''' was the journey from [[Essos]] to [[Dorne]] by the [[Rhoynar]] led by Princess [[Nymeria]].
+
+==History==
+[[File:Dorne Histories & Lore.png|thumb|[[Nymeria]] has her ships burned]]
+Following the defeat of Prince [[Garin the Great]] by the [[dragonlord]]s of [[Old Valyria|Valyria]], Princess [[Nymeria]] led her people into every ship, skiff and raft they had and fled [[Westeros]].<ref>"[[The River Rhoyne]]"</ref> The [[Rhoynar]] sailed across the [[Narrow Sea]] until they eventually reached [[Dorne]], burning all ten thousand of the ships afterwards.<ref>"[[House Martell (short)|House Martell]]"</ref><ref>"[[Dorne (short)|Dorne]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the Rhoynish migration occurred about a thousand years before the events depicted in the novels. Princess [[Nymeria]] and the surviving [[Rhoynar]] traveled from [[Essos]] to [[Dorne]] on ten thousand ships following their defeat by the [[Valyrian Freehold]] in the Second Spice War.
+
+Prince [[Garin the Great]] of [[Chroyane]] led the Rhoynar to several victories against the [[Valyrians]], only to be defeated by 300 [[dragon]]s commanded by the [[dragonlord]]s of [[Old Valyria|Valyria]]. Two hundred and fifty thousand men were killed and Nymeria evacuated the surviving Rhoynar, most of whom were women, children and the elderly, across the [[Narrow Sea]], allegedly on ten thousand ships.
+
+Following unsuccessful attempts to settle in the [[Basilisk Isles]], [[Sothoryos]], [[Naath]] and the [[Summer Isles]], they Rhoynar landed at the mouth of the [[Greenblood]] in Dorne, though some ships landed on the [[Stepstones]] or surrendered to slavers from [[Lys]] and [[Tyrosh]]. Nymeria found common cause with [[Mors Martell]] of [[Sunspear]] and married him, burning the ships to affirm that the Rhoynar could not return to Essos. By joining their forces, Nymeria and Mors were able to unite the entire peninsula of Dorne in [[Nymeria's War]].
+
+In ''A Feast for Crows'', it is mentioned that Nymeria and her ten thousand ships are depicted on a tapestry in a secret room in Sunspear's shadow city.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Ten thousand ships}}
+
+<!--Categories-->
+[[Category:Events]]

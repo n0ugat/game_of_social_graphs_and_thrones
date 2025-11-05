@@ -1,0 +1,66 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = House Arryn.svg
+| Link  = House Arryn
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Arryn
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = [[House Arryn|Arryn]]
+| Affiliation = 
+| Titles      = [[King of the Mountain and the Vale]]
+| AKA         = 
+| Culture     = [[Vale of Arryn|Valemen]]
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = {Son}
+| Siblings    = 
+| Arms        = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+King '''Oswell I Arryn'''{{Con|TWOI&F}} was a [[King of the Mountain and the Vale]], identified by some as the king who was served his own son in a pie by the legendary [[Rat Cook]].
+
+==Biography==
+===Background===
+According to legend, a king and his son once visited the [[Nightfort]], where the latter was killed and served to his oblivious father in a pie. The king enjoyed the pie so much that he asked for a second helping.{{Ref|GOT310}}
+
+===[[Game of Thrones: Season 3|''Game of Thrones'': Season 3]]===
+[[Bran Stark|Bran]] tells the legend of the Rat Cook to [[Meera Reed|Meera]] and [[Jojen Reed|Jojen]].{{Ref|GOT310}}
+
+==In the books==
+In ''[[The World of Ice & Fire]]'', the legend is the same. In some tellings, the king was [[Tywell II Lannister]], not Oswell I Arryn.{{Bookref|TWOI&F|7|1}}
+
+==Appearances==
+*{{GOT|Mhysa}} {{Indirect}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Kings of Westeros}}
+
+<!--Categories-->
+{{DEFAULTSORT:Arryn, Oswell I}}
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Kings of the Mountain and the Vale|Oswell I Arryn]]
+[[Category:Members of House Arryn|Oswell I Arryn]]
+[[Category:Valemen]]

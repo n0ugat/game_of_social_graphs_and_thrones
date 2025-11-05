@@ -1,0 +1,26 @@
+{{Crew
+| Title= Robert McLachlan
+| Image= Robert McLachlan.jpg
+| dateofbirth= 23 March 1956
+| birthplace= San Francisco, California, USA
+| job= Director of photography
+| imdb= http://www.imdb.com/name/nm0002399/
+| twitter= http://twitter.com/robertmclachlan
+}}
+'''Robert McLachlan''' (born 23 March 1956) is a Canadian director of photography.
+
+On ''[[Game of Thrones]],'' McLachlan debuted as a director of photography in [[Game of Thrones: Season 3|Season 3]].
+
+==Credits==
+===Director of photography===
+{{Game of Thrones: Season 3|||||||||yes|yes}}
+{{Game of Thrones: Season 4||||yes|yes}}
+{{Game of Thrones: Season 5|||||||||yes|yes}}
+{{Game of Thrones: Season 7||||yes|yes}}
+
+==See also==
+*{{Template:IMDb
+|# = 0572123}}
+
+{{DEFAULTSORT:McLachlan, Robert}}
+[[Category:Production staff members of Game of Thrones]]

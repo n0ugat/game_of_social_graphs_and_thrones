@@ -1,0 +1,46 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Rhys Ifans.jpg
+| Birth   = Rhys Owain Evans<br>July 22, 1967 {{Age|1967|7|22}}<br>Haverfordwest, Pembrokeshire, Wales
+| Death   = 
+| Role    = [[Otto Hightower]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]] {{*}} [[House of the Dragon: Season 2|2]] {{*}} [[House of the Dragon: Season 3|3]]
+| Credits = 13 episodes {{Below|Credits}}
+| First   = "[[The Heirs of the Dragon]]"
+| Last    = 
+}}
+'''Rhys Ifans''' (born '''Rhys Owain Evans''', 22 July 1967) is a Welsh actor, producer, and musician, best known for his roles in ''Notting Hill'', ''Enduring Love'', ''Kevin & Perry Go Large'', and ''The Amazing Spider-Man''. He portrays Ser [[Otto Hightower]] in ''[[House of the Dragon]]''.<ref>[https://deadline.com/2021/02/house-of-the-dragon-rhys-ifans-steve-toussaint-eve-best-sonoya-mizuno-cast-game-of-thrones-prequel-hbo-lord-corlys-velaryon-sea-snake-1234692290/ Deadline]</ref>
+
+==Biography==
+Rhys Ifans was born as Rhys Owain Evans in Haverfordwest, Wales. He is the son of nursery school teacher Beti-Wyn Davies and primary school teacher Eurwyn Evans, and the brother of actor Ilŷr Ifans. He attended Ysgol Pentrecelyn and Ysgol Maes Garmon, and studied at Theatr Clywd and the Guildhall School of Music and Drama. He made his professional debut as Dave on ''Spatz''.
+
+On February 11, 2021, it was announced that Ifans would be playing [[Otto Hightower]] in ''House of the Dragon''.
+
+==Credits==
+===Starring===
+{{House of the Dragon: Season 1|yes|yes|yes|yes|yes|note|yes|yes|yes|yes}}
+<nowiki>*</nowiki> Credit only
+{{House of the Dragon: Season 2|yes|yes||||||yes}}
+{{House of the Dragon: Season 3}}
+
+==See also==
+*{{WP}}
+*{{IMDb|# = 0406975}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House of the Dragon}}
+{{House of the Dragon: Inside the Episode}}
+
+<!--Categories-->
+{{DEFAULTSORT:Ifans, Rhys}}
+[[Category:Commentators of House of the Dragon: Inside the Episode]]
+[[Category:Starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[de:Rhys Ifans]]
+[[fr:Rhys Ifans]]

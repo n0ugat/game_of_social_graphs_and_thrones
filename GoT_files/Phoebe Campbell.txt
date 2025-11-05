@@ -1,0 +1,44 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Phoebe Campbell.png
+| Birth   = 1997/1998<br>England
+| Death   = 
+| Role    = [[Rhaena Targaryen]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]] {{*}} [[House of the Dragon: Season 2|2]] {{*}} [[House of the Dragon: Season 3|3]]
+| Credits = 9 episodes {{Below|Credits}}
+| First   = "[[The Lord of the Tides]]"
+| Last    = 
+}}
+'''Phoebe Campbell''' is an English actor known for ''Midsomer Murders'', ''Home from Home'', and ''The Last Dragonslayer''.
+
+Campbell portrays Lady [[Rhaena Targaryen]] in ''[[House of the Dragon]]''.<ref>[https://pressroom.warnermedia.com/us/bio/house-dragon-character-descriptions WarnerMedia]</ref>
+
+Campbell identifies as non-binary and uses they/them pronouns.<ref>[https://www.spotlight.com/2850-8971-4390 Spotlight] actor profile</ref>
+
+==Credits==
+===Starring===
+{{House of the Dragon: Season 1||||||||yes||yes}}
+{{House of the Dragon: Season 2|yes||yes||yes|yes|yes|yes}}
+{{House of the Dragon: Season 3||||yes}}
+
+==See also==
+*{{WP}}
+*{{IMDb|# = 8666310}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House of the Dragon}}
+{{House of the Dragon: Inside the Episode}}
+
+<!--Categories-->
+{{DEFAULTSORT:Campbell, Phoebe}}
+[[Category:Commentators of House of the Dragon: Inside the Episode]]
+[[Category:Starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Phoebe Campbell]]
+[[pl:Phoebe Campbell]]

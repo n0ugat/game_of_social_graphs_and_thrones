@@ -1,0 +1,29 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Kingdoms
+| Image   = Ross Anderson.jpg
+| Birth   = July 15, 1987 {{Age|1987|7|15}}<br>Paisley, Renfrewshire, Scotland
+| Death   = 
+| Role    = [[Humfrey Hardyng]]
+| Series  = ''[[A Knight of the Seven Kingdoms]]''
+| Season  = [[A Knight of the Seven Kingdoms: Season 1|1]]
+| Credits = 
+| First   = 
+| Last    = 
+}}
+'''Ross Anderson''' (born July 15, 1987) is a Scottish actor.
+
+Anderson portrays [[Humfrey Hardyng]] in ''[[A Knight of the Seven Kingdoms]]''.<ref>https://redanianintelligence.com/2024/07/26/a-knight-of-the-seven-kingdoms-adds-4-more-to-its-cast-including-humfrey-hardyng/</ref>
+
+==Credits==
+{{A Knight of the Seven Kingdoms: Season 1}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb|#=5105119}}
+
+<!--Categories-->
+{{DEFAULTSORT:Anderson, Ross}}
+[[Category:Cast members of unknown billing of A Knight of the Seven Kingdoms]]

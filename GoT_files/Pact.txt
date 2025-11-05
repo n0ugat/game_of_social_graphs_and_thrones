@@ -1,0 +1,61 @@
+{{Canonicity|Canon}}
+{{References}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Westeros
+| Part          = the [[war of the First Men and the Children of the Forest]]
+| Image         = ThePact.png
+| Previous      = 
+| Concurrent    = 
+| Next          = 
+| Date          = c. [[11200 BC]]{{Dateref|Pact}}
+| Place         = [[Isle of Faces]], [[Gods Eye]], [[Riverlands]]
+| Outcome       = Cessation of hostilities between the First Men and the Children of the Forest
+| Factions1     = [[First Men]]
+| Factions2     = [[Children of the Forest]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = 
+| Leaders2      = 
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = 
+| Participants2 = 
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = 
+| Casualties2   = 
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+The '''Pact'''{{Ref|GOT701}} is the name by which the peace between the [[First Men]] and the [[Children of the Forest]] is known. It marked the end of the [[War of the First Men and the Children of the Forest|millennia-long war]] between the two races.
+
+==History==
+After a series of wars that lasted for centuries, the First Men and the Children of the Forest had fought each other to a standstill. With the two sides tired of bloodshed, representatives of the two races met on an island in the [[Gods Eye]] lake in central [[Westeros]], in what today is known as the [[Riverlands]].
+
+The representatives agreed that all open land, field, shore, hill and mountain would be the domain of the First Men, while the deep forest would remain undisturbed under the domain of the Children. The First Men also agreed not to cut down a [[weirwood]] ever again.
+
+To commemorate the Pact, the Children carved faces into every weirwood of the island, which would become known as the [[Isle of Faces]].{{Ref|H&L101}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the Pact also led to the establishment of the Green Men, an order sworn to protect and keep watch over the Isle of Faces. It marked the end of the [[Dawn Age]] and the beginning of the [[Age of Heroes]].
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+[[Category:11200 BC]]
+[[Category:Children of the Forest]]
+[[Category:Events]]
+
+<!--Languages-->
+[[fr:Le Pacte]]
+[[ru:Пакт]]
+[[uk:Договір]]

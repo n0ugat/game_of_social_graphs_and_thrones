@@ -1,0 +1,43 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Heraldry
+| Image = Lord of Light.svg
+| Link  = Lord of Light
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Light
+| Image        = Temple of the Lord of Light Braavos.png
+| Type         = Religious headquarters
+| Status       = 
+| Location     = [[Braavos]], the [[Free Cities]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = [[Lord of Light]]
+| Places       = 
+| Founded      = 
+}}
+{{Quote|The Lord of Light has a great temple, as well, for his worshippers have grown more numerous in the past hundred years.|[[Tycho Nestoris]]|Braavos (short)}}
+The '''Red Temple of Braavos''' is a place of religious worship for followers of the [[Lord of Light]], located in [[Braavos]].<ref>"[[Braavos (short)|Braavos]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the Temple of the Lord of Light is connected to the rest of [[Braavos]] by a large bridge. It is located near the [[Isle of the Gods]]. It is built from red stone and on top of its great square tower is an iron brazier twenty feet across containing a great fire, with smaller fires in iron braziers near its doors. It is smaller than the [[Red Temple of Volantis|Temple of the Lord of Light]] in [[Volantis]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Temple of the Lord of Light (Braavos)}}
+
+<!--Navboxes-->
+{{Braavos}}
+
+<!--Categories-->
+[[Category:Braavos]]
+[[Category:Red Temples|Braavos]]
+
+<!--Languages-->
+[[pt-br:Templo do Senhor da Luz (Braavos)]]
+[[ru:Красный храм Браавоса]]

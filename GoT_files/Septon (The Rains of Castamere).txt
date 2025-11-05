@@ -1,0 +1,55 @@
+{{DISPLAYTITLE:Septon {{C|The Rains of Castamere}}}}
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Faith of the Seven.svg
+| Link  = Faith of the Seven
+}}
+{{Character
+| Title       = Septon
+| Type        = Faith
+| Image       = Septon 3x09.jpg
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[Faith of the Seven]]<br>[[House Frey]]
+| Titles      = [[Septon]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Andals|Andal]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 3|3]]
+| Appearances = "[[The Rains of Castamere (episode)|The Rains of Castamere]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Kenneth Hadley]]
+}}
+A '''septon''' of the [[Faith of the Seven]] serves [[House Frey]] at the [[Twins]].
+
+==Biography==
+===[[Game of Thrones: Season 3|''Game of Thrones'': Season 3]]===
+The [[septon]] officiates the [[Red Wedding|wedding]] between Lord [[Edmure Tully]] and [[Roslin Tully|Roslin Frey]].{{Ref|GOT309}}
+
+==Appearances==
+*{{GOT|The Rains of Castamere}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Septons]]
+[[Category:Servants and retainers of House Frey]]
+[[Category:Westerosi]]
+
+<!--Languages-->
+[[pt-br:Septão (The Rains of Castamere)]]
+[[ru:Септон (Дожди в Кастамере)]]

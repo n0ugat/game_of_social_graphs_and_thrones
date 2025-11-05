@@ -1,0 +1,52 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Gargalen.svg
+| Link  = House Gargalen
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Martell
+| Image        = Saltshore Pin.png
+| Type         = Castle
+| Status       = 
+| Location     = [[Dorne]], [[Westeros]]
+| Population   = 
+| Rulers       = [[House Gargalen]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Salt Shore'''{{Ref|GOT106}} is a castle in [[Dorne]], the region controlled by [[House Martell]] of [[Sunspear]]. The castle is located on the southern coast of Dorne, on the [[Summer Sea]]. It is the seat of [[House Gargalen]]
+
+==History==
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+[[Joffrey Baratheon]] claims that lords will come from all of Westeros, from the [[Last Hearth]] in the north to the Salt Shore in the south, to his and [[Sansa Stark|Sansa]]'s wedding.{{Ref|GOT106}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Salt Shore is the same.
+
+==Appearances==
+*{{GOT|A Golden Crown}} {{Mentioned}}
+*{{GOT|Dragonstone}} {{Map}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Dorne}}
+
+<!--Categories-->
+[[Category:Castles of Dorne]]
+[[Category:House Gargalen]]
+
+<!--Languages-->
+[[de:Salzküste]]
+[[es:Costa Salada]]
+[[nl:Zoutkust]]
+[[ru:Солёный Берег]]
+[[zh:盐海岸]]

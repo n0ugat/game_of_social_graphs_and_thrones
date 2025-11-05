@@ -1,0 +1,33 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Rob-Ostlere-200.jpg
+| Birth   = Robert Ostlere<br>United Kingdom
+| Death   = 
+| Role    = [[Waymar Royce]]
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 1|1]]
+| Credits = "[[Winter Is Coming]]"
+| First   = 
+| Last    = 
+}}
+'''Robert Ostlere''' is a British actor. He is an alumnus of [[wikipedia:RADA|RADA]] with extensive stage work in productions at the academy. On TV he has appeared in the British soap ''[[wikipedia:Doctors (2000 TV series)|Doctors]]'' and in the film ''Tortoise''.
+
+In ''[[Game of Thrones]]'' Ostlere played the role of Ser [[Waymar Royce]], replacing [[Jamie Campbell Bower]] who had played the role in the unaired [[Pilot (Game of Thrones)|pilot]]. Bower was unavailable for the reshoots of the prologue sequence.
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 1|yes}}
+
+==See also==
+*{{Template:IMDb
+|# = 3209935}}
+*{{Template:Twitter
+|# = RobOstlere}}
+* [http://ashbee.net/rada/grad08/ost.html Rob Ostlere's RADA profile.]
+
+[[de:Rob Ostlere]]
+[[fr:Rob Ostlere]]
+[[ru:Роб Остлер]]
+{{DEFAULTSORT:Ostlere, Rob}}
+[[Category:Guest starring cast members of Game of Thrones]]

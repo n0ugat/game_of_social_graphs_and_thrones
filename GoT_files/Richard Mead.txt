@@ -1,0 +1,23 @@
+{{Crew
+|Image = 
+|dateofbirth = 
+|birthplace = 
+|job = Stunt Rigger<br>Stunt Performer
+|imdb = http://www.imdb.com/name/nm5289752
+|twitter = https://twitter.com/mead596/}}
+'''Richard Mead''' is a stuntman.
+
+In ''[[Game of Thrones]]'', he was a stunt rigger in the [[Game of Thrones: Season 5|fifth season]] episode "[[Hardhome (episode)|Hardhome]]" and the [[Game of Thrones: Season 6|sixth season]] episodes "[[Home]]", "[[Blood of My Blood]]", "[[The Broken Man]]" and "[[No One]]" and a stunt performer in the [[Game of Thrones: Season 5|fifth season]] episode "[[The Dance of Dragons (episode)|The Dance of Dragons]]" and the [[Game of Thrones: Season 6|sixth season]] episode "[[Oathbreaker]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 5||||||||yes|yes}}
+{{Game of Thrones: Season 6||yes|yes|||yes|yes|yes}}
+
+==See also==
+*{{IMDb
+|# = 5289752}}
+*{{Twitter
+|# = mead596}}
+{{DEFAULTSORT:Mead, Richard}}
+[[Category:Stunt performers of Game of Thrones]]

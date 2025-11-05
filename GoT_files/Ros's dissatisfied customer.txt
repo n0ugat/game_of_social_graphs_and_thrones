@@ -1,0 +1,49 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Crownlander
+| Image       = Ros's dissatisfied customer.jpg
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 2|2]]
+| Appearances = "[[The Night Lands]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Derek Reid]]
+}}
+{{Quote|I barely touched her, and this is what I get - crying!|Ros's customer to Petyr Baelish|The Night Lands}}
+'''Ros's dissatisfied customer''' pays for the services of the [[Prostitution|prostitute]] [[Ros]] in [[Littlefinger's brothel]].
+
+==Biography==
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+He pays for the services of [[Ros]] in the brothel. She begins to cry as they are just beginning. He walks out, dissatisfied. Littlefinger himself emerges to answer his complaints and arranges for him to see [[Armeca]] instead, an arrangement that he has no objection to.{{Ref|GOT202}}
+
+==Appearances==
+*{{GOT|The Night Lands}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+[[Category:Crownlanders]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Smallfolk]]
+
+<!--Languages-->
+[[ru:Недовольный клиент Рос]]

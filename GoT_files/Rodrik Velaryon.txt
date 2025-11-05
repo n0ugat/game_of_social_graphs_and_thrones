@@ -1,0 +1,63 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Leftimage  = House Velaryon.svg
+| Leftlink   = House Velaryon
+| Rightimage = Night's Watch.svg
+| Rightlink  = Night's Watch
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = 
+| Birth       = On [[Driftmark]]
+| Death       = Died of a chill
+| House       = [[House Velaryon|Velaryon]]
+| Affiliation = [[Night's Watch]]
+| Titles      = [[Knighthood|Ser]]<br>[[Lord Commander of the Night's Watch]]
+| Predecessor = {[[Lord Commander Stone|Stone]]}
+| Successor   = {[[Jasper Bracken]]}
+| AKA         = 
+| Culture     = [[Valyrians|Valyrian]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+Ser '''Rodrik Velaryon''' was a [[Lord Commander of the Night's Watch]].
+
+==Biography==
+===Background===
+Rodrik was a member of [[House Velaryon]]. He was elected Lord Commander of the [[Night's Watch]] after the death of [[Lord Commander Stone]]. At Maester [[Gavin]]'s counsel, he appointed [[Dagon Harlaw]] as [[First Ranger]]. He held the [[Wall]] for one year before succumbing to a chill in the night, and was succeeded by Ser [[Jasper Bracken]].<ref>[[:File:5x2 Night's Watch Book.jpg]]</ref>
+
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+Rodrik is mentioned in a book that [[Samwell Tarly]] is reading.{{Ref|GOT502}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no character named Rodrik Velaryon.
+
+==Appearances==
+*{{GOT|The House of Black and White}} {{Text}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House Velaryon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Velaryon, Rodrik}}
+[[Category:Crownlanders]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Knights]]
+[[Category:Lords Commander of the Night's Watch]]
+[[Category:Members of House Velaryon|Rodrik Velaryon]]

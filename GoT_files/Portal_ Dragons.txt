@@ -1,0 +1,58 @@
+<center>'''<big>[[Dragon]]s, living and dead.</big>'''</center>
+<br>
+
+{| border="" style="border: #6c93b1; background: #1e5467; margin: 0 auto 20px" width="270" cellspacing="2" align="center"
+|colspan="5" style="text-align:center;"|<span style="color:#ffffff"> '''<big>First generation dragons,<br> of the Targaryen Conquest-era</big>''' </span>
+|-
+|{{CharPortalAAA|image=Aegon balerion.jpg|articlename=Balerion|name=Balerion}}
+|{{CharPortalAAA|image=Rhaenys and Meria.png|articlename=Meraxes|name=Meraxes}}
+|{{CharPortalAAA|image=S5 Battle of Rook's Rest.png|articlename=Vhagar|name=Vhagar}}
+|-
+|}
+
+{| border="" style="border: #6c93b1; background: #1e5467; margin: 0 auto 20px" width="270" cellspacing="2" align="center"
+|colspan="5" style="text-align:center;"|<span style="color:#ffffff"> '''<big>Second generation dragons</big>''' </span>
+|-
+|{{CharPortalAAA|image=Quicksilver.jpg|articlename=Quicksilver|name=Quicksilver}}
+|{{CharPortalAAA|image=HL5 Vermithor closeup.png|articlename=Vermithor|name=Vermithor}}
+|{{CharPortalAAA|image=HL5 Silverwing closeup.png|articlename=Silverwing|name=Silverwing}}
+|{{CharPortalAAA|image=Dreamfyre.png|articlename=Dreamfyre|name=Dreamfyre}}
+|-
+|{{CharPortalAAA|image=S5 Meleys.png|articlename=Meleys|name=Meleys}}
+|{{CharPortalAAA|image=HL5 Nettles tames Sheepstealer manuscript art.png|articlename=Sheepstealer|name=Sheepstealer}}
+|{{CharPortalAAA|image=Caraxes.png|articlename=Caraxes|name=Caraxes}}
+|{{CharPortalAAA|image=Syrax.png|articlename=Syrax|name=Syrax}}
+|-
+|}
+
+{| border="" style="border: #6c93b1; background: #1e5467; margin: 0 auto 20px" width="270" cellspacing="2" align="center"
+|colspan="5" style="text-align:center;"|<span style="color:#ffffff"> '''<big>Third generation dragons</big>''' </span>
+|-
+|{{CharPortalAAA|image=Sunfyre.png|articlename=Sunfyre|name=Sunfyre}}
+|{{CharPortalAAA|image=Seasmoke.png|articlename=Seasmoke|name=Seasmoke}}
+|-
+|{{CharPortalAAA|image=Jacaerys over Vermax.png|articlename=Vermax|name=Vermax}}
+|{{CharPortalAAA|image=Arrax.png|articlename=Arrax|name=Arrax}}
+|{{CharPortalAAA|image=Tyraxes.png|articlename=Tyraxes|name=Tyraxes}}
+|-
+|}
+{| border="" style="border: #6c93b1; background: #1e5467; margin: 0 auto 20px" width="270" cellspacing="2" align="center"
+|colspan="5" style="text-align:center;"|<span style="color:#ffffff"> '''<big>Fourth generation dragons</big>''' </span>
+|-
+|{{CharPortalAAA|image=HL5 Stormcloud.png|articlename=Stormcloud|name=Stormcloud}}
+|{{CharPortalAAA|image=Shrykos death.png|articlename=Shrykos|name=Shrykos}}
+|{{CharPortalAAA|image=Storming of the Dragonpit animated.png|articlename=Morghul|name=Morghul}}
+|-
+|}
+
+{| border="" style="border: #6c93b1; background: #1e5467; margin: 0 auto 20px" width="270" cellspacing="2" align="center"
+|colspan="5" style="text-align:center;"|<span style="color:#ffffff"> '''<big>Daenerys Targaryen's dragons</big>''' </span>
+|-
+|{{CharPortalAAA|image=3578B2E600000578-3649770-image-m-146 1466402968569.jpg|articlename=Drogon|name=Drogon}}
+|{{CharPortalAAA|image=Rhaegal 5x01.png|articlename=Rhaegal|name=Rhaegal}}
+|{{CharPortalAAA|image=Dragons imprisoned.png|articlename=Viserion|name=Viserion}}
+|-
+|}
+<noinclude><noinclude>
+</noinclude><noinclude>
+[[Category:Portals]]</noinclude>

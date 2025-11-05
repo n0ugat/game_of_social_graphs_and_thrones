@@ -1,0 +1,47 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Rosby.svg
+| Link  = House Rosby
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Crownlander
+| Image        = 
+<gallery>
+701 BtS Map Rosby.png|Appearance
+Rosby Pin.png|Location
+</gallery>
+| Type         = Castle<br>Town
+| Status       = 
+| Location     = The [[Crownlands]], [[Westeros]]
+| Population   = 
+| Rulers       = [[House Rosby]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Rosby'''{{Ref|GOT701}} is a settlement in the [[Crownlands]], consisting of a small{{Ref|HOTD201}} castle and a surrounding town. It is the seat of [[House Rosby]], a vassal house holding fealty to [[House Baratheon of King's Landing]]. The castle is located north of [[King's Landing]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels Rosby is surrounded by a town of daub and wattle huts. It sits on the road from King's Landing to [[Duskendale]] and is surrounded by rich farms, which grow a lot of the food that helps feed the capital.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{Crownlands}}
+
+<!--Categories-->
+[[Category:Castles of the Crownlands]]
+[[Category:House Rosby]]
+[[Category:Towns]]
+
+<!--Languages-->
+[[de:Rosby]]
+[[ru:Росби]]
+[[zh:罗斯比城]]

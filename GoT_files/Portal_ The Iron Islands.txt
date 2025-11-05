@@ -1,0 +1,19 @@
+{|style="width:100%; margin:0; background:#1e5467; font-size:120%; font-weight:bold; border:4px groove #C0C0C0; text-align:center; color:#C0C0C0; padding:0.2em 0.4em;"
+|colspan="5" style="text-align:center;" |Iron Islands
+|- align="center"
+|{{PortalIcon|image=Iron Islands map Histories and Lore Season 2 Greyjoy Rebellion.png|articlename=Iron Islands|name=The Iron Islands}}
+|{{PortalIcon|image=Gre-Portal.png|articlename=House Greyjoy|name=House Greyjoy}}
+|- align="center"
+|{{PortalIcon|image=Theon and yara promo 6x5.jpg|articlename=Ironborn|name=The Ironborn}}
+|{{PortalIcon|image=Ironborn .jpg|articlename=Kingsmoot|name=The Kingsmoot}}
+|- align="center"
+|{{PortalIcon|image=Pyke.jpg|articlename=Pyke|name=Pyke}}
+|{{PortalIcon|image=Lordsport.png|articlename=Lordsport|name=Lordsport}}
+|- align="center"
+|{{PortalIcon|image=DrownedGod.jpg|articlename=Drowned God|name=The Drowned God}}
+|{{PortalIcon|image=Euron Greyjoy becomes king iron islands.jpg|articlename=Drowned Men|name=The Drowned Priests}}
+|- align="center"
+|{{PortalIcon|image=IronFleet.png|articlename=Iron Fleet|name=The Iron Fleet}}
+|{{PortalIcon|image=702 Silence Promo Image.jpg|articlename=Silence|name=The ''Silence''}}
+|}
+[[Category:Portals]]

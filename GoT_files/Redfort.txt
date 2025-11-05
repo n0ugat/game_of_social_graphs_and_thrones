@@ -1,0 +1,44 @@
+{{Canonicity|Canon}}
+{{MapNeeded}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Arryn
+| Image        = 701 BtS Map Redfort.png
+| Type         = Castle
+| Status       = 
+| Location     = The [[Vale of Arryn]], [[Westeros]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Redfort'''{{Ref|GOT701}} is a castle in the south east of the [[Vale of Arryn]], the region controlled by [[House Arryn]].<ref>[http://www.makinggameofthrones.com/production-diary/2011/4/15/the-artisans-jim-stanes.html The Artisans: Jim Stanes (at 0:14)]</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Redfort is the seat of the eponymous House Redfort, loyal and powerful vassals of House Arryn. House Redfort, like [[House Royce]], is noted by [[Catelyn Stark]] as being descended from the [[First Men]].
+
+[[Domeric Bolton]] was fostered at the Redfort for three years, and served as a squire to Lord Horton Redfort.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Vale of Arryn}}
+
+<!--Categories-->
+[[Category:Castles of the Vale of Arryn]]
+
+<!--Languages-->
+[[de:Rotfest]]
+[[es:Fuerterrojo]]
+[[it:Redfort]]
+[[nl:Roodfoort]]
+[[pt-br:Forte Vermelho]]
+[[ru:Редфорт]]
+[[zh:红垒]]

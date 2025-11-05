@@ -1,0 +1,89 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Thrones
+| Part          = the [[conflict beyond the Wall]]
+| Image         = Sack of Mole's Town.png
+| Previous      = [[Raid on Craster's Keep]]
+| Concurrent    = 
+| Next          = [[Battle for the Wall]]
+| Date          = [[301 AC]]{{Dateref|Game of Thrones: Season 4}}
+| Place         = [[Mole's Town]], [[Gift]]
+| Outcome       = [[Free Folk]] victory
+*Population of Mole's Town put to the sword
+| Factions1     = {{COA|Night's Watch|small}} [[Night's Watch]]
+| Factions2     = [[Free Folk]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = None
+| Leaders2      = [[Tormund]]<br>[[Magnar]] [[Styr]] of [[Thenns|Thenn]]
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = *Black brothers
+**{{COA|Night's Watch|inline}} [[Kegs]] †
+**{{COA|Night's Watch|inline}} [[Mully]] †
+**{{COA|Night's Watch|inline}} [[Jack Bulwer]] †
+*Population of Mole's Town †
+| Participants2 = *Tormund's warband
+**[[Ygritte]]
+*Styr's warband
+**[[Thenn Warg]]
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = Heavy
+| Casualties2   = Neglibile
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = Massive
+}}
+{{Quote|Oh, so it's alright then?! Black Jack and Kegs and Mully chopped to pieces 'cause they broke the rules?!|[[Eddison Tollett]]|The Mountain and the Viper}}
+The '''sack of Mole's Town''' is an event during the [[conflict beyond the Wall]].
+
+==History==
+===Prelude===
+After successfully scaling the [[Wall]], [[Tormund]]'s warband, including [[Ygritte]], is joined by [[Styr]] and his [[Thenns|Thenn]] raiders. In order to draw out members of the [[Night's Watch]] from the safety of [[Castle Black]], they attack and slaughter the inhabitants of a small village. Styr spares the life of [[Olly|a lone boy]] and orders him to tell the Night's Watch what has happened to his village.
+
+When the Night's Watch learn of the attack, many black brothers wish to retaliate. Acting [[Lord Commander of the Night's Watch]] [[Alliser Thorne]] understands that retaliation is exactly what the wildlings want and everyone is ordered to remain at Castle Black.<ref>"[[Breaker of Chains]]"</ref>
+
+===The raid===
+The wildlings march into Mole's Town at night, killing the townsfolk and burning down huts with virtually no opposition. They then attack the local brothel, killing members of the Night's Watch in the process. 
+
+Ygritte discovers [[Gilly]] and [[Sam|her son]] in hiding, but upon seeing Gilly's wildling cloak, she urges them to remain quiet so they will not be found by the other wildlings, sparing their lives.
+
+===Aftermath===
+News of the attack on Mole's Town reaches Castle Black. As with previous raids against the smaller villages, the Night's Watch is aware that the wildlings are just trying to draw them away from Castle Black before the main assault from the massive army beyond the Wall hits, so they make no attempt to send men out and search for survivors.
+
+[[Kegs]], [[Mully]], and [[Jack Bulwer|Black Jack Bulwer]] were killed visiting the brothel instead of following orders to remain at Castle Black. After striking Mole's Town, it is clear that the next target is Castle Black, which means Mance Rayder's main forces are almost ready to strike.<ref>"[[The Mountain and the Viper]]"</ref>
+
+==In the books==
+
+In the ''[[A Song of Ice and Fire]]'' novels, after Jon escapes from the [[Free Folk|wildlings]], he passes through Mole's Town, warns the residents of the imminent attack and advises them to seek refuge at Castle Black. Three quarters of the village residents, among them the whores Zei, Meliana and Sky Blue Su, as well as Hareth the stablehand, follow Jon's advice. The blacksmith Donal Noye, who takes command on the defenders in the absence of all the officers, allows them to stay at the castle on condition that they take part in defending the castle.
+
+Shortly before the attack of the [[Thenns]] begins, Jon notices grey smoke rising from the direction of Mole's town, realizing that the wildlings have set the village afire on their way to the castle.
+
+The sack itself takes place off-screen. No details of it are given in the book. It is unknown whether the remaining quarter of the residents escaped in time or stayed, how many of them (if at all) were killed, and if the attackers suffered any casualties.
+
+Mully, Kegs, and Jack Bulwer are not in Mole's Town when it is sacked but in Castle Black. Gilly and [[Samwell Tarly|Sam]] arrive much later, after the battle is over, to the castle straight from [[Craster's Keep]], without passing through Mole's Town which has been long abandoned.
+
+After the initial attack of the Thenns is repulsed, the villagers return to Mole's Town. When Castle Black comes under assault again by the main force of the Wildlings from the north, Jon sends a request for aid from the village. The messenger, Zei, never returns, so Jon sends Mully, who finds the village deserted. It is unknown what becomes of the villagers.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{Conflict beyond the Wall}}
+
+<!--Categories-->
+[[Category:301 AC]]
+[[Category:Conflict beyond the Wall]]
+[[Category:Sacks|Mole's Town]]
+
+<!--Languages-->
+[[de:Plünderung von Mulwarft]]
+[[fr:Sac de La Mole]]
+[[pt-br:Saque de Vila Toupeira]]
+[[ru:Разгром Кротового городка]]

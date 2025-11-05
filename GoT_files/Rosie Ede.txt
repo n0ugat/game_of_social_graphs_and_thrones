@@ -1,0 +1,31 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Rosie Ede.jpg
+| Birth   = 
+| Death   = 
+| Role    = Older midwife
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = "[[The Princess and the Queen]]"
+| First   = 
+| Last    = 
+}}
+'''Rosie Ede''' is an actress. She has appeared in the films ''{{WPS|The Heart of Me}}'', ''{{WPS|Finding Neverland (film)|Finding Neverland}}''  and ''{{WPS|A Street Cat Named Bob (film)|A Street Cat Named Bob}}'' and the television series ''{{WPS|Casualty (TV series)|Casualty}}'', ''{{WPS|Toast of London}}'', ''{{WPS|Call the Midwife}}'', ''{{WPS|Pennyworth (TV series)|Pennyworth}}'', ''{{WPS|Doc Martin}}'', ''{{WPS|Doctors (2000 TV series)|Doctors}}'' and ''{{WPS|Emmerdale}}''.
+
+In ''[[House of the Dragon]]'', she portrayed an older midwife in the [[House of the Dragon: Season 1|first season]].
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1||||||yes}}
+
+==See also==
+*{{IMDb|# = 3077301}}
+*{{Twitter|# = rosie_ede}}
+
+<!--Categories-->
+{{DEFAULTSORT:Ede, Rosie}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--InterWiki-Links-->
+[[fr:Rosie Ede]]

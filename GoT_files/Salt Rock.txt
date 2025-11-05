@@ -1,0 +1,35 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Westeros
+| Image        = 
+| Type         = Town
+| Status       = 
+| Location     = [[Westeros]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = 
+| Places       = 
+| Founded      = 
+}}
+'''Salt Rock'''{{Ref|GOT210}} is a town in [[Westeros]]. They have a local river market.<ref name="E20">"[[Valar Morghulis]]"</ref>
+
+==History==
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+[[Jaime Lannister|Jaime]] and [[Brienne of Tarth|Brienne]] encounter a patrol of [[House Stark|Stark]] [[Man-at-arms|men-at-arms]]. [[Tom]], the leader of the group, suspects he has seen Jaime before, and inquires whether he has been to the river market at Salt Rock - which Jaime denies, falsely implying he has never left [[Ashemark]] prior.{{Ref|GOT210}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no town of this name.
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+[[Category:Towns]]
+[[Category:Westeros]]
+
+<!--Languages-->
+[[de:Salzfels]]
+[[fr:Sel Roc]]

@@ -1,0 +1,36 @@
+{{Episode
+| Title    = {{PAGENAME}}
+| Type     = Podcast
+| Image    = TOGOTPHOTD213.jpg
+| Season   = 2
+| Episode  = 13
+| Date     = August 7, 2024{{Listref|TOGOTPHOTD}}
+| Runtime  = 1:03:02{{HBOref|TOGOTPHOTD}}
+| Writer   = 
+| Director = 
+| Year     = 
+| Previous = "[[Ep. 8: The Queen Who Ever Was (with Showrunner Ryan Condal)]]"{{Listref|TOGOTPHOTD}}
+| Next     = "[[The Dragonseed Deep Dive (with Kieran Bew, Tom Bennett, and Clinton Liberty)]]"{{Listref|TOGOTPHOTD}}
+}}
+"'''Season 2 In Review with Fabien Frankel'''"{{HBOref|TOGOTPHOTD}} is the thirteenth episode of the [[The Official Game of Thrones Podcast: House of the Dragon: Season 2|second season]] of ''[[The Official Game of Thrones Podcast: House of the Dragon]]''. It is the thirty-first episode of the series overall. It was released on August 7, 2024.
+
+==Description==
+{{Description|TOGOTPHOTD213}}
+
+==Gallery==
+<gallery bordersize="none">
+HOTD: Official Podcast: Season 2 In Review with Fabien Frankel
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{HBO Max|video/watch/PROM727484/PROM1182022|House of the Dragon Podcast: Season 2 In Review}}
+
+<!--Navboxes-->
+{{The Official Game of Thrones Podcast: House of the Dragon}}
+
+<!--Categories-->
+[[Category:Episodes of The Official Game of Thrones Podcast: House of the Dragon: Season 2| 13]]
+[[Category:Episodes released in 2024|8.07]]

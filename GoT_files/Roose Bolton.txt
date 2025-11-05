@@ -1,0 +1,321 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Bolton.svg
+| Link  = House Bolton
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Bolton
+| Image       = Profile-RooseBolton.png
+| Birth       = The [[Dreadfort]], the [[North]]{{Con|AWOIAF}}
+| Death       = [[303 AC]]{{Dateref|Game of Thrones: Season 6}}<br>[[Winterfell]], the North{{Ref|GOT602}}
+| House       = [[House Bolton|Bolton]]{{Ref|GOT204}}
+| Affiliation = [[House Stark]]{{Ref|GOT204}} {{C|formerly}}<br>[[House Baratheon of King's Landing]]{{Ref|GOT310}}
+| Titles      = [[Lord of the Dreadfort]]{{Ref|GOT206}}<br>[[Warden of the North]]{{Ref|GOT402}}<br>[[Lord of Winterfell]]{{Ref|GOT408}}
+| AKA         = 
+| Culture     = [[Northmen|Northern]]{{Ref|GOT204}}
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = {[[Walda Bolton|Walda Frey]]}{{Ref|GOT309}}
+| Lovers      = 
+| Issue       = {[[Ramsay Bolton]]}{{Ref|GOT206}} {{C|[[Legitimization|legitimized]] [[bastard]]}}<br>{[[Roose Bolton's son|Son]]}{{Ref|GOT602}} {{C|by Walda}}
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 2|2]] {{*}} [[Game of Thrones: Season 3|3]] {{*}} [[Game of Thrones: Season 4|4]] {{*}} [[Game of Thrones: Season 5|5]] {{*}} [[Game of Thrones: Season 6|6]]
+| Appearances = 20 episodes {{Below|Appearances}}
+| First       = "[[Garden of Bones (episode)|Garden of Bones]]"
+| Last        = "[[Blood of My Blood]]" {{Vision}}
+| DeathEp     = "[[Home]]"
+| Actor       = [[Michael McElhatton]]
+}}
+{{Quote|In my family we say, 'A naked man has few secrets, a flayed man, none.'|Roose Bolton|Garden of Bones (episode)}}
+Lord '''Roose Bolton''' was the [[Lord of the Dreadfort]] and the head of [[House Bolton]], the former ruling [[Great House]] of the [[North]] after [[Usurper|usurping]] the position from [[House Stark]]. He was the father of [[Ramsay Bolton]] – his [[Legitimization|legitimized]] [[bastard]] – and a [[Roose Bolton's son|newborn son]] from his wife, [[Walda Bolton|Walda Frey]].
+
+During the [[War of the Five Kings]], Roose serves [[King in the North]] [[Robb Stark]] as one of his top generals. However, they disagree quite often due to various tactical and political differences. He later [[Treason|betrays]] and [[Regicide|murders]] Robb at the [[Red Wedding]] after allying with [[House Frey]] and [[House Lannister]] when the war turns against them. Roose is appointed the new [[Warden of the North]] by [[King of the Andals and the Rhoynar and the First Men|King]] [[Joffrey Baratheon]] on [[Tywin Lannister]]'s orders as a reward for killing Robb and ending the conflict. Roose later rebuilds [[Winterfell]] and makes it his home and to further strengthen his hold on the North, he has his bastard son [[Ramsay Bolton|Ramsay Snow]] legitimized and [[Marriage|weds]] him to [[Sansa Stark]], while he marries [[Walder Frey]]'s granddaughter, Walda, and impregnates her. After Sansa escapes with [[Theon Greyjoy]], Roose warns Ramsay of the possibility of being disinherited for his careless suggestion of attacking the [[Night's Watch]], but he is [[Assassinations at Winterfell|betrayed and murdered]] by his own son, who goes on to kill Walda and his newborn half-brother as well.
+
+==Biography==
+===Background===
+Roose Bolton was the head of [[House Bolton]], a vassal family to [[House Stark]] of [[Winterfell]]. He was the [[Lord of the Dreadfort]]. Roose takes pride in his house sigil; the flayed man.{{Ref|GOT204}}
+
+[[File:Roose-Bolton-bannerman.jpg|thumb|left|Roose retains a reputation as a seemingly loyal Stark bannerman.]]
+Although torture is outlawed in the [[North]], his family is famous for flaying the skin from their enemies as a means of torture and execution. Roose fought for Lord [[Eddard Stark]] in the civil war against [[House Targaryen]] known as [[Robert's Rebellion]] and proved his worth as a soldier in the [[Battle of the Trident]]. He advised [[Robert Baratheon]] to execute Ser [[Barristan Selmy]], a legendary Kingsguard sworn to the Targaryens, but Robert overruled Roose and pardoned Selmy.<ref>[http://viewers-guide.hbo.com/game-of-thrones/season2/#!/guide/houses/stark/roose-bolton/ HBO viewers guide, season 2 guide to houses, House Stark - Roose Bolton entry]</ref>
+
+Roose Bolton had a [[bastard]] son, [[Ramsay Bolton|Ramsay Snow]], the son of a [[Miller's wife|woman]] whom he raped after Roose hanged her husband for not obtaining his permission to marry.{{Ref|GOT505}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+[[House Bolton]] banners are present among [[Robb Stark]]'s forces as they assemble at Winterfell and march south to fight [[House Lannister]] following the imprisonment and execution of Lord [[Eddard Stark]].{{Ref|GOT108}}{{Ref|GOT110}} Robb is proclaimed [[King in the North]] by his bannermen following the death of Eddard, although Roose is not present.{{Ref|GOT110}}
+
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+{{Quote|The high road is very pretty, but you'll have a hard time marching your army down it.|Roose Bolton to Robb Stark|Garden of Bones (episode)}}
+[[File:Roose Bolton.jpg|thumb|right|Roose advises using the captured Lannisters to their advantage.]]
+Roose fights for King [[Robb Stark]] in his decisive victory at the [[Battle of Oxcross]]. The following morning Roose reports that they killed five Lannister men for every casualty they suffered. He expresses concern over the volume of prisoners they have taken, saying that they are struggling to feed their own men. Robb insists that the prisoners be treated well and rejects Roose’s suggestion that they torture the officers, reminding him that the Boltons' traditional practice of flaying their enemies is outlawed in the North. Roose warns Robb that the high road is pretty but difficult. Robb counters that he is treating his prisoners as he hopes the Lannisters will treat his sisters.{{Ref|GOT204}}
+
+They come across a nurse, [[Talisa Stark|Talisa Maegyr]], and a [[Silent Sisters|silent sister]] treating a [[wounded Lannister soldier]]. The healer is preparing to amputate his leg to prevent a wound infection spreading. The soldier is begging her not to proceed but she insists on the necessity of amputation. Roose criticizes her spending time on the Lannister soldiers and she retorts that the Northmen are not her men. Robb helps to restrain the wounded man as she saws off his lower leg.{{Ref|GOT204}}
+
+[[File:Roosethemessanger.jpg|thumb|left|Bolton delivers news of Winterfell's capture.]]
+He later brings Robb and [[Catelyn Stark]] news of [[Winterfell]]'s fall at the hands of the turncloak [[Theon Greyjoy]]. He reports that there is no news of Robb's brothers, but that Ser [[Rodrik Cassel]] had been killed. An enraged Robb declares that he must return north to retake his castle and save his brothers, but Roose counters that they have the Lannisters on the retreat, and must continue their offensive. He tells the King that he can have his [[bastard]] son, [[Ramsay Bolton|Ramsay Snow]], muster several hundred men to retake Winterfell. Robb relents, but orders that the safety of his brothers is paramount.{{Ref|GOT206}}
+
+Robb insists that Theon must be brought to him alive so he can inquire as to why he betrayed the North - and so that Robb can execute him personally, whilst all other [[Ironborn]] can be offered pardons.{{Ref|GOT206}} After a [[battle at the Yellow Fork]] Robb's bannermen gather to hear Queen Regent [[Cersei Lannister]]'s rejection of their peace terms. They complain that the prison cells are overflowing. Robb leaves the camp with a small force to negotiate the surrender of the [[Crag]].{{Ref|GOT207}}
+
+[[File:Robb Stark and Roose Bolton.jpg|thumb|right|Robb and Roose discuss plans to recapture Winterfell.]]
+Catelyn releases [[Jaime Lannister]], enraging Robb and his bannermen and resulting in her being placed under guard. Roose meets with Robb to discuss the situation of Winterfell. Robb details a plan to offer mercy to Theon's men so that they will abandon him allowing them to retake the castle with minimal bloodshed. Roose is confident that it will work. Their discussion is interrupted by Talisa and Roose leaves them alone.{{Ref|GOT208}}
+
+===[[Game of Thrones: Season 3|''Game of Thrones'': Season 3]]===
+[[File:Roose-and-Robb-3x01.jpg|thumb|left|Robb Stark and Roose Bolton discuss their attack on Harrenhal.]]
+Roose, along with the rest of the Northern host, [[Fall of Harrenhal|arrives]] at [[Harrenhal]], finding the ruined castle abandoned and the captives slain, save for a man in [[Order of Maesters|maester]] robes named [[Qyburn]]. While Robb and Talisa attend to the man's injuries, Roose discusses Jaime Lannister's escape with [[Rickard Karstark]], and assures him that the dead will be avenged in time.{{Ref|GOT301}}
+
+Messenger-[[raven]]s come to Harrenhal bearing news of [[Hoster Tully]]'s death, and of Winterfell's destruction. Roose delivers the messages to Robb, who charges Bolton with holding Harrenhal with a portion of the Northern army, while he and the bulk of his forces ride for [[Riverrun]].{{Ref|GOT302}}
+
+[[File:Bolton-trolls-Jaime.jpg|thumb|right|Roose tells Jaime about Blackwater.]]
+Roose's minion, [[Locke]], successfully recaptures Jaime Lannister, and delivers him to his Lord at Harrenhal. Roose is visibly angered at Jaime's mutilated state. Jaime asks Roose about Cersei. In a moment of callousness, Roose explains the details of the [[Battle of the Blackwater]], in which [[Stannis Baratheon]] attacked [[King's Landing]], and appears on the verge of telling Jaime that Cersei is dead, only to tell him that Tywin Lannister arrived at the last minute and fought Stannis off. Jaime's relief sends him to his knees, visibly amusing Roose.{{Ref|GOT305}}
+
+[[File:Jaime and Bolton make plans S3E6.jpg|thumb|left|Roose agrees to release Jaime.]]
+Roose negotiates with Jaime and [[Brienne of Tarth]] over dinner. Bolton weighs up his options; bluntly informing his captives that the safest course of action would simply be to murder both of them, and discreetly dispose of their bodies. Although Jaime attempts to sway Roose by reminding him of the consequences of crossing his father, Roose is unperturbed at the prospect of having Lord Tywin as an enemy, as the war is keeping him fully occupied. Ultimately Roose relents, agreeing to release Jaime, and return him safely to King's Landing on the condition that he inform his father that Bolton had no part in the loss of Jaime's hand. He also retains Brienne as a hostage, stating his intention to charge her with treason.{{Ref|GOT306}}
+
+Before Jaime departs for King's Landing, Roose asks Jaime to give his regards to Jaime's father [[Tywin Lannister|Tywin]]. Jaime then asks Roose to tell [[Robb Stark]] that "the Lannisters send their regards".{{Ref|GOT307}} Afterwards, Roose arrives at the [[Twins]] to attend the wedding of [[Edmure Tully]] and [[Roslin Tully|Roslin Frey]]. However, he has been secretly plotting with [[House Frey]] to ultimately bring about the downfall of the Starks.{{Ref|GOT309}}
+
+[[File:Red_wedding_roose_robb.jpg|thumb|right|Roose murders his king.]]
+During the wedding, Roose stays seated beside Lady Catelyn, and just prior to the massacre he directs her gaze to his arm, coaxing her to pull back his sleeve to reveal chain mail underneath. Upon her discovery, he flashes her a sinister grin, revealing that the Starks have been betrayed, causing her to slap him across the face and yell at Robb to run. Bolton runs to safety as the Freys [[Red Wedding|turn on]] the Starks. In the aftermath, he approaches Robb and stabs him in the heart. His final words to Robb are "The Lannisters send their regards".{{Ref|GOT309}}
+
+[[File:Roose Psychopath Smile.jpg|thumb|left|Bolton gleefully expresses the benefits of the Lannisters' influence on the Bolton-Frey alliance.]]
+After killing Robb, Roose climbs to the top of the [[Twins]] and watches the massacre of the [[House Stark|Stark]] forces. The next day, he and [[Walder Frey]] gloat over the deaths of the Starks and the capture of Edmure Tully, though Roose is wary about the escape of [[Brynden Tully]], concerned that he will reach the safety of Riverrun before he can be found. Walder comments that it must have been difficult following [[Robb Stark]], and Roose notes that Robb never once listened to his advice. Walder jokingly raises a toast to the Young Wolf, and Roose says that he will now be forever young.{{Ref|GOT310}}
+
+Roose then explains to Walder what ''really'' happened at the [[Sack of Winterfell]]: it was actually Roose's bastard son [[Ramsay Bolton|Ramsay Snow]], leading a force of Bolton soldiers, who burned Winterfell to the ground. Roose falsely reported to Robb that Theon and the [[Ironborn]] were responsible to deflect suspicion from the Boltons - while Ramsay captured Theon and has been sadistically torturing him in the Dreadfort's dungeon. Roose decided to betray Robb long ago, after the Lannisters defeated Stannis Baratheon at the Battle of the Blackwater, and was simply feigning loyalty this entire time, even as he was plotting the Starks' destruction.{{Ref|GOT310}}
+
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+[[File:WaldaRooseRamseyS4EP02.png|thumb|right|Roose introduces Walda to Ramsay.]]
+Roose is forced to smuggle himself back into his own lands, due to the Ironborn holding [[Moat Cailin]]. Arriving at the Dreadfort with his new bride, Roose introduces Lady [[Walda Bolton|Walda]] to his bastard son, [[Ramsay Bolton|Ramsay]], before ordering the latter to bring the Boltons' [[Theon Greyjoy|prized hostage]] before him. Ramsay brings "Reek" to Roose, who becomes furious with his son for torturing and mutilating a valuable hostage, as it gives them less leverage over the [[House Greyjoy|Greyjoys]]. He notes that Tywin Lannister might have named him [[Warden of the North]] but he has given him no assistance towards controlling it.{{Ref|GOT402}}
+
+[[File:Roose-Ramsay-Reek.jpg|thumb|left|Roose scolds Ramsay over his treatment of Theon.]]
+Roose explains that he wanted to trade Theon for Moat Cailin, and for that he needed him unharmed. Ramsay stands by his treatment of Theon, whom he has taken to calling "Reek", but Roose laments that he puts too much trust in his son, prompting Ramsay to prove himself to Roose. He orders Reek to shave him with a razor, demonstrating that he will never betray them, and adds that his methods revealed key information; that Theon did not actually kill [[Bran Stark|Bran]] and [[Rickon Stark]]. When asked if he has any ideas as to where they went, Reek tells them that [[Jon Snow]] is at [[Castle Black]].{{Ref|GOT402}}
+
+Roose orders [[Locke]] to hunt down the Stark boys and kill them before the Northerners discover that they are alive, and Ramsay suggests they should kill Jon as well since he is half-Stark and may pose a threat to their future hold on the North. Roose instructs Ramsay to head south with Theon and reclaim Moat Cailin, which will allow their army to return north and help them conquer their lands, and he will reconsider Ramsay's position.{{Ref|GOT402}}
+
+[[File:Roose and Ramsay confer.jpg|thumb|right|Ramsay reports his success at Moat Cailin to his father.]]
+Later, Roose and his army meet Ramsay near Moat Cailin where Ramsay presents him with the fortress's flag. Roose instructs Ramsay to walk with him, and they climb a hill. He asks if there has been any word from Locke, who was killed in his attempt to abscond with Bran, and Ramsay answers that there has been nothing. Roose dismisses this as unimportant, speculating that the Stark boys are most likely dead. At the top of the hill, Roose points out that the north is larger than all of the other kingdoms combined, and that, thanks to Ramsay's actions, he now has control of it. He then hands Ramsay a document, legitimizing him as Ramsay Bolton.{{Ref|GOT408}}
+
+After Ramsay swears to honor him and uphold his traditions, Roose leads his forces towards [[Winterfell]], moving his base of operations to the ruined fortress.{{Ref|GOT408}}
+
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+Roose Bolton's hold on the North is opposed by the remaining Northern lords, most of whom lost sons and men at the Red Wedding. While scolding Ramsay for needlessly flaying a [[Medger Cerwyn|Northern lord]], along with his wife and brother, alive for refusing to pay their taxes, Roose points out that they do not have enough men to rule the North should the Stark bannermen rise against them.{{Ref|GOT503}}
+
+[[File:The Boltons.jpg|thumb|Roose and his family greet Sansa Stark.]]
+He also reminds Ramsay that the pact they made was with Tywin Lannister, who is now dead, meaning that the Lannisters will likely no longer support them. He tells Ramsay that the best way to strengthen their hold is not by flaying people and subsequently enraging their loved ones, but by marrying into good families - he has arranged (with [[Petyr Baelish]]) to have Ramsay marry [[Sansa Stark]]. When Baelish and Sansa arrive, Roose greets Sansa with courtesy and she reciprocates, despite knowing he personally killed her brother.{{Ref|GOT503}}
+
+[[File:LittlefingerandRoose.jpg|thumb|left|Roose questions Littlefinger's true motives.]]
+Later, while speaking with Baelish, Roose expresses his doubt as to whose side Baelish is truly on and is visibly concerned with reprisals from Cersei should she find out Sansa is marrying Ramsay, though Baelish assures Roose that the Lannisters have lost a great deal of power in the wake of Tywin's death. Roose reveals that he has read a letter sent for Baelish from Cersei before handing it to him, and demands to read Baelish's reply to Cersei before it is sent off.{{Ref|GOT503}}
+
+While having dinner with Sansa and his family, Roose grows increasingly annoyed with Ramsay when he begins to torture Sansa emotionally by having Reek apologize to her for allegedly murdering Bran and Rickon, and suggesting that Reek give Sansa away at their wedding. Roose turns the tables on Ramsay by revealing that he and Walda are expecting a son. Ramsay later confronts Roose about this, and Roose counters that Ramsay disgraced himself at dinner. He then regales Ramsay with the tale of how he met [[Miller's wife|his mother]], a miller's wife who got married without paying Roose homage. Roose had the miller hanged and raped his wife beneath his swaying corpse, even thought she fought him the whole time. Roose was later visited by this woman carrying Ramsay and claiming he was his son.{{Ref|GOT505}}
+
+[[File:Roose and Ramsay.jpg|thumb|right|Roose and Ramsay plan to counter Stannis's coming attack.]]
+Roose reveals to Ramsay that he very nearly killed both him and his mother, but stayed himself when he realized by looking into Ramsay's eyes that he was his son after all. Ramsay is visibly stunned after hearing all of this from his father. Roose then changes the subject to Stannis Baratheon, who is garrisoned at Castle Black but will surely make another attempt for the Iron Throne, for which he will need to take the North from the Boltons. Roose reminds Ramsay that the North is theirs, and they vow to counter the coming attack on Winterfell.{{Ref|GOT505}}
+
+[[File:506 Roose officiates wedding.jpg|thumb|left|Roose officiates Ramsay's and Sansa's wedding.]]
+A few nights later, Roose officiates Sansa and Ramsay's wedding ceremony in the godswood.{{Ref|GOT506}} As Stannis's army approaches Winterfell, Roose discusses how to retaliate with his council. Roose advocates remaining inside the castle to wait out Stannis's siege, since Stannis's army will break before they run out of supplies. Ramsay, however, suggests that his father meet Stannis in open battle to show him how he will deal with Southern invaders. He asks Roose for "twenty good men" as part of a sabotage mission, one that destroys Stannis's supplies, breaks the morale of his army, and causes his sellswords to desert.{{Ref|GOT508}}
+
+Although Stannis is easily defeated by the Bolton army in the ensuing battle when he reaches Winterfell, it turns out to be a pyrrhic victory for them as Sansa escapes from Winterfell with Theon, stripping Roose of his easily most powerful political asset.{{Ref|GOT510}}
+
+===[[Game of Thrones: Season 6|''Game of Thrones'': Season 6]]===
+[[File:Roose unamoured.png|thumb|right|Roose expresses his frustration at Sansa's escape.]]
+Though Roose congratulates Ramsay for his victory over Stannis Baratheon, he reminds him that they have effectively betrayed the Lannisters by marrying Ramsay to Sansa Stark, who Ramsay allowed to escape. Roose reminds Ramsay that they cannot defend themselves without support from the other Northern houses, who will only do so if they have Sansa, whom Ramsay drove away with his abuse. Ramsay insists that he has men searching for Sansa and Theon, while Roose reminds him that without Sansa, he cannot produce an heir to the North, and subtly warns him that if it comes to be, he will disinherit him in favor of his unborn son with Walda.{{Ref|GOT601}}
+
+[[File:Home 14.jpg|thumb|left|Roose receives Harald Karstark.]]
+Lord [[Harald Karstark]] later informs the Boltons that the hunting party Ramsay sent to find Sansa and Theon has been massacred. Roose chastises Ramsay for his recklessness and is obviously disgusted at Ramsay's suggestion that they attack Castle Black and kill Jon Snow, who may be sheltering them, since the murder of Ned Stark's final, albeit bastard, son in the Night's Watch will serve as the final straw for the other houses who despise them for betraying the Starks.{{Ref|GOT602}}
+
+[[File:Home 15.jpg|thumb|right|Roose is murdered by Ramsay, dying in the same manner as Robb Stark.]]
+Maester Wolkan soon arrives to announce that Walda has given birth to a boy, unsettling Ramsay. Roose says to Ramsay that he will always be remembered and treated as his firstborn child. Ramsay thanks him for saying that but [[Assassinations at Winterfell|fatally stabs]] Roose in the chest, ironically in the same manner in which Roose killed Robb Stark. Ramsay then orders Wolkan to announce that Roose was poisoned by their enemies. Afterwards, he proceeds to have Lady Walda and her [[Roose Bolton's son|newborn son]] mauled to death by his [[Bastard's girls|hounds]].{{Ref|GOT602}}
+
+Following the death of Roose and his son, Ramsay becomes the new [[Lord of Winterfell]], [[Lord of the Dreadfort]], and [[Warden of the North]]. Though the official story of Roose's death is that he was poisoned, few in the North believe it: [[Smalljon Umber]] openly, and accurately, accuses Ramsay of murdering Roose, despite Ramsay insisting otherwise. Due to the North's immense hatred for Roose for his role in the Red Wedding, no other families pledge their banners to Ramsay; [[Harald Karstark]] does it only out of revenge against the Starks for [[Execution|executing]] his father, and [[Smalljon Umber|Smalljon]] in order to defend the North against the [[Free Folk|wildlings]] that [[Jon Snow]] let through the [[Wall]] (unaware that it was merely to protect them from the coming [[White Walkers]]).{{Ref|GOT603}}
+
+Jon Snow, Sansa Stark, Brienne of Tarth, [[Podrick Payne]], [[Eddison Tollett]], and [[Tormund]] Giantsbane all learn of Roose's death in Ramsay's threatening [[Bastard Letter|letter]] to Jon, and Sansa correctly deduces that Ramsay was the culprit.{{Ref|GOT604}}
+
+==Personality==
+{{ReferencesSection}}
+[[File:Roosebolton.jpg|thumb|left|Roose Bolton taunts Jaime Lannister.]]
+Roose Bolton is cautious, intelligent, ruthless, and easily capable of unspeakable cruelty. He has a very calm and calculating personality, never publicly expressing anger, happiness, or sadness. Politically astute, he frequently offered the most pragmatic advice to [[Robb Stark]], albeit the most ruthless, such as recommending that they put prisoners to the sword because they were having difficulty feeding them all. It was Robb's consistent refusal of this advice that drove a wedge between the two. Roose appears to have little sense of honor and, like his son Ramsay, perfectly capable of committing heinous atrocities, such as raping a woman under her husband's corpse. 
+
+Roose was a cunning strategist, both on and off the battlefield. His betrayal was sudden and unexpected, and it resulted in the utter decimation of the rebellious Northern lords and their armies while his own forces remained basically intact. This would allow House Bolton to overpower the now defenseless home territories of these other Houses in the North, ensuring Bolton rule.
+
+Unlike Robb Stark, he believed that he wasn't a lord to indulge his own petty whims and that strengthening his House was his first priority: in that context, he married Walda Frey to guarantee his alliance with House Frey. As a result, Roose was somewhat critical of Ramsay's more wild or shocking actions, because as Roose's only heir, Ramsay represents the future of House Bolton. Roose did enjoy sadistically toying with other people - as seen when he briefly taunted Jaime Lannister that King's Landing might have fallen to Stannis Baratheon - but a major difference between him and Ramsay is that Roose had caution enough to only partake in such amusements when he thinks he can get away with it. Roose was also cautious enough to realize that, despite his success in elevating House Bolton as a [[Great House]] of Westeros, this position is fragile and that only proper alliances would allow him to retain his power. This was the main reason behind his decision to marry Sansa to Ramsay and his willingness to consider an alliance with Littlefinger and the Lords of the Vale after Tywin's death.
+
+Despite his cruelty, he did have some form of affection for his children, and seemed pleased and possibly happy when his new son's birth was announced by Maester Wolkan. He also seemed to care for Ramsay to an extent, but overall mistrusted him.
+
+For all his caution while dealing with his enemies, Roose ironically fails to see the threats to his claim (or even his life) right in front of him. Despite knowing of Ramsay's impulsiveness and insanity, Roose frequently mistreats Ramsay by reminding him of his bastard status and implying that he will disinherit him despite his legitimization by publicly announcing that he is expecting a trueborn child, right in Ramsay's face, all of which ultimately led to Roose's death by his own son's hands. This also somewhat echoes Tywin's fate, as he was also killed by his own son, though Roose's case is more extreme, as he knew what kind of person Ramsay was but made no attempt to protect himself. However, Ramsay's unwillingness to follow Roose's cautious and practical advice ultimately led to his own downfall not long afterward, as well as House Bolton's extinction. In a twisted sense of irony, Roose's actions to elevate House Bolton's status and legacy instead led to its annihilation.
+
+==Quotes==
+===Spoken by Roose===
+{{Quote|A touch of mercy is a virtue, Your Grace; too much...|Roose Bolton to Robb Stark|The Prince of Winterfell}}
+{{Dialogue a-b-a-b-a|Roose Bolton|You've lost a hand.|Locke|No, my lord. (Fiddles with Jaime's severed hand) He has it here.|(Ripping the hand from Jaime's neck) Take this away.|Send it to his father?|You'll hold your tongue unless you want to lose it!|Roose Bolton chides Locke for maiming Jaime Lannister.|Kissed by Fire}}
+{{Dialogue a-b|Jaime Lannister|Lord Bolton, is there word from the capital?|Roose Bolton|You haven't heard? Stannis Baratheon laid siege to King's Landing. Sailed into Blackwater Bay, stormed the gates with thousands of men.....and your sister......oh, how can I put this? Your sister.....(takes a moment to enjoy the dread in Jaime's face).....is alive and well. Your father's forces prevailed. (Jaime falls to his knees in relief).|Roose Bolton emotionally toys with Jaime Lannister.|Kissed by Fire}}
+{{Quote|You're in no place to insist on anything. I would have hoped you'd learned your lesson about overplaying your... position.|Roose Bolton to [[Jaime Lannister]]|The Climb}}
+{{Dialogue a-b|Roose Bolton|You will give my regards to Lord Tywin, I trust?|Jaime Lannister|Tell Robb Stark I'm sorry I couldn't make his uncle's wedding. The Lannisters send their regards.|Roose Bolton and Jaime Lannister.|The Bear and the Maiden Fair (episode)}}
+{{Dialogue a-b-a|Roose Bolton|Lord Walder let me choose any of his granddaughters and promised me the girl's weight in silver as a dowry, so I have a fat young bride.|Catelyn Stark|I hope she makes you very happy.|Well she's made me very rich.|Roose Bolton discusses his [[Walda Bolton|new wife]] at the [[Red Wedding]].|The Rains of Castamere (episode)}}
+{{Quote|The Lannisters send their regards.|Roose Bolton's final words to [[Robb Stark]], as he drives a dagger through his heart.|The Rains of Castamere (episode)}}
+{{Quote|In the end, neither its stone walls nor its tall keeps and iron gates could save Winterfell. At its height, it could have lasted a year under heavy siege, but a handful of Ironborn seized it in the night, while [[Robb Stark|its lord]], the King in the North, was playing in the South. My dagger [[Red Wedding|ended his reign]], and now House Bolton holds the castle of our ancient enemies. The direwolf no longer flies from the battlements above me, nor guards the doors and cornices of Winterfell against me. Below me, miles of long-dead Starks fade into darkness and obscurity until even their faces are lost. Some Northerners whisper that they wait for the day that [[Jon Snow|their house]] will rise again. They will [[Mutiny at Castle Black|wait forever]].....|Roose Bolton about how he finally took Winterfell from the Starks.|Winterfell (Histories & Lore)}}
+{{Quote|The North is larger than the other six kingdoms combined. And I am the Warden of the North. The North is <u>mine</u>.|Roose to [[Ramsay Bolton]]|The Mountain and the Viper}}
+{{Dialogue a-b-a|Roose Bolton|I have something important to tell you. Stop eating and listen. We don't have enough men to hold the North if the other Houses rise up against us, do you understand that?|Ramsay Bolton|But our pact with the Lannisters protects us from.....|I had a pact with Tywin Lannister, and Tywin Lannister is dead. The remaining Lannisters are a thousand miles away dealing with that fact. They've never once in the history of the Seven Kingdoms sent their army this far North. If you think they will for us, you're a fool. We've become a [[Great House]] by entering into alliances with [[House Frey|other]] [[House Lannister|houses]], and piling those alliances into greater power. The ''best'' way to forge a lasting alliance isn't by peeling a man's skin off. The best way is marriage, and now that you're a Bolton by royal decree, it's high time you married a suitable bride, and as it happens, I've found the perfect girl to solidify our hold on the North.|Roose betroths Ramsay to Sansa Stark.|High Sparrow (episode)}}
+{{Dialogue a-b-a-b|Ramsay Bolton|So...how did you manage it?|Roose Bolton|Manage what?|Getting [[Walda Bolton|her]] pregnant.|I imagine you're familiar with the procedure?|Roose to Ramsay|Kill the Boy}}
+{{Quote|You disgraced yourself at dinner. Parading that [[Theon Greyjoy|creature]] before the Stark girl.|Roose to Ramsay|Kill the Boy}}
+{{Dialogue a-b-a|Roose Bolton|You've never asked me about your mother.|Ramsay Bolton|Why would I? She had me, she died. And here we are.|She was a peasant girl, pretty in a common sort of way. She was a miller's wife. Apparently they married without my knowledge or consent. So I had him hanged and I took her beneath the tree where he was swaying. She fought me the whole time. She was lucky I didn't hang her too. A year later she came to my gates with a squalling baby in her arms. A baby she claimed was mine. I nearly had her whipped, and the child thrown to the river. But then I looked at you. And I saw then what I see now. You are my son.|Roose telling Ramsay the story about how he met his [[Miller's wife|mother]].|Kill the Boy}}
+{{Dialogue a-b|Roose Bolton|[[Stannis Baratheon]] has an army at [[Castle Black]] but he won't stay for long. He wants the [[Iron Throne]] and the road to [[King's Landing]] comes right through [[Winterfell]]. He means to take the [[North]] but the North is ours. It's yours and mine. Will you help me defeat him?|Ramsay Bolton|Yes.|Roose to Ramsay|Kill the Boy}}
+{{Dialogue a-b-a|Roose Bolton|A reckoning will come. We need the [[North]] to face it. The entire North. They won't back us without [[Sansa Stark]]. We no longer have Sansa Stark. You played your games with her. You played your games with the [[Theon Greyjoy|heir]] to the [[Iron Islands]] and now they're both gone.|Ramsay Bolton|I have a team of men after them with some of my [[Bastard's girls|best hounds]]. They won't get far.|I'm glad to hear it. Without Sansa, you won't be able to produce an heir. And without an heir, well... let's hope the maesters are right, and [[Walda Bolton|Lady Walda]] is carrying a boy.|Roose chiding Ramsay for Sansa's escape.|The Red Woman}}
+{{Dialogue a-b-a|Roose Bolton|Half a dozen men. Your best hunters.|Ramsay Bolton|They obviously had help.|I didn't think Lady Sansa killed them all by herself.|Roose and Ramsay discuss Sansa's escape.|Home}}
+{{Quote|If you acquire a reputation as a mad dog, you will be treated as a mad dog. Taken out back and slaughtered for pig feed.|Roose chastising Ramsay.|Home}}
+{{Quote|You will always be my firstborn.|Roose disinherits Ramsay, his final act before being murdered.|Home}}
+
+===Spoken about Roose===
+{{Quote|My mother taught me not to throw stones at cripples... but my father taught me, 'aim for their head'!|Ramsay to [[Theon Greyjoy]]|Mhysa}}
+{{Dialogue a-b-a|Stannis Baratheon|Do you know who rules at Winterfell now?|Jon Snow|Roose Bolton.|The traitor who plunged a dagger in Robb Stark's heart.|Jon Snow and Stannis Baratheon.|The Wars To Come}}
+{{Quote|I shall take back the North from the [[House Bolton|thieves]] who stole it. Tywin Lannister is dead. He can't protect them now. I shall mount Roose Bolton's head on a spike.|[[Stannis Baratheon]] to [[Jon Snow]]|The Wars To Come}}
+{{Dialogue a-b|Sansa Stark|His father frightens me.|Petyr Baelish|He should. He's a dangerous man...but even the most dangerous men can be outmaneuvered.|[[Sansa Stark]] discusses Roose Bolton with [[Petyr Baelish]].|Sons of the Harpy (episode)}}
+{{Dialogue a-b-a-b|Jon Snow|Not him.|Samwell Tarly|Then who? I'm sorry, but we need men and supplies. And Roose Bolton is the Warden of the North.|He murdered my brother.|We swore to be the Watchers on the Wall. We can't watch the Wall with 50 men. And we can't get more men without help from the Warden of the North.|[[Jon Snow]] balks but then reluctantly signs a letter requesting aid from his brother's killer.|Sons of the Harpy (episode)}}
+{{Quote|I will skin him and his bastard like that wretch on their bloody sigil!|[[Cersei Lannister]] vows to have Roose and Ramsay flayed after learning they have [[Sansa Stark]].|Unbowed, Unbent, Unbroken}}
+{{Dialogue a-b-a-b|Ramsay Bolton|When my father became Warden of the North, your house refused to pledge their banners.|Smalljon Umber|Your father was a c***.|My beloved father, the Warden...|Your father was a c***, and that's why you killed him.|[[Smalljon Umber]] insults the now deceased Roose.|Oathbreaker}}
+{{Dialogue a-b|Ramsay Bolton|Why would I trust a man who won't honor tradition?|Smalljon Umber|Your father honored tradition. Knelt for Robb Stark. Called him King of the North. Was Robb Stark right to trust your father?|Smalljon reminds Ramsay of his father's [[Red Wedding|betrayal]].|Oathbreaker}}
+{{Dialogue a-b|Jon Snow|Lord of Winterfell and Warden of the North?|Sansa Stark|His father's dead. Ramsay killed him.|Jon Snow and Sansa Stark realize Roose is dead.|Book of the Stranger}}
+
+==Family==
+{{Bolton tree}}
+
+==In the books==
+[[File:Roman Papsuev - Roose Bolton.png|thumb|300px|right|Roose Bolton by Roman "Amok" Papsuev.©]]
+In the ''[[A Song of Ice and Fire]]'' novels, Roose Bolton is noted for his practice of having regular leechings, which he believes improves his health and has earned him the nickname of "the Leech Lord". He is extremely pale skinned, some say due to his leechings. As in the TV series, he is also a teetotaler, refusing wine and ale and drinking only hippocras. Roose intentionally speaks very softly, thus forcing those who listen to do so intently. He's described as being mild mannered, but also cold, calculating, and capable of great cruelty. Several characters describe him as not possessing real human emotions, and he never raises his voice in anger even when frustrated or threatened - instead, he will silently stare intently at whoever offended him, mentally calculating how to destroy them. According to Jaime, Roose's silence is a hundred times more threatening than [[Locke|Vargo Hoat]]'s slobbering malevolence.{{Bookref|ASOS|31}} Theon used to mock Roose's silence during Robb's war councils, but after being held a prisoner in the Dreadfort and after Roose's participation in the betrayal at the Red Wedding, he sees Lord Bolton for what he really is, and notes that one only has to look at Roose to realize that he has more cruelty in his pinky toe than all of the Freys combined.{{Bookref|ADWD|20}} Despite his penchant for cruelty, he's rather discreet about it, thus his personal motto of "a peaceful land, a quiet people."
+
+During [[Robert's Rebellion]], Bolton followed his liege lord Ned Stark and participated in the [[Battle of the Trident]]. After the battle he suggested to [[Robert Baratheon]] that he execute the captured Ser [[Barristan Selmy]], who had fought for the royalist army and had been severely injured. Robert, however, was impressed by Selmy's courage and sent his personal [[Order of Maesters|maester]] to treat him.
+
+Prior to marrying Fat Walda, Roose had two wives. Nothing is known about his first wife (other than that he apparently had no children by her). His second wife was Bethany Ryswell, sister of [[Barbrey Dustin|Lady Dustin]], and mother of Domeric Bolton, who seemingly died from a sickness of the bowels though Roose suspects that Ramsay killed him. Bethany died of a fever two years after her son. Roose does mention in passing once that Domeric actually had brothers (Roose does not mention how many and their names), but they died in the cradle. Bethany is not mentioned in the TV continuity, though the existence of Domeric implies he had at least one wife prior to marrying Walda.
+
+Robb has a very bad feeling about Roose right from the first moment, which he secretly shares with his mother and Bran. Unfortunately, rather than trust his gut feeling and keep Roose close to him, Robb gives him a freedom of action - and that turns to be one of Robb's most serious mistakes.
+
+During the War of the Five Kings, Roose is the commander of the northern forces at the [[battle on the Green Fork]], which differs from the TV series' portrayal of the conflict. Roose Bolton meets [[Tywin Lannister|Tywin]]'s host of 20,000 with a diversionary force of 16,000, retreating in good order after their surprise attack had failed and buying enough time for Robb Stark's success at the [[Battle of Whispering Wood|battle in the Whispering Wood]]. Northern casualties were relatively light, though several of their lords are either killed or captured.
+
+Roose's army, based at the Twins, continues to operate independently of Robb Stark's. When [[Tywin Lannister]] leaves [[Harrenhal]] on his way to [[King's Landing]], Roose quickly marches his army in to occupy the castle after cutting a deal with the Brave Companions. Arya ends up serving Roose as his [[cupbearer]], but is unnerved by his use of regular leechings. She decides to leave the castle incognito instead of revealing her true identity, despite Roose's position as a vassal to her brother.
+
+Near the end of the second novel, several Frey officers consult with Roose about the recent bad news - the [[sack of Winterfell|destruction of Winterfell]], the alleged murder of Bran and Rickon, Stannis's [[battle of the Blackwater|defeat at the Blackwater]] and the formation of the Lannister-Tyrell alliance. The Freys have second thoughts about supporting the Starks, and think that Robb must yield. Roose nonchalantly says that he will think of that; he does not give the Freys even the slightest hint that he has already decided to betray Robb, for the very same reasons.
+
+To weaken the Northern Houses and set up his own push to take over the North, Roose intentionally sends the forces under his command on suicide missions, to kill off as many Stark loyalists as possible:
+*Roose puts about a third of his forces, three thousand men, under the command of [[Robett Glover]] and Ser Helman Tallhart, and sends them on a risky attack against [[Duskendale]] (presumably having outright forewarned the Lannisters via messenger-raven). At Duskendale they are surrounded by a combined Lannister-Tarly force and annihilated; most of the remaining Northern infantry is destroyed in the process, Helman Tallhart is killed, and Robett Glover and [[Harrion Karstark]] are taken captive. The enemies also suffer heavy casualties, but it is a small consolation for Robb, once he hears that he lost one third of his infantry.
+*Roose then retreats his remaining six thousand men from Harrenhal back towards the Twins, intentionally marching his force too slowly, so that when they have to cross the [[Trident]] River at the [[Ruby Ford]]. After the Bolton troops have safely crossed the river, his rearguard is caught out of position on the southern side of the river when the Lannister army led by Ser [[Gregor Clegane]] arrives. Clegane's men slaughter the rearguard, which makes up about one third of the remaining Northerners after Duskendale (roughly two thousand men), and Ser Wylis Manderly is taken captive. 
+*Before continuing to the Twins, Roose leaves behind 600 men, under the command of Ronnel Stout and Ser Kyle Condon, allegedly to prevent the Mountain from crossing the river; it can be assumed Roose's real intention is to decrease the loyal troops Robb will have at his disposal as soon as [[Red Wedding|the massacre]] begins. This move leaves Roose commanding a force of five hundred mounted and three thousand infantry, most of them his personal feudal levies from House Bolton's lands. By sending out the soldiers of other Northern Houses to die ahead of his own, and leaving more soldiers behind, the military strength of the rest of the North is severely crippled while Roose's own Bolton army is virtually unscathed. The surviving force also contains some elements sworn to [[House Karstark]], at a time when the Karstarks have lost their lord to King Robb's justice and thus their loyalty is left in doubt.
+
+Later, at the Twins, Roose claims to Robb that Glover and Tallhart carried out the attack on their own initiative, diverting blame from him and keeping his treachery secret; he also apologizes for marching his troops too slowly to the Ruby Ford, making it sound as an innocent mistake. Unfortunately, Robb believes Roose's lies about both fiascos and does not suspect him at all. He also believes Roose's false version about the [[Sack of Winterfell]], that the ironborn destroyed the castle and killed its occupants, and Ramsay saved the day.
+
+During the Red Wedding, Roose leaves the feast prior to the massacre and returns in full armor leading similarly armed Bolton soldiers - for a split second the surviving Northern bannermen in the hall think he has arrived to help them, but Roose and his men then join the Freys in attacking the other Northerners. After Catelyn's final confrontation with Walder Frey, Roose personally kills Robb Stark by driving his sword through his heart (not simply a dagger as in the TV series). Roose's final words to Robb in the books are "Jaime Lannister sends his regards" instead of "The Lannisters send their regards" as in the TV series - this was the original line in the script, but the slight change was apparently made so viewers would not mistakenly think Jaime had anything to do with the Red Wedding, which he did not.
+
+Another of Roose's customs is to burn not only letters but also entire books as soon as he's finished with them, regardless whether they contain any confidential information or not. Author George R.R. Martin has said that this is meant to be a microcosm of the entire character: Roose is so selfish, calculating, and ruthless that he would destroy a valuable book to preserve the advantage in knowledge it gave him over other people. Roose will destroy any advantage, even ''potential'' advantage, rather than let it continue to exist and run the danger that it might one day aid his enemies.{{Cite}}
+
+In the television series, Roose expresses disgust at Ramsay's suggestion to march on Castle Black and kill Jon Snow, the Lord Commander of the Night's Watch, fearing that this will turn all of the Northern Houses against them. At the end of the fifth book, Ramsay does precisely this, sending a letter to Jon, signing it as the "''Trueborn Lord of Winterfell''", and threatening him with death if his demands are not met. Given Roose's reaction in the television series, this appears to imply that by the end of the fifth book, Ramsay has either written the letter without telling Roose, or he has already killed him "off-page" like how [[Euron Greyjoy]] killed [[Balon Greyjoy]] in ''A Storm of Swords''.
+
+==Gallery==
+<gallery>
+Roose.jpg|Roose Bolton's image in the HBO viewer guide.
+Roose Bolton.jpg|Roose Bolton confers with King Robb in "[[Garden of Bones (episode)|Garden of Bones]]."
+Stark Bannermen.jpg|Robb Stark and his bannermen, among them Roose, in "[[A Man Without Honor]]".
+Roose 2x04.jpg|Promotional image of Roose Bolton.
+Bolton-trolls-Jaime.jpg|Roose toys with Jaime, demonstrating his penchant for emotional cruelty. 
+Roose kills Robb S3 Ep9.jpg|Roose kills Robb in "[[The Rains of Castamere (episode)|The Rains of Castamere]]".
+Roose Psychopath Smile.jpg|Roose's stilted, fake attempt at a smile in "[[Mhysa]]" indicates his lack of real human emotions.
+Roose-Bolton-S4XEP08.png|Roose reveals a royal decree of legitimization to Ramsay.
+Roose Ramsay Kill the Boy.jpg|Roose with [[Ramsay Bolton|Ramsay]] in "[[Kill the Boy]]."
+GOT_S6_06.jpg|Roose and Ramsay in "[[The Red Woman]]".
+Home 15.jpg|Roose is killed by Ramsay in the same manner he killed Robb.
+</gallery>
+
+==Appearances==
+*{{GOT|Garden of Bones}}
+*{{GOT|The Old Gods and the New}}
+*{{GOT|A Man Without Honor}}
+*{{GOT|The Prince of Winterfell}}
+*{{GOT|Valar Dohaeris}}
+*{{GOT|Dark Wings, Dark Words}}
+*{{GOT|Kissed by Fire}}
+*{{GOT|The Climb}}
+*{{GOT|The Bear and the Maiden Fair}}
+*{{GOT|The Rains of Castamere}}
+*{{GOT|Mhysa}}
+*{{H&L|House Bolton}} {{Voice}}
+*{{GOT|The Lion and the Rose}}
+*{{GOT|The Mountain and the Viper}}
+*{{ATGS|Iron From Ice}} {{Ncm}}
+*{{ATGS|The Lost Lords}} {{Ncm}}
+*{{ATGS|The Sword in the Darkness}} {{Ncm}}
+*{{GOT|High Sparrow}}
+*{{GOT|Kill the Boy}}
+*{{GOT|Unbowed, Unbent, Unbroken}}
+*{{ATGS|Sons of Winter}} {{Ncm}}
+*{{GOT|Hardhome}}
+*{{ATGS|A Nest of Vipers}} {{Ncm}}
+*{{H&L|Winterfell}} {{Voice}}
+*{{GOT|The Red Woman}}
+*{{GOT|Home}}
+*{{GOT|Blood of My Blood}} {{Vision}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+*{{HBO|game-of-thrones/cast-and-crew/roose-bolton}}
+*{{WP}}
+
+<!--Succession box-->
+{{S-start}}
+{{Succession box
+ | title  = [[Lord of the Dreadfort]]
+ | years  = ? - [[303 AC]]
+ | with   = 
+ | before = Unknown
+ | after  = [[Ramsay Bolton]]
+}}
+{{Succession box
+ | title  = [[Warden of the North]]
+ | years  = [[300 AC|300]] - [[303 AC]]
+ | with   = 
+ | before = [[Eddard Stark]]
+ | after  = [[Ramsay Bolton]]
+}}
+{{Succession box
+ | title  = [[Lord of Winterfell]]
+ | years  = [[301 AC|301]] - [[303 AC]]
+ | with   = 
+ | before = [[Theon Greyjoy]]
+ | after  = [[Ramsay Bolton]]
+}}
+{{S-end}}
+
+<!--Navboxes-->
+{{House Bolton}}
+{{Game of Thrones}}
+{{Histories & Lore}}
+
+<!--Categories-->
+{{DEFAULTSORT:Bolton, Roose}}
+[[Category:Bannermen of House Baratheon of King's Landing]]
+[[Category:Bannermen of House Stark]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Individuals mentioned in Game of Thrones: A Telltale Games Series]]
+[[Category:Individuals narrating Histories & Lore]]
+[[Category:Lords of the Dreadfort|Roose Bolton]]
+[[Category:Lords of Winterfell]]
+[[Category:Members of House Bolton|Roose Bolton]]
+[[Category:Northmen]]
+[[Category:Turncloaks]]
+[[Category:Wardens of the North]]
+
+<!--Languages-->
+[[de:Roose Bolton]]
+[[es:Roose Bolton/Game of Thrones]]
+[[fr:Roose Bolton]]
+[[it:Roose Bolton]]
+[[nl:Rous Bolten]]
+[[pl:Roose Bolton]]
+[[pt-br:Roose Bolton]]
+[[ro:Roose Bolton (serial)]]
+[[ru:Русе Болтон]]
+[[uk:Рус Боултон]]
+[[zh:卢斯·波顿]]

@@ -1,0 +1,93 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Leftimage  = House Thorne.svg
+| Leftlink   = House Thorne
+| Rightimage = Kingsguard.svg
+| Rightlink  = Kingsguard/House of the Dragon
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Greens
+| Image       = 2x7 Rickard Thorne Infobox.png
+| Birth       = 
+| Death       = 
+| House       = [[House Thorne|Thorne]]
+| Affiliation = [[Kingsguard/House of the Dragon|Kingsguard]]<br>[[Greens]]
+| Titles      = [[Knighthood|Ser]]
+| AKA         = 
+| Culture     = [[Crownlands|Crownlander]]
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 2|2]]
+| Appearances = 6 episodes {{Below|Appearances}}
+| First       = "[[The Burning Mill]]"
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Vincent Regan]]
+}}
+{{Quote|Get the Queens to the wheelhouse!|Ser Rickard Thorne|Smallfolk (episode)}}
+Ser '''Rickard Thorne''' is a [[Knighthood|knight]] of the [[Kingsguard/House of the Dragon|Kingsguard]] of [[Aegon II Targaryen|Aegon II]].
+
+==Biography==
+===Background===
+Rickard is a member of [[House Thorne]], a [[noble house]] from the [[Crownlands]]. After [[Criston Cole|Criston]] is appointed [[Hand of the King]], Rickard becomes [[Alicent Hightower|Alicent]]'s new sworn protector.{{Ref|HOTD203}}
+
+===[[House of the Dragon: Season 2|''House of the Dragon'': Season 2]]===
+Rickard and another Kingsguard escort Alicent to the [[Grand Sept]].{{Ref|HOTD203}}
+
+Rickard opens the door for Grand Maester [[Orwyle]] when the latter arrives with Alicent's [[moon tea]].{{Ref|HOTD204}}
+
+Rickard stands guard as the [[Order of Maesters|maesters]] work to heal the gravely wounded [[Aegon II Targaryen|Aegon]].{{Ref|HOTD205}}
+[[File:OT2 Alicent & Kingsguard 2.png|thumb|250px|Ser Rickard escorts Alicent away from the crowds. ]]
+Rickard is on attendance to Alicent and Queen [[Helaena Targaryen]], praying at the Grand Sept, when a [[Riot in King's Landing|riot]] erupts close by, caused by public anger at food shortages due to the [[Velaryon fleet]]'s [[blockade of the Gullet]] and support for Rhaenyra amongst the smallfolk after she despatched shipments of food from Dragonstone to help the starving populace. Rickard ushers the queens from the sept back to their wheelhouse, but when his fellow Kingsguard [[Leon Estermont]] hacks the hand off a man reaching for Alicent, the outraged crowd's mood turns violent. Rickard, at Alicent's command, orders his fellow Kingsguard to sheathe their swords in a futile effort to avoid enraging the mob further, and puts himself between Alicent, Helaena and the crowd, leaving his fellow Kingsguards Estermont, [[Martyn Reyne]], and [[Eddard Waters]] to be surrounded and torn apart by the mob. Having secured Alicent and Helaena in the royal wheelhouse, Rickard orders the driver to get them back to the [[Red Keep]].{{Ref|HOTD206}}
+
+Rickard accompanies Alicent to the [[Kingswood]] as she contemplates how her life turned out.{{Ref|HOTD207}}
+
+Rickard informs Alicent and Helaena of [[Aemond Targaryen|Aemond]]'s return from [[Sharp Point]].{{Ref|HOTD208}}
+
+==Behind the scenes==
+On December 2, 2023, [[HBO]] announced that [[Vincent Regan]] had been cast in the role of Ser Rickard Thorne for [[House of the Dragon: Season 2|''House of the Dragon'': Season 2]].{{Webref|name=WBD |author=HBO |date=December 2, 2023 |url=https://press.wbd.com/us/media-release/hbo-0/house-dragon/hbo-releases-official-teaser-and-first-look-images-season-two-original-drama-series |title=HBO Releases Official Teaser And First Look Images For Season Two Of Original Drama Series HOUSE OF THE DRAGON |website=Warner Bros. Discovery |access-date=December 17, 2023 }} His character description reads as follows:
+:''"A member of Aegon II’s Kingsguard."''{{Webref|name=WBD2 |author=Unknown author |date=Unknown date |url=https://press.wbd.com/us/bio/house-dragon-s2-character-descriptions |title=House of the Dragon S2 <nowiki>|</nowiki> Character Descriptions |website=Warner Bros. Discovery |access-date=June 5, 2024 }}
+
+==In the books==
+In ''[[Fire & Blood]]'', Rickard also served under [[Viserys I Targaryen|Viserys I]].{{Bookref|F&B|13}}
+
+==Appearances==
+*{{HOTD|The Burning Mill}}
+*{{HOTD|The Red Dragon and the Gold}}
+*{{HOTD|Regent}}
+*{{HOTD|Smallfolk}}
+*{{HOTD|The Red Sowing}}
+*{{HOTD|The Queen Who Ever Was}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{House Thorne/House of the Dragon}}
+{{House Targaryen/House of the Dragon}}
+{{Kingsguard of Aegon II Targaryen}}
+
+<!--Categories-->
+{{DEFAULTSORT:Thorne, Rickard}}
+[[Category:Crownlanders]]
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Kingsguard of Aegon II Targaryen]]
+[[Category:Knights]]
+[[Category:Members of House Thorne|Rickard Thorne]]
+
+<!--Languages-->
+[[fr:Rickard Thorne]]
+[[pl:Rickard Thorne]]
+[[ru:Рикард Торн]]
+[[uk:Рікард Торн]]

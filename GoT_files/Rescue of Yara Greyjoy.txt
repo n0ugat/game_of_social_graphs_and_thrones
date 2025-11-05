@@ -1,0 +1,72 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Thrones
+| Part          = the [[Last War]]
+| Image         = S8 Ep 1 Theon & Yara.jpg
+| Previous      = [[Breaching of the Wall]]
+| Concurrent    = 
+| Next          = [[Fall of Last Hearth]] <small>([[Great War]])</small><br>[[Retaking of the Iron Islands]]<br><small>([[Last War]])</small>
+| Date          = [[305 AC]]{{Dateref|Game of Thrones: Season 8}}
+| Place         = The ''[[Silence]]'', [[Blackwater Bay]]
+| Outcome       = [[Yara Greyjoy]] is rescued from [[Euron Greyjoy]]'s custody
+*Subsequent separation of [[Yara Greyjoy|Yara]] and [[Theon Greyjoy]] in preparation for the [[Great War]]
+| Factions1     = {{COA|House Greyjoy|small}} [[House Greyjoy]]<br><small>([[Euron Greyjoy|Euron]]'s faction)</small>
+| Factions2     = {{COA|House Greyjoy|small}} [[House Greyjoy]]<br><small>([[Yara Greyjoy|Yara]]'s faction)</small>
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = {{COA|Euron Greyjoy|inline}} [[King of the Iron Islands|King]] [[Euron Greyjoy]]
+| Leaders2      = {{COA|House Greyjoy|inline}} [[Prince]] [[Theon Greyjoy]]
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = [[Ironborn]] sailors and warriors loyal to Euron
+| Participants2 = [[Ironborn]] sailors and warriors loyal to Yara and Theon
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = Minimal
+| Casualties2   = None
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Quote|All of us chose to follow Yara. We left the Iron Islands for Yara. She would never leave one of us behind. We're not leaving her behind.|[[Theon Greyjoy]]|The Dragon and the Wolf}}
+The '''rescue of Yara Greyjoy''' took place during the [[Last War]] when [[Theon Greyjoy]] set out to rescue his sister [[Yara Greyjoy|Yara]], self-proclaimed [[King of the Iron Islands|Queen of the Iron Islands]], from their uncle [[Euron Greyjoy|Euron]], the [[King]] of the [[Iron Islands]] and an ally of [[Cersei Lannister]].
+
+==History==
+===Prelude===
+{{Quote|Not for me. For Yara!|Theon, after rallying Yara's remaining loyalists|The Dragon and the Wolf}}Near the end of the [[War of the Five Kings]], [[Balon Greyjoy]], who had declared himself [[King of the Iron Islands]], was [[Assassination of Balon Greyjoy|assassinated]] and replaced by his brother [[Euron Greyjoy]]. Yara, Theon, and their loyalists stole 100 of the best ships of the [[Iron Fleet]] and fled the [[Iron Islands]], and made a pact with [[Daenerys Targaryen]].<ref>"[[Battle of the Bastards (episode)|Battle of the Bastards]]"</ref>
+
+During the [[Last War]], while Yara and Theon were sailing the [[Dornishmen|Dornish]] back to [[Dorne]], their fleet was suddenly [[Assault on the Targaryen fleet|assaulted]] by the Iron Fleet led by Euron. Theon escaped, and Yara was captured by Euron.<ref>"[[Stormborn]]"</ref>
+
+===The rescue===
+[[File:801 Silence Incursion.png|thumb|right|Theon and his men secure the deck of the ''Silence''.]]
+While Euron is in the [[Red Keep]] with [[Cersei Lannister|Cersei]], Theon and his men sneaks aboard the ''[[Silence]]''. They kill some of Euron's men and make their way to where Yara is being held captive, tied to a post. Theon kills the guard at the door with an axe and cuts her free. Yara knocks him to the ground for abandoning her before, but helps him back up for rescuing her. Together with their men, they escape the ''Silence''.<ref name="E68">"[[Winterfell (Game of Thrones)|Winterfell]]"</ref>
+
+===Aftermath===
+[[File:801 Yara's Fleet.png|thumb|right|The Greyjoy siblings sail towards the Iron Islands.]]
+Yara wants to sail to the Iron Islands and take them back from Euron, as this will give Daenerys somewhere to retreat to should the [[North]] fall, but Theon decides to go to [[Winterfell]], to help [[House Stark]]. Yara, as Theon's older sister and queen, consents to this, and the two exchange the saying "what is dead may never die" before embracing.<ref name="E68"/>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' books, no equivalent event has occurred; currently, Theon and Asha (Yara's name in the books) are held captive by [[Stannis Baratheon|Stannis]]. Euron - who does not care what has become of his niece and nephew - holds [[Aeron Greyjoy|Aeron]] captive in his ship, and it seems the latter has no hope of escape.
+
+[[Game of Thrones: Season 8|Season 8]] of ''[[Game of Thrones]]'' has surpassed the published books, so it is unclear if any similar event will occur in either of the remaining two books, ''The Winds of Winter'' and ''A Dream of Spring''.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{Last War}}
+
+<!--Categories-->
+[[Category:305 AC]]
+[[Category:Battles]]
+[[Category:Last War]]
+
+<!--Languages-->
+[[de:Befreiung von Asha Graufreud]]
+[[fr:Sauvetage de Yara Greyjoy]]
+[[ru:Освобождение Яры Грейджой]]

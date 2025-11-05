@@ -1,0 +1,28 @@
+{{Crew
+|Image = Richard Dwyer.jpg
+|dateofbirth = {{WPS|June 22}}, {{WPS|1977}}
+|birthplace = {{WPS|London}}, {{WPS|England}}, {{WPS|United Kingdom}}
+|job = Stunt Performer
+|imdb = https://www.imdb.com/name/nm0245533/
+|twitter = https://twitter.com/richard_dwyer/}}
+'''Richard Dwyer''' (born June 22, 1977) is an English stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 2|second season]] episodes "[[The Prince of Winterfell]]" and "[[Blackwater]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 2||||||||yes|yes}}
+
+==See also==
+*{{IMDb
+|# = 0245533}}
+*{{Twitter
+|# = richard_dwyer}}
+*{{Facebook
+|# = FlairGymnastics}}
+*{{YouTube
+|# = channel/UCUevC8azWGCwNAN5EQ-j-6g}}
+*{{Linkedin
+|# = /in/richard-dwyer}}
+{{DEFAULTSORT:Dwyer, Richard}}
+[[Category:Stunt performers of Game of Thrones]]

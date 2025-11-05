@@ -1,0 +1,33 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Bloodmoon
+| Image   = Rosy McEwen.jpg
+| Birth   = London, England, United Kingdom
+| Death   = 
+| Role    = [[Ianthe Casterly]]
+| Series  = ''[[Bloodmoon]]'' {{Rejected}}
+| Season  = 
+| Credits = [[Pilot (Bloodmoon)|Pilot]] {{Unreleased}}
+| First   = 
+| Last    = 
+}}
+'''Rosy McEwen''' is an English actress. She has appeared in the films ''{{WPS|Vesper (film)|Vesper}}'' and ''{{WPS|Blue Jean (film)|Blue Jean}}'' and the television series ''{{WPS|The Alienist (TV series)|The Alienist}}'', ''{{WPS|Close to Me (TV series)|Close to Me}}'' and ''{{WPS|Apartment 7A}}''.
+
+She portrayed [[Ianthe Casterly]] in the [[Pilot (Bloodmoon)|pilot]] of ''[[Bloodmoon]]''.{{Webref|name=Ianthe |author=Wake the Dragon |date=February 18, 2024 |url=https://twitter.com/WtDasoiaf/status/1759431208776143064 |title=Rosy McEwen as the Casterly princess Ianthe on set in Italy in 2019! |website=X |access-date=February 19, 2024 }}
+
+==See also==
+*{{WP}}
+*{{IMDb|# = 10538218}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{Bloodmoon}}
+
+<!--Categories-->
+{{DEFAULTSORT:McEwen, Rosy}}
+[[Category:Cast members of the pilot of Bloodmoon]]
+
+<!--Languages-->
+[[de:Rosy McEwen]]

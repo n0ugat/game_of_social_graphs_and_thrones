@@ -1,0 +1,34 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Sebastian Croft.jpg
+| Birth   = Sebastian Theodore Croft<br>December 16, 2001 {{Age|2001|12|16}}<br>Oxford, England
+| Death   = 
+| Role    = Young [[Eddard Stark]]
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 6|6]]
+| Credits = 2 episodes {{Below|Credits}}
+| First   = "[[Home]]"
+| Last    = "[[The Door]]"
+}}
+'''Sebastian Theodore Croft''' is an English actor.
+
+In ''[[Game of Thrones]]'', he portrayed a young [[Eddard Stark]] in the [[Game of Thrones: Season 6|sixth season]].<ref>[http://watchersonthewall.com/young-ned-cast-sources-report Watchers on the Wall — Young Ned cast, sources report!]</ref>
+
+After being cast as young Ned Stark in Season 6, to prepare for the role Croft's brother lent him the Blu-ray box sets of Seasons 1 to 5, and he binge-watched all 50 episodes in 10 days.<ref>[http://www.prensa.com/in_english/Sebastian-Crof-joven-Ned-Stark_21_4494510506.html#.V1CYTrkRyEU.twitter]</ref>
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 6||yes|||yes}}
+
+==See also==
+*{{IMDb|# = 7509185}}
+*{{Twitter|# = SebastianCroft}}
+*{{Instagram|# = sebastiancroft}}
+
+==References==
+{{reflist}}
+[[de:Sebastian Croft]]
+[[fr:Sebastian Croft]]
+{{DEFAULTSORT:Croft, Sebastian}}
+[[Category:Guest starring cast members of Game of Thrones]]

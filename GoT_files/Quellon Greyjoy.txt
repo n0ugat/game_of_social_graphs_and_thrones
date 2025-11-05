@@ -1,0 +1,76 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Greyjoy.svg
+| Link  = House Greyjoy
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Greyjoy
+| Image       = Quellon-Greyjoy.png
+| Birth       = At [[Pyke]]
+| Death       = [[281 AC]]{{Dateref|Robert's Rebellion}} at the mouth of the [[Mander]]<br>Drowned during a [[battle at the Mander]]
+| House       = [[House Greyjoy|Greyjoy]]
+| Affiliation = [[House Targaryen]] {{C|formerly}}
+| Titles      = [[Lord of the Iron Islands]]<br>[[King of Salt and Rock]]<br>[[Son of the Sea Wind]]<br>[[Lord Reaper of Pyke]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Ironborn]]
+| Religion    = [[Drowned God]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = {[[Balon Greyjoy]]}<br>{[[Euron Greyjoy]]}<br>{[[Aeron Greyjoy]]}
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|My father Quellon was old, and sitting is what old people do best... well, second best. He would have sat out the whole war if not for my brother and me.|[[Euron Greyjoy]]|The Greyjoy Rebellion}}
+Lord '''Quellon Greyjoy''' was the [[Lord of the Iron Islands]] during the reign of [[King of the Andals and the Rhoynar and the First Men|King]] [[Aerys II Targaryen]]. He had three sons: [[Balon Greyjoy|Balon]], [[Euron Greyjoy|Euron]], and [[Aeron Greyjoy|Aeron]].
+
+==Biography==
+During [[Robert's Rebellion]], Quellon's sons Balon and Euron urged him to join the war. He sided with the rebels and sailed to the [[Reach]], where he died in [[Battle at the Mander|battle]] against [[House Tyrell|Tyrell]] [[Ships|longships]]. After his death, Balon became Lord of the Iron Islands and pulled out of the war.{{Ref|H&L802}}
+
+==In the books==
+In ''[[A Song of Ice and Fire]]'' novels, Quellon was married three times and had nine sons and one stillborn daughter. His sons were named Harlon, Quenton, Donel, Balon, Euron, Victarion, Urrigon, Aeron, and Robin.
+
+Quellon has been considered one of the wisest of the Greyjoys. He stood six and a half feet tall, and was both strong and fast.
+
+According to ''The World of Ice & Fire'', Quellon fought corsairs and slavers in the [[Summer Sea]] as a young man and commanded a fleet of a hundred longships in the [[War of the Ninepenny Kings]]. Quellon once attacked the Farman fleet and sacked [[Faircastle]].
+
+Quellon was opposed to the [[Old Way]], and tried to assimilate the [[ironborn]] into [[Andals|Andal]] culture by freeing [[thrall]]s, forbidding most reaving, discouraging the taking of [[salt wife|salt wives]], encouraging [[marriage]] alliances with the [[Westeros|mainland]], and bringing [[Order of Maesters|maesters]] to the Isles.
+
+Quellon was succeeded by Balon, his eldest surviving son. Balon rejected most of his father's reforms, and his desire to return to the Old Way led to the [[Greyjoy Rebellion]].
+
+==Appearances==
+*{{H&L|The Greyjoy Rebellion}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Greyjoy}}
+
+<!--Categories-->
+{{DEFAULTSORT:Greyjoy, Quellon}}
+[[Category:Bannermen of House Targaryen]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Ironborn]]
+[[Category:Lords of the Iron Islands|Quellon Greyjoy]]
+[[Category:Lords Reaper of Pyke|Quellon Greyjoy]]
+[[Category:Members of House Greyjoy|Quellon Greyjoy]]
+
+<!--Languages-->
+[[ru:Квеллон Грейджой]]

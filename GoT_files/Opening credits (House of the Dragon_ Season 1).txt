@@ -1,0 +1,599 @@
+{{DISPLAYTITLE:Opening credits {{C|''House of the Dragon'': Season 1}}}}
+The '''opening credits''' of [[House of the Dragon: Season 1|''House of the Dragon'': Season 1]] introduce each episode starting with "[[The Rogue Prince]]," the second episode.<ref>[https://www.etonline.com/house-of-the-dragon-eps-explain-why-the-premiere-didnt-have-a-main-title-sequence-189408]</ref>
+
+==Description==
+[[File:Title card (House of the Dragon S1).png|thumb|right|200px|The ''House of the Dragon'' title card.]]
+The opening credits for ''House of the Dragon'' shares the same aesthetic as that of its predecessor ''[[Game of Thrones]]''. Instead of an entire map of [[Westeros]], however, this sequence revolves entirely around a scale model of [[Old Valyria]]'s capital city - a model which is featured prominently in the show itself. A stream of blood flows through the city streets while the camera follows its progress, branching off at various junctures to form a family tree of [[House Targaryen/House of the Dragon|House Targaryen]]. Individual family members are represented by cogwheels, a feature borrowed from the ''Game of Thrones'' opening credits. Each cogwheel bears a token, an item of some significance to the individual character it symbolizes. When a character dies in the show, blood flows into their cogwheel and floods it, to represent them being blotted off the family tree. The ''Game of Thrones'' theme music by [[Ramin Djawadi]] also returns.
+
+The original opening credits are overhauled for the [[House of the Dragon: Season 2|second season]], replaced by the [[Opening credits (House of the Dragon: Season 2)|weaving of a tapestry of Targaryen family history]].{{Webref|name=RS |author=Alan Sepinwall |date=June 6, 2024 |url=https://www.rollingstone.com/tv-movies/tv-movie-reviews/house-of-the-dragon-season-2-review-1235033109/ |title=‘House of the Dragon’ Season 2 Repeats Same Thrills — and Mistakes — as Season 1 |website=Rolling Stone |access-date=June 7, 2024 }}
+
+==Characters featured==
+{| {{Table|Season}}
+|-
+! colspan="4" | Legend
+|-
+| ●
+| Character is alive and appears in the opening credits with a close-up
+| rowspan="3" style="background:#32CD32;" |
+| rowspan="3" | Character appears in the episode
+|-
+| ·
+| Character is alive and appears in the opening credits without a close-up
+|-
+| style="color:#BF0000;" | ●
+| Character is deceased and appears in the opening credits with a close-up
+|-
+| style="color:#BF0000;" | ·
+| Character is deceased and appears in the opening credits without a close-up
+| rowspan="2" style="background:#bbbbbb;" |
+| rowspan="2" | Character does not appear in the episode
+|-
+| 
+| Character does not appear in the opening credits
+|}
+
+===Season 1===
+{| {{Table|Season}}
+|- "
+! rowspan="2" | Character
+! colspan="11" | Episodes
+|-
+! [[The Rogue Prince|2]]
+! [[Second of His Name|3]]
+! [[King of the Narrow Sea (episode)|4]]
+! [[We Light the Way|5]]
+! [[The Princess and the Queen|6]]
+! [[Driftmark (episode)|7]]
+! [[The Lord of the Tides|8]]
+! [[The Green Council|9]]
+! [[The Black Queen|10]]
+! data-sort-type="number" | Total<br>{{C|appearances}}
+! data-sort-type="number" | Total<br>{{C|close-ups}}
+|-
+| data-sort-value="Targaryen, Aegon I" | [[Aegon I Targaryen]]
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| 9
+| 9
+|-
+| data-sort-value="Targaryen, Visenya" | [[Visenya Targaryen]]
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| 9
+| 9
+|-
+| data-sort-value="Targaryen, Rhaenys" | [[Rhaenys Targaryen (sister of Aegon I)|Rhaenys Targaryen]]
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| 9
+| 9
+|-
+| data-sort-value="Targaryen, Aenys" | [[Aenys Targaryen]]
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| style="background:#bbbbbb;color:#BF0000;" | ● 
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| 9
+| 9
+|-
+| data-sort-value="Targaryen, Aegon" | [[Aegon Targaryen (son of Aenys)|Aegon Targaryen]]
+| style="background:#bbbbbb;color:#BF0000;" | ·
+| style="background:#bbbbbb;color:#BF0000;" | ·
+| style="background:#bbbbbb;color:#BF0000;" | ·
+| style="background:#bbbbbb;color:#BF0000;" | ·
+| style="background:#bbbbbb;color:#BF0000;" | ·
+| style="background:#bbbbbb;color:#BF0000;" | ·
+| style="background:#bbbbbb;color:#BF0000;" | ·
+| style="background:#bbbbbb;color:#BF0000;" | ·
+| style="background:#bbbbbb;color:#BF0000;" | ·
+| 9
+| 0
+|-
+| data-sort-value="Targaryen, Jaehaerys I" | [[Jaehaerys I Targaryen]]
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| 9
+| 9
+|-
+| data-sort-value="Targaryen, Alysanne" | [[Alysanne Targaryen]]
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| 9
+| 9
+|-
+| data-sort-value="Targaryen, Baelon" | [[Baelon Targaryen (son of Jaehaerys I)|Baelon Targaryen]]
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| 9
+| 9
+|-
+| data-sort-value="Targaryen, Alyssa" | [[Alyssa Targaryen]]
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| style="background:#bbbbbb;color:#BF0000;" | ●
+| 9
+| 9
+|-
+| data-sort-value="Targaryen, Rhaenys" | [[Rhaenys Targaryen]]
+| style="background:#32CD32;" | ·
+| style="background:#bbbbbb;" | ·
+| style="background:#bbbbbb;" | ·
+| style="background:#32CD32;" | ·
+| style="background:#bbbbbb;" | 
+| style="background:#32CD32;" | 
+| style="background:#32CD32;" | 
+| style="background:#32CD32;" | ·
+| style="background:#32CD32;" | ·
+| 6
+| 0
+|-
+| data-sort-value="Velaryon, Corlys" | [[Corlys Velaryon]]
+| style="background:#32CD32;" | ·
+| style="background:#32CD32;" | ·
+| style="background:#bbbbbb;" | ·
+| style="background:#32CD32;" | ·
+| style="background:#bbbbbb;" | 
+| style="background:#32CD32;" | 
+| style="background:#bbbbbb;" | 
+| style="background:#bbbbbb;" | ·
+| style="background:#32CD32;" | ·
+| 6
+| 0
+|-
+| data-sort-value="Targaryen, Viserys I" | [[Viserys I Targaryen]]
+| style="background:#32CD32;" | ●
+| style="background:#32CD32;" | ● 
+| style="background:#32CD32;" | ●
+| style="background:#32CD32;" | ●
+| style="background:#32CD32;" | 
+| style="background:#32CD32;" | 
+| style="background:#32CD32;" | 
+| style="background:#32CD32;color:#BF0000" | ●
+| style="background:#bbbbbb;color:#BF0000" | ●
+| 6
+| 6
+|-
+| data-sort-value="Arryn, Aemma" | [[Aemma Arryn]]
+| style="background:#bbbbbb;color:#BF0000" | ●
+| style="background:#bbbbbb;color:#BF0000" | ●
+| style="background:#bbbbbb;color:#BF0000" | ●
+| style="background:#bbbbbb;color:#BF0000" | ●
+| style="background:#bbbbbb;" | 
+| style="background:#bbbbbb;" | 
+| style="background:#bbbbbb;" | 
+| style="background:#bbbbbb;color:#BF0000" | ·
+| style="background:#bbbbbb;color:#BF0000" | ·
+| 6
+| 4
+|-
+| data-sort-value="Florent, Alyrie" | [[Alyrie Florent]]
+| style="background:#bbbbbb;color:#BF0000" | ·
+| style="background:#bbbbbb;color:#BF0000" | ·
+| style="background:#bbbbbb;color:#BF0000" | ·
+| style="background:#bbbbbb;color:#BF0000" | ·
+| style="background:#bbbbbb;color:#BF0000" | ·
+| style="background:#bbbbbb;color:#BF0000" | ·
+| style="background:#bbbbbb;color:#BF0000" | ·
+| style="background:#bbbbbb;color:#BF0000" | ·
+| style="background:#bbbbbb;color:#BF0000" | ·
+| 9
+| 0
+|-
+| data-sort-value="Hightower, Otto" | [[Otto Hightower]]
+| style="background:#32CD32;" | ·
+| style="background:#32CD32;" | ·
+| style="background:#32CD32;" | ·
+| style="background:#32CD32;" | ·
+| style="background:#bbbbbb;" | ·
+| style="background:#32CD32;" | ·
+| style="background:#32CD32;" | ·
+| style="background:#32CD32;" | ·
+| style="background:#32CD32;" | ·
+| 9
+| 0
+|-
+| data-sort-value="Hightower, Alicent" | [[Alicent Hightower]]
+| style="background:#32CD32;" | ·
+| style="background:#32CD32;" | ·
+| style="background:#32CD32;" | ·
+| style="background:#32CD32;" | ·
+| style="background:#32CD32;" | ·
+| style="background:#32CD32;" | ·
+| style="background:#32CD32;" | ·
+| style="background:#32CD32;" | ●
+| style="background:#bbbbbb;" | ●
+| 9
+| 2
+|-
+| data-sort-value="Targaryen, Rhaenyra" | [[Rhaenyra Targaryen]]
+| style="background:#32CD32;" | ●
+| style="background:#32CD32;" | ●
+| style="background:#32CD32;" | ●
+| style="background:#32CD32;" | ●
+| style="background:#32CD32;" | ●
+| style="background:#32CD32;" | ●
+| style="background:#32CD32;" | ●
+| style="background:#bbbbbb;" | ·
+| style="background:#32CD32;" | ·
+| 9
+| 7
+|-
+| data-sort-value="Targaryen, Daemon" | [[Daemon Targaryen]]
+| style="background:#32CD32;" | ·
+| style="background:#32CD32;" | ·
+| style="background:#32CD32;" | ·
+| style="background:#32CD32;" | ·
+| style="background:#32CD32;" | ●
+| style="background:#32CD32;" | ●
+| style="background:#32CD32;" | ●
+| style="background:#bbbbbb;" | ·
+| style="background:#32CD32;" | ·
+| 9
+| 3
+|-
+| data-sort-value="Velaryon, Laena" | [[Laena Velaryon]]
+| style="background:#32CD32;" | ·
+| style="background:#bbbbbb;" | ·
+| style="background:#bbbbbb;" | ·
+| style="background:#32CD32;" | ·
+| style="background:#32CD32;" | ●
+| style="background:#bbbbbb;color:#BF0000" | ●
+| style="background:#bbbbbb;color:#BF0000" | ●
+| style="background:#bbbbbb;color:#BF0000" | ·
+| style="background:#bbbbbb;color:#BF0000" | ·
+| 9
+| 3
+|-
+| data-sort-value="Targaryen, Baela" | [[Baela Targaryen]]
+| style="background:#bbbbbb;" | 
+| style="background:#bbbbbb;" | 
+| style="background:#bbbbbb;" | 
+| style="background:#bbbbbb;" | 
+| style="background:#32CD32;" | ●
+| style="background:#32CD32;" | ●
+| style="background:#32CD32;" | ●
+| style="background:#bbbbbb;" | 
+| style="background:#32CD32;" | 
+| 3
+| 3
+|-
+| data-sort-value="Targaryen, Rhaena" | [[Rhaena Targaryen]]
+| style="background:#bbbbbb;" | 
+| style="background:#bbbbbb;" | 
+| style="background:#bbbbbb;" | 
+| style="background:#bbbbbb;" | 
+| style="background:#32CD32;" | ●
+| style="background:#32CD32;" | ●
+| style="background:#32CD32;" | ●
+| style="background:#bbbbbb;" | 
+| style="background:#32CD32;" | 
+| 3
+| 3
+|-
+| data-sort-value="Strong, Harwin" | [[Harwin Strong]]
+| style="background:#bbbbbb;" | 
+| style="background:#32CD32;" | 
+| style="background:#32CD32;" | 
+| style="background:#32CD32;" | 
+| style="background:#32CD32;" | ·
+| style="background:#bbbbbb;color:#BF0000" | ·
+| style="background:#bbbbbb;color:#BF0000" | · 
+| style="background:#bbbbbb" | 
+| style="background:#bbbbbb" | 
+| 3
+| 0
+|-
+| data-sort-value="Velaryon, Jacaerys" | [[Jacaerys Velaryon]]
+| style="background:#bbbbbb;" | 
+| style="background:#bbbbbb;" | 
+| style="background:#bbbbbb;" | 
+| style="background:#bbbbbb;" | 
+| style="background:#32CD32;" | ●
+| style="background:#32CD32;" | ●
+| style="background:#32CD32;" | ●
+| style="background:#bbbbbb;" | 
+| style="background:#32CD32;" | 
+| 3
+| 3
+|-
+| data-sort-value="Velaryon, Lucerys" | [[Lucerys Velaryon]]
+| style="background:#bbbbbb;" | 
+| style="background:#bbbbbb;" | 
+| style="background:#bbbbbb;" | 
+| style="background:#bbbbbb;" | 
+| style="background:#32CD32;" | ●
+| style="background:#32CD32;" | ●
+| style="background:#32CD32;" | ●
+| style="background:#bbbbbb;" | 
+| style="background:#32CD32;" | 
+| 3
+| 3
+|-
+| data-sort-value="Velaryon, Joffrey" | [[Joffrey Velaryon]]
+| style="background:#bbbbbb;" | 
+| style="background:#bbbbbb;" | 
+| style="background:#bbbbbb;" | 
+| style="background:#bbbbbb;" | 
+| style="background:#32CD32;" | ●
+| style="background:#bbbbbb;" | ●
+| style="background:#32CD32;" | ●
+| style="background:#bbbbbb;" | 
+| style="background:#32CD32;" | 
+| 3
+| 3
+|-
+| data-sort-value="Targaryen, Aegon II" | [[Aegon II Targaryen]]
+| style="background:#bbbbbb;" | 
+| style="background:#32CD32;" | 
+| style="background:#bbbbbb;" | 
+| style="background:#bbbbbb;" | 
+| style="background:#32CD32;" | 
+| style="background:#32CD32;" | 
+| style="background:#32CD32;" | 
+| style="background:#32CD32;" | ●
+| style="background:#bbbbbb;" | ●
+| 2
+| 2
+|-
+| data-sort-value="Targaryen, Helaena" | [[Helaena Targaryen]]
+| style="background:#bbbbbb;" | 
+| style="background:#bbbbbb;" | 
+| style="background:#32CD32;" | 
+| style="background:#bbbbbb;" | 
+| style="background:#32CD32;" | 
+| style="background:#32CD32;" | 
+| style="background:#32CD32;" | 
+| style="background:#32CD32;" | ●
+| style="background:#bbbbbb;" | ●
+| 2
+| 2
+|-
+| data-sort-value="Targaryen, Aemond" | [[Aemond Targaryen]]
+| style="background:#bbbbbb;" | 
+| style="background:#bbbbbb;" | 
+| style="background:#bbbbbb;" | 
+| style="background:#bbbbbb;" | 
+| style="background:#32CD32;" | 
+| style="background:#32CD32;" | 
+| style="background:#32CD32;" | 
+| style="background:#32CD32;" | ●
+| style="background:#32CD32;" | ●
+| 2
+| 2
+|-
+| data-sort-value="Targaryen, Daeron" | [[Daeron Targaryen]]
+| style="background:#bbbbbb;" | 
+| style="background:#bbbbbb;" | 
+| style="background:#bbbbbb;" | 
+| style="background:#bbbbbb;" | 
+| style="background:#bbbbbb;" | ·
+| style="background:#bbbbbb;" | ·
+| style="background:#bbbbbb;" | ·
+| style="background:#bbbbbb;" | ●
+| style="background:#bbbbbb;" | ●
+| 5
+| 2
+|-
+| data-sort-value="Targaryen, Jaehaerys" | [[Jaehaerys Targaryen (son of Aegon II)|Jaehaerys Targaryen]]
+| style="background:#bbbbbb;" | 
+| style="background:#bbbbbb;" | 
+| style="background:#bbbbbb;" | 
+| style="background:#bbbbbb;" | 
+| style="background:#bbbbbb;" | 
+| style="background:#bbbbbb;" | 
+| style="background:#bbbbbb;" | 
+| style="background:#32CD32;" | ●
+| style="background:#bbbbbb;" | ●
+| 2
+| 2
+|-
+| data-sort-value="Targaryen, Jaehaera" | [[Jaehaera Targaryen]]
+| style="background:#bbbbbb;" | 
+| style="background:#bbbbbb;" | 
+| style="background:#bbbbbb;" | 
+| style="background:#bbbbbb;" | 
+| style="background:#bbbbbb;" | 
+| style="background:#bbbbbb;" | 
+| style="background:#bbbbbb;" | 
+| style="background:#32CD32;" | ●
+| style="background:#bbbbbb;" | ●
+| 2
+| 2
+|-
+| data-sort-value="Targaryen, Maelor" | [[Maelor Targaryen]]
+| style="background:#bbbbbb;" | 
+| style="background:#bbbbbb;" | 
+| style="background:#bbbbbb;" | 
+| style="background:#bbbbbb;" | 
+| style="background:#bbbbbb;" | 
+| style="background:#bbbbbb;" | 
+| style="background:#bbbbbb;" | 
+| style="background:#bbbbbb;" | ●
+| style="background:#bbbbbb;" | ●
+| 2
+| 2
+|-
+| data-sort-value="Targaryen, Aegon" | [[Aegon Targaryen (son of Rhaenyra)|Aegon Targaryen]]
+| style="background:#bbbbbb;" | 
+| style="background:#bbbbbb;" | 
+| style="background:#bbbbbb;" | 
+| style="background:#bbbbbb;" | 
+| style="background:#bbbbbb;" | 
+| style="background:#bbbbbb;" | 
+| style="background:#32CD32;" | 
+| style="background:#bbbbbb;" | ●
+| style="background:#bbbbbb;" | ●
+| 2
+| 2
+|-
+| data-sort-value="Targaryen, Viserys" | [[Viserys Targaryen (son of Rhaenyra)|Viserys Targaryen]]
+| style="background:#bbbbbb;" | 
+| style="background:#bbbbbb;" | 
+| style="background:#bbbbbb;" | 
+| style="background:#bbbbbb;" | 
+| style="background:#bbbbbb;" | 
+| style="background:#bbbbbb;" | 
+| style="background:#32CD32;" | 
+| style="background:#bbbbbb;" | ●
+| style="background:#bbbbbb;" | ●
+| 2
+| 2
+|-
+! Variation
+! 1
+! 2
+! 3
+! 4
+! 5
+! colspan="2" | 6
+! colspan="2" | 7
+! 
+! 
+|}
+
+==Variations==
+===Variation 1===
+* The opening credits begins with a relief carving of the [[Doom of Valyria]], [[Balerion|with]] [[Meraxes|three]] [[Vhagar|dragons]] depicted fleeing the cataclysm. The camera zooms out, revealing that this is the background image on the cogwheel representing [[Aegon I Targaryen]]. Aegon I's token is his iron crown. This cogwheel is flooded with blood, indicating Aegon I as deceased.
+*Blood originates from Aegon's cogwheel and flows past a mural depicting the [[Field of Fire]] to reach [[Visenya Targaryen|Visenya]] and [[Rhaenys Targaryen (sister of Aegon I)|Rhaenys]]'s cogwheels. Visenya's token is [[Dark Sister]]'s hilt; Rhaenys's token is [[Meraxes]]'s head with a [[scorpion]] bolt through her eyes. Both cogwheels are flooded with blood.
+*Blood flows from Rhaenys's cogwheel to [[Aenys Targaryen|Aenys]]'s cogwheel. His token is his crown with a dagger piercing through it. A stream of blood reaches this cogwheel from elsewhere (presumably representing Aenys's wife) before this cogwheel is flooded with blood.
+*Blood flows from Aenys's cogwheel. The camera zips past a cogwheel seen extremely briefly (presumably representing Prince [[Aegon Targaryen (son of Aenys)|Aegon "the Uncrowned"]]). The blood reaches [[Jaehaerys I Targaryen|Jaehaerys I]] and [[Alysanne Targaryen|Alysanne]]'s cogwheels. Jaehaerys's token is his golden crown; Alysanne's token is her pouring water into two serving cups. Both cogwheels are flooded with blood.
+*Nine streams of blood flow from Jaehaerys and Alysanne's cogwheels, representing the nine of their children who lived to adulthood. The center two streams reach [[Baelon Targaryen (son of Jaehaerys I)|Baelon]] and [[Alyssa Targaryen|Alyssa]]'s cogwheels, already flooded with blood, indicating that they died before their parents. Baelon's token is a Hand of the King pin; Alyssa's token is obscured by blood completely.
+*Blood flows from Baelon and Alyssa's cogwheels, merging into one stream before splitting into two.
+* The camera breaks away to show [[House Velaryon]]. Blood originates from [[Corlys Velaryon|Corlys]] and [[Rhaenys Targaryen|Rhaenys]]'s cogwheels, with Corlys's being edged blue. Corlys's token is a snake rising up from sea waves; Rhaenys's token is indiscernible. The blood from them join and reaches [[Laena Velaryon|Laena]]'s cogwheel, edged blue.
+*The camera follows the left branch of blood flowing from Baelon and Alyssa's cogwheels. It reaches [[Viserys I Targaryen|Viserys I]]'s cogwheel. [[Aemma Arryn|Aemma]]'s cogwheel is next to it. Viserys's token is his (and formerly Jaehaerys's) golden crown; Aemma's token is the [[House Arryn/House of the Dragon|Arryn]] sigil—a falcon and crescent moon. Aemma's cogwheel is flooded with blood; Viserys's is not. Blood flow from them and merge into one stream. A separate stream of blood also flows from Viserys's cogwheel to [[Alicent Hightower|somewhere unseen]].
+* The camera breaks away to show [[House Hightower/House of the Dragon|House Hightower]]. Blood originates from [[Otto Hightower|Otto]] and his late wife's cogwheels. Otto's wife's cogwheel is already flooded with blood; Otto's is not. Otto's token is a Hand of the King pin; his wife's token is indiscernible. The blood from them join and reaches [[Alicent Hightower|Alicent]]'s cogwheel. Alicent's token is the Hightower sigil—the [[Hightower]]—with a [[Faith of the Seven|seven-pointed star]] in the background. All Hightower cogwheels are edged green.
+*The camera follows the stream of blood that flows from Viserys and Aemma. It reaches [[Rhaenyra Targaryen|Rhaenyra]]'s cogwheel. Rhaenyra's token is the [[Valyrian steel]] pendant that [[Daemon Targaryen|Daemon]] gave her. Two streams of blood flow from Rhaenyra's cogwheel to [[Harwin Strong|unseen]] [[Daemon Targaryen|destinations]].
+*The camera goes underneath an archway depicting the sigils of Houses [[House Baratheon/House of the Dragon|Baratheon]], Hightower, [[House Blackwood|Blackwood]], [[House Dustin|Dustin]], and [[House Peake|Peake]] on the left, the sigils of Houses [[House Lannister/House of the Dragon|Lannister]], [[House Stark/House of the Dragon|Stark]], Velaryon, [[House Greyjoy|Greyjoy]], and Arryn on the right, and the [[Iron Throne]] in the center.
+*The opening credits concludes with a top-down view of the family tree.
+
+===Variation 2===
+* Blood now flows from [[Alicent Hightower|Alicent]]'s cogwheel, and [[Viserys I Targaryen|another stream of blood]] joins it.
+
+===Variation 3===
+*Joined blood from [[Alicent Hightower|Alicent]] and [[Viserys I Targaryen|Viserys]] now flows to [[Aegon II Targaryen|an unseen destination]].
+
+===Variation 4===
+*Joined blood from [[Alicent Hightower|Alicent]] and [[Viserys I Targaryen|Viserys]] now [[Aegon II Targaryen|splits into]] [[Helaena Targaryen|two streams]].
+
+===Variation 5===
+*Joined blood from [[Alicent Hightower|Alicent]] and [[Viserys I Targaryen|Viserys]] now [[Aegon II Targaryen|splits]] [[Helaena Targaryen|into]] [[Aemond Targaryen|four]] [[Daeron Targaryen|streams]].
+*Instead of following the left branch of blood flowing from [[Baelon Targaryen (son of Jaehaerys I)|Baelon]] and [[Alyssa Targaryen|Alyssa]]'s cogwheels, the camera now follows the right branch. It reaches [[Daemon Targaryen|Daemon]]'s cogwheel. Daemon's token is his [[Valyrian steel]] helmet. Two streams of blood flow from Daemon's cogwheel.
+*[[Laena Velaryon|Laena]]'s cogwheel is seen up-close for the first time, showing her token to be a braid of rope. Blood flows from Laena's cogwheel to join one of the streams flowing from Daemon. Daemon and Laena's joined blood splits and reach [[Baela Targaryen|Baela]] and [[Rhaena Targaryen|Rhaena]]'s cogwheels. Their tokens are a [[dragon]] egg each.
+*The camera follows one stream of blood flowing from [[Rhaenyra Targaryen|Rhaenyra]]'s cogwheel, zipping past [[Harwin Strong|Harwin]]'s cogwheel. Harwin's token is a stylized profile of a man wearing a helmet and [[City Watch of King's Landing/House of the Dragon|golden cloak]], made to also resemble [[Blue Fork|the]] [[Green Fork|three]] [[Red Fork|forks]] of the [[Trident]]. Blood originating from Harwin's cogwheel join the blood flowing from Rhaenyra's. A mural depicting [[House Velaryon]] attending [[We Light the Way|Rhaenyra and Laenor's wedding]] is also shown.
+*Rhaenyra and Harwin's joined blood splits and reach [[Jacaerys Velaryon|Jacaerys]], [[Lucerys Velaryon|Lucerys]], and [[Joffrey Velaryon|Joffrey]]'s cogwheels, all edged blue. Jace's token is [[Dragonstone]] with a Velaryon sigil—a seahorse—etched into it; Luke's token is a dagger; Joff's token is a plain Velaryon seahorse.
+
+===Variation 6 ===
+*[[Laena Velaryon|Laena]] and [[Harwin Strong|Harwin]]'s cogwheels are now flooded with blood, indicating them both as deceased.
+
+===Variation 7===
+*[[Viserys I Targaryen|Viserys]]'s cogwheel is now flooded with blood, indicating him as deceased.
+*[[Laena Velaryon|Laena]]'s cogwheel goes back to only being shown from a distance, as it was in variations 1–4. It is, however, now flooded with blood, as in variation 6.
+*The camera follows the stream of blood connecting Viserys to [[Alicent Hightower|Alicent]] for the first time. The four streams of blood flowing from Viserys and Alicent are shown to reach [[Aegon II Targaryen|Aegon II]], [[Helaena Targaryen|Helaena]], [[Aemond Targaryen|Aemond]], and [[Daeron Targaryen|Daeron]]'s cogwheels. Aegon's token is a wine goblet with a stem shaped like a naked woman; Helaena's token is a spider; Aemond's token is a sapphire; Daeron's token is a [[Cupbearer|cup]].
+*Blood flows from Aegon and Helaena's cogwheels, merging and splitting into three streams that reach [[Jaehaerys Targaryen (son of Aegon II)|Jaehaerys]], [[Jaehaera Targaryen|Jaehaera]], and [[Maelor Targaryen|Maelor]]'s cogwheels. Jaehaerys's token is two overlapping hands with one being six-fingered; Jaehaera's token is two overlapping hands; Maelor's token is indiscernible.
+*[[Daemon Targaryen|Daemon]]'s previously unfollowed blood stream is now shown to merge with [[Rhaenyra Targaryen|Rhaenrya]]'s previously unfollowed blood stream before splitting to reach [[Aegon Targaryen (son of Rhaenyra)|Aegon the Younger]] and [[Viserys Targaryen (son of Rhaenyra)|Viserys]]'s cogwheels. Aegon's token is [[Dragonstone]]; Viserys's token is Dragonstone with a [[dragon]] egg placed upon it.
+
+==Behind the scenes==
+*The series premiere, "[[The Heirs of the Dragon]]," features no opening credits.
+
+==Gallery==
+===Concept art===
+The following concept art for the ''House of the Dragon'' opening credits was drawn by Rustam Hasanov.
+
+<gallery>
+HotD Intro Concept 1.jpg
+HotD Intro Concept 2.jpg
+HotD Intro Concept 3.jpg
+HotD Intro Concept 4.jpg
+HotD Intro Concept 5.jpg
+HotD Intro Concept 6.jpg
+HotD Intro Concept 7.jpg
+HotD Intro Concept 8.jpg
+HotD Intro Concept 9.jpg
+HotD Intro Concept 10.jpg
+HotD Intro Concept 11.jpg
+HotD Intro Concept 12.jpg
+HotD Intro Concept 13.jpg
+HotD Intro Concept 14.jpg
+HotD Intro Concept 15.jpg
+HotD Intro Concept 16.jpg
+HotD Intro Concept 17.jpg
+HotD Intro Concept 18.jpg
+HotD Intro Concept 19.jpg
+HotD Intro Concept 20.jpg
+HotD Intro Concept 21.jpg
+HotD Intro Concept 22.jpg
+HotD Intro Concept 23.jpg
+HotD Intro Concept 24.jpg
+HotD Intro Concept 25.jpg
+HotD Intro Concept 26.jpg
+HotD Intro Concept 27.jpg
+HotD Intro Concept 28.jpg
+HotD Intro Concept 29.jpg
+HotD Intro Concept 30.jpg
+HotD Intro Concept 31.jpg
+HotD Intro Concept 32.jpg
+HotD Intro Concept 33.jpg
+</gallery>
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House of the Dragon}}
+
+<!--Categories-->
+[[Category:House of the Dragon: Season 1]]
+[[Category:Opening credits of House of the Dragon|1]]

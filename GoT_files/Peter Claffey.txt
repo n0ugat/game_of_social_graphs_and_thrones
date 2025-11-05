@@ -1,0 +1,43 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Kingdoms
+| Image   = Peter Claffey.png
+| Birth   = July 28, 1996 {{Age|1996|7|28}}<br>Portumna, Galway, Ireland
+| Death   = 
+| Role    = [[Duncan the Tall]]
+| Series  = ''[[A Knight of the Seven Kingdoms]]''
+| Season  = [[A Knight of the Seven Kingdoms: Season 1|1]] {{*}} [[A Knight of the Seven Kingdoms: Season 2|2]]
+| Credits = [[A Knight of the Seven Kingdoms: Season 1, Episode 1|Season 1, Episode 1]]
+| First   = 
+| Last    = 
+}}
+'''Peter Claffey''' (born July 28, 1996) is an Irish actor and former rugby player. He will portray [[Duncan the Tall]] in ''[[A Knight of the Seven Kingdoms]]''.{{Webref|name=VarietyLeadsCast |author=Joe Otterson |date=April 5, 2024 |url=https://variety.com/2024/tv/news/game-of-thrones-prequel-hedge-knight-knight-of-the-seven-kingdoms-cast-peter-claffey-dexter-sol-ansell-1235961895/ |title=‘Game of Thrones’ Prequel ‘Knight of the Seven Kingdoms: The Hedge Knight’ Casts Peter Claffey, Dexter Sol Ansell in Lead Roles |website=Variety |access-date=April 6, 2024 }}
+
+==Biography==
+Peter Claffey was born in Galway, Ireland. From 2015 to 2018 he played professional rugby, signing with Connacht Rugby for the 2018 season. He later shifted to acting, however, and moved to Dublin to train at Bow Street Academy. In 2022 he appeared in television series such as ''{{WPS|Wreck (TV series)|Wreck}}'' and ''{{WPS|Bad Sisters}}''. In 2023, Claffey performed in a sold-out run of Tom Murphy's ''A Whistle in the Dark'' at the Abbey Theatre.<ref>[https://www.independent.ie/style/celebrity/introducing-rugby-player-turned-actor-peter-claffey-i-learned-a-hell-of-a-lot-about-discipline-and-hard-work/42127178.html Irish Independent]</ref>
+
+When he was cast as Dunk in early 2024, Claffey was 27 years old and 1.96 meters tall,<ref>[https://www.ultimaterugby.com/peter-claffey Ultimate Rugby]</ref> or about 6 feet 4 and a half inches. This makes him roughly a decade older than Dunk was in his first prequel story, and slightly shorter: the infamously tall Duncan was "an inch short of seven feet tall" when he was only 17 years old and still growing.
+
+==Credits==
+===Starring===
+{{A Knight of the Seven Kingdoms: Season 1|yes}}
+{{A Knight of the Seven Kingdoms: Season 2}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{WP}}
+*{{IMDb|# = 12853749}}
+*{{Twitter|# = PeterClaffey}}
+*{{Instagram|# = peter_claff}}
+
+<!--Navboxes-->
+{{A Knight of the Seven Kingdoms}}
+
+<!--Categories-->
+{{DEFAULTSORT:Claffey, Peter}}
+[[Category:Starring cast members of A Knight of the Seven Kingdoms]]
+
+<!--Languages-->
+[[pl:Peter Claffey]]

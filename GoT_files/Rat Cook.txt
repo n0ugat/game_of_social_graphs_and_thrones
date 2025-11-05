@@ -1,0 +1,82 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Night's Watch.svg
+| Link  = Night's Watch
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[Night's Watch]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|It wasn't for murder the gods cursed the Rat Cook, or for serving the King's son in a pie... he killed a guest beneath his roof... that's something the gods can't forgive.|[[Bran Stark]]|Mhysa}}
+The '''Rat Cook'''{{Ref|GOT310}} is the subject of legends and myths in the [[Seven Kingdoms]].
+
+==History==
+===Background===
+According to the legend, a King once paid a visit to the [[Nightfort]], then the chief castle on the [[Wall]]. Due to some offense by the king ([[Bran Stark|Bran]] couldn't remember the exact reason when he recounts the tale), the cook killed the king's son and served his flesh in a pie to the unknowing king. The king enjoyed the pie so much he asked for a second helping.{{Ref|GOT310}}
+
+The gods cursed the cook by turning him into a fat, white rat which could only survive by feasting on its own young. He was condemned to run the halls of the Nightfort, eating his own offspring. The gods were not offended by the murder, nor even by cooking the son and feeding him to his own father, for a man has a right to vengeance; what the gods could not forgive and cursed the cook for was that he broke the [[Guest right|laws of hospitality and protection]], which are held to be sacred above all others.{{Ref|GOT310}}
+
+===[[Game of Thrones: Season 3|''Game of Thrones'': Season 3]]===
+While sitting around a fire at the abandoned Nightfort, Bran recounts the tale of the Rat Cook to his traveling companions, [[Meera Reed|Meera]] and [[Jojen Reed]].{{Ref|GOT310}}
+
+===[[Game of Thrones: Season 6|''Game of Thrones'': Season 6]]===
+Although not mentioned again, this story presumably serves as a model to Bran's sister [[Arya Stark|Arya]] when she avenges the [[Red Wedding|deaths]] of their [[Catelyn Stark|mother]], [[Robb Stark|brother]], and pregnant [[Talisa Stark|sister-in-law]] by [[Assassinations at the Twins|killing]] [[Walder Frey]], who lured the murdered Starks into a false sense of security by officially extending them the guest right.{{Ref|GOT309}} First, she kills his sons, [[Walder Rivers|Black Walder]] and [[Lothar Frey|Lothar]], who respectively murdered her mother and Talisa, and carves them into [[Frey pie|pies]] that she serves to their father, disguised as a serving girl. When Walder voices his frustration with his sons for their tardiness, Arya sardonically reveals to his horror that he just consumed their flesh before slitting his throat.{{Ref|GOT610}}
+
+==In the books==
+The story is much the same in the ''[[A Song of Ice and Fire]]'' novels, except that the king in the story is identified as an [[Andals|Andal]] king. It is extremely well-known in the [[North]] and there is even a popular song about it. The song is used to represent the repercussions to those who violate the sacred guest right.
+
+According to ''The World of Ice & Fire'', the king in question is identified as [[Tywell II Lannister]] or [[Oswell I Arryn]].
+
+In the fifth novel, Lord [[Wyman Manderly]] brings [[Frey pie|three huge pies]] to the wedding of [[Ramsay Bolton|Ramsay]] and [[Jeyne Poole|"Arya Stark"]], serves them to the Boltons and the prominent Frey guests, then requests [[Mance Rayder|"Abel the bard"]] to play the song about the Rat Cook. Perhaps it is a clue that those pies are, as speculated by fans, made of the three Freys who attended Lord Manderly's court at the [[White Harbor]], and disappeared without a trace on their way to [[Winterfell]] - a payback for the death of Lord Manderly's [[Wendel Manderly|son]] at the [[Red Wedding]].
+
+[[George R.R. Martin]] may have drawn inspiration for the Rat Cook from the Greek myth about the curse of the [[Wikipedia:Atreus|House of Atreus]]. The two brothers Atreus and Thyestes were feuding over the kingship, and Atreus discovered that Thyestes was having an affair with his own wife Aerope. Atreus exacted revenge by inviting Thyestes to dinner at his home, then secretly killed Thyestes' sons, cooked their meat, and served it to the unknowing Thyestes. After he had finished consuming his own issue, Atreus revealed to Thyestes what he had done and taunted him with the severed heads and hands of his sons. This is the source of modern phrase "Thyestean Feast", one at which human flesh is served.
+
+==Appearances==
+*{{GOT|Mhysa}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Legendary figures}}
+
+<!--Categories-->
+[[Category:First Men]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Legendary and magical creatures]]
+[[Category:Legendary figures]]
+[[Category:Northmen]]
+[[Category:Stewards of the Night's Watch]]
+
+<!--Languages-->
+[[de:Rattenkoch]]
+[[fr:Rat Coq]]
+[[pt-br:Cozinheiro Ratazana]]
+[[ru:Повар-Крыса]]

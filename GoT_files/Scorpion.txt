@@ -1,0 +1,63 @@
+{{Canonicity|Canon}}
+{{Object
+| Title    = {{PAGENAME}}
+| Type     = Lannister
+| Image    = Scorpion-the-spoils-of-war.jpg
+| Material = 
+| Maker    = [[Qyburn]] {{C|modified}}
+| Owner    = [[Iron Throne]]<br>[[House Lannister]]<br>[[House Greyjoy]]<br>[[House Martell]] {{C|historically}}
+| Status   = 
+}}
+{{Dialogue a-b-a|Jaime Lannister|Qyburn's scorpion is over there!|Bronn|Go and get it then!|I can't shoot with one hand!|[[Jaime Lannister]] and [[Bronn]] during the [[Battle of the Goldroad]]|The Spoils of War}}
+'''Scorpions'''{{Ref|GOT704}} are long-range artillery [[Armament|weapons]], resembling large mounted crossbows. A bolt fired from one carries enough velocity to pierce the skull of a [[dragon]]. It is fully pivotal and though it is best operated by a small team, it can be loaded and fired by a single [[Man-at-arms|soldier]]. A scorpion can be considered a smaller, more portable variation of a ballista.
+
+==History==
+===Background===
+During the [[First Dornish War]], [[Rhaenys Targaryen (sister of Aegon I)|Rhaenys Targaryen]] and her [[dragon]] [[Meraxes]] were killed when a lucky shot from a scorpion bolt managed to pierce the dragon's eye and drive into her brain, killing Meraxes instantly mid-flight and causing Rhaenys to fall to her death. This was a major blow to [[House Targaryen]].<ref>"[[The Last Dragons]]"</ref>
+[[File:S2 Scorpion.jpg|thumb|The [[Greens]] scorpions ready to defend [[King's Landing]].]]
+
+===[[House of the Dragon: Season 2|''House of the Dragon'': Season 2]]===
+Scorpions are produced and deployed to defend [[King's Landing]] during the [[Dance of the Dragons]]. Because of the great expenses involved in making the weapons, the blacksmith [[Hugh]] petitions King [[Aegon II Targaryen|Aegon]] to receive his pay before his work is done rather than after.{{Ref|HOTD201}}
+
+===[[Game of Thrones: Season 7|''Game of Thrones'': Season 7]]===
+To combat [[Daenerys Targaryen]]'s dragons, [[Cersei Lannister]]'s new [[Hand of the King|Hand of the Queen]] [[Qyburn]] commissions the construction of a very powerful custom scorpion. Qyburn has Cersei accompany him to the crypts below the [[Red Keep]] where the skulls of dead dragons are housed. Qyburn shows her the scorpion he's had built and invites her to fire the bolt at the skull of [[Balerion]]. The bolt pierces the skull easily. Cersei seems very pleased.<ref>"[[Stormborn]]"</ref>
+[[File:704 Battle of Tumbleton 12.png|thumb|Bronn fires a bolt at [[Drogon]].]]
+Though the weapon usually requires a team to operate, [[Bronn]] manages to operate Qyburn's scorpion during the [[Battle of the Goldroad]] and fire it against [[Drogon]] while Daenerys is riding him. The bolt misses his eyes, however, and only strikes him in the shoulder - failing to deeply penetrate the dragon's iron scales (which apparently Qyburn nor anyone else considered for penetration), and only inflicting a minor flesh wound. Drogon then destroys the scorpion by blasting it with fire, and Bronn barely escapes. When he lands nearby, Drogon destroys the burning cart with a single swipe of his tail.<ref>"[[The Spoils of War]]"</ref>
+
+===[[Game of Thrones: Season 8|''Game of Thrones'': Season 8]]===
+[[File:Silence.jpg|thumb|The ''[[Silence]]'' and several [[Iron Fleet|Greyjoy ships]] with mounted scorpions.]]
+[[Euron Greyjoy]] uses several scorpions, installed on his [[ships]], to kill [[Rhaegal]] and destroy the [[House Targaryen|Targaryen]] fleet in a [[Battle at Dragonstone|battle]] in the waters off [[Dragonstone (island)|Dragonstone]].<ref>"[[The Last of the Starks]]"</ref>
+
+Later, scorpions are seen mounted on the walls of [[King's Landing]]. Despite the numerous scorpions present in the [[Battle of King's Landing]], they failed to kill [[Drogon]], who successfully evaded getting struck by a bolt and destroyed all the scorpions.<ref>"[[The Bells]]"</ref>
+
+==In the books==
+Scorpions are commonly-used siege weapons throughout [[Westeros]] and [[Essos]], along with ballistae, catapults, and trebuchets.
+
+Scorpions have been notably used at the [[Battle of the Blackwater]], [[battle for the Wall]] (by the defenders only), and the [[second siege of Meereen]] (by the besiegers only).
+
+The difference between a scorpion and a ballista is that a ballista is far larger, and needs to be constructed on-site - it can't be moved with [[horse]]s and be assembled reasonably quickly the way a scorpion can.
+
+==Gallery==
+<gallery>
+File:Cersei Qyburn Machine.jpg|[[Qyburn]] demonstrates a new weapon to Queen [[Cersei Lannister|Cersei]].
+File:Bronn Scorpion TSOW.jpg|[[Bronn]] operates the weapon during the [[Battle of the Goldroad]].
+File:Davos Jon & Tyrion S8 Ep5.jpg|[[House Lannister|Lannister]] Scorpions atop the battlements of [[King's Landing]].
+File:Scorpions-are-back-in-westeros-v0-sl8n9hxsoqpc1.jpg|Lannister troops manning scorpions towards [[Blackwater Bay]].
+File:Game-of-Thrones-Ballista.png|Front tip of the scorpion bolt.
+File:Silence.jpg|Scorpions fitted to the Iron Fleet.
+File:Greyjoy scorpion.png|Euron operating a scorpion.
+File:Euron S8 Ep5.jpg|Euron and his men readying the weapon.
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{WP|Scorpio (weapon)}}
+
+<!--Categories-->
+[[Category:Weapons]]
+
+<!--Languages-->
+[[fr:Scorpion (Arme)]]
+[[ru:Скорпион]]

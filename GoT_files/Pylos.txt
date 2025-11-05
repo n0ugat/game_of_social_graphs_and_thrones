@@ -1,0 +1,60 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Order of Maesters.svg
+| Link  = Order of Maesters
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Citadel
+| Image       = 
+| Birth       = 
+| Death       = Died of [[greyscale]]
+| House       = 
+| Affiliation = [[Order of Maesters]]
+| Titles      = [[Archmaester]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Dialogue a-b-a|Ebrose|I am familiar with Archmaester Pylos's study of rare diseases!|Samwell|Oh, you are?|Yes. And shall I tell you how he died? From greyscale. The procedure is far too dangerous, which is why it's now forbidden.|Sam and Ebrose discuss Pylos's study of rare diseases|Stormborn}}
+'''Pylos''' was an [[Archmaester]] of the [[Citadel]], one of the governing members of the [[Order of Maesters]]. He is the author of ''[[On Rare Diseases]]''.
+
+==Biography==
+===[[Game of Thrones: Season 7|''Game of Thrones'': Season 7]]===
+[[Samwell Tarly|Sam]] mentions that he may be able to cure [[Jorah Mormont]]'s [[greyscale]] using Pylos's methods, but is rebuked by [[Ebrose]], who says that Pylos died of the same disease; because of this, Pylos's methods are forbidden to be used again.{{Ref|GOT702}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no archmaester named Pylos. Archmaester Pylos shares his name with [[awoiaf:Pylos|Maester Pylos]] from the books.
+
+==Appearances==
+*{{GOT|Stormborn}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+[[Category:Archmaesters]]
+[[Category:Authors]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Victims of greyscale]]
+[[Category:Westerosi]]
+
+<!--Languages-->
+[[de:Pylos]]
+[[fr:Pylos]]
+[[ru:Пилос]]

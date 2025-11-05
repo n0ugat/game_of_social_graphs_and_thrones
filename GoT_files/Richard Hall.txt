@@ -1,0 +1,29 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Richard Hall.jpg
+| Birth   = 
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]] {{*}} [[House of the Dragon: Season 2|2]]
+| Credits = 6 episodes {{Below|Credits}}
+| First   = "[[The Heirs of the Dragon]]"
+| Last    = 
+}}
+'''Richard Hall''' is a stuntman.
+
+In ''[[House of the Dragon]]'', he was a stunt performer in the [[House of the Dragon: Season 1|first season]] episodes "[[The Heirs of the Dragon]]", "[[Second of His Name]]" and "[[King of the Narrow Sea (episode)|King of the Narrow Sea]]" and the [[House of the Dragon: Season 2|second season]] episodes "[[A Son for a Son]]", "[[The Red Dragon and the Gold]]" and "[[The Red Sowing]]".
+
+==Credits==
+===Stunts===
+{{House of the Dragon: Season 1|yes||yes|yes}}
+{{House of the Dragon: Season 2|yes|||yes|||yes}}
+
+==See also==
+*{{IMDb
+|# = 8787336}}
+*{{Linkedin
+|# = /in/richard-hall-742154146}}
+{{DEFAULTSORT:Hall, Richard}}
+[[Category:Stunt performers of House of the Dragon]]

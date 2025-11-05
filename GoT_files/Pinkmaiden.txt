@@ -1,0 +1,45 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Piper.svg
+| Link  = House Piper
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Tully
+| Image        = Pinkmaiden Pin.png
+| Type         = Castle
+| Status       = 
+| Location     = The [[Riverlands]], [[Westeros]]
+| Population   = 
+| Rulers       = [[House Piper]]{{Con|ASOIAF}}
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Pinkmaiden'''{{Guideref|Map of Westeros}} is a castle in the [[Riverlands]], the area controlled by [[House Tully]] of [[Riverrun]]. The castle is located south of Riverrun, near the border with the [[Westerlands]] and a tributary of the [[Red Fork]] of the [[Trident]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Pinkmaiden is the seat of House Piper. It is one of the settlements sacked by [[Gregor Clegane]] at the beginning of the [[War of the Five Kings]].
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|Pinkmaiden Castle}}
+
+<!--Navboxes-->
+{{House Piper}}
+{{Riverlands}}
+
+<!--Categories-->
+[[Category:Castles of the Riverlands]]
+[[Category:House Piper]]
+
+<!--Languages-->
+[[pl:Pinkmaiden]]
+[[ru:Розовая Дева]]

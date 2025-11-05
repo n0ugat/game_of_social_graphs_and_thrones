@@ -1,0 +1,66 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Stark.svg
+| Link  = House Stark
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Stark
+| Image       = 
+| Birth       = At [[Winterfell]]
+| Death       = 
+| House       = [[House Stark|Stark]]
+| Affiliation = 
+| Titles      = [[King in the North]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Northmen|Northern]]
+| Religion    = [[Old Gods]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|A Stark wrestled an Ironborn for Bear Island and gave it to the Mormonts.|[[Jon Snow]]|The North}}
+'''Rodrik Stark''' was a [[King in the North]].
+
+==Biography==
+According to legend, Rodrik won [[Bear Island]] in a wrestling match with an [[Ironborn]] and then granted [[House Mormont]] lordship over it.{{Ref|H&L311}}{{Ref|H&L609}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, King Rodrik Stark's story is the same. Presumably he took Bear Island from the ironborn, who under the rule of Qhored Hoare ruled much of the western coast of Westeros, from Bear Island to the [[Arbor]].
+
+==Appearances==
+*{{H&L|The North}} {{Mentioned}}
+*{{H&L|Northern Allegiances to House Stark}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Stark}}
+{{Kings of Westeros}}
+
+<!--Categories-->
+{{DEFAULTSORT:Stark, Rodrik}}
+[[Category:Individuals from Histories & Lore]]
+[[Category:Kings in the North|Rodrik Stark]]
+[[Category:Members of House Stark|Rodrik Stark]]
+[[Category:Northmen]]
+
+<!--Languages-->
+[[fr:Rodrik Stark]]
+[[ru:Родрик Старк]]

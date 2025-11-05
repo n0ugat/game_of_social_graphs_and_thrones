@@ -1,0 +1,75 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Florent.svg
+| Link  = House Florent
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Bronn
+| Image       = 
+| Birth       = At [[Brightwater Keep]]
+| Death       = 
+| House       = [[House Florent|Florent]]
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Andals|Andal]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|To His Grace King Stannis Baratheon. Invaded-- inv-- invit-- invited to the name day celebration for Rylene Florent on the first night--|[[Davos Seaworth]] reads Rylene's letter to [[Stannis Baratheon|Stannis]]|Mhysa}}
+'''Rylene Florent''' is a cousin of [[Shireen Baratheon]].
+
+==Biography==
+===[[Game of Thrones: Season 3|''Game of Thrones'': Season 3]]===
+During one of [[Shireen Baratheon|Shireen]]'s lessons, [[Davos Seaworth|Davos]] reads a letter sent to [[Stannis Baratheon|Stannis]] with an invitation to Rylene Florent's [[nameday]]. Later, when reading about [[Balerion]], he humorously comments that dragon is better than anything that Rylene has got on offer.{{Ref|GOT310}}
+
+==Family==
+{{Florent tree}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Rylene Florent is not Shireen's cousin, but [[Selyse Baratheon|her mother]]'s paternal aunt, which makes her Shireen's great-aunt, as well as the aunt of [[Imry Florent]] and [[Melessa Tarly]]. She is married to Ser Rycherd Crane.
+
+Rylene does not appear in the novels, only mentioned in the appendices of the second, third, and fourth novels.
+
+Davos describes her as Shireen's "cousin" in the Season 3 finale, but he may have just been speaking loosely.
+
+==Appearances==
+*{{GOT|Mhysa}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Florent}}
+
+<!--Categories-->
+{{DEFAULTSORT:Florent, Rylene}}
+[[Category:Individuals from the Reach]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Members of House Florent|Rylene Florent]]
+
+<!--Languages-->
+[[fr:Rylene Florent]]
+[[it:Rylene Florent]]
+[[ru:Рилена Флорент]]

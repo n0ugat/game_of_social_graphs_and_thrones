@@ -1,0 +1,26 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Sasa Vuk.jpg
+| Birth   = 
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 2|2]]
+| Credits = "[[The Old Gods and the New]]"
+| First   = 
+| Last    = 
+}}
+'''Saša Vuk''' is a stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 2|second season]] episode "[[The Old Gods and the New]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 2||||||yes}}
+
+==See also==
+*{{IMDb
+|# = 2678822}}
+{{DEFAULTSORT:Vuk, Saša}}
+[[Category:Stunt performers of Game of Thrones]]

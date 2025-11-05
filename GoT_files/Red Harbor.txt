@@ -1,0 +1,41 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Greyjoy
+| Image        = 
+| Type         = Harbor town
+| Status       = 
+| Location     = The [[Iron Islands]], [[Westeros]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = [[Drowned God]]
+| Places       = 
+| Founded      = 
+}}
+{{Quote|Oh, I'm not here for you. I was just on my way to Red Harbor. I've got 30 ships. There's nowhere to put them here. Too narrow.|[[Yara Greyjoy]]|The Ghost of Harrenhal}}
+'''Red Harbor'''{{Ref|GOT205}} is a harbor town on the [[Iron Islands]]. It serves as the main harbor for the region.
+
+==History==
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+[[Yara Greyjoy]] berths her fleet of thirty ships off Red Harbor because it is larger than [[Lordsport]].{{Ref|GOT205}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Lordsport is a major port in its own right. There is no mention of Red Harbor although the harbors of most of the other Iron Islands have not been named.
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{Iron Islands}}
+
+<!--Categories-->
+[[Category:Harbors]]
+[[Category:Iron Islands]]
+[[Category:Towns]]
+
+<!--Languages-->
+[[de:Rothhafen]]
+[[pt-br:Porto Vermelho]]
+[[ru:Красная Гавань]]

@@ -1,0 +1,51 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Stark
+| Image       = Portan.jpg
+| Birth       = In the [[North]]
+| Death       = 
+| House       = 
+| Affiliation = [[House Stark]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Northmen|Northern]]
+| Religion    = [[Old Gods]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 2|2]]
+| Appearances = "[[The North Remembers]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Gordon Fulton]]
+}}
+{{Quote|Lord Portan.|[[Order of Maesters|Maester]] [[Luwin]]|The North Remembers}}
+'''Portan''' is a Northern Lord who visits [[Winterfell]] to speak before Prince [[Bran Stark]].{{Ref|GOT201}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no character of this name.
+
+==Appearances==
+*{{GOT|The North Remembers}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+[[Category:Bannermen of House Stark]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Lords]]
+[[Category:Northmen]]
+
+<!--Languages-->
+[[de:Portan]]
+[[fr:Portan]]
+[[ru:Портан]]

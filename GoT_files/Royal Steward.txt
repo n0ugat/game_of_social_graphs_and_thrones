@@ -1,0 +1,63 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Lannister
+| Image       = Royal Steward.jpg
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[House Baratheon of King's Landing]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 1|1]]
+| Appearances = 4 episodes {{Below|Appearances}}
+| First       = "[[Lord Snow]]"
+| Last        = "[[The Pointy End]]"
+| DeathEp     = 
+| Actor       = [[Robert Sterne]]
+}}
+{{Quote|Perhaps you'd like to change into something more appropriate?|The Steward to [[Eddard Stark]]|Lord Snow}}
+The '''Royal Steward''' serves the [[Iron Throne]]. He issues his summons and announces arrivals to the court.
+
+==Biography==
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+He summons the new [[Hand of the King]] [[Eddard Stark]] to the [[Small Council]] upon his arrival in [[King's Landing]].{{Ref|GOT103}} He summons Eddard again when King [[Robert Baratheon]] receives news of [[Daenerys Targaryen|Daenerys]]'s pregnancy.{{Ref|GOT105}}
+
+He summons Eddard to see the newly crowned King [[Joffrey Baratheon]], following the [[Assassination of Robert Baratheon|death of Robert in a hunting accident]].{{Ref|GOT107}} Later, he announces the arrival of [[Sansa Stark|Sansa]] to the court to plead mercy for her father.{{Ref|GOT108}}
+
+==Behind the scenes==
+Robert Sterne is a casting director for ''[[Game of Thrones]]''.
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the Royal Steward has a similar role, though his name, like in the show, is never mentioned. He greets Eddard when he arrives in King's Landing and summons him to the Small Council but rather than suggesting that he change he actually provides clothing for him. It is the steward rather than [[Renly Baratheon]] who summons Eddard after Robert's hunting accident in the books. As in the series, he appears again to summon Eddard when Joffrey takes the throne. In the book, it is a herald rather than the steward who announces Sansa to the court.
+
+==Appearances==
+*{{GOT|Lord Snow}}
+*{{GOT|The Wolf and the Lion}}
+*{{GOT|You Win or You Die}}
+*{{GOT|The Pointy End}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+[[Category:Crownlanders]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Servants and retainers of House Baratheon of King's Landing]]
+[[Category:Stewards]]
+
+<!--Languages-->
+[[de:Königlicher Haushofmeister]]
+[[ru:Королевский стюард]]

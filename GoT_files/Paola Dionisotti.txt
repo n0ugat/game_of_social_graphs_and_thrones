@@ -1,0 +1,31 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Paola-Dionisotti.jpg
+| Birth   = 1946 {{Age|1946|12|31}}<br>Turin, Italy
+| Death   = 
+| Role    = [[Anya Waynwood]]
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 4|4]]
+| Credits = "[[The Mountain and the Viper]]"
+| First   = 
+| Last    = 
+}}
+'''Paola Dionisotti''' is an Italian actress cast in the role of Lady [[Anya Waynwood]] in [[Game of Thrones: Season 4|Season 4]].
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 4||||||||yes}}
+
+==See also==
+*{{WP}}
+*{{Template:IMDb
+|# = 0227971}}
+
+== References==
+{{Reflist}}
+[[de:Paola Dionisotti]]
+[[fr:Paola Dionisotti]]
+[[ru:Паола Дионизотти]]
+{{DEFAULTSORT:Dionisotti, Paola}}
+[[Category:Guest starring cast members of Game of Thrones]]

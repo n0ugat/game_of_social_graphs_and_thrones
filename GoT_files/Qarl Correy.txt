@@ -1,0 +1,81 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Velaryon
+| Image       = Qarl Correy Official Guide.jpg
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[House Velaryon]]{{Ref|HOTD106}}<br>[[Blacks]]{{Ref|HOTD106}}
+| Titles      = [[Knighthood|Ser]]{{Ref|HOTD106}}
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = [[Laenor Velaryon]]{{Guideref|Qarl Correy}}
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 1|1]]
+| Appearances = 2 episodes {{Below|Appearances}}
+| First       = "[[The Princess and the Queen]]"
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Arty Froushan]]
+}}
+{{Quote|Qarl's been fighting there. He showed me a sack of sapphires big as walnuts he took from the pirate he slew.|Laenor Velaryon|The Princess and the Queen}}
+Ser '''Qarl Correy''' is a [[Knighthood#Types of knights|household knight]] of [[House Velaryon]] during the reign of [[Viserys I Targaryen|Viserys I]].
+
+==Biography==
+===Background===
+Qarl is [[Smallfolk|commonborn]] knight, a veteran of the [[War for the Stepstones]], and a lover of [[Laenor Velaryon]].{{Guideref|Qarl Correy}}
+
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+Laenor and Qarl, both are heavily drunk, appear at [[Rhaenyra Targaryen|Rhaenyra]]'s chamber. Qarl leaves at Rhaenyra's request. Laenor tells his wife that Qarl has been fighting at the [[Stepstones]]. He later goes with Laenor and Rhaenyra to [[Dragonstone]].{{Ref|HOTD106}}
+
+Qarl attends the funeral of [[Laena Velaryon]]. When [[Corlys Velaryon|Corlys]] sees Laenor standing in the water, he angrily tells Qarl to "retrieve your patron."{{Ref|HOTD107}}
+
+Qarl later participates in a plot to fake Laenor's death and clear the way for [[Daemon Targaryen|Daemon]] to become prince consort. A confrontation between the two of them is staged in the Hall of Nine in front of a witness, who leaves to inform Corlys. Before Corlys arrives, a servant murdered by Daemon is planted in the hall's fireplace. Qarl and Laenor then escape on a boat together.{{Ref|HOTD107}}
+
+==In the books==
+In ''[[Fire & Blood]]'', Qarl served House Velaryon at High Tide. He was among the various handsome knights that [[Laenor Velaryon]] favored, including [[Joffrey Lonmouth]], and it was rumored that they were all Laenor's lovers.
+
+There is no mention that Qarl participated in the War for the Stepstones.
+
+Qarl killed Laenor (Laenor's death was not faked) at a fair in [[Spicetown]] for unknown reasons. Some merchants told Corlys, when he came to collect his son's body, that the two men had been seen been quarreling loudly before blades were drawn. Correy had fled by then, wounding several men who tried to hinder him. Some claimed a ship had been waiting for him offshore. He was never seen again. Corlys offered a reward of ten thousand golden dragons for delivering the murderer to him, but in vain.
+
+The circumstances of the murder remain a mystery. There are several speculations, but there were no evidence to support them: 
+*According to [[Mellos]], Laenor was killed by one of his own household knights after a quarrel.
+*According to Septon Eustace, Qarl killed Laenor because he was jealous of the latter's new lover, 16 years old handsome squire. 
+*According to Mushroom, Daemon paid Qarl to kill Laenor so that he could be free to marry Rhaenyra, arranged for a ship to carry Qarl away, then cut his throat and threw him to the sea.
+
+The name "Qarl Correy" may be a reference to Prince Corwin from Roger Zelazny's ''Nine Princes in Amber'', who uses the alias "Carl Corey."
+
+==Appearances==
+*{{HOTD|The Princess and the Queen}}
+*{{HOTD|Driftmark}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+*{{TOG|character-guide#qarl-correy}}
+
+<!--Categories-->
+{{DEFAULTSORT:Correy, Qarl}}
+[[Category:Blacks]]
+[[Category:Crownlanders]]
+[[Category:Ennobled commoners]]
+[[Category:Exiles]]
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Knights]]
+[[Category:Servants and retainers of House Velaryon]]
+
+<!--Languages-->
+[[es:Qarl Correy/House of the Dragon]]
+[[fr:Qarl Correy]]
+[[ru:Кварл Корри]]

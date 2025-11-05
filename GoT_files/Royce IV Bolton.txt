@@ -1,0 +1,69 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = House Bolton.svg
+| Link  = House Bolton
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Bolton
+| Image       = Royce Redarm.png
+| Birth       = At the [[Dreadfort]]
+| Death       = 
+| House       = [[House Bolton|Bolton]]
+| Affiliation = 
+| Titles      = [[Red King]]
+| Predecessor = 
+| Successor   = 
+| AKA         = Royce Redarm
+| Culture     = [[Northmen|Northern]]
+| Religion    = [[Old Gods]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|The Red Kings of House Bolton wore cloaks made from the skins of Stark princes they'd flayed, and one of the Boltons was even known as the Redarm because he liked to plunge an arm into the bellies of captive Starks and pull out their entrails with his bare hand.|[[Sansa Stark]]|Northern Allegiances to House Stark}}
+King '''Royce IV Bolton''',{{Con|TWOI&F}} also known as '''Royce Redarm''', was a [[Red King]] and head of [[House Bolton]].
+
+==Biography==
+Royce earned the nickname "the Redarm" due to his fondness of plunging his arm into the bellies of captive [[House Stark|Starks]] and removing their entrails with his bare hand.{{Ref|H&L609}}
+
+==In the books==
+In ''The World of Ice & Fire'', Royce IV Bolton succeeded in burning [[Winterfell]] during one of the wars between [[House Bolton]] and [[House Stark]], which his namesake Royce II Bolton had done three hundred years earlier.
+
+==Appearances==
+*{{H&L|Northern Allegiances to House Stark}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Bolton}}
+{{Kings of Westeros}}
+
+<!--Categories-->
+{{DEFAULTSORT:Bolton, Royce IV}}
+[[Category:Individuals from Histories & Lore]]
+[[Category:Members of House Bolton|Royce IV Bolton]]
+[[Category:Northmen]]
+[[Category:Red Kings|Royce IV Bolton]]
+
+<!--Languages-->
+[[fr:Royce IV Bolton]]
+[[ru:Ройс IV Болтон]]

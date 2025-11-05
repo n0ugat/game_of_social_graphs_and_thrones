@@ -1,0 +1,24 @@
+{{Template:Cast
+|Title = Patrick Molloy
+|Image = Headshot_1.jpg
+|role = Night's Watch man
+|status = 
+|Appearances = "[[Breaker of Chains]]"
+|imdb = https://www.imdb.com/name/nm3561455/
+}}
+'''Patrick Molloy''' (born 13 January 1970) is an Irish actor who has worked in television, film and on stage.
+
+He joined the Gaiety School of acting and completed the advanced performance year focusing on the Stanislavski method, receiving a high accolade from his tutor on completion. Patrick went on to train with the Irish Film Actors Studio developing his skills for camera and he then decided to focus his career mainly in Film and Television. 
+
+He plays a Night's Watch man in [[Game of Thrones: Season 4|Season 4]].
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 4|||yes}}
+
+==See also==
+*{{Template:IMDb
+|# = 3561455}}
+
+{{DEFAULTSORT:Molloy, Patrick}}
+[[Category:Guest starring cast members of Game of Thrones]]
