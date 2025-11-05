@@ -1,0 +1,34 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Gerald Lepkowski.png
+| Birth   = Glasgow, Scotland
+| Death   = 
+| Role    = [[Zanrush]]
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 6|6]]
+| Credits = "[[The Red Woman]]"
+| First   = 
+| Last    = 
+}}
+'''Gerald Lepkowski''' is a Scottish actor. He has appeared in television series such as ''{{WPS|Neighbours}}'', ''{{WPS|EastEnders}}'', ''{{WPS|Spooks (TV series)|Spooks}}'' and ''{{WPS|The IT Crowd}}''.
+
+In ''[[Game of Thrones]]'', he portrayed [[Zanrush]] in the episode "[[The Red Woman]]".
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 6|yes}}
+
+==See also==
+*{{WP}}
+*{{IMDb
+|# = 0503319}}
+*{{Twitter
+|# = thebiglepkowski}}
+
+==References==
+{{Reflist}}
+[[fr:Gerald Lepkowski]]
+[[ru:Джералд Лепковски]]
+{{DEFAULTSORT:Lepkowski, Gerald}}
+[[Category:Guest starring cast members of Game of Thrones]]

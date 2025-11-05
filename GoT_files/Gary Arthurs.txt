@@ -1,0 +1,24 @@
+{{Crew
+|Image = Gary Arthurs.jpg
+|dateofbirth = 
+|birthplace = 
+|job = Stunt Performer
+|imdb = https://www.imdb.com/name/nm1020873/
+|twitter = }}
+'''Gary Arthurs''' is a stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 2|second season]] episode "[[The Old Gods and the New]]", the [[Game of Thrones: Season 3|third season]] episode "[[The Rains of Castamere (episode)|The Rains of Castamere]]" and the [[Game of Thrones: Season 4|fourth season]] episode "[[The Mountain and the Viper]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 2||||||yes}}
+{{Game of Thrones: Season 3|||||||||yes}}
+{{Game of Thrones: Season 4||||||||yes}}
+
+==See also==
+*{{IMDb
+|# = 1020873}}
+*{{YouTube
+|# = channel/UCfh_jlrXRgx2vCJlKhK13ug}}
+{{DEFAULTSORT:Arthurs, Gary}}
+[[Category:Stunt performers of Game of Thrones]]

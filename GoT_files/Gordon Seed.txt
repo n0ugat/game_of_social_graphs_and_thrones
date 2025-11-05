@@ -1,0 +1,22 @@
+{{Crew
+|Image = Gordon Seed.jpg
+|dateofbirth = {{WPS|March 14}}, {{WPS|1970}}
+|birthplace = 
+|job = Stunt Performer
+|imdb = http://www.imdb.com/name/nm1167535
+|twitter = }}
+'''Gordon Seed''' (born March 14, 1970) is a stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 1|first season]] episode "[[A Golden Crown]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 1||||||yes}}
+
+==See also==
+*{{IMDb
+|# = 1167535}}
+*{{YouTube
+|# channel/UC_35lx-IVOtAlyMZHdKINyQ}}
+{{DEFAULTSORT:Seed, Gordon}}
+[[Category:Stunt performers of Game of Thrones]]

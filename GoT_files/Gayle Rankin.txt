@@ -1,0 +1,41 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Gayle Rankin.jpg
+| Birth   = September 1, 1989 {{Age|1989|9|1}}<br>Paisley, Renfrewshire, Scotland
+| Death   = 
+| Role    = [[Alys Rivers]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]] {{*}} [[House of the Dragon: Season 3|3]]
+| Credits = 6 episodes {{Below|Credits}}
+| First   = "[[The Burning  Mill]]"
+| Last    = 
+}}
+'''Gayle Rankin''' (born 1 September 1989) is a Scottish actress.
+
+In ''[[House of the Dragon]]'', she plays [[Alys Rivers]] in the [[House of the Dragon: Season 2|second season]].<ref name="Variety">[https://variety.com/2023/tv/news/house-of-the-dragon-alys-rivers-season-2-1235592500/ 'House of the Dragon' Season 2 Casts Alys Rivers and Three More Characters | ''Variety'']</ref>
+
+==Credits==
+===Starring===
+{{House of the Dragon: Season 2|||yes|yes|yes|yes||yes}}
+{{House of the Dragon: Season 3||||yes}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{WP}}
+*{{IMDb|#=4587360}}
+*{{Instagram|# = _____gaylerankin______}}
+
+<!--Navboxes-->
+{{House of the Dragon}}
+{{House of the Dragon: Inside the Episode}}
+
+<!--Categories-->
+{{DEFAULTSORT:Rankin, Gayle}}
+[[Category:Commentators of House of the Dragon: Inside the Episode]]
+[[Category:Starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Gayle Rankin]]

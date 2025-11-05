@@ -1,0 +1,50 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Outlaw
+| Image       = 
+| Birth       = In the [[Riverlands]]
+| Death       = 
+| House       = 
+| Affiliation = [[Brotherhood Without Banners]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Riverlands|Rivermen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = Son
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Dialogue a-b|The Tickler|Who helped him?|Prisoner|Ganes the butcher, and his son!|The [[Tickler]] tortures a prisoner for information|Garden of Bones (episode)}}
+'''Ganes''' is a butcher from a village in the [[Riverlands]].
+
+==Biography==
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+A [[tortured prisoner]] at [[Harrenhal]] reveals that Ganes and his son aided [[Beric Dondarrion]] and the [[Brotherhood Without Banners|Brotherhood]].{{Ref|GOT204}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the brotherhood has many allies and sympathizers in the riverlands. Ganes specifically is not mentioned.
+
+==Appearances==
+*{{GOT|Garden of Bones}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+[[Category:Brotherhood Without Banners]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Rivermen]]
+[[Category:Smallfolk]]

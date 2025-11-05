@@ -1,0 +1,26 @@
+{{Crew
+|Image = Georgi Manchev.jpeg
+|dateofbirth = {{WPS|January 27}}, {{WPS|1984}}
+|birthplace = {{WPS|Sofia}}, {{WPS|Bulgaria}}
+|job = Stunt Performer
+|imdb = http://www.imdb.com/name/nm22170513
+|twitter = }}
+'''Georgi Manchev''' (born January 27, 1984) is a Bulgarian stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 5|fifth season]] episodes "[[Hardhome (episode)|Hardhome]]" and "[[The Dance of Dragons (episode)|The Dance of Dragons]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 5||||||||yes|yes}}
+
+==See also==
+*{{IMDb
+|# = 2170513}}
+*{{Facebook
+|# = georgi.manchev}}
+*{{YouTube
+|# = channel/UCF8thw4iU3idtzZCgCR6xww}}
+*{{Linkedin
+|# = /in/georgi-manchev-350a3bab}}
+{{DEFAULTSORT:Manchev, Georgi}}
+[[Category:Stunt performers of Game of Thrones]]

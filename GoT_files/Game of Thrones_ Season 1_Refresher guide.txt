@@ -1,0 +1,36 @@
+{{DISPLAYTITLE:''Game of Thrones'': Season 1/Refresher guide}}
+<imagemap>
+Image:GoT-Season1-Refresher-banner.jpg
+
+rect 57 76 312 120 [[Game of Thrones]]
+rect 328 77 451 122 [[Game of Thrones: Season 1|Season 1]]
+rect 240 231 414 442 [[House Stark]]
+rect 198 519 319 640 [[Eddard Stark]]
+rect 342 519 463 640 [[Catelyn Stark]]
+rect 73 869 194 990 [[Jon Snow]]
+rect 270 869 391 990 [[Robb Stark]]
+rect 465 869 586 990 [[Sansa Stark]]
+rect 73 1436 194 1557 [[Arya Stark]]
+rect 270 1436 391 1557 [[Bran Stark]]
+rect 465 1436 586 1557 [[Rickon Stark]]
+rect 49 2058 223 2269 [[House Baratheon]]
+rect 73 2346 194 2467 [[Renly Baratheon]]
+rect 73 2724 194 2845 [[Stannis Baratheon]]
+rect 73 3103 194 3224 [[Robert Baratheon]]
+rect 438 2058 612 2269 [[House Lannister]]
+rect 465 2346 586 2467 [[Tywin Lannister]]
+rect 465 2724 586 2845 [[Tyrion Lannister]]
+rect 465 3102 586 3223 [[Jaime Lannister]]
+rect 270 3102 391 3223 [[Cersei Lannister]]
+rect 73 3614 194 3735 [[Tommen Baratheon]]
+rect 270 3614 391 3735 [[Joffrey Baratheon]]
+rect 465 3614 586 3735 [[Myrcella Baratheon]]
+rect 243 4201 417 4412 [[House Targaryen]]
+rect 73 4489 194 4610 [[Drogo|Khal Drogo]]
+rect 268 4489 389 4610 [[Daenerys Targaryen]]
+rect 465 4489 586 4610 [[Viserys Targaryen (son of Aerys II)|Viserys Targaryen]]
+
+desc none
+</imagemap>
+[[Category:Featured pages]]
+[[Category:Game of Thrones: Season 1|Refresher guide]]

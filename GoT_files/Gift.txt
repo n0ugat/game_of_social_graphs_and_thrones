@@ -1,0 +1,88 @@
+{{Canonicity|Canon}}
+{{OtherUses|region|The Gift (disambiguation)}}
+{{Heraldry
+| Image = Night's Watch.svg
+| Link  = Night's Watch
+}}
+{{Region
+| Title      = {{PAGENAME}}
+| Theme      = Watch
+| Image      = The Gift map.png
+| Type       = Special zone within the [[North]], granted to the rule of the [[Night's Watch]]
+| Location   = Northern [[Westeros]]
+| Geography  = Sub-arctic tundra, forests, mountains in the west
+| Population = [[Night's Watch|Brothers of the Night's Watch]]<br>[[Northmen]]<br>[[Free Folk]]
+| Rulers     = [[Lord Commander of the Night's Watch|Lord Commanders of the Night's Watch]]
+| Culture    = [[First Men]]
+| Religion   = [[Old Gods]]<br>[[Faith of the Seven]]<br>Various other religions
+| Military   = 
+| Capital    = [[Castle Black]]
+| Castles    = [[Castle Black]] {{*}} [[Eastwatch-by-the-Sea]] {{*}} [[Shadow Tower]] {{*}} [[Queenscrown]]
+| Cities     = 
+| Towns      = 
+| Villages   = [[Mole's Town]]
+| Places     = [[Kingsroad]]
+| Founded    = c. 8,000 BC by {[[Brandon the Builder]]}<br>{{C|according to legend}}
+}}
+{{Dialogue a-b|Osha|Where are we?|Bran Stark|The Gift, I think. Brandon the Builder gave all this land south of the Wall to the Night's Watch, for their sustenance and support.|[[Bran Stark]]'s party on entering the lands of the Gift.|The Rains of Castamere (episode)}}
+The '''Gift'''{{Ref|GOT309}} is a region to the south of the [[Wall]] under the control of the [[Night's Watch]]. It lies at the northern border of the [[North|Kingdom of the North]]. It was donated to the Night's Watch by [[House Stark]] when the order was founded thousands of years ago, in order to support the Night's Watch with food and provisions.
+
+The Gift is officially not subject to the authority of [[Winterfell]], and is technically not part of "the North", but is a special administrative zone directly ruled by the Night's Watch. Culturally and socially, however, the lightly inhabited villages of the Gift are usually seen as just an extension of the North.
+
+By definition, the Gift is ruled by the Night's Watch, and thus contains no noble houses. Therefore no special [[bastard]] surname was ever developed for the region, because these are legally only used by the bastard children of nobles.
+
+==History==
+The Gift is held to be as old as the Wall itself - which according to legend was raised 8,000 years ago. The region is called "the Gift" because it was given to the Night's Watch as a ''gift of land'' for their "sustenance and support", from which the Watch could draw a steady supply of food, livestock, firewood, etc. The myths say that [[Brandon the Builder]] himself, the founder of [[House Stark]] and builder of the Wall, is the one who gifted these lands to the Watch.<ref name=":0">"[[The Rains of Castamere (episode)|The Rains of Castamere]]"</ref>
+
+==Geography==
+[[File:The Gift wildlings 1.jpg|thumb|The Gift extends south of the [[Wall]].]]
+The Gift extends immediately south of the Wall, stretching from the eastern to western coasts of Westeros. The southern border is roughly at the same parallel as the southern tip of the island of [[Skagos]] (slightly further north than the northern edge of [[Bear Island]]). The [[Kingsroad]] runs through the middle of the Gift, as it passes from [[Winterfell]] to [[Castle Black]]. The Gift is bordered to the south by the lands of [[House Umber]], which are centered on their castle-seat at [[Last Hearth]]. As the northernmost noble House of the North (and the Seven Kingdoms as a whole) the Umbers often have to lead armies into the Gift to repel wildling raiding parties.<ref name=":0" />
+
+[[File:The Gift horse farm.jpg|thumb|left|The Gift contains farmland meant to sustain the Night's Watch.]]
+The westernmost portion of the Gift is rough mountainous country, a continuation of the [[Frostfangs|Frostfang Mountains]] whose main range is north of the Wall. The southern Frostfangs continue south through the Gift until tapering off into the North itself.
+
+While cold, the Gift still contains good, arable land, far away from the wars of southern Westeros. As the Night's Watch declined over the centuries, however, increasing wildling raids over or around the Wall have caused the lands of the Gift closest to the Wall to be largely abandoned. Even the Gift as a whole is lightly populated, with vast open stretches of abandoned countryside, dotted by the occasional ruin of an old village.<ref name=":0" /> The abandoned town of [[Queenscrown]] lies within the Gift.
+
+The closest inhabited village to the Wall within the Gift, in which common peasants actually live, is [[Mole's Town]] - which is located along the Kingsroad a short distance from Castle Black.<ref>"[[Cripples, Bastards, and Broken Things]]"</ref> Despite its name, Mole's Town isn't really a large "market town" of the scale found in southern Westeros: while it is (apparently) the largest settlement in the Gift, by the standards of southern Westeros it is only a small, filthy, hardscrabble village.<ref>"[[Breaker of Chains]]"</ref>
+
+==In the books==
+[[File:The Gift.png|thumb|right|200px|A map showing the location of the Gift on the continent of Westeros. Bran's Gift is shown in green, the New Gift in red.]]
+In the ''[[A Song of Ice and Fire]]'' novels, the Gift was donated to the Night's Watch by King Brandon Stark, popularly believed to be [[Brandon the Builder]], though [[Order of Maesters|maesters]] believe it was a different Brandon. [[Aegon's Conquest]] did little to change this: nominally, the Gift is part of the unified realm of the "[[Seven Kingdoms]]" under the [[Iron Throne]], but in practice the Targaryen kings respected the strict non-interference rules of the Night's Watch, allowing the Watch to continue to functionally control the Gift without royal oversight.
+
+The Gift originally extended for twenty-five leagues (seventy-five miles) south of the Wall. This was doubled some two centuries ago when Queen [[Alysanne Targaryen]], the sister-wife of King [[Jaehaerys I Targaryen|Jaehaerys the Conciliator]], visited the Wall on the back of her [[dragon]], Silverwing. Impressed with the valor, bravery, and loyalty of the Night's Watch, Alysanne urged her husband to extend the Gift. He did so by adding the "New Gift" to the existing territory. The New Gift extends for an additional twenty-five leagues to the south, giving the Night's Watch control of all the lands from coast to coast for one hundred and fifty miles south of the Wall.
+
+It is unclear if the "Brandon's Gift" originally had smallfolk living on it, or if it was supposed to be worked by stewards of the Night's Watch. In either case, the addition of the New Gift added a population of smallfolk to the Gift, some of which may have moved north into Brandon's Gift, only to then be mostly driven back south later in time by increasing wildling attacks. The declining numbers of the Night's Watch have reduced their ability to both hold the Wall and defend the villagers of the Gift from the small wildling parties that are sometimes able to bypass the Wall (by either climbing over lightly-defended areas or going around by sea). As a result, the Gift is lightly-settled close to the Wall, with more farms and villages located in the New Gift close to the lands of [[House Umber]]. The most notable incursion into the Gift was by [[Raymun Redbeard]], the [[King-Beyond-the-Wall]] of more than a century ago, who reached [[Long Lake]] before being defeated by the armies of [[House Stark]].
+
+Brandon's Gift (extending twenty five leagues south of the Wall) is said to be almost entirely abandoned by the time of the [[War of the Five Kings]]. Mole's Town, however, is located only half a league south of Castle Black along the Kingsroad, and is therefore within Brandon's Gift. It is possible that the few remaining smallfolk clustered around the Kingsroad, because military response from Castle Black or Winterfell against wildling attacks could reach them more quickly along the major highway.
+
+The Gift may appear small on a map of Westeros, but its marginal population means that it is filled with vast open spaces. It is also one of the few regions in Westeros for which the land area can be calculated with reasonable certainty: the Wall is 300 miles long on its northern border (and its southern border widens somewhat), and the Gift extends for 50 leagues south of the Wall, one league equaling about three miles. This makes the total land area of the Gift at least 45,000 square miles (150 x 300), which is larger than real life [[Wikipedia:Iceland|Iceland]] (38,710 square miles), where scenes in the Gift are filmed, and nearing the size of [[Wikipedia:England|England]] (50,346 square miles).
+
+==Gallery==
+<gallery>
+The Gift wildlings 2.jpg|[[Free Folk|Wildlings]] cross south into the Gift by scaling the Wall.
+The Gift Queenscrown.jpg|Much of the Gift has been abandoned due to wildling raids.
+Mole's Town.jpg|[[Mole's Town]], the closest village in the Gift to Castle Black.
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Known world}}
+{{Gift}}
+
+<!--Categories-->
+[[Category:Gift| ]]
+[[Category:Night's Watch]]
+[[Category:North]]
+[[Category:Regions]]
+
+<!--Languages-->
+[[de:Schenkung]]
+[[fr:Don]]
+[[pl:Dar]]
+[[ru:Дар (место)]]
+[[uk:Дар (місце)]]

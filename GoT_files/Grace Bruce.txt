@@ -1,0 +1,21 @@
+{{Crew
+|Image = Grace Bruce.jpg
+|dateofbirth = 
+|birthplace = 
+|job = Stunt Performer
+|imdb = http://www.imdb.com/name/nm4245907
+|twitter = }}
+'''Grace Bruce''' is a stuntwoman and actress. She is the sister of [[Chloé Bruce]].
+
+In ''[[Game of Thrones]]'', she was a stunt performer in the [[Game of Thrones: Season 5|fifth season]] episodes "[[Unbowed, Unbent, Unbroken]]" and "[[Mother's Mercy]]" and the [[Game of Thrones: Season 7|seventh season]] episodes "[[Stormborn]]" and "[[The Dragon and the Wolf]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 5||||||yes||||yes}}
+{{Game of Thrones: Season 7||yes|||||yes}}
+
+==See also==
+*{{IMDb
+|# = 4245907}}
+{{DEFAULTSORT:Bruce, Grace}}
+[[Category:Stunt performers of Game of Thrones]]

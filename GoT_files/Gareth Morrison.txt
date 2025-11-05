@@ -1,0 +1,35 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Gareth Morrison.jpg
+| Birth   = December 6, 1981 {{Age|1981|12|6}}<br>Edinburgh, Scotland
+| Death   = 
+| Role    = Black Cell prisoner
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = "[[The Princess and the Queen]]"
+| First   = 
+| Last    = 
+}}
+'''Gareth Morrison''' (born 6 December, 1981) is Scottish actor, screenwriter and film producer. He has appeared in the film ''{{WPS|Outpost: Rise of the Spetsnaz}}''.
+
+In ''[[House of the Dragon]]'', he portrayed a Black Cell prisoner in the [[House of the Dragon: Season 1|first season]].
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1||||||yes}}
+
+==See also==
+*{{WP}}
+*{{IMDb|# = 3077301}}
+*{{Twitter|# = GarethDMorrison}}
+*{{Instagram|# = morrisongareth}}
+*{{YouTube|# = user/garethdmorrison}}
+*{{Linkedin|# = /in/gareth-morrison-6590881b}}
+
+<!--Categories-->
+{{DEFAULTSORT:Morrison, Gareth}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--InterWiki-Links-->
+[[fr:Gareth Morrison]]

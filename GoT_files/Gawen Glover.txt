@@ -1,0 +1,79 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = House Glover.svg
+| Link  = House Glover
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Stark
+| Image       = 
+| Birth       = At [[Deepwood Motte]]
+| Death       = 
+| House       = [[House Glover|Glover]]
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Northmen|Northern]]
+| Religion    = [[Old Gods]]
+| Father      = [[Robett Glover]]
+| Mother      = [[Sybelle Glover|Sybelle Locke]]
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = [[Erena Glover]]
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Gawen Glover'''{{Con|ASOIAF}} is the son of [[Robett Glover|Robett]] and [[Sybelle Glover]] and the brother of [[Erena Glover]]. 
+
+==Biography==
+===Background===
+Following the [[attack on Deepwood Motte]], Gawen, his mother, and sister are thrown into prison by the ironborn.{{Ref|GOT607}}
+
+===[[Game of Thrones: Season 6|''Game of Thrones'': Season 6]]===
+Due to [[Robb Stark]]'s failure to come to the aid of House Glover, Robett refuses to assist [[Jon Snow]] and [[Sansa Stark]]'s efforts to retake [[Winterfell]] from [[House Bolton]], who had helped them [[Fight by Deepwood Motte|drive out the ironborn]] earlier.{{Ref|GOT607}}
+
+==Family==
+{{Glover tree}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Gawen, along with his mother and sister, are captured when ironborn forces under [[Yara Greyjoy|Asha Greyjoy]] capture Deepwood Motte.
+
+In ''A Feast for Crows'', he and his family are taken by Asha to the [[Ten Towers]] in [[Harlaw]], one of the Iron Islands. Asha ensures that Gawen and his family are well looked after and housed in a tower instead of a dungeon.
+
+In A ''Dance of Dragons'', Gawen and Erena are left captive at Ten Towers in the care of Asha's aunt Gwynesse Harlaw while Sybelle and Asha return to Deepwood Motte, since Asha fears Erena is too unhealthy for a second sea voyage.
+
+According to Sybelle, Gawen has just reached his fourth [[nameday]].
+
+==Appearances==
+*{{GOT|The Broken Man}} {{Indirect}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Glover}}
+
+<!--Categories-->
+{{DEFAULTSORT:Glover, Gawen}}
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Members of House Glover|Gawen Glover]]
+[[Category:Northmen]]
+
+<!--Languages-->
+[[fr:Gawen Glover]]
+[[ru:Гавен Гловер]]

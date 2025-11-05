@@ -1,0 +1,33 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Gary Raymond.jpg
+| Birth   = Gary Barrymore Raymond<br>April 20, 1935 {{Age|1935|4|20}}<br>Brixton, London, England
+| Death   = 
+| Role    = [[High Septon (Viserys I)|High Septon]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = "[[The Heirs of the Dragon]]"
+| First   = 
+| Last    = 
+}}
+'''Gary Barrymore Raymond''' (born 20 April 1935) is an English actor.
+
+In ''[[House of the Dragon]]'', he portrayed the [[High Septon (Viserys I)|High Septon]] in "[[The Heirs of the Dragon]]".<ref>https://www.spotlight.com/0931-6729-7186</ref>
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1|yes}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb|#=0713267}}
+*{{Spotlight|#=0931-6729-7186}}
+
+{{DEFAULTSORT:Raymond, Gary}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--Interwiki links-->
+[[fr:Gary Raymond]]

@@ -1,0 +1,69 @@
+{{Canonicity|Non}}
+{{Heraldry
+| Image = House Umber.svg
+| Link  = House Umber
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Stark
+| Image       = Umber lineage.jpg
+| Birth       = [[196 AC/Non-canon|196 AC]]{{Dateref|Gareth Umber}} at [[Last Hearth]]
+| Death       = [[256 AC]]{{Dateref|Gareth Umber death}} (aged 60)<br>Died of a severe chill
+| House       = [[House Umber|Umber]]
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Northmen|Northern]]
+| Religion    = [[Old Gods]]
+| Father      = {[[Hothor Umber]]}
+| Mother      = {[[Amarylis Umber|Amarylis Manderly]]}
+| Spouse      = {[[Hollys Umber|Hollys Tallhart]]}
+| Lovers      = 
+| Children    = {[[Emilia Umber]]}<br>{[[Brandon Umber]]}<br>{[[Kear Umber]]}<br>{[[Finn Umber]]}<br>{[[Iain Umber (son of Gareth)|Iain Umber]]}<br>{[[Morgana Umber]]}
+| Siblings    = {[[Harkon Umber]]}<br>{[[Mycah Umber]]}<br>{[[Lucan Umber]]}<br>{[[Joseth Umber]]}<br>{[[Regan Karstark]]}<br>{[[Corin Umber]]}
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Gareth Umber''' was a member of [[House Umber]].
+
+==Biography==
+===Background===
+Gareth Umber was the fourth born son of Lord [[Hothor Umber]] and his wife, Lady [[Amarylis Umber]]. At the age of twenty-four, he married [[Hollys Umber|Hollys Tallhart]], with whom he had six children.{{Ref|GOT104}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+He has an entry in ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]''.{{Ref|GOT104}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no such character.
+
+==Appearances==
+*{{GOT|Cripples, Bastards, and Broken Things}} {{Text}}
+*{{GOT|A Golden Crown}} {{Text}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{House Umber}}
+
+<!--Categories-->
+{{DEFAULTSORT:Umber, Gareth}}
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Members of House Umber|Gareth Umber]]
+[[Category:Northmen]]
+
+<!--Languages-->
+[[de:Gareth Umber]]
+[[es:Gareth Umber]]
+[[fr:Gareth Omble]]
+[[ru:Гарет Амбер]]

@@ -1,0 +1,36 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Gavin Spokes.jpg
+| Birth   = England
+| Death   = 
+| Role    = [[Lyonel Strong]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = 6 episodes {{Below|Credits}}
+| First   = "[[The Heirs of the Dragon]]"
+| Last    = "[[The Princess and the Queen]]"
+}}
+'''Gavin Spokes''' is an English actor and producer. He has appeared in the film ''{{WPS|Brexit: The Uncivil War}}'' and television series such as ''{{WPS|The Bill}}'', ''{{WPS|Hollyoaks}}'', ''{{WPS|Holby City}}'', ''{{WPS|Will (TV series)|Will}}'' and ''{{WPS|Casualty (TV series)|Casualty}}''.
+
+He portrays Lord [[Lyonel Strong]] in ''[[House of the Dragon]]''.<ref name=HBO>[https://www.hbo.com/house-of-the-dragon House of the Dragon: The Game of Thrones Prequel (hbo.com)]</ref>
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1|yes|yes|yes|yes|yes|yes}}
+
+==See also==
+*{{IMDb
+|# = 2418667}}
+*{{Instagram
+|# = gavin.spokes}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+{{DEFAULTSORT:Spokes, Gavin}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Gavin Spokes]]

@@ -1,0 +1,65 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = Order of Maesters.svg
+| Link  = Order of Maesters
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Citadel
+| Image       = MaesterGawen.png
+| Birth       = 
+| Death       = [[Execution|Beheaded]] by [[Maegor Targaryen]]
+| House       = 
+| Affiliation = [[Order of Maesters]]<br>[[House Targaryen]]
+| Titles      = [[Grand Maester]]
+| Predecessor = 
+| Successor   = {[[Myros]]}
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|But no sooner did Maegor hear of his brother's death that he flew Balerion to Dragonstone and demanded the crown. Only the Grand Maester dared object that the throne should pass to his older brother's firstborn son, Prince Aegon.|[[Varys]]|Maegor the Cruel (short)}}
+'''Gawen'''{{Con|TWOI&F}} was [[Grand Maester]] during the reigns of [[Aenys Targaryen]] and [[Maegor Targaryen|Maegor the Cruel]]. He was the first of three Grand Maesters [[Execution|executed]] by Maegor.
+
+==Biography==
+Gawen was beheaded by King Maegor for [[treason]], having been the only one to publicly object to Maegor's coronation.{{Ref|H&L806}}
+
+==In the books==
+In ''The World of Ice & Fire'' and ''Fire & Blood'', Gawen served as Grand Maester for Kings [[Aegon I Targaryen|Aegon I]] and [[Aenys Targaryen|Aenys]] prior to serving Maegor. He was the third Grand Maester, being the successor of Grand Maester Lyonce. When King Aenys fell ill at [[Dragonstone]] in 41 AC, Gawen had little to no hope in the king's betterment. Gawen protested the coronation of King Maegor, stating that [[Aegon Targaryen (son of Aenys)|Prince Aegon]] is the rightful heir to the [[Iron Throne|throne]]. Gawen was beheaded by Maegor with [[Blackfyre]] for his protests.
+
+In ''A Storm of Swords'', [[Tyrion Lannister|Tyrion]] mentions that Maegor the Cruel's headsman unmade three Grand Maesters with his axe (without mentioning their names). This is the only reference in the ''[[A Song of Ice and Fire]]'' novels to Gawen, alongside [[Myros]] and [[Desmond]].
+
+==Appearances==
+*{{H&L|Maegor the Cruel}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+[[Category:Grand Maesters]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Servants and retainers of House Targaryen]]
+[[Category:Westerosi]]
+
+<!--Languages-->
+[[ru:Гавен]]

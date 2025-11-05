@@ -1,0 +1,48 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Rowan.svg
+| Link  = House Rowan
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Bronn
+| Image        = 
+<gallery>
+701 BtS Map Golden Grove.png|Appearance
+Goldengrove Pin.png|Location
+</gallery>
+| Type         = Castle
+| Status       = 
+| Location     = The [[Reach]], [[Westeros]]
+| Population   = 
+| Rulers       = [[House Rowan]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Goldengrove'''{{Ref|GOT701}} is a castle in the [[Reach]], it is the seat of [[House Rowan]]. The castle is located north of Highgarden near the border of the [[Westerlands]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Goldengrove is the seat of House Rowan. In the novels, Lord Mathis Rowan is one of Lord [[Mace Tyrell]]'s closest and most trusted advisors (along with [[Paxter Redwyne]] and [[Randyll Tarly]]) and has a reputation for steadfast prudence that is known even outside the [[Reach]]. He accompanies King [[Renly Baratheon]] on his campaign. Notably, in the novels it is to him that [[Catelyn Stark]] makes the remark about Renly's followers being the '[[Knighthood|knights]] of summer', rather than Renly himself as in the TV series.
+
+In the novels it was Mathis Rowan who sent [[Dareon]] to the [[Wall]] after finding him abed with one of his daughters.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{Reach}}
+
+<!--Categories-->
+[[Category:Castles of the Reach]]
+[[Category:House Rowan]]
+
+<!--Languages-->
+[[de:Goldhain]]
+[[ru:Золотая Роща]]
+[[zh:金树城]]

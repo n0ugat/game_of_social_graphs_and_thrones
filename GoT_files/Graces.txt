@@ -1,0 +1,45 @@
+{{Canonicity|Canon}}
+{{Organization
+| Title       = {{PAGENAME}}
+| Theme       = Ghiscari
+| Image       = 
+| Type        = Clergy
+| Status      = Active
+| Symbol      = 
+| Words       = 
+| Center      = [[Temple of the Graces]]
+| Leader      = 
+| Affiliation = 
+| Religion    = [[Ghiscari religion]]
+| Military    = 
+| Founded     = 
+}}
+{{Quote|The tradition of funeral rite. Proper burial in the Temple of the Graces.|[[Hizdahr zo Loraq]]|The Laws of Gods and Men}}
+'''Graces'''{{Ref|GOT406}} are priestesses in the [[Ghiscari religion]] of [[Slaver's Bay]]. The center of worship in each major city is known as the [[Temple of the Graces]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the Graces are divided into several sub-orders, and each wears different colored robes to denote their function. The Graces are apparently an all-female clergy and many of them are of noble birth. However, it is unclear if this is an absolute requirement, or if it varies from one sub-order to the next:
+* The Blue Graces are skilled healers and surgeons, treating everything from plague to serious battle injuries (in this respect they are somewhat like the [[Order of Maesters]] in Westeros). One named Blue Grace is Ezzara, who appears in ''A Dance with Dragons''.
+* The Red Graces are [[Wikipedia:Sacred prostitution|cult prostitutes]]. They are the only Graces that are allowed to have sex, while the others are sworn to chastity.
+* The White Graces are girls of noble birth who are too young to serve in [[Pleasure house|pleasure houses]]. While not stated, they apparently join other suborders of Graces when they grow older.
+* The Green Grace is the high priestess, and there is apparently only one at a time in any given temple. The Green Grace of [[Meereen]], Galazza Galare, becomes an advisor to [[Daenerys Targaryen]] during her rule in the city.
+* The Pink Graces serve as personal attendants to the Green Grace. It is unknown if they perform any other duties.
+
+Gold Graces and Purple Graces also exist, but their specific functions have not been mentioned.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Slaver's Bay}}
+
+<!--Categories-->
+[[Category:Clergy]]
+[[Category:Ghiscari religion]]
+[[Category:Religious organizations]]
+
+<!--Languages-->
+[[ru:Благодати]]

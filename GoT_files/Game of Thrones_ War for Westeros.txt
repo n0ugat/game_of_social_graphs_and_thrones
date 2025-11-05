@@ -1,0 +1,29 @@
+{{DISPLAYTITLE:''Game of Thrones: War for Westeros''}}
+{{Stub}}
+{{Game
+| Title     = ''Game of Thrones:<br><small>War for Westeros</small>''
+| Type      = Thrones
+| Image     = {{PAGENAME}}.png
+| Episodes  = 
+| Date      = 2026
+| Platforms = PC
+| Designer  = 
+| Voice     = 
+| Years     = 
+| Website   = https://www.warforwesteros.com/
+}}
+'''''Game of Thrones: War for Westeros''''' is an upcoming real-time strategy game set for release in 2026.
+
+==Gameplay==
+The game allows players to control the [[Great House]]s such as the [[House Stark|Starks]], [[House Lannister|Lannisters]], and [[House Targaryen|Targaryens]] or the [[Night King]] to battle for control of [[Westeros]]. The game will feature a campaign as well as PvP multiplayer. Players will be able to form alliances between houses. Units include infantry, cavalry, siege engines, [[giant]]s, and [[dragon]]s. Confirmed locations include the [[Wall]] and [[King's Landing]].{{Webref|name= |author=Dalton Cooper |date=June 7, 2025 |url=https://gamerant.com/game-of-thrones-war-for-westeros-trailer-gameplay-screenshots/ |title=Game of Thrones: War for Westeros Video Game Announced, But There's a Catch |website=GameRant |access-date=June 8, 2025 }}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{Game of Thrones}}
+
+<!--Categories-->
+[[Category:Games based on Game of Thrones|War for Westeros]]
+[[Category:Games released in 2026|?.??]]
+[[Category:Video games]]

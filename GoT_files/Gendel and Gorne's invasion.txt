@@ -1,0 +1,52 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{War
+| Title      = {{PAGENAME}}
+| Type       = Westeros
+| Part       = 
+| Image      = The Wall (Histories & Lore Season 4) - Gorne and Gendel.PNG
+| Previous   = [[Ghiscari wars]]
+| Concurrent = 
+| Next       = [[Dornish sack of Highgarden]]
+| Beginning  = 
+| End        = 
+| Place      = [[Gift]]
+| Outcome    = Stark-Night's Watch victory
+*[[Free Folk]] invasion repulsed
+| Factions1  = [[Free Folk]]
+| Factions2  = {{COA|House Stark|s}}<br>[[North|Kingdom of the North]]<br>{{C|[[House Stark]]}}<br><br>{{COA|Night's Watch|s}}<br>[[Night's Watch]]
+| Factions3  = 
+| Factions4  = 
+| Factions5  = 
+| Factions6  = 
+| Leaders1   = [[King-Beyond-the-Wall|King]] [[Gorne]]<br>[[King-Beyond-the-Wall|King]] [[Gendel]]
+| Leaders2   = {{COA|House Stark|i}} [[King in the North]]<br>{{COA|Night's Watch|i}} [[Lord Commander of the Night's Watch]]
+| Leaders3   = 
+| Leaders4   = 
+| Leaders5   = 
+| Leaders6   = 
+| Events     = 
+}}
+{{Quote|The brothers Gendel and Gorne, Kings-Beyond-the-Wall, went under the Wall through ancient caves buried deep in the Earth. But on the way back they took a wrong turn and were lost in in the darkness. People say that their children's children's children are still down there... looking for a way up, or for more food to find its way down.|[[Samwell Tarly]]|The Wall}}
+'''Gendel and Gorne's invasion''' was one out of seven major [[Free Folk]] invasions of the [[North]], led by [[King-Beyond-the-Wall|Kings-Beyond-the-Wall]] [[Gendel]] and [[Gorne]], prior to [[Aegon's Conquest]]. Like the other six invasions, it was repulsed.<ref>"[[The Wall]]"</ref>
+
+==History==
+The invasion is remembered more for the Free Folk retreat than the battle itself. The brothers Gorne and Gendel, who ruled together as Kings-Beyond-the-Wall, led an army of Free Folk through ancient caves. When the joint strength of the [[Night's Watch]] and the Kingdom of the North defeated the invasion, the kings attempted to retreat back beyond the wall through the same caves, only to get lost there forever.
+
+==In the books==
+According to the [[A Song of Ice and Fire]] novels, the Free Folk initially managed to bypass the Night's Watch, only to run straight into the army of the [[King in the North]]. When learning that a battle was taking place, the Night's Watch intervened and helped the Stark army surround the Free Folk army. Together, they destroyed the invading army.
+
+Samwell claims that both kings got lost under the wall during the retreat; according to the books, Gorne was confirmed killed, but Gendel's fate is disputable. Northern traditions have it he was killed with his brother, while according to the traditions of the Free Folk he escaped, though got lost on his way.
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{Wars}}
+
+<!--Categories-->
+[[Category:Wars]]
+
+<!--Languages-->
+[[fr:Guerre de Gorne et Gendel]]
+[[ru:Война Горна и Генделя]]

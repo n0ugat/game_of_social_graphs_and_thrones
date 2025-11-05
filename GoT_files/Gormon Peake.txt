@@ -1,0 +1,64 @@
+{{Canonicity|Canon}}
+{{Spoiler|AKOTSK}}
+{{BookConjecture}}
+{{Heraldry
+| Image = House Peake.svg
+| Link  = House Peake
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Tyrell
+| Image       = 
+| Birth       = In the [[Reach]]
+| Death       = 
+| House       = [[House Peake|Peake]]
+| Affiliation = [[House Tyrell]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Andals|Andal]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+Lord '''Gormon Peake'''{{Con|D&EN}} is the head of [[House Peake]].
+
+==In the books==
+In the [[Dunk & Egg novellas]], Gormon is a veteran of the [[Blackfyre Rebellion]], in which he fought for [[Daemon Blackfyre]] and killed Lord Hayford and Roger of Pennytree at the [[Battle of Redgrass Field|Battle of the Redgrass Field]]. After the battle, he surrendered and was pardoned by King [[Daeron II Targaryen|Daeron II]] at the price of his castles Dunstonbury and Whitegrove, leaving him only Starpike. [[Arlan of Pennytree]], Roger's uncle, mentioned Gormon to his squire [[Duncan the Tall|Dunk]] but could not recall his name.
+
+Gormon's name is a reference to the ''Gormenghast'' trilogy written by Mervyn Peake.
+
+==Appearances==
+*{{GOT|The Iron Throne}} {{Text}} {{Indirect}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|AKOTSK}}
+
+<!--Categories-->
+{{DEFAULTSORT:Peake, Gormon}}
+[[Category:Bannermen of House Tyrell]]
+[[Category:Individuals from the Reach]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Lords]]
+[[Category:Members of House Peake|Gormon Peake]]
+
+<!--Languages-->
+[[ru:Гормон Пик]]

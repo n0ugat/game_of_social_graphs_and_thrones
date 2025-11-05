@@ -1,0 +1,60 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Night's Watch.svg
+| Link  = Night's Watch
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = 
+| Birth       = At [[Skyreach]]
+| Death       = 
+| House       = 
+| Affiliation = [[Night's Watch]]
+| Titles      = [[King]] of Stone and Sky {{C|deposed}}<br>[[Lordship|Lord]] of [[Skyreach]] {{C|deposed}}
+| Predecessor = 
+| Successor   = 
+| AKA         = The Blind King
+| Culture     = [[Dornishmen|Dornish]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|They sent no fewer than six self-styled "kings" to the Wall in golden chains.|[[Ellaria Sand]]|Dorne (short)}}
+King '''Garrison Fowler''' was the last king of House Fowler.
+
+==Biography==
+After being defeated in [[Nymeria's War]], Garrison was sent to the [[Wall]] in golden chains by [[Nymeria]].{{Ref|H&L509}}
+
+==In the books==
+In ''The World of Ice & Fire'', Garrison Fowler is described as aged and blind. Despite this, he was still feared for his cunning.
+
+==Appearances==
+*{{H&L|Dorne}} {{Indirect}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+{{DEFAULTSORT:Fowler, Garrison}}
+[[Category:Dornishmen]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Kings]]
+[[Category:Men of the Night's Watch]]
+
+<!--Languages-->
+[[ru:Гаррисон Фаулер]]

@@ -1,0 +1,37 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Grandison.svg
+| Link  = House Grandison
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Baratheon
+| Image        = 
+| Type         = Castle
+| Status       = 
+| Location     = [[Stormlands]]
+| Population   = 
+| Rulers       = [[House Grandison]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Grandview'''<ref>https://entertainment.ha.com/itm/movie-tv-memorabilia/props/westeros-map-room-floor-constructed-of-4-vinyl-panels-from-game-of-thrones-hbo-r-original/a/7366-89549.s</ref> is a castle in the [[Stormlands]] and the seat of [[House Grandison]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Grandview is the seat of House Grandison.
+
+==References==
+{{Reflist}}
+
+==External links== 
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Stormlands}}
+
+<!--Categories-->
+[[Category:Castles of the Stormlands]]
+[[Category:House Grandison]]

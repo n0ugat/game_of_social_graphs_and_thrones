@@ -1,0 +1,61 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Wildling
+| Image       = Gorne.png
+| Birth       = [[Beyond the Wall]]
+| Death       = Trapped inside the [[Wall]]
+| House       = 
+| Affiliation = 
+| Titles      = [[King-Beyond-the-Wall]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Free Folk]]
+| Religion    = [[Old Gods]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = {[[Gendel]]}
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|The brothers Gendel and Gorne, Kings-Beyond-the-Wall, went under the Wall through ancient caves buried deep in the Earth. But on the way back they took a wrong turn and were lost in the darkness. People say that their children's children's children are still down there looking for a way up or for more food to find it's way down.|[[Samwell Tarly]]|The Wall}}
+'''Gorne''' was a [[King-Beyond-the-Wall]] of the [[Free Folk]], a title he shared with his brother [[Gendel]].
+
+==Biography==
+Gorne and Gendel [[Gendel and Gorne's invasion|invaded the North]] by leading an army through ancient caves below the [[Wall]]. After being forced to retreat, they took a wrong turn and were lost forever. According to legend, their descendants are still down there looking for a way out.{{Ref|H&L409}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Gorne was joint [[King-Beyond-the-Wall]] with his twin brother Gendel, three thousand years before the [[War of the Five Kings]]. 
+
+The two brothers gathered the [[Free Folk]] and led them through a cave path beneath the [[Wall]] that would later be called "Gorne's Way". Gendel and Gorne's host evaded the [[Night's Watch]], but when they emerged, the [[King in the North]] was awaiting them and attacked them. Gorne slew the King, but the King's son took his crown and slew Gorne. While the battle raged, the Night's Watch emerged from their castles and took the Free Folk in the rear.
+
+==Appearances==
+*{{GOT|The Bear and the Maiden Fair}} {{Indirect}}
+*{{H&L|The Wall}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Kings-Beyond-the-Wall}}
+
+<!--Categories-->
+[[Category:Free Folk]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Kings-Beyond-the-Wall]]
+
+<!--Languages-->
+[[de:Gorne]]
+[[ru:Горн]]

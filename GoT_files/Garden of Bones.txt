@@ -1,0 +1,47 @@
+{{Canonicity|Canon}}
+{{OtherUses|desert|Garden of Bones (disambiguation)}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Westeros
+| Image        = QarthGardenOfBones.jpg
+| Type         = Desert
+| Status       = 
+| Location     = Between [[Qarth]] and the [[Red Waste]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = 
+| Places       = 
+| Founded      = 
+}}
+{{Quote|[...] the desert around their walls is called the Garden of Bones. Every time that Qartheen shut their gates on a traveler, the garden grows.|Ser [[Jorah Mormont]]|Garden of Bones (episode)}}
+The '''Garden of Bones'''{{Ref|GOT204}} is the desert surrounding the city of [[Qarth]], lying between the port city and the [[Red Waste]]. It is called so because it is filled with the bones of travelers who have been denied entry to Qarth and have perished due to thirst and exposure.
+
+==History==
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+[[Daenerys Targaryen|Daenerys]] and her [[khalasar]] cross the Garden of Bones after being invited to meet the [[Thirteen]], the Qartheen ruling council, through her [[bloodrider]] [[Kovarro]]. After meeting with Daenerys before the walls of Qarth, the Thirteen turn her away, unconcerned with the fate of the last Targaryen and her people. Faced with the prospect of having led her people to their deaths, Daenerys threatens the Thirteen to destroy Qarth but they remain unfazed, as her [[dragon]]s are not yet grown. One of the Thirteen, [[Xaro Xhoan Daxos]], defies his fellow dignitaries and invokes [[Sumai]], a blood oath by which a Qartheen citizen may vouch for an outsider, and gets the doors of the city opened for Daenerys and her followers.<ref>"[[Garden of Bones (episode)|Garden of Bones]]"</ref>
+
+==In the books==
+
+In the ''[[A Song of Ice and Fire]]'' novels, there is no mention of the desert around Qarth or if the Qartheen refuse entrance to travelers, leaving them to die. The name of the Garden of Bones may be a reference to a ruined and abandoned city in the Red Waste in which Daenerys and her khalasar take refuge and which her [[Dothraki]] name "Vaes Tolorro", City of Bones, for the blank and chalky façades of its buildings.
+
+Generally speaking, Qarth is surrounded by the deserts of the Red Waste, and nearly impossible for any invading army to approach from land, due to lack of water resources in the surrounding countryside. For this reason Qarth does not fear the Dothraki hordes or pay tribute to them as the cities of [[Slaver's Bay]] or the [[Free Cities]] do. For that matter, Qarth is so inaccessible that it was never even conquered by the old [[Valyrian Freehold]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Vaes Tolorro}}
+
+<!--Navboxes-->
+{{Qarth}}
+
+<!--Categories-->
+[[Category:Deserts]]
+[[Category:Qarth]]
+[[Category:Red Waste]]
+
+<!--Languages-->
+[[de:Garten der Knochen]]
+[[ru:Сад Костей]]

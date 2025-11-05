@@ -1,0 +1,39 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Martell
+| Image        = Godsgrace Pin.png
+| Type         = Castle
+| Status       = 
+| Location     = [[Dorne]], [[Westeros]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Godsgrace'''{{Guideref|Map of Westeros}} is a castle in [[Dorne]], the region controlled by [[House Martell]] of [[Sunspear]]. The castle is located in eastern Dorne close to where the [[Greenblood]] is born from the [[Scourge]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Godsgrace is the seat of House Allyrion.
+
+==Appearances==
+*{{GOT|Dragonstone}} {{Map}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Dorne}}
+
+<!--Categories-->
+[[Category:Castles of Dorne]]
+
+<!--Languages-->
+[[de:Göttergnad]]
+[[ru:Дар Богов]]

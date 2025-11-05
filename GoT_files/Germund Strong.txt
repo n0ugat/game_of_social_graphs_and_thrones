@@ -1,0 +1,73 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Strong.svg
+| Link  = House Strong
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Tully
+| Image       = Germund Strong.png
+| Birth       = 
+| Death       = 
+| House       = [[House Strong|Strong]]{{Ref|HOTD203}}
+| Affiliation = 
+| Titles      = 
+| AKA         = 
+| Culture     = [[Riverlands|Rivermen]]{{Ref|HOTD203}}
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 2|2]]
+| Appearances = 4 episodes {{Below|Appearances}}
+| First       = "[[The Burning Mill]]"
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Paul Valentine]]
+}}
+'''Germund Strong''' is a member of [[House Strong]] during the [[Dance of the Dragons]].
+
+==Biography==
+===Background===
+Germund is a grandson of Ser [[Simon Strong]]{{Con|F&B}} and either the brother or cousin of [[Paxter Strong]].
+
+===[[House of the Dragon: Season 2|''House of the Dragon'': Season 2]]===
+Germund is present when [[Daemon Targaryen]] arrives at [[Harrenhal]] to [[Taking of Harrenhal|claim]] the castle for [[Rhaenyra Targaryen|Rhaenyra]]. He later eats supper with Daemon, Simon, and [[Paxter Strong]].{{Ref|HOTD203}}
+
+==Family==
+{{Strong tree}}
+
+==In the books==
+In ''[[Fire & Blood]]'', there is no character named Germund Strong. Simon Strong's grandsons are mentioned but unnamed.
+
+==Appearances==
+*{{HOTD|The Burning Mill}}
+*{{HOTD|The Red Dragon and the Gold}}
+*{{HOTD|Regent}}
+*{{HOTD|Smallfolk}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{House Strong}}
+
+<!--Categories-->
+{{DEFAULTSORT:Strong, Germund}}
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Members of House Strong|Germund Strong]]
+[[Category:Rivermen]]
+
+<!--Languages-->
+[[fr:Germund Fort]]
+[[pl:Germund Strong]]
+[[ru:Гермунд Стронг]]
+[[uk:Ґермунд Дужий]]

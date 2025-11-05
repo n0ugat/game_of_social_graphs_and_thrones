@@ -1,0 +1,33 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Garry Cooper.jpg
+| Birth   = June 2, 1955 {{Age|1955|6|2}}<br>Hull, East Yorkshire, England
+| Death   = 
+| Role    = [[Ryam Redwyne]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = "[[The Heirs of the Dragon]]"
+| First   = 
+| Last    = 
+}}
+'''Garry Cooper''' (born 2 June 1955) is an English actor and director.
+
+In ''[[House of the Dragon]]'', he portrayed [[Ryam Redwyne]] in "[[The Heirs of the Dragon]]".<ref>https://www.spotlight.com/8737-9059-0646</ref>
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1|yes}}
+
+==See also==
+*{{IMDb|#=0178041}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+{{DEFAULTSORT:Cooper, Garry}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Garry Cooper]]

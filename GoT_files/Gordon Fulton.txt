@@ -1,0 +1,26 @@
+{{Cast
+|Title = Gordon Fulton
+|Image = Gordon Fulton.jpg
+|birthplace = Bangor, County Down, Northern Ireland, UK
+|role = [[Portan]]
+|status =
+|Appearances = "[[The North Remembers]]"
+|imdb = http://www.imdb.com/name/nm1101680/
+}}
+'''Gordon Fulton''' is an actor based in Northern Ireland.
+
+In ''[[Game of Thrones]]'' he portrays the role of Lord [[Portan]]. he joined the cast as a guest star in the [[Game of Thrones: Season 2|second season]].
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 2|yes}}
+
+==See also==
+*{{Template:IMDb
+|# = 1101680}}
+
+{{Stub}}
+
+[[fr:Gordon Fulton]]
+{{DEFAULTSORT:Fulton, Gordon}}
+[[Category:Guest starring cast members of Game of Thrones]]

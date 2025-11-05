@@ -1,0 +1,51 @@
+{{DISPLAYTITLE:''Game of Thrones: The Last Watch''}}
+{{Stub}}
+{{Featurette
+| Title     = ''Game of Thrones:<br><small>The Last Watch</small>''
+| Type      = Thrones
+| Image     = {{PAGENAME}}.jpg
+| Date      = May 26, 2019{{Listref|GOT}}
+| Runtime   = 114 minutes{{Ref|TLW}}
+| Narrators = 
+| Writer    = 
+| Director  = [[Jeanie Finlay]]{{HBOref|TLW}}
+| Previous  = 
+| Next      = 
+}}
+'''''Game of Thrones: The Last Watch'''''{{Ref|TLW}} is a two-hour documentary chronicling the production of the [[Game of Thrones: Season 8|final season]] of ''[[Game of Thrones]]''. It premiered on May 26, 2019 on [[HBO]], one week after the [[The Iron Throne|series finale]].<ref>https://www.hbo.com/schedule?focusId=807797</ref> It was directed by [[Jeanie Finlay]].<ref>http://www.makinggameofthrones.com/production-diary/game-of-thrones-the-last-watch-documentary-announcement</ref>
+
+==Description==
+For a year, filmmaker [[Jeanie Finlay]] was embedded on the set of ''[[Game of Thrones]]'', chronicling the creation of the show's most ambitious and complicated season. The result is this film which provides an intimate portrait from the trenches of production, following the crew and the cast as they contend with extreme weather, punishing deadlines and a fandom hungry for spoilers.{{HBOref|TLW}}
+
+==Gallery==
+===Video===
+<gallery bordersize="none">
+Game of Thrones: The Last Watch / Official Documentary Trailer / HBO
+</gallery>
+
+===Image===
+<gallery>
+Game of Thrones The Last Watch.png
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{HBO|movies/game-of-thrones-the-last-watch}}
+*{{HBO Max|movie/df242db7-2ff5-40db-9e7b-150d9dcbc720}}
+*{{IMDb title|# = 10090796}}
+
+<!--Navboxes-->
+{{Game of Thrones}}
+
+<!--Categories-->
+[[Category:Documentaries of Game of Thrones|Last Watch]]
+[[Category:Documentaries released in 2019|5.26]]
+[[Category:Documentary films]]
+[[Category:Films directed by Jeanie Finlay]]
+[[Category:Films released in 2019|5.26]]
+[[Category:Game of Thrones: The Last Watch| ]]
+
+<!--Languages-->
+[[ru:Игра престолов: Последний дозор]]

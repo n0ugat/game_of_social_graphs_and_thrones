@@ -1,0 +1,35 @@
+{{Canonicity|Canon}}
+{{Deity
+| Title    = {{PAGENAME}}
+| Theme    = Westeros
+| Image    = 
+| Type     = Sea god
+| AKA      = 
+| Religion = 
+| Symbol   = 
+| Family   = [[Goddess of the wind]] {{C|wife}}<br>[[Elenei]] {{C|daughter}}
+| Aspects  = 
+| Avatars  = 
+}}
+{{Quote|In the Stormlands, according to ballads of the age, a man named Durran fell in love with Elenei, whose father was god of the sea and mother was goddess of the wind.|[[Bran Stark]]|The Age of Heroes}}
+The '''god of the sea'''{{Ref|H&L102}} is an ancient deity mentioned in the legend of [[Durran Godsgrief]], the first [[Storm King]]. He was the father of [[Elenei]], whom he had fathered on the [[goddess of the wind]].
+
+When Elenei fell in love with Durran and gave her maidenhead to him, becoming a mortal afterward, her parents, enraged, sent forth a massive storm that destroyed Durran's bayside keep as a "wedding gift". Durran declared war on Elenei's parents and rebuilt his keep, which was again destroyed. Four more castles were raised, each stronger than the last, and all of them were destroyed. Durran's seventh castle, [[Storm's End]] withstood the rage of the gods.<ref>"[[The Age of Heroes]]"</ref><ref>"[[The Stormlands]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the legend of Elenei and Durran is the same. Even though the [[First Men]] had adopted the [[Old Gods|old gods]] of the [[Children of the Forest]], there's no mention of which gods they worshiped before their conversion. Elenei's parents are similar to the deities of the [[Three Sisters]] - the Lady of the Waves and the Lord of the Skies, which made storms every time they mated - and the [[Drowned God]] and [[Storm God]] of the [[ironborn]], all indicate the belief in elemental gods.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Sea god}}
+
+<!--Categories-->
+[[Category:Deities]]
+[[Category:Westerosi culture]]
+
+<!--Languages-->
+[[de:Meergott]]
+[[fr:Dieu de la Mer]]
+[[ru:Бог моря]]

@@ -1,0 +1,65 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Distinguish|Emmon Massey}}
+{{Heraldry
+| Image = House Massey.svg
+| Link  = House Massey
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Targaryen
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = [[House Massey|Massey]]{{Ref|HOTD101}}
+| Affiliation = [[House Tarly]]{{Ref|HOTD101}}
+| Titles      = 
+| AKA         = 
+| Culture     = [[Crownlands|Crownlander]]{{Ref|HOTD101}}
+| Religion    = 
+| Father      = [[Gormon Massey]]{{Ref|HOTD101}}
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = [[Elinda Massey]]{{Webref|name=WBD |author=Unknown author |date=Unknown date |url=https://press.wbd.com/us/bio/house-dragon-s2-character-descriptions |title=House of the Dragon S2 <nowiki>|</nowiki> Character Descriptions |website=Warner Bros. Discovery |access-date=June 5, 2024 }}<br>[[Emmon Massey]]{{Ref|HOTD203}}
+| Arms        = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 1|1]]
+| Appearances = "[[The Heirs of the Dragon]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Dialogue a-b-a-b|Rhaenyra|Lord Stokeworth's daughter is promised to that young Tarly squire.|Alicent|Lord Massey's son?|Mm-hm. They're to be married as soon as he wins his knighthood.|Best get on with it. I heard that Lady Elinor is hiding a swollen belly beneath her dress.|Rhaenyra Targaryen and Alicent Hightower|The Heirs of the Dragon}}
+'''Gormon Massey's son''' is a member of [[House Massey]] during the reign of [[Viserys I Targaryen|Viserys I]].
+
+==Biography==
+===Background===
+He is the firstborn son and heir of Lord [[Gormon Massey]]{{Ref|HOTD101}} and the brother of [[Elinda Massey|Elinda]]<ref name="WBD" /> and [[Emmon Massey]].{{Ref|HOTD203}} He is a squire to a knight of [[House Tarly]].{{Ref|HOTD101}}
+
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+[[Rhaenyra Targaryen|Rhaenyra]] and [[Alicent Hightower|Alicent]] discuss the squire's betrothal to [[Elinor Stokeworth]].{{Ref|HOTD101}}
+
+==In the books==
+In ''[[Fire & Blood]]'', a son of Gormon Massey is not mentioned.
+
+==Appearances==
+*{{HOTD|The Heirs of the Dragon}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House Massey}}
+
+<!--Categories-->
+{{DEFAULTSORT:Massey's son, Gormon}}
+[[Category:Crownlanders]]
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Members of House Massey|Gormon Massey's son]]
+[[Category:Squires]]
+
+<!--Languages-->
+[[ru:Сын Гормона Масси]]

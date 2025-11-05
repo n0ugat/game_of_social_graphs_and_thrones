@@ -1,0 +1,51 @@
+{{Canonicity|Canon}}
+{{References}}
+{{SameName|people and culture|language|Old Ghiscari}}
+{{Culture
+| Title        = {{PAGENAME}}
+| Type         = Ghiscari
+| Image        = Great Masters 403B.jpg
+| AKA          = 
+| Status       = Active
+| Origin       = 
+| Predecessors = 
+| Successors   = 
+| Location     = [[Slaver's Bay]]<br>[[New Ghis]]
+| Ruler        = Localized oligarchies:<br>[[Good Masters]]<br>[[Wise Masters]]<br>[[Great Masters]]
+| Society      = Oligarchical city-states
+| Language     = [[Low Valyrian]] dialect<br>[[Old Ghiscari]]
+| Religion     = [[Ghiscari religion]]
+| Features     = Brown-skinned<br>Dark-eyed
+}}
+{{Quote|Lamenting their lost empire, the descendants of Old Ghis grew rich and fat.|Ser [[Jorah Mormont]]|Old Ghis & Slaver's Bay}}
+The '''Ghiscari'''{{Ref|H&L108}} are a people and culture established in the region of [[Slaver's Bay]] on the continent of [[Essos]]. Modern Ghiscari culture is centered on the three great slaver-cities of the Bay- [[Astapor]], [[Yunkai]], and [[Meereen]]- as well as the region known as "[[Ghiscar]]" further south. This region is ruled from the city [[New Ghis]], which is located on an off-shore island.
+
+The modern Ghiscari claim descent from the ancient [[Ghiscari Empire]], one of the earliest civilizations in the known world. However, the Empire's defeat and subjugation by the [[Valyrian Freehold]] nearly five thousand years ago make this claim tenuous at best. Culturally, ethnically, and even linguistically, the modern Ghiscari are very much descendants of the [[Valyrians|Valyrian]] slave populations who simply embrace the few elements of the old Empire that have survived the millennia.
+
+The modern Ghiscari no longer speak the [[Old Ghiscari|language]] of their forebears but a [[Low Valyrian|dialect]] of [[High Valyrian]], which includes a few words of the dead Ghiscari tongue.
+
+The aristocracies of the Ghiscari cities- the [[Good Masters|Good]], [[Wise Masters|Wise]], and [[Great Masters]]- wear the ''[[tokar]]'', a traditional Ghiscari garment worn only by the powerful and rich.
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the modern Ghiscari are a mongrel people, a mixture of the original Ghiscari with the many races enslaved by the [[Valyrian Freehold]]. While they cling to the glorious past of the [[Ghiscari Empire]], their culture, language and religion have been largely replaced by that of their Valyrian conquerors.
+
+Modern Ghiscari have dense, dark amber skin, and wiry hair dyed with red highlights. Ghiscari men of the Slaver Cities are known to wear their hair teased, oiled, and twisted into fantastic shapes such as wings or horns. They also wear cloaks of yellow with copper disks sewn on. Their tunics are embroidered linen. Below the waist they wear pleated linen skirts and sandals. The richest classes, who are primarily made up of slavers, wear the ''[[Tokar|tokar]]'', an intentionally impractical outfit that forces the wearer to hold it with a hand - a symbol of status, indicating that the wearer does not perform any kind of labor. Ghiscari are also fond of rich foods, such as dog, octopus stew, and duck eggs; it is said that the only meat a Ghiscari will not consume is that of man or dragon.
+
+Just as their Valyrian rivals are often associated with [[dragon]]s, Ghiscari associate themselves with the symbol of the defunct Ghiscari Empire: the [[harpy]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Cultures and peoples}}
+
+<!--Categories-->
+[[Category:Essosi peoples]]
+[[Category:Ghiscari| ]]
+
+<!--Languages-->
+[[de:Ghiscari]]
+[[ru:Гискарцы]]

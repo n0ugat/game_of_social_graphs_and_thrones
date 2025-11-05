@@ -1,0 +1,83 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Night's Watch.svg
+| Link  = Night's Watch
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = Gared 1x01.png
+| Birth       = 
+| Death       = [[298 AC]]{{Dateref|Game of Thrones: Season 1}} in the [[Haunted Forest]]
+| House       = 
+| Affiliation = [[Night's Watch]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Westeros]]i
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 1|1]]
+| Appearances = "[[Winter Is Coming]]"
+| First       = 
+| Last        = 
+| DeathEp     = "Winter Is Coming"
+| Actor       = [[Dermot Keaney]]<br>[[Richard Ridings]] {{C|[[Pilot (Game of Thrones)|pilot]]}}
+}}
+{{Quote|Our orders were to track the wildlings. We tracked them. They won't trouble us no more.|Gared|Winter Is Coming}}
+'''Gared''' was a ranger in the [[Night's Watch]]. He was killed by a [[White Walker (Winter Is Coming)|White Walker]] while on a ranging [[Beyond the Wall|north]] of the [[Wall]].
+
+==Biography==
+===Background===
+Gared is a [[ranger]] in the [[Night's Watch]]. He is an older, more experienced ranger and a capable soldier.{{Ref|GOT101}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+[[File:Waymar_Royce,_Gared_&_Will.jpg|thumb|Rangers Gared, Ser Waymar Royce and Will depart Castle Black on a ranging beyond the Wall.]]
+Gared, along with [[Knighthood|Ser]] [[Waymar Royce]] and [[Will]], departs from the Wall to investigate reports of [[Free Folk|wildlings]] in the [[Haunted Forest]] which lies [[beyond the Wall]]. Will, the best scout in the group, goes on a different path to scout.{{Ref|GOT101}}
+
+When Will rejoins the group, he reports about wildling corpses dismembered and arranged in a strange, ritualistic fashion on the ground. Gared insists on returning to [[Castle Black]] to report the situation to the Night's Watch but Ser Waymar is unfazed. Instead, he commands the group to go to the site to determine what killed the wildlings. When they reach the site, the bodies have disappeared. Gared sends Will to find the bodies.{{Ref|GOT101}}
+
+While Will scouts around for clues, Gared finds a bloody piece of clothing buried under the snow. He then sees a humanoid figure with glowing blue eyes, a [[White Walker (Winter Is Coming)|White Walker]], arrives and kills Ser Waymar with ease. Gared attempts to escape but is caught and beheaded by the White Walker.{{Ref|GOT101}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Gared is past fifty and has lost both ears, his left little finger, and three toes to frostbite. His brother died to the frostbite while he were on duty. He has been on the [[Wall]] for over forty years. Gared doesn't like his commander Ser [[Waymar Royce]] because he flattens him. Gared has watched many insignificant lords come and go at the Wall in his past forty years as a ranger. Gared is a veteran amongst the [[ranger]]s. He has over one hundred scouting missions beyond the Wall at the [[Haunted Forest]].
+
+Some of Gared and [[Will]]'s roles have been switched around from the books; in the book it is Gared who escapes and is [[Execution|executed]] for [[desertion]]. 
+
+In the book, [[Theon Greyjoy|Theon]] kicks Gared's severed head and laughs. [[Jon Snow|Jon]] disapproves of that.
+
+==Appearances==
+*{{GOT|Pilot}} {{Unreleased}} {{Nc}}
+*{{GOT|Winter Is Coming}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Night's Watch}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Rangers of the Night's Watch]]
+[[Category:Smallfolk]]
+
+<!--Languages-->
+[[de:Gared]]
+[[es:Gared]]
+[[fr:Gared]]
+[[ro:Gared (serial)]]
+[[ru:Гаред]]
+[[zh:盖瑞]]

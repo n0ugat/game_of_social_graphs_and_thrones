@@ -1,0 +1,55 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Geeta Patel.jpg
+| Birth   = December 22, 1975 {{Age|1975|12|22}}<br>Evanston, Illinois, United States
+| Death   = 
+| Role    = Director
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]] {{*}} [[House of the Dragon: Season 2|2]]
+| Credits = 3 episodes {{Below|Credits}}
+| First   = "[[The Lord of the Tides]]"
+| Last    = 
+}}
+'''Geeta Vasant Reid-Patel''' (born December 22, 1975) is an American director working on ''[[House of the Dragon]]''.<ref>[https://www.hbo.com/house-of-the-dragon House of the Dragon on HBO]</ref>
+
+==Biography==
+Geeta Patel was born in Evanston, Illinois. As explained in ''Meet the Patels'', the family documentary she co-directed with her younger brother, her parents immigrated to the United States from India's state of {{WPS|Gujarat|Gujarat}}. Later her family moved to North Carolina, where she spent most of her youth, and where her parents still live. Her father Vasant became a financial planner, and her mother Champa an accomplished match-maker and real estate agent. Geeta and her family are {{WPS|Hindus|Hindus}}. She has gone to India on annual family visits as well as for her documentary work.
+
+==Career==
+Since 2000, Geeta Patel worked on several documentary projects for ''Independent Lens''. She worked for seven years "on and off" as one of the two co-hosts of the documentary ''Project Kashmir'', on the conflict zone in the {{WPS|Kashmir|Kashmir}} region between India and Pakistan. The project was co-produced by PBS and Sundance Film Festival. She also did some supporting work for the crews that made the documentaries ''Born Into Brothels: Calcutta's Red Light Kids'' and ''Bollywood: The Greatest Love Story Ever Told''. 
+
+In the early 2000s she also had a few minor associate writer credits, on the films ''{{WPS|The Fast and the Furious|The Fast and the Furious}}'' (2001) and ''{{WPS|Blue Crush|Blue Crush}}'' (2002). 
+
+Patel was best known for ''{{WPS|Meet the Patels}}'' (2014), a comedic documentary about her own family as her younger brother attempted to balance his parents' preference for a traditional arranged marriage with finding love dating in America. The documentary was critically acclaimed, being nominated for Best Documentary at the 2014 Los Angeles Film Festival and the 2017 Emmy awards.
+
+In the later 2010s, Patel moved on to a successful career directing for television, on episodes of ''{{WPS|The Mick (TV series)|The Mick}}'', ''{{WPS|Fresh Off the Boat}}'', ''{{WPS|The Mindy Project}}'', ''{{WPS|Santa Clarita Diet}}'', ''{{WPS|Dead to Me (TV series)|Dead to Me}}'', ''{{WPS|Runaways (TV series)|Marvel's Runaways}}'', and ''{{WPS|The Great (2020 TV series)|The Great}}'' (the Catherine the Great period comedy-drama).
+
+While it was initially announced in early 2020 that Patel would be directing two episodes in season 2 of the Netflix fantasy series ''{{WPS|The Witcher (TV series)|The Witcher}}'', she ultimately left the series before work began, instead shifting to work on ''House of the Dragon''.<ref>[https://redanianintelligence.com/2020/10/14/the-witcher-season-2-may-have-exchanged-one-director-for-another/ Redanian Intelligence,] ''The Witcher'' Season 2 adds director Louise Hooper, replacing Geeta Patel</ref>
+
+==Credits==
+===Director===
+{{House of the Dragon: Season 1||||||||yes}}
+{{House of the Dragon: Season 2|||yes|||||yes}}
+
+==See also==
+*{{IMDb|#=1203789}}
+*{{Twitter|#=geetavpatel}}
+*[https://www.youtube.com/watch?v=sdB32fyhDK0 Video Clip] of her documentary ''Project Kashmir''. 
+*''[https://www.youtube.com/watch?v=KqD5S5zTMGs Meet the Patels]'' - Self-produced documentary about her family, free-with-ads on YouTube
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House of the Dragon: Inside the Episode}}
+
+<!--Categories-->
+{{DEFAULTSORT:Patel, Geeta Vasant}}
+[[Category:Commentators of House of the Dragon: Inside the Episode]]
+[[Category:Directors of House of the Dragon]]
+
+<!--Languages-->
+[[de:Geeta Patel]]
+[[fr:Geeta Vasant Patel]]
+[[pt-br:Geeta Patel]]

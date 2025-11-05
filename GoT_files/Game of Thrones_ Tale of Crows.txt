@@ -1,0 +1,31 @@
+{{DISPLAYTITLE:''Game of Thrones: Tale of Crows''}}
+{{Stub}}
+{{Game
+| Title     = ''Game of Thrones:<br><small>Tale of Crows</small>''
+| Type      = Thrones
+| Image     = {{PAGENAME}}.png
+| Episodes  = 
+| Date      = August 7, 2020{{Webref|name=YouTube |author=DevolverDigital |date=August 7, 2020 |url=https://www.youtube.com/watch?v=bnTrCVGM2_I |title=Game of Thrones: Tale of Crows - Apple Arcade |website=YouTube |access-date=March 11, 2025 }}
+| Platforms = 
+| Designer  = 
+| Voice     = 
+| Years     = 
+| Website   = 
+}}
+'''''Game of Thrones: Tale of Crows'''''<ref name="YouTube" /> is a game.
+
+==Gallery==
+<gallery bordersize="none">
+Game of Thrones: Tale of Crows - Apple Arcade
+</gallery>
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{Game of Thrones}}
+
+<!--Categories-->
+[[Category:Games based on Game of Thrones|Tale of Crows]]
+[[Category:Games released in 2020|8.07]]
+[[Category:Mobile games]]

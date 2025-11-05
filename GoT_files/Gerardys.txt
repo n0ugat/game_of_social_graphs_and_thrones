@@ -1,0 +1,99 @@
+{{Canonicity|Canon}}
+{{Update|"[[Rhaenyra the Cruel]]" and "[[The Burning Mill]]"}}
+{{Heraldry
+| Image = Order of Maesters.svg
+| Link  = Order of Maesters
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Targaryen
+| Image       = Gerardys Official Guide.jpg
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[Order of Maesters]]{{Guideref|Maester Gerardys}}<br>[[House Targaryen/House of the Dragon|House Targaryen]]{{Ref|HOTD107}}<br>[[Black Council]]{{Ref|HOTD110}}
+| Titles      = Maester{{Guideref|Maester Gerardys}}
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 1|1]] {{*}} [[House of the Dragon: Season 2|2]]
+| Appearances = 11 episodes {{Below|Appearances}}
+| First       = "[[Driftmark (episode)|Driftmark]]"
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Phil Daniels]]
+}}
+'''Gerardys''' is a [[Order of Maesters|maester]] of the [[Citadel]] in service to [[Rhaenyra Targaryen]] at [[Dragonstone]].
+
+==Biography==
+===Background===
+Gerardys is Rhaenyra's household maester.{{Guideref|Maester Gerardys}}
+
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+Gerardys witnesses the wedding of Rhaenyra and [[Daemon Targaryen]].{{Ref|HOTD107}}
+
+Six years later, Gerardys tutors [[Jacaerys Velaryon]] in [[High Valyrian]] by reading to him the history of [[Aegon's Conquest]] in that language.{{Ref|HOTD108}}
+
+Maester Gerardys attends Rhaenyra as goes into labor pains, he comforts [[Lucerys Velaryon|Lucerys]], when Rhaenyra tells him and his [[Jacaerys Velaryon|brother]] of the death of their grandfather and the [[coup in King's Landing]]. Later, Gerardys watches the funeral of [[Visenya Targaryen (daughter of Rhaenyra)|Visenya]], he kneels after Rhaenyra is crowned as Queen. At the [[Black Council]], Maester Geradys gathers around the [[Painted Table]], he informs Queen Rhaenyra about the support of Houses [[House Celtigar|Celtigar]], [[House Massey|Massey]], [[House Darklyn|Darklyn]], [[House Staunton|Staunton]], and [[House Bar Emmon|Bar Emmon]]. Geradys proposes, with the acquiescence of [[Daemon Targaryen|Daemon]], to send a [[raven]] to Lord [[Grover Tully]], as [[Riverrun]] was an old friend of her [[Viserys I Targaryen|father]], to gain the support of the [[Riverlands]].{{Ref|HOTD110}}
+
+===[[House of the Dragon: Season 2|''House of the Dragon'': Season 2]]===
+Gerardys is present at the [[Black Council]] when Rhaenyra returns from the [[Stormlands]] and the funeral of [[Lucerys Velaryon]].{{Ref|HOTD201}}
+
+==Behind the scenes==
+It has been speculated that Gerardys is named after [[Vince Gerardis]], the manager of [[George R.R. Martin]] and a co-executive producer on ''[[House of the Dragon]]''.<ref>https://www.insider.com/house-of-the-dragon-season-1-episode-8-recap-hbo-2022-10#the-maester-serving-rhaenyra-is-likely-named-after-george-rr-martins-agent-and-executive-producer-of-house-of-the-dragon-vince-gerardis-5</ref>
+
+His character description for [[House of the Dragon: Season 2|Season 2]] reads as follows:
+:''"A healer and advisor for Queen Rhaenyra at Dragonstone."''{{Webref|name=WBD |author=Unknown author |date=Unknown date |url=https://press.wbd.com/us/bio/house-dragon-s2-character-descriptions |title=House of the Dragon S2 <nowiki>|</nowiki> Character Descriptions |website=Warner Bros. Discovery |access-date=June 5, 2024 }}
+
+==In the books==
+In ''[[Fire & Blood]]'', Gerardys was the maester at [[Dragonstone]]. He was a renowned healer.
+
+==Appearances==
+*{{TDOD}} {{Illustrated}}
+*{{HOTD|Driftmark}}
+*{{HOTD|The Lord of the Tides}}
+*{{HOTD|The Black Queen}}
+*{{HOTD|A Son for a Son}}
+*{{HOTD|Rhaenyra the Cruel}}
+*{{HOTD|The Burning Mill}}
+*{{HOTD|The Red Dragon and the Gold}}
+*{{HOTD|Regent}}
+*{{HOTD|Smallfolk}}
+*{{HOTD|The Red Sowing}}
+*{{HOTD|The Queen Who Ever Was}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+*{{TOG|character-guide#maester-gerardys|Maester Gerardys}}
+
+<!--Navboxes-->
+{{House Targaryen/House of the Dragon}}
+{{Black Council}}
+
+<!--Categories-->
+[[Category:Black Council]]
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Individuals from The Dance of Dragons]]
+[[Category:Maesters]]
+[[Category:Servants and retainers of House Targaryen]]
+[[Category:Westerosi]]
+
+<!--Languages-->
+[[de:Gerardys]]
+[[es:Gerardys]]
+[[fr:Gerardys]]
+[[nl:Gerardys]]
+[[ru:Герардис]]
+[[uk:Ґерардіс]]
+[[zh:格拉底斯]]

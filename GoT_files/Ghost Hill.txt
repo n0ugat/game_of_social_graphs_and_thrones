@@ -1,0 +1,40 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Martell
+| Image        = Ghost Hill Pin.png
+| Type         = Castle
+| Status       = 
+| Location     = [[Dorne]], [[Westeros]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Ghost Hill'''{{Guideref|Map of Westeros}} is a castle in [[Dorne]], the region controlled by [[House Martell]] of [[Sunspear]]. The castle is located in the north-east of Dorne on the shores of the [[Sea of Dorne]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Ghost Hill is the seat of House Toland. It is located on the Broken Arm of Dorne.
+
+==Appearances==
+*{{GOT|Dragonstone}} {{Map}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Dorne}}
+
+<!--Categories-->
+[[Category:Castles of Dorne]]
+
+<!--Languages-->
+[[ru:Призрачный Холм]]
+[[uk:Примарний Пагорб]]
+[[zh:魂丘]]

@@ -1,0 +1,57 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Leftimage  = Order of Maesters.svg
+| Leftlink   = Order of Maesters
+| Rightimage = Night's Watch.svg
+| Rightlink  = Night's Watch
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[Order of Maesters]]<br>[[Night's Watch]]
+| Titles      = Maester
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Gavin''' was a [[Order of Maesters|maester]] serving in the [[Night's Watch]] during the command of [[Rodrik Velaryon]].
+
+==Biography==
+===Background===
+Maester Gavin counseled Lord Commander Velaryon to appoint [[Dagon Harlaw]] as [[First Ranger]].<ref>[[:File:5x2 Night's Watch Book.jpg]]</ref>
+
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+Maester Gavin is mentioned in a book that [[Samwell Tarly]] is reading.{{Ref|GOT502}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no character named Maester Gavin.
+
+==Appearances==
+*{{GOT|The House of Black and White}} {{Text}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Maesters of the Night's Watch]]
+[[Category:Westerosi]]

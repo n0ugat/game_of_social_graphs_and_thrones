@@ -1,0 +1,23 @@
+{{Crew
+|Image = Gerard Naprous.jpg
+|dateofbirth = {{WPS|February 22}}, {{WPS|1947}}
+|birthplace = {{WPS|Saint-Cyr-sous-Dourdan}}, {{WPS|France}}
+|job = Horse Master<br>Stunt Performer
+|imdb = http://www.imdb.com/name/nm0621179/
+|twitter = }}
+'''Gerard Naprous''' (born February 22, 1947) is a French horse wrangler and stuntman. He is the father of [[Daniel Naprous]] and [[Camilla Naprous]].
+
+In ''[[Game of Thrones]]'', he was a horse wrangler in the [[Game of Thrones: Season 1|first season]] episodes "[[Winter Is Coming]]", "[[The Kingsroad]]", "[[Lord Snow]]", "[[Cripples, Bastards, and Broken Things]]", "[[A Golden Crown]]", "[[The Pointy End]]", "[[Baelor]]" and "[[Fire and Blood]]" and a stunt performer in the [[Game of Thrones: Season 2|second season]] episode "[[Valar Morghulis]]"
+
+==Credits==
+===Horse wrangler===
+{{Game of Thrones: Season 1|yes|yes|yes|yes||yes||yes|yes|yes}}
+
+===Stunts===
+{{Game of Thrones: Season 2||||||||||yes}}
+
+==See also==
+*{{IMDb
+|# = 0621179}}
+{{DEFAULTSORT:Naprous, Gerard}}
+[[Category:Stunt performers of Game of Thrones]]

@@ -1,0 +1,55 @@
+{{DISPLAYTITLE:''Game of Thrones: Seven Kingdoms''}}
+{{Game
+| Title     = ''Game of Thrones:<br><small>Seven Kingdoms</small>''
+| Type      = Thrones
+| Image     = {{PAGENAME}}.png
+| Episodes  = 
+| Date      = 
+| Platforms = 
+| Designer  = Bigpoint<br>Artplant
+| Voice     = 
+| Years     = 
+| Website   = 
+}}
+'''''Game of Thrones: Seven Kingdoms'''''<ref>[http://www.westeros.org/GoT/News/Entry/Game_of_Thrones_Seven_Kingdoms_MMO/ Westeros.org]</ref> is a canceled online [[wikipedia:MMORPG|MMORPG]], or massively-multiplayer role-playing computer game. It was based on the [[HBO]] series ''[[Game of Thrones]]'' for the [[wikipedia:PC (personal computer)|PC]] platform. It was intended to be browser-based, with no need to download the game to your computer before playing. The game was announced in February 2012 and planned for release in 2013. TV producers [[David Benioff]] and [[D.B. Weiss]] were listed as producers on the game.
+
+==Overview==
+The game opens shortly after the events of the [[Game of Thrones: Season 1|first season]] of the TV show, with [[Westeros]] engulfed by civil war following the deaths of [[Robert Baratheon]] and [[Eddard Stark]]. Players will fight one another or cooperate as they choose sides in the conflict.
+
+The game is being developed by [[wikipedia:Bigpoint Games|Bigpoint Games]], a successful developer of online MMORPGs. Their previous biggest success was ''[[wikipedia:Battlestar Galactica Online|Battlestar Galactica Online]]'', which as of early 2012 had more than nine million players. The game uses the [[wikipedia:Unity (game engine)|Unity]] engine, which can generate relatively complex 3D imagery on the fly through a browser. Norwegian game studio Artplant is working on the title alongside Bigpoint.
+
+The game has no connection with ''[[Game of Thrones (game)|Game of Thrones]]'', a single player role-playing game developed by [[wikipedia:Cyanide Studios|Cyanide Studios]] for PC and consoles.
+
+==Development history==
+The game was first announced in February 2012 (weeks before [[Game of Thrones: Season 2|Season 2]] premiered), and the first look was unveiled at the Game Developers Conference in March 2012.  The first trailer for the game was released on July 12, 2012.<ref>[http://www.westeros.org/GoT/News/Entry/Game_of_Thrones_Seven_Kingdoms_Trailer/ Westeros.org]</ref>
+
+No news on the game was given throughout Season 2, Season 3, and Season 4.  As of November 2014, over a year past its originally projected release date, the game is still in [[Wikipedia:Development hell|development hell]].  It seems probable that the game has been abandoned entirely:  its official Twitter feed has not been updated since summer 2012 (for SDCC 2012), and by late November 2014 its official website went offline.
+
+==Gallery==
+===Video===
+<gallery bordersize="none">
+Game of Thrones: Seven Kingdoms MMORPG Trailer
+</gallery>
+
+===Images===
+<gallery>
+Seven Kingdoms 01.jpg
+Seven Kingdoms 02.jpg
+Game of Thrones MMO 1.jpeg
+Game of Thrones MMO2.jpeg
+Game of Thrones MMO3.jpg
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{WP|Game of Thrones: Seven Kingdoms|''Game of Thrones: Seven Kingdoms''}}
+
+<!--Navboxes-->
+{{Game of Thrones}}
+
+<!--Categories-->
+[[Category:Browser games]]
+[[Category:Canceled games]]
+[[Category:Games based on Game of Thrones|Seven Kingdoms]]

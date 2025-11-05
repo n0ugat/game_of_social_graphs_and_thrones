@@ -1,0 +1,67 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Faith of the Seven.svg
+| Link  = Faith of the Seven
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Faith
+| Image        = WA King's Landing.png
+| Type         = [[Sept]]
+| Status       = Replaced by the [[Great Sept of Baelor]]
+| Location     = [[Visenya's Hill]], [[King's Landing]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+The '''Grand Sept''',{{Ref|HOTD101}} also called the '''Great Sept''',{{Guideref|King's Landing}} was a [[sept]] in [[King's Landing]]. It is the predecessor to the [[Great Sept of Baelor]].
+
+==History==
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+[[Viserys I Targaryen|Viserys]] tells his wife [[Aemma Arryn|Aemma]] about a [[dragon dream]]. He mentions the bells of the Grand Sept tolling as their son is crowned king.{{Ref|HOTD101}}
+
+[[Rhaenyra Targaryen|Rhaenyra]] and [[Alicent Hightower|Alicent]] pray together in the Grand Sept.{{Ref|HOTD102}}
+
+After the death of King [[Viserys I Targaryen|Viserys]], [[Mysaria]] hides Prince [[Aegon II Targaryen|Aegon]] underneath an altar in the Grand Sept to be retrieved by [[Arryk Cargyll|Arryk]] and [[Erryk Cargyll]].{{Ref|HOTD109}}
+[[File:S2 Alicent Grand Sept.png|thumb|[[Alicent Hightower|Alicent]] prays in the Grand Sept.]]
+
+===[[House of the Dragon: Season 2|''House of the Dragon'': Season 2]]===
+Alicent lights candles in the Grand Sept for her husband Viserys, her mother [[Alyrie Florent]], and Rhaenyra's son [[Lucerys Velaryon]].{{Ref|HOTD201}}
+
+Rhaenyra secretly meets with Alicent in the Grand Sept to convince her to try and prevent [[Dance of the Dragons|further bloodshed]], but this proves fruitless.{{Ref|HOTD203}}
+
+==Gallery==
+<gallery>
+File:S1 Grand Sept Concept Art.jpg|Concept Art.
+File:S2 Alicent Candles.jpg|Grand Sept altar.
+File:Grand Sept altar.png|Grand Sept altar where Alicent lights candles to pray for Prince Lucerys.
+File:TGC Arryk and Erryk Still 2.jpg|Ser Arryk and Ser Erryk. 
+File:2x3 Alicent and Rhaenyra Still.jpg|Alicent and Rhaenyra meet in secret.
+</gallery>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the sept atop Visenya's Hill was built during the reign of [[Aegon I Targaryen]] and sponsored by the [[High Septon]] in [[Oldtown]]. It is unknown what exactly happened to it when [[Baelor I Targaryen|Baelor the Blessed]] built his Great Sept. The sept isn't officially called the "Grand Sept," but is described as a "grander" sept than the one the [[smallfolk]] built in a sunken cog in the [[Blackwater Rush]].
+
+In the approved roleplaying game ''Blood of Dragons'', it is called Visenya's Sept.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Great Sept of Baelor#History}}
+
+<!--Navboxes-->
+{{Crownlands}}
+{{Faith of the Seven}}
+
+<!--Categories-->
+[[Category:King's Landing]]
+[[Category:Ruins]]
+[[Category:Septs]]
+
+<!--Languages-->
+[[ru:Великая септа]]

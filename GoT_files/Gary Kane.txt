@@ -1,0 +1,21 @@
+{{Crew
+|Image = Gary Kane.jpg
+|dateofbirth =  
+|birthplace = 
+|job = Stunt Performer
+|imdb = http://www.imdb.com/name/nm1201131
+|twitter = }}
+'''Gary Kane''' is a stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 2|second season]] episode "[[The Prince of Winterfell]]" and the [[Game of Thrones: Season 4|fourth season]] episodes "[[The Laws of Gods and Men]]" and "[[The Children]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 2||||||||yes}}
+{{Game of Thrones: Season 4||||||yes||||yes}}
+
+==See also==
+*{{IMDb
+|# = 1201131}}
+{{DEFAULTSORT:Kane, Gary}}
+[[Category:Stunt performers of Game of Thrones]]

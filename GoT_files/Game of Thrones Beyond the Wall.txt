@@ -1,0 +1,33 @@
+{{DISPLAYTITLE:''Game of Thrones Beyond the Wall''}}
+{{Stub}}
+{{Game
+| Title     = ''Game of Thrones<br><small>Beyond the Wall</small>''
+| Type      = Thrones
+| Image     = {{PAGENAME}}.png
+| Episodes  = 
+| Date      = March 26, 2020{{Webref|name=Tweet |author=Game of Thrones Beyond the Wall |date=March 11, 2020 |url=https://x.com/GOTBeyondWall/status/1237771560972357632 |title=The moment you have been waiting for, Lord Commander! Game of Thrones Beyond the Wall will be released worldwide on March 26th, 2020 on iOS devices and starting April 3rd, 2020 on Android devices. Pre-register now!<br><nowiki>#</nowiki>GameofThrones <nowiki>#</nowiki>GameofThronesBeyondtheWall |website=X |access-date=March 11, 2025 }} {{C|iOS}}<br>April 3, 2020<ref name="Tweet" /> {{C|Android}}
+| Platforms = 
+| Designer  = 
+| Voice     = 
+| Years     = 
+| Website   = 
+}}
+'''''Game of Thrones Beyond the Wall'''''<ref name="Tweet" /> is a game.
+
+==Gallery==
+<gallery bordersize="none">
+Game of Thrones Beyond the Wall
+Game of Thrones Beyond the Wall - Final Trailer
+Game of Thrones Beyond the Wall : New version trailer
+</gallery>
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{Game of Thrones}}
+
+<!--Categories-->
+[[Category:Games based on Game of Thrones|Beyond the Wall]]
+[[Category:Games released in 2020|3.26]]
+[[Category:Mobile games]]

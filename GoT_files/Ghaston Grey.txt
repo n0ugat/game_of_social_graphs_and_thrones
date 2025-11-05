@@ -1,0 +1,38 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Martell.svg
+| Link  = House Martell
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Martell
+| Image        = 
+| Type         = Castle
+| Status       = 
+| Location     = [[Dorne]]
+| Population   = 
+| Rulers       = [[House Martell]]
+| Institutions = 
+| Military     = 
+| Religion     = 
+| Places       = 
+| Founded      = 
+}}
+'''Ghaston Grey'''{{Ref|THTDB201}} is an island-castle in the [[Sea of Dorne]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Ghaston Grey is used as a prison for the worst criminals and traitors of [[Dorne]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Dorne}}
+
+<!--Categories-->
+[[Category:Castles of Dorne]]
+[[Category:House Martell]]
+[[Category:Islands]]

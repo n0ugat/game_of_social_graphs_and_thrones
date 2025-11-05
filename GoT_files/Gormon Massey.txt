@@ -1,0 +1,91 @@
+{{Canonicity|Canon}}
+{{Update|"[[The Burning Mill]]"}}
+{{Heraldry
+| Image = House Massey.svg
+| Link  = House Massey
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Targaryen
+| Image       = Gormon Massey-205.png
+| Birth       = 
+| Death       = 
+| House       = [[House Massey|Massey]]{{Ref|HOTD101}}
+| Affiliation = [[House Targaryen/House of the Dragon|House Targaryen]]{{Ref|HOTD110}}<br>[[Black Council]]{{Webref|name=WBD |author=Unknown author |date=Unknown date |url=https://press.wbd.com/us/bio/house-dragon-s2-character-descriptions |title=House of the Dragon S2 <nowiki>|</nowiki> Character Descriptions |website=Warner Bros. Discovery |access-date=June 5, 2024 }}
+| Titles      = Lord of [[Stonedance]]
+| AKA         = 
+| Culture     = [[Crownlands|Crownlander]]{{Ref|HOTD110}}
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = [[Gormon Massey's son|Son]]{{Ref|HOTD101}}<br>[[Elinda Massey]]<ref name="WBD" /><br>[[Emmon Massey]]{{Ref|HOTD203}}
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 2|2]]
+| Appearances = 6 episodes {{Below|Appearances}}
+| First       = "[[A Son for a Son]]"
+| Last        = 
+| DeathEp     = 
+| Actor       = [[James Dreyfus]]<ref name="WBD" />
+}}
+Lord '''Gormon Massey'''<ref name="WBD" /> is the [[Lordship|Lord]] of [[Stonedance]] and head of [[House Massey]] during the reigns of [[Viserys I Targaryen|Viserys I]] and [[Aegon II Targaryen|Aegon II]].
+
+==Biography==
+===Background===
+Gormon is the father of [[Elinda Massey]], [[Handmaiden|lady-in-waiting]] to [[Rhaenyra Targaryen]]. He also has a [[Gormon Massey's son|son]] who was a [[squire]] to a [[Knighthood|knight]] of [[House Tarly]] in [[112 AC]],{{Ref|HOTD101}} and a younger son named [[Emmon Massey|Emmon]].{{Ref|HOTD203}}
+
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+Lord Massey is mentioned when [[Alicent Hightower]] and Rhaenyra Targaryen gossip about his son's betrothal to [[Elinor Stokeworth]] during the [[Heir's Tournament]].{{Ref|HOTD101}}
+
+At the start of the [[Dance of the Dragons]], [[Daemon Targaryen|Daemon]] orders [[Bartimos Celtigar]] to send a raven to Lord Massey. Maester [[Gerardys]] later confirms that House Massey has declared for Rhaenyra.{{Ref|HOTD110}}
+
+===[[House of the Dragon: Season 2|''House of the Dragon'': Season 2]]===
+Gormon is present at the [[Black Council]] when Rhaenyra returns from the [[Stormlands]].{{Ref|HOTD201}}
+
+==Behind the scenes==
+Gormon Massey's character description reads as follows:
+:''"A member of Queen Rhaenyra’s black council and father to her lady in waiting, Elinda Massey."''<ref name="WBD" />
+
+==In the books==
+In ''[[Fire & Blood]]'', Lord Massey sat on the [[Black Council|black council]]. While the TV show clarifies that he is the father of Elinda Massey, their relation in the books is unclear.
+
+Gormon's life is extended in the TV series. In the books, he died attempting to claim [[Vermithor]] during the [[Red Sowing]].
+
+==Appearances==
+*{{HOTD|The Heirs of the Dragon}} {{Mentioned}}
+*{{HOTD|The Black Queen}} {{Mentioned}}
+*{{HOTD|A Son for a Son}}
+*{{HOTD|The Burning Mill}}
+*{{HOTD|The Red Dragon and the Gold}}
+*{{HOTD|Regent}}
+*{{HOTD|Smallfolk}}
+*{{HOTD|The Red Sowing}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{House Massey}}
+{{Black Council}}
+
+<!--Categories-->
+{{DEFAULTSORT:Massey, Gormon}}
+[[Category:Bannermen of House Targaryen]]
+[[Category:Black Council]]
+[[Category:Crownlanders]]
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Lords]]
+[[Category:Members of House Massey|Gormon Massey]]
+
+<!--Languages-->
+[[es:Gormon Massey/House of the Dragon]]
+[[fr:Gormon Massey]]
+[[pl:Gormon Massey]]
+[[ru:Гормон Масси]]
+[[uk:Ґормон Масі]]

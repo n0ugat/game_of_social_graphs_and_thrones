@@ -1,0 +1,65 @@
+{{Canonicity|Canon}}
+{{ConjectureInfo}}
+{{Heraldry
+| Image = House Lannister.svg
+| Link  = House Lannister
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Lannister
+| Image       = 
+| Birth       = [[Casterly Rock]]
+| Death       = 
+| House       = [[House Lannister|Lannister]]
+| Affiliation = 
+| Titles      = [[King of the Rock]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[First Men]]/[[Andals|Andal]]
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|When the Ironborn became a nuisance, my ancestor sailed to the Iron Islands and returned with a hundred Ironborn hostages, promising to hang one from the Rock every time the Ironborn dared raid our shores. The Ironborn stayed away, well, after twenty or so.|[[Jaime Lannister]]|Casterly Rock (short)}}
+King '''Gerold Lannister''', known as '''Gerold the Great''', was a [[King of the Rock]], possibly during the age of the [[First Men]] before the [[coming of the Andals]].
+
+==Biography==
+King Gerold sailed to the [[Iron Islands]] when the [[Ironborn]] began causing him trouble and captured a hundred of them. He promised to hang one from [[Casterly Rock]] every time the Ironborn raided the shores of the [[Westerlands]], and they eventually stopped their invasion.{{Ref|H&L703}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, his story is the same.
+
+==Appearances==
+*{{H&L|Casterly Rock}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Gerold Lannister (king)}}
+
+<!--Navboxes-->
+{{House Lannister}}
+{{Kings of Westeros}}
+
+<!--Categories-->
+{{DEFAULTSORT:Lannister, Gerold}}
+[[Category:Individuals from Histories & Lore]]
+[[Category:Kings of the Rock|Gerold Lannister]]
+[[Category:Members of House Lannister|Gerold Lannister]]
+[[Category:Westermen]]
+
+<!--Languages-->
+[[ru:Герольд Ланнистер]]

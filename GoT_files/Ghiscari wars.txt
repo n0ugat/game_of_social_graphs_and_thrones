@@ -1,0 +1,66 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{War
+| Title      = {{PAGENAME}}
+| Type       = Westeros
+| Part       = 
+| Image      = H&L302.png
+| Previous   = [[Coming of the Andals]]
+| Concurrent = 
+| Next       = [[Gendel and Gorne's invasion]]
+| Beginning  = 
+| End        = 
+| Place      = [[Valyrian peninsula]], [[Slaver's Bay]], [[Essos]]
+| Outcome    = Decisive [[Valyrian Freehold|Valyrian]] victory
+*Destruction of the old [[Ghiscari Empire]]
+*[[Slaver's Bay]] conquered and colonized by the Valyrian Freehold
+*Valyrian Freehold establishes itself as the dominant power on Essos
+| Factions1  = [[Valyrian Freehold]]
+| Factions2  = [[Ghiscari Empire]] †
+| Factions3  = 
+| Factions4  = 
+| Factions5  = 
+| Factions6  = 
+| Leaders1   = [[Dragonlord]]s of [[Old Valyria|Valyria]]
+| Leaders2   = Various Ghiscari emperors and empresses
+| Leaders3   = 
+| Leaders4   = 
+| Leaders5   = 
+| Leaders6   = 
+| Events     = 
+}}
+{{Quote|Five times did the Ghiscari contend with Valyria, and five times did they go down in defeat. For the Freehold had dragons, and the Empire had none. The best of their legions burned, the others broke. The brick walls of Ghis were pulled down, the streets and buildings turned to ash and the very fields sown with salt, sulfur and skulls.|[[Jorah Mormont]]|Old Ghis & Slaver's Bay}}
+The '''Ghiscari wars'''{{Con|TWOI&F}} were a series of five great wars in which the upstart [[Valyrian Freehold]] clashed with the ancient [[Ghiscari Empire]] to determine which would be the dominant power in the continent of [[Essos]].
+
+==History==
+Five thousand years ago, when the Valyrians discovered and tamed [[dragon]]s and began to conquer outwards, the Ghiscari Empire sought to put a halt to their expansion. The two great rivals vied to be the dominant power in Essos, and in a series of five major wars the massive [[Ghiscari legions]] marched against the Valyrians, but each time they were defeated by the Valyrian dragons. Much of the fighting took place in and around the [[Valyrian peninsula]] and [[Slaver's Bay]].
+[[File:Fall of Ghis.png|thumb|Fall of [[Old Ghis]].]]
+The Valyrians finally defeated the Ghiscari Empire in the fifth and final war, when their armies and their dragons attacked the Empire's capital city of Ghis. The buildings and streets were burned to ash, and the Valyrians sowed the earth with salt so that nothing would grow again. Five thousand years later, [[Old Ghis]] is still a ruin.<ref>"[[Valyria & the Dragons]]"</ref><ref>"[[Old Ghis & Slaver's Bay]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the five massive wars between the Valyrian Freehold and Ghiscari Empire paved the way for five thousand years of Valyrian dominance in Essos, though it would be another four thousand or so years before they began expanding into the area of the [[Rhoyne]] River and modern [[Free Cities]], displacing the [[Rhoynar]] people, whose refugees fled to [[Dorne]].
+
+The Ghiscari Wars were fought over a wide area, and even spread to overseas colonies and outposts they maintained. In the third war, the Valyrians conquered the Ghiscari city Gorgai, their main base in the [[Basilisk Isles]], and renamed it Gogossos. In the fourth war, the Valyrians conquered the Ghiscari colony-city Zamettar, the only major city established on mainland [[Sothoryos]]. The Sarnori were also drawn into the conflict, a dark-skinned chariot-riding people whose cities were located east of the Free Cities and west of the Dothraki (centuries later after the Doom of Valyria they were wiped out by the Dothraki, becoming the western end of the Dothraki Sea). Independent Sarnori city-states allied with the Valyrians in the second and third wars, though in the fourth war different Sarnori city-states allied fought on either side.
+
+The rivalry between the Valyrian Freehold and the Ghiscari Empire seems to be a narrative echo of the Punic Wars between Rome and Carthage, particularly how the Valyrians sowed the fields of Old Ghis with salt so that nothing would grow again (which, according to legend, the Romans did after they destroyed Carthage).
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Slaver's Bay}}
+{{Wars}}
+
+<!--Categories-->
+[[Category:Wars]]
+
+<!--Languages-->
+[[de:Ghiscari Kriege]]
+[[fr:Guerres Ghiscaries]]
+[[ru:Гискарские войны]]

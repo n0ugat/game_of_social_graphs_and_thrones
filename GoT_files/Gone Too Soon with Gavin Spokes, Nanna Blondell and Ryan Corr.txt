@@ -1,0 +1,36 @@
+{{Episode
+| Title    = {{PAGENAME}}
+| Type     = Podcast
+| Image    = TOGOTPHOTD117.jpg
+| Season   = 1
+| Episode  = 17
+| Date     = December 7, 2022{{Listref|TOGOTPHOTD}}
+| Runtime  = 57:42{{HBOref|TOGOTPHOTD}}
+| Writer   = 
+| Director = 
+| Year     = 
+| Previous = "[[Creating The Realm with Amanda Knight and Jim Clay]]"{{Listref|TOGOTPHOTD}}
+| Next     = "[[Live from GOT Fan Con with Kit Harington]]"{{Listref|TOGOTPHOTD}}
+}}
+"'''Gone Too Soon with Gavin Spokes, Nanna Blondell and Ryan Corr'''"{{HBOref|TOGOTPHOTD}} is the seventeenth episode of the [[The Official Game of Thrones Podcast: House of the Dragon: Season 1|first season]] of ''[[The Official Game of Thrones Podcast: House of the Dragon]]''. It is the seventeenth episode of the series overall. It was released on December 7, 2022.
+
+==Description==
+{{Description|TOGOTPHOTD117}}
+
+==Gallery==
+<gallery bordersize="none">
+HOTD: Official Podcast “Gone Too Soon” / House of the Dragon (HBO)
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{HBO Max|video/watch/PROM708271/PROM1182005|The Official Game of Thrones Podcast - Gone Too Soon}}
+
+<!--Navboxes-->
+{{The Official Game of Thrones Podcast: House of the Dragon}}
+
+<!--Categories-->
+[[Category:Episodes of The Official Game of Thrones Podcast: House of the Dragon: Season 1| 17]]
+[[Category:Episodes released in 2022|C.07]]

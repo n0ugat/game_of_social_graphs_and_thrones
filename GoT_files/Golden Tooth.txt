@@ -1,0 +1,58 @@
+{{Canonicity|Canon}}
+{{MapNeeded}}
+{{Heraldry
+| Image = House Lefford.svg
+| Link  = House Lefford
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Lannister
+| Image        = GoldenTooth-206.png
+| Type         = Stronghold
+| Status       = 
+| Location     = The [[Westerlands]], [[Westeros]]
+| Population   = 
+| Rulers       = [[House Lefford]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+{{Quote|House Lefford, who guards the Golden Tooth, the eastern pass through the mountains in the all-too-frequent chaos of the Seven Kingdoms.|[[Tywin Lannister]]|The Westerlands}}
+The '''Golden Tooth''',{{Ref|GOT108}} also known simply as the '''Tooth''',{{Ref|HOTD206}} is a stronghold in the [[Westerlands]]. It is the seat of [[House Lefford]], a noble house sworn to [[House Lannister]] of [[Casterly Rock]]. It is located near the [[River Road]], in the pass between two mountainous areas, northeast of Casterly Rock and southwest of [[Riverrun]], close to the borders between the [[Westerlands]] and the [[Riverlands]].
+
+==History==
+===[[House of the Dragon: Season 2|''House of the Dragon'': Season 2]]===
+[[File:OT2 Golden Tooth.png|thumb|Lannister host marching towards the castle.]]
+Lord [[Humfrey Lefford]] hosts Lord [[Jason Lannister]] and his army at the Golden Tooth following their long march from [[Casterly Rock]].{{Ref|HOTD206}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+It was the site of the first [[Battle in the hills below the Golden Tooth|battle]] in the [[War of the Five Kings]], in which [[Jaime Lannister]] defeated the Riverlords.{{Ref|GOT108}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the Golden Tooth is the seat of House Lefford. It is a strong fortress and is well situated to guard the main pass through the mountains and the border with the Riverlands. Gold from the Golden Tooth is one of the major sources of House Lannister's massive wealth.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Lefford}}
+{{Westerlands}}
+
+<!--Categories-->
+[[Category:Castles of the Westerlands]]
+[[Category:House Lefford]]
+
+<!--Languages-->
+[[de:Goldzahn]]
+[[es:Colmillo Dorado]]
+[[fr:Dent d'Or]]
+[[it:Zanna Dorata]]
+[[nl:Guldentand]]
+[[pl:Złoty Ząb]]
+[[ru:Золотой Зуб]]
+[[zh:金牙城]]

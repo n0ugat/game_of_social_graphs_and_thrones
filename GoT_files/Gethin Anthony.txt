@@ -1,0 +1,37 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Gethin Anthony.jpg
+| Birth   = Gethin David L. Anthony<br>October 9, 1983 {{Age|1983|10|9}}<br>Stratford-upon-Avon, England
+| Death   = 
+| Role    = [[Renly Baratheon]]
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 1|1]] {{*}} [[Game of Thrones: Season 2|2]]
+| Credits = 8 episodes {{Below|Credits}}
+| First   = "[[Lord Snow]]"
+| Last    = "[[The Ghost of Harrenhal]]"
+}}
+'''Gethin David L. Anthony''' is an English actor. He appeared in ''[[wikipedia:Ten Days to War|Ten Days to War]]'' and ''[[wikipedia:Doctors (2000 TV series)|Doctors]]''.
+
+In ''[[Game of Thrones]]'' he plays the role of [[Renly Baratheon]] and was confirmed in the role on 16 July 2010. He initially appeared as a guest star in the [[Game of Thrones: Season 1|first season]] and returned in this role for the [[Game of Thrones: Season 2|second season]].
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 1|||yes|yes|yes|yes|yes}}
+{{Game of Thrones: Season 2|||yes|yes|yes}}
+
+==See also==
+* {{WP}}
+*{{Template:IMDb
+|# = 2167445}}
+*{{Template:Twitter
+|# = gethinanthony}}
+
+{{Stub}}
+
+[[de:Gethin Anthony]]
+[[ru:Гетин Энтони]]
+[[fr:Gethin Anthony]]
+[[pl:Gethin Anthony]]
+{{DEFAULTSORT:Anthony, Gethin}}
+[[Category:Guest starring cast members of Game of Thrones]]

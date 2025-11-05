@@ -1,0 +1,39 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Crownlander
+| Image        = 
+| Type         = Alley
+| Status       = 
+| Location     = [[Flea Bottom]], [[King's Landing]]{{Ref|GOT405}}
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = 
+| Places       = 
+| Founded      = 
+}}
+{{Quote|The shit that poured from their privy pipes flowed down the side of Aegon's Hill along Tanner's Row and right in front of my front door on Gin Alley.|[[Davos Seaworth]]|Mhysa}}
+'''Gin Alley'''{{Ref|GOT310}} is an alley in [[Flea Bottom]].{{Ref|GOT405}}
+
+==History==
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+[[Karl Tanner]] states that he had a reputation in Gin Alley.{{Ref|GOT404}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no alley by this name.
+
+==Appearances==
+*{{GOT|Mhysa}} {{Mentioned}}
+*{{GOT|Oathkeeper}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{Crownlands}}
+
+<!--Categories-->
+[[Category:Flea Bottom]]
+[[Category:Streets]]

@@ -1,0 +1,58 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Free
+| Image       = 5x06 Ghita.png
+| Birth       = [[292 AC]]{{Dateref|Ghita}}
+| Death       = [[302 AC]]{{Dateref|Game of Thrones: Season 5}} (aged 10)<br>The [[House of Black and White]], [[Braavos]]{{Ref|GOT506}}
+| House       = 
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Braavos]]i
+| Religion    = [[Many-Faced God]]
+| Father      = [[Joss (Unbowed, Unbent, Unbroken)|Joss]]
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 5|5]]
+| Appearances = 2 episodes {{Below|Appearances}}
+| First       = "[[Unbowed, Unbent, Unbroken]]"
+| Last        = "[[Mother's Mercy]]" {{Corpse}}
+| DeathEp     = "Unbowed, Unbent, Unbroken"
+| Actor       = [[Hattie Gotobed]]
+}}
+{{Quote|It hurts.|Ghita to [[Arya Stark]]|The House of Black and White}}
+'''Ghita''' was a ten year old terminally ill girl.
+
+==Biography==
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+Ghita is brought to the [[House of Black and White]] by her grieving father, [[Joss (Unbowed, Unbent, Unbroken)|Joss]], after various treatment attempts have failed. After assuring her the water has healing properties, [[Arya Stark]] puts the girl out of her misery by giving her the poisoned water from the pool in the central sanctuary.{{Ref|GOT506}}
+
+Arya wears Ghita's face and pretends to be a prostituted child in order to ambush and murder Ser [[Meryn Trant]] in a brothel. Once she completes this task, she returns the face to the [[Hall of Faces]].{{Ref|GOT510}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no character named Ghita. However, many people go to the House of Black and White to seek an end to their misery or that of their loved ones.
+
+==Appearances==
+*{{GOT|Unbowed, Unbent, Unbroken}}
+*{{GOT|Mother's Mercy}} {{Corpse}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Categories-->
+[[Category:Braavosi]]
+[[Category:Individuals appearing in Game of Thrones]]
+
+<!--Languages-->
+[[de:Ghita]]
+[[ru:Гита]]

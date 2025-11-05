@@ -1,0 +1,72 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image  = House Royce.svg
+| Link   = House Royce
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Royce
+| Image       = Gerold Royce Official Guide.jpg
+| Birth       = [[Vale of Arryn]]{{Guideref|Gerold Royce}}
+| Death       = 
+| House       = [[House Royce|Royce]]{{Ref|HOTD105}}
+| Affiliation = 
+| Titles      = [[Knight|Ser]]{{Ref|HOTD105}}
+| AKA         = 
+| Culture     = [[Vale of Arryn|Valemen]]{{Guideref|Gerold Royce}}
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 1|1]]
+| Appearances = "[[We Light the Way]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Owen Oakeshott]]
+}}
+{{Quote|In the Vale, men are made to answer for their crimes. Even Targaryens.|Gerold Royce|We Light the Way}}
+Ser '''Gerold Royce''' is a knight of [[House Royce]] during the reign of King [[Viserys I Targaryen]].
+
+==Biography==
+===Background===
+Gerold is a cousin of [[Rhea Royce]], the estranged wife of [[Daemon Targaryen]].{{Guideref|Gerold Royce}}
+
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+While riding on horseback, Gerold comes across his younger cousin Rhea. He inquiries what she intends to hunt and is pleasantly surprised when she says she intends to hunt deer. Gerold asks if she would like assistance but Rhea insists on hunting alone, before leaving him. Her death, only a short time after her last encounter with him, came as a great shock to Gerold as his cousin was known for her profound skills in riding and hunting, making her fate of accidentally falling off her horse and breaking her skull and neck unfeasible. Instead, he correctly believes it to be the doing of her estranged husband Daemon Targaryen.{{Ref|HOTD105}}
+
+During the wedding feast of [[Rhaenyra Targaryen]] and [[Laenor Velaryon]], Gerold approaches Daemon and challenges him about Rhea's death. Daemon declares her demise a tragic accident but Gerold proclaims that even [[House Targaryen/House of the Dragon|Targaryens]] answer for their crimes in the [[Vale of Arryn|Vale]]. The [[prince]] ignores his threats and warns him not to make such a severe accusation without evidence. He turns the subject to his intentions to petition [[Jeyne Arryn]] about inheriting Runestone, as Rhea stood to inherit the castle and she and Daemon had no heirs of their own. Angered at his callous attitude, Gerold storms off.{{Ref|HOTD105}}
+
+==Personality==
+Gerold is stoic and honorable.{{Guideref|Gerold Royce}}
+
+==In the books==
+In ''[[Fire & Blood]]'', there is no character named Ser Gerold Royce. Rhea Royce's closest male relative at the time of her death (the result of a fatal riding accident, not murder) was a nephew who inherited Runestone with its lands and incomes. Daemon, still [[War for the Stepstones|at war in the Stepstones]] at the time, returned to the [[Vale of Arryn|Vale]] to petition Lady Jeyne Arryn for his wife's estate, only to be rebuffed in favor of Rhea's nephew and effectively banished from the Vale.
+
+==Appearances==
+*{{HOTD|We Light the Way}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{TOG|character-guide#gerold-royce}}
+
+<!--Navboxes-->
+{{House Royce/House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Royce, Gerold}}
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Knights]]
+[[Category:Members of House Royce|Gerold Royce]]
+[[Category:Valemen]]
+
+<!--Languages-->
+[[fr:Gerold Royce]]
+[[ru:Герольд Ройс]]

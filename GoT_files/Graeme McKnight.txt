@@ -1,0 +1,33 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Graeme McKnight.jpg
+| Birth   = 
+| Death   = 
+| Role    = [[Paxter Strong]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]]
+| Credits = 4 episodes {{Below|Credits}}
+| First   = "[[The Burning Mill]]"
+| Last    = 
+}}
+'''Graeme McKnight''' is a Scottish actor.
+
+McKnight plays [[Paxter Strong]] in the [[House of the Dragon: Season 2|second season]] of ''[[House of the Dragon]]''.<ref>https://www.spotlight.com/6614-0166-3994</ref>
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 2|||yes|yes|yes|yes}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb|#=3276626}}
+
+<!--Categories-->
+{{DEFAULTSORT:McKnight, Graeme}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Graeme McKnight]]

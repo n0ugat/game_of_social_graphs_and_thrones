@@ -1,0 +1,31 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Graeme Dalling.jpg
+| Birth   = Edinburgh, Lothian, Scotland
+| Death   = 
+| Role    = Shipbreaker Bay fisherman
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]]
+| Credits = "[[A Son for a Son]]"
+| First   = 
+| Last    = 
+}}
+'''Graeme Dalling''' is a Scottish actor.
+
+Dalling plays a Shipbreaker Bay fisherman in the [[House of the Dragon: Season 2|second season]] of ''[[House of the Dragon]]''.<ref>https://twitter.com/RedanianIntel/status/1690599207046975488</ref>
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 2|yes}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb|#=2537247}}
+*{{Spotlight|#=1571-7830-9169}}
+
+<!--Categories-->
+{{DEFAULTSORT:Dalling, Graeme}}
+[[Category:Co-starring cast members of House of the Dragon]]

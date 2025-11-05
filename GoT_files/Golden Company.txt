@@ -1,0 +1,128 @@
+{{Canonicity|Canon}}
+{{SameName|sellsword company|short|The Golden Company}}
+{{Organization
+| Title       = {{PAGENAME}}
+| Theme       = Free
+| Image       = Golden Company.svg
+| Type        = [[Mercenary#Sellsword companies|Sellsword company]]
+| Status      = 
+| Symbol      = A cluster of gold skulls hanging from a red spear on a burgundy field
+| Words       = "Beneath the Gold, the Bitter Steel!"
+| Center      = [[Free Cities]], [[Essos]]
+| Leader      = Captain
+| Affiliation = For hire<br>[[House Lannister]] {{C|formerly}}<br>[[House Blackfyre]] {{C|formerly}}
+| Religion    = 
+| Military    = 18,000 infantry {{C|pre-[[battle of King's Landing]]}}<br>2,000 cavalry {{C|pre-battle of King's Landing}}
+| Founded     = By {[[Aegor Rivers]]}
+}}
+{{Dialogue a-b-a-b-a|Davos|Westeros is not the world, Your Grace. We need to look east for ships and men. Ten thousand skilled soldiers fight for the Golden Company.|Stannis|The Golden Company?!|They've never broken a contract.|They're sellswords!|We're willing to use bloodmagic to put you on the throne, but we're not willing to pay men to fight?!|[[Davos Seaworth]] and [[Stannis Baratheon]]|Breaker of Chains}}
+The '''Golden Company'''{{Ref|GOT403}} was a [[Mercenary#Sellsword companies|sellsword company]] active in [[Essos]]. They were one of the largest and most skilled sellsword companies in the [[Free Cities]], consisting of 20,000 men, [[horse]]s, and war [[elephant]]s. They had the reputation of never breaking a contract, which is quite uncommon among mercenary organizations. Their banner displays a cluster of gold skulls hanging from a red spear on a burgundy field.
+
+The Golden Company's forces, led by their most recent captain [[Harry Strickland]], were all but completely destroyed during the [[Battle of King's Landing]], leaving their status as an organization uncertain.
+
+==History==
+[[File:H&L The Golden Company.png|thumb|Aegor forming company.]]
+
+===Background===
+The Golden Company was founded by [[Aegor Rivers]], known as "Bittersteel," one of the [[Great Bastards]] and a supporter of [[House Blackfyre]], which tried to seize the [[Iron Throne]] in the [[Blackfyre Rebellion]], a century before the [[War of the Five Kings]]. When the Blackfyre army lost, Bittersteel led them into [[exile]] in the [[Free Cities]], where he formed his own sellsword company in order to survive. Thus, the exiles remain a cohesive fighting force to launch future rebellions with (which all failed). The sons and grandsons of these [[Westeros]]i exiles were later raised to take their place in this mercenary army, supplemented by other men over the generations who were on the losing side of one war or another and fled into exile - mostly from Westeros, but also men from all over [[Known world|the world]].
+
+In time, these soldiers of fortune rose to become the best and largest sellsword company in the Free Cities, a large private army for hire, commanded by its own officers.
+
+The Golden Company fought for [[Maelys Blackfyre]] in the [[War of the Ninepenny Kings]], an attempted invasion of Westeros that ended with the death of the pretender [[King of the Andals and the Rhoynar and the First Men|King]] Maelys on the [[Stepstones]].
+
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+[[Davos Seaworth|Davos]] suggests to [[Stannis Baratheon|Stannis]] to hire the Golden Company to help him win the [[Iron Throne]]. Stannis refuses, believing sellswords to be unfit to join his army. Davos points out his hypocrisy in willing to use [[bloodmagic]] to win the throne and not pay men to fight.<ref>"[[Breaker of Chains]]"</ref>
+
+When [[Jorah Mormont]] advises [[Daenerys Targaryen|Daenerys]] not to trust [[Daario Naharis]] because he is a sellsword, she points out that he himself fought for the Golden Company before pledging his sword to [[Viserys Targaryen (son of Aerys II)|Viserys]].<ref>"[[Mockingbird]]"</ref>
+
+===[[Game of Thrones: Season 7|''Game of Thrones'': Season 7]]===
+[[File:GCBELLS.jpeg|thumb|right|250px|Soldiers of the Golden Company.]]
+Having openly seized the throne, [[Cersei Lannister|Cersei]] tells [[Tycho Nestoris]] that she intends to take out a new loan from the [[Iron Bank of Braavos]] to hire the Golden Company, in order to bolster the military forces of [[House Lannister]], which have become badly depleted after years of war; Tycho approves, commenting that it helped the bank to collect significant overdue loans.<ref name="E64">"[[The Spoils of War]]"</ref>
+
+After the [[Dragonpit Summit]], Cersei tells [[Jaime Lannister|Jaime]] that she has hired the Golden Company. She reveals that [[Euron Greyjoy]]'s intentions of going [[Pyke|home]] was a ruse, and that she has tasked Euron to sail to Essos to bring the Golden Company to Westeros.<ref name="E67">"[[The Dragon and the Wolf]]"</ref>
+
+===[[Game of Thrones: Season 8|''Game of Thrones'': Season 8]]===
+[[File:Golden Company S8.jpg|thumb|The Golden Company being ferried to Westeros.]]
+The Golden Company is brought to Westeros by Euron. Their captain, [[Harry Strickland]], meets with Cersei in the [[Red Keep]], certifying the company's contract with the [[Iron Throne]]. He reports that 20,000 men (minus a few who died in transit at hands of Euron) have arrived, with 2,000 horses, but the company's war [[elephant]]s were not brought with them due to being unsuitable for long sea voyages, much to Cersei's dismay.<ref>"[[Winterfell (Game of Thrones)|Winterfell]]"</ref>
+
+The Golden Company is all but completely destroyed following the [[Battle of King's Landing]], as a result of being caught off-guard by [[Drogon]]'s surprise attack. The Targaryen forces take advantage of this and charge at them, while Daenerys strafes them with Drogon, easily breaching into King's Landing.<ref>"[[The Bells]]"</ref>
+
+==Military strength==
+The largest sellsword company in the Free Cities, the Golden Company is a large private army operating under its own officers and command structure. Its well-equipped forces consist of 20,000 men, 2,000 horses, and even war [[elephant]]s. Following the Battle of King's Landing, it is unknown how many, if any, members of the Golden Company survived. 
+
+*In Season 4's "Breaker of Chains", Davos and Stannis stated that the Golden Company consists of 10,000 men - which is accurate to the number given in the books. In the Season 7 finale, however, Cersei said that they have 20,000 men - contradicting a number already given in TV series dialogue. While it's not impossible that the Golden Company could hire more men with a bank loan, the TV writers may have confused this with a different quote from the novels, when Stannis orders one of his subordinates to hire at least 20,000 mercenaries, ''including'' the Golden Company's 10,000 (providing that they are available).
+*Whatever the case, the Season 8 premiere prominently listed off their numbers as 20,000 men, ''as well as'' 2,000 horses - so those are now officially the TV continuity numbers.
+<gallery>
+File:Marc Simonetti Bittersteel golden company.jpg|Bittersteel leads company to war. 
+File:Golden Company S8 Ep5.jpg|The Golden Company protects King's Landing.
+File:Sack of Qohor.png|The Sack of Qohor.
+</gallery>
+
+==Quotes==
+{{Quote|My Hand, Qyburn, has made overtures to the Golden Company in Essos.|Cersei Lannister to Tycho Nestoris|The Spoils of War}}
+{{Quote|Highgarden bought us the most powerful army in Essos, the Golden Company. Twenty thousand men, horses, elephants, I believe.|Cersei Lannister to Jaime Lannister|The Dragon and the Wolf}}
+{{Quote|When I fled Westeros, I washed up where most disgraced knights do: the Golden Company.|Jorah Mormont|The Golden Company}}
+{{Quote|Beneath the gold, the bitter steel!|The battle cry of the Golden Company.|The Golden Company}}
+{{Quote|We look forward to fighting on your behalf, Your Grace.|Harry Strickland guarantees the Company's contract with Cersei|Winterfell (Game of Thrones)}}
+{{Quote|And the Golden Company has arrived in King's Landing, courtesy of the Greyjoy fleet. The balance has grown distressingly even.|Varys at Daenerys's war council|The Last of the Starks}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the Golden Company was founded one hundred years before the War of the Five Kings by [[Aegor Rivers]], aka "Bittersteel", one of the [[bastard]] sons of King [[Aegon IV Targaryen]], after he fled Westeros following the [[Blackfyre Rebellion]].
+
+[[House Blackfyre]] was a younger [[cadet branch]] of [[House Targaryen]] founded by Aegon IV's bastard son [[Daemon Blackfyre]]. The first rebellion ended with Daemon's death, but his sons and half-brother Bittersteel fled into exile. When Aegor, who for a time served with the [[Second Sons]], saw all the exiled lords and knights signing on with other sellsword companies, and saw the support of [[House Blackfyre]] ebbing away, he created his own sellsword company. That way, the Blackfyres could at least maintain ''some'' sort of core fighting force in between their repeated attempts to overthrow the Targaryens, gaining experience from fighting in the petty wars of the Free Cities, as well as gaining enough money from their contracts to keep functioning.
+
+Their motto is "Our word is as good as gold", while their battle cry is "Beneath the gold, the bitter steel!" - in reference to their founder, Bittersteel. According to "Arianne II" chapter of the sixth novel, their [[heraldry]] is a solid gold banner, unblazoned.
+
+The Golden Company's reputation was quickly established when, soon after the company's founding, [[Qohor]] refused to honor the contract it had made. The Golden Company sacked Qohor both in retaliation and to send a warning to prospective future employers not to double cross them.
+
+The Golden Company did not take part in the "Second Blackfyre Rebellion", which was really more of a short lived plot than a battle (much less a war), but it did take part in the Third Rebellion, and then the Fourth Blackfyre Rebellion, an invasion which landed in Massey's Hook (the southern Crownlands, near the northern Stormlands) but which was not very successful.
+
+During the fifth and last Blackfyre rebellion, known as the [[War of the Ninepenny Kings]], the Golden Company formed one of the core parts of the Blackfyres' forces in the [[Stepstones]], but they were defeated by the young [[Brynden Tully]] and [[Barristan Selmy]]. As a result of the battle's outcome, Mace Tyrell has a very low opinion about the Golden Company, claiming that they always fail, and that the realm is well rid of those fools.
+
+At the time of the War of the Five Kings, the Golden Company is the largest and best disciplined sellsword company in the Free Cities, functioning as an elite private army; they are not seamen, though. Their forces consist of 10,000 men: 1,000 cavalry, 1,000 archers, and 8,000 infantry, as well as 2,000 horses and at least two dozen war elephants. About 50 of their archers are [[Summer Isles|Summer Islanders]], considered the ''best'' archers in the known world, armed with large and incredibly strong bows made of [[Goldenheart]] wood. As a large private army, they function under their own command structure of officers and serjeants. By the time of the novels, their commanders include:
+
+*[[Harry Strickland]], called Homeless Harry, the current company commander. His great-grandfather was part of the original group of Blackfyre supporters who founded the Golden Company. Formerly the company paymaster, he is not much of a warrior.
+*Laswell Peake, Marq Mandrake, and Tristan Rivers - Strickland's main lieutenants, commanding subdivisions of their main army. All are exiled Westerosi knights.
+*Black Balaq, commander of the company archers. A Summer Islander.
+*Lysono Maar, company spymaster. A [[Lys]]ene man with pronounced Valyrian features, flamboyantly dressed in effeminate makeup, and considered to be more beautiful than many women.
+*Gorys Edoryen, company paymaster. A [[Volantis|Volantene]] man with blood-red hair and cadaverous features.
+
+The company is composed mostly of Westerosi exiles, and sons of exiles. Many of the core members are descended from the hundreds of Blackfyre supporters who fled across the Narrow Sea at the end of the Blackfyre Rebellion. Over the past century their ranks were joined by other men who ended up on the losing side of rebellions in Westeros, who fled to the Free Cities to nurse dreams of reconquest rather than face execution or exile to the Night's Watch.
+
+The Golden Company is first mentioned in the fourth novel. It is repeatedly rumored that the company has broken its contract with [[Myr]]; as strange as it sounds, despite the company's reputation, it turns to be correct, but no one knows for sure the reason. The [[Small Council]] receives questionable reports that Stannis has hired them, and intends to bring them across the [[Narrow Sea]]. Cersei dismisses that as nonsense (for a change, she is correct), because Stannis does not have enough money to hire the company, and they are sailing to [[Volantis]] - the opposite way. 
+
+The Golden Company becomes actively involved in the plotline during the fifth novel. An envoy from [[Yunkai]] is sent to hire them for the [[Second siege of Meereen|campaign against Daenerys]], offering twice what Myr was paying them. Although he does not intend to accept the offer, the commander Harry Strickland tells the envoy evasively he'll consider it, thinking that a blunt refusal would make his men think he has lost his mind. 
+
+At Volantis, Jorah Mormont tells Tyrion about rumors that some exiled lord has hired the Golden Company to win back his lands for him. Tyrion comments humorously these are bad news, for he meant to hire the Golden Company himself, to win Casterly Rock.
+
+In ''A Dance with Dragons'', the Golden Company sails to Westeros, but under totally different circumstances than in the show; it is not hired by the [[ironborn]] or the Lannisters, but by [[Jon Connington]], on behalf of the presumed-dead [[Aegon Targaryen (son of Elia Martell)|Aegon Targaryen]], the son of Rhaegar and Elia who has the strongest claim to the Iron Throne. 
+
+The fleet of the company consists of great cogs which carry the elephants. After passing [[Lys]], a storm scatters the fleet; as a result, less than half the company arrives at Westeros (among them 600 archers), with only three of the elephants and 100 horses. Soon Connington receives reports that the Volantene put Marq Mandrake and close to 500 men ashore on [[Estermont]]. Thus more than 4,500 men of the company are still missing.
+
+It is unknown whether the cogs with the rest of the elephants sank or were delayed only. Harry Strickland is quite upset at the absence of the elephants, thinking that they should wait till the rest of the company, the horses and the elephants arrive. Connington does not listen to him, and immediately starts making plans of conquest. The company soon captures [[Griffin's Roost]] and several more castles ([[Crow's Nest]], [[Rain House]], and [[Mistwood]]); Connington's next target is [[Storm's End]]. In the meantime, the troops which have been put in on Estermont capture [[Greenstone]].
+
+In Arianne's POV chapters of the sixth novel, it is reported (but not confirmed) that the Golden Company has captured [[Storm's End]], [[Tarth]] and half the [[Stepstones]].
+
+In "Theon I" chapter of the sixth novel, Stannis meets [[Tycho Nestoris]], and finally receives the funds he needs to hire reinforcements. He order Ser Justin Massey to travel to Braavos and hire 20,000 sellswords, preferably the Golden Company, unless they are already under contract.[[File:The Golden Company|thumb|H&L]]
+
+Daenerys recalls that years ago, Viserys feasted the captains of the Golden Company, hoping they might take up his cause. They ate his food, heard his pleas - and laughed at him.
+
+In the novels, there is no mention of Jorah Mormont having been a member of the Golden Company, though it is said that after fleeing into exile he drifted around as a sellsword for several years. There is also no specific mention in the novels of the Golden Company being hired by the [[Iron Bank of Braavos]] to collect debts - though many wars in the Free Cities are fueled by such trade wars, and sellswords will fight for whoever pays them.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+[[Category:Golden Company| ]]
+[[Category:Mercenaries]]
+[[Category:Military organizations]]
+
+<!--Languages-->
+[[de:Goldene Kompanie]]
+[[fr:Compagnie Dorée]]
+[[pl:Złota Kompania]]
+[[ru:Золотые мечи]]
+[[vi:Đội Quân Vàng]]
