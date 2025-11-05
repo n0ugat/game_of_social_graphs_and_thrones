@@ -1,0 +1,42 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Bradley Farmer.jpg
+| Birth   = Bradley Farmer
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[Game of Thrones]]''<br>''[[House of the Dragon]]''
+| Season  = ''Game of Thrones'':<br>[[Game of Thrones: Season 3|3]]  {{*}} [[Game of Thrones: Season 4|4]] {{*}} [[Game of Thrones: Season 5|5]] {{*}} [[Game of Thrones: Season 6|6]] {{*}} [[Game of Thrones: Season 7|7]] {{*}} [[Game of Thrones: Season 8|8]]<br>''House of the Dragon'':<br>[[House of the Dragon: Season 2|2]]
+| Credits = 29 episodes {{Below|Credits}}
+| First   = "[[And Now His Watch Is Ended]]"
+| Last    = 
+}}
+'''Bradley Farmer''' is a stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 3|third season]] episodes "[[And Now His Watch Is Ended]]", "[[Kissed by Fire]]" and "[[The Climb]]" the [[Game of Thrones: Season 4|fourth season]] episode "[[The Mountain and the Viper]]", the [[Game of Thrones: Season 5|fifth season]] episodes "[[Sons of the Harpy (episode)|Sons of the Harpy]]", "[[Hardhome (episode)|Hardhome]]" and "[[The Dance of Dragons (episode)|The Dance of Dragons]]", the [[Game of Thrones: Season 6|sixth season]] episodes "[[Oathbreaker]]", "[[Book of the Stranger]]", "[[The Door]]", "[[Blood of My Blood]]", "[[The Broken Man]]", "[[No One]]", "[[Battle of the Bastards (episode)|Battle of the Bastards]]" and "[[The Winds of Winter]]" and the [[Game of Thrones: Season 7|seventh season]] episodes "[[Dragonstone (episode)|Dragonstone]]", "[[Stormborn]]", "[[The Queen's Justice]]", "[[The Spoils of War]]", "[[Eastwatch]]" and "[[The Dragon and the Wolf]]" and the [[Game of Thrones: Season 8|eighth season]] episodes "[[The Long Night]]", "[[The Last of the Starks]]" and "[[The Bells]]".
+
+In ''[[House of the Dragon]]'', he was a stunt performer in the [[House of the Dragon: Season 2|second season]] episodes "[[A Son for a Son]]", "[[Rhaenyra the Cruel]]", "[[The Red Dragon and the Gold]]" and "[[The Red Sowing]]".
+
+==Credits==
+===Stunts===
+====''[[Game of Thrones]]''====
+{{Game of Thrones: Season 3||||yes}}
+{{Game of Thrones: Season 4||||||||yes}}
+{{Game of Thrones: Season 5||||yes||||yes|yes}}
+{{Game of Thrones: Season 6|||yes|yes|yes|yes|yes|yes|yes|yes}}
+{{Game of Thrones: Season 7|yes|yes|yes|yes|yes||yes}}
+{{Game of Thrones: Season 8|||yes|yes|yes}}
+
+====''[[House of the Dragon]]''====
+{{House of the Dragon: Season 2|yes|yes||yes|||yes}}
+
+==See also==
+*{{IMDb
+|# = 1164477}}
+*{{Twitter
+|# = stuntman8008}}
+*{{Linkedin
+|# = /in/brad-farmer-22a2b72a}}
+{{DEFAULTSORT:Farmer, Bradley}}
+[[Category:Stunt performers of Game of Thrones]]
+[[Category:Stunt performers of House of the Dragon]]

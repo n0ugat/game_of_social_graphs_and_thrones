@@ -1,0 +1,39 @@
+{{Canonicity|Canon}}
+{{OtherUses|mill|The Burning Mill (disambiguation)}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Tully
+| Image        = Battle of the Burning Mill.png
+| Type         = Mill
+| Status       = 
+| Location     = [[Riverlands]]
+| Population   = 
+| Rulers       = Disputed:<br>[[House Blackwood]]<br>[[House Bracken]]
+| Institutions = 
+| Military     = 
+| Religion     = 
+| Places       = 
+| Founded      = 
+}}
+The '''Burning Mill'''{{Ref|HOTD203}} is a mill on the borderlands of [[House Bracken]] and [[House Blackwood]] in the [[Riverlands]]. It is named for a [[Battle at the Burning Mill|battle]] that was fought there during the [[Dance of the Dragons]].
+
+==In the books==
+In ''[[Fire & Blood]]'', the Burning Mill is located near [[Stone Hedge]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Riverlands}}
+
+<!--Categories-->
+[[Category:House Blackwood]]
+[[Category:House Bracken]]
+[[Category:Mills]]
+[[Category:Riverlands]]
+
+<!--Languages-->
+[[ru:Горящая Мельница (место)]]

@@ -1,0 +1,55 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Dondarrion.svg
+| Link  = House Dondarrion
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Baratheon
+| Image        =
+<gallery>
+Blackhaven.jpg|Appearance
+Blackhaven Pin.png|Location
+</gallery>
+| Type         = Castle
+| Status       = 
+| Location     = [[Dornish Marches]], the [[Stormlands]]
+| Population   = 
+| Rulers       = [[House Dondarrion]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+{{Quote|The walls of Blackhaven are unscalable basalt stone, and the castle is surrounded by a deep, dry moat. It is well-fortified against any future Dornish incursions. And though my seat may be lesser in size, it is situated most pleasingly. The view across the Marches is inspiring, so said Queen Alysanne herself when she honored my father and I...|[[Beric Dondarrion (son of Simon)|Beric Dondarrion]]|King of the Narrow Sea (episode)}}
+'''Blackhaven'''{{Ref|HOTD102}} is a castle in the [[Dornish Marches]], in the southwestern [[Stormlands]]. It is the seat of [[House Dondarrion]], a vassal house holding fealty to [[House Baratheon]] of [[Storm's End]]. The castle is located south-west of Storm's End near the border with [[Dorne]].
+
+During the reign of [[Viserys I Targaryen|Viserys I]], Blackhaven was also the home of [[House Cole]], who served as [[steward]]s to the Dondarrions.{{Ref|HOTD101}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Blackhaven is a stout keep that has a long history as a defensive fortification against attacks out of Dorne to the south. It has black basalt walls, dry moat that's said to be bottomless, and the castle is small and modest in comparison to the great castles of the Seven Kingdoms. According to legend, the castle was granted by the Storm King to a loyal scout who avoided Dornish patrols to bring him warning of an impending attack. At one point the scout was ambushed, but his attackers were killed in a freak lightning strike. As a result, the scout, who was the founder of House Dondarrion, adopted a lightning bolt as his symbol.
+
+Blackhaven is the home of Lord [[Beric Dondarrion]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{House Dondarrion}}
+{{House Cole}}
+{{Stormlands}}
+
+<!--Categories-->
+[[Category:Castles of the Stormlands]]
+[[Category:House Cole]]
+[[Category:House Dondarrion]]
+
+<!--Languages-->
+[[de:Schwarzburg]]
+[[pl:Czarna Przystań]]
+[[ru:Чёрный Приют]]
+[[uk:Блекхейвен]]

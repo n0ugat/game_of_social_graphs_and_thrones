@@ -1,0 +1,65 @@
+{{Canonicity|Non}}
+{{Heraldry
+| Image = House Umber.svg
+| Link  = House Umber
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Stark
+| Image       = Umber lineage.jpg
+| Birth       = At [[Last Hearth]]
+| Death       = 
+| House       = [[House Umber|Umber]]
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Northmen|Northern]]
+| Religion    = [[Old Gods]]
+| Father      = {[[Joseth Umber]]}
+| Mother      = {[[Katrina Umber|Katrina Cerwyn]]}
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = {[[Maynard Umber]]}
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Cedric Umber''' was a member of [[House Umber]].
+
+==Biography==
+===Background===
+Cedric Umber was the son of Lord [[Joseth Umber]] and his wife, Lady [[Katrina Umber|Katrina Cerwyn]].{{Ref|GOT104}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+He has an entry in ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]''.{{Ref|GOT104}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no such character. The only character whose first name is Cedric is a knight of [[House Payne]].
+
+==Appearances==
+*{{GOT|Cripples, Bastards, and Broken Things}} {{Text}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House Umber}}
+
+<!--Categories-->
+{{DEFAULTSORT:Umber, Cedric}}
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Members of House Umber|Cedric Umber]]
+[[Category:Northmen]]
+
+<!--Languages-->
+[[de:Cedric Umber]]
+[[es:Cedric Umber]]
+[[fr:Cedric Omble]]
+[[ru:Седрик Амбер]]

@@ -1,0 +1,41 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Free
+| Image        = Black Walls.png
+| Type         = 
+| Status       = 
+| Location     = [[Volantis]], the [[Free Cities]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = 
+| Places       = 
+| Founded      = by the [[Valyrian Freehold]]
+}}
+{{Quote|There, the dragonlords raised the famous Black Walls; seamless, fused dragonstone, two hundred feet tall, and so thick that six four-horse chariots can race along the battlement side by side, as they do each year to celebrate the founding of the city.|[[Varys]]|Volantis (short)}}
+The '''Black Walls'''{{Ref|H&L503}} are large walls surrounding the innermost part of the city of [[Volantis]]. The only people allowed to dwell within them are scions of the [[Old Blood]] descended from [[Old Valyria]], and none can enter without an express invitation from them.
+
+The Walls were formed from [[Dragonstone (material)|dragonstone]] by the [[dragonlord]]s of [[Old Valyria|Valyria]] when they first built the city, and are so large that on the annual celebration of its founding six four-[[horse]] chariots race along the battlements side by side.<ref>"[[Volantis (short)|Volantis]]"</ref>
+
+==In the books==
+[[File:Black Walls chariot race.png|thumb|The founding of Volantis is celebrated annually by racing six four-horse chariots along the battlements of the Black Walls.]]
+In the ''[[A Song of Ice and Fire]]'' novels, the Black Walls are a two hundred foot high oval of fused black stone in "Old Volantis", the eastern half of [[Volantis]].
+
+Along with [[Lys]] and [[Myr]], Volantis was ruled for two generations by [[Triarchs of Volantis|triarchs]] within the Black Walls, but this came to an end when the "tiger" faction of the triarchs attempted to conquer [[Tyrosh]] and were defeated by a coalition.
+
+Within the Black Walls exists a labyrinth of palaces, courtyards, towers, temples, cloisters and cellars. Those who dwell behind the Walls worship the old gods of [[Valyrian Freehold|Valyria]], as opposed to [[Lord of Light|R'hllor]] who is worshipped by both slaves and [[freedmen]] outside the Walls. Women of good birth who live behind the Walls are allowed to vote.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Black Wall}}
+
+<!--Categories-->
+[[Category:Buildings]]
+[[Category:Volantis]]
+
+<!--Languages-->
+[[ru:Чёрные стены]]

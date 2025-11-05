@@ -1,0 +1,75 @@
+{{Canonicity|Canon}}
+{{Spoiler|HOTD}}
+{{Heraldry
+| Image = House Swann.svg
+| Link  = House Swann
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Baratheon
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = [[House Swann|Swann]]
+| Affiliation = 
+| Titles      = [[Knighthood|Ser]]
+| AKA         = 
+| Culture     = [[Stormlands|Stormlander]]
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Dialogue a-b-a-b|Shireen Baratheon|Ser Byron Swann wanted to kill the dragon Vhagar. He polished his shield for a week so that it was like a mirror. And he crouched behind it and crept forward, hoping the dragon would only see its own reflection.|Davos Seaworth|But the dragon only saw a dumb man holding a mirrored shield.|And burnt him to a crisp.|Thus ending the dragonslaying career of Ser Byron Swann.|Davos and Shireen share a laugh.|The Dance of Dragons (episode)}}
+Ser '''Byron Swann''' was a [[Knighthood|knight]] who was killed during the [[Dance of the Dragons]].
+
+==Biography==
+===Background===
+During the civil war, Ser Byron attempted to slay [[Vhagar]] by polishing his shield for a week to make it as reflective as possible. Hoping to sneak up on the dragon, Ser Byron was fatally mistaken and burnt to death. His death was written about in ''[[The Dance of Dragons: A True Telling]]'' by [[Grand Maester]] [[Munkun]].{{Ref|GOT509}}
+
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+[[Shireen Baratheon|Shireen]] reads ''[[The Dance of Dragons: A True Telling]]'', sharing a laugh over Ser Byron's demise with [[Davos Seaworth|Davos]].{{Ref|GOT509}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, when [[Tyrion Lannister|Tyrion]] is in [[Pentos]], he briefly assumes the false identity of Hugor Hill, and is asked to prove he is truly a Westerosi, by naming a knight who tried to killed a dragon during the Dance of Dragons, imitating the famous legend of Serwyn of the Mirror Shield (who allegedly killed the dragon Urrax by using that trick) from the [[Age of Heroes]].
+
+Not only does Tyrion know it was Ser Byron Swann, but also notes that Grand Maester Munkun erred in his book; Byron didn't try to kill Vhagar, he tried to kill [[Rhaenyra Targaryen]]'s dragon [[Syrax]]. As Tyrion explains, Byron was the son of a marcher lord, who was sworn to House Baratheon, who declared for King [[Aegon II Targaryen]]. Moreover, Vhagar was ridden by Prince [[Aemond Targaryen]], King Aegon II's brother, so it really wouldn't make sense for Byron to try to kill Vhagar. Some time ago, Tyrion noticed the discrepancy in the course of his own studies, and even researched it further by obtaining a letter written by Ser Byron's squire, who witnessed Ser Byron's death, to the squire's daughter, and in the letter it was stated that Syrax killed him.
+
+==Appearances==
+*{{GOT|The Dance of Dragons}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{House Swann}}
+
+<!--Categories-->
+{{DEFAULTSORT:Swann, Byron}}
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Knights]]
+[[Category:Members of House Swann|Byron Swann]]
+[[Category:Stormlanders]]
+
+<!--Languages-->
+[[de:Beyron Swann]]
+[[es:Byron Swann]]
+[[fr:Byron Swann]]
+[[it:Byron Swann]]
+[[nl:Byron Swaan]]
+[[ru:Байрон Сванн]]
+[[zh:拜伦·史文]]

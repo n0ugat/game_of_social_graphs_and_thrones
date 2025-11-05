@@ -1,0 +1,61 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Lannister.svg
+| Link  = House Lannister/House of the Dragon
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Lannister
+| Image       = Brett Lannister.jpg
+| Birth       = 
+| Death       = 
+| House       = [[House Lannister/House of the Dragon|Lannister]]{{Ref|HOTD103}}
+| Affiliation = 
+| Titles      = 
+| AKA         = 
+| Culture     = [[Westerlands|Westermen]]{{Ref|HOTD103}}
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 1|1]]
+| Appearances = "[[Second of His Name]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Thom Ashley]]
+}}
+'''Brett Lannister''' is a member of [[House Lannister/House of the Dragon|House Lannister]] during the reign of [[Viserys I Targaryen|Viserys I]].
+
+==Biography==
+===Background===
+Brett is a member of House Lannister. His exact relationship to the main branch is unknown.{{Ref|HOTD103}}
+
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+Brett accompanies [[Ceira Lannister|Ceira]], [[Jason Lannister|Jason]], and [[Tyland Lannister]] to the [[Kingswood]] to participate in the royal hunt on Prince [[Aegon II Targaryen|Aegon]]'s second [[nameday]].{{Ref|HOTD103}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels and ''[[Fire & Blood]]'', there is no character named Brett.
+
+==Appearances==
+*{{HOTD|Second of His Name}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House Lannister/House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Lannister, Brett}}
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Members of House Lannister|Brett Lannister]]
+[[Category:Westermen]]
+
+<!--Languages-->
+[[ru:Бретт Ланнистер]]

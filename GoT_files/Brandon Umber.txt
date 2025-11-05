@@ -1,0 +1,68 @@
+{{Canonicity|Non}}
+{{Heraldry
+| Image = House Umber.svg
+| Link  = House Umber
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Stark
+| Image       = Umber lineage.jpg
+| Birth       = [[220 AC]]{{Dateref|Brandon Umber}} at [[Last Hearth]]
+| Death       = 
+| House       = [[House Umber|Umber]]
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Northmen|Northern]]
+| Religion    = [[Old Gods]]
+| Father      = {[[Gareth Umber]]}
+| Mother      = {[[Hollys Umber|Hollys Tallhart]]}
+| Spouse      = 
+| Lovers      = 
+| Children    = {2 sons}<br>{3 daughters}
+| Siblings    = {[[Emilia Umber]]}<br>{[[Kear Umber]]}<br>{[[Finn Umber]]}<br>{[[Iain Umber (son of Gareth)|Iain Umber]]}<br>{[[Morgana Umber]]}
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Brandon Umber''' was a member of [[House Umber]] who lived prior to the start of the [[War of the Five Kings]].
+
+==Biography==
+===Background===
+Brandon was born to Lord [[Gareth Umber]] and [[Hollys Umber]].{{Ref|GOT104}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+He has an entry in ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]''.{{Ref|GOT104}}
+
+==In the books==
+Brandon Umber is referenced only in the TV adaptation of ''[[A Song of Ice and Fire]]'' and has no corresponding counterpart in the books.
+
+==Appearances==
+*{{GOT|Cripples, Bastards, and Broken Things}} {{Text}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{House Umber}}
+
+<!--Categories-->
+{{DEFAULTSORT:Umber, Brandon}}
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Members of House Umber|Brandon Umber]]
+[[Category:Northmen]]
+
+<!--Languages-->
+[[de:Brandon Umber]]
+[[es:Brandon Umber]]
+[[fr:Brandon Omble]]
+[[ru:Брандон Амбер]]

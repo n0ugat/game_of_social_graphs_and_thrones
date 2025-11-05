@@ -1,0 +1,85 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Leftimage  = House Hightower.svg
+| Leftlink   = House Hightower
+| Rightimage = House Targaryen.svg
+| Rightlink  = House Targaryen
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Targaryen
+| Image       = 
+| Birth       = At the [[Hightower]], in [[Oldtown]]
+| Death       = 
+| House       = [[House Hightower|Hightower]]<br>[[House Targaryen|Targaryen]] {{C|by marriage}}
+| Affiliation = 
+| Titles      = [[King#Queens|Queen Consort]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Andals|Andal]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = {[[Maegor Targaryen|Maegor I Targaryen]]}
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Maegor agreed to marry the High Septon's niece to unite the Faith and the crown, but then secretly wed a second wife in a Valyrian ceremony artfully combining bigamy and heresy.|[[Petyr Baelish]]|The Hand of the King}}
+Queen '''Ceryse Hightower'''{{Con|TWOI&F}} was a wife of [[Maegor Targaryen]]. Their marriage was arranged by her uncle, the [[High Septon (Faith Militant uprising)|High Septon]], to create unity between the crown and the [[Faith of the Seven]]. However, Maegor married [[Alys Harroway]] in a secret [[Valyrians|Valyrian]] ceremony while he was still married to Ceryse. King [[Aenys Targaryen]] discovered this and exiled Maegor and named [[Septon]] [[Murmison]] as [[Hand of the King]].{{Ref|H&L707}}
+
+==Family==
+{{Targaryen tree (Aegon's Conquest)}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Ceryse was the daughter of Lord Martyn Hightower of [[Oldtown]]. She was Maegor's first wife, and the second to die of his six wives.
+
+Queen [[Visenya Targaryen]] had intended that her son [[Maegor Targaryen]] be married to Princess [[Rhaena Targaryen (daughter of Aenys)|Rhaena Targaryen]], but the [[High Septon (Aegon I)|High Septon]] suggested his niece instead. Ceryse married Maegor in the [[Starry Sept]] in 25 AC, with her uncle performing the rites. She was older than her husband by a decade, being twenty-three while he was only thirteen. Despite Maegor's claim that they had consummated their marriage a dozen times during their [[bedding ceremony]], their marriage produced no children. Believing Ceryse to be barren, Maegor married [[Alys Harroway]] in a secret ceremony. Once the secret marriage was discovered, Maegor chose exile in [[Pentos]] and left Ceryse behind in [[Westeros]]. Septon [[Murmison]] failed in his attempts to make Ceryse fertile and she eventually returned to her father in Oldtown.
+
+Maegor returned to Westeros following King [[Aenys Targaryen]]'s death in 42 AC and claimed the [[Iron Throne]]. He announced his intention to marry his [[paramour]] Tyanna of the Tower, though [[Grand Maester]] Myros reminded him that his "one true wife" awaited him in the [[Hightower]] (an outburst for which Maegor executed Myros). Ceryse insisted that she was Maegor's only lawful queen.
+
+The following year, Maegor and Visenya arrived in Oldtown and threatened to burn the Starry Sept in response to the [[High Septon (Faith Militant uprising)|High Septon]]'s condemnation of his polygamous marriages. The High Septon died shortly after their arrival and Maegor remained in Oldtown for the next six months to provide over the trials of the Warrior's Sons, during which he and Ceryse reconciled. She accepted his other wives and in return he promised to restore her rights, incomes and privileges as his lawful queen. They celebrated this with a great feast and a second consummation, after which they returned to [[King's Landing]].
+
+Ceryse died of a sudden illness shortly after the completion of the [[Red Keep]] in 45 AC. It was rumored that she had said something to offend Maegor, and he ordered Ser Owen Bush of the [[Kingsguard]] to cut out her tongue as punishment; her struggling caused the knife to slip and accidentally slashed her throat. Historians, however, dispute this to be a story created by Maegor's enemies to slander him.
+
+==Appearances==
+*{{H&L|The Hand of the King}} {{Mentioned}}
+*{{H&L|Maegor the Cruel}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Hightower}}
+{{House Targaryen}}
+
+<!--Categories-->
+{{DEFAULTSORT:Hightower, Ceryse}}
+[[Category:Individuals from Histories & Lore]]
+[[Category:Individuals from the Reach]]
+[[Category:Members of House Hightower|Ceryse Hightower]]
+[[Category:Members of House Targaryen|Ceryse Hightower]]
+[[Category:Queens]]
+
+<!--Languages-->
+[[de:Ceryse Hohenturm]]
+[[es:Ceryse Hightower]]
+[[fr:Ceryse Hightower]]
+[[it:Ceryse Hightower]]
+[[nl:Ceryse Hoogtoren]]
+[[ru:Сериса Хайтауэр]]

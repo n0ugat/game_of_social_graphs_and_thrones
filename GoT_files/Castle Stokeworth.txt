@@ -1,0 +1,60 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Stokeworth.svg
+| Link  = House Stokeworth
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Crownlander
+| Image        =
+<gallery>
+Stokeworth.png|Appearance
+Stokeworth Pin.png|Location
+</gallery>
+| Type         = Castle
+| Status       = 
+| Location     = The [[Crownlands]], [[Westeros]]
+| Population   = 
+| Rulers       = [[House Stokeworth]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+{{Dialogue a-b|Tyrion|She still gets Castle Stokeworth when her father dies.|Bronn|She does... unless she happens to perish <u>before</u> her father, then Lollys gets the castle. What? Ladies fall from their horses and snap their pretty necks all the time.|[[Bronn]] reveals his plan to "acquire" Castle Stokeworth to [[Tyrion Lannister]]|Mockingbird}}
+'''Castle Stokeworth''',{{Ref|GOT407}} also known as '''Stokeworth''',{{Ref|GOT502}} is a castle in the [[Crownlands]]. It is the seat of [[House Stokeworth]], a [[Noble house|vassal house]] sworn directly to the [[Iron Throne]]. It is located northeast of [[King's Landing]], on the road between [[Rosby]] and [[Duskendale]].
+
+==History==
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+[[King|Queen]] [[Cersei Lannister]] bribes [[Knighthood|Ser]] [[Bronn]] not to aid [[Tyrion Lannister|Tyrion]] by arranging for him to marry [[Lollys Stokeworth]]. Tyrion points out that Lollys has an older sister and therefore Castle Stokeworth will pass to her, not to Lollys. Bronn is aware of Lollys's older sister, but [[Falyse Stokeworth|Falyse]] is childless, past forty years old, and barren. Bronn also bluntly implies that he intends to arrange for an "accident" to befall Falyse, so that after her death Lollys will inherit Castle Stokeworth.{{Ref|GOT407}}
+
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+[[Lollys Stokeworth]] and her newly betrothed Ser [[Bronn]] of the Blackwater walk on the grounds outside the castle, as Lollys talks excitedly about plans for their upcoming wedding. Bronn muses that he never thought he'd end up settling down in a fine a place as this. Confused, Lollys corrects him that after her mother ([[Tanda Stokeworth]]) dies, the castle will pass to her sister, because she is older than Lollys. She also says that her sister hates her, calls her names, and even still she pulls Lollys's hair when she thinks their mother isn't looking. Bronn assures Lollys that her sister is mean, and mean people always end up getting what's coming to them - clearly still holding to his plan to surreptitiously kill off Falyse after he marries Lollys.{{Ref|GOT502}}
+
+They then see that [[Jaime Lannister]] has arrived at the castle. He privately informs Bronn that he needs him to accompany a secret mission he is taking to [[Dorne]]. To encourage Bronn to go, the Lannisters have now promised Lollys to [[Wyllis Bracken]]: Jaime vaguely promises that they will find Bronn a better bride with an even bigger castle, though Bronn is not amused.{{Ref|GOT502}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, House Stokeworth rules over the eponymous town of Stokeworth. It is located northeast of [[King's Landing]], on the road between [[Rosby]] and [[Duskendale]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Stokeworth}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{House Stokeworth}}
+{{Crownlands}}
+
+<!--Categories-->
+[[Category:Castles of the Crownlands|Stokeworth]]
+[[Category:House Stokeworth]]
+
+<!--Languages-->
+[[de:Burg Schurwerth]]
+[[es:Stokeworth]]
+[[nl:Stookewaard]]
+[[pt-br:Stokeworth (Castelo)]]
+[[ru:Стокворт (замок)]]
+[[zh:史铎克渥斯堡]]

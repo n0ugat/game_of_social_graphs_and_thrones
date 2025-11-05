@@ -1,0 +1,73 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Faith Militant.svg
+| Link  = Faith Militant
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Militant
+| Image       = Boake.jpg
+| Birth       = 
+| Death       = [[303 AC]]{{Dateref|Game of Thrones: Season 6}}<br>The [[Great Sept of Baelor]], [[King's Landing]]{{Ref|GOT610}}
+| House       = 
+| Affiliation = [[Faith Militant]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = 
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 5|5]] {{*}} [[Game of Thrones: Season 6|6]]
+| Appearances = 5 episodes {{Below|Appearances}}
+| First       = "[[Sons of the Harpy (episode)|Sons of the Harpy]]"
+| Last        = "[[The Winds of Winter]]"
+| DeathEp     = "The Winds of Winter"
+| Actor       = 
+}}
+{{Quote|Thank you, Boake.|[[High Sparrow]]|The Gift}}
+'''Boake''' was a member of the [[Faith Militant]].
+
+==Biography==
+===Background===
+Boake is a member of the [[Faith Militant]], the recently reinstated military arm of the [[Faith of the Seven]].{{Ref|GOT504}}
+
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+Boake is one of the Faith Militant who ransacks [[Littlefinger's brothel]].{{Ref|GOT504}}
+
+Boake escorts Queen Mother [[Cersei Lannister]] when she visits Queen [[Margaery Tyrell]] in her cell in the [[Great Sept of Baelor]]. He then escorts her to the [[High Sparrow]], who thanks him and dismisses him.{{Ref|GOT507}}
+
+He escorts [[Septa]] [[Unella]] when she comes to Cersei's cell to tempt her to confess her sins with the promise of water. He opens the door to Cersei's cell for [[Qyburn]] also.{{Ref|GOT508}}
+
+===[[Game of Thrones: Season 6|''Game of Thrones'': Season 6]]===
+Boake is inside the [[Great Sept of Baelor|Great Sept]] for the trials of [[Loras Tyrell|Loras]] and Cersei, standing directly behind Loras who is beside Margaery seconds before it explodes with [[wildfire]], killing everyone inside.{{Ref|GOT610}}
+
+==Behind the scenes==
+The character may be named after Robert Boake, one of the [[Filming locations (Game of Thrones)|filming location]] managers for the TV series.
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no character named Boake.
+
+==Appearances==
+*{{GOT|Sons of the Harpy}}
+*{{GOT|The Gift}}
+*{{GOT|Hardhome}}
+*{{GOT|Mother's Mercy}}
+*{{GOT|The Winds of Winter}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Categories-->
+[[Category:Faith Militant]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Sparrows]]

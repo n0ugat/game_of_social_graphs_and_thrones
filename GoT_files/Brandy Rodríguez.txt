@@ -1,0 +1,28 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Brandy Rodríguez.jpg
+| Birth   = Ilebrando Rodríguez Magano
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = 2 episodes {{Below|Credits}}
+| First   = "[[The Heirs of the Dragon]]"
+| Last    = 
+}}
+'''Ilebrando "Brandy" Rodríguez Magano''' is a stuntman and actor.
+
+In ''[[House of the Dragon]]'', he was a stunt performer in the [[House of the Dragon: Season 1|first season]] episodes "[[The Heirs of the Dragon]]" and "[[The Rogue Prince]]".
+
+==Credits==
+===Stunts===
+{{House of the Dragon: Season 1|yes|yes}}
+
+==See also==
+*{{IMDb
+|# = 4707523}}
+*{{Facebook
+|# = pages/Personal-Trainer-BR/111837972329575}}
+{{DEFAULTSORT:Rodríguez, Brandy}}
+[[Category:Stunt performers of House of the Dragon]]

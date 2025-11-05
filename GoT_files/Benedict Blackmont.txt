@@ -1,0 +1,65 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Leftimage  = House Blackmont.svg
+| Leftlink   = House Blackmont
+| Rightimage = Night's Watch.svg
+| Rightlink  = Night's Watch
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = 
+| Birth       = At [[Blackmont]]
+| Death       = 
+| House       = [[House Blackmont|Blackmont]]
+| Affiliation = [[Night's Watch]]
+| Titles      = [[King]] {{C|deposed}}
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Dornishmen|Dornish]]
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+King '''Benedict Blackmont''' was the last king of [[House Blackmont]].
+
+==Biography==
+Benedict was defeated in [[Nymeria's War]], and [[Nymeria]] had him sent to the [[Wall]] in golden chains.{{Ref|H&L509}}
+
+==In the books==
+In ''The World of Ice & Fire'', Benedict Blackmont is described as having worshiped a dark god and was said to have the power to turn himself into a vulture of enormous size.
+
+==Appearances==
+*{{H&L|Dorne}} {{Indirect}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Kings of Westeros}}
+
+<!--Categories-->
+{{DEFAULTSORT:Blackmont, Benedict}}
+[[Category:Dornishmen]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Kings]]
+[[Category:Members of House Blackmont|Benedict Blackmont]]
+[[Category:Men of the Night's Watch]]
+
+<!--Languages-->
+[[ru:Бенедикт Блэкмонт]]

@@ -1,0 +1,26 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Bill Best.jpg
+| Birth   = 
+| Death   = 
+| Role    = Tyroshi pirate
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]]
+| Credits = 
+| First   = 
+| Last    = 
+}}
+'''Bill Best''' is an actor.
+
+Best plays a Tyroshi pirate in the [[House of the Dragon: Season 2|second season]] of ''[[House of the Dragon]]''.<ref>https://twitter.com/RedanianIntel/status/1701277527904342124></ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb|#=9246357}}
+
+<!--Categories-->
+{{DEFAULTSORT:Best, Bill}}
+[[Category:Uncredited cast members of House of the Dragon]]

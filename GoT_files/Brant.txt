@@ -1,0 +1,63 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Night's Watch.svg
+| Link  = Night's Watch
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = Brant.png
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[Night's Watch]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 5|5]]
+| Appearances = "[[The Gift]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Jonathan Byrne]]
+}}
+{{Quote|One little kiss?|Brant to [[Gilly]]|The Gift}}
+'''Brant''' is a sworn brother of the [[Night's Watch]].
+
+==Biography==
+===Background===
+Brant's dialogue indicates that he is probably from [[White Harbor]].{{Ref|GOT507}}
+
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+Brant and his friend [[Derek]] are present during the funeral for [[Order of Maesters|Maester]] [[Aemon]]. [[Samwell Tarly|Sam]] notices them staring at him hatefully after being warned of such dangers by [[Alliser Thorne]]. During their guard duty, he and Derek attempt to rape [[Gilly]]. After severely beating Sam, who intervened, they are scared off by a snarling [[Ghost]].{{Ref|GOT507}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no Brant or any analogous character.
+
+==Appearances==
+*{{GOT|The Gift}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{Night's Watch}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Men of the Night's Watch]]
+
+<!--Languages-->
+[[de:Brant]]
+[[fr:Brant]]
+[[ru:Брант]]

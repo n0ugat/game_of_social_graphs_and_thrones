@@ -1,0 +1,70 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Dayne.svg
+| Link  = House Dayne
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Martell
+| Image       = 
+| Birth       = At [[Starfall]]
+| Death       = 
+| House       = [[House Dayne|Dayne]]
+| Affiliation = [[House Martell]]
+| Titles      = [[Lord of Starfall]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Dornishmen|Dornish]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = {[[Arthur Dayne]]}<br>{[[Ashara Dayne]]}
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+Lord '''Beric Dayne''' was a [[Lord of Starfall]].
+
+==Biography==
+===Background===
+Beric Dayne was the Lord of Starfall and the father of Ser [[Arthur Dayne]], the [[Sword of the Morning]].{{Ref|GOT401}}
+
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+He is mentioned in his son Arthur's entry in the ''[[Book of Brothers]]'', which King [[Joffrey Baratheon]] was reading.{{Ref|GOT401}}
+
+===[[Game of Thrones: Season 8|''Game of Thrones'': Season 8]]===
+The new [[Lord Commander of the Kingsguard]] [[Brienne of Tarth]] while flicking through the ''Book of Brothers'', comes across Arthur Dayne's entry, which mentions Beric.{{Ref|GOT806}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Ser Arthur Dayne's father is never named or mentioned, and due to the equal primogeniture in Dorne it is unknown whether Ser Arthur was the son of a male or female ruler of Starfall. Ser Arthur's nephew Edric Dayne is the [[Lord of Starfall]] during the events of the series.
+
+==Appearances==
+*{{GOT|Two Swords}} {{Text}}
+*{{GOT|The Iron Throne}} {{Text}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House Dayne}}
+
+<!--Categories-->
+{{DEFAULTSORT:Dayne, Beric}}
+[[Category:Bannermen of House Martell]]
+[[Category:Dornishmen]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Lords of Starfall|Beric Dayne]]
+[[Category:Members of House Dayne|Beric Dayne]]
+
+<!--Languages-->
+[[de:Beric Dayn]]
+[[fr:Beric Dayne]]
+[[ru:Берик Дейн]]

@@ -1,0 +1,61 @@
+{{Canonicity|Non}}
+{{Heraldry
+| Leftimage  = House Hornwood.svg
+| Leftlink   = House Hornwood
+| Rightimage = House Royce.svg
+| Rightlink  = House Royce
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Royce
+| Image       = House Royce lineage.jpeg
+| Birth       = At [[Hornwood]]
+| Death       = 
+| House       = [[House Hornwood|Hornwood]]<br>[[House Royce|Royce]] {{C|by marriage}}
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Northmen|Northern]]
+| Religion    = [[Old Gods]]
+| Father      = 
+| Mother      = 
+| Spouse      = [[Donal Royce (son of Donal)|Donal Royce]]
+| Lovers      = 
+| Children    = {Stillborn son}<br>[[Mavis Royce (daughter of Donal)|Mavis Royce]]<br>[[Pruea Royce]]<br>[[Phillippa Royce]]<br>[[Daneala Royce]]<br>[[Junia Royce (daughter of Donal)|Junia Royce]]<br>[[Luna Royce]]
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Catherine Hornwood''' is a member of [[House Hornwood]] and the wife of [[Donal Royce (son of Donal)|Donal Royce]].
+
+==Biography==
+Catherine Hornwood married [[Donal Royce (son of Donal)|Donal Royce]] and bore him a stillborn son and six daughters.<ref name = "s1prop">''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]'' prop from Season 1</ref>
+
+==Behind the scenes==
+Catherine Hornwood is mentioned in the section on House Royce in the Season 1 prop for ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]''. The section on House Royce never appears on-screen in the TV series, as its planned appearance, where [[Eddard Stark]] would have read from it, was cut.
+
+==In the books==
+Catherine Hornwood is referenced only in the TV adaptation of ''[[A Song of Ice and Fire]]'' and has no corresponding counterpart in the books.
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House Royce}}
+
+<!--Categories-->
+{{DEFAULTSORT:Hornwood, Catherine}}
+[[Category:Individuals from Game of Thrones]]
+[[Category:Members of House Hornwood|Catherine Hornwood]]
+[[Category:Members of House Royce|Catherine Hornwood]]
+[[Category:Northmen]]
+
+<!--Languages-->
+[[ru:Кэтрин Ройс]]

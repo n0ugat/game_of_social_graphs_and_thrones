@@ -1,0 +1,27 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Kingdoms
+| Image   = Ben O'Hanlon.jpg
+| Birth   = 
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[A Knight of the Seven Kingdoms]]''
+| Season  = [[A Knight of the Seven Kingdoms: Season 1|1]]
+| Credits = 6 episodes {{Below|Credits}}
+| First   = [[A Knight of the Seven Kingdoms: Season 1, Episode 1|Season 1, Episode 1]]
+| Last    = 
+}}
+'''Benjamin O'Hanlon''' is a stuntman and actor.
+
+In ''[[A Knight of the Seven Kingdoms]]'', he was a HOD stunt rigger in upcoming episodes.
+
+==Credits==
+{{A Knight of the Seven Kingdoms: Season 1|yes|yes|yes|yes|yes|yes}}
+
+==External links==
+*{{IMDb|# = 4285790}}
+*{{Linkedin|# = /in/benjamin-o-hanlon-7aa35216}}
+
+<!--Categories-->
+{{DEFAULTSORT:O'Hanlon, Ben}}
+[[Category:Stunt performers of A Knight of the Seven Kingdoms]]

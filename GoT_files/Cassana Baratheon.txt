@@ -1,0 +1,86 @@
+{{Canonicity|Canon}}
+{{Distinguish|Cassandra Baratheon}}
+{{Heraldry
+| Image = House Baratheon.svg
+| Link  = House Baratheon
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Baratheon
+| Image       = Steffon.jpg
+| Birth       = Cassana Estermont{{Ref|GOT106}}
+| Death       = [[278 AC]]{{Dateref|Windproud}}<br>[[Shipbreaker Bay]], the [[Stormlands]]{{Ref|GOT106}}
+| House       = [[House Estermont|Estermont]]{{Ref|GOT106}}<br>[[House Baratheon|Baratheon]]{{Ref|GOT106}} {{C|by marriage}}
+| Affiliation = 
+| Titles      = 
+| AKA         = 
+| Culture     = [[Stormlands|Stormlander]]{{Ref|GOT106}}
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = {[[Steffon Baratheon]]}{{Ref|GOT106}}
+| Lovers      = 
+| Issue       = {[[Robert Baratheon|Robert I Baratheon]]}{{Ref|GOT106}}<br>{[[Stannis Baratheon]]}{{Ref|GOT106}}<br>{[[Renly Baratheon]]}{{Ref|GOT106}}
+| Siblings    = 
+| Arms        = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|For the sake of the mother who bore us, I will give you this one night to reconsider.|[[Stannis Baratheon]] to [[Renly Baratheon]]|Garden of Bones (episode)}}
+Lady '''Cassana Baratheon''', née '''Estermont''', was the mother of Kings [[Robert Baratheon|Robert]], [[Stannis Baratheon|Stannis]], and [[Renly Baratheon]].
+
+==Biography==
+===Background===
+Cassana was born to House Estermont, a noble house from the [[Stormlands]]. She became the [[Lord of Storm's End|Lady of Storm's End]] and the wife of Lord [[Steffon Baratheon]], the head of [[House Baratheon]], one of the [[Great House]]s of [[Westeros]]. They had three sons, Robert, Stannis and Renly Baratheon. She lived with her family in [[Storm's End]]. After [[Robert's Rebellion]], her eldest son assumed the [[Iron Throne]] on the grounds that he had the best claim out of all the rebel leaders, partly because Cassana had Targaryen blood.{{Ref|H&L310}}
+
+Cassana and her husband died shortly before Robert's Rebellion when their ship, the ''[[Windproud]]'', sank in [[Shipbreaker Bay]].{{Ref|GOT106}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+She has an entry in the ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]'', as read by [[Eddard Stark]].{{Ref|GOT106}}
+
+==Family==
+{{Baratheon tree}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Cassana comes from House Estermont. She married Steffon Baratheon and bore him three sons as in the series. She accompanied him on a trip to Essos. Their ship, the ''Windproud'', sank in Shipbreaker Bay within sight of Storm's End on their return voyage. Their bodies were never found.
+Also, in the books, it was not Cassana who had Targaryen blood but her husband's mother, a daughter of King Aegon V Targaryen.
+
+==Appearances==
+*{{GOT|A Golden Crown}} {{Text}}
+*{{GOT|Garden of Bones}} {{Mentioned}}
+*{{H&L|Robert's Rebellion - Petyr Baelish and Varys}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|Cassana Estermont}}
+
+<!--Navboxes-->
+{{House Estermont}}
+{{House Baratheon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Baratheon, Cassana}}
+[[Category:Individuals from Histories & Lore]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Ladies]]
+[[Category:Members of House Baratheon|Cassana Baratheon]]
+[[Category:Members of House Estermont|Cassana Baratheon]]
+[[Category:Stormlanders]]
+
+<!--Languages-->
+[[de:Cassana Baratheon]]
+[[es:Cassana Estermont]]
+[[fr:Cassana Baratheon]]
+[[pl:Cassana Baratheon]]
+[[ru:Кассана Баратеон]]
+[[zh:卡珊娜·伊斯蒙]]

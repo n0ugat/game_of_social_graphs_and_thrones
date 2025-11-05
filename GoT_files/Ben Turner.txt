@@ -1,0 +1,33 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Ben Turner.jpg
+| Birth   = February 3, 1980 {{Age|1980|2|3}}<br>Hackney, London, England
+| Death   = 
+| Role    = Tyroshi captain
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]]
+| Credits = "[[The Queen Who Ever Was]]"
+| First   = 
+| Last    = 
+}}
+'''Ben Turner''' is a British Iranian actor. He has appeared in the films ''{{WPS|Adulthood (2008 film)|Adulthood}}'' and ''{{WPS|300: Rise of an Empire}}'' and the television series ''{{WPS|Doctor Who}}'', ''{{WPS|The Bill}}'', ''{{WPS|Death in Paradise (TV series)|Death in Paradise}}'', ''{{WPS|EastEnders}}'', ''{{WPS|Casualty (TV series)|Casualty}}'' and ''{{WPS|Doctors (2000 TV series)|Doctors}}''.
+
+Turner plays a Tyroshi captain in the [[House of the Dragon: Season 2|second season]] of ''[[House of the Dragon]]''.
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 2||||||||yes}}
+
+==External links==
+*{{WP|Ben Turner (actor)|Ben Turner}}
+*{{IMDb|# = 1883181}}
+*{{Twitter|# = iamBenTurner}}
+*{{Instagram||# = bturneruk}}
+
+<!--Categories-->
+{{DEFAULTSORT:Turner, Ben}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Ben Turner]]

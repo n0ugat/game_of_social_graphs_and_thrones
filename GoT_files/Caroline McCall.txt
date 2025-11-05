@@ -1,0 +1,29 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Caroline McCall.jpg
+| Birth   = Portadown, County Armagh, Northern Ireland
+| Death   = 
+| Role    = Costume designer
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]]
+| Credits = 
+| First   = 
+| Last    = 
+}}
+'''Caroline McCall''' is a British costume designer, known for her work on ''Downton Abbey'' (2010) and ''His Dark Materials'' (2019). She is the costume designer on the [[House of the Dragon: Season 2|second season]] of ''[[House of the Dragon]]''.<ref>Source: IMDB update on April 13, 2023</ref>
+
+==Credits==
+===Costume designer===
+*{{HOTD|Season 2}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb|#=1250104}}
+*[https://carolinemccall.com/ Official website]
+
+<!--Categories-->
+{{DEFAULTSORT:McCall, Caroline}}
+[[Category:Production staff members of House of the Dragon]]

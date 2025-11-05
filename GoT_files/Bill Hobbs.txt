@@ -1,0 +1,21 @@
+{{Crew
+|Image = Bill Hobbs.jpg
+|dateofbirth = {{WPS|January 29}}, {{WPS|1939}}
+|birthplace = {{WPS|Hampstead}}, {{WPS|North London}}, {{WPS|England}}, {{WPS|United Kingdom}}
+|job = Stunt Performer
+|imdb = http://www.imdb.com/name/nm1279440
+|twitter = }}
+'''William Hobbs''' (born January 29, 1939 - died July 10, 2018) was an English choreographer of stage combat.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 1|first season]] episode "[[Lord Snow]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 1||yes}}
+
+==See also==
+*{{WP|William Hobbs (choreographer)|Bill Hobbs}}
+*{{IMDb
+|# = 0387643}}
+{{DEFAULTSORT:Hobbs, Bill}}
+[[Category:Stunt performers of Game of Thrones]]

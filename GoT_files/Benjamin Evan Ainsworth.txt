@@ -1,0 +1,33 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Benjamin Evan Ainsworth.jpg
+| Birth   = 
+| Death   = 
+| Role    = [[Daeron Targaryen]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 3|3]]
+| Credits = [[House of the Dragon: Season 3, Episode 4|Season 3, Episode 4]]
+| First   = 
+| Last    = 
+}}
+'''Benjamin Evan Ainsworth''' is British actor. He will appear as Prince [[Daeron Targaryen]], youngest son of [[Alicent Hightower]], in the [[House of the Dragon: Season 3|third season]] of ''[[House of the Dragon]]''.
+
+He has previously appeared in ''The House on Bly Manor'', ''The Sandman'', and ''Pinnochio'', and has been cast as main character Link in the live-action ''Legend of Zelda'' movie. 
+
+==Credits==
+{{House of the Dragon: Season 3||||yes}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb|#=11931201}}
+*{{Instagram|#=benjamin.evan.ainsworth}}
+
+<!--Navboxes-->
+{{House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Ainsworth, Benjamin Evan}}
+[[Category:Starring cast members of House of the Dragon]]

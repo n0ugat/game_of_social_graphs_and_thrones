@@ -1,0 +1,37 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Charmain DeGrate.jpg
+| Birth   = Charmaine Nicole DeGraté
+| Death   = 
+| Role    = Co-executive producer<br>Writer
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = 10 episodes {{Below|Credits}}
+| First   = "[[The Heirs of the Dragon]]"
+| Last    = "[[The Black Queen]]"
+}}
+'''Charmaine Nicole DeGraté''' is an American screenwriter and producer. She is a co-executive producer and member of the writing staff on ''[[House of the Dragon]]''.<ref>[https://winteriscoming.net/2020/11/03/writers-room-game-of-thrones-prequel-house-of-the-dragon-majority-female/ WiC.net - Writers room for Game of Thrones prequel may be majority female]</ref>
+
+==Credits==
+===Co-executive producer===
+*[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]
+
+===Writer===
+{{House of the Dragon: Season 1|||||yes}}
+
+==See also==
+*{{WP}}
+*{{IMDb|#=1304613}}
+*{{Twitter|# = Charm_Nicole}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+{{DEFAULTSORT:DeGraté, Charmaine}}
+[[Category:Co-executive producers of House of the Dragon]]
+[[Category:Writers of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Charmaine DeGraté]]

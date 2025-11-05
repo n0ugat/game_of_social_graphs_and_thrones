@@ -1,0 +1,23 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = BrahmG.png
+| Birth   = 
+| Death   = 
+| Role    = Lannister soldier
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 6|6]]
+| Credits = "[[No One]]"
+| First   = 
+| Last    = 
+}}
+'''Brahm Gallagher''' is an actor based in Los Angeles.
+
+In the [[Game of Thrones: Season 6|sixth season]] episode "[[No One]]", he plays a Lannister soldier.
+
+== See also ==
+* {{IMDb|# = 2732333}}
+* {{Twitter|# = BrahmGallagher}}
+* {{YouTube|# = brahmgallagher}}
+{{DEFAULTSORT:Gallagher, Brahm}}
+[[Category:Guest starring cast members of Game of Thrones]]

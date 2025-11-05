@@ -1,0 +1,60 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Westeros
+| Part          = the [[Greyjoy Rebellion]]
+| Image         = Stannis Great Wyk.png
+| Previous      = [[Sea battle off Fair Isle]]
+| Concurrent    = [[Assault on Old Wyk]]
+| Next          = [[Siege of Pyke]]
+| Date          = [[289 AC]]{{Dateref|Greyjoy Rebellion}}
+| Place         = [[Great Wyk]], [[Iron Islands]]
+| Outcome       = [[House Baratheon of Dragonstone|Baratheon]] victory
+| Factions1     = [[File:House Baratheon.svg|30px|center|link=House Baratheon]] [[House Baratheon of Dragonstone]]
+| Factions2     = [[File:House Greyjoy.svg|30px|center|link=House Greyjoy]] '''[[Salt Throne]]'''<br><small>([[House Greyjoy]])</small>
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = Lord [[Stannis Baratheon]]
+| Leaders2      = Unknown
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = 
+| Participants2 = 
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = 
+| Casualties2   = 
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Quote|Ser Barristan Selmy of the Kingsguard led the assault on Old Wyk, while I subdued Great Wyk, the largest of the Iron Islands. But Robert saved the seat of House Greyjoy, Pyke, for himself and Lord Eddard.|[[Stannis Baratheon]]|Greyjoy Rebellion - Stannis Baratheon}}
+During the [[Greyjoy Rebellion]], [[Great Wyk]] was '''captured''' by [[Stannis Baratheon]].
+
+==History==
+Following the destruction of the [[Iron Fleet]] at a [[sea battle off Fair Isle]], [[Stannis Baratheon|Stannis]] led the [[royal fleet]] in a counterattack and subdued [[Great Wyk]], the largest of the [[Iron Islands]], while [[Assault on Old Wyk|Old Wyk fell]] to Ser [[Barristan Selmy]]. 
+
+These two victories paved the way for the subsequent [[Siege of Pyke]], which spelled the end of the [[ironborn]] rebellion.<ref>"[[Greyjoy Rebellion - Stannis Baratheon]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, while Barristan Selmy besieged Old Wyk, Stannis led an assault on Great Wyk during the Greyjoy Rebellion.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{Greyjoy Rebellion}}
+
+<!--Categories-->
+[[Category:289 AC]]
+[[Category:Battles]]
+[[Category:Greyjoy Rebellion]]
+
+<!--Languages-->
+[[de:Belagerung von Groß Wiek]]
+[[pt-br:Cerco de Grande Wyk]]
+[[ru:Захват Большого Вика]]

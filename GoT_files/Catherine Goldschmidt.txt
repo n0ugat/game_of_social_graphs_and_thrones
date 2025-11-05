@@ -1,0 +1,27 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Catherine Goldschmidt.jpg
+| Birth   = October 21, 1983 {{Age|1983|10|21}}<br>California, United States
+| Death   = 
+| Role    = Cinematographer
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]] {{*}} [[House of the Dragon: Season 2|2]]
+| Credits = 3 episodes {{Below|Credits}}
+| First   = "[[The Lord of the Tides]]"
+| Last    = "[[The Queen Who Ever Was]]"
+}}
+'''Catherine Goldschmidt''' (born 21 October 1983) is an American-British cinematographer working on ''[[House of the Dragon]]'' with director [[Geeta Vasant Patel]].
+
+Goldschmidt was nominated for the 2023 {{WPS|American Society of Cinematographers|ASC Awards}} in the "Episode of a One-Hour Non-Commercial Television Series" category for her work on the episode "[[The Lord of the Tides]]."<ref>https://deadline.com/2023/01/asc-awards-nominations-2023-cinematograhpers-guild-1235214726/</ref>
+
+==Credits==
+===Cinematographer===
+{{House of the Dragon: Season 1||||||||yes}}
+{{House of the Dragon: Season 2|||yes|||||yes}}
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Goldschmidt, Catherine}}
+[[Category:Production staff members of House of the Dragon]]

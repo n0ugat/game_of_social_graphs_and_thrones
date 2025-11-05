@@ -1,0 +1,20 @@
+{{Crew
+|Image = 
+|dateofbirth = 
+|birthplace = 
+|job = Stunt Performer
+|imdb = http://www.imdb.com/name/nm3204401
+|twitter = }}
+'''Ben Mahoney''' is a stuntman, wirecam rigger and special effects engineer.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 3|third season]] episodes "[[Valar Dohaeris]]", "[[The Climb]]" and "[[The Bear and the Maiden Fair (episode)|The Bear and the Maiden Fair]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 3|yes|||||yes|yes}}
+
+==See also==
+*{{IMDb
+|# = 3204401}}
+{{DEFAULTSORT:Mahoney, Ben}}
+[[Category:Stunt performers of Game of Thrones]]

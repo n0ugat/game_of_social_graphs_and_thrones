@@ -1,0 +1,69 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Blackwood.svg
+| Link  = House Blackwood
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Tully
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = [[House Blackwood|Blackwood]]{{Ref|HOTD204}}
+| Affiliation = [[Blacks]]{{Ref|HOTD204}}
+| Titles      = Lord of [[Raventree Hall]]{{Ref|HOTD204}}
+| AKA         = 
+| Culture     = [[Riverlands|Rivermen]]{{Ref|HOTD204}}
+| Religion    = 
+| Father      = {[[Samwell Blackwood]]}{{Ref|HOTD204}}
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+Lord '''Benjicot Blackwood''' is the head of [[House Blackwood]] during the [[Dance of the Dragons]].
+
+==Biography==
+===Background===
+Benjicot is the son and successor of Lord [[Samwell Blackwood]], who died in the [[Battle at the Burning Mill]].{{Ref|HOTD204}}
+
+===[[House of the Dragon: Season 2|''House of the Dragon'': Season 2]]===
+Due to Benjicot's youth, his uncle Ser [[Willem Blackwood|Willem]] serves as his [[regent]] and treats with [[Daemon Targaryen]] on his behalf.{{Ref|HOTD204}}
+
+==In the books==
+In ''[[Fire & Blood]]'', Benjicot succeeded his father as Lord of [[Raventree Hall|Raventree]] at the age of 11 after he was killed at the Battle of the Burning Mill. Benjicot was tall and slim. Despite his shy and sensitive manner he was also fierce in battle, earning him the nickname "Bloody Ben" Blackwood.
+
+Even in his youth, he did not have a regent, though his closest advisor was his aunt Alysanne "Black Aly" Blackwood. The TV series invented the character "[[Willem Blackwood]]", an uncle of Benjicot's who briefly serves as his regent in Season 2 before being executed by Daemon Targaryen.
+
+==Appearances==
+*{{HOTD|The Red Dragon and the Gold}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{House Blackwood}}
+
+<!--Categories-->
+{{DEFAULTSORT:Blackwood, Benjicot}}
+[[Category:Blacks]]
+[[Category:Individuals mentioned in House of the Dragon]]
+[[Category:Lords]]
+[[Category:Members of House Blackwood|Benjicot Blackwood]]
+[[Category:Rivermen]]
+
+<!--Languages-->
+[[es:Benjicot Blackwood/House of the Dragon]]
+[[ru:Бенджикот Блэквуд]]

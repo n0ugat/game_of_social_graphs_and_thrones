@@ -1,0 +1,35 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Bill Paterson.jpg
+| Birth   = William Tulloch Paterson<br>June 3, 1945 {{Age|1945|6|3}}<br>Glasgow, Scotland
+| Death   = 
+| Role    = [[Lyman Beesbury]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = 8 episodes {{Below|Credits}}
+| First   = "[[The Heirs of the Dragon]]"
+| Last    = "[[The Green Council]]"
+}}
+'''William Tulloch Paterson''' (born 3 June 1945) is a Scottish actor and commentator. He has appeared in films such as ''{{WPS|The Odd Job}}'', ''{{WPS|The Adventures of Baron Munchausen}}'', ''{{WPS|The Return of the Musketeers}}'', ''{{WPS|The Witches (1990 film)|The Witches}}'', ''{{WPS|Truly, Madly, Deeply}}'', ''{{WPS|Chaplin (film)|Chaplin}}'', ''{{WPS|Richard III (1995 film)|Richard III}}'', ''{{WPS|Spice World (film)|Spice World}}'', ''{{WPS|Amazing Grace (2006 film)|Amazing Grace}}'', ''{{WPS|Dad's Army (2016 film)|Dad's Army}}'' and ''{{WPS|Rebecca (2020 film)|Rebecca}}'' and television series such as ''{{WPS|Smiley's People (TV series)|Smiley's People}}'', ''{{WPS|Auf Wiedersehen, Pet}}'', ''{{WPS|The Singing Detective}}'', ''{{WPS|Murder Most Horrid}}'', ''{{WPS|Foyle's War}}'', ''{{WPS|Little Dorrit (TV series)|Little Dorrit}}'', ''{{WPS|Law & Order: UK}}'', ''{{WPS|Doctor Who}}'', ''{{WPS|Dirk Gently (TV series)|Dirk Gently}}'', ''{{WPS|Outlander (TV series)|Outlander}}'', ''{{WPS|Fleabag}}'', ''{{WPS|Inside No. 9}}'' and ''{{WPS|Good Omens (TV series)|Good Omens}}''.
+
+He portrays [[Lyman Beesbury]] in ''[[House of the Dragon]]''.<ref name=HBO>[https://www.hbo.com/house-of-the-dragon House of the Dragon: The Game of Thrones Prequel (hbo.com)]</ref>
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1|yes|yes|note|yes|yes|yes||yes|yes}}
+<nowiki>*</nowiki> Credit only
+
+==See also==
+*{{WP|Bill Paterson (actor)|Bill Paterson}}
+*{{IMDb
+|# = 0665473}}
+
+==References==
+{{Reflist}}
+{{DEFAULTSORT:Paterson, Bill}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--InterWiki-Links-->
+[[de:Bill Paterson]]
+[[fr:Bill Paterson]]

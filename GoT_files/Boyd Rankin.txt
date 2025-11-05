@@ -1,0 +1,30 @@
+{{Cast
+| Title= Boyd Rankin
+| Image=Boyd Rankin.jpg
+| dateofbirth= 1 November 1945
+| dateofdeath= 19 October 2019
+| birthplace= Belfast, Northern Ireland
+| role= [[Mikken]]
+| status= 
+| First="[[Winter Is Coming]]"
+| Last="[[The Kingsroad]]"
+| imdb= http://www.imdb.com/name/nm4595425/
+}}
+'''Robert Samuel Boyd Rankin''' (1 November 1945 - 19 October 2019<ref>https://pharmaceutical-journal.com/article/news/deaths-robert-samuel-boyd-rankin</ref>) was an Irish weapon smith and armorer. He was a co-founder of the company Irish Arms. He was a senior supervising armorer for the [[Game of Thrones: Season 1|first]] and [[Game of Thrones: Season 2|second]] seasons of ''[[Game of Thrones]]''. He played [[Mikken]] in the first season.
+
+==Credits==
+{{Game of Thrones: Season 1|yes|yes}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb|# = 4595425}}
+
+<!--Categories-->
+{{DEFAULTSORT:Rankin, Boyd}}
+[[Category:Production staff members of Game of Thrones]]
+[[Category:Uncredited cast members of Game of Thrones]]
+
+<!--Languages-->
+[[fr:Boyd Rankin]]

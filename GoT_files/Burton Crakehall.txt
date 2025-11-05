@@ -1,0 +1,66 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = House Crakehall.svg
+| Link  = House Crakehall
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Lannister
+| Image       = 
+| Birth       = [[Crakehall]]
+| Death       = 
+| House       = [[House Crakehall|Crakehall]]
+| Affiliation = [[House Lannister]]
+| Titles      = [[Knighthood|Ser]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Westerlands|Westermen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = [[Roland Crakehall]]
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|We were so few though that all we could do was harry the Lannisters' rear. Luckily, all they could do was kill Beric. A Lannister mace shattered his helm and skull.|[[Thoros]] recalls [[Beric Dondarrion]]'s death by Ser Burton Crakehall at the [[Battle at the Mummer's Ford]].|Brotherhood Without Banners (short)}}
+Ser '''Burton Crakehall'''{{Con|ASOIAF}} was a [[Knighthood|knight]] of [[House Crakehall]].
+
+==Biography==
+During the [[War of the Five Kings]], Ser Burton fought and killed [[Beric Dondarrion]], leader of the [[Brotherhood Without Banners]], crushing his helm and skull with a mace. However, [[Thoros]] eventually revived Beric.{{Ref|H&L611}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Ser Burton Crakehall is the brother of Lord [[Roland Crakehall]].
+
+Ser Burton pursues and kills Beric (this is Beric's second death), only for the latter to be resurrected. Later, Beric leads an ambush and slays Burton and his column of soldiers.
+
+==Appearances==
+*{{H&L|Brotherhood Without Banners}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+{{DEFAULTSORT:Crakehall, Burton}}
+[[Category:Individuals from Histories & Lore]]
+[[Category:Knights]]
+[[Category:Members of House Crakehall|Burton Crakehall]]
+[[Category:Westermen]]
+
+<!--Languages-->
+[[ru:Бёртон Крейкхолл]]

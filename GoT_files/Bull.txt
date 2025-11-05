@@ -1,0 +1,31 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Crownlander
+| Image        = 
+| Type         = Inn
+| Status       = 
+| Location     = [[Crownlands]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = 
+| Places       = 
+| Founded      = 
+}}
+{{Quote|Which is why we make for the Bull, a tavern with an excellent reputation on the Rosby Road, not two miles away, if memory serves.|[[Gwayne Hightower]]|The Burning Mill}}
+The '''Bull'''{{Ref|HOTD203}} is a tavern and inn along the [[Rosby Road]] in the [[Crownlands]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no inn named the Bull.
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{Crownlands}}
+
+<!--Categories-->
+[[Category:Crownlands]]
+[[Category:Inns]]

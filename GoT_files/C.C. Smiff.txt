@@ -1,0 +1,38 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Kingdoms
+| Image   = CC Smiff.png
+| Birth   = 
+| Death   = 
+| Role    = Stunt supervisor<br>Stunt performer<br>Swordmaster<br>Stunt coordinator
+| Series  = ''[[Game of Thrones]]''<br>''[[A Knight of the Seven Kingdoms]]''
+| Season  = ''Game of Thrones'':<br>[[Game of Thrones: Season 2|2]] {{*}} [[Game of Thrones: Season 3|3]] {{*}} [[Game of Thrones: Season 4|4]] {{*}}  [[Game of Thrones: Season 7|7]]<br>''A Knight of the Seven Kingdoms'':<br>[[A Knight of the Seven Kingdoms: Season 1|1]]
+| Credits = 40 episodes {{Below|Credits}}
+| First   = "[[The North Remembers]]"
+| Last    = 
+}}
+'''Neil 'C.C.' Smiff''' is one of the award-winning stunt coordinators working on ''[[Game of Thrones]]''.  He is specifically in charge of coordinating the sword fight sequences in the TV series. He was also a stunt coordinator in ''[[A Knight of the Seven Kingdoms]]''.
+
+Smiff previously worked as a stunt performer in such films as ''Gladiator'', ''Batman Begins'', ''Children of Men'', ''Harry Potter and the Deathly Hallows: Part 1'', and ''Harry Potter and the Deathly Hallows: Part 2''.  He previously worked as a fight coordinator on ''Captain America: The First Avenger''.
+
+He also worked on ''Star Wars Episode VII: The Force Awakens''. 
+
+==Credits==
+===''[[Game of Thrones]]''===
+{{Game of Thrones: Season 2|yes|yes|yes|yes|yes|yes|yes|yes|yes|yes}}
+{{Game of Thrones: Season 3|yes|yes|yes|yes|yes|yes|yes|yes|yes|yes}}
+{{Game of Thrones: Season 4|yes|yes|yes|yes|yes|yes|yes|yes|yes|yes}}
+{{Game of Thrones: Season 7||yes|yes|yes||yes}}
+
+===''[[A Knight of the Seven Kingdoms]]''===
+{{A Knight of the Seven Kingdoms: Season 1|yes|yes|yes|yes|yes|yes}}
+
+==External links==
+*{{IMDb|0806905}}
+*{{Linkedin|in/cc-smiff-9753b974}}
+
+<!--Categories-->
+{{DEFAULTSORT:Smiff, C.C.}}
+[[Category:Production staff members of Game of Thrones]]
+[[Category:Stunt performers of A Knight of the Seven Kingdoms]]
+[[Category:Stunt performers of Game of Thrones]]

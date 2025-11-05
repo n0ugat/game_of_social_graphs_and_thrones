@@ -1,0 +1,26 @@
+{{Crew
+|Image = Cedric Proust.jpg
+|dateofbirth = 
+|birthplace = 
+|job = Stunt Performer
+|imdb = https://www.imdb.com/name/nm1007901/
+|twitter = }}
+'''Cedric Proust''' is a stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 3|third season]] episode "[[And Now His Watch Is Ended]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 3||||yes}}
+
+==See also==
+*{{IMDb
+|# = 1007901}}
+*{{Twitter
+|# = CEDSTUNTSCOM}}
+*{{Facebook
+|# = cedric.proust.7}}
+*{{Vimeo
+|# = user22395659}}
+{{DEFAULTSORT:Proust, Cedric}}
+[[Category:Stunt performers of Game of Thrones]]

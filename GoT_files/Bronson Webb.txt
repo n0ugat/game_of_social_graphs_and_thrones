@@ -1,0 +1,33 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Bronson-Webb-200.jpg
+| Birth   = Bronson John Webb<br>February 20, 1983 {{Age|1983|2|20}}<br>London, England
+| Death   = 
+| Role    = [[Will]]
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 1|1]]
+| Credits = "[[Winter Is Coming]]"
+| First   = 
+| Last    = 
+}}
+'''Bronson John Webb''' (born 20 February 1983) is a British actor. Webb has an extensive string of TV and film appearances, including roles in [[wikipedia:The Bill|''The Bill'']], [[wikipedia:Harry Potter and the Prisoner of Azkaban (film)|''Harry Potter and the Prisoner of Azkaban'']], [[wikipedia:Kingdom of Heaven|''Kingdom of Heaven'']] and [[wikipedia:The Dark Knight (film)|''The Dark Knight'']].
+
+In [[HBO]]'s ''[[Game of Thrones]]'' he played the role of [[Will]] in the unaired pilot episode. He announced via his website he had been cast in the role on 1 October 2009.
+
+On 7 July 2010 it was revealed that the prologue sequence was being reshot and Webb was not available for the reshoots, necessitating the recasting of the role. However, on 2 September 2010 HBO confirmed that the availability issues had been resolved and Webb would be returning to the role.
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 1|yes}}
+
+==See also==
+*{{Template:IMDb
+|# = 0916037}}
+* [http://www.bronsonwebb.com/ Bronson Webb's official website.]
+
+[[de:Bronson Webb]]
+[[ru:Бронсон Уэбб]]
+[[fr:Bronson Webb]]
+{{DEFAULTSORT:Webb, Bronson}}
+[[Category:Guest starring cast members of Game of Thrones]]

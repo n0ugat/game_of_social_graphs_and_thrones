@@ -1,0 +1,45 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Blackmont.svg
+| Link  = House Blackmont
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Martell
+| Image        = Blackmont Pin.png
+| Type         = Castle
+| Status       = 
+| Location     = [[Dorne]], [[Westeros]]
+| Population   = 
+| Rulers       = [[House Blackmont]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Blackmont'''{{Guideref|Map of Westeros}} is a castle in [[Dorne]], the region controlled by [[House Martell]] of [[Sunspear]]. The castle is located in the far west of Dorne near the border with the Reach. It is north of [[Starfall]] and east of [[Skyreach]], in the foothills of the [[Red Mountains]]. It is the seat of the eponymous [[House Blackmont]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the location of Blackmont is the same.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Dorne}}
+
+<!--Categories-->
+[[Category:Castles of Dorne]]
+[[Category:House Blackmont]]
+
+<!--Languages-->
+[[de:Schwarzberg]]
+[[es:Montenegro]]
+[[pl:Blackmont]]
+[[ru:Блэкмонт]]
+[[uk:Блекмонт]]
+[[zh:布莱蒙城]]

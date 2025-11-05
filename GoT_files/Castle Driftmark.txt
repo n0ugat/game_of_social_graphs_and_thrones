@@ -1,0 +1,43 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Velaryon.svg
+| Link  = House Velaryon
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Velaryon
+| Image        = 
+| Type         = Castle
+| Status       = 
+| Location     = [[Driftmark]], the [[Crownlands]]
+| Population   = 
+| Rulers       = [[House Velaryon]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Castle Driftmark''',{{Guideref|Driftmark}} also known simply as '''Driftmark''',{{Guideref|Driftmark}} is a castle on the eponymous island of [[Driftmark]]. It once served as the seat of [[House Velaryon]], but has since been replaced by [[High Tide]], which lies on the opposite side of the island.{{Guideref|Driftmark}}
+
+==In the books==
+In ''[[Fire & Blood]]'', Castle Driftmark is said to have been grim and damp, often flooded. During the golden age of [[Corlys Velaryon]]'s reign over Driftmark, three fishing villages near the castle combined to form the port-town of [[Hull]]. Eventually, Corlys commissioned the construction of High Tide and moved the [[Driftwood Throne]] and his family there, leaving Castle Driftmark behind.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+*{{TOG|map-of-westeros#driftmark|Driftmark}}
+
+<!--Navboxes-->
+{{House Velaryon}}
+{{Crownlands}}
+
+<!--Categories-->
+[[Category:Castles of the Crownlands|Driftmark]]
+[[Category:Driftmark]]
+[[Category:House Velaryon]]
+
+<!--Languages-->
+[[ru:Дрифтмарк (замок)]]

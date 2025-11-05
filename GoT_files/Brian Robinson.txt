@@ -1,0 +1,27 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Brian Robinson.jpg
+| Birth   = 
+| Death   = 
+| Role    = Stunt double for [[Bill Paterson]]<br>Stunt performer
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]] {{*}} [[House of the Dragon: Season 2|2]]
+| Credits = 2 episodes {{Below|Credits}}
+| First   = "[[The Green Council]]"
+| Last    = 
+}}
+'''Brian Robinson''' is a stuntman.
+
+In ''[[House of the Dragon]]'', he was a stunt double for [[Bill Paterson]] in the [[House of the Dragon: Season 1|first season]] episode "[[The Green Council]]" and a stunt performer in the [[House of the Dragon: Season 2|second season]] episode "[[Rhaenyra the Cruel]]".
+
+==Credits==
+===Stunts===
+{{House of the Dragon: Season 1|||||||||yes}}
+{{House of the Dragon: Season 2||yes}}
+
+==See also==
+*{{IMDb
+|# = 14148479}}
+{{DEFAULTSORT:Robinson, Brian}}
+[[Category:Stunt performers of House of the Dragon]]

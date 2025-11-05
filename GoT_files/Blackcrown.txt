@@ -1,0 +1,49 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Bulwer.svg
+| Link  = House Bulwer
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Hightower
+| Image        = Blackcrown Pin.png
+| Type         = Castle
+| Status       = 
+| Location     = The [[Reach]], [[Westeros]]
+| Population   = 
+| Rulers       = [[House Bulwer]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Blackcrown'''{{Guideref|Map of Westeros}} is a castle in the [[Reach]], the region controlled by [[House Tyrell]] of [[Highgarden]]. The castle is located southwest of Highgarden and [[Oldtown]], on the northern side of Whispering Sound, the estuary of the River [[Honeywine]]. The castle overlooks the [[Redwyne Straits]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Blackcrown is the seat of House Bulwer.
+
+==Appearances==
+*{{GOT|Dragonstone}} {{Map}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Reach}}
+
+<!--Categories-->
+[[Category:Castles of the Reach]]
+[[Category:House Bulwer]]
+
+<!--Languages-->
+[[de:Schwarzkron]]
+[[es:Corona Negra]]
+[[it:Corona Nera]]
+[[nl:Zwartkroon]]
+[[pt-br:Coroanegra]]
+[[ru:Чёрный Венец]]
+[[zh:黑冠城]]

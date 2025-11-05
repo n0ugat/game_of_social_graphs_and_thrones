@@ -1,0 +1,27 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Voyages
+| Image   = 
+| Birth   = January 13, 1960 {{Age|1960|1|13}}<br>London, England
+| Death   = 
+| Role    = Developer
+| Series  = ''[[Nine Voyages]]''
+| Season  = 
+| Credits = 
+| First   = 
+| Last    = 
+}}
+'''Bruno Heller''' is an English writer, producer, and director who is known for creating the HBO series ''{{WPS|Rome (TV series)|Rome}}'' and the CBS series ''{{WPS|The Mentalist}}''. He also produced the FOX series ''{{WPS|Gotham (TV series)|Gotham}}''.
+
+Though a pilot has not yet been ordered, he is attached to ''[[Nine Voyages]]'', a potential ''Game of Thrones'' [[World of Westeros|successor show]] with direct ties to ''[[House of the Dragon]]'' through the character of [[Corlys Velaryon]].<ref>[https://deadline.com/2021/03/game-of-thrones-prequels-sea-snake-9-voyages-flea-bottom-10000-ships-bruno-heller-1234717042/ ‘Game Of Thrones’: Sea Snake’s 9 Voyages Among Three More Spinoffs In Consideration At HBO]</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb|# = 0375285}}
+*{{Linkedin|# = /in/bruno-heller-3b3686a}}
+
+<!--Categories-->
+{{DEFAULTSORT:Heller, Bruno}}
+[[Category:Developers of Nine Voyages]]

@@ -1,0 +1,56 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Florent.svg
+| Link  = House Florent
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Bronn
+| Image        =
+<gallery>
+BrightwaterKeep.jpg|Appearance
+Brightwater Keep Pin.png|Location
+</gallery>
+| Type         = Castle
+| Status       = 
+| Location     = The [[Reach]], [[Westeros]]
+| Population   = 
+| Rulers       = [[House Florent]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Brightwater Keep'''{{Ref|GOT806}} is a castle in the [[Reach]]. It is the seat of [[House Florent]], a vassal house holding fealty to [[House Tyrell]] of [[Highgarden]]. The castle is located west of Highgarden near the west coast of [[Westeros]], also close to the headwaters of the [[Honeywine]] River.
+
+==History==
+Ser [[Gwayne Gaunt]]{{Note|The paragraph mentioning this event is erroneously placed in Arthur Dayne's entry. The opening sentence calling him the "thirdborn son to Lord Symon of House Gaunt" makes it apparent that this paragraph was meant for Gwayne Gaunt's entry.}} won the Tourney of Brightwater Keep, where he crowned Lady [[Alys Reyne]] as [[queen of love and beauty]].{{Ref|GOT806}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, House Florent of Brightwater Keep also lays claim to [[Highgarden]], due to a closer blood relationship to [[House Gardener]], the Kings of the Reach before [[Aegon I Targaryen|Aegon the Conqueror]] extinguished their line on the [[Field of Fire]]. As a result of this, the Florents are surly and reluctant bannermen to the Tyrells.
+
+Following the Battle of the Blackwater, House Florent is [[Attainder|attainted]] by the [[Iron Throne]] and stripped of lands and titles. Brightwater Keep is granted to Ser [[Garlan Tyrell]], the second son of Lord [[Mace Tyrell]], who has been cut from the series so far.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Florent}}
+{{Reach}}
+
+<!--Categories-->
+[[Category:Castles of the Reach]]
+[[Category:House Florent]]
+
+<!--Languages-->
+[[de:Klarwasser]]
+[[pl:Jasna Woda]]
+[[pt-br:Fortaleza de Águas Claras]]
+[[ru:Ясноводная крепость]]

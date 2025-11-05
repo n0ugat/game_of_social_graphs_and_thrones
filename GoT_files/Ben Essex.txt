@@ -1,0 +1,37 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Ben Essex.jpg
+| Birth   = 
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[Game of Thrones]]''<br>''[[House of the Dragon]]''
+| Season  = ''Game of Thrones'':<br>[[Game of Thrones: Season 7|7]]<br>''House of the Dragon'':<br>[[House of the Dragon: Season 1|1]]
+| Credits = 4 episodes {{Below|Credits}}
+| First   = "[[Stormborn]]"
+| Last    = 
+}}
+'''Ben Essex''' is a stuntman.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 7|seventh season]] episodes "[[Stormborn]]" and "[[The Queen's Justice]]".
+
+In ''[[House of the Dragon]]'', he was a stunt performer in the [[House of the Dragon: Season 1|first season]] episodes "[[Second of His Name]]" and "[[The Green Council]]".
+
+==Credits==
+===Stunts===
+====''[[Game of Thrones]]''====
+{{Game of Thrones: Season 7||yes|yes}}
+
+====''[[House of the Dragon]]''====
+{{House of the Dragon: Season 1|||yes||||||yes}}
+
+==See also==
+*{{IMDb
+|# = 7552628}}
+*{{Instagram
+|# = bessexstunts}}
+*{{Facebook
+|# = ben.essex.9}}
+{{DEFAULTSORT:Essex, Ben}}
+[[Category:Stunt performers of Game of Thrones]]
+[[Category:Stunt performers of House of the Dragon]]

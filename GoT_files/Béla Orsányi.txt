@@ -1,0 +1,26 @@
+{{Crew
+|Image = Béla Orsányi.jpg
+|dateofbirth = 
+|birthplace = 
+|job = Stunt Performer
+|imdb = https://www.imdb.com/name/nm4451970/
+|twitter = }}
+'''Béla Orsányi''' is a stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 3|third season]] episodes "[[The Rains of Castamere (episode)|The Rains of Castamere]]" and "[[Mhysa]]", the [[Game of Thrones: Season 4|fourth season]] episodes "[[The Watchers on the Wall]]" and "[[The Children]]", the [[Game of Thrones: Season 6|sixth season]] episode "[[Battle of the Bastards (episode)|Battle of the Bastards]]", the [[Game of Thrones: Season 7|seventh season]] episodes "[[Stormborn]]" and "[[The Spoils of War]]" and the [[Game of Thrones: Season 8|eighth season]] episodes "[[The Long Night]]" and "[[The Bells]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 3|||||||||yes|yes}}
+{{Game of Thrones: Season 4|||||||||yes|yes}}
+{{Game of Thrones: Season 6|||||||||yes}}
+{{Game of Thrones: Season 7||yes||yes}}
+{{Game of Thrones: Season 8|||yes||yes}}
+
+==See also==
+*{{IMDb
+|# = 4451970}}
+*{{Facebook
+|# = bela.orsanyi}}
+{{DEFAULTSORT:Orsányi, Béla}}
+[[Category:Stunt performers of Game of Thrones]]

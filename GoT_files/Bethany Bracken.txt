@@ -1,0 +1,68 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = House Bracken.svg
+| Link  = House Bracken
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Targaryen
+| Image       = 
+| Birth       = At [[Stone Hedge]]
+| Death       = 
+| House       = [[House Bracken|Bracken]]
+| Affiliation = [[House Targaryen]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Riverlands|Rivermen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = {[[Aegon IV Targaryen]]}<br>{[[Terrence Toyne]]}
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Prince Aemon, the Dragonknight, may be the most famous Kingsguard who ever lived. How did he die? Defending Aegon the Unworthy from the brothers of a man whom Aegon fed to his dogs. The man's crime? Sleeping with one of the many mistresses Aegon wasn't using. And the man was one of Aegon's own Kingsguard.|Bronn|The Kingsguard - Bronn}}
+'''Bethany Bracken'''{{Con|TWOI&F}} was a member of [[House Bracken]] who lived during the reign of [[Aegon IV Targaryen]].
+
+==Biography==
+Bethany Bracken was a mistress of King Aegon IV, the Unworthy. She was caught abed with Ser [[Terrence Toyne]], a [[Knighthood|knight]] of the [[Kingsguard]]. King Aegon had Ser Terrence fed to his dogs.{{Ref|H&L412}}
+
+==In the books==
+In ''[[A Song of Ice and Fire]]'' novels, Bethany is indirectly referred to. Her identity was revealed by GRRM in an interview, which established her as Aegon IV's seventh mistress, and her backstory expaned in ''The World of Ice and Fire''. Bethany Bracken was groomed from childhood by her father, who had been Aegon's [[Hand of the King]], and her older sister, Barbra Bracken, to seduce King Aegon and replace Melissa Blackwood, who had in turn replaced Barbra as Aegon's mistress, thus restoring the king's favor upon House Bracken.
+
+Bethany caught Aegon's eye, as his father and sister intended, when he visited [[Stone Hedge]] to visit [[Aegor Rivers]], one of his [[bastard]] sons, and took her with him to [[King's Landing]]. However, Bethany found his "royal embraces" distressing, and turned to Ser Terrence Toynce for comfort and the two became lovers. They were caught abed by Aegon himself, resulting in the death by torture of Ser Terrence and the execution of Bethany and her father.
+
+==Appearances==
+*{{H&L|The Kingsguard - Bronn}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Bracken}}
+
+<!--Categories-->
+{{DEFAULTSORT:Bracken, Bethany}}
+[[Category:Individuals from Histories & Lore]]
+[[Category:Members of House Bracken|Bethany Bracken]]
+[[Category:Rivermen]]
+
+<!--Languages-->
+[[ru:Бетани Бракен]]

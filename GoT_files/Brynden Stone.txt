@@ -1,0 +1,57 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Night's Watch.svg
+| Link  = Night's Watch
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = 
+| Birth       = In the [[Vale of Arryn]]
+| Death       = 
+| House       = 
+| Affiliation = [[Night's Watch]]
+| Titles      = [[Lord Commander of the Night's Watch]]
+| Successor   = 
+| AKA         = 
+| Culture     = [[Vale of Arryn|Valemen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Brynden Stone''' was a [[Lord Commander of the Night's Watch]].
+
+==Biography==
+===Background===
+Brynden was elected Lord Commander after the death of [[Willem of the Dun Fort]].<ref>[[:File:5x2 Night's Watch Book.jpg]]</ref>
+
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+Brynden is mentioned in a book that [[Samwell Tarly]] is reading.{{Ref|GOT502}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no character named Brynden Stone.
+
+==Appearances==
+*{{GOT|The House of Black and White}} {{Text}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+{{DEFAULTSORT:Stone, Brynden}}
+[[Category:Bastards]]
+[[Category:Ennobled commoners]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Lords Commander of the Night's Watch]]
+[[Category:Valemen]]

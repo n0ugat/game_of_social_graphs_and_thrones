@@ -1,0 +1,55 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Cerwyn.svg
+| Link  = House Cerwyn
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Stark
+| Image        = 
+<gallery>
+505 Bolton map 2.jpg|Appearance
+Castle Cerwyn.png|Location
+</gallery>
+| Type         = Castle
+| Status       = 
+| Location     = The [[North]], [[Westeros]]
+| Population   = 
+| Rulers       = [[House Cerwyn]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Old Gods]]
+| Places       = 
+| Founded      = 
+}}
+{{Dialogue a-b|Sansa Stark|If we went down to Castle Cerwyn, I know that Lord-|Jon Snow|We fight with the army we have.|[[Sansa Stark]] and [[Jon Snow]] before the [[Battle of the Bastards]]|The Broken Man}}
+'''Castle Cerwyn''',{{Ref|GOT607}} also known as '''Cerwyn''',{{Ref|GOT505}} is a castle in the [[North]], located south of [[Winterfell]], along the [[Kingsroad]] and miles north of [[Moat Cailin]]. It is the seat of [[House Cerwyn]], vassals of [[House Stark]].
+
+==History==
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+[[Roose Bolton]] sends his recently legitimized bastard son [[Ramsay Bolton|Ramsay]] to Cerwyn to collect taxes from his new vassals. Lord [[Medger Cerwyn]], however, refuses to pay; proudly professing his loyalty to House Stark, and denouncing Bolton as a turncloak. For his defiance, Ramsay has Medger flayed alive, along with his wife, and brother while forcing Medger's son to watch the ordeal. When Ramsay relays these events to his father he casually remarks that the [[Cley Cerwyn|new]] Lord Cerwyn paid his taxes.<ref>"[[High Sparrow (episode)|High Sparrow]]"</ref>
+
+===[[Game of Thrones: Season 6|''Game of Thrones'': Season 6]]===
+As they advance on Winterfell, [[Sansa Stark]] insists to [[Jon Snow]] that their small army needs to ride ahead to Castle Cerwyn to try to recruit more soldiers, but Jon says they've run out of time and have to attack immediately.<ref>"[[No One]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Castle Cerwyn is the seat of House Cerwyn, loyal bannermen to the Starks.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{North}}
+{{House Cerwyn}}
+
+<!--Categories-->
+[[Category:Castles of the North|Cerwyn]]
+[[Category:House Cerwyn]]
+
+<!--Languages-->
+[[de:Burg Cerwyn]]
+[[pt-br:Castelo Cerwyn]]
+[[ru:Замок Сервин]]

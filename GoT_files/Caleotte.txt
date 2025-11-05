@@ -1,0 +1,82 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = Order of Maesters.svg
+| Link  = Order of Maesters
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Citadel
+| Image       = Caleotte.png
+| Birth       = 
+| Death       = [[303 AC]]{{Dateref|Game of Thrones: Season 6}}<br>The [[Water Gardens]], [[Dorne]]{{Ref|GOT601}}
+| House       = 
+| Affiliation = [[Order of Maesters]]<br>[[House Martell]]
+| Titles      = Maester
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 6|6]]
+| Appearances = "[[The Red Woman]]"
+| First       = 
+| Last        = 
+| DeathEp     = "The Red Woman"
+| Actor       = [[Colin Azzopardi]]
+}}
+'''Caleotte'''{{Con|ASOIAF}} was a [[Order of Maesters|maester]] in service to [[House Martell]] at the [[Water Gardens]].
+
+==Biography==
+===[[Game of Thrones: Season 6|''Game of Thrones'': Season 6]]===
+Caleotte delivers a [[raven]] scroll bearing news of [[Prince]]ss [[Myrcella Baratheon]]'s death to [[Doran Martell]]. [[Tyene Sand]] and [[Ellaria Sand]] choose this moment to [[assassin]]ate Doran and [[Areo Hotah]]. Obviously having not been complicit to the Sands' [[Coup in Dorne|coup]], Caleotte attempts to flee. After killing Areo, Tyene throws a dagger into the maester's back, killing him.{{Ref|GOT601}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Maester Caleotte attends to Prince Doran at [[Sunspear]], and travels with him whenever he vacations at the Water Gardens. He is long accustomed to treating Doran's gout, and designed the wheelchair that he uses.
+
+His appearance in the show partly resembles his description in the books, having a shaven head, smooth cheeks, and wearing dun colored robes. Unlike in the show, he is fat, has soft pink hands and is no more than five feet tall.
+
+Maester Caleotte serves also as Doran's advisor. After hearing [[Obara Sand|Obara]]'s plan of revenge, Caleotte suggests it may not be prudent to allow Obara to return to Sunspear, because she is certain to inflame the [[Smallfolk|common people]]. Doran agrees with the maester and returns to Sunspear, where he orders to arrest the [[Sand Snakes]], to prevent them from stirring troubles.
+
+Maester Caleotte takes precautions to protect his prince: after Doran caresses Tyene's head, Caleotte examines his palm, looking for scratches that may indicate poisoning.
+
+Following the near-fatal attempt on Myrcella by [[Knighthood|Ser]] Gerold "Darkstar" [[House Dayne|Dayne]], Maester Caleotte saves her life but cannot heal her disfigured face.
+
+Maester Caleotte is present when Ser [[Balon Swann]] presents the skull of [[Gregor Clegane]] to Doran, Ellaria, and the Sand Snakes.
+
+So far in the books, he is alive.
+
+==Appearances==
+*{{GOT|The Red Woman}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Martell}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Maesters]]
+[[Category:Servants and retainers of House Martell]]
+[[Category:Westerosi]]
+
+<!--Languages-->
+[[de:Caleotte]]
+[[es:Caleotte]]
+[[fr:Caleotte]]
+[[nl:Caleotte]]
+[[ru:Калеотт]]

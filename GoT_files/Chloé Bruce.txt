@@ -1,0 +1,28 @@
+{{Crew
+|Image = Chloé Bruce.jpg
+|dateofbirth = {{WPS|October 5}}, {{WPS|1983}}
+|birthplace = {{WPS|England}}, {{WPS|United Kingdom}}
+|job = Stunt Performer
+|imdb = https://www.imdb.com/name/nm1579713/
+|twitter = https://twitter.com/ChloeDBruce/}}
+'''Chloé Bruce''' (born October 5, 1983) is an English stuntwoman and actress. She is the sister of [[Grace Bruce]].
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 7|seventh season]] episode "[[Stormborn]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 7||yes}}
+
+==See also==
+*{{IMDb
+|# = 1579713}}
+*{{Twitter
+|# = ChloeDBruce}}
+*{{Instagram
+|# = ChloeDBruce}}
+*{{Facebook
+|# = officialCHLOEBRUCE}}
+*{{YouTube
+|# = user/Sc0rp1onCh1cK}}
+{{DEFAULTSORT:Bruce, Chloé}}
+[[Category:Stunt performers of Game of Thrones]]

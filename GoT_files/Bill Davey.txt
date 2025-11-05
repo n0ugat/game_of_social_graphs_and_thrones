@@ -1,0 +1,23 @@
+{{Crew
+|Image = 
+|dateofbirth = 
+|birthplace = 
+|job = Stunt Performer
+|imdb = http://www.imdb.com/name/nm0202701
+|twitter = }}
+'''Bill Davey''' is a stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 3|third season]] episodes "[[The Rains of Castamere (episode)|The Rains of Castamere]]" and "[[Mhysa]]" and the [[Game of Thrones: Season 4|fourth season]] episodes "[[The Mountain and the Viper]]" and "[[The Watchers on the Wall]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 3|||||||||yes|yes}}
+{{Game of Thrones: Season 4||||||||yes|yes}}
+
+==See also==
+*{{IMDb
+|# = 0202701}}
+*{{Linkedin
+|# = /in/bill-davey-0a147344}}
+{{DEFAULTSORT:Davey, Bill}}
+[[Category:Stunt performers of Game of Thrones]]

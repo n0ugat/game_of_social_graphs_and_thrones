@@ -1,0 +1,68 @@
+{{Canonicity|Non}}
+{{Heraldry
+| Image = House Karstark.svg
+| Link  = House Karstark
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Stark
+| Image       = Umber lineage.jpg
+| Birth       = At [[Karhold]]
+| Death       = 
+| House       = [[House Karstark|Karstark]]
+| Affiliation = [[House Stark]]
+| Titles      = [[Lord of Karhold]]
+| Predecessor = 
+| Successor   = {[[Tommard Karstark]]}
+| AKA         = 
+| Culture     = [[Northmen|Northern]]
+| Religion    = [[Old Gods]]
+| Father      = 
+| Mother      = 
+| Spouse      = {[[Mara Karstark]]}
+| Lovers      = 
+| Children    = {[[Tommard Karstark]]}
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Wedded on her seventeenth nameday to Tommard Karstark, Third of His Name, son of Lord Beric Karstark and Lady Mara Karstark at Karhold. .|Excerpt from ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]''|Cripples, Bastards, and Broken Things}}
+Lord '''Beric Karstark''' was a head of [[House Karstark]] and a [[Lord of Karhold]].
+
+==Biography==
+===Background===
+He was the husband of Lady [[Mara Karstark]] and the father of Lord [[Tommard Karstark]].{{Ref|GOT104}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+He has an entry in ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]''.{{Ref|GOT104}}
+
+==In the books==
+Beric Karstark is referenced only in the TV adaptation of ''[[A Song of Ice and Fire]]'' and has no corresponding counterpart in the books.
+
+==Appearances==
+*{{GOT|Cripples, Bastards, and Broken Things}} {{Text}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House Karstark}}
+
+<!--Categories-->
+{{DEFAULTSORT:Karstark, Beric}}
+[[Category:Bannermen of House Stark]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Lords of Karhold|Beric Karstark]]
+[[Category:Members of House Karstark|Beric Karstark]]
+[[Category:Northmen]]
+
+<!--Languages-->
+[[de:Beric Karstark]]
+[[es:Beric Karstark]]
+[[fr:Beric Karstark]]
+[[ru:Берик Карстарк]]

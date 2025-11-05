@@ -1,0 +1,102 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Thrones
+| Part          = the [[Ironborn invasion of the North]]
+| Image         = Fall of Winterfell.png
+| Previous      = [[Attack on Deepwood Motte]]
+| Concurrent    = 
+| Next          = [[Riots in King's Landing]]<br><small>([[War of the Five Kings]])</small><br>[[Sack of Winterfell]]<br><small>([[Ironborn invasion of the North]])</small>
+| Date          = [[299 AC]]{{Dateref|Game of Thrones: Season 2}}
+| Place         = [[Winterfell]], the [[North]]
+| Outcome       = [[House Greyjoy|Greyjoy]] victory
+*Prince [[Bran Stark|Bran]] yields Winterfell to [[Theon Greyjoy|Theon]]
+| Factions1     = [[File:House Greyjoy.svg|30px|center|link=House Greyjoy]] '''[[Iron Islands]]'''/[[House Greyjoy]]
+| Factions2     = [[File:House Stark.svg|30px|center|link=House Stark]] '''[[North|Kingdom of the North]]'''/[[House Stark]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = Prince [[Theon Greyjoy]]<br>[[Dagmer]]
+| Leaders2      = Prince [[Bran Stark]] {{Surrender}}<br>Ser [[Rodrik Cassel]] {{Executed}}
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = Crew of the ''[[Sea Bitch]]''
+*[[Black Lorren]]
+| Participants2 = A skeleton defense force
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = 2 men
+| Casualties2   = Light<br>Ser Rodrik Cassel executed
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Quote|It's your dream, little lord. The ocean's come to swallow this place.|[[Osha]] to Prince [[Bran Stark]]|The Old Gods and the New}}
+The '''capture of Winterfell''' was an event during the [[War of the Five Kings]]. To gain the respect of his fellow [[Ironborn]] and [[Balon Greyjoy|his father]], [[Theon Greyjoy]] turned on the Starks and seized the undefended castle.
+
+==History==
+===Background===
+King [[Robb Stark]] sends [[Theon Greyjoy]] to [[Pyke]] with the offer of an alliance to his father, [[Lord Reaper of Pyke|Lord]] [[Balon Greyjoy]] of [[Pyke]].<ref>"[[The North Remembers]]"</ref> Lord Balon, however, has plans of his own and rejects the offer.<ref>"[[The Night Lands]]"</ref> Theon joins his father but is given a petty mission - to raid the [[Stony Shore]]. Meanwhile, Theon's sister [[Yara Greyjoy|Yara]] is given command of thirty ships and tasked with taking [[Deepwood Motte]], the seat of [[House Glover]].<ref>"[[What Is Dead May Never Die]]"</ref> Following the suggestion of his first mate, [[Dagmer]], Theon abandons the mission of raiding the Stony Shore and devises a plan that would win him the respect of his crew: feign an attack on [[Torrhen's Square]], the seat of [[House Tallhart]], to draw away the Stark men defending Winterfell.<ref>"[[The Ghost of Harrenhal]]"</ref>
+
+===Winterfell falls to the Kraken===
+Just as Theon planned, Winterfell sends a force of two hundred men led by Ser [[Rodrik Cassel]] to drive away the unidentified attackers of Torrhen's Square. With the castle undefended, Theon seizes the chance and sends his men with grappling hooks to climb over Winterfell's walls and let Theon inside. As Theon's crew rounds up the members of the Stark household, Maester [[Luwin]] manages to send a raven with news of the attack and the identity of the invaders. Theon, styling himself "Prince Theon", convinces [[Bran Stark]] to yield the castle to spare the lives of his subjects. Following the capture of Winterfell, Theon and his men assemble Winterfell's inhabitants in the town's square where Bran "officially" yields the castle to Prince Theon. When the kennel master [[Farlen]] protests Theon's treachery, the latter orders one of his men, [[Drennan]], to beat him into submission.<ref name=":0" />
+
+Shortly later, Rodrik is captured by Theon's men while returning from Torrhen's Square, though he manages to kill two Ironborn before being bested. During a hostile reunion, Rodrik spits in Theon's face, prompting his first mate Cleftjaw to insist that Theon must execute Rodrik, or lose face in front of his Ironborn comrades. Despite the impassioned pleas of Maester Luwin and Bran, Theon executes Rodrik. However, the botched execution only heightens tensions between the Stark household and the Ironborn invaders. Following Rodrik's execution, Theon imprisons the Stark brothers as captives within their own castle.<ref name=":0">"[[The Old Gods and the New]]"</ref>
+
+===Aftermath===
+Later that night, the wildling Osha seduces Theon, claiming that she wants her freedom. While he sleeps, she frees Bran, Rickon, Hodor, and their direwolves, [[Summer]] and [[Shaggydog]], and they escape the castle. During their escape from Winterfell, Osha also murdered the Ironborn guard [[Drennan]].<ref name=":0" />
+
+The following morning, Theon wakes up to find that his captives along with Osha have escaped. Enraged, Theon berates one of his men, [[Black Lorren]], who then criticizes Theon for sleeping with Osha and letting his guard down. In a fit of rage, Theon brutally beats Lorren. Theon, accompanied by Maester Luwin, then leads an Ironborn hunting party with dogs to hunt down the fugitives. The search eventually leads them to a farm, but the dogs lose their scent there.<ref name=":1" />
+
+The local farmer is unable to help and tells Theon and his men that he has not seen the boys. Having failed to recover their captives, Dagmer convinces Theon to kill the farmer's two orphaned farm hands and present their corpses as the bodies of Bran and Rickon Stark. In addition, Dagmer kills the farmer and his wife. Theon and his men then display the two children's burnt bodies on either side of Winterfell's main gate.<ref name=":1">"[[A Man Without Honor]]"</ref> Unknown to everyone else, Osha, the Stark boys and Hodor had sneaked back to the castle after reaching the farm, using a stream to mask their scent from the hounds. They hide beneath Winterfell's catacombs.<ref name=":2" />
+
+Following the events at Winterfell, Yara visits Winterfell with a small force of men. Yara chastises her younger brother for defying their father's orders by capturing Winterfell and killing the Stark boys, actions which have threatened the Ironborn's control over the North. Despite Yara's plea for Theon to abandon Winterfell and return to the Iron Islands, Theon refuses to relinquish his prize, thus sealing his own fate.<ref name=":2">"[[The Prince of Winterfell]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the capture of Winterfell takes place in a similar manner. [[Jojen Reed]] (not Bran) has foreseen it in his green dreams.
+
+After sacking the [[Stony Shore]] and destroying a Tallhart force which was sent against the raiders, Theon decides to seize Winterfell. He gives Aeron the command over six of the eight ships he was given for the task, leaving 250 men at most for his plan,{{Note|Dagmer reminds Theon that Asha has four or five times the men they have; Asha has 1,000 men; hence Theon has between 200 - 250 men.}} then persuades Dagmer to join him. Theon explains the plan: Dagmer will take most of their force, march to Torrhen's Square and make a lot of noise as a diversion; Ser Rodrik will probably arrive with most of the garrison of Winterfell to deal with ironborn; in the meantime, Theon will seize Winterfell with only 30 men. The plan works as Theon planned.
+
+The ironborn do not face Summer and Shaggydog, because they had been locked inside the [[godswood]] after Shaggydog had attacked "Little" Walder Frey, one of the Frey wards of [[Catelyn Stark]].
+
+Also, Ser Rodrik is not executed after the taking of the castle. Three members of Winterfell's household - whose deaths are also foreseen by Jojen - are killed during and after the taking: the guard Alebelly, Septon Chayle and [[Mikken]].
+
+Dagmer suffers heavy casualties and retreats with the survivors away from Torrhen's Square back to the Stony Shore. Ser Rodrik reports to Robb and Catelyn about the capture of Winterfell and the alleged death of Bran and Rickon, then begins gathering men to liberate Winterfell.
+
+Soon after the castle is taken, a prisoner named Reek (actually, [[Ramsay Bolton]] in disguise) is freed by Theon and becomes his servant.
+
+Osha does not sleep with Theon. She offers to serve Theon (while she remains loyal to the Starks), and he accepts.
+
+As a cover up of the Stark boys' escape, Theon and the three of his men kills two miller's sons and their mother, not two orphans. It is not Dagmer but Ramsay who advises Theon to do so.
+
+The taking of Winterfell has been erroneous both strategically and logistically, as Asha (Yara's name in the books) explains Theon. He was so frustrated by the frigid welcome from his family and the petty role his father assigned him, so anxious to prove himself as a worthy ironborn, that he performed it without considering it properly in advance. Asha comments that Theon could have won the war in a stroke, had he razed Winterfell and brought the Stark boys back to Pyke as hostages - that indeed would have been an impressive accomplishment; but he foolishly insisted on keeping Winterfell as a prize to himself. As things turn to be, Theon's only "achievements" are putting himself to shame and disgrace in the eyes of his people, for allegedly killing a cripple and a babe, and earning the derogatory nickname "the Turncloak".
+
+Robb is so absorbed in his vendetta against the Lannisters, that he turns a deaf ear to the reports about the ironborn's invasion, indifferent to the suffering of the common folk whose villages were ravaged by the ironborn. Even when he receives reports about the capture of Winterfell, he does not send even one soldier back (unlike in the show, Roose Bolton never suggests Robb to send Ramsay, and the [[Sack of Winterfell|"liberation" of Winterfell]] is performed without Robb's knowledge or consent), because, as he explains Catelyn in the third novel, he foolishly trusted Theon to act rationally and spare his brothers - and was indifferent about the safety of the servants with whom he lived for years.
+
+Robb's indifference to his subjects eventually backfires at him, as the taking of Winterfell has a significant application on the war that Theon could not have predicted: Robb lies wounded at the Crag when he is informed about the alleged deaths of his brothers, and becomes emotionally devastated. Jeyne Westerling comforts him, and they sleep together. In the next morning, Robb feels honor-bound to marry her, despite his previous oath to marry a daughter of Walder Frey. Thus Theon unwittingly serves as a catalyst of the [[Red Wedding]]: his actions have triggered a chain of events, that results in the massacre of Robb, his mother and many of his followers.
+
+By the time Robb finally decides to return home and fight off the ironborn, it is too late: he has lost the North, Winterfell, [[Jaime Lannister|his most important captive]], the Karstarks, the Boltons (as he finds out too late), one third of his infantry, and as a result of his grief over the alleged death of his brothers - he has breached the pact with the Freys.
+
+Many disasters could have been prevented had Robb returned to the North as soon as he received reports about the ironborn's invasion: even if he had reached Winterfell too late to save his brothers, he'd still have had the Freys, Karstarks and Boltons on his side, wouldn't have met Jeyne Westerling, and the Red Wedding would have never occurred. At such scenario Robb might have lost all the lands he conquered (as Roose warns him in the show) and eventually found himself caught between the Lannisters and ironborn, but still it would have been much better position than how things turned to be. Robb did not even have to send all the Northern forces (20,000 soldiers) back; a quarter or fifth of his troops might have been sufficient to deal with the invaders. 
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|Capture of Winterfell}}
+*{{AWOIAF|Battle at Winterfell}}
+
+<!--Navboxes-->
+{{War of the Five Kings}}
+
+<!--Categories-->
+[[Category:299 AC]]
+[[Category:Battles]]
+[[Category:Ironborn invasion of the North]]
+
+<!--Languages-->
+[[de:Einnahme von Winterfell]]
+[[ru:Падение Винтерфелла]]

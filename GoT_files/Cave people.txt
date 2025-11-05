@@ -1,0 +1,53 @@
+{{Canonicity|Canon}}
+{{Culture
+| Title        = {{PAGENAME}}
+| Type         = Wildling
+| Image        = Cave People Hardhome.jpg
+| AKA          = 
+| Status       = Active
+| Origin       = 
+| Predecessors = 
+| Successors   = 
+| Location     = [[Beyond the Wall]], [[Westeros]]
+| Ruler        = 
+| Society      = Clan-based
+| Language     = 
+| Religion     = [[Old Gods]]
+| Features     = 
+}}
+{{Quote|The cave people spend their lives in the dark doing gods-know-what with gods-know-who, or what.|[[Tormund]]|The Nations of the North}}
+The '''cave people'''{{Ref|GOT302}} are a clan of [[Free Folk]]. They are distinguished by the paint they cover their faces with.
+
+==History==
+===[[Game of Thrones: Season 3|''Game of Thrones'': Season 3]]===
+[[File:Cave people animated.png|thumb|Cave people]]
+The cave people now march in the army of [[King-Beyond-the-Wall]], [[Mance Rayder]], who has united all of the different wildling clans to assault the [[Wall]] and force their passage to the south. Mance points out that it was difficult to unite the numerous different wildling clans into one army, as one clan is always feuding with another clan for one reason or another - [[Thenns]] against [[Hornfoots]], Hornfoots against [[ice-river clans]]. His best example of this difficulty was that everyone hates the cave people.{{Ref|GOT302}}
+
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+Cave people are among the Free Folk gathered at [[Hardhome]].{{Ref|GOT508}}{{Note|The [[:File:Episode 409 script.png|script]] for "[[The Watchers on the Wall]]" mentions the cave people wearing face-paint.|name=Script}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is indeed mention of cave people - though the books call them "cave dwellers" - as one of the groups of wildlings in Mance Rayder's army. However, they have been barely mentioned at all in the text, except for two or three occasions when lists are given describing the diversity of the wildling clans in Mance's army, i.e. "Thenns, Hornfoots, ice-river clans, Cave dwellers..." etc.
+
+The most that has ever been said about them is that they make frequent use of face-paints and dyes: "cave-dwellers with their faces dyed blue and purple and green". They are apparently one of the more isolated wildling groups, from the extreme fringes of the lands beyond the Wall, from the caves of the [[Frostfangs|Frostfang Mountains]].
+
+Because they've been mentioned so rarely, it is never particularly stated that "everyone hates the cave people," nor why they would. If anything, the wildling tribe that all of the other wildlings universally hate tends to be the [[ice-river clans]], as they are openly known to be wild and savage [[cannibalism|cannibals]], who survive in the polar regions northwest of the Frostfangs by literally hunting people from neighboring tribes - among them those of the [[Frozen Shore]] - to eat them. Even so, Mance managed to make peace with the ice-river clans and convince them to join his army.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|Cave dwellers}}
+
+<!--Navboxes-->
+{{Free Folk}}
+
+<!--Categories-->
+[[Category:Free Folk clans and tribes]]
+
+<!--Languages-->
+[[pt-br:Povo da Caverna]]
+[[ru:Пещерный народ]]

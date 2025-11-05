@@ -1,0 +1,44 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Bethany Antonia.jpg
+| Birth   = December 25, 1997 {{Age|1997|12|25}}<br>Quinton, Birmingham, England
+| Death   = 
+| Role    = [[Baela Targaryen]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]] {{*}} [[House of the Dragon: Season 2|2]] {{*}} [[House of the Dragon: Season 3|3]]
+| Credits = 9 episodes {{Below|Credits}}
+| First   = "[[The Lord of the Tides]]"
+| Last    = 
+}}
+'''Bethany Antonia'''<!--Some wikis list her full name as "Bethany-Antonia Clarke." This is an error and Antonia herself has requested that this be corrected. Do not add it back.--> (born 25 December 1997) is an English actress. She is playing [[Baela Targaryen]] in ''[[House of the Dragon]]''.<ref>[https://pressroom.warnermedia.com/us/bio/house-dragon-character-descriptions WarnerMedia]</ref> 
+
+==Biography==
+Bethany Antonia was born in Birmingham, UK. She is best known for the Netflix series ''{{WPS|Get Even|Get Even}}'' (an adaptation of a popular book series) and ''{{WPS|Stay Close|Stay Close}}'' (also an adaptation, of a mystery novel).
+
+==Credits==
+===Starring===
+{{House of the Dragon: Season 1||||||||yes||yes}}
+{{House of the Dragon: Season 2|yes|yes|yes|yes|yes||yes|yes}}
+{{House of the Dragon: Season 3}}
+
+==See also==
+*{{WP}}
+*{{IMDb|# = nm8565845}}
+*{{Twitter|# = BethanyAntonia}}
+*{{Instagram|# = BethanyAntonia}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Antonia, Bethany}}
+[[Category:Starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[de:Bethany Antonia]]
+[[fr:Bethany Antonia]]
+[[pl:Bethany Antonia]]

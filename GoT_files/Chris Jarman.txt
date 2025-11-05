@@ -1,0 +1,32 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Chris Jarman.jpg
+| Birth   = Watford, Hertfordshire, England
+| Death   = 
+| Role    = [[Triarchy lieutenant]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = "[[Second of His Name]]"
+| First   = 
+| Last    = 
+}}
+'''Chris Jarman''' is a British stage and television actor. He has appeared in the films ''{{WPS|Johnny English Reborn}}'' and ''{{WPS|The Lady of Heaven}}'' and the television series ''{{WPS|Grange Hill}}'', ''{{WPS|State of Play (TV series)|State of Play}}'', ''{{WPS|Spartacus (miniseries)|Spartacus}}'', ''{{WPS|Holby City}}'', ''{{WPS|The Bill}}'', ''{{WPS|The Omid Djalili Show}}'', ''{{WPS|Doctor Who}}'', and ''{{WPS|Thunderbirds Are Go (TV series)|Thunderbirds Are Go}}''. He also portrayed {{WPS|Rubeus Hagrid}} in the stage play ''{{WPS|Harry Potter and the Cursed Child}}'' and voiced {{WPS|Nick Fury (Ultimate Marvel character)|Nick Fury}} in the video game ''{{WPS|Lego Marvel Super Heroes 2}}''.
+
+In ''[[House of the Dragon]]'', he portrayed a [[Triarchy lieutenant]] in the [[House of the Dragon: Season 1|first season]].
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1|||yes}}
+
+==See also==
+*{{WP}}
+*{{IMDb|# = 1373874}}
+*{{Twitter|# = ChrisJarman2}}
+*{{Instagram|# = chrisjarman3}}
+*{{Facebook|# = chrisjarman1}}
+*{{Linkedin|# = /in/chris-jarman-7a474130}}
+
+<!--Categories-->
+{{DEFAULTSORT:Jarman, Chris}}
+[[Category:Co-starring cast members of House of the Dragon]]

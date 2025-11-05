@@ -1,0 +1,68 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = House Justman.svg
+| Link  = House Justman
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Westeros
+| Image       = Qhored Hoare kills Bernarr Justman.png
+| Birth       = The [[Riverlands]], [[Westeros]]
+| Death       = 
+| House       = [[House Justman|Justman]]
+| Affiliation = 
+| Titles      = [[River King|King of the Trident]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Riverlands|Rivermen]]
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|He sacked Oldtown and defeated the River King, taking three young sons as hostages. When their father's tribute was late, Qhored cut out their hearts with his own hands. When the father marched for vengeance, Qhored smashed his army and gave this River King to the Drowned God.|[[Euron Greyjoy]]|The Kingsmoot}}
+King '''Bernarr II Justman'''{{Con|TWOI&F}} was a [[River King|King of the Trident]].
+
+==Biography==
+When [[Qhored Hoare]], [[King of the Iron Islands]], invaded the [[Riverlands]], he defeated [[King]] Bernarr and took his three young sons as hostages. After Bernarr's tribute to the [[Ironborn]] king was late, Qhored cut out their hearts with his own hands. Bernarr sought revenge and marched his army against Qhored, who defeated him and drowned him as a sacrifice to the [[Drowned God]].{{Ref|H&L602}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Bernarr's story is the same. His death rendered [[House Justman]] extinct and threw the [[Riverlands]] into a century of anarchy.
+
+==Appearances==
+*{{H&L|The Kingsmoot}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Justman}}
+{{Kings of Westeros}}
+
+<!--Categories-->
+{{DEFAULTSORT:Justman, Bernarr II}}
+[[Category:Individuals from Histories & Lore]]
+[[Category:Kings]]
+[[Category:Members of House Justman|Bernarr II Justman]]
+[[Category:Rivermen]]
+
+<!--Languages-->
+[[ru:Бернарр II Джастмен]]

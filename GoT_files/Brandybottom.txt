@@ -1,0 +1,34 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Tyrell
+| Image        = 
+| Type         = Village
+| Status       = 
+| Location     = [[Reach]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Brandybottom'''{{Ref|THTDB201}} is a village in the [[Reach]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Brandybottom once belonged to [[House Osgrey]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Reach}}
+
+<!--Categories-->
+[[Category:House Osgrey]]
+[[Category:Reach]]
+[[Category:Villages]]

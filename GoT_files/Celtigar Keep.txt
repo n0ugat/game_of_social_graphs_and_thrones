@@ -1,0 +1,35 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Celtigar.svg
+| Link  = House Celtigar
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Crownlander
+| Image        = 
+| Type         = Keep
+| Status       = 
+| Location     = [[Claw Isle]], the [[Crownlands]]
+| Population   = 
+| Rulers       = [[House Celtigar]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Celtigar Keep'''{{Ref|THTDB201}} is the seat of [[House Celtigar]], located on [[Claw Isle]] off [[Crackclaw Point]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no mention of House Celtigar's exact seat, only the island they rule.
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House Celtigar}}
+{{Crownlands}}
+
+<!--Categories-->
+[[Category:Castles of the Crownlands]]
+[[Category:House Celtigar]]

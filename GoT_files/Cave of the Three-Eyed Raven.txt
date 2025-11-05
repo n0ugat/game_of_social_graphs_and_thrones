@@ -1,0 +1,66 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Forest
+| Image        = Cave of the three-eyed raven.png
+| Type         = Cave
+| Status       = Abandoned
+| Location     = [[Beyond the Wall]], [[Westeros]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = 
+| Places       = 
+| Founded      = 
+}}
+The '''cave of the Three-Eyed Raven''' is a place located [[beyond the Wall]]. It serves as the abode of the [[greenseer]] known as the [[Three-Eyed Raven]] and a group of [[Children of the Forest]] who protect it and him.
+
+Above the cave lies an ancient and massive [[weirwood]] tree with a face carved on its trunk. The weirwood's roots dig deep into the cave and have merged with the body of [[Brynden Rivers]]. The entrance to the cave is protected by the [[magic]] of the Children of the Forest and prevents [[wight]]s from entering it, destroying the undead creatures if they attempt to enter.
+
+==History==
+===[[House of the Dragon: Season 2|''House of the Dragon'': Season 2]]===
+When [[Daemon Targaryen|Daemon]] touches the sap of the [[weirwood]] tree at [[Harrenhal]], he has a vision of his future great-grandson [[Brynden Rivers]] in the cave.{{Ref|HOTD208}}
+
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+[[File:Tree_above_the_cave.png|thumb|A weirwood tree marks the cave's entrance.]]
+[[Bran Stark|Bran]] was guided to the cave by the Three-Eyed Raven in their shared [[Sight|dreams]] and when he [[warg]]ed into a weirwood tree that showed him another weirwood tree on a hill, while the raven asked him to look for him in there.<ref>"[[The Lion and the Rose]]"</ref> Eventually, Bran and his group reach the tree, which is above the cave. However, they are attacked by a group of wights before they can enter. Although [[Jojen Reed|Jojen]] perishes at the hands of a wight and his sister's mercy-killing, Bran, [[Meera Reed|Meera]] and [[Hodor]] are saved by [[Leaf]], a [[Children of the Forest|Child of the Forest]], who quickly leads them into a cave. As the remaining wights try to enter after them, they are blown to pieces, Leaf explains that the magic that reanimates them has no power inside. She then leads them through the complex cave system of the root-covered cavern to meet Brynden Rivers.<ref>"[[The Children]]"</ref>
+
+===[[Game of Thrones: Season 6|''Game of Thrones'': Season 6]]===
+Bran is educated on the history of Westeros by Brynden through the ability to transiently view parts of the past - including the past of his relatives, friends and the origin of the [[Night King]] - by use of the tree root system of the cave and Brynden's guidance.
+
+Bran also discovers that he can impact on the past somewhat by using this ability, as shown by his father seemingly hearing his voice as he calls out him during a visit to the events at the [[Tower of Joy]]. Despite this, Brynden tells him that the past cannot be changed.
+
+The ability to view the past and possibly current ultimately leads to the cave's demise. After Bran channels into the root system, without Brynden's permission and supervision, he dreams of being present somewhere north of the Wall alongside the army of wights and [[White Walkers]]. He is noticed by the Night King who consequently touches him, awakening him from his dream through the roots. Brynden informs him that being touched by the Night King whilst in this dream has created a mark, which now allows the White Walkers to pass the magical boundary which previously would have prevented them from attacking the cave.
+
+Within a short period of time, the White Walkers and their army arrive and invade the cave, killing Brynden, the Children of the Forest, and [[Summer]] inside. Bran and Meera manage to escape whilst Hodor sacrifices himself outside the cave by holding the door they escaped from in order to block the wights from coming after his companions.<ref>[[The Door]]</ref>
+
+==Behind the scenes==
+The cave of the Three-Eyed Raven set was built by repurposing and completely redecorating the [[Dragonstone]] set. Given that [[Stannis Baratheon]] and his followers leave for the Wall in the Season 4 finale, the production team didn't need to keep the set as Dragonstone afterwards.<ref>[http://www.denofgeek.us/tv/game-of-thrones/243771/67-things-you-didnt-know-about-game-of-thrones-season-4 ]</ref>
+
+==In the books==
+[[File:CaveOfTheThreeEyedRavenApproximateLocation.png|thumb|300px|''Loosely'' approximate location of the cave of the Three-Eyed Raven: due north from Craster's Keep, and roughly east from the Fist of the First Men.]]
+In the ''[[A Song of Ice and Fire]]'' novels, the cave of the three-eyed crow appears in the fifth book, though its location is not specified. ''The Lands of Ice and Fire'' map collection places it within the [[Haunted Forest]], east of the [[Fist of the First Men]] and somewhat near the headwaters of the Antler River. ''Very'' loosely, if one draws a line straight east from the Fist of the First Men, and another line straight north from [[Craster's Keep]], the cave is in the general area where the two lines intersect. Logically, it isn't as drastically far north as the distant northern edge of the map or the mountain valley of the [[Thenns]] - the crippled Bran Stark and his companions could not have traveled such a vast distance on foot.
+
+The cave is actually a great cavern under a wooded hill, deep within a system of caves. The three-eyed crow is seated on a weirwood throne in the great cavern, by an abyss, attended to by the remaining Children of the Forest.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Cave of the three-eyed crow}}
+
+<!--Navboxes-->
+{{Beyond the Wall}}
+
+<!--Categories-->
+[[Category:Beyond the Wall]]
+[[Category:Caves|Three-Eyed Raven]]
+
+<!--Languages-->
+[[es:Cueva del cuervo de tres ojos]]
+[[fr:Grottes des enfants de la forêt]]
+[[pt-br:Caverna do Corvo de Três Olhos]]
+[[ru:Пещера Трёхглазого ворона]]
+[[zh:三眼乌鸦的洞穴]]

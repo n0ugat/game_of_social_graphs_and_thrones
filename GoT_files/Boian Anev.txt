@@ -1,0 +1,23 @@
+{{Crew
+|Image = Boyan Anev.jpeg
+|dateofbirth = 
+|birthplace = 
+|job = Stunt Performer
+|imdb = https://www.imdb.com/name/nm1349636/
+|twitter = }}
+'''Boian Anev''' is a stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 5|fifth season]] episodes "[[The House of Black and White]]", "[[Hardhome (episode)|Hardhome]]" and "[[The Dance of Dragons (episode)|The Dance of Dragons]]", the [[Game of Thrones: Season 6|sixth season]] episodes "[[The Red Woman]]", "[[The Door]]", "[[Blood of My Blood]]", "[[No One]]", "[[Battle of the Bastards (episode)|Battle of the Bastards]]" and "[[The Winds of Winter]]", the [[Game of Thrones: Season 7|seventh season]] episodes "[[Dragonstone (episode)|Dragonstone]]", "[[Stormborn]]", "[[The Spoils of War]]", "[[Eastwatch]]", "[[Beyond the Wall (episode)|Beyond the Wall]]" and "[[The Dragon and the Wolf]]" and the [[Game of Thrones: Season 8|eighth season]] episodes "[[The Long Night]]", "[[The Last of the Starks]]" and "[[The Bells]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 5||yes||||||yes|yes}}
+{{Game of Thrones: Season 6|yes||||yes|yes||yes|yes|yes}}
+{{Game of Thrones: Season 7|yes|yes||yes|yes|yes|yes}}
+{{Game of Thrones: Season 8|||yes|yes|yes}}
+
+==See also==
+*{{IMDb
+|# = 1349636}}
+{{DEFAULTSORT:Anev, Boian}}
+[[Category:Stunt performers of Game of Thrones]]

@@ -1,0 +1,54 @@
+{{Canonicity|Canon}}
+{{Deity
+| Title    = {{PAGENAME}}
+| Theme    = Free
+| Image    = Black Goat of Qohor Many-Faced God Histories and Lore.png
+| Type     = 
+| AKA      = 
+| Religion = [[Qohor]]ik<br>[[Faceless Men]]
+| Symbol   = 
+| Family   = 
+| Aspects  = 
+| Avatars  = 
+}}
+{{Quote|In Qohor [they worship] the Black Goat...he feeds on blood offerings every day.  On holy days, he is offered condemned criminals, and in times of great crisis, he may even be offered the nobles' children of the city to beg his protection.  Does he accept their gift?  Well, the city still stands.|[[Jaqen H'ghar]]|The Many-Faced God}}
+The '''Black Goat'''{{Ref|H&L512}} is a [[Religion|deity]] worshiped in the [[Free Cities|Free City]] of [[Qohor]].
+
+==History==
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+A statue of the Black Goat appears along with statues of gods from other religions in the [[House of Black and White]], the temple-headquarters of the [[Faceless Men]] in [[Braavos]].<ref>"[[High Sparrow (episode)|High Sparrow]]"</ref>
+
+Idols of foreign gods being sold by street vendors in [[King's Landing]], among them some of the Black Goat, are smashed by the [[Faith Militant]] when they storm through the city's streets.<ref>"[[Sons of the Harpy (episode)]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, little has been said about the Black Goat.
+
+''The World of Ice & Fire'' sourcebook (2014) explained that Black Goat is indeed the central deity of Qohor's religion: it started out as a cult of religious dissidents in the [[Valyrian Freehold]], who later founded Qohor as a religious colony - similar to how [[Norvos]] was founded by the [[Bearded Priests of Norvos|Bearded Priests]]. Unlike the Bearded Priests of Norvos, however, the religion of the Black Goat has a rather unsavory reputation: the Black Goat requires daily blood sacrifice. The typical sacrifices are calves, bulls, and horses, but on high holy days condemned criminals are also sacrificed to the Black Goat, while in times of great danger, the nobles of the city will even sacrifice their children to the Black Goat to try to appease him to grant them safety. This ill repute may be what made its adherents leave Valyria. The Black Goat is regarded as an untrustworthy demon in the religion of the Bearded Priests, although this hasn't stopped Norvos and Qohor from joining forces when necessary.
+
+==Gallery==
+<gallery>
+Black and White Lion of Knight Black Goat.jpg|A statue of the Black Goat (right), on a wall in the [[House of Black and White]].
+504 Idols in King's Landing market.jpg|Idols of the Black Goat, alongside other religious idols being sold by a street vendor in [[King's Landing]].
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Religions}}
+
+<!--Categories-->
+[[Category:Deities]]
+[[Category:Qohorik culture]]
+
+<!--Languages-->
+[[de:Schwarze Ziege von Qohor]]
+[[es:Cabra Negra]]
+[[fr:Chèvre Noire de Qohor]]
+[[nl:Zwarte Geit]]
+[[pl:Czarny Kozioł]]
+[[ru:Чёрный Козёл]]
+[[zh:黑山羊]]

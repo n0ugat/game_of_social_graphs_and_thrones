@@ -1,0 +1,27 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = 
+| Birth   = 
+| Death   = 
+| Role    = King's Landing citizen
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 8|8]]
+| Credits = "[[The Bells]]"
+| First   = 
+| Last    = 
+}}
+'''Caitlin Pharro''' is an actress.
+
+In ''[[Game of Thrones]]'', she portrayed a King's Landing Citizen in the [[Game of Thrones: Season 8|eighth season]] episode "[[The Bells]]".
+
+==Credits==
+{{Game of Thrones: Season 8|||||yes}}
+
+==See also==
+*{{IMDb
+|# = 10689628}}
+
+==References==
+{{Reflist}}{{DEFAULTSORT:Pharron, Caitlin}}
+[[Category:Guest starring cast members of Game of Thrones]]

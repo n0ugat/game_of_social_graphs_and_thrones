@@ -1,0 +1,100 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Westeros
+| Part          = [[Aegon's Conquest]]
+| Image         = Burning of Harrenhal closeup.png
+| Previous      = 
+| Concurrent    = 
+| Next          = [[Last Storm]]
+| Date          = [[2 BC]]{{Dateref|Aegon's Conquest}}
+| Place         = [[Harrenhal]], the [[Riverlands]]
+| Outcome       = Targaryen victory
+*Death of King [[Harren Hoare]] and his sons
+*Extinction of [[House Hoare]]
+*[[Ironborn]] driven from the mainland and capitulate
+*Dissolution of the Kingdom of the Iron Islands and the Riverlands
+*Reformation of the Riverlands as an eighth administrative region
+*Elevation of [[Edmyn Tully]] as the new [[Lord Paramount of the Trident]]
+| Factions1     = {{COA|House Targaryen|small}} '''[[House Targaryen]]'''<br>{{COA|House Tully|small}} [[House Tully]]<br>Allied [[Riverlands|riverlords]] <small>(except [[House Frey]])</small>
+| Factions2     = {{COA|House Hoare|small}} '''[[Iron Islands]]'''/[[House Hoare]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = {{COA|House Targaryen|inline}} [[King of the Andals and the Rhoynar and the First Men|King]] [[Aegon I Targaryen]]<br>{{COA|House Tully|inline}} [[Lord of Riverrun|Lord]] [[Edmyn Tully]]
+| Leaders2      = {{COA|House Hoare|inline}} [[King of the Iron Islands|King]] [[Harren Hoare]] †
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = 1 dragon <small>([[Balerion]])</small>
+| Participants2 = [[Harrenhal]] garrison
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = Minimal
+| Casualties2   = Total
+*King Harren and all his sons
+*Harrenhal garrison and population exterminated
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Dialogue a-b-a-b-a|Aegon|Yield now, and you may remain as Lord of the Iron Islands. Yield now, and your sons will live to rule after you. You see my army outside your walls, you see my dragons.|Harren|What is outside my walls is of no concern. Those walls are strong and thick.|Dragons fly.|[laughs] But stone doesn't burn.|When the sun sets, your line shall end.|[[Aegon I Targaryen]] and [[Harren Hoare]] at the gate of [[Harrenhal]].|House Hoare, Ironborn Kings of the Riverlands}}
+The '''burning of Harrenhal'''{{Con|ASOIAF}} was a major engagement in [[Aegon's Conquest]], in which [[Aegon I Targaryen|Aegon the Conqueror]] used his [[dragon]] [[Balerion|Balerion the Black Dread]] to burn the great castle of [[Harrenhal]].
+
+==History==
+===Background===
+King [[Harren Hoare]]'s grandfather led the [[Ironborn]] to conquer the [[Riverlands]], previously occupied by the [[Stormlands]]. The Ironborn cared nothing for the inhabitants of the mainland, and their rule was brutal and tyrannical - far more than any previous occupier. To consolidate their hold on the Riverlands, Harren's grandfather commissioned construction of a great fortress on the northern shore of the [[Gods Eye]] lake, in the very heart of the region. The largest and greatest fortress ever built in Westeros, it took three generations to finish. The Ironborn broke the backs of the Rivermen in forced labor to complete an instrument for their own domination. The great castle was finally finished in King Harren's time, and he arrogantly named it "Harrenhal" after himself. On the very same day that the last brick was laid, however, Aegon Targaryen and his sisters landed with their army from [[Dragonstone (island)|Dragonstone]] at the mouth of the [[Blackwater Rush|Blackwater]] River, along with their three dragons.
+
+While Aegon sent his siblings and their dragons to pursue other objectives, he advanced towards Harrenhal with his own force, astride his great dragon Balerion. At the sight of Aegon's arrival, the beleaguered River lords revolted against the Ironborn, led by [[Edmyn Tully]] of [[Riverrun]]. The Rivermen joined their army to Aegon's, swelling his ranks (though it is said that [[House Frey]] offered no help, instead waiting inside their castle and caring only about their own safety). Their combined force then reached Harrenhal.[[File:Burning of Harrenhal closeup.png|thumb|Aegon simply flew his dragon right over the walls, and blasted the castle with fire.]]
+=== Siege ===
+Because Westeros had never experienced dragon-based warfare, Harren remained confident that the massive walls of Harrenhal would withstand any attack. Indeed, it is said that a million men could have marched against Harrenhal and a million men would have been repulsed. Harrenhal was designed to withstand an attack by ''land'', however, and dragons can fly.
+
+===Burning===
+When Harren refused to capitulate, Aegon simply rode Balerion right over the walls, and proceeded to roast Harren and his sons alive within their own tower, rendering House Hoare extinct. The entire castle was blasted with dragon-fire, its once-grand walls and towers left partially ruined and half-melted.
+
+===Aftermath===
+[[Image:Balerion roasts Harrenhal.png|thumb|Balerion roasted Harren and all of his sons in their own tower.[[File:End of House Hoare.png|thumb|End of House Hoare.]]]]
+With this awesome display of power, the Ironborn fled back to their islands, with the River lords and their Targaryen allies in pursuit. The survivors soon bent the knee to Aegon. With House Hoare destroyed, Aegon needed to raise up a new Ironborn family to rule over the others: respectful of Ironborn custom, he allowed them to select their own ruler from among themselves. They selected [[House Greyjoy]] of [[Pyke]], who ruled the Iron Islands as the Targaryens' vassals for the next three centuries. Further, Aegon reorganized the Riverlands into a separate administrative area (functionally an eighth "kingdom"), and rewarded Edmyn Tully by naming him the first [[Lord Paramount of the Trident]], a title also held by his family for the next three hundred years.
+[[File:Edmyn Tully becomes Lord Paramount.png|thumb|Aegon raises [[Edmyn Tully]] to [[Lord Paramount of the Trident]].]]
+After hearing of how Harren was roasted within his own castle, King [[Argilac Durrandon|Argilac the Arrogant]] realized that to wait behind the walls of [[Storm's End]] was to wait for death, so he chose to face the Targaryens in the field. He faced off against the branch of the Targaryen army led by [[Orys Baratheon]], which included Aegon's sister-wife Rhaenys and her dragon Meraxes. In the resulting battle, known as the [[Last Storm]], the Storm lords were defeated, and Orys personally slew Argilac. Afterwards, they marched west to reunite with Aegon and Visenya.
+
+Similarly shocked by the fall of Harrenhal, King [[Loren I Lannister]] and King [[Mern IX Gardener]] combined the forces of the [[Westerlands]] and the [[Reach]] to oppose the Targaryens: uniting the armies of the wealthiest kingdom in Westeros and the most populous kingdom. Hearing word that they were on the march, the united Targaryen army then advanced south, to meet them at the climactic battle in the northern Reach known as the [[Field of Fire]].
+
+As for Harrenhal, it was left half-ruined, but the lands were still among the richest in all of Westeros. Aegon granted rule of what was left of it to his loyal vassals, [[House Qoherys]]. However, the entire family died out within a few decades, the first in a long line of families who were granted Harrenhal only to go extinct, leading many to believe that it is cursed.
+
+Even three hundred years later, by the time of the [[War of the Five Kings]], the damage from Aegon's assault is still evident. The ground around Harrenhal is blasted and dead, the towers partially melted from dragonfire. [[Arya Stark]], when she passed through Harrenhal, notes that dragons were responsible for the extensive damage;<ref>"[[Garden of Bones (episode)|Garden of Bones]]"</ref> later, she and [[Tywin Lannister]] speak about the event.<ref>"[[A Man Without Honor]]"</ref>
+
+==In the books==
+The initial Targaryen army that landed at the mouth of the Blackwater numbered 3,000 men, but later split up to go after different objectives. Aegon's portion may have numbered under 2,000. After the initial landing, Aegon burned Harren's ships on the Trident and on the Gods Eye. As he advanced, the River lords revolted against the ironborn to side with the Targaryens, swelling their ranks so that Aegon's army numbered 8,000 by the time he laid siege to Harrenhal.
+
+The books are not clear regarding whether the Freys took part in the siege or not, though the Season 3 "Histories & Lore" featurettes make it a point that they did not, instead hiding in their castle to wait out the fighting.
+
+When Aegon's forces surrounded Harrenhal, he sent terms to Harren, bluntly offering that he would spare his life if he surrendered, but if not, he and his entire family would burn inside Harrenhal at sundown. Harren rejected the terms, and true to his word, Aegon used Balerion to burn Harren and his sons inside of their own tower. One of the five great towers of the castle, it was forever afterwards known as Kingspyre.
+
+==Gallery==
+<gallery>
+File:Burning of Harrenhal 2.png|Burning castle and its men.
+File:Balerion looking at Harrenhal.png|Balerion and Aegon watching Harrenhal burn.
+</gallery>
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Wars of Conquest}}
+
+<!--Categories-->
+[[Category:2 BC]]
+[[Category:Aegon's Conquest]]
+[[Category:Battles]]
+
+<!--Languages-->
+[[de:Brand von Harrenhal]]
+[[fr:Chute de Harrenhal]]
+[[it:Rogo di Harrenhal]]
+[[ru:Сожжение Харренхола]]

@@ -1,0 +1,30 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Brendan-McCormack-200.jpg
+| Birth   = 
+| Death   = 
+| Role    = [[Vardis Egen]]
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 1|1]]
+| Credits = 2 episodes {{Below|Credits}}
+| First   = "[[The Wolf and the Lion]]"
+| Last    = "[[A Golden Crown]]"
+}}
+'''Brendan McCormack''' is an actor. He recently appeared in an episode of ''[[wikipedia:The Tudors (TV series)|The Tudors]]''.
+
+In ''[[Game of Thrones]]'' McCormack played the role of Ser [[Vardis Egen]]. He was confirmed in the role on 16 July 2010.
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 1|||||yes|yes}}
+
+==See also==
+*{{Template:IMDb
+|# = 1788152}}
+
+{{Stub}}
+{{DEFAULTSORT:McCormack, Brendan}}
+[[de:Brendan McCormack]]
+[[fr:Brendan McCormack]]
+[[Category:Guest starring cast members of Game of Thrones]]

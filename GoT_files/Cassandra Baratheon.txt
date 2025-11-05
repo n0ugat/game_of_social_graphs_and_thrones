@@ -1,0 +1,72 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Distinguish|Cassana Baratheon}}
+{{Heraldry
+| Image = House Baratheon.svg
+| Link  = House Baratheon/House of the Dragon
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Baratheon
+| Image       = Cassandra Baratheon.png
+| Birth       = 
+| Death       = 
+| House       = [[House Baratheon/House of the Dragon|Baratheon]]{{Ref|HOTD110}}
+| Affiliation = 
+| Titles      = 
+| AKA         = 
+| Culture     = [[Stormlands|Stormlander]]{{Ref|HOTD110}}
+| Religion    = 
+| Father      = [[Borros Baratheon]]{{Ref|HOTD110}}
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 1|1]]
+| Appearances = "[[The Black Queen]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Emma O'Hara]]
+}}
+'''Cassandra Baratheon'''{{Con|F&B}} is a noblewoman of [[House Baratheon/House of the Dragon|House Baratheon]].
+
+==Biography==
+Cassandra is the eldest daughter of Lord [[Borros Baratheon]], and has three younger sisters.{{Ref|HOTD109}}
+
+==Family==
+{{Baratheon tree (House of the Dragon)}}
+
+==In the books==
+In ''[[Fire & Blood]]'', Cassandra was the eldest daughter of Lord Borros Baratheon. She and her sisters were collectively known as the "Four Storms."
+
+==Appearances==
+*{{HOTD|The Green Council}} {{Indirect}}
+*{{HOTD|The Black Queen}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{House Baratheon/House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Baratheon, Cassandra}}
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Members of House Baratheon|Cassandra Baratheon]]
+[[Category:Stormlanders]]
+
+<!--Languages-->
+[[de:Kassandra Baratheon]]
+[[fr:Cassandra Baratheon]]
+[[pl:Cassandra Baratheon]]
+[[ru:Кассандра Баратеон]]

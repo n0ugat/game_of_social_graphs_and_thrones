@@ -1,0 +1,63 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Order of Maesters.svg
+| Link  = Order of Maesters
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Citadel
+| Image       = AHGSW.png
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[Order of Maesters]]
+| Titles      = [[Archmaester]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Might be useful. Ch'Vyalthan's a dreadful writer but an excellent researcher.|[[Ebrose]] to [[Samwell Tarly]]|Stormborn}}
+'''Ch'Vyalthan''' was an [[archmaester]] of the [[Citadel]] and the author of the books ''[[An History of the Great Sieges of Westeros]]'' and ''[[An History of the House of Lannister]]''.
+
+==Biography==
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+[[Tyrion Lannister|Tyrion]] refers to his book ''[[An History of the Great Sieges of Westeros]]'' when preparing the defense of [[King's Landing]] from [[Stannis Baratheon|Stannis]]'s imminent [[Battle of the Blackwater|attack]]. [[Varys]] criticizes him as an uninspired writer. Tyrion and [[Bronn]] debate how to correctly pronounce his name, but Varys offhandedly reveals the proper form: "sh(uh)-VY-al-thun".{{Ref|GOT208}}
+
+===[[Game of Thrones: Season 7|''Game of Thrones'': Season 7]]===
+[[Archmaester]] [[Ebrose]] hands his book ''[[An History of the House of Lannister]]'' to [[Samwell Tarly|Sam]], claiming that it might be useful when writing ''[[A Song of Ice and Fire (Ebrose)|A Chronicle of the Wars Following the Death of King Robert I]]''. He criticizes Ch'Vyalthan for his writing, but praises him for his research.{{Ref|GOT702}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no mention of this character.
+
+==Appearances==
+*{{GOT|The Prince of Winterfell}} {{Mentioned}}
+*{{GOT|Stormborn}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+[[Category:Archmaesters]]
+[[Category:Authors]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Westerosi]]
+
+<!--Languages-->
+[[de:Ch'Vyalthan]]
+[[pt-br:Ch'Vyalthan]]
+[[ru:Швайалтан]]

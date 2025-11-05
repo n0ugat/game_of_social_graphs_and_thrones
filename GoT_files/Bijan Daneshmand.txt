@@ -1,0 +1,30 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Bijan Daneshmand.jpg
+| Birth   = August 16, 1958 {{Age|1958|8|16}}<br>Tehran, Iran
+| Death   = 
+| Role    = [[High Priest (Driftmark)|High Priest]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = 2 episodes {{Below|Credits}}
+| First   = "[[Driftmark (episode)|Driftmark]]"
+| Last    = 
+}}
+'''Bijan Daneshmand''' (born 16 August 1958) is an Iranian actor. He has appeared in television series such as ''{{WPS|Casualty (TV series)|Casualty}}'', ''{{WPS|The Omid Djalili Show}}'', ''{{WPS|The Night Manager (TV series)|The Night Manager}}'', ''{{WPS|Deep State (TV series)|Deep State}}'' and ''{{WPS|Eastenders}}'' and films such as ''{{WPS|Munich (2005 film)|Munich}}'', ''{{WPS|Body of Lies (film)|Body of Lies}}'' and ''{{WPS|Green Zone (film)|Green Zone}}''.
+
+He portrays a [[High Priest (Driftmark)|High Priest]] in ''[[House of the Dragon]]''.<ref>[https://redanianintelligence.com/2021/10/14/hbos-game-of-thrones-prequel-house-of-the-dragon-casts-young-mysaria-and-others/ HBO's Game of Thrones prequel House of the Dragon casts Young Mysaria and others - Redanian Intelligence]</ref>
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1|||||||yes|||yes}}
+
+==See also==
+*{{WP}}
+*{{IMDb
+|# = 1729506}}
+
+==References==
+{{Reflist}}
+{{DEFAULTSORT:Daneshmand, Bijan}}
+[[Category:Co-starring cast members of House of the Dragon]]

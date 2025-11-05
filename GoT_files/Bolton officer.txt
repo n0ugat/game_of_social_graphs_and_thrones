@@ -1,0 +1,69 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Bolton
+| Image       = Bolton officer.png
+| Birth       = 
+| Death       = [[303 AC]]{{Dateref|Game of Thrones: Season 6}}<br>The [[North]]{{Ref|GOT601}}
+| House       = 
+| Affiliation = [[House Bolton]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Northmen|Northern]]
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 6|6]]
+| Appearances = "[[The Red Woman]]"
+| First       = 
+| Last        = 
+| DeathEp     = "The Red Woman"
+| Actor       = [[Andrew Bryan]]
+}}
+{{Quote|I can't wait to see what part Ramsay cuts off you this time!|Bolton Officer to [[Theon Greyjoy]]|The Red Woman}}
+A '''Bolton officer''' is presumed to be a high-ranking soldier in service to [[House Bolton]].
+
+==Biography==
+===[[Game of Thrones: Season 6|''Game of Thrones'': Season 6]]===
+He leads a small group of soldiers and [[Bastard's girls|hounds]] that are sent by [[Ramsay Bolton]] in search of [[Sansa Stark|Sansa]] and [[Theon Greyjoy|Theon]] after their escape during the [[battle in the ice]]. Despite the pair's best efforts to shake off their pursuers by crossing a frozen river, the Bolton soldiers and their hounds successfully track them down. Theon, attempting to at least save Sansa, shows himself and lies to the Bolton officer that she broke a leg during their leap from the battlements, and he left her for dead in the snow, but the officer calls his bluff and the hounds pick up Sansa's scent from beneath a fallen tree. After finding her, the officer begins mocking Theon about the impending torture he is going to receive from Ramsay when they get back to Winterfell. Before they can take them into custody, [[Brienne of Tarth|Brienne]] and [[Podrick Payne|Pod]] arrive horseback. The Bolton officer expresses his surprise before Brienne kills him, the first to die. After a brief battle, and with help from Theon, Brienne and Pod kill the rest of the Boltons.{{Ref|GOT601}} [[Harald Karstark]] later reports to [[Roose Bolton]] that they have discovered the bodies of the officer and his squad, and Sansa and Theon are nowhere to be found. Roose berates Ramsay for wasting half a dozen men to recapture the fugitives. Though Ramsay replies that they obviously had help, Roose angrily states that he didn't think Sansa killed the officer and the others herself.{{Ref|GOT602}}
+
+==In the books==
+He and the group of soldiers send after appear to be a reference to the Bastard Boys, a group of men-at-arms in service to Ramsay, although their true allegiance is to Roose. The Bastard Boys are:
+*Ben Bones, keeper of the Bastard's girls, Ramsay's hounds. Presumably referred to when it is mentioned that Myranda is the daughter of the Dreadfort's kennelmaster.
+*Damon Dance-for-me, a sadistic soldier who uses a whip.
+*Skinner, an expert torture and Ramsays brutal assistant.
+*Yellow Dick, killed by unknown people.
+*Luton, fatally injured during a brawl between the Freys and the White Harbor men, and killed by Ramsay.
+*Sour Alyn.
+*Grunt, a mute.
+It is unlikely that this particular soldier is meant to be one of the already established Bastard's Boys from the novels.
+
+==Appearances==
+*{{GOT|The Red Woman}}
+*{{GOT|Home}} {{Indirect}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|Bastard's Boys}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Men-at-arms]]
+[[Category:Northmen]]
+[[Category:Servants and retainers of House Bolton]]
+
+<!--Languages-->
+[[ru:Командир поискового отряда Болтонов]]

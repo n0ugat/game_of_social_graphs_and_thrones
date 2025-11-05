@@ -1,0 +1,39 @@
+{{Canonicity|Canon}}
+{{Object
+| Title    = {{PAGENAME}}
+| Type     = Lannister
+| Image    = Brightroar.png
+| Material = [[Valyrian steel]]
+| Maker    = [[Valyrian Freehold]]
+| Owner    = {[[Tommen II Lannister]]}
+| Status   = Lost
+}}
+{{Quote|A foolish King of the Rock took House Lannister's Brightroar to Valyria, and neither blade nor man was seen again.|Ser [[Jorah Mormont]]|Valyrian Steel (short)}}
+'''Brightroar'''{{Ref|H&L415}} is a [[Valyrian steel]] blade that was the ancestral weapon of [[House Lannister]]. It was lost when [[Tommen II Lannister]], [[King of the Rock]], took it on his expedition to the ruins of [[Old Valyria|Valyria]] and disappeared.
+
+The lack of a Valyrian steel sword for House Lannister drove [[Tywin Lannister]] to have [[Ice]], the Valyrian steel greatsword of [[House Stark]], reforged into [[Oathkeeper|two]] [[Widow's Wail|blades]].{{Ref|GOT401}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Brightroar was the ancestral Valyrian steel greatsword of House Lannister. House Lannister has been searching for a replacement ever since it was lost. 
+
+Tywin tried numerous times to buy one from impoverished noble houses but was always rebuffed, lords preferring to offer their daughters in marriage rather than part from such valuable heirlooms. 
+
+Tywin's youngest brother, [[Gerion Lannister|Gerion]], went into an expedition to the [[Valyrian peninsula]] approximately in 291 AC, with the goal of finding Brightroar; like King Tommen II, he never returned.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+[[Category:House Lannister]]
+[[Category:Swords]]
+[[Category:Valyrian steel blades]]
+
+<!--Languages-->
+[[de:Lichtbrüller]]
+[[it:Ruggito di Luce]]
+[[pt-br:Rugido Brilhante]]
+[[ru:Светлый Рёв]]
+[[zh:光啸]]

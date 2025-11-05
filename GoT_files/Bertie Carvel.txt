@@ -1,0 +1,39 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Kingdoms
+| Image   = Bertie Carvel.jpg
+| Birth   = Robert Hugh Carvel<br>September 6, 1977 {{Age|1977|8|6}}<br>Marleybone, London, England
+| Death   = 
+| Role    = [[Baelor Targaryen]]
+| Series  = ''[[A Knight of the Seven Kingdoms]]''
+| Season  = [[A Knight of the Seven Kingdoms: Season 1|1]]
+| Credits = 
+| First   = 
+| Last    = 
+}}
+'''Robert Hugh Carvel''' (born 6 September 1977) is an English actor.
+
+Carvel portrays [[Baelor Targaryen]] in ''[[A Knight of the Seven Kingdoms]]''.{{Webref|name=FirstLook |author=Nick Romano |date=June 18, 2024 |url=https://ew.com/game-of-thrones-a-knight-of-the-seven-kingdoms-first-look-cast-confirmed-8665658 |title=''Game of Thrones'' spinoff unveils its Hedge Knight in first look at ''A Knight of the Seven Kingdoms'' |website=Entertainment Weekly |access-date=June 18, 2024}}
+
+From 2011 to 2024, Carvel voiced the male Imperial Agent player character in the MMORPG ''Star Wars: The Old Republic'', a role that is now filled by [[Wilf Scolding]], who played [[Rhaegar Targaryen]] in ''[[Game of Thrones]]''.
+
+==Credits==
+===Starring===
+{{A Knight of the Seven Kingdoms: Season 1}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{WP}}
+*{{IMDb|#=1584487}}
+
+<!--Navboxes-->
+{{A Knight of the Seven Kingdoms}}
+
+<!--Categories-->
+{{DEFAULTSORT:Carvel, Bertie}}
+[[Category:Starring cast members of A Knight of the Seven Kingdoms]]
+
+<!--Languages-->
+[[pl:Bertie Carvel]]

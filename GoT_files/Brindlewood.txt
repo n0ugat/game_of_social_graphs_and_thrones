@@ -1,0 +1,33 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Crownlander
+| Image        = 
+| Type         = Village
+| Status       = 
+| Location     = [[Crownlands]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Brindlewood'''{{Ref|THTDB201}} is a village in the [[Crownlands]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, [[Jaime Lannister]] and [[Brienne of Tarth]] hear the news of the [[Red Wedding]] at Brindlewood.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Crownlands}}
+
+<!--Categories-->
+[[Category:Crownlands]]
+[[Category:Villages]]

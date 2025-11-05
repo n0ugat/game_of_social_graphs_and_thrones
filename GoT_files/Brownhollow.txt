@@ -1,0 +1,37 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Brune.svg
+| Link  = House Brune
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Crownlander
+| Image        = 
+| Type         = Castle
+| Status       = 
+| Location     = [[Crackclaw Point]], the [[Crownlands]]
+| Population   = 
+| Rulers       = [[House Brune]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Brownhollow'''{{Ref|THTDB201}} is a castle on [[Crackclaw Point]] in the [[Crownlands]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Brownhollow is the seat of a branch of [[House Brune]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{Crownlands}}
+
+<!--Categories-->
+[[Category:Castles of the Crownlands]]
+[[Category:House Brune]]

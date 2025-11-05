@@ -1,0 +1,33 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Chris David Storer.jpg
+| Birth   = 
+| Death   = 
+| Role    = [[Humfrey Bracken]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = "[[King of the Narrow Sea (episode)|King of the Narrow Sea]]"
+| First   = 
+| Last    = 
+}}
+'''Chris David Storer''' is an English actor, singer, and songwriter. He has appeared in the television series ''{{WPS|Hustle (TV series)|Hustle}}''.
+
+In ''[[House of the Dragon]]'', he portrayed Lord [[Humfrey Bracken]] in the [[House of the Dragon: Season 1|first season]].
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1||||yes}}
+
+==See also==
+*{{Spotlight|# = 1374-8945-2725}}
+*{{IMDb|# = 2655173}}
+*{{Twitter|# = chrisdstorer}}
+*{{Linkedin|# = /in/chris-david-storer-a070444b}}
+
+<!--Categories-->
+{{DEFAULTSORT:Storer, Chris David}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Chris David Storer]]

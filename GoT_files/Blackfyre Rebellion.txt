@@ -1,0 +1,71 @@
+{{Canonicity|Canon}}
+{{War
+| Title      = {{PAGENAME}}
+| Type       = Westeros
+| Part       = 
+| Image      = H&L415.png
+| Previous   = [[Conquest of Dorne]]
+| Concurrent = 
+| Next       = [[Tournament at Ashford Meadow]]
+| Beginning  = [[196 AC]]{{Dateref|Battle of Redgrass Field}}
+| End        = 196 AC{{Dateref|Battle of Redgrass Field}}
+| Place      = [[Seven Kingdoms]], [[Westeros]]
+| Outcome    = [[Iron Throne]] victory
+| Factions1  = {{COA|House Blackfyre|s}}<br>[[House Blackfyre]]
+| Factions2  = {{COA|House Targaryen|s}}<br>[[Iron Throne]]<br>{{C|[[House Targaryen]]}}<br><br>{{COA|House Baratheon|s}}<br>[[House Baratheon]]<br><br>{{COA|House Martell|s}}<br>[[House Martell]]
+| Factions3  = 
+| Factions4  = 
+| Factions5  = 
+| Factions6  = 
+| Leaders1   = {{COA|House Blackfyre|i}} [[King of the Andals and the Rhoynar and the First Men|King]] [[Daemon Blackfyre|Daemon<br>Blackfyre]] †<br>{{COA|Aegor Rivers|i}} [[Aegor Rivers]]
+| Leaders2   = {{COA|House Targaryen|i}} [[King of the Andals and the Rhoynar and the First Men|King]] [[Daeron II Targaryen]]<br>{{COA|Brynden Rivers|i}} [[Brynden Rivers]]<br>{{COA|House Targaryen|i}} [[Prince]] [[Baelor Targaryen]]<br>{{COA|Maekar Targaryen|i}} [[Prince]] [[Maekar Targaryen|Maekar Targaryen]]
+| Leaders3   = 
+| Leaders4   = 
+| Leaders5   = 
+| Leaders6   = 
+| Events     = [[Battle of Redgrass Field|Redgrass Field]]
+}}
+{{Quote|Aegon the Unworthy legitimized all his bastards on his deathbed. Inevitably the greatest of these, Daemon Blackfyre, declared himself the rightful heir and ignited yet another war for the crown. After much bloodshed, Daemon was killed by an alliance of his brothers on the Redgrass Field.|[[Varys]]|The Death of Kings}}
+[[File:Daemon Blackfyre.png|thumb|Daemon Blackfyre, the Black Dragon.]]
+The '''Blackfyre Rebellion'''{{Ref|H&L405}} was an uprising led by [[Daemon Blackfyre]], a legitimized [[bastard]] of King [[Aegon IV Targaryen]] and his cousin and lover [[Daena Targaryen]], against his half-brother, King [[Daeron II Targaryen]]. The rebellion failed, and Daemon himself was killed in the [[Battle of Redgrass Field]].{{Ref|GOT104}}
+
+==Quotes==
+{{Quote|Aegon the Unworthy legitimized all his bastards on his deathbed. Inevitably the greatest of these, Daemon Blackfyre, declared himself the rightful heir and ignited yet another war for the crown. After much bloodshed, Daemon was killed by an alliance of his brothers on the Redgrass Field. All the same, his descendants continued to threaten the Targaryens until half a century later, when Barristan the Bold slew Maelys the Monstrous on the Stepstones, extinguishing Daemon's line.|[[Varys]]|The Death of Kings}}
+
+==In the books==
+According to ''[[The World of Ice & Fire]]'', House Blackfyre fled east to the Free Cities and continued to harass the Targaryen kings for decades. There were five Blackfyre Rebellions over the course of more than sixty years but of varying sizes. The first was also the largest and the one which very nearly succeeded due to the popularity of Daemon.
+
+It is repeatedly said that the Blackfyre Rebellion divided Westeros in half, though it appears that all of the Great Houses remained loyal to the Targaryens: rather, many of the major noble Houses in each of the Seven Kingdoms appear to have sided with the Blackfyres. It is stated that most of Daemon's supporters in the first rebellion were traditional foes of the Dornish - predominantly from the [[Reach]] and also from the [[Stormlands]] - who resented their recent union with the Iron Throne through Daeron I's marriage-alliance. Others who had some grudge or another with the ruling Targaryens also sided with the Blackfyres (Aegon IV had made numerous enemies), and still, others just opportunistically sided with the Blackfyres in hope of reward should they win.
+
+The rebellion lasted about one year, and Daemon Blackfyre's success rose so high that at some point he even began to mint his own [[Money|coinage]]. There may have been localized fighting throughout the Seven Kingdoms, but it appears that Daemon first consolidated his position with the armies of his main supporters, several major Houses in the Reach, and then led their armies in a campaign advancing northeast towards King's Landing. It is said that the fighting was heavy in the [[Riverlands]] (it is possible that Daemon looped north somewhat from the Reach into the Riverlands, then advanced east for King's Landing). Apart from this main thrust, Ser Quentyn Ball also won major Blackfyre victories in the [[Westerlands]], killing Lord [[House Lefford|Lefford]] at the gates of [[Lannisport]] and then defeating Lord [[Damon Lannister]]. Daemon stood at the height of his fortunes by the Battle of the Redgrass Field - only a short distance from the capital city itself. The future of the realm hung in the balance during that climactic battle, as there was a very real chance that Daemon could have won it, in which case King's Landing would have soon fallen to the Blackfyres in the aftermath.
+
+Daemon had many children, including seven sons and possibly several daughters, which allowed the Blackfyre line to survive through multiple failed rebellions. Daemon's eldest two sons, Aegon and Aemon, died in the rebellion.
+
+One of the reasons that the Blackfyre Rebellions lasted for as long as they did is because, despite the failure of each subsequent rebellion, the Targaryens imposed very draconian punishments on anyone still suspected of Blackfyre sympathies - a short term solution which at the same time also kept anti-Targaryen resentment alive for some time. These harsh anti-Blackfyre measures were enforced by the vast spy network of Daemon's half-brother [[Brynden Rivers|Brynden "Bloodraven" Rivers]].
+
+The Blackfyre Rebellions are somewhat analogous to the real-life [[Wikipedia:Jacobite risings|Jacobite risings]] in the British Isles (1688-1746): both were a drawn out series of endemic rebellions in which a rival dynastic claimant repeatedly made failed attempts to seize the throne, after which the survivors fled overseas, spent years rebuilding their forces, then launched yet another invasion which also ended in failure, and the cycle continued. Similar to the harsh Targaryen treatment of Blackfyre sympathizers, the infamously brutal crackdowns hunting down anyone suspected of being Jacobite sympathizers are attributed with ironically inflaming anti-establishment sentiment, and keeping pro-Jacobite support alive for decades.
+
+In ''A Storm of Swords'', [[Robb Stark|Robb]] plans to issue a royal decree which legitimizes his half-brother [[Jon Snow|Jon]] and makes him his successor. [[Catelyn Stark|Catelyn]] objects (due to her personal feelings toward Jon), bitterly relating to the Blackfyre Rebellions. She points out that Aegon IV's foolish act of legitimizing his bastards caused so much pain, grief, war, and murder for five generations, until Selmy killed the last of the Blackfyre Pretenders, and claims that if Jon is legitimized - any future sons of Robb will never be safe. Robb dismisses his mother's objections, confident that Jon will never harm any of his descendants.{{Bookref|ASOS|45}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|First Blackfyre Rebellion|Blackfyre Rebellion}} {{Spoilers|AKOTSK}}
+
+<!--Navboxes-->
+{{Wars}}
+
+<!--Categories-->
+[[Category:196 AC]]
+[[Category:Blackfyre Rebellion| ]]
+[[Category:House Blackfyre]]
+[[Category:Wars]]
+
+<!--Languages-->
+[[de:Schwarzfeuer-Rebellion]]
+[[fr:Première Rébellion Feunoyr]]
+[[ru:Первое восстание Блэкфайра]]

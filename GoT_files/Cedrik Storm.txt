@@ -1,0 +1,58 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Baratheon
+| Image       = 
+| Birth       = At [[Bronzegate]]
+| Death       = 
+| House       = 
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = The Bastard of Bronzegate
+| Culture     = [[Andals|Andal]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Cedrik Storm''', also known as the '''Bastard of Bronzegate''', was a [[bastard]] of House Buckler, a [[noble house]] of the [[Stormlands]].
+
+==Biography==
+===Background===
+He was defeated in combat by Ser [[Barristan Selmy]].{{Ref|GOT806}}
+
+===[[Game of Thrones: Season 8|''Game of Thrones'': Season 8]]===
+Cedrik is mentioned in Barristan Selmy's entry in the ''[[Book of Brothers]]''.{{Ref|GOT806}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Cedrik's story is the same.
+
+==Appearances==
+*{{GOT|The Iron Throne}} {{Text}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+{{DEFAULTSORT:Storm, Cedrik}}
+[[Category:Bastards]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Stormlanders]]
+
+<!--Languages-->
+[[ru:Седрик Шторм]]

@@ -1,0 +1,40 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Baratheon
+| Image        = 
+<gallery>
+Stormlands Map from Robert's Rebellion - Histories & Lore.png|Appearance
+Bronzegate Pin.png|Location
+</gallery>
+| Type         = Castle
+| Status       = 
+| Location     = The [[Stormlands]], [[Westeros]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Bronzegate'''{{Ref|H&L204}} is a castle in the [[Stormlands]], the region controlled by [[House Baratheon]] of [[Storm's End]]. The castle is located north of Storm's End just off the [[Kingsroad]], southwest of [[Haystack Hall]].<ref>"[[Robert's Rebellion - Stannis Baratheon]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Bronzegate is the seat of House Buckler. It is located south-east of the Wendwater.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Stormlands}}
+
+<!--Categories-->
+[[Category:Castles of the Stormlands]]
+
+<!--Languages-->
+[[de:Bronzetor]]
+[[ru:Бронзовые Врата]]

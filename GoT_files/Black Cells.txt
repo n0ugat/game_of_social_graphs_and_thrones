@@ -1,0 +1,67 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Bran Stark.svg
+| Link  = Bran Stark
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Crownlander
+| Image        = BlackCell.jpg
+| Type         = Dungeon
+| Status       = Ruined
+| Location     = Beneath the [[Red Keep]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = 
+| Places       = 
+| Founded      = 
+}}
+{{Quote|Get him out of my sight. Throw him in one of the Black Cells.|Tyrion Lannister|What Is Dead May Never Die}}
+The '''Black Cells'''{{Ref|GOT203}} are a level of the dungeons of the [[Red Keep]]. They are reserved for prisoners accused of high crimes, such as [[treason]]. Cells are completely dark, with no possible light sources (except when jailers enter with torches).
+
+[[Varys]] has access to the Black Cells, but dons the guise of a gaoler to enter.
+
+==History==
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+[[Yoren]] comes to [[King's Landing]] to look for new recruits for the [[Night's Watch]], and is allowed to take his pick of the men. He selects the prisoners [[Jaqen H'ghar]], [[Rorge]], and [[Biter]] to travel back north with him to take the black. [[Eddard Stark|Ned Stark]] is confined to the Black Cells following his [[Massacre in the Red Keep|arrest]]. He is visited twice by [[Varys]] who tries to convince him to confess to treason in order to prevent war and to save the lives of his daughters [[Sansa Stark|Sansa]] and [[Arya Stark|Arya]].<ref>"[[The Pointy End]]"</ref><ref>"[[Baelor]]"</ref>
+
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+After learning that [[Pycelle]] is an informant for Queen [[Cersei Lannister|Cersei]], [[Tyrion Lannister]] has his men [[Timett]] and [[Bronn]] cut off Pycelle's beard and throw him into one of the Black Cells.<ref>"[[What Is Dead May Never Die]]"</ref> Not long afterwards Cersei sends [[Lancel Lannister|Lancel]] to demand that Tyrion have Pycelle freed. He agrees to let him go, given that he has made his point, but will not let him return to the [[Small Council]].<ref>"[[Garden of Bones (episode)|Garden of Bones]]"</ref>
+
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+Tyrion is confined to the Black Cells after being [[Second trial by combat of Tyrion Lannister|found guilty]] of the [[Purple Wedding|murder]] of his nephew King [[Joffrey Baratheon|Joffrey]]. On the eve of his execution, [[Jaime Lannister|Jaime]] frees Tyrion, so he can escape to the [[Free Cities]]. Tyrion first uses the passages in the Red Keep to visit the [[Tower of the Hand]] and [[Assassinations in the Tower of the Hand|confront and kill]] his [[Tywin Lannister|father]].<ref>"[[The Children]]"</ref>
+
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+In an effort to curry favor with the [[High Sparrow]], the Queen-Regent [[Cersei Lannister]] has the corrupt [[High Septon (Tommen)|High Septon]] thrown into the Black Cells for "bringing disgrace" to his office.<ref>"[[High Sparrow (episode)|High Sparrow]]"</ref>
+
+===[[Game of Thrones: Season 6|''Game of Thrones'': Season 6]]===
+After killing the High Sparrow, the [[Faith Militant]], the [[Most Devout]], and several of her enemies and many civilians, Cersei has her former tormentor [[Septa]] [[Unella]] brought to the Black Cells. She then has the resurrected [[Gregor Clegane]] torture Unella.<ref>"[[The Winds of Winter]]"</ref>
+
+===[[Game of Thrones: Season 7|''Game of Thrones'': Season 7]]===
+Following [[Euron Greyjoy]]'s [[assault on the Targaryen fleet]], Cersei has her enemies [[Ellaria Sand]] and her daughter [[Tyene Sand]] imprisoned in one of the Black Cells. Seeking vengeance for their role in the murder of her daughter [[Myrcella Baratheon]], Cersei [[poison]]s Tyene with the [[long farewell]] and forces her distraught mother to watch as her daughter succumbs to the poison's effects. Cersei orders that Ellaria be held in the Black Cells for the rest of her life to reflect on her past actions and her daughter's corpse.<ref>"[[The Queen's Justice]]"</ref>
+
+===[[Game of Thrones: Season 8|''Game of Thrones'': Season 8]]===
+Since the Black cells were destroyed during the [[Battle of King's Landing]], Tyrion and Jon are held in two rooms in the Red Keep that remain intact.<ref>"[[The Iron Throne]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' books, the black cells are the third level of the Red Keep's dungeons. On the upper level are cells with high narrow windows where common criminals are confined together. The second level has smaller, personal cells without windows for highborn captives. Torches in the halls cast light through the bars. The black cells themselves are smaller still and have doors of wood so that no light enters them; they are reserved for the most vile and dangerous prisoners. The fourth level is the one used for torture and none who enter leaves alive.
+
+In ''A Feast for Crows'', Cersei allows [[Qyburn]] to use the black cells for his inhuman experiences, and also for torturing prisoners.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Black cells}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{Crownlands}}
+
+<!--Categories-->
+[[Category:Prisons]]
+[[Category:Red Keep]]
+
+<!--Languages-->
+[[ru:Чёрные камеры]]

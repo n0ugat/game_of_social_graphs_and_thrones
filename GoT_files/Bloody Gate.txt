@@ -1,0 +1,73 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Arryn.svg
+| Link  = House Arryn
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Arryn
+| Image        =
+<gallery>
+The Bloody Gate.png|Appearance
+Bloody Gate Pin.png|Location
+</gallery>
+| Type         = Battlement
+| Status       = 
+| Location     = The [[Vale of Arryn]], [[Westeros]]
+| Population   = 
+| Rulers       = [[House Arryn]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+{{Quote|They call the entrance to their lands "the Bloody Gate" because, in the Age of Heroes, a dozen armies supposedly smashed themselves against it.|[[Petyr Baelish]]|The Vale}}
+The '''Bloody Gate'''{{Ref|GOT405}} is a castle that guards the western edge of the [[Vale of Arryn]]. It is a waycastle on the road to the [[Eyrie]], the seat of [[House Arryn]].
+
+The Bloody Gate is located about 20 miles from the Eyrie.<ref>"[[The Children]]"</ref>
+
+==History==
+===Background===
+The Bloody Gate is a series of battlements placed across the mountainous [[Eastern Road]] as it winds its way into the Vale of Arryn from the [[Mountains of the Moon]]. The gate is built along a natural choke point where the road narrows significantly into a tight ravine, so that only a few people can walk abreast. There are two long parapets built into the stone of the mountains. The pass, narrow where it meets the gate, is watched over by twin watchtowers, which are joined by a covered bridge of grey stone that arches above the road. Archers are positioned atop the cliffs along the length of the narrow ravine, and train their aim on any who approach the gate.
+
+A knight positioned at the gate asks all travelers to identify themselves with the traditional line, "Who would pass the Bloody Gate?"
+
+The Bloody Gate has been the primary defensive strongpoint of the Vale for thousands of years. According to myth, more than a dozen armies were destroyed trying to take it during the [[Age of Heroes]].<ref>"[[The Vale]]"</ref>
+
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+After fleeing [[Purple Wedding|Joffrey's assassination]], [[Sansa Stark|Sansa]] is brought to the Vale by [[Petyr Baelish|Littlefinger]] in his ship. Rather than risk detection by entering the Vale through a major port, however, they apparently landed near the mouth of the [[Trident]] River to enter the Vale by land from the west, posing as common travelers. Baelish identifies himself to Ser [[Donnel Waynwood]], and claims that the girl with him is his niece "Alayne".<ref>"[[First of His Name]]"</ref>
+
+Later, [[Arya Stark|Arya]] and [[Sandor Clegane|the Hound]] arrive at the Bloody Gate as they head to the Eyrie, where Sandor hopes to ransom Arya to [[Lysa Arryn|her aunt]], her one remaining relative who is both free and wealthy. To their disappointment, Ser Donnel informs them Lysa died only three days before.<ref>"[[The Mountain and the Viper]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the Knight of the Gate during the first novel is [[Knighthood|Ser]] [[Brynden Tully]]. After Ser Brynden renounces the post to aid [[House Tully]], the title is granted to Ser [[Donnel Waynwood]].
+
+In the books, the Bloody Gate is first depicted in the first novel, ''A Game of Thrones'', when [[Catelyn Stark|Catelyn]] takes [[Tyrion Lannister|Tyrion]] to the Eyrie. In the show, the Bloody Gate is not seen until Season 4.
+
+The proximity of the Bloody Gate to the Eyrie in "[[First of His Name]]" indicates that this location has been seemingly merged with the Gates of the Moon. In the books, the Eyrie is built at the peak of a mountain known as the Giant's Lance, while another castle known as the Gates of the Moon stands at the foot of the mountain, guarding the only pass to the summit. During the winter years, the Arryns move their seat to the Gates of the Moon, but then return to the Eyrie when summer arrives.
+
+Then again, in "[[The Children]]," [[Brienne of Tarth|Brienne]] and Arya state that their current location is about 30 miles west of the Eyrie, and 10 miles west of the Bloody Gate. This indicates that the Eyrie and Bloody Gate are still located about 20 miles apart in the TV continuity. Therefore, it isn't clear if the Bloody Gate in the TV series is meant to be at the very foot of the mountain that the Eyrie is located on, though the Eyrie can still be seen in the distance from the Bloody Gate.
+
+==Gallery==
+<gallery>
+Eyrie HotD.jpg|The Bloody Gate in ''House of the Dragon'': Season 2
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+*{{AWOIAF|Gates of the Moon}}
+
+<!--Navboxes-->
+{{Vale of Arryn}}
+
+<!--Categories-->
+[[Category:Castles of the Vale of Arryn]]
+[[Category:House Arryn]]
+
+<!--Languages-->
+[[de:Bluttor]]
+[[ru:Кровавые Врата]]

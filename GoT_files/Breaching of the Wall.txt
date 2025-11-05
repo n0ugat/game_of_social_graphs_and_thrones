@@ -1,0 +1,102 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Thrones
+| Part          = the [[Great War]]
+| Image         = Breached wall s7 finale.png
+| Previous      = [[Trial of Petyr Baelish]]
+| Concurrent    = 
+| Next          = [[Rescue of Yara Greyjoy]]
+| Date          = [[304 AC]]{{Dateref|Game of Thrones: Season 7}}
+| Place         = [[Eastwatch-by-the-Sea]], [[Wall]], [[Gift]]
+| Outcome       = '''Major tactical [[White Walkers|White Walker]] victory'''
+*Breach is created at the [[Wall]] where [[Eastwatch-by-the-Sea]] stands, allowing the [[White Walkers]] and the [[Wight|army of the dead]] to invade the [[Gift]]
+*Complete destruction of [[Eastwatch-by-the-Sea]]
+*Conclusion of the [[conflict beyond the Wall]], start of the [[Great War]]
+*[[Night's Watch]],  [[Free Folk]], and the [[Brotherhood Without Banners]] forced to abandon the Wall and retreat to [[Winterfell]]
+| Factions1     = {{COA|Night's Watch|small}} [[Night's Watch]]<br>[[Free Folk]]<br>[[Brotherhood Without Banners]]
+| Factions2     = [[White Walkers]]<br>[[Wight|Army of the Dead]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = {{COA|Night's Watch|inline}} [[Eastwatch-by-the-Sea|Commander]] [[Cotter Pyke]]<br>[[Tormund]]<br>[[File:House Dondarrion.svg|16px|link=House Dondarrion]] [[Lord of Blackhaven|Lord]] [[Beric Dondarrion]]
+| Leaders2      = [[Night King]]<br>White Walker lieutenants
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = *73 manpower
+**30 [[Man-at-arms|men]] of the [[Night's Watch]] 
+**43 [[Free Folk|wildlings]]
+| Participants2 = *100,000+ manpower
+**12 White Walkers
+**~100,000 wights
+**At least 3 undead giants
+**1 [[Viserion|undead dragon]]
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = '''Heavy'''
+*Heavy losses for the Night's Watch, Free Folk, and Brotherhood Without Banners 
+| Casualties2   = None
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Dialogue a-b|Qyburn|Your Grace, I'm afraid I bring terrible news. The dead have broken through the Wall.|Cersei|Good.|[[Qyburn]] and [[Cersei Lannister]]|Winterfell (Game of Thrones)}}
+The '''breaching of the Wall''' was an event that marked the closing of the [[conflict beyond the Wall]] and the beginning of the dreaded [[Great War]].
+
+== History ==
+=== Prelude ===
+When the [[First Men]] crossed the [[Arm of Dorne]] from [[Essos]] to [[Westeros]] in the [[Dawn Age]], they came into [[War of the First Men and the Children of the Forest|conflict]] with the native peoples of the continent, the [[Magic|magical]] [[Children of the Forest]]. Centuries of warfare passed with the First Men cutting down the Children's sacred [[weirwood]] trees and forests while the Children wielded magic and [[dragonglass]] to combat the First Men, including destroying the Arm of Dorne and flooding the [[Neck]]. Secretly, [[Leaf]] led a pack of Children in turning mankind's greatest weapon against them: man themselves. After performing a short ritual, Leaf shoved a dagger of dragonglass into the chest of a captured First Man, creating the [[Night King]]. [[Pact|Peace]] was eventually settled between the First Men and the Children of the Forest, the former of which even adopted the [[Old Gods]] worshiped by the Children.
+
+Nonetheless, 2,000 years later in the [[Age of Heroes]], the Night King led the [[White Walkers]] onto Westeros for the first time from the far northern [[Land of Always Winter]], bringing with them the [[Long Night]] and slaughtering all that lived in their path, raising the dead as [[wight]]s. The First Men and the Children eventually came together to fight back against the seemingly unbeatable White Walkers in the [[Long Night|Battle for the Dawn]] and miraculously drove them back to the far north. [[Brandon the Builder]] oversaw the raising of the [[Wall]] to prevent the possible return of the White Walkers, and the [[Night's Watch]] gathered for the first time to man the Wall while the others trapped [[beyond the Wall]] became the [[Free Folk]].
+
+Over the centuries, magic, the White Walkers, the Children of the Forest, and [[giants]] had faded into legend and were seen as nothing more than fairy tales. The primary opponents of the Night's Watch became the Free Folk, or the wildlings, who sought to cross the Wall and inhabit the [[North]]. Nonetheless, around the time of [[Robert's Rebellion]] 8,000 years after the first Long Night, the Night King and the White Walkers had reawakened and risen from the ice. Massacring the Free Folk beyond the Wall, the wildling chieftains united behind [[Mance Rayder]], the [[King-Beyond-the-Wall]], to lead them to safety. Around the same [[298 AC|time]], [[Jeor Mormont]], the 997th [[Lord Commander of the Night's Watch]], led the [[great ranging]] beyond the Wall to confirm reports of the wildling tribes coming together and reports from their own rangers that the White Walkers had indeed risen again, especially after Jeor Mormont and [[Cotter Pyke]] themselves had personally been targeted and attacked by wights.
+
+The great ranging confirmed the reports, but few in the [[Seven Kingdoms]] paid any mind to it, believing it to be false and preoccupied with their own [[War of the Five Kings|civil war]]. Jeor Mormont died in a [[Mutiny at Craster's Keep|mutiny]] after the [[fight at the Fist]]. The wildling armies under Mance Rayder later [[Battle for the Wall|attacked]] the Wall but were soundly defeated. [[Jon Snow]], who had been Jeor Mormont's own steward, became the 998th Lord Commander and made the controversial decision to allow the wildlings to cross the Wall to save their lives and prevent them from becoming wights. Though Jon himself stared down the Night King at the [[Massacre at Hardhome]], he was ultimately killed in a [[Mutiny at Castle Black|mutiny]] led by [[Knighthood|Ser]] [[Alliser Thorne]] for his decision in allowing the wildlings to cross the Wall. However, Jon was subsequently resurrected by the [[red priest]]ess [[Melisandre]] at the behest of [[Davos Seaworth]]. The mutineers were hanged for treason, and command was passed off to [[Eddison Tollett]] as Jon was relieved of his vows.
+
+Jon, a [[bastard]] of [[House Stark]] and nephew to the late [[First Ranger]] [[Benjen Stark]], joined his half-sister [[Sansa Stark]] in liberating the North from [[House Bolton]] at the [[Battle of the Bastards]], seeking to restore Stark rule over the North from [[Winterfell]] and unite the [[Northmen]] against the marching army of the dead. Jon was proclaimed the [[King in the North]] by his new [[Noble house|bannermen]]. Nonetheless, when [[Daenerys Targaryen]] began the [[Last War]], Jon traveled to [[Dragonstone]] to treat with the last [[House Targaryen|Targaryen]]. Daenerys had three fire breathing [[dragon]]s, the first born in over a century, and controlled the reserves of dragonglass beneath Dragonstone which could be used to combat the army of the dead and the White Walkers. Initially sharing a tense relationship, the two grew to trust each other.
+
+Nonetheless, her [[Hand of the King|Hand]], [[Tyrion Lannister]], who had previously met Jon before, counseled that [[King of the Andals and the Rhoynar and the First Men|Queen]] [[Cersei Lannister|Cersei I Lannister]] and the high lords of Westeros would need to see the army of the dead as Jon had before if Westeros was to unite against the White Walkers. Agreeing, Jon led a group of warriors and wildlings beyond the Wall to [[Wight hunt|capture a wight]], including [[Jorah Mormont]] of Daenerys's [[Kingsguard|Queensguard]] and a fellow Northman, [[Gendry]], the bastard son of [[Robert Baratheon]], the wildling [[Tormund]], and [[Brotherhood Without Banners|Brotherhood]] fighters [[Beric Dondarrion]], [[Thoros]], and [[Sandor Clegane]] as well as several wildlings. Though the group successfully [[Captured wight|captured a wight]], they were ambushed by a large contingent of the army of the dead led by the Night King and his lieutenants themselves. Gendry ran back to [[Eastwatch-by-the-Sea]] to get Davos to send a [[raven]] to Dragonstone asking for Daenerys's help. As Jon and his fellowship were attacked, Daenerys arrived with her three dragons: her mount [[Drogon]] and his brothers [[Rhaegal]] and [[Viserion]]. While Jon fought off advancing wights to allow the survivors of his group to mount Drogon with Daenerys, the Night King launched a [[Crystal sword|crystal spear]] at Viserion, killing the dragon. Daenerys and the others were able to escape, while Jon later returned to Eastwatch after being saved by his long lost uncle Benjen, who sacrificed himself for Jon.
+
+While Jon, Daenerys, and their entourage traveled to attend the [[Dragonpit Summit]], the Night King reanimated the corpse of Viserion as a wight.
+
+=== The breaching ===
+{{Quote|Come on! Run! RUN!|[[Tormund]]|The Dragon and the Wolf}}[[File:ViserionIce.jpg|thumb|Viserion burns the Wall.]]
+Tormund and Beric Dondarrion talk about the Wall, standing atop it at Eastwatch-by-the-Sea. Tormund notes how he still hasn't gotten used to how high it is. They then see the massive wight army of the dead below marching out of the Haunted Forest, led by the [[White Walkers]] riding their wight horses while one of the men on the Wall blows the horn three times to warn of the Walkers. Initially terrified, they are relieved to see them stop a good distance away as the Wall intended. However, Viserion, mounted by the Night King himself, suddenly flies by and unleashes blue fire onto the Wall. The Night King continues to have Viserion breathe his [[Magic|magical]] blue fire onto the Wall, melting and destroying it where stands. Realizing they have no way of stopping such an enemy, the brothers of the Night's Watch and the wildlings flee as Tormund screams for them to run, many falling off as the Wall crumbles. Tormund and Beric freeze in horror, watching Viserion continue to topple the Wall. A breach is created, allowing the White Walkers and the massive wight army of the dead to cross into the Seven Kingdoms, marking the return of the Long Night once more.<ref name="E67">"[[The Dragon and the Wolf]]"</ref>
+
+=== Aftermath ===
+The White Walkers and the wight army of the dead march into southern Westeros through the breach at the Wall as the Night King flies above them, mounted on the undead dragon Viserion.<ref name="E67">"[[The Dragon and the Wolf]]"</ref>
+
+[[Bran Stark]], who witnessed the breaching by [[Warg|warging]] into a flock of ravens, tells Jon and Daenerys when they arrive at [[Winterfell]] that the Wall has fallen and the Night King has her dragon. In King's Landing, [[Qyburn]] informs Cersei that the dead have marched past the wall, to which Cersei simply replies "Good." The survivors of the breaching of the Wall include Tormund, Beric Dondarrion, Lord Commander Eddison Tollett, and other Free Folk, members of the Brotherhood Without Banners, and brothers of the Night's Watch. They meet up at [[Last Hearth]] after it has [[Fall of Last Hearth|fallen]] to the White Walkers and agree to ride hard south to Winterfell before the army of the dead [[Battle of Winterfell|reaches]] it.<ref>"[[Winterfell (Game of Thrones)|Winterfell]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, such an event has not yet occurred. The story of the [[Night's Watch]] last ended at the [[Mutiny at Castle Black]] in ''A Dance With Dragons'', and thus the Wall still stands. It is possible - and likely - that the assault on the Wall by the [[White Walkers|Others]] and the [[wight]]s will occur in one of the forthcoming novels, ''The Winds of Winter'' and/or ''A Dream of Spring''.
+
+==Gallery==
+<gallery>
+Viserion_burning_down_WALL_s7.png
+Beric_tomund_in_s7_finale.png
+BREACHED WALL1.png
+BREACHED WALL2.png
+</gallery>
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{Conflict beyond the Wall}}
+{{Great War}}
+
+<!--Categories-->
+[[Category:304 AC]]
+[[Category:Conflict beyond the Wall]]
+[[Category:Events]]
+[[Category:Great War]]
+
+<!--Languages-->
+[[de:Einsturz der Mauer]]
+[[fr:Effondrement du Mur]] 
+[[it:Breccia della Barriera]]
+[[ru:Прорыв Стены]]

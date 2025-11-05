@@ -1,0 +1,50 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Animal
+| Title       = {{PAGENAME}}
+| Type        = Westeros
+| Image       = 
+| Species     = [[Dragon]]
+| Birth       = 
+| Death       = 
+| AKA         = 
+| Affiliation = 
+| Family      = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+}}
+{{Quote|Then there are the three wild dragons, all of whom nest here.|Daemon Targaryen|The Black Queen}}
+The '''Cannibal'''{{Con|TWOI&F}} is a wild [[dragon]] residing on [[Dragonstone (island)|Dragonstone]] during the [[Dance of the Dragons]].{{Ref|HOTD110}}
+
+==In the books==
+In ''[[Fire & Blood]]'', the Cannibal was a coal black dragon with baleful green eyes. He was the largest of the wild dragons, and the oldest, his age being unknown to history. The [[smallfolk]] of Dragonstone alleged that the Cannibal was on Dragonstone before the [[House Targaryen/House of the Dragon|Targaryens]] fled the [[Doom of Valyria|Doom]], over a hundred years before [[Aegon's Conquest]], making him the oldest dragon in the world during the Dance and possibly older even than [[Balerion]]. This claim is disputed by [[Order of Maesters|maesters]], who find it unlikely that a dragon could be so long-lived, with Balerion having died of natural causes at the age of at least 208, several decades before the Dance.
+
+The Cannibal earned his name for his hostility towards House Targaryen's dragons, whom he was known to attack and devour; he used to feed on carcasses of dead dragons, and descend upon the hatcheries of Dragonstone to gorge himself on newborn hatchlings and eggs. In fact, he is the only dragon known to regard his own species as a source of food.
+
+The Cannibal mostly refrained from killing people, unless they disturbed him. He never accepted a rider, his lair being littered with the bones of a dozen would-be [[dragonrider]]s.
+
+==Appearances==
+*{{HOTD|The Black Queen}} {{Indirect}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|Cannibal (dragon)}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{Dragons/House of the Dragon}}
+
+<!--Categories-->
+[[Category:Individuals mentioned in House of the Dragon]]
+[[Category:Wild dragons]]
+
+<!--Languages-->
+[[ru:Каннибал]]

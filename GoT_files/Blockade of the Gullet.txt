@@ -1,0 +1,70 @@
+{{Canonicity|Canon}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Dragon
+| Part          = the [[Dance of the Dragons]]
+| Image         = OT2 Velaryon fleet.png
+| Previous      = [[Fight above Shipbreaker Bay]]
+| Concurrent    = [[Assassination of Jaehaerys Targaryen]] through the [[burning of Sharp Point]]
+| Next          = 
+| Date          = [[132 AC]]{{Dateref|House of the Dragon: Season 2}}
+| Place         = The [[Gullet]], the [[Narrow Sea]]
+| Outcome       = Ongoing
+| Factions1     = {{COA|Blacks|s}} [[Blacks]]
+*{{COA|House Velaryon|i}} [[House Velaryon]]
+| Factions2     = {{COA|Greens|s}} [[Greens]]
+| Leaders1      = {{COA|House Velaryon|i}} Lord [[Corlys Velaryon]]<br>{{COA|House Velaryon|i}} Princess [[Rhaenys Targaryen]]<br>{{COA|Kingsguard/House of the Dragon|i}} Ser [[Erryk Cargyll]]
+| Leaders2      = {{COA|Aegon II Targaryen|i}} King [[Aegon II Targaryen]]<br>{{COA|House Targaryen/House of the Dragon|i}} Prince [[Aemond Targaryen]]                                       
+
+Triarchy Admiral [[Sharako Lohar]]
+Master of Coin Ser [[Tyland Lannister]]
+| Participants1 = [[Velaryon fleet]]<br>[[Meleys]]
+| Participants2 = [[Triarchy]]
+| Casualties1   = 
+| Casualties2   = 
+| Civilian      = 
+}}
+{{Quote|That treasonous blockade won't last long.|Aegon II Targaryen|A Son for a Son}}
+The '''blockade of the Gullet'''{{Ref|HOTD201}} is an ongoing naval blockade in the early days of the [[Dance of the Dragons]]. The effort is being perpetrated by the [[Blacks|Black]]-aligned [[Velaryon fleet]] in the [[Gullet]], a critical seaway separating [[Blackwater Bay]] and the [[Narrow Sea]].
+
+==History==
+===Prelude===
+During a session of the [[Black Council]] in [[132 AC]],{{Dateref|The Black Queen}} Lord [[Corlys Velaryon]] announced his intentions to blockade the [[Gullet]] with his fleet, shortly after pledging himself and [[House Velaryon]]’s allegiance to the Blacks. Princess [[Rhaenys Targaryen]] stated that she would assist the blockade by patrolling the sea on her [[dragon]] [[Meleys]].{{Ref|HOTD110}}
+
+The Black Council resolved to adopt this strategy as the blockade would effectively shutdown all seaborne trade to and from [[King's Landing]]. This would place the capital’s economy under increasing strain and pave the way for a future siege itself.{{Ref|HOTD110}}
+
+===The blockade===
+With war brewing, the blockade begins to move into place, with Rhaenys making daily patrols to keep the [[Greens]] from attacking the ships with their own dragons or ships.{{Ref|HOTD201}}
+
+When Corlys inspects the repairs being done on his flagship ''[[Queen Who Never Was|Sea Snake]]'', he insists that he must have the ship back at sea to lead the effort.{{Ref|HOTD201}}
+
+While holding court in the [[Red Keep]], King [[Aegon II Targaryen]] announces that he plans to send [[Vhagar]] to burn the blockade in order to forcibly reopen trade with [[Essos]] and the rest of the realm. The [[Green Council|Small Council]] also discussed dealing with the blockade: Ser [[Tyland Lannister]] insisted the fleets of Houses [[House Lannister/House of the Dragon|Lannister]] and [[House Hightower/House of the Dragon|Hightower]] would have to be reinforced to attempt an attack to break the blockade, while [[Grand Maester]] [[Orwyle]] proposed offering the vacant position of [[Master of Ships]] to Lord [[Dalton Greyjoy]], in hopes the [[Ironborn]] could be used to attack the blockade.{{Ref|HOTD201}}
+
+At a session of the Black Council, Rhaenys informs Queen [[Rhaenyra Targaryen]] that all seaborne travel and trade to King's Landing will soon be cut off.{{Ref|HOTD201}}
+
+Rhaenys and Meleys are killed in the [[Battle at Rook's Rest]], weakening the blockade.{{Ref|HOTD204}}
+
+The blockades' continued enforcement has led to food shortages within King's Landing, resulting in rising food prices, hoarding, and increasing levels of theft amongst the smallfolk. The growing crisis in the city has resulted in rising panic and discontent amongst King's Landing's populace as reported by Grand Maester [[Orwyle]] during a session of the Green Council, with significant numbers of the capital's populace fleeing elsewhere. In response, Prince [[Regent]] [[Aemond Targaryen]] orders King's Landing's gates to be closed and all inbound and outbound travel of the smallfolk to cease, barring those with the council's consent and merchants.{{Ref|HOTD205}}
+[[File:Triarchy 1.png|thumb|High Council of the [[Triarchy]] allies with the [[Greens|Greens.]]]]
+Aemond enlists Ser [[Tyland Lannister]] to forge an alliance with the [[Triarchy]], in the hope that their fleet will break the blockade. Dowager Queen Alicent suggests utilising the ironborn instead, but when questioned about House Greyjoy's loyalties, Orwyle admits Dalton Greyjoy had thus far ignored all ravens sent to him.{{Ref|HOTD206}}[[File:Triarchy Fleet.png|thumb|Sailing towards the Gullet]]Tyland successfully forms an alliance with the Triarchy.{{Ref|HOTD208}}
+The repairs on the ''Sea Snake'', now called the ''Queen Who Never Was'', are finished, and Corlys sails his ship to the Gullet. At the same time, the Triarchy fleet led by Admiral [[Sharako Lohar]] is headed in the same direction with the intention of breaking the blockade.{{Ref|HOTD208}}
+
+==In the books==
+In ''[[Fire & Blood]]'', there is no mention of Aegon planning to send Vhagar against the blockade.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{Dance of the Dragons}}
+
+<!--Categories-->
+[[Category:132 AC]]
+[[Category:Dance of the Dragons]]
+[[Category:Sieges]]
+
+<!--Languages-->
+[[ru:Блокада Глотки]]

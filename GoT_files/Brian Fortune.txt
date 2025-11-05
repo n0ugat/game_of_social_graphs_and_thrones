@@ -1,0 +1,34 @@
+{{Cast
+| Title= Brian Fortune
+| Image= Brian-Fortune-200.jpg
+| dateofbirth= 
+| birthplace= Dublin, Ireland
+| role= [[Othell Yarwyck]]
+| status= 
+| First="[[You Win or You Die]]"
+| imdb= http://www.imdb.com/name/nm1987270/
+| twitter=https://twitter.com/BrianFortune1|Last = "[[Oathbreaker]]"}}'''Brian Fortune''' is an Irish actor based in Dublin.
+
+In ''[[Game of Thrones]]'' he plays the role of [[Othell Yarwyck]], the [[Night's Watch]] [[First Builder]]. The actor had appeared in [[Game of Thrones: Season 1|Season 1]] as an unnamed 'Night's Watch Officer' at first believed to be [[Bowen Marsh]], but the character was explicitly identified as Yarwyck in Season 4 and [[Michael Condron]] was cast as Bowen Marsh for Season 5.
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 1|||||||yes|yes}}
+{{Game of Thrones: Season 4|yes||yes||||yes}}
+{{Game of Thrones: Season 5||yes|yes||yes||yes|||yes}}
+{{Game of Thrones: Season 6|yes|yes|yes}}
+
+==See also==
+*{{Template:IMDb
+|# = 1987270}}
+*{{Template:Twitter
+|# = BrianFortune1}}
+* [http://www.brianfortune.com/ Brian Fortune's offical website.]
+
+{{Stub}}
+
+[[de:Brian Fortune]]
+[[fr:Brian Fortune]]
+[[ru:Брайан Форчун]]
+{{DEFAULTSORT:Fortune, Brian}}
+[[Category:Guest starring cast members of Game of Thrones]]

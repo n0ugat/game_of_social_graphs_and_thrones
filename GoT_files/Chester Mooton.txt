@@ -1,0 +1,68 @@
+{{Canonicity|Non}}
+{{Heraldry
+| Leftimage  = House Mooton.svg
+| Leftlink   = House Mooton
+| Image2     = Kingsguard.svg
+| Link2      = Kingsguard/House of the Dragon
+| Rightimage = Night's Watch.svg
+| Rightlink  = Night's Watch
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = [[House Mooton|Mooton]]{{Webref|name=Script |author=@darksvster |date=March 10, 2024 |url=https://twitter.com/darksvster/status/1766871640212987992 |title=Missing Scene From the House of the Dragon Script |website=X |access-date=March 11, 2024 }}
+| Affiliation = [[Kingsguard/House of the Dragon|Kingsguard]]<ref name="Script" /><br>[[Night's Watch]]<ref name="Script" />
+| Titles      = [[Ser]]<ref name="Script" />
+| AKA         = 
+| Culture     = [[Riverlands|Rivermen]]
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = {[[Saera Targaryen]]}
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Dialogue a-b-a|Harrold|Have you heard of Ser Chester Mooton?|Criston|No.|He was sworn protector to the king's daughter, Saera. The pair were as inseparable as they were familiar... until Jaehaerys had Mooton gelded and sent to the Wall.|Harrold Westerling warns Criston Cole about his affection for Alicent|Driftmark (episode)#Altered and deleted scenes}}
+Ser '''Chester Mooton'''<ref name="Script" /> was a [[Knighthood|knight]] of [[House Mooton]], a member of the [[Kingsguard/House of the Dragon|Kingsguard]] of [[King of the Andals and the Rhoynar and the First Men|King]] [[Jaehaerys I Targaryen]], and the sworn protector of [[Prince]]ss [[Saera Targaryen]]. Due to the nature of the knight's relationship with the princess, Jaehaerys had Chester gelded and sent to the [[Wall]].
+
+==Behind the scenes==
+Chester was mentioned in an earlier draft of the script for "[[Driftmark (episode)|Driftmark]]," in which [[Harrold Westerling]] tells of the fate he met as a warning to [[Criston Cole]].<ref name="Script" />
+
+==In the books==
+In ''[[Fire & Blood]]'', there is no character named Chester Mooton. However, his fate is comparable to those of Braxton Beesbury and Lucamore Strong.
+
+==Apppearances==
+*{{HOTD|Driftmark}} {{Scriptm}} {{Ncm}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Braxton Beesbury}}
+*{{AWOIAF|Lucamore Strong}}
+
+<!--Navboxes-->
+{{House Mooton}}
+
+<!--Categories-->
+{{DEFAULTSORT:Mooton, Chester}}
+[[Category:Eunuchs]]
+[[Category:Individuals from House of the Dragon]]
+[[Category:Kingsguard of Jaehaerys I Targaryen]]
+[[Category:Knights]]
+[[Category:Members of House Mooton|Chester Mooton]]
+[[Category:Men of the Night's Watch]]
+[[Category:Rivermen]]
+[[Category:Sworn shields]]

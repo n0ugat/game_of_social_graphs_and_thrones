@@ -1,0 +1,44 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{References}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Westeros
+| Image        = Bhorash.png
+| Type         = City
+| Status       = Ruined
+| Location     = [[Slaver's Bay]], [[Essos]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = 
+| Places       = 
+| Founded      = 
+}}
+'''Bhorash'''{{Con|ASOIAF}}{{Note|Misspelled as "Bhonash."}} is a ruined city in [[Essos]]. The city is located on the northern shore of [[Slaver's Bay]]. It is northeast of [[Tolos]] and west of [[Meereen]].{{Mapref|Viewer's Guide}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the city lies to the northeast of the [[Black Cliffs]]. Bhorash is connected by [[Valyrian Freehold|Valyria]]n roads to [[Mantarys]] and Tolos. It is in ruins, presumably destroyed in the [[Doom of Valyria]].
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Known world}}
+{{Valyrian peninsula}}
+
+<!--Categories-->
+[[Category:Ruined cities]]
+[[Category:Slaver's Bay]]
+
+<!--Languages-->
+[[pl:Bhorash]]
+[[ru:Бхораш]]
+[[uk:Бхораш]]

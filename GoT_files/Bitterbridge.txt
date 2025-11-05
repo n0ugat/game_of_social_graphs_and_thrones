@@ -1,0 +1,55 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Caswell.svg
+| Link  = House Caswell
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Bronn
+| Image        = Bitterbridge Pin.png
+| Type         = Castle
+| Status       = 
+| Location     = The [[Reach]], [[Westeros]]
+| Population   = 
+| Rulers       = [[House Caswell]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+{{Quote|Princess, we're due in Bitterbridge in three days' time.|Criston Cole|King of the Narrow Sea (episode)}}
+'''Bitterbridge'''{{Ref|HOTD104}} is the seat of [[House Caswell]] in the [[Reach]], the region controlled by [[House Tyrell]] of [[Highgarden]]. The castle is located in the north east of the region where the [[Mander]] first crosses the [[Roseroad]].
+
+==History==
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+Ser [[Criston Cole]] notes that Princess [[Rhaenyra Targaryen]] is due to stop at Bitterbridge as part of a royal tour of the realm. However, she chooses to end the tour two months ahead of schedule, and returns to [[King's Landing]] without visiting the castle.{{Ref|HOTD104}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Bitterbridge is the seat of House Caswell. It is noted for being a low, stout castle, although still the tallest and most notable building on the otherwise flat and low-lying land. The castle is named for an ancient stone bridge over the river.
+
+''[[The World of Ice & Fire]]'' reveals that the name of the town was originally Stonebridge. During the reign of King [[Maegor Targaryen]] (popularly remembered as "Maegor the Cruel"), Stonebridge was the site of the opening battle of the Faith Militant uprising, an armed conflict between the new Targaryen kings and the military orders of the [[Faith of the Seven]]. An army of nine thousand poorly armed commoners who had joined the Faith Militant was in the middle of crossing the Mander River at Stonebridge when it was attacked by no less than six lordly armies of armored knights on heavy horse. With their forces divided between both sides of the river, and surrounded by the Targaryen-loyal armies, the Faith Militant forces were massacred, in one of the most lopsided battles in the history of Westeros.  So many men were killed that the Mander River ran red with blood for twenty leagues, and Stonebridge was known as "Bitterbridge" ever after.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{House Caswell}}
+{{Reach}}
+
+<!--Categories-->
+[[Category:Castles of the Reach]]
+[[Category:House Caswell]]
+
+<!--Languages-->
+[[de:Bitterbrück]]
+[[es:Puenteamargo]]
+[[it:Ponte Amaro]]
+[[nl:Bitterbrug]]
+[[pl:Gorzki Most]]
+[[pt-br:Ponteamarga]]
+[[ru:Горький Мост]]
+[[zh:苦桥]]

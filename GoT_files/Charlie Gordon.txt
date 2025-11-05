@@ -1,0 +1,31 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Charlie Gordon.jpg
+| Birth   = 
+| Death   = 
+| Role    = TBA
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 3|3]]
+| Credits = [[House of the Dragon: Season 3, Episode 4|Season 3, Episode 4]]
+| First   = 
+| Last    = 
+}}
+'''Charlie Gordon''' is British actor. He will appear in the [[House of the Dragon: Season 3|third season]] of ''[[House of the Dragon]]''.{{Webref|name=Daeron |author=Dan Selcke |date=July 17, 2025 |url=https://winteriscoming.net/actor-for-major-house-of-the-dragon-character-finally-revealed |title=Major House of the Dragon character finally cast|website=Winter is Coming |access-date=July 18, 2025 }} A relative newcomer to television, Gordon most recently appeared in the 2022 Netflix adaptation of ''Matilda: The Musical''. Prior to that he appeared in several stage theatre productions, including ''School of Rock''.
+
+==Credits==
+{{House of the Dragon: Season 3||||yes}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb|#=11931201}}
+*{{Instagram|#=charlie.e.gordon}}
+
+<!--Navboxes-->
+{{House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Gordon, Charlie}}
+[[Category:Starring cast members of House of the Dragon]]

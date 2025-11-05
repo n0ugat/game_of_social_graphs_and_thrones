@@ -1,0 +1,55 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Westeros
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[Black Ears]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Hill tribes]]
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = [[Chella]]
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|This fair maid is Chella, daughter of Cheyk, leader of the Black Ears.|[[Tyrion Lannister]]|The Pointy End}}
+'''Cheyk''' is a member of the [[Black Ears]], one of the [[hill tribes]] of the [[Mountains of the Moon]] in the [[Vale of Arryn]]. He is the father of [[Chella]], current leader of the Black Ears.{{Ref|GOT108}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Cheyk, father of Chella, is a member of the Black Ears.
+
+==Appearances==
+*{{GOT|The Pointy End}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+[[Category:Hill tribes]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Valemen]]
+
+<!--Languages-->
+[[de:Cheyck]]
+[[es:Cheyk]]
+[[nl:Cheyk]]
+[[ru:Чейк]]
+[[zh:齐克]]

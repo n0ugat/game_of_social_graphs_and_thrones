@@ -1,0 +1,66 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Night's Watch.svg
+| Link  = Night's Watch
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[Night's Watch]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Present yourself to Borcas when you arrive; make no comment about his nose.|[[Order of Maesters|Maester]] [[Aemon]] to [[Dareon]]|You Win or You Die}} 
+'''Borcas''' is a member of the [[Night's Watch]], and apparently chief among the stewards stationed at [[Eastwatch-by-the-Sea]].
+
+==Biography==
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+When the newly graduated recruits are assigned to their orders [[Dareon]] is told by [[Order of Maesters|Maester]] [[Aemon]] to report to Borcas at [[Eastwatch-by-the-Sea]], and warned not to comment on his nose.{{Ref|GOT107}}
+
+===[[Game of Thrones: Season 7|''Game of Thrones'': Season 7]]===
+Following the [[Breaching of the Wall]], Borcas's fate remains unknown.{{Ref|GOT707}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Borcas is also mentioned, but the book makes no description whatsoever about his nose.
+
+==Appearances==
+*{{GOT|You Win or You Die}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Night's Watch}}
+
+<!--Categories-->
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Stewards of the Night's Watch]]
+[[Category:Westerosi]]
+
+<!--Languages-->
+[[de:Borcas]]
+[[ru:Боркас]]

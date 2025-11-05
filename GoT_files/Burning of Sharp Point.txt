@@ -1,0 +1,70 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Dragon
+| Part          = the [[Dance of the Dragons]]
+| Image         = HOTD 208 Sharp Point.jpg
+| Previous      = [[Red Sowing]]<br>[[Riot in King's Landing]]
+| Concurrent    = [[Blockade of the Gullet]]
+| Next          =
+| Date          = [[132 AC]]{{Dateref|House of the Dragon: Season 2}}
+| Place         = [[Sharp Point]], [[Crownlands]]{{Ref|HOTD208}}
+| Outcome       = [[Greens|Green]] victory
+*[[Sharp Point]] burned by [[Vhagar]]
+| Factions1     = {{COA|Greens|s}} [[Greens]]
+| Factions2     = {{COA|Blacks|s}} [[Blacks]]
+* {{COA|House Bar Emmon|i}} [[House Bar Emmon]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = {{COA|House Targaryen/House of the Dragon|i}} [[Regent|Prince Regent]]  [[Aemond Targaryen]]
+| Leaders2      = {{COA|House Bar Emmon|i}} [[Lord Bar Emmon]]
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = *1 [[dragon]]: [[Vhagar]]
+| Participants2 = Sharp Point Bar Emmon garrison
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = None
+| Casualties2   = Catastrophic
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = Thousands
+}}
+{{Quote|The so-called prince regent has burned Sharp Point down to its stones. Thousands of its folk dead or lost.|Jacaerys Velaryon|The Queen Who Ever Was}}
+The '''burning of Sharp Point''' was an event of the [[Dance of the Dragons]], occurring in [[132 AC]]. It saw [[Regent|Prince Regent]] [[Aemond Targaryen]] unleash his [[dragon]], [[Vhagar]] on [[Sharp Point]], seat of the [[Blacks|Black]]-aligned [[House Bar Emmon]], resulting in the settlement's devastation and the deaths of thousands of [[smallfolk]].{{Ref|HOTD208}}
+
+==History==
+===Prelude===
+Following the [[Battle at Rook's Rest]] and the resulting death of [[Rhaenys Targaryen|Rhaenys]] and her dragon, [[Meleys]], the [[Blacks]] were left at a considerable disadvantage.{{Ref|HOTD204}} While still retaining the numerical edge in dragon's claimed over the [[Greens]], only two of the dragons they held, [[Syrax]] and [[Caraxes]], were of adult size to challenge the much-larger [[Vhagar]]. To mitigate this, Queen [[Rhaenyra Targaryen]] and her son, [[Jacaerys Velaryon|Jacaerys]], implemented the [[Red Sowing]], a project to find [[dragonrider]]s for the unclaimed dragons on [[Dragonstone]].{{Ref|HOTD206}}
+
+Initially searching for nobles with Targaryen ancestry, following the tragic death of [[Steffon Darklyn]] at the hands of [[Seasmoke]], Rhaenyra expanded the prospects to lowborn Targaryen bastards at [[Mysaria]]'s urging. This decision had far greater success, as the large dragons of [[Vermithor]] and [[Silverwing]] were successfully claimed by [[Hugh]] and [[Ulf]] respectively. Meanwhile, [[Addam of Hull|Addam]] was himself unexpectedly claimed by Seasmoke. When Ulf and Silverwing took a reckless flight over [[King's Landing]],[[Aemond Targaryen|Aemond]] took flight atop Vhagar to pursue. As Aemond approached Dragonstone, however, he spotted the Blacks newly claimed dragons as well as Syrax waiting for him. Outmatched, Aemond forced Vhagar to retreat.{{Ref|HOTD207}}
+
+===The burning===
+Deeply enraged that Vhagar's dominance is no longer unchallenged, and that he and Vhagar were now vulnerable to the Blacks new dragonriders, Aemond decided to take his anger out on an easy target. Atop Vhagar, Aemond flew for the nearby town of [[Sharp Point]], the seat of the Black-aligned [[House Bar Emmon]]. Lacking the means to engage Vhagar, the Bar Emmon garrison in the town were left completely unprepared for the assault as Vhagar set Sharp Point ablaze with dragonfire. Thousands of [[smallfolk]] died or went missing during the attack as the town was reportedly burnt down to the stone.{{Ref|HOTD208}}
+
+===Aftermath===
+[[File:Chicken-coup carrier.04.png|thumb|Aegon and Larys leave King's Landing.]]
+When news of Aemond's attack on Sharp Point reaches King's Landing, Lord [[Larys Strong]] visits a still recovering [[Aegon II Targaryen|Aegon]], urging him to flee the capital, since Aemond may seek to kill Aegon and secure the throne for himself. Aegon refuses at first, but ultimately agrees and the two discreetly stowaway aboard a chicken-coup carrier bound for Essos.
+
+Alicent is furious at the unnecessary and cruel bloodshed, accusing Aemond that he wishes to rule the Seven Kingdoms, but rains ruin and death upon the smallfolk because it makes him feel strong.{{Ref|HOTD208}}
+
+==In the books==
+In ''[[Fire & Blood]]'', this event did not occur. In fact, there is no mention in the books of any event that took place in Sharp Point. Aemond, however, laid waste to many lands, villages, and castles of half the riverlands, among them: Castle Darry, [[Lord Harroway's Town]], Lord's Mill, Blackbuckle, Buckle, Claypool, Swynford, and Spiderwood.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{Dance of the Dragons}}
+
+<!--Categories-->
+[[Category:132 AC]]
+[[Category:Dance of the Dragons]]
+[[Category:Events]]
+
+<!--Languages-->
+[[ru:Сожжение Острого Мыса]]

@@ -1,0 +1,23 @@
+{{Crew
+| Title= Buster Reeves
+| Image= Buster Reeves.jpg
+| dateofbirth= January 7, 1975
+| birthplace= Huddersfield, Yorkshire, England, UK
+| job= Stunt Coordinator
+| imdb= http://www.imdb.com/name/nm1019920/
+}}
+'''Buster Reeves''' (born January 7, 1975) is a British stuntman and actor who served as the stunt coordinator for the first season of ''[[Game of Thrones]]''. He did not return after [[Game of Thrones: Season 1|Season 1]].
+
+He has worked as a stuntman in a number of large Hollywood productions, including ''{{WPS|Troy (film)|Troy}}'', ''{{WPS|War of the Worlds (2005 film)|War of the Worlds}}'', ''{{WPS|Batman Begins}}'' and ''{{WPS|Clash of the Titans (2010 film)|Clash of the Titans}}''. He has also appeared in uncredited minor roles in ''{{WPS|The Dark night (film)|The Dark Knight}}'' and ''{{WPS|Terminator: Salvation}}''.
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 1|yes|yes|yes|yes|yes|yes|yes|yes|yes|yes}}
+
+==See also==
+*{{Template:IMDb
+|# = 1019920}}
+
+{{DEFAULTSORT:Reeves, Buster}}
+[[Category:Stunt performers of Game of Thrones]]
+[[Category:Production staff members of Game of Thrones]]

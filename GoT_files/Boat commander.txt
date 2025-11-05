@@ -1,0 +1,52 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Baratheon
+| Image       = Boat commander.png
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[Salladhor Saan]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Children    = 
+| Sibling     = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 3|3]]
+| Appearances = "[[Valar Dohaeris]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Michael Power]]
+}}
+{{Dialogue a-b|Davos|I was in the battle...at Blackwater. I was a captain...and a knight.|Commander|Aye, ser. And serving which king?|The commander questions [[Davos Seaworth]]|Valar Dohaeris}}
+An unidentified '''boat commander''' is a member of [[Salladhor Saan]]'s crew.
+
+==Biography==
+===[[Game of Thrones: Season 3|''Game of Thrones'': Season 3]]===
+When [[Davos Seaworth|Davos]] is spotted atop a rocky skerry in [[Blackwater Bay]], he commands a ship to investigate. After Davos identifies himself and acknowledges his loyalty to [[Stannis Baratheon]], the commander smiles and takes Davos back to Saan's ship.{{Ref|GOT301}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the man that rescues Davos is a member of the crew of Khorane Sathmantes, the Lysene captain of ''Shayala's Dance'', a galley owned by Salladhor Saan.
+
+==Appearances==
+*{{GOT|Valar Dohaeris}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Lyseni]]
+[[Category:Pirates]]
+
+<!--Languages-->
+[[ru:Капитан судна]]
+[[uk:Капітан судна]]

@@ -1,0 +1,75 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Successor
+| Image   = Brian Helgeland.jpg
+| Birth   = Brian Thomas Helgeland<br>January 17, 1961 {{Age|1961|1|17}}<br>Providence, Rhode Island, U.S.
+| Death   = 
+| Role    = Developer
+| Series  = ''[[Ten Thousand Ships]]'' {{Rejected}}
+| Season  = 
+| Credits = 
+| First   = 
+| Last    = 
+}}
+'''Brian Thomas Helgeland''' (born January 17, 1961) is an American screenwriter, film producer and director.
+
+With a career in the movie industry spanning nearly three decades, Helgeland is probably most famous for co-writing the script for the film adaptation of ''L.A. Confidential'' (1997) - for which he won the Academy Award for Best Adapted Screenplay.
+
+==Early life==
+Helgeland was born in Providence, Rhode Island to Norwegian-born parents, but was raised in nearby New Bedford, Massachusetts.
+
+He majored in English at University of Massachusetts Dartmouth, after which he followed his father's work as a scallop fisherman. One day in 1985, however, he found a book about film schools, and eventually settled on a career in film. He then enrolled in the film school at Loyola Marymound University in Los Angeles.
+
+==Career==
+In 1988, co-wrote the screenplay for ''A Nightmare on Elm Street 4: The Dream Master''. After this success he also wrote scripts for the films ''Highway to Hell'' (1992) and ''Assassins'' (1995).
+
+Helgeland rocketed to major success when he co-wrote the adapted screenplay for ''L.A. Confidential'' (1997), which won the Oscar for Best Adapted Screenplay.
+
+Afterwards, Helgeland worked on several high-profile projects, including ''Payback'' (1999) and ''A Knight's Tale'' (2001) starring Heath Ledger, both of which he also directed (the film incidentally co-starred [[Mark Addy]], who went on to play [[Robert Baratheon]] in ''Game of Thrones'').
+
+Helgeland then wrote the screenplay for ''Mystic River'' (2003), which was also nominated for the Academy Award for Best Adapted Screenplay. Helgeland co-wrote the screenplay for ''The Bourne Supremacy'' (2004), but was uncredited. In subsequent years he also wrote the screenplays for ''The Taking of Pelham 123'' (2009) and the Iraq war movie ''Green Zone'' (2010), starring Matt Damon.
+
+Helgeland's next big hit came in 2015, when he both wrote and directed the film ''Legend'', starring Tom hardy in a dual performance, about the infamous Kray twins who dominated the London gangster scene in the 1960s.
+
+==''Game of Thrones'' successor project==
+On May 4, 2017, HBO announced that it had ordered pitch scripts for five separate ''Game of Thrones'' [[World of Westeros|successor shows]], one of them by Brian Helgeland as potential showrunner.<ref>[http://ew.com/tv/2017/05/04/game-of-thrones-prequels-spinoffs/ ''Entertainment Weekly'' - HBO developing 4 different Game of Thrones spinoffs], May 4, 2017</ref>
+
+HBO has said that, due to the massive logistics involved, it will probably only pick up one of these pitches to go into full production.
+
+Helgeland's pitch centered on the [[Rhoynar|Rhoynish]] queen [[Nymeria]], which would later develop into ''[[Ten Thousand Ships]]''.<ref>https://www.hollywoodreporter.com/tv/tv-features/house-of-the-dragon-game-of-thrones-prequels-1235181929/</ref>
+
+==Filmography==
+*''A Nightmare on Elm Street 5: The Dream Master'' (1988) - writer
+*''976-EVIL'' (1988) - writer
+*''Highway to Hell'' (1992) - writer/producer
+*''Assassins'' (1995) - writer
+*''L.A. Confidential'' (1997) - co-writer
+*''Conspiracy Theory'' (1997) - writer
+*''The Postman'' (1997) - writer
+*''Payback'' (1999) - writer/director
+*''A Knight's Tale'' (2001) - writer/director/producer
+*''Blood Work'' (2002) - writer
+*''Mystic River'' (2003) - writer
+*''The Order'' - writer/director/producer
+*''The Bourne Supremacy'' (2004) - co-writer (uncredited)
+*''Man on Fire'' (2004) - writer
+*''The Taking of Pelham 123'' (2009) - writer
+*''Cirque du Freak: The Vampire's Assistant'' (2009) - writer
+*''Green Zone'' (2010) - writer
+*''Robin Hood'' (2010) - writer
+*''42'' (2013) - writer/director
+*''Legend'' (2015) - writer/director
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb|# = 0001338}}
+*{{WP}}
+
+<!--Categories-->
+{{DEFAULTSORT:Helgeland, Brian}}
+[[Category:Developers of Ten Thousand Ships]]
+
+<!--Languages-->
+[[ru:Брайан Хелгеленд]]

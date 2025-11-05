@@ -1,0 +1,57 @@
+{{Canonicity|Non}}
+{{Heraldry
+| Image = House Casterly.svg
+| Link  = House Casterly
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Bloodmoon
+| Image       = 
+| Birth       = [[Age of Heroes]]{{Note|''[[Bloodmoon]]'' was set during the Age of Heroes. The Casterly king was a human, therefore he must have been born in this age.}}
+| Death       = 
+| House       = [[House Casterly|Casterly]]{{Webref|name=King |author=Wake the Dragon |date=February 18, 2024 |url=https://twitter.com/WtDasoiaf/status/1759437015701995987 |title=Toby Regbo as the young Casterly king! |website=X |access-date=February 19, 2024 }}
+| Affiliation = 
+| Titles      = [[King]]<ref name="King" />
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = [[Sylvi Stark]]{{Webref|name=Princess |author=Wake the Dragon |date=February 2, 2024 |url=https://twitter.com/WtDasoiaf/status/1753569814516211881 |title=🚨🐉 Narnia actress Georgie Henley on the set of the cancelled GoT prequel 'Bloodmoon' in Italy in 2019! |website=X |access-date=February 20, 2024 }}
+| Lovers      = [[Casterly king's lover|Lover]]{{Webref|name=Lover |author=Wake the Dragon |date=February 18, 2024 |url=https://twitter.com/WtDasoiaf/status/1759429948308078720 |title=Alex Sharp as the young Casterly king's lover on set in Belfast in 2019! |website=X |access-date=February 19, 2024 }}<br>[[Lann the Clever]]{{Webref|name=Lovers |author=Wake the Dragon |date=February 18, 2024 |url=https://twitter.com/WtDasoiaf/status/1759441536851292497 |title=Lann the Clever and the young Casterly king were going to be lovers. |website=X |access-date=February 19, 2024 }}
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[Bloodmoon]]'' {{Rejected}}
+| Season      = 
+| Appearances = [[Pilot (Bloodmoon)|Pilot]] {{Unreleased}}
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Toby Regbo]]
+}}
+The '''Casterly king''' lived during the [[Age of Heroes]]. He was a relative of Lady [[Morven Casterly|Morven]], [[Aurelia Casterly|Aurelia]], and Princess [[Ianthe Casterly]]. Though he was married to Princess [[Sylvi Stark]], he had [[Casterly king's lover|other lovers]] including [[Lann the Clever]].
+
+==Behind the scenes==
+On January 8, 2019, ''Entertainment Weekly'' announced that [[Toby Regbo]] had been cast as a series regular in ''[[Bloodmoon]]'', a ''[[Game of Thrones]]'' [[World of Westeros|prequel]] [[Pilot (Bloodmoon)|pilot]].{{Webref|name=EW |author=James Hibberd |date=January 8, 2019 |url=https://ew.com/tv/2019/01/08/game-of-thrones-prequel-cast-director/ |title=''Game of Thrones'' prequel announces diverse full cast, female director |website=Entertainment Weekly |access-date=January 9, 2019 }} On February 18, 2024, Wake the Dragon revealed that he had portrayed the young Casterly king.<ref name="King" />
+
+==In the books==
+The Casterly king was an invention of [[Jane Goldman]] for ''[[Bloodmoon]]''.
+
+==Appearances==
+*{{BM|Pilot}} {{Unreleased}} {{Nc}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{House Casterly}}
+{{Bloodmoon}}
+
+<!--Categories-->
+[[Category:Individuals from Bloodmoon]]
+[[Category:Kings]]
+[[Category:Members of House Casterly|king]]

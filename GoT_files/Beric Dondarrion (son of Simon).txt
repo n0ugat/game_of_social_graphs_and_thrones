@@ -1,0 +1,83 @@
+{{DISPLAYTITLE:Beric Dondarrion {{C|son of Simon}}}}
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Dondarrion.svg
+| Link  = House Dondarrion
+}}
+{{Character
+| Title       = Beric Dondarrion
+| Type        = Baratheon
+| Image       = Lord Beric Dondarrion (Viserys I).png
+| Birth       = 
+| Death       = 
+| House       = [[House Dondarrion|Dondarrion]]{{Ref|HOTD101}}
+| Affiliation = [[House Baratheon/House of the Dragon|House Baratheon]]
+| Titles      = [[Lord of Blackhaven]]{{Ref|HOTD104}}
+| AKA         = 
+| Culture     = [[Dornish Marches|Marcher]]{{Ref|HOTD104}}
+| Religion    = 
+| Father      = {[[Simon Dondarrion]]}{{Ref|HOTD104}}
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 1|1]]
+| Appearances = "[[King of the Narrow Sea (episode)|King of the Narrow Sea]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Paul Leonard]]
+}}
+{{Quote|The man is older than my father. It's unseemly for him to put himself forward as a contender for my hand.|Rhaenyra Targaryen|King of the Narrow Sea (episode)}}
+Lord '''Beric Dondarrion''' is the [[Lord of Blackhaven]] during the reign of [[Viserys I Targaryen]].
+
+==Biography==
+===Background===
+Beric is the son and successor of Lord [[Simon Dondarrion]] of [[Blackhaven]]. Beric's [[steward]] is the [[Criston Cole's father|father]] of Ser [[Criston Cole]].{{Guideref|Criston Cole}}
+
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+Beric is among a large group of suitors who have come to [[Storm's End]] to ask [[Rhaenyra Targaryen]]'s hand in marriage. He speaks at length about his castle, Blackhaven, and mentions Queen [[Alysanne Targaryen]]. When Rhaenyra rudely jokes about his age, [[Boremund Baratheon]] says that her conduct is unseemly. She retorts that it is unseemly for a man older than her father to put himself forward as a marriage candidate.{{Ref|HOTD104}}
+
+==In the books==
+In ''[[Fire & Blood]]'', the Lord Dondarrion whom Criston's father served is unnamed, and his relation to Simon Dondarrion is unspecified. In the ''[[A Song of Ice and Fire]]'' novels, [[Beric Dondarrion]] is the Lord of Blackhaven during the reign of [[Robert Baratheon]], who eventually becomes the leader of the [[Brotherhood Without Banners]].
+
+==Appearances==
+*{{HOTD|The Heirs of the Dragon}} {{Mentioned}}
+*{{HOTD|The Rogue Prince}} {{Mentioned}}
+*{{HOTD|King of the Narrow Sea}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Lord Dondarrion (82 AC)}}
+
+<!--Succession box-->
+{{S-start}}
+{{Succession box
+ | title  = [[Lord of Blackhaven]]
+ | years  = 
+ | with   = 
+ | before = [[Simon Dondarrion]]
+ | after  = Unknown
+}}
+{{S-end}}
+
+<!--Navboxes-->
+{{House Dondarrion/House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Dondarrion, Beric}}
+[[Category:Bannermen of House Baratheon]]
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Lords]]
+[[Category:Members of House Dondarrion|Beric Dondarrion]]
+[[Category:Stormlanders]]
+
+<!--Languages-->
+[[de:Beric Dondarrion (Episode: Der König der Meerenge)]]
+[[fr:Béric Dondarrion (Viserys I)]]
+[[ru:Берик Дондаррион (сын Саймона)]]

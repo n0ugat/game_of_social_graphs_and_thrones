@@ -1,0 +1,73 @@
+{{Canonicity|Canon}}
+{{Organization
+| Title       = {{PAGENAME}}
+| Theme       = Targaryen
+| Image       = TBQ Black Council Still 2.jpg
+| Type        = Informal privy council<br>Royal advisory body
+| Status      = Active
+| Symbol      =
+| Words       =
+| Center      = [[Painted Table]], [[Dragonstone]]
+| Leader      = [[Lord of the Tides|Lord]] [[Corlys Velaryon]], [[Hand of the King|Hand of the Queen]]
+| Affiliation = [[Rhaenyra Targaryen]]
+| Religion    =
+| Military    = [[Blacks]]
+| Founded     = [[132 AC]]{{Dateref|The Black Queen}}
+}}
+{{Quote|Every man standing around the Painted Table urges her to plunge the realm into war.|Rhaenys Targaryen|The Black Queen}}
+The '''Black Council'''{{Ref|TDOD}} is the [[Small Council]] of [[Rhaenyra Targaryen]] during the [[House Targaryen/House of the Dragon|Targaryen]] civil war known as the [[Dance of the Dragons]]. It was formed by the [[Blacks]] who were present on [[Dragonstone]] upon their learning of the [[Coup in King's Landing|coronation]] of [[Aegon II Targaryen]] in [[King's Landing]], and was rival to the [[Green Council]].
+
+==Composition==
+Upon learning of the green coup from Princess [[Rhaenys Targaryen]] when she arrived on [[Dragonstone]], the [[Blacks]] who were already on Dragonstone, consisting of a number of lords and knights, formed their own rival council in support of [[Rhaenyra Targaryen|Rhaenyra]]: the Black Council. Rhaenyra herself went on to bear the crown of her father.{{Ref|HOTD110}} It is much more of an ''ad hoc'' council than a formal one. It was more loosely formed than the old [[Small Council]], consisting of Rhaenyra's own immediate advisors in her court at Dragonstone.{{Ref|HOTD110}}
+
+==Members==
+The royal family members:
+*Queen [[Rhaenyra Targaryen]]
+*Prince [[Daemon Targaryen]]
+*Prince [[Jacaerys Velaryon]]
+*Prince [[Lucerys Velaryon]]
+*Lord [[Corlys Velaryon]]
+*Princess [[Rhaenys Targaryen]]
+*Lady [[Baela Targaryen]]
+*Lady [[Rhaena Targaryen]]
+
+At the outset of the [[Dance of the Dragons]]:
+*Prince [[Daemon Targaryen]]
+*Prince [[Jacaerys Velaryon]]
+*Prince [[Lucerys Velaryon]]
+
+Additionally, there were a number of lords, ladies and knights, including:
+*[[Hand of the King|Hand of the Queen]], Lord [[Corlys Velaryon]]
+*Lord [[Bartimos Celtigar]]
+*Lord [[Simon Staunton]]
+*Lord [[Gormon Massey]]
+*Maester [[Gerardys]]
+*[[Lord Commander of the Kingsguard|Lord Commander of the Queensguard]], Ser [[Steffon Darklyn]]
+*Ser [[Erryk Cargyll]]
+*Ser [[Lorent Marbrand]]
+*Ser [[Alfred Broome]]
+*[[Mysaria]]
+
+==In the books==
+In ''[[Fire and Blood]]'' by [[George R.R. Martin]], the Black Council is largely the same, though it also includes Prince [[Joffrey Velaryon]], who is slightly older in the timeline.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|Black council}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{Black Council}}
+
+<!--Categories-->
+[[Category:Black Council| ]]
+[[Category:Blacks|Council]]
+[[Category:Small Council]]
+
+<!--Languages-->
+[[pl:Czarna rada]]
+[[ru:Чёрный совет]]

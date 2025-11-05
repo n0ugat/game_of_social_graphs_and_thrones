@@ -1,0 +1,30 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Bill Bekele.jpg
+| Birth   = May 30, 2006 {{Age|2006|5|30}}<br>London, England
+| Death   = 
+| Role    = High Tide page
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = "[[Driftmark (episode)|Driftmark]]"
+| First   = 
+| Last    = 
+}}
+'''Bill Bekele''' (born May 30, 2006) is an English actor. He has appeared in the film ''{{WPS|Genius (2016 film)|Genius}}'' and the television series ''{{WPS|Britannia (TV series)|Britannia}}'', ''{{WPS|The Great (TV series)|The Great}}'' and ''{{WPS|Moon Knight (TV series)|Moon Knight}}''.
+
+In ''[[House of the Dragon]]'', he portrayed a High Tide page in the [[House of the Dragon: Season 1|first season]].
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1|||||||yes}}
+
+==See also==
+*{{IMDb|# = 12034127}}
+
+<!--Categories-->
+{{DEFAULTSORT:Bekele, Bill}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--InterWiki-Links-->
+[[fr:Bill Bekele]]

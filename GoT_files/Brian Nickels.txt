@@ -1,0 +1,29 @@
+{{Crew
+|Image = Brian Nickels.jpg
+|dateofbirth = August 17 1965
+|birthplace = Kilburn, England
+|dateofdeath= January 15 2020
+|job = Stunt Performer
+|imdb = https://www.imdb.com/name/nm0630003/
+|twitter = }}
+'''Brian "Sonny" Nickels''' (August 17 1965 &ndash; January 15 2020) was an English stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 1|first season]] episodes "[[The Wolf and the Lion]]", "[[The Pointy End]]", and "[[Fire and Blood]]".
+
+He passed away on January 15 2020 from cardiac arrest at age 54.
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 1|||||yes|||yes||yes}}
+
+==See also==
+*{{IMDb
+|# = 0630003}}
+*{{Facebook
+|# = brian.nickels.9}}
+*{{YouTube
+|# = user/BrianNickelsStuntman}}
+*{{Linkedin
+|# = /in/brian-nickles-ba7569161}}
+{{DEFAULTSORT:Nickels, Brian}}
+[[Category:Stunt performers of Game of Thrones]]

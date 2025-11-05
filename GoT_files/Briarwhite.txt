@@ -1,0 +1,32 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Tully
+| Image        = 
+| Type         = Holdfast
+| Status       = 
+| Location     = [[Riverlands]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Briarwhite'''{{Ref|THTDB201}} is a holdfast in the [[Riverlands]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, [[Yoren]] and his band of [[Night's Watch]] recruits pick corn at Briarwhite.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Riverlands}}
+
+<!--Categories-->
+[[Category:Castles of the Riverlands]]

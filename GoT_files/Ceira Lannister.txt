@@ -1,0 +1,75 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Leftimage  = Unknown.svg
+| Rightimage = House Lannister.svg
+| Rightlink  = House Lannister/House of the Dragon
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Lannister
+| Image       = Ceira Lannister.png
+| Birth       = 
+| Death       = 
+| House       = [[House Lannister/House of the Dragon|Lannister]]{{Ref|HOTD103}} {{C|by marriage}}
+| Affiliation = 
+| Titles      = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = [[Jason Lannister]]{{Ref|HOTD103}}<br>[[Tyland Lannister]]{{Ref|HOTD103}}
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 1|1]]
+| Appearances = 2 episodes {{Below|Appearances}}
+| First       = "[[Second of His Name]]"
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Lucy Briers]]
+}}
+Lady '''Ceira Lannister'''{{Note|Pronounced the same as "Kira"}} is the mother of [[Jason Lannister|Jason]] and [[Tyland Lannister]].
+
+==Biography==
+===Background===
+Ceira is the widow of a previous [[Lord of Casterly Rock]]. Her original house is unknown.{{Ref|HOTD103}}
+
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+Ceira and her sons join [[Viserys I Targaryen|King Viserys]]'s hunting party in the [[Kingswood]] on Prince [[Aegon II Targaryen|Aegon]]'s second [[nameday]]. She socializes with [[Alicent Hightower]], [[Lynesse Hightower]], and [[Joselyn Redwyne]] in the royal tent.{{Ref|HOTD103}}
+
+Ceira attends the opening feast of the wedding of [[Laenor Velaryon]] and [[Rhaenyra Targaryen]].{{Ref|HOTD105}}
+
+==Family==
+{{Lannister tree (House of the Dragon)}}
+
+==In the books==
+In ''[[Fire & Blood]]'', there is no character named Ceira Lannister. No description is given for Jason and Tyland's parents.
+
+==Appearances==
+*{{HOTD|Second of His Name}}
+*{{HOTD|We Light the Way}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{House Lannister/House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Lannister, Ceira}}
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Ladies]]
+[[Category:Members of House Lannister|Ceira Lannister]]
+[[Category:Westerosi]]
+
+<!--Languages-->
+[[de:Ceira Lennister]]
+[[es:Ceira Lannister]]
+[[fr:Ceira Lannister]]
+[[ru:Киера Ланнистер]]

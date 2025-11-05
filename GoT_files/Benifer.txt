@@ -1,0 +1,66 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = Order of Maesters.svg
+| Link  = Order of Maesters
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Citadel
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[Order of Maesters]]<br>[[House Targaryen]]
+| Titles      = [[Grand Maester]]
+| Predecessor = {[[Desmond]]}
+| Successor   = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Maegor's own lord admiral sailed the Royal Fleet into his nephew's harbor. But most fitting of all, when Maegor tried to send ravens to call his banners, he found that his fourth Grand Maester had learned from his predecessors and fled.|[[Varys]]|Maegor the Cruel (short)}}
+'''Benifer'''{{Con|F&B}} was [[Grand Maester]] during the reigns of [[Maegor Targaryen]] and [[Jaehaerys I Targaryen]].
+
+==Biography==
+Benifer became Grand Maester after the [[execution]] of Grand Maester [[Desmond]]. He was the only one out of the four of Maegor's Grand Maesters who wasn't beheaded. During [[Jaehaerys Targaryen's uprising]] in [[48 AC]],{{Dateref|Maegor Targaryen death}} Benifer fled [[King's Landing]], leaving the king unable to send [[raven]]s to those still loyal to him. After Maegor's subsequent death, Benifer returned and served King Jaehaerys as Grand Maester.{{Ref|H&L806}}
+
+==In the books==
+In ''Fire & Blood'', Benifer suggested a [[marriage]] between King Maegor and Lady Clarisse Dayne of [[Starfall]]. When he abandoned Maegor during Prince Jaehaerys's rebellion, he secretly went into a short self-[[exile]] in [[Pentos]]. Upon Maegor's death, Benifer was invited back to the capital by the new king. He returned and was reinstated as Grand Maester.
+
+In 56 AC, Princess Aerea, daughter of [[Aegon Targaryen (son of Aenys)|Aegon the Uncrowned]] and [[Rhaena Targaryen (daughter of Aenys)|Queen Rhaena]], fell severely ill. Benifer and [[Septon]] [[Barth]] attempted to heal the girl, but their efforts failed and she soon died. Benifer and Barth were traumatized by the princess's death.
+
+Benifer died of the Shivers during an epidemic in King's Landing in 59 AC. He was succeeded as Grand Maester by Elysar.
+
+==Appearances==
+*{{H&L|Maegor the Cruel}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+[[Category:Grand Maesters]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Servants and retainers of House Targaryen]]
+
+<!--Languages-->
+[[ru:Бенифер]]

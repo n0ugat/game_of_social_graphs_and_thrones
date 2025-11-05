@@ -1,0 +1,62 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Slaver's Bay.svg
+| Link  = Great Masters
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Ghiscari
+| Image       = 
+| Birth       = [[294 AC]]{{Dateref|Calla}} (age 11){{Dateref|Game of Thrones: Season 8}} in [[Meereen]]
+| Death       = 
+| House       = 
+| Affiliation = [[Great Masters]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Ghiscari]] {{C|[[Meereen]]ese}}
+| Religion    = [[Ghiscari religion]]
+| Father      = [[Mighdal]]
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Little Calla is only seven, but she admires you very much.|[[Fennesz]] to [[Daenerys Targaryen]]|The Children}}
+'''Calla''' is a Meereenese noble.
+
+==Biography==
+===Background===
+Calla is the seven-year-old daughter of [[Great Masters|Master]] [[Mighdal]], one of the [[Great Masters]] of [[Meereen]]. She was tutored by a [[slavery|slave]] named [[Fennesz]] before [[Daenerys Targaryen]] abolished slavery in the city.{{Ref|GOT410}}
+
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+When Fennesz explains his background to Daenerys, he mentions that Calla has come to admire her after learning about [[House Targaryen|her family's history]] and her accomplishments.{{Ref|GOT410}}
+
+==Behind the scenes==
+The name "Calla" was selected by the show writer [[D.B. Weiss]] in honor of Carla, the wife of his beloved childhood friend David Migdal ([[Mighdal]]).
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no equivalent to this character. The only other person named "Calla" is Calla Blackfyre, a daughter of [[Daemon Blackfyre]].
+
+==Appearances==
+*{{GOT|The Children}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Categories-->
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Meereenese]]
+[[Category:Nobles]]

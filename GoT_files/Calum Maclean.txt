@@ -1,0 +1,28 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Calum Maclean.jpg
+| Birth   = 
+| Death   = 
+| Role    = Hightower guard
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]]
+| Credits = "[[A Son for a Son]]"
+| First   = 
+| Last    = 
+}}
+'''Calum Maclean''' is an actor.
+
+Maclean plays a Hightower guard in the [[House of the Dragon: Season 2|second season]] of ''[[House of the Dragon]]''.
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 2|yes}}
+
+==External links==
+*{{IMDb|# = 12586008}}
+*{{Twitter|# = Calum_maclean99}}
+
+<!--Categories-->
+{{DEFAULTSORT:Maclean, Calum}}
+[[Category:Co-starring cast members of House of the Dragon]]

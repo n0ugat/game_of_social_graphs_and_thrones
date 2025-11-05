@@ -1,0 +1,62 @@
+{{Canonicity|Canon}}
+{{MapNeeded}}
+{{Heraldry
+| Image = House Reyne.svg
+| Link  = House Reyne
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Reyne
+| Image        = CastamereCastle.png
+| Type         = Castle
+| Status       = Ruined
+| Location     = The [[Westerlands]], [[Westeros]]
+| Population   = 
+| Rulers       = {[[House Reyne]]} {{C|formerly}}
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]] {{C|formerly}}
+| Places       = 
+| Founded      = 
+}}
+{{Quote|I, Tywin Lannister, led the assault on Castamere to put down this rebellion.|Tywin Lannister|Histories & Lore}}
+'''Castamere'''{{Ref|GOT209}} was a castle in the [[Westerlands]] and the seat of [[House Reyne]], a vassal house that held fealty to [[House Lannister]] of [[Casterly Rock]].
+
+==History==
+===Background===
+[[File:Castamere.png|thumb|Castamere's destruction by House Lannister]]Castamere was destroyed by [[Tywin Lannister|Tywin]] when House Reyne [[Reyne-Tarbeck revolt|rose in rebellion]] against him. Although the castle was destroyed, it is immortalized in the song "[[The Rains of Castamere]]." By the end of the rebellion, Castamere was left in ruins and all members of House Reyne were executed.
+
+===[[Game of Thrones: Season 3|''Game of Thrones'': Season 3]]===
+[[Cersei Lannister|Cersei]] tells [[Margaery Tyrell|Margaery]] about the destruction of Castamere and House Reyne in order to intimidate her. She implies that if [[House Tyrell]] ever rebels against House Lannister, they will suffer a similar fate.{{Ref|GOT308}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Castamere is located near Tarbeck Hall, seat of House Tarbeck, and the [[Crag]], seat of [[House Westerling]]. It is rich in gold mines, which were captured by [[Greatjon Umber]] following the [[Battle of Oxcross]]. Following the [[Red Wedding]], Castamere is awarded to House Spicer, the maternal family of [[Robb Stark]]'s Queen, Jeyne Westerling, for their part in the fall of the [[King in the North]].{{Bookref|ASOS|72}}
+
+The ''World of Ice and Fire'' sourcebook (2014) reveals that Castamere, like Casterly Rock, started as a mine. As the ores were mined out, the Reynes converted the tunnels into a splendid underground residence, with only a modest castle and fortification above ground, but with grand galleries and rooms beneath the surface. This made the holdfast theoretically very capable of surviving long sieges – provided the goal of any attackers was to take hostages or seize the castle itself. Since Tywin was more than willing to exterminate the Reynes completely, he simply flooded Castamere through its air ducts, drowning everyone within; he also had the surface buildings put to the torch.
+
+Although the sourcebook doesn't say what happened to Castamere after that, it must have been drained and made habitable again for it to be granted to the Spicers.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Reyne}}
+{{Westerlands}}
+
+<!--Categories-->
+[[Category:Castles of the Westerlands]]
+[[Category:House Reyne]]
+[[Category:Ruins]]
+
+<!--Languages-->
+[[de:Castamaer]]
+[[es:Castamere]]
+[[fr:Castamere]]
+[[it:Castamere]]
+[[nl:Castameer]]
+[[pl:Castamere]]
+[[ru:Кастамере]]
+[[zh:卡斯特梅城]]
