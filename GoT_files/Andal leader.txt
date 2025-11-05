@@ -1,0 +1,51 @@
+{{Canonicity|Non}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Bloodmoon
+| Image       = 
+| Birth       = [[Age of Heroes]]{{Note|''[[Bloodmoon]]'' was set during the Age of Heroes. The Andal leader was a human, therefore he must have been born in this age.}}
+| Death       = 
+| House       = 
+| Affiliation = 
+| Titles      = 
+| AKA         = 
+| Culture     = [[Andals|Andal]]{{Webref|name=Andal |author=Wake the Dragon |date=February 18, 2024 |url=https://twitter.com/WtDasoiaf/status/1759436697798930691 |title=Set Sjöstrand as the leader of the Andal invaders! |website=X |access-date=February 19, 2024 }}
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[Bloodmoon]]'' {{Rejected}}
+| Season      = 
+| Appearances = [[Pilot (Bloodmoon)|Pilot]] {{Unreleased}}
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Set Sjöstrand]]
+}}
+An '''Andal leader''' lived during the [[Age of Heroes]].
+
+==Behind the scenes==
+On February 18, 2024, Wake the Dragon revealed that [[Set Sjöstrand]] had portrayed the Andal leader in ''[[Bloodmoon]]'', the rejected ''[[Game of Thrones]]'' [[World of Westeros|prequel]] [[Pilot (Bloodmoon)|pilot]].<ref name="Andal" />
+
+==In the books==
+The Andal leader was an invention of [[Jane Goldman]] for ''[[Bloodmoon]]''.
+
+==Appearances==
+*{{BM|Pilot}} {{Unreleased}} {{Nc}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{Bloodmoon}}
+
+<!--Categories-->
+[[Category:Andals|leader]]
+[[Category:Individuals from Bloodmoon]]

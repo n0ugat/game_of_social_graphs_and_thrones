@@ -1,0 +1,28 @@
+{{Crew
+|Image = Andy Bennett.jpg
+|dateofbirth = 
+|birthplace = 
+|job = Stunt Performer
+|imdb = https://www.imdb.com/name/nm0071588/
+|twitter = https://twitter.com/abstunts}}
+'''Andy Bennett''' is a stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 3|third season]] episode "[[The Rains of Castamere (episode)|The Rains of Castamere]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 3|||||||||yes}}
+
+==See also==
+*{{IMDb
+|# = 0071588}}
+*{{Twitter
+|# = abstunts}}
+*{{YouTube
+|# = channel/UCfoE4lyXBlutz92d_Y8TcJQ}}
+*{{Vimeo
+|# = andybennettstunts}}
+*{{Linkedin
+|# = /in/abstunts}}
+{{DEFAULTSORT:Bennett, Andy}}
+[[Category:Stunt performers of Game of Thrones]]

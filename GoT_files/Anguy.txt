@@ -1,0 +1,82 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Outlaw
+| Image       = AnguyTBATMF.PNG
+| Birth       = [[Dornish Marches]], the [[Stormlands]]{{Con|AWOIAF}}
+| Death       = 
+| House       = 
+| Affiliation = [[Brotherhood Without Banners]]{{Ref|GOT302}}
+| Titles      = 
+| AKA         = 
+| Culture     = [[Dornish Marches|Marcher]]{{Con|ASOIAF}}
+| Religion    = [[Lord of Light]]{{Ref|GOT305}}
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 3|3]]
+| Appearances = 6 episodes {{Below|Appearances}}
+| First       = "[[Dark Wings, Dark Words]]"
+| Last        = "[[The Bear and the Maiden Fair (episode)|The Bear and the Maiden Fair]]"
+| DeathEp     = 
+| Actor       = [[Philip McGinley]]
+}}
+{{Quote|Here’s the thing, fat boy. When I'm done talking, that arrow's falling down on your fat head. So I advise you move, because I'm done talking.|Anguy to [[Hot Pie]]|Dark Wings, Dark Words}}
+'''Anguy''' is a skilled archer hailing from the [[Stormlands]] and a member of the [[Brotherhood Without Banners]].
+
+==Biography==
+===[[Game of Thrones: Season 3|''Game of Thrones'': Season 3]]===
+Anguy is among the company of [[Thoros]] of [[Myr]] when they come across [[Arya Stark]], [[Gendry Baratheon|Gendry]] and [[Hot Pie]]. He coerces an unwilling Hot Pie into following them to a nearby [[Inn at the Crossroads|inn]] by making an impressive trick-shot. Later on, he presents a captured [[Sandor Clegane]] to his companions and is met with a roar of approval, and is present when Sandor reveals Arya's identity.{{Ref|GOT302}}
+[[File:Arya the climb.jpg|thumb|180x180px|Anguy teaches Arya archery.]]
+After bringing his captive before [[Beric Dondarrion]], he voices his disgust over the atrocities committed by the [[House Lannister|Lannister]] forces at the [[Mummer's Ford]].{{Ref|GOT304}} Later he is present during the trial by combat which the Hound kills Lord Beric and is freed from his accusations.{{Ref|GOT305}}
+
+Anguy teaches Arya how to shoot a bow properly, when confronted by [[Melisandre]], who has come to claim [[Gendry Baratheon|Gendry]] for the [[Lord of Light]]. He does nothing to stop her, earning himself the wrath of Arya.{{Ref|GOT306}}
+
+When Arya runs away from the Brotherhood, Anguy is sent to bring her back. He is unsuccessful when she is captured by the Hound instead and taken away.{{Ref|GOT307}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Anguy is a superb archer from the [[Dornish Marches]], the mountainous southern region of the [[stormlands]] which borders [[Dorne]]. He won the archery competition during the [[Tournament|Hand's tourney]] and was approached by Alyn, a guardsman on orders from [[Eddard Stark]] to offer him a place on the Stark household guard, but Anguy drunkenly declined. Anguy is part of the [[Iron Throne]] host assembled by [[Eddard Stark]] to execute Ser [[Gregor Clegane]] and becomes one of the founders of the [[Brotherhood Without Banners|brotherhood without banners]] after the [[battle at the Mummer's Ford]].
+
+Many characters who later formed the brotherhood were introduced at the Hand's tourney in the first novel. This tourney did occur in [[Game of Thrones: Season 1|Season 1]] of the TV series, but the characters were not introduced, because they would not make a significant appearance until Season 3 - they are briefly mentioned in the first novel but only reappear as "the brotherhood" in the third novel (though as in Season 2 of the TV series, in the second novel characters do mention that something called "the brotherhood" is harassing Lannister supply lines).
+
+After the [[Red Wedding]], the brotherhood finds [[Catelyn Stark|Catelyn]]'s body. Despite Thoros's objection, Beric passes her his flame of life; he dies, and Catelyn is reanimated as the monstrous Lady Stoneheart. Under the leadership of Lady Stoneheart, the brotherhood falls low, and currently it is no longer different than any outlaw band; as a result, Anguy and many others abandon the brotherhood.
+
+==Gallery==
+<gallery>
+Arya the climb.jpg|Anguy teaches Arya how to properly use a bow in "[[The Climb]]".
+</gallery>
+
+==Appearances==
+*{{GOT|Dark Wings, Dark Words}}
+*{{GOT|Walk of Punishment}}
+*{{GOT|And Now His Watch Is Ended}}
+*{{GOT|Kissed by Fire}}
+*{{GOT|The Climb}}
+*{{GOT|The Bear and the Maiden Fair}}
+*{{H&L|Brotherhood Without Banners}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+[[Category:Brotherhood Without Banners]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Marchers]]
+[[Category:Smallfolk]]
+[[Category:Stormlanders]]
+
+<!--Languages-->
+[[de:Anguy]]
+[[ru:Энгай]]

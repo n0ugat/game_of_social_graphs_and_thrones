@@ -1,0 +1,20 @@
+{{Crew
+|Image = Andrew James.jpg
+|dateofbirth = {{WPS|July 27}}, {{WPS|1991}}
+|birthplace = {{WPS|Vancouver}}, {{WPS|British Columbia}}, {{WPS|Canada}}
+|job = Stunt Performer
+|imdb = https://www.imdb.com/name/nm3020474/
+|twitter = }}
+'''Andrew James McCarthy''' (born July 27, 1991) is a Canad stuiabntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 2|second season]] episode "[[The Night Lands]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 2||yes}}
+
+==See also==
+*{{IMDb
+|# = 3020474}}
+{{DEFAULTSORT:James, Andrew}}
+[[Category:Stunt performers of Game of Thrones]]

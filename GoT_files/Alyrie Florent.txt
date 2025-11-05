@@ -1,0 +1,88 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Leftimage  = House Florent.svg
+| Leftlink   = House Florent
+| Rightimage = House Hightower.svg
+| Rightlink  = House Hightower/House of the Dragon
+}}{{Quote|Your own lady wife passed recently... did she not?|Daemon to Otto on Alyrie's recent passing|The Heirs of the Dragon}}{{Character
+| Title       = {{PAGENAME}}
+| Type        = Hightower
+| Image       = 
+| Birth       = 
+| Death       = By [[112 AC]]{{Dateref|The Heirs of the Dragon}} (aged 33 at most){{Webref|name=Script |author=@darksvster |date=March 23, 2024 |url=https://twitter.com/darksvster/status/1771401489321222160 |title=Missing Scene From the House of the Dragon |website=X |access-date=March 24, 2024 }}
+| House       = [[House Florent|Florent]]{{Ref|HOTD201}}<br>[[House Hightower/House of the Dragon|Hightower]]{{Ref|HOTD101}} {{C|by marriage}}
+| Affiliation = 
+| Titles      = 
+| AKA         = 
+| Culture     = [[Reach]]{{Ref|HOTD201}}
+| Religion    = [[Faith of the Seven]]{{Ref|TOGOTPHOTD105}}
+| Father      = 
+| Mother      = 
+| Spouse      = [[Otto Hightower]]{{Ref|HOTD101}}
+| Lovers      = 
+| Issue       = [[Gwayne Hightower]]{{Ref|HOTD101}}<br>[[Alicent Hightower]]{{Ref|HOTD101}}<br>Son(s){{Ref|HOTD101}}
+| Siblings    = 
+| Arms        = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Alyrie Florent'''{{Ref|HOTD201}} was the wife of [[Otto Hightower]] and mother of [[Gwayne Hightower|Gwayne]] and [[Alicent Hightower]].
+
+==Biography==
+===Background===
+Alyrie went to live at the royal court in the [[Red Keep]] when her son Gwayne was eight years old, leaving him to grow up motherless.{{Ref|HOTD206}}
+
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+At a [[Small Council]] meeting in [[112 AC]],{{Dateref|The Heirs of the Dragon}} [[Daemon Targaryen|Daemon]] reminds Otto that his wife had passed away recently.{{Ref|HOTD101}} During the [[coup in King's Landing]], Otto remarks that Alicent resembles her mother in certain lights.{{Ref|HOTD109}}
+
+===[[House of the Dragon: Season 2|''House of the Dragon'': Season 2]]===
+[[Alicent Hightower|Alicent]] lights a candle for her deceased mother at the [[Grand Sept]], speaking her name.{{Ref|HOTD201}}
+
+==Family==
+{{Hightower tree}}
+
+==Behind the scenes==
+According to [[Emily Carey]], who portrays young [[Alicent Hightower]], Alyrie was deeply devout to the [[Faith of the Seven]], beliefs that Alicent shares to connect with her late mother.{{Ref|TOGOTPHOTD105}}
+
+In the book ''[[Fire & Blood]]'', Alicent's mother was simply never identified, not even which House she was from. She was only mentioned once and in passing: when [[Otto Hightower]] was first named [[Hand of the King]] in the last years of the reign of old King [[Jaehaerys I Targaryen]], he brought "his wife and children" with him to court. Afterward no mention of her is made at all, tacitly implying that she died early in Viserys's reign but not specifying when or how. According to ''[[Game of Thrones: House of the Dragon: Inside the Creation of a Targaryen Dynasty]]'', Alicent's mother died "after a long illness" (as opposed to a death in childbirth like [[Aemma Arryn]]). 
+
+In the main ''[[A Song of Ice and Fire]]'' novels, the wife of [[Mace Tyrell]], and mother to [[Margaery Tyrell|Margaery]] and [[Loras Tyrell|Loras]], is named [[Alerie Tyrell|Alerie Hightower]] (who is still alive in the books but was cut from the TV series). The TV writers chose a similar name apparently with the logic that "Alerie/Alyrie" is a common name for noblewomen in the southern [[Reach]].
+
+[[House Florent]] is one of the other major noble families in the southern half of the Reach, whose lands are northwest of the Hightowers' at Oldtown. It is common for the major houses in the Reach to intermarry for political alliances: [[Samwell Tarly]]'s mother is [[Melessa Tarly|Melessa Florent]], who is the first cousin to Stannis Baratheon's wife [[Selyse Baratheon|Selyse Florent]]. House Florent feels that they were passed over when [[House Targaryen]] awarded rule of the Reach to [[House Tyrell]] instead of them after  [[Aegon's Conquest]], as the Florents were closely related to [[House Gardener]] while the Tyrells were only "upjumped stewards." Otto's own wife being a Florent would line up with how during this time period, only one century after the Conquest, the Hightowers functionally behave as if they are the rulers of the Reach and expect all the other vassals to fall in line behind them - even though the Tyrells are their legal overlords. In response, several of the other bannermen in the north of the Reach - such as [[House Caswell]] - are annoyed that Otto and [[House Hightower]] are overextending their authority.
+
+==Appearances==
+*{{HOTD|The Heirs of the Dragon}} {{Mentioned}}
+*{{HOTD|The Rogue Prince}} {{Mentioned}}
+*{{HOTD|The Green Council}} {{Mentioned}}
+*{{HOTD|A Son for a Son}} {{Mentioned}}
+*{{HOTD|The Burning Mill}} {{Mentioned}}
+*{{HOTD|Smallfolk}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{House Florent/House of the Dragon}}
+{{House Hightower/House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Florent, Alyrie}}
+[[Category:Individuals from the Reach]]
+[[Category:Individuals mentioned in House of the Dragon]]
+[[Category:Members of House Florent|Alyrie Florent]]
+[[Category:Members of House Hightower|Alyrie Florent]]
+
+<!--Languages-->
+[[es:Alyrie Florent]]
+[[fr:Alyrie Florent]]
+[[ru:Алерия Флорент]]
+[[tr:Alyrie Florent]]
+[[uk:Алері Флорент]]

@@ -1,0 +1,22 @@
+{{Crew
+|Image = Annabel Brook.jpg
+|dateofbirth = 
+|birthplace = 
+|job = Stunt Performer
+|imdb = https://www.imdb.com/name/nm9971173/
+|twitter = https://twitter.com/akbrook/}}
+'''Annabel Brook''' is a stuntwoman and actress.
+
+In ''[[Game of Thrones]]'', she was a stunt performer in the [[Game of Thrones: Season 8|eighth season]] episodes "[[The Long Night]]" and "[[The Bells]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 8|||yes||yes}}
+
+==See also==
+*{{IMDb
+|# = 9971173}}
+*{{Twitter
+|# = akbrook}}
+{{DEFAULTSORT:Brook, Annabel}}
+[[Category:Stunt performers of Game of Thrones]]

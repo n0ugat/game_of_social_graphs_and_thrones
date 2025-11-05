@@ -1,0 +1,26 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Annette Tierney.jpg
+| Birth   = 
+| Death   = 
+| Role    = [[Old Nan|Nan]]
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 6|6]]
+| Credits = 2 episodes {{Below|Credits}}
+| First   = "[[Home]]"
+| Last    = "[[The Door]]"
+}}
+'''Annette Tierney''' is an actress who portrays a younger [[Old Nan]] in the [[Game of Thrones: Season 6|sixth season]].
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 6||yes|||yes}}
+
+==See also==
+*{{IMDb
+|# = 1519719}}
+[[de:Annette Tierney]]
+[[fr:Annette Tierney]]
+{{DEFAULTSORT:Tierney, Annette}}
+[[Category:Guest starring cast members of Game of Thrones]]

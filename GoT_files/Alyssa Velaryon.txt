@@ -1,0 +1,69 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Leftimage  = House Velaryon.svg
+| Leftlink   = House Velaryon
+| Rightimage = House Targaryen.svg
+| Rightlink  = House Targaryen/House of the Dragon
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Targaryen
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = [[House Velaryon|Velaryon]]<br>[[House Targaryen/House of the Dragon|Targaryen]] {{C|by marriage}}
+| Affiliation = 
+| Titles      = [[King|Queen Consort]]
+| AKA         = 
+| Culture     = [[Valyrians|Valyrian]]
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = {[[Aenys Targaryen|Aenys I Targaryen]]}
+| Lovers      = 
+| Issue       = {[[Rhaena Targaryen (daughter of Aenys)|Rhaena Targaryen]]}<br>{[[Aegon Targaryen (son of Aenys)|Aegon Targaryen]]}<br>{[[Jaehaerys I Targaryen]]}<br>{[[Alysanne Targaryen]]}<br>{[[Viserys Targaryen (son of Aenys)|Viserys Targaryen]]}<br>{[[Vaella Targaryen]]}
+| Siblings    = {[[Daemon Velaryon]]}
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+Queen '''Alyssa Velaryon''' was the wife of King [[Aenys Targaryen|Aenys I Targaryen]].{{Ref|THTDB202}}
+
+==Biography==
+Alyssa was the sister of Lord [[Daemon Velaryon]].{{Con|F&B}} She had 6 children with King Aenys: [[Rhaena Targaryen (daughter of Aenys)|Rhaena]], [[Aegon Targaryen (son of Aenys)|Aegon]], [[Jaehaerys I Targaryen|Jaehaerys]], [[Alysanne Targaryen|Alysanne]], [[Viserys Targaryen (son of Aenys)|Viserys]], and [[Vaella Targaryen|Vaella]].{{Ref|THTDB202}}
+
+==Family==
+{{Velaryon tree}}
+
+==In the books==
+In ''[[Fire & Blood]]'', Alyssa served as queen [[regent]] during the early reign of her son Jaehaerys. She remarried to Lord Rogar Baratheon, with whom she had two children, [[Boremund Baratheon|Boremund]] and [[Jocelyn Baratheon]].
+
+Alyssa's granddaughter, [[Alyssa Targaryen]], was named after her.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Velaryon}}
+{{House Targaryen/House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Velaryon, Alyssa}}
+[[Category:Crownlanders]]
+[[Category:Individuals from House of the Dragon]]
+[[Category:Members of House Targaryen|Alyssa Velaryon]]
+[[Category:Members of House Velaryon|Alyssa Velaryon]]
+[[Category:Queens]]
+
+<!--Languages-->
+[[uk:Аліса Веларіон]]

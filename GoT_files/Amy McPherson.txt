@@ -1,0 +1,34 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Bloodmoon
+| Image   = Amy McPherson.jpg
+| Birth   = London, England
+| Death   = 
+| Role    = [[Aurelia Casterly]]
+| Series  = ''[[Bloodmoon]]'' {{Rejected}}
+| Season  = 
+| Credits = [[Pilot (Bloodmoon)|Pilot]] {{Unreleased}}
+| First   = 
+| Last    = 
+}}
+'''Amy McPherson''' is an English actress.
+
+She portrayed [[Aurelia Casterly]] in the [[Pilot (Bloodmoon)|pilot]] of ''[[Bloodmoon]]''.
+
+==See also==
+*{{IMDb|# = 10874199}}
+*{{Twitter|# = amymcpherson_}}
+*{{Instagram|# = amymcphersonx}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{Bloodmoon}}
+
+<!--Categories-->
+{{DEFAULTSORT:McPherson, Amy}}
+[[Category:Cast members of the pilot of Bloodmoon]]
+
+<!--Languages-->
+[[de:Amy McPherson]]

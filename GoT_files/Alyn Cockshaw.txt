@@ -1,0 +1,61 @@
+{{Canonicity|Canon}}
+{{Spoiler|AKOTSK}}
+{{BookConjecture}}
+{{Heraldry
+| Image = Unknown.svg
+| Link  = 
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Tyrell
+| Image       = 
+| Birth       = In the [[Reach]]
+| Death       = 
+| House       = 
+| Affiliation = [[House Tyrell]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Andals|Andal]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+Lord '''Alyn Cockshaw'''{{Con|D&EN}} is a [[Lordship|lord]] from the [[Reach]].
+
+==In the books==
+In the [[Dunk & Egg novellas]], Alyn is a childhood friend of [[Daemon Blackfyre (son of Daemon)|Daemon Blackfyre the Younger]]. He and Daemon were bullied by [[Aegon Blackfyre|Aegon]] and [[Aemon Blackfyre|Aemon]], Daemon's older brothers. Alyn wept when Daemon was forced into [[exile]] with [[Aegor Rivers|Bittersteel]] after the [[Blackfyre Rebellion]].
+
+==Appearances==
+*{{GOT|The Iron Throne}} {{Text}} {{Indirect}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|AKOTSK}}
+
+<!--Categories-->
+{{DEFAULTSORT:Cockshaw, Alyn}}
+[[Category:Bannermen of House Tyrell]]
+[[Category:Individuals from the Reach]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Lords]]
+
+<!--Languages-->
+[[ru:Алин Кокшо]]

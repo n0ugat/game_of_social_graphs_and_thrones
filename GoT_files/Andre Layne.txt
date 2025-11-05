@@ -1,0 +1,30 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Andre Layne.jpg
+| Birth   = 
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = "[[Second of His Name]]"
+| First   = 
+| Last    = 
+}}
+'''Andre Layne''' is a stuntman and actor.
+
+In ''[[House of the Dragon]]'', he was a stunt performer in the [[House of the Dragon: Season 1|first season]] episode "[[Second of His Name]]".
+
+==Credits==
+===Stunts===
+{{House of the Dragon: Season 1|||yes}}
+
+==See also==
+*{{IMDb
+|# = 5910994}}
+*{{Instagram
+|# = stuntinglayne}}
+*{{Linkedin
+|# = /in/andré-layne-26115b50}}
+{{DEFAULTSORT:Layne, Andre}}
+[[Category:Stunt performers of House of the Dragon]]

@@ -1,0 +1,36 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Kingdoms
+| Image   = Annie Julia Wyman.jpg
+| Birth   = 
+| Death   = 
+| Role    = Executive producer<br>Writer
+| Series  = ''[[A Knight of the Seven Kingdoms]]''
+| Season  = [[A Knight of the Seven Kingdoms: Season 1|1]]
+| Credits = 
+| First   = 
+| Last    = 
+}}
+'''Annie Julia Wyman''' is an American screenwriter and producer.
+
+Wyman is an executive producer{{Webref|name=Redanian |author=Gravemaster |date=January 5, 2024 |url=https://redanianintelligence.com/2024/01/05/a-knight-of-the-seven-kingdoms-aka-dunk-egg-series-gets-a-schedule-update/ |title=A Knight of the Seven Kingdoms aka Dunk & Egg Series Gets A Schedule Update |website=Redanian Intelligence |access-date=January 17, 2024 }} and writer{{Webref|name=Twitter |author=Hiram Martinez |date=2024 |url=https://twitter.com/hrm114 |title=Writer #AKnightOfTheSevenKingdomsHBO |website=X |access-date=January 17, 2024}} on [[A Knight of the Seven Kingdoms: Season 1|''A Knight of the Seven Kingdoms'': Season 1]].
+
+==Credits==
+===Executive producer===
+{{Plainlist
+|{{AKOTSK|Season 1}}
+}}
+
+===Writer===
+{{A Knight of the Seven Kingdoms: Season 1}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb|#=8091876}}
+
+<!--Categories-->
+{{DEFAULTSORT:Wyman, Annie Julia}}
+[[Category:Executive producers of A Knight of the Seven Kingdoms]]
+[[Category:Writers of A Knight of the Seven Kingdoms]]

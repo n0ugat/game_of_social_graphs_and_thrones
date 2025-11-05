@@ -1,0 +1,34 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Anna Francolini.jpg
+| Birth   = October 30, 1973 {{Age|1973|10|30}}<br>Chertsey, Surrey, England
+| Death   = 
+| Role    = [[Lady Mallister]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]]
+| Credits = 2 episodes {{Below|Credits}}
+| First   = "[[Regent (episode)|Regent]]"
+| Last    = 
+}}
+'''Anna Francolini''' (born 30 October 1973) is an English actress.
+
+Francolini plays [[Lady Mallister]] in the [[House of the Dragon: Season 2|second season]] of ''[[House of the Dragon]]''.<ref>https://twitter.com/RedanianIntel/status/1696773854671040604</ref>
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 2|||||yes||yes}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{WP}}
+*{{IMDb|#=0290693}}
+
+<!--Categories-->
+{{DEFAULTSORT:Francolini, Anna}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Anna Francolini]]

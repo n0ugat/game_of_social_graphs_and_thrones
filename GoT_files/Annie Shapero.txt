@@ -1,0 +1,27 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Annie Shapero.jpg
+| Birth   = Annie Shapero<br>Australia
+| Death   = 
+| Role    = [[Alysanne Blackwood]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 3|3]]
+| Credits = 
+| First   = 
+| Last    = 
+}}
+'''Annie Shapero''' is an Australian actress. She has appeared in the television series such as ''{{WPS|Red Skies (TV series)|Red Skies}}'' and ''{{WPS|The Narrow Road to the Deep North (miniseries)|The Narrow Road to the Deep North}}''.
+
+In ''[[House of the Dragon]]'', she will portray [[Alysanne Blackwood]] in the [[House of the Dragon: Season 3|third season]].{{Webref|name=DeadlineBlackAly |author=Max Goldbart, Jesse Whittock |date=July 30, 2025 |url= https://deadline.com/2025/07/house-of-the-dragon-cast-alysanne-blackwood-annie-shapero-1236473990/|title=‘House Of The Dragon’: Annie Shapero Cast As Fierce Fighter Alysanne Blackwood In Season 3 |website=Deadline |access-date=July 30, 2025 }}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb|#=10095223}}
+*{{Instagram|#=annieshapero}}
+
+<!--Categories-->
+{{DEFAULTSORT:Sloane, Barry}}
+[[Category:Cast members of unknown billing of House of the Dragon]]

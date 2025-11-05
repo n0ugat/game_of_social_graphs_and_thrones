@@ -1,0 +1,36 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Andrij Parekh.jpg
+| Birth   = September 20, 1971 {{Age|1971|9|20}}<br>Cambridge, Massachusetts, United States
+| Death   = 
+| Role    = Director
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]] {{*}} [[House of the Dragon: Season 3|3]]
+| Credits = 2 episodes {{Below|Credits}}
+| First   = "[[Smallfolk (episode)|Smallfolk]]"
+| Last    = 
+}}
+'''Andrij Parekh''' (born 20 September 1971) is an American cinematographer and director. He is a director on the [[House of the Dragon: Season 2|second season]] of ''[[House of the Dragon]]''.<ref>[https://www.eyeforfilm.co.uk/feature/2023-03-21-sophie-barthes-on-the-feminist-design-and-ethos-of-the-pod-generation-feature-story-by-amber-wilkinson Rounding out sci-fi, Sophie Barthes on the feminist design and ethos of The Pod Generation | ''Eye For Film'']</ref>
+
+Parekh previously directed one episode of HBO's ''Watchmen'', and four episodes of HBO's ''Succession''. He won the Emmy Award for Outstanding Directing in a Drama Series for the third episode of ''Succession'' Season 2, "[[wikipedia:Hunting (Succession)|Hunting]]."
+
+==Credits==
+===Director===
+{{House of the Dragon: Season 2||||||yes}}
+{{House of the Dragon: Season 3||||||||yes}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{WP}}
+*{{IMDb|#=0661238}}
+*{{Instagram|#=andrijparekh}}
+
+<!--Categories-->
+{{DEFAULTSORT:Parekh, Andrij}}
+[[Category:Directors of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Andrij Parekh]]

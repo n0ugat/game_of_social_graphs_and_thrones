@@ -1,0 +1,36 @@
+{{Episode
+| Title    = {{PAGENAME}}
+| Type     = Podcast
+| Image    = TOGOTPHOTD103.jpg
+| Season   = 1
+| Episode  = 3
+| Date     = August 17, 2022{{Listref|TOGOTPHOTD}}
+| Runtime  = 32:40{{HBOref|TOGOTPHOTD}}
+| Writer   = 
+| Director = 
+| Year     = 
+| Previous = "[[A Walking Tour of Westeros (with guest Steve Toussaint)]]"{{Listref|TOGOTPHOTD}}
+| Next     = "[[House Of The Dragon: Ep. 1 “The Heirs Of The Dragon”|''House Of The Dragon'': Ep. 1 “The Heirs Of The Dragon”]]"{{Listref|TOGOTPHOTD}}
+}}
+"'''An Interview with George R.R. Martin'''"{{HBOref|TOGOTPHOTD}} is the third episode of the [[The Official Game of Thrones Podcast: House of the Dragon: Season 1|first season]] of ''[[The Official Game of Thrones Podcast: House of the Dragon]]''. It is the third episode of the series overall. It was released on August 17, 2022.
+
+==Description==
+{{Description|TOGOTPHOTD103}}
+
+==Gallery==
+<gallery bordersize="none">
+An Interview with George R.R. Martin / Official Game of Thrones Podcast: Episode 3 (HBO)
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{HBO Max|video/watch/PROM705230/PROM1182009|Game of Thrones Podcast — Pre-Premiere Ep. 3}}
+
+<!--Navboxes-->
+{{The Official Game of Thrones Podcast: House of the Dragon}}
+
+<!--Categories-->
+[[Category:Episodes of The Official Game of Thrones Podcast: House of the Dragon: Season 1| 03]]
+[[Category:Episodes released in 2022|8.17]]

@@ -1,0 +1,31 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Anna Sari.jpg
+| Birth   = 
+| Death   = 
+| Role    = Dragonkeeper translator
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = "[[The Princess and the Queen]]"
+| First   = 
+| Last    = 
+}}
+'''Anna Sari''' is an actress. She has appeared in the films ''{{WPS|Patient Zero (film)|Patient Zero}}'' and ''{{WPS|The Girlfriend Experience}}'' and the television series ''{{WPS|Holby City}}''.
+
+In ''[[House of the Dragon]]'', she portrayed a Dragonkeeper translator in the [[House of the Dragon: Season 1|first season]].
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1||||||yes}}
+
+==See also==
+*{{IMDb|# = 11449187}}
+*{{Facebook|# = 100067179729784}}
+
+<!--Categories-->
+{{DEFAULTSORT:Sari, Anna}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--InterWiki-Links-->
+[[fr:Anna Sari]]

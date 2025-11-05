@@ -1,0 +1,65 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Reyne.svg
+| Link  = House Reyne
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Reyne
+| Image       = 
+| Birth       = At [[Castamere]]
+| Death       = Prior to or during the [[Reyne-Tarbeck revolt]]
+| House       = [[House Reyne|Reyne]]
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Andals|Andal]]
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+Lady '''Alys Reyne''' was a member of [[House Reyne]].
+
+==Biography==
+===Background===
+At the [[Tournament|Tourney]] of [[Brightwater Keep]], she was crowned [[queen of love and beauty]] by the champion, Ser [[Gwayne Gaunt]].{{Ref|GOT806}}
+
+===[[Game of Thrones: Season 8|''Game of Thrones'': Season 8]]===
+Alys is mentioned in [[Arthur Dayne]]'s entry{{Note|The paragraph mentioning Alys is erroneously placed in Arthur Dayne's entry. The opening sentence calling him the "thirdborn son to Lord Symon of House Gaunt" makes it apparent that this paragraph was meant for Gwayne Gaunt's entry.}} in the ''[[Book of Brothers]]''.{{Ref|GOT806}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, no such character is mentioned.
+
+==Appearances==
+*{{GOT|The Iron Throne}} {{Text}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{House Reyne}}
+
+<!--Categories-->
+{{DEFAULTSORT:Reyne, Alys}}
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Ladies]]
+[[Category:Members of House Reyne|Alys Reyne]]
+
+<!--Languages-->
+[[ru:Алис Рейн]]

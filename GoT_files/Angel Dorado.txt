@@ -1,0 +1,20 @@
+{{Crew
+|Image = 
+|dateofbirth = 
+|birthplace = 
+|job = Stunt Performer
+|imdb = http://www.imdb.com/name/nm3984982
+|twitter = }}
+'''Ángel Luis Dorado''' is a stuntman.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 7|seventh season]] episodes "[[The Spoils of War]]" and "[[The Dragon and the Wolf]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 7||||yes|||yes}}
+
+==See also==
+*{{IMDb
+|# = 3984982}}
+{{DEFAULTSORT:Dorado, Angel}}
+[[Category:Stunt performers of Game of Thrones]]

@@ -1,0 +1,24 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = 
+| Birth   = 
+| Death   = 
+| Role    = Producer
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = 
+| First   = 
+| Last    = 
+}}
+'''Angus More Gordon''' is a producer and production manager. He is a producer on the [[House of the Dragon: Season 1|first season]] of ''[[House of the Dragon]]''.
+
+==Credits==
+===Producer===
+*{{HOTD|Season 1}}
+
+==See also==
+*{{IMDb|#=0329991}}
+
+{{DEFAULTSORT:Gordon, Angus More}}
+[[Category:Producers of House of the Dragon]]

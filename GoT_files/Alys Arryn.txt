@@ -1,0 +1,66 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Arryn.svg
+| Link  = House Arryn
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Arryn
+| Image       = 
+| Birth       = At the [[Eyrie]]
+| Death       = 
+| House       = [[House Arryn|Arryn]]
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Andals|Andal]]
+| Religion    = [[Faith of the Seven]]
+| Father      = {[[Jasper Arryn]]}
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = {[[Jon Arryn]]}<br>{[[Ronnel Arryn (son of Jasper)|Ronnel Arryn]]}
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Alys Arryn''' was the daughter of [[Jasper Arryn]], the head of [[House Arryn]].
+
+==Biography==
+Alys was the daughter of [[Jasper Arryn]], the head of [[House Arryn]]. She had two brothers [[Jon Arryn|Jon]] and [[Ronnel Arryn (son of Jasper)|Ronnel]].{{Guideref|Viewer's Guide}}
+
+==Family==
+{{Arryn tree}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Alys's family is the same.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Arryn}}
+
+<!--Categories-->
+{{DEFAULTSORT:Arryn, Alys}}
+[[Category:Individuals from Game of Thrones]]
+[[Category:Ladies]]
+[[Category:Members of House Arryn|Alys Arryn]]
+[[Category:Valemen]]
+
+<!--Languages-->
+[[de:Alys Arryn]]
+[[ru:Алис Аррен]]

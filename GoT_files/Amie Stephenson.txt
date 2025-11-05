@@ -1,0 +1,22 @@
+{{Crew
+|Image = 
+|dateofbirth = 
+|birthplace = 
+|job = Stunt Manager
+|imdb = http://www.imdb.com/name/nm1308771
+|twitter = }}
+'''Amie Stephenson''' is a stuntwoman.
+
+In ''[[Game of Thrones]]'', she was a stunt manager in the [[Game of Thrones: Season 1|first season]].
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 1|yes|yes|yes|yes|yes|yes|yes|yes|yes|yes}}
+
+==See also==
+*{{IMDb
+|# = 1308771}}
+*{{Linkedin
+|# = /in/amie-stephenson-6121381b}}
+{{DEFAULTSORT:Stephenson, Amie}}
+[[Category:Stunt performers of Game of Thrones]]

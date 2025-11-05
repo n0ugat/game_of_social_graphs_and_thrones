@@ -1,0 +1,42 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Anna Stephenson.jpg
+| Birth   = Anna Victoria Stephenson
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[Game of Thrones]]''<br>''[[Bloodmoon]]'' {{Rejected}}<br>''[[House of the Dragon]]''
+| Season  = ''Game of Thrones'':<br>[[Game of Thrones: Season 8|8]]<br>''House of the Dragon'':<br>[[House of the Dragon: Season 1|1]]
+| Credits = 2 episodes {{Below|Credits}}
+| First   = "[[The Bells]]"
+| Last    = 
+}}
+'''Anna Victoria Stephenson''' is a stuntwoman and actress.
+
+In ''[[Game of Thrones]]'', she was a stunt performer in the [[Game of Thrones: Season 8|eighth season]] episode "[[The Bells]]".
+
+In the [[Pilot (Bloodmoon)|pilot]] of ''[[Bloodmoon]]'', she was a stunt performer.
+
+In ''[[House of the Dragon]]'', she was a stunt performer in the [[House of the Dragon: Season 1|first season]] episode "[[We Light the Way]]".
+
+==Credits==
+===Stunts===
+====''[[Game of Thrones]]''====
+{{Game of Thrones: Season 8|||||yes}}
+
+====''[[House of the Dragon]]''====
+{{House of the Dragon: Season 1|||||yes}}
+
+==See also==
+*{{IMDb|# = 4261365}}
+*{{Twitter|# = annavstep}}
+*{{Instagram|# = annavstephenson}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+{{DEFAULTSORT:Stephenson, Anna}}
+[[Category:Stunt performers of Bloodmoon]]
+[[Category:Stunt performers of Game of Thrones]]
+[[Category:Stunt performers of House of the Dragon]]

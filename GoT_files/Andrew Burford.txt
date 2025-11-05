@@ -1,0 +1,39 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Andrew Burford.jpg
+| Birth   = Andrew Burford
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[Game of Thrones]]''<br>''[[House of the Dragon]]''
+| Season  = ''Game of Thrones'':<br>[[Game of Thrones: Season 8|8]]<br>''House of the Dragon'':<br>[[House of the Dragon: Season 2|2]]
+| Credits = 6 episodes {{Below|Credits}}
+| First   = "[[The Long Night]]"
+| Last    = 
+}}
+'''Andrew Burford''' is a stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 8|eighth season]] episodes "[[The Long Night]]", "[[The Last of the Starks]]", "[[The Bells]]", and "[[The Iron Throne]]".
+
+In ''[[House of the Dragon]]'', he was a stunt performer in the [[House of the Dragon: Season 2|second season]] episodes "[[The Red Dragon and the Gold]]" and "[[The Red Sowing]]".
+
+==Credits==
+===Stunts===
+====''[[Game of Thrones]]''====
+{{Game of Thrones: Season 8|||yes|yes|yes|yes}}
+
+====''[[House of the Dragon]]''====
+{{House of the Dragon: Season 2||||yes|||yes}}
+
+==See also==
+*{{IMDb
+|# = 6739473}}
+*{{Twitter
+|# = andrewburford}}
+*{{Instagram
+|# = andrewburfordstunts}}
+*{{Facebook
+|# = Burfdog}}
+{{DEFAULTSORT:Burford, Andrew}}
+[[Category:Stunt performers of Game of Thrones]]
+[[Category:Stunt performers of House of the Dragon]]

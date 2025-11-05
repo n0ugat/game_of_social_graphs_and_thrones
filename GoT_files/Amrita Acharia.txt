@@ -1,0 +1,41 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Amrita-Acharia-200.jpg
+| Birth   = 1987 {{Age|1987|12|31}}<br>Kathmandu, Nepal
+| Death   = 
+| Role    = [[Irri]]
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 1|1]] {{*}} [[Game of Thrones: Season 2|2]]
+| Credits = 13 episodes {{Below|Credits}}
+| First   = "[[The Kingsroad]]"
+| Last    = "[[The Old Gods and the New]]"
+}}
+'''Amrita Acharia''' (born 1987), also known as '''Amrita Acharya Dunne''', is a Nepalese-born Norwegian actress. She is of Ukrainian and Nepalese descent, and grew up in Kathmandu, Nepal, before moving to London, England, and ultimately to northern Norway with her family when she was thirteen years old.<ref>[http://winteriscoming.net/2012/05/interview-with-amrita-acharia/ WinterIsComing.net interview with Amrita Acharia]</ref>
+
+She has a small number of stage and screen roles to her name, most notably an appearance in the play ''Elevator'', a role in the short film ''In the Company of Wolves'' and a brief role in the British drama series ''[[wikipedia:Casualty (TV series)|Casualty]]''.
+
+In ''[[Game of Thrones]]'' Acharia was playing the role of [[Irri]]. She was confirmed in the role on 28 July 2010. She initially appeared as a guest star in the [[Game of Thrones: Season 1|first season]] and returned in this role for the [[Game of Thrones: Season 2|second season]].
+
+Acharia's character Irri was killed off in the middle of Season 2, even though the character Irri is alive as of the end of the fifth novel. At the time, it was reported that Acharia had to leave production on the TV series because she wasn't able to obtain Norwegian citizenship (even though most of her family has it), and thus wasn't about to extend her EU work visa.<ref>[http://winteriscoming.net/2012/05/curtain-call-amrita-acharia/ WinterIsComing.net report on Amrita Acharia's departure]</ref> Amrita recently did an AMA thread on Reddit in which she stated that this was not the reason her character was killed off, instead saying that the writers know what they are doing and that she does still in fact have an EU work visa.<ref>[http://www.reddit.com/r/IAmA/comments/uuiw2/amrita_acharia_portrayed_irri_on_game_of/c4yprh0]</ref>
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 1||yes|yes|yes||yes|yes|yes|yes|yes}}
+{{Game of Thrones: Season 2|yes|yes||yes|yes|yes}}
+
+==See also==
+* {{WP}}
+*{{Template:IMDb
+|# = 3822505}}
+*{{Template:Twitter
+|# = AmritaAcharia1}}
+* [http://www.spotlight.com/interactive/cv/021734239223 Amrita Acharia's Spotlight profile.]
+
+==References==
+{{reflist}}
+{{DEFAULTSORT:Acharia, Amrita}}
+[[de:Amrita Acharia]]
+[[ru:Амрита Ачариа]]
+[[fr:Amrita Acharia]]
+[[Category:Guest starring cast members of Game of Thrones]]

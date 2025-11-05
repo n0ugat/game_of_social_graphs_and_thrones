@@ -1,0 +1,33 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Successor
+| Image   = 
+| Birth   = 
+| Death   = 
+| Role    = Developer
+| Series  = ''[[Ten Thousand Ships]]''
+| Season  = 
+| Credits = 
+| First   = 
+| Last    = 
+}}
+'''Amanda Segel Marks''' is an American writer and producer who has worked on television series such as ''{{WPS|Without a Trace}}'', ''{{WPS|The Good Wife}}'', ''{{WPS|Nikita (TV series)|Nikita}}'', ''{{WPS|Person of Interest (TV series)|Person of Interest}}'', and ''{{WPS|Helstrom (TV series)|Marvel's Helstrom}}''. She is also writing the pilot script for a TV adaptation of the Ubisoft video game ''Skull and Bones'', about female pirates in the Golden Age of Piracy. 
+
+She was officially hired by HBO to write a pilot script for ''[[Ten Thousand Ships]]'', a potential ''Game of Thrones'' [[World of Westeros|successor show]] that will chronicle the rise of [[Nymeria]] and her conquest of [[Dorne]].<ref>[https://deadline.com/2021/05/game-of-thrones-amanda-segel-write-10000-ships-spinoff-1234763526/ ‘Game Of Thrones’: Amanda Segel To Write ‘10,000 Ships’ Spinoff]</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb|# = 0781976}}
+*{{Linkedin|# = /in/amanda-segel-5b72523a}}
+*{{Twitter|# = absegel}}
+
+<!--Categories-->
+{{DEFAULTSORT:Segel, Amanda}}
+[[Category:Developers of Ten Thousand Ships]]
+
+<!--Languages-->
+[[de:Amanda Segel]]
+[[fr:Amanda Segel]]
+[[pt-br:Amanda Segel]]

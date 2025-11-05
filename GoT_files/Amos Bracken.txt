@@ -1,0 +1,94 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Bracken.svg
+| Link  = House Bracken
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Tully
+| Image       = Amos Bracken-205.png
+| Birth       = 
+| Death       = 
+| House       = [[House Bracken|Bracken]]
+| Affiliation = [[Greens]]{{Ref|HOTD203}} {{C|formerly}}<br>[[Blacks]]{{Ref|HOTD205}}
+| Titles      = 
+| AKA         = 
+| Culture     = [[Riverlands|Rivermen]]
+| Religion    = [[Faith of the Seven]]{{Ref|HOTD205}}
+| Father      = {[[Humfrey Bracken]]}{{Con|F&B}}
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = [[Raylon Bracken]]{{Ref|HOTD207}}
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 2|2]]
+| Appearances = 2 episodes {{Below|Appearances}}
+| First       = "[[Regent (episode)|Regent]]"
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Tim Faraday]]<ref>[https://twitter.com/housethedragons/status/1764963132680679724 ]</ref>
+}}
+{{Quote|I would sooner be the lord of bones and cinders than bend my knee before some heathen Blackwood c***, and his hired dragon.|Amos Bracken|Regent (episode)}}
+Lord '''Amos Bracken''' is the head of [[House Bracken]] and Lord of the [[Stone Hedge]] during the [[Dance of the Dragons]].<ref>https://twitter.com/RedanianIntel/status/1716941997888733601</ref>
+
+==Biography==
+===[[House of the Dragon: Season 2|''House of the Dragon'': Season 2]]===
+Amos declares for King [[Aegon II Targaryen]] at the start of the Dance of the Dragons. His nephew [[Aeron Bracken]] antagonizes [[Davos Blackwood]] at the borders of Bracken and Blackwood land, setting off the [[Battle at the Burning Mill]].{{Ref|HOTD203}}
+[[File:House Bracken calvary.png|thumb|House Bracken calvary.]]
+[[Daemon Targaryen|Daemon]], assisting [[Willem Blackwood]] confronts Amos astride [[Caraxes]], demanding Amos renounce his allegiance to Aegon and declare for him, or he will destroy House Bracken. Amos rebuffs the threat, insulting Willem and his late brother, Lord [[Samwell Blackwood]], who perished at the Burning Mill, and departs. In retaliation, Daemon unofficially gives Willem leave to use terror tactics on Bracken lands to force Amos's capitulation. After a protracted terror campaign against his smallfolk by Blackwood forces, Amos bends the knee to Daemon.{{Ref|HOTD205}}
+
+Amos and his son [[Raylon Bracken|Raylon]] travel to [[Harrenhal]] and witness the execution of Willem Blackwood.{{Ref|HOTD207}}
+
+==Family==
+{{Bracken tree}}
+
+==In the books==
+In ''[[Fire & Blood]]'', Ser Amos Bracken was a son of Lord [[Humfrey Bracken]]. He was not the Lord of the Stone Hedge as his father was still alive during the Dance.{{Bookref|F&B|15}}
+
+In "[[King of the Narrow Sea (episode)|King of the Narrow Sea]]," the fourth episode of the [[House of the Dragon: Season 1|first season]], [[Jerrel Bracken]] fights and is killed by [[Willem Blackwood]] during [[Rhaenyra Targaryen|Rhaenyra]]'s tour to find a suitable husband. This scene is loosely based on a fight between Amos Bracken and [[Samwell Blackwood]], in which Amos won but no one was killed.{{Bookref|F&B|12}}
+
+At the outbreak of the [[Dance of the Dragons]], Amos's father, Lord Humfrey, dispatched him to invade the lands of [[House Blackwood]], who had declared for Rhaenyra and started raiding Bracken lands. At the [[Battle at the Burning Mill|Battle of the Burning Mill]], Amos killed Samwell Blackwood in single combat, only to die moments later when an arrow was shot through his head; the arrow was allegedly shot by Samwell's sister Alysanne "Black Aly" Blackwood, but this detail could be mere a family legend.{{Bookref|F&B|15}}
+
+==Appearances==
+*{{HOTD|The Burning Mill}} {{Mentioned}}
+*{{HOTD|Regent}}
+*{{HOTD|The Red Sowing}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+*{{AWOIAF|Humfrey Bracken}} {{Spoilers|HOTD}}
+*{{AWOIAF|Raylon Rivers}}
+
+<!--Succession box-->
+{{S-start}}
+{{S-bef| before = [[Humfrey Bracken]]}}
+{{S-ttl| title = Head of [[House Bracken]]}}
+{{S-inc}}
+{{S-end}}
+
+<!--Navboxes-->
+{{House Bracken/House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Bracken, Amos}}
+[[Category:Blacks]]
+[[Category:Greens]]
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Lords]]
+[[Category:Members of House Bracken|Amos Bracken]]
+[[Category:Rivermen]]
+
+<!--Languages-->
+[[es:Amos Bracken/House of the Dragon]]
+[[fr:Amos Bracken]]
+[[pl:Amos Bracken]]
+[[ru:Амос Бракен]]
+[[uk:Еймос Бракен]]

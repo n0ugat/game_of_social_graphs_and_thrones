@@ -1,0 +1,82 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Caswell.svg
+| Link  = House Caswell
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Tyrell
+| Image       = Allun Caswell Official Guide.jpg
+| Birth       = 
+| Death       = [[132 AC]]{{Dateref|The Green Council}}<br>[[Maegor's Holdfast]], [[King's Landing]]{{Ref|HOTD109}}
+| House       = [[House Caswell|Caswell]]{{Ref|HOTD106}}
+| Affiliation = [[House Tyrell]]<br>[[Blacks]]{{Guideref|Allun Caswell}}
+| Titles      = 
+| AKA         = 
+| Culture     = [[Reach]]{{Guideref|Allun Caswell}}
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = [[Lady Caswell]]
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 1|1]]
+| Appearances = 3 episodes {{Below|Appearances}}
+| First       = "[[The Princess and the Queen]]"
+| Last        = "[[The Green Council]]"
+| DeathEp     = "The Green Council"
+| Actor       = [[Paul Hickey]]
+}}
+{{Dialogue a-b|Allun|If I may be of any service?|Rhaenyra|The day may yet come, my lord.|Allun and Rhaenyra Targaryen|The Princess and the Queen}}
+Lord '''Allun Caswell''' was the head of [[House Caswell]] during the reign of [[Viserys I Targaryen|Viserys I]].
+
+==Biography==
+===Background===
+Allun is one of the [[Blacks]], supporters of [[Rhaenyra Targaryen]]'s claim as heir to the [[Iron Throne]].{{Guideref|Allun Caswell}}
+
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+Allun encounters Rhaenyra when she is summoned to [[Alicent Hightower|Alicent]]'s chambers. He congratulates her and [[Laenor Velaryon|Laenor]] on their newborn son, [[Joffrey Velaryon|Joffrey]].{{Ref|HOTD106}}
+
+Allun greets Rhaenyra and [[Daemon Targaryen|Daemon]] as they arrive at the Red Keep.{{Ref|HOTD108}}
+
+Allun is among the lords who bend the knee and swear fealty to [[Aegon II Targaryen|Aegon II]] in the [[throne room]], though he hesitates until witnessing the arrests of [[Lord Merryweather]] and [[Lady Fell]]. Shortly after, however, he attempts to leave the Red Keep in a hurry, but is apprehended and interrogated by [[Larys Strong]] and [[Otto Hightower]]. Realizing he is a supporter of Rhaenyra, they respond to his escape attempt by having him hanged in the courtyard of [[Maegor's Holdfast]].{{Ref|HOTD109}}
+
+==In the books==
+In ''[[Fire & Blood]]'', his name is only given as "Lord Caswell." He had at least two sons and one daughter.
+
+Lord Caswell was arrested and later beheaded (not hanged) for refusing to renounce Rhaenyra and swear allegiance to Aegon II. His head was mounted on a spike above the gates of King's Landing, along with those of [[Lord Merryweather]] and [[Lady Fell]].
+
+==Appearances==
+*{{HOTD|The Princess and the Queen}}
+*{{HOTD|The Lord of the Tides}}
+*{{HOTD|The Green Council}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|Lord Caswell (Dance)}} {{Spoilers|HOTD}}
+*{{TOG|character-guide#allun-caswell}}
+
+<!--Navboxes-->
+{{House Caswell}}
+
+<!--Categories-->
+{{DEFAULTSORT:Caswell, Allun}}
+[[Category:Bannermen of House Tyrell]]
+[[Category:Blacks]]
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Individuals from the Reach]]
+[[Category:Lords]]
+[[Category:Members of House Caswell|Allun Caswell]]
+
+<!--Languages-->
+[[es:Lord Caswell (Danza de los Dragones)]]
+[[fr:Allun Caswell]]
+[[ru:Аллан Касвелл]]
