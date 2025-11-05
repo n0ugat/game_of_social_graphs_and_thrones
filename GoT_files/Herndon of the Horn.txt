@@ -1,0 +1,70 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Leftimage  = House Gardener.svg
+| Leftlink   = House Gardener
+| Rightimage = House Tarly.svg
+| Rightlink  = House Tarly
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Gardener
+| Image       = Herndon the Horn.png
+| Birth       = At [[Highgarden]]
+| Death       = 
+| House       = [[House Gardener|Gardener]]<br>[[House Tarly|Tarly]]
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[First Men]]
+| Religion    = [[Old Gods]]
+| Father      = {[[Garth the Gardener]]}
+| Mother      = 
+| Spouse      = {Wife}
+| Lovers      = 
+| Children    = 
+| Siblings    = {[[Harlon the Hunter]]}
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Legend has it that Harlon the Hunter and Herndon of the Horn, two sons of Garth the Greenhand, raised the castle in the Age of Heroes, and shared a home and wife for a hundred years.|[[Randyll Tarly]]|House Tarly (short)}}
+'''Herndon of the Horn''' was a son of [[Garth the Gardener]] who raised [[Horn Hill]] with his brother, [[Harlon the Hunter]].
+
+==Biography==
+Herndon was the son of [[Garth the Gardener]] and brother of [[Harlon the Hunter]]. He lived during the [[Age of Heroes]]. Along with his brother, he raised the castle of [[Horn Hill]]. There he shared the castle and a wife with him. This way of life went on for them for a hundred years, until one of the two died.{{Ref|H&L616}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Herndon's story is the same. It was said that the wife he shared with Harlon was a beautiful woods witch and that they would not age as long as they had sex with her when there was a full moon.
+
+==Appearances==
+*{{H&L|House Tarly}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Gardener}}
+{{House Tarly}}
+{{Legendary figures}}
+
+<!--Categories-->
+[[Category:First Men]]
+[[Category:House founders]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Individuals from the Reach]]
+[[Category:Legendary figures]]
+[[Category:Members of House Gardener]]
+[[Category:Members of House Tarly]]
+
+<!--Languages-->
+[[de:Herndon vom Horn]]
+[[ru:Херндон Рог]]

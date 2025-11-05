@@ -1,0 +1,44 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Harry Collett.jpg
+| Birth   = January 17, 2004 {{Age|2004|1|17}}<br>Havering, London, England
+| Death   = 
+| Role    = [[Jacaerys Velaryon]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]] {{*}} [[House of the Dragon: Season 2|2]] {{*}} [[House of the Dragon: Season 3|3]]
+| Credits = 10 episodes {{Below|Credits}}
+| First   = "[[The Lord of the Tides]]"
+| Last    = 
+}}
+'''Harry Collett''' (born 17 January 2004) is an English actor. He is known for playing Young Galavant in the titular show, the little boy in ''Dunkirk'', and Tommy Stubbins in ''Dolittle''.
+
+He portrays Prince [[Jacaerys Velaryon]] in ''[[House of the Dragon]]''.<ref>https://pressroom.warnermedia.com/us/bio/house-dragon-character-descriptions</ref>
+
+==Credits==
+===Starring===
+{{House of the Dragon: Season 1||||||||yes||yes}}
+{{House of the Dragon: Season 2|yes|yes|yes|yes|yes|yes|yes|yes}}
+{{House of the Dragon: Season 3}}
+
+==See also==
+*{{WP}}
+*{{IMDb|# = 6708646}}
+*{{Twitter|# = @hcollettactor}}
+*{{Instagram|# = harrycollettactor}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House of the Dragon}}
+{{House of the Dragon: Inside the Episode}}
+
+<!--Categories-->
+{{DEFAULTSORT:Collett, Harry}}
+[[Category:Commentators of House of the Dragon: Inside the Episode]]
+[[Category:Starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Harry Collett]]
+[[pl:Harry Collett]]

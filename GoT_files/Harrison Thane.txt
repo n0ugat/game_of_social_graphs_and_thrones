@@ -1,0 +1,26 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = 
+| Birth   = 
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 2|2]]
+| Credits = "[[Valar Morghulis]]"
+| First   = 
+| Last    = 
+}}
+'''Harrison Thane''' is a stuntman.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 2|second season]] episode "[[Valar Morghulis]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 2||||||||||yes}}
+
+==See also==
+*{{IMDb
+|# = 5085546}}
+{{DEFAULTSORT:Thane, Harrison}}
+[[Category:Stunt performers of Game of Thrones]]

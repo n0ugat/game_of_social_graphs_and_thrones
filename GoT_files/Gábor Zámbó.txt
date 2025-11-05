@@ -1,0 +1,28 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Gábor Zámbó.jpg
+| Birth   = 
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = "[[The Heirs of the Dragon]]"
+| First   = 
+| Last    = 
+}}
+'''Gábor Zámbó''' is a stuntman.
+
+In ''[[House of the Dragon]]'', he was a stunt performer in the [[House of the Dragon: Season 1|first season]] episode "[[The Heirs of the Dragon]]".
+
+==Credits==
+===Stunts===
+{{House of the Dragon: Season 1|yes}}
+
+==See also==
+*{{IMDb
+|# = 12256432}}
+*{{Instagram
+|# = gaborzambostunt}}
+{{DEFAULTSORT:Zámbó, Gábor}}
+[[Category:Stunt performers of House of the Dragon]]

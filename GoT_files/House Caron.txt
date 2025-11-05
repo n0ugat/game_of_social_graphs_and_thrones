@@ -1,0 +1,79 @@
+{{Canonicity|Canon}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Baratheon
+| Image     = House Caron.svg
+| Arms      = Eight black nightingales contourny on yellow
+| Words     = "No Song So Sweet"
+| Titles    = 
+| Seat      = [[Nightsong]]
+| Region    = [[Stormlands]]
+| Head      = 
+| Heir      = 
+| Overlords = [[House Baratheon]]<br>{[[House Baratheon of Dragonstone]]} {{C|[[299 AC|299]]{{Dateref|Game of Thrones: Season 2}}-[[302 AC]]}}{{Dateref|Game of Thrones: Season 5}}
+| Vassals   = 
+| Religion  = [[Faith of the Seven]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Caron'''{{Guideref|Viewer's Guide}} of [[Nightsong]] is a vassal house from the [[Stormlands]] that holds fealty to [[House Baratheon]] of [[Storm's End]]. Their lands are in the [[Dornish Marches]]. The Caron sigil is a field of black nightingales on yellow. Their [[house words]] are "No Song So Sweet."
+
+==History==
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+House Caron takes part in the Tourney of the Hand.<ref>"[[The Wolf and the Lion]]"</ref>
+
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+House Caron pledges its support to [[Renly Baratheon]]'s claim to the [[Iron Throne]]. Following [[Assassination of Renly Baratheon|Renly's death]], the Carons go over to [[Stannis Baratheon|Stannis]] and participate in the [[Battle of the Blackwater]].<ref>Season 2 Blu-ray: War of the Five Kings feature</ref>
+
+==Members==
+===Historical members===
+*Ser {[[Royce Caron]]}, a knight of House Caron during the reign of King [[Viserys I Targaryen]].
+**Ser {[[Desmond Caron]]}, his son. A strong and steady knight considered for the [[Kingsguard/House of the Dragon|Kingsguard]] following the death of [[Lord Commander of the Kingsguard|Lord Commander]] [[Ryam Redwyne]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the Carons are a loyal vassal house to House Baratheon of Storm's End. The Carons claim to be the oldest of the marcher lords, a claim disputed by [[House Swann]].
+
+Lord Bryce Caron, son of the late Bryen Caron, is a respected warrior. He has a bastard brother, Ser Rolland Storm, who is called the Bastard of Nightsong.
+
+Bryce Caron, not [[Davos Seaworth|Davos]], was the one who dissuaded [[Stannis Baratheon|Stannis]] from taking [[Melisandre]] to the [[Battle of the Blackwater]], claiming that people would say Stannis owed the crown to her spells. In the battle, Bryce was killed in single combat by Ser Philip Foote. His lands, titles and incomes were granted to Ser Philip by the king.
+
+===Members===
+*Lord {Bryen Caron}, the late Lord of the Marches.
+** {Bryce Caron}, Lord of the Marches and Lord of [[Nightsong]]. Killed in the [[Battle of the Blackwater]].
+**Ser Rolland Storm, his bastard brother.
+
+==Gallery==
+<gallery>
+File:Caron Knight.jpg|A knight of House Caron at the [[Tournament#Tourney of the Hand|Tourney of the Hand]] in "[[The Wolf and the Lion]]".
+File:GoT-HandsTournament-House-Carron-Banner-Screenshot.png|The banner of House Caron at the [[Tournament#Tourney of the Hand|Tourney of the Hand]].
+File:House Caron Alternate.svg|The original heraldry of House Caron from ''Game of Thrones''.
+File:Desmond Caron.png|Ser Desmond Caron displaying the redesigned House Caron heraldry from ''House of the Dragon''.
+File:House Caron totem.png|House Caron totem.
+</gallery>
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{House Caron}}
+{{Houses from the Stormlands}}
+
+<!--Categories-->
+{{DEFAULTSORT:Caron, House}}
+[[Category:House Caron| ]]
+[[Category:Houses from the Dornish Marches]]
+[[Category:Houses from the Stormlands]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[fr:Maison Caron]]
+[[pl:Ród Caron]]
+[[ru:Кароны]]

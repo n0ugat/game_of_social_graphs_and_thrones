@@ -1,0 +1,44 @@
+{{Canonicity|Canon}}
+{{MapNeeded}}
+{{Heraldry
+| Image = House Goodbrother.svg
+| Link  = House Goodbrother
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Greyjoy
+| Image        = 
+| Type         = Castle
+| Status       = 
+| Location     = [[Great Wyk]], the [[Iron Islands]]
+| Population   = 
+| Rulers       = [[House Goodbrother]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Drowned God]]
+| Places       = 
+| Founded      = 
+}}
+'''Hammerhorn'''{{Guideref|Great Wyk}} is a castle located in [[Great Wyk]], the largest of the [[Iron Islands]]. It serves as the seat of [[House Goodbrother]] and lies in the [[Hardstone Hills]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Hammerhorn is the seat of the main line of House Goodbrother. It is a large, square castle. The stones used for its construction were quarried from the cliff behind it. Below its main entrance lie the openings to the mines and caves that the thralls in service to House Goodbrother toil in.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Iron Islands}}
+
+<!--Categories-->
+[[Category:Castles of the Iron Islands]]
+[[Category:Hardstone Hills]]
+[[Category:House Goodbrother]]
+
+<!--Languages-->
+[[de:Hammerhorn]]
+[[es:Cuernomartillo]]
+[[zh:战锤角]]

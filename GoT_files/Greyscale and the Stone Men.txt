@@ -1,0 +1,106 @@
+{{Short
+| Title    = {{PAGENAME}}
+| Type     = Lore
+| Image    = H&L513.png
+| Season   = 5
+| Short    = 13
+| Date     = March 15, 2016{{Webref|name=Blu-ray |author=HBOWatch Staff |date=October 7, 2015 |url=https://hbowatch.com/game-of-thrones-season-5-available-in-blu-ray-dvd-march-15-2016/ |title=Game of Thrones Season 5 Available on Blu-ray, DVD March 15, 2016 |website=HBO Watch |access-date=December 15, 2023 }}
+| Runtime  = 3 minutes{{Ref|H&L513}}
+| Narrator = [[Qyburn]]{{Boxref|GOT5}}
+| Writer   = [[Dave Hill]]{{Webref|name=Hill |author=Vanessa Cole |date=July 22, 2017 |url=https://web.archive.org/web/20201111213241/https://watchersonthewall.com/game-thrones-writer-dave-hill-gives-behind-scenes-look-creative-process/ |title=Game of Thrones writer Dave Hill gives a behind the scenes look at the creative process |website=Watchers on the Wall |access-date=December 15, 2023 }}
+| Director = 
+| Previous = "[[The Many-Faced God]]"{{Boxref|GOT5}}
+| Next     = "[[The Great Masters of Meereen]]"{{Boxref|GOT5}}
+}}
+"'''Greyscale and the Stone Men'''"{{Boxref|GOT5}} is the thirteenth short of the [[Histories & Lore: Season 5|fifth season]] of ''[[Histories & Lore]]''. It is the eighty-eighth short of the series overall. It was released on March 15, 2016 in ''[[Game of Thrones: The Complete Fifth Season]]''. It was narrated by [[Anton Lesser]] as [[Qyburn]] and written by [[Dave Hill]].
+
+==Premise==
+{{Premise|H&L513}}
+
+==Narration==
+'''Qyburn''': ''Few afflictions are more feared than [[greyscale]], and far past the point of reason.''
+
+''A legend calls it "Prince [[Garin the Great|Garin]]'s curse," after an ancient [[Rhoynar|eastern]] prince whom the [[Valyrians]] hung in a cage and forced to watch the immolation of [[Chroyane|his city]] and people.''
+
+''As his city burned under dragonflame, this prince called on his [[Mother Rhoyne|god]] for vengeance, and a thick fog of foul humors rose from the Rhoyne to smother the Valyrians with greyscale.''
+
+''But if diseases could be called down by the vengeful, we would have no health in the world.''
+
+''More likely the disease predates the Valyrians entirely, confined to some remote region of [[Essos]], and only spread throughout the world once the Valyrians linked the continent with [[Valyrian roads|roads]] and [[dragon]]s.''
+
+''The disease begins as a rash. The afflicted flesh stiffens, calcifies, and cracks, and assumes the disease's nominal hue. Victims are graciously spared pain, as the disease dulls sensation in the infected limbs.''
+
+''But the disease is insidious and slowly it creeps over the skin and into the organs. Once the infection reaches the brain, feral madness replaces humanity and the transformation to a [[Stone Men|Stone Man]] is complete.''
+
+''There is no consensus on treatment. Some [[Order of Maesters|maesters]] advocate mustard poultices, vinegar rinses, and scalding hot baths. Others claim only three cures: ax, sword, and cleaver.''
+
+''Hacking off afflicted parts does sometimes stop the spread of the disease, but not always.''
+
+''Many a man has sacrificed an arm or foot only to find the other going grey.''
+
+''Those who have been miraculously cured of greyscale are few and usually were subjected to so many treatments that isolating the responsible cure is impossible.''
+
+''Besides, few maesters, priests, or healers have the courage for such experiments as would prove a cure.''
+
+''Greyscale is highly contagious, being known to spread from even the slightest contact with an infected person.''
+
+''Hence the current occupation of [[Old Valyria|Valyria]] by the stone men, exiled from their homelands at the first sign of the disease. What they do with their final months or even years, for greyscale is a slow killer, no one knows.''
+
+''No one wants to find out.''
+
+==Appearances==
+===Individuals===
+*Prince [[Garin the Great]]
+
+===Locations===
+*[[Essos]]
+**[[Rhoyne]]
+**[[Chroyane]] {{Unnamed}}
+*[[Westeros]]
+**The [[Reach]]
+***[[Oldtown]]
+****The [[Citadel]]
+*[[Old Valyria|Valyria]] {{Mentioned}}
+**[[Valyrian roads]] {{Mentioned}}
+
+===Events===
+*[[Rhoynish Wars]] {{Mentioned}}
+
+===Organizations===
+*[[Order of Maesters]]
+
+===Races===
+*[[Valyrians]] {{Mentioned}}
+
+===Miscellaneous===
+*[[Greyscale]]
+**[[Stone Men]]
+*[[Dragon]] {{Mentioned}}
+*[[Mother Rhoyne]] {{Indirect}}
+
+==Cast==
+*[[Anton Lesser]] as [[Qyburn]]
+
+==Behind the scenes==
+*The map of [[Essos]] that appears in a book Qyburn is reading continues to depict the [[Jade Sea]] as extending north from [[Qarth]]. When George R.R. Martin provided the TV series with a larger map of Essos during Season 2, it was an early draft version. Later, however, he heavily revised the world map with the subsequent release of ''The Lands of Ice and Fire'', establishing that in the book continuity, the Jade Sea extends ''south'' from the same latitude as Qarth. The TV series world maps were never updated to take these changes into account (it's possible they ''cannot'', due to various copyright issues). Because [[Yi Ti]] is described as being on the north shore of the Jade Sea, this is makes the rather large difference of [[Yi Ti]] being at the same latitude as [[Pentos]] in the TV version maps, and at the same latitude as [[Volantis]] in the book version maps.
+
+==Gallery==
+<gallery bordersize="none">
+Greyscale and the Stone Men
+</gallery>
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{Histories & Lore}}
+
+<!--Categories-->
+[[Category:Shorts narrated by Qyburn]]
+[[Category:Shorts of Histories & Lore: Season 5| 13]]
+[[Category:Shorts released in 2016|3.15M]]
+[[Category:Shorts written by Dave Hill]]
+
+<!--Languages-->
+[[fr:Grisécaille et les Hommes de pierre (Histoires & Traditions)]]
+[[pt-br:Escamagris e os Homens de Pedra]]

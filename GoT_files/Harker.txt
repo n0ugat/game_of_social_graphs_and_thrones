@@ -1,0 +1,71 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Night's Watch.svg
+| Link  = Night's Watch
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = Harker2x06.jpg
+| Birth       = 
+| Death       = [[299 AC]]{{Dateref|Game of Thrones: Season 2}}<br>The [[Skirling Pass]], [[beyond the Wall]]{{Ref|GOT208}}
+| House       = 
+| Affiliation = [[Night's Watch]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 2|2]]
+| Appearances = 2 episodes {{Below|Appearances}}
+| First       = "[[The Ghost of Harrenhal]]"
+| Last        = "[[The Old Gods and the New]]"
+| DeathEp     = "[[The Prince of Winterfell]]" {{C|fate confirmed}}
+| Actor       = 
+}}
+'''Harker''' was a member of the [[Night's Watch]], a [[ranger]] serving under [[Qhorin]]. He was killed by [[Free Folk|wildlings]] while scouting the [[Skirling Pass]].
+
+==Biography==
+===Background===
+He is a [[Ranger]] of the [[Night's Watch]].{{Ref|GOT205}}
+
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+After meeting the force led by [[Lord Commander of the Night's Watch|Lord Commander]] [[Jeor Mormont]] at the [[Fist of the First Men]], [[Qhorin]] selects [[Stonesnake]], Harker, and [[Borba]] for a scouting party to ambush a group of [[Free Folk|wildling]] lookouts. They are joined by [[Jon Snow]].{{Ref|GOT205}} They locate and surprise the lookouts, killing all but one of them. Jon is left to execute the wildling survivor.{{Ref|GOT206}} Jon does not return and they return for him. They pick up his tracks but are ambushed by wildlings. Harker, Stonesnake and Borba are killed while Qhorin is captured. Jon had spared the captive and she leads him into a similar ambush. Qhorin seizes the opportunity to insert Jon as an infiltrator in the wildling ranks by berating him for the deaths of the others publicly.{{Ref|GOT208}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no character of this name. [[Qhorin]]'s party includes [[Stonesnake]] and [[Jon Snow]] as in the show but also features Squire Dalbridge and Ebben.
+
+==Appearances==
+*{{GOT|The Ghost of Harrenhal}}
+*{{GOT|The Old Gods and the New}}
+*{{GOT|The Prince of Winterfell}} {{Indirect}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|Dalbridge}}
+*{{AWOIAF|Ebben}}
+
+<!--Navboxes-->
+{{Night's Watch}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Rangers of the Night's Watch]]
+[[Category:Westerosi]]
+
+<!--Languages-->
+[[fr:Harker]]
+[[ru:Харкер]]

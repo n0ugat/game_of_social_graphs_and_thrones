@@ -1,0 +1,20 @@
+{{Crew
+|Image = 
+|dateofbirth = 
+|birthplace = 
+|job = Stunt Truck Driver
+|imdb = https://www.imdb.com/name/nm4669914/
+|twitter = }}
+'''Gudni Kristjansson''' is a stuntman, production assistant and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt truck driver in the [[Game of Thrones: Season 4|fourth season]] episodes "[[Breaker of Chains]]", "[[Mockingbird]]", "[[The Mountain and the Viper]]" and "[[The Children]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 4|||yes||||yes|yes||yes}}
+
+==See also==
+*{{IMDb
+|# = 4669914}}
+{{DEFAULTSORT:Kristjansson, Gudni}}
+[[Category:Stunt performers of Game of Thrones]]

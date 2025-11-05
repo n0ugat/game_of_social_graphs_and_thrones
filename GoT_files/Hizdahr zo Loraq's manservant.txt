@@ -1,0 +1,60 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Slaver's Bay.svg
+| Link  = Great Masters
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Ghiscari
+| Image       = Slave master 3.jpg
+| Birth       = In [[Meereen]]
+| Death       = 
+| House       = 
+| Affiliation = [[House of Loraq]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Ghiscari]] {{C|[[Meereen]]ese}}
+| Religion    = [[Ghiscari religion]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 4|4]]
+| Appearances = 2 episodes {{Below|Appearances}}
+| First       = "[[Breaker of Chains]]"
+| Last        = "[[The Laws of Gods and Men]]"
+| DeathEp     = 
+| Actor       = [[Conor Watters]]
+}}
+{{Dialogue a-b|Manservant|Ji rehéde Síasa Hizdár zo Lóraq píndas me jeré ji Daré.<br>(The noble Hizdahr zo Loraq begs an audience with the Queen.)|Daenerys Targaryen|Rehedesíazar Hizdahr zo Loraq sijinot syt ynot vestragon kostas.<br>(The noble Hizdahr zo Loraq can speak to me himself.)|[[Daenerys Targaryen]] dispenses of the manservant|The Laws of Gods and Men}}
+'''Hizdahr zo Loraq's manservant''' is a [[Meereen]]ese man serving the [[House of Loraq]].
+
+==Biography==
+===Background===
+He is a [[Meereen]]ese man serving the [[House of Loraq]]. His clothing and lack of collar suggest that he is a free man working as a servant, not a [[Slavery|slave]], even prior to Daenerys's victory.
+
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+He's alongside [[Hizdahr zo Loraq]] when the [[Great Masters]] gather over the walls of Meereen when [[Daenerys Targaryen]] and her army appear before the city gates to lay [[Siege of Meereen|siege]] to the city.{{Ref|GOT403}}
+
+He later accompanies Hizdahr to petition the Queen on the matter of burying his father's remains. The manservant follows protocol by communicating (in [[Low Valyrian]]) with [[Missandei]] instead of having Hizdahr and Daenerys actually speak, but the queen has them dispense with the pageantry and orders Hizdahr to to address her directly.{{Ref|GOT406}}
+
+==Appearances==
+*{{GOT|Breaker of Chains}}
+*{{GOT|The Laws of Gods and Men}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+{{DEFAULTSORT:Loraq's manservant, Hizdahr zo}}
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Meereenese]]
+[[Category:Servants and retainers of the House of Loraq|manservant]]
+
+<!--Languages-->
+[[ru:Слуга Хиздара]]

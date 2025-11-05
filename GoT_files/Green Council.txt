@@ -1,0 +1,65 @@
+{{Canonicity|Canon}}
+{{OtherUses|council|The Green Council (disambiguation)}}
+{{Organization
+| Title       = {{PAGENAME}}
+| Theme       = Greens
+| Image       = TGC Green Council Still 2.jpg
+| Type        = Privy council<br>Royal advisory body
+| Status      = Active
+| Symbol      = 
+| Words       = 
+| Center      = [[Red Keep]], [[King's Landing]]
+| Leader      = [[Prince]] [[Regent]] [[Aemond Targaryen]], [[Protector of the Realm]]
+| Affiliation = [[King of the Andals and the Rhoynar and the First Men|King]] [[Aegon II Targaryen]]
+| Religion    = 
+| Military    = [[Greens]]
+| Founded     = By [[132 AC]]{{Dateref|The Green Council}}
+}}
+{{Quote|Then we may proceed now with the full assurance of his blessing on our long-laid plans.|Tyland Lannister, referring to Viserys I Targaryen|The Green Council}}
+The '''Green Council'''{{Ref|HOTD109}} is the [[Small Council]] of [[King of the Andals and the Rhoynar and the First Men|King]] [[Aegon II Targaryen]] during the [[House Targaryen/House of the Dragon|Targaryen]] civil war known as the [[Dance of the Dragons]]. It was formed out of the Small Council of Aegon's predecessor, [[Viserys I Targaryen]], which had come to be dominated by the [[Greens]]. Late in Viserys's reign, the Green Council secretly conspired to undermine Viserys's will by installing Aegon on the [[Iron Throne]] over his chosen heir, [[Rhaenyra Targaryen]].
+
+==Composition==
+The Green Council was mostly composed of the members of King [[Viserys I Targaryen]]'s Small Council at the time of his death.{{Ref|HOTD109}} That council had come to be dominated by [[Greens]], the court faction led by the [[House Hightower/House of the Dragon|Hightowers]] that supported [[Prince]] [[Aegon II Targaryen|Aegon]]'s claim to the [[Iron Throne]] over Princess [[Rhaenyra Targaryen|Rhaenyra]]'s.{{Ref|HOTD107}} These included Ser [[Otto Hightower]], the [[Hand of the King]] and Prince Aegon's grandfather, Ser [[Tyland Lannister]], Lord [[Jasper Wylde]], and [[Grand Maester]] [[Orwyle]], who together formed the initial conspiracy to secure Aegon's ascension.{{Ref|HOTD109}}
+
+Of the six men on that Small Council, only two remained openly loyal to Rhaenyra. One was Lord [[Lyman Beesbury]], the old [[Master of Coin]] who had served at court for many years, and was determined to honor Viserys's will that Rhaenyra would succeed him on the throne. At the emergency Small Council meeting called by Otto upon Viserys's death, Beesbury alone refused to support Aegon's claim. In response to Beesbury's continued protests, Ser [[Criston Cole]] seized the old lord and shoved him into his seat, inadvertently killing him. The other was Ser [[Harrold Westerling]], the [[Lord Commander of the Kingsguard]], who refused to go along with the plot and left the [[Red Keep]]. Thereafter, Aegon's Small Council consisted only of the Green Council. Queen [[Alicent Hightower]] joined the council despite having been excluded from the initial conspiracy, while Ser Criston was named the new [[Lord Commander]] of the [[Kingsguard]].{{Ref|HOTD109}}
+
+Since the onset of the [[Dance of the Dragons]], the council's composition has remained largely consistent, with Prince [[Aemond Targaryen]] joining the council at Aegon's insistence early on in the conflict. Still lacking a [[Master of Ships]], the council proposed nominating Lord [[Dalton Greyjoy]] for the position, both as a means of securing [[House Greyjoy/House of the Dragon|House Greyjoy]] for the Greens and gaining access to the [[Iron Fleet]] for assistance in breaking the [[Blacks]]' [[blockade of the Gullet]], although this suggestion was not followed through.{{Ref|HOTD201}} The first shakeup in the council's membership would occur when Otto was dismissed as Hand by Aegon II, subsequently replaced by Ser Criston Cole.{{Ref|HOTD203}} After Aegon II was rendered incapacitated following the [[Battle at Rook's Rest]], the Green Council nominated Aemond to serve as [[regent]] and was granted the title [[Protector of the Realm]], effectively making him the leader of both the council and the Greens as a whole.{{Ref|HOTD205}}
+
+==Members==
+At the outset of the [[Dance of the Dragons]]:
+
+*Prince [[Regent]] [[Aemond Targaryen]]
+*[[Hand of the King]]: 
+**Ser [[Otto Hightower]]
+**Ser [[Criston Cole]]
+*[[Master of Coin]]: Ser [[Tyland Lannister]]
+*[[Master of Laws]]: Lord [[Jasper Wylde]]
+*[[Master of Whisperers]]: Lord [[Larys Strong]]
+*[[Grand Maester]]: [[Orwyle]]
+*[[Lord Commander of the Kingsguard]]: Ser Criston Cole
+*Queen Dowager [[Alicent Hightower]]
+
+
+==In the books==
+In ''[[Fire and Blood]]'' by [[George R.R. Martin]], the Green Council is composed of many of the same figures. However, Ser [[Criston Cole]] and Lord [[Larys Strong]] also sit on the Green Council from the beginning, as the [[Lord Commander of the Kingsguard]] and the [[Master of Whisperers|master of whisperers]], respectively, as Ser [[Harrold Westerling]] is already dead by this time in the books. Furthermore, Queen [[Alicent Hightower]] is depicted as having been part of the Green Council from its inception, having convened the council alongside her father, Ser [[Otto Hightower]], as opposed to having been excluded from its conception as portrayed in the television adaptation ''[[House of the Dragon]]''.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|Greens#Green Council}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{Green Council}}
+
+<!--Categories-->
+[[Category:Green Council| ]]
+[[Category:Greens|Council]]
+[[Category:Small Council]]
+
+<!--Languages-->
+[[ru:Зелёный совет (организация)]]
+[[uk:Зелена рада]]

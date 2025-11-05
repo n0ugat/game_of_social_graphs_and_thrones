@@ -1,0 +1,68 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = Order of Maesters.svg
+| Link  = Order of Maesters
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Citadel
+| Image       = Helliweg.png
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[Order of Maesters]]<br>[[House Royce]]
+| Titles      = Maester
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 5|5]]
+| Appearances = "[[The Wars To Come]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Joe Hewetson]]
+}}
+{{Quote|My lord.|Helliweg to [[Petyr Baelish]]|The Wars To Come}}
+'''Helliweg'''{{Con|ASOIAF}} is a young member of the [[Order of Maesters]], and is in service to [[House Royce]] at [[Runestone]].
+
+==Biography==
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+Helliweg delivers a message to Lord [[Petyr Baelish]] when the latter is watching the training of Lord [[Robin Arryn]], who is being [[Ward|fostered]] by Lord [[Yohn Royce]].{{Ref|GOT501}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Helliweg is also the maester of Runestone. However, unlike his TV counterpart, he is described as particularly aged and venerable.
+
+==Appearances==
+*{{GOT|The Wars To Come}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Royce}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Maesters]]
+[[Category:Servants and retainers of House Royce]]
+[[Category:Westerosi]]
+
+<!--Languages-->
+[[fr:Helliweg]]
+[[ru:Хелливег]]

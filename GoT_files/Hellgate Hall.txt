@@ -1,0 +1,32 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Martell
+| Image        = 
+| Type         = Castle
+| Status       = 
+| Location     = [[Dorne]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = 
+| Places       = 
+| Founded      = 
+}}
+'''Hellgate Hall'''{{Ref|THTDB201}} is a castle in [[Dorne]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Hellgate Hall was the seat of House Dryland, Kings of the Brimstone. Its status in the present day is unknown.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Dorne}}
+
+<!--Categories-->
+[[Category:Castles of Dorne]]

@@ -1,0 +1,40 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Lannister
+| Image        = Hornvale Pin.png
+| Type         = Castle
+| Status       = 
+| Location     = The [[Westerlands]], [[Westeros]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Hornvale'''{{Guideref|Map of Westeros}} is a castle in the [[Westerlands]], the region controlled by [[House Lannister]] of [[Casterly Rock]]. The castle is located in the center of the region, among the mountains east of Casterly Rock. It is south of [[Golden Tooth]], near the headwaters of the [[Red Fork]] of the [[Trident]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Hornvale is the seat of House Brax, a loyal vassal house of the Lannisters.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Westerlands}}
+
+<!--Categories-->
+[[Category:Castles of the Westerlands]]
+
+<!--Languages-->
+[[de:Horntal]]
+[[es:Valdecuerno]]
+[[it:Valle del Corno]]
+[[pl:Hornvale]]
+[[ru:Хорнваль]]
+[[zh:角谷城]]

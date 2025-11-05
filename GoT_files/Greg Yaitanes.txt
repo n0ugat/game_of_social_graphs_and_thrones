@@ -1,0 +1,53 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Greg Yaitanes.jpg
+| Birth   = Gegory Charles Yaitanes<br>June 18, 1970 {{Age|1970|6|18}}<br>Wellesley, Massachusetts, United States
+| Death   = 
+| Role    = Co-executive producer<br>Director
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = 10 episodes {{Below|Credits}}
+| First   = "[[The Heirs of the Dragon]]"
+| Last    = 
+}}
+'''Gregory Charles Yaitanes'''{{Note|[ˈjeɪtːaɪnːɪz] yuh-<small>TAYN</small>-is}} (born 18 June 1970) is an American director. He has directed episodes of ''{{WPS|Nash Bridges}}'', ''{{WPS|Las Vegas (TV series)|Las Vegas}}'', ''{{WPS|Cold Case}}'', ''{{WPS|CSI: NY}}'', ''{{WPS|CSI: Miami}}'', ''{{WPS|Alias (TV series)|Alias}}'', ''{{WPS|Nip/Tuck}}'', ''{{WPS|Grey's Anatomy}}'', ''{{WPS|Prison Break}}'', ''{{WPS|Damages (TV series)|Damages}}'', ''{{WPS|Heroes (TV series)|Heroes}}'', ''{{WPS|Lost (TV series)|Lost}}'', ''{{WPS|House (American TV series)|House}}'', ''{{WPS|Ray Donovan}}'', ''{{WPS|Banshee (TV series)|Banshee}}'', ''{{WPS|Underground (TV series)|Underground}}'', ''{{WPS|Genius (American TV series)|Genius}}'', ''{{WPS|The Twilight Zone (2019 TV series)|The Twilight Zone}}'' and ''{{WPS|Castle Rock (TV series)|Castle Rock}}''.  He also directed the ''{{WPS|Children of Dune (miniseries)|Children of Dune}}'' 2005 miniseries adaptation.
+
+He won the 2008 Emmy Award for Best Directing in a Drama Series for the ''House'' Season 4 episode "House's Head" - the same year that the pilots for ''Mad Men'', ''Breaking Bad'', and ''Damages'' were all competing against his episode in that category.
+
+He is a director and co-executive producer on  ''[[House of the Dragon]]''.<ref>[https://www.hbo.com/house-of-the-dragon House of the Dragon on HBO]</ref>
+
+==Credits==
+===Co-executive producer===
+*{{HOTD|Season 1}}
+
+===Director===
+{{House of the Dragon: Season 1||yes|yes|||||||yes}}
+
+==See also==
+*{{WP}}
+*{{IMDb|#=0944981}}
+*{{Twitter|#=gregyaitanes}}
+*{{Instagram|#=gregyaitanes}}
+*[https://www.youtube.com/watch?v=2OEcjUakfWQ Greeks Gone West] interview, July 2014
+*[https://www.youtube.com/watch?v=IPwqCTAVU-w Stoughton Spotlight] interview, January 2016
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{House of the Dragon: Inside the Episode}}
+
+<!--Categories-->
+{{DEFAULTSORT:Yaitanes, Greg}}
+[[Category:Co-executive producers of House of the Dragon]]
+[[Category:Commentators of House of the Dragon: Inside the Episode]]
+[[Category:Directors of House of the Dragon]]
+
+<!--Languages-->
+[[de:Greg Yaitanes]]
+[[fr:Greg Yaitanes]]
+[[pt-br:Greg Yaitanes]]

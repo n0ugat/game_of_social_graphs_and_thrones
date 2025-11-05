@@ -1,0 +1,76 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Tyrell.svg
+| Link  = House Tyrell
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Tyrell
+| Image       = Harlen bending the knee.png
+| Birth       = During the [[Century of Blood]], at [[Highgarden]]
+| Death       = 
+| House       = [[House Tyrell|Tyrell]]
+| Affiliation = [[House Gardener]]<br>[[House Targaryen]]
+| Titles      = [[High Steward of Highgarden]] {{C|pre-[[Aegon's Conquest]]}}<br>[[Lord of Highgarden]]<br>[[Lord Paramount of the Reach]]<br>[[Warden of the South]]
+| Predecessor = {[[Mern IX Gardener]]} {{C|ruler of the Reach}}
+| Successor   = 
+| AKA         = 
+| Culture     = [[Andals|Andal]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = {Wife}
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Instead of using the castle for what it was built to do, Harlen Tyrell surrendered it to Aegon without a fight. In exchange, Harlen was given the castle his family had served for thousands of years with all its attendant lands and lords, including my family. Perhaps the Tyrells were great once, but Harlen gave away their honor when he opened gates that weren't his to open, and, to a foreign invader. Ever since, there hasn't been a Lord Tyrell who wasn't a mockery of the title.|[[Randyll Tarly]]|Highgarden (short)}}
+Lord '''Harlen Tyrell''' was the [[High Steward of Highgarden]] during the reign of King [[Mern IX Gardener|Mern IX]] of the [[Reach]].
+
+==Biography==
+After the death of his king in the [[Field of Fire]], Harlen surrendered [[Highgarden]] to [[Aegon I Targaryen|Aegon the Conqueror]]. Afterward, Aegon elevated Harlen to [[Lord Paramount of the Reach]] and [[Warden of the South]] and [[House Tyrell]] to the status of a [[Great House]].<ref>[http://viewers-guide.hbo.com/game-of-thrones/season2/#!/locations/highgarden/ HBO viewers guide entry on Highgarden]</ref>{{Ref|H&L208}}
+
+According to [[Olenna Tyrell]], Harlen was like most Tyrell men and grew up banging steel too loudly for thought to penetrate, like his descendants [[Luthor Tyrell|Luthor]], [[Mace Tyrell|Mace]], and [[Loras Tyrell|Loras]]. She also implies that it was Harlen's wife who came up with the idea to surrender to Aegon and convinced Harlen to go along with it.{{Ref|H&L312}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Harlen Tyrell's story is the same.
+
+==Appearances==
+*{{H&L|Robert's Rebellion - Margaery Tyrell}} {{Illustrated}}
+*{{H&L|House Tyrell}} {{Illustrated}}
+*{{H&L|The Reach}} {{Illustrated}}
+*{{H&L|Highgarden}} {{Illustrated}}
+*{{C&R|House Martell, Princes of Dorne}} {{Indirect}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Harlan Tyrell}}
+
+<!--Navboxes-->
+{{House Tyrell}}
+
+<!--Categories-->
+{{DEFAULTSORT:Tyrell, Harlen}}
+[[Category:Bannermen of House Targaryen]]
+[[Category:Individuals from Game of Thrones: Conquest & Rebellion: An Animated History of the Seven Kingdoms]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Individuals from the Reach]]
+[[Category:Lords of Highgarden]]
+[[Category:Lords Paramount of the Reach]]
+[[Category:Members of House Tyrell|Harlen Tyrell]]
+[[Category:Stewards]]
+[[Category:Wardens of the South]]
+
+<!--Languages-->
+[[de:Harlen Tyrell]]
+[[pl:Harlen Tyrell]]
+[[ru:Харлен Тирелл]]

@@ -1,0 +1,70 @@
+{{Canonicity|Canon}}
+{{ConjectureInfo}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Targaryen
+| Image     = House Bar Emmon.svg
+| Arms      = A leaping blue swordfish on white{{Ref|HOTD103}}
+| Words     = 
+| Titles    = [[Lordship|Lord of Sharp Point]]
+| Seat      = [[Sharp Point]]
+| Region    = [[Crownlands]]
+| Head      = 
+| Heir      = 
+| Overlords = [[House Targaryen/House of the Dragon|House Targaryen]]
+| Vassals   = 
+| Religion  = [[Faith of the Seven]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+{{Quote|We already have declarations from Celtigar and Staunton; Massey, Darklyn, Bar Emmon.|Gerardys|The Black Queen}}
+'''House Bar Emmon'''{{Ref|HOTD110}}{{Note|Gerardys mentions a declaration from Bar Emmon.}} of [[Sharp Point]] is a [[noble house]] in the [[Crownlands]], sworn to the [[Iron Throne]] and more directly to the [[Prince of Dragonstone]]. They rule the castle Sharp Point on Massey's Hook.
+
+==History==
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+[[Man-at-arms|Men-at-arms]] from House Bar Emmon take part in the [[War for the Stepstones]].{{Ref|HOTD103}}
+
+[[Lord Bar Emmon]] declares for [[Rhaenyra Targaryen|Rhaenyra]] at the start of the [[Dance of the Dragons]].{{Ref|HOTD110}}
+
+===[[House of the Dragon: Season 2|''House of the Dragon'': Season 2]]===
+[[Aemond Targaryen|Aemond]] and [[Vhagar]] [[Burning of Sharp Point|burned down]] the seat of House Bar Emmon, as a punishment for their declaration in favor of Rhaenyra.{{Ref|HOTD208}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, only one member of the house is mentioned very briefly: Duram, the current Lord Bar Emmon, a fat and feeble boy of fifteen.{{Bookref|ASOS|25}} As a vassal of [[Dragonstone]], Lord Duram supports [[Stannis Baratheon]]'s claim to the Iron Throne,{{Bookref|ACOK|0}} though he is greatly disliked by Stannis and [[Axell Florent#Alester Florent|Alester Florent]]. When [[Melisandre]] burns the [[sept]] at Dragonstone, [[Davos Seaworth|Davos]] sees Duram turn a splotchy grey.{{Bookref|ACOK|10}}
+
+After the [[Battle of the Blackwater]], Duram is one of the few lords in the crownlands that remain loyal to Stannis. [[Samwell Tarly|Sam]] sees Bar Emmon banners at [[Castle Black]] after Stannis's arrival.{{Bookref|ASOS|75}}
+
+House Bar Emmon was founded by Togarion Bar Emmon, an [[Andals|Andal]] warlord who established a petty kingdom north of the [[Blackwater Rush]] during the [[coming of the Andals]]. King Togarion's greatest rival was the [[House Darklyn|Darklyn]] king of [[Duskendale]]. Sensing a weakness to the south, Togarion married the daughter of King Josua Massey of [[Stonedance]], a rival of [[Storm King]] Qarlton II [[House Durrandon|Durrandon]], and the Bar Emmons moved their kingdom to Massey's Hook where the king built Sharp Point. When the Storm King defeated King Josua, Togarion drove the [[Stormlands|stormlanders]] from Massey's Hook and made his kingdom all the more powerful by installing Josua's son as a puppet. This kingdom did not survive history, as the Storm Kings of Durrandon were still able to claim the region in time, with the Bar Emmons as their vassal.
+
+During [[Aegon's Conquest]], the Bar Emmons had close ties with the [[House Targaryen|Targaryens]] of Dragonstone despite being subject to the rule of House Durrandon. When [[Aegon I Targaryen|Aegon the Conqueror]] invaded, they were quick to support the new king and turn against their master [[Argilac Durrandon|Argilac the Arrogant]]. By the end of the war, the crownlands were established, and House Bar Emmon became directly sworn to Dragonstone.
+
+During the [[Jaehaerys Targaryen's uprising|uprising]] against [[Maegor Targaryen|Maegor the Cruel]], House Bar Emmon remained loyal to the king, though when he mysteriously died upon the Iron Throne, Lord Bar Emmon fled back to his seat. When the young [[Jaehaerys I Targaryen]] resided at Dragonstone, Lord Bar Emmon was one of the first lords who traveled there to speak with the king. Lord Bar Emmon succumbed to the Shivers during the winter of 59 and 60 AC.
+
+Lord Bar Emmon was present during the [[Great Council at Harrenhal|Great Council of 101 AC]], where he supported Princess [[Rhaenys Targaryen]] as the successor of King Jaehaerys.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{House Bar Emmon}}
+{{Houses from the Crownlands/House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Bar Emmon, House}}
+[[Category:House Bar Emmon| ]]
+[[Category:Houses from the Crownlands]]
+[[Category:Houses from the Narrow Sea]]
+[[Category:Houses of Andal origin]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[fr:Maison Bar Emmon]]
+[[ru:Бар-Эммоны]]

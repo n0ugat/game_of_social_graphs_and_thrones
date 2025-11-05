@@ -1,0 +1,59 @@
+{{Canonicity|Canon}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Westeros
+| Image     = 
+| Arms      = 
+| Words     = 
+| Titles    = [[Lord of Casterly Rock]]
+| Seat      = [[Casterly Rock]]
+| Region    = [[Westerlands]]
+| Head      = 
+| Heir      = 
+| Overlords = 
+| Vassals   = 
+| Religion  = [[Old Gods]]
+| Cadets    = 
+| Founded   = [[Age of Heroes]]<br>by {[[Corlos]]}
+| Died      = Age of Heroes
+| Weapon    = 
+}}
+{{Quote|Lann must have been clever enough not to rely solely on his wits. After all, where today is House Casterly?|[[Tywin Lannister]]|The Westerlands}}
+'''House Casterly'''{{Ref|H&L102}} of [[Casterly Rock]] is an extinct [[Great House]] of [[Westeros]] from the [[Age of Heroes|time]] of the [[First Men]]. It was founded by the huntsman [[Corlos]], who slew a [[lion]] and its mate that were terrorizing his village in a cave within a nearby mountain. It is said that when he spared the cubs, the [[Old Gods]] sent a beam of sunlight to reveal gold within the mountain. Corlos built a ringfort atop the mountain and named it Casterly Rock. House Casterly would rule until they were swindled from their castle by the legendary trickster [[Lann the Clever]].{{Ref|H&L123}}
+
+==Known members==
+*{[[Corlos]]}, [[Lord of Casterly Rock]], founder of House Casterly and builder of [[Casterly Rock]]. Discovered the gold mines under Casterly Rock while hunting a pair of lions that terrorized his village.
+
+==Quotes==
+{{Quote|According to the legend, Lann, using only his wits won Casterly Rock from the noble house of Casterly during the Age of Heroes.|[[Tywin Lannister]]|House Lannister (short)}}
+
+==In the books==
+In ''[[A Song of Ice and Fire]]'', the background of House Casterly is the same. Their sigil depicts a lion or lions.<ref>https://georgerrmartin.com/notablog/2022/12/23/a-couple-of-rocks/</ref> Their motto and ultimate fate remains unknown, though they clearly no longer existed by the time of [[Aegon's Conquest]]. That is, even within the narrative, there are rival myths about exactly what happened to the Casterlys. Some say that Lann tricked them into killing each other, then may have finished off the survivors. Others say that Lann infested their castle with rats, or even lions, to drive them out. The more pragmatic story is that Lann was simply a man-at-arms in their castle who impregnated the current Lord Casterly's daughter, and with no other heirs this left Lann as the new Lord of Casterly Rock through his child. There is also the possibility that he impregnated and married a minor member of the family, then "used his wits" to manipulate his way into a position of greater power.
+
+The Casterlys were very rich, but did not call themselves "kings", nor did Lann the Clever call himself "king". The Lannisters only started calling themselves "kings" many generations later, after their steady accumulation of wealth made them very powerful.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Casterly}}
+{{Great Houses of Westeros}}
+{{Houses from the Westerlands}}
+
+<!--Categories-->
+{{DEFAULTSORT:Casterly, House}}
+[[Category:Extinct houses]]
+[[Category:Great Houses]]
+[[Category:House Casterly| ]]
+[[Category:Houses from the Westerlands]]
+[[Category:Houses of First Men origin]]
+
+<!--Languages-->
+[[de:Haus Casterly]]
+[[fr:Maison Castral]]
+[[pl:Ród Casterly]]
+[[ru:Кастерли]]
+[[zh:凯斯德利家族]]

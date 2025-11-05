@@ -1,0 +1,48 @@
+{{Canonicity|Canon}}
+{{ConjectureInfo}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Frey
+| Image     = 
+| Arms      = 
+| Words     = 
+| Titles    = 
+| Seat      = 
+| Region    = [[Riverlands]]
+| Head      = 
+| Heir      = 
+| Overlords = [[House Frey]]
+| Vassals   = 
+| Religion  = [[Faith of the Seven]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Charlton'''<ref name="Book">[[:File:5x2 Night's Watch Book.jpg]]</ref>{{Note|Morros's surname is Charlton.}} is a noble house of the [[Riverlands]]. They are sworn to [[House Frey]] of the [[Twins]].
+
+==Historical members==
+*{[[Morros Charlton]]}, a [[Steward (Night's Watch)|steward]] of the [[Night's Watch]].<ref name="Book" />
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the coat of arms of House Charlton is three sprigs of mistletoe, green and red, on a gold field within a green border.
+
+House Charlton fights for [[Robb Stark]] during the [[War of the Five Kings]]. After the [[Red Wedding]], they follow the Freys in supporting the [[Iron Throne]].
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{Houses from the Riverlands}}
+
+<!--Categories-->
+{{DEFAULTSORT:Charlton, House}}
+[[Category:House Charlton| ]]
+[[Category:Houses from the Riverlands]]
+[[Category:Vassal houses]]

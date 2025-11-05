@@ -1,0 +1,51 @@
+{{Canonicity|Canon}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Westeros
+| Image     = 
+| Arms      = 
+| Words     = 
+| Titles    = 
+| Seat      = 
+| Region    = 
+| Head      = [[Lady Caulfield]]
+| Heir      = 
+| Overlords = 
+| Vassals   = 
+| Religion  = 
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Caulfield'''{{Ref|GOT504}}{{Note|Lady Caulfield's surname is Caulfield.}} is a noble house from [[Westeros]].
+
+==History==
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+[[Samwell Tarly|Sam]] presents some paperwork to Lord Commander [[Jon Snow]] consisting of requests to various noble Houses to send new recruits to the [[Night's Watch]]. A few houses can spare any men during the [[War of the Five Kings]], so the Watch is left scraping the bottom of the barrel: the requests are mostly to minor lords that Jon says he hasn't even heard of, including Lady Caulfield.{{Ref|GOT504}}
+
+==Members==
+*[[Lady Caulfield]], head of the house.
+
+==Behind the scenes==
+Just as the "[[House Mazin]]" and "[[House Wibberley]]" mentioned in the same scene are inside references (to the showrunners' friends Craig Mazin and the scriptwriters Cormac and Marianne Wibberley respectively), the name - and specifically the fact that it is a ''Lady'' Caulfield - is apparently a reference to one of the TV series's producers, [[Bernadette Caulfield]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no mention of any House Caulfield. The episode itself makes a joke about this when Jon Snow remarks that he has "never even heard of these people".
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Categories-->
+{{DEFAULTSORT:Caulfield, House}}
+[[Category:House Caulfield| ]]
+[[Category:Houses from Westeros]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[de:Haus Kohlfeld]]
+[[fr:Maison Caulfield]]
+[[ru:Колфилды]]

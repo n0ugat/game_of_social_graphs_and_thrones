@@ -1,0 +1,51 @@
+{{Canonicity|Canon}}
+{{References}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Crownlander
+| Image     = House Blount.svg
+| Arms      = A red bend sinister between two black porcupines on green
+| Words     = 
+| Titles    = 
+| Seat      = 
+| Region    = [[Crownlands]]
+| Head      = 
+| Heir      = 
+| Overlords = [[King of the Andals and the Rhoynar and the First Men|King of the Andals and the First Men]]<br>[[House Lannister]] {{C|[[303 AC|303]]{{Dateref|Game of Thrones: Season 6}}-[[305 AC]]}}{{Dateref|Game of Thrones: Season 8}}<br>{[[House Baratheon of King's Landing]]} {{C|[[281 AC|281]]{{Dateref|Robert's Rebellion}}-303 AC}}{{Dateref|Game of Thrones: Season 6}}<br>[[House Targaryen]] {{C|[[1 AC|1]]{{Dateref|Aegon's Conquest}}-281 AC}}{{Dateref|Robert's Rebellion}}
+| Vassals   = 
+| Religion  = [[Faith of the Seven]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Blount'''{{Ref|H&L411}}{{Note|Boros's surname is Blount.}} is a [[Noble house|vassal house]] from the [[Crownlands]]. It holds fealty directly to the elected monarchs of the [[Seven Kingdoms|Six Kingdoms]].
+
+==Members==
+* Ser {[[Boros Blount]]}, a [[Knighthood|knight]] of the [[Kingsguard]]. Killed by [[Sandor Clegane]] during the [[Battle of King's Landing]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, House Blount is a vassal House sworn to the [[Iron Throne]]. They blazon their arms with a red bend sinister between two black porcupines on green.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Houses from the Crownlands}}
+
+<!--Categories-->
+{{DEFAULTSORT:Blount, House}}
+[[Category:House Blount| ]]
+[[Category:Houses from the Crownlands]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[fr:Maison Blount]]
+[[it:Casa Blount]]
+[[ru:Блаунты]]

@@ -1,0 +1,86 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Velaryon.svg
+| Link  = House Velaryon
+}} 
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Velaryon
+| Image        =
+<gallery>
+High Tide Official Guide.jpg|Appearance
+Driftmark.png|Location
+</gallery>
+| Type         = Castle
+| Status       = 
+| Location     = Near [[Spicetown]], [[Driftmark]]
+| Population   = 
+| Rulers       = [[House Velaryon]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = [[#Hall of Nine|Hall of Nine]]
+| Founded      = By [[Corlys Velaryon]]
+}}
+{{Quote|Unlike every other lord of the realm, I can say that I've built my house's high seat with the strength of mine own back.|Corlys Velaryon|The Rogue Prince}}
+'''High Tide'''{{Ref|HOTD105}} is a castle situated on [[Driftmark]]. It serves as the seat of [[House Velaryon]].
+
+==Layout==
+===Exterior===
+[[File:WLTW Hall of the Nine Still.jpg|thumb|250px|The Hall of Nine.]]
+The island of High Tide is connected to Driftmark by a causeway.{{Ref|HOTD105}} On the other side of the causeway lies the port of [[Spicetown]].{{Ref|HOTD107}}
+
+===Hall of Nine===
+The Hall of Nine is the main hall of High Tide, housing the [[Driftwood Throne]]. It is also used to display the many treasures acquired on [[Corlys Velaryon]]'s nine voyages, among other exploits such as the [[War for the Stepstones]].{{Ref|HOTD105}}
+
+==History==
+===Background===
+Corlys Velaryon commissioned High Tide's construction to replace [[Castle Driftmark]], the ancestral seat of House Velaryon on the other side of Driftmark.{{Guideref|Driftmark}}
+
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+In [[112 AC]],{{Dateref|The Rogue Prince}} Corlys invites [[Daemon Targaryen]] to High Tide to convince him to join his [[war for the Stepstones]].{{Ref|HOTD102}}
+
+In [[116 AC]],{{Dateref|We Light the Way}} [[Viserys I Targaryen]] visits High Tide to arrange a marriage between his daughter [[Rhaenyra Targaryen|Rhaenyra]] and Corlys's son [[Laenor Velaryon|Laenor]].{{Ref|HOTD105}}
+
+In [[126 AC]],{{Dateref|Driftmark}} [[Laena Velaryon]]'s funeral is held at High Tide.{{Ref|HOTD107}}
+
+After Corlys returns to the Stepstones to resume his war, High Tide is ruled in his stead by his wife [[Rhaenys Targaryen|Rhaenys]]. In [[132 AC]],{{Dateref|The Lord of the Tides}} the succession to High Tide is called into question when Corlys is reported to have suffered a possibly fatal wound, with Corlys's brother [[Vaemond Velaryon|Vaemond]] disputing the claim of [[Lucerys Velaryon]]. King Viserys reaffirms Lucerys's claim and Vaemond is executed by [[Daemon Targaryen|Daemon]] for slandering Lucerys and Rhaenyra.{{Ref|HOTD108}}
+
+Lucerys dies at the start of the [[Dance of the Dragons]], making his younger brother [[Joffrey Velaryon|Joffrey]] the new heir to High Tide.{{Ref|HOTD110}}
+==Behind the scenes==
+High Tide's exterior is depicted by {{WPS|St Michael's Mount}}, an island-castle in Cornwall.<ref name="Cornwall">https://www.bbc.com/news/uk-england-cornwall-56919320</ref>
+==In the books==
+In ''[[Fire & Blood]]'', High Tide is made of the same pale stone used to build the [[Eyrie]]. It is connected to mainland Driftmark by a low causeway that is hidden during high tide, hence the name. After concluding his extremely profitable nine voyages, Corlys Velaryon raised High Tide to replace Castle Driftmark, which was grim, damp, and often flooded. He moved both his family and the ancient Driftwood Throne to High Tide, making it the new seat of his House. A nearby fishing village later developed into Spicetown.
+
+==Gallery==
+<gallery>
+File:WLTW Corlys Velaryon Still 1.jpg|Corlys sitting the [[Driftwood Throne]] in the Hall of Nine.
+File:WLTW Corlys Velaryon Still 3.jpg|Corlys and many treasures.
+File:HotD Nine Voyages Map.png|Nine Voyages Map.
+File:HotD Jade Gates Map.jpg|Map and figure of Corlys.
+File:Dreamfyre-and-Sunfyre.-9144886.jpg|Dreamfyre, Sunfyre and the dragons settle around High Tide for [[Year of the Red Spring|Lady Laena's funeral]].
+File:S1 High Tide Concept Art.jpg|Concept Art.
+</gallery>
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{House Velaryon}}
+{{Crownlands}}
+
+<!--Categories-->
+[[Category:Castles of the Crownlands]]
+[[Category:Driftmark]]
+[[Category:High Tide| ]]
+[[Category:House Velaryon]]
+
+<!--Languages-->
+[[fr:Marée Haute]]
+[[ru:Высокий Прилив]]

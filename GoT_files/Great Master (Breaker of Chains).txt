@@ -1,0 +1,60 @@
+{{DISPLAYTITLE:Great Master {{C|Breaker of Chains}}}}
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Slaver's Bay.svg
+| Link  = Great Masters
+}}
+{{Character
+| Title       = Great Master
+| Type        = Ghiscari
+| Image       = Slave master 1.jpg
+| Birth       = 
+| Death       = [[301 AC]]{{Dateref|Game of Thrones: Season 4}}<br>[[Meereen]]{{Ref|GOT404}}
+| House       = 
+| Affiliation = [[Great Masters]]
+| Titles      = Master
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Ghiscari]] {{C|[[Meereen]]ese}}
+| Religion    = [[Ghiscari religion]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 4|4]]
+| Appearances = 2 episodes {{Below|Appearances}}
+| First       = "[[Breaker of Chains]]"
+| Last        = "[[Oathkeeper (episode)|Oathkeeper]]"
+| DeathEp     = "Oathkeeper"
+| Actor       = [[Emilio Doorgasingh]]
+}}
+This unnamed '''Great Master''' was a [[Slavery|slave-trader]] from the city of [[Meereen]], on the coast of [[Slaver's Bay]].
+
+==Biography==
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+He is one of the many [[Great Masters]] that gather over the walls of Meereen, when [[Daenerys Targaryen]] and her army appear before the city gates to lay [[Siege of Meereen|siege]] to the city.{{Ref|GOT403}}
+
+When the Meereenese slaves rise against the Great Masters, he is ambushed and killed on the streets by a mob.{{Ref|GOT404}}
+
+==Appearances==
+*{{GOT|Breaker of Chains}}
+*{{GOT|Oathkeeper}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Categories-->
+[[Category:Great Masters]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Meereenese]]
+[[Category:Slavers]]
+
+<!--Languages-->
+[[ru:Великий мастер (Разрушительница цепей)]]

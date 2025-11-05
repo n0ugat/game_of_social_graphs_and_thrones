@@ -1,0 +1,47 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Beesbury.svg
+| Link  = House Beesbury
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Hightower
+| Image        = Honeyholt Pin.png
+| Type         = Castle
+| Status       = 
+| Location     = The [[Reach]], [[Westeros]]
+| Population   = 
+| Rulers       = [[House Beesbury]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Honeyholt'''{{Guideref|Map of Westeros}} is a castle in the [[Reach]], the region controlled by [[House Tyrell]] of [[Highgarden]], and the seat of [[House Beesbury]].{{Guideref|Lyman Beesbury}} The castle is located between [[Oldtown]] and [[Brightwater Keep]], on the banks of the [[Honeywine]] river.{{Guideref|Map of Westeros}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Honeyholt is the seat of House Beesbury, a vassal of the Tyrells.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Beesbury}}
+{{Reach}}
+
+<!--Categories-->
+[[Category:Castles of the Reach]]
+[[Category:House Beesbury]]
+
+<!--Languages-->
+[[de:Honigstock]]
+[[es:Sotomiel]]
+[[it:Honeyholt]]
+[[nl:Honingholt]]
+[[pt-br:Bosquemel]]
+[[ru:Медовая Роща]]
+[[zh:蜂巢城]]

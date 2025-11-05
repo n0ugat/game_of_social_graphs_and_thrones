@@ -1,0 +1,79 @@
+{{Tab (A Knight of the Seven Kingdoms)}}
+{{Canonicity|Canon}}
+{{Subpage|AKOTSK}}
+{{House
+| Title     = House Blackfyre
+| Type      = Blackfyre
+| Image     = House Blackfyre.svg
+| Arms      = A black three-headed dragon on red
+| Words     = 
+| Titles    = [[King of the Andals and the Rhoynar and the First Men]] {{C|claimant}}<br>[[Lord of the Seven Kingdoms]] {{C|claimant}}<br>[[Protector of the Realm]] {{C|claimant}}
+| Seat      = 
+| Region    = [[Crownlands]]<br>[[Free Cities]]
+| Head      = [[Daemon Blackfyre (son of Daemon)|Daemon Blackfyre]]
+| Heir      = [[Haegon Blackfyre]]
+| Overlords = [[House Targaryen]]
+| Vassals   = [[House Strickland]]
+| Religion  = [[Faith of the Seven]]
+| Cadets    = 
+| Founded   = By {[[Daemon Blackfyre|Daemon Waters]]}
+| Died      = 
+| Weapon    = [[Blackfyre]]
+}}
+'''House Blackfyre'''{{Ref|H&L705}} is an [[exile]]d [[cadet branch]] of [[House Targaryen/A Knight of the Seven Kingdoms|House Targaryen]], founded by [[Daemon Blackfyre]], a [[bastard]] son of King [[Aegon IV Targaryen]], following his [[legitimization]]. Their sigil is a black three-headed [[dragon]] on a red field, a reversal of the Targaryen [[heraldry]].
+
+==History==
+House Blackfyre was created by Daemon Waters, the legitimised bastard son of King Aegon IV Targaryen, also known as Aegon the Unworthy, and his cousin [[Daena Targaryen|Daena]]. It took its name from the [[Valyrian steel]] sword [[Blackfyre]], which Aegon gave to Daemon upon [[Knighthood|knighting]] him. As is customary for bastards, Daemon reversed the colors of the Targaryen heraldry for his own sigil.{{Note|In addition to reversing the colors of their father's sigil, bastards also customarily add a bend sinister (a bar going from the bottom-left to top-right corners of the escutcheon) as the top layer. The lack of a bend sinister in the Blackfyre coat of arms may reflect the fact that Daemon was also a legitimized member of House Targaryen.}}
+[[File:Knighting of Daemon Blackfyre.jpg|thumb|The knighting of Daemon Blackfyre by King [[Aegon IV Targaryen|Aegon IV]]. ]]
+[[File:The Redgrass Field by Jota Saraiva.jpg|thumb|Daemon and his eldest sons die at the [[Battle of Redgrass Field]].]]
+The house was officially founded when Daemon married [[Rohanne of Tyrosh]] and was granted land in the [[Crownlands]] by his half-brother King [[Daeron II Targaryen|Daeron II]].{{Ref|H&L803}}
+
+Allying with his half brother, the [[Great Bastards|Great Bastard]], [[Aegor Rivers|Aegor "Bittersteel" Rivers]], Daemon eventually [[Blackfyre Rebellion|rebelled]] against Daeron, claiming that the king was a bastard fathered by their uncle, [[Aemon Targaryen (son of Viserys II)|Aemon the Dragonknight]], a rumor first spread by the knight [[Morgil Hastwyck]] purportedly at the instigation of King Aegon IV.{{Ref|H&L803}} At the [[Battle of Redgrass Field]], Daemon and his two eldest sons, [[Aegon Blackfyre|Aegon]] and [[Aemon Blackfyre|Aemon]], were killed by another of Aegon's bastards, [[Brynden Rivers]].{{Ref|H&L414}}
+
+Bittersteel fled across the [[Narrow Sea]] along with the surviving Blackfyres to [[Tyrosh]]. The exiled supporters of House Blackfyre eventually became the [[Golden Company]], under Bittersteel's leadership.{{Ref|H&L705}} The current head of House Blackfyre is [[Daemon Blackfyre (son of Daemon)|Daemon the Younger]], the third son of Daemon the Elder.
+
+==Military ==
+[[Golden Company]] in Essos.  
+
+==Members==
+{{Tree list}}
+*{[[Daemon Blackfyre]]}, legitimized bastard son of King Aegon IV. Founder of House Blackfyre and leader of the [[Blackfyre Rebellion]]. Killed by [[Brynden Rivers]] at the [[Battle of Redgrass Field]].
+**[[Rohanne of Tyrosh]], his wife.
+***{[[Aegon Blackfyre]]}, their eldest son and heir. Killed at the Battle of Redgrass Field.
+***{[[Aemon Blackfyre]]}, their second son and Aegon's younger twin. Killed at the Battle of Redgrass Field.
+***[[Daemon Blackfyre (son of Daemon)|Daemon Blackfyre]], their third son. Current head of House Blackfyre.
+***[[Haegon Blackfyre]], their fourth son. Heir to House Blackfyre.
+****[[Daemon Blackfyre (son of Haegon)|Daemon Blackfyre]], his eldest son.
+****Unknown son(s).
+{{Tree list/end}}
+
+==Family tree==
+{{Blackfyre tree (A Knight of the Seven Kingdoms)}}
+==In the books==
+{{Main|House Blackfyre#In the books}}
+
+==Gallery==
+<gallery>
+File:Great Bastards.png
+File:GCBELLS.jpeg|Troops of the Golden Company.
+</gallery>
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|House Blackfyre}} {{Spoilers|AKOTSK}}
+
+<!--Navboxes-->
+{{House Blackfyre/A Knight of the Seven Kingdoms}}
+{{Houses from the Crownlands/A Knight of the Seven Kingdoms}}
+
+<!--Categories-->
+{{DEFAULTSORT:Blackfyre, House}}
+[[Category:Exiled houses]]
+[[Category:House Blackfyre| ]]
+[[Category:Houses from the Crownlands]]
+[[Category:Houses of Valyrian origin]]

@@ -1,0 +1,66 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = House Hoare.svg
+| Link  = House Hoare
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Hoare
+| Image       = Harlan Hoare falling from his horse.png
+| Birth       = On [[Orkmont]]
+| Death       = Fell from his horse
+| House       = [[House Hoare|Hoare]]
+| Affiliation = 
+| Titles      = [[Prince]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Ironborn]]
+| Religion    = [[Drowned God]]
+| Father      = {[[Qhorwyn Hoare]]}
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = {[[Harwyn Hoare]]}
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|An elder brother objected, so an elder brother fell off a horse and at the kingsmoot no man objected.|[[Euron Greyjoy]]|The Kingsmoot}}
+Prince '''Harlan Hoare'''{{Con|TWOI&F}} was the son of [[Qhorwyn Hoare]], [[King of the Iron Islands]].
+
+==Biography==
+Following his [[Qhorwyn Hoare|father]]'s death, Harlan was made a candidate at the [[kingsmoot]]. However, his disgraced brother [[Harwyn Hoare]] returned from [[Essos]] to claim the [[Salt Throne]], but Harlan objected to this claim. Under mysterious circumstances, Harlan died after falling from his horse. No man at the [[kingsmoot]] objected to Harwyn's rule after that.{{Ref|H&L602}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Harlan was the heir of King Qhorwyn the Cunning, since Qhorwyn's eldest son had died from [[greyscale]]. Harlan died suddenly shortly after Qhorwyn's death, alledgedly by falling from a [[horse]]. Some believed Harlan's younger brother [[Harwyn Hoare|Harwyn]] to be responsible, though others suspected that a [[Faceless Men|Faceless Man]] had killed Harlan.
+
+==Appearances==
+*{{H&L|The Kingsmoot}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Hoare}}
+
+<!--Categories-->
+{{DEFAULTSORT:Hoare, Harlan}}
+[[Category:Individuals from Histories & Lore]]
+[[Category:Ironborn]]
+[[Category:Members of House Hoare|Harlan Hoare]]
+
+<!--Languages-->
+[[ru:Харлан Хоар]]

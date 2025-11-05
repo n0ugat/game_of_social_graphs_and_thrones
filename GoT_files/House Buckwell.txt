@@ -1,0 +1,47 @@
+{{BookConjecture}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Crownlander
+| Image     = 
+| Arms      = A rack of golden antlers on vair<ref name="Intro">[[:File:Season 2 Opening Credits - House of The Dragon - Season 2 - HBO|Season 2 Opening Credits | House of The Dragon | Season 2 | HBO]]</ref>
+| Words     = 
+| Titles    = 
+| Seat      = [[Antlers]]
+| Region    = [[Crownlands]]
+| Head      = 
+| Heir      = 
+| Overlords = [[House Targaryen]]<br>[[House Baratheon of King's Landing]]<br>[[House Lannister]]<br>[[King of the Andals and the Rhoynar and the First Men|King of the Andals and the First Men]]
+| Vassals   = 
+| Religion  = [[Faith of the Seven]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Buckwell''' of the [[Antlers]] is a [[noble house]] from the [[Crownlands]]. Their sigil is a golden rack of antlers on vair.<ref name="Intro" />
+
+==History==
+===[[House of the Dragon: Season 2|''House of the Dragon'': Season 2]]===
+House Buckwell declared for [[Rhaenyra Targaryen]] during the [[Dance of the Dragons]].<ref name="Intro" />
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the words of House Buckwell are "Pride and Purpose." Their involvement in the Dance of the Dragons is unknown.
+
+===Members===
+*Lord Buckwell, one of [[Maegor Targaryen|Maegor I Targaryen]]'s last supporters.
+*Ser Jarman Buckwell, a senior [[ranger]] of the [[Night's Watch]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Houses from the Crownlands}}
+
+<!--Categories-->
+{{DEFAULTSORT:Buckwell, House}}
+[[Category:House Buckwell| ]]
+[[Category:Houses from the Crownlands]]
+[[Category:Vassal houses]]

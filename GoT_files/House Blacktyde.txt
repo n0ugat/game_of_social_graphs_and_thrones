@@ -1,0 +1,69 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Greyjoy
+| Image     = House Blacktyde.svg
+| Arms      = Vairy vert and sable <br> {{C|Green and black vairy}}
+| Words     = 
+| Titles    = [[Lordship|Lord of Blacktyde]]
+| Seat      = [[Blacktyde]]
+| Region    = [[Iron Islands]]
+| Head      = 
+| Heir      = 
+| Overlords = {[[House Hoare]]} {{C|pre-[[Aegon's Conquest]]}}<br>[[House Greyjoy]]
+| Vassals   = 
+| Religion  = [[Drowned God]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Blacktyde'''{{Con|ASOIAF}} of [[Blacktyde]] is a vassal house from the [[Iron Islands]] that holds fealty to [[House Greyjoy]]. Their seat is located on the eponymous island of Blacktyde, which they rule.
+
+==History==
+Along with their Kings of [[House Hoare]], House Blacktyde participated in the conquest of the [[Riverlands]].{{Ref|H&L313}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Baelor Blacktyde's father was killed in a battle of the [[Greyjoy Rebellion]]. Baelor was taken as a hostage for eight years in the city of [[Oldtown]]. Upon his return to Blacktyde, Baelor had converted to the mainland's [[Faith of the Seven]] - which is exceptional among the ironborn, who worship the Drowned God. Nevertheless, several Blacktydes gather around [[Balon Greyjoy]] when he crowns himself King of the Iron Islands again.
+
+Lord Baelor Blacktyde supports Asha Greyjoy (called [[Yara Greyjoy|Yara]] in the show) after the death of her father. Asha's main support base is Harlaw island, the wealthiest of the isles, ruled by her maternal uncle Rodrik. While Harlaw and Blacktyde support Asha, Euron gains control over Pyke itself and Orkmont. The other three islands - Great Wyk, Old Wyk, and Saltcliffe - waver between who to support. Fearing a civil war, [[Aeron Greyjoy|Aeron Damphair]] calls the Kingsmoot to try to resolve the succession.
+
+Lord Blacktyde vocally supports Asha's pro-diplomacy position at the Kingsmoot: he lost his father in the first Greyjoy Rebellion and is thus more wary than others that they are only going to keep losing more fathers and sons in a war they cannot hope to win.
+
+After [[Euron Greyjoy]] surprisingly wins the Kingsmoot, Asha immediately flees before her uncle can detain or harm her. Many of the other lords such as Rodrik Harlaw fall into line, but Lord Baelor defiantly refuses to acknowledge Euron as his king, commenting "''Balon was mad, Aeron is madder, and Euron is maddest of them all''" (that statement has become a common saying among the ironborn). In response, Euron has Lord Blacktyde publicly executed, his body carved into seven pieces in sarcastic reference to the Faith of the Seven which he had converted to.
+
+===Known members===
+* Lord {Baelor Blacktyde}, Lord of Blacktyde and captain of the Nightflyer. Killed for not acknowledging Euron Greyjoy as king.
+* Blind Beron Blacktyde, a priest of the Drowned God.
+
+===Historical members===
+* [[Qhored Hoare|Qhored the Cruel]], a High King of the Iron Islands (generally believed to have been a Hoare, though some sources say he was a Greyiron or a Blacktyde)
+* Joron I Blacktyde, called Maidensbane, a High King of the Iron Islands
+
+==Gallery==
+<gallery>
+BlacktydeHeraldry.jpg|House Blacktyde sigil from ''[[Histories & Lore]]''.
+</gallery>
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{Houses from the Iron Islands}}
+
+<!--Categories-->
+{{DEFAULTSORT:Blacktyde, House}}
+[[Category:House Blacktyde| ]]
+[[Category:Houses from the Iron Islands]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[fr:Maison Noirmarées]]
+[[ru:Блэктайды]]

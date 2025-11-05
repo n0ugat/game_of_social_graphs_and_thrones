@@ -1,0 +1,68 @@
+{{Canonicity|Canon}}
+{{OtherUses|fishing village|Hardhome (disambiguation)}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Wildling
+| Image        = 
+<gallery>
+Hardhome (episode) .jpg|Appearance
+Hardhome Pin.png|Location
+</gallery>
+| Type         = Village
+| Status       = Abandoned
+| Location     = [[Storrold's Point]], [[Beyond the Wall]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = [[Old Gods]]
+| Places       = 
+| Founded      = 
+}}
+'''Hardhome'''{{Ref|GOT505}} was a [[Free Folk]] fishing village located [[beyond the Wall]] on a sheltered bay along the [[Shivering Sea]], situated at the tip of the large peninsula known as [[Storrold's Point]]. Many of the Free Folk who survived the [[battle for the Wall]] and were not captured by the forces of [[Stannis Baratheon]] fled to Hardhome.
+
+==History==
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+After the [[battle for the Wall]], Lord Commander [[Jon Snow]] and [[Tormund]] take the [[royal fleet]] to Hardhome in order to convince the Free Folk there to come back to Castle Black with them.<ref>"[[Kill the Boy]]"</ref><ref>"[[The Gift]]"</ref>
+
+During the [[Massacre at Hardhome|massacre]] of Hardhome, the entire village was invaded and destroyed by the [[White Walkers]] and [[wight]]s. Those killed during the battle were all resurrected as wights by the [[Night King]]. The survivors of Hardhome went on board the fleet docked outside the bay.<ref>"[[Hardhome (episode)|Hardhome]]"</ref>
+
+==Behind the scenes==
+Hardhome was built as a fully realized set at [[Wikipedia:Magheramorne|Magheramorne Quarry]] in Northern Ireland. This is the same quarry where the Castle Black set was constructed.{{Ref|ADITL}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Hardhome is the closest thing to a true town that the Free Folk ever built, though by the standards of the Seven Kingdoms south of the Wall it was a modestly sized fishing village. It was perfectly situated in a strong defensive position on the tip of the peninsula known as Storrhold's Point, near waters rich in fish, seals, and sea cows, and with abundant supplies of timber and stone in the surrounding cliffs (which were also well-sheltered with caves).
+
+About 600 years ago (300 years before [[Aegon's Conquest]]), however, disaster struck the settlement. No one knows exactly what happened: the fires from the town's destruction burned so high that watchers on the Wall hundreds of miles away could see the sky dimly lit on the horizon, and ashes rained down in the [[Haunted Forest]] for half a year. Some say that slavers came from the Free Cities to attack the town - though no one knows from which city, and no report of it was ever heard. Others say that other wildling groups attacked the town, or that the alleged [[cannibalism|cannibals]] from [[Skagos]] raided the settlement. Some think that supernatural forces may have struck. Whatever the case, the town was left in ruins and was ever after shunned by the Free Folk, who were convinced Hardhome was haunted by ghouls, demons, and burning ghosts with an unhealthy taste for blood.
+
+[[Othell Yarwyck]] claims that Hardhome is an unholy place, and that even [[Benjen Stark]] used to say that.
+
+As the wildlings flee from the return of the White Walkers, however, many have taken refuge there and partially rebuilt Hardhome.
+
+In the novels, after Mance Rayder's defeat, a small fraction of his army flees the Wall rather than surrender to the Night's Watch, with a large portion (about 6,000 Wildlings) led by the [[woods witch]] Mother Mole traveling back to Hardhome to seek refuge. The Night's Watch sends an expedition by ship, led by Cotter Pyke, to treat with them, and possibly evacuate them from the oncoming army of the undead. Jon Snow does not personally join this expedition in the novels, though reports come back from the expedition via messenger-raven. The TV series condensed this to send Jon Snow along with the expedition as a POV character the audience is familiar with (similar to how in Season 4, Stannis actually spoke with Tycho Nestoris of the Iron Bank in person, while in the books this was done via written correspondence).
+
+==Appearances==
+*{{GOT|Kill the Boy}} {{Mentioned}}
+*{{GOT|The Gift}} {{Mentioned}}
+*{{GOT|Hardhome}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Beyond the Wall}}
+
+<!--Categories-->
+[[Category:Beyond the Wall]]
+[[Category:Harbors]]
+[[Category:Villages]]
+
+<!--Languages-->
+[[de:Hartheim]]
+[[fr:Durlieu]]
+[[pl:Hardhome]]
+[[ru:Суровый Дом (место)]]
+[[zh:艰难屯]]

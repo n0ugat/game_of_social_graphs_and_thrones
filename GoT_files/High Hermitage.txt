@@ -1,0 +1,35 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Martell
+| Image        = 
+| Type         = Castle
+| Status       = 
+| Location     = [[Red Mountains]], [[Dorne]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = 
+| Places       = 
+| Founded      = 
+}}
+'''High Hermitage'''{{Webref|name=MGOT|author=Making Game of Thrones Blog |date=May 28, 2019 |url=https://www.makinggameofthrones.com/production-diary/season-8-episode-6-series-finale-props-song-of-ice-and-fire |title=The GoT Series Finale Was One for the Books |website=Making Game of Thrones |access-date=January 8, 2024 }} is a castle in [[Dorne]].
+
+==History==
+Ser [[Barristan Selmy]] once aided villagers near High Hermitage against a group of bandits.<ref name="MGOT" />
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, High Hermitage is the seat of Ser Gerold Dayne, a cousin to the [[House Dayne|Daynes]] of [[Starfall]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Dorne}}
+
+<!--Categories-->
+[[Category:Castles of Dorne]]

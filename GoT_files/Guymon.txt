@@ -1,0 +1,64 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = Guymon.png
+| Birth       = 
+| Death       = [[301 AC]]{{Dateref|Game of Thrones: Season 4}}<br>The [[Gift]]{{Ref|GOT403}}
+| House       = 
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Northmen|Northern]]
+| Religion    = [[Old Gods]]
+| Father      = 
+| Mother      = 
+| Spouse      = {[[Olly's mother|Wife]]}
+| Lovers      = 
+| Children    = {[[Olly]]}
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 4|4]]
+| Appearances = "[[Breaker of Chains]]"
+| First       = 
+| Last        = 
+| DeathEp     = "Breaker of Chains"
+| Actor       = [[Jem Wall]]
+|Issue={[[Olly]]<nowiki>}</nowiki>}}
+{{Quote|No one boils a potato better than your mum. She got—|Guyman's last words before he is killed by [[Ygritte]]|Breaker of Chains}}
+'''Guymon''' was a farmer who lived with his [[Olly's mother|wife]] and [[Olly|son]] in a village close to the [[Wall]].
+
+==Biography==
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+When he and his son are on their way home for dinner, their village is attacked by a group of [[Free Folk|wildlings]]. He is killed by an arrow to the head from [[Ygritte]]. His body is later eaten by [[Styr]].{{Ref|GOT403}}
+
+During the [[battle for the Wall]], Guymon is avenged by his son who kills Ygritte.{{Ref|GOT409}}
+
+==Behind the scenes==
+He is named after [[Guymon Casady]], the co-executive producer of the TV series.
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no character parallel to him.
+
+==Appearances==
+*{{GOT|Breaker of Chains}}
+*{{GOT|Kill the Boy}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Categories-->
+[[Category:Farmers]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Northmen]]
+[[Category:Smallfolk]]
+
+<!--Languages-->
+[[de:Guymon]]
+[[fr:Guymon]]
+[[ru:Гаймон]]

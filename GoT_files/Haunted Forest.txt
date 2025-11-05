@@ -1,0 +1,55 @@
+{{Canonicity|Canon}}
+{{References}}
+{{Region
+| Title      = {{PAGENAME}}
+| Theme      = Wildling
+| Image      =
+<gallery>
+Will 1x01.jpg|Appearance
+Haunted Forest.png|Location
+</gallery>
+| Type       = Forest
+| Location   = [[Beyond the Wall]], [[Westeros]]
+| Geography  = Snowy, bare trees
+| Population = 
+| Rulers     = 
+| Culture    = 
+| Religion   = 
+| Military   = 
+| Capital    = 
+| Castles    = 
+| Cities     = 
+| Towns      = 
+| Villages   = [[White Tree]]
+| Places     = [[Craster's Keep]]
+| Founded    = 
+}}
+{{Quote|Long ago, when the [[Night's Watch]] was at full strength, the builders would quarry blocks of ice from the frozen lakes of the Haunted Forest, dragging them south on sledges to add to the [[Wall]].|[[Samwell Tarly]]|The Wall}}
+The '''Haunted Forest'''{{Ref|H&L409}} is a substantial woodland lying [[Beyond the Wall|north]] of the [[Wall]], beyond the northern border of the [[Seven Kingdoms]]. The forest extends for several hundred miles to the north, from Castle Black along the foothills of the mountain range known as the [[Frostfangs]] to Eastwatch-by-the-Sea, before dying out in the subarctic wastelands of the [[Land of Always Winter]].
+
+The forest is inhabited by tribes of [[Free Folk|wildlings]] who sometimes use the cover of the forest to approach the Wall and try to scale it to raid the lands to the south. The [[Night's Watch]] tries to keep the forest clear of the Wall itself, but only have the manpower to clear the woods immediately to the north of [[Castle Black]] and their other manned castles.
+
+[[Craster's Keep]] and [[White Tree]] are located within the Haunted Forest. The [[Fist of the First Men]] is located beyond its limits.
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the Haunted Forest has a fell reputation. The Night's Watch sends patrols into it to scout for signs of wildling activity. [[Weirwood]] trees still grow in the wild in the Haunted Forest, unlike anywhere else on the continent.
+
+The [[Fist of the First Men]] is located near the haunted forest at its borders.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Haunted forest}}
+
+<!--Navboxes-->
+{{Beyond the Wall}}
+
+<!--Categories-->
+[[Category:Beyond the Wall]]
+[[Category:Forests]]
+
+<!--Languages-->
+[[de:Verfluchter Wald]]
+[[pl:Nawiedzony Las]]
+[[ru:Зачарованный лес]]

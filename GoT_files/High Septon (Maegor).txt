@@ -1,0 +1,61 @@
+{{DISPLAYTITLE:High Septon {{C|Maegor}}}}
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Faith of the Seven.svg
+| Link  = Faith of the Seven
+}}
+{{Character
+| Title       = High Septon
+| Type        = Faith
+| Image       = 
+| Birth       = Pater{{Con|F&B}}
+| Death       = 
+| House       = 
+| Affiliation = [[Faith of the Seven]]{{Ref|H&L803}}
+| Titles      = [[High Septon]]{{Ref|H&L803}}
+| Predecessor = [[High Septon (Faith Militant uprising)|Faith Militant High Septon]]
+| Successor   = 
+| AKA         = 
+| Culture     = 
+| Religion    = [[Faith of the Seven]]{{Ref|H&L803}}
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|[Maegor] set fire to the Riverlands, the Westerlands, and the Reach in a campaign to root out disloyal lords and sponsored a more pliant High Septon.|[[Varys]]|Maegor the Cruel (short)}}
+A '''High Septon''', born '''Pater''', served as head of the [[Faith of the Seven]] during the reign of [[Maegor Targaryen|Maegor I]].
+
+==Biography==
+After the death of the [[High Septon (Faith Militant uprising)|High Septon]] who initiated the [[Faith Militant uprising]], King Maegor sponsored Septon Pater as the new High Septon.{{Ref|H&L806}}
+
+==In the books==
+In ''[[Fire & Blood]]'', Pater was a famously amiable [[septon]]. By 43 AC, his ninetieth year, he was blind, stooped, feeble, and forgetful. After the death of the previous High Septon, suspected to have been assassinated at the command of Lord Martyn Hightower, the [[Most Devout]] were rounded up by [[House Hightower|Hightower]] [[Man-at-arms|men-at-arms]] and forced to choose Pater as the new High Septon. It is said that he nearly collapsed when the crystal crown was placed upon his head.
+
+When Maegor arrived at [[Oldtown]], the High Septon anointed him with holy oils, though he had forgotten the words of the blessing. He then formally dissolved the [[Faith Militant]] (the Warrior's Sons and the Poor Fellows) and commanded them to cease all hostilities against the Crown. He died in 44 AC and was succeeded by another puppet High Septon commonly known as the "High Lickspittle."{{Bookref|F&B|4}}
+
+==Appearances==
+*{{H&L|Maegor the Cruel}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|Pater}}
+
+<!--Categories-->
+[[Category:High Septons|Maegor]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Westerosi]]

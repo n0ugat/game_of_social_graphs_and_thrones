@@ -1,0 +1,95 @@
+{{Tab (House of the Dragon)}}
+{{Canonicity|Canon}}
+{{Subpage|HOTD}}
+{{References}}
+{{House
+| Title     = House Baratheon
+| Type      = Baratheon
+| Image     = House Baratheon.svg
+| Arms      = A crowned stag black on a golden field
+| Words     = "Ours is the Fury"
+| Titles    = [[Lord of Storm's End]]<br>[[Lord Paramount of the Stormlands]]
+| Seat      = [[Storm's End]]
+| Region    = [[Stormlands]]
+| Head      = Lord [[Borros Baratheon]]
+| Heir      = [[Cassandra Baratheon]]
+| Overlords = [[House Targaryen/House of the Dragon|House Targaryen]]
+| Vassals   = [[House Caron]]<br>[[House Connington]]<br>[[House Dondarrion]]<br>[[House Errol]]<br>[[House Estermont]]<br>[[House Fell]]<br>[[House Grandison]]<br>[[House Lonmouth]]<br>[[House Morrigen]]<br>[[House Musgood]]<br>[[House Peasebury]]<br>[[House Penrose]]<br>[[House Selmy]]<br>[[House Swann]]<br>[[House Tarth]]<br>[[House Toyne]]<br>[[House Trant]]<br>[[House Wylde]]
+| Religion  = [[Faith of the Seven]]
+| Cadets    = 
+| Founded   = [[2 BC]]{{Dateref|Aegon's Conquest}}<br>by {[[Orys Baratheon]]}
+| Died      = 
+| Weapon    = 
+}}
+'''House Baratheon'''{{Ref|GOT101}} of [[Storm's End]] is a [[Great House]] of [[Westeros]] that traditionally rules the [[Stormlands]] on the eastern coast of Westeros, aptly named for its frequent storms.
+
+==History==
+House Baratheon was founded by [[Orys Baratheon]], a general in the army of [[King of the Andals and the Rhoynar and the First Men|King]] [[Aegon I Targaryen]], the founder of the [[House Targaryen/House of the Dragon|Targaryen dynasty]] who [[Aegon's Conquest|conquered]] the [[Seven Kingdoms]]. Orys Baratheon was also rumored to be Aegon's [[bastard]] half-brother. He defeated [[Argilac Durrandon|Argilac the Arrogant]], the last of the [[Storm King]]s, and captured his castle of [[Storm's End]]. For his accomplishments, Orys was made [[Lord of Storm's End]] and founded House Baratheon. Orys took the sigil and words of the defeated [[House Durrandon]] as his own, cementing his [[Lord Paramount of the Stormlands|rule]] over the [[Stormlands]] by marrying [[Argella Baratheon|Argella Durrandon]], the daughter of the fallen Argilac.
+
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+The mother of Princess [[Rhaenys Targaryen]] was [[Jocelyn Baratheon]],{{Guideref|Character Guide}} who had passed away by [[112 AC]].{{Dateref|The Heirs of the Dragon}}
+
+Lord [[Boremund Baratheon|Boremund]] and his son [[Borros Baratheon|Borros]] compete in the [[Heir's Tournament]], where Boremund asks for the favor of Princess Rhaenys. Boremund and Borros are both unhorsed by Ser [[Criston Cole]] in the jousting competition.{{Ref|HOTD101}}
+
+Lord Boremund begrudgingly kneels and swears an oath to [[Rhaenyra Targaryen]], to recognize her as heir.{{Ref|HOTD101}}
+
+Lord Boremund hosts Princess Rhaenyra at [[Storm's End]] on her tour of the realm to find a suitor.{{Ref|HOTD104}}
+
+At the [[Green Council]], the now Lord Borros is believed to be persuadable to the cause of [[Greens]] through arranging marriages with his daughters.{{Ref|HOTD109}} 
+
+At the [[Black Council]], Rhaenyra Targaryen expects to sway Lord Borros to the [[Blacks]] due to their blood ties through Rhaenys Targaryen, sending her son [[Lucerys Velaryon]] to Storm's End. Lucerys fails in his mission as Prince [[Aemond Targaryen]] arrives earlier and promises to wed [[Floris Baratheon]].{{Ref|HOTD110}}
+
+===[[House of the Dragon: Season 2|''House of the Dragon'': Season 2]]===
+In the [[Dance of the Dragons]], House Baratheon fights for King [[Aegon II Targaryen]] as [[Floris Baratheon]]'s marriage pact to Prince [[Aemond Targaryen]] brings the [[Stormlands]] to the side of the [[Greens]].{{Ref|HOTD201}}
+
+==Members==
+{{Tree list}}
+*Lord {[[Boremund Baratheon]]}, Lord of Storm's End and former head of the family. Died between 116 and 132 AC.
+**Lord [[Borros Baratheon]], his son and successor.
+***[[Cassandra Baratheon]], his eldest daughter and heiress presumptive.
+***[[Maris Baratheon]], his second daughter.
+***[[Ellyn Baratheon]], his third or youngest daughter.
+***[[Floris Baratheon]], his third or youngest daughter. Betrothed to Prince [[Aemond Targaryen]].
+*Lady {[[Jocelyn Baratheon]]}, wife of {[[Aemon Targaryen (son of Jaehaerys I)|Aemon Targaryen]]}, the [[Prince of Dragonstone]].
+**See ([[House Targaryen/House of the Dragon|House Targaryen]])
+{{Tree list/end}}
+
+==Family tree==
+{{Baratheon tree (House of the Dragon)}}
+
+==In the books==
+{{Main|House Baratheon#In the books}}
+
+==Gallery==
+<gallery>
+HOTD Baratheon longbanner.png|A longbanner displaying the arms of House Baratheon during the [[Heir's Tournament]].
+OT Baratheon Knight.png|[[Boremund Baratheon]] holding a shield with his house's sigil from horseback.
+KOTNS Boremund Baratheon Still.jpg|Boremund sitting on the ancestral throne of his house in [[Storm's End]].
+TBQ Borros Baratheon Still 2.jpg|[[Borros Baratheon]] sitting on his family's throne with a Baratheon knight standing beside him.
+HOTD Baratheon knights.jpg|House Baratheon knights surrounding [[Lucerys Velaryon]].
+</gallery>
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|House Baratheon}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{House Baratheon/House of the Dragon}}
+{{Great Houses of Westeros/House of the Dragon}}
+{{Houses from the Stormlands/House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Baratheon, House}}
+[[Category:Great Houses]]
+[[Category:House Baratheon| ]]
+[[Category:Houses from the Stormlands]]
+[[Category:Houses of Valyrian origin]]
+[[Category:Royal houses]]
+
+<!--Languages-->
+[[ru:Баратеоны/Дом Дракона]]

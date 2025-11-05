@@ -1,0 +1,67 @@
+{{DISPLAYTITLE:High Priest {{C|Myr}}}}
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Lord of Light.svg
+| Link  = Lord of Light
+}}
+{{Character
+| Title       = High Priest
+| Type        = Light
+| Image       = High Priest of R'hllor.png
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = 
+| Titles      = [[High Priest (Lord of Light)|High Priest]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Myr]]ish
+| Religion    = [[Lord of Light]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Voktys Eglie aōt gaomilaksir teptas. Roberti Dāri zȳhi nekēpti se Āeksiot Ōño jemagon.<br>(The High Priest gave you a mission. Turn [[Robert Baratheon|King Robert]] away from [[Faith of the Seven|his idols]] and towards the [[Lord of Light]].)|[[Melisandre]] to [[Thoros]]|The Climb}}
+The '''High Priest''' charged [[Thoros]] of [[Myr]] with the task of converting [[Robert Baratheon]] from worship of the [[Faith of the Seven|Seven]] to the religion of the [[Lord of Light]].
+
+==Biography==
+===Background===
+The High Priest charges Thoros of Myr with the task of converting [[Robert Baratheon]] from worship of the [[Faith of the Seven|Seven]] to the religion of the [[Lord of Light]].{{Ref|GOT306}} The High Priest had foreseen Robert's ascension to the [[Iron Throne]] in the flames, as Thoros was already in [[King's Landing]] by the time the city was [[Sack of King's Landing|sacked]] and he was present when the bodies of [[Aegon Targaryen (son of Elia Martell)|Aegon]] and [[Rhaenys Targaryen (daughter of Rhaegar)|Rhaenys Targaryen]], murdered by Ser [[Gregor Clegane]], were presented to the new king.{{Ref|GOT304}}
+
+===[[Game of Thrones: Season 3|''Game of Thrones'': Season 3]]===
+When [[Melisandre]] encounters the [[Brotherhood Without Banners]] she chastises [[Thoros]] for abandoning the mission given to him by the High Priest. Thoros bluntly says that he tried but failed.{{Ref|GOT306}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the overall organizational structure of the faith of R'hllor has not been revealed. Individual cities have been said to possess a High Priest, such as High Priest Bennero in [[Volantis]]. Whether or not there is an overarching international leadership of the entire religion, however, the way the [[High Septon]] is the leader of the entire [[Faith of the Seven]], is uncertain. It is possible that in the TV version Melisandre was simply referring to the High Priest ''in Myr'', not an overall leader.
+
+Thoros was himself not specified to have been sent to King's Landing by some sort of overall High Priest, but apparently by the local leaders of the Red Priesthood in [[Myr]]. In the TV series Thoros is said to have been sent to try to convert King Robert Baratheon, but this is a condensation from the books, in which Thoros was originally sent to King's Landing to try to convert King [[Aerys II Targaryen]], due to his increasing obsession with fire. Thoros's preaching was not successful, but he remained at the royal court after Robert Baratheon seized the throne. He had even less luck preaching the religion to Robert, but he continued to hang around the royal court as one of Robert's drinking companions.
+
+==Appearances==
+*{{GOT|The Climb}} {{Mentioned}}
+*{{H&L|Lord of Light}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Benerro}}
+
+<!--Categories-->
+[[Category:High Priests of the Lord of Light|Myr]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Myrmen]]
+
+<!--Languages-->
+[[ru:Верховный жрец (Мир)]]

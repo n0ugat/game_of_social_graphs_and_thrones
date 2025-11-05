@@ -1,0 +1,109 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Thrones
+| Part          = 
+| Image         = 806 Great Council.png
+| Previous      = [[Last War]]
+| Concurrent    = 
+| Next          = 
+| Date          = [[305 AC]]{{Dateref|Game of Thrones: Season 8}}
+| Place         = [[Dragonpit]], [[King's Landing]], [[Crownlands]]
+| Outcome       = *[[Bran Stark]] is proclaimed Bran the Broken, [[King of the Andals and the Rhoynar and the First Men|King of the Andals and the First Men]]
+*The [[North]] is granted independence under [[King in the North|Queen]] [[Sansa Stark]]
+*[[Tyrion Lannister]] named [[Hand of the King]]
+*[[Jon Snow]] is [[exile]]d to the [[Night's Watch]]
+*The [[Unsullied]] cede King's Landing to King Bran and leave [[Westeros]] for [[Naath]]
+*An [[Elections|elective]] monarchy is established
+| Factions1     = '''The [[Great Council]]'''<br>{{COA|House Arryn|small}} [[House Arryn]]<br>{{COA|House Baratheon|small}} [[House Baratheon]]<br>{{COA|House Greyjoy|small}} [[House Greyjoy]]<br>{{COA|House Lannister|small}} [[House Lannister]]<br>{{COA|House Martell|small}} [[House Martell]]<br>{{COA|House Stark|small}} [[House Stark]]<br>{{COA|House Tully|small}} [[House Tully]]<br>{{COA|House Royce|small}} [[House Royce]]<br>{{COA|House Seaworth|small}} [[House Seaworth]]<br>{{COA|House Tarly|small}} [[House Tarly]]<br>{{COA|House Tarth|small}} [[House Tarth]]<br>[[Unsullied]]<br>Other unidentified [[Noble house|houses]]
+| Factions2     = 
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = 
+| Leaders2      = 
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = {{COA|House Greyjoy|i}} Lady [[Yara Greyjoy]]<br>{{COA|House Martell|i}} [[Prince of Dorne (Last War)|Prince of Dorne]]<br>{{COA|Sansa Stark|i}} Lady [[Sansa Stark]]<br>{{COA|House Stark|i}} [[Arya Stark]]<br>{{COA|House Stark|i}} [[Bran Stark]]<br>{{COA|House Tully|i}} Lord [[Edmure Tully]]<br>{{COA|House Lannister|i}} Lord [[Tyrion Lannister]]<br>{{COA|House Baratheon|i}} Lord [[Gendry Baratheon]]<br>{{COA|House Arryn|i}} Lord [[Robin Arryn]]<br>{{COA|House Royce|i}} Lord [[Yohn Royce]]<br>{{COA|House Seaworth|i}} [[Knighthood|Ser]] [[Davos Seaworth]]<br>{{COA|House Tarth|i}} Ser [[Brienne of Tarth]]<br>{{COA|House Tarly|i}} [[Samwell Tarly]]<br>Lord [[Une]]<br>[[Grey Worm]] <small>(Commander of the Unsullied)</small>
+| Participants2 = 
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = 
+| Casualties2   = 
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Dialogue a-b|Tyrion|All hail Bran the Broken, First of His Name, King of the Andals and the First Men, Lord of the Six Kingdoms, and Protector of the Realm.|''All lords''|All hail Bran the Broken!|King Brandon I of House Stark is hailed as the ruler of the Six Kingdoms.|The Iron Throne}}
+A '''Great Council in the Dragonpit''' took place following the [[Assassination of Daenerys Targaryen]], and was originally convened to decide the fates of [[Tyrion Lannister]] and [[Jon Snow]]. With no monarch to render a verdict, the council was made up of the heads of each surviving [[Great House]] of [[Westeros]], along with other key players from the [[Battle of King's Landing]]. 
+
+==Events of the Great Council==
+===Prelude===
+Following the assassination of Daenerys, both Jon and Tyrion were kept as prisoners by the [[Unsullied]], soldiers loyal to Daenerys Targaryen and her cause, and who continued to control King's Landing after its sacking. When news of the events reached Sansa Stark in [[Winterfell]], she journeyed south with her brother Bran and her sworn sword, [[Brienne of Tarth]]. [[Samwell Tarly]], who was last seen at [[Winterfell]] with [[Gilly]] and [[Sam|her son]], also journeyed south. Other lords and ladies had arrived in King's Landing as well to discuss the fate of Jon and Tyrion, and to decide the political future of Westeros.{{Ref|GOT806}}
+
+===Election of Bran Stark===
+{{Quote|There's nothing in the world more powerful than a good story, nothing can stop it, no enemy can defeat it, and who has a better story than Bran the Broken?|[[Tyrion Lannister]] to the assembled lords at his trial|The Iron Throne}}
+When Tyrion Lannister was presented before the council, the Unsullied kept Jon Snow imprisoned, wanting to punish him themselves. Sansa Stark threatened the Unsullied with war if they attempted to harm Jon, to which their leader [[Grey Worm]] responded in equal measure. [[Yara Greyjoy]], [[Lord of the Iron Islands|Lady of the Iron Islands]] and a Daenerys supporter, favored the Unsullied's view, but [[Arya Stark]] threatened to kill Yara for even talking about hurting Jon. The situation was defused by [[Davos Seaworth]], but even he was unable to convince Grey Worm to let Jon go. Tyrion said that only the ruler of the Seven Kingdoms could deliver such justice, to which Grey Worm agreed.{{Ref|GOT806}}
+
+Daenerys's assassination had left the realm without a clear leader. Although this had essentially been the case for the previous seven years - with the [[War of the Five Kings]] and the other conflicts that came afterwards - the near-extinction of three Great Houses ([[House Targaryen|Targaryen]], [[House Baratheon|Baratheon]], and [[House Lannister|Lannister]]) had created huge uncertainty about who should inherit the throne.{{Ref|GOT806}}
+
+Members of the Great Council proposed three options for settling the succession:
+* [[Edmure Tully]], [[Lord of Riverrun]], set himself forward as a candidate for the crown, citing his battle experience as a veteran of two wars, as well as his experience with statecraft as credentials. This suggestion was promptly quashed by his niece, Sansa Stark, who sternly told her uncle to resume his seat.
+* Samwell Tarly, who had served in the [[Night's Watch]], suggested that all the people of Westeros select their own monarch, allowing each individual one vote in a democratic system (similar to the [[Elections#Night's Watch|choosing]] of [[Lord Commander of the Night's Watch|Lord Commanders]] in the Watch, and a system that Tyrion had previously mentioned to Daenerys herself). This idea resulted in mocking laughter from the assembled lords, with Edmure and Yohn comparing the idea to giving votes to horses and dogs, and was quickly rejected as well.
+* Finally, Tyrion suggested the idea of an [[Elections|elective]] monarchy, where the lords and ladies of the realm would congregate at the [[Dragonpit]] in [[King's Landing]] to determine a new king or queen following the death of the previous one (somewhat similar to the [[kingsmoot]] ceremony of the [[Iron Islands]], which Tyrion had also mentioned to Daenerys). This would also remove the possibility of unskilled or inexperienced leaders inheriting the throne. Tyrion claimed that nothing was better at uniting disparate people than a good story, and for that reason he suggested as monarch Brandon Stark, for his story of survival against extreme odds, and his abilities as the [[Three-Eyed Raven]] and keeper of the [[Known world|world]]'s memory. Naming him "Bran the Broken" - for his inability to walk - Tyrion's idea was swiftly appreciated and accepted by the members of the council.{{Ref|GOT806}}
+
+Despite the support gained for Brandon Stark, his sister Sansa was the only assembled member who did not immediately accept his crown. Saying that the [[Northmen]] had suffered too much to ever accept the rule of an outsider again (as could well happen in the future with an elective monarchy), she demanded that the North once again become its own sovereign kingdom, "as it was for thousands of years." This was granted by Brandon, who was thereafter hailed as "Bran the Broken, First of His Name, King of the Andals and the First Men, Lord of the Six Kingdoms, and Protector of the Realm."{{Ref|GOT806}}
+
+===Secession of the North===
+{{Quote|I love you, little brother, I always will. You'll be a good king. But tens of thousands of northmen fell in the [[Great War]] defending all of [[Westeros]], and those who survived have seen too much and fought too hard ever to kneel again. The North will remain an independent kingdom, as it was for thousands of years.|[[Sansa Stark]] to Brandon|The Iron Throne}}
+The notion of independence for the Kingdom of the North had been a prevailing issue for many years, ever since [[Joffrey Baratheon]] beheaded Lord [[Eddard Stark]],{{Ref|GOT109}} and Eddard's eldest son [[Robb Stark]] was forced to raise his banners in rebellion. Due to his purported [[Bastard|illegitimacy]], Joffrey's claim to the throne was contested, but the northerners did not wish to support the claims of either [[Stannis Baratheon|Stannis]] or [[Renly Baratheon|Renly]], the late King [[Robert Baratheon]]'s brothers. Instead, they crowned Robb King in the North, and declared themselves a free and independent kingdom.{{Ref|GOT110}}
+
+[[File:Arya_Bran_Sansa_S8_Ep6.jpg|thumb|275px|The remaining members of House Stark. Left to right: [[Arya Stark|Arya]], [[Bran Stark|Bran]], and [[Sansa Stark|Sansa]].]]
+Robb Stark's war for independence would be successful until he broke his betrothal with [[Roslin Tully|Roslin Frey]] to marry [[Talisa Stark|Talisa Maegyr]], a [[Volantis|Volantene]] noblewoman whom he had met on the campaign. As a result, Lord [[Walder Frey]] (Roslin's father) orchestrated the [[Red Wedding]] with [[Tywin Lannister]], a successful massacre of the northmen that dined within his halls when Edmure Tully was married to Roslin instead. Both Robb and his mother [[Catelyn Stark]] were killed, intensifying the Stark-Lannister blood feud.{{Ref|GOT309}} Following the Red Wedding, [[Roose Bolton]] was named [[Warden of the North]], replacing the Starks and earning the loathing of many northern Houses, whose banners had been pledged to the Stark cause.{{Ref|GOT310}}
+
+Roose would later be murdered in a conspiracy by his legitimized bastard son, [[Ramsay Bolton]], who would continue to rule the North through fear tactics and brutal violence.{{Ref|GOT602}} Eventually, Jon Snow -- the purported illegitimate son of Ned Stark -- and Sansa Stark marched south from [[Castle Black]] to take back [[Winterfell]].{{Ref|GOT605}} The bulk of Jon's forces consisted of the [[Free Folk]], and he had only managed to obtain the support of [[House Mormont]] as well as other minor Houses, as larger Houses were unwilling to fight alongside wildlings.{{Ref|GOT607}}
+
+With the threat of the [[Wight|Army of the Dead]] looming, Jon Snow, crowned King in the North by the Northern lords, sought an alliance with Daenerys,{{Ref|GOT702}} with whom he quickly fell in love.{{Ref|GOT707}} From [[Dragonstone (island)|Dragonstone]], Jon brought Daenerys and her forces back to Winterfell in preparation for the [[Great War|war against the dead]]{{Ref|GOT801}} after pledging allegiance to Daenerys as queen.{{Ref|GOT706}} However, the northerners still maintained a residual distrust of House Targaryen after the brutal torture and murder of [[Brandon Stark]] and [[Rickard Stark]] by [[Aerys II Targaryen|Daenerys's father]] twenty years prior.{{Cite}} After the [[Great War]], both the northmen and Daenerys's forces suffered great casualties. Because the North became a vassal to Daenerys when Jon bent the knee to her, their forces were pledged to help her take the Iron Throne from [[Cersei Lannister]]. Daenerys opted to take the Iron Throne from Cersei immediately against Sansa's advice that they wait a period of time until their forces had recovered.{{Ref|GOT804}}
+
+Eventually, after the [[Battle of King's Landing]] and the conclusion of the Great Council, Brandon Stark's selection as King of the Andals and the First Men would finally allow Sansa to achieve legal independence for the North as a recognized polity, free from what was now the [[Six Kingdoms]].{{Ref|GOT806}}
+
+===Aftermath===
+====Judgment on Tyrion and Jon====
+[[File:Imprisoned_Tyrion_S8_Ep6.jpg|thumb|200px|Tyrion Lannister as the prisoner of Grey Worm.]]
+Both Tyrion and Jon had recently been convicted of crimes, and the council was originally convened to decide their punishments; Tyrion had been arrested on the orders of the late Daenerys for treason; due to freeing his brother from the [[Unsullied]]'s custody; Jon was imprisoned for [[Assassination of Daenerys Targaryen|assassinating Daenerys]]; following her razing and massacre of King's Landing; she had stated in her victory speech that; she would do the same in future conquests around the known world, and he was attempting to prevent further massacres. The commander of the Unsullied and one of Daenerys's greatest supporters, Grey Worm was particularly keen to see them both executed.{{Ref|GOT806}}
+
+[[File:Jon_Exiled_S8_Ep6.png|thumb|200px|Jon is informed by Tyrion of his exile to the [[Night's Watch]].]]
+After Brandon Stark was named king by his peers, he pardoned Tyrion and named him [[Hand of the King]], a position Tyrion had previously held under Joffrey Baratheon and Daenerys herself. Grey Worm protested against this and Tyrion initially had rejected the position, saying that he had made too many mistakes in the past to be useful or worthy of the post. Bran had acknowledged this and made it clear that, as his hand, Tyrion would spend the rest of his life fixing the mistakes he had made. Jon was later exiled to the [[Wall]] as a member of the Night's Watch, in order to prevent a war between Daenerys's loyalists and Jon's supporters. Grey Worm had accepted this punishment for him, as did Sansa and Arya.{{Ref|GOT806}}
+
+====Westeros====
+[[File:HandoftheKingTyrionLannister.PNG|thumb|Tyrion as Hand of the King, following his pardon.]]
+Under the rule of Brandon Stark, there was much to be rebuilt and reorganized across Westeros:{{Ref|GOT806}} [[Knighthood|Ser]] [[Bronn|Bronn of the Blackwater]], a former sellsword and close companion of both Tyrion and Jaime, was named [[Lord Paramount of the Reach]] and [[Lord of Highgarden]], fulfilling the reward of his own castle that had long been promised to him by the Lannisters.{{Ref|GOT804}} Tyrion was allowed to remain as [[Lord of Casterly Rock]], a title that his father, [[Tywin Lannister|Tywin]], had disinherited him from on account of his [[dwarf]]ism and [[Prostitution|promiscuity]].{{Ref|GOT301}} Daenerys had already granted independence to Yara and the Iron Islands, and as [[Robin Arryn]] and the new [[Prince of Dorne (Last War)|Prince of Dorne]] had supported Bran's ascension to the throne, it can be assumed that they remained the rulers of their respective regions and did not make any bids for independence on a similar note to Sansa, despite their long-standing divisions with the throne.{{Cite}}
+
+In addition to Tyrion's appointment as Hand of the King, the following nobles were granted seats on the [[Small Council]] by Brandon:
+* Lord Bronn, as [[Master of Coin]].
+* Lord Davos Seaworth, as [[Master of Ships]].
+* Ser Brienne of Tarth, as [[Lord Commander of the Kingsguard]].
+* Samwell Tarly, as [[Grand Maester]].{{Ref|GOT806}}
+
+The Small Council informed Brandon that they would present him with suitable candidates for the positions of [[Master of Whisperers]], [[Master of Laws]], and [[Master of War]]. Both the North and the [[Kingsguard]] came to possess their first female leaders, with Queen in the North Sansa Stark enjoying great harmony with the south on the account of her and Bran's kinship. This put an end to the long-standing rivalry between the two realms proliferated by the War of the Five Kings. Brandon's reign also saw the induction of [[Podrick Payne]] as a [[Knighthood|knight]] of the Kingsguard.{{Ref|GOT806}}
+
+It was the first formal election of an absolute monarch in the history of Westeros (although different methods of deciding succession had been debated by other [[Great Council]]s in the past), and saw the reorganization of the [[Seven Kingdoms]] into an elective monarchy.{{Ref|GOT806}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, no equivalent event has occurred, although several Great Councils have occurred before the books' events. The TV show has surpassed the timeline of the books, so it is unclear if an equivalent event will occur.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Categories-->
+[[Category:305 AC]]
+[[Category:Great Councils|Dragonpit]]
+
+<!--Languages-->
+[[de:Große Ratssitzung von Königsmund]]
+[[fr:Grand Conseil de 305]]
+[[it:Gran Concilio del 305 CA]]
+[[ru:Великий совет в Драконьем Логове]]

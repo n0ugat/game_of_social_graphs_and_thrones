@@ -1,0 +1,65 @@
+{{Canonicity|Canon}}
+{{Spoiler|AKOTSK}}
+{{Heraldry
+| Image = House Blackfyre.svg
+| Link  = House Blackfyre
+}}
+{{Character
+| Title       = Haegon Blackfyre
+| Type        = Blackfyre
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = [[House Blackfyre|Blackfyre]]
+| Affiliation = [[Golden Company]]
+| Titles      = 
+| AKA         = 
+| Culture     = [[Valyrians|Valyrian]]
+| Religion    = 
+| Father      = {[[Daemon Blackfyre]]}
+| Mother      = [[Rohanne of Tyrosh]]
+| Spouse      = 
+| Lovers      = 
+| Issue       = [[Daemon Blackfyre (son of Haegon)|Daemon Blackfyre]]<br>Son(s)
+| Siblings    = {[[Aegon Blackfyre]]}<br>{[[Aemon Blackfyre]]}<br>[[Daemon Blackfyre (son of Daemon)|Daemon Blackfyre]]
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Haegon Blackfyre''' is a son of [[Daemon Blackfyre]].
+
+==Biography==
+Haegon is the younger brother and heir of [[Daemon Blackfyre (son of Daemon)|Daemon the Younger]]. He has a son, also named [[Daemon Blackfyre (son of Haegon)|Daemon]], either after his father or his brother. He lives in [[exile]] with his family.{{Ref|H&L803}}
+
+==Family==
+{{Blackfyre tree (A Knight of the Seven Kingdoms)}}
+
+==In the books==
+In ''[[The World of Ice & Fire]]'', following the [[Battle of Redgrass Field|Battle of the Redgrass Field]], his uncle [[Aegor Rivers|Bittersteel]] took him to [[Tyrosh]]. In exile he had at least two sons, the eldest of which he named Daemon.
+
+==Appearances==
+*{{H&L|The Blackfyres}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Haegon I Blackfyre|Haegon Blackfyre}} {{Spoilers|AKOTSK}}
+
+<!--Navboxes-->
+{{House Blackfyre/A Knight of the Seven Kingdoms}}
+
+<!--Categories-->
+{{DEFAULTSORT:Blackfyre, Haegon}}
+[[Category:Crownlanders]]
+[[Category:Exiles]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Members of House Blackfyre|Haegon Blackfyre]]
+
+<!--Languages-->
+[[ru:Хейгон Блэкфайр]]
+[[uk:Хейґон Чорножар]]

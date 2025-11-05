@@ -1,0 +1,55 @@
+{{Canonicity|Canon}}
+{{ConjectureInfo}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Lannister
+| Image     = House Broome.svg 
+| Arms      = A silver helm crested with wings on green and black checks{{Ref|HOTD203}}
+| Words     = 
+| Titles    = 
+| Seat      = 
+| Region    = [[Westerlands]]
+| Head      = 
+| Heir      = 
+| Overlords = [[House Lannister]]
+| Vassals   = 
+| Religion  = 
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Broome'''{{Webref|name=WBD |author=HBO |date=December 2, 2023 |url=https://press.wbd.com/us/media-release/hbo-0/house-dragon/hbo-releases-official-teaser-and-first-look-images-season-two-original-drama-series |title=HBO Releases Official Teaser And First Look Images For Season Two Of Original Drama Series HOUSE OF THE DRAGON |website=Warner Bros. Discovery |access-date=December 17, 2023 }}{{Note|Alfred's surname is Broome.}} is a [[noble house]] from the [[Westerlands]]. Their sigil is a silver helm crested with wings on green and black checks.{{Ref|HOTD203}}
+
+==Members==
+*Ser {[[Alfred Broome]]}, a [[Knighthood|knight]] in service of [[House Targaryen]] during the [[Dance of the Dragons]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no mention of House Broome. In ''[[Fire & Blood]]'', the Broomes were among the houses who sided with the [[Faith Militant uprising]]. Their castle was burned by King [[Maegor Targaryen|Maegor the Cruel]]'s dragon [[Balerion]].{{Bookref|F&B|4}}
+
+Lady Lucinda Broome was married to Lord Prentys Tully.{{Bookref|F&B|6}}
+
+It is unknown whether House Broome is related to [[awoiaf:House Broom|House Broom]], one of the principal vassals of [[House Lannister]]. In ''[[House of the Dragon]]'', Ser Alfred Broome is shown wearing the sigil of House Broom on his armor, suggesting that House Broome and House Broom are in fact the same.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+*{{AWOIAF|House Broom}}
+
+<!--Navboxes-->
+{{House Broome}}
+{{Houses from the Westerlands/House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Broome, House}}
+[[Category:House Broome| ]]
+[[Category:Houses from the Westerlands]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[pl:Ród Broome]]

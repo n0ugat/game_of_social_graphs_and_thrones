@@ -1,0 +1,65 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Heraldry
+| Image = House Tully.svg
+| Link  = House Tully/House of the Dragon
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Tully
+| Image       = 
+| Birth       = 
+| Death       = After [[126 AC]]{{Dateref|The Princess and the Queen}}
+| House       = [[House Tully/House of the Dragon|Tully]]{{Ref|HOTD106}}
+| Affiliation = 
+| Titles      = 
+| AKA         = 
+| Culture     = [[Riverlands|Rivermen]]
+| Religion    = 
+| Father      = [[Grover Tully]]{{Ref|HOTD106}}
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = [[Oscar Tully]]{{Ref|HOTD204}}
+| Siblings    = 
+| Arms        = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Grover Tully's son''' was a member of [[House Tully/House of the Dragon|House Tully]] during the reign of [[Viserys I Targaryen|Viserys I]].
+
+==Biography==
+He was the son of Lord [[Grover Tully]] and the heir to [[Riverrun]]. As Grover grew old and frail, the son became de facto ruler of Riverrun.{{Ref|HOTD106}} He died suddenly while his son [[Oscar Tully|Oscar]] was still young, and Grover raised Oscar in his stead.{{Ref|HOTD204}}
+
+==In the books==
+In ''[[Fire & Blood]]'', Grover Tully's son is not mentioned.
+
+==Appearances==
+*{{HOTD|The Princess and the Queen}} {{Mentioned}}
+*{{HOTD|The Red Dragon and the Gold}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|Elmo Tully}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{House Tully/House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Tully's son, Grover}}
+[[Category:Individuals mentioned in House of the Dragon]]
+[[Category:Members of House Tully|Grover Tully's son]]
+[[Category:Rivermen]]
+
+<!--Languages-->
+[[ru:Сын Гровера Талли]]

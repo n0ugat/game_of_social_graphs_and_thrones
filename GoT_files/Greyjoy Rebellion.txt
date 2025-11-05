@@ -1,0 +1,118 @@
+{{Canonicity|Canon}}
+{{OtherUses|uprising|Greyjoy Rebellion (disambiguation)}}
+{{War
+| Title      = {{PAGENAME}}
+| Type       = Westeros
+| Part       = 
+| Image      = Greyjoy Rebellion.png
+| Previous   = [[Robert's Rebellion]]
+| Concurrent = 
+| Next       = [[War of the Five Kings]]<br>[[Conflict beyond the Wall]]<br>[[Liberation of Slaver's Bay]]
+| Beginning  = [[289 AC]]{{Dateref|Greyjoy Rebellion}}<br>[[Raid on Lannisport]]
+| End        = 289 AC{{Dateref|Greyjoy Rebellion}}<br>[[Siege of Pyke]]
+| Place      = [[Iron Islands]], [[North]], [[Westerlands]], and [[Riverlands]], [[Westeros]]
+| Outcome    = Decisive royalist victory
+*Rebellion suppressed by the [[Iron Throne]]
+*Restoration of ''status quo ante bellum''
+*[[Theon Greyjoy]] is taken as a hostage by [[Eddard Stark]]
+| Factions1  = Royalists:<br><br>{{COA|House Baratheon|s|House Baratheon of King's Landing}}<br>[[Iron Throne]]<br>{{C|[[House Baratheon of King's Landing|House Baratheon]]}}<br><br>{{COA|House Stark|s}}<br>[[House Stark]]<br><br>{{COA|House Lannister|s}}<br>[[House Lannister]]<br><br>{{COA|House Tully|s}}<br>[[House Tully]]<br><br>{{COA|House Tyrell|s}}<br>[[House Tyrell]]
+| Factions2  = Rebels:<br><br>{{COA|House Greyjoy|s}}<br>[[Salt Throne]]<br>{{C|[[House Greyjoy]]}}<br><br>{{COA|House Blacktyde|s}}<br>[[House Blacktyde]]<br><br>{{COA|House Drumm|s}}<br>[[House Drumm]]<br><br>{{COA|House Harlaw|s}}<br>[[House Harlaw]]<br><br>{{COA|House Botley|s}}<br>[[House Botley]]<br><br>{{COA|House Goodbrother|s}}<br>[[House Goodbrother]]<br><br>{{COA|House Merlyn|s}}<br>[[House Merlyn]]<br><br>{{COA|House Sparr|s}}<br>[[House Sparr]]
+| Factions3  = 
+| Factions4  = 
+| Factions5  = 
+| Factions6  = 
+| Leaders1   = {{COA|House Baratheon|i|House Baratheon of King's Landing}} [[King of the Andals and the Rhoynar and the First Men|King]] [[Robert Baratheon|Robert I Baratheon]]<br>{{COA|House Baratheon|i}} Lord [[Stannis Baratheon]]<br>{{COA|House Stark|i}} [[Lord of Winterfell|Lord]] [[Eddard Stark]]<br>{{COA|House Lannister|i}} [[Lord of Casterly Rock|Lord]] [[Tywin Lannister]]<br>{{COA|House Mallister|i}} Lord [[Jason Mallister]]<br>{{COA|Kingsguard|i}} [[Lord Commander of the Kingsguard|Lord Commander]] [[Barristan Selmy]]<br>{{COA|Kingsguard|i}} [[Knighthood|Ser]] [[Jaime Lannister]]
+| Leaders2   = {{COA|House Greyjoy|i}} [[King of the Iron Islands|King]] [[Balon Greyjoy]] {{Surrender}}<br>{{COA|House Greyjoy|i}} [[Iron Fleet|Captain]] [[Euron Greyjoy]]<br>{{COA|House Greyjoy|i}} [[Prince]] [[Rodrik Greyjoy]] †<br>{{COA|House Greyjoy|i}} [[Prince]] [[Maron Greyjoy]] †<br>{{COA|House Greyjoy|i}} [[Iron Fleet|Captain]] [[Aeron Greyjoy]]
+| Leaders3   = 
+| Leaders4   = 
+| Leaders5   = 
+| Leaders6   = 
+| Events     = [[Raid on Lannisport|Lannisport]] {{*}} [[Assault on Seagard|Seagard]] {{*}} [[Sea battle off Fair Isle|Fair Isle]] {{*}} [[Capture of Great Wyk|Great Wyk]] {{*}} [[Assault on Old Wyk|Old Wyk]] {{*}} [[Siege of Pyke|Pyke]]
+}}
+{{dialogue a-b|Theon Greyjoy|We were outnumbered ten to one.|Tyrion Lannister|A stupid rebellion then. I suppose your father realized that when your brothers died in battle.|[[Theon Greyjoy|Theon]] defends his father's failed rebellion.|Cripples, Bastards, and Broken Things}}
+The '''Greyjoy Rebellion'''{{Ref|H&L802}} was a brief [[Rebellion|uprising]] in the [[Seven Kingdoms]] of [[Westeros]], fought between [[House Greyjoy]], [[Lord of the Iron Islands|rulers]] of the [[Iron Islands]], and the [[Iron Throne]].
+
+==History==
+===Background===
+The rebellion took place nine years<ref name="E5">"[[The Wolf and the Lion]]"</ref> before the [[War of the Five Kings]], and was an attempt by [[House Greyjoy]] of the [[Iron Islands]] to break away and secure independence from the [[Iron Throne]] and revive the [[Old Way]]. [[Balon Greyjoy]] declared himself [[King of the Iron Islands]] and led the rebellion while under the support of his vassals. The rebellion began eight years after [[King of the Andals and the Rhoynar and the First Men|King]] [[Robert Baratheon]] seized the [[Iron Throne]] in the civil war known as [[Robert's Rebellion]].<ref name="viewers guide">[http://viewers-guide.hbo.com/game-of-thrones/season2/#!/guide/appendix/greyjoy-rebellion/ HBO viewers guide, season 2 appendices, Greyjoy Rebellion entry]</ref>
+
+During the rebellion, House Greyjoy secured an early victory, in which the [[Lannister fleet]] was burned at anchor in [[Lannisport]] in a [[Raid on Lannisport|raid]] led by [[Euron Greyjoy]].<ref name="E4">"[[Cripples, Bastards, and Broken Things]]"</ref> Their first major defeat came in an attempted [[Assault on Seagard|assault]] on the coastal castle of [[Seagard]]. Balon's first son and heir, [[Rodrik Greyjoy|Rodrik]], was killed in the failed assault by Lord [[Jason Mallister]].<ref name="viewers guide" />
+
+However, since the Ironborn were outnumbered by ten to one, the superiority of numbers and resources saw the Iron Throne crush the rebellion. The Greyjoy fleet was [[Sea battle off Fair Isle|destroyed]] by [[Stannis Baratheon|Stannis]]<ref name="E7">"[[You Win or You Die]]"</ref> while Robert and [[Eddard Stark]] [[Siege of Pyke|besieged]] the Greyjoy stronghold of [[Pyke]]. During the final assault on the castle, a battle-crazed warrior priest of the [[Lord of Light]] named [[Thoros]] led the way through a breach in the wall with his flaming sword, [[Jorah Mormont]] not far behind him. Eddard and [[Jaime Lannister|Jaime]] were also key fighters for the Iron Throne during the battle.<ref name="Siege of Pyke">[http://viewers-guide.hbo.com/game-of-thrones/season2/#!/map/special/battleground-westeros/3/ HBO viewers guide, season 2 special features, Battleground Westeros - Siege of Pyke entry]</ref> Balon's second son [[Maron Greyjoy|Maron]] was killed in the fighting at Pyke,<ref name="viewers guide" /> due to a collapsing tower during the battle.<ref name="Siege of Pyke" />
+
+[[File:Balon_kneels.png|thumb|255px|Balon [[Bending the knee|bends the knee]], signalling the end of the rebellion]]
+The rebellion was ultimately crushed and Balon was forced to surrender. He was accepted back into the king's peace, keeping his lordship and titles, but only on the condition that his last surviving son [[Theon Greyjoy|Theon]] be made a [[ward]] of [[House Stark]] as a hostage to ensure his father's good behavior. Robert's victory cemented his hold on the throne, after having overthrown the Targaryens a few years before.<ref name="viewers guide" /> Robert knighted Jorah Mormont for his valor in the battle.<ref name="Siege of Pyke" /> [[Jory Cassel]] also fought in the Greyjoy Rebellion.<ref name="E4" />
+
+In retrospect, the whole idea of the rebellion has been extremely half-baked: Balon focused only on the short-term achievements, overestimating his forces and underestimating his opponents; apparently, he hadn't taken into consideration that Robert might eventually rally forces and launch a counterattack. As [[Tyrion Lannister|Tyrion]] correctly points out, the balance of forces alone should have made Balon drop the whole idea.
+
+As things turned to be, Balon has not learned any lesson from the failed rebellion, for his poorly planned [[Ironborn invasion of the North|invasion of the North]], about one decade later, happened similarly: an initial success, followed by a series of defeats and heavy losses.
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+As he is leaving [[Winterfell]], Tyrion tells Theon how he remembers watching the raid on Lannisport from [[Casterly Rock]], recalling that Theon's uncles were responsible. When Theon tries to defend his people, Tyrion calls the war "a stupid rebellion."<ref name="E4" />
+
+Jory Cassel and Jaime reminisce about the [[Siege of Pyke]], in which they were both fighting against the Greyjoys. Within this conversation they mention clearly remembering Thoros leading the way with a flaming sword. Also, Jory confirms that the scar on his face was obtained while fighting in the rebellion.<ref name="E4" />
+
+Robert states that the Seven Kingdoms "haven't had a real fight in nine years", referring to the Greyjoy Rebellion.<ref name="E5" />
+
+When attempting to subvert the Iron Throne from his older brother Stannis, [[Renly Baratheon|Renly]] is reminded by Eddard that Stannis destroyed the Greyjoy fleet.<ref name="E7" />
+
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+Theon advises [[Robb Stark|Robb]] to form an alliance with his father Balon. Robb initially disapproves of the idea, reminding Theon that the ironborn fought against his father. [[Catelyn Stark|Catelyn]], too, is against the idea, reminding Robb that his father had to go to war to end the Greyjoy Rebellion.<ref name="E11">"[[The North Remembers]]"</ref>
+
+Theon angrily reminds his father how he bent his knee to Robert, after the latter crushed him.<ref name="E13">"[[What Is Dead May Never Die]]"</ref>
+
+===[[Game of Thrones: Season 6|''Game of Thrones'': Season 6]]===
+[[Yara Greyjoy|Yara]] attempts to convince her father that the invasion to the North is fruitless, pointing out that the last time they provoked the mainlanders too far, they were crushed, referring to the Greyjoy Rebellion.<ref name="E52">"[[Home]]"</ref>
+
+===[[Game of Thrones: Season 7|''Game of Thrones'': Season 7]]===
+When Euron is invited to [[King's Landing]] to treat with [[Cersei Lannister|Cersei]], Jaime recalls that it was Euron who started the first Greyjoy Rebellion when he burnt the Lannister fleet. Jaime congratulates Euron, but says that it didn't matter since the [[Iron Throne|royalist]] forces made it to the Iron Islands anyway to quell Balon Greyjoy's rebellion. Euron surprisingly thanks him for it, saying how he loved watching Jaime kill the Ironborn, calling his swordsmanship at the breach glorious and "like a dance." He goes on to note that had the royalists not made it to the Iron Islands, he would not have been sent into exile and become the greatest captain of the fourteen seas. Jaime is taken aback by this, but says that he likes killing Greyjoys, to which Euron replies that this is a trait he needs in an alliance given that he is now opposed by Balon's children, Yara and Theon, who have joined forces with Cersei's enemy, [[Daenerys Targaryen]].<ref name="E61">"[[Dragonstone (episode)|Dragonstone]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the Greyjoy Rebellion took place five years after Robert seized the [[Iron Throne]] and nine years before the events of the books. Balon Greyjoy calculated that Robert's rule was as yet insecure and that many families would not go to war for a [[usurper]]. Balon declared independence from the control of the [[King of the Andals and the Rhoynar and the First Men|King of the Andals and the First Men]]. When Robert mobilized his armies, the ironborn launched several preemptive strikes, destroying the Lannister fleet at anchor in the harbor of Lannisport and raiding the castle of Seagard, as well as many smaller attacks along the coast. 
+
+[[Victarion Greyjoy]] (whose character was omitted from the show) was the one who destroyed the Lannister fleet, although the plan was devised by Euron.
+
+However, Stannis and [[Paxter Redwyne]], with their fleets from Dragonstone, [[Storm's End]] and the [[Arbor]], defeated the Iron Fleet in a significant battle off [[Fair Isle]]. A large army assaulted the castle of Pyke, the seat of House Greyjoy, with Thoros and Jorah Mormont being the first people to go through the breach, and then surviving to win high honor. Pyke was severely damaged and Balon's two eldest sons, Rodrik and Maron, were killed, before Balon himself finally surrendered and bent the knee. King Robert agreed to pardon and restore him to the king's peace, as long as his surviving son and heir Theon was given up to Eddard as hostage and a [[ward]].
+
+There is no mentioning in the books about any actions performed by Jaime and Jory Cassel during the rebellion.
+
+Years later, when Cersei receives a report about the raiding of [[Shield Islands]], she regards her late husband's treatment of the Greyjoys as too lenient; she believes that [[Tywin Lannister|her father]]'s response to the rebellion would have been to give the ironborn a new island, made of their skulls.{{Bookref|AFFC|32}} Stannis also felt Robert was too merciful to Balon; one of the reasons [[Petyr Baelish|Littlefinger]] gives to Ned Stark against naming Stannis as King after Robert's death was that Stannis would likely seek to brutally punish Balon and any other houses that rose up with him during the Rebellion.{{Bookref|AGOT|47}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==Gallery==
+<gallery>
+File:Seagard attack.png|Ironborn defeated at Seaguard.
+File:Annotation 2019-12-11 200028.jpg
+File:The Greyjoy Rebellion.png|Stannis's fleet smashes the Iron fleet.
+File:H&L202.png
+File:Stannis Great Wyk.png
+File:Barristan Old Wyk.png
+File:Siege of Pyke.jpg
+File:Siege of Pyke.png|Balon witnesses the Siege of Pyke.
+File:Greyjoy Rebellion - Theon Greyjoy
+</gallery>
+
+==External links==
+*{{AWOIAF|Greyjoy's Rebellion}}
+
+<!--Navboxes-->
+{{Greyjoy Rebellion}}
+{{Wars}}
+
+<!--Categories-->
+[[Category:289 AC]]
+[[Category:Greyjoy Rebellion| ]]
+[[Category:Wars]]
+
+<!--Languages-->
+[[de:Graufreud-Rebellion]]
+[[fr:Rébellion Greyjoy]]
+[[pl:Rebelia Greyjoya]]
+[[pt-br:Rebelião Greyjoy]]
+[[ro:Rebeliunea lui Balon Greyjoy]]
+[[ru:Восстание Грейджоя]]

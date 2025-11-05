@@ -1,0 +1,55 @@
+{{Canonicity|Canon}}
+{{References}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Crownlander
+| Image     = 
+| Arms      = 
+| Words     = 
+| Titles    = 
+| Seat      = [[Brownhollow]]
+| Region    = [[Crownlands]]
+| Head      = 
+| Heir      = 
+| Overlords = [[King of the Andals and the Rhoynar and the First Men|King of the Andals and the First Men]]<br>[[House Lannister]] {{C|[[303 AC|303]]{{Dateref|Game of Thrones: Season 6}}-[[305 AC]]}}{{Dateref|Game of Thrones: Season 8}}<br>{[[House Baratheon of King's Landing]]} {{C|[[281 AC|281]]{{Dateref|Robert's Rebellion}}-303 AC}}{{Dateref|Game of Thrones: Season 6}}<br>[[House Targaryen]] {{C|[[1 AC|1]]{{Dateref|Aegon's Conquest}}-281 AC}}{{Dateref|Robert's Rebellion}}
+| Vassals   = 
+| Religion  = [[Faith of the Seven]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Brune'''{{Ref|GOT201}}{{Note|Lothor's surname is Brune.}} of [[Brownhollow]] is a vassal house from the [[Crownlands]] that directly holds fealty to the elected monarchs of the [[Seven Kingdoms|Six Kingdoms]].
+
+==Members==
+*[[Lothor Brune]], a freerider in service to [[Petyr Baelish|Littlefinger]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, House Brune is a poor but old family from [[Crackclaw Point]], a backwater of the [[Crownlands]] whose lords descend primarily from the [[First Men]]. House Brune of the [[Dyre Den]] is the main branch of the family, though a [[cadet branch]] known as House Brune of Brownhollow also exists at the time of the novels, also located on Crackclaw Point, though they are only [[Knighthood#Types of knights|landed knights]], not noble lords. Their sigil is a brown bear claw on a white background, with a double brown line running around the edge.
+
+Lothor Brune is a distant minor relative of House Brune of Brownhollow - itself a poor cadet branch of landed knights stemming from an already poor main family of minor nobles. It is therefore unsurprising that Lothor grew up poor and fighting for a living, explaining why he is a freerider serving another lord at the beginning of the story. After his father's death, Lothor tried to find a place with House Brune of Brownhollow, but they said he was no close kin of theirs and turned him away. Eventually, he entered the service of Petyr Baelish.
+
+After the [[Battle of the Blackwater]], Lothor Brune is promised a keep in the [[riverlands]] at war's end. This would make him the founder of his own cadet branch of House Brune.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|House Brune of Brownhollow}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{Houses from the Crownlands}}
+
+<!--Categories-->
+{{DEFAULTSORT:Brune, House}}
+[[Category:House Brune| ]]
+[[Category:Houses from the Crownlands]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[fr:Maison Brune]]
+[[pt-br:Casa Brune]]
+[[ru:Брюны]]

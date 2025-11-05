@@ -1,0 +1,52 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Targaryen
+| Image        = Guildhall.jpg
+| Type         = Guild headquarters
+| Status       = 
+| Location     = [[King's Landing]], the [[Crownlands]]
+| Population   = 
+| Rulers       = [[Alchemists' Guild]]
+| Institutions = 
+| Military     = 
+| Religion     = 
+| Places       = 
+| Founded      = 
+}}
+The '''Guildhall'''{{Ref|H&L218}} is the headquarters and training center of the [[Alchemists' Guild]] in the city of [[King's Landing]]. It is located underground, beneath [[King's Landing|Rhaenys's Hill]].
+
+Beneath the guildhall are bare stone cells where Acolytes prepare [[wildfire]] employing the order's secret methods, which they boast is "ancient magic". However, should an Acolyte accidentally cause the wildfire to ignite, the roof of the chamber is "spelled" to collapse, releasing a large mass of sand to quell the fire by drowning it - and burying the unwary Acolyte along the way.
+
+==History==
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+[[Tyrion Lannister]] visits the Guildhall after [[Lancel Lannister]] informs him the Guild has been preparing [[wildfire]] at the behest of Queen [[Cersei Lannister|Cersei]].<ref>"[[The Ghost of Harrenhal]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the Guildhall of the Alchemists is the center of the Alchemists' Guild. It is located at the foot of Visenya's Hill, along the Street of Sisters in King's Landing. The Guildhall is made of black marble, a warren of twists and turns.
+
+Wildfire, the material that makes the Alchemists' Guild infamous, is prepared in stone cells beneath the guildhall. Above each cell is a room filled with sand. The floor below has protective enchantments placed upon it. Any fire within the cell will cause both floors to fall and the sand to drop, smothering the fire instantly.
+
+==Gallery==
+<gallery>
+Tyrion see Wildfire.png|A vault in the Guildhall containing thousands of jars of wildfire
+Collapse.jpg|Guildhall chambers are "spelled" to collapse should an Acolyte accidentally  ignite the Substance.
+Wildfire Vault Door Concept Art.jpg|Wildfire vault door concept art.
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Crownlands}}
+
+<!--Categories-->
+[[Category:Alchemists' Guild]]
+[[Category:Buildings]]
+[[Category:King's Landing]]
+
+<!--Languages-->
+[[ru:Штаб-квартира гильдии алхимиков]]

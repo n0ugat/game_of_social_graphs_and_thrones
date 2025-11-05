@@ -1,0 +1,117 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Hoare.svg
+| Link  = House Hoare
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Hoare
+| Image       = Harren the Black.png
+| Birth       = 
+| Death       = [[2 BC]]{{Dateref|Aegon's Conquest}}<br>[[Harrenhal]], [[Riverlands]]{{Ref|H&L202}}
+| House       = [[House Hoare|Hoare]]{{Ref|H&L214}}
+| Affiliation = 
+| Titles      = [[King of the Iron Islands]]{{Ref|H&L314}}
+| AKA         = Harren the Black{{Ref|H&L202}}<br>Black Harren{{Cite}}
+| Culture     = [[Ironborn]]{{Ref|H&L202}}
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Harren the Black thought this castle would be his legacy. The greatest fortress ever built: the tallest towers, the strongest walls. The Great Hall had thirty five hearths. Thirty five, can you imagine? Look at it now... a blasted ruin.|[[Tywin Lannister]] to [[Arya Stark]], referring to [[Harrenhal]]|A Man Without Honor}}
+King '''Harren Hoare''', better known as '''Harren the Black''' and '''Black Harren''', was an [[Ironborn]] King who ruled over the [[Iron Islands]] and the [[Riverlands]] from his castle, [[Harrenhal]].
+
+==Biography==
+Harren the Black was an [[Ironborn]] King who ruled over the [[Iron Islands]] and the [[Riverlands]] from his castle, [[Harrenhal]]. Harrenhal was the biggest castle in the entire history of the [[Seven Kingdoms]] and was built to be invulnerable to any attack by land.{{Ref|GOT207}}
+[[File:End of House Hoare.png|thumb|End of House Hoare.]]
+However, when [[Aegon I Targaryen|Aegon Targaryen]] [[Aegon's Conquest|invaded]] the [[Seven Kingdoms]], King Harren's vassals from the Riverlands, led by [[Edmyn Tully]], revolted against him, while Aegon the Conqueror unleashed his dragon, [[Balerion]] the Black Dread against the massive stronghold.{{Note|"[[The Field of Fire - House Targaryen]]" confirms that Aegon used his three dragons only in the Field of Fire.}} The [[King of the Iron Islands]] and his [[House Hoare|sons]] perished as dragonflame consumed Harrenhal, leaving behind blackened and melted ruins. With his armies destroyed, he was replaced with [[House Greyjoy]].{{Ref|GOT207}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Harren the Black was the last King of the Iron Islands and the Riverlands, grandson of Harwyn Hardhand, a [[King of the Iron Islands]] who took the [[Trident]] from Arrec, the [[Storm King]] (grandfather of [[Argilac Durrandon|Argilac the Arrogant]]). Harren's father extended their domains further east by conquering even more territory from the [[Stormlands]], advancing east from the [[Gods Eye]] to the Narrow Sea and south to the [[Blackwater Rush]] (more or less the area of the later [[Crownlands]]).
+
+Harren the Black was a vain, bloody tyrant hated by his vassals. His cruelty became legendary across Westeros. Eventually, Harren's cruelty backfired at him: Edmyn Tully and the rest of the lords of the Riverlands turned against him during Aegon's Conquest.
+
+Harren had a very long reign: he had been king for forty years by the time of Aegon's Conquest. Argilac Durrandon was a strong king and managed to stem the tide of ironborn expansion, starting when he became king 20-30 years before Aegon's Conquest. Even so, Harren focused on strengthening his hold on the large territories that House Hoare already held, pouring massive resources into finishing Harrenhal (breaking the backs of thousands of enthralled Rivermen).
+
+Harren's growing strength and expansionist mindset indirectly led to Aegon's Conquest, or at least its immediate cause. After so many years Argilac was starting to grow old, and with only one daughter as an heir, he feared that Harren would sense weakness and mount another major invasion against the Stormlands. Argilac therefore proposed a marriage-alliance to Aegon Targaryen, whose dragons could stop Harren. Aegon declined the offer, however, pointing that he already had ''two'' wives - and that the vast lands that Argilac promised as dowry (from Gods Eye to the Blackwater) were in fact still held by Harren (and Aegon would only gain them if they succeeded). Aegon did give a counter-offer, that Argilac's daughter could marry his best friend (and rumored bastard brother) [[Orys Baratheon]]. Argilac was incensed at giving his daughter's hand in marriage to a bastard, so he cut off the hands of Aegon's envoy and mailed them back to Dragonstone in a box, saying they were the only hands he would ever receive from him. Aegon responded by calling his bannermen, and announcing that he intended to conquer not merely the Stormlands or the ironborn, but all of the Seven Kingdoms.
+
+==Appearances==
+*{{GOT|A Man Without Honor}} {{Mentioned}}
+*{{H&L|Greyjoy Rebellion - Theon Greyjoy}} {{Mentioned}}
+*{{H&L|Harrenhal}} {{Illustrated}}
+*{{H&L|House Tully}} {{Illustrated}}
+*{{H&L|The Riverlands}} {{Mentioned}}
+*{{H&L|The Death of Kings}} {{Indirect}}
+*{{TDOD}} {{Text}}
+*{{H&L|The Old Way}} {{Mentioned}}
+*{{H&L|The Kingsmoot}} {{Illustrated}}
+*{{C&R|Invasion}} {{Illustrated}}
+*{{C&R|House Hoare, Ironborn Kings of the Riverlands}} {{Illustrated}}
+*{{HOTD|The Princess and the Queen}} {{Mentioned}}
+*{{HOTD|Driftmark}} {{Mentioned}}
+*{{HOTD|The Burning Mill}} {{Mentioned}}
+*{{HOTD|The Red Dragon and the Gold}} {{Mentioned}}
+*{{HOTD|Smallfolk}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Succession box-->
+{{S-start}}
+{{Succession box
+ | title  = [[King of the Iron Islands]]
+ | years  = ? - [[2 BC]]
+ | with   = 
+ | before = Unknown
+ | after  = [[Vickon Greyjoy]]<br><small>as [[Lord of the Iron Islands]]</small><br>
+ | after2 = [[Edmyn Tully]]<br><small>as [[Lord Paramount of the Trident]]</small>
+}}
+{{Succession box
+ | title  = Ruler of [[Harrenhal]]
+ | years  = [[2 BC]]
+ | with   = 
+ | before = None
+ | after  = [[Quenton Qoherys]]<br><small>as [[Lord of Harrenhal]]</small>
+}}
+{{S-end}}
+
+<!--Navboxes-->
+{{House Hoare}}
+{{Kings of the Iron Islands}}
+{{Kings of Westeros}}
+
+<!--Categories-->
+{{DEFAULTSORT:Hoare, Harren}}
+[[Category:Individuals from Game of Thrones: Conquest & Rebellion: An Animated History of the Seven Kingdoms]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Individuals from The Dance of Dragons]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Individuals mentioned in House of the Dragon]]
+[[Category:Ironborn]]
+[[Category:Kings of the Iron Islands]]
+[[Category:Lords of Harrenhal]]
+[[Category:Members of House Hoare|Harren Hoare]]
+
+<!--Languages-->
+[[de:Harren Hoffartt]]
+[[fr:Harren Chenu]]
+[[ro:Harren Hoare]]
+[[ru:Харрен Чёрный]]

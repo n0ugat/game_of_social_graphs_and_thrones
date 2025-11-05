@@ -1,0 +1,77 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Darklyn.svg
+| Link  = House Darklyn
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Targaryen
+| Image       = Gunthor Darklyn.png
+| Birth       = 
+| Death       = [[132 AC]]{{Dateref|House of the Dragon: Season 2}}<br>[[Duskendale]], the [[Crownlands]]{{Ref|HOTD204}}
+| House       = [[House Darklyn|Darklyn]]{{Ref|HOTD110}}
+| Affiliation = [[House Targaryen/House of the Dragon|House Targaryen]]{{Ref|HOTD110}}<br>[[Blacks]]{{Ref|HOTD110}}
+| Titles      = [[Lord of Duskendale]]
+| AKA         = 
+| Culture     = [[Crownlands|Crownlander]]
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = {[[Steffon Darklyn]]}{{Ref|HOTD204}}
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 2|2]]
+| Appearances = "[[The Red Dragon and the Gold]]"
+| First       = 
+| Last        = 
+| DeathEp     = "The Red Dragon and the Gold"
+| Actor       = [[Steven Pacey]]
+}}
+{{Dialogue a-b-a|Gunthor|Is there no honor left in this world, Cole? Sacking your queen's own castles and putting her people to the sword? 'Kingmaker.' You are not fit for the white cloak.|Criston|This is a better death than a traitor deserves. You should thank me for it.|Yours will come in kind.|Gunthor Darklyn and Criston Cole|The Red Dragon and the Gold}}
+Lord '''Gunthor Darklyn''' was the head of [[House Darklyn]] and Lord of [[Duskendale]] during the [[Dance of the Dragons]].
+
+==Biography==
+===Background===
+Gunthor is the father of Ser [[Steffon Darklyn]], the [[Lord Commander of the Kingsguard|Lord Commander]] of [[Rhaenyra Targaryen]]'s [[Kingsguard/House of the Dragon|Queensguard]].{{Ref|HOTD204}}
+
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+[[Daemon Targaryen|Daemon]] orders [[Bartimos Celtigar]] to send a raven to Lord Darklyn. Maester [[Gerardys]] later confirms that House Darklyn has declared for [[Rhaenyra Targaryen|Rhaenyra]].{{Ref|HOTD110}}
+
+===[[House of the Dragon: Season 2|''House of the Dragon'': Season 2]]===
+Lord Gunthor refuses to bend the knee to [[Aegon II Targaryen]] after the [[sack of Duskendale]], one of the first military victories by Ser [[Criston Cole]] at the start of the [[Dance of the Dragons|war]]. He is subsequently [[Execution|beheaded]] by Ser Criston, causing his soldiers to swear fealty to Aegon and join the [[Greens]].{{Ref|HOTD204}}
+
+==In the books==
+In ''[[Fire & Blood]]'', Gunthor was a member of the [[Black Council|black council]]. He was the nephew of Ser [[Steffon Darklyn]], not his father.
+
+==Appearances==
+*{{HOTD|The Black Queen}} {{Mentioned}}
+*{{HOTD|The Red Dragon and the Gold}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{House Darklyn/House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Darklyn, Gunthor}}
+[[Category:Blacks]]
+[[Category:Crownlanders]]
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Lords]]
+[[Category:Members of House Darklyn|Gunthor Darklyn]]
+
+<!--Languages-->
+[[es:Gunthor Darklyn/House of the Dragon]]
+[[fr:Gunthor Sombrelyn]]
+[[ru:Гунтор Дарклин]]
+[[uk:Ґантор Дарклін]]

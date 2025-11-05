@@ -1,0 +1,68 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Second Sons.svg
+| Link  = Second Sons
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Targaryen
+| Image        = Meereen.jpg
+| Type         = Pyramid<br>Royal settlement
+| Status       = 
+| Location     = [[Meereen]], [[Slaver's Bay]]
+| Population   = 
+| Rulers       = [[Great Masters]] {{C|formerly}}<br>{[[Daenerys Targaryen]]} {{C|formerly}}<br>[[Daario Naharis]]
+| Institutions = 
+| Military     = [[Second Sons]]<br>[[Unsullied]] {{C|formerly}}
+| Religion     = [[Ghiscari religion]]
+| Places       = 
+| Founded      = 
+}}
+{{Quote|They say a thousand slaves died building the Great Pyramid of Meereen.|[[Missandei]]|Two Swords}}
+The '''Great Pyramid of Meereen''',{{Ref|GOT401}} also referred to as the '''Great Pyramid'''{{Ref|GOT502}} and the '''Great Temple''',{{Ref|H&L514}} is a massive structure in the city of [[Meereen]]. It is the largest building in the city and it is said a thousand [[Slavery|slaves]] died during its construction.<ref>"[[Two Swords]]"</ref> At its apex there was a huge bronze [[harpy]] until it was taken down.<ref>"[[Breaker of Chains]]"</ref>
+
+==History==
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+During the [[Siege of Meereen]], as the local [[Slavery|slave]] population rises in arms against the [[Great Masters]], an enormous black banner with the three-headed red dragon of [[House Targaryen]] is placed over the harpy atop the pyramid. After the revolt is victorious and the city falls to [[Daenerys Targaryen]], she takes up residence in the Great Pyramid of Meereen.<ref>"[[Oathkeeper (episode)|Oathkeeper]]"</ref>
+
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+[[File:Great pyramid season 5.jpg|thumb|The harpy is removed from the Great Pyramid of Meereen.]]
+Some time later, the great bronze harpy atop the pyramid is removed by Unsullied soldiers, sliding down a wooden ramp on the side of the building and crashing to the ground, heavily damaged.<ref>"[[The Wars To Come]]"</ref>
+
+After Dany's flight from the city, the Queen's advisor [[Tyrion Lannister]] and his spy master [[Varys]] take up residence in the Great Pyramid. [[Missandei]] and [[Grey Worm]] also help them rule while [[Jorah Mormont]] and [[Daario Naharis]] search for Dany.<ref>"[[Mother's Mercy]]"</ref>
+
+===[[Game of Thrones: Season 6|''Game of Thrones'': Season 6]]===
+At the Great Pyramid, Varys strikes a deal with the prostitute [[Vala]], who is secretly aligned with the [[Sons of the Harpy]], an insurgent group opposed to Dany's abolition of [[slavery]]. In return for revealing that [[Astapor]], [[Yunkai]], and [[Volantis]] are funding the Harpies, she and her son are allowed to emigrate to [[Pentos]].<ref>"[[Oathbreaker]]"</ref> The Great Pyramid later hosts negotiate between Tyrion, his advisors, and representatives from the slave cities. They agree to a compromise solution of a seven year period to phase out slavery and compensating former slave owners.<ref>"[[Book of the Stranger]]"</ref>
+
+Later, the Great Pyramid hosts a meeting between Tyrion, Varys, and [[Kinvara]], the High Priestess of the [[Red Temple]] at [[Volantis]]. To convince the Meereenese that everything is being done with Dany's approval, the [[red priest]]esses agree to preach that Dany is the [[Prince That Was Promised]].<ref>"[[The Door]]"</ref> Tyrion and his advisors [[Grey Worm]] and [[Missandei]] are exchanging jokes and drinking at the Pyramid when the slave masters break their pact and [[Second siege of Meereen|bombard]] Meereen. Later that night, Dany returns and lands with her [[dragon]] [[Drogon]] on top of the pyramid.<ref>"[[No One]]"</ref>
+
+After the defeat of the slave masters and the Harpies, the Great Pyramid hosts a high level meeting between Dany, Tyrion, [[Yara Greyjoy]], and [[Theon Greyjoy]]. As a result of this meeting, an alliance is forged between Dany and Yara's [[Ironborn]] faction. In return for getting access to a hundred ships and getting the Ironborn to end their practice of raiding [[Westeros]], Dany agrees to help them defeat their uncle [[Euron Greyjoy]] and to recognize the independence of the [[Iron Islands]].<ref>"[[Battle of the Bastards (episode)|Battle of the Bastards]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the Great Pyramid had been built as an echo of the Great Pyramid of [[Old Ghis|Ghis]], whose colossal ruins had once been visited by noted explorer [[Lomas Longstrider]]. Like its ancient predecessor, the pyramid has thirty three levels, a number chosen intentionally, since it is considered sacred to the gods of the [[Ghiscari religion]].
+
+==Gallery==
+<gallery>
+File:Mother’s Mercy 01.jpg|In the throne room.
+File:TyrionandDaenerys.jpg|Tyrion and Dany in her apartment.
+File:No One 26.jpg
+File:406 Queen of the Andals and the First Men.jpg|Queen Daenerys sits the throne. 
+File:Dany rides Drogon s6 Meereen.jpg
+File:Drogon 5x02.jpg
+File:5x02-04.jpg
+File:Book of the Stranger 20.jpg
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Great Pyramid}}
+
+<!--Categories-->
+[[Category:Meereen]]
+[[Category:Pyramids]]
+
+<!--Languages-->
+[[de:Große Pyramide]]
+[[ru:Великая пирамида Миэрина]]

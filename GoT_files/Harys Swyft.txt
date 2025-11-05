@@ -1,0 +1,94 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = House Swyft.svg
+| Link  = House Swyft
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Lannister
+| Image       = Harys Swyft.png
+| Birth       = [[Cornfield]]
+| Death       = 
+| House       = [[House Swyft|Swyft]]
+| Affiliation = [[House Lannister]]
+| Titles      = [[Knighthood|Ser]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Westerlands|Westermen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = [[Dorna Lannister]]
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 1|1]]
+| Appearances = "[[Fire and Blood]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = Unidentified
+}}
+Ser '''Harys Swyft'''{{Con|ASOIAF}} is the head of [[House Swyft]], a knightly house sworn to the [[House Lannister|Lannisters]] of [[Casterly Rock]].
+
+==Biography==
+===Background===
+Ser Harys Swyft is the head of House Swyft, a knightly house of the [[Westerlands]]. He is the father of [[Dorna Lannister|Dorna Swyft]], the wife of Ser [[Kevan Lannister]].{{Ref|GOT110}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+Ser Harys is present for a strategy meeting assembled by [[Tywin Lannister]], following the defeat and capture of [[Jaime Lannister|Jaime]] in the [[Battle of Whispering Wood]]. Also present are [[Tyrion Lannister|Tyrion]], Kevan, Lord [[Leo Lefford]], Ser [[Addam Marbrand]], and another bannerman, as well as Tywin's servants. Ser Harys remains quiet while the other bannermen discuss their next move. When Tywin grows exasperated and dismisses the council, Ser Harys departs along with everyone present, except for Tyrion, whom Tywin orders to stay.{{Ref|GOT110}}
+
+==Behind the scenes==
+The episode doesn't identify any of the bannermen present in the episode and their identities are conjectures based on lines spoken, age of the actor, costume and the overall blocking of the scene, all of them compared to the books. The only two unaccounted bannermen from the books are Ser Harys and Ser Flement Brax. As the latter is a younger character, second son of Lord Andros Brax, it is safe to assume the unidentified bannerman sitting next to Ser Kevan is meant to stand in for Harys Swyft.
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Ser Harys Swyft is present at the council following Jaime's capture and is the one who considers suing for peace. His lines are given to both Kevan and Leo Lefford. Swyft is generally somewhat unintelligent, however, he does have some semblance of political sense: when a young Tywin returned from the [[War of the Ninepenny Kings]] and immediately started to call in his father's debts, Ser Harys hastened to comply with his demands, correctly realizing that "the Lion has awoken."
+
+Tyrion dismisses Ser Harys as a shameless lickspittle whose only achievement is marrying off his daughter to Kevan. Other Lannisters share Tyrion's low opinion of Ser Harys: Cersei comments that he should have adopted a worm as his personal sigil, as she considered a chicken (the emblematic animal of House Swyft) to be too brave a creature for him, and thinks that even the contents of her chamber pot are more able than him; Tywin's sister Genna, upon hearing that Cersei burned the Tower of the Hand, comments that Cersei should have burned Ser Harys instead.
+
+Harys is with Tywin's army when they take Harrenhal. During their time there he manages to alienate the cooks, who spit in his food. His squire is killed in an argument with the Brave Companions over the supposed death of [[Beric Dondarrion]]. Arya watches him kiss [[Locke#In the books|Vargo Hoat]] under Tywin's orders to make up and put the conflict behind them.
+
+During the [[Battle of the Blackwater]], Harys is trapped beneath his horse after it falls on him, but is rescued by one of his men-at-arms.
+
+After Tywin's death, Cersei appoints Ser Harys as her puppet [[Hand of the King]], instead of leaving the position vacant as in the show, because he is both weak and a hostage for Kevan's good behavior. Jaime is incredulous at the appointment, as he considers Ser Harys to be a "toad".
+
+During the meetings of the [[Small Council]], Ser Harys appears totally confused and clueless. When hearing that the [[Gregor Clegane|Mountain]]'s skull will soon be delivered to the Martells, he foolishly asks if that means the Mountain is dead. Aurane Waters answers him sarcastically he probably is, for removing the head from the body is often mortal; Ser Harys does not seem to understand he has been ridiculed.
+
+Later, Ser Harys is demoted to the position of [[Master of Coin]]. Following Cersei's downfall, Ser Harys and [[Pycelle]] take control of the council and request that Kevan return to King's Landing as regent.
+
+In the fifth novel, Ser Harys continues to serve as lord treasurer. In order to placate the [[Iron Bank of Braavos|Iron Bank]], he writes to the bankers of Myr and the magisters of Pentos in hopes of a loan. When that fails, he suggests to raise taxes, but Kevan refuses since the realm is too full of rebellion and half its lords cannot tell taxation from tyranny. Instead, Kevan sends him to Braavos to negotiate the Crown's debt with the Iron Bank, a role taken by [[Mace Tyrell]] in the show. He is accompanied by several Lannister guards, one of them is Rafford (in the show he is replaced by [[Meryn Trant]]).
+
+==Gallery==
+<gallery>
+LannisterCouncil.jpg|Ser Harys attends a Lannister council.
+</gallery>
+
+==Appearances==
+*{{GOT|Fire and Blood}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Swyft}}
+
+<!--Categories-->
+{{DEFAULTSORT:Swyft, Harys}}
+[[Category:Bannermen of House Lannister]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Knights]]
+[[Category:Members of House Swyft|Harys Swyft]]
+[[Category:Westermen]]
+
+<!--Languages-->
+[[pl:Harys Swyft]]
+[[ru:Харис Свифт]]

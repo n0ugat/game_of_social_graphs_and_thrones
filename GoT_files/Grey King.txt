@@ -1,0 +1,66 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Westeros
+| Image       = Grey King TK.png
+| Birth       = During the [[Age of Heroes]], in the [[Iron Islands]]
+| Death       = 
+| House       = 
+| Affiliation = 
+| Titles      = [[King of the Iron Islands]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Ironborn]]
+| Religion    = [[Drowned God]]
+| Father      = 
+| Mother      = 
+| Spouse      = {Mermaid}
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|We traced our descent from the Age of Heroes and the legendary Grey King, who took a mermaid to wife and made war upon the Storm God for a thousand years.|[[Yara Greyjoy]]|House Greyjoy (short)}}
+The '''Grey King''' was a legendary [[Ironborn]] [[King of the Iron Islands|King]] of the [[Iron Islands]]. [[House Greyjoy]] of [[Pyke]] claims descent from him.
+
+==Biography==
+[[File:H&L209.png|thumb|The Grey King fights [[Nagga]].]]
+[[File:Grey King.png|thumb|The Grey King, victorious.]]
+Blessed by the [[Drowned God]], the Grey King was said to have waged war against the [[Storm God]] himself for a thousand years and slain [[Nagga]], the first [[sea dragon]], using its bones to build his hall. Legend has it that he also took a [[mermaid]] as his wife and lived for a thousand years,{{Ref|H&L217}} stealing fire from the Storm God and carving the first ship from [[Ygg]], a demonic tree that feasted on flesh.{{Ref|H&L602}} After his death, the Storm God tried to erase his memory, but the Ironborn still sing songs about him.{{Ref|H&L217}} His 100 sons slaughtered each other until only 16 remained. Unable to overpower one another, they held the first [[kingsmoot]] to elect the strongest as their king.{{Ref|H&L602}}
+
+==In the books==
+The ''[[A Song of Ice and Fire]]'' novels give more detail about the Grey King's life. He reigned for a thousand years with a mermaid as his wife and plotted his war against the Storm God. He supposedly wore robes of woven seaweed and a tall pale crown made from Nagga's teeth. From Nagga's bones he made his hall, the Grey King's Hall, which he heated with Nagga's living fire. When the Grey King died, the Storm God snuffed out the fire and the sea stole his throne. Only his hall remains.
+
+==Appearances==
+*{{H&L|The Age of Heroes}} {{Illustrated}}
+*{{H&L|House Greyjoy}} {{Illustrated}}
+*{{H&L|The Drowned God}} {{Illustrated}}
+*{{H&L|The Kingsmoot}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Greyjoy}}
+{{Legendary figures}}
+{{Kings of the Iron Islands}}
+
+<!--Categories-->
+[[Category:Individuals from Histories & Lore]]
+[[Category:Ironborn]]
+[[Category:Kings of the Iron Islands]]
+[[Category:Legendary figures]]
+
+<!--Languages-->
+[[de:Grauer König]]
+[[ru:Серый Король]]

@@ -1,0 +1,63 @@
+{{Canonicity|Canon}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Bronn
+| Image     = 
+| Arms      = 
+| Words     = 
+| Titles    = 
+| Seat      = [[Bitterbridge]]
+| Region    = [[Reach]]
+| Head      = 
+| Heir      = 
+| Overlords = [[Bronn's house]]<br>{[[House Tyrell]]} {{C|[[1 AC|1]]{{Dateref|Aegon's Conquest}}-[[304 AC]]}}{{Dateref|Game of Thrones: Season 7}}<br>{[[House Gardener]]} {{C|pre-[[Aegon's Conquest]]}}
+| Vassals   = 
+| Religion  = [[Faith of the Seven]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Caswell'''{{Ref|HOTD106}}{{Note|Allun's surname is Caswell.}} of [[Bitterbridge]] is a vassal house that holds fealty to Lord [[Bronn]] of Highgarden. Their seat is Bitterbridge, which is located in the east of the region where the [[Mander]] crosses the [[Roseroad]].
+
+==History==
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+Lord [[Allun Caswell]] is a supporter of Princess [[Rhaenyra Targaryen]] at court, and thus a member of the [[Blacks]].{{Ref|HOTD106}}
+
+==Relationships==
+===Ancestors===
+*Lord {[[Allun Caswell]]}, Lord of Bitterbridge. Head of House Caswell during the reign of King [[Viserys I Targaryen]]. Hanged for supporting [[Rhaenyra Targaryen]].
+**His [[Lady Caswell|wife]], Lady of Bitterbridge.
+
+==In the books==
+In ''[[Fire & Blood]]'', House Caswell were supporters of [[Maegor Targaryen]] in his war against [[Aegon Targaryen (son of Aenys)|Aegon the Uncrowned]]. Late in the reign of Viserys I, Lord Caswell was noted as a supporter of Rhaenyra Targaryen at court.
+
+By the time of the main ''A Song of Ice and Fire'' novels, House Caswell is still a notable vassal of House Tyrell, and [[Renly Baratheon]]'s host camps beneath Bitterbridge during the [[War of the Five Kings]]. It is there that [[Catelyn Stark|Catelyn]] meets with Renly.
+
+===Known members===
+*Lord Lorent Caswell, Lord of Bitterbridge and Defender of the Fords.
+**Two unnamed daughters.
+*Four unnamed sisters.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{House Caswell}}
+{{Houses from the Reach}}
+
+<!--Categories-->
+{{DEFAULTSORT:Caswell, House}}
+[[Category:House Caswell| ]]
+[[Category:Houses from the Reach]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[fr:Maison Caswell]]
+[[ru:Касвеллы]]

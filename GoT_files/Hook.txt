@@ -1,0 +1,41 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Crownlander
+| Image        = 
+| Type         = Street
+| Status       = 
+| Location     = [[King's Landing]], the [[Crownlands]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = 
+| Places       = 
+| Founded      = 
+}}
+{{Quote|Rhaegar would pick a spot on the Hook or the Street of Seeds and then he'd sing. Just like all the other minstrels.|[[Barristan Selmy]]|Sons of the Harpy (episode)}}
+The '''Hook'''{{Ref|GOT504}} is a street in [[King's Landing]].
+
+==History==
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+[[Barristan Selmy|Barristan]] tells [[Daenerys Targaryen|Daenerys]] that [[Rhaegar Targaryen|Rhaegar]] enjoyed singing to the [[smallfolk]] of [[King's Landing]] on the Hook and the [[Street of Seeds]].{{Ref|GOT504}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the [[riots in King's Landing]] ensue on the Hook.{{Bookref|ACOK|41}}
+
+==Appearances==
+*{{GOT|Sons of the Harpy}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Crownlands}}
+
+<!--Categories-->
+[[Category:King's Landing]]
+[[Category:Streets]]

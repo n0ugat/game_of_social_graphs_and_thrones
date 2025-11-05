@@ -1,0 +1,28 @@
+{{Crew
+|Image = Gáspár Szabó.jpg
+|dateofbirth = 
+|birthplace = 
+|job = Stunt Performer<br>Stunt Double for [[Sean Bean]]
+|imdb = https://www.imdb.com/name/nm1482443/
+|twitter = }}
+'''Gáspár Szabó''' is a stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 1|first season]] episodes "[[The Kingsroad]]", "[[Lord Snow]]", "[[Cripples, Bastards, and Broken Things]]", "[[A Golden Crown]]", "[[You Win or You Die]]", "[[The Pointy End]]" and "[[Baelor]]", the [[Game of Thrones: Season 4|fourth season]] episodes "[[The Watchers on the Wall]]" and "[[The Children]]", the [[Game of Thrones: Season 6|sixth season]] episode "[[Battle of the Bastards (episode)|Battle of the Bastards]]", the [[Game of Thrones: Season 7|seventh season]] episodes "[[Stormborn]]", "[[The Queen's Justice]]", "[[The Spoils of War]]", "[[Eastwatch]]" and "[[The Dragon and the Wolf]]" and the [[Game of Thrones: Season 8|eighth season]] episode "[[The Bells]]"
+
+He was also a stunt double for [[Sean Bean]] in the [[Game of Thrones: Season 1|first season]] episode "[[The Wolf and the Lion]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 1||yes|yes|yes|yes|yes|yes|yes|yes}}
+{{Game of Thrones: Season 4|||||||||yes|yes}}
+{{Game of Thrones: Season 6|||||||||yes}}
+{{Game of Thrones: Season 7||yes|yes|yes|yes||yes}}
+{{Game of Thrones: Season 8|||||yes}}
+
+==See also==
+*{{IMDb
+|# = 1482443}}
+*{{Linkedin
+|# = /in/gaspar-szabo-6566b5b5}}
+{{DEFAULTSORT:Szabó, Gáspár}}
+[[Category:Stunt performers of Game of Thrones]]

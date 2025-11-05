@@ -1,0 +1,51 @@
+{{Canonicity|Canon}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Westeros
+| Image     = House Amber.png
+| Arms      = 
+| Words     = 
+| Titles    = 
+| Seat      = 
+| Region    = [[North]]
+| Head      = 
+| Heir      = 
+| Overlords = 
+| Vassals   = 
+| Religion  = [[Old Gods]]
+| Cadets    = 
+| Founded   = 
+| Died      = [[Thousand Years War]]
+| Weapon    = 
+}}
+{{Quote|Houses Greenwood, Towers, Amber, Frost... none survive today as more than names in dusty old books.|[[Sansa Stark]]|Northern Allegiances to House Stark}}
+'''House Amber'''{{Ref|H&L609}} is an extinct [[noble house]] from the [[North]].
+
+==History==
+House Amber fought against [[House Stark]] in the [[Thousand Years War]] and subsequently lost. This led to their extinction.{{Ref|H&L609}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, House Amber's story is the same.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Houses from the North}}
+
+<!--Categories-->
+{{DEFAULTSORT:Amber, House}}
+[[Category:Extinct houses]]
+[[Category:Houses from the North]]
+[[Category:Houses of First Men origin]]
+[[Category:Noble houses]]
+
+<!--Languages-->
+[[de:Haus Bernstein]]
+[[es:Casa Amber]]
+[[fr:Maison Ambre]]
+[[nl:Huis Barnsteen]]
+[[ru:Эмберы]]

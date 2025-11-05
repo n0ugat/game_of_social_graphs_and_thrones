@@ -1,0 +1,44 @@
+{{Canonicity|Canon}}
+{{References}}
+{{Heraldry
+| Image = House Corbray.svg
+| Link  = House Corbray
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Arryn
+| Image        = 
+| Type         = Castle
+| Status       = 
+| Location     = The [[Vale of Arryn]], [[Westeros]]
+| Population   = 
+| Rulers       = [[House Corbray]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Heart's Home'''{{Ref|C&R07}} is a castle located in the [[Vale of Arryn]].
+
+==In the books==
+In the books Heart's Home is the seat of [[House Corbray]]. It is located on the northern shore where a glacial river flows into a narrow bay of the [[Narrow Sea]]. Heart's Home is within the southernmost river valley of the Snakewood.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Vale of Arryn}}
+
+<!--Categories-->
+[[Category:Castles of the Vale of Arryn]]
+[[Category:House Corbray]]
+
+<!--Languages-->
+[[de:Herzheim]]
+[[es:Hogar]]
+[[ru:Дом Сердец]]
+[[zh:心宿城]]

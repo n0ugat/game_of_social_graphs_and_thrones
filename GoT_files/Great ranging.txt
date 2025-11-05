@@ -1,0 +1,72 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Stub}}
+{{References}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Thrones
+| Part          = the [[conflict beyond the Wall]]
+| Image         = Arriving at the fist of the first men.jpg
+| Previous      = 
+| Concurrent    = 
+| Next          = [[Fight at the Fist]]
+| Date          = [[298 AC|298]]{{Dateref|Game of Thrones: Season 1}}-[[299 AC]]{{Dateref|Game of Thrones: Season 2}}
+| Place         = [[Beyond the Wall]]
+| Outcome       = Near annihilation of the [[Night's Watch]]'s expeditionary forces
+| Factions1     = {{COA|Night's Watch|small}} [[Night's Watch]]
+| Factions2     = [[Free Folk]]
+| Factions3     = [[White Walkers]]
+| Factions4     = 
+| Leaders1      = {{COA|Night's Watch|inline}} Lord [[Jeor Mormont]]<br>{{COA|Night's Watch|inline}} [[Qhorin Halfhand]]
+| Leaders2      = King [[Mance Rayder]]
+| Leaders3      = The [[Night King]]
+| Leaders4      = 
+| Participants1 = *200 Castle Black men
+*100 Shadow Tower men
+| Participants2 = Mance Rayder's army
+| Participants3 = [[Wight|Army of the dead]]
+| Participants4 = 
+| Casualties1   = 2/3 of the [[Night's Watch]]'s expedition force
+| Casualties2   = 
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Quote|The Night's Watch will ride in force against the wildlings, the White Walkers and whatever else is out there. And we will find Benjen Stark, alive or dead. I will command them myself.|Lord Commander Jeor Mormont|Fire and Blood}}
+The '''great ranging'''{{Con|ASOIAF}} was a massive expedition of the [[Night's Watch]] to the lands [[beyond the Wall|beyond]] the [[Wall]] organized by [[Lord Commander of the Night's Watch|Lord Commander]] [[Jeor Mormont]]. It was a reaction to the reports of numerous [[Free Folk]] villages found empty and wildlings amassing, the discovery of [[wight]]s in the [[Haunted Forest]] and the disappearance of [[Benjen Stark]] as well as other rangers.
+
+The expedition force consisted of three hundred brothers: one hundred from the [[Shadow Tower]] and two hundred from [[Castle Black]] - almost one third of the whole manpower of the Watch.
+
+==Aftermath==
+The losses of the Night's Watch as a result of the great ranging have been extremely heavy: most of the ranging force was destroyed at the [[fight at the Fist]], and many of the survivors [[Mutiny at Craster's Keep|rebelled against Mormont and deserted]]. Of the three hundred men, only Jon, Sam, Grenn, and Eddison Tollett made it back to Castle Black. The manpower of the Watch, which has been barely adequate prior to the expedition, has dangerously dwindled.
+
+To make things worse, among the casualties were Mormont, Qhorin, and more of the most experienced and capable senior officers of the Watch. That left the defenders of Castle Black heavily outnumbered and without proper leadership against the imminent attack of the wildlings.
+
+On the other hand, there have been several important achievements:
+*While Jon was travelling with the wildlings, he learned a lot about their habits, weaponry, ordnance, manpower, etc. He also noticed the greatest weakness of the wildlings' host - the lack of discipline. This knowledge proved to be valuable during the [[battle for the Wall]].
+*The discovery of the secret bundle that contained [[dragonglass]] weapons.
+*Sam discovered that the [[White Walkers]] can be killed by dragonglass weapons.
+
+==In the books==
+Besides Sam, Edd, and Grenn, ten other named members of the Night's Watch who were present at the Mutiny at Craster's Keep (and stayed loyal) managed to make their way back to Castle Black. Also, a small scouting party of five men, led by Jarman Buckwell, had been sent away by Mormont and so was not present at the Fist or the mutiny, but later returned to Castle Black. Therefore a little under twenty men from the great ranging ultimately returned back to Castle Black (compared to only four in the TV series). Even so, this was still a crippling blow, given that the Night's Watch had already dwindled to less than a thousand men prior to the great ranging, and out of 300 men on the expedition - only about 20 men survived to return to the Wall.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Conflict beyond the Wall}}
+
+<!--Categories-->
+[[Category:Conflict beyond the Wall]]
+[[Category:Events]]
+
+<!--Languages-->
+[[de:Großer Ausmarsch]]
+[[fr:Grande Expédition]]
+[[ru:Великий поход за Стену]]

@@ -1,0 +1,72 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Leftimage  = House Grandison.svg
+| Leftlink   = House Grandison
+| Rightimage = Kingsguard.svg
+| Rightlink  = Kingsguard
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Targaryen
+| Image       = 
+| Birth       = At Grandview
+| Death       = 
+| House       = [[House Grandison|Grandison]]
+| Affiliation = [[Kingsguard]]
+| Titles      = [[Knighthood|Ser]]
+| Predecessor = 
+| Successor   = 
+| AKA         = The Mystery Knight of Bitterbridge
+| Culture     = [[Andals|Andal]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+Ser '''Harlan Grandison''' was a [[Knighthood|knight]] of [[House Grandison]] and a member of the [[Kingsguard]].
+
+==Biography==
+===Background===
+Ser Harlan was a member of [[House Grandison]] who served in the [[Kingsguard]] of King [[Aerys II Targaryen]]. He took part in a [[tournament|tourney]] at [[Bitterbridge]] as a [[mystery knight]], but was defeated and unmasked by [[Gwayne Gaunt]].{{Ref|GOT806}}{{Note|The paragraph mentioning this event is erroneously placed in Arthur Dayne's entry. The opening sentence calling him the "thirdborn son to Lord Symon of House Gaunt" makes it apparent that this paragraph was meant for Gwayne Gaunt's entry.|name=Gwayne Gaunt}}
+
+===[[Game of Thrones: Season 8|''Game of Thrones'': Season 8]]===
+Harlan is mentioned under the entry of Ser [[Arthur Dayne]],{{Note|name=Gwayne Gaunt}} in the ''[[Book of Brothers]]'', which the new [[Lord Commander of the Kingsguard]] [[Brienne of Tarth]] was flicking through.{{Ref|GOT806}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Harlan was a member of the Kingsguard who served until the reign of Aerys II. He was an old man and died in his sleep in 281 AC, being replaced by [[Jaime Lannister|Jaime]].
+
+==Appearances==
+*{{GOT|The Iron Throne}} {{Text}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Kingsguard of Aerys II Targaryen}}
+
+<!--Categories-->
+{{DEFAULTSORT:Grandison, Harlan}}
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Kingsguard of Aerys II Targaryen]]
+[[Category:Knights]]
+[[Category:Members of House Grandison|Harlan Grandison]]
+[[Category:Stormlanders]]
+
+<!--Languages-->
+[[ru:Харлан Грандисон]]

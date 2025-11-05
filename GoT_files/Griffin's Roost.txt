@@ -1,0 +1,57 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Connington.svg
+| Link  = House Connington
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Baratheon
+| Image        = 
+<gallery>
+Stormlands Map from Robert's Rebellion - Histories & Lore.png|Appearance
+Griffin's Roost Pin.png|Location
+</gallery>
+| Type         = Castle
+| Status       = 
+| Location     = The [[Stormlands]], [[Westeros]]
+| Population   = 
+| Rulers       = [[House Connington]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Griffin's Roost'''{{Ref|H&L204}} is a castle in the [[Stormlands]], the region controlled by [[House Baratheon]] of [[Storm's End]]. It is the seat of [[House Connington]]. The castle is located south-west of Storm's End on the western edge of [[Shipbreaker Bay]].{{Ref|H&L204}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Griffin's Roost is the seat of House Connington.
+
+Prior to [[Robert's Rebellion]], the young Lord Jon Connington was one of Prince [[Rhaegar Targaryen]]'s closest friends and allies. During the rebellion, the [[Aerys II Targaryen|Mad King]] promoted Connington to the rank of [[Hand of the King]] and tasked him with destroying [[Robert Baratheon]]'s rebel army before it could join with the forces being gathered by Houses [[House Stark|Stark]], [[House Arryn|Arryn]] and [[House Tully|Tully]] in the [[Riverlands]].
+
+Following Robert's defeat at the Battle of Ashford, Connington's forces pursued Robert north to [[Stoney Sept]], trapping him in the town. Connington refused to raze the town, instead conducting a house-to-house search while Robert was hidden by rebel sympathizers. Connington was still searching when [[Eddard Stark]] arrived with a rescue force. In the resulting [[Battle of the Bells]], Connington was defeated and his army repulsed from the town with heavy losses.
+
+King Aerys was furious with Connington's failure. He was stripped of lands and titles and sent into exile in the [[Free Cities]], where it is rumored that he drank himself to death after a brief stint with the [[Golden Company]] (but it is a lie, as revealed in the fifith novel). After taking the Iron Throne, King Robert granted Griffin's Roost to Jon's cousin Ronnet, who had joined the rebellion after Jon's exile. However, most of the Connington lands were distributed among more fervent supporters of the rebellion. The lordship wasn't restored either so House Connington was reduced to the status of knightly house.
+
+In ''A Dance with Dragons'', the presumed-dead Jon Connington and [[Aegon Targaryen (son of Elia Martell)|Aegon Targaryen]], the son of Rhaegar and Elia, arrive at Westeros with nearly half of the [[Golden Company]]. The company soon conquers Griffin's Roost.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Connington}}
+{{Stormlands}}
+
+<!--Categories-->
+[[Category:Castles of the Stormlands]]
+[[Category:House Connington]]
+
+<!--Languages-->
+[[de:Greifenhorst]]
+[[pl:Gniazdo Gryfów]]
+[[ru:Грифонов Насест]]
+[[uk:Грифоняче Сідало]]
+[[zh:鹫巢堡]]

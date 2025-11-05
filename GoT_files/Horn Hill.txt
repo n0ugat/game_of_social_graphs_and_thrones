@@ -1,0 +1,56 @@
+{{Canonicity|Canon}}
+{{Stub}}
+{{MapNeeded}}
+{{Heraldry
+| Image = House Tarly.svg
+| Link  = House Tarly
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Bronn
+| Image        = Horn Hill highres.png
+| Type         = Castle
+| Status       = 
+| Location     = The [[Reach]], [[Westeros]]
+| Population   = 
+| Rulers       = [[House Tarly]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Horn Hill'''{{Ref|GOT104}} is the seat of [[House Tarly]] in the [[Reach]]. It is located southeast of [[Highgarden]]. With Lord [[Randyll Tarly]] and his son and heir [[Dickon Tarly|Dickon]] having been executed by [[Daenerys Targaryen]], the rightful ruler of Horn Hill would be Lord Tarly's daughter [[Talla Tarly|Talla]].
+
+It should be noted that since Talla has been betrothed to [[Symun Fossoway]], [[House Fossoway]] would possibly take over as the new Lord of Horn Hill.
+
+==History==
+===[[Game of Thrones: Season 6|''Game of Thrones'': Season 6]]===
+[[Samwell Tarly]] travels to the [[Citadel]] to study about the [[White Walkers]]. Since the Citadel only admits men, he plans to send [[Gilly]] and her baby [[Sam]] to his ancestral home at Horn Hill where his father [[Randyll Tarly|Randyll]], mother [[Melessa Tarly|Melessa]], and siblings [[Dickon Tarly|Dickon]] and [[Talla Tarly|Talla]] live.{{Ref|GOT603}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Horn Hill lies a hundred leagues northeast of [[Oldtown]] among the thickly-wooded foothills of the [[Red Mountains]] of [[Dorne]]. There is a pond that lies below the castle.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Tarly}}
+{{Reach}}
+
+<!--Categories-->
+[[Category:Castles of the Reach]]
+[[Category:House Tarly]]
+
+<!--Languages-->
+[[de:Hornberg]]
+[[es:Colina Cuerno]]
+[[fr:Corcolline]]
+[[lt:Rago Kalva]]
+[[nl:Hoornheuvel]]
+[[pl:Horn Hill]]
+[[ru:Рогов Холм]]
+[[zh:角陵]]

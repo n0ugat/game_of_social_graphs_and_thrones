@@ -1,0 +1,59 @@
+{{DISPLAYTITLE:High Septon {{C|Aegon I}}}}
+{{Canonicity|Canon}}
+{{Heraldry
+| Leftimage  = Unknown.svg
+| Rightimage = Faith of the Seven.svg
+| Rightlink  = Faith of the Seven
+}}
+{{Character
+| Title       = High Septon
+| Type        = Faith
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[Faith of the Seven]]{{Ref|H&L803}}
+| Titles      = [[High Septon]]{{Ref|H&L803}}
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = 
+| Religion    = [[Faith of the Seven]]{{Ref|H&L803}}
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|The next Grand Maester dared object to Maegor taking a third wife when taking a second wife had ruined his brother's reign because Maegor's first wife was the niece of the High Septon.|[[Varys]]|Maegor the Cruel (short)}}
+A '''High Septon''' served as head of the [[Faith of the Seven]] during the reign of [[Aegon I Targaryen|Aegon I]].
+
+==Biography==
+He was the maternal uncle of [[Ceryse Hightower]], [[Maegor Targaryen|Maegor the Cruel]]'s first wife. Because of the High Septon's ties to Ceryse, Maegor's subsequent polygamous marriage to [[Alys Harroway]] ruined the reign of his brother [[Aenys Targaryen|Aenys]] and sowed the first seeds of the [[Faith Militant uprising]].{{Ref|H&L806}}
+
+==In the books==
+In ''[[Fire & Blood]]'', the High Septon objected to Queen [[Visenya Targaryen|Visenya]]'s proposal to betroth her son Maegor to Aenys's daughter [[Rhaena Targaryen (daughter of Aenys)|Rhaena]], and instead suggested his niece Ceryse Hightower. King Aegon agreed, and the High Septon presided over their wedding in the [[Starry Sept]] in 25 AC.{{Bookref|F&B|4}}
+
+==Appearances==
+*{{H&L|The Hand of the King}} {{Mentioned}}
+*{{H&L|Maegor the Cruel}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+[[Category:High Septons|Aegon I]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Nobles]]
+[[Category:Westerosi]]

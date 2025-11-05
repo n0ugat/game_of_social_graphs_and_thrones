@@ -1,0 +1,68 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Stark
+| Image       = Heward.png
+| Birth       = The [[North]], the [[Seven Kingdoms]]
+| Death       = [[298 AC]]{{Dateref|Game of Thrones: Season 1}}<br>[[King's Landing]], the [[Crownlands]]
+| House       = 
+| Affiliation = [[House Stark]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Northmen|Northern]]
+| Religion    = [[Old Gods]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 1|1]]
+| Appearances = "[[The Wolf and the Lion]]"
+| First       = 
+| Last        = 
+| DeathEp     = "The Wolf and the Lion"
+| Actor       = Unidentified
+}}
+{{Dialogue a-b-a|Eddard Stark|Who are your best two swords?|Jory Cassel|Heward and Wyl.|Find them, and meet me at the stables.|[[Eddard Stark]] and [[Jory Cassel]]|The Wolf and the Lion}}
+'''Heward''' was a guardsman sworn to [[House Stark]].
+
+==Biography==
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+Heward travels south with [[Eddard Stark]] when the latter is appointed [[Hand of the King]].{{Ref|GOT105}}
+
+Heward and another Stark guard named [[Wyl (guard)|Wyl]] accompany Eddard to one of [[Littlefinger's brothel]]s. Both are killed by Lannister guardsmen at [[Jaime Lannister|Jaime]]'s orders, in retaliation for [[Tyrion Lannister|Tyrion]]'s arrest by [[Catelyn Stark|Catelyn]].{{Ref|GOT105}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Heward is also a guardsman sworn to House Stark. Eddard observes him playing at forfeits with a buxom wench.
+
+Heward is killed in the same manner as in the show.
+
+==Appearances==
+*{{GOT|The Wolf and the Lion}}
+*{{GOT|A Golden Crown}} {{Indirect}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Stark}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Men-at-arms]]
+[[Category:Northmen]]
+[[Category:Servants and retainers of House Stark]]
+[[Category:Smallfolk]]
+
+<!--Languages-->
+[[ru:Хьюард]]

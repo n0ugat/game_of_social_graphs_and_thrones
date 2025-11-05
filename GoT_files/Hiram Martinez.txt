@@ -1,0 +1,37 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Kingdoms
+| Image   = Hiram Martinez.jpg
+| Birth   = December 29, 1978 {{Age|1978|12|29}}<br>Santiago, Dominican Republic
+| Death   = 
+| Role    = Executive producer<br>Writer
+| Series  = ''[[A Knight of the Seven Kingdoms]]''
+| Season  = [[A Knight of the Seven Kingdoms: Season 1|1]]
+| Credits = 
+| First   = 
+| Last    = 
+}}
+'''Hiram Martinez''' (born December 29, 1978) is a Dominican screenwriter and producer.
+
+Martinez is an executive producer{{Webref|name=Redanian |author=Gravemaster |date=January 5, 2024 |url=https://redanianintelligence.com/2024/01/05/a-knight-of-the-seven-kingdoms-aka-dunk-egg-series-gets-a-schedule-update/ |title=A Knight of the Seven Kingdoms aka Dunk & Egg Series Gets A Schedule Update |website=Redanian Intelligence |access-date=January 17, 2024 }} and writer{{Webref|name=Twitter |author=Hiram Martinez |date=2024 |url=https://twitter.com/hrm114 |title=Writer #AKnightOfTheSevenKingdomsHBO |website=X |access-date=January 17, 2024}} on [[A Knight of the Seven Kingdoms: Season 1|''A Knight of the Seven Kingdoms'': Season 1]].
+
+==Credits==
+===Executive producer===
+{{Plainlist
+|{{AKOTSK|Season 1}}
+}}
+
+===Writer===
+{{A Knight of the Seven Kingdoms: Season 1}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb|#=1564800}}
+*{{Twitter|#=hrm114}}
+
+<!--Categories-->
+{{DEFAULTSORT:Martinez, Hiram}}
+[[Category:Executive producers of A Knight of the Seven Kingdoms]]
+[[Category:Writers of A Knight of the Seven Kingdoms]]

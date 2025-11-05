@@ -1,0 +1,64 @@
+{{Canonicity|Canon}}
+{{Object
+| Title    = {{PAGENAME}}
+| Type     = Tyrell
+| Image    = Heartsbane Cropped.png
+| Material = [[Valyrian steel]]
+| Maker    = [[Valyrian Freehold]]
+| Owner    = [[House Tarly]] {{C|formerly}}<br>{[[Jorah Mormont]]} {{C|formerly}}
+| Status   = Unknown
+}}
+{{Quote|See that sword? It's called Heartsbane. It's been in our family for 500 years. It's Valyrian steel. Only a handful of them left in the world. It's supposed to go to my firstborn son after I die. To him. He will ''never'' wield that sword.|[[Randyll Tarly]] to [[Gilly]], referring to [[Samwell Tarly]]|Blood of My Blood}}
+'''Heartsbane'''{{Ref|GOT606}} is the ancestral [[Valyrian steel]] sword of [[House Tarly]]. The Tarlys have held the blade for some 500 years, and it is usually displayed proudly on a mantle in an antler sword stand at their seat at [[Horn Hill]].<ref>"[[Valyrian Steel (short)|Valyrian Steel]]"</ref>
+
+The hilt is wrought in the shape of a bow and arrow, with the pommel fashioned as arrow fletching, and the crossguard forming the limbs of the bow. This reflects the sigil of House Tarly - the huntsman.
+
+The scabbard appears to have been carved from wood with a large gnarl in the center. The wood itself is largely left uncovered and undecorated, leaving a unique pattern that evokes a matching theme of the forest, the huntsman's domain.
+
+==History==
+===Background===
+[[File:Heartsbane hilt, close-up.jpg|thumb|170x170px|Close-up of Heartsbane's hilt while sheathed.]]
+During the reign of [[Aenys Targaryen]], [[Samwell Tarly (lord)|"Savage Sam" Tarly]] was the head of [[House Tarly]]. When the [[Dornishmen|Dornish]] [[Vulture King]] rebelled against King Aenys, Sam led the royalist forces in the [[Vulture Hunt]] to defeat him. He wielded Heartsbane, which was said to run red from point to hilt with rebel blood.<ref>"[[House Tarly (short)|House Tarly]]"</ref>
+
+Two centuries later during [[Robert's Rebellion]], Lord [[Randyll Tarly]] led the vanguard of [[House Tyrell]], Tarly men-at-arms among them, as part of the royalist forces. With Heartsbane in hand, Randyll won the [[Battle of Ashford]] against the forces of [[Robert Baratheon]], the future king's only military defeat.
+
+===[[Game of Thrones: Season 6|''Game of Thrones'': Season 6]]===
+[[File:606 Heartsbane.png|thumb|176x176px|Heartsbane above the hearth at Horn Hill.]]
+While dining with his banished son [[Samwell Tarly|Samwell]], Randyll discovers that his partner [[Gilly]] is a wildling. Furious, Randyll points out Heartsbane, briefly explaining its history and stating that it will never go to Samwell.
+
+Later that night, Samwell steals Heartsbane as he leaves Horn Hill with Gilly and her [[Sam|baby]], intending to use the sword in his studies about Valyrian steel in the Citadel.<ref>"[[Blood of My Blood]]"</ref>
+
+===[[Game of Thrones: Season 8|''Game of Thrones'': Season 8]]===
+Samwell, feeling guilty, tells [[Daenerys Targaryen|Daenerys]] and [[Jorah Mormont]] that he "borrowed" Heartsbane.<ref>"[[Winterfell (Game of Thrones)|Winterfell]]"</ref> Samwell later gives his family's ancestral sword to Jorah (due to its Valyrian properties allowing it to kill [[White Walkers]]), who promises to wield it for the [[Battle of Winterfell]] to honor of his late father, [[Jeor Mormont]], who Sam also saw as father figure. Towards the end of the Great Battle, Jorah fends off many [[wight]]s in order to protect Daenerys, getting stabbed multiple times in the process and eventually succumbing to his wounds.<ref>"[[The Long Night]]"</ref> 
+
+The current whereabouts of Heartsbane are unknown.
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Heartsbane has been in the possession of House Tarly for five hundred years. Like [[Ice]], it is a two-handed greatsword. It is currently wielded by [[Lordship|Lord]] [[Randyll Tarly]] and, like the [[Horn Hill|lands]] and titles of House Tarly, will pass to [[Dickon Tarly]] after Randyll passes away.
+
+At the Battle of Ashford during Robert's Rebellion, Randyll cut down Lord Cafferen (a former royalist who had defected to Robert after his defeat at the [[Battle of Summerhall]]) wielding Heartsbane. After the battle, according to [[Stannis Baratheon]], Randyll also used Heartsbane to behead Caffren's corpse, sending the severed head to King [[Aerys II Targaryen|Aerys II]] as a token of loyalty. 
+
+==Gallery==
+<gallery>
+File:Lord Sam Tarly.png|Lord [[Samwell Tarly (lord)|"Savage Sam" Tarly]] with Heartsbane during the [[Vulture Hunt]].
+File:H&L House Tarly.png|Randyll Tarly wielded Heartsbane to lead Tarly men-at-arms to victory at the [[Battle of Ashford]] during [[Robert's Rebellion]].
+File:Blood of My Blood 27.jpg
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+[[Category:House Tarly]]
+[[Category:Swords]]
+[[Category:Valyrian steel blades]]
+
+<!--Languages-->
+[[de:Herzbann]]
+[[fr:Corvenin]]
+[[pt-br:Veneno do Coração]]
+[[ru:Губитель Сердец]]
+[[zh:碎心]]

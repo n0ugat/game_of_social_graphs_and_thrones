@@ -1,0 +1,70 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Umber.svg
+| Link  = House Umber
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Stark
+| Image       = Umber lineage.jpg
+| Birth       = [[183 AC]]{{Dateref|Harkon Umber}}<br>[[Last Hearth]], the [[North]]{{Ref|GOT104}}
+| Death       = [[197 AC]]{{Dateref|Harkon Umber death}} (aged 14)
+| House       = [[House Umber|Umber]]
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Northmen|Northern]]
+| Religion    = [[Old Gods]]
+| Father      = {[[Hothor Umber]]}
+| Mother      = {[[Amarylis Umber|Amarylis Manderly]]}
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = {[[Lucan Umber]]}{{Notes|Lineages}}<br>{[[Gareth Umber]]}{{Notes|Lineages}}<br>{[[Mycah Umber]]}{{Notes|Lineages}}<br>{[[Joseth Umber]]}{{Notes|Lineages}}<br>{[[Regan Karstark]]}{{Notes|Lineages}}<br>{[[Corin Umber]]}{{Notes|Lineages}}
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Harkon Umber: First of His Name, born to Lord Hothor Umber and Lady Amarylis Umber in the 183rd year after Aegon's Landing at the Last Hearth. Blue of eye, brown of hair, and fair complected. Died in his fourteenth year of wounds sustained in a bear hunt.|[[Eddard Stark]]|Cripples, Bastards, and Broken Things}}
+'''Harkon Umber''' was a member of [[House Umber]].
+
+==Biography==
+===Background===
+Harkon Umber was the firstborn son of Lord [[Hothor Umber]] and his wife, Lady [[Amarylis Umber|Amarylis]] of [[House Manderly]]. Born in [[183 AC]]{{Dateref|Harkon Umber}} at [[Last Hearth]], he had blue eyes, brown hair, and a fair complexion. He was tragically killed in a bear hunt at the age of fourteen, leaving no heirs behind.{{Ref|GOT104}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+[[Eddard Stark]] reads Harkon's entry in ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]''.{{Ref|GOT104}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no such character.
+
+==Appearances==
+*{{GOT|Cripples, Bastards, and Broken Things}} {{Mentioned}}
+*{{GOT|A Golden Crown}} {{Text}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{House Umber}}
+
+<!--Categories-->
+{{DEFAULTSORT:Umber, Harkon}}
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Members of House Umber|Harkon Umber]]
+[[Category:Northmen]]
+
+<!--Languages-->
+[[de:Harkon Umber]]
+[[es:Harkon Umber]]
+[[fr:Harkon Omble]]
+[[ru:Харкон Амбер]]

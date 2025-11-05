@@ -1,0 +1,68 @@
+{{DISPLAYTITLE:Harpy {{C|Sons of the Harpy}}}}
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = Slaver's Bay.svg
+| Link  = Sons of the Harpy
+}}
+{{Character
+| Title       = Harpy
+| Type        = Ghiscari
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[Great Masters]]<br>[[Sons of the Harpy]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Ghiscari]] {{C|[[Meereen]]ese}}
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|The [[Sons of the Harpy]] planned their attack in the fighting pits very carefully, which means they take orders from someone.|[[Tyrion Lannister]] to [[Varys]] during a stroll in the streets of [[Meereen]].|The Red Woman}}
+The '''Harpy'''{{Con|ASOIAF}} is the mysterious leader of the [[Sons of the Harpy]]. Their true identity is unknown.
+
+==Biography==
+===[[Game of Thrones: Season 6|''Game of Thrones'': Season 6]]===
+[[Tyrion Lannister|Tyrion]] and [[Varys]] surmise that the [[Sons of the Harpy]] must have some central leader and mastermind, given that their escalating attacks culminating in the ambush at the Great Pit must have required a considerable amount of planning and coordination. They can't just be a loose affiliation of local rebel cells.{{Ref|GOT601}}
+
+[[Vala]] is later captured, a prostitute that helped the Sons of the Harpy trap and kill Unsullied and Second Sons, and brought before Varys. He gently interrogates and pressures her, asking for information about who the leader of the Sons of the Harpy is. Eventually he gets information out of her using a combination of implied threats, and passage on a ship to [[Pentos]] with a large bag of silver (too heavy for one man to carry). Vala, however, did not know the identity of the Harpy leading the rebels in Meereen itself - though she did reveal that they are actually receiving funding from the slave-masters in [[Yunkai]], [[Astapor]], and [[Volantis]].{{Ref|GOT603}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, while the Sons of the Harpy didn't directly attack the Great Pit, a running subplot in the fifth novel is that Daenerys and her advisors similarly realize there must be one central mastermind leading the Sons of the Harpy - whom they dub "''the'' Harpy." As of the end of the fifth novel, however, they are no closer to discovering the identity of "the Harpy." This is being introduced now in the TV show - possibly because in part, prior seasons didn't have as much time to go into more detail about the internal politics of Meereen, as Daenerys tries to determine which of the local rulers is in reality the Harpy.
+
+Major candidates who might be the Harpy in the books were several of the leading families of the [[Great Masters]] - particularly the House of Pahl, who lost many sons during her conquest - though Daenerys feared that they are just the most likely suspects.
+
+Another option is that it is one of the local aristocrats who have been the most ''helpful'' to Daenerys (worming their way into her confidence just as the Tyrells did to the Lannisters), particularly [[Hizdahr zo Loraq]] himself (which is what Barristan suspects), though Hizdahr's death in the TV series at the hands of the Sons of the Harpy would seem to dispel this. Another candidate along these lines is Galazza Galare, the high priestess of the [[Temple of the Graces]] in the city who is the greatest voice calling for peace and order under Daenerys's new regime.
+
+Yet another option is that the Harpy might actually be one of the leading ''freedmen'': while this seems counterintuitive at first, the point is raised that some of the freedmen are angry that Daenerys isn't going far ''enough'' by completely exterminating all of the Great Masters down to the last child - as seen with [[Mossador]] last season, and Daenerys's loss of support among the freedmen when she executed him for murdering a captured Harpy. In this episode itself, Tyrion and Varys see anti-Daenerys graffiti left by the ''freedmen''. After conquering Meereen Daenerys wanted to make peace with the other slave-masters in [[Yunkai]] (feeling she was having enough trouble ruling Meereen itself) - re-opening the Great Pit was even a major ''concession'' to the Yunkish slave-masters, and she agreed to peace despite having the upper hand for the moment. In several ways, the freedmen angry with Daenerys had more reason to break the peace than the Sons of the Harpy did. Thus it is possible that "the Harpy" is secretly a freedman who is duping the Sons of the Harpy into making counterproductive attacks, trying to provoke Daenerys to kill them all in retaliation.
+
+==Appearances==
+*{{GOT|The Red Woman}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|Harpy}}
+
+<!--Categories-->
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Sons of the Harpy]]

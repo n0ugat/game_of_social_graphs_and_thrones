@@ -1,0 +1,59 @@
+{{DISPLAYTITLE:High Septon {{C|Baelor}}}}
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Faith of the Seven.svg
+| Link  = Faith of the Seven
+}}
+{{Character
+| Title       = High Septon
+| Type        = Faith
+| Image       = First Baelor's High Septon.png
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[Faith of the Seven]]
+| Titles      = [[High Septon]]
+| Predecessor = 
+| Successor   = {[[High Septon (stonemason)|Stonemason]]}
+| AKA         = 
+| Culture     = 
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|To steward his monument to vanity, Baelor summoned the High Septon of the Faith from his ancient seat in Oldtown and gifted him with ornate robes and a crown of crystal and gold, and like a fool the High Septon put on his lord's motley and danced at his lord's table, and with each passing year the High Septons fell ever lower. |[[High Sparrow]]|Great Sept of Baelor (short)}}
+This '''[[High Septon]]''' left the [[Starry Sept]] in [[Oldtown]] on the orders of King [[Baelor I Targaryen]] to steward the [[Great Sept of Baelor]]. 
+
+==Biography==
+The High Septon left the [[Starry Sept]] in [[Oldtown]] on the orders of King [[Baelor I Targaryen]] to steward the [[Great Sept of Baelor]]. Baelor dressed him in ornate robes and a crown of crystal and gold, and the High Septon danced at the king's table. Following his death, Baelor chose increasingly unqualified successors, including a [[High Septon (stonemason)|simple-minded stonemason]] and an [[High Septon (boy)|eight-year-old boy]].{{Ref|H&L618}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, his story is the same.
+
+==Appearances==
+*{{H&L|Great Sept of Baelor}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|High Septon (Baelor I)}}
+
+<!--Categories-->
+[[Category:High Septons|Baelor]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Westerosi]]
+
+<!--Languages-->
+[[ru:Верховный септон (Бейлор)]]

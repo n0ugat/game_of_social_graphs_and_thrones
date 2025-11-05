@@ -1,0 +1,48 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Martell
+| Image        =
+<gallery>
+Battle of Hellholt.png|Appearance
+Hellholt Pin.png|Location
+</gallery>
+| Type         = Castle
+| Status       = 
+| Location     = [[Dorne]], [[Westeros]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Hellholt'''{{Guideref|Map of Westeros}} is a castle in [[Dorne]], the region controlled by [[House Martell]] of [[Sunspear]]. The castle is located in the south west of Dorne near the [[Brimstone]]. It is east of [[Sandstone]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Hellholt is the seat of House Uller. It is located in the Dornish desert, and is difficult to reach overland. The castle is named after an unpleasant event in which unwelcome visitors to the castle were locked up and burned to death.
+
+In ''A Feast for Crows'', Arianne Martell travels to Hellholt with [[Myrcella Baratheon|Myrcella]], planning to crown her there in order to provoke the [[House Lannister|Lannisters]] into war. The plans fails as Arianne's party is intercepted by [[Areo Hotah]].
+
+In "Arianne I" sample chapter of ''The Winds of Winter'', it is mentioned that [[Ellaria Sand]] is currently traveling to Hellholt with her daughter [[Loreza Sand|Loreza]].
+
+==Appearances==
+*{{GOT|Dragonstone}} {{Map}}
+*{{C&R|House Martell, Princes of Dorne}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Dorne}}
+
+<!--Categories-->
+[[Category:Castles of Dorne]]
+
+<!--Languages-->
+[[fr:Denfert]]
+[[ru:Пекло]]

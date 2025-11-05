@@ -1,0 +1,85 @@
+{{Canonicity|Canon}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Targaryen
+| Image     = House Celtigar.svg
+| Arms      = Five red crabs on white within a red border
+| Words     = 
+| Titles    = 
+| Seat      = [[Celtigar Keep]], [[Claw Isle]]
+| Region    = [[Crownlands]]
+| Head      = 
+| Heir      = 
+| Overlords = [[House Targaryen/House of the Dragon|House Targaryen]]
+| Vassals   = 
+| Religion  = [[Faith of the Seven]]<br>[[Old Gods of Valyria]] {{C|historical}}
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Celtigar'''{{Ref|HOTD110}}{{Note|Gerardys mentions a declaration from Celtigar.}}{{Note|<small>KELT</small>-ih-gar{{Ref|HOTD110}}}} of [[Claw Isle]] is a [[noble house]] of [[Valyrians|Valyrian]] descent residing on Claw Isle in the [[Crownlands]], historically sworn to [[Dragonstone]].
+
+==History==
+===Background===
+House Celtigar is an ancient Valyrian bloodline.{{Guideref|Bartimos Celtigar}}
+
+Lord [[Edwell Celtigar]] served as [[Hand of the King]] during the reign of [[Maegor Targaryen|Maegor the Cruel]]. He resigned from his post and returned to Claw Isle during the final days of the [[Faith Militant uprising]].{{Ref|H&L806}}
+
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+[[Man-at-arms|Men-at-arms]] from House Celtigar take part in the [[War for the Stepstones]].{{Ref|HOTD103}}
+
+Lord [[Bartimos Celtigar]] declares for [[Rhaenyra Targaryen]] at the start of the [[Dance of the Dragons]] and is named to the [[Black Council]].{{Ref|HOTD110}}
+
+==Historical members==
+*Lord {[[Edwell Celtigar]]}, [[Hand of the King]] during the reign of [[Maegor Targaryen]]. Resigned as Hand and returned to Claw Isle near the end of Maegor's reign.
+*Lord [[Bartimos Celtigar]], head of the house during the [[Dance of the Dragons]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the head of House Celtigar is Ardrian Celtigar, a sour old man known for his avarice and wealth. The sigil of House Celtigar is red crabs strewn on a white field. Their words do not appear in the books. Their ancestral [[Armament|weapon]] is an unnamed [[Valyrian steel]] axe. House Celtigar fights for [[Stannis Baratheon]] during the [[War of the Five Kings]], contributing the ornate ship ''Red Claw'' to Stannis's [[royal fleet]], but surrenders and swears fealty to the [[Iron Throne]] after the devastating defeat at the [[Battle of the Blackwater]]. Lord Ardrian remains at [[King's Landing]] for the remainder of the war.
+
+In ''A Storm of Swords'', Ser [[Axell Florent]] suggests that Stannis sack Claw Isle as a reprisal for House Celtigar's surrender, but [[Davos Seaworth|Davos]] dissuades Stannis.
+
+At the [[Court trial of Tyrion Lannister]], Ardrian is one of the witnesses who testify that Tyrion once threatened [[Joffrey Baratheon|Joffrey]].
+
+===Known members===
+*Lord Ardrian Celtigar, called the "Red Crab", Lord of Claw Isle and head of House Celtigar.
+
+====Historical members====
+*Lord Crispian Celtigar, Lord of Claw Isle and [[Master of Coin|master of coin]] during the reign of [[Aegon I Targaryen]].
+*Lord Alton Celtigar, Lord of Claw Isle and Hand of the King during the reign of Aegon I Targaryen.
+*Lord Edwell Celtigar, Lord of Claw Isle and Hand of the King during the reign of Maegor I Targaryen.
+**Lady Prudence Celtigar, his daughter, Lady of Gulltown through her marriage to Lord Grafton.
+**Lady Prunella Celtigar, his daughter, Lady of Starpike, Dunstonbury, and Whitegrove through her marriage to Lord Peake.
+**Lord Celtigar, his son and heir. Died in 59 AC of the Shivers, only a few days after becoming Lord of Claw Isle.
+*Lord Bartimos Celtigar, Lord of Claw Isle and master of coin to [[Rhaenyra Targaryen]]. Sat on the [[Black Council|black council]].
+**Lord Clement Celtigar, his son, heir, and successor.
+*Arthor Celtigar, a boy of fifteen who died making a brave stand, trying to defend Lord Bartimos.
+
+====Non-canon members====
+*Ser Terrence Celtigar, a proud [[Knighthood|knight]] who voluntarily joined the [[Night's Watch]]. Appears in the 2012 role-playing game ''[[Game of Thrones (game)|Game of Thrones]]''.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Celtigar}}
+{{Houses from the Crownlands/House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Celtigar, House}}
+[[Category:Families from Valyria]]
+[[Category:House Celtigar| ]]
+[[Category:Houses from the Narrow Sea]]
+[[Category:Houses of Valyrian origin]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[fr:Maison Celtigar]]
+[[ru:Селтигары]]

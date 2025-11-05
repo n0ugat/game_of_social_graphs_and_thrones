@@ -1,0 +1,53 @@
+{{Canonicity|Non}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Arryn
+| Image     = 
+| Arms      = 
+| Words     = 
+| Titles    = [[Lordship|Lord of Strongsong]]
+| Seat      = [[Strongsong]]
+| Region    = [[Vale of Arryn]]
+| Head      = 
+| Heir      = 
+| Overlords = [[House Arryn]]
+| Vassals   = 
+| Religion  = [[Faith of the Seven]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Belmore'''<ref>[[:File:Maynard Royce detail.png]]</ref>{{Note|Mavis's surname is Belmore.}} of [[Strongsong]] is a vassal house from the [[Vale of Arryn]] that holds fealty to [[House Arryn]] of the [[Eyrie]].
+
+==History==
+[[Mavis Royce|Mavis Belmore]] is mentioned in ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]'' as the wife of [[Maynard Royce]].<ref name="Prop">''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]'' prop from Season 1</ref>
+
+==Members==
+*{[[Mavis Royce|Mavis Belmore]]}, wife of {[[Maynard Royce]]}, a [[Lord of Runestone]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, House Belmore is one of the principal houses of the Vale of Arryn and one of the most powerful vassals of House Arryn.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Houses from the Vale of Arryn}}
+
+<!--Categories-->
+{{DEFAULTSORT:Belmore, House}}
+[[Category:House Belmore| ]]
+[[Category:Houses from the Vale of Arryn]]
+[[Category:Houses of First Men origin]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[fr:Maison Belmore]]
+[[ru:Белморы]]

@@ -1,0 +1,67 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Night's Watch.svg
+| Link  = Night's Watch
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[Night's Watch]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 1|1]]
+| Appearances = "[[You Win or You Die]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = Unidentified
+}}
+{{Quote|Halder, to the Builders.|[[Lord Commander of the Night's Watch|Lord Commander]] [[Jeor Mormont]]|You Win or You Die}}
+'''Halder''' is a [[Builder]] of the [[Night's Watch]], of the same group of recruits as [[Jon Snow]].
+
+==Biography==
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+Halder is present during the speech Lord Commander [[Jeor Mormont]] gave to the "graduating" recruits. He is assigned to the Builders.{{Ref|GOT107}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Halder is sixteen years old when he joins the Watch. Jon thinks him incredibly strong, but easy to anticipate in fighting because he is short of patience, with no taste for defense.
+
+Halder had been an apprentice stonemason before coming to the Wall and, like [[Grenn]] and [[Pypar|Pyp]], becomes friends with Jon. He helps to carve the wolf's head for the new pommel of [[Longclaw]]. He is among those who stop Jon from abandoning the Night's Watch.
+
+In the fifth novel, Jon assigns Halder to serve at the [[Shadow Tower]].
+
+==Appearances==
+*{{GOT|You Win or You Die}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Night's Watch}}
+
+<!--Categories-->
+[[Category:Builders of the Night's Watch]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Westerosi]]
+
+<!--Languages-->
+[[de:Halder]]
+[[ru:Халдер]]

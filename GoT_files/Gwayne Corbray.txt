@@ -1,0 +1,72 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Leftimage  = House Corbray.svg
+| Leftlink   = House Corbray
+| Rightimage = Kingsguard.svg
+| Rightlink  = Kingsguard
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Targaryen
+| Image       = Gwayne Corbray.png
+| Birth       = At [[Heart's Home]]
+| Death       = 
+| House       = [[House Corbray|Corbray]]
+| Affiliation = [[Kingsguard]]
+| Titles      = [[Knighthood|Ser]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Vale of Arryn|Valemen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Beside the name of Ser Gwayne Corbray, who had dueled the Targaryen bastard Daemon Blackfyre for an hour during the Battle of Redgrass Field though outmatched and grievously wounded, because... Ser Gwayne had sworn our oath. |[[Jaime Lannister]]|The Kingsguard - Jaime Lannister}}
+Ser '''Gwayne Corbray''' was a renowned [[Knighthood|knight]] of [[House Corbray]] and member of the [[Kingsguard]] under King [[Daeron II Targaryen]].
+
+==Biography==
+[[File:Daemon Blackfyre versus Gwayne Corbray.png|thumb|Gwayne Corbray's duel with Daemon Blackfyre at the Redgrass Field.]]
+Ser Gwayne dueled the rebel [[Daemon Blackfyre]] in the [[Battle of Redgrass Field]] for an hour despite being outmatched and grievously wounded.{{Ref|H&L411}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Ser Gwayne Corbray's actions are recorded in the [[Book of Brothers|White Book]]. During the Battle of the Redgrass Field, he fought in the vanguard of Lord [[House Arryn|Arryn]] and dueled Daemon Blackfyre bearing [[Lady Forlorn]], the [[Valyrian steel]] blade of [[House Corbray]], while Daemon bore [[Blackfyre]]. Daemon defeated Ser Gwayne after an hour, but in a demonstration of chivalry, had his supporter, a knight known as Redtusk, take Ser Gwayne to the Blackfyre rear to see to his wounds.
+
+==Appearances==
+*{{H&L|The Kingsguard - Jaime Lannister}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Kingsguard of Daeron II Targaryen}}
+
+<!--Categories-->
+{{DEFAULTSORT:Corbray, Gwayne}}
+[[Category:Individuals from Histories & Lore]]
+[[Category:Kingsguard of Daeron II Targaryen]]
+[[Category:Knights]]
+[[Category:Members of House Corbray|Gwayne Corbray]]
+[[Category:Valemen]]
+
+<!--Languages-->
+[[de:Gawan Corbray]]
+[[es:Gwayne Corbray]]
+[[fr:Gwayne Corbray]]
+[[nl:Gweijn Corbree]]
+[[ru:Гвейн Корбрей]]
+[[zh:加尔温·科布瑞]]

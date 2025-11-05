@@ -1,0 +1,71 @@
+{{Heraldry
+| Image = House Hightower.svg
+| Link  = House Hightower
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Hightower
+| Image        =
+<gallery>
+Oldtown 6x10.jpg|Appearance
+Oldtown Pin.png|Location
+</gallery>
+| Type         = Lighthouse
+| Status       = 
+| Location     = [[Battle Isle]], [[Oldtown]], the [[Reach]]
+| Population   = 
+| Rulers       = [[House Hightower]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+{{Quote|Wealthy, proud, and solitary, there have been Hightowers who wouldn't come down from their great lighthouse for decades. Its name, fittingly, is the Hightower.|[[Margaery Tyrell]]|The Reach}}
+The '''Hightower''' is a massive lighthouse located in [[Oldtown]], the oldest city in [[Westeros]]. It serves as the seat of [[House Hightower]], proud and wealthy bannermen of [[House Tyrell]] of [[Highgarden]].
+
+The Hightower sits atop [[Battle Isle]], an island in the waters off the city.{{Ref|h&l612}} When House Hightower calls its banners to war, the beacon atop the lighthouse glows green with [[wildfire]].{{Ref|hotd105}} White [[raven]]s are sent from the Hightower to the rest of the [[Seven Kingdoms]] whenever the seasons change.{{Ref|got610}}
+
+==History==
+===Background===
+The Hightower is one of the most ancient structures in Westeros, being built before the walls of Oldtown were raised. An even more ancient fortress of [[black stone]]—predating the Hightower by thousands of years—forms the base of the tower, and the origin of that structure is a subject of debate; some [[Order of Maesters|maesters]] declare the fortress to be of [[Valyrians|Valyrian]] construction, due to similarities with the [[Dragonstone (material)|fused stone]] of [[Dragonstone]] and the [[Black Walls]] of [[Volantis]]. [[Archmaester]] [[Quillion]], however, speculated that the fortress was built by the [[mazemakers]] of [[Lorath]], and the [[Ironborn]] Maester [[Theron]] linked it to the [[Deep Ones]], an intelligent race of fish-men. It is unknown why the island it sits on is named "Battle Isle."{{Ref|h&l612}}
+
+===[[Game of Thrones: Season 6|''Game of Thrones'': Season 6]]===
+[[File:Oldtown-at-night.jpg|thumb|The Hightower at night.]]
+When [[Samwell Tarly|Sam]] and [[Gilly]] reach Oldtown, they behold the Hightower as white ravens are sent from its rookery, signifying that winter has come.{{Ref|got610}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the Hightower is described as being 800 feet tall - a hundred feet taller than the [[Wall]] itself (though still not approaching the sheer scale of the Wall, which stretches from one side of the continent to the other). It is the tallest structure in all of Westeros. It is also worth noting that the Hightower was assumed to have been built and designed by either [[Brandon the Builder|Bran the Builder]] or his son, who was also named Brandon Stark.
+[[File:Oldtown-titles.png|thumb|The Hightower in title sequence.]]
+According to ''The World of Ice & Fire'' sourcebook, the base of the Hightower, which appears to be much older than the rest of the building, is large, stout, square of fused black stone. Mystery surrounds its origins, as seamless black stone is a hallmark of Valyrian architecture, but its design is plain and unadorned (Valyrian fused stone is twisted into fanciful shapes). A link between the Hightower's base and the mazes found near [[Lorath]] has also been postulated. Whatever the case, the rest of the Hightower was built centuries later, as Oldtown developed into an increasingly important center of trade – it is after all, a lighthouse first and foremost.
+
+==Appearances==
+*{{H&L|The Reach}} {{Illustrated}}
+*{{GOT|The Winds of Winter}}
+*{{H&L|Oldtown}} {{Illustrated}}
+*{{GOT|Dragonstone}}
+*{{GOT|Eastwatch}}
+*{{HOTD|The Heirs of the Dragon}} {{Coatofarms}}
+*{{HOTD|The Rogue Prince}} {{Coatofarms}}
+*{{HOTD|Second of His Name}} {{Coatofarms}}
+*{{HOTD|King of the Narrow Sea}} {{Coatofarms}}
+*{{HOTD|We Light the Way}} {{Mentioned}}
+*{{HOTD|The Lord of the Tides}} {{Coatofarms}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Reach}}
+{{House Hightower}}
+
+<!--Categories-->
+[[Category:Battle Isle]]
+[[Category:House Hightower]]
+
+<!--Languages-->
+[[de:Hohenturm]]
+[[ru:Высокая башня]]

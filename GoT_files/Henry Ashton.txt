@@ -1,0 +1,26 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Kingdoms
+| Image   = Henry Ashton.jpg
+| Birth   = 1990/1991
+| Death   = 
+| Role    = [[Daeron Targaryen (son of Maekar)|Daeron Targaryen]]
+| Series  = ''[[A Knight of the Seven Kingdoms]]''
+| Season  = [[A Knight of the Seven Kingdoms: Season 1|1]]
+| Credits = 
+| First   = 
+| Last    = 
+}}
+'''Henry Ashton''' is a British actor.
+
+Ashton portrays [[Daeron Targaryen (son of Maekar)|Daeron Targaryen]] in ''[[A Knight of the Seven Kingdoms]]''.
+
+==Credits==
+{{A Knight of the Seven Kingdoms: Season 1}}
+
+==External links==
+*{{IMDb|#=12254475}}
+
+<!--Categories-->
+{{DEFAULTSORT:Ashton, Henry}}
+[[Category:Cast members of unknown billing of A Knight of the Seven Kingdoms]]

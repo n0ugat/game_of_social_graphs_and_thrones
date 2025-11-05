@@ -1,0 +1,67 @@
+{{DISPLAYTITLE:High Septon {{C|Viserys I}}}}
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Faith of the Seven.svg
+| Link  = Faith of the Seven
+}}
+{{Character
+| Title       = High Septon
+| Type        = Faith
+| Image       = Jaehaerys's High Septon.png
+| Birth       = [[33-42 AC]]{{Dateref|Viserys High Septon}}
+| Death       = 
+| House       = 
+| Affiliation = 
+| Titles      = [[High Septon]]<ref>[https://www.spotlight.com/0931-6729-7186 Gary Raymond on Spotlight]</ref>
+| AKA         = 
+| Culture     = 
+| Religion    = [[Faith of the Seven]]{{Ref|HOTD105}}
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 1|1]]
+| Appearances = 2 episodes {{Below|Appearances}}
+| First       = "[[The Heirs of the Dragon]]"
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Gary Raymond]]
+}}
+{{Quote|It is declared by all lords paramount and lords vassal of the Seven Kingdoms that Prince Viserys Targaryen be made Prince of Dragonstone.|The High Septon|The Heirs of the Dragon}}
+A '''High Septon''' served as head of the [[Faith of the Seven]] during the reigns of [[Jaehaerys I Targaryen|Jaehaerys I]] and [[Viserys I Targaryen|Viserys I]].
+
+==Biography==
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+The [[High Septon]] is present at the [[Great Council at Harrenhal]]. Eleven years later, he also attends the ceremony in which [[Rhaenyra Targaryen]] is named [[Prince of Dragonstone|Princess of Dragonstone]].{{Ref|HOTD101}}
+[[File:WLTW Rhaenyra and Laenor Still 7.jpg|thumb|Royal wedding.]]
+The High Septon weds Rhaenyra and [[Laenor Velaryon]] in a small and grim ceremony.{{Ref|HOTD105}}
+
+==In the books==
+In ''[[Fire & Blood]]'', this High Septon is not mentioned as being present when Rhaenyra was named heir.
+
+==Appearances==
+*{{HOTD|The Heirs of the Dragon}}
+*{{HOTD|We Light the Way}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|High Septon (Jaehaerys I)}}
+
+<!--Categories-->
+[[Category:High Septons|Viserys I]]
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Westerosi]]
+
+<!--Languages-->
+[[de:Hoher Septon (Viserys I.)]]
+[[fr:Grand Septon (Grand Conseil de 101)]]
+[[ru:Верховный септон (Визерис I)]]

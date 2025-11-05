@@ -1,0 +1,30 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Hami Belal.jpg
+| Birth   = March 25, 1982 {{Age|1982|3|25}}<br>Algiers, Algeria
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 3|3]]
+| Credits = "[[And Now His Watch Is Ended]]"
+| First   = 
+| Last    = 
+}}
+'''Hami Belal''' (born March 25, 1982) is a Algerian stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 3|third season]] episode "[[And Now His Watch Is Ended]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 3||||yes}}
+
+==See also==
+*{{IMDb
+|# = 5500035}}
+*{{Instagram
+|# = hamibelal}}
+*{{Facebook
+|# = hamimania}}
+{{DEFAULTSORT:Belal, Hami}}
+[[Category:Stunt performers of Game of Thrones]]

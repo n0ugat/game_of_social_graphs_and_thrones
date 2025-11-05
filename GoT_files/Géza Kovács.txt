@@ -1,0 +1,22 @@
+{{Crew
+|Image = Géza Kovács.jpg
+|dateofbirth = {{WPS|May 23}}, {{WPS|1975}}
+|birthplace = {{WPS|Budapest}}, {{WPS|Hungary}}
+|job = Stunt Performer
+|imdb = https://www.imdb.com/name/nm1896237/
+|twitter = }}
+'''Géza Kovács''' (born May 23, 1975) is a Hungarian stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 1|first season]] episodes "[[Lord Snow]]", "[[Cripples, Bastards, and Broken Things]]", "[[The Wolf and the Lion]]", "[[A Golden Crown]]", "[[You Win or You Die]]", "[[The Pointy End]]", "[[Baelor]]", and "[[Fire and Blood]]", the [[Game of Thrones: Season 3|third season]] episodes "[[The Rains of Castamere (episode)|The Rains of Castamere]]" and "[[Mhysa]]" and the [[Game of Thrones: Season 4|fourth season]] episodes "[[The Watchers on the Wall]]" and "[[The Children]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 1|||yes|yes|yes|yes|yes|yes|yes|yes}}
+{{Game of Thrones: Season 3|||||||||yes|yes}}
+{{Game of Thrones: Season 4|||||||||yes|yes}}
+
+==See also==
+*{{IMDb
+|# = 1896237}}
+{{DEFAULTSORT:Kovács, Géza}}
+[[Category:Stunt performers of Game of Thrones]]

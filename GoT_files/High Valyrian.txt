@@ -1,0 +1,187 @@
+{{Canonicity|Canon}}
+{{RedirectsHere|Valyrian (language)|its derivative languages|Low Valyrian}}
+[[File:Nekesse Valyrio.jpg|thumb|350px|A letter written in High Valyrian.]]
+{{Quote|The gods could not devise a more perfect tongue. It is the only proper language for poetry.|[[Missandei]]|Second Sons (episode)}}
+'''High Valyrian''',{{Ref|GOT306}}{{Note|High Valyrian: ''Valyrio Udrir''}} also known as '''Old Valyrian'''<ref>[https://darksvster.tumblr.com/post/746682194076024833 Script: 110 "The Black Queen"]</ref> or simply '''Valyrian''',{{Ref|GOT208}} is the [[Languages|language]] of the old [[Valyrian Freehold]] which was located on the eastern continent of [[Essos]].
+
+Much of Essos was once dominated by the Valyrians for thousands of years, stretching from the [[Free Cities]] in the west, to [[Slaver's Bay]] in the east. The Valyrians forced the peoples they subjugated to speak in (or at least be able to converse in) their language.
+
+After the [[Doom of Valyria]] 400 years before the [[War of the Five Kings]], "High Valyrian" (as it became known) ceased to be a living language, instead being used as a lore-language by scholars throughout both Essos and [[Westeros]].
+
+Westerosi typically do not speak High or Low Valyrian;<ref name="E26">"[[The Climb]]"</ref> [[Tyrion Lannister|Tyrion]] can understand [[Zanrush]]'s introduction of [[Kinvara]], and uses the same language to say "Welcome to Meereen", but then confesses "That's about the extent of my Valyrian".<ref>"[[The Door]]"</ref> It can surprise many in Essos when a Westerosi such as [[Daenerys Targaryen|Daenerys]] fluently speaks the language.<ref name=":0">"[[And Now His Watch Is Ended]]"</ref>
+
+High Valyrian is used by [[red priest]]s to communicate with each other.<ref name="E26"/> This may have less to do with its use as a liturgical language and more to do with the fact that most red priests are Essosi, and High Valyrian is the easiest mode of communication amongst them.
+
+==Lexicon==
+*'''''anogrion''''' - "temple," literally "blood tower."<ref>[https://archiveofourown.org/works/41347620 David J. Peterson], Conlang Dialogue: House of the Dragon Episode 1.2</ref>
+*'''''daor''''' - "no," "not".<ref name=":1">[http://www.makinggameofthrones.com/production-diary/2014/5/8/high-valyrian-101-learn-and-pronounce-common-phrases MakingGameOfThrones]</ref> generally at end of sentence e.g., ''tubi daor'' ("not today") or ''zaldrīzes buzdari iksos daor'' ("a dragon is not a slave").
+*{{HV|Dragonfire}} '''''dracarys''''' - ("drah-KAH-ris")<ref>[http://www.dothraki.com/2012/06/ei-mahrazhith-drivoe/ David J. Peterson's blog]</ref> The High Valyrian word for "dragonfire". Daenerys says "Dracarys" to Drogon, the young [[dragon]], to encourage him to breathe fire and cook his own meat.<ref>"[[The Ghost of Harrenhal]]"</ref> Daenerys teaches her newly hatched dragons to breathe fire on command when she says ''dracarys'', burning [[Pyat Pree]] alive.<ref name="E20">"[[Valar Morghulis]]"</ref> She also uses the command to make [[Drogon]] roast [[Kraznys mo Nakloz]] alive,<ref name=":0" /> and to order her dragons to burn the ships of the slaver alliance in the [[second siege of Meereen]].<ref>"[[Battle of the Bastards (episode)|Battle of the Bastards]]"</ref> Later on, during the [[Last War]], after the [[Battle of the Goldroad]], she uses the command to have [[Randyll Tarly|Randyll]] and [[Dickon Tarly]] executed by Drogon.<ref>"[[Eastwatch]]"</ref> [[Missandei |Missandei]] says "Dracarys" as her final word just before being executed by [[Cersei Lannister|Cersei]]. Daenerys later uses the command to execute [[Varys]] for treason. Daenerys uses this term for the last time at [[Battle of King's Landing]], to burn the city to the ground. Another word for this is "zaldrīzo perzys" (lit. fire of the dragon).
+*'''''kēli''''' - [[Cat]] (David J. Peterson's cat is named "Keli", so he made it the noun for "cat" in High Valyrian).<ref name=":1" />
+*'''''kirimvose''''' - (or ''kirimvos'', for short; stress on the second "i" for both; pronounced as four syllables:<br />"Key-RIM-voh-say", with a rolled "R") - "thank you".<ref>[http://www.dothraki.com/2012/12/merry-merry-goatmas/ David J. Peterson's blog], Dothraki.com, December 25h, 2012.</ref>
+*'''''issa''''' - "yes"<ref name=":1" />
+*'''''lykirī''''' <small>[ly.'ki.ri:]</small> - "calm down"
+*'''Skorī dēmalȳti tymptir tymis, ērinis iā morghūlis.''' - "When you play the game of thrones, you win or you die."<ref name=":1" />
+*'''''Sesīr kipi!''''' - "And now, we ride!" (command)<ref>[http://dedalvs.tumblr.com/post/126022622650/in-a-dance-with-dragons-the-tattered-prince-says]</ref>
+*'''''sōvēs''''' <small>[so:.'ve:s]</small> - "fly" (singular).
+*'''''sōvētēs''''' - "fly" (plural). Daenerys tells this in plural form to her dragons in Yunkai.<ref name="E30">"[[Mhysa]]"</ref> She was intended to say ''sōvēs'' to Drogon to have him take off from the [[Great Pit of Daznak]] with her aboard, but instead said ''valahd'' ("horizon"; informally, "Giddyup!" or "Hya!") in [[Dothraki (language)|Dothraki]].<ref name="selcke20170717">Selcke, Dan. "[https://winteriscoming.net/2015/07/17/valahd-the-odd-story-behind-daenerys-command-to-drogon/ “Valahd”—The odd story behind Daenerys’ command to Drogon]". ''Winter is Coming'', 17 July 2015.</ref><ref name="E49">"[[The Dance of Dragons (episode)|The Dance of Dragons]]"</ref>
+*'''''valar morghūlis''''' - (val-are mor-goo-lis: "valar" is pronounced with an "a" as in father)<ref>[http://www.dothraki.com/2012/06/ei-mahrazhith-drivoe/ David J. Peterson's blog]</ref> "all men must die", in the sense of "all men must (eventually) die (sooner or later)". Throughout the Valyrian-speaking world, it is loosely analogous to "who wants to live forever?" in that it is used to indicate acceptance of a potentially unpleasant truth or assignment.<ref>"[[Walk of Punishment (episode)|Walk of Punishment]]"</ref><ref>"[[Second Sons (episode)|Second Sons]]"</ref> The word is also a common greeting, especially in [[Braavos]]<ref name=":2">"[[The Children]]"</ref> and particularly among the guild of assassins known as the [[Faceless Men]].<ref name="E20"/> When used as a greeting, it is answered with the phrase "'''''valar dohaeris'''''",<ref name=":2" /> which translates to "all men must serve".
+*'''''zaldrīzes''''' - "dragon"<ref name=":1" />
+*'''''Zaldrīzes rȳbus, lo mērī udrirzi Valyrio eglio ȳdrassua''''' - "A dragon only listens if you speak in High Valyrian."
+*'''''zīrtys perzys''''' - Translated literally as "frozen fire", the words for [[dragonglass]].<ref name="E61">"[[Dragonstone (episode)|Dragonstone]]"</ref>
+
+===Numbers===
+*{{HV|0}} ''daorun'' = zero
+*{{HV|1}} ''mēre'' = one
+*{{HV|2}} ''lanta'' = two
+*{{HV|3}} ''hāre'' = three
+*{{HV|4}} ''izula'' = four
+*{{HV|5}} ''tōma'' = five
+*{{HV|6}} ''bȳre'' = six
+*{{HV|7}} ''sīkuda'' = seven
+*{{HV|8}} ''jēnqa'' = eight
+*{{HV|9}} ''vōre'' = nine
+*{{HV|10}} ''ampa'' = ten
+*{{HV|100}} ''gār'' = hundred
+*{{HV|10}}{{HV|100}} ''pyrys'' = thousand
+
+===Directions===
+*''jelmor'' = north
+*''ñāqon'' = east
+*''vēzor'' = south
+*''endia'' = west
+
+===Dragon commands===
+Before the Targaryen dragons died out, they were trained to respond to many basic commands in High Valyrian, including:<ref>[https://dedalvs.com/work/house-of-the-dragon/misc/dragon_commands_v2.pdf Dragon Commands, version 2 | dedalvs.com]</ref>
+
+*''aderī'' = quickly
+*''angōs'' = attack
+*''angōtōs'' = attack (plural)
+*''daor'' = no
+*''demās'' = sit
+*''demātās'' = sit (plural)
+*''dohaerās'' = serve
+*''dohaerātās'' = serve (plural)
+*''dokimarvose'' = focus / pay attention
+*{{HV|Dragonfire}} ''drakarys'' = breathe fire
+*''elēnās'' = bank
+*''elēnātās'' = bank (plural)
+*''embrot'' = down
+*''geptot'' = left
+*''gevī'' = good (variant 1)
+*''hegnīr'' = good (variant 2)
+*''iēdrot'' = drink
+*''inkot'' = back
+*''iōrās'' = stand
+*''iōrātās'' = stand (plural)
+*''jās'' = move
+*''jātās'' = move (plural)
+*''kisās'' = eat
+*''kisātās'' = eat (plural)
+*''lykirī'' = be calm (variant 1)
+*''māzīs'' = come (variant 1)
+*''māzītīs'' = come (plural variant 1)
+*''naejot'' = forward
+*''ninkiot'' = land (variant 1)
+*''nopot'' = to the pit
+*''paerī'' = slow
+*''paktot'' = right
+*''pālēs'' = evasive maneuvers
+*''pālētēs'' = evasive maneuvers (plural)
+*''parmot'' = land (variant 2)
+*''rāpirī'' = be calm (variant 2)
+*''renīs'' = touch
+*''renītīs'' = touch (plural)
+*''rȳbās'' = listen / obey
+*''rȳbātās'' = listen / obey (plural)
+*''sōvēs'' = fly
+*''sōvētēs'' = fly (plural)
+*''tegot'' = land (variant 3)
+*''tymās'' = play
+*''tymātās'' = play (plural)
+*''umbās'' = wait
+*''umbātās'' = wait (plural)
+*''vēzot'' = up
+*''ynot'' = come (variant 2; lit. "to me")
+
+===Family terms===
+[[File:High Valyrian Kinship Terminology by David J. Peterson.jpg|thumb|High Valyrian Kinship Terminology chart, produced by David J. Peterson (click to expand).]]
+Peterson was hesitant to develop many terms specifically about Valyria's social structure, which no longer exists in the present day of ''Game of Thrones''. Some of these were unavoidable, however, such as terms for family members - which inherently introduces assumptions about their social structure. These ''may'' have been developed after consultation with George R.R. Martin, though specific inferences about Old Valyria are subject to change.
+
+Valyria was a society that actively practiced brother-sister [[Incest|incest]] whenever possible, to "keep the bloodline pure", and if that was not possible, as close a cousin as could be found. Peterson's vocabulary demonstrated several unique features about the Valyrians:<ref>[https://twitter.com/Dedalvs/status/809562861118754816 High Valyrian Kinship Terminology,] David J. Peterson's Twitter.</ref>
+
+*Possibly due to the many incestuous pairings, the same word was used for "parent" and "parent's sibling" - so long as they were of the same gender. ''Kepa'' could refer interchangeably to "father" or "father's brother / paternal uncle", ''Muña'' could refer to "mother" or "mother's sister".
+*Like several real-life languages (such as Japanese), they had distinct terms for "older sibling" or "younger sibling": ''Lēkia'' = older brother, ''Valonqar'' = younger brother, ''Mandia'' = older sister, ''Hāedar'' = younger sister.
+*Extending from how the same term was used for a parent or "parent's same-gender sibling", first cousins of these same-gender siblings were referred to using ''the same'' terms for "brother" and "sister", interchangeably. Therefore, the term ''Valonqar'' could equally refer to your "younger brother", or, "son of my father's brother (or son of my mother's sister), who happens to be younger than me". Any relative of this proximity, "sibling or parallel cousin", can be referred to as ''Dubys'' regardless of age or gender (comparable to "sibling"). A twin sibling is referred to as ''Idaña'' (literally "twin", just like how English has a special term for that).
+*A distinction is only drawn for a parent's siblings who are ''not'' the same gender as the parent, which are not interchangeable. Each of the four possible combinations has a unique term: ''Iāpa'' = mother's older brother, ''Qȳbor'' = mother's younger brother, ''Velma'' = father's older sister, ''ñāmar'' = father's younger sister.
+*In turn, the child of a parent's sibling who is not of their same gender would be broadly known as ''Dubāzma'' - "Cross Cousin" (or more accurately, just "Cousin", as the son of mother's sister would just be called a "brother", with no distinction). More specifically, each of the four avuncular (uncle or aunt) relationships has an associated term meaning "child of maternal-uncle" etc., but which doesn't specify whether this cousin is male or female, or if they are younger or older. This is achieved by just adding the suffix "-anna" to the parent's sibling term, in some cases causing a slight spelling shift in the stem word: ''Iāpanna'' = child of mother's older brother, ''Qȳbranna'' = child of mother's younger brother, ''Velmanna'' = child of father's older sister, ''ñābranna'' = child of father's younger sister.
+*Peterson has not, as of yet, provided corresponding terms for "nephew" or "niece".
+*Given that Daenerys is the younger sister of [[Jon Snow]]'s [[Rhaegar Targaryen|father]], Daenerys would thus be termed Jon's ''ñāmar''.
+*[[File:High Valyrian Lessons.png|thumb|High Valyrian lessons for Rhaenyra's children.]]Due to the frequent incestuous pairings of the Valyrians, there were many cases where someone was both a sibling ''and'' a cross-cousin. King [[Aerys II Targaryen]], the Mad King, married his younger sister [[Rhaella Targaryen|Rhaella]]. Thus Rhaella was simultaneously Daenerys's ''Muña'' (mother) as well as her ''ñāmar'' (father's younger sister), meaning that Rhaegar was both her ''Lēkia'' (older brother), and also her ''ñābranna'' (child of father's younger sister).
+
+==Low Valyrian==
+{{Main|Low Valyrian}}
+Without the central influence of the Valyrian empire, the speech of their descendants and former colonies transformed into derivative languages known as "Low Valyrian", or "Bastard Valyrian". Low Valyrian is not a single language, so much as a family of diverse dialects well on their way to becoming separate languages - so much so that even those who speak one might not be able to speak another, and without mutual intelligibility, it could be argued that they have truly become separate languages.
+
+Each of the Nine Free Cities has its own dialect/language of Low Valyrian. These include [[Braavos]]i, [[Lorath]]i, [[Lys]]ene, [[Myr]]ish, [[Norvos]]hi, [[Pentos]]hi, [[Qohor]]ik, [[Tyrosh]]i, and [[Volantis|Volantene]]. [[Slaver's Bay]] also has its own dialect/language of Low Valyrian, making for a total of ten different branches.
+
+The Low Valyrian of Slaver's Bay is somewhat influenced by the old language of Ghiscar, but owes more of its descent to High Valyrian than the old local languages. The three great slaver cities of [[Astapor]], [[Yunkai]], and [[Meereen]] each speak a different dialect of Low Valyrian, but unlike the Free Cities dialects, they are still mutually intelligible. People in Astapor would call their language "Astapori Valyrian" (or just "Valyrian"), to differentiate it from "Meereenese Valyrian".<ref>[http://www.dothraki.com/2013/03/game-of-thrones-season-3-premiere-event/ David J. Peterson's blog], Dothraki.com, March 19, 2013.</ref>
+
+==Behind the scenes==
+*Valyrian was designed by [[David J. Peterson]], who constructed all of the fictional languages used on ''Game of Thrones''. Peterson created High Valyrian independently, then applied a series of phonological, semantic and grammatical changes to create the Slaver's Bay Low Valyrian.<ref>[http://whatsnext.blogs.cnn.com/2013/03/29/david-peterson-and-the-languages-of-game-of-thrones/ David Peterson and the languages of 'Game of Thrones'], March 29th, 2013</ref>
+*High Valyrian was not identified as such on screen until "[[The Climb]]", which also featured the first extended dialogue in the language. [[Kraznys mo Nakloz]]'s lines and his short dialogue with Daenerys were in Low Valyrian, identified only as "Valyrian" on screen.
+*Chain in High Valyrian is pronounced "belmon", this is a reference to Simon Belmont, the main protagonist of the Devil's Castle/Castlevania series who can upgrade his whip to a chain.
+*According to Peterson, when he first created High Valyrian for Season 3, there were about 500 words in it - and by Season 8, there were around 2,000 words in it.<ref>[
+https://io9.gizmodo.com/game-of-thrones-david-peterson-discusses-using-language-1834087678 David J. Peterson interview,] ''io9.com''</ref>
+
+==In the books==
+As a dead language of a fallen empire used by scholars and educated noblemen throughout a medieval world, High Valyrian is basically their world's equivalent of Latin. Indeed, author [[George R.R. Martin]] has said that the old Valyrian Freehold is basically his fantasy world's equivalent of the Roman Empire. Most of the people in the western part of Essos speak one of the languages that derive from High Valyrian, including all of the Free Cities and all of Slaver's Bay.
+
+Tyrion learned High Valyrian from his tutors growing up, as apparently many of the noble-born of Westeros do. Thus even though the Valyrian Freehold never extended to Westeros, many of the better-educated characters are capable of understanding it. Numerous times throughout the books, Tyrion or other characters are observed reading books written in High Valyrian. Even [[Winterfell]] had several rare books written in High Valyrian in its collection. [[Samwell Tarly|Samwell]] and even [[Arya Stark|Arya]] were taught High Valyrian by their castles' Maesters, though they don't know as much of it as certain older characters like Tyrion who have devoted a considerable number of years to its study.
+
+As for Low Valyrian, Tyrion could speak some Braavosi reasonably well, knew a smattering of Myrish, and a few phrases of Tyroshi. Tyrion apparently could not speak Pentoshi. Tyrion himself says that Low Valyrian is "not so much a dialect as nine dialects on the way to becoming separate tongues". However, the fact that Tyrion knows High Valyrian and some dialects like Braavosi, but cannot understand others, lends a large amount of evidence to the position that they have reached the point where they are not mutually intelligible and are truly separate languages.
+
+In contrast, the Low Valyrian of Slaver's Bay, which is influenced by the old Ghiscari language, is more uniform. It is stated that while the Low Valyrian of Yunkai is a different dialect than that of Astapor, they are still mutually intelligible. However, a great multitude of other languages are spoken in large numbers in Slaver's Bay, due to the large influx of slaves from many distant lands.
+
+Valyrian is described as sounding "liquid". The Valyrian writing system is said to involve "glyphs". This appears to have been changed for the series, as the handful of props bearing High Valyrian writing clearly show they use the same alphabet as the Common Tongue.
+
+[[House Targaryen]], a noble family of the Valyrian Freehold living on their most distant outpost on [[Dragonstone (island)|Dragonstone]] island, survived the Doom along with their dragons. Presumably, the Targaryens of Dragonstone spoke High Valyrian as well. After the Targaryens conquered Westeros three hundred years ago, they conversed with their subjects in the [[Common Tongue]] of the [[Andals]] which was spoken throughout the continent. It is not clear if the Targaryens stopped speaking High Valyrian entirely, or continued to teach it to their children. Certainly, the Targaryens were proud of their descent from Old Valyria, and the children of powerful noble Houses like Tyrion Lannister learned High Valyrian, so it stands to reason that even [[Rhaegar Targaryen]]'s generation could speak High Valyrian.
+
+Daenerys knows High Valyrian, though how she learned it in exile is unexplained. Daenerys has been observed in the TV series saying words of High Valyrian, like "''dracarys''". Daenerys is also stated to know the (Low) Valyrian of the Free Cities, because she grew up there, though which variants she knows are not clear. When Daenerys responds to a merchant in Vaes Dothrak speaking in "Valyrian", the variant she replies in makes him think she is from Tyrosh, so she seems to be able to speak Tyroshi. Daenerys may be reasonably familiar with Braavosi and Pentoshi, because those were the Free Cities that she spent the longest time in. She also briefly stayed at various times in [[Myr]], [[Qohor]], [[Volantis]], and [[Lys]], so she may have some familiarity with those variants as well. Daenerys quickly learns the Low Valyrian spoken in Slaver's Bay, which is very different from the variants spoken in the Free Cities, though her experience with other variants of Low Valyrian helped her learn it faster than a Westerosi with no knowledge of Valyrian languages.
+
+In the third novel (specifically ''A Storm of Swords'' - Daenerys II) confusing descriptions are given about what variant of Valyrian is spoken in Slaver's Bay:
+*"Even the Ghiscari tongue was largely forgotten; the slave cities spoke the High Valyrian of their conquerors, or what they had made of it."
+*"Kraznys' High Valyrian was twisted and thickened by the characteristic growl of Ghis, and flavored here and there with words of slaver argot."
+
+It isn't clear from this if Kraznys is speaking in "High Valyrian" or if he is speaking in Ghiscari Low Valyrian - the Romance version of the language which developed in Slaver's Bay, twisting the language much as French twisted Latin.
+
+When asked, David J. Peterson explained that even in the books, Kraznys is speaking Ghiscari Low Valyrian. This chapter was narrated from Daenerys's POV and she is simply commenting on how much they have "twisted" High Valyrian - to the point that it is the different language of Low Valyrian.
+
+In the TV series, Peterson explained that in Season 3 Daenerys always speaks in High Valyrian, not Low Valyrian - albeit she quickly picks up several specific terms from Ghiscari Low Valyrian. Specifically when she says "a dragon is not a slave" (''Zaldrīzes buzdari iksos daor''), the word "buzdari" is actually Ghiscari Low Valyrian for "slave". The High Valyrian word for slave is "dohaeriros", but Daenerys used the common word for "slave" in Low Valyrian to emphasize to Kraznys that she could understand what he was saying in Low Valyrian.<ref>[http://www.dothraki.com/2013/04/sesir-urnebion-z%C8%B3hon-keliton-issa/ David J. Peterson's blog], Dothraki.com, April 22nd, 2013.</ref> Given that Kraznys understands her response, he apparently knows High Valyrian as well, but prefers speaking in his mother-tongue. Melisandre and Thoros explicitly state that they are speaking in High Valyrian during their exchanges in "The Climb".
+
+In Peterson's words:
+
+:Kraznys speaks Astapori Valyrian—in the book and in the show. Astapori Valyrian is descended from High Valyrian, but descended directly after a process of creolization and de-creolization with the Ghiscari language. This development was different from the development of the other Low Valyrian languages, but given that the source material is the same, it’s understandable that Dany gets it pretty well, despite the fact that she’ll miss a word here or there that’s of Ghiscari origin. Dany only speaks High Valyrian on the show. Thoros and Melisandre only speak High Valyrian on the show. Every episode that has them speaking Valyrian of any kind has High Valyrian in it.<ref>[http://www.dothraki.com/2014/01/the-treasure-of-the-wastes/#comment-7423 David J. Peterson's blog], Dothraki.com, February 1st, 2014.</ref>
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+*{{WP|Valyrian languages}}
+
+<!--Navboxes-->
+{{Free Cities}}
+
+<!--Categories-->
+[[Category:Languages]]
+[[Category:Valyrian culture]]
+
+<!--Languages-->
+[[de:Valyrische Sprache]]
+[[fr:Haut Valyrien]]
+[[pl:Starovalyriański]]
+[[ru:Высокий валирийский язык]]
+[[vi:Tiếng Valyria Thượng đẳng]]

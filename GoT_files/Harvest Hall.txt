@@ -1,0 +1,44 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Selmy.svg
+| Link  = House Selmy
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Baratheon
+| Image        = 
+| Type         = Hall
+| Status       = 
+| Location     = [[Dornish Marches]], the [[Stormlands]]
+| Population   = 
+| Rulers       = [[House Selmy]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Harvest Hall'''{{Ref|GOT806}} is a settlement in the [[Dornish Marches]], serving as the seat of [[House Selmy]].
+
+==History==
+===[[Game of Thrones: Season 8|''Game of Thrones'': Season 8]]===
+Harvest Hall is mentioned in [[Barristan Selmy]]'s entry in the ''[[Book of Brothers]]''.<ref>"[[The Iron Throne]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the land around Harvest Hall is more fertile than most of the [[Stormlands]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Stormlands}}
+
+<!--Categories-->
+[[Category:Castles of the Stormlands]]
+[[Category:House Selmy]]
+
+<!--Languages-->
+[[ru:Дом Урожая]]

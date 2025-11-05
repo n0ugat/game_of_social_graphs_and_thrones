@@ -1,0 +1,79 @@
+{{DISPLAYTITLE:High Septon {{C|Faith Militant uprising}}}}
+{{Canonicity|Canon}}
+{{Heraldry
+| Leftimage  = Faith of the Seven.svg
+| Leftlink   = Faith of the Seven
+| Rightimage = Faith Militant.svg
+| Rightlink  = Faith Militant
+}}
+{{Character
+| Title       = High Septon
+| Type        = Militant
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[Faith Militant]]
+| Titles      = [[High Septon]]
+| Predecessor = 
+| Successor   = [[High Septon (Maegor)|Pater]]
+| AKA         = 
+| Culture     = [[Andals|Andal]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|One morning, Maegor was found dead on the Iron Throne. No one knows how. Maegor's cruelty died with him. His successor saw the wisdom of a united crown and faith, and his Hand reached an accord with the High Septon. As long as the Iron Throne defended the Faith, the Faith would put aside its own swords... and its condemnation of the Targaryens. Perhaps the High Septon felt he had no course but compromise.|The [[High Sparrow]]|The Faith Militant}}
+This '''[[High Septon]]''' initiated the [[Faith Militant uprising]] against [[House Targaryen]].
+
+==Biography==
+This High Septon held the position during the reign of King [[Aenys Targaryen]].{{Ref|H&L502}}
+
+After [[Aegon I Targaryen]] conquered and united the [[Seven Kingdoms]] (except for [[Dorne]]) in [[Aegon's Conquest|his conquest]], the [[High Septon]] at the time - after much prayer - decided to accept his new reign, and personally anointed and crowned Aegon as [[Lord of the Seven Kingdoms]]. Yet while the Targaryens had nominally converted to the [[Faith of the Seven]], the dominant religion in [[Westeros]], they never wholly accepted it - specifically, the Faith's strict condemnation of [[incest]], which it held to be an abomination. The Targaryens had incestuously married brother to sister for generations (whenever possible) to "keep the bloodline pure", in the custom of their [[Valyrians|Valyrian]] ancestors. For that matter, Aegon I broke not only the Faith's rules against incest, but its rules against [[Marriage|polygamy]], as he was married to ''both'' of his sisters at the same time: Queen [[Visenya Targaryen|Visenya]] and Queen [[Rhaenys Targaryen (sister of Aegon I)|Rhaenys]].{{Ref|H&L502}}
+
+[[File:HL5 Marriage of Aenys's children to each other.png|thumb|180x180px|The marriage of Aenys's son and heir Aegon to his sister Rhaena sparked the uprising.]]
+The Faith wasn't in much position to challenge the victorious Targaryen army after the Conquest or their massive [[dragon]]s, but Aegon I was wise enough to tread lightly with the Faith: both sides tacitly agreed that the Targaryens' incestuous marriages were a relic of their past, which would soon fade. Aegon I didn't intend for future generations of his new dynasty to continue to have incestuous marriages, and in return, the Faith didn't press the matter for the remainder of his life. Aegon I eventually died and was succeeded by his elder son, [[Aenys Targaryen|Aenys I Targaryen]], his only child by his sister-wife Rhaenys.{{Ref|H&L502}}
+
+To the surprise of all, however, later in his reign King Aenys tactlessly wed his daughter to his own son. The incestuous marriage of Princess [[Rhaena Targaryen (daughter of Aenys)|Rhaena]] and Prince [[Aegon Targaryen (son of Aenys)|Aegon]] broke the Targaryens' prior promise to the Faith, which could stand the abomination no longer. The new High Septon led the denunciation of the Targaryens, and the military order of the Faith of the Seven, the [[Faith Militant]], rose up in open revolt.{{Ref|H&L502}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, he was the High Septon during the reigns of [[Aenys Targaryen]] and [[Maegor Targaryen]]. At the height of the Faith Militant uprising, before Maegor retook King's Landing, this High Septon was functionally the ruler of the Seven Kingdoms for some months - foreign officials such as from the [[Iron Bank of Braavos]], when asking for the king of the realm to treat with, were told to seek out the High Septon and not Aenys.
+
+He died mysteriously in 44 AC, though his death and the election of a new more passive High Septon did not end the uprising. Many think that the High Septon was actually [[poison]]ed, probably by Maegor's agents - though some suspect that it was actually Morgan Hightower, because Maegor was on the verge of destroying Oldtown but the High Septon would never yield to him, even if it meant nothing would be left of the city, its people, and its knowledge but ash. Evidence supporting this theory is that Morgan Hightower was the ''only'' member of the Warrior's Sons that Maegor ever pardoned.
+
+==Appearances==
+*{{H&L|The Faith Militant}} {{Illustrated}}
+*{{C&R|The Last Dragons}} {{Mentioned}}
+*{{H&L|Maegor the Cruel}} {{Indirect}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|High Septon (Aenys I)}}
+
+<!--Categories-->
+[[Category:Faith Militant]]
+[[Category:High Septons|Faith Militant uprising]]
+[[Category:Individuals from Game of Thrones: Conquest & Rebellion: An Animated History of the Seven Kingdoms]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Westerosi]]
+
+<!--Languages-->
+[[de:Hoher Septon (Aufstand des Militärischen Ordens)]]
+[[es:Septón Supremo (Hightower)]]
+[[nl:Hoge Septon (Huis Hoogtoren)]]
+[[pt-br:Alto Septão (Revolta da Fé Militante)]]
+[[ru:Верховный септон (Восстание Святого воинства)]]
+[[zh:总主教(海塔尔)]]

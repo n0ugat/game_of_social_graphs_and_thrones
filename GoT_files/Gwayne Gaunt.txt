@@ -1,0 +1,94 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Leftimage  = House Gaunt.svg
+| Leftlink   = House Gaunt
+| Rightimage = Kingsguard.svg
+| Rightlink  = Kingsguard
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Targaryen
+| Image       = 
+| Birth       = In the [[Crownlands]]
+| Death       = In [[Duskendale]]<br>Killed by [[Symon Hollard]] during the [[Defiance of Duskendale]]
+| House       = [[House Gaunt|Gaunt]]
+| Affiliation = [[Kingsguard]]
+| Titles      = [[Knighthood|Ser]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Andals|Andal]]
+| Religion    = [[Faith of the Seven]]
+| Father      = [[Symon Gaunt]]
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+Ser '''Gwayne Gaunt''' was a [[Knighthood|knight]] of [[House Gaunt]] and sworn brother of the [[Kingsguard]] of [[Aerys II Targaryen]].
+
+==Biography==
+===Background===
+Gwayne was the thirdborn son of Lord [[Symon Gaunt]].
+
+He won the [[Tournament|Tourney]] of [[Brightwater Keep]], where he crowned Lady [[Alys Reyne]] as [[queen of love and beauty]]. At a tourney of [[Bitterbridge]], he unmasked a [[mystery knight]], revealing him as Ser [[Harlan Grandison]] of the [[Kingsguard]].
+
+He was appointed to the Kingsguard in his 20th year by [[Aerys II Targaryen]]. Later, he hunted and killed the [[Bandit Lords of the Marches]], freeing Lady and Lord [[House Dondarrion|Dondarrion]] from the [[Diamond Cave]].
+
+Gwayne broke the [[siege of White Harbor]] by the [[Sea Kings]], rescuing Lord [[Rickard Stark]] from drowning in the process.
+
+He once defended a lady from the advances of Lord [[Steffon Baratheon]], though he did not escalate the situation on account of Steffon's drunkenness.{{Ref|GOT806}}
+
+Ser Gwayne died during the [[Defiance of Duskendale]], being killed by Ser [[Symon Hollard]].<ref>http://wicnet.tumblr.com/post/84156684971/the-kingsguard-armor-and-the-book-of-brothers</ref>
+
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+Ser Gwayne's deeds and death are recorded in the ''[[Book of Brothers]]''.{{Ref|GOT401}}
+
+===[[Game of Thrones: Season 8|''Game of Thrones'': Season 8]]===
+More of Gwayne's deeds are revealed in the ''Book of Brothers''.{{Note|One paragraph, apparently dedicated to Ser Gwayne Gaunt, is erroneously placed in Ser Arthur Dayne's entry.}}{{Ref|GOT806}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, little is known of Ser Gwayne Gaunt, except that he died during the [[Defiance of Duskendale]] where he was killed by Ser Symon Hollard. Ser [[Barristan Selmy]] avenged his death.
+
+==Appearances==
+*{{GOT|Two Swords}} {{Text}}
+*{{H&L|The Defiance of Duskendale}} {{Illustrated}}
+*{{GOT|The Iron Throne}} {{Text}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Kingsguard of Aerys II Targaryen}}
+
+<!--Categories-->
+{{DEFAULTSORT:Gaunt, Gwayne}}
+[[Category:Crownlanders]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Kingsguard of Aerys II Targaryen]]
+[[Category:Knights]]
+[[Category:Members of House Gaunt|Gwayne Gaunt]]
+
+<!--Languages-->
+[[de:Gawan Hager]]
+[[es:Gwayne Gaunt]]
+[[fr:Gwayne Gaunt]]
+[[it:Gwayne Gaunt]]
+[[nl:Gwayn Grim]]
+[[ru:Гвейн Гонт]]
+[[zh:加尔温·戈特]]

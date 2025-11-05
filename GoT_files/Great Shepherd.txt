@@ -1,0 +1,39 @@
+{{Canonicity|Canon}}
+{{References}}
+{{Deity
+| Title    = {{PAGENAME}}
+| Theme    = Westeros
+| Image    = GreatShepherd.jpg
+| Type     = 
+| AKA      = 
+| Religion = [[Lhazareen]]
+| Symbol   = 
+| Family   = 
+| Aspects  = 
+| Avatars  = 
+}}
+[[File:Great Shepherd Altar.png|thumb|300px|[[Drogo]] at the altar of a temple in Lhazar devoted to the Great Shepherd, after a [[Dothraki]] raid.]]
+{{Quote|It was wrong of them to burn my temple. It angered the Great Shepherd.|Mirri Maz Duur|Fire and Blood}}
+The '''Great Shepherd'''{{Ref|GOT108}} is the deity worshiped by the [[Lhazareen]], mirroring the importance of shepherding in Lhazareen culture. Its worship is largely restricted to [[Lhazar]] itself. The worship of the Great Shepherd includes the presence of [[Godswife|godswives]], such as the ''[[maegi]]'' [[Mirri Maz Duur]].
+
+In the religion of the Great Shepherd, all men are considered part of a single flock, thus healers devoted to this god will cure the injuries of any man, even conquering enemies.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Religions}}
+
+<!--Categories-->
+[[Category:Deities]]
+[[Category:Lhazareen culture]]
+
+<!--Languages-->
+[[de:Großer Hirte]]
+[[pl:Wielki Pasterz]]
+[[pt-br:Grande Pastor]]
+[[ru:Великий Пастух]]
+[[uk:Великий Пастух]]

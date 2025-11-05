@@ -1,0 +1,61 @@
+{{Tab (House of the Dragon)}}
+{{Canonicity|Canon}}
+{{Subpage|HOTD}}
+{{References}}
+{{House
+| Title     = House Arryn
+| Type      = Arryn
+| Image     = House Arryn.svg
+| Arms      = A white falcon flying over a crescent moon, within a white circle, on dark blue
+| Words     = "As High as Honor"
+| Titles    = [[Defender of the Vale]]<br>[[Warden of the East]]<br>[[King of the Mountain and the Vale]] {{C|pre-[[Aegon's Conquest]]}}
+| Seat      = [[Eyrie]]
+| Region    = [[Vale of Arryn]]
+| Head      = [[Jeyne Arryn]]
+| Heir      = 
+| Overlords = [[House Targaryen/House of the Dragon|House Targaryen]]
+| Vassals   = [[House Belmore]]<br>[[House Corbray]]<br>[[House Egen]]<br>[[House Hunter]]<br>[[House Royce]]<br>[[House Waynwood]]
+| Religion  = [[Faith of the Seven]]
+| Cadets    = 
+| Founded   = [[Coming of the Andals]]<br>by {[[Artys Arryn]]}
+| Died      = 
+| Weapon    = 
+}}
+'''House Arryn'''{{Ref|GOT604}} of the [[Eyrie]] is one of the [[Great House]]s of [[Westeros]], and is one of the oldest dynasties of the [[Seven Kingdoms]]. Their seat is the Eyrie, a castle on a shoulder of the [[Giant's Lance]], from where they rule over their domain, the [[Vale of Arryn]].
+
+==Members==
+*Lady [[Jeyne Arryn]], [[Defender of the Vale]], [[Warden of the East|Wardeness of the East]].
+*Princess {[[Daella Targaryen]]}, the wife of the Defender of the Vale, Jeyne's cousin or uncle.
+**Queen {[[Aemma Arryn]]}, her daughter. First wife of King [[Viserys I Targaryen]]. Died of blood loss of a risky medical procedure during the birth of her son, [[Baelon Targaryen|Baelon]], at the end of her seventh pregnancy.
+***(See [[House Targaryen/House of the Dragon|House Targaryen]])
+
+==In the books==
+{{Main|House Arryn#In the books}}
+
+==Gallery==
+<gallery>
+Arryn guards.jpg|House Arryn guards in the Eyrie, wearing Arryn badges with their armor. 
+2x7 Jeyne Arryn Still.jpg|House Arryn guards flanking [[Jeyne Arryn]]. 
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|House Arryn}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{House Arryn/House of the Dragon}}
+{{Great Houses of Westeros/House of the Dragon}}
+{{Houses from the Vale of Arryn/House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Arryn, House}}
+[[Category:Great Houses]]
+[[Category:House Arryn| ]]
+[[Category:Houses from the Vale of Arryn]]
+[[Category:Houses of Andal origin]]
+[[Category:Royal houses]]
+
+<!--Languages-->
+[[ru:Аррены/Дом Дракона]]

@@ -1,0 +1,97 @@
+{{Canonicity|Canon}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Stark
+| Image     = House Cerwyn.svg
+| Arms      = Argent, a labrys of the field hafted sable <br> {{C|A black-hafted double-headed silver axe on a silver field}}
+| Words     = 
+| Titles    = 
+| Seat      = [[Castle Cerwyn]]
+| Region    = [[North]]
+| Head      = Lord [[Cley Cerwyn]]
+| Heir      = 
+| Overlords = [[House Stark]]<br>{[[House Bolton]]} {{C|[[300 AC|300]]{{Dateref|Game of Thrones: Season 3}}-[[303 AC]]}}{{Dateref|Game of Thrones: Season 6}}
+| Vassals   = 
+| Religion  = [[Old Gods]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+{{Quote|Lord Cerwyn refused to pay. He said the Warden of the North would always be a Stark, and he’d be damned if he’d kiss a traitor’s boot...I flayed him living, along with his wife and brother.  Made his son watch...The ''new'' Lord Cerwyn paid his taxes.  |[[Ramsay Bolton]]|High Sparrow (episode)}}
+'''House Cerwyn'''{{Ref|GOT605}} of Cerwyn is a vassal house that holds fealty to [[House Stark]] of [[Winterfell]]. Their seat, [[Castle Cerwyn]], is located east of the [[Kingsroad]], south of Winterfell.
+
+House Cerwyn's [[heraldry]] is a battle-axe on silver.
+
+==History==
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+[[File:Flayed Cerwyn.png|thumb|Medger Cerwyn is flayed alive by Ramsay Bolton.]]
+[[Ramsay Bolton]] kills Lord [[Medger Cerwyn]], alongside his wife and brother, for remaining loyal to the Starks. Medger's son Cley succeeds his father as Lord Cerwyn.<ref>"[[High Sparrow (episode)|High Sparrow]]"</ref>
+
+===[[Game of Thrones: Season 6|''Game of Thrones'': Season 6]]===
+While making plans to reclaim the North, [[Jon Snow]] lists the Cerwyns as one of the houses that have not yet declared for the Boltons.<ref>"[[The Door]]"</ref>
+
+After the [[Battle of the Bastards|Starks' victory over the Boltons]], House Cerwyn is among the northern houses that declare Jon as the new [[King in the North]].<ref>"[[The Winds of Winter]]"</ref>
+
+==Members==
+*Lord {[[Medger Cerwyn]]}, Lord of Castle Cerwyn. The former head of the family. Flayed alive by [[Ramsay Bolton]].
+**{Lady Cerwyn}, his wife. Flayed alive by Ramsay Bolton.
+***Lord [[Cley Cerwyn]], their son and successor. Lord of Castle Cerwyn and current head of the family.
+* {Lord Cerwyn's brother}. Flayed alive by Ramsay Bolton.
+
+==Family tree==
+{{Cerwyn tree}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, House Cerwyn is one of closest bannermen to the Starks. Castle Cerwyn being just a half day's ride from Winterfell.
+
+Following the deaths of Lord Medger Cerwyn and his son Cley, Lady Jonelle, past thirty, swears fealty to the new Warden of the North, Lord Roose Bolton. Cerwyn men are present at Winterfell for the wedding of Ramsay Bolton.
+
+===Members===
+*Lord {Medger Cerwyn}, Lord of Cerwyn. Taken captive by the Lannisters at the [[battle on the Green Fork]], and later died of his injuries at [[Harrenhal]].
+**Lady Jonella Cerwyn, his daughter. A homely maid, past thirty.
+**Lord {Cley Cerwyn}, his son. Killed by the Boltons during the [[Sack of Winterfell]].
+
+The Cerwyn [[Heraldry|heraldry]] is slightly different in the TV series. In the novels, it is a black battle-axe on a white background. In the TV series, it is a silver-bladed battle-axe with a black shaft, on a grey background.
+
+Cerwyn bannerman Ser Kyle Condon was in command of one of the only Northern armies that may have survived after the [[Red Wedding]] - not counting the Stark-loyal River Lord houses such as the Tullys. When Roose Bolton marched the eastern half of the Stark army back to the Twins, he intentionally advanced slow enough to allow [[Gregor Clegane]] to fall on his rear guard in the Battle of [[Ruby Ford]] - intentionally sending Stark loyalists on suicide missions while leaving his own Bolton forces unblooded and intact. After crossing the Trident, his remaining army consisted of around 3,500 Bolton men, and 600 men from other Northern Houses. Not wanting these remaining Stark-loyal men to interfere in the betrayal at the Twins, he left them to command the northern bank of the Trident, under the command of Ser Kyle Condon and Ronnel Stout (the Stouts being bannermen of [[House Dustin]]). Oddly, no mention at all was made afterward of what happened to Kyle Condon and his small army detachment, even though they were not present at the Red Wedding.
+
+In ''A Dance with Dragons'', following the [[fight by Deepwood Motte]], surviving Cerwyn soldiers from the earlier siege of Winterfell join Stannis in [[Battle in the ice#In the books|his campaign against the Boltons]] - though it is unclear if Lady Jonelle has openly switched sides as the [[House Mormont|Mormonts]] and [[House Glover|Glovers]] did.
+
+==Gallery==
+<gallery>
+House Cerwyn banner.jpg|The banner of House Cerwyn at the Stark camp in "[[Fire and Blood]]".
+Cerwyn man1x08.jpg|A man of House Cerwyn in "[[The Pointy End]]"
+Cerwyn heraldry in episode guide.png|House Cerwyn heraldry, from the HBO in-episode guide.
+File:Cerwyn soldier.png|A Cerwyn soldier.
+</gallery>
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{House Cerwyn}}
+{{Houses from the North}}
+
+<!--Categories-->
+{{DEFAULTSORT:Cerwyn, House}}
+[[Category:House Cerwyn| ]]
+[[Category:Houses from the North]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[de:Haus Cerwyn]]
+[[es:Casa Cerwyn]]
+[[fr:Maison Cerwyn]]
+[[it:Casa Cerwyn]]
+[[nl:Huis Cerwyn]]
+[[pl:Ród Cerwyn]]
+[[pt-br:Casa Cerwyn]]
+[[ru:Сервины]]
+[[zh:赛文家族]]

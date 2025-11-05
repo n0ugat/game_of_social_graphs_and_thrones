@@ -1,0 +1,53 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Bronn
+| Image     = House Blackbar.svg
+| Arms      = Argent, a fess sable <br> {{C|A black horizontal bar on a silver field}}
+| Words     = 
+| Titles    = 
+| Seat      = [[Bandallon]]
+| Region    = [[Reach]]
+| Head      = 
+| Heir      = 
+| Overlords = {[[House Tyrell]]}<br>[[Bronn's house]]
+| Vassals   = 
+| Religion  = [[Faith of the Seven]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Blackbar'''{{Con|F&B}} of [[Bandallon]] is a [[noble house]] of the [[Reach]]. Their sigil displays a black fess on a silver field.<ref>[[:File:HotD Far East Map.jpg]]</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, House Blackbar is part of [[Renly Baratheon]]'s army during the [[War of the Five Kings]].{{Bookref|ACOK|31}}
+
+===Known members===
+*Lord Blackbar, hosted King [[Jaehaerys I Targaryen]] at Bandallon in 89 AC.{{Bookref|F&B|11}}
+**His daughters, the youngest of whom attempted to seduce King Jaehaerys.{{Bookref|F&B|11}}
+*Ser Elwood Blackbar, a participant in the tourney at [[Ashford]] Meadow in 209 AC.{{Bookref|THKGN}}
+*Ser Leo Blackbar, a knight.{{Bookref|ASOS|Appendix}}
+**Olene Tyrell, his wife.{{Bookref|ASOS|Appendix}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Houses from the Reach}}
+
+<!--Categories-->
+{{DEFAULTSORT:Blackbar, House}}
+[[Category:House Blackbar| ]]
+[[Category:Houses from the Reach]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[ru:Блэкбары]]

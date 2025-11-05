@@ -1,0 +1,60 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Reed.svg
+| Link  = House Reed
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Stark
+| Image        =
+<gallery>
+Greywater Watch moves.png|Appearance
+Greywater Watch.png|Location
+</gallery>
+| Type         = Castle
+| Status       = 
+| Location     = The [[Neck]], the [[North]], [[Westeros]]
+| Population   = 
+| Rulers       = [[House Reed]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Old Gods]]
+| Places       = 
+| Founded      = 
+}}
+[[File:Riverlands map.jpg|thumb|right|A map showing Greywater Watch with an incorrect name.]]
+{{Quote|Our home, Greywater Watch, is no castle you've ever seen. And seeing it once does not mean you'll ever find it again. For Greywater Watch... moves.|Meera Reed|House Reed (short)}}
+'''Greywater Watch'''{{Ref|H&L303}} is a castle in the [[Neck]]. It is ruled by [[House Reed]], a vassal house holding fealty to [[House Stark]] of [[Winterfell]]. Greywater Watch is nigh-untraceable because it moves.
+
+It is the home of [[Jojen Reed|Jojen]] and [[Meera Reed]] and their father, Lord [[Howland Reed]]. It is the southernmost stronghold in the [[North]], and as such its rulers have a longstanding enmity with [[House Frey]], who rule the area of the [[Riverlands]] on the southern side of the Neck.
+
+In a background conversation between [[Bran Stark]] and Jojen, it is mentioned that Greywater Watch is the seat of House Reed and lies in the swamplands.<ref>"[[The Bear and the Maiden Fair (episode)|The Bear and the Maiden Fair]]"</ref> Greywater Watch can also be seen in a large table map, which shows Greywater Watch southwest of [[White Harbor]], during a war council held in Winterfell.<ref>"[[The Last of the Starks]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Greywater Watch is the seat of House Reed, one of the most loyal vassals of the Starks.
+
+In ''A Storm of Swords'', [[Robb Stark]] sends [[Maege Mormont]] and [[Galbart Glover]] to Greywater Watch, aboard Lord [[Jason Mallister]]'s ships, in order to ask for Howland Reed's assistance against the [[ironborn]]. Lord Jason points out it will be very difficult to find the castle among the swamps, also because it moves around. Robb tells him to fly the Starks' banner, and the crannogmen will find him.
+
+According to ''[[The World of Ice & Fire]]'', no raven or enemy can reach Greywater Watch, because it is said to be constantly moving.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Reed}}
+{{North}}
+
+<!--Categories-->
+[[Category:Castles of the North]]
+[[Category:House Reed]]
+[[Category:Neck]]
+
+<!--Languages-->
+[[de:Grauwasser Wacht]]
+[[fr:Fort-Griseaux]]
+[[pl:Strażnica nad Szarą Wodą]]
+[[ru:Сероводный Дозор]]
+[[zh:灰水望]]

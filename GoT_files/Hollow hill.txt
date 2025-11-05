@@ -1,0 +1,48 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Outlaw
+| Image        = Hollow-Hill-3x04.jpg
+| Type         = 
+| Status       = 
+| Location     = The [[Riverlands]], [[Westeros]]
+| Population   = 
+| Rulers       = [[Brotherhood Without Banners]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Lord of Light]]
+| Places       = 
+| Founded      = 
+}}
+{{Dialogue a-b|Gendry|What is this place?|Thoros|Somewhere neither wolves nor lions come prowling.|Gendry and Thoros|And Now His Watch Is Ended}}
+The '''hollow hill'''{{Con|ASOIAF}} is a sprawling underground complex of caves and tunnels located somewhere in the [[Riverlands]]. It is adopted by the [[Brotherhood Without Banners]], and used as their base of operations during the [[War of the Five Kings]].
+
+==History==
+===[[Game of Thrones: Season 3|''Game of Thrones'': Season 3]]===
+[[Arya Stark|Arya]], [[Gendry Baratheon|Gendry]], and [[Sandor Clegane]] are taken to the hollow hill, following the latter's capture by the [[Brotherhood Without Banners]]. There, the trio are introduced to the Brotherhood's commander: Lord [[Beric Dondarrion]], who sentences Clegane to [[trial by combat]].{{Ref|GOT304}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the hollow hill also serves as the headquarters of the Brotherhood Without Banners. For this reason, some members of the Brotherhood refer to themselves as "the knights of hollow hill."
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Riverlands}}
+
+<!--Categories-->
+[[Category:Brotherhood Without Banners]]
+[[Category:Hills]]
+[[Category:Riverlands]]
+
+<!--Languages-->
+[[de:Hohler Berg]]
+[[pt-br:Monte Oco]]
+[[ru:Полый холм]]

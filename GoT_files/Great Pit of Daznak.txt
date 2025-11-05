@@ -1,0 +1,56 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Targaryen
+| Image        = Meereen Daznak's Pit 5x09.jpg
+| Type         = [[Fighting pit]]
+| Status       = 
+| Location     = [[Meereen]], [[Slaver's Bay]]
+| Population   = 
+| Rulers       = [[Great Masters]] {{C|formerly}}<br>[[House Targaryen]] {{C|formerly}}<br>[[Second Sons]]
+| Institutions = 
+| Military     = 
+| Religion     = 
+| Places       = 
+| Founded      = 
+}}
+{{Quote|Many worthy fighters have died trying to make it to the Great Games. When most of you worthless scum join them in death this afternoon, it will represent a significant rise in your station. But if you do happen to triumph here, you will fight at the Great Pit of Daznak itself in front of the queen. So whatever happens, the Gods have smiled upon you today. This is the day your lives actually start to mean something.|[[Yezzan zo Qaggaz]] to his pit fighting "servants"|The Gift}}
+The '''Great Pit of Daznak'''{{Ref|GOT507}} is the preeminent [[fighting pit]] of [[Meereen]], the greatest of the three city-states of [[Slaver's Bay]]. It is one of the arenas in which the [[Fighting pit#Great Games|Great Games]] are celebrated, the city's traditional fighting season.
+
+==History==
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+During [[Daenerys Targaryen]]'s [[liberation of Slaver's Bay]], she defeats [[Yunkai]] before marching on [[Meereen]], where she establishes herself as Queen.<ref>"[[The Rains of Castamere (episode)|The Rains of Castamere]]"</ref><ref>"[[Mhysa]]"</ref><ref>"[[Oathkeeper (episode)|Oathkeeper]]"</ref> The fighting pits are abolished along with slavery itself, as the pit fighters are all slaves. However, the [[Wise Masters]] of Yunkai return to power and enslave all their freedmen, so Daenerys sends a [[Great Masters|Great Master]] at her service, [[Hizdahr zo Loraq]], to negotiate with the Wise Masters, and [[Daario Naharis]] and his [[Second Sons]] to serve as a threat.<ref>"[[First of His Name]]"</ref><ref>"[[Mockingbird]]"</ref> When Hizdahr and Daario return they report that their negotiations were successful: the Wise Masters will comply with her abolition of slavery and set up a ruling council of former slaveholders and freedman, as long as Daenerys reopens the fighting pits in Meereen. At first, Daenerys cannot tolerate this concession, despite repeated appeals by Hizdahr and Daario.<ref>"[[The Wars To Come]]"</ref><ref>"[[Sons of the Harpy (episode)|Sons of the Harpy]]"</ref> However, a rise of the attacks by the local insurgent group of the [[Sons of the Harpy]], which results in the death of Ser [[Barristan Selmy]], makes Daenerys reconsider her position and decide to reopen the fighting pits, as well as betrothing herself to [[Hizdahr zo Loraq]].<ref>"[[Kill the Boy]]"</ref>
+
+Just outside [[Meereen]], [[Tyrion Lannister]] and [[Jorah Mormont]] are sold into indentured servitude —actually a thinly veiled form of slavery— and their new master [[Yezzan zo Qaggaz|Yezzan]] brings them and his other servants to the lower fighting pits to test them, telling them those who survive will get to fight at the Great Pit of Daznak in front of the Queen.<ref>"[[The Gift]]"</ref>
+
+On the first day of the Great Games, the Sons of the Harpy come out of hiding and stage an attack against Daenerys and those loyal to her. They are unsuccessful in the attempt on her life as [[Drogon]] appears to defend her, attacking the Sons and Daenerys escapes on the dragon's back, the first dragonrider in over a century. However, her betrothed [[Hizdahr zo Loraq]] dies in the attack.<ref>"[[The Dance of Dragons (episode)|The Dance of Dragons]]"</ref>
+
+==In the books==
+In ''[[A Song of Ice and Fire]]'', Daznak's Pit, or the Great Pit of Daznak, is the greatest of the fighting pits in Meereen. At the pit's entrance the Gates of Fate are erected: bronze statues of two warriors fighting each other, one wielding an axe and the other a sword, forming an archway into the arena. The bricks near the entrance bear the names of all the gladiators who have died in the arena. The seating areas are separated into different tiers, differentiated by colors: the bottom tiers, in red and orange colors, are for Great Masters, while those furthest away from the arena, in black and purple, are for the poor and the slaves of Meereen.
+
+The 163 Great Masters who Daenerys crucifies in retaliation for the 163 slave children the masters killed are displayed in Daznak's Pit, not along the approach to the Great Pyramid as in the series. She bans the fighting pits after conquering the city, and reopens them after Hizdahr's assurances that it will unite the people and put a stop to the attacks by the Sons of the Harpy.
+
+==Gallery==
+<gallery>
+File:GatesOfFate.jpg|The Gates of Fate mark the entrance to the Great Pit of Daznak
+File:Dance of dragons (ep).png|The royal box for Daenerys.
+File:Daario-s5e9.jpg
+File:Daario-s5e9still.png
+File:Game-of-thrones-01.jpg|Drogon and Dany in the pit.
+File:Jorah-s5e8.jpg
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Daznak's Pit}}
+
+<!--Categories-->
+[[Category:Fighting pits]]
+[[Category:Meereen]]
+
+<!--Languages-->
+[[de:Daznaks Arena]]
+[[fr:Arène de Daznak]]
+[[ru:Великая яма Дазнака]]

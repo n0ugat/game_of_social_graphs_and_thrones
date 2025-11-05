@@ -1,0 +1,52 @@
+{{DISPLAYTITLE:Green ''khal''}}
+{{Canonicity|Canon}}
+{{Image}}
+{{Character
+| Title       = Green ''khal''
+| Type        = Dothraki
+| Image       = 
+| Birth       = 
+| Death       = [[303 AC]]{{Dateref|Game of Thrones: Season 6}}<br>The [[Temple of the Dosh Khaleen|Temple of the ''Dosh Khaleen'']], [[Vaes Dothrak]]{{Ref|GOT604}}
+| House       = 
+| Affiliation = 
+| Titles      = ''[[Khal]]''
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Dothraki]]
+| Religion    = [[Great Stallion]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 6|6]]
+| Appearances = "[[Book of the Stranger]]"
+| First       = 
+| Last        = 
+| DeathEp     = "Book of the Stranger"
+| Actor       = Unidentified
+}}
+{{Quote|Your horses trampled my man Iggo. He was better at healing horses than any man in my khalasar.|The green ''khal''|Book of the Stranger}}
+The '''green ''khal'''''<ref>https://wiki.languageinvention.com/index.php?title=Season_6_Game_of_Thrones_Dialogue</ref> was a [[Dothraki]] ''[[khal]]''.
+
+==Biography==
+===[[Game of Thrones: Season 6|''Game of Thrones'': Season 6]]===
+He is part of the ''[[Khalar Vezhven]]'' assembled at the [[Temple of the Dosh Khaleen|Temple of the ''Dosh Khaleen'']] to decide the fate of [[Daenerys Targaryen|Daenerys]]. He accuses another ''khal'' of killing [[Iggo]], a member of his ''[[khalasar]]'' (who was actually killed by [[Daario Naharis|Daario]]). He is soon after killed when Daenerys sets the temple on fire.{{Ref|GOT604}}
+
+==Appearances==
+*{{GOT|Book of the Stranger}}
+*{{GOT|The Iron Throne}} {{Indirect}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Categories-->
+[[Category:Dothraki]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Khali]]

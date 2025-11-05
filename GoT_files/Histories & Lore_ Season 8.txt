@@ -1,0 +1,76 @@
+{{DISPLAYTITLE:''Histories & Lore'': Season 8}}
+{{PureConjecture}}
+{{Micro-season
+| Season    = 8
+| Type      = Lore
+| Image     = 
+| Shorts    = 6{{Boxref|GOT8}}
+| Premiere  = "[[King's Landing (short)|King's Landing]]"{{Boxref|GOT8}}
+| Finale    = "[[Maegor the Cruel (short)|Maegor the Cruel]]"{{Boxref|GOT8}}
+| First     = December 3, 2019{{Webref|name=Blu-ray |author=Dan Selcke |date=November 25, 2019 |url=https://winteriscoming.net/2019/11/25/new-history-and-lore-videos-explore-maegor-the-cruel-the-blackfyre-rebellion-and-more/ |title=New History and Lore videos explore Maegor the Cruel, the Blackfyre rebellion, and more |website=Winter is Coming |access-date=December 15, 2023 }}
+| Final     = 
+| Runtime   = 3{{Ref|H&L801}}-6 minutes{{Ref|H&L802}} {{C|per short}}
+| Featuring = [[Conleth Hill]]{{Ref|H&L801}}<br>[[Pilou Asbæk]]{{Ref|H&L802}}<br>[[Nikolaj Coster-Waldau]]{{Ref|H&L802}}<br>[[Kristofer Hivju]]{{Ref|H&L804}}
+| Writer    = [[Dave Hill]]{{Webref|name=Hill |author=Vanessa Cole |date=July 22, 2017 |url=https://web.archive.org/web/20201111213241/https://watchersonthewall.com/game-thrones-writer-dave-hill-gives-behind-scenes-look-creative-process/ |title=Game of Thrones writer Dave Hill gives a behind the scenes look at the creative process |website=Watchers on the Wall |access-date=December 15, 2023 }}
+| Director  = 
+| Previous  = [[Histories & Lore: Season 7|Season 7]]{{Boxref|GOT7}}
+| Next      = 
+}}
+'''''Histories & Lore'': Season 8''' is the eighth and final season of ''[[Histories & Lore]]''. It consists of six shorts. It was released on December 3, 2019 in ''[[Game of Thrones: The Complete Eighth Season]]''.{{Boxref|GOT8}}
+
+==Premise==
+{{Premise|H&L8}}
+
+==Shorts==
+{| {{Prettytable}}
+! Short
+! Image
+! Title
+! Release date
+|-
+| style="text-align: center;" | 1{{Boxref|GOT8}}
+| [[File:H&L801.png|150px]]
+| "[[King's Landing (short)|King's Landing]]"{{Boxref|GOT8}}
+| rowspan="6" | December 3, 2019<ref name="Blu-ray" />
+|-
+| style="text-align: center;" | 2{{Boxref|GOT8}}
+| [[File:H&L802.png|150px]]
+| "[[The Greyjoy Rebellion]]"{{Boxref|GOT8}}
+|-
+| style="text-align: center;" | 3{{Boxref|GOT8}}
+| [[File:H&L803.png|150px]]
+| "[[The Blackfyres]]"{{Boxref|GOT8}}
+|-
+| style="text-align: center;" | 4{{Boxref|GOT8}}
+| [[File:H&L804.png|150px]]
+| "[[The South]]"{{Boxref|GOT8}}
+|-
+| style="text-align: center;" | 5{{Boxref|GOT8}}
+| [[File:H&L805.png|150px]]
+| "[[The Defiance of Duskendale]]"{{Boxref|GOT8}}
+|-
+| style="text-align: center;" | 6{{Boxref|GOT8}}
+| [[File:H&L806.png|150px]]
+| "[[Maegor the Cruel (short)|Maegor the Cruel]]"{{Boxref|GOT8}}
+|}
+
+==Cast==
+*[[Conleth Hill]] as [[Varys]] {{C|4 shorts}}
+*[[Pilou Asbæk]] as [[Euron Greyjoy]] {{C|"[[The Greyjoy Rebellion]]"}}
+*[[Nikolaj Coster-Waldau]] as [[Jaime Lannister]] {{C|"The Greyjoy Rebellion"}}
+*[[Kristofer Hivju]] as [[Tormund]] {{C|"[[The South]]"}}
+
+==Crew==
+*[[Dave Hill]]: writer
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{Histories & Lore}}
+{{Game of Thrones}}
+
+<!--Categories-->
+[[Category:Histories & Lore: Season 8| ]]
+[[Category:Seasons of Histories & Lore|8]]
+[[Category:Seasons released in 2019|C.03]]

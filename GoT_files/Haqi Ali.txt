@@ -1,0 +1,35 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Haqi Ali.jpg
+| Birth   = 1969 {{Age|1969|12|31}}<br>Birmingham, England
+| Death   = 
+| Role    = [[Kelvyn]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = 2 episodes {{Below|Credits}}
+| First   = "[[Driftmark (episode)|Driftmark]]"
+| Last    = 
+}}
+'''Haqi Ali''' (born 1969) is an English actor, director, producer, screenwriter, and comedian.
+
+In ''[[House of the Dragon]]'', he portrayed Maester [[Kelvyn]] in at least two [[House of the Dragon: Season 1|Season 1]] episodes directed by [[Geeta Vasant Patel]] and [[Miguel Sapochnik]].<ref>https://www.spotlight.com/9814-6726-2265</ref>
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1|||||||yes|yes}}
+
+==See also==
+*{{IMDb|#=1625218}}
+*{{Instagram|#=haqiali1969}}
+*{{Linkedin|#=/in/haqiali}}
+*{{Twitter|#=haqiali}}
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Ali, Haqi}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Haqi Ali]]

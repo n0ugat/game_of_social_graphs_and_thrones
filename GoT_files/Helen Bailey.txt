@@ -1,0 +1,35 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Helen Steinway Bailey.jpg
+| Birth   = 
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[Game of Thrones]]''<br>''[[House of the Dragon]]''
+| Season  = ''Game of Thrones'':<br>[[Game of Thrones: Season 4|4]]<br>''House of the Dragon'':<br>[[House of the Dragon: Season 2|2]]
+| Credits = 2 episodes {{Below|Credits}}
+| First   = "[[The Children]]"
+| Last    = 
+}}
+'''Helen Steinway Bailey''' is a stuntwoman and actress.
+
+In ''[[Game of Thrones]]'', she was a stunt performer in the [[Game of Thrones: Season 4|fourth season]] episode "[[The Children]]".
+
+In ''[[House of the Dragon]]'', she was a stunt performer in the [[House of the Dragon: Season 2|second season]] episode "[[The Queen Who Ever Was]]".
+
+==Credits==
+===Stunts===
+====''[[Game of Thrones]]''====
+{{Game of Thrones: Season 4||||||||||yes}}
+
+====''[[House of the Dragon]]''====
+{{House of the Dragon: Season 2||||||||yes}}
+
+==See also==
+*{{IMDb
+|# = 3254607}}
+*{{Facebook
+|# = helen.s.bailey.1}}
+{{DEFAULTSORT:Bailey, Helen Steinway}}
+[[Category:Stunt performers of Game of Thrones]]
+[[Category:Stunt performers of House of the Dragon]]

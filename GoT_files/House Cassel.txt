@@ -1,0 +1,67 @@
+{{Canonicity|Canon}}
+{{References}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Stark
+| Image     = 
+| Arms      = 
+| Words     = 
+| Titles    = 
+| Seat      = 
+| Region    = [[North]]
+| Head      = 
+| Heir      = 
+| Overlords = [[House Stark]]
+| Vassals   = 
+| Religion  = [[Old Gods]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Cassel'''{{Guideref|Viewer's Guide}}{{Note|Jory and Rodrik's surname is Cassel.}} is a [[Noble house|vassal house]] from the [[North]]. It holds fealty to [[House Stark]] of [[Winterfell]].
+
+==Known members==
+*Ser {[[Rodrik Cassel]]}, [[master-at-arms]] of [[Winterfell]]. [[Execution|Executed]] by [[Theon Greyjoy]] after the [[capture of Winterfell]].
+*{[[Jory Cassel]]}, nephew of Rodrik, [[captain of the guard]] for [[Eddard Stark]]. Killed in a [[Skirmish at Littlefinger's brothel|skirmish]] by [[Jaime Lannister]].
+
+==Family tree==
+{{Cassel tree}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, House Cassel is a lesser house in service of the Starks of Winterfell. Their sigil is ten white wolf heads, 4-3-2-1, on grey with a black border. Rodrik's older brother had four sons including Jory, but the other three did not live to adulthood. Rodrik himself was married three times but they gave him only daughters, and his last wife is also dead. Following Rodrik's death, the only surviving member of House Cassel is his daughter Beth, who was taken to the [[Dreadfort]] by [[Ramsay Bolton|Ramsay Snow]] following the [[Sack of Winterfell]], and her fate is unknown (his other daughters having previously died due to unrevealed circumstances).
+
+It is implied by their coat-of-arms that House Cassel was founded by Lonnel Snow, a [[bastard]] son of Lord Brandon Stark, who was in turn the tenth child of Lord [[Cregan Stark]], hence the reversed Stark colors and the ten wolf heads.
+
+===Members===
+*Ser {Rodrik Cassel}. Killed by Ramsay Snow.
+**Beth Cassel, his daughter. Taken to the [[Dreadfort]] by Ramsay Snow. Her fate is unknown.
+*{Martyn Cassel}, Rodrik's brother. Died at the [[Tower of Joy]] during [[Robert's Rebellion]].
+**{Jory Cassel}, Martyn's son. Killed by [[House Lannister|Lannister]] guardsmen.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Houses from the North}}
+
+<!--Categories-->
+{{DEFAULTSORT:Cassel, House}}
+[[Category:House Cassel| ]]
+[[Category:Houses from the North]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[de:Haus Cassel]]
+[[es:Casa Cassel]]
+[[fr:Maison Cassel]]
+[[pl:Ród Cassel]]
+[[pt-br:Casa Cassel]]
+[[ru:Кассели]]
+[[zh:凯索家族]]

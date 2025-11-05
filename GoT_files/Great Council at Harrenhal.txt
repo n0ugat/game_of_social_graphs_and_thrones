@@ -1,0 +1,111 @@
+{{Canonicity|Canon}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Dragon
+| Part          = 
+| Image         = Harrenhal Great Hall.png
+| Previous      = [[Faith Militant uprising]]<br>[[Jaehaerys Targaryen's uprising]]
+| Concurrent    = 
+| Next          = [[Heir's Tournament]]
+| Date          = [[101 AC]]{{Dateref|Great Council at Harrenhal}}
+| Place         = [[Harrenhal]], [[Riverlands]]
+| Outcome       = [[Viserys I Targaryen|Viserys Targaryen]] is chosen by the [[Lordship|lords]] of [[Westeros]] to succeed [[King of the Andals and the Rhoynar and the First Men|King]] [[Jaehaerys I Targaryen]]
+| Factions1     = '''Majority'''<br>{{COA|House Targaryen/House of the Dragon|i}} [[Viserys I Targaryen|Viserys Targaryen]]
+| Factions2     = '''Second'''<br>{{COA|House Velaryon|i}} [[Rhaenys Targaryen]]
+| Factions3     = '''Minor claims'''<br>{{COA|House Velaryon|i}} [[Laenor Velaryon]]<br>{{COA|House Targaryen/House of the Dragon|i}} [[Vaegon Targaryen]]<br>10 others
+| Factions4     = 
+| Leaders1      = 
+| Leaders2      = 
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = *Over 1,000 lords
+*{{COA|Order of Maesters|i}} [[Order of Maesters]]
+*{{COA|Faith of the Seven|i}} [[Faith of the Seven]]
+| Participants2 = 
+| Participants3 = 
+| participants4 = 
+| Casualties1   = 
+| Casualties2   = 
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Quote|The lords here assembled name Viserys of House Targaryen, son to Princess Alyssa and Prince Baelon, grandson of King Jaehaerys I Targaryen, Prince of Dragonstone and rightful heir to the Iron Throne.|An archmaester in a letter to King Jaehaerys|The Heirs of the Dragon}}
+The '''Great Council at Harrenhal'''{{Webref|name=WBD |author=Unknown author |date= Unknown date|url=https://press.wbd.com/us/bio/house-dragon-character-descriptions |title=House of the Dragon S1 <nowiki>|</nowiki> Character Descriptions |website=Warner Bros. Discovery |access-date=April 25, 2023 }} was the first [[Great Council]] held, convened to determine the heir to the [[Iron Throne]] in the final years of King [[Jaehaerys I Targaryen]], grandson of [[Aegon I Targaryen|Aegon the Conqueror]] in [[101 AC]]. Several claims were heard, the most prominent being Princess [[Rhaenys Targaryen]], only child of Jaehaerys's eldest son, Prince [[Aemon Targaryen]], and Prince [[Viserys I Targaryen|Viserys Targaryen]], the eldest son of Prince [[Baelon Targaryen (son of Jaehaerys I)|Baelon Targaryen]], the king's third son and most recently named heir. The council ultimately selected Viserys over Rhaenys to succeed Jaehaerys as his heir.
+
+==History==
+===Prelude===
+[[File:Harrenhal chest.png|thumb|300px|A chest containing the result is presented during the Great Council at Harrenhal.]]
+During the long reign of King [[Jaehaerys I Targaryen]], his initial heir was Prince [[Aemon Targaryen (son of Jaehaerys I)|Aemon Targaryen]], the king's eldest surviving son. Prince Aemon, however, died sometime during his reign, survived by his only daughter, Princess [[Rhaenys Targaryen]]. Jaehaerys would subsequently name his younger son,  Prince [[Baelon Targaryen (son of Jaehaerys I)|Baelon Targaryen]], over Rhaenys. However,   Baelon himself would unexpectedly die in [[101 AC]], leaving behind two sons: Prince [[Viserys I Targaryen|Viserys]] and Prince [[Daemon Targaryen|Daemon]]. Having reigned for 53 years and approaching the age of 70, Jaehaerys was suddenly left without a clear heir, leading to a succession crisis. To avoid a civil war, Jaehaerys called an unprecedented council to be held at [[Harrenhal]] in which every lord of Westeros, great or small, convened to decide the succession between Jaehaerys's grandchildren.[[File:King Jaehaerys I.png|thumb|The Old King oversees the result.]]
+
+===The Great Council===
+{{Quote|It is declared by all lords paramount and lords vassal of the Seven Kingdoms that Prince Viserys Targaryen be made Prince of Dragonstone.|Jaehaerys I Targaryen|The Heirs of the Dragon}}
+Over a thousand lords across the breadth of the [[Seven Kingdoms]] arrived at Harrenhal to vote on the succession. Fourteen claims were heard at the Great Council, but only two were truly considered, Princess Rhaenys, the king's eldest descendent, and Prince Viserys, the king's eldest male descendent. By the traditional primogeniture laws dictating succession in the [[Seven Kingdoms]], Rhaenys  had the stronger claim, by virtue of her being the only child of Jaehaerys's eldest son and that of her own son, [[Laenor Velaryon]], which her claim would pass on to. However, the assembled lords came to heavily favor the claim of Rhaneys's cousin, Prince Viserys, instead, by virtue of being “male proximity” and him being a part of an unbroken male line though his father, a situation not in line with traditional succession laws. Ultimately, Rhaenys was passed over by the lords for Viserys, who won the final vote by a wide margin.  King Jaehaerys I subsequently announced the results to the assembled lords, declaring Viserys as his new official heir and [[Prince of Dragonstone]].{{Ref|HOTD101}}
+===Aftermath=== 
+King Jaehaerys would reign for two more years before finally passing away in [[103 AC]] at the age of 69. Viserys subsequently succeeded him as the fifth king of the Seven Kingdoms.{{Ref|HOTD101}}
+
+The Great Council of 101 AC had significant ramifications regarding the laws of royal succession, a situation the Targaryen dynasty had not explicitly formalized following [[Aegon I Targaryen]]'s ascendancy after his [[Aegon's Conquest|conquest]]. The lords assembled had implicitly decreed that a female claimant could not supersede a male claimant, regardless of her place in the line of succession.{{Ref|HOTD101}}
+
+Despite the precedent established by the Great Council, it had no bearing on King Viserys's own controversial decision to name his only surviving daughter, Princess [[Rhaenyra Targaryen]], over his brother, Prince Daemon,  after he insulted the memory of his late [[Aemma Arryn|wife]] and [[Baelon Targaryen|son]] in [[112 AC]]. His decision would lead to a renewed and protracted succession crisis involving Rhaenyra and his first born son, [[Aegon II Targaryen|Aegon]], with his second wife, [[Alicent Hightower]]. His failure to solidify his daughters claim amongst other contributing events led to the outbreak of the Targaryen civil war known as the [[Dance of the Dragons]] between his eldest children following his own death in [[132 AC]].
+
+==Succession claimants==
+Since at least the [[Andal]] [[Coming of the Andals|invasion]] of [[Westeros]] 5,700 years ago, laws regarding the succession to a lord or king's seat have traditionally followed Andal policy of ''male-preference'' primogeniture. That is, a lord/lady's ''eldest son'' and his line supersede that of a ''younger daughter''. Furthermore, ''any sons'' and their line supersede that of a ''daughter'' and their line. Thus, a daughter may only succeed if, and only if, all her brothers have died and have no legitimate children. This form of succession was widely practiced throughout virtually all of Westeros for centuries, if not millennia, with slight variations to its execution. Of notable exception is [[Dorne]], who practice a policy of ''absolute'' primogeniture instead. Under this system, sex is irrelevant to the matters of succession, the eldest ''child'', whether male or female, will succeed to their parent's seat.
+
+The Great Council was tasked with determining which of the king's various descendants had the strongest claim to succeeding him. A total of fourteen were considered during the council's deliberations:
+
+*King [[Jaehaerys I Targaryen]], grandson of Aegon the Conqueror, had two sons who had children of their own: '''Aemon''' and '''Baelon'''.
+*Aemon, his eldest son, had one child, his daughter '''Rhaenys''', while Baelon, his second oldest son, had two children, his sons '''Viserys''' and '''Daemon''' (Viserys also had one child at the time, his daughter '''Rhaenyra''', as did Rhaenys, her son '''Laenor''').
+*By traditional Andal inheritance laws - male-preference primogeniture - Rhaenys should have been the heir following the death of her father, Aemon, whose title as [[Prince of Dragonstone]] should have legally passed to her as his heir. Jaehaerys, nevertheless, controversially passed her over by naming his younger son, Baelon, his heir instead. Despite this, Rhaenys had the strongest claim of those considered, as interpretation of inheritance laws would still follow that she is the king's rightful heir by being the only child of Jaehaerys's eldest son. By male-preference primogeniture, her claim would then pass to her son '''Laenor'''.
+*Instead, Rhaenys's first cousin Viserys claimed the throne based on "male proximity", with an unbroken male line through his father, Baelon (which ''is not'' a "traditional" inheritance law practiced by any group in Westeros). Viserys was also Baelon's eldest son, who at the time of his death, was the king's named heir and Prince of Dragonstone. As such, Baelon's title would also technically pass to him. By interpretation of male-preference primogeniture, Viserys's claim would be inferior to Rhaenys, as Baelon's line would not supersede his older brother, Aemon.
+*Rhaenys's son, '''Laenor''', was also a potential claimant, being the king's great-grandson through Aemon's line. Laenor's claim stems from being Aemon's eldest (and only) male descendant and the son of his heir, Rhaenys. If Laenor was named heir, Rhaenys would theoretically serve as regent for her son until he was of legal age to execute his duties as monarch. Laenor's claim, however, did not have as strong as support as his mother's and was rejected before the final vote.
+*The king's seventh child and fourth son, '''Vaegon''', was also considered a claimant. Of all the claims heard, Vaegon had the fourth strongest, as he would technically succeed following both Aemon and Baelon and their living descendants. Nevertheless, Vaegon's claim was not seriously considered for unspecified reasons and was also rejected before the final vote. (In ''[[Fire & Blood]]'', Vaegon was an archmaester serving at the [[Citadel]] and thus prohibited from assuming the [[Iron Throne]] by virtue of his vows as a maester. If this is true in the show, he would be similarly restrained from being named heir.)
+*Ten other claims were additionally heard at the Great Council, although none had any real support and thus were also rejected.
+
+{{Targaryen tree (House of the Dragon)}}
+
+==In the books==
+The Great Council of 101 AC was held after the sudden death of King Jaehaerys I's second son and current heir, Baelon Targaryen, from a burst appendix. It was held at the enormous, half-ruined castle Harrenhal because it was the only location big enough to fit such a large and unprecedented gathering of all the lords in Westeros.
+
+Jaehaerys's two eldest sons predeceased him, Aemon in 92 AC and Baelon in 101 AC, though both had children of their own (Jaehaerys had nine adult children in all but the others died young or were childless). Aemon and his wife Jocelyn Baratheon (sister of [[Boremund Baratheon]]) produced a single child, their daughter [[Rhaenys Targaryen|Rhaenys]]. Baelon and his sister-wife Alyssa had produced two surviving children: elder son [[Viserys I Targaryen|Viserys]] and younger son [[Daemon Targaryen|Daemon]]. Jaehaerys's younger daughter Daella did produce a fourth grandchild, [[Aemma Arryn]], but she was already married to her cousin Viserys.
+
+Aemon had been the acknowledged crown prince for years, but in 92 AC he died in a small skirmish with Myrish pirates from a crossbow bolt to the neck. According to the traditional inheritance law of primogeniture in Westeros, Rhaenys should have inherited her father's position as heir to the throne - but instead, Jaehaerys controversially named his second son Baelon as [[Prince of Dragonstone]] (the traditional title held by the official heir to the throne). Baelon had been his brother's great companion and avenged him by burning out the remaining pirates, and he had sat in on his father's [[Small Council]] with his brother for several years. He was brave, experienced, and very popular with the common folk as well. In contrast, Rhaenys was an 18 year old woman, only recently married to Lord [[Corlys Velaryon]] two years before, and pregnant with her first child. Rhaenys argued that even if she was to be passed over on account of her sex, her unborn son was being cheated out of his inheritance. Months after the decision was made, it turned out that Rhaenys gave birth to a daughter, [[Laena Velaryon]], though she later also produced a son, [[Laenor Velaryon]].
+
+Jaehaerys's exact reasons for passing over Rhaenys and her child were not stated. It's possible he feared naming an infant boy as heir would leave the throne in a precarious position if he suddenly died, as he was already an old man. Others suspect that Jaehaerys feared being called a hypocrite, as he himself had claimed the throne ahead of his deceased older brother's daughters. In the chaotic aftermath of the death of his uncle [[Maegor Targaryen|Maegor the Cruel]], a despotic tyrant, more were concerned about restoring stability by putting the teenaged, level-headed Jaehaerys on the throne than on pressing the claims of his older brother's infant girls. Whatever the case, the Baratheons and Velaryons did not have much support to protest the decision in 92 AC, though Corlys Velaryon resigned in protest from his office as [[Master of Ships]] and left the Small Council.
+
+Baelon's sudden death in 101 AC, however, opened the issue again. Jaehaerys was now a very frail old man and Baelon was no longer there to support him. Corlys Velaryon started gathering his fleets for war, and Viserys's hotheaded younger brother Daemon hired up companies of sellswords to press his brother's claims. Fearing a civil war, Jaehaerys proposed a compromise: all the lords of Westeros, great or small, would gather together in a council and hold a vote on the succession. ''Everyone'' who held lordly rank was gathered: not just the Great Houses such as the Starks and Tyrells, or their major vassals such as the Umbers or Tarlys, but even the third-tier minor vassals beneath them. Each of the "Seven Kingdoms" has roughly a dozen or so major lords, each with a dozen or so minor vassals beneath them, thus somewhat over one thousand "lords" of all ranks gathered in the great hall of [[Harrenhal]] to debate the succession and hold several rounds of voting. The [[High Septon]] came to bless the assembly, and representatives of the [[Conclave]] of the [[Order of Maesters|Maesters]] from [[Oldtown]] came as well. Even the Prince of [[Dorne]], which was still independent, sent his daughter as a neutral observer, along with twenty Dornish knights as escort.
+
+No less than 14 claimants were considered, though several were bastards, frauds, or minor cousins and quickly dismissed. The council soon narrowed down to a question of Rhaenys's bloodline versus Viserys's bloodline. Traditional inheritance law of the [[Andals]] in Westeros followed "male-preference primogeniture" - which still meant that a lord's daughter is heir ''before'' that lord's own younger brother. The [[Rhoynar]] in [[Dorne]], which was still independent, were the only ones to follow "gender-blind primogeniture". In ''neither'' system should Rhaenys's uncle Baelon have been named heir ahead of her. Viserys, in contrast, claimed the throne based on "male proximity" - unlike Rhaenys, he was Jaehaerys's grandson through an unbroken father-to-son male line - a form of inheritance that ''no group'' in Westeros actually used. Nonetheless, Viserys was by far the candidate with the most support - not due to any legal precedent, but simply due to the biases of the assembled nobles, combined with how many could be bought off one way or the other with political favors.
+
+Under either form of primogeniture, Rhaenys should have been heir. If the gender-blind primogeniture of the Dornish was followed, her daughter and eldest child [[Laena Velaryon]] would be heir, but according to traditional Andal male-preference primogeniture, her son and younger child [[Laenor Velaryon]] would be rightful heir. The council quickly dismissed the claims of Laena and even Rhaenys herself on account of their sex, but the Velaryons still pressed that if having a male heir was so important, the line of succession could at least continue ''through'' a woman to her son.
+
+The final vote came down to Laenor versus Viserys. Of these two candidates, primogeniture favored Laenor, but unbroken "male proximity" favored Viserys. A point against Laenor was that he was only a 7 year old boy, while Viserys was a 24 year old man: his marriage to his cousin Aemma had also proven to be fruitful, producing his 4 year old daughter [[Rhaenyra Targaryen|Rhaenyra]], with sons sure to eventually follow and continue his line. Laenor's cause was aided by the considerable wealth of his father Corlys, the richest man in Westeros, who bestowed generous gifts on other lords to sway their votes. The vassal Houses of the isles in the [[Narrow Sea]] that have close ties to the Velaryons on Driftmark supported them as well, such as [[House Celtigar]] and [[House Bar Emmon]]. [[Boremund Baratheon]] again supported the Velaryon claim, as he was Rhaenys's maternal uncle. [[House Stark/House of the Dragon|House Stark]], which had stood aloof from royal politics since the Iron Throne was forged a century before, surprisingly supported Laenor's claim: later historians believe they were still bitter with Jaehaerys over the forced land donation of the [[Gift|New Gift]] to the [[Night's Watch]], so they voted against his preferred candidate.
+
+In the end, however, the vote wasn't even close: while it was a secret ballot, it was rumored that Viserys won by a factor of about twenty to one. Beyond mere numbers, none of the other Great Houses besides the Baratheons and the Starks voted for Laenor. While Rhaenys and the Velaryons were upset, they had agreed to abide by the vote of the Great Council, and Viserys's victory in the final tally was so great as to be beyond dispute. The Velaryons withdrew to their seat on [[Driftmark]], and despite their power and wealth were estranged from Viserys's new royal court.
+
+The TV series didn't mention the specific detail on-screen that Rhaenys lost by a vote of twenty to one, though actress Eve Best mentioned this ratio in promotional videos. The script for the first episode was later released, revealing that Rhaenyra's opening narration originally did have an extra line conveying this, but it was ultimately cut from the final version: "''The vote was said to have been twenty to one:'' Rhaenys, a woman, would not inherit the Iron Throne".{{Scriptref|HOTD101}}
+
+Jaehaerys honored the vote of the council and officially named Viserys as the new [[Prince of Dragonstone]] and royal heir. Baelon had also served as his father's [[Hand of the King]], so Jaehaerys appointed [[Otto Hightower]] to fill his place in that office. Otto brought his precocious daughter [[Alicent Hightower]] to the royal court with him. Devastated by the death of his second son, as well as the death of his beloved wife the year before, Jaehaerys's health rapidly declined and he remained largely bedridden during the subsequent two uneventful years before his death in 103 AC. He had held the Iron Throne for 55 years, the longest reign of any monarch before or since.
+
+Viserys was crowned as king, and held a lavish [[tournament]] for the realm to celebrate. All that remained for Viserys was for he and his wife Aemma to produce a male heir.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|Great Council of 101 AC}} {{Spoilers|HOTD}}
+
+<!--Categories-->
+[[Category:101 AC]]
+[[Category:Featured pages]]
+[[Category:Great Councils|Harrenhal]]
+
+<!--Languages-->
+[[de:Großer Rat von Harrenhal]]
+[[fr:Grand Conseil de 101]]
+[[it:Gran Concilio di Harrenal del 101 CA]]
+[[pl:Wielka Rada roku 101]]
+[[pt-br:Grande Conselho de 101 d.C.]]
+[[ru:Великий совет в Харренхоле]]

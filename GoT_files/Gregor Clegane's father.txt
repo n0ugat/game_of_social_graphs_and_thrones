@@ -1,0 +1,71 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Heraldry
+| Image = House Clegane.svg
+| Link  = House Clegane
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Lannister
+| Image       = 
+| Birth       = [[Clegane's Keep]]
+| Death       = 
+| House       = [[House Clegane|Clegane]]
+| Affiliation = [[House Lannister]]
+| Titles      = [[Knighthood|Ser]]
+| Predecessor = 
+| Successor   = {[[Gregor Clegane]]}
+| AKA         = 
+| Culture     = [[Westerlands|Westermen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = {[[Gregor Clegane's grandfather|Father]]}
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = {[[Gregor Clegane]]}<br>{[[Sandor Clegane]]}<br>{Daughter}
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Soon after, my father died. They say in a hunting accident.|[[Sandor Clegane]]|House Clegane (short)}}
+'''Gregor Clegane's father''' was the second head of [[House Clegane]]. He was the son of [[Gregor Clegane's grandfather]], the founder of the house.
+
+==Biography==
+The second head of [[House Clegane]] wanted a [[Knighthood|knight]] within his family, a wish that was fulfilled by his son Gregor, who was personally anointed by [[Rhaegar Targaryen]] with the influence of [[Tywin Lannister|Tywin]]. Later, he was killed in a suspicious hunting accident.{{Ref|H&L210}}
+
+This man was known to have favored Gregor over Sandor, going so far as to protect Gregor when the former burned half of Sandor's face.{{Ref|GOT407}}
+
+==Family==
+{{Clegane tree}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, his background is the same.
+
+==Appearances==
+*{{H&L|House Clegane}} {{Mentioned}}
+*{{GOT|Mockingbird}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Clegane (father of Gregor and Sandor)}}
+
+<!--Navboxes-->
+{{House Clegane}}
+
+<!--Categories-->
+{{DEFAULTSORT:Clegane's father, Gregor}}
+[[Category:Bannermen of House Lannister]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Members of House Clegane|Gregor Clegane's father]]
+[[Category:Westermen]]
+
+<!--Languages-->
+[[ru:Отец Григора и Сандора Клиганов]]

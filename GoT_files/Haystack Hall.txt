@@ -1,0 +1,48 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Errol.svg
+| Link  = House Errol
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Baratheon
+| Image        = Haystack Hall Pin.png
+| Type         = Castle
+| Status       = 
+| Location     = The [[Stormlands]], [[Westeros]]
+| Population   = 
+| Rulers       = [[House Errol]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+{{Dialogue a-b-a|Ros|We do things differently here, Daisy. This isn't some five-copper bawdy house in Hastings Hall.|Daisy|Haystack Hall.|Wherever you're from.|[[Ros]] giving Daisy a tour of the brothel.|The North Remembers}}
+'''Haystack Hall'''{{Ref|GOT201}} is a castle in the [[Stormlands]]. It is the seat of [[House Errol]], located northeast of [[Bronzegate]].
+
+==History==
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+[[Daisy]], a newly acquired prostitute at Lord [[Petyr Baelish]]'s brothel, was originally from Haystack Hall.<ref>"[[The North Remembers]]"</ref>
+
+==In the books==
+In the books, Haystack Hall is the seat of House Errol. It is located to the east of the [[Kingsroad]] and north of [[Storm's End]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Stormlands}}
+
+<!--Categories-->
+[[Category:Castles of the Stormlands]]
+[[Category:House Errol]]
+
+<!--Languages-->
+[[de:Erntehall]]
+[[pl:Haystack Hall]]
+[[ru:Сенокос]]
+[[zh:干草厅]]

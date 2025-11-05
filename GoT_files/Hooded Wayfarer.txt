@@ -1,0 +1,39 @@
+{{Canonicity|Canon}}
+{{Deity
+| Title    = {{PAGENAME}}
+| Theme    = Westeros
+| Image    = 
+| Type     = Patron of the poor
+| AKA      = 
+| Religion = [[Faceless Men]]
+| Symbol   = 
+| Family   = 
+| Aspects  = 
+| Avatars  = 
+}}
+{{Quote|For the poor, He is the Hooded Wayfarer. |[[Jaqen H'ghar]]|The Many-Faced God}}
+The '''Hooded Wayfarer'''{{Ref|H&L512}} is a [[Religion|deity]] worshiped in [[Essos]]. It is popular among poor men.
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, nothing more is mentioned about the Hooded Wayfarer than what is stated in the Histories & Lore video on "The Many-Faced God": the Hooded Wayfarer has a statue in the [[House of Black and White]], along with statues of gods from all other known religions with dominion over death, and it is most commonly visited by poor men. It is unknown exactly how popular the cult is or where it is most popular.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Religions}}
+{{Free Cities}}
+
+<!--Categories-->
+[[Category:Deities]]
+[[Category:Free Cities culture]]
+
+<!--Languages-->
+[[de:Verhüllter Wanderer]]
+[[es:Peregrino Encapuchado]]
+[[nl:Verkapte Reiziger]]
+[[ru:Путник в капюшоне]]
+[[zh:兜帽行者]]

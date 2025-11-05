@@ -1,0 +1,52 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Hornwood.svg
+| Link  = House Hornwood
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Stark
+| Image        = 
+<gallery>
+505 Bolton map 2.jpg|Appearance
+Hornwood Pin.png|Location
+</gallery>
+| Type         = Castle
+| Status       = 
+| Location     = The [[North]], [[Westeros]]
+| Population   = 
+| Rulers       = [[House Hornwood]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Old Gods]]
+| Places       = 
+| Founded      = 
+}}
+'''Hornwood'''{{Ref|GOT505}} is a castle in the [[North]]. It is the seat of the eponymous [[House Hornwood]], a vassal house holding fealty to [[House Stark]] of [[Winterfell]].
+
+Hornwood is located in forested lands southeast of Winterfell, southwest of the [[Dreadfort]] and northeast of [[White Harbor]], near the headwaters of the [[Broken Branch]] River.
+
+House Hornwood allies with [[Jon Snow]] and [[Sansa Stark|Sansa]] against [[House Bolton]].<ref>"[[The Broken Man]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Hornwood and its lands are located between the [[House Manderly|Manderlys]] of White Harbor and the [[House Bolton|Boltons]] of the Dreadfort and have been contested between the two in the past. The Hornwoods maintain their independence from both due to their loyalty to the Starks.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{North}}
+
+<!--Categories-->
+[[Category:Castles of the North]]
+[[Category:House Hornwood]]
+
+<!--Languages-->
+[[de:Hornwald]]
+[[es:Hornwood]]
+[[fr:Corbois]]
+[[ru:Хорнвуд]]
+[[zh:霍伍德城]]

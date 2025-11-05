@@ -1,0 +1,27 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Harvey Taylor.jpg
+| Birth   = August 24, 1997 {{Age|1997|8|24}}
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]] {{*}} [[House of the Dragon: Season 2|2]]
+| Credits = 9 episodes {{Below|Credits}}
+| First   = "[[The Heirs of the Dragon]]"
+| Last    = 
+}}
+'''Harvey Taylor''' (born 24 August, 1997) is a stuntman.
+
+In ''[[House of the Dragon]]'', he was a stunt performer in the [[House of the Dragon: Season 1|first season]] episodes "[[The Heirs of the Dragon]]", "[[The Rogue Prince]]", "[[Second of His Name]]", "[[The Princess and the Queen]]", "[[Driftmark (episode)|Driftmark]]", "[[The Green Council]]" and "[[The Black Queen]]" and the [[House of the Dragon: Season 2|second season]] episodes "[[Rhaenyra the Cruel]]" and "[[The Red Dragon and the Gold]]".
+
+==Credits==
+===Stunts===
+{{House of the Dragon: Season 1|yes|yes|yes|||yes|yes||yes|yes}}
+{{House of the Dragon: Season 2||yes||yes}}
+
+==See also==
+*{{IMDb
+|# = 8770205}}
+{{DEFAULTSORT:Taylor, Harvey}}
+[[Category:Stunt performers of House of the Dragon]]

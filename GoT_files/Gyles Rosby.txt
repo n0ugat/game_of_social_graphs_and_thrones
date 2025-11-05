@@ -1,0 +1,77 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = House Rosby.svg
+| Link  = House Rosby
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Crownlander
+| Image       = Gyles rosby.jpg
+| Birth       = At [[Rosby]]
+| Death       = 
+| House       = [[House Rosby|Rosby]]
+| Affiliation = [[House Baratheon of King's Landing]]
+| Titles      = Lord of Rosby
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Andals|Andal]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 1|1]]
+| Appearances = 3 episodes {{Below|Appearances}}
+| First       = "[[Cripples, Bastards, and Broken Things]]"
+| Last        = "[[Fire and Blood]]"
+| DeathEp     = 
+| Actor       = Unidentified
+}}
+{{Quote|Lord Gyles.|[[Sansa Stark]] greets Gyles Rosby|The Pointy End}}
+'''Gyles Rosby'''{{Con|ASOIAF}} is the Lord of [[Rosby]] and the head of [[House Rosby]], a noble house of the [[Crownlands]], who is constantly present at the royal court in the [[Red Keep]].
+
+==Biography==
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+Lord Gyles attends the Tourney of the Hand and is seated next to Septa [[Mordane]] for the first day of the jousts.{{Ref|GOT104}}
+
+Lord Gyles is present at the session in which [[Janos Slynt]] is granted a Lord title and [[Harrenhal]], and later Ser [[Barristan Selmy]] is dismissed from the [[Kingsguard]]. When [[Sansa Stark|Sansa]] appears to ask for mercy for her [[Eddard Stark|father]], Lord Gyles is greeted by the young lady, though he doesn't answer.{{Ref|GOT108}}
+
+Lord Gyles is also present at court when the troubadour [[Marillion]] is forced to perform a limerick in which he ridiculed the late King [[Robert Baratheon|Robert]] and Queen [[Cersei Lannister|Cersei]]. Alongside the rest of the courtiers, Lord Gyles claps after King [[Joffrey Baratheon|Joffrey]] begins to clap sarcastically.{{Ref|GOT110}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Gyles Rosby is the head of House Rosby, a noble house that rules over an eponymous town in the Crownlands. He's noted for being sickly and constantly coughing.
+
+Lord Gyles is at many major events including the tourney on King Joffrey's [[Nameday]], the [[riots in King's Landing]], Sansa and [[Tyrion Lannister|Tyrion]]'s wedding, the [[Battle of the Blackwater]], the procession greeting [[Oberyn Martell]] and [[Tywin Lannister|Tywin]]'s funeral. Cersei appointed him [[Master of Coin]] after Tyrion is put on trial for Joffrey's murder. Cersei considers him adequate in the position, but hounding over the crown's debt problems by the [[Iron Bank of Braavos]]' envoy exasperates his sickness and he perishes at the Red Keep. [[Pycelle]] protests that he did all he could, but an irate and paranoid Cersei accuses him of conspiring with [[Margaery Tyrell|Margaery]] to kill Lord Gyles, in order to create a vacancy in the Small Council that would be taken by any of the Tyrells or their bannermen. She orders Pycelle to have all Lord Gyles's lands and wealth go to Tommen rather than his ward. Cersei selects Ser [[Harys Swyft]] as the new Master of Coin.
+
+According to the semi-canonical ''A Song of Ice and Fire Roleplaying Campaign Guide: A Game of Thrones Edition'' from [[wikipedia:Green Ronin Publishing|Green Ronin Publishing]] Lord Gyles is the father of Lord [[Walder Frey]]'s sixth wife Bethany Rosby and grandfather of Robb Stark's former squire [[Olyvar Frey]] and Lord [[Edmure Tully]]'s wife [[Roslin Tully|Roslin Frey]].
+
+==Appearances==
+*{{GOT|Cripples, Bastards, and Broken Things}}
+*{{GOT|The Pointy End}}
+*{{GOT|Fire and Blood}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+{{DEFAULTSORT:Rosby, Gyles}}
+[[Category:Bannermen of House Baratheon of King's Landing]]
+[[Category:Crownlanders]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Lords]]
+[[Category:Members of House Rosby|Gyles Rosby]]
+
+<!--Languages-->
+[[fr:Gyles Rosby]]
+[[ru:Джилс Росби]]

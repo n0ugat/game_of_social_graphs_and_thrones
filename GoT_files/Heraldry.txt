@@ -1,0 +1,329 @@
+{{Canonicity|Canon}}
+:''This article is written from an out-of-universe perspective.''
+{{Dialogue a-b-a-b|Ygritte|Is that how you lot do your fighting? You march down the road banging drums and waving banners?|Jon Snow|Most of the time, yes.|How do the men holding the banners fight?|They don't, really. It's a great honor to carry your House sigil.|[[Jon Snow]] explains to [[Ygritte]] the [[Free Folk|wildling]] the importance of heraldry in the Seven Kingdoms.|The Bear and the Maiden Fair (episode)}}
+The various [[noble house]]s of the [[Seven Kingdoms]] use distinctive '''heraldry'''{{Ref|HOTD108}} to identify families and individuals. These heraldic devices are also carried by armies on the battlefield as a sign of status, as well as allegiance to those noble houses.
+
+Heraldic designs can vary widely. They may consist of a simple pattern of colors, but more often feature animals (either real or mythological) and/or physical objects. Specific sets of rules govern what form a heraldic design may take.
+
+Only members of noble families have the legal right to formally display their own heraldry, though [[Knighthood|knights]] also gain this right after the conferring of their title: When a [[smallfolk|commoner]] or lowly [[mercenary]] gets knighted (even if he is only a poor [[hedge knight]] with no land and no right to sit in judgement), he legally becomes a member of "the nobility" and can invent his own personal heraldry. The followers of a noble family can also display that family's heraldry (i.e. [[House Lannister|Lannister]] foot-soldiers can carry banners with Lannister heraldry), but it is illegal for the smallfolk to simply invent and use their own heraldry.
+
+The heraldry of each noble house is accompanied by [[House words|a specific set of words, or "motto"]] that is unique to that House. These typically take the form of boasts or battle-cries, such as [[House Baratheon]]'s "Ours is the fury!", or [[House Tully]]'s "Family, Duty, Honor". [[House Stark]] is a major exception, as its words are not a boast but the ominous warning "Winter Is Coming". House words do not typically appear on the heraldry itself, in both the books and the TV series.
+
+==Heraldry in Westeros and in the real-world==
+In the real-life Middle Ages, a formal set of rules governed heraldry designs:
+
+The colors used in heraldry are formally known as "tinctures", and these are divided into three basic categories: "colors", "metals", and "furs".
+*Red, Green, Blue, Purple, and Black are considered "colors". Certain other colors, such as Brown, were added in later centuries as new dyes became available to Medieval Europe.
+*The two "metals" are Gold and Silver, though both of these terms actually encompass a spectrum of hues: gold, orange, and yellow are all considered Gold, while white and grey are both considered Silver.
+*"Furs" such as Ermine and Vair are technically patterns, not single colors, but are arbitrarily lumped in with colors and metals as a sub-set of "tinctures". Ermine is supposed to resemble the tail pattern of a stoat (specifically a stoat's winter fur, known as ermine), and Vair is supposed to resemble the belly coloration of a type of squirrel.
+*Each tincture officially consists of one specific shade with no variations; i.e. there is only one shade of Blue which can be used, with no variation between light blue and dark blue (which are fairly arbitrary labels in any case).
+
+The most important rule of heraldry is the [[Wikipedia:Rule of tincture|rule of tincture]]:
+
+:''Metal shall never be put on metal, nor color on color.''
+
+By this ruling, a design cannot be half red and half blue, or half gold and half silver. For example, the sigil of House Lannister is a gold lion (metal) on a red field (color). It would not be permitted to have a gold lion on a ''silver'' background, because silver is also a metal. Ostensibly, this is because heraldry is supposed to help identify different armies on the battlefield, and should be easily distinguishable at a glance.
+
+There is a major loophole to the rule of tincture, however: An object may be depicted as "proper" - using the color it possesses in nature - regardless of what other tinctures it is touching. This explicitly allows the animal or object featured in a heraldic design to break the rule of tincture. For example, the sigil of House Stark is a grey [[direwolf]] on a white field, which would normally break the "no metal against metal" rule (since both white and grey are considered Silver). However, because direwolves are actually grey in nature, this is simply being displayed "proper". In contrast, it would still break the rule of tincture to put a purple direwolf on a blue background, because direwolves are never purple in nature, and a purple direwolf cannot plausibly be said to be displayed "proper".
+
+A problem presented in both the ''[[A Song of Ice and Fire]]'' novels and the ''Game of Thrones'' TV series is that a specific terminology is officially used in heraldry - describing the different tinctures as well as design motifs - and this terminology only exists in the French language. The official names for the various tinctures are: ''Gules'' (Red), ''Vert'' (Green), ''Azure'' (Blue), ''Purpure'' (Purple), ''Sable'' (Black), ''Or'' (Gold), and ''Argent'' (Silver). Since French does not exist within this fictional world, it's not particularly logical to use this real-life formal terminology. For example, no one within the narrative would ever say to [[Tywin Lannister]] that the sigil of his House is "gules, a lion or".
+
+Different versions of heraldic designs may be fitted into the available spaces on various objects, such as flags or armor. However, since these designs were originally painted onto shields, the official shape of an overall piece of heraldry is usually the shape of a shield, known as an ''escutcheon''. This is the practice throughout most of the Seven Kingdoms, with the major exception of [[Dorne]]: Military tactics in the deserts of Dorne favor quick hit-and-run attacks, as opposed to columns of slow and bulky armored knights, who would soon suffer from lack of available water. Thus instead of using the full shields of heavy knights, the Dornish favor lightly armored and mobile riders who fight with small rounded shields. This is reflected in the heraldry of Houses from Dorne, which are officially in the shape of a perfect circle, not an escutcheon.
+
+===Younger sons, variations, and personal sigils===
+[[File:Brynden Tully.svg|thumb|The personal coat of arms of Brynden Tully.]]
+Younger sons of noble houses may prefer to use their own personal sigils, which are often a slight variation of the official sigil of their House. Sometimes even the oldest son and heir, or even the current lord, may have his own personal sigil - this is simply a matter of preference.
+
+For example, while the official heraldry of House Tully is a silver fish on a red and blue field, [[Brynden Tully|Brynden "The Blackfish" Tully]] uses a variant for his personal sigil, which contains a black fish (in reference to his nickname).
+
+[[Euron Greyjoy]]'s personal heraldry in the TV series has two variations; one is the standard Greyjoy heraldry of a gold kraken on a black field, but with a single red eye inscribed onto the head of the kraken. The other - featured on the trappings of his horse as he rides through the streets of King's Landing - is a ''silver'' kraken with a red eye on a black field (this is a simplification of Euron's more complex personal sigil in the books).
+
+===Bastards===
+Acknowledged [[bastard]] children of a noble are not legally permitted to ''officially'' carry the heraldry of their noble parent's House. On the battlefield, they may carry a flag displaying the heraldry, or use weapons and equipment that display the heraldic symbol - but only as much as any common footsoldier in their noble parent's army may do so. If an acknowledged noble-born bastard began openly displaying the heraldry of their noble parent's House, specifically as a representation of themselves, they would face legal troubles and punishment. 
+[[File:House Targaryen.svg|thumb|House Targaryen's sigil is a red dragon on a black field.]]
+[[File:House Blackfyre.svg|thumb|House Blackfyre, founded by a bastard son of House Targaryen, follows the custom for bastards by inverting the Targaryen colors, resulting in a black dragon on a red field.]]
+Before he joined the [[Night's Watch]] and forsook all family ties, [[Jon Snow]] was forbidden from officially "carrying" and displaying the Stark heraldry of a grey direwolf on a white field. One of House Stark's bannermen such as Ser [[Rodrik Cassel]] might physically hold a flag displaying the Stark heraldry, and even a common Stark footman might carry such a flag, so Jon may have carried weapons or equipment featuring the Stark direwolf. However, he was not allowed to use the Stark heraldry as a representation of himself, because this would essentially be making the false claim that he was a legitimized child who no longer bore the shame of bastardy.
+
+Noble-born bastards are in a legal state between highborn nobles and smallfolk, yet unlike the smallfolk, acknowledged bastards ''are'' allowed to display their own heraldry - just not the heraldry of their noble parent's House. A very common practice in Westeros is for bastards to use the heraldry of their noble parent's House but with the colors inverted (which is known as "breaking" the design scheme). Neither the books nor TV series ever portrayed Jon Snow using any kind of heraldry before he joined the Night's Watch, but had he followed this custom, his personal sigil would have been a white direwolf on a grey field, the reverse of the Stark colors. Thus the discovery of the six direwolf pups by [[Eddard Stark]] and his sons is all the more considered a sign from the [[Old Gods]]: not only were there two female and four male pups (to match the Stark children), but the sixth was an albino - physically resembling the white direwolf design that Jon would use in his personal heraldry. This is further signified when Lord [[Wyman Manderly]] dubs Jon "the White Wolf" during his election as the new [[King in the North]]. While he may not be aware of this custom, [[Robert Baratheon]]'s bastard son [[Gendry Baratheon|Gendry]] inadvertently adopted it when he fashioned himself a warhammer; not only was this his father's weapon of choice, but the striking head of the weapon was made of black metal and adorned with a stag's head rendered in gold (the reversed colors of the Baratheon sigil). 
+
+One of the more infamous examples of bastard heraldry is [[House Blackfyre]], a cadet branch of [[House Targaryen]]. Founded by [[Daemon Blackfyre]] (a bastard son of King [[Aegon IV Targaryen|Aegon IV]]) over a century before the [[War of the Five Kings]], the name comes from the [[Valyrian steel]] [[Blackfyre|sword]] originally owned by [[Aegon I Targaryen|Aegon the Conqueror]]. When he was legitimized, Daemon following the custom for bastards by inverting the color scheme of the Targaryen heraldry; instead of the normal red three-headed dragon on a black background, House Blackfyre's heraldry consisted of a black three-headed dragon on a red background.
+
+===Retainers===
+Like bastards, retainers of a noble household may wear their lord's arms with the colors reversed.{{Ref|HOTD101}} [[Man-at-arms|Men-at-arms]] may wear their lord's arms in its true colors on a badge over their hearts,{{Ref|GOT101}} and certain men-at-arms can be singled out as banner-bearers.{{Ref|GOT307}}
+
+<gallery>
+Master of Revels.png|A Targaryen retainer wearing a three-headed dragon, black on red, a reversal of the Targaryen colors.
+The baratheon men-at-arms.jpg|Baratheon men-at-arms wearing true-color Baratheon badges.
+203 GreyjoyMen.jpg|Greyjoy banner-bearers.
+</gallery>
+
+===Exceptions to heraldry ===
+====The Night's Watch====
+[[File:Jon_and_Benjen_1x03.png|thumb|The Night's Watch "uniform" is solid black: signifying the ''absence'' of heraldry.]]
+The [[Night's Watch]] has no heraldic symbol, emphasizing its sworn duty not to get involved in petty political squabbles, but to defend the realms of men as a whole. The Watch's banners and shields are solid black, symbolizing the erasure of any House-based allegiance. Even the "uniform" of the Night's Watch consists of solid black clothing, hence the phrase "taking the black" as a euphemism for joining the order. Members from wealthier families often buy all-black clothing before leaving for the [[Wall]], while poorer conscripts simply have their clothing dyed black when they reach the Wall (clothing which isn't always well-suited for cold weather). [[File:Night's Watch vows.jpg|thumb|Those who take the Watch's vows reject all heraldry.]]Solid black specifically denotes the ''rejection'' of heraldry, and is not a "symbol" in and of itself, but the absence of a symbol. Even the seals on messages sent by the Night's Watch are simply made in black wax with no symbol on them. The [[Free Folk|wildlings]] have taken to calling members of the Night's Watch "crows", because like crows they are covered in black, but this is just a nickname - though it has also caught on south of the Wall; traveling Night's Watch recruiters such as [[Yoren]] are often called "wandering crows".
+
+:''The Night's Watch-related articles on the Game of Thrones Wiki make use of the black raven icon used for the Night's Watch and associated characters on the HBO Viewer's Guide, but this is only because it became too confusing to use a solid black navigation icon in different articles. The black crow icon from the HBO website is non-canonical and never actually used within the story.''
+
+====The Kingsguard====
+
+[[File:Jaime_kingsguard_promo.jpg|thumb|The Kingsguard are famous for their white cloaks and armor. In this Season 1 photo, Jaime wears the symbol of the Kingsguard on his breastplate.]]
+Members of the [[Kingsguard]] are noted for their white cloaks and gold armor with white enameled decoration. In the novels, when individual members of the Kingsguard participate in private events such as [[tournament]]s, they bear only solid white heraldry on their shields and banners. Indeed, ''only'' members of the Kingsguard legally have the right to carry shields and banners emblazoned with all-white heraldry. Somewhat like the Night's Watch, they formally renounce their familial and political allegiances when they join the order. Unlike the Night's Watch, however, the all-white banners of the Kingsguard are technically not considered to be a ''rejection'' or absence of heraldry, the way black is.
+
+The Kingsguard ''as an institution'', however, does have a symbol, a triple-pointed crown made of swords, representing the crown of the [[King of the Andals and the Rhoynar and the First Men|King of the Andals and the First Men]]. This design is engraved on their armor, and appears on their banners when leading the king's armies in war, acting officially in their capacity as Kingsguard.
+
+:[[File:Jaime Lannister Season 4.jpg|thumb|Jaime in Season 4, wearing the new variant of the Kingsguard symbol on his breastplate, a crown made of three swords.]]''The novels have given conflicting statements about Kingsguard heraldry, saying at times that they are the only men in Westeros legally allowed to display solid white heraldry, but at other times also saying that the symbol "of the Kingsguard" is a golden crown encircled by seven silver swords, on a white field. The apparent explanation is that the crown and swords are the symbol of "the Kingsguard" as an institution, but in private events such as tournaments, Kingsguard are not representing the king, so they display only solid white heraldry - given that they have formally renounced their prior family allegiances. In the books, Jaime Lannister flagrantly violated this principle by wearing armor decorated with golden Lannister lions while in Robert's Kingsguard, even though multiple characters point out that he shouldn't be allowed to do this (Robert can't complain because he is dependent on Jaime's father for financial support).''
+
+The TV series modified the "Kingsguard institutional symbol" from the novels, and that modification has changed form over the course of the series: when it debuted in Season 1, it appeared as a triple-pointed crown with no swords. This continued until Season 4, when without explanation all of the Kingsguard shifted to using a new symbol of a triple-pointed crown shape formed by three interlocking swords symbols. The symbol did not change in-universe, this was simply a retcon: even carvings in the [[White Sword Tower]] and the ''[[Book of Brothers]]'' (a decades-old book) appear in Season 4 with the new symbol. The TV series has also not directly established that the Kingsguard are the only group allowed to display all-white heraldry at tournaments.
+
+==The North==
+Heraldry is closely associated with [[knighthood]], which was introduced to Westeros by the [[Andals]] six thousand years ago. Northern warriors are not as flashy as southern knights, fighting over frivolous love feuds, but have to be dour and grim to survive the harsh winters which affect the North. Some of the heraldry from southern Westeros can be very ornate, which the Northerners see as frivolous. As a result, George R.R. Martin intentionally made heraldry in the North not as complex as heraldry from the south of Westeros.
+
+<gallery>
+House Bolton.svg|House Bolton: black, a red flayed man hanging upside-down on a white X-shaped cross
+House Cerwyn.svg|House Cerwyn: silver, a two-headed axe proper
+House Dustin.svg|House Dustin: yellow, two rusted longaxes with black shafts crossed, a black crown beneath their points
+House Glover.svg|House Glover: scarlet, an armored silver fist
+House Hornwood.svg|House Hornwood: orange, a black bullmoose's head
+House Karstark.svg|House Karstark: black, a white sunburst
+House Mormont.svg|House Mormont: white, a black bear rampant with red claws and teeth, between two green bars in chief and base
+House Mormont Alternate.svg|House Mormont (variant): white, a black bear passant between two green pines
+House Stark.svg|House Stark: per base white and green, a grey direwolf's head contourny
+Sansa Stark.svg|Personal arms of Sansa Stark: black, a white red-eyed direwolf's head contourny in weirwood branches proper
+Bran Stark.svg|Personal arms of Bran Stark: a three-eyed raven spreading its wings
+House Umber.svg|House Umber: red, four silver chains linked by a central ring
+House Reed.svg|House Reed: grey-green, a black lizard-lion
+House Manderly.svg|House Manderly: turquoise, a white merman holding a trident
+House Mazin.svg|House Mazin: chequy blue and white, gold plates in the blue checks
+</gallery>
+
+==The Vale of Arryn==
+The Vale of Arryn was the first place in Westeros that saw the arrival of the Andals six thousand years ago, and knighthood has been a key force in the region ever since. Many noble houses of the Vale prize their pure Andal bloodlines, and the Knights of the Vale are famed fighters throughout the Seven Kingdoms.
+
+<gallery>
+House Arryn.svg|House Arryn: dark blue, a white falcon volant and crescent moon within a white circle
+House Baelish.svg|Personal arms of Petyr Baelish: yellow, a black mockingbird
+House Corbray.svg|House Corbray: white, three black ravens in flight holding three red bleeding hearts
+House Royce.svg|House Royce: white, a shower of black pebbles on a bronze square surrounded by black runes
+House Waynwood.svg|House Waynwood: green, a black broken wheel
+</gallery>
+
+==The Riverlands==
+<gallery>
+House Blackwood.svg|House Blackwood: red, three black ravens surmounting a dead white weirwood
+House Bracken.svg|House Bracken: gold, a red stallion rampant contourny
+House Frey.svg|House Frey: per fess grey sky and blue water, two grey stone towers connected by a bridge
+House Haigh.svg|House Haigh: russet, a black pitchfork on a golden bend sinister
+House Harroway.svg|House Harroway: per bend sinister orange and black rayonne, a castle counterchanged
+House Lothston.svg|House Lothston: per bend silver and gold, a black bat
+House Mallister.svg|House Mallister: Indigo, a silver eagle displayed
+House Mooton.svg|House Mooton: white, a red salmon contourny within a gold tressure
+House Mudd.svg|House Mudd: red-brown, a gold crown studded with emeralds
+Qoherys sigil.png|House Qoherys: black, a saltire of red and yellow flames between four white skulls
+House Strong.svg|House Strong: white, three rivers (blue-red-green) flowing from a black escutcheon displaying a white hand
+House Towers.svg|House Towers: white, five black towers (3-2) within a double tressure red and black
+House Tully.svg|House Tully: per fess mud red and blue, a silver trout leaping over a wavy white-blue-white fess
+Brynden Tully.svg|Personal arms of Brynden Tully: per fess mud red and blue, a black trout leaping over a wavy white-blue-white fess
+House Whent.svg|House Whent: bronze, nine black bats (1-2-3-2-1)
+Knight of the Laughing Tree.svg|Personal arms of the Knight of the Laughing Tree: a smiling heart tree proper
+</gallery>
+
+==The Westerlands==
+<gallery>
+House Clegane.svg|House Clegane: yellow, three black dogs regardant (1-1-1; 1 and 3 contourny)
+Gregor Clegane.svg|Personal arms of Gregor Clegane: yellow, with one black dog rather than three.
+House Crakehall.svg|House Crakehall: brown, a white boar
+House Lannister.svg|House Lannister: crimson, a gold lion rampant
+House Lefford.svg|House Lefford: dark blue, a gold pile in dexter and a gold sunburst in sinister
+House Marbrand.svg|House Marbrand: smoke grey, a burning tree
+House Payne.svg|House Payne: chequy purple and white, a gold coin in each check
+House Reyne.svg|House Reyne: silver, a red lion rampant regardant with a forked tail
+House Swyft.svg|House Swyft: yellow, a blue bantam rooster
+House Tarbeck.svg|House Tarbeck: gyronny silver and blue, a star of seven points counterchanged
+</gallery>
+
+==The Crownlands==
+Three centuries before the War of the Five Kings, [[Aegon I Targaryen]] and his two sisters rode their dragons to conquer and unite the Seven Kingdoms. They then established a new heraldry design for the Targaryen royal line: a three-headed red dragon on a black field. The three heads represent Aegon I and his two sisters.
+
+After [[Robert Baratheon]] became king, he continued to use the heraldry of House Baratheon of Storm's End, a black stag on a gold field, but with a crowned stag to signify the new royal status of his House. In Season 2, Joffrey's "House Baratheon of King's Landing" starts using a new heraldry design, with a Baratheon stag and a Lannister lion facing each other. The books more clearly explain that this is what Joffrey used as his ''personal'' heraldry, even before Robert died. When Joffrey comes to Winterfell at the beginning of the first novel, Jon Snow remarks on how arrogant it is that Joffrey gives equal standing to his mother's House in his personal sigil. By the second novel, corresponding to Season 2, Joffrey just used his personal sigil so prolifically at court that it became established as the new heraldry for his cadet branch of House Baratheon.
+
+Stannis, as a second son, formally established the cadet branch "House Baratheon of Dragonstone", using as its heraldry his own personal sigil, the black stag of Baratheon surrounded by the fiery red heart of the Lord of Light. After Renly died, with Cersei's children really bastards of incest, Stannis's branch became the ''de facto'' main branch of "House Baratheon" (not that the Lannisters will admit it). As a result, in the books, at the [[battle for the Wall]] Jon Snow notices Stannis's soldiers carrying ''both'' Stannis's fiery-heart sigil, as well as the original black stag on a gold field version of the Baratheon heraldry (perhaps to emphasize that Stannis's branch is the "real" House Baratheon at this point).
+
+<gallery>
+House Baratheon of Dragonstone.svg|House Baratheon of Dragonstone: cream, a crowned black stag's head contourny within a fiery red heart
+House Baratheon of Dragonstone Alternate.svg|House Baratheon of Dragonstone (variant): cream, a crowned black stag rampant within a fiery heart
+House Baratheon of King's Landing.svg|House Baratheon of King's Landing: per pale gold and red, a black crowned stag and a gold lion combatant
+House Baratheon of King's Landing Quartered.svg|House Baratheon of King's Landing (variant): quarterly red and gold, in the 1st and 4th a gold lion's head, in the 2nd and 3rd a crowned black stag's head; 1st and 3rd devices contourny
+House Blackfyre.svg|House Blackfyre: red, a black three-headed dragon
+House Blount.svg|House Blount: green, a red bend sinister between two black porcupines
+House Celtigar.svg|House Celtigar: white, five red crabs (2-2-1) within a red border
+House Darklyn.svg|House Darklyn: party per pale, seven white escutcheons on red, fusily black and gold
+House Gaunt.svg|House Gaunt: pink, three black lances between two black flaunches
+House Hollard.svg|House Hollard: barry pink and red, three gold crowns on a blue chief
+Kingsguard.svg|The plain white shield of the Kingsguard
+House Rosby.svg|House Rosby: ermine, three red inverted chevronels
+House Staunton.svg|House Staunton: white, black pair of wings with a gold crown, black and white checks in chief
+House Stokeworth.svg|House Stokeworth: green, a white lamb regardant holding a gold goblet
+House Sunglass.svg|House Sunglass: white, a ring of seven stars of seven points
+House Targaryen.svg|House Targaryen: black, a red three-headed dragon
+Daemon Targaryen.svg|Personal arms of Daemon Targaryen: black, a red three-headed dragon with gold scales, a tressure of gold flames
+Aegon II Targaryen.svg|Personal arms of Aegon II Targaryen: green, a gold three-headed dragon
+Aegor Rivers.svg|Personal arms of Aegor Rivers: gold, a red stallion with black wings snorting orange flame
+Brynden Rivers.svg|Personal arms of Brynden Rivers: black, a white red-eyed dragon breathing red flames
+Maekar Targaryen.svg|Personal arms of Maekar I Targaryen: black, a red three-headed dragon quartered
+House Velaryon.svg|House Velaryon: sea green, a silver seahorse
+Duncan the Tall.svg|Personal arms of Duncan the Tall: sunset, a brown elm tree beneath a white shooting star contourny
+</gallery>
+
+==The Iron Islands==
+[[Euron Greyjoy]] has his own personal sigil in the books, and Season 7 of the TV series introduced a simplified version. In the books, it is a red eye (with a black pupil), which is surmounted by a black crown being held aloft by two black crows (the background color isn't described). This is wordplay on his nickname, "Crow's Eye". Season 7 of the TV series also introduced a personal sigil for Euron, but because he isn't missing an eye in the TV version and is never called Crow's Eye, the crow element was removed, and just combined with the regular Greyjoy heraldry: as a result, Euron's personal sigil in the TV version is a gold kraken on a black field, with a third red eye inscribed onto the head of the kraken.
+
+<gallery>
+House Blacktyde.svg|House Blacktyde: vairy green and black
+House Botley.svg|House Botley: pale green, a shoal of silver fish
+House Drumm.svg|House Drumm: red, a skeletal white hand
+House Greyjoy.svg|House Greyjoy: black, a gold kraken
+Euron Greyjoy.svg|Personal arms of Euron Greyjoy: black, a silver kraken with a red eye
+Euron Greyjoy Alternate.svg|Personal arms of Euron Greyjoy (variant): black, a gold kraken with a red eye
+House Harlaw.svg|House Harlaw: black, a silver scythe contourny
+House Hoare.svg|House Hoare: per saltire black, sky blue, white, and gold, two silver chains saltirewise between a gold longship contourny in chief, a black raven in dexter, a pine tree proper in sinister, and a red grape cluster in base
+</gallery>
+
+==The Stormlands==
+Before [[Aegon's Conquest]], the independent [[Stormlands]] were ruled by [[House Durrandon]], but during the conquest the last of the Storm Kings, [[Argilac Durrandon]], was killed in battle by the Targaryen general [[Orys Baratheon]] (rumored to be a bastard half-brother of Aegon the Conqueror himself). Aegon gave Orys rule over the Stormlands, which he secured by taking Argilac's castle-seat at [[Storm's End]] and his daughter (and only child) as his wife. Thus while House Durrandon officially became extinct, its bloodline continued in House Baratheon. Orys also took the old Durrandon heraldry as his own, so House Durrandon's heraldry was the same as the later heraldry used by House Baratheon.
+
+A widespread fan assumption for some time was that because the Baratheons were not kings like the Durrandons had been, they stopped using a crown on their stag sigil, and just used a plain stag for the next three centuries - and only recently re-added a crown to the stag, after [[Robert's Rebellion]] when Robert Baratheon overthrew the Targaryen kings. ''However'', when the Baratheons make appearances during the [[Dunk & Egg novellas]] (particularly [[Lyonel Baratheon]]), they are consistently described as used a crowned stag, even though the Targaryens are still the royal family and they are not. Asked about this in 2015, Elio Garcia (owner of Westeros.org) stated that according to materials that George R.R. Martin sent him when co-writing the ''World of Ice and Fire'' sourcebook, the Baratheons indeed ''always'' used a crowned stag sigil, starting from when Orys founded House Baratheon and exactly copied the Durrandon heraldry, through Robert's Rebellion.<ref>[https://twitter.com/westerosorg/status/681403646752481280 Westeros.org's Twitter]</ref>
+
+The TV series, however, contradicted this in Season 1's "[[The Wolf and the Lion]]": when [[Bran Stark]] is being quizzed by Maester [[Luwin]] on the heraldry of the Great Houses, he explicitly says that the Baratheon stag only has a crown ''now'', after Robert Baratheon became king. It is likely the TV scriptwriters made the common mistake of assuming the Baratheons didn't use a crowned stag before Robert seized the Iron Throne, as ''[[House of the Dragon]]'' depicts a crowned stag.
+
+<gallery>
+House Baratheon.svg|House Baratheon/Durrandon: gold, a black crowned stag rampant
+House Baratheon Statant.svg|House Baratheon/Durrandon (variant): gold, a black crowned stag statant
+House Baratheon Alternate.svg|House Baratheon/Durrandon (variant): gold, a black crowned stag's head contourny
+Renly Baratheon.svg|Personal arms of Renly Baratheon: green, a gold crowned stag's head contourny
+Renly Baratheon Alternate.svg|Personal arms of Renly Baratheon (variant): green, a gold crowned stag
+House Caron.svg|House Caron: yellow, eight black nightingales (3-3-2)
+House Caron Alternate.svg|House Caron (variant): yellow, black nightingales strewn
+House Cole.svg|House Cole: scarlet, ten pellets (4-3-2-1)
+House Connington.svg|House Connington: per pale red and white, two griffins combatant counterchanged
+House Dondarrion.svg|House Dondarrion: black specked with purple stars of four points, a forked purple lightning bolt
+House Morrigen.svg|House Morrigen: storm green, a black crow in flight
+House Seaworth.svg|House Seaworth: pale grey, a white ship with black sails displaying an onion proper
+House Selmy.svg|House Selmy: dark brown, three stalks of yellow wheat
+House Swann.svg|House Swann: per fess white and black, two swans counterchanged
+House Tarth.svg|House Tarth: quarterly blue and salmon, 1st and 4th mirrored a white crescent, 2nd and 3rd and central a yellow sunburst
+House Wylde.svg|House Wylde: gold, a blue-green maelstrom
+</gallery>
+
+==The Reach==
+<gallery>
+House Ashford.svg|House Ashford: orange, a white sunburst beneath a white inverted chevron
+House Beesbury.svg|House Beesbury: paly yellow and black, three black beehives on a yellow pale within a yellow border
+House Blackbar.svg|House Blackbar: silver, a black fess
+Bronn.svg|Bronn's house: a flaming arrow bendwise
+House Florent.svg|House Florent: ermine, a fox proper guardant contourny
+House Fossoway.svg|House Fossoway: gold, a red apple
+House Fossoway of New Barrel.svg|House Fossoway of New Barrel: gold, a green apple
+House Gardener.svg|House Gardener: white, a green hand
+House Hastwyck.svg|House Hastwyck: barry olive and ivory
+House Hightower.svg|House Hightower: smoke grey, a white tower crowned with green flame
+House Hightower Alternate.svg|House Hightower (variant): per fess black and green separated by a white inverted chevronel, a white stone watchtower crowned with green flame in chief
+House Leygood.svg|House Leygood: orange, three black thunderbolts
+House Peake.svg|House Peake: orange, three black castles (2-1)
+House Redwyne.svg|House Redwyne: white, a purple grape cluster
+House Rowan.svg|House Rowan: silver, a gold tree
+House Tarly.svg|House Tarly: green, a striding red huntsman
+House Tarly Alternate.svg|House Tarly (variant): green, a red huntsman contourny
+House Tyrell.svg|House Tyrell: green, a gold rose
+</gallery>
+
+==Dorne==
+<gallery>
+House Blackmont.svg|House Blackmont: black, a black and white vulture grasping an infant in its talons
+House Dalt.svg|House Dalt: purple, nine wild lemons (3-3-3)
+House Dayne.svg|House Dayne: blue, a black sword in the tail of a white falling star
+House Dayne Alternate 1 Circle.svg|House Dayne (variant): purple, a white falling star crossing a white sword
+House Jordayne.svg|House Jordayne: chequy green and white, a gold quill palewise
+House Manwoody.svg|House Manwoody: black, a white skull with a gold crown
+House Martell.svg|House Martell: orange, a red sunburst pierced by a gold spear
+Mors Martell.svg|House Martell (pre-Nymeria): orange, a gold spear palewise
+Nymeria.svg|Personal arms of Nymeria: white, a red sunburst
+House Qorgyle.svg|House Qorgyle: red, three black scorpions (1-2)
+</gallery>
+
+==Beyond the Seven Kingdoms==
+Other regions of the [[known world]] might not have the same rules and standards of heraldry as are used in the Seven Kingdoms of Westeros. Even so, many groups in [[Essos]] use various heraldic designs to distinguish themselves. Sometimes these may be political entities, but it is most common in Essos to see heraldry used by independent [[Mercenary#Sellsword companies|mercenary companies]], using distinct symbols on their banners in order to serve the original purpose of heraldry: so soldiers and captains can distinguish the movement of different forces on the battlefield.
+
+The old [[Ghiscari Empire]] used [[Harpy|harpies]] as its symbol, until it was defeated by the [[Valyrian Freehold]] five thousand years ago. After the [[Doom of Valyria]] four hundred years before the War of the Five Kings, local city-states and former colonies of the region reasserted their independence, and became known as [[Slaver's Bay]]. The three major city-states of Slaver's Bay - [[Astapor]], [[Yunkai]], and [[Meereen]] - like to think of themselves as continuations of the former glories of [[Old Ghis]], so they also use harpies as their symbols, though each uses a slight variant. The Astapori harpy holds a chain with open manacles, the Yunkish harpy holds a whip and an iron collar, while the Meereenese harpy holds nothing.
+
+So far (in both the books and TV series) no specific heraldry has been mentioned for any of the nine [[Free Cities]] (though [[Braavos]] mints its [[money]] with a symbol of the [[Titan of Braavos]] , a famous landmark from the city). Individual noble families or wealthy ruling merchant families from the Free Cities do sometimes use their own heraldic devices but even in the books they have not been prominently mentioned. If anything, at one point in the books [[Illyrio Mopatis]] of [[Pentos]] remarks that he thinks the Westerosi take their heraldry much too seriously (i.e. Tywin Lannister's constant speeches about how "the lion does not concern himself with the opinions of sheep!") - so apparently, heraldry is simply not as important or developed in the Free Cities as it is in Westeros.
+
+The [[Dothraki]] are an illiterate society but also do not use any particular banners or symbols. Dothraki ''[[khalasar]]s'' do sometimes differentiate themselves by decorating their bodies and their horses with different colors of paint. For example, Khal [[Drogo]]'s ''khalasar'' used blue paint. Blue is one of the most expensive dye colors available to the Dothraki, and thus its use it associated with great wealth and power (similar to how purple is the most expensive color dye in Westeros, and thus became associated with royalty).<ref>Season 3 Blu-Ray special features</ref> In contrast, Khal [[Jhaqo]]'s new ''khalasar'', formed after Drogo's death, uses red paint to decorate themselves and their horses. Jhaqo may have initiated this switch to distance his new rule from Drogo's, and cheaper red paint was all they had available at the time.<ref>[http://www.dothraki.com/2012/04/rhaeshi-ajjalani/ David J. Peterson's blog], Dothraki.com</ref> However, individual ''khalasars'' have no names, nor particularly long-lasting or deep histories and affiliations, because they frequently dissolve on the death of their ''khal'', or get conquered and absorbed by other ''khalasars''. As a result, the paint-schemes used by individual'' khalasars'' do not usually last from one generation to the next.
+
+As for the lands [[beyond the Wall]] in Westeros, [[Ygritte]] specifically says that the [[Free Folk]] do not use heraldry, or wave banners around which make their forces easy to spot on a conventional battlefield. Instead, they prefer attack by ambush.
+
+<gallery>
+Second Sons.jpg|The banner of the [[Second Sons]] mercenary company, displaying a broken sword.
+Golden Company S8 Ep5.jpg|The heraldry of the [[Golden Company]], a mercenary army: a cluster of gold skulls hanging from a red spear on a black field.
+Ancient Ghis Harpy.jpg|A harpy statue from the city of [[Old Ghis]] as depicted in ''[[Histories & Lore]]''.
+Dany_GoodMasters3x03.jpg|The harpy of Astapor is traditionally depicted holding a chain with open manacles between its talons.
+Whip.jpg|The whip in the form of a harpy the [[Good Masters]] use to control the [[Unsullied]].
+Drogo Dany Wedding Day.png|Members of [[Drogo]]'s [[Dothraki]] khalasar decorated themselves with expensive blue paint on formal occasions.
+Daenerys & Irri 2x02.png|[[Jhaqo]]'s new khalasar switched to decorating themselves and their horses with red paint.
+Golden Company.svg|The Golden Company bore the image of skulls suspended from a spear on their shields.
+</gallery>
+
+==Behind the scenes==
+[[File:Jim Stanes heraldry.png|thumb|Jim Stanes in his workshop. Note the heraldry chart in the background.]]
+[[File:Heraldry behind the scenes 1.png|thumb|Stanes's early heraldry concept art. Note that some, such as the Umber and Royce sigils, ''do not'' match their final, on-screen versions.]]
+While the heraldry designs used by each noble house were established by author [[George R.R. Martin]] in the ''[[A Song of Ice and Fire]]'' novels, graphic artist [[Jim Stanes]] was tasked with taking Martin's textual descriptions and adapting them into the visual format of the TV series. Stanes achieved this after laborious effort, and comparisons with literally hundreds of examples from real-life medieval heraldry.
+
+Stanes described the process of physically making the heraldic banners:
+
+:"We basically sent digital files of the artwork to printers, with specific instructions about how big they are, color matching, we put a color system here, which the printer also has. So we print up banners, flags, tent materials, all sorts of things like that."<ref>[http://www.youtube.com/watch?v=SaLzC91ty7Q Game Of Thrones: The Artisans - Jim Stanes, Graphic Artist: Heraldry]</ref>
+
+He went on to explain that the sigils that appear on shields or armor are directly painted on, or applied by the production team. A few of the major Houses get their own molded shields, i.e. the Stark direwolf which appears on their shields is not simply painted on but a more detailed molding. Some of the major Houses also get their own custom armor which features their sigils as part of the design, i.e. the Lannister lions worked into [[Tywin Lannister]]'s armor.
+
+Stanes explained that the heraldry for the [[Great House]]s were the first ones to be fully developed for Season 1, as well as for a few of the other major Houses which appear prominently in Season 1 (i.e. [[House Umber]]).
+[[File:Heraldry behind the scenes 2.png|thumb|Concept art of the Lannister lion sigil.]]
+[[File:Heraldry behind the scenes 3.png|thumb|Concept art of the Stark direwolf sigil.]]
+Stanes described the process of creating the heraldry for some of the Great Houses:
+
+:"The Lannister lion, we went through hundreds and hundreds of versions. We looked at references from the ancient past, the Middle Ages, we looked at 20th century logos, all sorts of different ideas on how a lion could look."<ref>[http://www.youtube.com/watch?v=SaLzC91ty7Q Game Of Thrones: The Artisans - Jim Stanes, Graphic Artist: Heraldry]</ref>
+
+:"The Stark sigil took a long time to develop. The direwolf is a big symbol in the [TV series], so we needed to establish something that really felt right."<ref>[http://www.youtube.com/watch?v=SaLzC91ty7Q Game Of Thrones: The Artisans - Jim Stanes, Graphic Artist: Heraldry]</ref>
+
+:"Greyjoy, they're the kraken. I didn't even known what a kraken was: it's a giant squid, basically, that what's everybody says it is, so we did a big squid."<ref>[http://www.youtube.com/watch?v=SaLzC91ty7Q Game Of Thrones: The Artisans - Jim Stanes, Graphic Artist: Heraldry]</ref>
+
+==In the books==
+The heraldry designs of certain noble houses are depicted differently between the books and TV series.
+
+In the TV series, many of the sigils used by the Great Houses have alternate versions, some showing the full body of the animal they represent, others just the head, i.e. a direwolf head for the Starks, a lion's head for the Lannisters, a stag's head for the Baratheons. The books clarify that the full-bodied running grey direwolf is the official heraldry design of House Stark: the variant using just a direwolf's head is Robb Stark's personal sigil. The TV series just uses various alternate designs, each of them considered "official" for their noble house.
+
+Sometimes these are slight variations on the field, often adding a base on the bottom of large banners, though these additions are not seen in all versions. For example, [[House Stark]]'s heraldry in the books only consists of a grey direwolf on a snow white field. In the TV series, large banners sometimes depict this surmounting a green base, introducing a new color that wasn't in the original heraldry. Some of the original House Baratheon banners (i.e. at the tournament in Season 1) use a black base on the bottom of large banners, but this is simply a re-use of colors already in the heraldry (from the black stag).
+
+On a few occasions the heraldry of a noble house has been drastically altered in the TV series, possibly to make it more easily visible. The greatest example are the changes made to the heraldry of [[House Frey]]. In the books, House Frey's heraldry consists of the two towers and bridge of the [[Twins]] colored blue, on a silver-grey background. The TV series made the towers white, and over the same grey field, but now above a blue base which is drawn to resemble the waves of the Green Fork of the Trident River. The color change may be because after the blue river was added as a base at the bottom, it would have been visually confusing to have the castle be the same color as the water. Unfortunately, reversing the colors like this makes it vaguely resemble the reversed colors used in heraldry by bastard children (though in such cases, without the base, the entire background field is blue, not just the base).
+
+The heraldry of [[House Tully]], which is fairly important as it is one of the Great Houses, was significantly re-arranged in the adaptation. In the TV series, it is striped horizontally, with two wavy white lines separating a red top section (which contains a white fish) and a blue bottom section (the small space between the two white stripes is also blue). In the books, the stripes run ''vertically'', and there are no white stripes. Rather, the heraldry starts as blue, but then two wavy muddy-red vertical stripes run through the blue, making for a total of five stripes - each of equal width - alternating blue/red/blue/red/blue. The white fish is set in the middle of this, and crosses through multiple stripes. Because the TV series just has two large red and blue sections, instead of five stripes of equal width, the fish in the TV series is entirely contained within the top red section.
+
+[[House Arryn]], also a Great House, also had its heraldry significantly changed. In the books, House Arryn's heraldry is a sky-blue falcon soaring against a white moon, on sky-blue. The TV series version, however, has a white falcon next to a white crescent moon, on a blue field.
+
+In the books, the sigil of [[House Umber]] is a roaring giant in chains, but the TV series changed this to simply four linked chains connected by a central ring. It is possible there were concerns that the TV audience might not understand it was meant to be a [[Giants|giant]] and not just an odd-looking man. Earlier concept art by Jim Stanes (seen in production blogs) reveals that the TV version of the Umber sigil went through several versions, and an earlier version did contain a giant's arm (with its body out of frame) grasping the chains.
+
+[[House Redwyne]]'s heraldry in the books is a burgundy grape cluster on a blue field, but the TV series changed this to a purple grape cluster on a white field, probably because burgundy on blue is more difficult to readily distinguish.
+
+The heraldry of [[House Florent]] is inconsistently described in the books, but apparently consists of a red-gold fox's head, encircled by lapis lazuli flowers, all of which is on an ermine background. The TV version simply omits the lapis lazuli flowers (and predominantly shows a full-bodied fox).
+
+[[Petyr Baelish|Petyr "Littlefinger" Baelish]] prefers to use his personal mockingbird sigil, but as he is the only living member of [[House Baelish]], he has functionally replaced the old version (which featured the head of the Titan of Braavos) with his own. The mockingbird heraldry does not appear prominently in heraldry on the TV series (though Petyr does prominently wear a mockingbird-shaped broach, it doesn't feature colors). The one time it has appeared was on a ship's sail in Season 3, in which it seemed to be a black mockingbird on a yellow field. In the books, the sigil actually consists of silver mockingbirds strewn on a green field.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+*{{WP}}
+
+<!--Categories-->
+[[Category:Culture]]
+
+<!--Languages-->
+[[pt-br:Heráldica]]

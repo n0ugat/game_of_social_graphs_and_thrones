@@ -1,0 +1,71 @@
+{{DISPLAYTITLE:High Septon {{C|Robert's Rebellion}}}}
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Faith of the Seven.svg
+| Link  = Faith of the Seven
+}}
+{{Character
+| Title       = High Septon
+| Type        = Faith
+| Image       = Maynard.png
+| Birth       = Maynard<br>[[233 AC]]{{Dateref|Maynard}}
+| Death       = 
+| House       = 
+| Affiliation = [[Faith of the Seven]]
+| Titles      = [[High Septon]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Andals|Andal]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 7|7]]
+| Appearances = "[[The Dragon and the Wolf]]" {{Vision}}
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Tom Chadbon]]
+}}
+{{Quote|Maynard says here that he issued an annulment for a Prince "Rag-ar" and remarried him to someone else at the same time in a secret ceremony in Dorne.|[[Gilly]]|Eastwatch}}
+Born '''Maynard''', this '''High Septon''' served prior to [[Robert's Rebellion]].
+
+==Biography==
+===Background===
+The man known as Maynard eventually came to be chosen as the [[High Septon]] of the [[Faith of the Seven]] by the [[Most Devout]] prior to [[Robert's Rebellion]]. Shortly before the outbreak of the rebellion, Maynard issued an annulment for the marriage of  [[Rhaegar Targaryen]] and [[Elia Martell]], overseeing the secret marriage ceremony of Rhaegar to [[Lyanna Stark]] in [[Dorne]]. He eventually died as another High Septon was chosen.{{Ref|GOT705}}
+
+===[[Game of Thrones: Season 7|''Game of Thrones'': Season 7]]===
+[[Gilly]] reads to [[Samwell Tarly|Samwell]] some trivial information recorded by Maynard, such as the number of steps in the [[Citadel]], the number of windows in the [[Great Sept of Baelor]] and his own bowel movements. Samwell finds all of this information useless, though when Gilly reads about the annulment and secret wedding that Maynard performed, neither of them realize its importance.{{Ref|GOT705}}
+
+When Samwell arrives at [[Winterfell]], he meets with [[Bran Stark|Bran]], who confides in Sam that [[Jon Snow]] is not the son of [[Eddard Stark]], but the son of Rhaegar and his aunt Lyanna, and thus is Jon Sand. Samwell reveals High Septon Maynard's annulment of Rhaegar's marriage to Elia Martell to Bran, however, and, knowing of Bran having the power of the [[Sight]], urges Bran to look into the past to confirm all of this. Bran uses the sight to watch Maynard wed Rhaegar and Lyanna and learns that they were actually in love with each other. He further discovers that their son is named [[Jon Snow|Aegon Targaryen]], and is the rightful heir to the [[Iron Throne]], over his aunt [[Daenerys Targaryen|Daenerys]].{{Ref|GOT707}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no [[High Septon]] who is remembered as High Septon Maynard. High Septons abandon whatever names they had before, and thus they have no names and are simply remembered by the time during which they served as the head of the [[Faith of the Seven]]. 
+
+There was, of course, a High Septon during the time of Robert's Rebellion, though like all other High Septons, his name is unknown. 
+
+There has been no mention of the High Septon around Robert's Rebellion issuing an annulment to Rhaegar and Elia's marriage and remarrying Rhaegar to Lyanna. Rhaegar and Elia already had two children, [[Rhaenys Targaryen (daughter of Rhaegar)|Rhaenys]] and [[Aegon Targaryen (son of Elia Martell)|Aegon]], while Lyanna was betrothed to [[Robert Baratheon]], so it is unclear how an annulment could have been issued if one was.
+
+==Appearances==
+*{{GOT|Eastwatch}} {{Mentioned}}
+*{{GOT|The Dragon and the Wolf}} {{Vision}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Categories-->
+[[Category:High Septons|Robert's Rebellion]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Westerosi]]
+
+<!--Languages-->
+[[fr:Maynard (Grand Septon)]]
+[[ru:Верховный септон (Восстание Роберта)]]

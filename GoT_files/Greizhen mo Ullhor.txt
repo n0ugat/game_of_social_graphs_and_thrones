@@ -1,0 +1,77 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Slaver's Bay.svg
+| Link  = Good Masters
+}}
+{{Character
+| Title       = Greizhen mo Ullhor
+| Type        = Ghiscari
+| Image       = Greizhen mo Ullhor.jpg
+| Birth       = 
+| Death       = [[300 AC]]{{Dateref|Game of Thrones: Season 3}}<br>[[Plaza of Pride]], [[Astapor]]{{Ref|GOT304}}
+| House       = [[House of Ullhor|Ullhor]]
+| Affiliation = [[Good Masters]]
+| Titles      = Master
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Ghiscari]] {{C|[[Astapor]]i}}
+| Religion    = [[Ghiscari religion]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 3|3]]
+| Appearances = 2 episodes {{Below|Appearances}}
+| First       = "[[Walk of Punishment (episode)|Walk of Punishment]]"
+| Last        = "[[And Now His Watch Is Ended]]"
+| DeathEp     = "And Now His Watch Is Ended"
+| Actor       = [[Clifford Barry]]
+}}
+{{Quote|If they fail in the battlefield, they will shame Astapor.|Greizhen mo Ullhor on selling half-trained [[Unsullied]]|Walk of Punishment (episode)}}
+'''Greizhen mo Ullhor''' was a slave-trader in the city of [[Astapor]], on the coast of [[Slaver's Bay]].
+
+==Biography==
+===Background===
+Greizhen mo Ullhor is of the [[Good Masters]], the ruling elite of the city. He is an immensely wealthy [[Slavery|slaver]] who has grown rich from the training and trading of the [[Unsullied]] warrior-eunuchs.{{Ref|GOT303}}
+
+===[[Game of Thrones: Season 3|''Game of Thrones'': Season 3]]===
+Greizhen accompanies fellow Good Master [[Kraznys mo Nakloz]] and a third Good Master for negotiations with [[Daenerys Targaryen]] and is amused by Kraznys' comments about her. When Daenerys states that she wants to buy not just the fully-trained Unsullied but the slaves in training as well, Greizhen opposes, concerned that if these half-trained warriors fail on the battlefield it would shame Astapor.{{Ref|GOT303}}
+
+[[File:KraznysGreizhen.jpg|thumb|Greizhen and Kraznys about to deliver the Unsullied]]
+Greizhen is present at one of Astapor's plazas for the conclusion of the transaction with Daenerys: the Unsullied and the half-trained boys in exchange for her [[dragon]], [[Drogon]]. He is killed when Daenerys orders the Unsullied to kill all the Good Masters, slave-drivers, and soldiers in the city, sparing only the children, and to liberate all the slaves.{{Ref|GOT304}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, when Daenerys meets with the Good Masters, one of them, Grazdan mo Ullhor, is hesitant to sell the half-trained Unsullied because, if defeated, Astapor and the Good Masters would be shamed. The name seems to have been changed because Grazdan is a common name in [[Slaver's Bay]].
+
+During the fall of Astapor, Grazdan yells to the Unsullied to defend their masters, but they do not comply. He is killed by [[Rakharo]].
+
+==Appearances==
+*{{GOT|Walk of Punishment}}
+*{{GOT|And Now His Watch Is Ended}}
+*{{GOT|The Iron Throne}} {{Indirect}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|Grazdan mo Ullhor}} 
+
+<!--Categories-->
+{{DEFAULTSORT:Ullhor, Greizhen mo}}
+[[Category:Astapori]]
+[[Category:Good Masters]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Members of the House of Ullhor|Greizhen mo Ullhor]]
+[[Category:Slavers]]
+
+<!--Languages-->
+[[de:Greizhen mo Ullhor]]
+[[fr:Greizhen mo Ullhor]]
+[[ru:Грейзхен мо Уллхор]]

@@ -1,0 +1,30 @@
+{{Cast
+|Title = Harry Grasby
+|Image = Harry Grasby.jpg
+|role = [[Ned Umber]]
+|status = 
+|Appearances = "[[Dragonstone (episode)|Dragonstone]]"
+|imdb = http://www.imdb.com/name/nm9132255/}}'''Harry Grasby''' is an English actor. He starred in a production of ''{{WPS|Chitty Chitty Bang Bang}}'' at the {{WPS|West Yorkshire Playhouse}}.
+
+In ''[[Game of Thrones]]'' he portrayed [[Ned Umber]].
+
+==Gallery==
+<gallery widths="165" spacing="small" orientation="landscape">
+Lord umber dead Behind Scenes.jpg|Behind the scenes shots of Lord Umber
+Behind Scenes Harry Grasby as Umber.jpg
+Behind Scenes Harry Grasby and death Umber.jpg
+</gallery>
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 7|yes}}
+{{Game of Thrones: Season 8|yes}}
+
+==See also==
+*{{IMDb
+|# = 9132255}}
+{{DEFAULTSORT:Grasby, Harry}}
+[[de:Harry Grasby]]
+[[fr:Harry Grasby]]
+[[ru:Харри Грэсби]]
+[[Category:Guest starring cast members of Game of Thrones]]

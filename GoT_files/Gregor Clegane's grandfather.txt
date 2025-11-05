@@ -1,0 +1,77 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Heraldry
+| Image = House Clegane.svg
+| Link  = House Clegane
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Lannister
+| Image       = Kennelmaster.png
+| Birth       = The [[Westerlands]]
+| Death       = 
+| House       = [[House Clegane|Clegane]]
+| Affiliation = [[House Lannister]]
+| Titles      = [[Kennelmaster]] at [[Casterly Rock]]<br>[[Knighthood|Ser]]
+| AKA         = 
+| Culture     = [[Westerlands|Westermen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = {[[Gregor Clegane's father|Son]]}
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Most families claim some great ancestor so far back that nobody can prove them liars. Not us. My grandfather kept the kennels for Lord Tytos Lannister of Casterly Rock.|[[Sandor Clegane]]|House Clegane (short)}}
+'''Gregor Clegane's grandfather''' was the [[kennelmaster]] at [[Casterly Rock]] and the founder of [[House Clegane]].
+
+==Biography==
+The founder of House Clegane was the kennelmaster at Casterly Rock. While accompanying Lord [[Tytos Lannister]] on a hunt, they were attacked by a [[lion]]ess. He rescued his master and was awarded lands and [[knighthood]] for his actions. The three dogs on the Clegane sigil signify the three dogs that died fighting off the lioness that attacked Tytos.{{Ref|H&L210}}
+
+==Family==
+{{Clegane tree}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' ​novels, the kennelmaster lost three hounds and a leg in the process of saving Lord Tytos. As a reward, Tytos gave him lands and a towerhouse and took his son as his squire. Their sigil is three dogs on a yellow field; the three dogs represent the dogs that died saving Tytos.
+
+So far, his actual name hasn't been mentioned in the books.
+
+The lion's attack on Tytos was considered quite unusual, given that lions are thought to be extinct in the mountains of the [[Westerlands]] - though a few lions are kept at Casterly Rock. The great lions of the Westerlands were once fairly common, enough that the ancient Lannisters took them as their sigil thousands of years ago. Human encroachment over the centuries, however, gradually led to the number of lions dwindling.
+
+==Appearances==
+*{{H&L|House Clegane}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Clegane (founder)}}
+
+<!--Navboxes-->
+{{House Clegane}}
+
+<!--Categories-->
+{{DEFAULTSORT:Clegane's grandfather, Gregor}}
+[[Category:Bannermen of House Lannister]]
+[[Category:Ennobled commoners]]
+[[Category:House founders]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Kennelmasters]]
+[[Category:Knights]]
+[[Category:Members of House Clegane|Gregor Clegane's grandfather]]
+[[Category:Servants and retainers of House Lannister]]
+[[Category:Westermen]]
+
+<!--Languages-->
+[[fr:Clegane (fondateur)]]
+[[pt-br:Clegane (fundador)]]
+[[ru:Клиган (основатель)]]
+[[uk:Кліган (засновник)]]

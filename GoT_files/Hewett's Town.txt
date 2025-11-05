@@ -1,0 +1,35 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Tyrell
+| Image        = 
+| Type         = Town
+| Status       = 
+| Location     = [[Oakenshield]], the [[Reach]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Hewett's Town'''{{Ref|THTDB201}} is a town on the island of [[Oakenshield]] in the [[Reach]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Lord Hewett's Town is the seat of House Hewett. It is twice as large as [[Lordsport]].
+
+Oakenshield is conquered by [[Euron Greyjoy]] during his invasion of the Reach and granted to Nute the Barber.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Lord Hewett's Town}}
+
+<!--Navboxes-->
+{{Reach}}
+
+<!--Categories-->
+[[Category:Shield Islands]]
+[[Category:Towns]]

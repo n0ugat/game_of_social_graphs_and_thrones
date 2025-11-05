@@ -1,0 +1,43 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Kingdoms
+| Image   = Gyula Tóth.jpg
+| Birth   = 
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[Game of Thrones]]''<br>''[[House of the Dragon]]''<br>''[[A Knight of the Seven Kingdoms]]''
+| Season  = ''Game of Thrones'':<br>[[Game of Thrones: Season 3|3]] {{*}} [[Game of Thrones: Season 4|4]] {{*}} [[Game of Thrones: Season 6|6]] {{*}} [[Game of Thrones: Season 7|7]] {{*}} [[Game of Thrones: Season 8|8]]<br>''House of the Dragon'':<br>[[House of the Dragon: Season 1|1]]<br>''A Knight of the Seven Kingdoms'':<br>[[A Knight of the Seven Kingdoms: Season 1|1]]
+| Credits = 15 episodes {{Below|Credits}}
+| First   = "[[The Rains of Castamere (episode)|The Rains of Castamere]]"
+| Last    = 
+}}
+'''Gyula Tóth''' is a stuntman.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 3|third season]] episodes "[[The Rains of Castamere (episode)|The Rains of Castamere]]" and "[[Mhysa]]," the [[Game of Thrones: Season 4|fourth season]] episodes "[[The Watchers on the Wall]]" and "[[The Children]]," the [[Game of Thrones: Season 6|sixth season]] episode "[[Battle of the Bastards (episode)|Battle of the Bastards]]," the [[Game of Thrones: Season 7|seventh season]] episode "[[Stormborn]]," and the [[Game of Thrones: Season 8|eighth season]] episode "[[The Bells]]."
+
+In ''[[House of the Dragon]]'', he was a stunt performer in the [[House of the Dragon: Season 1|first season]] episodes "[[The Heirs of the Dragon]]" and "[[King of the Narrow Sea (episode)|King of the Narrow Sea]]".
+
+In ''[[A Knight of the Seven Kingdoms]]'', he was a stunt double for [[Peter Claffey]] in upcoming episodes.
+
+==Credits==
+===''[[Game of Thrones]]''===
+{{Game of Thrones: Season 3|||||||||yes|yes}}
+{{Game of Thrones: Season 4|||||||||yes|yes}}
+{{Game of Thrones: Season 6|||||||||yes}}
+{{Game of Thrones: Season 7||yes}}
+{{Game of Thrones: Season 8|||||yes}}
+
+===''[[House of the Dragon]]''===
+{{House of the Dragon: Season 1|yes|||yes}}
+
+===''[[A Knight of the Seven Kingdoms]]''===
+{{A Knight of the Seven Kingdoms: Season 1|yes|yes|yes|yes|yes|yes}}
+
+==External links==
+*{{IMDb|# = 4115620}}
+
+<!--Categories-->
+{{DEFAULTSORT:Tóth, Gyula}}
+[[Category:Stunt performers of A Knight of the Seven Kingdoms]]
+[[Category:Stunt performers of Game of Thrones]]
+[[Category:Stunt performers of House of the Dragon]]

@@ -1,0 +1,49 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Animal
+| Title       = {{PAGENAME}}
+| Type        = Westeros
+| Image       = 
+| Species     = [[Dragon]]
+| Birth       = [[Dragonstone (island)|Dragonstone]], the [[Crownlands]]{{Con|F&B}}
+| Death       = 
+| AKA         = 
+| Affiliation = 
+| Family      = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+}}
+{{Quote|Then there are the three wild dragons, all of whom nest here.|Daemon Targaryen|The Black Queen}}
+'''Grey Ghost'''{{Con|F&B}} is a wild [[dragon]] residing on [[Dragonstone (island)|Dragonstone]] during the [[Dance of the Dragons]].{{Ref|HOTD110}}
+
+==In the books==
+In ''[[Fire & Blood]]'', Grey Ghost was a pale grey-white dragon, residing in a smoking vent high on the eastern side of the [[Dragonmont]]. He earned his name for his solitary nature, shyly avoiding men and their works, remaining unseen for years at a time. He could sometimes be glimpsed hunting for fish in the [[Narrow Sea]].
+
+Similarly to the [[Cannibal]], Grey Ghost never accepted a rider.
+
+==Appearances==
+*{{HOTD|The Black Queen}} {{Indirect}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{Dragons/House of the Dragon}}
+
+<!--Categories-->
+[[Category:Individuals mentioned in House of the Dragon]]
+[[Category:Wild dragons]]
+
+<!--Languages-->
+[[pl:Szary Duch]]
+[[ru:Серый Призрак]]

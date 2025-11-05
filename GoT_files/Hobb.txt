@@ -1,0 +1,78 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Night's Watch.svg
+| Link  = Night's Watch
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = Hobb.png
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[Night's Watch]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 4|4]]
+| Appearances = "[[The Watchers on the Wall]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = Unidentified
+}}
+{{Quote|Hobb makes venison stew with onions. Very tasty.|Samwell Tarly|The Climb}}
+'''Hobb''' is a member of the [[Night's Watch]].
+
+==Biography==
+===Background===
+Hobb is a [[Steward (Night's Watch)|steward]] of the [[Night's Watch]]. He serves as the cook of [[Castle Black]].{{Ref|GOT306}}
+
+===[[Game of Thrones: Season 3|''Game of Thrones'': Season 3]]===
+On their way back to the Wall from the [[Mutiny at Craster's Keep|mutiny]] at [[Craster's Keep]], [[Samwell Tarly|Sam]] mentions to [[Gilly]] that Hobb makes a very tasty venison stew with onions.{{Ref|GOT306}}
+
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+[[File:Hobb's_Butcher's_Knife.png|thumb|Hobb prepares to butcher wildlings with his hog-splitter.]]
+While staying at Castle Black, Gilly plucks geese and takes them to Hobb in the kitchens.{{Ref|GOT403}}
+
+Acting Commander [[Alliser Thorne|Thorne]] warns [[Jon Snow]] that Hobb will serve his direwolf [[Ghost]] for supper if the creature isn't locked up.{{Ref|GOT407}}
+
+During the [[battle for the Wall]], a small wildling party comes from the south and breaches the walls of the keep, and some of them break into the kitchen. Hobb calmly walks up to the wildlings, still wearing his apron, and lands his hog-splitter into the chest of one of them.{{Ref|GOT409}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Hobb is also known as Three-Finger Hobb. In the show, he is never identified as such and seems to have all of his fingers.
+
+==Appearances==
+*{{GOT|The Climb}} {{Mentioned}}
+*{{GOT|Breaker of Chains}} {{Mentioned}}
+*{{GOT|Mockingbird}} {{Mentioned}}
+*{{GOT|The Watchers on the Wall}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Three-Finger Hobb}}
+
+<!--Navboxes-->
+{{Night's Watch}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Smallfolk]]
+[[Category:Stewards of the Night's Watch]]
+[[Category:Westerosi]]
+
+<!--Languages-->
+[[pl:Hobb]]
+[[ru:Хобб]]

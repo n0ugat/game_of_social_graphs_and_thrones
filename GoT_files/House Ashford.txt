@@ -1,0 +1,70 @@
+{{Canonicity|Canon}}
+{{Spoiler|AKOTSK}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Bronn
+| Image     = House Ashford.svg
+| Arms      = Tenné, a chevron inverted argent; in base an estoile of twelve rays of the same <br> {{C|An inverted chevron and a twelve-rayed sun, both white, on an orange field}}
+| Words     = 
+| Titles    = 
+| Seat      = [[Ashford Castle]]
+| Region    = [[Reach]]
+| Head      = [[Lord Ashford]]
+| Heir      = 
+| Overlords = [[Bronn's house]]<br>{[[House Tyrell]]} {{C|[[1 AC|1]]{{Dateref|Aegon's Conquest}}-[[304 AC]]}}{{Dateref|Game of Thrones: Season 7}}<br>{[[House Gardener]]} {{C|pre-[[Aegon's Conquest]]}}
+| Vassals   = 
+| Religion  = [[Faith of the Seven]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Ashford'''{{Ref|GOT504}}{{Note|Lord Ashford's surname is Ashford.}} of [[Ashford]] is a vassal house from the [[Reach]] that holds fealty to Lord [[Bronn]] of [[Highgarden]]. Their seat is [[Ashford]].
+
+==History==
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+[[Samwell Tarly|Sam]] presents some paperwork to Lord Commander [[Jon Snow]], consisting of requests to various noble Houses to send new recruits to the [[Night's Watch]]. A few Houses can spare any men during the [[War of the Five Kings]], so the Watch is left scraping the bottom of the barrel: the requests are mostly to minor lords that Jon says he hasn't even heard of, including [[Lord Ashford]].{{Ref|GOT504}}
+
+==Members==
+*[[Lord Ashford]], head of the house.
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, House Ashford is never mentioned. It is unknown which side the house took at the [[Battle of Ashford]] and at [[Robert's Rebellion]] in general.
+
+House Ashford appears in ''The Hedge Knight'' (the first of the "Dunk and Egg" stories) and is mentioned in ''[[Fire & Blood]]''.
+
+===Historical members===
+*Ser Alyn Ashford, during the reign of King [[Jaehaerys I Targaryen]].
+*Lord Ashford, head of the family during the reign of King [[Daeron II Targaryen]].
+**Ser Androw Ashford, his eldest son and heir, a knight.
+**Ser Robert Ashford, his second son, a knight.
+**His unnamed daughter, thirteen years old at the time of the tourney.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|AKOTSK}}
+
+<!--Navboxes-->
+{{House Ashford}}
+{{Houses from the Reach}}
+
+<!--Categories-->
+{{DEFAULTSORT:Ashford, House}}
+[[Category:House Ashford| ]]
+[[Category:Houses from the Reach]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[de:Haus Aschfurt]]
+[[es:Casa Ashford]]
+[[it:Casa Ashford]]
+[[nl:Huis Esfoort]]
+[[pl:Ród Ashford]]
+[[pt-br:Casa Ashford]]
+[[ru:Эшфорды]]
+[[zh:岑佛德家族]]

@@ -1,0 +1,53 @@
+{{Canonicity|Canon}}
+{{References}}
+{{House
+| Title     = {{PAGENAME}}
+| Type      = Targaryen
+| Image     =
+| Arms      = 
+| Words     = 
+| Titles    = 
+| Seat      = 
+| Region    = [[Crownlands]]
+| Head      = 
+| Heir      = 
+| Overlords = [[House Targaryen/House of the Dragon|House Targaryen]]
+| Vassals   = 
+| Religion  = [[Faith of the Seven]]
+| Cadets    = 
+| Founded   = 
+| Died      = 
+| Weapon    = 
+}}
+'''House Cargyll'''{{Guideref|Arryk Cargyll}}{{Note|Arryk and Erryk's surname is Cargyll.}} is a vassal house from the [[Crownlands]].
+
+==Known members==
+*Ser {[[Arryk Cargyll]]}, a [[Knighthood|knight]] of the [[Kingsguard]] of [[Viserys I Targaryen]] and [[Aegon II Targaryen]]. Killed by Erryk in a [[duel on Dragonstone]].
+*Ser {[[Erryk Cargyll]]}, Arryk's twin brother, also a knight of the Kingsguard of Viserys I Targaryen and [[Rhaenyra Targaryen]]. Killed himself shortly after killing Arryk.
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, House Cargyll is extinct. However, their sigil is mentioned in ''The Hedge Knight'', as a member of the house participates in the [[Ashford]] Tourney.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{House Cargyll}}
+{{Houses from the Crownlands/House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Cargyll, House}}
+[[Category:Extinct houses]]
+[[Category:House Cargyll| ]]
+[[Category:Houses from the Crownlands]]
+[[Category:Vassal houses]]
+
+<!--Languages-->
+[[fr:Maison Cargyll]]
+[[ru:Каргиллы]]

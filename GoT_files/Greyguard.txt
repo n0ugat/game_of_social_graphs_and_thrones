@@ -1,0 +1,62 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Night's Watch.svg
+| Link  = Night's Watch
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Watch
+| Image        = 
+| Type         = Castle
+| Status       = Ruined
+| Location     = The [[Wall]], the [[Gift]]
+| Population   = 
+| Rulers       = [[Night's Watch]]
+| Institutions = 
+| Military     = 
+| Religion     = 
+| Places       = 
+| Founded      = 
+}}
+{{Dialogue a-b-a|Jon Snow|Lord Janos, I'm giving you command of Greyguard.|Janos Slynt|Greyguard is a ruin.|Yes, the fort is in a sorry state. Restore it as best you can.|Jon Snow commands Greyguard to be restored and re-manned.|High Sparrow (episode)}}
+'''Greyguard'''{{Ref|GOT503}} is a ruined castle on the [[Wall]].
+
+==History==
+===[[Game of Thrones: Season 3|''Game of Thrones'': Season 3]]===
+[[File:306 Tormund north side of the Wall.jpg|thumb|[[Tormund]] and [[Jon Snow]] prepare to scale the north side of the Wall (opposite the abandoned fortress Greyguard).]]
+{{Quote|Used to be you couldn't find a tree within a mile of the Wall. Crows would come out every morning with axes. Your flock gets smaller every year.|[[Tormund]] explains to [[Jon Snow]] how long stretches of the Wall around abandoned fortresses - like Greyguard - are left uncared for and undefended.|The Climb}}
+The [[Free Folk|wildling]] band led by [[Tormund]], including [[Ygritte]] and [[Jon Snow]], arrives at the north side of the Wall, hidden by the forest which grows right up to its base. Only three of the nineteen castles of the [[Night's Watch]] along the Wall's southern side are still manned - such as [[Castle Black]] - and only these remaining active castles still clear away a tree line from their north side so they can see enemies approaching the Wall. Tormund explains to Jon that when the other fortresses were still manned they would regularly send out workers to cut down young trees that grew within a mile of the Wall, but around the fortresses that have been abandoned for decades large trees now grow right up to the base of the massive ice structure.
+
+Unopposed and even unnoticed by the Watch's occasional patrols, Tormund, Ygritte, Jon, and their raiding party make the dangerous climb up the Wall and safely descend to the southern side.<ref>"[[The Climb]]"</ref>
+
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+[[Lord Commander of the Night's Watch|Lord Commander]] [[Jon Snow]] orders [[Janos Slynt]] to man Greyguard and intends to send ten of [[Othell Yarwyck|Yarwyck]]'s [[builder]]s with him to help with the repairs. Janos, knowing the castle is a ruin, takes this order as an insult and promptly refuses. For refusing to obey an official command, Janos is executed by Jon.<ref>"[[High Sparrow (episode)|High Sparrow]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Greyguard has been abandoned for two hundred years and has largely collapsed. The novels specify that when the party of wildlings Jon Snow was with climbed over the Wall and crossed to the southern side - corresponding to the Season 3 episode "[[The Climb]]" - they climbed over at a point between Greyguard to the west and Stonedoor to the east.
+
+Greyguard is located at a section of the Wall that actually dips slightly south for a short distance, instead of running in a perfectly straight line coast to coast. This dip may be due to the fact that the western parts of the Wall where it is located run through the [[Frostfangs|Frostfang Mountains]] (i.e., it might dip south to go around a mountain).
+
+Greyguard is west of both [[Castle Black]] and the [[Nightfort]]. There are eight ruined castles between Castle Black in the center of the Wall and the [[Shadow Tower]] at the western end. Proceeding west from Castle Black, the Nightfort is the third of these, and Greyguard is the seventh - conversely meaning that it is the second ruined castle one encounters going east from the Shadow Tower. Immediately west of Greyguard (between it and the Shadow Tower) is Sentinel Stand, while immediately east of Greyguard is Stonedoor.
+
+After Janos Slynt refuses the order to take command of Greyguard (and is executed for his refusal), Jon instead appoints a grizzled steward from the Shadow Tower to lead a group of thirty men to restore the castle.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Night's Watch}}
+{{Gift}}
+
+<!--Categories-->
+[[Category:Castles of the Wall]]
+
+<!--Languages-->
+[[de:Grauwacht]]
+[[fr:Griposte]]
+[[pl:Szara Warta]]
+[[ru:Серый Страж]]
+[[zh:灰卫堡]]

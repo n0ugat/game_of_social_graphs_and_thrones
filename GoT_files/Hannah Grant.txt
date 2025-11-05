@@ -1,0 +1,31 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Hannah Grant.jpg
+| Birth   = 
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]]
+| Credits = "[[The Red Sowing]]"
+| First   = 
+| Last    = 
+}}
+'''Hannah Grant''' is a stuntwoman.
+
+In ''[[House of the Dragon]]'', she was a stunt performer in the [[House of the Dragon: Season 2|second season]] episode "[[The Red Sowing]]".
+
+==Credits==
+===Stunts===
+{{House of the Dragon: Season 2|||||||yes}}
+
+==See also==
+*{{IMDb
+|# = 14605213}}
+*{{Instagram
+|# = hannnah.grant}}
+*{{Facebook
+|# = hannah.grant.96387}}
+
+{{DEFAULTSORT:Grant, Hannah}}
+[[Category:Stunt performers of House of the Dragon]]

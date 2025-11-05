@@ -1,0 +1,79 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = Unknown.svg
+| Link  = 
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Stark
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[House Stark]]
+| Titles      = [[Captain of the guard]]
+| Predecessor = {[[Jory Cassel]]}
+| Successor   = 
+| AKA         = Hal
+| Culture     = [[Northmen|Northern]]
+| Religion    = [[Old Gods]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|I'll send Hal with a squad of guardsmen to escort you.|Ser [[Rodrik Cassel]]|The Kingsroad}}
+'''Hallis Mollen'''{{Con|ASOIAF}} was the new captain of the guard at [[Winterfell]] after the departure of [[Jory Cassel]].
+
+==Biography==
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+Ser [[Rodrik Cassel]] suggests to [[Catelyn Stark|Catelyn]] that if she is heading south to capture [[Tyrion Lannister|Tyrion]], she should take "Hal" and a squad of guardsmen with her. Catelyn declines, pointing out that too large of a traveling party will attract unwanted attention. Instead, Catelyn only allows Rodrik himself to accompany her.{{Ref|GOT102}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Hallis Mollen is Jory Cassel's replacement as captain of the guard at Winterfell, after Jory travels with [[Eddard Stark|Ned Stark]] to King's Landing. He is muscular and has a square brown beard. He has a loose tongue and tendency to state the obvious.
+
+In the books, following Ned's arrest, Hallis goes south with [[Robb Stark]]'s army and takes part in the [[Battle of Whispering Wood|battle in the Whispering Wood]]. Later he accompanies Catelyn south when she goes to treat with [[Renly Baratheon]] at [[Storm's End]]. After Catelyn receives Ned's bones at [[Riverrun]], she orders Hallis to escort them back to Winterfell for proper burial in the crypts. What happened to Hallis's party is unknown, except that they never reached their destination.
+
+In the TV series, Ned's bones are delivered instead by [[Petyr Baelish|Littlefinger]], at Tyrion's request, at Renly's camp in the [[Stormlands]]. In "[[Battle of the Bastards (episode)|Battle of the Bastards]]," Jon says "We're going to bury [[Rickon Stark|my brother]] in the crypt next to my father" - indicating that Ned's bones have been brought to Winterfell and buried in the crypts.
+
+==Appearances==
+*{{GOT|The Kingsroad}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Stark}}
+
+<!--Categories-->
+{{DEFAULTSORT:Mollen, Hallis}}
+[[Category:Captains of the guard]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Men-at-arms]]
+[[Category:Nobles]]
+[[Category:Northmen]]
+[[Category:Servants and retainers of House Stark]]
+
+<!--Languages-->
+[[de:Hallis Mollen]]
+[[es:Hallis Mollen]]
+[[it:Hallis Mollen]]
+[[nl:Hallis Mollen]]
+[[ru:Халлис Моллен]]
+[[zh:哈里斯·莫兰]]

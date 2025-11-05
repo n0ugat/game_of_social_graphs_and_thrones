@@ -1,0 +1,84 @@
+{{DISPLAYTITLE:High Septon {{C|Joffrey}}}}
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Faith of the Seven.svg
+| Link  = Faith of the Seven
+}}
+{{Character
+| Title       = High Septon
+| Type        = Faith
+| Image       = The Fat One.jpg
+| Birth       = 
+| Death       = [[299 AC]]{{Dateref|Game of Thrones: Season 2}}<br>[[King's Landing]], the [[Crownlands]]{{Ref|GOT206}}
+| House       = 
+| Affiliation = [[Faith of the Seven]]
+| Titles      = [[High Septon]]
+| Predecessor = 
+| Successor   = {[[High Septon (Tommen)|Tommen Baratheon's High Septon]]}
+| AKA         = 
+| Culture     = [[Andals|Andal]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 1|1]] {{*}} [[Game of Thrones: Season 2|2]]
+| Appearances = 3 episodes {{Below|Appearances}}
+| First       = "[[Baelor]]"
+| Last        = "[[The Old Gods and the New]]"
+| DeathEp     = "The Old Gods and the New"
+| Actor       = Unidentified {{C|Season 1}}<br>[[David Verrey]] {{C|Season 2}}
+}}
+{{Quote|May the Seven guide the Princess on her journey. May the Mother give her health. May the Crone give her wisdom. May the Warrior give her courage. May the Smith grant her strength...|The High Septon prays for Princess [[Myrcella Baratheon|Myrcella]]|The Old Gods and the New}}
+A '''High Septon''' served as head of the [[Faith of the Seven]] during the reigns of [[Robert Baratheon|Robert]] and [[Joffrey Baratheon]].
+
+==Biography==
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+The High Septon is present during the [[Execution of Eddard Stark|execution]] of [[Eddard Stark]] at the [[Great Sept of Baelor]], standing between [[Grand Maester]] [[Pycelle]] and [[Varys]]. During his forced confession, Eddard Stark acknowledges the presence of the High Septon.{{Ref|GOT109}}
+
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+The High Septon appears along with the [[House Baratheon of King's Landing|Royal family]] in the docks as Princess [[Myrcella Baratheon]] is sent to [[Dorne]]. The High Septon offers prayers for Myrcella's future well-being in the name of the [[Seven]] while holding an incense thurible. On their way back to the [[Red Keep]] from the docks, the group meets the suffering and starving [[smallfolk]], resulting in the massive [[riots in King's Landing]]. The High Septon is overwhelmed by an angry mob and torn to pieces. One of his attackers holds up one of his severed arms, horrifying the nobles.{{Ref|GOT206}}
+
+Following his death, a [[High Septon (Tommen)|new High Septon]] is chosen.{{Ref|GOT210}}
+
+==Behind the scenes==
+[[File:Ned's Execution.jpg|thumb|The High Septon during Ned Stark's confession. Notice the seven-pointed star on his robe and chest]]
+The High Septon was portrayed by an unidentified extra in episodes "Baelor" and "Fire and Blood".
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the High Septon is an obese man who dresses opulently. In the TV Series, he is walking back to the Red Keep, but in the books he is always carried in a litter or carriage. Just as in the TV series, he is torn to pieces during the riots in King's Landing. As Tyrion quips, "starving men take a dim view of priests too fat to walk". The royal jester, Moon Boy, describes him as "a pious man who worships the Seven so fervently that he eats a meal for each of them whenever he sits to table".
+
+When a new High Septon assumes office, he renounces his given name and ever after becomes known simply as "the High Septon", so the name of this particular High Septon is never revealed. For the sake of differentiating one from another, he is usually referred to by a descriptive term: this High Septon is usually referred to simply as "The Fat One".
+
+In the books, the High Septon is also present at the execution of Ned Stark and was offended by it. The High Septon had been assured that Eddard Stark was going to be shown mercy, hence why the trial was held on the steps of the [[Great Sept of Baelor]]. He gives the speech that was given by Grand Maester Pycelle in the TV series.
+
+While the fat High Septon is rather corrupt, even he is outraged that Joffrey has Ned Stark executed on the very steps of the Great Sept of Baelor, violating holy ground. Cersei lists this as one of the problems that Eddard Stark's execution has caused her.
+
+The crown of this High Septon, which contains valuable crystals, is lost in the riot that kills him. Tyrion sends men out to look for it and they eventually discover that the pieces were broken up and sold. The Lannisters subsequently replace it with a much larger crown.
+
+==Appearances==
+*{{GOT|Baelor}}
+*{{GOT|Fire and Blood}}
+*{{GOT|The Old Gods and the New}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|High Septon (fat one)}}
+
+<!--Categories-->
+[[Category:Crownlanders]]
+[[Category:High Septons|Joffrey]]
+[[Category:Individuals appearing in Game of Thrones]]
+
+<!--Languages-->
+[[de:Hoher Septon (Vor dem Aufstand von Königsmund)]]
+[[fr:Grand Septon (Avant l'émeute de Port-Réal)]]
+[[ru:Верховный септон (до бунта в Королевской Гавани)]]

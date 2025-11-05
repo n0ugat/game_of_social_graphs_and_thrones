@@ -1,0 +1,39 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Guiomar Alonso.jpg
+| Birth   = 
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[Game of Thrones]]''<br>''[[House of the Dragon]]''
+| Season  = ''Game of Thrones'':<br>[[Game of Thrones: Season 5|5]]<br>''House of the Dragon'':<br>[[House of the Dragon: Season 1|1]]
+| Credits = 3 episodes {{Below|Credits}}
+| First   = "[[Unbowed, Unbent, Unbroken]]"
+| Last    = 
+}}
+'''Guiomar Alonso Sanchez''' is a stuntwoman and actress.
+
+In ''[[Game of Thrones]]'', she was a stunt performer in the [[Game of Thrones: Season 5|Season 5]] episodes "[[Unbowed, Unbent, Unbroken]]" and "[[The Dance of Dragons (episode)|The Dance of Dragons]]".
+
+In ''[[House of the Dragon]]'', she was a stunt performer in the [[House of the Dragon: Season 1|first season]] episode "[[The Green Council]]".
+
+==Credits==
+===Stunts===
+====''[[Game of Thrones]]''====
+{{Game of Thrones: Season 5||||||yes|||yes}}
+
+====''[[House of the Dragon]]''====
+{{House of the Dragon: Season 1|||||||||yes}}
+
+==See also==
+*{{IMDb
+|# = 1619279}}
+*{{Instagram
+|# = guiomarstunt}}
+*{{Facebook
+|# = guiomarstunt}}
+*{{Linkedin
+|# = /in/guiomar-alonso-sanchez-87aa1754}}
+{{DEFAULTSORT:Alonso, Guiomar}}
+[[Category:Stunt performers of Game of Thrones]]
+[[Category:Stunt performers of House of the Dragon]]

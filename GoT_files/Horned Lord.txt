@@ -1,0 +1,61 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Wildling
+| Image       = Horned lord.jpg
+| Birth       = [[Beyond the Wall]]
+| Death       = 
+| House       = 
+| Affiliation = 
+| Titles      = [[King-Beyond-the-Wall]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Free Folk]]
+| Religion    = [[Old Gods]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Gendel. Raymun Redbeard. The Horned Lord. Each chosen as a King-Beyond-the-Wall, each promising victory and all fallen to the Night's Watch and the Starks.|[[Ygritte]]|The Night's Watch}}
+The '''Horned Lord''' was a [[King-Beyond-the-Wall]] of the [[Free Folk]].
+
+==Biography==
+The Horned Lord led an invasion of the [[North]] but was defeated by the combined efforts of [[House Stark]] and the [[Night's Watch]].{{Ref|H&L212}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the Horned King, a.k.a. the Horned Lord, was an ancient King-Beyond-the-Wall who raided south of the [[Wall]]. A quote is attributed to him: "Sorcery is a sword without a hilt. There is no safe way to grasp it."
+
+The Horned Lord lived about one or two thousand years ago.
+
+==Appearances==
+*{{H&L|The Night's Watch}} {{Illustrated}}
+*{{GOT|The Bear and the Maiden Fair}} {{Indirect}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Kings-Beyond-the-Wall}}
+
+<!--Categories-->
+[[Category:Free Folk]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Kings-Beyond-the-Wall]]
+
+<!--Languages-->
+[[de:Gehörnter Lord]]
+[[ru:Рогатый_Лорд]]
