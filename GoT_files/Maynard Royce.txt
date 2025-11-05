@@ -1,0 +1,61 @@
+{{Canonicity|Non}}
+{{Heraldry
+| Image = House Royce.svg
+| Link  = House Royce
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Royce
+| Image       = House Royce lineage.jpeg
+| Birth       = [[182 AC/Non-canon|182 AC]]{{Dateref|Maynard Royce}}<br>[[Runestone]], the [[Vale of Arryn]]
+| Death       = [[220 AC]]{{Dateref|Maynard Royce death}} (aged 38)
+| House       = [[House Royce|Royce]]
+| Affiliation = [[House Arryn]]
+| Titles      = [[Lord of Runestone]]
+| AKA         = 
+| Culture     = [[Vale of Arryn|Valemen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = {[[Robar Royce (lord)|Robar Royce]]}
+| Mother      = {[[Diana Royce]]}
+| Spouse      = {[[Mavis Royce|Mavis Belmore]]}
+| Lovers      = 
+| Issue       = {[[Andar Royce]]}<br>{[[Paxter Royce]]}<br>{[[Junia Royce]]}<br>[[Serena Royce]]
+| Siblings    = {[[Donal Royce]]}
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Maynard Royce''' was the [[Lord of Runestone]] and head of [[House Royce]]. He is the grandfather of [[Yohn Royce]].
+
+==Biography==
+Maynard Royce was the firstborn son of Lord [[Robar Royce (lord)|Robar Royce]] and inherited [[Runestone]] upon his father's death. He had green eyes and flaxen hair. When he was eighteenth, he married Lady [[Mavis Royce|Mavis Belmore]], who bore him two sons: [[Andar Royce|Andar]] and [[Paxter Royce|Paxter]], and two daughters: [[Junia Royce|Junia]] and [[Serena Royce|Serena]]. He died at the age of 38 of a fever, Runestone being inherited by his eldest son, Andar.<ref name="s1prop">''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]'' prop from Season 1</ref>
+
+==Behind the scenes==
+Maynard Royce is mentioned in the section on House Royce in the Season 1 prop for ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]''. The section on House Royce never appears on-screen in the TV series, as its planned appearance, where [[Eddard Stark]] would have read from it, was cut.
+
+==In the books==
+Maynard Royce is referenced only in the TV adaptation of ''[[A Song of Ice and Fire]]'' and has no corresponding counterpart in the books.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{House Royce}}
+
+<!--Categories-->
+{{DEFAULTSORT:Royce, Maynard}}
+[[Category:Bannermen of House Arryn]]
+[[Category:Individuals from Game of Thrones]]
+[[Category:Lords of Runestone|Maynard Royce]]
+[[Category:Members of House Royce|Maynard Royce]]
+[[Category:Valemen]]
+
+<!--Languages-->
+[[ru:Мейнард Ройс]]

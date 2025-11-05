@@ -1,0 +1,32 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Michael Elwyn.jpg
+| Birth   = Michael B. Emyrs Jones<br>August 23, 1942 {{Age|1942|8|23}}<br>Pontypridd, Glamorgan, Wales
+| Death   = 
+| Role    = [[Simon Staunton]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]] {{*}} [[House of the Dragon: Season 2|2]]
+| Credits = 5 episodes {{Below|Credits}}
+| First   = "[[The Black Queen]]"
+| Last    = 
+}}
+'''Michael Elwyn''' (born '''Michael B. Emyrs Jones'''; 23 August, 1942) is a Welsh actor. He also appeared in the films ''{{WPS|The French Lieutenant's Woman (film)|The French Lieutenant's Woman}}'', ''{{WPS|Jinnah (film)|Jinnah}}'', ''{{WPS|The Iron Lady (film)|The Iron Lady}}'' and ''{{WPS|My Dinner with Hervé}}'' and the television series ''{{WPS|Doctor Who}}'', ''{{WPS|Silent Witness}}'', ''{{WPS|Bad Girls (TV series)|Bad Girls}}'', ''{{WPS|Midsomer Murders}}'', ''{{WPS|Heartbeat (TV series)|Heartbeat}}'', ''{{WPS|Sharpe (TV series)|Sharpe}}'', ''{{WPS|The Bill}}'', ''{{WPS|Robin Hood (TV series)|Robin Hood}}'', ''{{WPS|Foyle's War}}'', ''{{WPS|The Tudors}}'', ''{{WPS|EastEnders}}'', ''{{WPS|Da Vinci's Demons}}'', ''{{WPS|Will (TV series)|Will}}'', ''{{WPS|Stella (TV series)|Stella}}'', ''{{WPS|Casualty (TV series)|Casualty}}'', ''{{WPS|Quiz (TV series)|Quiz}}'' and ''{{WPS|Coronation Street}}''.
+
+Elwyn portrayed Lord [[Simon Staunton]] in the [[House of the Dragon: Season 1|first]] and [[House of the Dragon: Season 2|second]] seasons of ''[[House of the Dragon]]''.
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1||||||||||yes}}
+{{House of the Dragon: Season 2|yes|yes|yes|yes}}
+
+==See also==
+*{{WP}}
+*{{IMDb|# = 0255914}}
+
+<!--Categories-->
+{{DEFAULTSORT:Elwyn, Michael}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--InterWiki-Links-->
+[[fr:Michael Elwyn]]

@@ -1,0 +1,64 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Mazin.svg
+| Link  = House Mazin
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Stark
+| Image       = Lord Mazin.jpg
+| Birth       = In the [[North]]
+| Death       = 
+| House       = [[House Mazin|Mazin]]
+| Affiliation = [[House Stark]]
+| Titles      = [[Lordship|Lord]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Northmen|Northman]]
+| Religion    = [[Old Gods]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 6|6]]
+| Appearances = "[[Battle of the Bastards (episode)|Battle of the Bastards]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Dialogue a-b|Jon Snow|How many men does this Lord Mazin have to send us?|Samwell Tarly|More than [[Lord Wibberley]].|[[Jon Snow]] and [[Samwell Tarly]]|Sons of the Harpy (episode)}}
+'''Lord Mazin''' is a [[North|Northern]] [[Lordship|lord]], the head of [[House Mazin]], and a bannerman of [[House Stark]]. He remains loyal to the Starks during their campaign to take back [[Winterfell]] from [[House Bolton]], contributing [[Man-at-arms|soldiers]] during the [[Battle of the Bastards]].
+
+==Biography==
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+Lord Mazin sends a message to [[Lord Commander of the Night's Watch|Lord Commander]] [[Jon Snow]], in which he agrees to send men to the [[Night's Watch]].{{Ref|GOT504}}
+
+===[[Game of Thrones: Season 6|''Game of Thrones'': Season 6]]===
+Lord Mazin sends 143 men to [[Jon Snow|Jon]] and [[Sansa Stark|Sansa]] to fight against [[House Bolton]] and take back [[Winterfell]] in the [[Battle of the Bastards]].{{Ref|GOT607}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no mention of any House Mazin. The name is an in-joke reference to fellow scriptwriter and friend of the showrunners, Craig Mazin.
+
+==Appearances==
+*{{GOT|Sons of the Harpy}} {{Mentioned}}
+*{{GOT|Battle of the Bastards}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+{{DEFAULTSORT:Mazin}}
+[[Category:Bannermen of House Stark]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Lords]]
+[[Category:Members of House Mazin]]
+
+<!--Languages-->
+[[de:Lord Meysen]]
+[[fr:Lord Mazin]]
+[[ru:Лорд Мейзин]]

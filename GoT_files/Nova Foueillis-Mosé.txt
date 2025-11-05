@@ -1,0 +1,29 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Nova Foueillis-Mosé.jpg
+| Birth   = 
+| Death   = 
+| Role    = Young [[Laena Velaryon]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = 2 episodes {{Below|Credits}}
+| First   = "[[The Heirs of the Dragon]]"
+| Last    = "[[The Rogue Prince]]"
+}}
+'''Nova Foueillis-Mosé''' is an actress.
+
+In ''[[House of the Dragon]]'', she portrayed a young [[Laena Velaryon]] in [[House of the Dragon: Season 1|Season 1]].<ref>https://pressroom.warnermedia.com/us/bio/house-dragon-character-descriptions</ref>
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1|yes|yes}}
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Foueillis-Mosé, Nova}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--Interwiki links-->
+[[fr:Nova Foueillis-Mosé]]

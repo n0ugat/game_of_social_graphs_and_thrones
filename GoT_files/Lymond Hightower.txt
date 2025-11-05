@@ -1,0 +1,71 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Hightower.svg
+| Link  = House Hightower
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Hightower
+| Image       = Lord Lymond Hightower.png
+| Birth       = At the [[Hightower]], in [[Oldtown]]
+| Death       = 
+| House       = [[House Hightower|Hightower]]
+| Affiliation = [[House Gardener]]
+| Titles      = [[King of the High Tower]] {{C|abdicated}}<br>[[Lord of Oldtown]]<br>[[Beacon of the South]]<br>[[Defender of the Citadel]]<br>[[Voice of Oldtown]]
+| Predecessor = 
+| Successor   = 
+| AKA         = The Sea Lion
+| Culture     = [[First Men]]
+| Religion    = [[Old Gods]]
+| Father      = 
+| Mother      = 
+| Spouse      = {[[House Gardener|Gardener]] [[prince]]ss}
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|During the Age of Heroes, when Lymond Hightower saw the Gardener kings conquering the Reach, he didn't beat them on the battlefield, but in the godswood. He bound his house to theirs by marriage. And transformed House Hightower from wealthy but relatively minor kings to the greatest lords of the Reach. Thanks to Lord Lymond's foresight, Highgarden has always defended Oldtown. Allowing the Hightowers to focus on higher pursuits such as learning and trade.|[[Pycelle]]|Oldtown (short)}}
+'''Lymond Hightower''' was a [[King of the High Tower]] during the [[Age of Heroes]].
+
+==Biography==
+When the kings of [[House Gardener]] conquered the [[Reach]], Lymond decided to marry into their family rather than fight them. By marrying a daughter of House Gardener, Lymond was able to transform the Hightowers from wealthy but relatively minor kings into the greatest lords of the Reach. Since then, House Gardener, and later on [[House Tyrell]], has always defended [[Oldtown]], allowing the Hightowers to focus on learning and trade.{{Ref|H&L612}}
+
+==In the books==
+Lymond is not mentioned in the ''[[A Song of Ice and Fire]]'' novels. ''[[The World of Ice & Fire]]'' specifies that Lymond was known as the Sea Lion and fought and killed King Theon III Greyjoy after ceasing to pay tribute to the [[ironborn]] king. He brought back the First Men tradition of [[thrall]]dom long enough to make the captured ironborn work on strengthening the walls of Oldtown.
+
+==Appearances==
+*{{H&L|Oldtown}} {{Illustrated}}
+*{{H&L|Highgarden}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Hightower}}
+{{Kings of Westeros}}
+
+<!--Categories-->
+{{DEFAULTSORT:Hightower, Lymond}}
+[[Category:Individuals from Histories & Lore]]
+[[Category:Individuals from the Reach]]
+[[Category:Kings of the High Tower|Lymond Hightower]]
+[[Category:Lords of Oldtown|Lymond Hightower]]
+[[Category:Members of House Hightower|Lymond Hightower]]
+
+<!--Languages-->
+[[de:Lymond Hohenturm]]
+[[es:Lymond Hightower]]
+[[fr:Lymond Hightower]]
+[[it:Lymond Hightower]]
+[[nl:Leymond Hoogtoren]]
+[[ru:Лаймонд Хайтауэр]]

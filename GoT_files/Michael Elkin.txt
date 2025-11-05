@@ -1,0 +1,26 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Michael Elkin.jpg
+| Birth   = September 27th, 1972 {{Age|1972|9|27}}<br>London, England, United Kingdom
+| Death   = 
+| Role    = TBA
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]]
+| Credits = 
+| First   = 
+| Last    = 
+}}
+'''Michael Elkin''' (born 27 September 1972) is an English actor.
+
+Elkin plays a to-be-confirmed character in the [[House of the Dragon: Season 2|second season]] of ''[[House of the Dragon]]''.<ref>https://redanianintelligence.com/2023/07/25/unexpected-character-returns-in-house-of-the-dragon-season-2/</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb|#=3679382}}
+
+<!--Categories-->
+{{DEFAULTSORT:Elkin, Michael}}
+[[Category:Uncredited cast members of House of the Dragon]]

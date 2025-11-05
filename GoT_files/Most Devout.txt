@@ -1,0 +1,63 @@
+{{Canonicity|Canon}}
+{{ConjectureInfo}}
+{{Organization
+| Title       = {{PAGENAME}}
+| Theme       = Faith
+| Image       = 
+| Type        = Religious council
+| Status      = ''De facto'' defunct, all members believed to have died during the [[destruction of the Great Sept of Baelor]]
+| Symbol      = 
+| Words       = 
+| Center      = [[Starry Sept]], [[Oldtown]]<br>[[Great Sept of Baelor]], [[King's Landing]] {{C|formerly}}
+| Leader      = 
+| Affiliation = [[Faith of the Seven]]
+| Religion    = 
+| Military    = 
+| Founded     = 
+}}
+{{Quote|I'm ready to meet the Gods.|[[Septa]] [[Unella]] expresses her piety to [[Cersei Lannister]]|The Winds of Winter}}
+The '''Most Devout'''{{Webref|name=Unella |author=Sue the Fury |date=October 9, 2014 |url=https://watchersonthewall.com/british-actress-cast-septa-unella/ |title=British actress cast as Septa Unella |website=Watchers on the Wall |access-date=March 14, 2024 }} are the ''de facto'' defunct ruling council of the [[Faith of the Seven]], composed of its highest ranking clergy. The Most Devout are led by the [[High Septon]], who is in turn elected by the Most Devout. Along with the High Septon, they convene at the [[Great Sept of Baelor]] in [[King's Landing]].
+
+The High Septon is elected from among the Most Devout themselves, though this is not an official requirement. In theory, the Most Devout are supposed to select the High Septon without outside interference. Oftentimes, however, the [[King of the Andals and the Rhoynar and the First Men|King of the Andals and the First Men]], or other powerful political factions, can influence the Most Devout to elect their preferred candidate.
+
+After the presumable deaths of all of the Most Devout in the [[destruction of the Great Sept of Baelor]], with the exception of Septa [[Unella]], who is taken prisoner, its status remains uncertain. The Faith of the Seven plays little part in the reign of Cersei I Lannister, but it is possible that the [[Septon|septons]] and [[Septa|septas]] from outside King's Landing (especially in regions that have declared for Queen [[Daenerys Targaryen]]) could come together to form a new Most Devout, though so far this has not occurred.
+
+==History==
+===[[Game of Thrones: Season 6|''Game of Thrones'': Season 6]]===
+[[File:Cersei pouring wine in unellas face.jpg|thumb|Septa Unella, the last remaining member of the Most Devout is spared from death by Cersei Lannister, only to be continuously tortured.]]
+All members of the Most Devout are presumably killed in the destruction of the Great Sept of Baelor. [[Septa]] [[Unella]] is taken prisoner by a vengeful [[King|Queen]] [[Cersei Lannister]] and tortured by [[Gregor Clegane]] in the [[Black Cells]].<ref>"[[The Winds of Winter]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the Most Devout are the ruling council of the Faith of the Seven. Like the High Septon, they used to be headquartered in [[Oldtown]] for centuries, but after [[Aegon's Conquest]] they moved to the new capital city of King's Landing.
+
+Given that [[George R.R. Martin]] has stated that the Faith of the Seven is loosely analogous to the medieval Catholic Church, the Most Devout are analogous to the [[Wikipedia:College of Cardinals|College of Cardinals]], just as the High Septon is analogous to the Pope.
+
+The Most Devout has both male and female members, as both [[septon]]s and [[septa]]s are part of the council. Unlike the High Septon, members of the Most Devout are not required to give up their personal names. Moreover, they do not gain special new titles once they join the council (i.e. how the title of "Bishop" would change to "Cardinal"), and thus are simply called "Septon Raynard", "Septa Unella", etc., but not "Most Devout Raynard". There are not only seven members of the Most Devout, as might be assumed: it is mentioned that there are currently at least thirty members on the council.
+
+There are several female members of the Most Devout at the time of the books, and there may have been a High Septa at some point in the past, but it has not been mentioned so far.
+
+As the most senior and high ranking clergy of the Faith, they tend to be old. They are often perceived as somewhat corrupt, as powerful political factions frequently bribe them for special favors. Several have grown fat even as peasants starve in the slums of nearby [[Flea Bottom]]. Very powerful noble families, particularly the royal family, often influence whom they elect as the new High Septon.
+
+After the [[High Septon (Joffrey)|obese High Septon from the beginning of the novels]] was torn limb from limb in the [[riots in King's Landing]] by a starving mob, acting [[Hand of the King]] [[Tyrion Lannister]] influenced the Most Devout's election of his replacement. [[High Septon (Tommen)|Tyrion's new High Septon]] was regarded as a weak-willed man and political pawn of the Lannisters, but he was at least considered to be personally a good man, unlike his corrupt predecessor, who was so obese that he could barely walk even as thousands of refugees starved to death during the War of the Five Kings.
+
+The TV series has not yet officially introduced the Most Devout. The only time they have been mentioned so far is in HBO's In-Episode Guide for Season 2's "[[The Old Gods and the New]]", when the first High Septon prominently appears to bless [[Myrcella Baratheon|Princess Myrcella]]'s departure.  Casting reports, indicated that the Most Devout would feature prominently in [[Game of Thrones: Season 5|Season 5]]; ultimately, they were only mentioning in passing and (possibly) seen in the form of Septa Unella (who was not identified as a member on-screen).
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Faith of the Seven}}
+
+<!--Categories-->
+[[Category:Clergy]]
+[[Category:Faith of the Seven]]
+[[Category:Religious organizations]]
+
+<!--Languages-->
+[[fr:Saintetés]]
+[[pl:Najpobożniejsi]]
+[[pt-br:Mais Devotos]]
+[[ru:Праведные]]

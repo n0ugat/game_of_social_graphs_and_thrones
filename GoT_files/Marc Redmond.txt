@@ -1,0 +1,27 @@
+{{Crew
+|Image = Marc Redmond.jpg
+|dateofbirth = 
+|birthplace = {{WPS|Ireland}}
+|job = Stunt Performer
+|imdb = http://www.imdb.com/name/nm0715072
+|twitter = }}
+'''Marc Redmond''' is an Irish stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 5|fifth season]] episodes "[[Sons of the Harpy (episode)|Sons of the Harpy]]", "[[The Gift]]" and "[[Hardhome (episode)|Hardhome]]", the [[Game of Thrones: Season 6|sixth season]] episodes "[[Home]]", "[[Oathbreaker]]", "[[The Broken Man]]" and "[[Battle of the Bastards (episode)|Battle of the Bastards]]", the [[Game of Thrones: Season 7|seventh season]] episodes "[[Stormborn]]", "[[The Queen's Justice]]", "[[The Spoils of War]]", "[[Eastwatch]]", "[[Beyond the Wall (episode)|Beyond the Wall]]", and "[[The Dragon and the Wolf]]" and the [[Game of Thrones: Season 8|eighth season]] episodes "[[Winterfell (Game of Thrones)|Winterfell]]" and "[[The Long Night]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 5||||yes|||yes|yes}}
+{{Game of Thrones: Season 6||yes|yes||||yes||yes}}
+{{Game of Thrones: Season 7||yes|yes|yes|yes|yes|yes}}
+{{Game of Thrones: Season 8|yes||yes}}
+
+==See also==
+*{{IMDb
+|# = 0715072}}
+*{{Facebook
+|# = marcredmondkungfu}}
+*{{Linkedin
+|# = /in/marc-redmond-23973a72}}
+{{DEFAULTSORT:Redmond, Marc}}
+[[Category:Stunt performers of Game of Thrones]]

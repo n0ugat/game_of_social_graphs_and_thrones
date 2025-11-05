@@ -1,0 +1,28 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Mirjam Germann.jpeg
+| Birth   = Switzerland
+| Death   = 
+| Role    = Dragonkeeper
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = "[[The Heirs of the Dragon]]"
+| First   = 
+| Last    = 
+}}
+'''Mirjam Germann''' is a Swiss actress.
+
+In ''[[House of the Dragon]]'', she portrayed a dragonkeeper in the [[House of the Dragon: Season 1|first season]].
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1|yes}}
+
+==See also==
+*{{IMDb|# = 5725709}}
+*{{Twitter|# = germannmirjam}}
+
+<!--Categories-->
+{{DEFAULTSORT:Germann, Mirjam}}
+[[Category:Co-starring cast members of House of the Dragon]]

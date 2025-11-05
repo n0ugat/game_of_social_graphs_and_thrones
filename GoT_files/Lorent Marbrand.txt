@@ -1,0 +1,108 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Leftimage  = House Marbrand.svg
+| Leftlink   = House Marbrand
+| Rightimage = Kingsguard.svg
+| Rightlink  = Kingsguard/House of the Dragon
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Targaryen
+| Image       = Lorent Marbrand Official Guide.jpg
+| Birth       = 
+| Death       = 
+| House       = [[House Marbrand|Marbrand]]{{Guideref|Lorent Marbrand}}
+| Affiliation = [[Kingsguard]]{{Ref|HOTD108}}<br>[[Black Council]]{{Ref|HOTD110}}<br>Queensguard{{Ref|HOTD110}}
+| Titles      = [[Knighthood|Ser]]{{Ref|HOTD110}}
+| AKA         = 
+| Culture     = [[Westerlands|Westermen]]{{Guideref|Lorent Marbrand}}
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 1|1]] {{*}} [[House of the Dragon: Season 2|2]]
+| Appearances = 10 episodes {{Below|Appearances}}
+| First       = "[[The Lord of the Tides]]"
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Max Wrottesley]]
+}}
+Ser '''Lorent Marbrand''' is a [[Knighthood|knight]] of [[House Marbrand]] and member of [[Rhaenyra Targaryen]]'s [[Kingsguard/House of the Dragon|Queensguard]]. He previously served in [[Viserys I Targaryen]]'s Kingsguard.
+
+==Biography==
+===Background===
+Lorent is a member of House Marbrand of [[Ashemark]], a [[noble house]] in the [[Westerlands]] sworn to [[House Lannister]]. At some point he was knighted, and now serves in the Kingsguard of King Viserys.{{Guideref|Lorent Marbrand}}
+
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+Lorent is present when [[Vaemond Velaryon]] petitions the Crown to name him heir to [[Driftmark]].{{Ref|HOTD108}}
+[[File:TBQ Lorent Marbrand Still 1.jpg|thumb|Ser Lorent alerts [[Rhaenyra Targaryen|Rhaenyra]] to [[Rhaenys Targaryen|Rhaenys]] arrival. ]]
+Lorent is assigned to Rhaenyra at Dragonstone when King Viserys dies. He informs Rhaenyra and Daemon of the arrival of Princess [[Rhaenys Targaryen|Rhaenys]]. During Rhaenyra's labor, after she screamed Daemon's name, Lorent asks Daemon if he wants to speak with the maester, probably to know about Rhaenyra's health. Lorent and [[Steffon Darklyn]] both swear allegiance to Rhaenyra as queen when [[Daemon Targaryen|Daemon]] threatens to have [[Caraxes]] burn them as turncloaks if they choose otherwise. They later attend the funeral of Rhaenyra's stillborn daughter [[Visenya Targaryen (daughter of Rhaenyra)|Visenya]] and move to protect Rhaenyra when [[Erryk Cargyll]] arrives. Lorent, Steffon, and Erryk accompany Daemon during a parley with [[Otto Hightower]].{{Ref|HOTD110}}
+
+===[[House of the Dragon: Season 2|''House of the Dragon'': Season 2]]===
+Lorent is present at the [[Black Council]] when Rhaenyra returns from the [[Stormlands]].{{Ref|HOTD201}}
+
+Ser Lorent is present at another session of the Black Council when word of Prince [[Jaehaerys Targaryen (son of Aegon II)|Jaehaerys]]'s [[Assassination of Jaehaerys Targaryen|murder]], funeral and the blame for the killing being directed at Rhaenyra reaches Dragonstone. That evening, he is on guard duty when who he believes to be his Sworn Brother Erryk Cargyll offers to relieve him of duty for the evenig (Unbeknownst to Lorent, it is actually Erryk's brother, [[Arryk Cargyll]], infiltrating Dragonstone on the orders of [[Lord Commander of the Kingsguard|Lord Commander]] [[Criston Cole]] to assassinate Rhaenyra). He is alerted to the assassination attempt by Rhaenyra's handmaiden, Lady [[Elinda Massey]] and races back into his queen's chambers to find Erryk and Arryk [[Duel on Dragonstone|duelling to the death]]. Lorent puts his queen behind him and urges Rhaenyra to identify Erryk so he can try to aid his Sworn Brother. Erryk slays Arryk, and then falls on his sword out of guilt for [[kinslaying]] in front of Lorent and Rhaenyra.{{Ref|HOTD202}}
+
+Lorent attends the funeral of Erryk and Arryk Cargyll.{{Ref|HOTD203}}
+
+==Behind the scenes==
+Lorent Marbrand's character description for [[House of the Dragon: Season 2|Season 2]] reads as follows:
+:''"A knight on the black council and member of Rhaenyra’s Queensguard."''{{Webref|name=WBD |author=Unknown author |date=Unknown date |url=https://press.wbd.com/us/bio/house-dragon-s2-character-descriptions |title=House of the Dragon S2 <nowiki>|</nowiki> Character Descriptions |website=Warner Bros. Discovery |access-date=June 5, 2024 }}
+
+==In the books==
+In ''[[Fire & Blood]]'', Lorent joined the Kingsguard at some point during Viserys's reign.
+
+==Gallery ==
+<gallery>
+File:TBQ Daemon and Queensguard Still.jpg
+File:TBQ Lorent Gerardys and Bartimos Still.jpg
+File:2x7 Rhaenyra Targaryen Still 3.jpg
+</gallery>
+
+==Appearances==
+*{{HOTD|The Lord of the Tides}}
+*{{HOTD|The Black Queen}}
+*{{HOTD|A Son for a Son}}
+*{{HOTD|Rhaenyra the Cruel}}
+*{{HOTD|The Burning Mill}}
+*{{HOTD|The Red Dragon and the Gold}}
+*{{HOTD|Regent}}
+*{{HOTD|Smallfolk}}
+*{{HOTD|The Red Sowing}}
+*{{HOTD|The Queen Who Ever Was}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+*{{TOG|character-guide#lorent-marbrand}}
+
+<!--Navboxes-->
+{{House Marbrand/House of the Dragon}}
+{{House Targaryen/House of the Dragon}}
+{{Kingsguard of Viserys I Targaryen}}
+{{Queensguard of Rhaenyra Targaryen}}
+{{Black Council}}
+
+<!--Categories-->
+{{DEFAULTSORT:Marbrand, Lorent}}
+[[Category:Black Council]]
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Kingsguard of Viserys I Targaryen]]
+[[Category:Knights]]
+[[Category:Members of House Marbrand|Lorent Marbrand]]
+[[Category:Queensguard of Rhaenyra Targaryen]]
+[[Category:Westermen]]
+
+<!--Languages-->
+[[es:Lorent Marbrand/House of the Dragon]]
+[[fr:Lorent Marpheux]]
+[[pl:Lorent Marbrand]]
+[[ru:Лорент Марбранд]]
+[[uk:Лорент Марбранд]]

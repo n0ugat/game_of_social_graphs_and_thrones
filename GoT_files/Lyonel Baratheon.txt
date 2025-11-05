@@ -1,0 +1,86 @@
+{{Canonicity|Canon}}
+{{Spoiler|AKOTSK}}
+{{Heraldry
+| Image = House Baratheon.svg
+| Link  = House Baratheon
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Baratheon
+| Image       = The Laughing Storm.png
+| Birth       = [[Storm's End]], the [[Stormlands]]{{Con|AWOIAF}}
+| Death       = 
+| House       = [[House Baratheon|Baratheon]]{{Ref|GOT106}}
+| Affiliation = 
+| Titles      = [[Knighthood|Ser]]{{Ref|H&L416}}
+| AKA         = The Laughing Storm{{Webref|name=GRRMegg |author=George R.R. Martin |date=May 21, 2024 |url=https://georgerrmartin.com/notablog/2024/05/21/heres-egg/ |title=Here's Egg! |website=Not a Blog |access-date=May 21, 2024 }}
+| Culture     = [[Stormlands|Stormlander]]{{Ref|GOT106}}
+| Religion    = 
+| Father      = [[Symeon Baratheon]]{{Notes|Lineages}}
+| Mother      = [[Meera Baratheon]]{{Notes|Lineages}}
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[A Knight of the Seven Kingdoms]]''
+| Season      = [[A Knight of the Seven Kingdoms: Season 1|1]]
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Daniel Ings]]{{Webref|name=FirstLook |author=Nick Romano |date=June 18, 2024 |url=https://ew.com/game-of-thrones-a-knight-of-the-seven-kingdoms-first-look-cast-confirmed-8665658 |title=''Game of Thrones'' spinoff unveils its Hedge Knight in first look at ''A Knight of the Seven Kingdoms'' |website=Entertainment Weekly |access-date=June 18, 2024}}
+}}
+{{Quote|Lyonel Baratheon, black of hair.|Excerpt from ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]''|A Golden Crown}}
+Ser '''Lyonel Baratheon''',{{Ref|GOT106}} called '''The Laughing Storm''',<ref name="GRRMegg" /> is the heir to [[Storm's End]] during the reign of [[Daeron II Targaryen|Daeron II]].
+
+==In the books==
+In the [[Dunk & Egg novellas]], Lyonel Baratheon is a very tall man, known as the "Laughing Storm" for his tendency to laugh loudly at his opponents during tourneys, at which he is greatly favored by the [[smallfolk]]. He is considered one of the finest fighters of his day.
+
+While their exact relationship has not yet been confirmed in the books, Lyonel is quite probably the great-grandfather of [[Robert Baratheon]] (and his brothers [[Stannis Baratheon|Stannis]] and [[Renly Baratheon|Renly]]). Robert's father Steffon was the son of Ormund Baratheon, but while Ormund is of the right age to be Lyonel's son it hasn't been specified yet (i.e. it's possible Ormund was Lyonel's nephew).
+
+==Gallery ==
+<gallery>
+File:Ser Lyonel Baratheon armor S1.png
+File:The Laughing Storm in full armour.png|The Laughing Storm in full armor.
+File:Seven Knights KOFTSK.png|Ser Lyonel, Ser [[Duncan the Tall|Duncan]] and five knights at [[Ashford]].
+</gallery>
+
+==Appearances==
+*{{GOT|A Golden Crown}} {{Mentioned}}
+*{{H&L|Justice of the Seven Kingdoms}} {{Illustrated}}
+
+===Forthcoming===
+{{Collapse|
+*{{AKOTSK|Season 1}}<ref name="GRRMegg" /> {{Unreleased}}
+}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|AKOTSK}}
+
+<!--Navboxes-->
+{{House Baratheon/A Knight of the Seven Kingdoms}}
+{{A Knight of the Seven Kingdoms}}
+
+<!--Categories-->
+{{DEFAULTSORT:Baratheon, Lyonel}}
+[[Category:Individuals appearing in A Knight of the Seven Kingdoms]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Knights]]
+[[Category:Members of House Baratheon|Lyonel Baratheon]]
+[[Category:Stormlanders]]
+
+<!--Languages-->
+[[de:Lyonel Baratheon]]
+[[es:Lyonel Baratheon]]
+[[fr:Lyonel Baratheon]]
+[[pl:Lyonel Baratheon]]
+[[ru:Лионель Баратеон]]
+[[zh:莱昂诺·拜拉席恩]]

@@ -1,0 +1,38 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Marek Toth.jpg
+| Birth   = 
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[Game of Thrones]]''<br>''[[House of the Dragon]]''
+| Season  = ''Game of Thrones'':<br>[[Game of Thrones: Season 5|5]] {{*}} [[Game of Thrones: Season 6|6]] {{*}} [[Game of Thrones: Season 7|7]] {{*}} [[Game of Thrones: Season 8|8]]<br>''House of the Dragon'':<br>[[House of the Dragon: Season 1|1]]
+| Credits = 9 episodes {{Below|Credits}}
+| First   = "[[Hardhome (episode)|Hardhome]]"
+| Last    = 
+}}
+'''Marek Tóth''' is a stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 5|fifth season]] episode "[[Hardhome (episode)|Hardhome]]", the [[Game of Thrones: Season 6|sixth season]] episode "[[Battle of the Bastards (episode)|Battle of the Bastards]]", the [[Game of Thrones: Season 7|seventh season]] episodes "[[Stormborn]]", "[[The Queen's Justice]]", "[[Eastwatch]]" and "[[The Dragon and the Wolf]]" and the [[Game of Thrones: Season 8|eighth season]] episode "[[The Bells]]".
+
+In ''[[House of the Dragon]]'', he was a stunt performer in the [[House of the Dragon: Season 1|first season]] episode "[[The Heirs of the Dragon]]" and "[[The Green Council]]".
+
+==Credits==
+===Stunts===
+====''[[Game of Thrones]]''====
+{{Game of Thrones: Season 5||||||||yes}}
+{{Game of Thrones: Season 6|||||||||yes}}
+{{Game of Thrones: Season 7||yes|yes||yes||yes}}
+{{Game of Thrones: Season 8|||||yes}}
+
+====''[[House of the Dragon]]''====
+{{House of the Dragon: Season 1|yes||||||||yes}}
+
+==See also==
+*{{IMDb
+|# = 0869345}}
+*{{Linkedin
+|# = /in/marek-toth-05a80143}}
+{{DEFAULTSORT:Toth, Marek}}
+[[Category:Stunt performers of Game of Thrones]]
+[[Category:Stunt performers of House of the Dragon]]

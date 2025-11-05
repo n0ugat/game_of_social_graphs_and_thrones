@@ -1,0 +1,73 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Merryweather.svg
+| Link  = House Merryweather
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Tyrell
+| Image       = Lord Merryweather.png
+| Birth       = 
+| Death       = 
+| House       = [[House Merryweather|Merryweather]]
+| Affiliation = [[House Tyrell]]<br>[[Blacks]]{{Ref|HOTD109}}
+| Titles      = Lord of [[Longtable]]
+| AKA         = 
+| Culture     = [[Reach]]
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 1|1]]
+| Appearances = "[[The Green Council]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Paul Clayton]]
+}}
+{{Quote|I am no oathbreaker. I will not bend the knee.|Lord Merryweather to Ser Otto Hightower|The Green Council}}
+'''Lord Merryweather''' is the Lord of [[Longtable]] and head of [[House Merryweather]] during the reign of [[Viserys I Targaryen]].
+
+==Biography==
+===Background===
+Lord Merryweather was among the lords who swore allegiance to [[Rhaenyra Targaryen]] as heir to the [[Iron Throne]] in [[112 AC]].{{Ref|HOTD109}}{{Dateref|The Heirs of the Dragon}}
+
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+After King [[Viserys I Targaryen|Viserys]]'s death in [[132 AC]],{{Dateref|The Lord of the Tides}} [[Otto Hightower]] summons several lords to the [[throne room]] to bend the knee to Prince [[Aegon II Targaryen|Aegon]] as their future king. When Lord Merryweather turns to leave, Otto stops him and demands that he declare his intentions. Merryweather approaches Otto and refuses to kneel, declaring that he is no oathbreaker. [[Lady Fell]] echoes the sentiment, and they are both escorted out.{{Ref|HOTD109}}
+
+==In the books==
+In ''[[Fire & Blood]]'', Lord Merryweather resided in the [[Red Keep]] in 129 AC. Upon the death of King Viserys I, he was arrested and later beheaded for refusing to swear fealty to Aegon II. His head was mounted on a spike above the gates of King's Landing, along with those of [[Allun Caswell|Lord Caswell]] and [[Lady Fell]].
+
+==Appearances==
+*{{HOTD|The Green Council}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{House Merryweather/House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Merryweather}}
+[[Category:Bannermen of House Tyrell]]
+[[Category:Blacks]]
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Individuals from the Reach]]
+[[Category:Lords]]
+[[Category:Members of House Merryweather]]
+
+<!--Languages-->
+[[es:Lord Merryweather/House of the Dragon]]
+[[fr:Lord Merryweather]]
+[[ru:Лорд Мерривезер]]

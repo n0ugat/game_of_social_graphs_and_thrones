@@ -1,0 +1,69 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Westeros
+| Image        = Mantarys Pin.png
+| Type         = Mercantile city-state
+| Status       = 
+| Location     = [[Lands of the Long Summer]], [[Valyrian peninsula]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = 
+| Places       = 
+| Founded      = by the [[Valyrian Freehold]]
+}}
+[[File:Slaver's Bay.png|thumb|200px|Mantarys is located at the north end of the [[Valyrian peninsula]], between the Free Cities to the west and Slaver's Bay to the east.]]
+'''Mantarys'''{{Webref|name=DJP |author=David J. Peterson |date=March 27, 2023 |url=https://dedalvs.com/work/house-of-the-dragon/misc/map_request_v2.pdf |title=Map request v2 |website=Dedalvs |access-date=December 27, 2023 }}{{Note|[[High Valyrian]]: {{HV|M}}{{HV|N}}{{HV|T}}{{HV|R}}{{HV|Fire}} ''Mantarys''<ref name="DJP" />}} is a city-state located in the [[Valyrian peninsula]], northeast of the [[Free Cities|Free City]] of [[Volantis]] and northwest of [[Slaver's Bay]].
+
+It is situated at the base of the Valyrian peninsula, opposite from the ruins of [[Old Valyria]] at the southern end. It is also located at the northeastern tip of the [[Sea of Sighs]], an internal sea on the peninsula.
+
+Mantarys is the only overland waystop of any note for travelers and [[merchant]]s taking the land route from the Free Cities to Slaver's Bay. The people of Mantarys are known as '''Mantari'''.{{Ref|GOT410}}
+
+==History==
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+[[Pycelle]] states that the [[manticore]] venom, used by [[Oberyn Martell]] on his spears during his [[First trial by combat of Tyrion Lannister|duel]] against Ser [[Gregor Clegane]], is of Mantari origin.{{Ref|GOT410}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Mantarys used to be a city of the [[Valyrian Freehold]]. Mantarys is the principal surviving city of the Lands of the Long Summer, the northern half of the [[Valyrian peninsula]]: the heartland of the Freehold was located around the city of Valyria itself at the southern end of the peninsula, and this northern half was one of the dragonlords' first conquests. The area long served as a hinterland providing food and resources to Valyria itself.
+
+Although it survived the [[Doom of Valyria]], Mantarys has since gained a foul reputation as a city of "monsters", assassins, and poisoners. The only character from Mantarys to appear in the narrative, briefly, is a two-headed slavegirl in a freakshow at [[Yunkai]].
+
+The road from Volantis to Slaver's Bay is called the "demon road" and is shunned by most travelers, who prefer to take the sea route south around the Valyrian peninsula. It is not considered to be one of the Free Cities, nor apparently part of "Slaver's Bay", likely due to its isolated nature and unpleasant reputation.
+
+Little new information was provided about Mantarys in the ''World of Ice and Fire'' sourcebook.
+
+The reason that Mantarys is not considered one of the Free Cities is the same reason that several other towns such as [[Volon Therys]] are not: "Free" Cities were established by groups who paid the central government of the Valyrian Freehold for contracts to rule their new colony-cities themselves. These colonies were not formally independent, and Valyria would intervene in "foreign" affairs (such as conflicts with the Rhoynar), but otherwise they had a high degree of self-rule on the local level. Because they already had functioning governments in place the Free Cities survived the fall of Valyria much better than direct colonies that depended entirely on Valyria for administration and defense.
+
+Only three major cities in the Valyrian peninsula survived the Doom, each in the northern sections not too close to Valyria itself when the Doom struck: Mantarys, [[Tolos]], and [[Elyria]]. Each of these was a colony ruled directly by Valyria. Because Tolos and Elyria are both on the east coast (Elyria is actually on an off-shore island), after the Doom they developed closer ties with the Ghiscari cities of [[Slaver's Bay]] to the east, and fell into their economic and cultural orbit. Mantarys, however, is located far from the coast, up in the foothills of the Painted Mountains, and as a result it became increasingly isolated.
+
+It is possible that it became known as a city of "monsters" because due to its isolation, the Valyrian colonists there decided that they were the only remaining "real" Valyrians, and to keep the bloodlines pure had [[Incest|incestuous]] marriages even more frequently than the Targaryens did - which would give rise to a higher frequency of severe birth defects from inbreeding.
+
+In ''A Dance with Dragons'', [[Daenerys Targaryen|Daenerys]] sends envoys to Mantarys in attempt to make an alliance. In response, they send her the heads of her three envoys, pickled, in a cedar chest. Mantarys joins the coalition of Yunkai and other cities against Daenerys.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Known world}}
+{{Valyrian peninsula}}
+
+<!--Categories-->
+[[Category:Cities]]
+[[Category:Valyrian peninsula]]
+[[Category:Valyrian successor states]]
+
+<!--Languages-->
+[[es:Mantarys]]
+[[nl:Mantarys]]
+[[pl:Mantarys]]
+[[ru:Мантарис]]
+[[uk:Мантаріс]]
+[[zh:玛塔里斯]]

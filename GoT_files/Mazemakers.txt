@@ -1,0 +1,43 @@
+{{Canonicity|Canon}}
+{{Culture
+| Title        = {{PAGENAME}}
+| Type         = Westeros
+| Image        = 
+| AKA          = 
+| Status       = Vanished
+| Origin       = 
+| Predecessors = 
+| Successors   = 
+| Location     = [[Lorath]]
+| Ruler        = 
+| Society      = 
+| Language     = 
+| Religion     = 
+| Features     = 
+}}
+{{Quote|Didn't one Archmaester link the fortress to the vanished mazemakers of Lorath?|[[Qyburn]]|Oldtown (short)}}
+The '''mazemakers'''{{Ref|H&L612}} were a people from [[Lorath]] known for building mazes.
+
+==History==
+[[Archmaester]] [[Quillion]] credited the mazemakers with the construction of the fortress on [[Battle Isle]] which now serves as the base of the [[Hightower]].{{Ref|H&L612}}
+
+==In the books==
+In ''[[The World of Ice & Fire]]'', the mazemakers were a race of people who lived in antiquity. They were known for constructing vast mazes from blocks of carved stone that had been found among the islands of Lorath and one in the mainland to the south of the city. The mazemakers kept no written records, hence the purpose of the mazes is unknown. The discovery of large bones believed to be those of the mazemakers has led some to speculate that they were the progeny of human men and female [[giants]].
+
+Lorathi legends state that the mazemakers were destroyed by creatures of the sea such as merlings, selkies and walrus-men. Some believe that their vanquishers had a connection with the [[Deep Ones]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Cultures and peoples}}
+
+<!--Categories-->
+[[Category:Essosi peoples]]
+
+<!--Languages-->
+[[pt-br:Criadores de labirintos]]
+[[ru:Строители лабиринтов]]

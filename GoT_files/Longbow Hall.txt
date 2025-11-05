@@ -1,0 +1,44 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Hunter.svg
+| Link  = House Hunter
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Arryn
+| Image        = 
+| Type         = Castle
+| Status       = 
+| Location     = The [[Vale of Arryn]], [[Westeros]]
+| Population   = 
+| Rulers       = [[House Hunter]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Longbow Hall'''{{Ref|C&R07}} is a castle located in the [[Vale of Arryn]]. It is located south of the [[Fingers]] east of [[Heart's Home]] and north of [[Old Anchor]]. It appears to be located in the foothills between a mountain range and the east of the valley.
+<ref>"[[House Arryn, Kings of the Vale]]"</ref> It is the seat of [[House Hunter]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Longbow Hall is the seat of House Hunter, a vassal of House Arryn.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Vale of Arryn}}
+
+<!--Categories-->
+[[Category:Castles of the Vale of Arryn]]
+[[Category:House Hunter]]
+
+<!--Languages-->
+[[de:Langbogenhall]]
+[[es:Arcolargo]]
+[[ru:Длинный Лук]]
+[[zh:长弓厅]]

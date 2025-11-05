@@ -1,0 +1,42 @@
+{{Canonicity|Canon}}
+{{References}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Bronn
+| Image        = Old Oak Pin.png
+| Type         = Castle
+| Status       = 
+| Location     = The [[Reach]], [[Westeros]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Old Oak'''{{Guideref|Map of Westeros}} is a castle in the [[Reach]]. The castle is located in the north-west of the Reach. It is north west of [[Highgarden]] on the [[Searoad]] near the border with the [[Westerlands]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Old Oak is the home of Ser Arys Oakheart, a noted member of the [[Kingsguard]] who accompanies [[Myrcella Baratheon]] to [[Dorne]]. He recalls that his home contains tapestries showing the Oakhearts fighting the Dornish in ancient times.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{Reach}}
+
+<!--Categories-->
+[[Category:Castles of the Reach]]
+
+<!--Languages-->
+[[de:Alteich]]
+[[es:Roble Viejo]]
+[[it:Vecchia Quercia]]
+[[nl:Oude Eik]]
+[[pt-br:Carvalho Velho]]
+[[ru:Старый Дуб]]
+[[zh:古橡城]]

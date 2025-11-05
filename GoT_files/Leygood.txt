@@ -1,0 +1,51 @@
+{{Canonicity|Canon}}
+{{SameName|knight|house|House Leygood}}
+{{Heraldry
+| Image = House Leygood.svg
+| Link  = House Leygood
+}}
+{{Character
+| Title       = Leygood
+| Type        = Bronn
+| Image       = 
+| Birth       = In the [[Reach]]
+| Death       = 
+| House       = [[House Leygood|Leygood]]
+| Affiliation = 
+| Titles      = [[Knighthood|Ser]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Reach]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = Wife
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|There's this knight...uh...Leygood. Got thunderbolts on his shield? Right here is where I fuck his wife; she's a screamer, that one.|[[Bronn]] to [[Jaime Lannister]]|The Lion and the Rose}}
+A knight named '''Leygood''' has a wife, with whom Bronn has an affair.{{Ref|GOT402}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no mention of any character of House Leygood.
+
+==Appearances==
+*{{GOT|The Lion and the Rose}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+[[Category:Individuals from the Reach]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Knights]]
+[[Category:Members of House Leygood]]

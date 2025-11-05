@@ -1,0 +1,67 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Order of Maesters.svg
+| Link  = Order of Maesters
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Citadel
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[Order of Maesters]]<br>[[House Targaryen]]
+| Titles      = [[Grand Maester]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|<u>The Dance of Dragons: A True Telling</u> by Grand Maester Munkun.|Shireen Baratheon|The Dance of Dragons (episode)}}
+'''Munkun '''was a [[Grand Maester]] and the author of the book ''[[The Dance of Dragons: A True Telling]]''.
+
+==Biography==
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+[[Shireen Baratheon]] reads Munkun's work on the [[Dance of the Dragons]].{{Ref|GOT509}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Munkun is mentioned as the author of ''The Dance of the Dragons, A True Telling''. The book is said to be inaccurate in regard to some details.
+
+In ''A Dance with Dragons'' (chapter 8, Tyrion III), while [[Tyrion Lannister|Tyrion]] travels with [[Jon Connington]] and the presumed-dead [[Aegon Targaryen (son of Elia Martell)|Aegon Targaryen]], he writes down all the information he can get about dragons. One of the sources Tyrion relies on is Munkun's book, though to his opinion there are errors in it.
+
+==Appearances==
+*{{GOT|The Dance of Dragons}} {{Mentioned}}
+*{{TDOD}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Categories-->
+[[Category:Authors]]
+[[Category:Grand Maesters]]
+[[Category:Individuals from The Dance of Dragons]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Servants and retainers of House Targaryen]]
+[[Category:Westerosi]]
+
+<!--Languages-->
+[[de:Munkun]]
+[[fr:Munkun]]
+[[ru:Манкан]]

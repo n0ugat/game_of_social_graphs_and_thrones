@@ -1,0 +1,36 @@
+{{Canonicity|Canon}}
+[[File:IllyriomopatisHD.png|right|250px|thumb|Illyrio Mopatis, a Magister of Pentos]]
+{{Quote|The Magisters make a great show of choosing the Prince of Pentos from the Great Families, and granting him the powers of trade, justice and war. As long as he checks with them first.|Jorah Mormont|The Free Cities}}
+'''Magister'''{{Ref|GOT101}} is a title used by [[merchant]]-lords in the [[Free Cities]], many of which are ruled over by councils of magisters.
+
+The Free City of [[Pentos]] is nominally ruled by a [[Prince of Pentos|prince]], but it is the magisters who truly hold the power, as it is they who select the prince from the Great Families of the city. The prince is powerless to act in matters of trade, war, or justice without conferring with them first. Also, should a crop fail or a war be lost, the magisters slit the throat of the current prince and select a new one.<ref>"[[The Free Cities]]"</ref>
+
+==Known magisters==
+*[[Illyrio Mopatis]]<ref>"[[The Old Gods and the New]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, most of the Free Cities are ruled by a council of magisters - oligarchies of wealthy merchants. [[Lys]] and [[Myr]] are openly ruled by councils of magisters. [[Pentos]] and [[Lorath]] are ''nominally'' ruled by princes (one in Pentos, a trio of princes in Lorath), but they are mere figureheads appointed by councils of magisters who truly hold power. [[Tyrosh]] is ruled by an [[archon]] who is appointed by a council of magisters - sometimes the archon is just a figurehead like the Prince of Pentos, though at times the archon can rein in the magisters and become powerful in his own right (it varies from one generation to the next, according to current political trends). Nothing has been said about the government of [[Qohor]], founded as a religious colony by followers of the [[Black Goat]], though it is ''probably'' also ruled over by a combination of magisters and priests involved in trade.
+
+Only [[Braavos]], [[Volantis]], and [[Norvos]] can be said to not be ruled over by magisters like the other Free Cities. Norvos was founded by religious dissidents, and to this day the [[Bearded Priests of Norvos]] rule over the city as a theocracy - Norvos does have a council of magisters, but in this case, it is the magisters who have nominal power, being appointed and dismissed at whim by the Bearded Priests who hold the real power.
+
+Volantis continues to function as a Freehold, like Old Valyria, and is ruled over by a council of three [[Triarchs of Volantis|triarchs]], who are democratically elected. Only members of Volantis's old aristocracy that can trace their lineage back to Old Valyria can stand for office, and only freemen can vote (in a city where slaves outnumber freemen five to one), though both free men and women have the right to vote. In theory aristocratic women can also run for triarch, though in practice the last time a woman won an election was three centuries ago. Of course, many members of the old aristocratic families of Volantis are quite wealthy merchant-princes, and it takes a lot of money to mount a successful election campaign, so in some ways they are similar to magisters - but Volantis still cares more about lineage and votes than a city like Lys in which by definition a man only needs to be rich to rule.
+
+Braavos is ruled by a [[Sealord of Braavos|Sealord]], but the politics of the city can be quite complex. It is still a society dominated by merchants and bankers, not the noble bloodlines and titles found in Westeros, and members of the [[Iron Bank of Braavos]] hold particular sway. The title of Sealord is not hereditary, and the transition between one and the next can be quite bloody. On the whole, however, Braavos is a very free society, founded by escaped slaves who outlawed slavery in their new city. Unique among the Free Cities, theater productions in Braavos are known to openly mock and satirize high-ranking bankers in their plays, even gently mocking the current Sealord knowing that he is actually in attendance for the play - this would be considered quite shocking in both Westeros and the other Free Cities, but the Braavosi have a much more egalitarian social attitude.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Free Cities}}
+
+<!--Categories-->
+[[Category:Pentoshi culture]]
+[[Category:Titles]]
+
+<!--Languages-->
+[[pt-br:Magíster]]
+[[ru:Магистр]]
+[[vi:Thương chủ]]

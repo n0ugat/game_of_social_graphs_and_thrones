@@ -1,0 +1,55 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Character
+| Title       = Moro's bloodrider
+| Type        = Dothraki
+| Image       = 601 Bloodrider 2.png
+| Birth       = 
+| Death       = [[303 AC]]{{Dateref|Game of Thrones: Season 6}}<br>The [[Temple of the Dosh Khaleen|Temple of the ''Dosh Khaleen'']], [[Vaes Dothrak]]{{Ref|GOT604}}
+| House       = 
+| Affiliation = {[[Moro]]}
+| Titles      = [[Bloodrider]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Dothraki]]
+| Religion    = [[Great Stallion]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 6|6]]
+| Appearances = 3 episodes {{Below|Appearances}}
+| First       = "[[The Red Woman]]"
+| Last        = "[[Book of the Stranger]]"
+| DeathEp     = "Book of the Stranger"
+| Actor       = [[Junade Khan]]
+}}
+{{Quote|Assilat vaes majin azzafrolat gimisires mae majin yanqolat jor mae Vaesaan Dothrak.<br>(Conquering a city and taking her people as slaves and taking her idols back to Vaes Dothrak.|The bloodrider describes what exceeds the beauty of [[Daenerys Targaryen]]|The Red Woman}}
+One of '''Moro's [[bloodrider]]s''' was present when [[Daenerys Targaryen]] is brought before ''[[Khal]]'' [[Moro]] as a captive.
+
+==Biography==
+===[[Game of Thrones: Season 6|''Game of Thrones'': Season 6]]===
+He is present when [[Daenerys Targaryen]] is brought before ''[[Khal]]'' [[Moro]] as a captive.{{Ref|GOT601}} He is also present at her trial, but he is incinerated when she burns down the [[Temple of the Dosh Khaleen|Temple of the ''Dosh Khaleen'']].{{Ref|GOT604}}
+
+==Appearances==
+*{{GOT|The Red Woman}}
+*{{GOT|Oathbreaker}}
+*{{GOT|Book of the Stranger}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Categories-->
+[[Category:Bloodriders]]
+[[Category:Dothraki]]
+[[Category:Individuals appearing in Game of Thrones]]
+
+<!--Languages-->
+[[ru:Кровный всадник Моро 2]]

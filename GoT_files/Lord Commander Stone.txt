@@ -1,0 +1,57 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Night's Watch.svg
+| Link  = Night's Watch
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = 
+| Birth       = In the [[Vale of Arryn]]
+| Death       = 
+| House       = 
+| Affiliation = [[Night's Watch]]
+| Titles      = [[Lord Commander of the Night's Watch]]
+| Predecessor = 
+| AKA         = 
+| Culture     = [[Vale of Arryn|Valemen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Lord Commander Stone''' was a [[Lord Commander of the Night's Watch]].
+
+==Biography==
+===Background===
+Lord Commander Stone fought a battle against [[Free Folk|wildlings]] attempting to swim across the [[Bay of Seals]] near [[Eastwatch-by-the-Sea]]. Upon his death around fifty years later, he was succeeded by Ser [[Rodrik Velaryon]].<ref>[[:File:5x2 Night's Watch Book.jpg]]</ref>
+
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+Lord Commander Stone is mentioned in a book that [[Samwell Tarly]] is reading.{{Ref|GOT502}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no character named Lord Commander Stone.
+
+==Appearances==
+*{{GOT|The House of Black and White}} {{Text}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+{{DEFAULTSORT:Stone}}
+[[Category:Bastards]]
+[[Category:Ennobled commoners]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Lords Commander of the Night's Watch]]
+[[Category:Valemen]]

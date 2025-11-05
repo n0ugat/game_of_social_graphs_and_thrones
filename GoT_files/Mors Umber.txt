@@ -1,0 +1,63 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Leftimage  = House Umber.svg
+| Leftlink   = House Umber
+| Rightimage = Night's Watch.svg
+| Rightlink  = Night's Watch
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = 
+| Birth       = At [[Last Hearth]]
+| Death       = 
+| House       = [[House Umber|Umber]]
+| Affiliation = [[Night's Watch]]
+| Titles      = [[Knighthood|Ser]]<br>[[First Ranger]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Northmen|Northern]]
+| Religion    = [[Old Gods]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+Ser '''Mors Umber''' was a [[First Ranger]] of the [[Night's Watch]] during the command of [[Osric Stark]].
+
+==Biography==
+===Background===
+Mors was a candidate for the position of [[Lord Commander of the Night's Watch]]. When he lost the [[Elections|choosing]] to the ten-year-old Osric Stark, he accused that the [[King in the North|King of Winter]] had intervened to support his brother. He later relented and was appointed First Ranger by Osric.<ref>[[:File:5x2 Night's Watch Book.jpg]]</ref>
+
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+Mors is mentioned in a book that [[Samwell Tarly]] is reading.{{Ref|GOT502}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, this character is not mentioned. Mors Umber, called Crowfood, is the uncle of [[Greatjon Umber]] and serves as [[castellan]] of [[Last Hearth]] with his younger brother Hother Whoresbane.
+
+==Appearances==
+*{{GOT|The House of Black and White}} {{Text}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House Umber}}
+
+<!--Categories-->
+{{DEFAULTSORT:Umber, Mors}}
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Knights]]
+[[Category:Members of House Umber|Mors Umber]]
+[[Category:Northmen]]
+[[Category:Rangers of the Night's Watch]]

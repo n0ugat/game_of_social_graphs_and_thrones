@@ -1,0 +1,30 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Nikola Oreskovic.jpg
+| Birth   = 
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 2|2]]
+| Credits = "[[The Old Gods and the New]]"
+| First   = 
+| Last    = 
+}}
+'''Nikola Orešković''' is a stuntman.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 2|second season]] episode "[[The Old Gods and the New]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 2||||||yes}}
+
+==See also==
+*{{IMDb
+|# = 4985925}}
+*{{Facebook
+|# = cavalo}}
+*{{Vimeo
+|# = nikolaoreskovic}}
+{{DEFAULTSORT:Orešković, Nikola}}
+[[Category:Stunt performers of Game of Thrones]]

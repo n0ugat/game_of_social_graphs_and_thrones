@@ -1,0 +1,58 @@
+{{Canonicity|Non}}
+{{Heraldry
+| Image = House Stark.svg
+| Link  = House Stark
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Stark
+| Image       = 
+| Birth       = [[Age of Heroes]]{{Note|''[[Bloodmoon]]'' was set during the Age of Heroes. Maiev Stark was a human, therefore she must have been born in this age.}}
+| Death       = 
+| House       = [[House Stark|Stark]]{{Webref|name=Starks |author=Wake the Dragon |date=February 18, 2024 |url=https://twitter.com/WtDasoiaf/status/1759432471953735779 |title=Sylvi and Maiev |website=X |access-date=February 19, 2024 }}
+| Allegiance  = 
+| Titles      = [[Prince]]ss<ref name="Starks" />
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[Bloodmoon]]'' {{Rejected}}
+| Season      = 
+| Appearances = [[Pilot (Bloodmoon)|Pilot]] {{Unreleased}}
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Dixie Egerickx]]
+}}
+'''Maiev Stark''' was a [[prince]]ss of [[House Stark]] who lived during the [[Age of Heroes]]. She was a relative of Princess [[Sylvi Stark|Sylvi]] and [[Stark (Bloodmoon)|another Stark]].
+
+==Behind the scenes==
+On March 27, 2019, ''Variety'' announced that [[Dixie Egerickx]] had been cast as a series regular in ''[[Bloodmoon]]'', a ''[[Game of Thrones]]'' [[World of Westeros|prequel]] [[Pilot (Bloodmoon)|pilot]].{{Webref|name=Variety |author=Joe Otterson |date=March 27, 2019 |url=https://variety.com/2019/tv/news/game-of-thrones-prequel-pilot-cast-1203173822/ |title=‘Game of Thrones’ Prequel Adds Five More Series Regulars |website=Variety |access-date=December 6, 2023 }} On July 21, 2020, ''Redanian Intelligence'' revealed that her character was named Maiev.{{Webref|name=Redanian |author=Gravemaster |date=July 21, 2020 |url=https://redanianintelligence.com/2020/07/21/new-tidbits-about-the-cancelled-game-of-thrones-prequel-leaf/ |title=The cancelled Game of Thrones prequel featured a character from the original show and other new tidbits |website=Redanian Intelligence |access-date=March 30, 2023 }} On February 18, 2024, Wake the Dragon revealed that Maiev was a Stark princess.<ref name="Starks" />
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels and its supplementary material, there is no mention of a character named Maiev Stark. The character was invented by [[Jane Goldman]] for ''Bloodmoon''.
+
+==Appearances==
+*{{BM|Pilot}} {{Unreleased}} {{Nc}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{House Stark}}
+{{Bloodmoon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Stark, Maiev}}
+[[Category:Individuals from Bloodmoon]]
+[[Category:Members of House Stark|Maiev Stark]]
+[[Category:Princesses]]

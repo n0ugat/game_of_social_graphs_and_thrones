@@ -1,0 +1,76 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Crownlander
+| Image       = Mhaegen.jpg
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = {[[Petyr Baelish]]}
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = {[[Barra]]}
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 1|1]] {{*}} [[Game of Thrones: Season 2|2]]
+| Appearances = 2 episodes {{Below|Appearances}}
+| First       = "[[The Wolf and the Lion]]"
+| Last        = "[[The North Remembers]]"
+| DeathEp     = 
+| Actor       = [[Antonia Christophers]]
+}}
+{{Quote|And tell him I've been with no one else. I swear it, m'lord, by the old gods and new. I don't want no jewels or nothing...just him. The King was always good to me.|Mhaegen to [[Eddard Stark|Ned Stark]] about [[Robert Baratheon]]|The Wolf and the Lion}}
+'''Mhaegen''' is a [[Prostitution|prostitute]] and the mother of the royal [[bastard]] [[Barra]].
+
+==Biography==
+===Background===
+Mhaegen is a prostitute working and living at [[Littlefinger's brothel]] in [[King's Landing]]. She is known to King [[Robert Baratheon]] and is a former favorite of his. They have an illegitimate daughter named Barra.{{Ref|GOT105}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+[[Eddard Stark|Eddard]] visits Mhaegen, following the investigation of his predecessor [[Jon Arryn]]. She shows him Barra and they discuss her relationship with Robert.{{Ref|GOT105}}
+
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+[[File:Barra.jpg|thumb|Mhaegan presents Barra to Ned.]]
+[[City Watch of King's Landing|Gold Cloaks]], led by [[Janos Slynt]], [[Massacre in King's Landing|break]] into the brothel, along with a man who identifies Mhaegen as the mother of one of Robert's bastards. She resists when the Gold Cloaks take Barra from her arms. Slynt kills Barra personally after one of his men cannot go through with it. Mhaegen screams and weeps as the Gold Cloaks restrain her.{{Ref|GOT201}}
+
+[[Petyr Baelish|Littlefinger]] notices that [[Ros]] is sobbing. She reminds him that Mhaegan works for him (he does not even remember who she is), and that the Gold Cloaks killed her baby. Littlefinger reacts very indifferently and insensitively.{{Ref|GOT202}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Mhaegen appears but is not named. She has a a light red hair and freckles on her nose and bosom. Ned estimates she cannot be more than fifteen years old.
+
+The brothel where Mhaegen works is not owned by Littlefinger but by Chataya, a tall and elegant black-skinned woman from the [[Summer Isles]].
+
+She is killed by Allar Deem, a Gold Cloak sent by Lord Slynt, when she tries to protect her baby daughter. In the TV series, she might have survived the encounter, since afterwards Ros speaks about her in present tense.
+
+==Appearances==
+*{{GOT|The Wolf and the Lion}}
+*{{GOT|The North Remembers}}
+*{{GOT|The Night Lands}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+[[Category:Crownlanders]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Prostitutes]]
+[[Category:Smallfolk]]
+
+<!--Languages-->
+[[de:Mhaegen]]
+[[es:Mhaegen]]
+[[fr:Mhaegen]]
+[[ro:Mhaegen]]
+[[ru:Мэйген]]
+[[zh:梅玵]]

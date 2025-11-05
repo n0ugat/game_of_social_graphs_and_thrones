@@ -1,0 +1,59 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Mooton.svg
+| Link  = House Mooton
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Tully
+| Image        = 
+<gallery>
+701 BtS Map Maidenpool.png|Appearance
+Maidenpool Pin.png|Location
+</gallery>
+| Type         = Town
+| Status       = 
+| Location     = The [[Riverlands]], [[Westeros]]
+| Population   = 
+| Rulers       = [[House Mooton]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+{{Quote|And who are the Lords of Maidenpool? Remind me.|[[Tywin Lannister]] to [[Arya Stark]]|The Ghost of Harrenhal}}
+'''Maidenpool'''{{Ref|GOT205}} is a town in the [[Riverlands]], the region controlled by [[House Tully]] of [[Riverrun]]. It is the seat of [[House Mooton]]. It is located at the estuary of the [[Trident]] near the border of the [[Crownlands]]. It is located to the north of [[King's Landing]] and north-east of [[Harrenhal]].
+
+==History==
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+When [[Tywin Lannister|Tywin]] quizzes [[Arya Stark|Arya]] on where she is from, she says Maidenpool. Tywin realizes she is lying when she cannot identify House Mooton's sigil.{{Ref|GOT205}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Maidenpool is a port town on the east coast of Westeros, on the Bay of Crabs. It is linked to King's Landing by two roads, one that runs along the coast of [[Crackclaw Point]] to the east and another that passes directly south through [[Duskendale]] in the Crownlands. Fisherfolk northwest of Maidenpool fish the waters in leather coracles and collect clams. Maidenpool's main gate is called the Fool's Gate.
+
+Maidenpool is sacked during the [[War of the Five Kings]]. [[Jaime Lannister|Jaime]], [[Alton Lannister#In the books|Cleos Frey]] and [[Brienne of Tarth|Brienne]] pass through the town on their way to King's Landing, noticing that the town walls are deserted, the gates are smashed, and half the homes and shops are burned or plundered. After the Battle of Duskendale, [[Randyll Tarly]] marches on Maidenpool, takes the town and locks Lord William Mooton in a tower cell. Later he begins to rebuild the town while hunting the outlaws in the area.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{House Mooton}}
+{{Riverlands}}
+
+<!--Categories-->
+[[Category:Harbors]]
+[[Category:House Mooton]]
+[[Category:Riverlands]]
+[[Category:Towns]]
+
+<!--Languages-->
+[[de:Jungfernteich]]
+[[it:Maidenpool]]
+[[pl:Staw Dziewic]]
+[[pt-br:Lagoa da Donzela]]
+[[ru:Девичий Пруд]]
+[[zh:女泉镇]]

@@ -1,0 +1,62 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Heraldry
+| Image = House Martell.svg
+| Link  = House Martell
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Martell
+| Image       = Nymeria's firts Daughter.png
+| Birth       = At [[Sunspear]]
+| Death       = 
+| House       = [[House Martell|Martell]]
+| Affiliation = 
+| Titles      = [[Prince of Dorne|Princess of Dorne]]
+| Predecessor = {[[Nymeria]]}
+| Successor   = 
+| AKA         = 
+| Culture     = [[Dornishmen|Dornish]]
+| Religion    = 
+| Father      = {[[Mors Martell]]}
+| Mother      = {[[Nymeria]]}
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = {[[Nymeria's son|Maternal half-brother]]}
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|And when at last she died, her eldest child succeeded her; her daughter, not her son, and Dorne followed her because Nymeria had proven that women were equal to men, if not better.|[[Ellaria Sand]]|Dorne (short)}}
+'''Nymeria's daughter''' was the first child of the warrior-queen [[Nymeria]] and her first husband, [[Mors Martell]].
+
+==Biography==
+She was the first child of the warrior-queen [[Nymeria]] and her first husband, [[Mors Martell]]. At some point, her father was killed in battle either before or during the time that her mother was dealing with the rebels from [[House Dayne]]. Eventually, Nymeria defeated them and sent [[Vorian Dayne]] to the [[Wall]], taking his son, [[Davos Dayne]], as her husband, giving her daughter a stepfather. Despite having a half-brother by Davos, this Martell ultimately succeeded her mother, as Nymeria had proved in [[Nymeria's War|her war]] that women were at least equal to men, if not better.{{Ref|H&L509}}
+
+==In the books==
+Since she was the eldest child, she inherited the rule of [[Dorne]] even though she was a woman, as per [[Rhoynar|Rhoynish]] custom.
+
+==Appearances==
+*{{H&L|Dorne}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House Martell}}
+{{Kings of Westeros}}
+
+<!--Categories-->
+[[Category:Dornishmen]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Ladies]]
+[[Category:Members of House Martell]]
+[[Category:Princes of Dorne]]
+
+<!--Languages-->
+[[ru:Дочь Нимерии]]

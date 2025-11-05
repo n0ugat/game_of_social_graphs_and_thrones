@@ -1,0 +1,196 @@
+{{Canonicity|Canon}}
+{{War
+| Title      = {{PAGENAME}}
+| Type       = Thrones
+| Part       = 
+| Image      = Dragons S3E4.jpg
+| Previous   = [[Greyjoy Rebellion]]
+| Concurrent = [[War of the Five Kings]]<br>[[Conflict beyond the Wall]]
+| Next       = [[Last War]]
+| Beginning  = [[300 AC]]{{Dateref|Game of Thrones: Season 3}}<br>[[Fall of Astapor]]
+| End        = [[303 AC]]{{Dateref|Game of Thrones: Season 6}}<br>[[Second siege of Meereen]]
+| Place      = [[Slaver's Bay]], [[Essos]]
+| Outcome    = Decisive [[House Targaryen]] victory
+{{Details|
+*[[Slavery]] is successfully<br>abolished around Slaver's Bay
+*Slaver's Bay is renamed to the [[Slaver's Bay|Bay of Dragons]]
+*The fleet of the former slave masters is given to [[King of the Andals and the Rhoynar and the First Men|Queen]] [[Daenerys Targaryen|Daenerys I Targaryen]], the "Breaker of Chains"
+*[[Daario Naharis]] is left to rule in Daenerys' stead with the [[Second Sons]] keeping the peace}}
+| Factions1  = {{COA|House Targaryen|s}}<br>[[House Targaryen]]<br><br>{{COA|Second Sons|s}}<br>[[Second Sons]]<br>{{C|pre-[[battle in Yunkai]]}}
+| Factions2  = {{COA|Astapor|s}}<br>[[Astapor]]<br><br>{{COA|Yunkai|s}}<br>[[Yunkai]]<br><br>{{COA|Meereen|s}}<br>[[Meereen]]<br>{{C|until pre-[[siege of Meereen]]}}<br><br>[[Volantis]]<br><br>[[Sons of the Harpy]]
+| Factions3  = [[Astapor]]
+| Factions4  = 
+| Factions5  = 
+| Factions6  = 
+| Leaders1   = {{COA|House Targaryen|i}} [[Queen of Meereen|Queen]] [[Daenerys Targaryen]]<br>{{COA|House Lannister|i}} [[Hand of the King|Lord]] [[Tyrion Lannister]]<br>{{COA|Kingsguard|i}} [[Knighthood|Ser]] [[Jorah Mormont]]<br>{{COA|Kingsguard|i}} [[Knighthood|Ser]] [[Barristan Selmy]] †<br>{{COA|Second Sons|i}} Captain [[Daario Naharis]]<br>{{C|post-[[battle in Yunkai]]}}<br>[[Grey Worm]]
+| Leaders2   = {{COA|Good Masters|i}} [[Good Masters]] {{Surrender}}<br>{{COA|Wise Masters|i}} [[Yezzan zo Qaggaz]] {{Surrender}}
+----
+{{COA|Wise Masters|i}} [[Wise Masters]] {{Surrender}}<br>{{COA|Wise Masters|i}} [[Razdal mo Eraz]] {{Executed}}
+----
+{{COA|Second Sons|i}} Captain [[Mero]] †<br>{{COA|Second Sons|i}} Captain [[Prendahl na Ghezn]] †<br>{{COA|Second Sons|i}} Lieutenant [[Daario Naharis]]<br>{{C|pre-[[battle in Yunkai]]}}
+----
+{{COA|Great Masters|i}} [[Great Masters]] {{Surrender}}
+----
+[[Belicho Paenymion]] {{Executed}}
+| Leaders3   = [[King of Astapor|King]] [[Cleon]] †
+| Leaders4   = 
+| Leaders5   = 
+| Leaders6   = 
+| Events     = [[Fall of Astapor|Astapor (I)]] {{*}} [[Battle in Yunkai|Yunkai]] {{*}} [[Siege of Meereen|Meereen (I)]] {{*}} [[Shadow war|Meereen (II)]] {{*}} [[Siege of Astapor|Astapor (II)]] {{*}} [[Massacre of the Khalar Vezhven|Vaes Dothrak]] {{*}} [[Second siege of Meereen|Meereen (III)]]
+}}
+{{Dialogue a-b-a|Daenerys Targaryen|The Masters tear babies from their mothers' arms. They mutilate little boys by the thousands. They train little girls in the art of pleasuring old men. They treat men like beasts...|Jorah Mormont|It's tempting to see your enemies as evil, all of them. But there's good and evil on both sides in every war ever fought.|Let the priests argue over good and evil! Slavery is real. I can end it. I ''will'' end it. And I will end those behind it... They can live in my new world, or they can die in their old one.|[[Daenerys Targaryen]] explains the idealism behind her campaign in Slaver's Bay, in the face of Ser [[Jorah Mormont|Jorah]]'s pragmatic warnings.|Mockingbird}}
+The '''liberation of Slaver's Bay'''{{Ref|GOT405}} is a military campaign led by [[Daenerys Targaryen]], with the goal of liberating the [[Slavery|enslaved]] populace of [[Slaver's Bay]].
+
+During this campaign Daenerys sacks [[Astapor]], defeats the forces of [[Yunkai]], and conquers the city of [[Meereen]], where she stays to rule over Slaver's Bay.
+
+After the Slaver Alliance fails to [[Second siege of Meereen|besiege]] Meereen, the slaver cities surrender. The system of slavery is abolished, and the region is renamed the Bay of Dragons in honor of Daenerys [[Drogon|and]] [[Rhaegal|her]] [[Viserion|dragons]].
+
+The campaign in Slaver's Bay is a decisive victory for [[House Targaryen]]. With only a small ''[[Khalasar|khalasar]]'' under her command before the campaign, Daenerys departs from Slaver's Bay with a large army of [[Unsullied]] and [[Dothraki]], a large fleet and the combined support of the [[Ironborn]], [[House Tyrell]] and [[Dorne]].
+
+==History==
+===Prelude===
+After suffering betrayal and near imprisonment in [[Qarth]], Daenerys departed the city on a ship bought with the plunder from [[Xaro Xhoan Daxos]]'s manse with her long-time advisor and friend [[Jorah Mormont]], her few remaining dothraki followers, and her three young dragons: [[Drogon]], [[Viserion]], and [[Rhaegal]].<ref>"[[Valar Morghulis]]"</ref> The young ''[[Khaleesi]]'' landed in [[Astapor]], one of the three slaver cities in the eponymous [[Slaver's Bay]], where she took Ser [[Barristan Selmy]] into her service, as she was looking for a way to acquire an army to take the [[Iron Throne]] and Mormont told her about the prowess of their warrior-eunuchs, called the [[Unsullied]].<ref>"[[Valar Dohaeris]]"</ref> However, after witnessing their brutal training and abuse at the hands of the [[Good Masters]] and the general squalor in which the slaves of the city had to live, she resolved to free them all.<ref name="E23">"[[Walk of Punishment (episode)|Walk of Punishment]]"</ref>
+
+===[[Fall of Astapor]]===
+Daenerys negotiated with the Masters, agreeing to trade her dragon Drogon for the command over the Unsullied and, as a gift, their translator [[Missandei]].<ref name="E23"/> However, after the exchange, she ordered the Unsullied to slay the Masters and free all the slaves and commanded Drogon to torch [[Kraznys mo Nakloz]], who had insulted her during her stay in the city. The Unsullied and the rampaging dragon then proceeded to [[Fall of Astapor|sack and burn the city]]. Afterwards, Daenerys freed her new slave soldiers, who in return pledged to serve her as free men.<ref>"[[And Now His Watch Is Ended]]"</ref> Before marching out of the city with her 8,000 Unsullied strong army, Daenerys installed a [[Ruling council of Astapor|council]] in Astapor to rule the city in her stead.<ref>"[[First of His Name]]"</ref>
+
+However, not long after Daenerys [[Siege of Meereen|conquers]] [[Meereen]], news arrives that the council has been overthrown by a man named [[Cleon]].<ref>"[[The Laws of Gods and Men]]"</ref>
+
+===[[Battle in Yunkai]]===
+Although Jorah Mormont counseled Daenerys that taking [[Yunkai]] would not help her take the Iron Throne, she decided to proceed with a campaign to free all the slaves in the city and cleanse all of Slaver's Bay of slavery. Therefore, her newfound army, with [[Grey Worm]] elected as their commander<ref>"[[Kissed by Fire]]"</ref>, marched on the Yellow City.
+
+Near the city, she received the envoy [[Razdal mo Eraz]], of the [[Wise Masters]] of Yunkai. She spurned his offer of gold and ships to guide her to [[Westeros]] in exchange for leaving them alone in their business, although she kept their gold.<ref>"[[The Bear and the Maiden Fair (episode)|The Bear and the Maiden Fair]]"</ref> After finding out that Yunkai had employed a mercenary company called the [[Second Sons]] to stand against her Unsullied, she met with the captains and tried to persuade them to her cause, to no avail. Sensing an opportunity and smitten with the beauty of Daenerys, one of the captains, [[Daario Naharis]], killed his colleagues and pledged his company to Daenerys' cause.<ref>"[[Second Sons (episode)|Second Sons]]"</ref> With Daario's insider knowledge, a small party of supporters, composed of Jorah Mormont, Grey Worm and himself, entered Yunkai through a back-gate to open the front-gates for her army. With the numerical advantage on their side, [[Battle in Yunkai|Yunkai fell within hours]].<ref>"[[The Rains of Castamere (episode)|The Rains of Castamere]]"</ref> The city then surrendered their slaves to Daenerys, who praised her as their 'Mother'.<ref>"[[Mhysa]]"</ref>
+
+===[[Siege of Meereen]]===
+While on the march for [[Meereen]], the last and greatest of the slave-cities, Daenerys' army, now numbering over 10,000 and armed with siege engines, came across a series of 163 crucified slave-children pointing towards the city, one for each mile between them and Meereen. Daenerys was greatly angered by this provocation by the [[Great Masters]].<ref>"[[Two Swords]]"</ref>
+
+After her arrival before the city gates, Meereen sent forth a champion to challenge her best fighter in single combat. Daario Naharis swiftly dispatched the champion and Daenerys ordered the broken slave-collars from the slaves of Astapor and Yunkai be flung over the city-walls as a message to the slaves inside the city.<ref>"[[Breaker of Chains]]"</ref> D​uring the night, Grey Worm sneaked himself and a select group of the Unsullied soldiers under his command into Meereen through the sewers, disguised as slaves, to arm the Meereene slaves and incite them to revolt against their Masters. In the following revolt many Masters were mobbed in the streets and the victorious slaves [[Siege of Meereen|opened the gates for Daenerys]]. Her first act was retribution for the dead slave-children: 163 Great Masters were crucified along the streets of Meereen, while Daenerys took residence in the Great Pyramid.<ref>"[[Oathkeeper (episode)|Oathkeeper]]"</ref>
+
+===Rule over Meereen===
+Although the Second Sons took hold of the Meereenese navy, Daenerys learned that the council she had set up to rule Astapor had been overthrown by a self-proclaimed King called [[Cleon]] and that the Wise Masters of Yunkai had returned to power and enslaved all the freedmen. Therefore, instead of marching to King's Landing in her new fleet and take the Iron Throne, Daenerys decided to remain in Meereen to rule over Slaver's Bay and enforce her abolition of slavery.<ref>"[[First of His Name]]"</ref> In order to accomplish this, she sent to Yunkai a Great Master at her service, [[Hizdahr zo Loraq]], to negotiate with the Wise Masters. If they did not comply with her demands of abandoning slavery once and for all, Daario would send in his Second Sons and execute them all. By this point in time, Meereen was already beginning to experience clandestine revenge killings and civil unrest between freedmen and former slave-masters.<ref>"[[Mockingbird]]"</ref>
+
+Then, Daenerys suffered three great subsequent losses for her cause. Firstly, after [[Barristan Selmy]]  uncovered her adviser Jorah Mormont as a former spy for King's Landing<ref>"[[The Laws of Gods and Men]]"</ref>, she was forced to exile him.<ref>"[[The Mountain and the Viper]]"</ref> Secondly, having been shown that her abolition of slavery had left many former slaves in an even more precarious position, she begrudgingly accepted the creation of one-year contracts, which could allow the former Masters to effectively reintroduce slavery. Lastly, when Drogon killed the [[Zalla|daughter]] of a local [[goatherd]] and then disappeared, she decided to lock up her two remaining dragons, Viserion and Rhaegal, in the catacombs.<ref>"[[The Children]]"</ref>
+
+===[[Shadow war]]===
+Eventually, Hizdahr zo Loraq and Daario Naharis returned successful from their Yunkish diplomatic mission: the Wise Masters would comply with her abolition of slavery and set up a ruling council of former slaveholders and freedman as long as she reopened the [[Fighting pit|fighting pits]], a condition Daenerys could not tolerate, despite repeated appeals by Hizdahr and Daario. Meanwhile, a clandestine organization opposing her rule, the [[Sons of the Harpy]], turned to violence and began assassinating her men, including Ser Barristan Selmy and several Second Sons and Unsullied, and severely injuring the latter's commander, Grey Worm.<ref>"[[The Wars To Come]]"</ref><ref>"[[Sons of the Harpy (episode)|Sons of the Harpy]]"</ref> In retaliation, Daenerys rounded up the leaders of the great families and, as a show of strength, fed one of them to Viserion and Rhaegal. However, she soon reconsidered her approach and compromised: she would reopen the fighting pits and strengthen her bond with the Meereenese people by marrying the leader of an [[House of Loraq|ancient family]] — Hizdahr zo Loraq.<ref>"[[Kill the Boy]]"</ref>
+
+====Accusation of Tyrion Lannister====
+[[Yezzan zo Qaggaz]] took his fighters to Meereen, to test them in the lower pits and seek out those who would be worthy to fight in the [[Great Pit of Daznak]]. Unexpectedly, Daenerys was present, as she was making the rounds to the lower pits ahead of the main tournament, so [[Jorah Mormont]] entered the Pits early and easily defeated the other fighters without killing them, impressing Dany. When he revealed his identity, however, she ordered him taken away. Before the Unsullied could comply, Jorah declared that he brought her a gift, and [[Tyrion Lannister]] entered the arena and revealed his identity to the astonished Queen.<ref>"[[The Gift]]"</ref>
+
+Back at the [[Great Pyramid of Meereen]], Tyrion persuaded her to let Jorah go alive, though still in exile, commenting on his obvious devotion and maybe even love towards her, yet also on the fact that he did not trust her enough to inform her of his mission to spy on her for King Robert. Jorah decided to return to fight in the pits, intending to win back her favour once again, while Tyrion entered into the service of Daenerys as an advisor, after he revealed several things, including [[Varys]]'s secret loyalty to her and his insight into the politics of the Seven Kingdoms.<ref>"[[Hardhome (episode)|Hardhome]]"</ref>
+
+====Attack at the Great Pit of Daznak====
+The reopening of the fighting pits was officially celebrated during the [[fighting pit#Great Games|Great Games]] at the [[Great Pit of Daznak]]. Though it all started according to plan, the Sons of the Harpy staged an attack on the Queen, which she only survived thanks to [[Jorah Mormont]]. Daenerys and her supporters were nevertheless surrounded by the Sons, with nowhere to go, only for [[Drogon]] to return and and scatter the Harpies, many of whom died by the dragon's fire and his teeth. However, Drogon became injured in the fight, and Daenerys mounted him in order to soothe him. With no safe option for Drogon, Daenerys ordered him to fly away, which he did, with Daenerys still on his back, leaving the Great Pit of Daznak and Meereen behind them.<ref>"[[The Dance of Dragons (episode)|The Dance of Dragons]]"</ref>
+
+After the attack at the Great Pit of Daznak, Daenerys's advisors decided that Jorah Mormont and Daario Naharis would leave Meereen to find their missing Queen. Until they returned with Daenerys, Tyrion would rule Meereen in her stead, as he was the only one with experience in governing a city; Grey Worm would stay, as he commanded the respect of those loyal to Daenerys; and Missandei too, as she was the Queen's closest confidant. Varys arrived soon after, and offered Tyrion the service of his [[Little birds|spies]]. Meanwhile, an injured and tired Drogon landed in the Dothraki Sea, unwilling to take off again and take Daenerys back to Meereen. While surveying the area and looking for food, Daenerys encountered a Dothraki khalasar and was soon surrounded.<ref>"[[Mother's Mercy]]"</ref>
+
+==== Burning of Meereen's shipyards ====
+
+Sometime after Jorah and Daario's departure of Meereen, Tyrion and Varys are inspecting the city of Meereen when they discover the shipyards of the city have been burned.<ref>"[[The Red Woman]]"</ref>
+
+==== A return to stability ====
+After Tyrion unchains Viserion and Rhaegal, Varys learns from the prostitute [[Vala]] that the Sons of the Harpy are being funded by the Wise Masters of Astapor, Yunkai, and even Volantis. Tyrion arranges a meeting with the Masters, offering them a seven-year time limit to phase out slavery and compensate all slaveowners. Despite disagreements from the former slaves, Meereen begins to stabilize and the Sons activity is drastically reduced. Nevertheless, Tyrion affirms they must give credit to Daenerys and enlists the help of [[Kinvara]], the High Priestess of the [[Lord of Light]].
+
+=== Coup in Vaes Dothrak ===
+Meanwhile, Daenerys has been captured by the khalasar and returned to Vaes Dothrak to live out her days in the Temple of the Dosh Khaleen. Instead, Daenerys organizes a coup and burns all of the khals alive inside the temple, literally winning the support of the Dothraki overnight. After parting on good terms with Jorah Mormont, Daenerys is reunited with Drogon while leading the khalasar back to Meereen, further cementing herself as their leader.<ref>"[[Book of the Stranger]]"</ref><ref>"[[Blood of My Blood]]"</ref>
+
+===Siege of Astapor===
+Soon after the burning of Meereen's fleet, news reaches Tyrion and Varys that the slave-masters have not only retaken Yunkai, but now also Astapor as well after the [[siege of Astapor]] (and presumably the self-proclaimed king [[Cleon]] died in the fall). This officially leaves Meereen as the only part of Slaver's Bay that the slave-masters have not reclaimed control over.<ref>"[[Home]]"</ref>
+
+=== [[Second siege of Meereen]] ===
+Once again, the peace is short-lived. After [[Varys]] departs on a mission to Westeros, the Masters attack Meereen by sea, bombarding the city at night. As [[Grey Worm]] and the Unsullied prepare to defend the Great Pyramid rather than risk attacking the Masters on the beach, Daenerys finally returns, arriving at the Pyramid's balcony on [[Drogon]].<ref>"[[No One]]"</ref>
+[[File:Dragons destroy ships in Meereen.jpg|thumb]]
+The following morning, as the Masters continue to bombard the city, Daenerys and Tyrion arrange a meeting to negotiate surrender. The meeting is a ruse, however, as Daenerys quickly flies away on Drogon to lead a counterattack. She orders her dragons to burn the Master's ships while the Dothraki and Second Sons retake the city on the ground. Grey Worm kills [[Razdal mo Eraz]] and [[Belicho Paenymion]], but spares [[Yezzan zo Qaggaz]] to send a message to the other slave-holding cities, ending the siege.<ref>"[[Battle of the Bastards (episode)|Battle of the Bastards]]"</ref>
+
+===Aftermath===
+The campaign is a resounding success for House Targaryen, and Daenerys's position is secured. Before leaving Meereen to reclaim the Iron Throne for House Targaryen, Daenerys places Daario Naharis and the Second Sons in charge of governing the city and the renamed Bay of Dragons in her absence.<ref>"[[The Winds of Winter]]"</ref> Slavery is henceforth abolished throughout the region. Whether it will stay that way in Daenerys's absence, later death, along with the destruction of most of her army, remains to be seen.
+
+==In the books==
+===Prelude===
+In the ''[[A Song of Ice and Fire]]'' novels, Daenerys sets out with Jorah and her bloodriders to find ships to take her from [[Qarth]]. Along the docks, Jorah warns her that a big, scarred man and an old man with a staff are following them. When a merchant hands her a beautiful box as a gift, Daenerys opens it to find a green scarab within. The creature within the box flies out, and mayhem erupts. The creature attempts to kill her, but the old man with the staff not knocked it out of her hands. The merchant was a Sorrowful Man, and the creature a [[manticore]] that would have killed Daenerys had it bitten her. They learn that the huge, scarred [[eunuch]] is the pit-fighter Strong Belwas, and the old man is his squire [[Barristan Selmy|Arstan Whitebeard]], both sent by Magister [[Illyrio Mopatis]] to return them to [[Pentos]]. The old man recognizes Mormont, and the exile recognizes him but cannot place a name. Arstan claims he comes from the [[Seven Kingdoms]], and squired for a knight of [[House Swann]] as a young man. The two claim that Illyrio sent for them because he wishes to have her [[dragon]]s in order to bring justice to the Seven Kingdoms, which are a divided and warring realm. Daenerys concedes that she must leave Qarth, but commands them to change the names of their three ships to that of [[Aegon I Targaryen]]'s three dragons.
+
+===[[Fall of Astapor#In the books|Fall of Astapor]]===
+Daenerys meets with [[Kraznys mo Nakloz]], one of the [[Good Masters]] of [[Astapor]] to discuss the purchase of [[Unsullied]] through a translator. Daenerys pretends not to know [[High Valyrian]], but she understands everything the slaver is saying to the translator. Kraznys demonstrates the loyalty of the Unsullied, how the eunuchs follow every command given them and feel hardly any pain. Both Daenerys and Arstan are horrified by the conditions the Unsullied live under, and the brutality of their training. The slaver indicates he has 8,000 Unsullied currently for sale. Daenerys informs him she will spend the night considering the offer.
+
+Arstan is against the use of slaves, when [[Mercenary|sellswords]] can be bought in the [[Free Cities]]; he insists that if Daenerys lands in [[Westeros]] at the head of a slave army, many of the realm's people will oppose her for no more reason than the abhorrence of slavery. Daenerys is, however, too proud to go back to Pentos as a beggar, not after seeing what it did to her brother [[Viserys Targaryen (son of Aerys II)|Viserys]], how bitter and angry constantly begging for help left him.
+
+Lonely since [[Drogo]]'s death and confused over Ser Jorah's advances on her, Daenerys takes [[Irri]] as a lover one night, the [[Dothraki]] [[handmaiden]] more than willing to sexually pleasure her ''[[Khaleesi]]'', but Daenerys finds no release, only guilt over treating her handmaid as a bedslave.
+
+The next morning, when Ser Jorah comes to speak with her, Daenerys snaps at him; she despises Astapor and has only contempt for the Unsullied, but she still recognizes that they are too useful to pass up. Ser Jorah also gives Daenerys more food for thought on hiring the Unsullied, pointing out that they don't rape nor put to the sword the population of cities they've conquered unless specifically ordered to, minimizing the bloodshed that will inevitably occur when Daenerys starts the war to reclaim her throne. He also points out their usefulness in answering Daenerys' query as to why Astapor has never been sacked, since any enemy attacking Astapor would face the city's entire garrison of Unsullied, there are few neighboring cities and nations that pose a threat, and the combination of the Unsullied's reputation and heavy bribes offered by Astapor's rulers are enough to dissuade passing Dothraki ''[[Khalasar]]s'' from attacking the city.
+
+Daenerys is tempted, knowing that Viserys would purchase as many Unsullied as he could, but she questions if she can be anything like her elder brother, to whom Arstan and Jorah keep comparing her, if the loyalty of her men is only based on being bought and paid for. Ser Jorah points out that [[Rhaegar Targaryen|Rhaegar]]'s honor and the loyalty he inspired in his men didn't save him from [[Battle of the Trident|dying]] at the [[Trident]].
+
+Daenerys tells the slavers that she wants all eight thousand Unsullied, plus all the slave boys in training, whether they’ve been cut yet or not. In order to pay the slave masters, Daenerys offers all three of her ships as well as [[Drogon]], for the price of a dragon is incalculable. Daenerys frees [[Missandei]] and takes her into her service, revealing that she can speak High Valyrian.
+
+That night, [[Quaithe]] appears to Daenerys, seemingly in a dream, telling her again, "To go north, you must journey south. To reach the west, you must go east. To go forward you must go back, and to touch the light you must pass beneath the shadow." When the time for the deal to be brokered arrives, Daenerys swings the slaver’s whip in Kraznys’ face, and releases Drogon on him, shouting, "Drogon! Dracarys!" This is the sign for her followers to attack the slavers. With the help of the Unsullied who obey her as she is now their owner she has the slavers killed. The other slaves join her and soon Astapor is conquered.
+
+===[[Battle in Yunkai#In the books|Battle near Yunkai]]===
+Daenerys and her army of Unsullied reach [[Yunkai]], to find the city guarded by a huge force including two sellsword companies. She knows that open battle will cost her many lives, even though her commanders feel she will win easily. Daenerys tells her men to invite the two sellsword Captains, as well as the Yunkish leader. The first to arrive are the three Captains of the Stormcrows, who spurn her offer to join her, although she notices [[Daario Naharis]] smile at her as they leave. [[Mero]], the Captain of the [[Second Sons]] also laughs at her offer, but does accept a wagonload of wine to bring to his men. The master slaver [[Razdal mo Eraz|Grazdan mo Eraz]] brings Daenerys chests full of gold hoping she will leave Yunkai alone, but she sends him off with his gold and a warning that she will attack in three days time.
+
+After he leaves, Daenerys tells her commanders that they will attack that night, since none of Yunkai’s defenders will be expecting it. Soon after, Daario returns with the heads of Sallor the Bald and [[Prendahl na Ghezn]], the other two Stormcrow Captains, and swears the service of his company. Jorah warns her not to trust the [[Tyrosh]]i, yet she commands the battle to commence as planned. During the fight, she asks Arstan to tell her more of her brother Rhaegar. Whitebeard explains that the Prince was always melancholy, and a sense of doom hung over him. "He was born in grief, and that shadow hung over him all his days." Daenerys knows that it was the [[Fire of Summerhall|shadow]] of [[Summerhall]] that Arstan is referring to. Word arrives that her army won the battle easily during the night, with the help of the Stormcrows, and all the Second Sons too drunk to fight. Daenerys commands her men to spare any who threw down their swords, and promised to free any slaves. Once again, Daenerys’ army swells to even greater size. Daenerys rides on her [[Daenerys Targaryen's mare|white mare]] past all the newly freed people who call out to her as "Mother!"
+
+===[[Siege of Meereen#In the books|Siege of Meereen]]===
+[[Meereen]] is enclosed by a great wall, with hundreds of defenders to guard it. Daenerys’ huge army consists mostly of freed slaves. They are eating up the surrounding lands, and Daenerys realizes that she must claim the city before the army starves. Aware that storming the walls will cost her a great deal, Daenerys sends Strong Belwas to dispatch the Hero of Meereen. Belwas kills [[Oznak zo Pahl]], but the city still stands strong. Brown Ben Plumm reveals a way into the city through the sewers, and she discovers that her dragons seem to like Brown Ben, and perch on his shoulder when he visits.
+
+Daenerys, however, finds herself drawn to Daario Naharis, and keeps thinking of his blue eyes. Later, she goes off with Arstan and Missandei to visit the camps, and there she is attacked by Mero of Braavos. Arstan kills the Titan’s Bastard with his staff alone, and when Dany reaches her pavilion, Jorah is shocked to learn that a squire with a staff could defeat Mero with such ease. Arstan reveals that he is actually a knight, and Jorah finally recognizes him as Barristan the Bold. Barristan apologizes for deceiving her, and swears his sword in her service. Jorah warns her not to accept the man, for he went over to [[Robert Baratheon]] after the Trident. But Barristan reveals that Jorah has spied on her on behalf of [[Varys]] and the [[Small Council]] in hopes of gaining a royal pardon. Jorah pleads that he did so only at first, but he has been loyal to her since the birth of the dragons. Daenerys, disgusted, dismisses them both. She doesn't want them in her service any more. When she wonders where to send them, she suddenly has an idea.
+
+===Rule over Meereen===
+Daenerys sits in the Great Pyramid of Meereen, her troops having conquered the city after the men she sent into the sewers opened the gates. She meets an envoy from Astapor, who represents King [[Cleon]] the great, a former butcher who now rules Astapor, supposedly in Daenerys' name. But the envoy suggests that King Cleon wishes to marry Daenerys, and that the men she left to rule Astapor have all been deposed. Cleon has amassed new slaves, and is beginning to train them as Unsullied, and Daenerys is dismayed that all she has done to free Astapor of slavery is coming undone.
+
+The envoy tells Daenerys much worse news about Yunkai: soon after Daenerys' host left to Meereen, the [[Wise Masters]] start to plot against her. New levies have been raised and can be seen drilling outside the city walls, warships are being built, envoys have been sent to [[New Ghis]] and [[Volantis]] to make alliances and hire sellswords. The Yunkai have even dispatched riders to [[Vaes Dothrak]] to bring a khalasar down upon Daenerys. Daenerys is greatly disheartened by these news, musing ''"All my victories turn to dross in my hands. Whatever I do, all I make is death and horror"'', but takes no action against Yunkai.
+
+Finally, she sends for Ser Jorah and Ser Barristan, wishing the two had died in the sewers, but the two knights are greater warriors than even that suicide quest. Barristan speaks of things Daenerys was never aware of, that [[Aerys II Targaryen|her father]] was mad, and that Viserys, even as a young boy, seemed to be more like his father than his brother Rhaegar. She absolves Barristan, and he swears his sword to her cause. But Ser Jorah does not beg forgiveness, and remains defensive, insisting that he has done nothing wrong. Daenerys then exiles the knight who was once her closest friend and protector, threatening to kill him if she ever sees him again.
+
+Later, Daario warns her that she should not have banished Jorah, and that she may come to regret not keeping him near or having him killed outright. When her advisors urge her to move on, Daenerys cannot bear the thought that the newly freed slaves of Meereen will be enslaved again after she leaves for Westeros. She believes that many of these ex-slaves will follow her, but she cannot feed them all even if she empties every granary in the city, thus many of them will die on the way. Daenerys decides that she must learn to rule if she ever wishes to sit the [[Iron Throne]], and she declares that she will stay in Meereen and rule as queen.
+
+While Daenerys rules Meereen, things turn from bad to worse, each day brings more bad news, more troubles and more disasters:
+* She devotes nearly her entire time to ruling, and neglects her dragons. They are left to grow without proper taming, and become an extremely dangerous menace to the people of Meereen: she hears a number of other petitioners, including shepherds who are claiming that her dragons have devoured their sheep. All are sent away, promising they will be compensated for their loss, but one man remains behind. He empties out a sack of burnt bones on the marble floor. To her horror Daenerys realizes they are not the bones of a sheep - they belong to a child. Daenerys orders all three dragons to be captured and imprisoned in a pit inside of her Great Pyramid. [[Viserion]] and [[Rhaegal]] are eventually chained (though not without cost) in a makeshift dragonpit in the Great Pyramid, but Drogon escapes and disappears.
+* The freedmen find it difficult to earn their living, that they live in very poor conditions in comparison to their former lives. They have no choice but to work cheaply, and as a result the craftsmen's guilds are angry at Daenerys that their work is stolen, and demand her uphold their ancient rights and customs. Daenerys, in attempt to appease the guilds without sentencing the freedmen to uneployment, decrees that only guild members shall be permitted to practice those works, provided the guilds open their rolls to any freedman who can demonstrate the requisite skills.
+* The underground known as Sons of the Harpy preys on freedmen and Daenerys's soldiers, claiming many victims. The steps Daenerys take against them are in vain.
+* The Yunkai nobles form a coalition against her with other cities whose economy relies on slavery (among them Qarth, Volantis, Tolos, Mantarys, New Ghis and Elyria). Daenerys has no allies except the Lhazarene, who are not much of assistance, and her failure to tame her dragons deprived her of the best weapon that she could have in disposal, whose only existence could have discouraged her enemies.
+* The Second Sons, who believe Daenerys has no chance against the Yunkai troops, betray her and join the Yunkai. The Stormcrows and Unsullied remain loyal to her.
+* Many refugees from Astapor arrive, starving and carrying a deadly disease called "bloody flux" (also "pale mare"). Daenerys feels sorry for them, but does as her advisors tell her: she forbids them of entering Meereen, and sends them food and healers. Unfortunately, the disease spreads into Meereen, and many have been stricken: freedmen, sellswords, Brazen Beasts, Dothraki - but not the Unsullied.
+Many people, both friends and foes, beg Daenerys to leave Meereen and head for Westeros. [[Xaro Xhoan Daxos]] is willing to give her thirteen ships, but she refuses for the same reason that made her stay in Meereen: there is not enough transportation for all her servants and loyalists. If she leaves Meereen, the freedmen will be enslaved again.
+
+Daenerys receives more alarming news: the Yunkai armies destroyed Astapor, and they are marching to Meereen. Ser Barristan advises her to send her troops against her enemies, but she knows that as long as her ruling is insecure - her domestic foes will seize the opportunity to overthrow her. Hizdahr informs her that he reached an agreement with the Wise Masters: Yunkai will give Daenerys peace, but since they suffered losses as a result of the disruption of slave trade, they demand a compensation to be paid in gold and gemstones; Yunkai will resume slaving and rebuild Astapor, and Daenerys must not interfere; Hizdahr will marry her and become the king of Meereen. Daenerys does not like those terms at all, especially the second, but sees no other choice.
+
+Following the wedding, Daenerys is enraged to see that the Yunkai opened a slave market within sight of Meereen - undoubtfully a deliberate provocation. Hizdahr assures her it is only for short while. To celebrate the peace, the Yunkai and the leaders of their sellsword companies are invited to festivity in the Great Pyramid hall, but to ensure their safety, Daenerys gives the Yunkai seven hostages: three relatives of Hizdahr, Daario, her bloodrider Jhogo, captain Groleo and Hero the Unsullied.
+
+Daenerys and Hizdahr visit the fighting pits. Tyrion puts an entertaining show, but he does not have a chance to speak with Daenerys. Hizdahr offers Daenerys poisoned locusts, but she does not eat them. After a fight between Barsena and a boar, suddenly Drogon arrives, being tempted by the blood scent. A general commotion erupts. Hizdahr shouts to kill the dragon, while Daenerys rushes to help him, and riding him away from Meereen.
+
+===After Daenerys's departure===
+In Daenerys's absence, Hizdahr takes over. He gradually dismisses all her loyal subordinates. Ser Barristan watches Hizdahr, and becomes convinced that he tried to poison Daenerys, and that he is in league with the Sons of the Harpy (maybe even their leader) and the Yunkai, all of them have a common motive: to dispose of Daenerys and restore the slave trade in Meereen. Ser Barristan throws Hizdahr to jail, and then he, Grey Worm and other Daenerys's loyalists form a ruling council to oversee the Meereeneese affairs until Daenerys returns. Their most urging missions are to find Daenerys, release the hostages and deal with the Yunkai - before the Volantene fleet arrives. Aggo and Rakharo go to look for Daenerys in the Dothraki Sea.
+
+In the meantime, Tyrion, Jorah and their dwarf companion escape from Yezzan's camp to the Second Sons' camp. Tyrion has plans to make the Second Sons switch sides again.
+
+Daenerys, wandering at the Dothraki Sea, encounters Khal [[Jhaqo]] and fifty of his khalasar.
+
+=== [[Second siege of Meereen#In the books|The battle]] ===
+After the last attempt of parley with the Yunkai'i has failed, Daenerys's loyalists, led by Ser Barristan, launch an attack against the besieging troops, taking advantage of the chaos in their camps. The Yunkai'i and their sellswords, caught unaware, cannot mount an effective counterattack, especially while the ironborn (under Victarion Greyjoy) attack their ships. Two of their sellsword companies - the Second Sons and the [[Windblown]] - switch sides during the battle.
+
+By the point the novels and the released sample chapters reached, Daenerys's loyalists appear to have the upper hand, although the battle has not been decided yet and Daenerys has not returned yet (with or without Dothraki reinforcements).
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|Targaryen campaign in Slaver's Bay}}
+
+<!--Navboxes-->
+{{Liberation of Slaver's Bay}}
+{{Slaver's Bay}}
+{{Wars}}
+
+<!--Categories-->
+[[Category:Liberation of Slaver's Bay| ]]
+[[Category:Wars]]
+
+<!--Languages-->
+[[de:Befreiung der Sklavenbucht]]
+[[fr:Libération de la Baie des Serfs]]
+[[it:Liberazione della Baia degli Schiavisti]]
+[[pl:Wyzwolenie Zatoki Niewolniczej]]
+[[ru:Освобождение залива Работорговцев]]

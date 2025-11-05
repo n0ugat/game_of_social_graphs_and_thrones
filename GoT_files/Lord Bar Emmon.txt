@@ -1,0 +1,63 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Bar Emmon.svg
+| Link  = House Bar Emmon
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Targaryen
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = [[House Bar Emmon|Bar Emmon]]{{Ref|HOTD110}}
+| Affiliation = [[House Targaryen/House of the Dragon|House Targaryen]]{{Ref|HOTD110}}<br>[[Blacks]]{{Ref|HOTD110}}
+| Titles      = Lord of [[Sharp Point]]
+| AKA         = 
+| Culture     = [[Crownlands|Crownlander]]{{Ref|HOTD110}}
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Lord Bar Emmon''' is the head of [[House Bar Emmon]] and Lord of [[Sharp Point]] during the [[Dance of the Dragons]].
+
+==Biography==
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+[[Daemon Targaryen|Daemon]] commands [[Bartimos Celtigar]] to send a raven to Lord Bar Emmon. Maester [[Gerardys]] later confirms that House Bar Emmon has declared for [[Rhaenyra Targaryen|Rhaenyra]].{{Ref|HOTD110}}
+
+==In the books==
+In ''[[Fire & Blood]]'', Lord Bar Emmon was a member of the [[Black Council|black council]]. At the [[Great Council at Harrenhal|Great Council of 101 AC]], a Lord Bar Emmon supported the claim of [[Laenor Velaryon]], but it is unknown if this is the same person.
+
+==Appearances==
+*{{HOTD|The Black Queen}} {{Mentioned}}
+*{{HOTD|Smallfolk}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House Bar Emmon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Bar Emmon}}
+[[Category:Bannermen of House Targaryen]]
+[[Category:Blacks]]
+[[Category:Crownlanders]]
+[[Category:Individuals mentioned in House of the Dragon]]
+[[Category:Lords]]
+[[Category:Members of House Bar Emmon]]
+
+<!--Languages-->
+[[es:Lord Bar Emmon (Danza de los Dragones)/House of the Dragon]]
+[[ru:Лорд Бар-Эммон]]

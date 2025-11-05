@@ -1,0 +1,64 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Thrones
+| Part          = the [[War of the Five Kings]]
+| Image         = 
+| Previous      = [[Liberation of Raventree Hall]]
+| Concurrent    = 
+| Next          = [[Massacre in King's Landing]]
+| Date          = [[299 AC]]{{Dateref|Game of Thrones: Season 2}}
+| Place         = [[Stone Hedge]], the [[Riverlands]]
+| Outcome       = *Stark victory
+*Stone Hedge restored to [[House Bracken]]
+| Factions1     = [[File:House Stark.svg|30px|center|link=House Stark]] [[North|Kingdom of the North]]/[[House Stark]]<br><br>[[File:House Tully.svg|25px|center|link=House Tully]] [[House Tully]]<br><br>[[File:House Umber.svg|25px|center|link=House Umber]] [[House Umber]]<br><br>[[File:House Bracken.svg|25px|center|link=House Bracken]] [[House Bracken]]
+| Factions2     =  [[File:House Baratheon of King's Landing.svg|30px|center|link=House Baratheon of King's Landing]] '''[[Iron Throne]]'''/[[House Baratheon of King's Landing]]<br><br>
+[[File:House Lannister.svg|30px|center|link=House Lannister]] [[House Lannister]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = Lord [[Greatjon Umber]]
+| Leaders2      = Unknown
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = Unknown
+| Participants2 = Small Lannister garrison
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = Light
+| Casualties2   = Entire garrison killed, wounded, or captured
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+The '''liberation of Stone's Hedge''' is a military engagement in the [[War of the Five Kings]]. It is part of the Northern campaign to liberate the [[Riverlands]] from the [[House Lannister|Lannister]] occupation.{{Guideref|Retaking the Riverlands}}
+
+==History==
+Following the liberation of [[Riverrun]] at the [[Battle of the Camps]], [[Robb Stark|Robb]] tasks [[Greatjon Umber]] with the expulsion of Lannister forces from the castles of the Riverlords, while he invades the [[Westerlands]]. Umber first [[Liberation of Raventree Hall|liberates Raventree Hall]], the seat of [[House Blackwood]], and then [[Stone Hedge]], the castle of the [[House Bracken]], thus forcing the Lannister host to fall back to [[Harrenhal]] and cutting [[Tywin Lannister|Tywin]] from [[Casterly Rock]].{{Guideref|Retaking the Riverlands}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, after the liberation of Riverrun and Robb's proclamation as [[King in the North]], he gives leave to the Riverlords to reclaim their seats,{{Bookref|ACOK|7}} among them Lord [[Jonos Bracken]], whose castle has been sacked and burned by the [[Gregor Clegane|Mountain]].{{Bookref|AGOT|56}}
+
+Lord Bracken reclaims his castle in a fierce battle in which he is injured, while his nephew and heir, Hendry Bracken, is killed.{{Bookref|ACOK|7}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{War of the Five Kings}}
+
+<!--Categories-->
+[[Category:299 AC]]
+[[Category:Battles]]
+[[Category:War of the Five Kings]]
+
+<!--Languages-->
+[[de:Befreiung von Steinheck]]
+[[fr:Libération de Haye-Pierre]]
+[[ru:Освобождение Стоунхеджа]]

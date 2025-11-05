@@ -1,0 +1,20 @@
+{{Crew
+|Image = 
+|dateofbirth = 
+|birthplace = 
+|job = Horse Rider
+|imdb = https://www.imdb.com/name/nm7724179/
+|twitter = }}
+'''Lorenzo Casares''' is a stuntman.
+
+In ''[[Game of Thrones]]'', he was a horse rider in the [[Game of Thrones: Season 7|seventh season]] episodes "[[The Spoils of War]]" and "[[Eastwatch]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 7||||yes|yes}}
+
+==See also==
+*{{IMDb
+|# = 7724179}}
+{{DEFAULTSORT:Casares, Lorenzo}}
+[[Category:Stunt performers of Game of Thrones]]

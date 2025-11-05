@@ -1,0 +1,66 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Blackmont.svg
+| Link  = House Blackmont
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Martell
+| Image       = Blackmont-Profile-HD.png
+| Birth       = 
+| Death       = 
+| House       = [[House Blackmont|Blackmont]]
+| Affiliation = [[House Martell]]
+| Titles      = Lord of Blackmont
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Dornishmen|Dornish]]
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Children    = 
+| Sibling     = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 4|4]]
+| Appearances = "[[Two Swords]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Daniel Rabin]]
+}}
+{{Quote|Not a man for welcome parties, our prince.|Lord Blackmont to [[Tyrion Lannister]] about [[Oberyn Martell]]|Two Swords}}
+'''Lord Blackmont''' is the head of [[House Blackmont]], a vassal house of [[House Martell]] of [[Dorne]] in [[Westeros]].
+
+==Biography==
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+Lord Blackmont is greeted by [[Tyrion Lannister|Tyrion]], outside of [[King's Landing]], when the latter is sent to welcome [[Oberyn Martell]] and his entourage of [[Dorne|Dornish]] lords and knights. The two exchange greetings, in which Lord Blackmont reveals Oberyn has arrived the previous night, before he and the rest of the envoy proceed to the [[Red Keep]].{{Ref|GOT401}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, House Blackmont is ruled by Lady Larra Blackmont as the Dornish practice equal primogeniture, allowing firstborn daughters to inherit and to pass on the family name instead of adopting that of their husbands.
+
+Larra and her children are among the Dornish nobles that accompany [[Oberyn Martell]] to [[King's Landing]].
+
+==Appearances==
+*{{GOT|Two Swords}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Larra Blackmont}}
+
+<!--Categories-->
+{{DEFAULTSORT:Blackmont}}
+[[Category:Bannermen of House Martell]]
+[[Category:Dornishmen]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Lords]]
+[[Category:Members of House Blackmont]]
+
+<!--Languages-->
+[[de:Lord Schwarzberg]]
+[[es:Lord Blackmont]]
+[[fr:Lord Noirmont]]
+[[ru:Лорд Блэкмонт]]

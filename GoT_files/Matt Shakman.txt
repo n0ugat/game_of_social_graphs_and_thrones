@@ -1,0 +1,27 @@
+{{Crew
+|Title = Matt Shakman
+|dateofbirth = August 8, 1975
+|birthplace = Ventura, California, USA
+|job = Director
+|imdb = http://www.imdb.com/name/nm0787687/
+|twitter = http://www.twitter.com/MattShakman
+|Image = Matt Shakman.jpg
+}}'''Matt Shakman''' (born August 8, 1975) is an award winning American film, television, and theatre director, and former child actor. He is most well known for his work on ''It's Always Sunny in Philadelphia''.
+
+He was a director for the [[Game of Thrones: Season 7|seventh season]] of ''[[Game of Thrones]]''.
+
+==Credits==
+===Director===
+{{Game of Thrones: Season 7||||yes|yes}}
+
+== See also ==
+* {{WP|Matt_Shakman}}
+* {{IMDb|# = 0787687}}
+* {{Twitter|# = MattShakman}}
+* [http://www.ew.com/article/2016/06/29/game-thrones-season-7 GOT Season 7 Directors Revealed]
+
+[[de:Matt Shakman]]
+[[fr:Matt Shakman]]
+[[ru:Мэтт Шэкмен]]
+{{DEFAULTSORT:Shakman, Matt}}
+[[Category:Directors of Game of Thrones]]

@@ -1,0 +1,30 @@
+{{Cast
+|Title = Lucy McConnell
+|Image = Lucy McConnell.jpg
+|birthplace = {{WPS|Belfast}}, {{WPS|Northern Ireland}}
+|role = Woman with Elderly Parents
+|status = 
+|First = "[[A Knight of the Seven Kingdoms (Game of Thrones)|A Knight of the Seven Kingdoms]]"
+|Last = "[[The Long Night]]"
+|imdb = https://www.imdb.com/name/nm3310446/
+|twitter = https://twitter.com/lucymcconnell
+}}'''Lucy McConnell''' is a Northern Irish actress. She has appeared in the television series ''{{WPS|The Fall (TV series)|The Fall}}'' and ''{{WPS|Krypton (TV series)|Krypton}}''.
+
+In ''[[Game of Thrones]]'', she portrayed a woman with elderly parents in two episodes of the [[Game of Thrones: Season 8|eight season]]. She also worked as a trainee on the [[Game of Thrones: Season 3|third season]].
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 8||yes|yes}}
+
+==See also==
+*{{IMDb
+|# = 3310446}}
+*{{Twitter
+|# = lucymcconnell}}
+*{{Vimeo
+|# = user16842297}}
+*{{Linkedin
+|# = /in/lucy-mcconnell-77938114}}
+{{DEFAULTSORT:McConnell, Lucy}}
+[[fr:Lucy McConnell]]
+[[Category:Guest starring cast members of Game of Thrones]]

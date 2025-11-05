@@ -1,0 +1,31 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Meena Rayann.png
+| Birth   = 
+| Death   = 
+| Role    = [[Vala]]
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 5|5]] {{*}} [[Game of Thrones: Season 6|6]]
+| Credits = 3 episodes {{Below|Credits}}
+| First   = "[[The Wars To Come]]"
+| Last    = "[[Oathbreaker]]"
+}}
+'''Meena Rayann''' is a London-based French actress.
+
+She portrays [[Vala]], a Meereenese prostitute, in [[Game of Thrones: Season 5|Season 5]] and [[Game of Thrones: Season 6|Season 6]]. <ref>[http://www.spotlight.com/interactive/cv/0852-8976-4203]</ref><ref>[http://imgur.com/ffKPumP]</ref>
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 5|yes|||yes}}
+{{Game of Thrones: Season 6|||yes}}
+
+==​See also==
+*{{Template:IMDb
+|# = 5159884}}
+
+==References==
+{{reflist}}{{DEFAULTSORT:Rayann, Meena}}
+[[fr:Meena Rayann]]
+[[ru:Мина Райан]]
+[[Category:Guest starring cast members of Game of Thrones]]

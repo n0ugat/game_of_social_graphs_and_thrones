@@ -1,0 +1,65 @@
+{{Canonicity|Canon}}
+{{References}}
+[[File:Noble Houses.png|right|250px|thumb|Map showing the approximate locations of the noble houses mentioned in the first two seasons.]]
+The [[Seven Kingdoms]] of [[Westeros]] are divided between many hundreds of '''noble houses''',{{Ref|H&L610}} or simply '''houses''',{{Ref|GOT101}} of various sizes. In Westeros ultimate power derives from the [[King of the Andals and the Rhoynar and the First Men|King]] on the [[Iron Throne]] and descends through the [[Great House]]s that rule the constituent regions of the continent to their vassals.
+
+There are nine Great Houses, and each of them have a number of [[:Category:Vassal houses|vassal houses]] (sometimes also referred to as '''lesser houses'''){{Ref|GOT206}} in their liege. The most powerful vassal houses may themselves field armies of a few thousand and control large regions, while the smallest houses may be little more than impoverished landholders with only a few men to their name. Members of the nobility are called "highborn", in contrast to lowborn commoners.
+
+Some of the most powerful noble houses rival the smaller Great Houses in terms of wealth and the size of the armies they can field, e.g. [[House Hightower]] rules [[Oldtown]], the second largest city in Westeros, and possesses large armies and fleets of its own. Other noble houses, while technically holding this rank, are relatively poor.
+
+A typical noble house is seated at a castle and controls the land around it, collecting tithes and taxes from farmers, lesser landholders and [[smallfolk]]. In times of war, they are expected to recruit and maintain a number of soldiers for their lieges. In most of Westeros, only men can become ruling lords, and women can only rule if the rest of the male line has been extinguished or if they are acting as regents for their sons until they have reached the age of maturity.
+
+In [[Dorne]], both men and women have equal property, inheritance and ruling rights.
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels and accompanying short stories, websites and RPG sourcebooks, there are over 300 named noble houses of Westeros. All of these are sworn to the Great Houses.
+
+However, [[George R.R. Martin]] has admitted that his system of nomenclature for noble houses isn't very precise, as major and minor lords are both called simply "lords" (as opposed to differentiating between "duke" and "baron", etc). Each of the constituent regions of the Seven Kingdoms has about a dozen or so major houses, i.e. House Umber is sworn to House Stark, rules a large area of the North, and several minor houses serve the Umbers. House Cassel, meanwhile, is a minor House, sworn directly to House Stark, which has no minor houses serving it. Thus there are ''roughly'' about 100 or so major houses in the Seven Kingdoms at any one time, and numerous minor houses who in turn serve them (not all of whom have been named).
+
+Noble houses are, according to ''The World of Ice and Fire'' sourcebook, generally unique to Westeros. It seems that none of the great cultures of Essos organized their elites into houses, with the possible exceptions of the culture of Slaver's Bay (in the books they are referred to as houses, but as great families in the TV series). It is explicitly stated that the Valyrians did not as well, as Aegon the Conqueror had to design the trappings of a Westerosi Great House for the Targaryen family from scratch. This doesn't mean that Valyria or many of the Free Cities weren't organized around elite families, just that the power invested in such families was somewhat less official than in Westeros.
+
+Some of the noble houses have a marked propensity for physical traits which are passed down through the generations. Although no one in Westeros has a concept of "genetics" as such, it is sometimes understandable that "the seed is strong" and that f.e black hair tends to be a dominant trait over blonde hair. Some of the notable examples include:
+
+*[[House Baratheon]] - black hair, blue eyes, and square jaws
+*[[House Bolton]] - Black hair and eerie "ghost grey" eyes (somewhere between very pale blue and practically dirty ice)
+*[[House Florent]] - large ears
+*[[House Lannister]] - loose curly or wavy "golden" hair, and green eyes
+**House Lannister of Lannisport - straight blonde hair and green eyes
+*[[House Martell]] - classic "Salty [[Dornishmen|Dornish]]" features of olive skin, dark hair, and dark eyes.
+*[[House Redwyne]] - red hair
+*[[House Stark]] - Dark hair and grey eyes
+*[[House Umber]] - very large size, frequently over six feet tall and well-built
+*[[House Targaryen]] - classic [[Valyrian Freehold|Valyrian]] features of pale skin, blonde hair of shades of gold and/or silver, and violet eyes (changed to simply brightly colored eyes, i.e. blue eyes in the TV series)
+*[[House Tully]] - auburn hair and blue eyes
+It hasn't been said that there is a "traditional" [[House Greyjoy]] look, but most in the current generation tend to have dark hair. So few living members of [[House Arryn]] have appeared in the narrative that it isn't clear what a "typical" Arryn looks like. [[Robin Arryn|Sweetrobin]] is half-Tully and thus might not be a good indication. Both Sweetrobin and his cousin Harold have blue eyes, as well as brown hair; though they are said to be among the purest [[Andals|Andal]] bloodlines, and Andals often have lighter hair.
+
+This high propensity to pass on specific traits has led some to suggest that the humans of Martin's world have less complicated genetics than real-world humans, as the consistency of such traits across generations without significant inbreeding is unlikely. Martin himself was probably more worried about telling a good story than about being true to modern understandings of genetic complexity, and made do with a basic understanding of Mendelian genetics.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Houses of Westeros}}
+*{{AWOIAF|List of Houses}}
+
+<!--Navboxes-->
+{{Houses from the Crownlands}}
+{{Houses from the North}}
+{{Houses from the Riverlands}}
+{{Houses from the Westerlands}}
+{{Houses from the Reach}}
+{{Houses from the Stormlands}}
+{{Houses from Dorne}}
+{{Houses from the Iron Islands}}
+{{Houses from the Vale of Arryn}}
+
+<!--Categories-->
+[[Category:Houses by type]]
+[[Category:Noble houses| ]]
+
+<!--Languages-->
+[[de:Adel]]
+[[he:בית אצולה]]
+[[pt-br:Casa nobre]]
+[[ru:Благородные дома]]
+[[uk:Шляхетні родини]]

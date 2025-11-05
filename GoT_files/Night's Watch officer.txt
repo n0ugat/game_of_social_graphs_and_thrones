@@ -1,0 +1,85 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Heraldry
+| Image = Night's Watch.svg
+| Link  = Night's Watch
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = NightsWatchOfficerSeason3.jpg
+| Birth       = 
+| Death       = [[300 AC]]{{Dateref|Game of Thrones: Season 3}}<br>[[Craster's Keep]], [[beyond the Wall]]{{Ref|GOT304}}
+| House       = 
+| Affiliation = [[Night's Watch]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 1|1]] {{*}} [[Game of Thrones: Season 2|2]] {{*}} [[Game of Thrones: Season 3|3]]
+| Appearances = 6 episodes {{Below|Appearances}}
+| First       = "[[You Win or You Die]]"
+| Last        = "[[And Now His Watch Is Ended]]"
+| DeathEp     = "And Now His Watch Is Ended"
+| Actor       = [[Dennis McKeever]]
+}}
+This unnamed man was a '''Night's Watch officer'''.
+
+==Biography==
+===Background===
+This man is an officer in the [[Night's Watch]], stationed at [[Castle Black]]. He is a [[Builder]].{{Ref|GOT107}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+He is present for the induction of the new recruits at [[Castle Black]]. He calls for the builders after the [[Lord Commander of the Night's Watch|Lord Commander]]'s speech.{{Ref|GOT107}}
+
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+He takes part in Lord Commander [[Jeor Mormont|Mormont]]'s [[great ranging]]. He is among the officers that takes shelter inside [[Craster's Keep]] and is present when Mormont speaks with [[Craster]] about [[Mance Rayder]]'s actions and plans.{{Ref|GOT201}}
+
+He is present when Craster expels the black brothers from his keep after [[Jon Snow]] is caught spying on the wildling leaving a newborn son in the woods.{{Ref|GOT203}}
+
+===[[Game of Thrones: Season 3|''Game of Thrones'': Season 3]]===
+He survives the [[fight at the Fist]] and joins the survivors' march back into the [[Haunted Forest]] all the way to [[Craster's Keep]].{{Ref|GOT303}}
+
+He is present at the hall of Craster's Keep when a group of deserters commits [[Mutiny at Craster's Keep|mutinies]] against the authority of Lord Commander Mormont and break [[guest right]] by murdering Craster.{{Ref|GOT304}}
+
+==Behind the scenes==
+During Season 1 it was believed McKeever was playing [[Othell Yarwyck]] and [[Brian Fortune]] was playing [[Bowen Marsh]], based on comments by Fortune and McKeever's character delivering a line said by Yarwyck in the books. Neither of them were absolutely confirmed to be playing these characters, however, as their names were never stated in on-screen dialogue or in the credits. McKeever reappeared in Seasons [[Game of Thrones: Season 2|2]] and [[Game of Thrones: Season 3|3]] in a background role in the [[great ranging]], in which Yarwyck didn't partake. In [[Game of Thrones: Season 4|Season 4]], Fortune's character was directly identified in on-screen dialogue as Yarwyck, and [[Michael Condron]] was subsequently cast as Marsh for [[Game of Thrones: Season 5|Season 5]]. This establishes that Fortune's character should always be considered to have been Yarwyck, while McKeever was simply playing an unnamed Night's Watch officer. While this might technically be a retcon, Season 1 never absolutely confirmed which characters these actors were playing, so it introduced no internal continuity errors.
+
+In the books, about a dozen loyal Night's Watch members managed to escape from the [[Mutiny at Craster's Keep]] and return to Castle Black. The TV series, however, explicitly showed Jon Snow, Samwell Tarly, Edd, and Grenn are the only black brothers who went on the expedition north of the Wall who managed to return alive. The books also never explicitly showed what happened to the [[Mutineers]] after the mutiny, but the TV series did, and no other loyalists were shown to have survived.
+
+==Gallery==
+<gallery>
+CrasterOfficers.jpg|The Night's Watch Officer alongside [[Jeor Mormont]] and [[Craster]].
+NightsWatchSurvivors.jpg|The Night's Watch survivors arrive at Craster's Keep.
+</gallery>
+
+==Appearances==
+*{{GOT|You Win or You Die}}
+*{{GOT|The Pointy End}}
+*{{GOT|The North Remembers}}
+*{{GOT|What Is Dead May Never Die}}
+*{{GOT|Walk of Punishment}}
+*{{GOT|And Now His Watch Is Ended}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Men of the Night's Watch]]
+[[Category:Westerosi]]
+
+<!--Languages-->
+[[ru:Дозорный (Победа или смерть)]]

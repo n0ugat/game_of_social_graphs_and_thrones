@@ -1,0 +1,82 @@
+{{Canonicity|Canon}}
+{{Update|"[[A Son for a Son]]," "[[Rhaenyra the Cruel]]," and "[[The Burning Mill]]"}}
+{{Heraldry
+| Leftimage  = House Estermont.svg
+| Leftlink   = House Estermont
+| Rightimage = Kingsguard.svg
+| Rightlink  = Kingsguard/House of the Dragon
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Greens
+| Image       = Leon Estermont Kingsguard.png
+| Birth       = 
+| Death       = [[132 AC]]{{Dateref|House of the Dragon: Season 2}}<br>[[King's Landing]], the [[Crownlands]]{{Ref|HOTD206}}
+| House       = [[House Estermont|Estermont]]
+| Affiliation = [[Greens]]<br>[[Kingsguard/House of the Dragon|Kingsguard]]
+| Titles      = [[Knighthood|Ser]]{{Webref|name=WBD |author=Unknown author |date=Unknown date |url=https://press.wbd.com/us/bio/house-dragon-s2-character-descriptions |title=House of the Dragon S2 <nowiki>|</nowiki> Character Descriptions |website=Warner Bros. Discovery |access-date=June 5, 2024 }}
+| AKA         = 
+| Culture     = [[Stormlands|Stormlander]]
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 2|2]]
+| Appearances = 6 episodes {{Below|Appearances}}
+| First       = "[[A Son for a Son]]"
+| Last        = "[[Smallfolk (episode)|Smallfolk]]"
+| DeathEp     = "Smallfolk"
+| Actor       = [[Ralph Davis]]
+}}
+{{Quote|You had more pressing matters to attend to. Such as holding court, choosing your sobriquet, and naming imbecilic lickspittles to our Kingsguard.|[[Aemond Targaryen|Aemond]] to Aegon|The Red Dragon and the Gold}}
+Ser '''Leon Estermont''' was a [[Knighthood|knight]] of [[House Estermont]] during the [[Dance of the Dragons]], who briefly served as a member of King [[Aegon II Targaryen]]'s [[Kingsguard/House of the Dragon|Kingsguard]].
+
+==Biography==
+Leon is a friend and flatterer of King [[Aegon II Targaryen]].<ref name="WBD" />
+
+===[[House of the Dragon: Season 2|''House of the Dragon'': Season 2]]===
+Leon is killed during a [[riot in King's Landing]].{{Ref|HOTD206}}
+
+==Behind the scenes==
+Leon Estermont's character description reads as follows:
+:''"A knight. Friend and flatterer of King Aegon II."''<ref name="WBD" />
+
+==In the books==
+In ''[[Fire & Blood]]'', there is no character named Leon Estermont.
+
+==Appearances==
+*{{HOTD|A Son for a Son}}
+*{{HOTD|Rhaenyra the Cruel}}
+*{{HOTD|The Burning Mill}}
+*{{HOTD|The Red Dragon and the Gold}}
+*{{HOTD|Regent}}
+*{{HOTD|Smallfolk}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{House Estermont/House of the Dragon}}
+{{Kingsguard of Aegon II Targaryen}}
+
+<!--Categories-->
+{{DEFAULTSORT:Estermont, Leon}}
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Kingsguard of Aegon II Targaryen]]
+[[Category:Knights]]
+[[Category:Members of House Estermont|Leon Estermont]]
+[[Category:Stormlanders]]
+
+<!-- Languages -->
+[[fr:Leon Estremont]]
+[[pl:Leon Estermont]]
+[[ru:Леон Эстермонт]]
+[[uk:Ліон Естемонт]]

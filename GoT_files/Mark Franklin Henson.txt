@@ -1,0 +1,22 @@
+{{Crew
+|Image = Mark Henson.jpg
+|dateofbirth = {{WPS|September}}, {{WPS|1968}}
+|birthplace = 
+|job = Stunt Performer
+|imdb = https://www.imdb.com/name/nm0378205/
+|twitter = }}
+'''Mark Franklin Henson''' (born September, 1968) is a stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 2|second season]] episode "[[Blackwater]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 2|||||||||yes}}
+
+==See also==
+*{{IMDb
+|# = 0378205}}
+*{{Linkedin
+|# = /in/franklin-henson-02977871}}
+{{DEFAULTSORT:Henson, Mark Franklin}}
+[[Category:Stunt performers of Game of Thrones]]

@@ -1,0 +1,73 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Free
+| Image        = Myr Pin.png
+| Type         = Mercantile city-state
+| Status       = 
+| Location     = The [[Free Cities]], [[Essos]]
+| Population   = 
+| Rulers       = Magisters
+| Institutions = 
+| Military     = 
+| Religion     = 
+| Places       = 
+| Founded      = 
+}}
+{{Quote|The other Free Cities are known for what they make: Myr has its lenses and finery...|Ser [[Jorah Mormont]]|The Free Cities}}
+'''Myr'''{{Ref|GOT104}} is one of the [[Free Cities]] located to the east of [[Westeros]]. A major seaport, the city overlooks a large body of water known as the [[Sea of Myrth]], an inlet of the [[Narrow Sea]]. The Free City of [[Pentos]] lies to the north and the [[Disputed Lands]] lie to the south.
+
+People and things from Myr are known as '''Myrish'''. The city's craftsmen are renowned throughout the known world for their lenses and finery,<ref>"[[The Free Cities]]"</ref> and Myrish lace is a highly sought after commodity.
+
+==History==
+===Background===
+Like the other Free Cities, Myr originated as a colony of the [[Valyrian Freehold]], and after the [[Doom of Valyria]] it became an independent city-state during the ensuing [[Century of Blood]].
+
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+Myr, [[Lys]], and [[Tyrosh]] form an alliance known as the [[Triarchy]]. [[Corlys Velaryon]] informs the [[Small Council]] about this.<ref>"[[The Heirs of the Dragon]]"</ref>
+
+===[[Game of Thrones: Season 3|''Game of Thrones'': Season 3]]===
+While in [[Astapor]], Jorah Mormont and [[Barristan Selmy]] debate whether or not [[Daenerys Targaryen|Daenerys]] should purchase an army of [[Unsullied]]. Selmy is opposed to having slaves for soldiers, and opts instead for hiring [[Mercenary|sellswords]] in Pentos and Myr.<ref>"[[Walk of Punishment (episode)|Walk of Punishment]]"</ref>
+
+[[Varys]] tells [[Tyrion Lannister|Tyrion]] the story of his early life: as a youth he traveled with a troupe of actors through the various Free Cities. In Myr, his master sold Varys to a [[sorcerer]] who castrated him, burned his genitals as part of a spell and then kicked him out onto the street.<ref>"[[And Now His Watch Is Ended]]"</ref>
+
+While wandering in the war-torn Riverlands of Westeros, [[Arya Stark|Arya]] runs into Thoros, a Red Priest from Myr, now one of the leaders of the resistance group known as the Brotherhood Without Banners.<ref>"[[Dark Wings, Dark Words]]"</ref>
+
+==In the books==
+[[File:Myrish wares.png|thumb|Myrish wares, including the famous lenses]]
+In the ''[[A Song of Ice and Fire]]'' novels, Myr is one of the most sophisticated of the [[Free Cities]]. Like its nearest neighbors, [[Lys]] and [[Tyrosh]], the economy of the city is based on trade, and Myr has a reputation for great craftsmanship: The mirrors, lenses, and other glassware produced in the city have no equal - a clear pane of good Myrish glass is worth its weight in spices. Myrish textiles are much sought-after products and include intricate lace, finely woven carpets, and beautiful tapestries. The fine arts also thrive in Myr, and local artists produce vivid paintings and miniatures, renowned for their high quality. The city even produces two signature drinks - a sweet green wine known as green nectar as well as a drink known as fire wine. Like most of the Free Cities, Myr is heavily involved in the [[Slavery|slave trade]], with slaves outnumbering freeborn citizens three to one. 
+
+The early history of Myr is something of an enigma. In its present form, the city was founded as a colony of the [[Valyrian Freehold]], but there is evidence to suggest that human settlement in this location dates back to the [[Dawn Age]]. The Myrish are also noted for being dark-haired and dark-eyed with olive-colored skin, and are considered exotic-looking by Westerosi standards. This has led some to theorize that the Myrish may be related to the [[Rhoynar]] people- who possessed similar coloring- but this has not been conclusively proven. The city is ruled by a council of [[Magister]]s, chosen from among its wealthiest and most prominent citizens, and has its own language derived from [[High Valyrian]]. Myr also possesses a strong military, with its crossbowmen being particularly famed, and the craftsmen of the city produce long, slender daggers known as stilettos (the latter being the chosen sidearm of Tyroshi sellsword [[Daario Naharis]]).
+
+After the [[Doom of Valyria]], Myr became independent but was conquered a few years later by [[Volantis]], which was trying to rebuild the fallen empire. When Volantis overreached and attacked Tyrosh as well, its forces were beaten back and defeated by a coalition that included the Westerosi [[Storm King]], troops from [[Pentos]] and [[Braavos]], as well as massive uprisings in Myr and Lys. Volantis's military power was broken and Myr again became an independent [[wikipedia:City-state|city-state]].
+
+These alliances, however, soon fell apart. As a result, Myr and Lys have been perpetually warring with each other for the better part of the past three hundred years. The "[[Disputed Lands]]" between Myr to the north and Lys to the south are so-called because they are constantly changing hands between the two cities according to the outcomes of their conflicts. Tyrosh and Volantis have been drawn into this feud from time to time, allying with either Myr or Lys as the alliances shift.
+
+According to the Game of Thrones RPG, Myr is pronounced "Mire", and uses the adjective "Mire-ish". This pronunciation is used by a character voiced by [[George R.R. Martin]]. However, in Season 3 Thoros (of Myr) pronounces it as "Meer" (rhymes with "deer").
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Known world}}
+{{Free Cities}}
+
+<!--Categories-->
+[[Category:Cities]]
+[[Category:Free Cities]]
+[[Category:Harbors]]
+[[Category:Myr| ]]
+
+<!--Languages-->
+[[de:Myr]]
+[[es:Myr]]
+[[fr:Myr]]
+[[it:Myr]]
+[[nl:Myr]]
+[[pl:Myr]]
+[[pt-br:Myr]]
+[[ru:Мир]]
+[[zh:密尔]]

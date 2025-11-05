@@ -1,0 +1,34 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Baratheon
+| Image        = 
+| Type         = Castle
+| Status       = 
+| Location     = [[Tarth]], the [[Stormlands]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Morne'''{{Ref|THTDB201}} is a castle on [[Tarth]] in the [[Stormlands]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Morne is a ruined castle that once served as the seat of petty kings who ruled from the eastern shore of Tarth. According to Maester Hubert, Morne was built by the [[Andals]], not the [[First Men]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Stormlands}}
+
+<!--Categories-->
+[[Category:Castles of the Stormlands]]
+[[Category:Ruins]]
+[[Category:Tarth]]

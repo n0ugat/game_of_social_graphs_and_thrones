@@ -1,0 +1,64 @@
+{{Canonicity|Non}}
+{{Heraldry
+| Leftimage  = House Greenleaf.svg
+| Leftlink   = House Greenleaf
+| Rightimage = House Umber.svg
+| Rightlink  = House Umber
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Stark
+| Image       = Umber lineage.jpg
+| Birth       = 
+| Death       = 
+| House       = [[House Greenleaf|Greenleaf]]<br>[[House Umber|Umber]] {{C|by marriage}}
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Northmen|Northern]]
+| Religion    = [[Old Gods]]
+| Father      = {[[Mickon Greenleaf]]}
+| Mother      = 
+| Spouse      = {[[Finn Umber]]}
+| Lovers      = 
+| Children    = {[[Benya Umber]]}<br>{[[Tulip Umber]]}<br>{[[Caren Umber]]}
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Marya Greenleaf''' was the wife of [[Finn Umber]] and the mother of his three daughters.
+
+==Biography==
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+She is mentioned in her husband's entry in ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]''.{{Ref|GOT104}}
+
+==In the books==
+Marya Greenleaf is mentioned only in the TV adaptation of ''[[A Song of Ice and Fire]]'' and has no corresponding counterpart in the books.
+
+==Appearances==
+*{{GOT|Cripples, Bastards, and Broken Things}} {{Text}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House Umber}}
+
+<!--Categories-->
+{{DEFAULTSORT:Greenleaf, Marya}}
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Members of House Greenleaf|Marya Greenleaf]]
+[[Category:Members of House Umber|Marya Greenleaf]]
+[[Category:Northmen]]
+
+<!--Languages-->
+[[es:Marya Greenleaf]]
+[[fr:Marya Greenleaf]]
+[[ru:Мария Гринлиф]]

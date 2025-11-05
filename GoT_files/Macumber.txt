@@ -1,0 +1,72 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Westeros
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = 
+| Titles      = 
+| AKA         = Blue-eyed giant
+| Culture     = [[Giants|Giant]]
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Dialogue a-b|Robb Stark|One time she told me the sky is blue because we live inside the eye of a blue-eyed giant named 'Macumber'.|Bran Stark|...Maybe we do.|Robb and Bran discuss [[Old Nan]]'s fairy stories.|Lord Snow}}
+'''Macumber'''{{Ref|GOT103}} the blue-eyed giant is a legendary being in [[Westeros]], the kind of folktale creature in children's stories.
+
+==History==
+===Background===
+According to some stories, the reason the sky is blue is because the entire world is a tiny object floating in the eye of a cosmically immense, blue-eyed giant called "Macumber."{{Ref|GOT103}}{{Ref|GOT403}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+As [[Old Nan]] leaves [[Bran Stark]]'s bedside, [[Robb Stark]] remarks of her many fairy stories that she once told him that the sky is blue because we all live inside the eye of a blue-eyed giant named "Macumber." Bran points out that for all anyone knows, maybe everyone does.{{Ref|GOT103}}
+
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+{{Dialogue a-b|Tywin Lannister|Some believe the king choked.|Oberyn Martell|Some believe the sky is blue because we live inside the eye of a blue-eyed giant. The king was poisoned.|Oberyn refers dismissively to the fairy-story about Macumber the giant.|Breaker of Chains}}
+Soon after the assassination of King [[Joffrey Baratheon]] at [[Purple Wedding|his own wedding]], his grandfather [[Tywin Lannister]] meets with [[Oberyn Martell]]. Tywin remarks that some (naive) people think that Joffrey simply choked. Oberyn flippantly replies that some people think the sky is blue because we all live inside the eye of a blue-eyed giant (but thinking it doesn't make it true). Oberyn acknowledges that Joffrey was assuredly poisoned.{{Ref|GOT403}}
+
+==Behind the scenes==
+Macumber, as with much of the story (including the very reference to 'ice and fire') is a reference to the Norse creation myth as outlined in the Hávamál, specifically the giant therein is named Ymir in the same way J.R.R. Tolkien used Anglo-Saxon myth for his legenadarium.
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no mention of any character named Macumber, or of a legend about the sky being blue because the entire world is in the eye of a blue-eyed giant named - nor any comparable fable. It is an invention of the TV series. 
+
+The on-screen subtitles confirm that the spelling is "Macumber" not "Macumba."
+
+Through study of astronomy, [[Order of Maesters|maesters]] and other learned men of the world have actually determined that the world that the continent of Westeros is set on is much like real-life Earth: a round globe circling the sun through outer space, along with several other planets. So just to be clear, there is no chance that the legend about Macumber is actually true... or at least, the part saying that this world's sky is blue because it is in the eye of a blue-eyed giant. As for whether the entire ''universe'' is inside the eye or head of some higher being, no one knows.
+
+Still, the story about Macumber is apparently ''not'' a meta-narrative reference to author [[George R.R. Martin]] (in the sense that the entire world of Westeros originated inside of his head): Martin has ''brown'' eyes.
+
+==Appearances==
+*{{GOT|Lord Snow}} {{Mentioned}}
+*{{GOT|Mockingbird}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{Animals and plants}}
+
+<!--Categories-->
+[[Category:Giants]]
+[[Category:Individuals mentioned in Game of Thrones]]
+
+<!--Languages-->
+[[de:Macomber]]
+[[fr:Macumber]]
+[[ru:Макомбер]]

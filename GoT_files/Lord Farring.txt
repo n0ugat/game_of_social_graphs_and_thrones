@@ -1,0 +1,61 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Farring.svg
+| Link  = House Farring
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Targaryen
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = [[House Farring|Farring]]{{Ref|HOTD203}}
+| Affiliation = [[House Targaryen/House of the Dragon|House Targaryen]]{{Ref|HOTD203}}<br>[[Blacks]]{{Ref|HOTD203}}
+| Titles      = 
+| AKA         = 
+| Culture     = [[Crownlands|Crownlander]]{{Ref|HOTD203}}
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Lord Farring''' is the head of [[House Farring]] during the [[Dance of the Dragons]].
+
+==Biography==
+===Background===
+Lord Farring is a supporter of [[Rhaenyra Targaryen]].{{Ref|HOTD203}}
+
+===[[House of the Dragon: Season 2|''House of the Dragon'': Season 2]]===
+It is mentioned at the [[Black Council]] that Lord Farring has reported the movements of [[Criston Cole]]'s army in the northern [[Crownlands]].{{Ref|HOTD203}}
+
+==In the books==
+In ''[[Fire & Blood]]'', House Farring is not mentioned. The only known Farrings are the ones that appear in the main ''[[A Song of Ice and Fire]]'' novels.
+
+==Appearances==
+*{{HOTD|The Burning Mill}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House Farring}}
+
+<!--Categories-->
+{{DEFAULTSORT:Farring}}
+[[Category:Bannermen of House Targaryen]]
+[[Category:Blacks]]
+[[Category:Crownlanders]]
+[[Category:Individuals mentioned in House of the Dragon]]
+[[Category:Lords]]
+[[Category:Members of House Farring|Lord Farring]]

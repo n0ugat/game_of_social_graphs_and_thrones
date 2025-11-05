@@ -1,0 +1,64 @@
+{{Canonicity|Canon}}
+{{SameName|steward of the Night's Watch|son of Rhaenyra Targaryen and Laenor Velaryon|Lucerys Velaryon}}
+{{Heraldry
+| Image = Night's Watch.svg
+| Link  = Night's Watch
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = Luke Night Watch.png
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[Night's Watch]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 1|1]]
+| Appearances = "[[You Win or You Die]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = Unidentified
+}}
+{{Quote|Luke, you'll report to One-Eyed Joe in the stables.|[[Order of Maesters|Maester]] [[Aemon]]|You Win or You Die}}
+'''Luke''' is a newly made [[Steward (Night's Watch)|Steward]] of the [[Night's Watch]], of the same group of recruits as [[Jon Snow]].
+
+==Biography==
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+Luke is present during the speech [[Lord Commander of the Night's Watch|Lord Commander]] [[Jeor Mormont]] gave to the "graduating" recruits. He is assigned to the Stewards. [[Order of Maesters|Maester]] [[Aemon]] orders him to report to [[One-Eyed Joe]], who is in charge of [[Castle Black]]'s stables.{{Ref|GOT107}}
+
+==In the books==
+In the [[A Song of Ice and Fire|''A Song of Ice and Fire'']] novels there is no Steward named Luke or a character assigned to the stables after the "graduation" of Jon's group of recruits. There is, however, a [[ranger]] named Luke, who hails from a town named Longtown.
+
+==Appearances==
+*{{GOT|You Win or You Die}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Luke of Longtown}}
+
+<!--Navboxes-->
+{{Night's Watch}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Stableboys]]
+[[Category:Stewards of the Night's Watch]]
+
+<!--Languages-->
+[[de:Luke]]
+[[ru:Люк]]

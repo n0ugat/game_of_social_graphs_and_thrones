@@ -1,0 +1,69 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Hoare
+| Image       = Lodos.png
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Ironborn]]
+| Religion    = [[Drowned God]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Don't forget the prophet Lodos, who claimed who promised that the Drowned God would rise up and destroy Aegon the Conqueror!|[[Archmaester (Eastwatch)|Archmaester]]|Eastwatch}}
+'''Lodos''' was a self-proclaimed prophet who lived during [[Aegon's Conquest]].
+
+==Biography==
+===Background===
+After the [[burning of Harrenhal]] and the resulting extinction of [[House Hoare]], Lodos declared that he had visions of [[Aegon I Targaryen|Aegon the Conqueror]]'s fleet being destroyed by [[kraken]]s. When Aegon did come to invade the [[Iron Islands]], the prophesied krakens did not arrive, so Lodos, with stones in his pockets, went out to speak with the [[Drowned God]]. Thousands of people followed him into the sea, and their bodies washed ashore the Iron Islands for years to come.{{Ref|H&L706}}
+
+===[[Game of Thrones: Season 7|''Game of Thrones'': Season 7]]===
+Lodos is mentioned by the [[archmaester]]s of the [[Citadel]] as they discuss a [[raven]] they receive from [[Bran Stark|Bran]], warning the the [[Night King]] and his army are marching on [[Eastwatch-by-the-Sea]]. One of them compares his claim that he saw this through [[warg]]ing to Lodos's claim that about the Drowned God destroying Aegon the Conqueror.{{Ref|GOT705}}
+
+==In the books==
+In ''The World of Ice & Fire'', Lodos was a Drowned Man who claimed to be the living son of the Drowned God. He was crowned [[King of the Iron Islands]] by [[Nagga]]'s bones at [[Old Wyk]] following the death of [[Harren Hoare|Harren the Black]] at the [[Burning of Harrenhal]] during the Targaryen Conquest.
+
+With the extinction of [[House Hoare]], and all of the [[ironborn]]'s strength on the mainland destroyed, they fell into infighting on their home islands. With no clear successor, five separate men on five different islands declared themselves king, among them Lodos, who was crowned by a gathering of forty other priests.
+
+When Aegon finally attacked the Iron Islands four years later, with a vast armada and his dragons, Lodos called upon the Drowned God to send krakens to drag Aegon's fleet into the depths of the sea. When no krakens appeared, Lodos filled his robes with stones and walked into the sea to "take council" with the Drowned God. Thousands followed him and their corpses washed up on the shores for years to come, though Lodos's body was never found.
+
+A man claiming to be Lodos reborn appeared on the Iron Islands during the reign of King [[Aenys Targaryen]]. He was executed by Lord Goren Greyjoy and his pickled head sent to the [[Red Keep]].
+
+==Appearances==
+*{{GOT|Eastwatch}} {{Mentioned}}
+*{{H&L|Prophecies of the Known World}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Kings of the Iron Islands}}
+
+<!--Categories-->
+[[Category:Clergy]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Ironborn]]
+
+<!--Languages-->
+[[ru:Лодос]]

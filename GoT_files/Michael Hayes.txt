@@ -1,0 +1,29 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Michael Hayes.jpg
+| Birth   = Navan, County Meath, Ireland
+| Death   = 
+| Role    = [[Night's Watch man (The Red Woman)|Night's Watch man]]
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 6|6]]
+| Credits = 2 episodes {{Below|Credits}}
+| First   = "[[The Red Woman]]"
+| Last    = "[[Home]]"
+}}
+'''Michael Hayes''' is an Irish actor. He has appeared in films such as ''{{WPS|Ordinary Decent Criminal }}'', ''{{WPS|Intermission (film)|Intermission}}'' and ''{{WPS|Inside I'm Dancing}}''.
+
+In ''[[Game of Thrones]]'', he portrayed a [[Night's Watch man (The Red Woman)|Night's Watch man]] in [[Game of Thrones: Season 6|Season 6]].
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 6|yes|yes}}
+
+==See also==
+*{{IMDb
+|# = 0371160}}
+
+==References==
+{{Reflist}}
+{{DEFAULTSORT:Hayes, Michael}}
+[[Category:Guest starring cast members of Game of Thrones]]

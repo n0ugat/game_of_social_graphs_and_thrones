@@ -1,0 +1,66 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Leftimage  = House Dryland.svg
+| Rightimage = Night's Watch.svg
+| Rightlink  = Night's Watch
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = 
+| Birth       = At Hellgate Hall
+| Death       = 
+| House       = 
+| Affiliation = [[Night's Watch]]
+| Titles      = [[King]] of the Brimstone {{C|deposed}}<br>[[Lordship|Lord]] of Hellgate Hall {{C|deposed}}
+| Predecessor = 
+| Successor   = 
+| AKA         = Last of His Ilk
+| Culture     = [[Dornishmen|Dornish]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|They sent no fewer than six self-styled "kings" to the Wall in golden chains. |[[Ellaria Sand]]|Dorne (short)}}
+King '''Lucifer Dryland''' was the King of the Brimstone during [[Nymeria's War]].
+
+==Biography==
+[[Nymeria]] had Lucifer sent to the [[Wall]] in golden chains after defeating him in Nymeria's War.{{Ref|H&L509}}
+
+==In the books==
+Lucifer Dryland is mentioned in ''The World of Ice & Fire''. He was the last member of House Dryland, and thus became known as the "Last of His Ilk".
+
+==Appearances==
+*{{H&L|Dorne}} {{Indirect}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Kings of Westeros}}
+
+<!--Categories-->
+{{DEFAULTSORT:Dryland, Lucifer}}
+[[Category:Dornishmen]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Kings]]
+[[Category:Men of the Night's Watch]]
+
+<!--Languages-->
+[[es:Lucifer Dryland]]
+[[pl:Lucifer Dryland]]
+[[ru:Люцифер Драйленд]]

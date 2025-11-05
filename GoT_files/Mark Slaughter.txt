@@ -1,0 +1,43 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Mark Slaughter.jpg
+| Birth   = 
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[Game of Thrones]]''<br>''[[House of the Dragon]]''
+| Season  = ''Game of Thrones'':<br>[[Game of Thrones: Season 4|4]] {{*}} [[Game of Thrones: Season 7|7]] {{*}} [[Game of Thrones: Season 8|8]]<br>''House of the Dragon'':<br>[[House of the Dragon: Season 2|2]]
+| Credits = 10 episodes {{Below|Credits}}
+| First   = "[[The Bells]]"
+| Last    = 
+}}
+'''Mark Slaughter''' is a stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 4|fourth season]] episodes "[[Breaker of Chains]]" and "[[The Children]]", the [[Game of Thrones: Season 7|seventh season]] episodes "[[Dragonstone (episode)|Dragonstone]]", "[[Stormborn]]", "[[The Queen's Justice]]", "[[The Spoils of War]]" and "[[Eastwatch]]" and the [[Game of Thrones: Season 8|eighth season]] episodes "[[The Long Night]]" and "[[The Bells]]".
+
+In ''[[House of the Dragon]]'', he was a stunt performer in the [[House of the Dragon: Season 2|second season]] episode "[[The Red Dragon and the Gold]]".
+
+==Credits==
+===Stunts===
+====''[[Game of Thrones]]''====
+{{Game of Thrones: Season 4|||yes|||||||yes}}
+{{Game of Thrones: Season 7|yes|yes|yes|yes|yes}}
+{{Game of Thrones: Season 8|||yes||yes}}
+
+====''[[House of the Dragon]]====
+{{House of the Dragon: Season 2||||yes}}
+
+==See also==
+*{{IMDb
+|# = 4342579}}
+*{{Twitter
+|# = slaughterstunts}}
+*{{Instagram
+|# = slaughterstunts}}
+*{{Facebook
+|# = slaughterstunts}}
+*{{Vimeo
+|# = user12198327}}
+{{DEFAULTSORT:Slaughter, Mark}}
+[[Category:Stunt performers of Game of Thrones]]
+[[Category:Stunt performers of House of the Dragon]]

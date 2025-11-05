@@ -1,0 +1,32 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Lucy Briers.jpg
+| Birth   = Lucy Jane Briers<br>August 19, 1967 {{Age|1967|8|19}}<br>Hammersmith, London, England
+| Death   = 
+| Role    = [[Ceira Lannister]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = "[[Second of His Name]]"
+| First   = 
+| Last    = 
+}}
+'''Lucy Jane Briers''' (born 19 August, 1967) is an English actress. She has appeared in the films ''{{WPS|Alan Partridge: Alpha Papa}}'', ''{{WPS|Genius (2016 film)|Genius}}'', and ''{{WPS|Zack Snyder's Justice League}}'' and the television series ''{{WPS|Red Dwarf}}'', ''{{WPS|Pride and Prejudice (1995 TV series)|Pride and Prejudice}}'', ''{{WPS|Game On (British TV series)|Game On}}'', ''{{WPS|The Bill}}'', ''{{WPS|Agatha Christie's Poirot}}'', ''{{WPS|Silent Witness}}'', ''{{WPS|The Green Green Grass}}'', ''{{WPS|Ashes to Ashes (British TV series)|Ashes to Ashes}}'', ''{{WPS|Doctors (2000 TV series)|Doctors}}'', ''{{WPS|Midsomer Murders}}'', ''{{WPS|Parade's End (miniseries)|Parade's End}}'', ''{{WPS|The Thick of It}}'', ''{{WPS|DCI Banks}}'', ''{{WPS|Father Brown (TV series)|Father Brown}}'', ''{{WPS|Casualty (TV series)|Casualty}}'', ''{{WPS|Four Weddings and a Funeral (miniseries)|Four Weddings and a Funeral}}'', and ''{{WPS|Gentleman Jack (TV series)|Gentleman Jack}}''.
+
+In ''[[House of the Dragon]]'', she portrayed Lady [[Ceira Lannister]] in the [[House of the Dragon: Season 1|first season]].
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1|||yes||yes}}
+
+==See also==
+*{{WP}}
+*{{IMDb|# = 0134025}}
+*{{Linkedin|# = /in/lucy-briers-25972737}}
+
+<!--Categories-->
+{{DEFAULTSORT:Briers, Lucy}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--InterWiki-Links-->
+[[fr:Lucy Briers]]

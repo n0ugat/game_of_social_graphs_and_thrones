@@ -1,0 +1,53 @@
+{{Canonicity|Canon}}
+{{ConjectureInfo}}
+{{Heraldry
+| Image = House Merryweather.svg
+| Link  = House Merryweather
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Bronn
+| Image        = 
+<gallery>
+701 BtS Map Long Table.png|Appearance
+Longtable Pin.png|Location
+</gallery>
+| Type         = Castle
+| Status       = 
+| Location     = The [[Reach]], [[Westeros]]
+| Population   = 
+| Rulers       = [[House Merryweather]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Longtable'''{{Guideref|Map of Westeros}} is a castle in the [[Reach]]. The castle is located at the meeting of the [[Mander]] and the [[Blueburn]] rivers. It is the seat of [[House Merryweather]].
+
+==Behind the scenes==
+The name is misspelled as "Long Table" on some maps.
+
+==In the books==
+In ''[[A Song of Ice and Fire]]'', Longtable is the seat of House Merryweather. House Merryweather are notable for providing one of the [[Hand of the King|Hands of the King]] under the [[Aerys II Targaryen|Mad King]], after [[Tywin Lannister|Tywin]]'s resignation. Lord Owen Merryweather was the Hand until the early stages of [[Robert's Rebellion]], which he did not take seriously. For his laxity, Aerys stripped him of his lands and sent him into exile, replacing him with Lord Jon Connington of [[Griffin's Roost]]. 
+
+After taking the [[Iron Throne]], [[Robert Baratheon|Robert]] restored some of the lands to Owen's heirs, including Longtable. 
+
+The current lord of the house, Orton, is married to the Lady Taena of [[Myr]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Merryweather}}
+{{Reach}}
+
+<!--Categories-->
+[[Category:Castles of the Reach]]
+[[Category:House Merryweather]]
+
+<!--Languages-->
+[[ru:Длинный Стол]]

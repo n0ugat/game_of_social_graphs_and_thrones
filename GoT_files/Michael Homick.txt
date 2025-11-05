@@ -1,0 +1,22 @@
+{{Crew
+|Image = Michael Homick.jpg
+|dateofbirth = 
+|birthplace = 
+|job = Stunt Performer<br>Stunt Double for [[Hafþór Júlíus Björnsson]]
+|imdb = http://www.imdb.com/name/nm4663694
+|twitter = }}
+'''Michael Homick''' is a stuntman.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 8|eighth season]] episodes "[[The Long Night]]" and "[[The Last of the Starks]]".
+
+He was also a stunt double for [[Hafþór Júlíus Björnsson]] in the [[Game of Thrones: Season 8|eighth season]] episodes "[[The Bells]]" and "[[The Iron Throne]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 8|||yes|yes|yes|yes}}
+
+==See also==
+*{{IMDb
+|# = 4663694}}
+{{DEFAULTSORT:Homick, Michael}}
+[[Category:Stunt performers of Game of Thrones]]

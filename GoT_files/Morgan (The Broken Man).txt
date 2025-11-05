@@ -1,0 +1,59 @@
+{{DISPLAYTITLE:Morgan {{C|The Broken Man}}}}
+{{Canonicity|Canon}}
+{{Character
+| Title       = Morgan
+| Type        = Outlaw
+| Image       = 607 Morgan.png
+| Birth       = 
+| Death       = [[303 AC]]{{Dateref|Game of Thrones: Season 6}}<br>The [[Riverlands]], the [[Seven Kingdoms]]
+| House       = 
+| Affiliation = [[Brotherhood Without Banners]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = 
+| Religion    = [[Lord of Light]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 6|6]]
+| Appearances = 2 episodes {{Below|Appearances}}
+| First       = "[[The Broken Man]]"
+| Last        = "[[No One]]"
+| DeathEp     = "No One"
+| Actor       = [[Ian Davies]]
+}}
+{{Quote|Thing about Gatins, right, is he used to be pretty.|Morgan on [[Gatins]]|No One}}
+'''Morgan''' was a member of the [[Brotherhood Without Banners]].
+
+==Biography==
+===[[Game of Thrones: Season 6|''Game of Thrones'': Season 6]]===
+Morgan, [[Lem]] and [[Gatins]] confront [[Ray]]'s group of Faith devout, asking them for food and supplies. When Ray claims that he has nothing of true value to give them and that he has many mouths to feed, they leave, and possibly were responsible for the slaughter of everyone, except for [[Sandor Clegane]].{{Ref|GOT607}}
+
+Morgan and Gatins educate Brotherhood Without Banners members [[Steve]] and [[Riddell]] as to how to best kiss a girl, when they are interrupted by the Hound, who kills them all with his axe.{{Ref|GOT608}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there are several characters whose first name is Morgan (Morgan Hightower, Morgan Liddle, Morgan Martell), but none of them are outlaws or members of the Brotherhood.
+
+==Appearances==
+*{{GOT|The Broken Man}}
+*{{GOT|No One}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Categories-->
+[[Category:Brotherhood Without Banners]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Smallfolk]]
+
+<!--Languages-->
+[[fr:Morgan (Fraternité sans Bannière)]]

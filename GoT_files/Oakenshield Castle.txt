@@ -1,0 +1,35 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Tyrell
+| Image        = 
+| Type         = Castle
+| Status       = 
+| Location     = [[Oakenshield]], the [[Reach]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Oakenshield Castle'''{{Ref|THTDB201}} is a castle on the eponymous island of [[Oakenshield]] in the [[Reach]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the castle is identified only as "Lord Hewett's castle." It is located in Lord [[Hewett's Town]].
+
+Oakenshield is conquered by [[Euron Greyjoy]] during his invasion of the Reach and granted to Nute the Barber.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Lord Hewett's castle}}
+
+<!--Navboxes-->
+{{Reach}}
+
+<!--Categories-->
+[[Category:Castles of the Reach]]
+[[Category:Shield Islands]]

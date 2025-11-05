@@ -1,0 +1,56 @@
+{{Canonicity|Canon}}
+{{Spoiler|HOTD}}
+{{BookConjecture}}
+{{Heraldry
+| Image = Unknown.svg
+| Link  = 
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Westeros
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = 
+| Titles      = [[Knighthood|Ser]]
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+Ser '''Loreth Lansdale'''{{Con|F&B}} is a [[Knighthood|knight]] who lived during the [[Dance of the Dragons]].{{Ref|TDOD}}
+
+==In the books==
+In ''[[Fire & Blood]]'', Loreth Lansdale was a knight of House Lansdale.
+
+==Appearances==
+*{{TDOD}} {{C|illustrated or mentioned indirectly}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Categories-->
+{{DEFAULTSORT:Lansdale, Loreth}}
+[[Category:Individuals from The Dance of Dragons]]
+[[Category:Knights]]
+[[Category:Westerosi]]

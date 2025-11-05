@@ -1,0 +1,57 @@
+{{Canonicity|Canon}}
+{{Animal
+| Title       = {{PAGENAME}}
+| Type        = Westeros
+| Image       = Nagga.jpg
+| Species     = [[Sea dragon]]
+| Birth       = 
+| Death       = Slain by the [[Grey King]]
+| AKA         = 
+| Affiliation = 
+| Family      = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+}}
+[[File:NaggaFirstSeaDragon.png|thumb|180x180px|The Grey King fights Nagga.]]
+[[File:H&L209.png|thumb|180x180px|Nagga is killed by the Grey King.]]
+{{Quote|Blessed by the Drowned God, the Grey King fought and slew Nagga the great Sea Dragon and took her fire for his own.|[[Theon Greyjoy]]|House Greyjoy (short)}}
+'''Nagga'''{{Ref|H&L102}} is the legendary first sea-dragon in the culture of the [[Iron Islands]]. According to legend, the mythical [[Grey King]], having been blessed by the [[Drowned God]], slew Nagga on the shores of [[Old Wyk]], then used her bones to build his hall and her fire to warm it.<ref>"[[The Age of Heroes]]"</ref><ref>"[[House Greyjoy (short)|House Greyjoy]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the legendary Nagga was said to be so immense that it fed on massive [[kraken]]s and drowned islands when it was angered.
+
+It has never been established that "sea dragons" were ever real creatures. In a world where dragons once stalked the skies, there may be some kernel of truth behind the legends, which were later exaggerated to make Nagga big enough to drown entire islands. On the other hand, "Nagga's Bones", the ruins of the Grey King's old hall, still exist and were used as the site where kingsmoots were held to elect the new King of the [[Iron Islands]] (before the kingship became hereditary). Descriptions of Nagga's Bones are vague: according to legend it was made using the massive bones of Nagga as pillars, but the narration doesn't make it clear if these are just pillars of rock that resemble bones, or if "Nagga's Bones" actually are the remaining fossilized bones of some immense animal. Damphair refers to Nagga as the first sea dragon, and that the Drowned God turned her bones to stone.
+
+==Inspiration==
+When spelled with a single "g", naga refers to a race of serpentine creatures from the Indian sub-continent. Appearing in both Hindu and Buddhist tradition, [https://en.wikipedia.org/wiki/N%C4%81ga nagas] are associated with both water (similar to Nagga) and the Underworld.
+
+==Appearances==
+*{{H&L|The Age of Heroes}} {{Illustrated}}
+*{{H&L|House Greyjoy}} {{Illustrated}}
+*{{H&L|The Drowned God}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Animals and plants}}
+
+<!--Categories-->
+[[Category:Ironborn culture]]
+[[Category:Sea dragons]]
+
+<!--Languages-->
+[[de:Nagga]]
+[[es:Nagga]]
+[[fr:Nagga]]
+[[nl:Nagga]]
+[[pt-br:Nagga]]
+[[ru:Нагга]]
+[[zh:娜伽]]

@@ -1,0 +1,42 @@
+{{Canonicity|Canon}}
+{{References}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Westeros
+| Image        = Ny Sar.png
+| Type         = City
+| Status       = 
+| Location     = The [[Rhoyne]], [[Essos]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = 
+| Places       = 
+| Founded      = 
+}}
+'''Ny Sar'''{{Mapref|Viewer's Guide}} is a ruined city in [[Essos]]. It was the capital of the [[Rhoynar]] before they were forced to flee to [[Dorne]] by the [[Valyrians]]. The city was destroyed by the Valyrians. It sits at the confluence of the [[Rhoyne]] and the river Noyne.
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Ny Sar was ruled by Princess [[Nymeria]] before the defeat of the allied Rhoynar city-states by the Valyrians. After their armies were defeated, Nymeria led an exodus of her people from all the lands of the Rhoynar, fleeing into the [[Summer Sea]] and thence to [[Westeros]], where they landed in [[Dorne]] and allied with [[House Martell]], helping them become the dominant power in the region.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Known world}}
+{{Free Cities}}
+
+<!--Categories-->
+[[Category:Rhoynish cities]]
+[[Category:Ruined cities]]
+
+<!--Languages-->
+[[es:Ny Sar]]
+[[pt-br:Ny Sar]]
+[[ru:Ни Сар]]
+[[uk:Ні Сар]]
+[[zh:娜·萨星]]

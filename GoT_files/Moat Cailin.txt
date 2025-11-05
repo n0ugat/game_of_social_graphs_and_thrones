@@ -1,0 +1,77 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Stark
+| Image        =
+<gallery>
+S04E8 - Moat Cailin.png|Appearance
+Moat Cailin Pin.png|Location
+</gallery>
+| Type         = Castle
+| Status       = In ruins
+| Location     = The [[Neck]], the [[North]]
+| Population   = 
+| Rulers       = [[House Stark]]<br>[[House Greyjoy]] {{C|formerly}}<br>[[House Bolton]] {{C|formerly}}<br>[[House Arryn]] {{C|briefly}}
+| Institutions = 
+| Military     = 
+| Religion     = 
+| Places       = 
+| Founded      = [[Dawn Age]]
+}}
+{{Quote|As long as the Ironborn hold Moat Cailin, our armies are trapped south of the Neck.|[[Roose Bolton]]|The Lion and the Rose}}
+'''Moat Cailin'''{{Ref|GOT205}} is a ruined collection of towers located on the [[Neck]]. It is part of the [[North]] and is subject to the rule of [[House Stark]], but has not been permanently manned for centuries. Subsequently, it is neither a fief nor a residence of any lord, but is still the lynch-pin of the defense of the North from any invasion from the south. It is an ancient stronghold of the [[First Men]]. It has degraded over time and only three towers still stand. The towers are arranged in mutually defensive positions, suggesting the heightened tactical awareness of the builders.
+
+==History==
+===Background===
+Moat Cailin was constructed by the First Men during the [[Dawn Age]], and, despite falling to disrepair, has since then remained an important strategic position in defending the North from invasions from the south, most notably being instrumental in preventing the [[Andals]] from conquering the North during the [[coming of the Andals]].
+
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+[[Renly Baratheon|Renly]] discusses a potential alliance with [[Robb Stark|Robb]] by negotiating with [[Catelyn Stark|Catelyn]]. He offers to recognize Robb's dominion over everything north of Moat Cailin.<ref name="E14">"[[The Ghost of Harrenhal]]"</ref>
+
+[[Ironborn]] raiders [[Fall of Moat Cailin|seize Moat Cailin]], as a part of [[Balon Greyjoy]]'s [[Ironborn invasion of the North|campaign to conquer the North]].<ref>Season 2 bluray: War of the Five Kings feature</ref>
+
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+With majority of [[House Bolton]]'s army being trapped south of the [[Neck]] due to the Ironborn occupation of the castle, [[Roose Bolton]] orders [[Ramsay Bolton|Ramsay]] to take the stronghold.<ref>"[[The Lion and the Rose]]"</ref> Ramsay has Reek use his former identity as [[Theon Greyjoy]] to convince Ironborn garrison to [[Siege of Moat Cailin|surrender Moat Cailin]], in exchange for safe passage back to the [[Iron Islands]]. Upon surrendering, Ramsay reneges on the agreement and has all of the Ironborn [[flaying|flayed]] alive.<ref name="E38">"[[The Mountain and the Viper]]"</ref>
+
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+[[File:Moat_Cailin_5x03_(3).png|thumb|left|[[Brienne of Tarth|Brienne]] and [[Podrick Payne|Pod]] watch as [[Sansa Stark|Sansa]] and [[Petyr Baelish|Littlefinger]] go through Moat Cailin.]][[Sansa Stark|Sansa]] and [[Petyr Baelish|Littlefinger]] pass through Moat Cailin while traveling to [[Winterfell]]. Sansa mentions that she, [[Eddard Stark|her father]], and [[Arya Stark|her sister]] visited Moat Cailin while traveling south to [[King's Landing]]. [[Brienne of Tarth|Brienne]] and [[Podrick Payne|Pod]] follow them, but are forced to go all the way around the Moat and the swamp instead of through it.<ref>"[[High Sparrow (episode)|High Sparrow]]"</ref>
+
+===[[Game of Thrones: Season 6|''Game of Thrones'': Season 6]]===
+Littlefinger marches the knights of the [[Vale of Arryn|Vale]] to the North and encamps them at Moat Cailin while he meets with Sansa.<ref>"[[The Door]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Moat Cailin is said to have been built well over ten thousand years ago by the [[Children of the Forest]], though the accuracy of this is unclear. The fortress commands the northern end of the causeway which carries the [[Kingsroad]] through the bogs and swamps of the Neck, at a point in [[Westeros]] where the swamps extend almost from coast to coast. Thus, any large host has to pass the fortress to enter the North. Due to the placement of the three surviving towers around the bottleneck and with no firm ground to deploy siege equipment to the south, a few hundred archers with sufficient ammunition could hold off a much larger army for some time from Moat Cailin. Moat Cailin was one of the vital reasons why the First Men were able to successfully resist the [[Andals]]' attempts to invade the North as they did the rest of Westeros to the south.
+
+Also according to myth, the Children attempted to use Moat Cailin to hold back the invading [[First Men]] and, when that failed due to the humans' superior numbers, attempted to shatter the Neck and completely separate the North from the South in the same manner they shattered the Arm of [[Dorne]] centuries earlier. However, the Children failed and only succeeded in flooding it, creating bogs and swamps. However, the cataclysm proved the strength of their power and may have proved instrumental in bringing the First Men to agree to the terms of the Pact that ended hostilities between the two races.
+
+While in the present era most of Moat Cailin's former towers have fallen into ruin, even the three remaining towers are more than capable of defending the passage to the North, provided that they are fully manned. A key point is that Moat Cailin was only designed to resist attack from the south, and thus its northern flank is relatively exposed to attack by even a small force.
+
+==Gallery==
+<gallery>
+S04E8 - Moat Cailin - distant view.png|Moat Cailin from a distant view seen in "[[The Mountain and the Viper]]".
+Moat-Cailin-title-sequance.jpg|Moat Cailin as depicted in the title sequence before its fall.
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{North}}
+
+<!--Categories-->
+[[Category:Castles of the North]]
+[[Category:Neck]]
+[[Category:Ruins]]
+
+<!--Languages-->
+[[de:Maidengraben]]
+[[es:Foso Cailin]]
+[[fr:Moat Cailin]]
+[[it:Moat Cailin]]
+[[nl:Motte van Cailin]]
+[[pl:Fosa Cailin]]
+[[ru:Ров Кейлин]]
+[[zh:卡林湾]]

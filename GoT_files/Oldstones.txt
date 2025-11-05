@@ -1,0 +1,50 @@
+{{Canonicity|Canon}}
+{{Stub}}
+{{Heraldry
+| Image = House Mudd.svg
+| Link  = House Mudd
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Tully
+| Image        = 
+| Type         = Castle
+| Status       = Ruined
+| Location     = The [[Riverlands]], [[Westeros]]
+| Population   = 
+| Rulers       = {[[House Mudd]]} {{C|formerly}}
+| Institutions = 
+| Military     = 
+| Religion     = 
+| Places       = 
+| Founded      = 
+}}
+{{Quote|They spun her around on the damp old stones, spun away all her sorrow and pain.|"[[Jenny of Oldstones (song)|Jenny of Oldstones]]"|A Knight of the Seven Kingdoms (Game of Thrones)}}
+'''Oldstones'''{{Ref|GOT705}} is a location in the [[Riverlands]], near the headwaters of the [[Blue Fork]] of the [[Trident]]. [[Jenny of Oldstones]] once lived there.{{Ref|GOT705}} It was once ruled by the [[River King]]s of [[House Mudd]].{{Note|The song "[[Jenny of Oldstones (song)|Jenny of Oldstones]]" mentions an extinct line of kings.}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Oldstones is so-called because it is the ruins of an ancient castle, of the petty local kings who ruled over the [[First Men]]. They were wiped out by the [[coming of the Andals]] and the castle was never rebuilt in the next 6,000 years.
+
+When [[Robb Stark]]'s army rides back north from [[Riverrun]] to the [[Twins]] for the wedding of Edmure Tully, they pass the ruins of Oldstones. Their situation in the war has become dire, and seeing the ruins causes [[Catelyn Stark]] to become reflective on whether this will be their fate as well: left as nothing but half-forgotten, decaying ruins.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Mudd}}
+{{Riverlands}}
+
+<!--Categories-->
+[[Category:Castles of the Riverlands]]
+[[Category:Ruins]]
+
+<!--Languages-->
+[[fr:Vieilles-Pierres]]
+[[ru:Старые Камни]]
+[[uk:Старі Камені]]

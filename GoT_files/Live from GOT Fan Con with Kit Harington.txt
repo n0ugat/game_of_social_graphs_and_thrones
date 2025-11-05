@@ -1,0 +1,36 @@
+{{Episode
+| Title    = {{PAGENAME}}
+| Type     = Podcast
+| Image    = TOGOTPHOTD118.jpg
+| Season   = 1
+| Episode  = 18
+| Date     = December 22, 2022{{Listref|TOGOTPHOTD}}
+| Runtime  = 1:08:14{{HBOref|TOGOTPHOTD}}
+| Writer   = 
+| Director = 
+| Year     = 
+| Previous = "[[Gone Too Soon with Gavin Spokes, Nanna Blondell and Ryan Corr]]"{{Listref|TOGOTPHOTD}}
+| Next     = "[[The Official Game of Thrones Podcast Returns|''The Official Game of Thrones Podcast'' Returns]]"{{Listref|TOGOTPHOTD}}
+}}
+"'''Live from GOT Fan Con with Kit Harington'''"{{HBOref|TOGOTPHOTD}} is the eighteenth and final episode of the [[The Official Game of Thrones Podcast: House of the Dragon: Season 1|first season]] of ''[[The Official Game of Thrones Podcast: House of the Dragon]]''. It is the eighteenth episode of the series overall. It was released on December 22, 2022.
+
+==Description==
+{{Description|TOGOTPHOTD118}}
+
+==Gallery==
+<gallery bordersize="none">
+HOTD: Official Podcast - Live from GOT Fan Con with Kit Harington / House of the Dragon (HBO)
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{HBO Max|video/watch/PROM708272/PROM1182006|The Official Game of Thrones Podcast - Live from GOT Fan Con with Kit Harington}}
+
+<!--Navboxes-->
+{{The Official Game of Thrones Podcast: House of the Dragon}}
+
+<!--Categories-->
+[[Category:Episodes of The Official Game of Thrones Podcast: House of the Dragon: Season 1| 18]]
+[[Category:Episodes released in 2022|C.22]]

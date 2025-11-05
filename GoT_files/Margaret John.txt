@@ -1,0 +1,34 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Margaret-John-200.jpg
+| Birth   = December 14, 1926<br>Swansea, Wales
+| Death   = February 2, 2011 (aged 84)<br>Swansea, Wales
+| Role    = [[Old Nan]]
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 1|1]]
+| Credits = 2 episodes {{Below|Credits}}
+| First   = "[[Lord Snow]]"
+| Last    = "[[Cripples, Bastards, and Broken Things]]"
+}}
+'''Margaret John''' (14 December 1926 - 2 February 2011) was a Welsh actress. She appeared regularly on television and in film since 1960 and has appeared in series such as ''[[wikipedia:Coronation Street|Coronation Street]]'', ''[[wikipedia:Z Cars|Z Cars]]'' and ''[[wikipedia:Dixon of Dock Green|Dixon of Dock Green]]''. Her genre credits include two appearances in ''[[wikipedia:Doctor Who|Doctor Who]]'' (once in 1968 and again in 2005) and roles in ''[[wikipedia:Blake's 7|Blake's 7]]'' and ''[[wikipedia:Doomwatch|Doomwatch]]''. She has recently gained new fans in the role of Doris in the successful British comedy series ''[[wikipedia:Gavin and Stacey|Gavin and Stacey]]''. In 2009 she won a Welsh BAFTA Lifetime Achievement Award. On 2 February 2011, Margaret John passed away at the age of 84 in Swansea, Wales following a brief illness.
+
+In ''[[Game of Thrones]]'' John played [[Old Nan]]. She was announced in the role on 16 July 2010.
+
+Margaret John passed away only two months before Season 1 began to air, though all of her scenes had already been completed. Though Old Nan appears in the second book, the showrunners decided to retire the role out of respect for Margaret.
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 1|||yes|yes}}
+
+==See also==
+*{{WP}}
+*{{Template:IMDb
+|# = 0424191}}
+
+[[de:Margaret John]]
+[[fr:Margaret John]]
+[[pl:Margaret John]]
+[[ru:Маргарет Джон]]
+{{DEFAULTSORT:John, Margaret}}
+[[Category:Guest starring cast members of Game of Thrones]]

@@ -1,0 +1,31 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Luke Roberts.jpg
+| Birth   = Luke John Roberts<br>October 5, 1977 {{Age|1977|10|5}}<br>Woodbridge, Suffolk, England
+| Death   = 
+| Role    = [[Arthur Dayne]]
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 6|6]]
+| Credits = "[[Oathbreaker]]"
+| First   = 
+| Last    = 
+}}
+'''Luke Roberts''' (born 1977) is an English actor. He is best known for his role as {{WPS|Joseph Byrne (Holby City)|Joseph Byrne}} in the television series ''{{WPS|Holby City}}''. He has also appeared in films such as ''{{WPS|Pirates of the Caribbean: On Stranger Tides}}'' (with [[Ian McShane]], [[DeObia Oparei]] and [[Anton Lesser]]) and ''{{WPS|300: Rise of an Empire}}'' and television series such as ''{{WPS|Band of Brothers (miniseries)|Band of Brothers}}'', ''{{WPS|Crossroads (soap opera)|Crossroads}}'', ''{{WPS|Mile High}}'', ''{{WPS|Law & Order: UK}}'', ''{{WPS|Beauty & the Beast (2012 TV series)|Beauty & the Beast}}'', ''{{WPS|Reign (TV series)|Reign}}'' and ''{{WPS|Wolf Hall (miniseries)|Wolf Hall}}''. He also plays an important role in [https://en.wikipedia.org/wiki/Black_Sails_(TV_series) Black Sails] season 3.
+
+In ''[[Game of Thrones]]'', he played Ser [[Arthur Dayne]] in the [[Game of Thrones: Season 6|sixth season]] episode "[[Oathbreaker]]".<ref>[http://watchersonthewall.com/more-confirmation-of-luke-roberts-nathalie-emmanuel-arrives-in-peniscola-and-new-set-photos-from-spain-and-saintfield/ Watchers on the Wall — More confirmation of Luke Roberts, Nathalie Emmanuel arrives in Peñíscola, and new set photos from Spain and Saintfield!]</ref>
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 6|||yes}}
+
+==See also==
+*{{WP|Luke Roberts (actor)|Luke Roberts}}
+*{{IMDb
+|# = 1074361}}
+
+==References==
+{{reflist}}[[de:Luke Roberts]]
+[[fr:Luke Roberts]]
+{{DEFAULTSORT:Roberts, Luke}}
+[[Category:Guest starring cast members of Game of Thrones]]

@@ -1,0 +1,33 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Lannister
+| Image        = 
+| Type         = Gold mine
+| Status       = Abandoned
+| Location     = [[Westerlands]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = 
+| Places       = 
+| Founded      = 
+}}
+'''Nunn's Deep'''{{Ref|THTDB201}} is a gold mine in the [[Westerlands]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Nunn's Deep is seized by [[Greatjon Umber]] after the [[Battle of Oxcross]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Westerlands}}
+
+<!--Categories-->
+[[Category:Caves]]
+[[Category:Westerlands]]

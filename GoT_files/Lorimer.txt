@@ -1,0 +1,64 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Lannister
+| Image       = 
+| Birth       = 
+| Death       = [[298 AC]]{{Dateref|Game of Thrones: Season 1}}
+| House       = 
+| Affiliation = [[House Lannister]]
+| Titles      = [[Knighthood|Ser]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Westeros|Westerosi]]
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|He wasn't a thief. He was drunk and hungry and he wasn't thinking. |[[Podrick Payne]]|High Sparrow (episode)}}
+Ser '''Lorimer''' was a [[Knighthood|knight]] for whom [[Podrick Payne]] squired prior to entering into the service of [[Tyrion Lannister]].
+
+==Biography==
+===Background===
+Ser Lorimer was a lesser knight fighting for [[House Lannister]] during the [[War of the Five Kings]], with Podrick, a member of a lesser branch of [[House Payne]], serving as his [[squire]]. One night Lorimer got drunk and stole a ham, which he shared with Podrick. Lorimer was caught and the two were sentenced to be hanged. Lorimer was thus executed, while Podrick was pardoned by [[Tywin Lannister|Tywin]] because of his family name.{{Ref|GOT503}}
+
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+Podrick recounts his history with Lorimer to [[Brienne of Tarth|Brienne]]. He sympathetically states that Lorimer wasn't really a thief, he was just very hungry and drunk and wasn't thinking about what he was doing - clearly saddened that he ended up being executed for it.{{Ref|GOT503}}
+
+==In the books==
+In the [[A Song of Ice and Fire|''A Song of Ice and Fire'']] novels, Lorimer's story is quite similar. He's nicknamed "Lorimer the Belly" for being fat. He was a [[hedge knight]] serving Lord [[Leo Lefford]]. Podrick attached himself to him after his previous master, his kinsman Ser Cedric Payne, died fighting in the [[Riverlands]]. Lorimer was hanged as a thief after being found to have stolen a ham.
+
+Lorimer and Podrick stole and ate the ham while in camp waiting for the [[battle on the Green Fork]], in the first novel. While this happened in Season 1 of the TV series, Podrick's introduction was pushed back to the beginning of Season 2. Therefore when he relates this story in Season 5's "High Sparrow", Podrick is explaining what he was doing "off-screen" in Season 1.
+
+==Appearances==
+*{{GOT|High Sparrow}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Knights]]
+[[Category:Westermen]]
+
+<!--Languages-->
+[[de:Lorimer]]
+[[ru:Лоример]]

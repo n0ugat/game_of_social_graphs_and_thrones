@@ -1,0 +1,30 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Mark Tankersley.jpg
+| Birth   = 
+| Death   = 
+| Role    = Bolton general
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 6|6]]
+| Credits = "[[Battle of the Bastards (episode)|Battle of the Bastards]]"
+| First   = 
+| Last    = 
+}}
+'''Mark Tankersley''' is an actor.
+
+In ''[[Game of Thrones]]'', he portrays a Bolton general in the [[Game of Thrones: Season 6|sixth season]] episode "[[Battle of the Bastards (episode)|Battle of the Bastards]]".<ref name="WOTWFeb2">[http://watchersonthewall.com/season-6-casting-update/ Watchers on the Wall — Season 6 Casting Update!]</ref>
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 6|||||||||yes}}
+
+==See also==
+*{{IMDb
+|# = 2056978}}
+*{{Vimeo
+|# = 147139025}}
+
+==References==
+{{Reflist}}{{DEFAULTSORT:Tankersley, Mark}}
+[[Category:Guest starring cast members of Game of Thrones]]

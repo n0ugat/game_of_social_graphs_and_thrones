@@ -1,0 +1,73 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Leftimage  = Mors Martell.svg
+| Leftlink   = House Martell
+| Rightimage = House Martell.svg
+| Rightlink  = House Martell
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Martell
+| Image       = Mors Martell.png
+| Birth       = 
+| Death       = 
+| House       = [[House Martell|Martell]]{{Ref|H&L401}}
+| Affiliation = 
+| Titles      = [[Prince of Dorne]]{{Ref|H&L509}}
+| AKA         = 
+| Culture     = [[Dornishmen|Dornish]]{{Ref|H&L401}}
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = {[[Nymeria]]}{{Ref|H&L401}}
+| Lovers      = 
+| Issue       = {[[Nymeria's daughter|Daughter]]}{{Ref|H&L509}}
+| Siblings    = 
+| Arms        = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|My ancestor, Mors Martell, saw her and desired her. And proved that where armies failed, a tongue may succeed. Wedding his strength to hers, his spear to her sun, they subdued all his rivals together. After the tradition of her people, House Martell then ruled Dorne as princes, not kings.|[[Oberyn Martell]]|House Martell (short)}}
+'''Mors Martell''' was the head of [[House Martell]] when the [[Rhoynar]] people, led by [[Nymeria]], landed in [[Dorne]] a thousand years ago.
+
+==Biography==
+Mors Martell was one of the many nobles who vied for supremacy over the rest of the lords of Dorne. According to tradition, he fell in love with Princess [[Nymeria]], the [[Rhoynar]] warrior-queen, the first time he saw her. The two married and joined their strengths, thus allowing House Martell to defeat all rival houses and [[Nymeria's War|unify Dorne]] under their rule. In the Rhoynish fashion, House Martell adopted the title of "Prince" as well as equal rights of primogeniture, regardless of gender.{{Ref|H&L401}} After Mors was killed in battle, Nymeria took over command of his armies and ruled alone for many years.{{Ref|H&L509}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Mors Martell's history is the same. In ''The World of Ice and Fire'' book it is revealed that Mors bore the title "Lord of the Sandship" - the seat of House Martell that would become Sunspear - and died in the Third Battle of the Boneway, slain by King Yorick V Yronwood, though Nymeria completed the conquest of Dorne, dubbed by historians as "Nymeria's War", and passed the crown to [[Nymeria's daughter|her daughter by Mors]]. After his death, House Martell became House Nymeros Martell, "Nymeros" meaning "of Nymeria".
+
+==Appearances==
+*{{H&L|House Martell}} {{Illustrated}}
+*{{H&L|Dorne}} {{Illustrated}}
+*{{HOTD|The Heirs of the Dragon}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Martell}}
+
+<!--Categories-->
+{{DEFAULTSORT:Martell, Mors}}
+[[Category:Dornishmen]]
+[[Category:House founders]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Individuals mentioned in House of the Dragon]]
+[[Category:Lords]]
+[[Category:Members of House Martell|Mors Martell]]
+[[Category:Princes of Dorne|Mors Martell]]
+
+<!--Languages-->
+[[de:Mors Martell]]
+[[pl:Mors Martell]]
+[[pt-br:Mors Martell]]
+[[ru:Морс Мартелл]]
+[[zh:莫尔斯·马泰尔]]

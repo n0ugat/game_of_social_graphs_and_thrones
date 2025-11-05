@@ -1,0 +1,60 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Heraldry
+| Image = Unknown.svg
+| Link  = 
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Arryn
+| Image       = Lynderly.jpg
+| Birth       = At [[Snakewood]]
+| Death       = 
+| House       = 
+| Affiliation = [[House Arryn]]
+| Titles      = [[Knighthood|Ser]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Vale of Arryn|Valemen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 1|1]]
+| Appearances = "[[A Golden Crown]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Patrick Rocks]]
+}}
+{{Quote|My lady, I beg the honor. Let me be your champion.|The knight to [[Lysa Arryn]]|A Golden Crown}}
+A '''knight of House Lynderly''' was at court in the [[Eyrie]] in [[298 AC]].
+
+==Biography==
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+The knight is present when [[Tyrion Lannister|Tyrion]] demands a [[First trial by combat of Tyrion Lannister|trial by combat]] for the charges of murdering [[Jon Arryn]] and conspiring to murder [[Bran Stark]]. He's the first to offer himself as the champion for [[Lysa Arryn]], followed by [[Eon Hunter]] and other men. However, Lysa chooses Ser [[Vardis Egen]] as her champion.{{Ref|GOT106}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, a member of House Lynderly of Snakewood is the first to offer himself as Lysa Tully's champion; Tyrion, however, doesn't recognize the Lynderly's identity, thus it is unclear whether he is Jon Lynderly, Lymond Lynderly, or someone else that hasn't been named.
+
+==Appearances==
+*{{GOT|A Golden Crown}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Knights]]
+[[Category:Nobles]]
+[[Category:Valemen]]
+
+<!--Languages-->
+[[de:Leiherlich-Ritter]]
+[[fr:Jon Lynderly]]
+[[ru:Рыцарь из дома Линдерли]]

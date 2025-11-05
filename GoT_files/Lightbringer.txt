@@ -1,0 +1,53 @@
+{{Canonicity|Canon}}
+{{Object
+| Title    = {{PAGENAME}}
+| Type     = Light
+| Image    = Azor Ahai.jpg
+| Material = 
+| Maker    = {[[Azor Ahai]]}
+| Owner    = {Azor Ahai}
+| Status   = Unknown
+}}
+{{Quote|According to prophecy, our champion will be reborn to wake dragons from stone and reforge the great sword Lightbringer that defeated the darkness those thousands of years ago.|[[Thoros]]|Lord of Light (short)}}
+'''Lightbringer'''{{Ref|GOT201}} is the legendary sword of [[Azor Ahai]]. According to prophecy, Lightbringer would be pulled from fire by the Lord's Chosen, the [[Prince That Was Promised]], champion of the [[Lord of Light]].<ref name ="Lord of Light">"[[Lord of Light (short)|Lord of Light]]"</ref>
+
+==History==
+===Background===
+Legend has it that Azor Ahai forged Lightbringer with the lifeblood of his wife [[Nissa Nissa]].<ref name="Lord of Light" />
+
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+At a ceremony on [[Dragonstone (island)|Dragonstone]], [[Melisandre]] claims to have found Azor Ahai reborn in [[Stannis Baratheon]]. She also claims that a sword he pulls from a burning statue of one of the [[Seven]] is Lightbringer.<ref name="TNR">"[[The North Remembers]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Lightbringer is a sword of legend, forged and wielded by Azor Ahai, chosen by the Lord of Light to fight the darkness. The sword was said to glow and radiate heat, burning whoever touches it.
+
+As in the TV series, Melisandre enchants Stannis's sword and dubs it Lightbringer, as she believes him to be Azor Ahai reborn. However, Melisandre is apparently unable to get the sword to radiate heat, and it only gives off bright light. Thus there is a discrepancy between the "Lightbringer" of legend, and Stannis's sword "Lightbringer", named after the original.
+
+In ''A Clash of Kings'', [[Renly Baratheon]] and [[Salladhor Saan]] do not believe that Stannis's sword is the legendary Lightbringer, though they don't delve deep into prophecy with their reasoning.
+
+In ''A Storm of Swords'', Maester Aemon asks Stannis to see the sword. Stannis cannot understand how a blind man can see his sword, but shows it to him. Sam describes the sword in details to Aemon: "It glows as if it were on fire. There are no flames, but the steel is yellow and red and orange, all flashing and glimmering, like sunshine on water, but prettier. I wish you could see it, Maester". While they are walking away, Aemon seems to be deep in thought. He asks Sam whether he felt any heat from the sword. Sam admits he saw lights, but did not feel any heat. Aemon does not reveal the purpose of his question (perhaps it is ironic that a blind man noticed what others with eyesight did not).
+
+In ''A Feast for Crows'', Aemon reveals to Sam what he perceived: the sword is not the real Lightbringer, since the real Lightbringer is supposed to radiate heat, and Stannis is not Azor Ahai. He claims that Melisandre has misread the signs, and [[Daenerys Targaryen|Daenerys]] is the one whom the prophecy is about.
+
+After reading about Azor Ahai in the book the ''[[Jade Compendium]]'', Jon reaches the same conclusion as Aemon - that Stannis's sword is not the real Lightbringer. He comments "I’ll be curious to see how ''his'' Lightbringer behaves in battle".
+
+In the [[Bastard Letter|taunting letter]] that Ramsay sends Jon, he claims that he destroyed Stannis and his host, and has possession of his magic sword. It is unknown if Ramsay indeed has Lightbringer, since there are reasons to believe the rest of the letter's contents are false.
+
+It is unknown whether the real Lightbringer is just a legend or if actually exists, and if it does, what happened to it. There are fan theories that it is not an actual sword but a metaphor; it can be even a person.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+[[Category:Lord of Light]]
+[[Category:Swords]]
+
+<!--Languages-->
+[[de:Lichtbringer]]
+[[fr:Illumination]]
+[[ru:Светозарный]]
+[[uk:Світосяйний]]
+[[zh:光明使者]]

@@ -1,0 +1,44 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Miltos-Yerolemou-200.jpg
+| Birth   = 
+| Death   = 
+| Role    = [[Syrio Forel]]
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 1|1]]
+| Credits = 3 episodes {{Below|Credits}}
+| First   = "[[Lord Snow]]"
+| Last    = "[[The Pointy End]]"
+}}
+'''Miltos Yerolemou''' is an actor. He is a Greek Cypriot based in London.<ref name="Interview of Miltos Yerolemou"> [http://mywalkoffame.wordpress.com/2013/05/10/conversation-with-miltos-yerolemou/ Conversation with Miltos Yerolemou]</ref> He has a number of theatrical and television appearances to his name, most notably in the British comedy series ''[[wikipedia:Absolutely Fabulous|Absolutely Fabulous]]'', ''[[wikipedia:Black Books|Black Books]]'' and ''[[wikipedia:My Family|My Family]]''.
+
+In ''[[Game of Thrones]]'' Yerolemou played [[Syrio Forel]]. He confirmed he had been cast in the role via Twitter on 6 July 2010. He portrays this character with an accent "a little Greek, a little Italian and a little Spanish, and then pushed it East into Persia".<ref name="Interview of Miltos Yerolemou"/>
+
+==Filmography==
+*Middleton's Changeling - Asylum Inmate (1998)
+*The Winter's Tale - Footman (1999)
+*Hububb - Mikey (1997-2003)
+*Revealed - Actor (2008)
+*Game of Thrones - [[Syrio Forel]] (2011)
+*[[Wikipedia:Star Wars: Episode VII|Star Wars: Episode VII]] - Bar Patron (2015)<ref>[http://www.bbc.com/news/entertainment-arts-29019238 BBC]</ref>
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 1|||yes|||yes||yes}}
+
+==References==
+{{Reflist}}
+
+==See also==
+* [http://www.spotlight.com/interactive/cv/949634927877 Miltos Yerolemou's entry at Spotlight.]
+*{{Template:IMDb
+|# = 1115654}}
+*{{Template:Twitter
+|# = MiltosYerolemou}}
+
+[[de:Miltos Yerolemou]]
+[[fr:Miltos Yerolemou]]
+[[ru:Милтос Еролиму]]
+{{DEFAULTSORT:Yerolemou, Miltos}}
+[[Category:Guest starring cast members of Game of Thrones]]

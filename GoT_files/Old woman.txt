@@ -1,0 +1,69 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Stark
+| Image       = Old Lady at Winterfell.jpg
+| Birth       = 
+| Death       = [[302 AC]]{{Dateref|Game of Thrones: Season 5}}<br>[[Winterfell]], the [[North]]{{Ref|GOT507}}
+| House       = 
+| Affiliation = [[House Bolton]]<br>[[House Stark]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Northmen|Northern]]
+| Religion    = [[Old Gods]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 5|5]]
+| Appearances = 3 episodes {{Below|Appearances}}
+| First       = "[[High Sparrow (episode)|High Sparrow]]"
+| Last        = "[[The Gift]]" {{Corpse}}
+| DeathEp     = "The Gift" {{C|fate confirmed}}
+| Actor       = [[Stella McCusker]]
+}}
+{{Quote|Welcome home, Lady Stark. The North remembers.|Old woman|High Sparrow (episode)}}
+This '''old woman''' was a serving woman in the employ of [[House Bolton]] at [[Winterfell]].
+
+==Biography==
+===Background===
+She is among the lowborn people gathered to rebuild [[Winterfell]].{{Ref|GOT503}}
+
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+She greets [[Sansa Stark]] after she is taken to Winterfell for her impending marriage to [[Ramsay Bolton]]. She warmly tells her that "the [[North]] remembers".{{Ref|GOT503}}
+
+Later, the women enters Sansa's chamber under the pretext of housekeeping, and tells her that she still has friends in the North. Should Sansa ever be in danger, she need only light a candle in the window of the Broken Tower.{{Ref|GOT505}}
+
+Later, Sansa urges [[Theon Greyjoy]] to help her escape Winterfell by lighting a candle as the old woman had told her to. Theon instead goes to Ramsay and confesses Sansa's request. Ramsay crucifies and flays the woman for her part in aiding Sansa. Ramsay mentions that her heart gave out before he had the chance to flay her face.{{Ref|GOT507}}
+
+==In the books==
+In the novels there is no equivalent scene or character. However, the phrase "the North remembers" is common among certain Northern nobles (among them Lord [[Wyman Manderly]]), who were left reeling by the betrayals House Stark and the North suffered, even those who felt slighted by the Starks ([[Barbrey Dustin|Lady Dustin]]) or have allied with the Boltons resent [[House Frey]] for the relatives and men lost at the [[Red Wedding]]. In the novels, the level of involvement of the Boltons in the Red Wedding is not common knowledge, though it is suspected by several prominent characters.
+
+None of the servants in Winterfell offered to help Jeyne Poole (who was replaced in the show by Sansa), either because they did not care or were too afraid of the Boltons. Few of them even ''were'' direct members of the Stark household - Ramsay killed most of them when he burned Winterfell originally, except for a few women he took back as prisoners to the [[Dreadfort]].
+
+==Appearances==
+*{{GOT|High Sparrow}}
+*{{GOT|Kill the Boy}}
+*{{GOT|The Gift}} {{Corpse}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Northmen]]
+[[Category:Servants and retainers of House Bolton]]
+[[Category:Servants and retainers of House Stark]]
+[[Category:Smallfolk]]
+
+<!--Languages-->
+[[ru:Прислуга (Его Воробейшество)]]

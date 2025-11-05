@@ -1,0 +1,32 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Tully
+| Image        = 
+| Type         = Keep
+| Status       = 
+| Location     = [[Riverlands]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Lychester'''{{Ref|THTDB201}} is a keep in the [[Riverlands]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the seat of House Lychester is unnamed. It is a small square keep that has fallen into disrepair.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Lord Lychester's keep}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{Riverlands}}
+
+<!--Categories-->
+[[Category:Castles of the Riverlands]]

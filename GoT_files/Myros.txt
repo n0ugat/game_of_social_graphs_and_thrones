@@ -1,0 +1,65 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = Order of Maesters.svg
+| Link  = Order of Maesters
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Citadel
+| Image       = Myros.png
+| Birth       = 
+| Death       = [[Execution|Beheaded]] by [[Maegor Targaryen]]
+| House       = 
+| Affiliation = [[Order of Maesters]]<br>[[House Targaryen]]
+| Titles      = 
+| Predecessor = {[[Gawen]]}
+| Successor   = {[[Desmond]]}
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|The next Grand Maester dared object to Maegor taking a third wife when taking his second wife had ruined his brother's reign because Maegor's first wife was the niece of the High Septon. But Maegor beheaded the Grand Maester and declared war on the Faith.|[[Varys]]|Maegor the Cruel (short)}}
+'''Myros'''{{Con|F&B}} was [[Grand Maester]] during the reign of [[Maegor Targaryen|Maegor the Cruel]]. He was the second of three Grand Maesters [[Execution|executed]] by Maegor.
+
+==Biography==
+Myros was beheaded by King Maegor for [[treason]], having objected to the king's decision to [[Marriage|marry]] [[Tyanna of the Tower]] after the chaos marrying [[Alys Harroway]] caused.{{Ref|H&L806}}
+
+==In the books==
+In ''Fire & Blood'', Myros spoke against King Maegor's marriage to Tyanna of the Tower, calling [[Ceryse Hightower]] his true wife. Maegor silently listened, then killed the maester where he stood with [[Blackfyre]].
+
+In ''A Storm of Swords'', [[Tyrion Lannister|Tyrion]] mentions that Maegor the Cruel's headsman unmade three Grand Maesters with his axe (without mentioning their names). This is the only reference in the ''[[A Song of Ice and Fire]]'' novels to Myros, alongside [[Gawen]] and [[Desmond]].
+
+==Appearances==
+*{{H&L|Maegor the Cruel}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+[[Category:Grand Maesters]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Servants and retainers of House Targaryen]]
+[[Category:Westerosi]]
+
+<!--Languages-->
+[[ru:Мирос]]

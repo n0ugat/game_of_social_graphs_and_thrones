@@ -1,0 +1,27 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Leon Ockenden.jpg
+| Birth   = August 16, 1978 {{Age|1978|8|16}}<br>Looe, Cornwall, England
+| Death   = 
+| Role    = TBA
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]]
+| Credits = 
+| First   = 
+| Last    = 
+}}
+'''Leon Ockenden''' (born 16 August 1978) is an English actor, director, and writer.
+
+Ockenden plays a to-be-confirmed character in the [[House of the Dragon: Season 2|second season]] of ''[[House of the Dragon]]''.<ref>https://redanianintelligence.com/2023/07/10/report-a-month-of-house-of-the-dragon-filming-in-wales/</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{WP}}
+*{{IMDb|#=6654158}}
+
+<!--Categories-->
+{{DEFAULTSORT:Ockenden, Leon}}
+[[Category:Uncredited cast members of House of the Dragon]]

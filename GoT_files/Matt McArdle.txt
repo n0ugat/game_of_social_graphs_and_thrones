@@ -1,0 +1,30 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = 
+| Birth   = 
+| Death   = 
+| Role    = Sellsword
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 5|5]]
+| Credits = "[[High Sparrow (episode)|High Sparrow]]"
+| First   = 
+| Last    = 
+}}
+'''Matt McArdle''' is an actor. He has also appeared in the film ''Fifty Dead Men Walking'' and the television series ''Halo: Nightfall''.
+
+In ''[[Game of Thrones]]'', he portrayed a sellsword in the episode "[[High Sparrow (episode)|High Sparrow]]".
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 5|||yes}}
+
+==See also==
+*{{IMDb
+|# = 2701745}}
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:McArdle, Matt}}
+[[Category:Guest starring cast members of Game of Thrones]]

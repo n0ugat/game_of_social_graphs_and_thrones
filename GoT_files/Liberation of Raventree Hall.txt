@@ -1,0 +1,62 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Event
+| Title         = {{PAGENAME}}
+| Type          = Thrones
+| Part          = the [[War of the Five Kings]]
+| Image         = 
+| Previous      = [[Execution of Eddard Stark]]
+| Concurrent    = 
+| Next          = [[Liberation of Stone Hedge]]
+| Date          = [[299 AC]]{{Dateref|Game of Thrones: Season 2}}
+| Place         = [[Raventree Hall]], the [[Riverlands]]
+| Outcome       = *Stark victory
+*Raventree Hall restored to [[House Blackwood]]
+| Factions1     = [[File:House Stark.svg|30px|center|link=House Stark]] [[North|Kingdom of the North]]/[[House Stark]]<br><br>[[File:House Umber.svg|25px|center|link=House Umber]] [[House Umber]]<br><br>[[File:House Tully.svg|25px|center|link=House Tully]] [[House Tully]]<br><br>[[File:House Blackwood.svg|25px|center|link=House Blackwood]] [[House Blackwood]]
+| Factions2     = [[File:House Baratheon of King's Landing.svg|30px|center|link=House Baratheon of King's Landing]] '''[[Iron Throne]]'''/[[House Baratheon of King's Landing]]<br><br>
+[[File:House Lannister.svg|30px|center|link=House Lannister]] [[House Lannister]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = Lord [[Greatjon Umber]]
+| Leaders2      = Unknown
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = 
+| Participants2 = 
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = 
+| Casualties2   = 
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+The '''liberation of Raventree Hall''' is a military engagement in the [[War of the Five Kings]]. It is part of the Northern campaign to liberate the [[Riverlands]] from the [[House Lannister|Lannister]] occupation.{{Guideref|Retaking the Riverlands}}
+
+==History==
+Following the liberation of [[Riverrun]] at the [[Battle of the Camps]], [[Robb Stark|Robb]] tasks [[Greatjon Umber]] with the expulsion of Lannister forces from the lands of the Riverlords while he invades the [[Westerlands]]. Umber's first liberates [[Raventree Hall]], the ancestral seat of [[House Blackwood]], and then moves to [[Liberation of Stone Hedge|restore]] [[Stone Hedge]] to [[House Bracken]], thus forcing the Lannisters to fall back to [[Harrenhal]] and cutting them off from [[Casterly Rock]].{{Guideref|Retaking the Riverlands}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, after the liberation of Riverrun and his proclamation as [[King in the North]], Robb gives leave to the Riverlords to reclaim their seats. Lord Tytos Blackwood reclaims Raventree, though the Lannisters plunder his harvest and scorch the land as they flee.{{Bookref|ACOK|8}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{War of the Five Kings}}
+
+<!--Categories-->
+[[Category:299 AC]]
+[[Category:Battles]]
+[[Category:War of the Five Kings]]
+
+<!--Languages-->
+[[de:Befreiung von Burg Rabenbaum]]
+[[fr:Libération de Corneilla]]
+[[ru:Освобождение Воронодрева]]

@@ -1,0 +1,59 @@
+{{Canonicity|Non}}
+{{Heraldry
+| Image = House Greenleaf.svg
+| Link  = House Greenleaf
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Stark
+| Image       = Umber lineage.jpg
+| Birth       = 
+| Death       = 
+| House       = [[House Greenleaf|Greenleaf]]
+| Affiliation = [[House Umber]]
+| Titles      = Warden of [[Last Hearth]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Northmen|Northern]]
+| Religion    = [[Old Gods]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = {[[Marya Greenleaf]]}
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Mickon Greenleaf''' was the Warden of [[Last Hearth]], the seat of [[House Umber]], a little less than a century before the death of [[Robert Baratheon]]. His daughter, [[Marya Greenleaf]], married [[Finn Umber]].
+
+==Biography==
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+He is mentioned in his daughter's husband's entry in ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]''.{{Ref|GOT104}}
+
+==In the books==
+Mickon Greenleaf is referenced only in the TV adaptation of ''[[A Song of Ice and Fire]]'' and has no corresponding counterpart in the books.
+
+==Appearances==
+*{{GOT|Cripples, Bastards, and Broken Things}} {{Text}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+{{DEFAULTSORT:Greenleaf, Mickon}}
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Members of House Greenleaf|Mickon Greenleaf]]
+[[Category:Northmen]]
+[[Category:Servants and retainers of House Umber]]
+
+<!--Languages-->
+[[es:Mickon Greenleaf]]
+[[fr:Mickon Greenleaf]]
+[[ru:Микон Гринлиф]]

@@ -1,0 +1,98 @@
+{{Canonicity|Canon}}
+{{Spoiler|AKOTSK}}
+{{Heraldry
+| Leftimage  = House Targaryen.svg
+| Leftlink   = House Targaryen
+| Rightimage = Maekar Targaryen.svg
+| Rightlink  = Heraldry#Younger sons, variations, and personal sigils
+}}
+{{Character
+| Title       = Maekar Targaryen
+| Type        = Targaryen
+| Image       = 
+| Birth       = [[Red Keep]], [[King's Landing]]{{Con|AWOIAF}}
+| Death       = 
+| House       = [[House Targaryen|Targaryen]]{{Ref|GOT106}}
+| Affiliation = 
+| Titles      = [[Prince]]
+| AKA         = 
+| Culture     = [[Valyrians|Valyrian]]{{Ref|GOT106}}
+| Religion    = 
+| Father      = [[Daeron II Targaryen]]{{Ref|GOT106}}
+| Mother      = {[[Myriah Martell]]}{{Ref|GOT106}}
+| Spouse      = {[[Dyanna Dayne]]}{{Ref|GOT507}}
+| Lovers      = 
+| Issue       = [[Daeron Targaryen (son of Maekar)|Daeron Targaryen]]{{Con|D&EN}}<br>[[Aerion Targaryen]]{{Con|D&EN}}<br>[[Aemon|Aemon Targaryen]]{{Ref|GOT109}}<br>[[Aegon Targaryen (son of Maekar)|Aegon Targaryen]]{{Ref|GOT109}}
+| Siblings    =[[Baelor Targaryen]]<br>[[Aerys Targaryen (son of Daeron II)|Aerys Targaryen]]<br>[[Rhaegel Targaryen]] 
+| Arms        = Black, a red three-headed dragon quartered{{Ref|H&L416}}
+| Series      = ''[[A Knight of the Seven Kingdoms]]''
+| Season      = [[A Knight of the Seven Kingdoms: Season 1|1]]
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Sam Spruell]]{{Webref|name=FirstLook |author=Nick Romano |date=June 18, 2024 |url=https://ew.com/game-of-thrones-a-knight-of-the-seven-kingdoms-first-look-cast-confirmed-8665658 |title=''Game of Thrones'' spinoff unveils its Hedge Knight in first look at ''A Knight of the Seven Kingdoms'' |website=Entertainment Weekly |access-date=June 18, 2024}}
+}}
+Prince '''Maekar Targaryen''' is a [[prince]] of the [[House Targaryen|Targaryen dynasty]].
+
+==Biography==
+Maekar is the fourth son of King [[Daeron II Targaryen]] and Queen [[Myriah Martell]]. His siblings are [[Baelor Targaryen|Baelor]], [[Aerys Targaryen (son of Daeron II)|Aerys]], and [[Rhaegel Targaryen|Rhaegel]].{{Cite}} Being a fourth son, he took for his personal sigil the Targaryen dragon quartered.{{Ref|H&L416}}
+
+He wed [[Dyanna Dayne|Dyanna]] of [[House Dayne]], with whom he has four sons: [[Daeron Targaryen (son of Maekar)|Daeron]], [[Aerion Targaryen|Aerion]], [[Aemon]], and [[Aegon Targaryen (son of Maekar)|Aegon]].{{Ref|GOT109}}
+
+==Family==
+{{Targaryen tree (A Knight of the Seven Kingdoms)}}
+
+==In the books==
+[[File:Roman Papsuev - Maekar I Targaryen.jpg|thumb|300px|right|Maekar Targaryen by Roman "Amok" Papsuev.©]]
+In the [[Dunk & Egg novellas]], Maekar Targaryen is the Prince of [[Summerhall]], the summer palace of House Targaryen in the [[stormlands]]. He is powerfully built, with straight hair and square-cut beard, both a very pale silver (almost white) with a hint of gold. His cheeks are marred by pox scars.
+
+Maekar is prickly, impatient, and brooding, quick to judge and condemn. He is uncharismatic and does not make friends and allies easily. In this respect he is not unlike his descendant [[Stannis Baratheon]].
+
+Maekar fought against [[Daemon Blackfyre]] in the [[Blackfyre Rebellion]]. He and his brother [[Baelor Targaryen|Baelor]] are famed for the "hammer and anvil" tactic they used to win the [[Battle of the Redgrass Field]]. Even so, Maekar feels unappreciated for his part in the victory.
+
+Aside from his four sons, he has two daughters named Rhae and Daella.
+
+==Appearances==
+*{{GOT|Cripples, Bastards, and Broken Things}} {{Text}}
+*{{GOT|A Golden Crown}} {{Text}}
+*{{GOT|Baelor}} {{Mentioned}}
+*{{H&L|Robert's Rebellion - Petyr Baelish and Varys}} {{Illustrated}}
+*{{H&L|Justice of the Seven Kingdoms}} {{Illustrated}}
+
+===Forthcoming===
+{{Collapse|
+*{{AKOTSK|Season 1}}{{Webref|name=GRRMegg |author=George R.R. Martin |date=May 21, 2024 |url=https://georgerrmartin.com/notablog/2024/05/21/heres-egg/ |title=Here's Egg! |website=Not a Blog |access-date=May 21, 2024 }} {{Unreleased}}
+}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|Maekar I Targaryen|Maekar Targaryen}} {{Spoilers|AKOTSK}}
+
+<!--Navboxes-->
+{{House Targaryen/A Knight of the Seven Kingdoms}}
+{{A Knight of the Seven Kingdoms}}
+
+<!--Categories-->
+{{DEFAULTSORT:Targaryen, Maekar}}
+[[Category:Crownlanders]]
+[[Category:Individuals appearing in A Knight of the Seven Kingdoms]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Members of House Targaryen|Maekar Targaryen]]
+
+<!--Languages-->
+[[de:Maekar I. Targaryen]]
+[[es:Maekar I Targaryen]]
+[[fr:Maekar Targaryen]]
+[[nl:Maekar I Targaryen]]
+[[pl:Maekar I Targaryen]]
+[[pt-br:Maekar I Targaryen]]
+[[ru:Мейкар Таргариен]]
+[[uk:Мейкар Тарґеріен]]
+[[zh:梅卡·坦格利安一世]]

@@ -1,0 +1,73 @@
+{{Canonicity|Non}}
+{{Heraldry
+| Leftimage  = House Umber.svg
+| Leftlink   = House Umber
+| Rightimage = Night's Watch.svg
+| Rightlink  = Night's Watch
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = Umber lineage.jpg
+| Birth       = [[190 AC]]{{Dateref|Mycah Umber}} at [[Last Hearth]]
+| Death       = [[225 AC]]{{Dateref|Mycah Umber death}} (aged 35) near [[Castle Black]]<br>Killed in a skirmish with outlaw tribes
+| House       = [[House Umber|Umber]]
+| Affiliation = [[Night's Watch]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Northmen|Northern]]
+| Religion    = [[Old Gods]]
+| Father      = {[[Hothor Umber]]}
+| Mother      = {[[Amarylis Umber|Amarylis Manderly]]}
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = {[[Harkon Umber]]}<br>{[[Lucan Umber]]}<br>{[[Gareth Umber]]}<br>{[[Joseth Umber]]}<br>{[[Regan Karstark]]}<br>{[[Corin Umber]]}
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Mycah Umber''' was a member of [[House Umber]].
+
+==Biography==
+===Background===
+Mycah Umber was the second born son of Lord [[Hothor Umber]] and his wife, Lady [[Amarylis Umber]]. He swore himself to the brotherhood of the [[Night's Watch]] at the age of twenty, but died fifteen years later north of [[Castle Black]] in a skirmish with outlaw tribes.{{Ref|GOT104}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+He has an entry in ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]''.{{Ref|GOT104}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no such character.
+
+==Appearances==
+*{{GOT|Cripples, Bastards, and Broken Things}} {{Text}}
+*{{GOT|A Golden Crown}} {{Text}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{House Umber}}
+{{Night's Watch}}
+
+<!--Categories-->
+{{DEFAULTSORT:Umber, Mycah}}
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Members of House Umber|Mycah Umber]]
+[[Category:Men of the Night's Watch]]
+[[Category:Northmen]]
+
+<!--Languages-->
+[[de:Mycah Umber]]
+[[es:Mycah Umber]]
+[[fr:Mycah Omble]]
+[[ru:Мика Амбер]]

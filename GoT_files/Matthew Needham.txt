@@ -1,0 +1,43 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Matthew Needham.jpg
+| Birth   = Matthew George Timothy Needham<br>April 13, 1984 {{Age|1984|4|13}}<br>Kingston upon Thames, Greater London, England
+| Death   = 
+| Role    = [[Larys Strong]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]] {{*}} [[House of the Dragon: Season 2|2]] {{*}} [[House of the Dragon: Season 3|3]]
+| Credits = 14 episodes {{Below|Credits}}
+| First   = "[[Second of His Name]]"
+| Last    = 
+}}
+'''Matthew George Timothy Needham''' (born 13 April 1984) is an English actor. He has appeared in the films ''{{WPS|The Ritual (2017 film)|The Ritual}}'' and ''{{WPS|Napoleon (2023 film)|Napoleon}}'' and television series such as ''{{WPS|Casualty (TV series)|Casualty}}'', ''{{WPS|Sherlock (TV series)|Sherlock}}'', ''{{WPS|The Hollow Crown (TV series)|The Hollow Crown}}'', ''{{WPS|Doctors (2000 TV series)|Doctors}}'' and ''{{WPS|Chernobyl (miniseries)|Chernobyl}}''. He also played the lead role in the {{WPS|Academy Award}}-winning short film ''{{WPS|Stutterer (film)|Stutterer}}''.
+
+He portrays [[Larys Strong]] in ''[[House of the Dragon]]''.<ref name="HBO">[https://www.hbo.com/house-of-the-dragon House of the Dragon: The Game of Thrones Prequel (hbo.com)]</ref>
+
+==Credits==
+===Starring===
+{{House of the Dragon: Season 1|||yes||yes|yes|yes||yes}}
+{{House of the Dragon: Season 2|yes|yes|yes|yes|yes|yes|yes|yes}}
+{{House of the Dragon: Season 3||||yes}}
+
+==See also==
+*{{WP}}
+*{{IMDb|# = 2765916}}
+*{{Twitter|# = mrmattneedham}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House of the Dragon}}
+{{House of the Dragon: Inside the Episode}}
+
+<!--Categories-->
+{{DEFAULTSORT:Needham, Matthew}}
+[[Category:Commentators of House of the Dragon: Inside the Episode]]
+[[Category:Starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[de:Matthew Needham]]
+[[fr:Matthew Needham]]

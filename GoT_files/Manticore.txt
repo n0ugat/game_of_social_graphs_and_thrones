@@ -1,0 +1,69 @@
+{{Canonicity|Canon}}
+{{Species
+| Title   = {{PAGENAME}}
+| Theme   = Westeros
+| Image   = Manticore.jpg
+| Type    = Insect
+| Status  = Active
+| Diet    = Carnivore
+| Habitat = Jungles
+| Range   = Imported into menageries across both Essos and Westeros
+| Origin  = Tropical islands in the [[Jade Sea]], [[Essos]], [[Mantarys]]
+}}
+{{Quote|The cause appears to be manticore venom...horrible poison...|Grand Maester [[Pycelle]]|The Children}}
+'''Manticores'''{{Ref|GOT410}} are highly aggressive and extremely venomous scorpion-like insects from the continent of [[Essos]].
+
+==Range==
+Manticores originate from several tropical islands in the [[Jade Sea]], in the distant east beyond [[Qarth]].
+
+Manticore venom is one of the deadliest known [[poison]]s and as a result manticores have been imported into the collections of assassins and alchemists across the world. The city of [[Mantarys]], east of the Free Cities and west of Slaver's Bay, is particularly noted as a producer of extracted manticore venom.<ref name=":0">"[[The Children]]"</ref>
+
+==Biology==
+Manticores are physically similar to scorpions, but they lack pincers and can grow almost as large as a lobster. They possess six legs and a larger stinger-tail, which curves up over the body and hangs over the head. They have a series of threatening looking spines on each body segment, running up the sides of the body and tail. They are mostly green in color, with an iridescent sheen.<ref name=":1">"[[Valar Dohaeris]]"</ref>
+
+Their most recognizable features are the designs on the plates of their bodies, particularly the marking on the final plate of their tails which resembles a human face. Because of this design they are also sometimes referred to as the "Death's Head Manticore".<ref name=":0" />
+
+Manticore venom is extremely lethal, and even a single sting is usually more than enough to kill a person. Extracted manticore venom is one of the most potent [[Poison|poisons]] used by the world's assassins: one usage is to coat bladed weapons with it so that even a single scratch will kill.<ref name=":0" />
+
+==History==
+===[[Game of Thrones: Season 3|''Game of Thrones'': Season 3]]===
+An [[Warlock (Valar Dohaeris)|agent]] of the [[Warlocks]] of [[Qarth]] attempts to assassinate [[Daenerys Targaryen|Daenerys]] using a manticore hidden inside a hollow wooden sphere. Before the creature can harm Daenerys with its lethal sting, Ser [[Barristan Selmy]] impales it with a dagger, killing it.<ref name=":1" />
+
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+[[Pycelle]] and [[Qyburn]] assess that [[Oberyn Martell]] coated his spear with manticore venom prior to his [[Second trial by combat of Tyrion Lannister|duel]] with [[Gregor Clegane|the Mountain]]. While Gregor won the duel by crushing Oberyn's head in, the poisoned wounds he took left him in agony, and he is now comatose. The effects of the poison are horrific, making the flesh around Gregor's wounds putrefy, which produces an overpowering stench. Pycelle regretfully tells [[Cersei Lannister|Cersei]] that Ser Gregor is beyond any hope of healing, but Qyburn insists that he can use the knowledge he has gained from unethical human experimentation to save Gregor's life. Cersei gives him permission to proceed, though he warns that the process will "change" Gregor.<ref name=":0" />
+
+==Gallery==
+<gallery spacing="small" widths="170">
+Barristan Manticore S3 Ep1.jpg|[[Barristan Selmy]] kills a manticore.
+Oberyn selects manticores for his spears.png|[[Oberyn Martell|Oberyn]] selects a manticore from his collection, to coat the blade of his spears with its venom (from "[[Poisons]]".
+Daemon spear.png|Oberyn Martell's squire, Ser [[Daemon Sand]], smearing the blades of his spears with manticore venom. 
+Manticore venom.png|[[Gregor Clegane]]'s putrefying wounds, the result of being poisoned with manticore venom.
+Manticore Concept Art.jpg|Manticore concept art.
+</gallery>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, manticores are venomous insects from Essos, said to live on the jungle-filled islands of the [[Jade Sea]], between [[Qarth]] and distant [[Asshai]]. They have a venomous sting that is fatal to humans and kills the instant it reaches the heart unless a clotting agent is used to thicken it and delay its fatal effects. Manticore venom is one of the deadliest poisons in the known world, and is highly sought after by alchemists, [[Order of Maesters|maesters]], and (most of all) assassins. Thus the insects have been imported into private collections across Essos and Westeros: [[Syrio Forel]] mentions that he saw one in a menagerie of exotic animals in [[Braavos]], and Daenerys sees a caged manticore in the market stalls of [[Vaes Dothrak]].
+
+When treating Gregor Clegane, Qyburn theorizes that Oberyn used his extensive knowledge of poisons to add a clotting agent to the manticore venom he coated his spear with, thickening it in order to slow its progress through the veins towards the heart, dragging out Gregor's agony. This also explains why Oberyn didn't finish off Gregor when he had the chance: he never intended to give him the mercy of a quick death.
+
+Within the cultures of Westeros and Essos, the legendary manticore (after which the insect takes its name) is a chimeric creature with a human head, a lion's body, and a scorpion's tail. [[Dragonstone]] is adorned with gargoyles in the shape of manticores. A manticore is also the sigil of [[House Lorch]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+*{{WP}}
+
+<!--Navboxes-->
+{{Animals and plants}}
+
+<!--Categories-->
+[[Category:Animals]]
+
+<!--Languages-->
+[[de:Mantikor]]
+[[fr:Manticore]]
+[[pt-br:Manticoras]]
+[[ru:Мантикоры]]
+[[zh:蝎尾兽]]

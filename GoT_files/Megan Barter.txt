@@ -1,0 +1,29 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Megan Barter.jpg
+| Birth   = Megan-Rose Barter
+| Death   = 
+| Role    = [[Floris Baratheon]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = "[[The Black Queen]]"
+| First   = 
+| Last    = 
+}}
+'''Megan-Rose Barter''' is an actress.
+
+In ''[[House of the Dragon]]'', she portrayed [[Floris Baratheon]] in "[[The Black Queen]]".
+
+==See also==
+*{{IMDb|#=13281352}}
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Barter, Megan}}
+[[Category:Uncredited cast members of House of the Dragon]]
+
+<!--Languages-->
+[[de:Megan-Rose Barter]]
+[[fr:Megan-Rose Barter]]

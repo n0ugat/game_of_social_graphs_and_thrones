@@ -1,0 +1,23 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Louis McCartney.jpg
+| Birth   = 
+| Death   = 
+| Role    = King's Landing citizen
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 8|8]]
+| Credits = "[[The Bells]]"
+| First   = 
+| Last    = 
+}}
+'''Louis McCartney''' is an actor.
+
+In ''[[Game of Thrones]]'', he portrayed a King's Landing Citizen in the [[Game of Thrones: Season 8|eighth season]] episode "[[The Bells]]".
+
+==Credits==
+{{Game of Thrones: Season 8|||||yes}}
+
+==References==
+{{Reflist}}{{DEFAULTSORT:McCartney, Louis}}
+[[Category:Guest starring cast members of Game of Thrones]]

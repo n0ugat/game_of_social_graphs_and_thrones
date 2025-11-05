@@ -1,0 +1,20 @@
+{{Crew
+|Image = Martin 'Mato' Uhrovcik.jpg
+|dateofbirth = 
+|birthplace = 
+|job = Stunt Performer
+|imdb = http://www.imdb.com/name/nm0880258
+|twitter = }}
+'''Martin 'Mato' Uhrovcik''' is a stuntman.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 1|first season]] episodes "[[The Wolf and the Lion]]" and "[[The Pointy End]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 1|||||yes|||yes}}
+
+==See also==
+*{{IMDb
+|# = 0880258}}
+{{DEFAULTSORT:Uhrovcik, Martin 'Mato'}}
+[[Category:Stunt performers of Game of Thrones]]

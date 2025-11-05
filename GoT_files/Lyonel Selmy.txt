@@ -1,0 +1,63 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Selmy.svg
+| Link  = House Selmy
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Baratheon
+| Image       = 
+| Birth       = At [[Harvest Hall]]
+| Death       = 
+| House       = [[House Selmy|Selmy]]
+| Affiliation = [[House Baratheon]]
+| Titles      = [[Knighthood|Ser]]<br>Knight of Harvest Hall
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Andals|Andal]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = {[[Barristan Selmy]]}
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+Ser '''Lyonel Selmy''' was the head of [[House Selmy]]. He was the father of Ser [[Barristan Selmy]].
+
+==Biography==
+===[[Game of Thrones: Season 8|''Game of Thrones'': Season 8]]===
+Ser Lyonel is mentioned in Barristan Selmy's entry in the ''[[Book of Brothers]]''.{{Ref|GOT806}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Lyonel's story is the same.
+
+==Appearances==
+*{{GOT|The Iron Throne}} {{Text}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+{{DEFAULTSORT:Selmy, Lyonel}}
+[[Category:Bannermen of House Baratheon]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Knights]]
+[[Category:Members of House Selmy|Lyonel Selmy]]
+[[Category:Stormlanders]]
+
+<!--Languages-->
+[[fr:Lyonel Selmy]]
+[[pl:Lyonel Selmy]]
+[[ru:Лионель Селми]]

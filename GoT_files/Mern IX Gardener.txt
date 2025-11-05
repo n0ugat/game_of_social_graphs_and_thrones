@@ -1,0 +1,83 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Gardener.svg
+| Link  = House Gardener
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Gardener
+| Image       = Mern IX Gardener.png
+| Birth       = At [[Highgarden]]
+| Death       = [[2-1 BC]]{{Dateref|Aegon's Conquest}} in the northern [[Reach]]<br>Burned alive by [[Balerion]], [[Meraxes]], and [[Vhagar]] on the [[Field of Fire]]
+| House       = [[House Gardener|Gardener]]
+| Affiliation = 
+| Titles      = [[King of the Reach]]
+| Predecessor = 
+| Successor   = {[[Harlen Tyrell]]} {{C|ruler of the Reach}}
+| AKA         = 
+| Culture     = [[Andals|Andal]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|King Mern allied us with the Rock to repel the upstart's army. One can only marvel that King Mern did not reconsider when he saw the living dragons against him. Perhaps he should've sought counsel from his trusted stewards before he set out. Then again... perhaps he did.|[[Margaery Tyrell]]|House Tyrell (short)}}
+King '''Mern IX Gardener''' was the last of the [[House Gardener|Gardener]] [[King of the Reach|Kings]] of the [[Reach]]. When [[Aegon I Targaryen|Aegon the Conqueror]] [[Aegon's Conquest|invaded]] [[Westeros]], King Mern joined forces with [[Loren I Lannister]], the [[King of the Rock]], to face Aegon in battle. Their armies met at the [[Field of Fire]], during which Mern himself was killed, and his [[Reach|kingdom]] fell to Aegon.
+
+==Biography==
+[[File:MernCorpse.jpg|thumb|left|Mern IX and his sons were burned alive at the Field of Fire. House Gardener died with them.]]
+At first the united armies of Loren I Lannister and Mern IX Gardener seemed to be winning, pushing back Aegon's troops. However, once Aegon unleashed his three [[dragon]]s - [[Vhagar]], [[Meraxes]], and [[Balerion]] the Black Dread - even the combined might of the Kingdoms of the Reach and the Rock could not stand up to them. Four thousand men perished, consumed by the dragons' fire, earning the site of the battle the name of 'the [[Field of Fire]].' Among the dead were King Mern IX himself and all of his sons; thus the Gardener dynasty became extinct. Mern IX's [[steward]], [[Harlen Tyrell]], surrendered Highgarden to Aegon and was named [[Lord Paramount of the Reach]], [[Lord of Highgarden]], and [[Warden of the South]].{{Ref|H&L109}}{{Ref|H&L123}}{{Ref|H&L208}}
+
+It is possible that King Mern IX wasn't inclined to a war initially, since it would have likely been a sure defeat, but it has been suggested that Lord Harlen Tyrell had suggested that to King Mern IX that going to war to not appear weak and cowardly, with the intention of claiming the Reach for himself.{{Ref|H&L312}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Mern's story is the same.
+
+==Appearances==
+*{{H&L|The Field of Fire - House Targaryen}} {{Illustrated}}
+*{{H&L|The Field of Fire - House Stark}} {{Illustrated}}
+*{{H&L|House Lannister}} {{Illustrated}}
+*{{H&L|Robert's Rebellion - Margaery Tyrell}} {{Illustrated}}
+*{{H&L|House Tyrell}} {{Illustrated}}
+*{{H&L|The Reach}} {{Illustrated}}
+*{{H&L|The Death of Kings}} {{Indirect}}
+*{{H&L|Highgarden}} {{Illustrated}}
+*{{C&R|Invasion}} {{Illustrated}}
+*{{C&R|House Lannister, Kings of the Rock & House Gardener, Kings of the Reach}} {{Illustrated}}
+*{{C&R|House Stark, The Kings of Winter}} {{Indirect}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Gardener}}
+{{Kings of Westeros}}
+
+<!--Categories-->
+{{DEFAULTSORT:Gardener, Mern IX}}
+[[Category:Individuals from Game of Thrones: Conquest & Rebellion: An Animated History of the Seven Kingdoms]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Individuals from the Reach]]
+[[Category:Kings of the Reach|Mern IX Gardener]]
+[[Category:Members of House Gardener|Mern IX Gardener]]
+
+<!--Languages-->
+[[de:Mern IX. Gärtner]]
+[[fr:Mern IX Jardinier]]
+[[ru:Мерн IX Гарденер]]

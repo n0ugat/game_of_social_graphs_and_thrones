@@ -1,0 +1,30 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Martha Thomas.jpeg
+| Birth   = 
+| Death   = 
+| Role    = Queen's handmaiden
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = "[[We Light the Way]]"
+| First   = 
+| Last    = 
+}}
+'''Martha Thomas''' is an actress.
+
+In ''[[House of the Dragon]]'', she portrayed the queen's handmaiden in the [[House of the Dragon: Season 1|first season]].
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1|||||yes}}
+
+==See also==
+*{{IMDb|# = 14057858}}
+
+<!--Categories-->
+{{DEFAULTSORT:Thomas, Martha}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--InterWiki-Links-->
+[[fr:Martha Thomas]]

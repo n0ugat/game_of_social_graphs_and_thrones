@@ -1,0 +1,96 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Mormont.svg
+| Link  = House Mormont
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Stark
+| Image       = Maege.png
+| Birth       = [[Bear Island]], the [[North]]{{Con|AWOIAF}}
+| Death       = [[299 AC|299]]{{Dateref|Game of Thrones: Season 2}}-[[302 AC]]{{Dateref|Game of Thrones: Season 5}}{{Ref|GOT607}}
+| House       = [[House Mormont|Mormont]]
+| Affiliation = [[House Stark]]
+| Titles      = [[Lord of Bear Island|Lady of Bear Island]]
+| Predecessor = {[[Jorah Mormont]]}
+| Successor   = {[[Lyanna Mormont]]}
+| AKA         = 
+| Culture     = [[Northmen|Northern]]
+| Religion    = [[Old Gods]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = {[[Lyanna Mormont]]}
+| Siblings    = {[[Jeor Mormont]]}
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 1|1]]
+| Appearances = 3 episodes {{Below|Appearances}}
+| First       = "[[The Pointy End]]"
+| Last        = "[[Fire and Blood]]"
+| DeathEp     = "[[The Broken Man]]" {{C|fate confirmed}}
+| Actor       = [[Elizabeth Barrett]]
+}}
+{{Quote|My mother wasn't a great beauty or any other kind of beauty. She was a great warrior though.|[[Lyanna Mormont]] on her mother.|The Broken Man}}
+Lady '''Maege Mormont''' was the head of [[House Mormont]], the [[Lord of Bear Island|Lords of Bear Island]] and a [[Noble house|vassal]] of [[House Stark]]. She fought for [[Robb Stark]], the [[King in the North]], during the [[War of the Five Kings]].
+
+==Biography==
+===Background===
+Maege Mormont was the [[Lord of Bear Island|Lady of Bear Island]] and the head of [[House Mormont]], a vassal to [[House Stark]] of [[Winterfell]]. She had one daughter, [[Lyanna Mormont|Lyanna]], namesake of [[Lyanna Stark]], Lord [[Eddard Stark]]'s sister. Lord Commander [[Jeor Mormont]] of the [[Night's Watch]] is her older brother. The disgraced and exiled Ser [[Jorah Mormont]] is her nephew.{{Cite}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+Maege is present at the feast for the [[North|Northern]] lords held in the Great Hall of [[Winterfell]], in which [[Greatjon Umber]] defies [[Robb Stark]], only to submit after two of his fingers were mutilated by [[Grey Wind]]. She is also present at the a war council discussing strategy with Robb and his other bannermen at [[Moat Cailin]].{{Ref|GOT108}} She leads a military force as the Starks arrive at the [[Twins]].{{Ref|GOT109}}
+
+[[File:MAEGE.png|thumb|200x200px|Maege Mormont standing behind Robb and Catelyn Stark at The Twins. ]]
+Maege is also present when Robb is proclaimed the [[King in the North]].{{Ref|GOT110}}
+
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+[[Stannis Baratheon|Stannis]] mentions that [[Lyanna Mormont]] is Lady of Bear Island, implying Maege might have perished during the [[War of the Five Kings]].{{Ref|GOT502}}
+
+===[[Game of Thrones: Season 6|''Game of Thrones'': Season 6]]===
+It is confirmed that Maege died fighting for Robb during the War of the Five Kings.{{Ref|GOT607}}
+
+==Family==
+{{Mormont tree}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Lady Maege, also known as "the She-Bear", is a stout, grey-haired woman and a fierce warrior. She dresses in mail and her favored weapon is a spiked mace. [[Catelyn Stark]] observes that Maege seems more comfortable in armor than [[Brienne of Tarth|Brienne]] ever did. According to her brother Jeor, she is stubborn, short-tempered, and willful. She worked hard to regain the family's noble name and recover from the state of near-poverty her nephew Jorah had left behind.
+
+When Robb calls his bannerman to march south after his father's arrest and they start to test him due his youth, Maege tells Robb bluntly that he was young enough to be her grandson, and had no business giving her commands, but she had a granddaughter she would be willing to have him marry. Maege is more understanding of Catelyn releasing [[Jaime Lannister|Jaime]], and Catelyn has grown fond of her. Maege does not attend the [[Red Wedding]], as along the way from [[Riverrun]] to the [[Twins]], Robb commands her and [[Galbart Glover]] to seek out [[Howland Reed]]. He gives them letters for the Northern lords, explaining the letters contain false orders, in case they are captured by the [[ironborn]]. It remains unknown if Maege or Galbart Glover reached their destination, and whether they are alive.
+
+Maege has five children, all daughters: Dacey, Alysane, Lyra, Jorelle, and Lyanna. Lyanna is only ten years old during the fourth and fifth novels. Alysane had a son and daughter by an unknown father. Dacey was a warrior-woman like her mother and sisters and a member of Robb's personal guard; she was killed during the Red Wedding. Dacey was one of the few of Robb's bannermen who managed to get to her feet, fighting off Benfrey Frey by smashing his face in with a wine flagon. She then made a death run for the feast hall's doors and managed to avoid being shot by the crossbowmen in the balcony, but just before she reached the door, Ryman Frey and a dozen more fully armed Frey men-at-arms came bursting through it and ran right into her. Dacey died when Ryman drove his longaxe into her stomach.
+
+While Stannis's host marches to Winterfell, Alysane tells the captive [[Yara Greyjoy|Asha Greyjoy]] that her sisters "Lyra and Jory are with our mother"{{Bookref|ADWD|42}} - implying that Maege's whereabouts and activities following the Red Wedding are known only to her daughters, perhaps to be revealed in later novels.
+
+==Appearances==
+*{{GOT|The Pointy End}}
+*{{GOT|Baelor}}
+*{{GOT|Fire and Blood}}
+*{{GOT|The Broken Man}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Mormont}}
+
+<!--Categories-->
+{{DEFAULTSORT:Mormont, Maege}}
+[[Category:Bannermen of House Stark]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Lords of Bear Island|Maege Mormont]]
+[[Category:Members of House Mormont|Maege Mormont]]
+[[Category:Northmen]]
+[[Category:Ruling ladies]]
+
+<!--Languages-->
+[[de:Maegen Mormont]]
+[[fr:Maege Mormont]]
+[[ru:Мейдж Мормонт]]
+[[zh:梅姬·莫尔蒙]]

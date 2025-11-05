@@ -1,0 +1,29 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Minnie Mark.jpg
+| Birth   = 
+| Death   = 
+| Role    = Woman in black (circus)
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = "[[King of the Narrow Sea (episode)|King of the Narrow Sea]]"
+| First   = 
+| Last    = 
+}}
+'''Minnie Marx''' is a Scottish/German comic actress.
+
+In ''[[House of the Dragon]]'', she portrayed a woman in black in the [[House of the Dragon: Season 1|first season]].
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1||||yes}}
+
+==See also==
+*{{IMDb|# = 1300949}}
+*{{Facebook|minniemarx}}
+*{{YouTube|channel/UClrvr2BQfTFFkGZE0ki_QHA}}
+
+<!--Categories-->
+{{DEFAULTSORT:Marx, Minnie}}
+[[Category:Co-starring cast members of House of the Dragon]]

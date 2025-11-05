@@ -1,0 +1,326 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Leftimage  = House Tyrell.svg
+| Leftlink   = House Tyrell
+| Image2     = Kingsguard.svg
+| Link2      = Kingsguard#Renly Baratheon's Kingsguard
+| Rightimage = Faith Militant.svg
+| Rightlink  = Faith Militant
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Militant
+| Image       = LorasTyrell5X06.PNG
+| Birth       = [[Highgarden]], the [[Reach]]{{Con|AWOIAF}}
+| Death       = [[Festival of the Mother]],{{Ref|GOT608}} [[303 AC]]{{Dateref|Game of Thrones: Season 6}}<br>[[Great Sept of Baelor]], [[King's Landing]]{{Ref|GOT610}}
+| House       = [[House Tyrell|Tyrell]]{{Ref|GOT105}} {{C|renounced}}{{Ref|GOT610}}
+| Affiliation = [[House Baratheon]]{{Ref|GOT203}} {{C|formerly}}<br>[[Kingsguard]] of [[Renly Baratheon]]{{Ref|GOT203}}<br>[[Faith Militant]]{{Ref|GOT610}}
+| Titles      = [[Knighthood|Ser]]{{Ref|GOT105}}<br>[[Lord Commander of the Kingsguard]]{{Ref|GOT203}} {{C|formerly, to Renly I}}
+| AKA         = The Knight of the Flowers{{Ref|GOT105}}<br>Brother Loras{{Ref|GOT610}}
+| Culture     = [[Reach]]{{Ref|GOT105}}
+| Religion    = [[Faith of the Seven]]{{Ref|GOT610}}
+| Father      = {[[Mace Tyrell]]}{{Ref|GOT402}}
+| Mother      = {[[Alerie Tyrell|Alerie Hightower]]}{{Ref|GOT307}}
+| Spouse      = 
+| Lovers      = {[[Renly Baratheon]]}{{Ref|GOT105}}<br>[[Olyvar]]{{Ref|GOT501}}
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 1|1]] {{*}} [[Game of Thrones: Season 2|2]] {{*}} [[Game of Thrones: Season 3|3]] {{*}} [[Game of Thrones: Season 4|4]] {{*}} [[Game of Thrones: Season 5|5]] {{*}} [[Game of Thrones: Season 6|6]]
+| Appearances = 20 episodes {{Below|Appearances}}
+| First       = "[[The Wolf and the Lion]]"
+| Last        = "[[The Winds of Winter]]"
+| DeathEp     = "The Winds of Winter"
+| Actor       = [[Finn Jones]]
+}}
+{{Quote|Where is it written that power is the sole province of the worst? That thrones are only made for the hated and the feared? You would be a wonderful king.|Loras Tyrell to [[Renly Baratheon]]|The Wolf and the Lion}}
+Ser '''Loras Tyrell''' was a popular tourney [[Knighthood|knight]] and was regarded as one of the most skilled knights in [[Westeros]]. He was the heir to [[Highgarden]], as well as the brother of [[Margaery Tyrell]], who would later become Queen of the Seven Kingdoms. He also had a long-term romantic relationship with [[Renly Baratheon]] and was devastated when Renly was [[Assassination of Renly Baratheon|murdered]]; following this, Loras fought at [[Battle of the Blackwater|Blackwater]] to avenge his death, and helped to win the battle to save [[King's Landing]]. Afterwards, he stayed in the city to support his sister in the new alliance between the Tyrells and [[House Lannister]]. However, following the Faith Militant's subsequent takeover in the capital, he was arrested and sent to prison. Informed that his only hope of getting out was to confess and give up his inheritance, he forcibly abdicated his titles and became known as '''Brother Loras'''. However, he died only a few minutes later, along with his father and sister when the [[Great Sept of Baelor]] was [[Destruction of the Great Sept of Baelor|destroyed]] in a plot orchestrated by [[Cersei Lannister]].
+
+==Biography==
+===Background===
+[[Knighthood|Ser]] Loras Tyrell is the son of Lady [[Alerie Tyrell|Alerie Hightower]] and Lord [[Mace Tyrell]], the [[Lord Paramount of the Reach]] and [[Warden of the South]]. The [[Reach]] is one of the constituent regions of the [[Seven Kingdoms]] and [[House Tyrell]] is one of the [[Great House]]s of the realm. Loras was raised in privilege in the family seat and regional capital of [[Highgarden]]. Loras is the heir to [[Highgarden]] and the Tyrell lands and titles,{{Ref|GOT305}} and this status, along with his skills and good looks, makes him possibly the most sought-after bachelor in all of Westeros.{{Ref|GOT306}}
+
+Loras is a skilled knight famed for his many [[tournament]] victories and his good looks, which make him popular with the smallfolk and with young women in particular. Loras is one of the few knights who has on rare occasion managed to defeat the formidable [[Jaime Lannister]] in a joust.{{Ref|GOT103}} He is commonly known as the "Knight of the Flowers", as a rose is the sigil of House Tyrell and he thus wears armor elaborately engraved with flowers.{{Ref|GOT105}}
+
+Loras is the former squire of Lord [[Renly Baratheon]] and remains Renly's lover. When the series begins Loras is in [[King's Landing]] primarily to compete in tourneys and attend court.<ref>[http://viewers-guide.hbo.com/game-of-thrones/season2/#!/guide/houses/rbaratheon/loras-tyrell/ HBO viewer's guide, season 2 guide to houses, House Baratheon of Storm's End - Loras Tyrell entry]</ref>
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+When [[Catelyn Stark]] arrives in King's Landing with news of the attempt on [[Bran Stark|Bran]]'s life by the [[Catspaw|man with a dagger]], [[Petyr Baelish|Littlefinger]] identifies it as his own [[Valyrian steel dagger|knife]] which he lost to [[Tyrion Lannister]] on a bet that Loras would defeat Jaime Lannister in a joust which is why Catelyn takes Tyrion prisoner.{{Ref|GOT103}}
+
+[[File:Loras looks at Renly 105.jpg|thumb|Loras gives Renly a knowing look.]]
+Ser Loras takes part in the Hand's [[tournament]], riding against Ser [[Gregor Clegane]]. He charms the common people by giving a rose to [[Sansa Stark]], but at the same time, he also exchanges a look with his lover, [[Renly Baratheon]]. Loras uses a mare who is in heat to upset and confuse Gregor's mount, as Gregor is known to favor unruly stallions, making it easier to unseat him. Gregor, furious, decapitates his own horse with a sword, and then attacks Loras.{{Ref|GOT105}}
+
+[[File:Sandor champion 1x05.png|thumb|Loras declares Sandor champion.]]
+Gregor's brother, [[Sandor Clegane|Sandor]], intervenes and saves Loras's life. Even though there is supposed to be one more round with Loras jousting against the Hound to determine a tournament winner, Loras proclaims Sandor the champion, to the approval of the crowds. When Loras raises Sandor's arm declaring him the winner, Sandor looks somewhat lost, as he is not used to the adoration and approval of the public that Ser Loras takes for granted.{{Ref|GOT105}}
+
+[[File:Loras and Renly.jpg|thumb|Loras advises Renly on the possibility of his ascension.]]
+Loras shaves Renly's chest in his chamber. Renly comments about how much Loras's armor must have cost his father. They discuss the succession and Loras suggests that Renly should claim the [[Iron Throne]] himself should anything happen to King [[Robert Baratheon|Robert]]. Renly points out that he is fourth in line to the throne, behind his nephews [[Joffrey Baratheon|Joffrey]] and [[Tommen Baratheon|Tommen]] and his brother [[Stannis Baratheon|Stannis]]. Loras dismisses them, saying that Joffrey is a monster, Tommen is too young and Stannis has all the charisma of a lobster. Loras suggests that the common people would support Renly, who is more widely known and popular. Loras suggests that [[House Tyrell|his family]] would support and finance Renly's claim.{{Ref|GOT105}}
+
+After Robert Baratheon is [[Assassination of Robert Baratheon|wounded]] and is expected not to live, Renly approaches [[Eddard Stark]] offering men so they can seize Joffrey before Cersei can consolidate her power, but Eddard chooses not to act while Robert still lives. The next day, he learns that Renly and Loras have fled the city with their loyal retainers, and were last seen riding south.{{Ref|GOT107}} [[Tywin Lannister]] learns that Renly has claimed the Iron Throne, as Loras had urged Renly to do.{{Ref|GOT110}}
+
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+Renly declares himself King of Westeros with the support of [[House Tyrell]]. He gathers an army of over 100,000 men from across the [[Reach]] and the [[Stormlands]].{{Ref|GOT201}} He solidifies his alliance by marrying Loras's sister [[Margaery Tyrell|Margaery]]. He camps his army near [[Storm's End]] and throws a tournament for his men. Renly and his new Queen watch from a wooden dais. Margaery stands and cheers Loras as he disarms his opponent. His rival manages to step under a swing of his great axe and knock him off his feet.{{Ref|GOT203}}
+
+[[File:BrienneJoinsRenlysKingsguard.jpg|thumb|Loras watches as Brienne requests to join Renly's Kingsguard.]]
+Loras yields when his opponent lifts his visor and holds a knife close to his face. Renly congratulates the combatants as they stand and calls the winner forward. He commands them to stand and remove their helm. The crowd are shocked when the fighter is revealed to be a woman; [[Brienne of Tarth]]. Renly tells her that she is everything that her father promised. Margaery says that Loras fought valiantly and Renly agrees with her. He names Brienne champion and offers to grant anything that she requests. Brienne asks to join his [[Kingsguard]], and he accepts. Loras is not happy about her appointment to the Kingsguard.{{Ref|GOT203}}
+
+[[Catelyn Stark]] arrives and exchanges greetings with Renly and he promises justice for the [[Execution of Eddard Stark|execution]] of [[Eddard Stark]]. Loras interrupts to ask if Robb has marched against [[Tywin Lannister]] yet. Catelyn denies knowing Robb's strategy and says that she would not divulge it to them if she did. Loras says that Robb should have attended rather than sending his mother. Catelyn retorts that Robb is fighting a war rather than playing at one. Renly laughs off the barb and invites Catelyn to walk with him.{{Ref|GOT203}}
+
+[[File:203 Renly Loras in bed.jpg|thumb|Renly attempts to arouse Loras.]]
+Renly and Loras kiss passionately inside Renly's tent. Renly undresses his lover and notes his badly bruised chest before kissing the marks. Loras stops him and complains about Brienne's appointment to the Kingsguard being a further humiliation after she bested him in the tournament. Renly cites Brienne's devotion and then realizes that Loras is jealous. Loras denies jealousy, mocking her as "Brienne the Beauty". Renly begins to undo Loras's britches, saying that he will make it up to him.{{Ref|GOT203}}
+
+Loras stops him and says that he must devote his attentions to another Tyrell that night. He reminds Renly of his responsibilities to their alliance and warns him that his vassals are gossiping about his bride still being a virgin two weeks after their marriage. Renly is disbelieving of Margaery's virginity and Loras says that she is still officially a virgin before going to fetch her.{{Ref|GOT203}}
+
+[[File:LorasMargaery.jpg|thumb|Loras leaves his sister in the company of Littlefinger; both aware of his nature.]]
+Renly is unable to perform with Margaery and she reveals that she is fully aware of his relationship with Loras. She offers to involve her brother next time, to get Renly "started", and reminds Renly of the importance of fathering an heir.{{Ref|GOT203}} [[Petyr Baelish]] later arrives at the camp and offers to open the gates of King's Landing to Renly. Loras walks Margaery through the camp and leaves her at Renly's tent where Petyr is waiting for her. Petyr reveals his knowledge of Renly and Loras's sexuality but Margaery is not intimidated and asserts her loyalty to Renly.{{Ref|GOT204}}
+
+Before the Battle of Oxcross two Lannister sentries are debating who is the greatest swordsman in Westeros. They bring up Ser Gregor Clegane and Ser Jaime Lannister, but when one of them offers Loras Tyrell as a possibility, the other says that Loras Tyrell is not a great swordsman, as he has been stabbing Renly for years and Renly isn't dead.{{Ref|GOT204}}
+
+[[File:Renly's Kingsguard with Brienne Loras and heraldry.jpg|thumb|Loras attends the Baratheon parley.]]
+Renly meets his older brother [[Stannis Baratheon]] on the coast of the Stormlands to [[parley]]. Stannis is accompanied by Melisandre, Davos and several guards. Renly brings Catelyn, Brienne and Loras along with his own guards. They are unable to reach a compromise and Renly maintains his position that he would be a better ruler than Stannis. Stannis wheels his horse and rides away as Melisandre warns Renly to look to his sins because "The night is dark and full of terrors." Renly asks if his companions can believe that he loved Stannis once as he leads them away.{{Ref|GOT204}} Renly is later assassinated by a [[Shadow]] brought into the world by Melisandre just after agreeing to an alliance with [[House Stark]]. Brienne is found over the body of Renly, covered in his blood. She is mistakenly blamed for his death and kills two of Renly's Kingsguard in self-defense before fleeing the camp with Catelyn.{{Ref|GOT205}}
+
+[[File:Loras and Renly 205.jpg|thumb|Loras mourns the death of his lover.]]
+Loras stands vigil for his lover and king in the command tent. Margaery paces anxiously behind her brother. She tells Loras that they need to return home but he does not answer. Lord Petyr “Littlefinger” Baelish enters and greets them. Loras immediately orders him out of the tent. Littlefinger warns them that Stannis is an hour away and that when he arrives Renly’s bannermen will join his cause. He says that their companions will fight for the privilege of selling them to King Stannis. Loras stands and draws his sword and asks if Littlefinger is seeking the same privilege for himself. Petyr points out that he has come to warn them instead of going to Stannis.{{Ref|GOT205}}
+
+[[File:Loras vengeance Renly.jpg|thumb|Loras and Margaery debate Brienne's involvement in Renly's death.]]
+Margaery pushes her brother’s blade away from Littlefinger and warns him that they have no time. Loras tells Margaery to ride back to [[Highgarden]] and says that he will not run from Stannis. Margaery says that Brienne killed Renly and Loras says that neither of them really believes that. He asks her who stood to gain the most from killing Renly and Littlefinger answers “Stannis.” Loras promises to avenge Renly by killing Stannis. Margaery says that they cannot stay. Loras tearfully returns to Renly’s side and asserts that he would have been a good and true king. Littlefinger asks Loras what he most desires and learns that it is revenge.{{Ref|GOT205}}
+
+[[File:Loras_ghost_of_harrenhal.jpg|thumb|Loras considers his options.]]
+He says that he has always found revenge to be a pure motivation but warns Loras that he will not have a chance to kill Stannis if he stays. Littlefinger cautions Loras to be smart if he wants justice. Margaery tells her brother that he cannot avenge Renly from the grave. She begs him to bring their horses as she strokes his hair. He rises from Renly's deathbed and goes to carry out her request.{{Ref|GOT205}}
+
+[[File:Loras as Renly.jpg|thumb|Loras fights during the Battle of Blackwater, in Renly's armor.]]
+Petyr obtains authorization from Lord [[Tywin Lannister]] to arrange an alliance with [[House Tyrell]].{{Ref|GOT206}} Loras dons Renly's armor to fight alongside [[House Lannister]] in the [[Battle of the Blackwater]]. His forces arrive as Stannis is assaulting the [[River Gate]] and their cavalry charge routs Stannis's men. Loras accompanies Tywin to the throne room to announce the victory, and is seen dressed in Renly's armor removing his helm.{{Ref|GOT209}}
+
+[[File:Tywin court 2x10.jpg|thumb|Loras prepares to present Margaery to Joffrey.]]
+Those who played a key role in securing Joffrey's victory are summoned to the Throne room to receive the King's gratitude, and a reward of their choosing. Loras requests that Houses Tyrell and Baratheon be merged via marriage between his sister Margaery and Joffrey, to which Joffrey consents, after being "persuaded" by the small council that his engagement to Sansa Stark is no longer necessary or desirable.{{Ref|GOT210}}
+
+===[[Game of Thrones: Season 3|''Game of Thrones'': Season 3]]===
+Loras and Margaery host Joffrey and Cersei for supper, where they discuss adapting to life in [[King's Landing]]. When Cersei criticizes Margaery's recent goodwill visit to [[Flea Bottom]], Loras waxes poetic about his sister's charitable work in the Reach. Joffrey seems placated by Loras's words; Cersei is not, whose enmity is increased when Margaery states that Tyrell blood runs warm (implying Cersei is cold-blooded in nature).{{Ref|GOT301}}
+
+Some days later, Margaery has Loras call on and escort Lady Sansa to a meeting with her and their grandmother, the [[Olenna Tyrell|Lady Olenna]]. During their walk, Sansa tries to remind Loras of their first meeting at the Hand's Tourney many months before. Although Loras has clearly forgotten about it, he plays along to avoid insulting her. He takes his leave when Margaery meets them in the gardens. A few moments later, Olenna reminds Margaery and Sansa that Loras excels in his youth and ability to joust, but is not a wise man (which was evident in his support of Renly's claim).{{Ref|GOT302}} However, realizing that [[Petyr Baelish]] is closing in on Sansa and that she, as the only heir of House Stark should her brother Robb lose the war and die as a result, is the key to the [[North]], Olenna, at the suggestion of [[Varys]], directs Margaery to offer Loras's hand in marriage to Sansa.{{Ref|GOT304}}
+
+[[File:Olyver kissed by fire.jpg|thumb|Olyvar, under Littlefinger's instructions, flirts with Loras.]]
+Apparently willing to go along with the plan, Loras invites Sansa to watch him spar, although out of earshot he laments that he doesn't have a real challenge. One of his new squires, [[Olyvar]], states that he would like to see Loras spar with a worthy opponent. Away from prying eyes, Loras and Olyvar have an extended sexual encounter. Loras asks how Olyvar realized that he preferred male company as even his intended bride has no idea of his proclivities. Olyvar assures him that the situation is actually more common than is typically realized.{{Ref|GOT305}}
+
+Loras does not know that Olyvar is actually a spy working for Littlefinger, who subsequently tells him about Loras' engagement to Sansa. This information is then passed on to Cersei, who informs Tywin. Tywin then decides to foil the Tyrells and their growing influence by forcing Sansa to become betrothed to [[Tyrion Lannister]] and Loras to be betrothed to Cersei.{{Ref|GOT305}}
+
+[[File:Loras_sansal_The_Climb.jpg|thumb|Sansa attempts to flirt with Loras.]]
+Loras and Sansa spend more time together in the following weeks, not yet aware of the new Lannister marriage plans. Loras says he has always wanted a big wedding with lots of guests and a good tournament, though he only seems to remember that there will be a bride when Sansa gives him an expectant look. Sansa expresses her happiness and looks forward to moving to Highgarden. On this, Loras agrees with her, saying that King's Landing is "the most terrible place there is".{{Ref|GOT306}}
+
+[[File:Loras_and_Cersei_3x08.jpg|thumb|Loras attempts to speak with his betrothed.]]
+Following this, Sansa and Loras are both made aware of the new arrangements, and both of them are extremely unhappy about the prospect of marrying into the Lannisters. Loras, as a person of rank in the Red Keep, later attends Sansa's wedding to Tyrion in the [[Great Sept of Baelor]] with his sister and grandmother. During the wedding feast, Olenna irritates him by reminding him that his sister is soon to be his stepdaughter-in-law and he storms out. Tyrion later sees him looking down from the upper gallery and raises his glass in sympathy. Loras sees Cersei miserably regarding [[Blackwater Bay]] out a window and tries to make small talk, but she rudely brushes him off.{{Ref|GOT308}}
+
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+Loras's grandmother, [[Olenna Tyrell]] congratulates [[Brienne of Tarth]] for besting her grandson during the melee at King Renly's camp, describing him as a "silly little boy".{{Ref|GOT401}}
+
+[[File:Jaime-and-Loras-402.jpg|thumb|Jaime threatens Loras during his sister's wedding feast.]]
+Loras attends the wedding of his sister and King Joffrey; enjoying a brief flirtation with [[Oberyn Martell]], before being confronted by [[Jaime Lannister]] over his engagement to [[Cersei Lannister|Cersei]]. Jaime attempts to intimidate Loras into calling off the wedding, warning him that Cersei will murder him in his sleep, along with any children they may conceive together. Despite having no affection whatsoever for Cersei, Loras retorts to Jaime that he will never be able to marry Cersei either, clearly aware of Jaime and Cersei's relationship. He walks off, leaving Jaime nonplussed.{{Ref|GOT402}}
+
+During the re-enactment of the [[War of the Five Kings]] by dwarfs in full costume, Loras looks on as the one dressed as Stannis (riding [[Melisandre]]) attacks another one dressed as Renly (riding a crude naked depiction of Loras). Following a sequence in which the Stannis dwarf stabs the Renly dwarf in an echo of the real murder, Loras, distraught and disgusted, leaves his seat on the dais altogether and doesn't return. Joffrey is later poisoned with the [[strangler]], after which Tyrion is accused of his murder. Unknown to most, Olenna is the true perpetrator.{{Ref|GOT402}}
+
+[[File:Margaery and Loras Tyrell 4x06.jpg|thumb|Loras silently watches as Tyrion defends himself.]]
+Loras later attends the coronation of [[Tommen Baratheon]]. Cersei later agrees to marry Loras a fortnight after Tommen's wedding to Margaery, a month after the coronation.{{Ref|GOT405}} Along with his sister and father, Loras is later present at the [[Court trial of Tyrion Lannister|Tyrion's trial]], though it is unknown if he is aware that his grandmother was the one who poisoned Joffrey.{{Ref|GOT406}}
+
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+[[File:501 Loras Olyvar 2.jpg|thumb|Loras continues his liaison with Olyvar.]]
+During Tywin's funeral, Loras attempts to approach Cersei, speaking of how supposedly fearsome Tywin was, but Cersei ignores him and stalks off. One night, Loras is in bed with Olyvar, discussing the possibility of visiting [[Dorne]] or anywhere far away from [[King's Landing]], when Margaery walks in. She admonishes Loras for making them late for supper with King Tommen. After Olyvar has taken his leave Margaery urges her brother to be more discreet especially in the Red Keep. Loras no longer cares as he knows everybody is whispering about him anyway. Loras is puzzled by Margaery's relaxed attitude, as Tywin's death means Cersei won't be forced to marry Loras and be sent off with him to Highgarden, which means Margaery will have to contend with her mother-in-law at the capital. Margaery implies that may not be the case.{{Ref|GOT501}}
+
+[[File:Loras_Tyrell,_Sons_of_the_Harpy_(episode),_Costumes-_The_Seven_Kingdoms.jpeg|thumb|Loras is arrested by the Faith Militant.]]
+Loras is present during the wedding ceremony of [[Tommen Baratheon]] and his sister Margaery.{{Ref|GOT503}} During a sparring session, Loras is seized by [[Lancel Lannister]] and the [[Faith Militant]]. Lancel tells Loras that he has "broken the Laws of Gods and Men". Margaery deduces that Loras's arrest was partly Cersei's doing in order to undermine the new queen. Tommen later attempts to have Loras released by confronting his mother then trying to speak to the High Sparrow, but neither endeavor bears any fruit, prompting Margaery to write at once to Olenna.{{Ref|GOT504}}
+
+During his holy inquest by the Faith, a somewhat disheveled Loras is interrogated by the High Sparrow about his relationship with Renly. Loras denies he was Renly's lover, telling the High Sparrow they were merely best friends, but cannot look him in the eye. He also denies having lain with any other man. Margaery, when asked to testify, backs her brother up.{{Ref|GOT506}}
+
+[[File:Loras_season_five_trailer.png|thumb|Loras attempts to attack Olyvar.]]
+The High Sparrow then calls forth a surprise witness, to Loras's horror: Olyvar, who, on Cersei's instructions, informs the court that he and Loras were sexually involved, although he slightly misrepresents the situation by making it seem like Loras pursued him first, when Olyvar was actually the one who was asked by Littlefinger to seek out Loras and seduce him as a way to get information on the Tyrells. Loras is furious and attempts to attack Olyvar but is restrained. This leads to Margaery's arrest for perjury and a full trial before the gods for Loras.{{Ref|GOT506}}
+
+===[[Game of Thrones: Season 6|''Game of Thrones'': Season 6]]===
+Margaery is permitted to visit Loras in prison. He is worn out and beaten down by the Faith Militant's treatment of him. Margaery tries to get him to stand up for himself and calls him the future of the Tyrells, but Loras states that he just wants his imprisonment to end and wants to acquiesce to their demands. Loras begins to sob uncontrollably, and his sister hugs him close to her chest.{{Ref|GOT604}} On the morning of his trial, a shivering Loras is shown huddled on the floor of his cell, repeating lines under his breath, suggesting he has been told what to say in advance and is trying to memorize it. He is taken from his cell by members of the [[Faith Militant]] before being bathed, shaven and having his hair cut off.  He is then brought before the [[High Sparrow]] and the assembled nobles in the [[Great Sept of Baelor]]. Loras states that a trial won't be necessary, because he wishes to plead guilty to all accusations laid against him.{{Ref|GOT610}}
+
+[[File:The Winds of Winter 03.jpg|thumb|Loras confesses before the High Sparrow.]]
+He confesses to having lain with other men, including Renly, and his voice breaks with emotion as he says Renly's name, following which the High Sparrow turns and looks at Margaery in a very pointed way. Loras' emotion at saying Renly's name, and the High Sparrow looking at Margaery in a displeased way as a result, suggests that Loras has not actually been brainwashed into believing his sexuality and his relationship with Renly were wrong, but that he has been obliged to pretend this is the case in order to persuade the High Sparrow to let him out of prison.{{Ref|GOT610}}
+
+The High Sparrow's glance at Margaery suggests that she told him Loras had genuinely converted, but that Loras' emotion in mentioning Renly has made the High Sparrow skeptical that this is the case. However, Loras hastily regathers himself, and as he lists a number of other things the Faith considers to be crimes, the High Sparrow seems more convinced again. 
+[[File:Margaery Death.png|thumb|A recently mutilated Loras huddles close to his sister, second before his death.]]
+As part of the confession and plea to be given mercy, Loras has to agree to join the Faith Militant and renounce his inheritance. The seven pointed star is then carved into his forehead by Brother Lancel as his sister and father look on in horror. When Cersei doesn't show up to her own trial, Margaery realizes that something is seriously amiss. She attempts to lead her brother to safety, but the Sparrows prevent this, and he dies alongside his sister and father when Cersei [[Destruction of the Great Sept of Baelor|burns the Great Sept to the ground]].{{Ref|GOT610}}
+
+==Personality==
+{{ReferencesSection}}
+Before the start of the War of the Five Kings, and later his arrest and imprisonment by the Faith Militant, Loras led a carefree life as a tourney knight. A prodigiously skilled warrior and an extremely popular young man, he is shown to be gracious towards everyone around him and grateful whenever someone does him a favor. He was quick to thank Sandor Clegane when the latter saved Loras's life from his ferocious brother, Gregor, and showed his appreciation by declaring him champion without having a joust. However, Loras was also rather spoiled to a fault, which could have arguably played a role in his downfall. Renly pointed this out to Loras by the expensive and extravagant suit of armor that his father procured for him to wear at tournaments. Loras also shows a hint of his grandmother's influence when he mocked Robb Stark for "hiding behind his mother's skirts" as opposed to appearing in person to treat with Renly and Jaime Lannister for his incest when the latter tried to intimidate Loras into calling off his engagement to Cersei Lannister.
+
+Loras thought that Renly Baratheon would have been a wonderful king because he didn't enjoy killing like Robert did, and he was extremely popular unlike Stannis. When Renly was murdered, Loras correctly deduced it was Stannis and furiously vowed that he would personally execute the man, overlooking the fact that the odds were against him being able to do so. One of Loras's weaknesses was he did not always think through the risks of his actions, and it took much persuasion by Margaery to get him to back off from confronting Stannis immediately and instead wait for a better moment to seek revenge. Loras takes further risks in later seasons when he becomes involved with Olyvar, despite Margaery's warnings that people could find out about it, and gave little thought to the possibility that their relationship might be used against him. Due to the protection afforded him all his life as the heir to Highgarden, Loras reacted with anger and disbelief when Lancel Lannister and the Faith Militant arrested him. Only when the Sparrows call Olyvar forward to testify at the inquest does Loras begin to show genuine fear that he will be betrayed, which occurs when Olyvar tells the High Sparrow about their past relationship. His subsequent imprisonment by the Faith Militant demoralized Loras to the point that he was willing to publicly renounce all he once held dear and humble himself before the High Sparrow in order to be released.
+
+==Quotes==
+===Spoken by Loras===
+{{Quote|I owe you my life, Ser.|Loras to [[Sandor Clegane]] after the latter intervenes in his fight against [[Gregor Clegane|The Mountain]]|The Wolf and the Lion}}{{Dialogue a-b|Renly Baratheon|Not everyone is such a gifted swordsman.|Loras Tyrell|It's not a gift. No one gave it to me. I'm good because I work at it -- every day of my life since I could hold a stick.|Loras and Renly on his swordfighting skills.|The Wolf and the Lion}}
+{{Dialogue a-b-a-b-a|Loras Tyrell|I've never fought in a war before, but I'd fight for you.|Renly Baratheon|I'm fourth in line.|And where was Robert in the line of royal succession? Joffrey is a monster. Tommen is eight.|Stannis?|Stannis has the personality of a lobster.|Loras on those ahead of Renly in the line of succession.|The Wolf and the Lion}}
+{{Quote|I will put a ''sword'' through his righteous face!|Loras vows to kill [[Stannis Baratheon]] after [[Renly Baratheon|Renly]]'s death.|The Ghost of Harrenhal}}
+{{Dialogue a-b-a|Loras Tyrell|[[Renly Baratheon|He]] would have been a true king, a good king.|Petyr Baelish|Tell me, Ser Loras, what do you desire most in this world?|Revenge.|Loras laments the death of Renly and expresses his wish for revenge.|The Ghost of Harrenhal}}
+{{Quote|Your Grace, my sister Margaery, her husband was taken from us before...|Loras voice breaks as he alludes to the death of his lover Renly.|Valar Morghulis}}
+{{Quote|It's terrible, isn't it? The most terrible place there is.|Loras on [[King's Landing]].|The Climb}}
+{{Dialogue a-b|Jaime Lannister|If you were to marry Cersei, she'd murder you in your sleep. If you somehow managed to put a child in her first, she'd murder him, too, long before he drew his first breath. Luckily for you, none of this will happen because you'll never marry her.|Loras Tyrell|And neither will you.|[[Jaime Lannister|Jaime]] and Loras talk about [[Cersei Lannister|Cersei]].|The Lion and the Rose}}
+{{Quote|Your father was a force to be reckoned with. He truly was. I wouldn't presume to claim to have known him as such, but just being in his presence was enough to make it so clear just how formidable a person you were dealing with.|Loras talks about [[Tywin Lannister]] to Cersei.|The Wars To Come}}
+{{Dialogue a-b|Margaery Tyrell|Perhaps you might consider being a bit more discreet?|Loras Tyrell|Why? They all know about me anyway. Everybody knows everything about everyone. What's the point in trying to keep a secret in a place like this?|Loras on why he is open about his sexual relationships.|The Wars To Come}}
+{{Dialogue a-b-a-b-a-b|High Sparrow|Ser Loras Tyrell. Are you prepared to stand trial and profess your guilt or innocence before the Seven?|Loras Tyrell|There'll be no need for a trial. I confess before the Seven and freely admit to my crimes.|To which crimes will you be confessing?|All of them. I lay with other men, including the traitor Renly Baratheon. I perjured myself before the gods. I am guilty of depravity... dishonesty, profligacy, and arrogance. I see that now. I humble myself before the Seven and accept whatever punishment the gods deem just.|The gods' judgment is fierce, but also fair. The Warrior punishes those who believe themselves beyond the reach of justice. But the Mother shows her mercy to those who kneel before her.|I take full responsibility for my many sins and unburden myself of my desires. My only remaining wish is to devote my life to the Seven.|A defeated Loras humbles himself before the [[High Sparrow]].|The Winds of Winter}}
+
+===Spoken about Loras===
+{{Quote|I bet on Ser Jaime in the jousting, as any sane man would. When the Knight of the Flowers unseated him, I lost this dagger.| [[Petyr Baelish]] mentions Loras’ victory over [[Jaime Lannister]] in a recent tournament.|Lord Snow}}
+{{Dialogue a-b|Sansa Stark|He's going to die!|Eddard Stark|Ser Loras rides well.|Eddard expresses his confidence in Loras during his joust against the monstrous [[Gregor Clegane]], whom Loras then indeed defeats.|The Wolf and the Lion}}
+{{Dialogue a-b-a-b-a|Lannister guardsman|Right, the Mountain or our man Jaime.|Rennick|If he ever gets out.|Loras Tyrell?|Loras Tyrell. He's prettier than the Queen.|I don't care about pretty. He's better with a sword than any of them.|A Lannister soldier argues that Loras is a better swordfighter than Jaime or the Mountain.|Garden of Bones (episode)}}
+{{Quote|How good can he be? He's been stabbing Renly Baratheon for years and Renly ain't dead!|[[Rennick]] jokes about Loras's homosexuality.|Garden of Bones (episode)}}
+{{Quote|You weren't Renly's type, I'm afraid. He preferred curly-haired little girls like Loras Tyrell.|Jaime Lannister to [[Brienne of Tarth]]|Dark Wings, Dark Words}}
+{{Dialogue a-b-a|Tywin Lannister|Your sister has learned that your new friends the Tyrells are plotting to marry Sansa Stark to Ser Loras.|Tyrion Lannister|Very well. She's a lovely girl. Missing some of Loras's favorite bits, but I'm sure they'll make do.|Your jokes are not appreciated.|[[Tyrion Lannister]] making a jape about Loras.|Kissed by Fire}}
+{{Quote|I would have my grandson protected by a skilled warrior who takes his vows seriously.|[[Tywin Lannister]] on why, despite his animosity towards Loras, he would still be willing to appoint him to the Kingsguard, due to Loras’ reputation as a fighter.|The Climb}}
+{{Quote|I can't bear to think of my brother locked away in some grimy cell.|Margaery expresses anguish at Loras’ imprisonment.|Sons of the Harpy}}
+{{Quote|I love my brother. I will always love my brother. His soul is pure and perfect.|Margaery Tyrell.|Blood of My Blood}}
+
+==Family==
+{{Tyrell tree}}
+
+==Behind the scenes==
+*The audition scene used when auditioning actors for the role of Loras was taken from material in ''A Storm of Swords'', Chapter 62, Jaime VII, in which Loras confronts Brienne about Renly when she and Jaime return to the Red Keep. This was confirmed by [[George R.R. Martin]] in an online post when the casting of [[Finn Jones]] was announced in June 2010.<ref>https://grrm.livejournal.com/157386.html</ref> The scene was not adapted for the show itself due to the choice in [[Game of Thrones: Season 2|Season 2]] to have Loras correctly guess immediately after Renly's murder that Stannis, not Brienne, was responsible. 
+*Shortly before the debut of the [[Game of Thrones: Season 6|sixth season]] of ''[[Game of Thrones]]'', it was announced that [[Finn Jones]] would be portraying {{WPS|Iron Fist (comics)|Danny Rand/Iron Fist}} in the {{WPS|Marvel Cinematic Universe}} {{WPS|Netflix}} series ''{{WPS|Iron Fist (TV series)|Iron Fist}}'' and ''{{WPS|The Defenders (miniseries)|The Defenders}}''. This led to widespread speculation that Loras would be killed off in the sixth season. Jones addressed this in an interview with {{WPS|Entertainment Weekly}}: ''"I can definitely do both shows. Just because I’ve signed up for this job doesn’t cancel me out from doing more seasons of Thrones."''<ref>[http://ew.com/article/2016/04/12/game-thrones-finn-jones-loras-season-6/ 'Game of Thrones': 'Game of Thrones' Finn Jones: This year 'without a doubt the most epic season so far.]</ref> These statements seem to confirm that Loras wasn't killed off at the end of Season 6 due to some sort of scheduling conflict with the actor, but purely as a story decision. In the Season 6 Blu-ray commentary, similarly, the cast joke that [[Natalie Dormer]] (Margaery) was killed off because of other movie projects she was working on, but in response writer [[Bryan Cogman]] adamantly insisted that the death of the Tyrell siblings was strictly a story choice, not influenced by their filming schedules. In the series, Jones stars alongside [[Jessica Henwick]], who portrays [[Nymeria Sand]] in ''Game of Thrones''.
+
+==In the books==
+[[File:Roman Papsuev - Loras Tyrell.jpg|thumb|300px|right|Loras Tyrell by Roman "Amok" Papsuev.©]]
+In the ''[[A Song of Ice and Fire]]'' novels, Loras is a handsome warrior, described as having lazy brown curls and eyes of liquid gold, famed for his chivalry, honor, and skill at arms with sword and morningstar, and particularly his abilities in the joust, where he has even managed to defeat Jaime on several occasions despite his youth, being still only 16 years old.
+
+Loras is a loyal member of his family and is close to his sister Margaery and his older brothers [[Willas Tyrell|Willas]] and [[Garlan Tyrell|Garlan]]. His personal coat of arms is three golden roses on green, to reflect his status as a third son. The elaborate suits of armor he wears are not only engraved, but have enamel flowers in a variety of colors painted on them, or are encrusted with gemstones like sapphires, and he wears cloaks made of woven roses.
+
+Loras's elder brothers Willas and Garlan have been omitted from the TV series (though they were initially included in the Tyrell family tree in the HBO Viewers' Guide) and thus, Loras is stated to be the sole male heir to [[Highgarden]].{{Ref|GOT306}}
+
+Loras ranks as one of the most skilled knights and warriors in Westeros, in the top tier alongside Jaime, [[Gregor Clegane|the Mountain]], and [[Barristan Selmy]], although Clegane's prowess relies more on his brute strength than skill with a sword, while Barristan is self-admittedly not as young and quick as he used to be. In contrast, Loras is young and not quite as experienced as Jaime yet, though Jaime himself says that he thinks that one day Loras's skill might equal his own. 
+
+In the novels, the relationship between Loras and Renly is more subtly depicted than in the TV series, with only guarded references to the relationship in the interactions between other characters. When Stannis is told that Margaery came to Renly's bed a maiden, he remarks that in Renly's bed she'll die one. When Loras's name is brought up, someone says, "Oh, Renly's little rose" (referring to the sigil of House Tyrell). Loras is seen going into Renly's tent, but it is not explicitly stated that they are lovers. However, [[George R.R. Martin]] has later independently confirmed that they were involved in a relationship.<ref>[http://www.westeros.org/Citadel/SSM/Entry/1316/ So Spake Martin, May 6th, 2005]</ref> Loras and Renly were in a relationship for many years, but were publicly hiding their homosexuality due to the social repercussions this would have with the dominant religion of Westeros, the Faith of the Seven. It isn't exactly clear how widely Renly's relationship with Loras was known about, or even to what extent their friends and family knew (Robert, Stannis, etc.) In the books, Littlefinger and Varys seem to know (due to their spy rings), and even Jaime makes an off-hand comment about it at one point. When directly asked how widely Renly's relationship with Loras was known about (citing that even Jaime knew), Martin's only response was "what do you think?"<ref>[http://www.westeros.org/Citadel/SSM/Entry/A_Number_of_Questions/ So Spake Martin, August 26th, 2000]</ref>
+
+Martin has pointed out in the behind-the-scenes featurettes for the TV series that as a youthful, attractive, and skilled tournament knight, Loras is essentially the "teen heartthrob" of Westeros that all the young noble ladies in the Seven Kingdoms swoon over, as it is not publicly known that he is a homosexual.
+
+When Gregor Clegane is found to be terrorizing the Riverlands, Loras volunteers to lead the forces that Eddard Stark sends to bring him to justice. Eddard, believing him too young, says that Loras would be after vengeance, not justice (because Ser Gregor had tried to kill him at the Hand's Tournament), so he sends [[Beric Dondarrion]] instead. Varys tells Eddard that he should have sent Loras because he was so keen to go, and if you are going to make an enemy of the Lannisters, it would be wise to make a friend of the Tyrells.
+
+When Renly declares himself king, he forms his own rival [[Kingsguard]] which he calls the "Rainbow Guard", enjoying the opportunity to play with the pageantry of forming a new knightly order. The number seven is holy in the Faith of the Seven, and rainbows are one of its symbols. This name change wasn't used in the TV series, where it is simply referred to as "Renly's Kingsguard". Each member of the Rainbow Guard represented a specific color (such as "Brienne the Blue" etc.), and wore armor and clothing that matched each color. Ser Loras was the Lord Commander of Renly's Rainbow Guard, and in this position he didn't represent a specific color like the other six members (therefore no one stood for indigo).
+
+When Renly is murdered, Brienne does not kill Ser [[Robar Royce]] and Ser [[Emmon Cuy]]. When they come into the tent and confront Brienne, Emmon attacks her, but Catelyn swears to Robar that Brienne is innocent. Robar tells Catelyn to get Brienne away, and he holds off Emmon and some men at arms. When Loras arrives to find Renly dead, in his grief and rages he kills Emmon and Robar for their failure to protect Renly and allowing Brienne to escape. Later, he regrets doing this, as they were his friends, and he eventually realizes that Stannis, not Brienne, was responsible. In the series, it is Margaery who talks of blaming Brienne, but Loras, knowing how devoted Brienne was to Renly, says, "I don't believe that. YOU don't believe that."
+
+Loras does not wear Renly's armor in the [[Battle of the Blackwater]] in the book. His brother Garlan does this, and later asks Joffrey to take Margaery as his queen (Margaery still being in the Reach). Seeing him in Renly's armor, many soldiers believed him to be Renly's ghost returned, and as they were once sworn to Renly, they changed sides in the midst of the battle. When Joffrey asks Loras what reward he desires for his part in the battle, Loras asks for a place on Joffrey's Kingsguard. This was primarily a calculated move so that Loras would always be on hand to protect Margaery from Joffrey. It also provided Loras with a convenient way to avoid marriage, something he had no taste for, given his orientation and his grief.
+
+When Jaime and Brienne return to King's Landing, Loras and [[Meryn Trant]] encounter them at the entrance to the [[Red Keep]]. Loras accuses Brienne of Renly's death and is ready to fight her. He does not believe her story about Stannis's shadow. Jaime intervenes and demands Loras to stop. Loras does not comply. Jaime grabs him and says harshly, "Now sheathe your bloody sword, or I'll take it from you and shove it up some place even Renly never found." Jaime also warns Loras that Brienne is formidable, and were he to duel her, "it's like to be your corpse we carry out." Loras obeys grudgingly. Later, Jaime talks with Loras and makes him realize that Brienne is innocent. In the TV series, Brienne visits not Loras, but Margaery, who believes her but advises her to keep quiet.
+
+When Jaime interviews Loras, the youth's arrogance and overconfidence makes him think ''"He's me. I am speaking to myself, as I was, all cocksure arrogance and empty chivalry. This is what it does to you, to be too good too young"''. Jaime does not find the resemblance flattering.
+
+Loras, who was not involved in [[Purple Wedding|the conspiracy to murder Joffrey]], is certain that Sansa is the murderer, claiming that "My sister was drinking from that chalice as well. Sansa Stark was the only person in the hall who had reason to want Margaery dead, as well as the king. By poisoning the wedding cup, she could hope to kill both of them. And why did she run afterward, unless she was guilty?" Apparently, the fact that his sister was in danger makes Loras suspect the wrong person, as he wrongly suspected Brienne of killing the man he loved.
+
+In the books, Loras is left deeply mourning the loss of his great love Renly, and famously swears that he will never love again, saying "When the sun has set, no candle can replace it." Several critics, including Westeros.org, were upset that Loras has sex with [[Olyvar]] on the show in "[[Kissed by Fire]]", because it seemed rather sudden, as if Renly's death did not deeply impact him. Writer [[Bryan Cogman]], however, subsequently did an interview with Westeros.org, and specifically addressed this concern: changes in adaptation meant that Loras had to have sex with Olyvar, to let it slip that he would marry Sansa, as part of the plot mechanics of the Lannister/Tyrell rivalry. However, Cogman explained, his earlier drafts of the episode actually included longer scenes which made it explicitly clear that Loras is ''not'' finished mourning Renly. Rather, Loras was very depressed and lonely, and in effect "drowning his sorrows" by engaging in casual sex in the hope that it would make him feel better, but it ultimately made Loras feel more emotionally distraught and reminded of how much he misses Renly. Cogman lamented that "as we get closer to production, a lot of trims have to be made, and this scene was one where I had to do that." He acknowledged that cutting the scene gave the unintended impression that Loras was moving past Renly, when he actually isn't.<ref>[http://www.westeros.org/GoT/Features/Entry/Season_3_Interview_Bryan_Cogman Westeros.org,] Season 3 Interview: Bryan Cogman.</ref>
+
+Loras has never declared in the novels that Renly was a traitor; it is highly unlikely he would ever make such statement, even to save his life, given his deep feelings to Renly.
+
+Loras being arrested by the [[Faith Militant]] and charged with buggery is an invention of the TV series. Though Cersei does conspire to get rid of Loras, to her surprise and delight, he gives her the opportunity; not long after [[Euron Greyjoy]]'s coronation as [[King of the Iron Islands]], the [[ironborn]] start attacking the coastline of the Reach. Margaery and Loras both urge Cersei to recall the Redwyne fleet, commanded by [[Paxter Redwyne|one of their father's vassals]] and already laying siege to [[Dragonstone]], [[Stannis Baratheon]]'s last stronghold in Westeros, as it is the only naval force capable of battling the [[Iron Fleet]]; when Cersei (who secretly gloats over the Tyrells' distress) makes it plain she won't do so until the castle is back in royal hands, Loras requests Cersei to give him command of the siege, vowing to take the castle within a fortnight. Cersei delightfully agrees, hoping he will get killed due to his rash nature. Loras succesfully takes Dragonstone, but at a great cost: due to his rashness, victory has been needlessly bloodthirsty (about 1,000 Lannister soldiers have been killed), and Loras has been fatally injured by quarrels, maces, and boiling oil. An ecstatic Cersei draws a sadistic pleasure from telling Margaery about Loras while under a false comforting facade. Horrified of her brother's fate and realizing that Cersei's sympathy is a pretence, Margaery furiously orders her to get out of her quarters. 
+
+By the point the books reached, Loras somehow is still clinging to life.
+
+According to the TV series official [[pronunciation guide]] developed for the cast and crew, "Loras Tyrell" is pronounced "LOR-us TI-rul".
+
+==Gallery==
+<gallery>
+Loras Tyrell.jpg|Loras in "[[The Wolf and the Lion]]."
+Knight_of_the_Flowers.png|Loras at the Tourney of the Hand in "The Wolf and the Lion."
+Sandor, Gregor & Loras 1x05.jpg|[[Gregor Clegane]] is ordered to stand down after attacking Loras during the tourney in "The Wolf and the Lion." 
+Loras_looks_at_Renly_105.jpg|Loras Season 1
+Sandor_champion_1x05.png|Loras the champ [[Game of Thrones: Season 1|Season 1]]
+Sandor champion 1x05.png|Ser Loras declares [[Sandor Clegane]] champion of the tourney in "The Wolf and the Lion."
+Loras and Renly.jpg|Loras shaving his lover [[Renly Baratheon]] in "The Wolf and the Lion."
+Loras Tyrell infobox.jpg|Loras in "[[Garden of Bones (episode)|Garden of Bones]]"
+BrienneAfterJoust.jpg|Loras and Brienne at a tournament.
+Tywin court 2x10.jpg|Loras attends the victory ceremony.
+Loras ValarMorghulis Armor.jpg|Promotional image of Ser Loras.
+203 Renly Loras in bed.jpg|Loras and Renly in [[Game of Thrones: Season 2|Season 2]]
+LorasMargaery.jpg|Loras and [[Margaery Tyrell]] Season 2
+Loras vengeance Renly.jpg|Loras and Margaery raise questions about Renly's death
+Tyrion and Sansa wedding 3x08.jpg|Tyrion, Sansa, Tywin, Tyrion, Cersei, Joffrey, Lord [[Varys]], Grand Maester [[Pycelle]], Margaery, Lady [[Olenna Tyrell|Olenna]] and [[Loras Tyrell|Loras]] in "[[Second Sons (episode)|Second Sons]]".
+Loras and Renly 205.jpg|Loras mourns Renly's death [[Game of Thrones: Season 2|Season 2]]
+Renly's Kingsguard with Brienne Loras and heraldry.jpg|Renly and his [[Kingsguard]]
+Loras and Cersei 3x08.jpg|Loras Tyrell with [[Cersei Lannister]] in "[[Second Sons (episode)|Second Sons]]"
+Loras ghost of harrenhal.jpg|"[[The Ghost of Harrenhal]]"
+Loras_Tyrell.jpg|Loras at the [[Red Keep]]
+Loras Tyrell The Climb.jpg
+LorasTyrell5X06.PNG|Loras before the Faith Militants go to crazy on him, [[Game of Thrones: Season 5|Season 5]]
+Loras-Tyrell-S4-EP-02-T-L-a-t-R.jpg|Loras in "[[The Lion and the Rose]]".
+Loras ghost of harrenhal.jpg
+Loras as Renly.jpg|Loras posing as Renly in "[[Blackwater]]"
+Loras and Margaery deleted scene 02.jpg|Season 2 deleted scene between Loras and Margaery
+Margaery and Loras Tyrell 4x06.jpg|Loras with his sister in "[[The Laws of Gods and Men]]".
+Loras Tyrell, Sons of the Harpy (episode), Costumes- The Seven Kingdoms.jpeg|Loras is arrested by the [[Faith Militant]]. Note the color of his sparring outfit: in [[Game of Thrones: Season 5|Season 5]], the Tyrell's costumes have changed from the mild teal seen in earlier seasons to bold green as a visual assertion of their power.
+Olyvar kissed by fire.jpg|[[Olyvar]] is told to flirt with Loras
+Loras sansal The Climb.jpg|Loras and Sansa "[[The Climb]]"
+Loras and Cersei 3x08.jpg|Cersei speaks to Loras [[Game of Thrones: Season 3|Season 3]]
+Jaime-and-Loras-402.jpg|Loras and Jaime in [[Game of Thrones: Season 4|Season 4]]
+501 Loras Olyvar 2.jpg|Loras and Olyvar [[Game of Thrones: Season 5|Season 5]]
+Loras season five trailer.png|[[Game of Thrones: Season 5|Season 5]], Loras attempts to attack Olyvar for whistle-blowing during trial.
+The_Winds_of_Winter_03.jpg|Loras confesses to ridiculous crimes in "[[The Winds of Winter]]"
+Loras Tyrell, Sons of the Harpy (episode), Costumes- The Seven Kingdoms.jpeg|Loras arrested [[Game of Thrones: Season 5|Season 5]], "[[Sons of the Harpy (episode)|Sons of the Harpy]]"
+Loras season five trailer.png|Loras restrained from attacking Olyvar
+The Winds of Winter 31.jpeg|Loras last seen alive with his sister Margaery in the Great Sept.
+</gallery>
+
+==Appearances==
+*{{GOT|Lord Snow}} {{Mentioned}}
+*{{GOT|The Wolf and the Lion}}
+*{{GOT|What Is Dead May Never Die}}
+*{{GOT|Garden of Bones}}
+*{{GOT|The Ghost of Harrenhal}}
+*{{GOT|Blackwater}}
+*{{GOT|Valar Morghulis}}
+*{{GOT|Valar Dohaeris}}
+*{{GOT|Dark Wings, Dark Words}}
+*{{GOT|Kissed by Fire}}
+*{{GOT|The Climb}}
+*{{GOT|Second Sons}}
+*{{GOT|The Lion and the Rose}}
+*{{GOT|First of His Name}}
+*{{GOT|The Laws of Gods and Men}}
+*{{GOT|The Wars To Come}}
+*{{GOT|High Sparrow}}
+*{{GOT|Sons of the Harpy}}
+*{{GOT|Unbowed, Unbent, Unbroken}}
+*{{GOT|Book of the Stranger}}
+*{{GOT|The Winds of Winter}}
+*{{H&L|Highgarden}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+*{{AWOIAF|Willas Tyrell}}
+*{{AWOIAF|Garlan Tyrell}}
+*{{HBO|game-of-thrones/cast-and-crew/loras-tyrell}}
+
+<!--Navboxes-->
+{{House Tyrell}}
+{{House Baratheon}}
+{{Kingsguard of Renly Baratheon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Tyrell, Loras}}
+[[Category:Faith Militant]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Individuals from the Reach]]
+[[Category:Kingsguard of Renly Baratheon]]
+[[Category:Knights]]
+[[Category:Lords Commander of the Kingsguard]]
+[[Category:Members of House Tyrell|Loras Tyrell]]
+[[Category:Wards]]
+
+<!--Languages-->
+[[de:Loras Tyrell]]
+[[es:Loras Tyrell/Game of Thrones]]
+[[fr:Loras Tyrell]]
+[[it:Loras Tyrell]]
+[[nl:Loras Tyrel]]
+[[pl:Loras Tyrell]]
+[[pt-br:Loras Tyrell]]
+[[ru:Лорас Тирелл]]
+[[zh:洛拉斯·提利尔]]

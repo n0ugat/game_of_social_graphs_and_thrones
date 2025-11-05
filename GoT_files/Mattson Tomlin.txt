@@ -1,0 +1,25 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Conquest
+| Image   = 
+| Birth   = July 16, 1990 {{Age|1990|7|16}}<br>Bucharest, Romania
+| Death   = 
+| Role    = Developer
+| Series  = [[Aegon's Conquest (Mattson Tomlin)|Aegon's Conquest]]
+| Season  = 
+| Credits = 
+| First   = 
+| Last    = 
+}}
+'''Mattson Tomlin''' is a filmmaker and writer attached to the [[Aegon's Conquest (Mattson Tomlin)|Aegon's Conquest]] television series.{{Webref|name=Tomlin |author=James Hibberd, Borys Kit |date=February 8, 2024 |url=https://www.hollywoodreporter.com/tv/tv-news/game-of-thrones-spinoff-aegons-conquest-mattson-tomlin-1235792104/ |title=‘Game of Thrones’ Aegon’s Conquest Spinoff in the Works From ‘The Batman Part II’ Writer (Exclusive) |website=The Hollywood Reporter |access-date=February 9, 2024 }}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb|# = 3231728}}
+*{{WP}}
+
+<!--Categories-->
+{{DEFAULTSORT:Tomlin, Mattson}}
+[[Category:Developers of Aegon's Conquest (Mattson Tomlin)]]

@@ -1,0 +1,52 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Matt Smith.jpg
+| Birth   = Matthew Robert Smith<br>October 28, 1982 {{Age|1982|10|28}}<br>Northampton, England
+| Death   = 
+| Role    = [[Daemon Targaryen]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]] {{*}} [[House of the Dragon: Season 2|2]] {{*}} [[House of the Dragon: Season 3|3]]
+| Credits = 18 episodes {{Below|Credits}}
+| First   = "[[The Heirs of the Dragon]]"
+| Last    = 
+}}
+'''Matthew Robert Smith''' (born 28 October 1982) is an English actor, best known for his roles as the 11th Doctor on ''Doctor Who'' and Prince Philip for the first two seasons of ''The Crown''. He portrays Prince [[Daemon Targaryen]] in ''[[House of the Dragon]]''.<ref>[https://twitter.com/GameOfThrones/status/1337498103197339649 Game of Thrones Official Twitter,] December 11th 2020.</ref>
+
+==Biography==
+Matthew Robert Smith was born in Northampton, East Midlands on 28 October 1982. He attended the Northampton School for Boys and later Alton College. Initially Smith had a promising football career which was cut short due to a back injury, after which he switched to acting. He studied Drama and Creative Writing at the University of East Anglia, graduating in 2005.
+
+In January 2009, Matt Smith was announced as playing the eleventh incarnation of the Doctor in BBC's longrunning ''Doctor Who'' series. The choice was surprising at the time, given that Smith was relatively unknown, and at 26 years old he was the youngest actor ever cast as the lead role in the show. Smith ultimately completed his run on ''Doctor Who'' and left the show in the 2013 Christmas special.
+
+In June 2015, Smith was cast to portray Prince Philip, Duke of Edinburgh, in the Netflix royal drama ''The Crown''. Smith played the role for the first two seasons - the series was structured so that it had a rotating cast, with new older actors taking over the roles as the characters aged. The role was taken over by [[Tobias Menzies]] in the third and fourth season, while [[Jonathan Pryce]] will play the role in the final two seasons.
+
+On December 11, 2020, it was announced that he would be playing [[Daemon Targaryen]] in ''[[House of the Dragon]]''.
+
+Smith was nominated for the {{WPS|28th Critics' Choice Awards}} in the category "Best Supporting Actor in a Drama Series" for his performance as Daemon Targaryen.<ref>https://variety.com/2023/awards/news/critics-choice-awards-2023-winners-list-1235488828/</ref>
+
+==Credits==
+===Starring===
+{{House of the Dragon: Season 1|yes|yes|yes|yes|yes|yes|yes|yes||yes}}
+{{House of the Dragon: Season 2|yes|yes|yes|yes|yes|yes|yes|yes}}
+{{House of the Dragon: Season 3||||yes}}
+
+==See also==
+*{{WP}}
+*{{IMDb|# = 1741002}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House of the Dragon}}
+{{House of the Dragon: Inside the Episode}}
+
+<!--Categories-->
+{{DEFAULTSORT:Smith, Matt}}
+[[Category:Commentators of House of the Dragon: Inside the Episode]]
+[[Category:Starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[de:Matt Smith]]
+[[fr:Matt Smith]]
+[[pl:Matt Smith]]

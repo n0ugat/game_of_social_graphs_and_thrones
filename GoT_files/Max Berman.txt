@@ -1,0 +1,20 @@
+{{Crew
+| Title=  Max Berman
+| Image= 
+| dateofbirth= 
+| birthplace= 
+| job= Concept Artist
+| imdb= http://www.imdb.com/name/nm1715747/
+| twitter= http://twitter.com/artdeptmax
+}}
+'''Max Berman''' is an award-winning concept artist working on ''[[Game of Thrones]]''.
+
+==See also==
+*{{Template:IMDb
+|# = 1715747/}}
+*{{Template:Twitter
+|# = artdeptmax}}
+* [http://www.maxberman.com/concept-art/ Max Berman's personal website] (includes samples of concept art used for ''Game of Thrones'').
+
+{{DEFAULTSORT:Berman, Max}}
+[[Category:Production staff members of Game of Thrones]]

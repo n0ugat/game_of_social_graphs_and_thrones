@@ -1,0 +1,69 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = House Harroway.svg
+| Link  = House Harroway
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Tully
+| Image       = 
+| Birth       = The [[Riverlands]], [[Westeros]]
+| Death       = [[King's Landing]], the [[Crownlands]]
+| House       = [[House Harroway|Harroway]]
+| Affiliation = [[House Tully]]<br>[[House Targaryen]]
+| Titles      = [[Lord of Harrenhal]]<br>[[Hand of the King]] {{C|to [[Maegor Targaryen|Maegor I]]}}
+| Predecessor = 
+| Successor   = {[[Edwell Celtigar]]} {{C|Hand of the King}}
+| AKA         = 
+| Culture     = [[Riverlands|Rivermen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = {[[Alys Harroway]]}
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Not only did Maegor execute his second wife and her father, his own Hand of the King, but he also marched on her family's castle and slaughtered everyone who bore a drop of her family's blood.|[[Varys]]|Maegor the Cruel (short)}}
+Lord '''Lucas Harroway'''{{Con|TWOI&F}} was the [[Lord of Harrenhal]] and [[Hand of the King]] during the reign of his son-by-law, [[Maegor Targaryen]].
+
+==Biography==
+Lucas became Maegor Targaryen's father-by-law when the [[prince]] married his daughter, [[Alys Harroway]]. At some point, he was named [[Hand of the King]] to Maegor.{{Ref|H&L806}}
+
+In 44 AC, Alys had a deformed stillborn baby. Maegor's third wife, Queen [[Tyanna of the Tower]], convinced him that the boy had not been of his seed, but the result of one of Alys's many affairs, and that Lucas himself had helped his daughter conceive a son for the king by sending men of proven fertility to her chambers. King Maegor believed Tyanna and executed her and Lucas, then marched on [[Harrenhal]] and wiped out everyone with a drop of [[House Harroway|Harroway]] blood.{{Ref|H&L806}}
+
+==In the books==
+In ''The World of Ice & Fire'' and ''Fire & Blood'', Lucas Harroway's story is the same. He is not mentioned in the ''[[A Song of Ice and Fire]]'' novels.
+
+==Appearances==
+*{{H&L|Maegor the Cruel}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+{{DEFAULTSORT:Harroway, Lucas}}
+[[Category:Bannermen of House Tully]]
+[[Category:Hands of the King]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Lords of Harrenhal]]
+[[Category:Members of House Harroway|Lucas Harroway]]
+[[Category:Rivermen]]
+[[Category:Servants and retainers of House Targaryen]]
+
+<!--Languages-->
+[[ru:Лукас Харровей]]

@@ -1,0 +1,50 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = House Mormont.svg
+| Link  = House Mormont
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Stark
+| Image        = Bear-island-02.jpg
+| Type         = Castle
+| Status       = 
+| Location     = [[Bear Island]], the [[North]]
+| Population   = 
+| Rulers       = {[[House Mormont]]}
+| Institutions = 
+| Military     = 
+| Religion     = [[Old Gods]]
+| Places       = 
+| Founded      = 
+}}
+'''Mormont Keep'''{{Note|Conjecture based on information from ''A Song of Ice and Fire Campaign Guide''; may be subject to change.}} is a castle on [[Bear Island]] in the [[North]]. It is named for [[House Mormont]], its historical rulers.
+
+==History==
+===[[Game of Thrones: Season 6|''Game of Thrones'': Season 6]]===
+[[Jon Snow]], [[Sansa Stark]], and [[Davos Seaworth]] visit Mormont Keep to seek an audience with [[Lyanna Mormont]], the [[Lord of Bear Island|Lady of Bear Island]]. Lyanna musters 62 [[Man-at-arms|men-at-arms]] from her household to fight in Jon's army.{{Ref|GOT607}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Mormont Keep is a castle with wooden walls and a smoky keep.{{Bookref|AWOIAF|Bear Island}} The main hall is built with large logs and surrounded by a palisade of earth.{{Bookref|ACOK|12}} A carving on the gate depicts a woman with a babe in one hand and a battleaxe in the other.{{Bookref|ASOS|45}} The name "Mormont Keep" is not mentioned in the books, but is provided in the ''A Song of Ice and Fire'' Campaign Guide.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Mormont}}
+{{North}}
+
+<!--Categories-->
+[[Category:Bear Island]]
+[[Category:Castles of the North]]
+[[Category:House Mormont]]
+
+<!--Languages-->
+[[ru:Усадьба Мормонтов]]

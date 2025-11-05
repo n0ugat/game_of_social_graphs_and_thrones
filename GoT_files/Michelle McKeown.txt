@@ -1,0 +1,21 @@
+{{Crew
+|Image = 
+|dateofbirth = 
+|birthplace = 
+|job = Stunt Department Assistant
+|imdb = https://www.imdb.com/name/nm4983943/
+|twitter = }}
+'''Michelle McKeown''' is a stunt department assistant.
+
+In ''[[Game of Thrones]]'', he was a stunt department assistant in the [[Game of Thrones: Season 2|second season]] and [[Game of Thrones: Season 3|third]] seasons.
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 2|yes|yes|yes|yes|yes|yes|yes|yes|yes|yes|yes}}
+{{Game of Thrones: Season 3|yes|yes|yes|yes|yes|yes|yes|yes|yes|yes|yes}}
+
+==See also==
+*{{IMDb
+|# = 4983943}}
+{{DEFAULTSORT:McKeown, Michelle}}
+[[Category:Stunt performers of Game of Thrones]]

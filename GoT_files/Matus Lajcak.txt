@@ -1,0 +1,20 @@
+{{Crew
+|Image = 
+|dateofbirth = 
+|birthplace = 
+|job = Stunt Performer
+|imdb = https://www.imdb.com/name/nm8598157/
+|twitter = }}
+'''Matus Lajcak''' is a stuntman.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 7|seventh season]] episode "[[The Queen's Justice]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 7|||yes}}
+
+==See also==
+*{{IMDb
+|# = 8598157}}
+{{DEFAULTSORT:Lajcak, Matus}}
+[[Category:Stunt performers of Game of Thrones]]

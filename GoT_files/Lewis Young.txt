@@ -1,0 +1,38 @@
+{{Person
+| Title = {{PAGENAME}}
+| Type = Dragon
+| Image = Lewis Young.jpg
+| Birth   = 
+| Death   = 
+| Role    = Stunt Performer
+| Series  = ''[[Game of Thrones]]''<br>''[[House of the Dragon]]''
+| Season  = ''Game of Thrones'':<br>[[Game of Thrones: Season 5|5]] {{*}} [[Game of Thrones: Season 7|7]] {{*}} [[Game of Thrones: Season 8|8]]<br>''House of the Dragon'':<br>[[House of the Dragon: Season 2|2]]
+| Credits = 13 episodes {{Below|Credits}}
+| First   = "[[The House of Black and White]]"
+| Last    = }}
+'''Lewis Young''' is a stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 5|fifth season]] episodes "[[The House of Black and White]]", "[[Sons of the Harpy (episode)|Sons of the Harpy]]", "[[Hardhome (episode)|Hardhome]]", "[[The Dance of Dragons (episode)|The Dance of Dragons]]" and "[[Mother's Mercy]]" and the [[Game of Thrones: Season 7|seventh season]] episodes "[[Stormborn]]", "[[The Queen's Justice]]", "[[The Spoils of War]]" and "[[The Dragon and the Wolf]]" and the [[Game of Thrones: Season 8|eighth season]] episodes "[[The Long Night]]" and "[[The Bells]]".
+
+In ''[[House of the Dragon]]'', he was a stunt performer in the [[House of the Dragon: Season 2|second season]] episodes "[[A Son for a Son]]" and "[[The Red Sowing]]".
+
+==Credits==
+===Stunts===
+====''[[Game of Thrones]]''====
+{{Game of Thrones: Season 5||yes|yes|||||yes|yes|yes}}
+{{Game of Thrones: Season 7||yes|yes|yes|||yes}}
+{{Game of Thrones: Season 8|||yes||yes}}
+
+====''[[House of the Dragon]]''====
+{{House of the Dragon: Season 2|yes||||||yes}}
+
+==See also==
+*{{IMDb
+|# = 4447854}}
+*{{Facebook
+|# = lewis.young.395}}
+*{{Linkedin
+|# = /in/lewis-young-61840388}}
+{{DEFAULTSORT:Young, Lewis}}
+[[Category:Stunt performers of Game of Thrones]]
+[[Category:Stunt performers of House of the Dragon]]

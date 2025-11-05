@@ -1,0 +1,68 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Targaryen
+| Image       = Martha.png
+| Birth       = At [[Winterfell]]
+| Death       = 
+| House       = 
+| Affiliation = [[House Stark]]<br>[[House Targaryen]]<br>{[[Varys]]}
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Northmen|Northern]]
+| Religion    = [[Old Gods]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 8|8]]
+| Appearances = 2 episodes {{Below|Appearances}}
+| First       = "[[The Long Night]]"
+| Last        = "[[The Bells]]"
+| DeathEp     = 
+| Actor       = [[Bronte Carmichael]]
+}}
+{{Dialogue a-b|Varys|What have I told you, Martha?|Martha|The greater the risk, the greater the reward.|Varys and Martha|The Bells}}
+'''Martha''' is a [[Northmen|Northern]] girl and one of the [[little birds]] working for [[Varys]].
+
+==Biography==
+===Background===
+Martha is a girl from Winterfell who works in the kitchens and secretly spying for Varys.{{Ref|GOT805}}
+
+===[[Game of Thrones: Season 8|''Game of Thrones'': Season 8]]===
+She is at [[Winterfell]] during the [[Battle of Winterfell]], hiding in the crypt with Varys. They hide behind the statue of [[Lyanna Stark]] when the dead are [[Wight|reanimated]] by the [[Night King]].{{Ref|GOT803}}
+
+Later, she works in the kitchens at [[Dragonstone]]. She reports to Varys that [[Daenerys Targaryen|Daenerys]] has not been accepting food, to which Varys responds that they will "try again tomorrow", suggesting that Varys is attempting to [[poison]] Daenerys.{{Ref|GOT805}}
+
+==Behind the scenes==
+Martha is portrayed by [[Bronte Carmichael]], and appears in both of the season 8 episodes directed by [[Miguel Sapochnik]].<ref>https://www.independenttalent.com/actors/bronte-carmichael/</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no character by that name.
+
+==Appearances==
+*{{GOT|The Long Night}}
+*{{GOT|The Bells}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Little birds}}
+
+<!--Categories-->
+[[Category:Assassins]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Little birds]]
+[[Category:Northmen]]
+[[Category:Smallfolk]]
+
+<!--Languages-->
+[[de:Martha]]
+[[fr:Martha]]
+[[ru:Марта]]

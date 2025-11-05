@@ -1,0 +1,90 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Leftimage  = House Martell.svg
+| Leftlink   = House Martell
+| Rightimage = Kingsguard.svg
+| Rightlink  = Kingsguard
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Targaryen
+| Image       = Lewyn Martell.png
+| Birth       = [[Sunspear]], [[Dorne]]
+| Death       = [[281 AC]]{{Dateref|Robert's Rebellion}}<br>The [[Trident]], the [[Riverlands]]
+| House       = [[House Martell|Martell]]
+| Affiliation = [[Kingsguard]]
+| Titles      = [[Prince]]<br>[[Knighthood|Ser]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Dornishmen|Dornish]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|At the Trident, Dorne lost 10,000 men and two princes: my uncle in the Kingsguard, and Elia's gallant husband, Prince Rhaegar, who was too slow or too arrogant for Robert's warhammer.|[[Oberyn Martell]]|Robert's Rebellion - Oberyn Martell}}
+Prince '''Lewyn Martell''' was a knight in the [[Kingsguard]] of King [[Aerys II Targaryen]], who came to be known as "the Mad King."
+
+==Biography==
+Lewyn Martell was the uncle of [[Doran Martell|Doran]], [[Elia Martell|Elia]], and [[Oberyn Martell]]. A younger son, he joined the elite Kingsguard, forswearing any claim to land and title.
+
+Even though Rhaegar dishonored Elia by [[Abduction of Lyanna Stark|running off with Lyanna]], thus igniting [[Robert's Rebellion]], Lewyn kept his oath and followed Rhaegar to face the rebel army led by [[Robert Baratheon]] at the climactic [[Battle of the Trident]]. Lewyn perished in the battle, along with Rhaegar and thousands of other Dornishmen.{{Ref|H&L407}}{{Ref|H&L508}}
+
+==Family==
+{{Martell tree}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Lewyn Martell is remembered fondly by his family as a kind man who loved his extended family. The Kingsguard are forbidden to marry or even to love, and in the past several have been severely punished even for having sexual affairs. As per the customs of Dorne, however, Lewyn continued to secretly keep a [[Paramour|paramour]]. Ser [[Barristan Selmy]] and the other Kingsguard were aware of it but kept his secret, as he did not let it interfere with his duty.
+
+Lewyn joined the Kingsguard in part because he was the younger sibling in his generation of House Martell. He was actually the eldest son, but rule passed to his older sister (mother of Doran, Elia, and Oberyn) due to Dorne's gender-blind inheritance laws, different from the rest of the Seven Kingdoms.
+
+At the Battle of the Trident, Lewyn led the large Dornish contingent (10,000 men strong) which threatened to break Robert's left flank. He was ordered to command the Dornish forces by Aerys, who was suspicious of Dorne and House Martell's loyalty and threatened to harm Elia and her children unless Lewyn obeyed. During the fighting he was seriously wounded, and in the confusion Ser Lyn Corbray led a rebel counter-charge in which he personally dueled and killed Lewyn. The vain and arrogant Ser Lyn would in later years boast about how he had personally defeated Lewyn, though in reality Lewyn was already very badly wounded (perhaps mortally so), and Corbray simply finished him off. [[Petyr Baelish|Littlefinger]] warns [[Sansa Stark|Sansa]] not to mention that fact, however, as Corbray has a tendency to kill those who point it out.{{Bookref|AFFC|23}}
+
+After Lewyn was killed at the Trident, Aerys became convinced Rhaegar's death in the same battle was the result of Lewyn having betrayed him, and flatly refused to allow Elia and her children to leave [[King's Landing]] for [[Dragonstone]] along with the pregnant Queen [[Rhaella Targaryen|Rhaella]] and [[Viserys Targaryen (son of Aerys II)|Viserys]], convinced the only way to ensure Dorne's loyalty was to keep Elia and his grandchildren by her close at hand, ultimately contributing to their deaths during the [[Sack of King's Landing]]. After the end of Robert's Rebellion, as part of the peace negotiations with Doran to ensure Dorne's peaceful acceptance of Robert's rule, [[Jon Arryn]] returned Lewyn's bones to [[Sunspear]] so the Martells could give him a proper burial. 
+
+==Appearances==
+*{{H&L|Robert's Rebellion - Oberyn Martell}} {{Mentioned}}
+*{{H&L|The Kingsguard - Jaime Lannister}} {{Illustrated}}
+*{{H&L|Robert's Rebellion - Barristan Selmy}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Martell}}
+{{Kingsguard of Aerys II Targaryen}}
+
+<!--Categories-->
+{{DEFAULTSORT:Martell, Lewyn}}
+[[Category:Dornishmen]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Kingsguard of Aerys II Targaryen]]
+[[Category:Knights]]
+[[Category:Members of House Martell|Lewyn Martell]]
+[[Category:Princes]]
+
+<!--Languages-->
+[[de:Lewyn Martell]]
+[[es:Lewyn Martell]]
+[[it:Lewyn Martell]]
+[[nl:Lewyn Martel]]
+[[pl:Lewyn Martell]]
+[[ru:Левин Мартелл]]
+[[zh:勒文·马泰尔]]

@@ -1,0 +1,33 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Nina Lopez Corrado.png
+| Birth   = 
+| Death   = 
+| Role    = Director
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 3|3]]
+| Credits = 2 episodes {{Below|Credits}}
+| First   = [[House of the Dragon: Season 3, Episode 5|Season 3, Episode 5]]
+| Last    = 
+}}
+'''Nina Lopez-Corrado''' is a director. Her credits include ''The Night Agent'', ''Supernatural'', ''FBI: International'', ''Perry Mason,''  ''Agents of S.H.I.E.L.D.,'' ''A Million Little Things,'' and ''The Last of Us'' Season 2. She joined ''[[House of the Dragon]]'' in its [[House of the Dragon: Season 3|third season]].{{Webref|name=NLC |author=Gravemaster |date=January 30, 2025 |url=https://redanianintelligence.com/2025/01/30/house-of-the-dragon-season-3-gets-a-new-director/ |title=House of the Dragon Season 3 Gets a New Director |website=Redanian Intelligence |access-date=January 31, 2025 }}
+
+==Career==
+Nina Lopez-Corrado worked as a production assistant on ''The Mentalist'' for seven seasons across 150 episodes, guest directing one episode in the final season. Afterwards she guest directed across several TV series, becoming a repeat director on ''Supernatural'' and ''Agents of S.H.I.E.L.D.'', and then directing 16 episodes of ''A Million Little Things''. She started directing for HBO projects with ''The Nevers'' and continued on ''Perry Mason''. She also directed two out of ten episodes in the first season of Netflix's hit series ''The Night Agent''.<ref>[https://www.fullsail.edu/about/full-sail-stories/hall-of-fame-inductee-nina-lopez-corrado-directs-episodes-for-hit-tv-shows Full Sail University,] May 14, 2024</ref>
+
+==Credits==
+===Director===
+{{House of the Dragon: Season 3|||||yes||yes}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{Facebook|#=ninalopezcorrado}}
+*{{IMDb|#=0453270}}
+*{{Instagram|#=nlopezcorrado}}
+
+<!--Categories-->
+{{DEFAULTSORT:Lopez-Corrado, Nina}}
+[[Category:Directors of House of the Dragon]]

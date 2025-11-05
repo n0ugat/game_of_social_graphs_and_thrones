@@ -1,0 +1,48 @@
+{{Canonicity|Canon}}
+{{References}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Ghiscari
+| Image        = New Ghis map.png
+| Type         = City
+| Status       = 
+| Location     = [[Gulf of Grief]], [[Essos]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = 
+| Places       = 
+| Founded      = 
+}}
+[[File:Slaver's Bay.png|thumb|200px|New Ghis is located in the southeast of the Gulf of Grief, south of Astapor.]]
+'''New Ghis'''{{Mapref|Viewer's Guide}} is a city in the [[Gulf of Grief]], in [[Essos]]. It is located on a small island south of [[Ghiscar]] and separated from the continent by the [[Ghiscari Strait]], putting it to the south of [[Astapor]] and the rest of [[Slaver's Bay]]. It is named after the [[Old Ghis|ruined capital]] of the fallen [[Ghiscari Empire]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, New Ghis is located near the larger island of Ghaen. Much like [[Volantis]] once tried to do with the [[Valyrian Freehold]], New Ghis seeks to rebuild the Ghiscari Empire under its leadership.
+
+New Ghis has a powerful army and fleet, and uses elephants in battle. Its legions draw inspiration from the [[Unsullied]] warrior-eunuchs, but while the Unsullied are slaves the troops of New Ghis are free men who serve for three-year terms.
+
+In ''A Dance with Dragons'', New Ghis joins the coalition of [[Yunkai]] and other cities against [[Daenerys Targaryen|Daenerys]], sending six legions, a total of 36,000 soldiers.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Known world}}
+{{Slaver's Bay}}
+
+<!--Categories-->
+[[Category:Ghiscari cities]]
+[[Category:Gulf of Grief]]
+[[Category:Harbors]]
+[[Category:Islands]]
+[[Category:Summer Sea]]
+
+<!--Languages-->
+[[ru:Новый Гис]]
+[[uk:Новий Гіс]]
+[[zh:新吉斯]]

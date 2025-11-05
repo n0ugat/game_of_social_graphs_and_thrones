@@ -1,0 +1,68 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Blackwood.svg
+| Link  = House Blackwood
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Tully
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = [[House Blackwood|Blackwood]]{{Ref|HOTD104}}
+| Affiliation = [[House Hoare]] {{C|formerly}}<br>[[House Tully]]
+| Titles      = Lord of [[Raventree Hall]]
+| AKA         = 
+| Culture     = [[Riverlands|Rivermen]]
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Dialogue a-b|Willem Blackwood|My princess, ours is a bond that has long endured. Since Lucas Blackwood, the grandsire of my grandsire, aided the Dragon in his War of Conquest.|Jerrel Bracken|Aye, the Blackwoods truly turned the tide on that one.|[[Willem Blackwood]] and [[Jerrel Bracken]]|King of the Narrow Sea (episode)}}
+Lord '''Lucas Blackwood''' was the Lord of [[Raventree Hall]] during [[Aegon's Conquest]].
+
+==Biography==
+===Background===
+Lucas supported [[Aegon I Targaryen|Aegon the Conqueror]] when the conquest reached the [[Riverlands]], turning on his [[Ironborn]] king, [[Harren Hoare|Harren the Black]].{{Ref|HOTD104}}
+
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+Lucas's great-great-grandson, [[Willem Blackwood]], mentions him whilst vying for [[Rhaenyra Targaryen]]'s hand.{{Ref|HOTD104}}
+
+==In the books==
+In ''[[Fire & Blood]]'', the Lord Blackwood who supported Aegon I in the Conquest is unnamed. He is known to have had daughters. In the ''[[A Song of Ice and Fire]]'' novels, Lucas Blackwood is the second son of Lord Tytos Blackwood.
+
+==Appearances==
+*{{HOTD|King of the Narrow Sea}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Lord Blackwood (Aegon's Conquest)}}
+
+<!--Navboxes-->
+{{House Blackwood}}
+
+<!--Categories-->
+{{DEFAULTSORT:Blackwood, Lucas}}
+[[Category:Bannermen of House Tully]]
+[[Category:Individuals mentioned in House of the Dragon]]
+[[Category:Members of House Blackwood|Lucas Blackwood]]
+[[Category:Lords]]
+[[Category:Rivermen]]
+
+<!--Languages-->
+[[fr:Lucas Nerbosc]]
+[[ru:Лукас Блэквуд]]

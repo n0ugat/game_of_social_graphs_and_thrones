@@ -1,0 +1,79 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Bran Stark.svg
+| Link  = Bran Stark
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Crownlander
+| Image        = Maegor's Holdfast Official Guide.jpg
+| Type         = Tower
+| Status       = 
+| Location     = [[Red Keep]], [[King's Landing]]
+| Population   = 
+| Rulers       = [[House Targaryen]] {{C|formerly}}<br>{[[House Baratheon of King's Landing]]} {{C|formerly}}<br>[[House Lannister]] {{C|formerly}}<br>[[King of the Andals and the Rhoynar and the First Men|King of the Andals and the First Men]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = King's Apartments<ref name="King">"[[King of the Narrow Sea (episode)|King of the Narrow Sea]]"</ref>
+| Founded      = by {[[Maegor Targaryen|Maegor the Cruel]]}
+}}
+[[File:Slaughter.png|thumb|[[Knighthood|Ser]] [[Gregor Clegane]] murders [[Prince]] [[Rhaegar Targaryen|Rhaegar Targaryen]]'s family in Maegor's Holdfast, on the orders of [[Lord of Casterly Rock|Lord]] [[Tywin Lannister]].]]
+{{Quote|Surely my sister has asked you to join the other highborn ladies in Maegor's Holdfast?|[[Tyrion Lannister]] to [[Sansa Stark]]|Blackwater}}
+'''Maegor's Holdfast'''{{Ref|GOT209}} is a stout tower in the center of the [[Red Keep]]. It was named after King [[Maegor Targaryen]].
+
+==History==
+===Background===
+[[Elia Martell]], [[Aegon Targaryen (son of Elia Martell)|Prince Aegon]], and [[Rhaenys Targaryen (daughter of Rhaegar)|Princess Rhaenys]] were murdered by [[Gregor Clegane]] within Maegor's Holdfast during the [[Sack of King's Landing]].
+
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+[[Rhaenyra Targaryen|Rhaenyra]] and [[Alicent Hightower|Alicent]] pass through Maegor's Holdfast during their return to the Red Keep.<ref name="Heirs">"[[The Heirs of the Dragon]]"</ref>
+
+After the death of Ser [[Ryam Redwyne]] of the [[Kingsguard/House of the Dragon|Kingsguard]], several replacement candidates are brought before Rhaenyra in Maegor's Holdfast.<ref name="Rogue">"[[The Rogue Prince]]"</ref>
+
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+Maegor's Holdfast serves as a redoubt when the city is attacked in the [[Battle of the Blackwater]]. Queen Regent [[Cersei Lannister]] hosts the women of the court there when the city is attacked by King [[Stannis Baratheon]]. They take refuge in a sparse stone walled room fitted with bunk beds. Cersei has a larger double bed on a dais.<ref>"[[Blackwater]]"</ref>
+
+===[[Game of Thrones: Season 6|''Game of Thrones'': Season 6]]===
+The [[Faith Militant]] enters Maegor's Holdfast, demanding Cersei's presence at the [[Great Sept of Baelor]]. She refuses, and they are forced to leave when Gregor Clegane rips a Brother's head off with minimal effort.<ref>"[[No One]]"</ref>
+
+===[[Game of Thrones: Season 7|''Game of Thrones'': Season 7]]===
+Cersei has a detailed map of [[Westeros]] painted in the holdfast, to prepare against [[Daenerys Targaryen]] in the [[Last War]].<ref>"[[Dragonstone (episode)|Dragonstone]]"</ref>
+
+===[[Game of Thrones: Season 8|''Game of Thrones'': Season 8]]===
+After the burning of the [[Iron Fleet]] and all of the [[scorpion]]s, and the breaching of the [[Red Keep]], [[Qyburn]] advises Cersei to retreat to Maegor's Holdfast. Her [[Kingsguard|Queensguard]] attempts to escort her there, but a few are crushed by falling debris and the rest are slain by [[Sandor Clegane]], and Cersei continues alone into the holdfast.<ref name="E72">"[[The Bells]]"</ref>
+
+[[Jaime Lannister|Jaime]] eventually reaches Maegor's Holdfast and finds Cersei in the courtyard. They embrace and leave the holdfast together.<ref name="E72"/>
+
+Tyrion enters a secret passage next to Cersei's desk in the small council room, adjacent to the map courtyard in Maegor's Holdfast, in order to reach the red keep caverns. It appears that the room is one of the least damaged spaces in the castle, since the only damage is a crooked chandelier and ash covers the surfaces of the furniture. The Lannister sigil fixtures have also remained intact. Following the [[assassination of Daenerys Targaryen]], the damage to the Holdfast is mostly repaired, and Tyrion hosts the new small council meeting there. The map courtyard also appears to have been cleared of debris, but the crack in Cersei's map still remains.<ref>"[[The Iron Throne]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' books Maegor's Holdfast is a massive square fortress inside the heart of the Red Keep behind walls twelve feet thick and a dry moat lined with iron spikes. It is a castle-within-a-castle. The royal apartments are in Maegor's Holdfast.
+
+The Holdfast also contains the Queen's Ballroom, a hall only half as big as the Small Hall in the [[Tower of the Hand]]. The Ballroom seats one hundred and has beaten silver mirrors behind the wall sconces which makes the torch's light seem twice as bright. Its walls are paneled with richly carved wood and it has a gallery above the main floor. High arched windows sit along the south wall.
+
+During the Battle of the Blackwater, Cersei and the noble ladies of the court gather at the Queen's Ballroom.
+
+==Gallery==
+<gallery>
+File:701 Westeros big floor map.png|Map of Westeros painted on the floor.
+File:TRP Kingsguard Candidates.jpg|Kingsguard candidates gather. 
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Crownlands}}
+
+<!--Categories-->
+[[Category:Red Keep]]
+[[Category:Towers]]
+
+<!--Languages-->
+[[de:Maegors Feste]]
+[[fr:Citadelle de Maegor]]
+[[ru:Твердыня Мейгора]]

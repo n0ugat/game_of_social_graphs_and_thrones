@@ -1,0 +1,33 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Michael Carter.jpg
+| Birth   = June 29, 1947 {{Age|1947|6|29}}<br>Dumfries, Dumfriesshire, Scotland
+| Death   = 
+| Role    = [[Jaehaerys I Targaryen]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = "[[The Heirs of the Dragon]]"
+| First   = 
+| Last    = 
+}}
+'''Michael Carter''' (born 29 June 1947) is a Scottish actor. He is best known for portraying Bib Fortuna in ''Return of the Jedi''.
+
+In ''[[House of the Dragon]]'', he portrayed [[Jaehaerys I Targaryen]] in "[[The Heirs of the Dragon]]".
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1|yes}}
+
+==See also==
+*{{IMDb|#=0141816}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+{{DEFAULTSORT:Carter, Michael}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Michael Carter]]

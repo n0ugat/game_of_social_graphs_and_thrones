@@ -1,0 +1,42 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Stark
+| Image        = Oldcastle Pin.png
+| Type         = Castle
+| Status       = 
+| Location     = The [[Bite]], the [[North]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = [[Old Gods]]
+| Places       = 
+| Founded      = 
+}}
+'''Oldcastle'''{{Ref|GOT402}} is a castle in the [[North]]. It is located on the northern coast of the [[Bite]], south-east of [[White Harbor]], and not far from the mouth of the [[White Knife]] river.
+
+==History==
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+Oldcastle is seen on a map of the North that [[Roose Bolton]] has in the [[Dreadfort]], when he is pointing at [[Moat Cailin]] to the west.{{Ref|GOT402}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Oldcastle is the seat of House Locke.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{North}}
+
+<!--Categories-->
+[[Category:Castles of the North]]
+
+<!--Languages-->
+[[de:Altenburg]]
+[[es:Castillo Viejo]]
+[[ru:Старый замок]]
+[[zh:老城]]

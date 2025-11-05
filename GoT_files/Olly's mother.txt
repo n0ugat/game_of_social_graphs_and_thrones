@@ -1,0 +1,60 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = Olly's mother.jpg
+| Birth       = 
+| Death       = [[301 AC]]{{Dateref|Game of Thrones: Season 4}}<br>The [[Gift]]{{Ref|GOT403}}
+| House       = 
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Northmen|Northern]]
+| Religion    = [[Old Gods]]
+| Father      = 
+| Mother      = 
+| Spouse      = {[[Guymon]]}
+| Lovers      = 
+| Children    = {[[Olly]]}
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 4|4]]
+| Appearances = "[[Breaker of Chains]]"
+| First       = 
+| Last        = 
+| DeathEp     = "Breaker of Chains"
+| Actor       = [[Raewyn Lippert]]
+|Issue={[[Olly]]<nowiki>}</nowiki>}}
+{{Quote|Hide! <u>Hide!</u>|Her last words|Breaker of Chains}}
+'''Olly's mother''' was a farmer who lived in a village close to the [[Wall]] with her husband [[Guymon]] and her son [[Olly]].
+
+==Biography==
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+After her husband is killed in a [[Free Folk|wildling]] attack on their village, she orders her son to hide. She is then killed by [[Styr]]. He scares Olly by saying he will eat his dead parents.{{Ref|GOT403}}
+
+During the [[battle for the Wall]], she is avenged by [[Jon Snow]].{{Ref|GOT409}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no character parallel to her.
+
+==Appearances==
+*{{GOT|Breaker of Chains}}
+*{{GOT|Kill the Boy}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Categories-->
+[[Category:Farmers]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Northmen]]
+[[Category:Smallfolk]]
+
+<!--Languages-->
+[[de:Ollys Mutter]]
+[[ru:Мать Олли]]

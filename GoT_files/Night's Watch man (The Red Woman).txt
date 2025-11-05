@@ -1,0 +1,61 @@
+{{DISPLAYTITLE:Night's Watch man {{C|The Red Woman}}}}
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Heraldry
+| Image = Night's Watch.svg
+| Link  = Night's Watch
+}}
+{{Character
+| Title       = Night's Watch man
+| Type        = Watch
+| Image       = 601 Watchman 1.png
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[Night's Watch]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 6|6]]
+| Appearances = 2 episodes {{Below|Appearances}}
+| First       = "[[The Red Woman]]"
+| Last        = "[[Home]]"
+| DeathEp     = 
+| Actor       = [[Michael Hayes]]
+}}
+{{Dialogue a-b-a-b|Alliser Thorne|Jon Snow is dead.|Night's Watch man|Who killed him?|I did... and Bowen Marsh, and Othell Yarwyck, and the other officers in this castle|Murderers!|The watchman learns the nature of Jon Snow's death|The Red Woman}}
+This '''unnamed man''' is a Sworn Brother of the [[Night's Watch]], serving at [[Castle Black]].
+
+==Biography==
+===[[Game of Thrones: Season 6|''Game of Thrones'': Season 6]]===
+This watchman is present when [[Alliser Thorne]] reveals that he killed [[Lord Commander of the Night's Watch|Lord Commander]] [[Jon Snow]] alongside the other officers in the [[Night's Watch]]. He angrily calls the officers out as murderers, but later appears placated by Thorne's explanation for his actions.{{Ref|GOT601}}
+
+He is present when the [[Free Folk|wildlings]] break into [[Castle Black]] and he is one of the first to surrender.{{Ref|GOT602}}
+
+==Appearances==
+*{{GOT|The Red Woman}}
+*{{GOT|Home}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{Night's Watch}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Men of the Night's Watch]]
+[[Category:Westerosi]]
+
+<!--Languages-->
+[[ru:Дозорный 3 (Красная женщина)]]

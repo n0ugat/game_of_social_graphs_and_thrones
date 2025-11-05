@@ -1,0 +1,26 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Milos Bindas.jpg
+| Birth   = 
+| Death   = 
+| Role    = Triarchy pirate
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]]
+| Credits = 
+| First   = 
+| Last    = 
+}}
+'''Milos Bindas''' is an actor.
+
+Bindas plays a Triarchy pirate in the [[House of the Dragon: Season 2|second season]] of ''[[House of the Dragon]]''.<ref>https://twitter.com/RedanianIntel/status/1701277527904342124</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb|#=6198795}}
+
+<!--Categories-->
+{{DEFAULTSORT:Bindas, Milos}}
+[[Category:Uncredited cast members of House of the Dragon]]

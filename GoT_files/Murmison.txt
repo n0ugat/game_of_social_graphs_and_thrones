@@ -1,0 +1,78 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = Faith of the Seven.svg
+| Link  = Faith of the Seven
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Faith
+| Image       = HL5 Murmison.png
+| Birth       = 
+| Death       = In [[King's Landing]]<br>Killed by the [[Faith Militant]] in an [[Faith Militant uprising|uprising]]
+| House       = 
+| Affiliation = [[Faith of the Seven]]<br>[[House Targaryen]]
+| Titles      = [[Septon]]<br>[[Hand of the King]]
+| Predecessor = {[[Maegor Targaryen]]}
+| Successor   = {[[Lucas Harroway]]}
+| AKA         = 
+| Culture     = [[Andals|Andal]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+Septon '''Murmison'''{{Con|TWOI&F}} was a [[septon]] during the reign of [[Aenys Targaryen]].
+
+==Biography==
+[[File:HL5 Marriage of Aenys's children to each other.png|thumb|Septon Murmison officiated the marriage of King Aensys's own son and daughter to each other.]]
+Murmison officiated the wedding of Prince [[Aegon Targaryen (son of Aenys)|Aegon]] and Princess [[Rhaena Targaryen (daughter of Aenys)|Rhaena]], the son and daughter of King Aenys. The [[Faith Militant]] and the clergy of the [[Faith of the Seven]] objected to this [[Incest|incestuous]] union, and rebelled against the crown, leading to the [[Faith Militant uprising]].{{Ref|H&L502}}
+
+[[File:HL5 Faith Militant seizes Septon Murmison.png|thumb|The [[Faith Militant]] seize, scourge, and kill Septon Murmison for performing the marriage of King Aenys's son and daughter.]]
+Murmison himself was seized by the [[Faith Militant]] for his role in the marriage, scourged with whips, and killed.{{Ref|H&L502}}
+
+==In the books==
+The video featurette on the Faith Militant uprising seems to imply that the Faith Militant simply scourged Murmison with whips - actually, the Faith Militant dragged Murmison from his palanquin as he was being carried through the city, and tore him to pieces.
+
+Murmison was a reputed miracle worker, and Aenys even appointed him [[Hand of the King]] in an attempt to placate the Faith of the Seven - though this did not succeed, and anyone should have known that aiding Aenys's foolish decision to have his own children marry would anger the Faith into open revolt. Murmison is therefore remembered as one of the worst Hands ever, and by the end the realm was praying for his demise.
+
+When Aenys first took the throne he retained his father's last Hand of the King, Alyn Stokeworth, but he died putting down a rebellion in the [[Riverlands]] (one of several localized rebellions that broke out shortly after Aenys's coronation); Maegor quickly succeeded in crushing another rebellion in the [[Vale of Arryn|Vale]], so Aenys happily named his half-brother as his new Hand. Maegor served as Hand for another two years or so and for a time all seemed well, but Maegor increasingly grew frustrated that he could produce no children with his first wife, Ceryse Hightower - nor could he get an annulment, because she was the High Septon's own niece. As Aenys and his own wife kept producing more healthy children, driving Maegor even further down the line of succession, he declared Ceryse was barren, and polygamously took a second wife, Alys Harroway. 
+
+The Faith was angered, considering Maegor's marriage a breach of their agreement with Aegon the Conqueror that his children wouldn't continue the Valyrian practice of polygamous marriages, not to mention the personal insult to the High Septon, who'd brokered and officiated Maegor's first marriage to his niece. Even the politically unskilled Aenys realized he had to do something, so he had Maegor exiled to the Free Cities and named Septon Murmison as his new Hand. Aenys also ordered Murmison to nightly lay his hands upon Lady Ceryse's belly, hoping Maegor might repent and annul his second marriage if his first wife became fertile, but Ceryse eventually grew weary of the practice, and left King's Landing for [[Oldtown]].
+
+Murmison's appointment as Hand temporarily placated the Faith, until Aenys foolishly decided to marry his eldest son and daughter to each other. Murmison was expelled from the Faith for performing the marriage: when Aenys sent an angry letter to the High Septon defending his children's marriage and demanding Murmison's restoration to the Faith, the High Septon retaliated by denouncing Aenys and extolling the faithful across Westeros to overthrow him. Within a fortnight, Murmison was killed in the streets by the Faith Militant.
+
+==Appearances==
+*{{H&L|The Faith Militant}} {{Illustrated}}
+*{{H&L|The Hand of the King}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+[[Category:Hands of the King]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Septons]]
+[[Category:Servants and retainers of House Targaryen]]
+[[Category:Westerosi]]
+
+<!--Languages-->
+[[pl:Murmison]]
+[[pt-br:Murmison]]
+[[ru:Мармизон]]

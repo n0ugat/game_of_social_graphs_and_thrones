@@ -1,0 +1,82 @@
+{{Canonicity|Canon}}
+{{SameName|13th Lord Commander of the Night's Watch|leader of the White Walkers|Night King}}
+{{Heraldry
+| Image = Night's Watch.svg
+| Link  = Night's Watch
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = Nights king.jpg
+| Birth       = 
+| Death       = During the [[Age of Heroes]] at the [[Nightfort]]<br>Killed in an [[Fall of Night's King|attack]] by the [[Free Folk]] and [[House Stark]]
+| House       = 
+| Affiliation = [[Night's Watch]]<br>[[White Walkers]]
+| Titles      = 13th [[Lord Commander of the Night's Watch]]<br>Night's King
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[First Men]]
+| Religion    = [[Great Other]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = {[[Corpse queen]]}
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|We Free Folk have our stories, too. About how one of your King Crows found something... cold in the woods, with bright blue eyes. How he brought her home through your Wall and declared himself "Night's King."|[[Ygritte]]|The Night's Watch}}
+'''Night's King''' is a legendary figure known both in the [[Seven Kingdoms]] and among the [[Free Folk]] dwelling [[Beyond the Wall]].
+
+==Biography==
+[[File:NightsKingQueen.jpg|thumb|Night's King and his corpse queen enslaved the black brothers and performed human sacrifices.]]
+According to legend, Night's King was originally a [[Lord Commander of the Night's Watch]] who found in the [[Haunted Forest]] a [[Corpse queen|cold woman]] with bright blue eyes, seemingly a female [[White Walkers|White Walker]]. He took her to the other side of the [[Wall]] and declared himself "Night's King." For thirteen years the two ruled over the brothers of the Night's Watch, performing human sacrifices. The Free Folk rallied under the banner of a [[King-Beyond-the-Wall]] and marched against the [[Nightfort]], which Night's King had taken as his seat, defeating him with the aid of [[House Stark]].{{Ref|H&L212}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Night's King was a Lord Commander of the Night's Watch during its earliest years, not long after the [[Long Night]] ended and the [[Wall]] was completed. He is considered a legendary, half-mythical figure, not far removed from [[Brandon the Builder|Bran the Builder]]. If he really did exist, it was almost eight thousand years ago - consider that while Night's King was the thirteenth Lord Commander, at the time of the [[War of the Five Kings]], [[Jeor Mormont]] is the 997th Lord Commander.
+
+However, Night's King fell in love with a woman "with skin as white as the moon and eyes like blue stars"; he loved her though "her skin was cold as ice", and when he gave his seed to her he gave her his soul as well. He brought her to the Nightfort and bound the brothers of the Night's Watch to his will through sorcery. He declared himself "Night's King" and ruled over the Wall and the [[Gift]] as his own. The [[King in the North]] and [[Joramun]], the King-Beyond-the-Wall, joined forces to defeat him.
+
+After he was killed, it was discovered that he had been making human sacrifices to the Others - the White Walkers - and all records of him were destroyed, and uttering his name was forbidden, so it became lost to history.
+
+According to [[Old Nan]], there are many (unverified) speculations about the origin of Night's King: he might have been a [[House Bolton|Bolton]], a Magnar of [[Skagos]], an [[House Umber|Umber]], a Flint, a Norrey, or a Woodfoot. Old Nan claims to know a version of the tale where he was actually a Stark, the brother of the man who brought him down, and his name was perhaps Brandon.
+
+After the defeat of Night's King, the rule was enforced that the castles of the Night's Watch along the Wall should never be fortified against approach from the south, so that they cannot oppose the lands south of the Wall which they are meant to defend. The downfall of Night's King also resulted in the strict enforcement of the rule that the Night's Watch is meant to be politically neutral, as guardians who do not "rule" the Wall but who serve the realms of men.
+
+When the leader of the White Walkers (first seen in "[[Oathkeeper (episode)|Oathkeeper]]") was dubbed the [[Night King]] by the producers, confusion set in amongst some fans as to the relationship between two characters. After "[[Hardhome (episode)|Hardhome]]" aired, the Wiki of Westeros contacted [[George R.R. Martin]] asking whether to treat the White Walker referred to as the "Night King" relative to the ancient Lord Commander known as "Night's King" - if they are the same character, or if "Night's King" is a ''title'' that can be held by different characters, like "King in the North." He was also asked if it was significant that Benioff and Weiss refer to him as the "Night King," without a possessive "S." Martin cryptically avoided the first question, but said he prefers the spelling "Night's King":
+::''"As for the Night's King (the form I prefer), in the books he is a legendary figure, akin to Lann the Clever and Brandon the Builder, and no more likely to have survived to the present day than they have."''<ref>http://www.westeros.org/Citadel/SSM/Entry/12392</ref>
+
+"[[The Door]]" revealed that the [[Night King]] was "created" by the [[Children of the Forest]] during their war with the First Men (i.e., before the Night's Watch was founded). This would suggest they are indeed separate characters.
+
+==Appearances==
+*{{H&L|The Night's Watch}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Legendary figures}}
+{{Night's Watch}}
+
+<!--Categories-->
+[[Category:First Men]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Kings]]
+[[Category:Legendary figures]]
+[[Category:Lords Commander of the Night's Watch]]
+
+<!--Languages-->
+[[fr:Roi de la Nuit (légende)]]
+[[pl:Król Nocy]]
+[[pt-br:Rei da Noite (Patrulha da Noite)]]
+[[ru:Король Ночи (легендарный персонаж)]]

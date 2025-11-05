@@ -1,0 +1,68 @@
+{{Canonicity|Non}}
+{{Heraldry
+| Leftimage  = House Mullendore.svg
+| Leftlink   = House Mullendore
+| Rightimage = House Baratheon.svg
+| Rightlink  = House Baratheon
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Baratheon
+| Image       = House Baratheon lineage.jpg
+| Birth       = At [[Uplands]]
+| Death       = 
+| House       = [[House Mullendore|Mullendore]]<br>[[House Baratheon|Baratheon]] {{C|by marriage}}
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Andals|Andal]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = {[[William Baratheon]]}
+| Lovers      = 
+| Children    = {[[William Baratheon (son of William)|William Baratheon]]}<br>{[[Jon Baratheon]]}<br>{[[Martyn Baratheon]]}<br>{[[Mace Baratheon]]}<br>{[[Orys Baratheon (son of William)|Orys Baratheon]]}<br>{[[Theodor Baratheon]]}<br>{[[Bryte Baratheon]]}<br>{[[Tommax Baratheon]]}<br>{[[Lorax Baratheon]]}<br>{[[Brune Baratheon]]}<br>{[[Gude Baratheon]]}<br>{[[Lex Baratheon]]}<br>{[[Wineiri Baratheon]]}<br>{[[Miriam Baratheon]]}<br>{[[Argalia Baratheon]]}
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Martyna Mullendore''' was a member of [[House Mullendore]].
+
+==Biography==
+===Background===
+Martyna Mullendore was the wife of [[William Baratheon]] and the mother of his numerous children.{{Ref|GOT106}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+She is referenced in her husband's entry of ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]''.{{Ref|GOT106}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no such character.
+
+==Appearances==
+*{{GOT|A Golden Crown}} {{Text}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House Baratheon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Mullendore, Martyna}}
+[[Category:Individuals from the Reach]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Ladies]]
+[[Category:Members of House Baratheon|Martyna Mullendore]]
+[[Category:Members of House Mullendore|Martyna Mullendore]]
+
+<!--Languages-->
+[[es:Martyna Mullendore]]
+[[fr:Martyna Mullendore]]
+[[ru:Мартина Маллендор]]

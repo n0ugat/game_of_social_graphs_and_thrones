@@ -1,0 +1,33 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Mikhail Sen.jpg
+| Birth   = 
+| Death   = 
+| Role    = [[Mickon]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = "[[The Heirs of the Dragon]]"
+| First   = 
+| Last    = 
+}}
+'''Mikhail Sen''' is an actor. He has appeared in the television series ''{{WPS|A Suitable Boy (TV series)|A Suitable Boy}}''.
+
+In ''[[House of the Dragon]]'', he portrayed [[Mickon]] in the [[House of the Dragon: Season 1|first season]].
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1|yes}}
+
+==See also==
+*{{IMDb|# = 1938354}}
+*{{Twitter|# = mikhailsen}}
+*{{Instagram|# = mikhail.sen}}
+*{{Facebook|# = milkhailsen}}
+
+<!--Categories-->
+{{DEFAULTSORT:Sen, Mikhail}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Mikhail Sen]]

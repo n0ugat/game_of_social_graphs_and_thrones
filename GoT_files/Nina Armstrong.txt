@@ -1,0 +1,24 @@
+{{Crew
+|Image = Nina Armstrong.jpg
+|dateofbirth = 
+|birthplace = {{WPS|England}}, {{WPS|United Kingdom}}
+|job = Assistant Horse Master
+|imdb = https://www.imdb.com/name/nm10253504/
+|twitter = https://twitter.com/ninastunts/}}
+'''Nina Louise Armstrong''' is an English stuntwoman and actress.
+
+In ''[[Game of Thrones]]'', she was an assistant horse master in the [[Game of Thrones: Season 8|eighth season]] episode "[[Winterfell (Game of Thrones)|Winterfell]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 8|yes}}
+
+==See also==
+*{{IMDb
+|# = 0021974}}
+*{{Twitter
+|# = ninastunts}}
+*{{Linkedin
+|# = /in/nina-armstrong-87a49342}}
+{{DEFAULTSORT:Armstrong, Nina}}
+[[Category:Stunt performers of Game of Thrones]]

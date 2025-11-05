@@ -1,0 +1,72 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = House Targaryen.svg
+| Link  = House Targaryen/House of the Dragon
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Targaryen
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = [[House Targaryen/House of the Dragon|Targaryen]]{{Guideref|Jaehaerys I Targaryen}}
+| Affiliation = 
+| Titles      = [[Prince]]ss
+| AKA         = 
+| Culture     = [[Valyrians|Valyrian]]
+| Religion    = 
+| Father      = {[[Jaehaerys I Targaryen]]}{{Guideref|Jaehaerys I Targaryen}}
+| Mother      = {[[Alysanne Targaryen]]}{{Guideref|Jaehaerys I Targaryen}}
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|King Jaehaerys ruled over half a century of peace while his children drove him to the edge of madness... his daughters, in particular.|[[Lyonel Strong]]|Second of His Name}}
+Princess '''Maegelle Targaryen'''{{Con|F&B}} was the sixth child of King [[Jaehaerys I Targaryen|Jaehaerys I]] and Good Queen [[Alysanne Targaryen|Alysanne]].{{Guideref|Jaehaerys I Targaryen}}
+
+==Family==
+{{Targaryen tree (House of the Dragon)}}
+
+==In the books==
+In ''[[Fire & Blood]]'', Maegelle was born in 62 AC. She was intelligent, gentle, quiet, and pious. In her childhood she followed her older sister [[Alyssa Targaryen|Alyssa]] wherever she went.
+
+In 73 AC, she joined the clergy of the [[Faith of the Seven]] as a novice, eventually becoming a [[septa]]. She had a talent for healing, and often nursed sick children.
+
+In 90 and 94 AC, Maegelle helped to reconcile the king and queen during both of their estrangements, known respectively as the First and Second Quarrels.
+
+Maegelle contracted [[greyscale]] from a child she was nursing in [[Oldtown]]. She died of the disease in 96 AC.
+
+==Appearances==
+*{{HOTD|Second of His Name}} {{Indirect}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Targaryen/House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Targaryen, Maegelle}}
+[[Category:Crownlanders]]
+[[Category:Individuals mentioned in House of the Dragon]]
+[[Category:Members of House Targaryen|Maegelle Targaryen]]
+[[Category:Princesses]]
+
+<!--Languages-->
+[[ru:Мейгель Таргариен]]

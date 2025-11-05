@@ -1,0 +1,33 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Tyrell
+| Image        = 
+| Type         = Castle
+| Status       = 
+| Location     = [[Reach]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''New Barrel'''{{Ref|THTDB201}} is a castle in the [[Reach]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, New Barrel is the seat of the green-apple junior branch of [[House Fossoway]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Reach}}
+
+<!--Categories-->
+[[Category:Castles of the Reach]]
+[[Category:House Fossoway]]

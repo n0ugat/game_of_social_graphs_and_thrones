@@ -1,0 +1,63 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Faith of the Seven.svg
+| Link  = Faith of the Seven
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Faith
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[Faith of the Seven]]{{Ref|HOTD101}}<br>[[House Targaryen/House of the Dragon|House Targaryen]]{{Ref|HOTD101}}
+| Titles      = [[Septa]]{{Ref|HOTD101}}
+| AKA         = 
+| Culture     = 
+| Religion    = [[Faith of the Seven]]{{Ref|HOTD101}}
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Marlow''' is a [[septa]] of the [[Faith of the Seven]] during the reign of [[Viserys I Targaryen|Viserys I]].
+
+==Biography==
+===Background===
+Marlow serves as a governess at the [[Red Keep]]. She is [[Rhaenyra Targaryen]]'s tutor.{{Ref|HOTD101}}
+
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+As Rhaenyra and [[Alicent Hightower|Alicent]] study the history of [[Nymeria]] and the [[Rhoynar migration]], Alicent quizzes Rhaenyra on who Nymeria married when she landed in [[Dorne]]. Alicent says that Septa Marlow would be furious at Rhaenyra's answer, "Lord Something," to which Rhaenyra replies that Marlow is funny when she is furious. When Rhaenyra later answers correctly "Lord [[Mors Martell]]," she tears a page from the book and gives it to Alicent. Alicent again brings up Marlow, and Rhaenyra counters "Fuck the septa."{{Ref|HOTD101}}
+
+==In the books==
+In ''[[Fire & Blood]]'', there is no character named Marlow.
+
+==Appearances==
+*{{HOTD|The Heirs of the Dragon}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House Targaryen/House of the Dragon}}
+
+<!--Categories-->
+[[Category:Individuals mentioned in House of the Dragon]]
+[[Category:Septas]]
+[[Category:Servants and retainers of House Targaryen]]
+[[Category:Westerosi]]
+
+<!--Languages-->
+[[es:Marlow]]
+[[fr:Marlow]]
+[[ru:Марлоу]]

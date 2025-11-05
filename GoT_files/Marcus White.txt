@@ -1,0 +1,23 @@
+{{Crew
+|Image = Marcus White.jpg
+|dateofbirth = 
+|birthplace = 
+|job = Stunt Performer
+|imdb = http://www.imdb.com/name/nm2990325
+|twitter = }}
+'''Marcus White''' is a stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 8|eighth season]] episode "[[The Bells]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 8|||||yes}}
+
+==See also==
+*{{IMDb
+|# = 2990325}}
+
+==References==
+{{reflist}}
+{{DEFAULTSORT:White, Marcus}}
+[[Category:Stunt performers of Game of Thrones]]

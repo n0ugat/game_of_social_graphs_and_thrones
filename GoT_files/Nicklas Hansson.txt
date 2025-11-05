@@ -1,0 +1,42 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Nicklas Hansson.jpg
+| Birth   = 
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[Game of Thrones]]''<br>''[[House of the Dragon]]''
+| Season  = ''Game of Thrones'':<br>[[Game of Thrones: Season 7|7]] {{*}} [[Game of Thrones: Season 8|8]]<br>''House of the Dragon'':<br>[[House of the Dragon: Season 1|1]]
+| Credits = 9 episodes {{Below|Credits}}
+| First   = "[[Stormborn]]"
+| Last    = 
+}}
+'''Nicklas Hansson''' is a Swedish stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 7|seventh season]] episodes "[[Stormborn]]", "[[The Spoils of War]]" and "[[The Dragon and the Wolf]]" and the [[Game of Thrones: Season 8|eighth season]] episodes "[[The Long Night]]", "[[The Last of the Starks]]" and "[[The Bells]]".
+
+In ''[[House of the Dragon]]'', he was a stunt performer in the [[House of the Dragon: Season 1|first season]] episodes "[[The Heirs of the Dragon]]", "[[King of the Narrow Sea (episode)|King of the Narrow Sea]]" and "[[The Green Council]]".
+
+==Credits==
+===Stunts===
+====''[[Game of Thrones]]''====
+{{Game of Thrones: Season 7||yes||yes|||yes}}
+{{Game of Thrones: Season 8|||yes|yes|yes}}
+
+====''[[House of the Dragon]]''====
+{{House of the Dragon: Season 1|yes|||yes|||||yes}}
+
+==See also==
+*{{IMDb
+|# = 4571226}}
+*{{Instagram
+|# = nicklas.hansson}}
+*{{Facebook
+|# = hanssonnicklas}}
+*{{YouTube
+|# = channel/UCAI1_wbPeXgFU4gK1FHRRCg}}
+*{{Linkedin
+|# = /in/nicklas-hansson-18b00876}}
+{{DEFAULTSORT:Hansson, Nicklas}}
+[[Category:Stunt performers of Game of Thrones]]
+[[Category:Stunt performers of House of the Dragon]]

@@ -1,0 +1,33 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Miriam Lucia.jpg
+| Birth   = 
+| Death   = 
+| Role    = [[Lady Fell]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = "[[The Green Council]]"
+| First   = 
+| Last    = 
+}}
+'''Miriam Lucia''' is an actress and intimacy coordinator. She has appeared in the film ''{{WPS|Guardians of the galaxy (film)|Guardians of the Galaxy}}'' and the television series ''{{WPS|Will (TV series)|Will}}'', ''{{WPS|Doctors (2000 TV series)|Doctors}}'', ''{{WPS|Bodyguard (Britsh TV series)|Bodyguard}}'' and ''{{WPS|The Crown (TV series)|The Crown}}''.
+
+In ''[[House of the Dragon]]'', she portrayed [[Lady Fell]] in the [[House of the Dragon: Season 1|first season]]. She has also worked as an intimacy coordinator in the season.
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1|||||||||yes}}
+
+==See also==
+*{{IMDb|# = 1489831}}
+*{{Twitter|# = miriamlucia5}}
+*{{Instagram|# = miriamlucia_nl}}
+*{{Linkedin|# = /in/miriam-lucia-9a9237a}}
+
+<!--Categories-->
+{{DEFAULTSORT:Lucia, Miriam}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--InterWiki-Links-->
+[[fr:Miriam Lucia]]

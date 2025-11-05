@@ -1,0 +1,71 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Stark
+| Image       = MIKKENSEASON1.jpg
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[House Stark]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Northmen|Northern]]
+| Religion    = [[Old Gods]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 1|1]]
+| Appearances = 2 episodes {{Below|Appearances}}
+| First       = "[[Winter Is Coming]]"
+| Last        = "[[The Kingsroad]]"
+| DeathEp     = 
+| Actor       = [[Boyd Rankin]]
+}}
+{{Quote|I know this maker's mark - this is Mikken's work.|[[Eddard Stark]] asks [[Arya Stark|Arya]] about [[Needle]]|Lord Snow}}
+'''Mikken''' was the blacksmith at [[Winterfell]]. At [[Jon Snow|Jon]]'s request, he forged the sword [[Needle]] for [[Arya Stark|Arya]].
+
+==Biography==
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+Mikken is seen in the background when [[Bran Stark|Bran]] is practicing archery while his brothers watch (particularly in the close-up shot of [[Rickon Stark|Rickon]]'s laugh). Later, Mikken assembles with the Winterfell household to receive King [[Robert Baratheon]]. He stands behind Maester [[Luwin]].{{Ref|GOT101}} Mikken forges the sword, [[Needle]], for Arya.{{Ref|GOT102}} [[Eddard Stark]] finds Arya with the sword and recognizes Mikken's maker's mark on it.{{Ref|GOT103}}
+
+==Behind the scenes==
+Mikken was played by [[Boyd Rankin]], who was an armorer and weapon smith for the series.
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Mikken is the blacksmith at [[Winterfell]].
+
+Mikken is one of three people (alongside Alebelly the guard and Septon Chayle) whose deaths are foreseen by [[Jojen Reed]].
+
+Following the [[capture of Winterfell]], it is not [[Farlen]] but Mikken who talks defiantly to [[Theon Greyjoy]], although Bran tries to hush him. [[Stygg|One of the ironborn]] beats and kills Mikken for his defiance.
+
+==Appearances==
+*{{GOT|Winter Is Coming}}
+*{{GOT|The Kingsroad}}
+*{{GOT|Lord Snow}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Stark}}
+
+<!--Categories-->
+[[Category:Blacksmiths]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Northmen]]
+[[Category:Servants and retainers of House Stark]]
+[[Category:Smallfolk]]
+
+<!--Languages-->
+[[de:Mikken]]
+[[fr:Mikken]]
+[[ru:Миккен]]

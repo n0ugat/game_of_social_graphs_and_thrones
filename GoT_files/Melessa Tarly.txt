@@ -1,0 +1,100 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Leftimage  = House Florent.svg
+| Leftlink   = House Florent
+| Rightimage = House Tarly.svg
+| Rightlink  = House Tarly
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Bronn
+| Image       = 606 Melessa Tarly.png
+| Birth       = Melessa Florent<br>At [[Brightwater Keep]]
+| Death       = 
+| House       = [[House Florent|Florent]]<br>[[House Tarly|Tarly]] {{C|by marriage}}
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Andals|Andal]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = {[[Randyll Tarly]]}
+| Lovers      = 
+| Children    = [[Samwell Tarly]]<br>[[Talla Tarly]]<br>{[[Dickon Tarly]]}
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 6|6]]
+| Appearances = "[[Blood of My Blood]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Samantha Spiro]]
+}}
+{{Quote|My mother used it for sewing. She'd let me sit with her in her chamber, while she sewed, and read to her. My father put a stop to it, when he found out.|[[Samwell Tarly]] giving [[Gilly]] a thimble|What Is Dead May Never Die}}
+Lady '''Melessa Tarly''', née '''Florent''', is the wife of [[Randyll Tarly]], the head of [[House Tarly]]. Together, they have three children: sons [[Samwell Tarly|Sam]] and [[Dickon Tarly|Dickon]] and daughter [[Talla Tarly|Talla]]. In contrast to her husband, Melessa is a very warm and welcoming person.
+
+==Biography==
+===Background===
+Lady Melessa of [[House Florent]] is the wife Lord Randyll Tarly and mother of Sam, Talla, and Dickon.{{Ref|GOT606}} She is a first cousin of [[Selyse Baratheon]] (the wife of [[Stannis Baratheon]]), Lord [[Axell Florent]], and [[Imry Florent]].{{Cite}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+When [[Jon Snow]] asks Sam what he is doing at the [[Wall]], Sam tells him that his father did not think him manly enough to inherit his title and lands so he forced him to join the Night's Watch or he implied that he would kill him and tell Melessa that it was a hunting accident.{{Ref|GOT104}}
+
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+Before leaving [[Craster's Keep]], Sam gives [[Gilly]] a thimble that once belonged to his mother. He explains that he used to read to her while she was sewing but that his father ended the practice when he found out. He reveals that the thimble is the only possession he has from her and that it was a gift given when he left for Wall.{{Ref|GOT203}}
+
+===[[Game of Thrones: Season 6|''Game of Thrones'': Season 6]]===
+Since the [[Citadel]] only admits men, Sam decides to send Gilly and [[Sam|her baby]] to his family at Horn Hill. While he gets on poorly with his father, he regards his mother and sister as nice.{{Ref|GOT603}}
+
+[[File:Blood of my blood House Tarly dinner.jpg|thumb|The Tarly family has dinner with Gilly.]]
+Melessa responds just as Sam expected, eagerly greeting him as he arrives. She is also delighted when she sees little Sam, and coos over her "grandchild". At dinner that evening, Melessa notices that Gilly seems unused to cutlery and seems to be copying her when trying to eat. She later sits uncomfortably as Randyll insults Sam repeatedly, and finally stands up for him, offering the opinion that being the [[Order of Maesters|maester]] to the Night's Watch is an honor. When Randyll realizes that Gilly is a [[Free Folk|wildling]], Melessa listens to his rant before finally snapping and giving him a piece of her mind, then storming out with Gilly and Talla in tow.{{Ref|GOT606}}
+
+When Sam takes Gilly and the baby and escapes in the middle of the night, he tells Gilly that his mother will understand.{{Ref|GOT606}}
+
+==Family==
+{{Florent tree}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Melessa Florent is a daughter of Lord Alester Florent, head of House Florent and Lord of [[Brightwater Keep]], and Lady Melara Crane. She has not appeared yet in the books.
+
+Melessa is a first cousin of Selyse Baratheon, as Melessa's father Alester is the older brother of Selyse's father Ryam.
+
+==Appearances==
+*{{GOT|Cripples, Bastards, and Broken Things}} {{Mentioned}}
+*{{GOT|What Is Dead May Never Die}} {{Mentioned}}
+*{{GOT|Blood of My Blood}}
+*{{H&L|House Tarly}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|Melessa Florent}}
+
+<!--Navboxes-->
+{{House Florent}}
+{{House Tarly}}
+
+<!--Categories-->
+{{DEFAULTSORT:Tarly, Melessa}}
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Individuals from the Reach]]
+[[Category:Ladies]]
+[[Category:Members of House Florent|Melessa Tarly]]
+[[Category:Members of House Tarly|Melessa Tarly]]
+
+<!--Languages-->
+[[de:Melessa Tarly]]
+[[es:Melessa Florent]]
+[[fr:Melessa Tarly]]
+[[nl:Melessa Florens]]
+[[pt-br:Melessa Tarly]]
+[[ru:Мелесса Тарли]]
+[[zh:梅丽莎·佛罗伦]]

@@ -1,0 +1,31 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Nicholas Jones.jpg
+| Birth   = April 3, 1946 {{Age|1946|4|3}}<br>London, England, United Kingdom
+| Death   = 
+| Role    = [[Bartimos Celtigar]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]] {{*}} [[House of the Dragon: Season 2|2]]
+| Credits = 8 episodes {{Below|Credits}}
+| First   = "[[The Black Queen]]"
+| Last    = 
+}}
+'''Nicholas Jones''' (born 3 April 1946) is an English actor.
+
+In ''[[House of the Dragon]]'', he portrays [[Bartimos Celtigar]].
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1||||||||||yes}}
+{{House of the Dragon: Season 2|yes|yes|yes|yes|yes|yes|yes}}
+
+==See also==
+*{{WP|Nicholas Jones (actor)|Nicholas Jones}}
+*{{IMDb|#=0428933}}
+
+<!--Categories-->
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Nicholas Jones]]

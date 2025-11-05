@@ -1,0 +1,40 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Loni Peristere.jpg
+| Birth   = April 21, 1971 {{Age|1971|4|21}}<br>Boston, Massachusetts, United States
+| Death   = 
+| Role    = Executive producer<br>Director
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]] {{*}} [[House of the Dragon: Season 3|3]]
+| Credits = 10 episodes {{Below|Credits}}
+| First   = "[[A Son for a Son]]"
+| Last    = 
+}}
+'''Loni Peristere''' is an American director and producer. He is an executive producer and director<ref>https://www.spotlight.com/1899-1278-6447</ref> on the [[House of the Dragon: Season 2|second season]] of ''[[House of the Dragon]]''.
+
+==Credits==
+===Executive producer===
+*{{HOTD|Season 2}}<ref>[https://ew.com/tv/house-of-the-dragon-season-2-cast-returning-players/ ''House of the Dragon'' season 2 confirms the returning players — no, Mysaria isn't dead yet | ''Entertainment Weekly'']</ref>
+*{{HOTD|Season 3}} {{Unreleased}}
+
+===Director===
+{{House of the Dragon: Season 2|||||||yes}}
+{{House of the Dragon: Season 3|yes|||||yes}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{WP}}
+*{{IMDb|#=nm0003398}}
+*{{Twitter|#=lperistere}}
+*{{Instagram|#=loniisalwayslooking}}
+
+<!--Categories-->
+{{DEFAULTSORT:Peristere, Loni}}
+[[Category:Directors of House of the Dragon]]
+[[Category:Executive producers of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Loni Peristere]]

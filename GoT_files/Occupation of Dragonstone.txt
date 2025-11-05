@@ -1,0 +1,67 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Event
+| Title         = Occupation of Dragonstone
+| Type          = Dragon
+| Part          = 
+| Image         = TRP Daemon & Mysaria.jpg
+| Previous      = [[Heir's Tournament]]
+| Concurrent    = 
+| Next          = [[War for the Stepstones]]
+| Date          = [[112 AC]]{{Dateref|The Rogue Prince}}
+| Place         = [[Dragonstone]]
+| Outcome       = *Occupation ended{{Ref|HOTD106}}
+*[[Daemon Targaryen]] surrenders the [[dragon]] egg to the [[Iron Throne]]
+| Factions1     = {{COA|Daemon Targaryen|small}} [[Daemon Targaryen]]<br>{{COA|City Watch of King's Landing|small}} Followers from the [[City Watch of King's Landing/House of the Dragon|City Watch of King's Landing]]
+| Factions2     = {{COA|House Targaryen/House of the Dragon|small}} '''[[Iron Throne]]'''/[[House Targaryen/House of the Dragon|House Targaryen]]<br>{{COA|House Hightower|small}} [[House Hightower/House of the Dragon|House Hightower]]<br>{{COA|Kingsguard|small}} [[Kingsguard/House of the Dragon|Kingsguard]]
+| Factions3     = 
+| Factions4     = 
+| Leaders1      = {{COA|Daemon Targaryen|inline}} [[Prince]] [[Daemon Targaryen]]
+| Leaders2      = {{COA|House Hightower/House of the Dragon|inline}} [[Knighthood|Ser]] [[Otto Hightower]]<br>{{COA|Kingsguard/House of the Dragon|inline}} [[Lord Commander]] [[Harrold Westerling]]
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = At least a dozen gold cloaks
+| Participants2 = {{COA|Kingsguard/House of the Dragon|inline}} Ser [[Criston Cole]]<br>{{COA|House Targaryen/House of the Dragon|inline}} Princess [[Rhaenyra Targaryen]]
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = 
+| Casualties2   = 
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+{{Quote|It is the pleasure of Daemon Targaryen, the Prince of Dragonstone and rightful heir to the Iron Throne, to announce that he is to take a second wife in the tradition of Old Valyria. She is to assume the title Lady Mysaria of Dragonstone. Her Grace is with child, and is to have a dragon's egg placed in the cradle, in the custom of House Targaryen.|Daemon Targaryen's missive|The Rogue Prince}}
+The '''occupation of Dragonstone''' occurred when [[Prince]] [[Daemon Targaryen]] seized [[Dragonstone]] with a private army of loyalists from the [[City Watch of King's Landing/House of the Dragon|City Watch of King's Landing]]. 
+
+==History==
+===Prelude===
+When [[Viserys I Targaryen]] ascended the [[Iron Throne]] as [[Lord of the Seven Kingdoms]], his younger brother [[Prince]] [[Daemon Targaryen]] became the heir presumptive to the throne, a position Daemon continued to retain as Viserys's wife, Queen [[Aemma Arryn]], was unable to birth a son, and thus a male heir to the Iron Throne. However, Daemon, called the "Rogue Prince," was a deeply controversial figure in the [[Seven Kingdoms|realm]] due to his impulsivity and bloodlust, and many feared he would become another [[Maegor Targaryen|Maegor the Cruel]] if he himself ever assumed the crown. Among those who distrusted Daemon was Viserys's own [[Hand of the King]], [[Otto Hightower]], who urged the king to send Daemon as far away from the court at [[King's Landing]] as possible, and to disinherit him from the line of succession.{{Ref|HOTD101}}
+
+Queen Aemma died giving birth to Prince [[Baelon Targaryen]], who himself only lived for a few hours, causing Daemon to remain the heir presumptive. When Daemon nicknamed Baelon "The Heir for a Day" in an apparent celebration, as reported by Ser Otto to the king, Viserys angrily disinherited Daemon, commanding him to return to his wife, Lady [[Rhea Royce]]. Viserys then named his daughter, Princess [[Rhaenyra Targaryen|Rhaenyra]], the formal heir to the Iron Throne, making her the [[Prince of Dragonstone|Princess of Dragonstone]], the title and [[Dragonstone|castle]] held by the heir apparent to the Iron Throne.{{Ref|HOTD101}}
+
+===Seizure of Dragonstone===
+{{Quote|The King's own brother has been allowed to seize Dragonstone and fortify it with an army of his Gold Cloaks. Daemon has squatted there for over half a year without even a protest from the crown.|Corlys Velaryon|The Rogue Prince}}
+Following his dismissal by the King, Daemon rallied an army of loyalist Gold Cloaks from the [[City Watch of King's Landing/House of the Dragon|City Watch of King's Landing]] to his side, using his position as their Commander and his popularity among the guardsmen. With his private army, alongside his own dragon [[Caraxes]], Daemon seized Dragonstone for himself, occupying the [[Dragonstone (island)|island]] and fortifying the castle with his forces, and he declared himself the Prince of Dragonstone and rightful heir to the Iron Throne. He also took with him his lover, [[Mysaria]].{{Ref|HOTD102}}
+
+===Confronting the Rogue Prince===
+{{Quote|Your occupation of this island is at an end. You're to relinquish the dragon's egg, disband your army, banish your whore, and leave Dragonstone by order of His Grace, King Viserys.|Otto Hightower, to Daemon Targaryen|The Rogue Prince}}
+[[File:Caraxes and Syrax on the long stairs..png|thumb|Caraxes and Syrax face off on the long stairs of Dragonstone island.]]
+Six months after Aemma's passing, the Rogue Prince continued to occupy Dragonstone with his forces. He stole the dragon egg of Prince Baelon, [[Dreamfyre]], and took it with him to Dragonstone, where he declared his intentions to marry Mysaria and lay the dragon egg in the cradle of their son, as per the tradition of [[House Targaryen]] to mate the dragons with their [[dragonrider|riders]]. In actuality, however, Mysaria was not pregnant, and Daemon had been apparently bluffing. After learning this, Viserys allowed Ser Otto to assemble a force to confront Daemon and retrieve the dragon egg. Ser Otto and twenty of his [[House Hightower|household]] knights, along with [[Kingsguard]] knights Ser [[Criston Cole]] and [[Lord Commander]] [[Harrold Westerling]] and a number of Targaryen [[Man-at-arms|men-at-arms]], confronted Daemon and his forces on the steps up to Dragonstone, where Otto demanded Daemon's capitulation.{{Ref|HOTD102}}
+[[File:TV Caraxes.jpg|thumb|Caraxes over the long stairs.]]
+The confrontation nearly escalated into violence until the arrival of Rhaenyra on her dragon [[Syrax]], having left King's Landing on her own accord, without the leave of her father. Rhaenyra deescalated the situation by speaking personally to Daemon, and Daemon ultimately surrendered the dragon egg to Rhaenyra before returning to the castle.{{Ref|HOTD102}}
+
+==In the books==
+In ''[[Fire & Blood]]'', the events at Dragonstone play out much differently than they do in the television series ''[[House of the Dragon]]'': in the book, Daemon simply returned to Dragonstone on his own accord; he did not seize the castle and occupy the island with his own army of Gold Cloaks, nor did he declare himself to be the Prince of Dragonstone and rightful heir to the Iron Throne. Moreover, there is no mention of a confrontation between Daemon, Otto, and Rhaenyra. Instead, Viserys simply commanded Daemon to return the dragon egg, which he ultimately did.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Categories-->
+[[Category:112 AC]]
+[[Category:Occupations|Dragonstone]]
+
+<!--Languages-->
+[[ru:Захват Драконьего Камня]]

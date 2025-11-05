@@ -1,0 +1,61 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Free
+| Image       = Merchant Captain.png
+| Birth       = 
+| Death       = [[302 AC]]{{Dateref|Game of Thrones: Season 5}}<br>[[Dorne]]{{Ref|GOT504}}
+| House       = 
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Pentos]]hi{{Ref|GOT504}}
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 5|5]]
+| Appearances = "[[Sons of the Harpy (episode)|Sons of the Harpy]]"
+| First       = 
+| Last        = 
+| DeathEp     = "Sons of the Harpy"
+| Actor       = [[Gary Pillai]]
+}}
+{{Dialogue a-b|Jaime Lannister|Is that Estermont?|Merchant captain|Tarth, Ser Jaime. The Sapphire Isle.|The captain to [[Jaime Lannister]]|Sons of the Harpy (episode)}}
+A '''merchant captain''' is from [[Pentos]].
+
+==Biography==
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+While sailing to [[Oldtown]], the captain is bribed by [[Jaime Lannister|Jaime]] to smuggle him and [[Bronn]] into [[Dorne]] and keep it a secret.{{Ref|GOT504}}
+
+After dropping off Jaime and Bronn on a Dornish beach, the captain tries to sell this information to [[Obara Sand]] in [[Planky Town]]. Unfortunately for him, she is insulted that he does not offer up such a vital warning for free, and tortures him. The [[Sand Snakes]] bury him up to his neck in the sand, gagged, and covered by a bucket filled with scorpions. Later, Obara kills the captain by impaling him with a spear.{{Ref|GOT504}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no parallel character. Jaime and Bronn never travel to Dorne; instead, [[Cersei Lannister|Cersei]] sends there Ser [[Balon Swann]] on an official mission to take Myrcella back, so he does not need to smuggle himself into the country.
+
+==Gallery==
+<gallery>
+Sand Snakes torture with scorpions.png
+merchant captain sons of the harpy.jpg
+</gallery>
+
+==Appearances==
+*{{GOT|Sons of the Harpy}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Merchants]]
+[[Category:Pentoshi]]
+[[Category:Sailors]]

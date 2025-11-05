@@ -1,0 +1,27 @@
+{{Crew
+|Image = László Kósa.jpg
+|dateofbirth = {{WPS|August 3}}, {{WPS|1978}}
+|birthplace = {{WPS|Hungary}}
+|job = Stunt Performer
+|imdb = https://www.imdb.com/name/nm2485630/
+|twitter = }}
+'''László Kósa''' is a Hungarian stuntman.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 1|first season]] episodes "[[Winter Is Coming]]", "[[Lord Snow]]", "[[Cripples, Bastards, and Broken Things]]", "[[The Wolf and the Lion]]", "[[A Golden Crown]]", "[[You Win or You Die]]", "[[Baelor]]" and "[[Fire and Blood]]", [[Game of Thrones: Season 2|second season]] episode "[[Blackwater]]", the [[Game of Thrones: Season 3|third season]] episodes "[[The Rains of Castamere (episode)|The Rains of Castamere]]" and "[[Mhysa]]", the [[Game of Thrones: Season 4|fourth season]] episode "[[The Watchers on the Wall]]" and "[[The Children]]", the [[Game of Thrones: Season 6|sixth season]] episode "[[Battle of the Bastards (episode)|Battle of the Bastards]]", and the [[Game of Thrones: Season 7|seventh season]] episode "[[Stormborn]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 1|yes||yes|yes|yes|yes|yes||yes|yes}}
+{{Game of Thrones: Season 2|||||||||yes}}
+{{Game of Thrones: Season 3|||||||||yes|yes}}
+{{Game of Thrones: Season 4|||||||||yes|yes}}
+{{Game of Thrones: Season 6|||||||||yes}}
+{{Game of Thrones: Season 7||yes}}
+
+==See also==
+*{{IMDb
+|# = 2485630}}
+*{{Facebook
+|# = laszlo.kosa.18}}
+{{DEFAULTSORT:Kósa, László}}
+[[Category:Stunt performers of Game of Thrones]]

@@ -1,0 +1,65 @@
+{{Canonicity|Canon}}
+{{Spoiler|AKOTSK}}
+{{Heraldry
+| Image = House Tyrell.svg
+| Link  = House Tyrell
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Tyrell
+| Image       = 
+| Birth       = [[Highgarden]], the [[Reach]]{{Con|AWOIAF}}
+| Death       = 
+| House       = [[House Tyrell|Tyrell]]
+| Affiliation = [[House Targaryen/A Knight of the Seven Kingdoms|House Targaryen]]
+| Titles      = [[Knighthood|Ser]]<br>[[Lord of Highgarden]]<br>[[Lord Paramount of the Reach]]<br>[[Warden of the South]]
+| AKA         = Leo Longthorn
+| Culture     = [[Reach]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[A Knight of the Seven Kingdoms]]''
+| Season      = [[A Knight of the Seven Kingdoms: Season 1|1]]
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Steve Wall]]
+}}
+Lord '''Leo Tyrell''', called '''Longthorn''', is the [[Lord of Highgarden]] and head of [[House Tyrell]] during the reign of [[Daeron II Targaryen]].<ref>https://redanianintelligence.com/2024/08/11/a-knight-of-the-seven-kingdoms-casts-a-tyrell/</ref>
+
+==In the books==
+In the [[Dunk & Egg novellas]], Leo Tyrell is a slender man with silvery hair and a grey beard. Some consider him the finest lancer in history.
+
+Leo fought in the [[Blackfyre Rebellion]], winning notable victories against [[Daemon Blackfyre]] in the Reach. He did not arrive in time for the [[Battle of Redgrass Field|Battle of the Redgrass Field]].
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|Leo Tyrell (Longthorn)}} {{Spoilers|AKOTSK}}
+
+<!--Navboxes-->
+{{House Tyrell}}
+
+<!--Categories-->
+{{DEFAULTSORT:Tyrell, Leo}}
+[[Category:Bannermen of House Targaryen]]
+[[Category:Individuals appearing in A Knight of the Seven Kingdoms]]
+[[Category:Individuals from the Reach]]
+[[Category:Knights]]
+[[Category:Members of House Tyrell|Leo Tyrell]]
+[[Category:Lords of Highgarden]]
+[[Category:Lords Paramount of the Reach]]
+[[Category:Wardens of the South]]
+
+<!--Languages-->
+[[pl:Leo Tyrell]]

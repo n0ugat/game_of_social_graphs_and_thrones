@@ -1,0 +1,58 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Order of Maesters.svg
+| Link  = Order of Maesters
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Citadel
+| Image       = Mickon.png
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[Order of Maesters]]{{Ref|HOTD101}}<br>[[House Targaryen/House of the Dragon|House Targaryen]]{{Ref|HOTD101}}
+| Titles      = Maester{{Ref|HOTD101}}
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 1|1]]
+| Appearances = "[[The Heirs of the Dragon]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Mikhail Sen]]
+}}
+'''Mickon''' is a [[Order of Maesters|maester]] serving at the [[Red Keep]].
+
+==Biography==
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+Mickon and [[Grand Maester]] [[Mellos]] attend to an infected wound on [[Viserys I Targaryen|King Viserys]]'s back. When Mellos suggests leeching it, Mickon instead suggests cauterization.{{Ref|HOTD101}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels and ''[[Fire & Blood]]'', there is no character named Mickon. It is mentioned that younger maesters had more success as physicians than Grand Maester Mellos, whose go-to solution with most health issues was leeching.
+
+==Appearances==
+*{{HOTD|The Heirs of the Dragon}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House Targaryen/House of the Dragon}}
+
+<!--Categories-->
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Maesters]]
+[[Category:Servants and retainers of House Targaryen]]
+
+<!--Languages-->
+[[fr:Mickon]]
+[[ru:Микон]]

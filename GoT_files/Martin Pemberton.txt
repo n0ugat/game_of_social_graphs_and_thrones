@@ -1,0 +1,25 @@
+{{Crew
+|Image = Martin Pemberton.jpg
+|dateofbirth = 
+|birthplace = 
+|job = Stunt Performer
+|imdb = https://www.imdb.com/name/nm1361152/
+|twitter = }}
+'''Martin Lee Pemberton''' is a stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 1|first season]] episode "[[Lord Snow]]", the [[Game of Thrones: Season 2|second season]] episodes "[[The Old Gods and the New]]" and "[[A Man Without Honor]]", the [[Game of Thrones: Season 3|third season]] episode "[[Kissed by Fire]]" and the [[Game of Thrones: Season 4|fourth season]] episodes "[[The Watchers on the Wall]]" and "[[The Children]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 1|||yes}}
+{{Game of Thrones: Season 2||||||yes|yes}}
+{{Game of Thrones: Season 3|||||yes}}
+{{Game of Thrones: Season 4|||||||||yes|yes}}
+
+==See also==
+*{{IMDb
+|# = 1166914}}
+*{{Facebook
+|# = martin.pemberton.71}}
+{{DEFAULTSORT:Pemberton, Martin}}
+[[Category:Stunt performers of Game of Thrones]]

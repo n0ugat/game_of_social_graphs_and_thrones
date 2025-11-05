@@ -1,0 +1,20 @@
+{{Crew
+|Image = 
+|dateofbirth = {{WPS|March 5}}, {{WPS|1943}}
+|birthplace = {{WPS|Zagreb}}, {{WPS|Yugoslavia}}
+|job = Stunt Performer
+|imdb = http://www.imdb.com/name/nm0119556/
+|twitter = }}
+'''Miroslav Buhin''' (born March 5, 1943) is a Yugoslavian stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt coordinator in the [[Game of Thrones: Season 4|fourth season]] episode "[[The Mountain and the Viper]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 4||||||||yes}}
+
+==See also==
+*{{IMDb
+|# = 0119556}}
+{{DEFAULTSORT:Buhin, Miroslav}}
+[[Category:Stunt performers of Game of Thrones]]

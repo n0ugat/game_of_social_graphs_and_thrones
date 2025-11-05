@@ -1,0 +1,81 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Frey.svg
+| Link  = House Frey
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Frey
+| Image       = Marianne Frey.jpg
+| Birth       = At the [[Twins]]
+| Death       = 
+| House       = [[House Frey|Frey]]
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Riverlands|Rivermen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 3|3]] {{*}} [[Game of Thrones: Season 6|6]]
+| Appearances = 3 episodes {{Below|Appearances}}
+| First       = "[[The Rains of Castamere (episode)|The Rains of Castamere]]"
+| Last        = "[[The Winds of Winter]]"
+| DeathEp     = 
+| Actor       = [[Katie Creaven]]
+}}
+{{Quote|My granddaughter, Marianne.|Lord Walder Frey to Robb Stark|The Rains of Castamere (episode)}}
+'''Marianne Frey''' is one of the many granddaughters of [[Walder Frey]].
+
+==Biography==
+===Background===
+Marianne is one of the many granddaughters of [[Walder Frey]], the [[Lord of the Crossing]].{{Ref|GOT309}}
+
+===[[Game of Thrones: Season 3|''Game of Thrones'': Season 3]]===
+Along with several of [[Lordship|Lord]] Frey's other daughters and granddaughters, [[Robb Stark]] had the option of marrying her. When he arrives at the [[Twins]] for his uncle [[Edmure Tully|Edmure]]'s [[Red Wedding|wedding]], Robb apologizes for his slight against them.{{Ref|GOT309}}
+
+===[[Game of Thrones: Season 6|''Game of Thrones'': Season 6]]===
+Marianne is present when [[Edmure Tully]] is brought into the hall by Walder Frey.{{Ref|GOT606}}
+
+After the [[second siege of Riverrun]], Marianne is seen celebrating in the background at the victory feast after the Freys and [[House Lannister|Lannisters]] have taken [[Riverrun]].{{Ref|GOT610}}
+
+==Family==
+{{Frey tree}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Lord Walder has no granddaughter named "Marianne". He does have a great-granddaughter named Marianne Vance, daughter of Ser Dafyn Vance and Maegelle Frey. This Marianne is herself the granddaughter of Walder's eldest son, Ser [[Stevron Frey]]. She is among the Frey girls presented to Robb before Edmure's wedding.
+
+==Appearances==
+*{{GOT|The Rains of Castamere}}
+*{{GOT|Blood of My Blood}}
+*{{GOT|The Winds of Winter}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Marianne Vance}}
+
+<!--Navboxes-->
+{{House Frey}}
+
+<!--Categories-->
+{{DEFAULTSORT:Frey, Marianne}}
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Members of House Frey|Marianne Frey]]
+[[Category:Rivermen]]
+
+<!--Languages-->
+[[de:Marianne Frey]]
+[[es:Marianne Frey]]
+[[fr:Marianne Frey]]
+[[pl:Marianne Frey]]
+[[ro:Marianne Frey]]
+[[ru:Марианна Фрей]]

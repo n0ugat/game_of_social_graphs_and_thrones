@@ -1,0 +1,81 @@
+{{Canonicity|Non}}
+{{Heraldry
+| Leftimage  = House Baratheon.svg
+| Leftlink   = House Baratheon
+| Rightimage = Kingsguard.svg
+| Rightlink  = Kingsguard
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Targaryen
+| Image       = House Baratheon lineage.jpg
+| Birth       = [[11 AC]]{{Dateref|Mychal Baratheon}}<br>[[Storm's End]], the [[Stormlands]]{{Ref|GOT106}}
+| Death       = [[41 AC]]{{Dateref|Mychal Baratheon death}} (aged 30)<br>[[Red Keep]], [[King's Landing]]{{Ref|GOT106}}
+| House       = [[House Baratheon|Baratheon]]{{Ref|GOT106}}
+| Affiliation = [[Kingsguard]]{{Ref|GOT106}}
+| Titles      = [[Knighthood|Ser]]{{Ref|GOT106}}
+| AKA         = 
+| Culture     = [[Stormlands|Stormlander]]{{Ref|GOT106}}
+| Religion    = 
+| Father      = {[[Orys Baratheon]]}{{Ref|GOT106}}
+| Mother      = {[[Argella Baratheon|Argella Durrandon]]}{{Ref|GOT106}}
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Knighted at King's Landing by Lord Commander SERWYN ERROL in his twenty-third year and appointed to the Kingsguard. Died in his thirtieth year from wounds sustained preventing an assassination attempt on his royal grace, King AENYS.|Excerpt from ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]''|A Golden Crown}}
+Ser '''Mychal Baratheon''' was a [[Knighthood|knight]] of [[King of the Andals and the Rhoynar and the First Men|King]] [[Aenys Targaryen]]'s [[Kingsguard]].
+
+==Biography==
+===Background===
+Mychal was knighted by [[Lord Commander of the Kingsguard|Lord Commander]] [[Serwyn Errol]] at the age of 23. At the age of 30, Mychal died preventing an assassination attempt on King Aenys.{{Ref|GOT106}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+He has an entry in ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]'', which notes the fact that he, along with all of his ancestors and descendants were born "black of hair".{{Ref|GOT106}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no character named Mychal, either of House Baratheon or any other house.
+
+In [[Game of Thrones: Season 1|Season 1]] of the TV series, [[Eddard Stark]] looks through the pages of ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]'', but for the visual medium of television the prop had to be filled in with other pages of writing beyond the sections on [[Robert Baratheon|Robert]] and [[Joffrey Baratheon|Joffrey]] that Ned specifically read. Writer [[Bryan Cogman]] said that he filled in much of this by simply making up names or using in-jokes - and these aren't strictly canon. On the other hand, some of the details are accurate to the novels, such as information on the [[Blackfyre Rebellion]], do match the already released novels.
+
+One of the entries visible in the book says that one of Orys's sons died preventing an assassination attempt on King Aenys - the prop names this son Mychal Baratheon; this character may be an early inspiration for a very similar character that was created years later in ''The World of Ice & Fire'': a Baratheon by the name of [[Raymont Baratheon]] (who was Orys's son, according to ''[[Fire & Blood]]''), who served in Aenys's kingsguard. It is unclear if this was behind-the-scenes information that [[George R.R. Martin]] shared with Cogman, or if he simply ''guessed'' that one of Aenys's Kingsguard may have died fighting off an assassination attempt in the Faith Militant uprising (the details of which weren't specified until some time after Season 1 was produced).
+
+In the print material so far, it is unclear if Raymont Baratheon died defending Aenys during the Faith Militant's attack on the Red Keep.
+
+==Appearances==
+*{{GOT|A Golden Crown}} {{Text}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|Raymont Baratheon}}
+
+<!--Navboxes-->
+{{House Baratheon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Baratheon, Mychal}}
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Kingsguard of Aenys I Targaryen]]
+[[Category:Knights]]
+[[Category:Members of House Baratheon|Mychal Baratheon]]
+[[Category:Stormlanders]]
+
+<!--Languages-->
+[[de:Mychal Baratheon]]
+[[es:Mychal Baratheon]]
+[[fr:Mychal Baratheon]]
+[[ru:Микал Баратеон]]

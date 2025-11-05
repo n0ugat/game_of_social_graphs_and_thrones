@@ -1,0 +1,26 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Mark Ward.jpg
+| Birth   = 
+| Death   = 
+| Role    = Special action performer
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = 2 episodes {{Below|Credits}}
+| First   = "[[The Lord of the Tides]]"
+| Last    = "[[The Green Council]]"
+}}
+'''Mark Ward''' is an actor and stuntman.
+
+In ''[[House of the Dragon]]'', he was a special action performer in the [[House of the Dragon: Season 1|first season]] episodes "[[The Lord of the Tides]]" and "[[The Green Council]]".
+
+==Credits==
+===Stunts===
+{{House of the Dragon: Season 1||||||||yes|yes}}
+
+==See also==
+*{{IMDb
+|# = 8744850}}
+{{DEFAULTSORT:Ward, Mark}}
+[[Category:Stunt performers of House of the Dragon]]

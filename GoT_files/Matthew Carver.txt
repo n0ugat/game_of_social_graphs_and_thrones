@@ -1,0 +1,30 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = 
+| Birth   = 
+| Death   = 
+| Role    = Young [[Laenor Velaryon]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = "[[The Heirs of the Dragon]]"
+| First   = 
+| Last    = 
+}}
+'''Matthew Carver''' is an actor. He has appeared in the television series ''{{WPS|Doctor Who}}''.
+
+In ''[[House of the Dragon]]'', he portrayed Young [[Laenor Velaryon]] in the [[House of the Dragon: Season 1|first season]].
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1|yes}}
+
+==See also==
+*{{IMDb|# = 4491770}}
+
+<!--Categories-->
+{{DEFAULTSORT:Carver, Matthew}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--Interwiki links-->
+[[fr:Matthew Carver]]

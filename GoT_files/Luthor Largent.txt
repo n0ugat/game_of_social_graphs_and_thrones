@@ -1,0 +1,56 @@
+{{Canonicity|Canon}}
+{{Spoiler|HOTD}}
+{{Heraldry
+| Image = 
+| Link  = House Largent
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Targaryen
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = [[House Largent|Largent]]
+| Affiliation = [[House Targaryen]]
+| Titles      = [[Knighthood|Ser]]
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 3|3]]
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Tom Cullen]]
+}}
+Ser '''Luthor Largent''' is a lowborn knight who served as an officer in the [[City Watch of King's Landing]] during the reign of King [[Viserys I Targaryen]] and the [[Dance of the Dragons]].{{Ref|TDOD}}
+
+==In the books==
+In ''[[Fire & Blood]]'', Luthor Largent was a lowborn knight who served as an officer the [[City Watch of King's Landing]] during the reign of King [[Viserys I Targaryen]] and the [[Dance of the Dragons]].{{Ref|TDOD}}
+
+==Appearances==
+*{{TDOD}} {{C|illustrated or mentioned indirectly}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Categories-->
+{{DEFAULTSORT:Largent, Luthor}}
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Individuals from The Dance of Dragons]]
+[[Category:Knights]]
+[[Category:Members of House Largent]]
+
+<!--Languages-->
+[[pl:Luthor Largent]]

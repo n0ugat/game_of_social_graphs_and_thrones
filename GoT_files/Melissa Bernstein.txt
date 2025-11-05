@@ -1,0 +1,29 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Melissa Bernstein.jpg
+| Birth   = 
+| Death   = 
+| Role    = Execuitve producer
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]] {{*}} [[House of the Dragon: Season 3|3]]
+| Credits = 
+| First   = 
+| Last    = 
+}}
+'''Melissa Bernstein''' is a film producer and director. She is an executive producer on the [[House of the Dragon: Season 2|second season]] of ''[[House of the Dragon]]''.
+
+==Credits==
+===Executive producer===
+*{{HOTD|Season 2}}<ref>[https://ew.com/tv/house-of-the-dragon-season-2-cast-returning-players/ ''House of the Dragon'' season 2 confirms the returning players — no, Mysaria isn't dead yet | ''Entertainment Weekly'']</ref>
+*{{HOTD|Season 3}} {{Unreleased}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb|#=2214628}}
+
+<!--Categories-->
+{{DEFAULTSORT:Bernstein, Melissa}}
+[[Category:Executive producers of House of the Dragon]]

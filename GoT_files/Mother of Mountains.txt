@@ -1,0 +1,49 @@
+{{Canonicity|Canon}}
+{{MapNeeded}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Dothraki
+| Image        = MotherOfMountains.jpg
+| Type         = Mountain
+| Status       = 
+| Location     = Near [[Vaes Dothrak]], [[Dothraki Sea]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = [[Great Stallion]]
+| Places       = 
+| Founded      = 
+}}
+{{Quote|Ki jini anha astak asqoy hatif Maisi Krazaaji kash shieraki vitihiri asavvasoon. Asavvasoon! Asavvasoon!"<br>"I swear before the Mother of Mountains as the stars look down in witness. As the stars look down in witness.|[[Drogo]]|You Win or You Die}}
+The '''Mother of Mountains'''{{Ref|GOT107}}{{Note|[[Dothraki (language)|Dothraki]]: ''Maisi Krazaaji''}} is a mountain in [[Essos]], located within sight of [[Vaes Dothrak]], a lone mountain in the middle of the plains of the [[Dothraki Sea]]. It is considered sacred in the [[Great Stallion|Dothraki religion]].
+
+==History==
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+During his vow to take the [[Iron Throne]] for his unborn son, [[Rhaego]], [[Khal]] [[Drogo]] swears by the Mother of Mountains.<ref>"[[You Win or You Die]]"</ref>
+
+==In the books==
+In ''[[A Song of Ice and Fire]]'', the Mother of Mountains is a mountain sacred to the Dothraki people, located within sight of Vaes Dothrak and a lake known as the Womb of the World, from which, according to myth, the first man emerged riding on the first horse. Only men are allowed to set foot on the Mother of Mountains.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Central Essos}}
+{{Dothraki}}
+
+<!--Categories-->
+[[Category:Dothraki culture]]
+[[Category:Dothraki Sea]]
+[[Category:Mountains]]
+
+<!--Languages-->
+[[de:Mutter aller Berge]]
+[[ru:Матерь Гор]]
+[[zh:圣母山]]

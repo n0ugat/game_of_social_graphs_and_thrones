@@ -1,0 +1,35 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Max Wrottesley.jpg
+| Birth   = Maxim Wrottesley<br>October 16
+| Death   = 
+| Role    = [[Lorent Marbrand]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]] {{*}} [[House of the Dragon: Season 2|2]]
+| Credits = 10 episodes {{Below|Credits}}
+| First   = "[[The Lord of the Tides]]"
+| Last    = 
+}}
+'''Maxim Wrottesley''' is an actor.
+
+In ''[[House of the Dragon]]'', he portrayed [[Lorent Marbrand]] in the [[House of the Dragon: Season 1|first]] and [[House of the Dragon: Season 2|second]] seasons.
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1||||||||yes||yes}}
+{{House of the Dragon: Season 2|yes|yes|yes|yes|yes|yes|yes|yes}}
+
+==See also==
+*{{IMDb|#=0943031}}
+*{{Twitter|#=maxwrottesley}}
+*{{Instagram|#=maxwrottesley}}
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Wrottesley, Max}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Max Wrottesley]]

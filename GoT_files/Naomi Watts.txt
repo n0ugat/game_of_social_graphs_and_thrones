@@ -1,0 +1,36 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Bloodmoon
+| Image   = Naomi Watts.jpg
+| Birth   = Naomi Ellen Watts<br>September 28, 1968 {{Age|1968|9|28}}<br>Shoreham, Kent, England
+| Death   = 
+| Role    = [[Morven Casterly]]
+| Series  = ''[[Bloodmoon]]'' {{Rejected}}
+| Season  = 
+| Credits = [[Pilot (Bloodmoon)|Pilot]] {{Unreleased}}
+| First   = 
+| Last    = 
+}}
+'''Naomi Ellen Watts''' (born 28 September 1968) is an English actress and film producer. She has appeared in films such as ''{{WPS|Mulholland Drive}}'', ''{{WPS|The Ring (2002 film)|The Ring}}'', ''{{WPS|21 Grams}}'', ''{{WPS|The Assassination of Richard Nixon}}'', ''{{WPS|I Heart Huckabees}}'', ''{{WPS|King Kong (2005 film)|King Kong}}'', ''{{WPS|Eastern Promises}}'', ''{{WPS|You Will Meet a Tall Dark Stranger}}'', ''{{WPS|J. Edgar}}'', ''{{WPS|The Impossible (2012 film)|The Impossible}}'', ''{{WPS|Diana (film)|Diana}}'', ''{{WPS|Birdman (film)|Birdman or (The Unexpected Virtue of Ignorance)}}'' and ''{{WPS|St. Vincent (film)|St. Vincent}}''. She was nominated for the {{WPS|Academy Award for Best Actress}} for her performances in ''{{WPS|21 Grams}}'' and ''{{WPS|The Impossible (2012 film)|The Impossible}}''.
+
+She portrayed [[Morven Casterly]] in the [[Pilot (Bloodmoon)|pilot]] of ''[[Bloodmoon]]''.<ref>[https://variety.com/2018/tv/news/game-of-thrones-prequel-pilot-naomi-watts-hbo-1202977630/ ‘Game of Thrones’ Prequel Casts Naomi Watts in Lead Role]</ref>
+
+==See also==
+*{{WP}}
+*{{IMDb|# = 0915208}}
+*{{Instagram|# = naomiwatts}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{Bloodmoon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Watts, Naomi}}
+[[Category:Cast members of the pilot of Bloodmoon]]
+
+<!--Languages-->
+[[de:Naomi Watts]]
+[[fr:Naomi Watts]]
+[[ru:Наоми Уоттс]]

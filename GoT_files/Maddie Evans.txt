@@ -1,0 +1,33 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Maddie Evans.jpg
+| Birth   = 2006 {{Age|2006|12|31}}
+| Death   = 
+| Role    = [[Dyana]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]] {{*}} [[House of the Dragon: Season 2|2]]
+| Credits = 4 episodes {{Below|Credits}}
+| First   = "[[The Lord of the Tides]]"
+| Last    = 
+}}
+'''Maddie Evans''' (born 2006) is a British actress. She plays [[Dyana]] in ''[[House of the Dragon]]''.
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1||||||||yes}}
+{{House of the Dragon: Season 2|||yes||yes|yes}}
+
+==See also==
+*{{IMDb|# = 10882568}}
+*{{Twitter|# = maddieevanactor}}
+*{{Instagram|# = maddieeaevans}}
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Evans, Maddie}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Maddie Evans]]

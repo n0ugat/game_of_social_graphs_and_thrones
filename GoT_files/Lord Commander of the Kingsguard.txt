@@ -1,0 +1,139 @@
+{{Canonicity|Canon}}
+{{Spoiler|AKOTSK}}
+{{References}}
+[[File:Brienne S8 Ep6.jpg|thumb|250x250px|Ser Brienne of Tarth, the incumbent.]]
+{{Quote|You attack the Faith you attack the Crown. Anyone who attacks the crown is unfit to serve as Lord Commander of the Kingsguard.|[[Tommen Baratheon]] to [[Jaime Lannister]]|Blood of My Blood}}
+The '''Lord Commander of the Kingsguard'''{{Ref|GOT108}}{{Note|Feminine: '''Lady Commander of the Kingsguard'''.{{Webref|name=MGOT |author=Making Game of Thrones Blog |date=May 29, 2019 |url=https://www.makinggameofthrones.com/production-diary/season-8-episode-6-series-finale-costumes-sansa-bran-brienne |title=Get a Closer Look at the Finale’s Costumes |website=Making Game of Thrones |access-date=January 8, 2024 }}}} is the head of the [[Kingsguard]], appointed by the [[King of the Andals and the Rhoynar and the First Men|king]] himself. In the case of a female sovereign (and thus a Queensguard rather than a Kingsguard), the title is '''Lord Commander of the Queensguard'''.{{Con|TWOI&F}}
+
+The king usually appoints a new Lord Commander from one of the current serving members of the Kingsguard, though there may have been exceptional cases in which a knight was instantly appointed to the Kingsguard as well as the position of Lord Commander.
+
+The Lord Commander wears the same uniform armor as the regular members of the Kingsguard, with no difference in appearance or regalia.  Given that there are only seven Kingsguard members at any one time, including the Lord Commander himself, it is usually an easy matter to keep track of their identities at court and on the battlefield.  
+
+The position was founded, along with the Kingsguard itself, by [[Aegon I Targaryen|Aegon the Conqueror]], who [[Aegon's Conquest|united]] the Seven Kingdoms three hundred years before the [[War of the Five Kings]].
+
+The Lord Commander of the Kingsguard also holds a seat on the king's [[Small Council]] by virtue of his office. His role on the council is to give military advice on land-based warfare (separate from the [[Master of Ships]], who handles naval affairs). During the reign of King [[Robert Baratheon]], the position was stripped of its Small Council seat. The seat however, was restored to the Small Council under King [[Bran Stark]]. 
+
+The current Lady Commander of the Kingsguard is Ser [[Brienne of Tarth]].
+
+Ser [[Loras Tyrell]] was the Lord Commander of King [[Renly Baratheon]]'s rival Kingsguard before his death.
+
+==Known Lords Commander==
+{| class="wikitable" width="500px;"
+!Lord Commander
+!Monarch
+!Period
+|-
+|rowspan="2"|{{COA|House Redwyne|i}} Ser [[Ryam Redwyne]]
+|[[Jaehaerys I Targaryen]]
+|?–103 AC
+|-
+|rowspan="2"|[[Viserys I Targaryen]]
+|103–112 AC
+|-
+|{{COA|House Westerling|i}} Ser [[Harrold Westerling]]
+|112–132 AC
+|-
+|{{COA|House Cole|i}} Ser [[Criston Cole]]
+|[[Aegon II Targaryen]]
+|132–? AC
+|-
+|rowspan=4|{{COA|House Targaryen|i}} Prince [[Aemon Targaryen (son of Viserys II)|Aemon Targaryen]]
+|[[Daeron I Targaryen]]
+|?
+|-
+|[[Baelor I Targaryen]]
+|?
+|-
+|[[Viserys Targaryen (son of Rhaenyra)|Viserys II Targaryen]]
+|?
+|-
+|[[Aegon IV Targaryen]]
+|?
+|-
+|{{COA|House Hightower|i}} Ser [[Gerold Hightower]]
+|[[Aerys II Targaryen]]
+|258–281 AC
+|-
+|rowspan=2|{{COA|House Selmy|i}} Ser [[Barristan Selmy]]
+|[[Robert I Baratheon]]
+|281–298 AC
+|-
+|rowspan=2|[[Joffrey Baratheon|Joffrey I Baratheon]]
+|298 AC
+|-
+|rowspan=2|{{COA|House Lannister|i}} Ser [[Jaime Lannister]]
+|298–301 AC
+|-
+|rowspan=2|[[Tommen Baratheon|Tommen I Baratheon]]
+|301–303 AC
+|-
+|rowspan=3|Unknown/Vacant
+|303 AC
+|-
+|[[Cersei I Lannister]]
+|303–305 AC
+|-
+|[[Daenerys I Targaryen]]
+|305 AC
+|-
+|{{COA|House Tarth|i}} Ser [[Brienne of Tarth]]
+|[[Bran Stark|Bran I the Broken]]
+|305 AC–
+|}
+
+===Lords Commander to rival claimants===
+*{{COA|House Darklyn|i}} Ser {[[Steffon Darklyn]]} (132 AC), under [[Rhaenyra Targaryen]].
+*{{COA|House Tyrell|i}} Ser {[[Loras Tyrell]]} (298–299 AC), under [[Renly Baratheon]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the leaders of rival Kingsguards, such as those of [[Renly Baratheon]] and [[Daenerys Targaryen]], have also used the rank of "Lord Commander". [[Loras Tyrell]] was briefly the Lord Commander of the Rainbow Guard, as Renly called his Kingsguard.
+
+Unlike several other offices on the Small Council, the Lord Commander of the Kingsguard cannot be lawfully dismissed, or at least not totally dismissed from the Kingsguard, because their vows are taken for life. Theoretically a king might appoint one of the other six Kingsguard members as the new Lord Commander to replace him, but it is unknown if this has ever happened.
+
+While reading through the White Book, Jaime notes that most of the Kingsguard served adequately, but few people remember their names generations later. The only ones people remember centuries later are those who were the best (great heroes such as [[Aemon Targaryen (son of Viserys II)|Aemon the Dragonknight]]), and those who were the worst (either traitors to the crown or those who were derelict in their duty, broke their vows and fathered children).
+
+===Known Lords Commander===
+*Ser Corlys Velaryon, under [[Aegon I Targaryen]].
+*Ser Addison Hill, under Aegon I Targaryen.
+*Ser Gyles Morrigen, under Jaehaerys I Targaryen.
+*Ser Ryam Redwyne, under Jaehaerys I and Viserys I Targaryen.
+*Ser Harrold Westerling, under Viserys I Targaryen.
+*Prince Aemon Targaryen, under Daeron I, Baelor, Viserys II, and Aegon IV Targaryen.
+*Ser Gerold Hightower, under Aerys II Targaryen.
+*Ser Barristan Selmy, under Robert Baratheon and Joffrey Baratheon.
+*Ser Jaime Lannister, under Joffrey and Tommen Baratheon.
+
+====Unknown reign====
+*Ser Robert Flowers
+*Ser Alyn Connington
+*The Demon of Darry
+
+====Lords Commander to rival claimants====
+*Ser Loras Tyrell, under Renly Baratheon. (styled Lord Commander of the Rainbow Guard)
+*Ser [[Jorah Mormont]], under [[Daenerys Targaryen]].
+*Ser Barristan Selmy, under Daenerys Targaryen.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTDAKOTSK}}
+
+<!--Navboxes-->
+{{Kingsguard of Bran I the Broken}}
+{{Small Council of Bran I the Broken}}
+
+<!--Categories-->
+[[Category:Kingsguard]]
+[[Category:Lords Commander of the Kingsguard| ]]
+[[Category:Small Council]]
+[[Category:Titles]]
+
+<!--Languages-->
+[[de:Lord Kommandant der Königsgarde]]
+[[fr:Lord Commandant de la Garde Royale]]
+[[pl:Lord dowódca Gwardii Królewskiej]]
+[[ru:Лорд-командующий Королевской гвардией]]

@@ -1,0 +1,52 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Westeros
+| Image       = 
+| Birth       = At [[Tumblestone (settlement)|Tumblestone]]
+| Death       = 
+| House       = 
+| Affiliation = 
+| Titles      = [[Knighthood|Ser]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Andals|Andal]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Is it true that Ser Marlon of Tumblestone prefers amputees?|Varys to Petyr Baelish|The Wolf and the Lion}} 
+Ser '''Marlon of Tumblestone''' is a [[Knighthood|knight]], and a patron of [[Petyr Baelish|Littlefinger]]'s brothels, where he is said to prefer amputees.
+
+==Biography==
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+Ser Marlon and his unusual tastes are mentioned by [[Varys]] when the latter attempts to intimidate Petyr Baelish with the knowledge of what transpires in his brothels.{{Ref|GOT105}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no mention of a character named Marlon of Tumblestone. The only character by that name is Ser Marlon Manderly, Lord [[Wyman Manderly]]'s cousin and the commander of the [[White Harbor]] garrison.
+
+==Appearances==
+*{{GOT|The Wolf and the Lion}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Knights]]
+[[Category:Westerosi]]
+
+<!--Languages-->
+[[de:Marlon]]

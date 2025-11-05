@@ -1,0 +1,58 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Heraldry
+| Image = Night's Watch.svg
+| Link  = Night's Watch
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = 108 Watch Messenger.png
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[Night's Watch]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 1|1]]
+| Appearances = 2 episodes {{Below|Appearances}}
+| First       = "[[The Pointy End]]"
+| Last        = "[[Baelor]]"
+| DeathEp     = 
+| Actor       = [[Frank O'Sullivan]]
+}}
+{{Quote|Lord Commander. Maester Aemon awaits you in his chambers. A raven from King's Landing.|The messenger to [[Lord Commander of the Night's Watch|Lord Commander]] [[Jeor Mormont]]|The Pointy End}}
+A '''Night's Watch messenger''' announces the arrival of a [[raven]] to [[Lord Commander of the Night's Watch|Lord Commander]] [[Jeor Mormont]].
+
+==Biography==
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+He announces the arrival of a [[raven]] to [[Lord Commander of the Night's Watch|Lord Commander]] [[Jeor Mormont]].{{Ref|GOT108}} He congratulates [[Jon Snow]] for protecting Mormont from an attack by a [[wight]] the next day.{{Ref|GOT109}}
+
+==Appearances==
+*{{GOT|The Pointy End}}
+*{{GOT|Baelor}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{Night's Watch}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Men of the Night's Watch]]
+[[Category:Westerosi]]
+
+<!--Languages-->
+[[ru:Стюард Ночного дозора]]

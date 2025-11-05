@@ -1,0 +1,68 @@
+{{Canonicity|Non}}
+{{Heraldry
+| Image = House Umber.svg
+| Link  = House Umber
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Stark
+| Image       = Umber lineage.jpg
+| Birth       = [[232 AC]]{{Dateref|Morgana Umber}} at [[Last Hearth]]
+| Death       = 
+| House       = [[House Umber|Umber]]
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Northmen|Northern]]
+| Religion    = [[Old Gods]]
+| Father      = {[[Gareth Umber]]}
+| Mother      = {[[Hollys Umber|Hollys Tallhart]]}
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = {[[Emilia Umber]]}<br>{[[Brandon Umber]]}<br>{[[Kear Umber]]}<br>{[[Finn Umber]]}<br>{[[Iain Umber (son of Gareth)|Iain Umber]]}
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Morgana Umber''' was a member of [[House Umber]].
+
+==Biography==
+===Background===
+Morgana was born to Lord [[Gareth Umber]] and [[Hollys Umber]].{{Ref|GOT104}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+She has an entry in ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]''.{{Ref|GOT104}}
+
+==In the books==
+Morgana Umber is referenced only in the TV adaptation of ''[[A Song of Ice and Fire]]'' and has no corresponding counterpart in the books.
+
+==Appearances==
+*{{GOT|Cripples, Bastards, and Broken Things}} {{Text}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{House Umber}}
+
+<!--Categories-->
+{{DEFAULTSORT:Umber, Morgana}}
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Members of House Umber|Morgana Umber]]
+[[Category:Northmen]]
+
+<!--Languages-->
+[[de:Morgana Umber]]
+[[es:Morgana Umber]]
+[[fr:Morgana Omble]]
+[[ru:Моргана Амбер]]

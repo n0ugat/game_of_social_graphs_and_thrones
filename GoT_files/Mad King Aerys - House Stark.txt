@@ -1,0 +1,104 @@
+{{Short
+| Title    = Mad King Aerys -<br><small>House Stark</small>
+| Type     = Lore
+| Image    = H&L112.png
+| Season   = 1
+| Short    = 12
+| Date     = March 6, 2012{{Webref|name=Blu-ray |author=Jacob Klein |date=March 4, 2012 |url=https://hbowatch.com/game-of-thrones-dvd-blu-ray-available-56/ |title=Game of Thrones DVD & Blu-Ray Available 3/6! |website=HBO Watch |access-date=December 15, 2023 }}
+| Runtime  = 3 minutes{{Ref|H&L112}}
+| Narrator = [[Luwin]]{{Boxref|GOT1}}
+| Writer   = [[Bryan Cogman]]{{Webref|name=Cogman |author=Dan Selcke |date=September 20, 2017 |url=https://winteriscoming.net/2017/09/20/bryan-cogman-is-developing-a-fifth-game-of-thrones-prequel-series-for-hbo/ |title=Bryan Cogman is developing a fifth Game of Thrones prequel series for HBO |website=Winter is Coming |access-date=December 14, 2023 }}
+| Director = 
+| Previous = "[[Mad King Aerys - House Baratheon]]"{{Boxref|GOT1}}
+| Next     = "[[Mad King Aerys - House Lannister]]"{{Boxref|GOT1}}
+}}
+"'''Mad King Aerys - House Stark'''"{{Boxref|GOT1}} is the twelfth short of the [[Histories & Lore: Season 1|first season]] of ''[[Histories & Lore]]''. It is the twelfth short of the series overall. It was released on March 6, 2012 in ''[[Game of Thrones: The Complete First Season]]''. It was narrated by [[Donald Sumpter]] as [[Luwin]] and written by [[Bryan Cogman]].
+
+==Premise==
+{{Premise|H&L112}}
+
+==Narration==
+'''Luwin''': ''As word of King [[Aerys II Targaryen|Aerys]]'s erratic and troubling behavior spread throughout the [[Seven Kingdoms]], Lord [[Rickard Stark]] continued to serve his king faithfully as [[Warden of the North]]. The proud father of four children, his daughter [[Lyanna Stark|Lyanna]] was engaged to [[Robert Baratheon]], the young [[lord of Storm's End]].''
+
+''Centuries of peace between the [[North]] and the [[Iron Throne]] ended the day [[Rhaegar Targaryen]], [[Prince of Dragonstone]], abducted Lyanna. Enraged, [[Brandon Stark]] rode to [[King's Landing]] demanding the release of his sister and the death of Rhaegar.''
+
+''Aerys arrested him for treason and called his father to come to the capital to ransom him. When Lord Rickard complied, Aerys, now utterly mad, arrested him for treason as well. Lord Rickard demanded a [[trial by combat]].'' 
+
+''Aerys declared fire the champion of [[House Targaryen]] and had Lord Rickard suspended from the rafters of the throne room while [[Wisdom|pyromancers]] lit a blaze beneath him.''
+
+''As he burned, Brandon was brought into the [[throne room]], a leather cord attached to a strangulation device was wrapped around his neck. Aerys told Brandon his father was a dead man, but there was a chance to save him. A longsword was placed on the floor just out of Brandon's reach.''
+
+''And the more he struggled to reach it, the more the cord tightened around his throat. Brandon Stark strangled himself, trying to free his father, who was roasted alive in his own armor.''
+
+''The entire court stood and watched this atrocity take place, Ser [[Jaime Lannister]] and the [[Kingsguard]] among them. The Mad King was reported to have laughed hysterically as these two noble men were tortured and brutally killed before him.''
+
+''Seeking to rid the world of all his supposed enemies, Aerys called for the head of Rickard's youngest son, [[Eddard Stark]], and Lyanna's betrothed, [[Robert Baratheon]]. He sent word to Lord [[Jon Arryn]], who had fostered both young men at the Eyrie, to apprehend them.''
+
+''Instead, Lord Arryn joined Houses [[House Stark|Stark]] and [[House Baratheon|Baratheon]] in rebellion. Robert vowed to kill Rhaegar Targaryen and get his beloved Lyanna back.''
+
+==Appearances==
+===Individuals===
+*King [[Aerys II Targaryen]], "the Mad King"
+*Lord [[Rickard Stark]]
+*[[Lyanna Stark]]
+*Lord [[Robert Baratheon]]
+*Prince [[Rhaegar Targaryen]]
+*[[Brandon Stark]]
+*Lord [[Eddard Stark]]
+*Lord [[Jon Arryn]]
+
+===Houses===
+*[[House Targaryen]]
+*[[House Stark]]
+*[[House Baratheon]]
+*[[House Arryn]]
+*[[House Tully]]
+
+===Locations===
+*[[King's Landing]]
+**[[Red Keep]]
+***[[Throne room]]
+**[[Great Sept of Baelor]]
+
+===Events===
+*[[Robert's Rebellion]]
+**[[Abduction of Lyanna Stark]]
+**[[Execution of Rickard and Brandon Stark]]
+
+===Miscellaneous===
+*[[Trial by combat]] {{Mentioned}}
+
+==Cast==
+*[[Donald Sumpter]] as [[Luwin]]
+
+==Behind the scenes==
+*This is the second of three shorts on [[Aerys II Targaryen|Mad King Aerys]].
+*Luwin's description of the [[execution of Rickard and Brandon Stark]] closely resembles how [[Jaime Lannister|Jaime]] describes the event to [[Catelyn Stark|Catelyn]] in ''A Clash of Kings''.
+*It would be more suitable for Jaime to narrate the short, since he witnessed the event firsthand. Moreover, while the rumors about the execution spread around the realm, it is unlikely that the gruesome details were revealed to Luwin or anyone else who was not present there (in the books, Catelyn had no idea about the details until Jaime told her).
+
+==In the books==
+* The short is adapted from the following chapter of ''A Clash of Kings'':
+**Chapter 55, Catelyn VII: [[Jaime Lannister|Someone]] describes the [[Execution of Rickard and Brandon Stark]].
+
+==Gallery==
+<gallery bordersize="none">
+Mad King Aerys - House Stark
+</gallery>
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{Histories & Lore}}
+
+<!--Categories-->
+[[Category:Shorts narrated by Luwin]]
+[[Category:Shorts of Histories & Lore: Season 1| 12]]
+[[Category:Shorts on Mad King Aerys|Stark, House]]
+[[Category:Shorts released in 2012|3.06L]]
+[[Category:Shorts written by Bryan Cogman]]
+
+<!--Languages-->
+[[de:Der Irre König Aerys (Gesamtführer durch Westeros)]]
+[[fr:Aerys le Roi Fou (Histoires & Traditions)]]
+[[pt-br:Rei Louco Aerys (Guia Completo para Westeros)]]

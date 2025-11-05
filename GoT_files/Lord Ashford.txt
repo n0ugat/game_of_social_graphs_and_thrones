@@ -1,0 +1,65 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Ashford.svg
+| Link  = House Ashford
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Bronn
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = [[House Ashford|Ashford]]{{Ref|GOT504}}
+| Affiliation = 
+| Titles      = 
+| AKA         = 
+| Culture     = [[Reach]]{{Ref|GOT504}}
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Lord Ashford.|[[Samwell Tarly]] to [[Jon Snow]] while reviewing a message.|Sons of the Harpy (episode)}}
+'''Lord Ashford''' is the head of [[House Ashford]].
+
+==Biography==
+===Background===
+Lord Ashford is the head of [[House Ashford]].{{Ref|GOT504}}
+
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+Lord Ashford sends a message to [[Lord Commander of the Night's Watch|Lord Commander]] [[Jon Snow]] in which he agrees to send men to join the [[Night's Watch]].{{Ref|GOT504}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, no members of [[House Ashford]] from the present timeline of the series have been named.
+
+==Appearances==
+*{{GOT|Sons of the Harpy}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House Ashford}}
+
+<!--Categories-->
+{{DEFAULTSORT:Ashford}}
+[[Category:Bannermen of House Tyrell]]
+[[Category:Individuals from the Reach]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Lords]]
+[[Category:Members of House Ashford]]
+
+<!--Languages-->
+[[de:Lord Aschfurt]]
+[[ru:Лорд Эшфорд]]

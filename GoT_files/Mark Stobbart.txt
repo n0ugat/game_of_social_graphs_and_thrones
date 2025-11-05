@@ -1,0 +1,35 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Mark Stobbart.jpg
+| Birth   = Stockton-on-Tees, County Durham, England
+| Death   = 
+| Role    = [[Cheese]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]]
+| Credits = 2 episodes {{Below|Credits}}
+| First   = "[[A Son for a Son]]"
+| Last    = "[[Rhaenyra the Cruel]]"
+}}
+'''Mark Stobbart''' is an English actor known for ''{{WPS|The Silence (TV series)|The Silence}}'' (2010), ''{{WPS|Line of Duty}}'' (2012) and ''The Devil Outside'' (2018). He portrayed {{WPS|Peter Sutcliffe}}, the Yorkshire Ripper, in ''{{WPS|The Long Shadow (TV series)|The Long Shadow}}''.
+
+In ''[[House of the Dragon]]'', he plays [[Cheese]] in the [[House of the Dragon: Season 2|second season]].<ref>[https://redanianintelligence.com/2023/04/12/house-of-the-dragon-season-2-adds-cheese-and-more-casting-news/ House of the Dragon Season 2 Adds Cheese and More Casting News | ''Redanian Intelligence'']</ref>
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 2|yes|yes}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb|#=1123403}}
+*{{Twitter|#=MarkStobbart}}
+*{{Instagram|#=mdstobbart}}
+
+<!--Categories-->
+{{DEFAULTSORT:Stobbart, Mark}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Mark Stobbart]]

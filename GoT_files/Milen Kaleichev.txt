@@ -1,0 +1,22 @@
+{{Crew
+|Image = Milen Kaleichev.jpeg
+|dateofbirth = 
+|birthplace = 
+|job = Stunt Performer
+|imdb = https://www.imdb.com/name/nm4196602/
+|twitter = }}
+'''Milen Kaleichev''' is a stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 5|fifth season]] episodes "[[Sons of the Harpy (episode)|Sons of the Harpy]]", "[[Hardhome (episode)|Hardhome]]" and "[[The Dance of Dragons (episode)|The Dance of Dragons]]", the [[Game of Thrones: Season 6|sixth season]] episodes "[[The Red Woman]]", "[[Oathbreaker]]", "[[The Door]]", "[[Blood of My Blood]]" and "[[Battle of the Bastards (episode)|Battle of the Bastards]]" and the [[Game of Thrones: Season 7|seventh season]] episodes "[[Stormborn]]" and "[[The Queen's Justice]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 5||||yes||||yes|yes}}
+{{Game of Thrones: Season 6|yes||yes||yes|yes|||yes}}
+{{Game of Thrones: Season 7||yes|yes}}
+
+==See also==
+*{{IMDb
+|# = 4196602}}
+{{DEFAULTSORT:Kaleichev, Milen}}
+[[Category:Stunt performers of Game of Thrones]]

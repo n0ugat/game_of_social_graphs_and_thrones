@@ -1,0 +1,225 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Leftimage  = House Tully.svg
+| Leftlink   = House Tully
+| Image2     = House Arryn.svg
+| Link2      = House Arryn
+| Rightimage = House Baelish.svg
+| Rightlink  = House Baelish
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Arryn
+| Image       = LysaArryn.png
+| Birth       = Lysa Tully{{Ref|GOT310}}<br>[[Riverrun]], the [[Riverlands]]{{Con|AWOIAF}}
+| Death       = [[301 AC]]{{Dateref|Game of Thrones: Season 4}}<br>The [[Eyrie]], the [[Vale of Arryn]]{{Ref|GOT407}}
+| House       = [[House Tully|Tully]]{{Ref|GOT310}}<br>[[House Arryn|Arryn]]{{Ref|GOT101}} {{C|by marriage}}<br>[[House Baelish|Baelish]]{{Ref|GOT405}} {{C|by marriage}}
+| Affiliation = 
+| Titles      = 
+| AKA         = 
+| Culture     = [[Riverlands|Rivermen]]{{Ref|GOT310}}
+| Religion    = [[Faith of the Seven]]{{Ref|GOT405}}
+| Father      = {[[Hoster Tully]]}{{Ref|GOT104}}
+| Mother      = {[[Minisa Tully|Minisa Whent]]}{{Ref|H&L313}}
+| Spouse      = {[[Jon Arryn]]}{{Ref|GOT101}} {{C|1st husband}}<br>{[[Petyr Baelish]]}{{Ref|GOT405}} {{C|2nd husband}}
+| Lovers      = 
+| Issue       = [[Robin Arryn]]{{Ref|GOT101}}
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 1|1]] {{*}} [[Game of Thrones: Season 4|4]]
+| Appearances = 5 episodes {{Below|Appearances}}
+| First       = "[[The Wolf and the Lion]]"
+| Last        = "[[Mockingbird]]"
+| DeathEp     = "Mockingbird"
+| Actor       = [[Kate Dickie]]
+}}
+{{Quote|What wife would do the things I've done for you? What wife would trust you the way I've trusted you? When you gave me those drops and told me to pour them into Jon's wine. My husband's wine. And you told me to write a letter to Cat telling her it was the Lannisters...|Lysa Arryn to [[Petyr Baelish]]|First of His Name}}
+Lady '''Lysa Arryn''', née '''Tully''', was born into [[House Tully]] as the daughter of [[Hoster Tully]], the [[Lord Paramount of the Trident]], and sister of [[Catelyn Stark|Catelyn]] and [[Edmure Tully]]. She married into [[House Arryn]] through her marriage to [[Jon Arryn]]. After Jon's [[Assassination of Jon Arryn|death]], whom she had secretly murdered on behalf of [[Petyr Baelish]], her true lover and later second husband, she became the [[Regent|Lady Regent]] of the [[Vale of Arryn|Vale]], ruling on behalf of her young son, [[Robin Arryn]]. She doted on her son and pursued a policy of isolationism during the [[War of the Five Kings]] despite her blood ties to House Tully.
+
+==Biography==
+===Background===
+[[File:Lysa_Tully.png|thumb|Lysa shortly after her marriage to [[Jon Arryn]].]]
+Lysa was born into [[House Tully]] and was the second child of Lord [[Hoster Tully]]. She had an older sister, [[Catelyn Stark|Catelyn]], and a younger brother, [[Edmure Tully|Edmure]]. [[Petyr Baelish]] was fostered with the Tullys and Lysa grew up with him.<ref name="Lysa Arryn viewers guide">[http://viewers-guide.hbo.com/game-of-thrones/season2/#!/guide/houses/arryn/lysa-arryn/ HBO viewers guide, season 2 guide to houses, House Arryn - Lysa Arryn entry]</ref>
+
+Lysa married [[Jon Arryn]] during [[Robert's Rebellion]]. Lord Jon was the head of [[House Arryn]] and a leader of the rebel faction fighting to overthrow the [[Aerys II Targaryen|Mad King]]. The rebels forged an alliance with [[House Tully]] through marriage, with Lord [[Eddard Stark]] married to Catelyn and the then-elderly Jon to the still young Lysa.<ref name="Jon Arryn viewers guide">[http://viewers-guide.hbo.com/game-of-thrones/season2/#!/guide/houses/arryn/jon-arryn/ HBO viewers guide, season 2 guide to houses, House Arryn - Jon Arryn entry]</ref>{{Ref|GOT101}}
+
+After the rebel victory in the war, [[Robert Baratheon]] became [[King of the Andals and the Rhoynar and the First Men|King]] and appointed Jon as his [[Hand of the King|Hand]]. Jon served the realm well for many years as Hand of the King. Lysa and Jon have a single son, [[Robin Arryn]], whom she dotes on constantly.<ref name="Lysa Arryn viewers guide" /> Lysa and Jon spent the next seventeen years in the capital of [[King's Landing]], never returning to the [[Eyrie]] in the [[Vale of Arryn]].{{Ref|GOT101}}
+
+Jon died shortly before the events of the series, sparking King Robert's search for a replacement. Lysa fled King's Landing for the safety of the Eyrie with Robin, then six-years old.{{Ref|GOT101}} Though Robin became the titular [[Defender of the Vale]] after his father's death, his mother in fact assumed rule as the [[Regent|Lady Regent]] of the Vale until her son came of age. She is considered mentally unstable by [[Tyrion Lannister]].{{Ref|GOT105}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+Lysa's husband Jon Arryn dies of an apparent fever. Lysa flees the capital and returns to the Eyrie with her son Robin. She sends Catelyn a letter, claiming that the [[House Lannister|Lannisters]] murdered Jon Arryn for unknown reasons. This news convinces Eddard to accept Robert's offer to become the new Hand so he may investigate further. During the king's visit to [[Winterfell]], [[Bran Stark|Bran]] is injured in suspicious circumstances.{{Ref|GOT101}}
+
+[[File:Lysa_and_Robin.png|thumb|Lysa dotes over her Robin.]]
+Catelyn apprehends [[Tyrion Lannister|Tyrion]] on suspicion of trying to kill Bran. She brings him to the Eyrie to be questioned. Lysa is furious with Catelyn for exposing her to the wrath of House Lannister. She and Robin hold Tyrion in contempt, ignoring his threats that his house will repay them for any harm they visit upon him. Lysa orders Tyrion sent to [[Mord]], the castle jailer. Tyrion and Catelyn are both disturbed by Lysa's excessive coddling of Robin, including still breast-feeding him despite him being too old for it.{{Ref|GOT105}}
+
+[[File:Lysa.jpg|thumb|Lysa accuses Bronn of fighting without honor.]]
+Tyrion convinces Lysa to give him a [[First trial by combat of Tyrion Lannister|trial by combat]], supported by the mercenary [[Bronn]]. Bronn wins the battle, killing Lysa's champion, Ser [[Vardis Egen]]. Lysa chides Bronn for not fighting with honor, but reluctantly releases Tyrion.{{Ref|GOT106}}
+
+[[File:Lysa.png|thumb|Lysa refuses to send knights to aid Catelyn.]]
+Lysa receives a letter from King's Landing, announcing that Robert has died and Eddard has been arrested as a traitor. She delays showing the letter to Catelyn, to Catelyn's great annoyance. Catelyn asks that the knights of the Vale join House Tully and House Stark in fighting the Lannisters for his freedom, but Lysa refuses. Lysa insists that the Vale knights must remain at home to defend Robin. Catelyn leaves, frustrated and annoyed.{{Ref|GOT108}}
+
+===[[Game of Thrones: Season 3|''Game of Thrones'': Season 3]]===
+Lysa remains in the Eyrie, and does not attend her father's funeral. Despite the Vale's neutrality, [[Tywin Lannister|Tywin]] arranges a marriage alliance between Lysa and [[Petyr Baelish|Littlefinger]] to fight the rest of her family.{{Ref|GOT203}}
+
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+Littlefinger, acting under his own promises to both Lysa and [[Sansa Stark|Sansa]], arrives at the Vale, bringing Sansa to the Eyrie with him.{{Ref|GOT405}}
+
+[[File:Lysapetyr.png|thumb|Lysa is delighted by Petyr's arrival.]]
+Lysa greets her enthusiastically, introducing Sansa to her cousin, Robin. She conveys her pity for Sansa's unfortunate marriage with Tyrion, and asks if he ever forced himself on her, to which she replies "no". Lysa agrees not to refer to Sansa by her true name in the presence of anyone else, and has Robin show her around the castle. Once they leave, Lysa confesses poisoning her own husband's wine and framing the Lannisters, using these actions as proof of her love for Littlefinger. Sexually eager, Lysa has her and Littlefinger wed immediately, promising to scream loudly as he makes love to her. That night, she keeps her word, to Sansa's annoyance.{{Ref|GOT405}}
+
+[[File:Sansalysa.png|thumb|Lysa questions Sansa on her relationship with Petyr.]]
+The following day, Lysa dotes over Sansa in petty conversation of her forced marriage, and she shares her childhood memories about Catelyn. However, she grows angry when Sansa almost mentions Littlefinger's love-triangle with Catelyn, something which has irked Lysa for years. She starts grilling Sansa, wondering why Littlefinger cares so much for her, and if he has ever forced himself onto her. Sansa is shocked and denies this, and complains that Lysa, clenching her fingers tightly, is hurting her. Seeing Sansa scared, Lysa returns to a nurturing state, drawing her close and comforting her.{{Ref|GOT405}}
+
+[[File:Sansa Stark and Lysa Arryn 4x07.jpg|thumb|Lysa threatens Sansa.]]
+Lysa witnesses Littlefinger kissing Sansa in the Eyrie's gardens, which causes her to snap and go mad with jealousy, believing Sansa to be the one who instigated the kiss. She summons Sansa to the High Hall of the Arryns, threatening to push her out the Moon Door to her death, but is interrupted by Littlefinger.{{Ref|GOT407}}
+
+[[File:Lysafall.png|thumb|Lysa falls to her death.]]
+Emotionally distraught and torn over Littlefinger's infatuation with Sansa, Lysa falls into a fit of tears, shoving her to the floor. Littlefinger feigns an apology, embraces her and reassures her that he only ever loved one woman. To Lysa's horror, he utters "your sister", and then shoves Lysa through the Moon Door to her death, as a shell-shocked Sansa looks on.{{Ref|GOT407}}
+
+Some time later with Sansa's unexpected help, Littlefinger convinces the lords of the Vale that Lysa committed suicide.{{Ref|GOT408}}
+
+=== [[Game of Thrones: Season 7|''Game of Thrones'': Season 7]] ===
+During his surprise trial at Winterfell, Littlefinger admits that he murdered Lysa, albeit to protect Sansa. Sansa, however, reveals to the assembled crowd that he actually murdered her to seize power in the Vale. With information provided by Bran, Sansa also reveals that Littlefinger manipulated Lysa into poisoning Jon Arryn and writing a letter to her sister blaming the Lannisters, thus sparking the [[War of the Five Kings]]. Ultimately, Littlefinger is executed by [[Arya Stark|Arya]], avenging Lysa.{{Ref|GOT707}}
+
+==Personality==
+Lysa was characterized by her capacity for jealousy: she was unendingly envious of her sister Catelyn for being the first choice in every matter that would have benefited either one of them, and for Lysa herself always landing with the second best option - her marriage to Jon Arryn, for instance, as opposed to Ned Stark. Her jealousy of her sister also led to her referring to Catelyn in diabolical terms. To this end, Lysa became withdrawn, lonely, cold, apathetic, malignantly willful and subject to fits of anger that were often unjustified, to the extent that she saw enemies in anyone who disagreed with her. Lysa's jealousy of Catelyn was completely typical, if not entirely overgrown, of sibling contempt.
+
+She was mentally and emotionally unstable, temperamental to a fault. She had psychological issues that were famed but never narrowed down in terms of origins or cause - people often labelled her as simply being mad or temperamental, without seeing much complexity in her behavior. The most likely cause of her instability was her life of solitude and being second-benefited by everyone. She tended to go to incredible extremes in terms of her actions because of her instability - she loved her son Robin to such a dangerous degree that she had delusions about him being strong and diligent and gallant, when Robin was in fact weak, timid and spoiled (in stark contrast to the likes of [[Robb Stark]]). She wasn't as much protective of him, as she was protective over something that she could be proud of - proud, that is, for no logical reason other than her own delusions about his majesty, showing that she rather saw Robin as an extravagant extension of herself.
+
+The extremes of Lysa's emotions made her extremely violent and intensely aggressive, generally lightning-fast-to-anger. She was easily infuriated by any suggestion that intimidated her, or more accurately her peace of mind. She was so violent that she, in a fit of rage, tried to throw Sansa out of the Moon Door when Petyr kissed her, regardless of the logical evidence that Petyr kissed Sansa and Sansa was innocent in the matter, but Lysa's ego wouldn't let her accept this - she was completely blind to how dangerous Petyr truly was. She would also turn rather sadistic, to the point that she believed that throwing Tyrion (an innocent man, whom she perceived to be guilty based on her prejudice and the fact that he was a Lannister, one of the most powerful and dangerous Houses in Westeros) out of the Moon Door was elegance.
+
+Lysa's arrogance and vicious inferiority complex was probably the most fatal element to her twisted and immoral character. She held such an amount of self-worth that she believed that she and Littlefinger would be a perfect couple based on her intense obsession with him. She believed that, though Littlefinger loved Catelyn, she loved him no more than the whores in his brothels and didn't even perceive him as an option for companionship. The almost poetic irony here is that Littlefinger held Lysa in precisely that same regard, in that he had no love for her, but was very easily able to convince her to poison her husband and accuse the Lannisters of it to get the Starks and Lannisters fighting and start the War of the Five Kings, something that effectively led to the deaths of her sister, [[Brynden Tully|uncle]], [[Robb Stark|two]] [[Rickon Stark|of]] her nephews and her [[Edmure Tully|brother]]'s capture by House Frey. Due to her selfish desire to be with Petyr, Lysa effectively betrayed many of her family to their deaths, and when Littlefinger confronted her at the Moon Door over the subject of who he loved, he was effortlessly able to lull her into a sense of security by claiming he loved only one woman all his life until he revealed it was "[her] sister." Her final expression before being thrown out of the Moon Door was shock and incredulity at it being Catelyn, before and even ''after'' Littlefinger ruthlessly pushed her through her own Moon Door.
+
+An almost glaring example of hypocrisy in Lysa was the fact that she claimed family meant everything to her, but she nevertheless refused to directly involve herself in the War of the Five Kings (which would include standing by her sister's family, which was also Lysa's own family, in the process), more concerned with one particular member of her family: her weak, spoiled son. Her claim that family meant everything to her was probably a tactless attempt at surpassing her sister in the argument that was taking place at the time. Later on, she hardened her own hypocrisy by slandering Catelyn in front of Sansa, who was said to be the image of Catelyn, and later seeking to murder her for an offence she was helpless to. All in all, Lysa's preference of a warped idea of love over her own house's words (Family, Duty, Honor) kick-started the War of the Five Kings, and the Seven Kingdoms have been suffering the repercussions ever since.
+
+==Quotes==
+====Spoken by Lysa====
+{{Quote|Isn't he beautiful? And strong too. Jon knew it. His last words were, 'the seed is strong.' He wanted everyone to know what a good, strong boy his son would grow up to be. Look at him, the Lord of all the Vale.|Lysa fawns over her son, [[Robin Arryn]].|The Wolf and the Lion}}
+
+{{Dialogue a-b-a-b|Lysa Arryn|He's Tyrion the Imp! He killed your father! He murdered the Hand of the King-|Tyrion Lannister|Oh, did I kill him too? I've been a very busy man!|You will watch your tongue! These men are knights of the Vale. Every one of them loved Jon Arryn. Every one of them would die for me.|If anything happens to me, my brother Jaime will ensure that they do!|Lysa spars with [[Tyrion Lannister]]|The Wolf and the Lion}}
+
+{{Dialogue a-b-a-b|Sansa Stark|You wanted to see me, Aunt Lysa?|Lysa Arryn|Come here, Sansa. Do you know how far the fall is?|No.|Neither do I, precisely. Hundreds of feet. It's fascinating what happens to bodies when they hit the rocks from such a height. The impact breaks them right apart. Like eggs dropped on the floor. Sometimes pieces remain intact. You'll find the head sitting on its own. Every hair in place. Blue eyes staring at nothing.|Lysa Arryn to her niece [[Sansa Stark]] on falling out the moon door.|Mockingbird}}
+
+{{Quote|[[Hoster Tully|My father]], [[Jon Arryn|my husband]], [[Catelyn Stark|my sister]] - they all stood between us, and now they're all dead! ''That's'' what happens to people who stand between Petyr and me!|Lysa snaps.|Mockingbird}}
+
+{{Quote|I lied for you! I [[Assassination of Jon Arryn|killed]] for you! Why did you bring her here? Why?!|Lysa to [[Petyr Baelish|Littlefinger]]|Mockingbird}}
+
+====Spoken about Lysa====
+{{Dialogue a-b-a|Tyrion Lannister|When was the last time [[Catelyn Stark|you]] saw your sister?|Catelyn Stark|Five years ago.|She's changed. She was always a bit touched, but now... you might as well kill me here.|[[Tyrion Lannister]] hints at Lysa's mental instability.|The Wolf and the Lion}}
+
+{{Quote|Lysa is not fond of me. But perhaps the promise of a royal match will convince her to let bygones be bygones.|Tyrion proposes marrying [[Myrcella Baratheon]] to [[Robin Arryn]].|What Is Dead May Never Die}}
+
+{{Quote|She imprisoned you. She tried to execute you. And you offer her son a [[Myrcella Baratheon|princess]]?|Littlefinger after hearing Tyrion's marriage proposal.|What Is Dead May Never Die}}
+
+{{Quote|You'll leave for the Eyrie as soon as possible and bring Lysa Arryn into the fold, and [[Robb Stark|The Young Wolf]] can add his own aunt to the list of people who've taken up arms against him!|[[Tywin Lannister]] orders Littlefinger to cement a marriage alliance with Lysa to combat the Starks.|Walk of Punishment (episode)}}
+
+{{Quote|People snigger when ''I'' marry a [[Joyeuse Frey|young girl]], but who said a word when Jon Arryn married the little Tully bitch?!|[[Walder Frey]] compares his own marriages to the elderly Jon Arryn's.|Mhysa}}
+
+{{Quote|You could see it in the way she raised that boy, feeding him from her own teats when he was ten years old!|[[Yohn Royce]] complains about Lysa's parenting in the wake of her death.|The Mountain and the Viper}}
+
+{{Dialogue a-b-a|Cersei Lannister| Lysa Arryn, thoroughly repellent woman. Forgive me, I know you're still in mourning.|Petyr Bealish|Lysa was a good woman, a kind woman...|She was neither of those things, and we both know it|Cersei and Littlefinger discuss Lysa following her death|Unbowed, Unbent, Unbroken}}
+
+==Family==
+{{Tully tree}}
+
+==Behind the scenes==
+*[[Kate Dickie]] (Lysa Arryn) later said she hoped viewers were aware that she wasn't actually having [[Lino Facioli]] (Sweetrobin Arryn) suckle on her breasts, as Lysa disturbingly never weaned her son; she wore prosthetic breasts over her undergarments.<ref name="WOTW">http://watchersonthewall.com/the-fall-of-lysa-arryn-an-interview-with-kate-dickie/</ref>
+*After being cast, Kate Dickie quickly read through the novels until the point when Lysa dies (at the end of the third novel, corresponding to Season 4). As a result, even in Season 1, Dickie was fully aware of Lysa's secret backstory, that it was really Lysa who poisoned her own husband Jon Arryn, and that she was allied with Littlefinger against both the Starks and the Lannisters. Dickie was therefore able to play her scenes in Season 1 knowing full well that Lysa was secretly lying to Catelyn.<ref name="WOTW" />
+*Ironically, given that her character Lysa lived in a mountaintop castle high above the clouds, Kate Dickie said she is actually very afraid of heights.<ref name="WOTW" />
+
+==In the books==
+[[File:Roman Papsuev - Lysa Arryn.png|thumb|300px|right|Lysa Arryn by Roman "Amok" Papsuev.©]]
+In ''[[A Song of Ice and Fire]]'' novels, Lysa is Catelyn's sister, who is distrustful of the Lannisters. She dotes on her son excessively. In the books her son's first name is Robert, but this was changed for the TV series to avoid confusion with [[Robert Baratheon]] and [[Robb Stark]].
+
+Lysa married Jon Arryn to tie three of the Houses involved in [[Robert's Rebellion]] - the Starks, Tullys, and Arryns - more closely together. Given the large age difference between her and Jon, their marriage was not a happy one.
+
+She is noted as overweight in the books, as a result of suffering two stillbirths and four miscarriages. The stress from these many pregnancies which ended in tragedy, combined with her distant relationship with her elderly husband, wore heavily on Lysa's mental state. This is also why she dotes so excessively on Robert, her only surviving child.
+
+In her youth, Lysa fell in love with Littlefinger, but her feelings were not reciprocated. One night Petyr tried to kiss Catelyn, and she rejected him, laughing. Petyr got drunk because of this, and Lysa climbed into his bed that night to "give him comfort". Petyr took her virginity that night, telling her he loved her, but called her "Cat" before falling asleep. Lysa became pregnant with Petyr's child as a result of this. Her father forced her to abort the child instead, that he could marry her to Jon Arryn. The whole episode had great negative effect on Lysa's spirit.
+
+Lysa's marriage to Jon Arryn was very unhappy. She did not love the much older man she was forced to marry; she had five miscarriages, twice in the Eyrie and three at King's Landing; the only child who was born alive turned to be mentally and physically ill.
+
+Lysa is overly protective of her son. If someone (Catelyn, Lord Frey) suggests to have him fostered, Lysa would react aggressively, even issue death threats. It does not really matter to her ''where'' the fostering is to take place - Winterfell, Dragonstone, the Twins, Casterly Rock - she cannot bear the thought of being separated from her son. In fact, it is her motive of killing her husband.
+
+Following Jon Arryn's death, many lords of the Vale (among them Nestor Royce, Lyn Corbray and Eon Hunter) propose to marry her and take her son to ward. Lysa rejects all her suitors, realizing that their proposals are not done of love, and also because she wants to marry Littlefinger only.
+
+In the first novel, when Catelyn arrives at the Eyrie, she soon finds out that the shy girl Lysa was has grown to be a "proud, fearful, cruel, dreamy, reckless, timid, stubborn, vain, and above all inconstant" woman, whose policies vary with her moods, and her moods change hourly. When Sansa meets Lysa in the third novel, she soon reaches the same conclusions about her aunt.
+
+During the [[War of the Five Kings]], Lysa remains neutral. She does not send Robb even one soldier (Brynden joins the Starks without her permission). Robb sends letters to Lysa, asking her to let his army pass through the Vale and provide ships at [[Gulltown]] to take them north. Had Lysa agreed, Robb could have landed at [[White Harbor]], flanked [[Moat Cailin]] and driven the [[ironborn]] from the north in half a year. But Lysa does not respond, and keeps the [[Bloody Gate]] closed. Lysa's refusal to help Robb angers Lord [[Yohn Royce]], who is close to open revolt over that, and is supported by the Waynwoods, Redforts, Belmores, and Templetons.
+
+When Lysa drags Sansa to the Moon Door, she blurts out the whole truth about her first pregnancy, the abortion, and Jon Arryn's death. The singer [[Marillion#In the books|Marillion]] is present when Lysa struggles with Sansa, and he sings loudly to drown out Sansa's screams. Littlefinger appears and consoles her before telling her he only ever loved Catelyn (in the books, he says "''only Cat''" instead of "''your sister''"), shocking Lysa so much that when Littlefinger pushes her out, she does not even scream but continues to look at him in disbelief as she falls.
+
+The Vale lords do not show any concern about Lysa's death, perhaps because they strongly disapproved of her refusal to help Robb. Lord Nestor Royce (Yohn's cousin) comes to the Eyrie to inquire about her death, but conducts the investigation rather superficially. Littlefinger blames the murder on Marillion, who confesses after being tortured by [[Mord]]. Since the singer is despised throughout the Vale for his mocking songs and obnoxious behavior, Lord Nestor readily believe his guilt and accepts Littlefinger's lies without any reservation.
+
+During his [[Second siege of Riverrun|besieging]] of [[Riverrun]], [[Jaime Lannister]] reflects on how he knew Lysa in their youth; when he was a squire to Lord Sumner Crakehall, he was dispatched to Riverrun with a message for Lord Hoster, who kept him as a guest for a fortnight while ostensibly mulling over his reply (unknown to Jaime, Hoster was in talks with [[Tywin Lannister|Tywin]] to potentially arrange a marriage between Jaime and Lysa). Jaime recalls that Hoster sat him next to Lysa at dinner every night; he thought Lysa was pretty and sweet-natured, but considered her too shy and timid for his liking compared to the more forceful [[Cersei Lannister|Cersei]] or Lysa's fiery older sister, and admits at the time he was more interested in badgering her uncle Ser [[Brynden Tully]], one of his boyhood heroes, for war stories about Brynden's exploits in the [[War of the Ninepenny Kings]].
+
+According to the TV series official [[pronunciation guide]] developed for the cast and crew, "Lysa Arryn" is pronounced "LIE-ssa AIR-in", as opposed to "Liss-ah" or "Lee-suh".
+
+==Gallery==
+<gallery>
+Jon Arryn funeral bier.jpg|Jon Arryn lies on his funeral bier in King's Landing in "[[Winter Is Coming]]".
+Lysa wraps her sleeve around Sweetrobin.jpg
+Game-Of-Thrones-S4Ep7-Mockingbird-Review-Kate-Dickie-as-Lysa-Arryn-thrown-out-of-the-moon-door.jpg
+Lysapetyr.png
+Sansalysa.png
+Sansalysa2.jpg
+Lysa Arryn infobox.jpg
+Lysa.png
+</gallery>
+
+==Appearances==
+{{IncompleteList}}
+*{{GOT|Pilot}} {{Unreleased}} {{Ncm}}
+*{{GOT|Winter Is Coming}} {{Mentioned}}
+*{{GOT|The Wolf and the Lion}}
+*{{GOT|A Golden Crown}}
+*{{GOT|The Pointy End}}
+*{{GOT|What Is Dead May Never Die}} {{Mentioned}}
+*{{H&L|House Tully}} {{Mentioned}}
+*{{H&L|The Riverlands}} {{Illustrated}}
+*{{H&L|The Vale}} {{Illustrated}}
+*{{GOT|First of His Name}}
+*{{GOT|Mockingbird}}
+*{{GOT|The Mountain and the Viper}} {{Mentioned}}
+*{{H&L|House Baelish}} {{Illustrated}}
+*{{H&L|Poisons}} {{Illustrated}}
+*{{H&L|Robert's Rebellion - Jaime Lannister}} {{Illustrated}}
+*{{GOT|The Dragon and the Wolf}} {{Mentioned}}
+*{{H&L|The Hand of the King}} {{Illustrated}}
+*{{C&R|The Last Dragons}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+*{{HBO|game-of-thrones/cast-and-crew/lysa-arryn}}
+
+<!--Navboxes-->
+{{House Tully}}
+{{House Arryn}}
+
+<!--Categories-->
+{{DEFAULTSORT:Arryn, Lysa}}
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Individuals from Game of Thrones: Conquest & Rebellion: An Animated History of the Seven Kingdoms]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Ladies]]
+[[Category:Members of House Arryn|Lysa Arryn]]
+[[Category:Members of House Baelish|Lysa Arryn]]
+[[Category:Members of House Tully|Lysa Arryn]]
+[[Category:Regents]]
+[[Category:Rivermen]]
+
+<!--Languages-->
+[[de:Lysa Arryn]]
+[[it:Lysa Tully]]
+[[pl:Lysa Tully]]
+[[ro:Lysa Arryn (serial)]]
+[[ru:Лиза Аррен]]
+[[zh:莱莎·徒利]]

@@ -1,0 +1,79 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Tyrell.svg
+| Link  = House Tyrell
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Tyrell
+| Image       = Lyonel Tyrell.png
+| Birth       = At [[Highgarden]]
+| Death       = At [[Sandstone]]<br>Assassinated by being stung by 100 red scorpions
+| House       = [[House Tyrell|Tyrell]]
+| Affiliation = [[House Targaryen]]
+| Titles      = [[Lord of Highgarden]]<br>[[Lord Paramount of the Reach]]<br>[[Warden of the South]]<br>[[Steward]] of [[Dorne]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Andals|Andal]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Daeron the First succeeded at great cost and reigned in Dorne for a few glorious months. One night, his steward pulled down the sash by his bed to summon his consorts. Instead, the canopy split open and a hundred red scorpions fell on him. He was a Tyrell, you would think he was used to getting stung.|Prince [[Oberyn Martell]]|House Martell (short)}}
+Lord '''Lyonel Tyrell''' participated in the [[Conquest of Dorne]] and was declared [[Steward]] of [[Dorne]] by [[King of the Andals and the Rhoynar and the First Men|King]] [[Daeron I Targaryen]], the Young Dragon. 
+
+==Biography==
+===Background===
+Lyonel participated in the [[Conquest of Dorne]] and was declared [[Steward]] of [[Dorne]] by [[King of the Andals and the Rhoynar and the First Men|King]] [[Daeron I Targaryen]], the Young Dragon. He was murdered, however, when he pulled down a sash by his bed to summon his consort and a hundred red scorpions fell on him. His death ignited a revolt that led to the death of King Daeron and the end of the [[Iron Throne]] occupation.{{Ref|H&L401}}{{Ref|H&L414}}
+
+===[[Game of Thrones: Season 6|''Game of Thrones'': Season 6]]===
+[[Olenna Tyrell]] mentions Lyonel, though not by name, as the last Tyrell to have visited Dorne. She was musing on whether her meeting with [[Ellaria Sand]] and the [[Sand Snakes]] at the [[Water Gardens]] would go any better, which it apparently did.{{Ref|GOT610}}
+
+==Quotes==
+{{Quote|The last time a [[House Tyrell|Tyrell]] came to [[Dorne]], he was assassinated. A hundred red scorpions, was it?|[[Olenna Tyrell]] to [[Ellaria Sand]] and three [[Sand Snakes]], referring to Lyonel.|The Winds of Winter}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Lyonel Tyrell was an infant during the [[Dance of the Dragons]], with his mother ruling the [[Reach]] as [[Regent]]. She chose to remain neutral during the civil war, thus the Reach was divided between the supporters of [[Aegon II Targaryen|Aegon II]] and those of [[Rhaenyra Targaryen|Rhaenyra]].
+
+Decades later, Lyonel commanded the army that invaded Dorne via [[Prince's Pass]]. After the Young Dragon's initial victory, Daeron appointed Lyonel as governor of Dorne. The Dornishmen however proved cunning and impossible to rule, particularly under a man of the Reach - the Reach and Dorne having been bitter enemies for centuries. Thus, Lord Lyonel moved with his train from one keep to the next, chasing rebels out and keeping the knees of the Dornishmen bent. It was his custom to turn the lords of the keeps he stayed in out of their chambers and sleep in their place. One night at [[Sandstone]], seat of [[House Qorgyle]], finding himself in a bed with a heavy velvet canopy, he pulled a sash near the pillows to summon a wench. When he did so, the canopy opened and a hundred red scorpions fell upon him. His death sparked new revolts, and in a fortnight all the work of the Young Dragon was undone, eventually bringing the about the death of King Daeron himself.
+
+In the third novel, [[Oberyn Martell]] tells [[Tyrion Lannister|Tyrion]] the aforementioned story; he does not mention Lyonel's first name, just refers to him as "Lord Tyrell".
+
+==Appearances==
+*{{H&L|House Martell}} {{Illustrated}}
+*{{GOT|The Winds of Winter}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Lyonel Tyrell (lord)}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{House Tyrell}}
+
+<!--Categories-->
+{{DEFAULTSORT:Tyrell, Lyonel}}
+[[Category:Individuals from Histories & Lore]]
+[[Category:Individuals from the Reach]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Lords of Highgarden]]
+[[Category:Lords Paramount of the Reach]]
+[[Category:Stewards]]
+[[Category:Wardens of the South]]
+
+<!--Languages-->
+[[ru:Лионель Тирелл]]
+[[zh:莱昂诺·提利尔(里奥之子)]]

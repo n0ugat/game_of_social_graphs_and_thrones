@@ -1,0 +1,36 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Nina Barker-Francis.jpg
+| Birth   = 
+| Death   = 
+| Role    = [[Jayne]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = "[[The Green Council]]"
+| First   = 
+| Last    = 
+}}
+'''Nina Barker-Francis''' is an actress.
+
+She portrays [[Jayne]] in ''[[House of the Dragon]]''.<ref>[https://redanianintelligence.com/2021/10/14/hbos-game-of-thrones-prequel-house-of-the-dragon-casts-young-mysaria-and-others/ HBO's Game of Thrones prequel House of the Dragon casts Young Mysaria and others - Redanian Intelligence]</ref>
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1|||||||||yes}}
+
+==See also==
+*{{IMDb
+|# = 5372434}}
+*{{Twitter
+|# = ninayasminbf}}
+*{{Vimeo
+|# = user53031676}}
+
+==References==
+{{Reflist}}
+{{DEFAULTSORT:Barker-Francis, Nina}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Nina Barker-Francis]]

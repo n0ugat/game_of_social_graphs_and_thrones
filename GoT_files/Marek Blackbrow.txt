@@ -1,0 +1,60 @@
+{{Canonicity|Non}}
+{{Heraldry
+| Image = House Blackbrow.svg
+| Link  = House Blackbrow
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Westeros
+| Image       = HouseUmberPage2Episode104.jpg
+| Birth       = 
+| Death       = 
+| House       = [[House Blackbrow|Blackbrow]]{{Ref|GOT104}}
+| Affiliation = 
+| Titles      = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = {[[Jore Blackbrow]]{{Ref|GOT104}}
+| Mother      = {[[Emilia Umber]]}{{Ref|GOT104}}
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Marek Blackbrow''' was a member of [[House Blackbrow]].
+
+==Biography==
+===Background===
+Marek Blackbrow was the firstborn son of [[Jore Blackbrow]] and [[Emilia Umber]].{{Ref|GOT104}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+Marek is mentioned in Emilia Umber's entry in ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]''.{{Ref|GOT104}}
+
+==In the books==
+Marek Blackbrow is referenced only in the TV adaptation of ''[[A Song of Ice and Fire]]'' and has no corresponding counterpart in the books.
+
+==Appearances==
+*{{GOT|Cripples, Bastards, and Broken Things}} {{Text}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+{{DEFAULTSORT:Blackbrow, Marek}}
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Members of House Blackbrow|Marek Blackbrow]]
+[[Category:Westerosi]]
+
+<!--Languages-->
+[[es:Marek Blackbrow]]
+[[fr:Marek Blackbrow]]
+[[ru:Марек Блэкброу]]

@@ -1,0 +1,42 @@
+{{Person
+| Title = {{PAGENAME}}
+| Type = Dragon
+| Image = Nick Chopping.jpg
+| Birth   = 
+| Death   = 
+| Role    = Stunt Performer<br>Assistant Stunt Coordinator<br>Stunt Safety Technician
+| Series  = ''[[Game of Thrones]]''<br>''[[House of the Dragon]]''
+| Season  = ''Game of Thrones'':<br>[[Game of Thrones: Season 1|1]] {{*}} [[Game of Thrones: Season 2|2]] {{*}} [[Game of Thrones: Season 4|4]]{{*}} [[Game of Thrones: Season 6|6]]{{*}} [[Game of Thrones: Season 7|7]]{{*}} [[Game of Thrones: Season 8|8]]<br>''House of the Dragon'':<br>[[House of the Dragon: Season 1|1]] {{*}} [[House of the Dragon: Season 2|2]]
+| Credits = 27 episodes {{Below|Credits}}
+| First   = "[[Fire and Blood]]"
+| Last    = }}
+'''Nickolas Chopping''' is a stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 1|first season]] episode "[[Fire and Blood]]", the [[Game of Thrones: Season 2|second season]] episode "[[Blackwater]]", the [[Game of Thrones: Season 4|fourth season]] episode "[[The Children]]", the [[Game of Thrones: Season 6|sixth season]] episodes "[[Home]]", "[[The Door]]", "[[Blood of My Blood]]", "[[No One]]" and "[[Battle of the Bastards (episode)|Battle of the Bastards]]", the [[Game of Thrones: Season 7|seventh season]] episodes "[[Dragonstone (episode)|Dragonstone]]", "[[Stormborn]]", "[[The Queen's Justice]]", "[[The Spoils of War]]", "[[Eastwatch]]" and "[[The Dragon and the Wolf]]" and the [[Game of Thrones: Season 8|eighth season]] episode "[[The Long Night]]", an assistant stunt coordinator in the [[Game of Thrones: Season 8|eighth season]] episodes "[[Winterfell (Game of Thrones)|Winterfell]]", "[[A Knight of the Seven Kingdoms (Game of Thrones)|A Knight of the Seven Kingdoms]]", "[[The Long Night]]", "[[The Last of the Starks]]", "[[The Bells]]" and "[[The Iron Throne]]" and a stunt safety technician in the [[Game of Thrones: Season 6|sixth season]] episode "[[Oathbreaker]]".
+
+In ''[[House of the Dragon]]'', he was a stunt performer in the [[House of the Dragon: Season 1|first season]] episodes "[[We Light the Way]]" and "[[Driftmark (episode)|Driftmark]]" and the [[House of the Dragon: Season 2|second season]] episodes "[[Rhaenyra the Cruel]]", "[[The Red Dragon and the Gold]]", "[[The Red Sowing]]" and "[[The Queen Who Ever Was]]".
+
+==Credits==
+===Stunts===
+====''[[Game of Thrones]]''====
+{{Game of Thrones: Season 1||||||||||yes}}
+{{Game of Thrones: Season 2|||||||||yes}}
+{{Game of Thrones: Season 4||||||||||yes}}
+{{Game of Thrones: Season 6||yes|yes||yes|yes||yes|yes}}
+{{Game of Thrones: Season 7|yes|yes|yes|yes|yes||yes}}
+{{Game of Thrones: Season 8|yes|yes|yes|yes|yes|yes}}
+
+====''[[House of the Dragon]]''====
+{{House of the Dragon: Season 1|||||yes||yes}}
+{{House of the Dragon: Season 2||yes||yes|||yes|yes}}
+
+==See also==
+*{{IMDb
+|# = 1359252}}
+*{{Facebook
+|# = nick.chopping.5}}
+*{{Linkedin
+|# = /in/nick-chopping-52513133}}
+{{DEFAULTSORT:Chopping, Nickolas}}
+[[Category:Stunt performers of Game of Thrones]]
+[[Category:Stunt performers of House of the Dragon]]

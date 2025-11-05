@@ -1,0 +1,66 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Stokeworth.svg
+| Link  = House Stokeworth
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Targaryen
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = [[House Stokeworth|Stokeworth]]{{Ref|HOTD101}}
+| Affiliation = [[House Targaryen/House of the Dragon|House Targaryen]]
+| Titles      = 
+| AKA         = 
+| Culture     = [[Crownlands|Crownlander]]{{Ref|HOTD101}}
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = [[Elinor Stokeworth]]{{Ref|HOTD101}}
+| Siblings    = 
+| Arms        = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Lord Stokeworth''' is the head of [[House Stokeworth]] during the reign of [[Viserys I Targaryen]].
+
+==Biography==
+===Background===
+He is the head of [[House Stokeworth]]. He has a daughter, [[Elinor Stokeworth|Elinor]].{{Ref|HOTD101}}
+
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+Lord Stokeworth is mentioned when [[Alicent Hightower]] and [[Rhaenyra Targaryen]] gossip about his daughter's betrothal to [[Gormon Massey|Lord Massey]]'s son during the [[Heir's Tournament]].{{Ref|HOTD101}}
+
+==In the books==
+In ''[[Fire & Blood]]'', Lord Stokeworth is among the [[Lordship|lords]] who swear to defend the rights of Rhaenyra Targaryen as [[Prince of Dragonstone|Princess of Dragonstone]].
+
+==Appearances==
+*{{HOTD|The Heirs of the Dragon}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{House Stokeworth/House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Stokeworth}}
+[[Category:Bannermen of House Targaryen]]
+[[Category:Crownlanders]]
+[[Category:Individuals mentioned in House of the Dragon]]
+[[Category:Lords]]
+[[Category:Members of House Stokeworth]]
+
+<!--Languages-->
+[[ru:Лорд Стокворт]]

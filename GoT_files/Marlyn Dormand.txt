@@ -1,0 +1,61 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Dormand.svg
+| Link  = House Dormand
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Stark
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = [[House Dormand|Dormand]]
+| Affiliation = [[House Stark]]
+| Titles      = [[Lordship|Lord]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Northmen|Northern]]
+| Religion    = [[Old Gods]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|This letter detailing our infantry movements was meant for Lord Damon of House Marbrand. It was sent to Lord Marlyn of House Dormand.|[[Tywin Lannister]]|The Old Gods and the New}}
+Lord '''Marlyn Dormand''' is a [[Northmen|northern]] [[Lordship|lord]] and the head of [[House Dormand]]. He is a bannerman of [[House Stark]].
+
+==Biography==
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+During a war council meeting at [[Harrenhal]], [[Tywin Lannister|Tywin]] berates his bannerman [[Amory Lorch]] for his illiteracy; he sent a letter detailing [[House Lannister]]'s infantry movements to Lord [[Damon Marbrand]], but Lorch accidentally delivered it to Lord Marlyn due to his reading disorder.{{Ref|GOT206}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no mention of any character named Marlyn Dormand or House Dormand. One of [[Tormund]]'s sons is named Dormund. He is slain by one of [[Stannis Baratheon]]'s knights during the [[battle for the Wall]].
+
+==Appearances==
+*{{GOT|The Old Gods and the New}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+{{DEFAULTSORT:Dormand, Marlyn}}
+[[Category:Bannermen of House Stark]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Lords]]
+[[Category:Members of House Dormand|Marlyn Dormand]]
+[[Category:Northmen]]
+
+<!--Languages-->
+[[de:Marlyn Dormand]]
+[[fr:Marlin Dormand]]
+[[ru:Марлин Дорманд]]

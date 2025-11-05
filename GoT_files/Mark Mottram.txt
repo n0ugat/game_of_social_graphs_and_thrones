@@ -1,0 +1,24 @@
+{{Crew
+|Image = Mark Mottram.jpg
+|dateofbirth = 
+|birthplace = 
+|job = Stunt Performer
+|imdb = https://www.imdb.com/name/nm0609561/
+|twitter = }}
+'''Mark Mottram''' is a stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 7|seventh season]] episode "[[Stormborn]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 7||yes}}
+
+==See also==
+*{{IMDb
+|# = 0609561}}
+*{{Facebook
+|# = markmottram.paul}}
+*{{Linkedin
+|# = /in/mark-mottram-69879116}}
+{{DEFAULTSORT:Mottram, Mark}}
+[[Category:Stunt performers of Game of Thrones]]

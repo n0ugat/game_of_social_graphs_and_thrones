@@ -1,0 +1,71 @@
+{{Canonicity|Non}}
+{{Heraldry
+| Leftimage  = House Velaryon.svg
+| Leftlink   = House Velaryon
+| Rightimage = House Baratheon.svg
+| Rightlink  = House Baratheon
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Baratheon
+| Image       = House Baratheon lineage.jpg
+| Birth       = Monica Velaryon{{Ref|GOT106}}
+| Death       = 
+| House       = [[House Velaryon|Velaryon]]{{Ref|GOT106}}<br>[[House Baratheon|Baratheon]]{{Ref|GOT106}} {{C|by marriage}}
+| Affiliation = 
+| Titles      = 
+| AKA         = 
+| Culture     = [[Valyrians|Valyrian]]{{Ref|GOT106}}
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = {[[Serac Baratheon]]}{{Ref|GOT106}}
+| Lovers      = 
+| Issue       = {[[William Baratheon]]}{{Ref|GOT106}}<br>{[[Reginald Baratheon]]}{{Ref|GOT106}}<br>{[[Steffon Baratheon (son of Serac)|Steffon Baratheon]]}{{Ref|GOT106}}<br>{[[Padraic Baratheon]]}{{Ref|GOT106}}<br>{[[Flynn Baratheon]]}{{Ref|GOT106}}
+| Siblings    = 
+| Arms        = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Wed to Monica Velaryon in his seventeenth year at Driftmark. Father to five sons, their names being: Willam, Reginald, Steffon, Padraic and Flynn. Died in his sixty eighth year from a severe chill.|Excerpt from ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]''|A Golden Crown}}
+'''Monica Baratheon''', née '''Velaryon''', was a member of [[House Velaryon]].
+
+==Biography==
+===Background===
+Monica Velaryon was the wife of [[Serac Baratheon]] and the mother of [[Reginald Baratheon|Reginald]], [[William Baratheon|William]], [[Steffon Baratheon (son of Serac)|Steffon]], [[Padraic Baratheon|Padraic]], and [[Flynn Baratheon]].{{Ref|GOT106}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+She is referenced in her husband's entry of ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]''. The two married at [[Driftmark]] when he was seventeen.{{Ref|GOT106}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Monica Velaryon does not exist. However, there is a known marriage of a Lord Baratheon to a woman of House Velaryon. Queen Alyssa Velaryon, the widow of King Aenys I Targaryen, married again to Lord Rogar Baratheon and had two children by him.
+
+==Appearances==
+*{{GOT|A Golden Crown}} {{Text}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House Velaryon}}
+{{House Baratheon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Baratheon, Monica}}
+[[Category:Crownlanders]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Ladies]]
+[[Category:Members of House Baratheon|Monica Baratheon]]
+[[Category:Members of House Velaryon|Monica Baratheon]]
+
+<!--Languages-->
+[[de:Monica Baratheon]]
+[[es:Monica Velaryon]]
+[[fr:Monica Baratheon]]
+[[pt-br:Monica Baratheon]]
+[[ru:Моника Баратеон]]

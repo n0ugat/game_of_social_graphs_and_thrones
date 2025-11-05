@@ -1,0 +1,55 @@
+{{Canonicity|Canon}}
+{{Deity
+| Title    = {{PAGENAME}}
+| Theme    = Westeros
+| Image    = Lion of Night Many-Faced God Histories and Lore.png
+| Type     = 
+| AKA      = 
+| Religion = [[Yi Ti|YiTish]]
+| Symbol   = 
+| Family   = [[Maiden-Made-of-Light]] {{C|wife}}<br>[[God-on-Earth]] {{C|son}}
+| Aspects  = 
+| Avatars  = 
+}}
+{{Quote|In the far east [they worship] the Lion of Night, who fathered the world's first emperor on the Maiden-Made-of-Light, and whose wrath nearly ended the world.|[[Jaqen H'ghar]]|The Many-Faced God}}
+The '''Lion of Night'''{{Ref|H&L512}} is a [[Religion|deity]] worshiped in the [[Yi Ti|Further East]] of [[Essos]]. He is depicted as a man with the head of a male [[lion]], sitting on a throne.{{Ref|GOT503}}
+
+The Lion of Night is believed to have fathered the world's [[God-on-Earth|first emperor]] on the deity known as the [[Maiden-Made-of-Light]], and the Lion's wrath [[Long Night|nearly ended the world]].{{Ref|H&L512}}
+
+==History==
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+[[File:Black and White Lion of Knight Black Goat.jpg|thumb|A statue of the Lion of Night (left), in the House of Black and White.]]
+A statue of the Lion of Night is among the idols present at the [[House of Black and White]]. The [[Faceless Men]] believe that the Lion of Night is just one of the "faces" of the [[Many-Faced God]].{{Ref|GOT503}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the Lion of Night is worshiped primarily in [[Yi Ti]]. His statue is found in the [[House of Black and White]] and is commonly visited by rich men.
+
+The Lion of Night isn't the ''only'' god in the religion of Yi Ti. Most of the statues in the House of Black and White depict the gods associated with death in many different religions (most of them polytheistic), all of whom the [[Faceless Men]] hold to be aspects of the [[Many-Faced God]]. Just as the [[Stranger]] is associated with death in the [[Faith of the Seven]], the "Lion of Night" is the god in Yi Ti's pantheon with dominion over death. So far in the novels, the only mention of the Lion of Night is when it is seen in the House of Black and White in Braavos.
+
+''[[The World of Ice & Fire]]'' revealed that Yi Ti's religion contains at least two prominent deities: the Lion of Night, and the [[Maiden-Made-of-Light]]. The Lion of Night fathered a son on the Maiden-Made-of-Light, the [[God-on-Earth]], who is held to be the ancestor of the emperors of Yi Ti and the founder of the semi-mythical Great Empire of the Dawn. For this reason, the rulers of Yi Ti are referred to as "god-emperors", and worshiped by their subjects as demigods (or actual gods). This is somewhat similar to the real-life title "[[Wikipedia:Son of Heaven|Son of Heaven]]," used to refer to East Asian monarchs. For Chinese emperors, the term was understood figuratively (the ruler was a mortal chosen by the gods, but not their literal descendant). In Japan, however, the emperors were literally believed to be descended from the gods - the beliefs in Yi Ti are closer to this.
+
+The Maiden-Made-of-Light is a benevolent force who tries to help mankind, while the Lion of Night scourges the wicked. The legends about the [[Long Night]] in Yi Ti explain that a descendant of God-on-Earth known as the Amethyst Empress was usurped and murdered by her own brother, an event known as the Blood Betrayal. This caused the Maiden-Made-of-Light to turn away from humanity in shame, and the Lion of Night came forth in all his wrath to punish mankind's wickedness, inflicting the cold and darkness of the Long Night. This dichotomy between the Maiden and the Lion seems similar to the real-life concept in Chinese philosophy of [[Wikipedia:Yin and yang|yin and yang]]: "yin" is the dark and negative force, but it is considered feminine, while "yang" - the light and positive force - is considered masculine. In Yi Ti, the roles are reversed between the masculine and feminine deities, so that female is light and male is darkness.
+
+The Lion of Night is represented as theriocephalic, or an animal-headed human. This does not mirror artistic traditions in East Asia, but rather is more common in Egyptian art.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Religions}}
+
+<!--Categories-->
+[[Category:Deities]]
+[[Category:YiTish culture]]
+
+<!--Languages-->
+[[de:Löwe der Nacht]]
+[[es:León de Noche]]
+[[fr:Lion de la Nuit]]
+[[nl:Leeuw van de Nacht]]
+[[pt-br:Leão da Noite]]
+[[ru:Лев Ночи]]
+[[zh:夜狮]]

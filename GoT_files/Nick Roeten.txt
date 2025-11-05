@@ -1,0 +1,34 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Nick Roeten.jpg
+| Birth   = August 6, 1987 {{Age|1987|8|6}}<br>The Hague, South Holland, Netherlands
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = 3 episodes {{Below|Credits}}
+| First   = "[[The Heirs of the Dragon]]"
+| Last    = 
+}}
+'''Nick Roeten''' (born August 6, 1987) is a Dutch stuntman and actor.
+
+In ''[[House of the Dragon]]'', he was a stunt performer in the [[House of the Dragon: Season 1|first season]] episodes "[[The Heirs of the Dragon]]", "[[King of the Narrow Sea (episode)|King of the Narrow Sea]]" and "[[The Green Council]]".
+
+==Credits==
+===Stunts===
+{{House of the Dragon: Season 1|yes|||yes|||||yes}}
+
+==See also==
+*{{IMDb
+|# = 4706514}}
+*{{Instagram
+|# = nick.stunts}}
+*{{YouTube
+|# = channel/UC2_grMo97i5cRkpQH7Zt4nw}}
+*{{Vimeo
+|# = nickroeten}}
+*{{Linkedin
+|# = /in/nick-roeten-a6802328}}
+{{DEFAULTSORT:Roeten, Nick}}
+[[Category:Stunt performers of House of the Dragon]]

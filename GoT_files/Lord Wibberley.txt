@@ -1,0 +1,57 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Wibberley.svg
+| Link  = House Wibberley
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Westeros
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = [[House Wibberley|Wibberley]]
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Dialogue a-b|Jon Snow|How many men does this [[Lord Mazin]] have to send us?|Samwell Tarly|More than Lord Wibberley.|[[Jon Snow]] and [[Samwell Tarly]]|Sons of the Harpy (episode)}}
+'''Lord Wibberley''' is the head of [[House Wibberley]].
+
+==Biography==
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+Lord Wibberley sends a message to [[Lord Commander of the Night's Watch|Lord Commander]] [[Jon Snow]], in which he agrees to send men to the [[Night's Watch]].{{Ref|GOT504}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no mention of any House Wibberley; the name is a reference to Cormac and Marianne Wibberley, a married team of scriptwriters who are also friends of the TV show writers.<ref>[https://twitter.com/clmazin/status/720763097967755265 Craig Mazin Twitter]</ref>
+
+==Appearances==
+*{{GOT|Sons of the Harpy}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+{{DEFAULTSORT:Wibberley}}
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Lords]]
+[[Category:Members of House Wibberley]]
+
+<!--Languages-->
+[[ru:Лорд Уибберли]]

@@ -1,0 +1,80 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Leftimage  = House Whent.svg
+| Leftlink   = House Whent
+| Rightimage = House Tully.svg
+| Rightlink  = House Tully
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Tully
+| Image       = Profile-MinisaTully.png
+| Birth       = Minisa Whent<br>[[Harrenhal]], the [[Riverlands]]
+| Death       = [[Riverrun]], the Riverlands
+| House       = [[House Whent|Whent]]<br>[[House Tully|Tully]] {{C|by marriage}}
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Riverlands|Rivermen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = {[[Hoster Tully]]}
+| Lovers      = 
+| Issue       = {[[Catelyn Stark]]}<br>{[[Lysa Arryn]]}<br>[[Edmure Tully]]
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|My own mother died on the birthing bed when I was very young.|[[Catelyn Stark]]|The Ghost of Harrenhal}}
+'''Minisa Tully''', née '''Whent''', was the mother of [[Catelyn Stark]], [[Lysa Arryn]], and [[Edmure Tully]].
+
+==Biography==
+===Background===
+Minisa was born into [[House Whent]] and married [[Hoster Tully]], the head of [[House Tully]] and [[Lord of Riverrun]]. They had two daughters, [[Catelyn Stark|Catelyn]] and [[Lysa Arryn|Lysa]], and a son and heir, [[Edmure Tully|Edmure]].{{Guideref|Viewer's Guide}}
+
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+When [[Brienne of Tarth]] mentions she never knew her mother, Catelyn sympathizes and tells Brienne her own mother died in childbirth when Catelyn was still a young girl.{{Ref|GOT205}}
+
+==Family==
+{{Tully tree}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Lady Minisa Whent bore Hoster Tully two daughters (Catelyn and Lysa) and four sons, but of these only Edmure survived (Edmure was not her youngest son). Minisa died giving birth to her fourth and youngest son, who also perished, and afterwards Catelyn feels that some of the life has gone out of Lord Hoster as well. Catelyn recalls her mother was always calm as well as having a warm smile and soft hands. Catelyn wonders how their lives would have been different if her mother had not died.
+
+==Appearances==
+*{{GOT|The Ghost of Harrenhal}} {{Mentioned}}
+*{{H&L|The Riverlands}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Tully}}
+
+<!--Categories-->
+{{DEFAULTSORT:Tully, Minisa}}
+[[Category:Individuals from Histories & Lore]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Ladies]]
+[[Category:Members of House Tully|Minisa Tully]]
+[[Category:Members of House Whent|Minisa Tully]]
+[[Category:Rivermen]]
+
+<!--Languages-->
+[[de:Minisa Tully]]
+[[es:Minisa Whent]]
+[[fr:Minisa Tully]]
+[[pl:Minisa Whent]]
+[[ru:Миниса Талли]]
+[[zh:米妮莎·河安]]

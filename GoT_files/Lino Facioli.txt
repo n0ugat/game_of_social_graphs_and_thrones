@@ -1,0 +1,41 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Lino-Facioli-200.jpg
+| Birth   = Lino Schmidek Machado Facioli<br>July 29, 2000 {{Age|2000|7|29}}<br>Ribeirao Preto, State of São Paulo, Brazil
+| Death   = 
+| Role    = [[Robin Arryn]]
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 1|1]] {{*}} [[Game of Thrones: Season 4|4]] {{*}} [[Game of Thrones: Season 5|5]] {{*}} [[Game of Thrones: Season 6|6]] {{*}} [[Game of Thrones: Season 8|8]]
+| Credits = 9 episodes {{Below|Credits}}
+| First   = "[[The Wolf and the Lion]]"
+| Last    = "[[The Iron Throne]]"
+}}
+'''Lino Schmidek Machado Facioli''' is a Brazilian actor. He was born in Brazil but moved to London at the age of four. He is fluent in Portuguese and English. His biggest role to date was in the 2010 movie ''[[wikipedia:Get Him to the Greek|Get Him to the Greek]]''.
+
+In ''[[Game of Thrones]]'' he plays [[Robin Arryn]]. Facioli was confirmed in the role on 16 July 2010.
+
+Facioli returned in the role for the [[Game of Thrones: Season 4|fourth]], [[Game of Thrones: Season 5|fifth]], [[Game of Thrones: Season 6|sixth]], and [[Game of Thrones: Season 8|eighth]] seasons.<ref>[http://unitedagents.co.uk/lino-facioli Agent listing]</ref>
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 1|||||yes|yes||yes}}
+{{Game of Thrones: Season 4|||||yes||yes|yes}}
+{{Game of Thrones: Season 5|yes}}
+{{Game of Thrones: Season 6||||yes}}
+{{Game of Thrones: Season 8||||||yes}}
+
+==See also==
+*{{WP}}
+*{{IMDb
+|# = 2996220}}
+*{{Twitter
+|# = Lino_Facioli}}
+
+==References==
+{{Reflist}}​
+[[de:Lino Facioli]]
+[[ru:Лино Фасиоль]]
+[[fr:Lino Facioli]]
+{{DEFAULTSORT:Facioli, Lino}}
+[[Category:Guest starring cast members of Game of Thrones]]

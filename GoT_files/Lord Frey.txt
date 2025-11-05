@@ -1,0 +1,65 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{SameName|founder of House Frey|Game of Thrones character|Walder Frey}}
+{{Heraldry
+| Image = House Frey.svg
+| Link  = House Frey
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Frey
+| Image       = Frey founder.png
+| Birth       = In the [[Riverlands]]
+| Death       = 
+| House       = [[House Frey|Frey]]
+| Affiliation = [[House Mudd]]
+| Titles      = [[Lord of the Crossing]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Riverlands|Rivermen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|House Frey gained its title through cunning. Centuries ago, its founder looked at a map and noticed how the Trident spears the Neck, cutting off the North from the South. He realized that a river of gold would flow to the man who owned the right bridge across the water.|[[Catelyn Stark]]|House Frey (short)}}
+'''Lord Frey''' was the founder of [[House Frey]].
+
+==Biography==
+The founder of House Frey lived about six hundred years before the [[War of the Five Kings]], three hundred years before [[Aegon's Conquest]].{{Ref|GOT109}}
+
+The founder of House Frey looked at a map and noticed that the [[Trident]] speared the [[Neck]], cutting off the [[North]] from the south. He realized that a river of gold would flow to the man who owned the right bridge across the water. He set in motion the building of this bridge, but did not see it to completion as this took three generations. Eventually, the Frey family obtained their much desired [[lordship]], and the castle-bridge their founder began construction on was finished as the [[Twins]].{{Ref|H&L305}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, his story is the same.
+
+==Appearances==
+*{{H&L|House Frey}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House Frey}}
+
+<!--Categories-->
+{{DEFAULTSORT:Frey}}
+[[Category:House founders]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Members of House Frey]]
+[[Category:Rivermen]]
+
+<!--Languages-->
+[[ro:Frey]]
+[[ru:Фрей (основатель)]]

@@ -1,0 +1,81 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = House Cerwyn.svg
+| Link  = House Cerwyn
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Stark
+| Image       = Flayed Cerwyn.png
+| Birth       = 
+| Death       = [[302 AC]]{{Dateref|Game of Thrones: Season 5}}<br>[[Castle Cerwyn]], the [[North]]{{Ref|GOT503}}
+| House       = [[House Cerwyn|Cerwyn]]
+| Affiliation = [[House Stark]]
+| Titles      = 
+| Predecessor = 
+| Successor   = [[Cley Cerwyn]]
+| AKA         = 
+| Culture     = [[Northmen|Northern]]
+| Religion    = [[Old Gods]]
+| Father      = 
+| Mother      = 
+| Spouse      = {Wife}
+| Lovers      = 
+| Children    = [[Cley Cerwyn]]
+| Siblings    = {Brother}
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 5|5]]
+| Appearances = "[[High Sparrow (episode)|High Sparrow]]" {{Corpse}}
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Mentioned   = 
+| Actor       = 
+}}
+{{Dialogue a-b|Roose|I sent you there to collect taxes, not bodies.|Ramsay|Lord Cerwyn refused to pay. He said the Warden of the North would always be a Stark, and he’d be damned if he’d kiss a traitor’s boot.|[[Roose Bolton|Roose]] and [[Ramsay Bolton]]|High Sparrow (episode)}}
+'''Medger Cerwyn'''{{Con|ASOIAF}} was a [[Northmen|northern]] lord and the head of [[House Cerwyn]]. He was a loyal bannerman of [[House Stark]].
+
+==Biography==
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+[[Roose Bolton]] sends [[Ramsay Bolton|Ramsay]] to [[Castle Cerwyn]] to collect taxes from his new vassals. Medger, however, refuses to pay; proudly professing his loyalty to [[House Stark]], and denouncing Bolton as a turncloak. For his defiance, Ramsay has Medger flayed alive, along with his wife and brother, all the while forcing his son [[Cley Cerwyn|Cley]] to watch the ordeal. When Ramsay relays these events to his father he casually remarks that Cley, now the ''new'' Lord Cerwyn, paid his taxes.{{Ref|GOT503}}
+
+===[[Game of Thrones: Season 6|''Game of Thrones'': Season 6]]===
+After Medger is avenged with the [[Battle of the Bastards|death of Ramsay Bolton]], [[Lyanna Mormont]] scolds his son [[Cley Cerwyn|Cley]] for refusing to help [[Jon Snow]] after his family was flayed. A repentant Cley enthusiastically declares Jon the new [[King in the North]] along with the other Northern lords.{{Ref|GOT610}}
+
+==Family==
+{{Cerwyn tree}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Lord Medger Cerwyn was among the Northern lords that rode south with [[Robb Stark|Robb]] and participated in the [[War of the Five Kings]]. He was part of the Northern host that participated in the [[battle on the Green Fork]] and got captured and taken to [[Harrenhal]].{{Bookref|AGOT|62}} [[Tyrion Lannister|Tyrion]] unsuccessfully offers to trade Lord Medger and Ser Donnel Locke for Tion Frey in an exchange of prisoners.{{Bookref|ACOK|25}} 
+
+Medger suffers from a serious wound taken during the Battle of the Green Fork and never leaves his bed during his stay at Harrenhal, where he is kept while waiting for a prisoner exchange. [[Arya Stark|Arya]] hopes that Medger will help her get away from her captors, and contemplates stealing past the door guards to see him. He eventually dies of his wounds.   Arya sees [[Silent Sisters]] take his remains, his body in a cloak of silk decorated with the battle-axe of House Cerwyn; she angrily thinks that Medger could never have helped her anyway, since he couldn't even help himself.{{Bookref|ACOK|30}} 
+
+While Ramsay did not kill Medger in the novels, he did kill his son [[Cley Cerwyn]] during the [[Sack of Winterfell]]. When [[Rodrik Cassel]] hastily assembled a force to besiege [[Theon Greyjoy|Theon]] in Winterfell, composed of about 2,000 men from the few household soldiers left in the North, 300 of them were Cerwyn men led by Cley. Ramsay then arrived with 600 Bolton men, whom Rodrik and his lieutenants welcomed as their allies - but as soon as they were in the camp Ramsay's men betrayed the other Northern bannermen in a surprise attack, taking them totally off-guard. When Rodrik walked up to greet Ramsay by extending his hand in friendship, Ramsay quickly drew his sword and cut off Rodrik's outstretched arm at the elbow. Cley Cerwyn was killed in the betrayal by an arrow to the eye.{{Bookref|ACOK|66}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Cerwyn}}
+
+<!--Categories-->
+{{DEFAULTSORT:Cerwyn, Medger}}
+[[Category:Bannermen of House Stark]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Lords]]
+[[Category:Members of House Cerwyn|Medger Cerwyn]]
+[[Category:Northmen]]
+
+<!--Languages-->
+[[de:Medger Cerwyn]]
+[[es:Medger Cerwyn]]
+[[fr:Medger Cerwyn]]
+[[it:Medger Cerwyn]]
+[[ru:Меджер Сервин]]

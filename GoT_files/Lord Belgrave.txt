@@ -1,0 +1,61 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = Unknown.svg
+| Link  = 
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Westeros
+| Image       = Lord Belgrave.jpg
+| Birth       = In [[Westeros]]
+| Death       = 
+| House       = 
+| Affiliation = 
+| Titles      = [[Lordship|Lord]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Andals|Andal]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Still the common people revere Baelor as the Blessed. They tell of how he forced a high lord to wash a beggar's feet.|[[High Sparrow]]|Great Sept of Baelor (short)}}
+'''Lord Belgrave'''{{Con|ASOIAF}} lived during the reign of King [[Baelor I Targaryen]].
+
+==Biography==
+Lord Belgrave was forced to wash a beggar's feet in public by King Baelor.{{Ref|H&L618}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Lord Belgrave was a proud man who was famous for the face he made when King Baelor Targaryen commanded him to wash the ulcerous feet of beggars. His given name is unknown.
+
+==Appearances==
+*{{H&L|Great Sept of Baelor}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+{{DEFAULTSORT:Belgrave}}
+[[Category:Individuals from Histories & Lore]]
+[[Category:Lords]]
+[[Category:Nobles]]
+[[Category:Westerosi]]

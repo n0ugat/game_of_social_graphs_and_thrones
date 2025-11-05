@@ -1,0 +1,29 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Object
+| Title    = {{PAGENAME}}
+| Type     = Greyjoy
+| Image    = Dalton Greyjoy with Nightfall.png 
+| Material = [[Valyrian steel]]
+| Maker    = [[Valyrian Freehold]]
+| Owner    = [[Dalton Greyjoy]]
+| Status   = 
+}}
+'''Nightfall'''{{Con|TWOI&F}} was a [[Valyrian steel]] blade owned by [[Dalton Greyjoy]].<ref>"[[The Old Way]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, [[Dalton Greyjoy]] wielded Nightfall. A blade of unknown origin, it was taken from a dead pirate. Nightfall was eventually passed on to House Harlaw through unknown means. The Valyrian steel sword is currently in the possession of Ser Harras Harlaw.{{Bookref|AFFC|19}}{{Bookref|AFFC|29}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+[[Category:House Greyjoy]]
+[[Category:Swords]]
+[[Category:Valyrian steel blades]]

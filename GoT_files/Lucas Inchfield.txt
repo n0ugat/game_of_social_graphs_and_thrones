@@ -1,0 +1,62 @@
+{{Canonicity|Canon}}
+{{Spoiler|AKOTSK}}
+{{BookConjecture}}
+{{Heraldry
+| Image = Unknown.svg
+| Link  = 
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Tyrell
+| Image       = 
+| Birth       = In the [[Reach]]
+| Death       = 
+| House       = 
+| Affiliation = [[Rohanne Webber]]
+| Titles      = [[Knighthood|Ser]]
+| Predecessor = 
+| Successor   = 
+| AKA         = Lucas Longinch
+| Culture     = [[Andals|Andal]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+Ser '''Lucas Inchfield''',{{Con|D&EN}} also known as '''Lucas Longinch''',{{Ref|GOT806}} is a [[Knighthood|knight]] in the household of Lady [[Rohanne Webber]].
+
+==In the books==
+In the [[Dunk & Egg novellas]], Lucas Inchfield is the castellan of [[Coldmoat]].
+
+==Appearances==
+*{{GOT|The Iron Throne}} {{Text}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|AKOTSK}}
+
+<!--Categories-->
+{{DEFAULTSORT:Inchfield, Lucas}}
+[[Category:Individuals from the Reach]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Knights]]
+[[Category:Nobles]]
+
+<!--Languages-->
+[[fr:Lucas Milopin]]
+[[ru:Лукас Инчфилд]]

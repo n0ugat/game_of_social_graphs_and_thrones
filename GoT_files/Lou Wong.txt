@@ -1,0 +1,38 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Louis Samms.jpg
+| Birth   = {{WPS|August 14}}, {{WPS|1981}}<br>{{WPS|London}}, {{WPS|England}}, {{WPS|United Kingdom}}
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[Game of Thrones]]''<br>''[[House of the Dragon]]''
+| Season  = ''Game of Thrones'':<br>[[Game of Thrones: Season 4|4]] {{*}} [[Game of Thrones: Season 8|8]]<br>''House of the Dragon'':<br>[[House of the Dragon: Season 2|2]]
+| Credits = 5 episodes {{Below|Credits}}
+| First   = "[[The Children]]"
+| Last    = 
+}}
+'''Louis Samms''' (born August 14, 1981), also known as '''Lou Wong''', is an English stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 4|fourth season]] episode "[[The Children]]" and the [[Game of Thrones: Season 8|eighth season]] episodes "[[Winterfell (Game of Thrones)|Winterfell]]", "[[The Long Night]]" and "[[The Bells]]".
+
+In ''[[House of the Dragon]]'', he was a stunt performer in the [[House of the Dragon: Season 2|second season]] episode "[[Rhaenyra the Cruel]]".
+
+==Credits==
+===Stunts===
+====''[[Game of Thrones]]''====
+{{Game of Thrones: Season 4||||||||||yes}}
+{{Game of Thrones: Season 8|yes||yes||yes}}
+
+====''[[House of the Dragon]]''====
+{{House of the Dragon: Season 2||yes}}
+
+==See also==
+*{{IMDb
+|# = 5581758}}
+*{{Facebook
+|# = Lou.Wongsam}}
+*{{Linkedin
+|# = /in/louis-samms-489898100}}
+{{DEFAULTSORT:Wong, Lou}}
+[[Category:Stunt performers of Game of Thrones]]
+[[Category:Stunt performers of House of the Dragon]]

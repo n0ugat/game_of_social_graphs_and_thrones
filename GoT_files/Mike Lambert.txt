@@ -1,0 +1,28 @@
+{{Crew
+|Image = Mike Lambert.jpg
+|dateofbirth = {{WPS|May 1}}, {{WPS|1971}}
+|birthplace = 
+|job = Stunt Performer
+|imdb = https://www.imdb.com/name/nm0416209/
+|twitter = https://twitter.com/badmonk_uk/}}
+'''Michael Ian Lambert''' (born May 1, 1971) is a stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 2|second season]] episode "[[Blackwater]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 2|||||||||yes}}
+
+==See also==
+*{{IMDb
+|# = 0416209}}
+*{{Twitter
+|# = badmonk_uk}}
+*{{Facebook
+|# = akimbojones}}
+*{{YouTube
+|# = channel/UCOaMMKbbH7hjuWRjpXcCXFg}}
+*{{Linkedin
+|# = /company-beta/20873043}}
+{{DEFAULTSORT:Lambert, Michael}}
+[[Category:Stunt performers of Game of Thrones]]

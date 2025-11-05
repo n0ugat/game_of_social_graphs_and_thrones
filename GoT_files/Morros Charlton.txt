@@ -1,0 +1,59 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Leftimage  = House Charlton.svg
+| Leftlink   = House Charlton
+| Rightimage = Night's Watch.svg
+| Rightlink  = Night's Watch
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = 
+| Birth       = In the [[Riverlands]]
+| Death       = 
+| House       = [[House Charlton|Charlton]]
+| Affiliation = [[Night's Watch]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Riverlands|Rivermen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = {[[Robert of Oxbridge]]}
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Morros Charlton''' was a [[Steward (Night's Watch)|steward]] of the [[Night's Watch]].
+
+==Biography==
+===Background===
+Morros was the personal steward of [[Lord Commander of the Night's Watch|Lord Commander]] [[Robert of Oxbridge]]. When the two were found abed together, Robert was stripped of his command and imprisoned in an ice cell while Morros was sent to the [[Shadow Tower]].<ref>[[:File:5x2 Night's Watch Book.jpg]]</ref>
+
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+Morros is mentioned in a book that [[Samwell Tarly]] is reading.{{Ref|GOT502}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no character named Morros Charlton.
+
+==Appearances==
+*{{GOT|The House of Black and White}} {{Text}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+{{DEFAULTSORT:Charlton, Morros}}
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Members of House Charlton|Morros Charlton]]
+[[Category:Rivermen]]
+[[Category:Stewards of the Night's Watch]]

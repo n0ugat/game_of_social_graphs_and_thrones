@@ -1,0 +1,77 @@
+{{Canonicity|Canon}}
+{{Animal
+| Title       = {{PAGENAME}}
+| Type        = Targaryen
+| Image       = Moondancer-TBM.jpg
+| Species     = [[Dragon]]
+| Birth       = 
+| Death       = 
+| AKA         = 
+| Affiliation = [[Baela Targaryen]]
+| Family      = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 2|2]]
+| Appearances = 2 episodes {{Below|Appearances}}
+| First       = "[[The Burning Mill]]"
+| Last        = 
+| DeathEp     = 
+}}
+{{Quote|Baela has Moondancer.|Daemon Targaryen|The Black Queen}}
+'''Moondancer'''{{Note|[[High Valyrian]]: Hūrlilio}} is one of the [[dragon]]s that belongs to [[House Targaryen/House of the Dragon|House Targaryen]]. She is bonded to [[Baela Targaryen]].{{Ref|HOTD110}}
+
+==Biography==
+===Background===
+Moondancer bonded with [[Baela Targaryen|Baela]] from a young age.{{Ref|HOTD106}} She has pale green scales, dark tiger-like stripes, cream-colored eyes and horns, as well as pearlescent frills on her head and tail.{{Ref|HOTD203}}
+
+===[[House of the Dragon: Season 2|''House of the Dragon'': Season 2]]===
+[[File:OT2 Baela & Moondancer 3.png|thumb|Baela and Moondacer chase after Criston Cole.]]
+Moondancer and [[Baela Targaryen|Baela]] are patrolling the skies above the [[Crownlands]] when they see a retinue of mounted knights in a field consisting of Ser [[Criston Cole]] and Ser [[Gwayne Hightower]]. Baela commands Moondancer to pursue the knights, but are forced to withdraw the chase and return to [[Dragonstone (island)|Dragonstone]] when the knights take cover in a dense forest.{{Ref|HOTD203}}
+
+Moondancer flies around Dragonstone with [[Vermax]] as [[Rhaenyra Targaryen|Rhaenyra]] and [[Mysaria]] discuss the impending war against the [[Greens]].{{Ref|HOTD208}}
+
+==In the books==
+Moondancer is pale green, with pearl-white highlights on her horns and crest. While she was young and slender, she was conversely very fast and nimble - the one drawback of huge older dragons such as Vhagar or Caraxes is that they become so large that they are less maneuverable.
+
+==Gallery==
+<gallery>
+File:Moondancer.png|Baela & Moondancer in the skies over the Crownlands.
+File:OT2 Baela & Moondancer 2.png|Baela & Moondancer chasing Cole's party.
+File:S2 Moondancer Rook's Rest.jpg|Moondacer scouting Cole's army.
+File:OT2 Baela & Moondancer.png|Baela & Moondancer in the Crownlands.
+File:Moondancer and Vermax.png|Moondancer and Vermax flies around Dragonstone.
+</gallery>
+
+==Appearances==
+*{{HOTD|The Princess and the Queen}} {{Mentioned}}
+*{{HOTD|The Black Queen}} {{Mentioned}}
+*{{HOTD|Rhaenyra the Cruel}} {{Mentioned}}
+*{{HOTD|The Burning Mill}}
+*{{HOTD|The Red Dragon and the Gold}} {{Indirect}}
+*{{HOTD|Smallfolk}} {{Indirect}}
+*{{HOTD|The Queen Who Ever Was}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+*{{TOG|dragon-index#moondancer}}
+
+<!--Navboxes-->
+{{Dragons/House of the Dragon}}
+
+<!--Categories-->
+[[Category:Blacks]]
+[[Category:Dragons of House Targaryen]]
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:She-dragons]]
+
+<!--Languages-->
+[[de:Mondtänzerin]]
+[[fr:Danselune]]
+[[pl:Księżycowa Tancerka]]
+[[ru:Лунная Плясунья]]
+[[uk:Місячна Танцівниця]]

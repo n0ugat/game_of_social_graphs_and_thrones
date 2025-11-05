@@ -1,0 +1,67 @@
+{{Canonicity|Non}}
+{{Heraldry
+| Image = House Karstark.svg
+| Link  = House Karstark
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Stark
+| Image       = Umber lineage.jpg
+| Birth       = 
+| Death       = 
+| House       = [[House Karstark|Karstark]] {{C|by marriage}}
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = {[[Beric Karstark]]}
+| Lovers      = 
+| Children    = {[[Tommard Karstark]]}
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Wedded on her seventeenth nameday to Tommard Karstark, Third of His Name, son of Lord Beric Karstark and Lady Mara Karstark at Karhold. |Excerpt from ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]''|Cripples, Bastards, and Broken Things}}
+'''Mara Karstark''' was a member of [[House Karstark]].
+
+==Biography==
+===Background===
+She was the wife of Lord [[Beric Karstark]] and the mother of Lord [[Tommard Karstark]].{{Ref|GOT104}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+She has an entry in ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]''.{{Ref|GOT104}}
+
+==In the books==
+Mara Karstark is referenced only in the TV adaptation of ''[[A Song of Ice and Fire]]'' and has no corresponding counterpart in the books.
+
+==Appearances==
+*{{GOT|Cripples, Bastards, and Broken Things}} {{Text}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House Karstark}}
+
+<!--Categories-->
+{{DEFAULTSORT:Karstark, Mara}}
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Ladies]]
+[[Category:Members of House Karstark|Mara Karstark]]
+[[Category:Northmen]]
+
+<!--Languages-->
+[[de:Mara Karstark]]
+[[es:Mara Karstark]]
+[[fr:Mara Karstark]]
+[[ru:Мара Карстарк]]

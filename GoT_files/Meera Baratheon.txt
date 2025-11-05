@@ -1,0 +1,65 @@
+{{Canonicity|Non}}
+{{Heraldry
+| Leftimage  = Unknown.svg
+| Leftlink   = 
+| Rightimage = House Baratheon.svg
+| Rightlink  = House Baratheon
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Baratheon
+| Image       = House Baratheon lineage.jpg
+| Birth       = 
+| Death       = 
+| House       = [[House Baratheon|Baratheon]]{{Ref|GOT106}} {{C|by marriage}}
+| Affiliation = 
+| Titles      = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = {[[Symeon Baratheon]]}{{Ref|GOT106}}
+| Lovers      = 
+| Issue       = {[[Lyonel Baratheon]]}{{Notes|Lineages}}
+| Siblings    = 
+| Arms        = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Meera Baratheon''' was the wife of [[Symeon Baratheon]] and the mother of [[Lyonel Baratheon]]. Through Lyonel she is the great-great-grandmother of [[Robert Baratheon|Robert]], [[Stannis Baratheon|Stannis]] and [[Renly Baratheon]].
+
+==Biography==
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+She is mentioned in [[Lyonel Baratheon]]'s entry in ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]''. It is unknown which house she was from and what her name was before she married [[Symeon Baratheon]].{{Ref|GOT106}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no such character.
+
+==Appearances==
+*{{GOT|A Golden Crown}} {{Text}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{House Baratheon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Baratheon, Meera}}
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Ladies]]
+[[Category:Members of House Baratheon|Meera Baratheon]]
+
+<!--Languages-->
+[[es:Meera Baratheon]]
+[[fr:Meera Baratheon]]
+[[ru:Мира Баратеон]]

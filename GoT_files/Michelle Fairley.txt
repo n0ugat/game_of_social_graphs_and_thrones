@@ -1,0 +1,48 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Michelle Fairley 2013 S3.jpg
+| Birth   = July 11, 1963 {{Age|1963|7|11}}<br>Coleraine, Northern Ireland
+| Death   = 
+| Role    = [[Catelyn Stark]]
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 1|1]] {{*}} [[Game of Thrones: Season 2|2]] {{*}} [[Game of Thrones: Season 3|3]]
+| Credits = 25 episodes {{Below|Credits}}
+| First   = "[[Winter Is Coming]]"
+| Last    = "[[The Rains of Castamere (episode)|The Rains of Castamere]]"
+}}
+'''Michelle Fairley''' is a Northern Irish actress. She has a lengthy resume of British television productions, including a well-received turn as the alcoholic mother of [[wikipedia:George Best|George Best]] in the drama ''[[wikipedia:Best: His Mother's Son|Best: His Mother's Son]]''. She appeared as the mother of [[wikipedia:Hermione Granger|Hermione Granger]] in the final two ''[[wikipedia:Harry Potter|Harry Potter]]'' movies.
+
+She stars in [[HBO]]'s ''[[Game of Thrones]]'' as [[Catelyn Stark]]. She replaced [[Jennifer Ehle]], who had departed the project following amicable discussions with HBO. Ehle's departure and Fairley's casting were announced simultaneously on 19 March 2010. She was cast for the show after being seen as "Lady Macbeth" in a play opposite Ewan Mcgregor. She was part of the initial starring cast and remains a member of the starring cast for the [[Game of Thrones: Season 2|second]] and [[Game of Thrones: Season 3|third]] seasons.
+
+Fairley and actor [[wikipedia:Keith Allen (actor)|Keith Allen]], co-star [[Alfie Allen]]'s real life father, previously played a married couple in the film ''[[wikipedia:The Others (2001 film)|The Others]]''.
+
+==Credits==
+===Starring===
+{{Game of Thrones: Season 1|yes|yes|yes|yes|yes|yes||yes|yes|yes}}
+{{Game of Thrones: Season 2|yes||yes|yes|yes|yes|yes|yes||yes}}
+{{Game of Thrones: Season 3|yes|yes|yes|yes|yes|yes|yes||yes}}
+
+==See also==
+*{{WP}}
+*{{IMDb|# = 0265610}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{Game of Thrones}}
+{{Histories & Lore}}
+{{The Dance of Dragons}}
+
+<!--Categories-->
+{{DEFAULTSORT:Fairley, Michelle}}
+[[Category:Cast members of Histories & Lore]]
+[[Category:Cast members of The Dance of Dragons]]
+[[Category:Starring cast members of Game of Thrones]]
+
+<!--Languages-->
+[[de:Michelle Fairley]]
+[[fr:Michelle Fairley]]
+[[pl:Michelle Fairley]]
+[[ru:Мишель Фэйрли]]

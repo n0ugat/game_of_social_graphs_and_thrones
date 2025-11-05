@@ -1,0 +1,23 @@
+{{Crew
+|Image = 
+|dateofbirth = 
+|birthplace = 
+|job = Stunts Winch Programmer
+|imdb = https://www.imdb.com/name/nm9249349/
+|twitter = }}
+'''Neil Frazer''' is a stunts winch programmer and a wirecam programmer.
+
+In ''[[Game of Thrones]]'', he was a stunts winch programmer in the [[Game of Thrones: Season 7|seventh season]] episode "[[Stormborn]]" and a wirecam programmer in  the [[Game of Thrones: Season 8|eighth season]] episode "[[The Long Night]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 7||yes}}
+{{Game of Thrones: Season 8|||yes}}
+
+==See also==
+*{{IMDb
+|# = 9249349}}
+*{{Linkedin
+|# = /in/neil-frazer-1a7b7935}}
+{{DEFAULTSORT:Frazer, Neil}}
+[[Category:Stunt performers of Game of Thrones]]

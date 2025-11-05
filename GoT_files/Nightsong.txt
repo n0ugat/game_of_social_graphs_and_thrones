@@ -1,0 +1,48 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Caron.svg
+| Link  = House Caron
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Baratheon
+| Image        = 
+<gallery>
+701 BtS Map Nightsong.png|Appearance
+Nightsong Pin.png|Location
+</gallery>
+| Type         = Castle
+| Status       = 
+| Location     = [[Dornish Marches]], the [[Stormlands]]
+| Population   = 
+| Rulers       = [[House Caron]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Nightsong'''{{Ref|GOT701}} is a castle in the [[Stormlands]]. It is the seat of [[House Caron]], a vassal house holding fealty to [[House Baratheon]] of [[Storm's End]]. The castle is located south-west of Storm's End near the border with [[Dorne]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Nightsong is a major stronghold of the Dornish Marches. House Caron are known as the "Lords of the Marches", suggesting they may have some superior authority over the other march lords (such as [[House Dondarrion]]). Houses Caron and Dondarrion allied together to fight the Vulture King, a bandit lord based in the [[Red Mountains]], some ninety years before the events of the books. Ser Arlen of Pennytree and his squire, the future Ser [[Duncan the Tall]], accompanied this campaign.
+
+In the books, House Caron is effectively destroyed when its last surviving members are killed during the [[Battle of the Blackwater]], resulting in the castle of Nightsong passing to House Foote.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Caron}}
+{{Stormlands}}
+
+<!--Categories-->
+[[Category:Castles of the Stormlands]]
+[[Category:House Caron]]
+
+<!--Languages-->
+[[pl:Nocna Pieśń]]
+[[ru:Ночная Песнь]]

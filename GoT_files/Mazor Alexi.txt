@@ -1,0 +1,60 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Westeros
+| Image       = Mazor Alexi.jpg
+| Birth       = 
+| Death       = [[Century of Blood]]{{Ref|H&L608}}<br>[[Field of Crows]], [[Kingdom of Sarnor|Sarnor]]{{Ref|H&L608}}
+| House       = 
+| Affiliation = 
+| Titles      = [[High King of Sarnor]]{{Ref|H&L608}}
+| AKA         = 
+| Culture     = [[Sarnori]]{{Ref|H&L608}}
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Led by a High King, they assembled a great army to break the ''khals'' once and for all, and met the Dothraki on what would ever after be known as the Field of Crows.|[[Jorah Mormont]]|The Dothraki}}
+High King '''Mazor Alexi'''{{Con|TWOI&F}} was the last [[High King of Sarnor]].
+
+==Biography==
+When the [[Dothraki]] led by Khal [[Moro (son of Mengo)|Moro]] destroyed the city of [[Sathar]], the Sarnori assembled under Alexi as their High King. Having gathered a large army to break the power of the Dothraki once and for all, the Sarnori met them in battle in what became known as the [[Field of Crows]]. The four Dothraki khals commanded nearly 80,000 horsemen, while the Sarnori had 100,000 foot soldiers, 10,000 armored riders, 10,000 light horsemen and 6,000 scythed chariots.{{Ref|H&L608}}
+
+The chariots broke through the Dothraki cavalry, and the [[khalasar]] of Khal [[Haro]] fled the battle after Haro was killed. When the chariots pursued the fleeing cavalry, Alexi and his armored riders followed, the foot soldiers behind them, and the Sarnori appeared victorious. However, the Dothraki had merely set a trap, and the fleeing horsemen turned and fire a volley of arrows at the Sarnori. Two khalasars attacked their flanks while another attacked from the rear, cutting off their retreat. With no escape, Alexi and his troops were destroyed.{{Ref|H&L608}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, his story is the same.
+
+==Appearances==
+*{{H&L|The Dothraki}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+{{DEFAULTSORT:Alexi, Mazor}}
+[[Category:Individuals from Histories & Lore]]
+[[Category:Kings]]
+[[Category:Sarnori]]
+
+<!--Languages-->
+[[ru:Мазор Алекси]]

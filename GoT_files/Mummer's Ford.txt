@@ -1,0 +1,43 @@
+{{Canonicity|Canon}}
+{{MapNeeded}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Tully
+| Image        = Battle at the Mummer's Ford.png
+| Type         = Town
+| Status       = 
+| Location     = The [[Riverlands]], [[Westeros]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+{{Quote|At the Mummer's Ford girls of seven years were raped. And babes, still on their mother's breast were cut in two while their mothers watched!|[[Anguy]] to [[Sandor Clegane]]|And Now His Watch Is Ended}}
+The '''Mummer's Ford'''{{Ref|GOT304}} is a town in the [[Riverlands]], the region controlled by [[House Frey]] of the [[Twins]].
+
+==History==
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+After receiving reports about raiding in the Riverlands, committed by the [[Gregor Clegane|Mountain]], [[Eddard Stark]] sends against him a force of 100 men under the command of Lord [[Beric Dondarrion]].<ref>"[[A Golden Crown]]"</ref> The subsequent encounter, known as [[Battle at the Mummer's Ford]], ends in victory for the Lannisters, and leads to the formation of the [[Brotherhood Without Banners]] by Beric and the survivors.<ref>"[[Brotherhood Without Banners (short)|Brotherhood Without Banners]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Mummer's Ford is so named because it is on a ford across the [[Red Fork]] of the [[Trident]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Riverlands}}
+
+<!--Categories-->
+[[Category:Fords]]
+[[Category:Riverlands]]
+[[Category:Towns]]
+
+<!--Languages-->
+[[ru:Шутовской Брод]]

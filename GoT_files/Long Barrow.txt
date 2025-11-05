@@ -1,0 +1,50 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Night's Watch.svg
+| Link  = Night's Watch
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Watch
+| Image        = 
+| Type         = Castle
+| Status       = Abandoned
+| Location     = The [[Wall]], the [[Gift]]
+| Population   = 
+| Rulers       = [[Night's Watch]]
+| Institutions = 
+| Military     = 
+| Religion     = 
+| Places       = 
+| Founded      = 
+}}
+{{Quote|A long time ago, you may have had men from Queensgate and Long Barrow and the other sixteen castles of the Wall come to Castle Black for an election.|[[Alliser Thorne]]|The Lord Commanders}}
+'''Long Barrow'''{{Ref|H&L507}} is a castle on the [[Wall]].<ref>"[[The Lord Commanders]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Long Barrow is an abandoned castle on the [[Wall]] located between Rimegate to west and the Torches to the east.
+
+[[Mance Rayder]] tells [[Jon Snow|Jon]] that he once climbed the Wall near Long Barrow, when he traveled to [[Winterfell]] for [[King of the Andals and the Rhoynar and the First Men|King]] [[Robert Baratheon]]'s visit in the guise of a bard.
+
+Jon plans to re-garrison the castle with men from [[Eastwatch-by-the-Sea]]. The [[Lord of Bones]] is seen near Long Barrow shortly before the [[battle for the Wall]], and is captured there by [[Cotter Pyke]].
+
+Following an alliance with the [[Free Folk]], Jon re-garrisons the castle with [[Spear wife|spearwives]] under the command of Iron Emmett with [[Eddison Tollett]], which inspires the men of the [[Night's Watch]] to call it "Whore's Barrow."
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Night's Watch}}
+{{Gift}}
+
+<!--Categories-->
+[[Category:Castles of the Wall]]
+
+<!--Languages-->
+[[de:Langhügel]]
+[[pl:Długi Kurhan]]
+[[ru:Длинный Курган]]
+[[zh:长车楼]]

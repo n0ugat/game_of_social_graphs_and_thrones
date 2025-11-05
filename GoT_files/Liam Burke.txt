@@ -1,0 +1,24 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Liam Burke.jpg
+| Birth   = Ireland
+| Death   = 
+| Role    = [[Aerys II Targaryen]]
+| Series  = ''[[Game of Thrones]]''
+| Season  = 
+| Credits = [[Pilot (Game of Thrones)|Pilot]] {{Unreleased}}
+| First   = 
+| Last    = 
+}}
+'''Liam Burke '''is an Irish actor, best known for playing Mr. Boaz in ''[[wikipedia: City of Ember| City of Ember]]'' alongside [[wikipedia: Saoirse Ronan|Saoirse Ronan]]. In ''Game of Thrones'' he was cast as [[Aerys II Targaryen]] in a flashback, but the scene was cut for time and pacing.
+
+==See also==
+*{{IMDb|# = 2904648}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+{{DEFAULTSORT:Burke, Liam}}
+[[Category:Cast members of the pilot of Game of Thrones]]

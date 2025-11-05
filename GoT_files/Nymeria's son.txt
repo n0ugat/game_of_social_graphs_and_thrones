@@ -1,0 +1,60 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Heraldry
+| Image = House Dayne.svg
+| Link  = House Dayne
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Martell
+| Image       = Dayne-Martell.PNG 
+| Birth       = 
+| Death       = 
+| House       = [[House Dayne|Dayne]]
+| Affiliation = 
+| Titles      = [[Lord of Starfall]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Dornishmen|Dornish]]
+| Religion    = 
+| Father      = {[[Davos Dayne]]} 
+| Mother      = {[[Nymeria]]}
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = {[[Nymeria's daughter|Maternal half-sister]]}
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|And when at last she died her eldest child succeeded her; her daughter, not her son, and Dorne followed her because [[Nymeria]] had proven that women were equal to men, if not better.|[[Ellaria Sand]]|Dorne (short)}}
+'''Nymeria's son''' was the son of the warrior-queen [[Nymeria]] and [[Davos Dayne]].{{Con|TWOI&F}}
+
+==Biography==
+After defeating his grandfather [[Vorian Dayne]] and sending him to the [[Wall]], Nymeria took Davos as her second husband and together they had a son.{{Ref|H&L613}} However, in accordance with Rhoynish custom, the title of [[Prince of Dorne|Princess of Dorne]] passed to [[Nymeria's daughter]] by her first husband [[Mors Martell]].{{Ref|H&L509}} This son presumably inherited his father's name and titles and furthered the family line that included Ser [[Joffrey Dayne]], Queen [[Dyanna Dayne]], and Ser [[Arthur Dayne]], all of whom would play just as important role in Dorne as their relatives in [[House Martell]].{{Ref|H&L613}}
+
+==Appearances==
+*{{H&L|Dorne}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{House Dayne}}
+
+<!--Categories-->
+[[Category:Dornishmen]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Lords of Starfall]]
+[[Category:Members of House Dayne]]
+
+<!--Languages-->
+[[ru:Сын Нимерии]]

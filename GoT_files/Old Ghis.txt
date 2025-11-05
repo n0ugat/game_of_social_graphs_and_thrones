@@ -1,0 +1,54 @@
+{{Canonicity|Canon}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Ghiscari
+| Image        =
+<gallery>
+Ancient Ghiscari Empire.png|Appearance
+Old Ghis Pin.png|Location
+</gallery>
+| Type         = City
+| Status       = 
+| Location     = [[Ghiscar]], [[Essos]]
+| Population   = 
+| Rulers       = [[Ghiscari Empire]] {{C|formerly}}
+| Institutions = 
+| Military     = 
+| Religion     = [[Ghiscari religion]]
+| Places       = 
+| Founded      = 
+}}
+[[File:Slaver's Bay.png|thumb|The ruins of Old Ghis are located south from Astapor.]]
+{{Quote|Finally the Valyrians marched on their capital of Old Ghis and obliterated it, turning its streets and buildings to ash with dragonflame and wiping the Ghiscari people and their culture off the face of the Earth.|[[Viserys Targaryen (son of Aerys II)|Viserys Targaryen]]|Valyria & the Dragons}}
+'''Old Ghis''',{{Ref|H&L108}} originally known as simply '''Ghis''',{{Ref|H&L302}} is a ruined city, located in the region of [[Ghiscar]] on the southern coast of [[Essos]]. It was once the ancient capital of the [[Ghiscari Empire]], but was destroyed by the [[Valyrian Freehold]] with the use of [[dragon]]s.<ref>"[[Valyria & the Dragons]]"</ref>
+
+The city is located south of [[Slaver's Bay]], on the eastern coastline of the [[Gulf of Grief]]. The city of [[New Ghis]], its successor, is located on an island not far to the south.
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Old Ghis led five great wars against Valyria before being destroyed once and for all. Frustrated by the city's constant uprisings, the Valyrians pulled down the city's walls, burned the buildings to ashes and cinders and poisoned the surrounding lands with salt, sulfur, and skulls to prevent it from rising again.
+
+The city and the Ghiscari Empire were founded by Grazdan the Great, a mighty leader. Its symbol, and that of the Empire it led, was that of a harpy clutching a thunderbolt.
+
+==Inspiration==
+Like other civilizations of the known world, the Ghiscari empire has many similarities with real life civilizations (Greece, Egypt and Rome). Old Ghis has many similarities with [[wikipedia:Carthage|Carthage]], the great rival of ancient [[wikipedia:Roman Republic|Rome]] during its republican phase. The two empires engaged in three bloody wars. At the end of the last, the Romans destroyed the city and according to legend sowed the soil with salt to prevent the city rising again.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Known world}}
+{{Slaver's Bay}}
+
+<!--Categories-->
+[[Category:Ghiscari cities]]
+[[Category:Ruined cities]]
+[[Category:Slaver's Bay]]
+
+<!--Languages-->
+[[de:Alt-Ghis]]
+[[fr:Ancienne-Ghis]]
+[[ru:Старый Гис]]
+[[uk:Старий Гіс]]

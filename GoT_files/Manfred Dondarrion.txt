@@ -1,0 +1,64 @@
+{{Canonicity|Canon}}
+{{Spoiler|AKOTSK}}
+{{Heraldry
+|Image = House Dondarrion.svg
+|Link = House Dondarrion
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Baratheon
+| Image       = 
+| Birth       = At [[Blackhaven]]
+| Death       = 
+| House       = [[House Dondarrion|Dondarrion]]
+| Affiliation = 
+| Titles      = [[Knighthood|Ser]]{{Webref|name=varietyref |author=Steffan Hill |date=August 8, 2024 |url=https://variety.com/2024/tv/news/knight-of-the-seven-kingdoms-cast-game-of-thrones-1236100291/ |title=‘Game of Thrones’ Spinoff ‘A Knight of the Seven Kingdoms’ Adds 7 to Cast, Including Another Targaryen  |website=Variety |access-date=August 8, 2024 }}
+| AKA         = 
+| Culture     = [[Dornish Marches|Marcher]]
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[A Knight of the Seven Kingdoms]]''
+| Season      = [[A Knight of the Seven Kingdoms: Season 1|1]]
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Daniel Monks]]<ref name="varietyref" />
+}}
+Ser '''Manfred Dondarrion'''<ref name="varietyref" /> is a [[Knighthood|knight]] of [[House Dondarrion]].
+==Biography==
+Manfred is a knight from [[House Dondarrion]].<ref name="varietyref" />
+
+==In the books==
+In the [[Dunk & Egg novellas]], Manfred is a knight from House Dondarrion. He is a thin man with an unruly mane of red-gold hair. 
+
+==Appearances==
+===Forthcoming===
+{{Collapse|
+*{{AKOTSK|Season 1}}<ref name="varietyref" />
+}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|AKOTSK}}
+
+<!--Navboxes-->
+{{House Dondarrion}}
+
+<!--Categories-->
+{{DEFAULTSORT:Dondarrion, Manfred}}
+[[Category:Individuals appearing in A Knight of the Seven Kingdoms]]
+[[Category:Knights]]
+[[Category:Members of House Dondarrion|Manfred Dondarrion]]
+[[Category:Stormlanders]]
+
+<!--Languages-->
+[[pl:Manfred Dondarrion]]

@@ -1,0 +1,42 @@
+{{Canonicity|Canon}}
+{{Deity
+| Title    = {{PAGENAME}}
+| Theme    = Westeros
+| Image    = 
+| Type     = 
+| AKA      = 
+| Religion = [[Yi Ti|YiTish]]
+| Symbol   = 
+| Family   = [[Lion of Night]] {{C|husband}}<br>[[God-on-Earth]] {{C|son}}
+| Aspects  = 
+| Avatars  = 
+}}
+{{Quote|In the far east [they worship] the Lion of Night, who fathered the world's first emperor on the Maiden-Made-of-Light, and whose wrath nearly ended the world.|Jaqen H'ghar|The Many-Faced God}}
+The '''Maiden-Made-of-Light'''{{Ref|H&L512}} is a [[Religion|deity]] worshiped in [[Yi Ti|the further east]] of [[Essos]], along with the [[Lion of Night]]. It is believed that the Lion of Night fathered the world's [[God-on-Earth|first emperor]] with her.
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the Maiden-Made-of-Light is a deity worshiped primarily in [[Yi Ti]] (which Martin has stated is his fantasy world's loose analogue of Imperial China). Very little of Yi Ti's culture or religion has been revealed in the main novels - the [[Lion of Night]], another deity from Yi Ti, was only mentioned in passing as one of the statues in the [[House of Black and White]] in [[Braavos]]. The Maiden-Made-of-Light wasn't mentioned at all in the main novels.
+
+''[[The World of Ice & Fire]]'' revealed a considerable amount about Yi Ti's culture, including its religion. While the Yi Tish venerate their god-emperors and worship numerous minor deities, there are two primary deities in their religion: the Lion of Night, and the Maiden-Made-of-Light.
+
+The Lion of Night fathered a son on the Maiden-Made-of-Light, the God-on-Earth, who is held to be the ancestor of the emperors of Yi Ti and the founder of the semi-mythical Great Empire of the Dawn. For this reason the rulers of Yi Ti are referred to as "god-emperors," and worshiped by their subjects as demigods (or actual gods). This is somewhat similar to the real-life title "[[Wikipedia:Son of Heaven|Son of Heaven]]," used to refer to East Asian monarchs. For Chinese emperors, the term was understood figuratively (the ruler was a mortal chosen by the gods, but not their literal descendant). In Japan, however, the emperors were literally believed to be descended from the gods - the beliefs in Yi Ti are closer to this.
+
+The Maiden-Made-of-Light is a benevolent force who tries to help mankind, while the Lion of Night scourges the wicked. The legends about the [[Long Night]] in Yi Ti explain that a descendant of God-on-Earth known as the Amethyst Empress was usurped and murdered by her own brother, an event known as the Blood Betrayal. This caused the Maiden-Made-of-Light to turn away from humanity in shame, and the Lion of Night came forth in all his wrath to punish mankind's wickedness, inflicting the cold and darkness of the Long Night. This dichotomy between the Maiden and the Lion seems similar to the real-life concept in Chinese philosophy of [[Wikipedia:Yin and yang|yin and yang]], though the roles are reversed: "yin" is the dark and negative force, but it is considered feminine, while "yang" - the light and positive force - is considered masculine. In Yi Ti, the roles are reversed between the masculine and feminine deities.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Religions}}
+
+<!--Categories-->
+[[Category:Deities]]
+[[Category:YiTish culture]]
+
+<!--Languages-->
+[[de:Jungfrau aus Licht]]
+[[pt-br:Donzela-Feita-de-Luz]]
+[[ru:Дева-из-Света]]

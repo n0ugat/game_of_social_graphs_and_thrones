@@ -1,0 +1,20 @@
+{{Crew
+|Image = 
+|dateofbirth = 
+|birthplace = 
+|job = Stunt Performer
+|imdb = http://www.imdb.com/name/nm3968976
+|twitter = }}
+'''Miguel Villalba Garcia''' is a stuntman.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 7|seventh season]] episodes "[[The Spoils of War]]" and "[[The Dragon and the Wolf]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 7||||yes|||yes}}
+
+==See also==
+*{{IMDb
+|# = 3968976}}
+{{DEFAULTSORT:Villalba, Miguel}}
+[[Category:Stunt performers of Game of Thrones]]

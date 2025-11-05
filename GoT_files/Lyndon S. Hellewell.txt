@@ -1,0 +1,37 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Lyndon S. Hellewell.jpg
+| Birth   = Lyndon Stuart Hellewell
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[Game of Thrones]]''<br>''[[House of the Dragon]]''
+| Season  = ''Game of Thrones'':<br>[[Game of Thrones: Season 6|6]] {{*}} [[Game of Thrones: Season 7|7]] {{*}} [[Game of Thrones: Season 8|8]]<br>''House of the Dragon'':<br>[[House of the Dragon: Season 1|1]]
+| Credits = 9 episodes {{Below|Credits}}
+| First   = "[[No One]]"
+| Last    = 
+}}
+'''Lyndon Stuart Hellewell''' is a stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 6|sixth season]] episodes "[[No One]]" and "[[Battle of the Bastards (episode)|Battle of the Bastards]]", the [[Game of Thrones: Season 7|seventh season]] episodes "[[Stormborn]]" and "[[Beyond the Wall (episode)|Beyond the Wall]]" and the [[Game of Thrones: Season 8|eighth season]] episodes "[[The Long Night]]", "[[The Last of the Starks]]" and "[[The Bells]]".
+
+In ''[[House of the Dragon]]'', he was a stunt performer in the [[House of the Dragon: Season 1|first season]] episodes "[[Second of His Name]]" and "[[The Green Council]]".
+
+==Credits==
+===Stunts===
+====''[[Game of Thrones]]''====
+{{Game of Thrones: Season 6||||||||yes|yes}}
+{{Game of Thrones: Season 7||yes||||yes}}
+{{Game of Thrones: Season 8|||yes|yes|yes}}
+
+====''[[House of the Dragon]]''====
+{{House of the Dragon: Season 1|||yes||||||yes}}
+
+==See also==
+*{{IMDb
+|# = 0375419}}
+*{{YouTube
+|# = user/LyndonHellewell}}
+{{DEFAULTSORT:Hellewell, Lyndon S.}}
+[[Category:Stunt performers of Game of Thrones]]
+[[Category:Stunt performers of House of the Dragon]]

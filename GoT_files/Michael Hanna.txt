@@ -1,0 +1,20 @@
+{{Crew
+|Image = Michael Hanna.jpg
+|dateofbirth = 
+|birthplace = {{WPS|Ireland}}
+|job = Stunt Performer
+|imdb = https://www.imdb.com/name/nm4713428/
+|twitter = }}
+'''Michael Hanna''' is an Irish stuntman.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 6|sixth season]] episode "[[No One]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 6||||||||yes}}
+
+==See also==
+*{{IMDb
+|# = 4713428}}
+{{DEFAULTSORT:Hanna, Michael}}
+[[Category:Stunt performers of Game of Thrones]]

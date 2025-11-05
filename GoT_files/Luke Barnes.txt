@@ -1,0 +1,37 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Luke-McEwan-200.jpg
+| Birth   = Luke McEwan<br>United Kingdom
+| Death   = 
+| Role    = [[Rast]]
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 1|1]] {{*}} [[Game of Thrones: Season 3|3]] {{*}} [[Game of Thrones: Season 4|4]]
+| Credits = 12 episodes {{Below|Credits}}
+| First   = "[[The Kingsroad]]"
+| Last    = "[[First of His Name]]"
+}}
+'''Luke Barnes''' is a British actor and playwright, having written the plays ''Chapel Street'', ''Bottleneck'' and ''Eisteddfod''. In ''[[Game of Thrones]]'' he is playing the role of [[Rast]], and was confirmed to be playing the role on 6 July 2010.
+
+With the start of the [[Game of Thrones: Season 3|third season]], Luke McEwan was credited as "Luke Barnes". His Twitter name was changed to "Luke Barnes (McEwan)" at the same time.
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 1||yes|yes|yes|||yes|yes|yes}}
+{{Game of Thrones: Season 3|yes|yes|yes|yes}}
+{{Game of Thrones: Season 4||||yes|yes}}
+
+==See also==
+* [http://www.spotlight.com/6697-3497-3183 Luke McEwan's Spotlight profile.]
+*{{Template:IMDb
+|# = 4430828}}
+*{{Template:Twitter
+|# = northernluke}}
+
+{{Stub}}
+
+[[de:Luke McEwan]]
+[[ru:Люк Барнс]]
+[[fr:Luke Barnes]]
+{{DEFAULTSORT:Barnes, Luke}}
+[[Category:Guest starring cast members of Game of Thrones]]

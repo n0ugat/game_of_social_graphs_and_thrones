@@ -1,0 +1,71 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Darry.svg
+| Link  = House Darry
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Tully
+| Image       = Lord Darry.png
+| Birth       = 
+| Death       = 
+| House       = [[House Darry|Darry]]
+| Affiliation = [[House Tully/House of the Dragon|House Tully]]<br>[[Blacks]]
+| Titles      = 
+| AKA         = 
+| Culture     = [[Riverlands|Rivermen]]
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 2|2]]
+| Appearances = 2 episodes {{Below|Appearances}}
+| First       = "[[Regent (episode)|Regent]]"
+| Last        = 
+| DeathEp     = 
+| Actor       = [[John-Paul Hurley]]
+}}
+'''Lord Darry''' is the head of [[House Darry]] during the [[Dance of the Dragons]].
+
+==Biography==
+===[[House of the Dragon: Season 2|''House of the Dragon'': Season 2]]===
+Lord Darry and three other riverlords arrive at [[Harrenhal]] to complain to [[Daemon Targaryen|Daemon]] about the [[Raids on Bracken lands|atrocities]] performed by the [[House Blackwood|Blackwoods]] at the [[House Bracken|Brackens]]' lands. Daemon claims that the Brackens were given their chance, but would not see reason. Lord Darry angrily responds that the Blackwoods have exploited the war for the crown to visit atrocities upon their old rivals. He contemptuously adds that they should've expected nothing more from a man who ordered the [[Assassination of Jaehaerys Targaryen|slaughter of a child in his mother's arms]], and that half the kingdom knows that.{{Ref|HOTD205}}
+
+==In the books==
+In ''[[Fire & Blood]]'', Lord Darry participated in the Dance of the Dragons.{{Bookref|F&B|15}}
+
+In the approved online roleplaying game ''Blood of Dragons'', he is named Jonothor Darry.<ref name="BoD">[https://www.westeros.org/BoD/Houses/Entry/House_Darry/ ''Blood of Dragons'' | House Darry of Darry (Westeros.org)]</ref>
+
+==Appearances==
+*{{HOTD|Regent}}
+*{{HOTD|The Red Sowing}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Lord Darry (Dance)}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{House Darry/House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Darry, Lord}}
+[[Category:Bannermen of House Tully]]
+[[Category:Blacks]]
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Lords]]
+[[Category:Members of House Darry|Lord Darry]]
+[[Category:Rivermen]]
+
+<!-- Languages -->
+[[es:Lord Darry (Danza de los Dragones)/House of the Dragon]]
+[[fr:Lord Darry]]
+[[pl:Lord Darry]]
+[[ru:Лорд Дарри]]
+[[uk:Лорд Дарі]]

@@ -1,0 +1,36 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Nanna Blondell.jpg
+| Birth   = Oriana Terese Blondell<br>August 6, 1986 {{Age|1986|6|8}}<br>Stockholm, Sweden
+| Death   = 
+| Role    = [[Laena Velaryon]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]] {{*}} [[House of the Dragon: Season 2|2]]
+| Credits = 3 episodes {{Below|Credits}}
+| First   = "[[The Princess and the Queen]]"
+| Last    = "[[Regent (episode)|Regent]]"
+}}
+'''Oriana Terese Blondell''' (born 6 August 1986), known professionally as '''Nanna Blondell''', is a Swedish actress and director.
+
+In ''[[House of the Dragon]]'', she portrayed [[Laena Velaryon]].
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1||||||yes}}
+{{House of the Dragon: Season 2||||yes|yes}}
+
+==See also==
+*{{WP}}
+*{{IMDb|#=2116753}}
+*{{Instagram|#=nannablondell}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+{{DEFAULTSORT:Blondell, Nanna}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Nanna Blondell]]

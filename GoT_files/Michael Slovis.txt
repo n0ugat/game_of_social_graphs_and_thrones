@@ -1,0 +1,29 @@
+{{Crew
+| Title= Michael Slovis
+| Image= Michael Slovis.png
+| dateofbirth= 
+| birthplace=Plainfield, New Jersey USA 
+| job= Director
+| imdb= http://www.imdb.com/name/nm0806252/
+|twitter = http://www.twitter.com/MichaelSlovis}}
+'''Michael Slovis''' is an American Emmy winning director and cinematographer for film and television. He is best known for his work on ''Law and Order: SVU'', ''Elementary'', ''Chicago Fire'', ''CSI'', and was the cinematographer for ''[[w:c:breakingbad:Breaking Bad|Breaking Bad]]''. He also previously directed [[Nikolaj Coster-Waldau]]'s 2008 TV series ''New Amsterdam''.
+
+On July 2, 2014, it was announced that Slovis would be directing two episodes in the [[Game of Thrones: Season 5|fifth season]], the [[The Wars To Come|season premiere]] and the [[The House of Black and White|second episode]].<ref>[http://winteriscoming.net/2014/07/02/michael-slovis-joins-the-lineup-of-directors-for-game-of-thrones-season-5/#comment-420830 Michael Slovis joins the lineup of directors for Game of Thrones season 5]</ref>
+
+==Credits==
+===Director===
+{{Game of Thrones: Season 5|yes|yes}}
+
+==See also==
+*{{WP}}
+*{{Template:IMDb
+|# = 0806252}}
+*{{Twitter|# = MichaelSlovis}}
+
+==References==
+{{Reflist|2}}{{DEFAULTSORT:Slovis, Michael}}
+
+[[de:Michael Slovis]]
+[[pt-br:Michael Slovis]]
+[[ru:Майкл Словис]]
+[[Category:Directors of Game of Thrones]]

@@ -1,0 +1,31 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Michael Heath.jpg
+| Birth   = Ilford, Essex, England
+| Death   = 
+| Role    = [[Kesh]]
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 6|6]]
+| Credits = "[[Book of the Stranger]]"
+| First   = 
+| Last    = 
+}}
+'''Michael Heath''' is an English actor and novelist. He is best known for his role as Mr. Sowerberry in Roman Polanski's ''Oliver Twist''.
+
+In ''[[Game of Thrones]]'', he portrayed [[Kesh]] in the [[Game of Thrones: Season 6|sixth season]].<ref>[http://www.spotlight.com/1259-0164-1472/ Spotlight — Michael Heath CV]</ref>
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 6||||yes}}
+
+==See also==
+*{{IMDb
+|# = 0372689}}
+*{{Twitter
+|# = michaelwheath}}
+
+==References==
+{{Reflist}}[[fr:Michael Heath]]
+{{DEFAULTSORT:Heath, Michael}}
+[[Category:Guest starring cast members of Game of Thrones]]

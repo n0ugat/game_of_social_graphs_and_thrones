@@ -1,0 +1,34 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Michelle Bonnard.jpg
+| Birth   = September 14, 1980 {{Age|1980|9|14}}<br>Birmingham, England
+| Death   = 
+| Role    = [[Sylvi]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]] {{*}} [[House of the Dragon: Season 2|2]]
+| Credits = 5 episodes {{Below|Credits}}
+| First   = "[[The Green Council]]"
+| Last    = 
+}}
+'''Michelle Bonnard''' (born 14 September 1980) is an English actress and screenwriter. She has appeared in the television series ''{{WPS|EastEnders}}'', ''{{WPS|Five Days (TV series)|Five Days}}'', ''{{WPS|Waking the Dead (TV series)|Waking the Dead}}'', ''{{WPS|Silent Witness}}'', ''{{WPS|Law & Order: UK}}'', ''{{WPS|Casualty (TV series)|Casualty}}'', ''{{WPS|Holby City}}'', ''{{WPS|Doctors (2000 TV series)|Doctors}}'', and ''{{WPS|Unforgotten}}''.
+
+In ''[[House of the Dragon]]'', she portrays Madam [[Sylvi]]. In the behind the scenes video for that episode, [[Fabien Frankel]] ([[Criston Cole]]) noted that it was odd sharing a scene with her because she used to be one of his drama school teachers.
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1|||||||||yes}}
+{{House of the Dragon: Season 2||yes|yes||yes|yes}}
+
+==See also==
+*{{WP}}
+*{{IMDb|# = 1527314}}
+*{{Twitter|# = bonnoway}}
+*{{Instagram|# = michelle_bonnard}}
+
+<!--Categories-->
+{{DEFAULTSORT:Bonnard, Michelle}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--Languages-->
+[[fr:Michelle Bonnard]]

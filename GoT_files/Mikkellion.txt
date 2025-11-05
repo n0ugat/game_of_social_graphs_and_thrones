@@ -1,0 +1,58 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Order of Maesters.svg
+| Link  = Order of Maesters
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Citadel
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[Order of Maesters]]<ref name="Shrubbery">[https://dedalvs.com/work/house-of-the-dragon/misc/shrubbery_v4.pdf ''Shrubbery'' version 4 | dedalvs.com]</ref>
+| Titles      = Maester<ref name="Shrubbery" />
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|It has now passed to me to cement [Jaehaelor's] memories into the bold minds of those who pass through this, the greatest repository of knowledge in the known world.|Mikkellion|Shrubbery, Being a History on the Flora of the Valyrian Freehold}}
+'''Mikkellion''' was a [[Order of Maesters|maester]] living during the late reign of [[Aegon I Targaryen]].
+
+==Biography==
+===Background===
+Mikkellion wrote the text ''[[Shrubbery, Being a History on the Flora of the Valyrian Freehold]]'' in [[36 AC]].<ref name="Shrubbery" />
+
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+[[Daemon Targaryen|Daemon]] has a copy of ''Shrubbery'' in his library in [[Pentos]].{{Ref|HOTD106}}{{Ref|THTDB106}}
+
+==Behind the scenes==
+Mikkellion is named after [[Ti Mikkel]], the real author of ''Shrubbery''.
+
+==In the books==
+In ''[[Fire & Blood]]'', there is no character named Mikkellion.
+
+==Appearances==
+*{{HOTD|The Princess and the Queen}} {{Text}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+[[Category:Authors]]
+[[Category:Individuals mentioned in House of the Dragon]]
+[[Category:Maesters]]

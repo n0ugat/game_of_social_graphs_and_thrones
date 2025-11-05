@@ -1,0 +1,65 @@
+{{Canonicity|Canon}}
+{{SameName|wife of Craster|mother of Hothor Umber|Morag Umber}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Wildling
+| Image       = Morag.jpg
+| Birth       = At [[Craster's Keep]]
+| Death       = 
+| House       = 
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Free Folk]]
+| Religion    = [[White Walkers]]
+| Father      = {[[Craster]]}
+| Mother      = 
+| Spouse      = {Craster}
+| Lovers      = 
+| Children    = 
+| Siblings    = [[Gilly]]<br>[[Sissy]]<br>[[Sam]]<br>{[[Craster's last son]]}<br>101 brothers and even more [[Craster's wives|sisters]]
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 4|4]]
+| Appearances = 2 episodes {{Below|Appearances}}
+| First       = "[[Oathkeeper (episode)|Oathkeeper]]"
+| Last        = "[[First of His Name]]"
+| DeathEp     = 
+| Actor       = [[Deirdre Monaghan]]
+}}
+{{Dialogue a-b-a|Morag|Meaning no disrespect, ser crow, Craster beat us... and worse. Your brother crows beat us and worse. We'll find our own way.|Jon Snow|You want to stay here in Craster's Keep?|Burn it to the ground and all the dead with it.|Morag to [[Jon Snow]]|Oathkeeper (episode)}}
+'''Morag''' is one of the many [[Craster's wives|wives]] of the [[Free Folk|wildling]] [[Craster]].
+
+==Biography==
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+Months after the [[Mutiny at Craster's Keep|mutiny]], in which a group of [[Mutineers|oathbreaking brothers]] of the [[Night's Watch]] seize [[Craster's Keep]], Morag delivers [[Craster's last son]] to [[Karl Tanner]], leader of the mutineers, and tells him he's intended to be given to "the gods." Understanding she's referring to the [[White Walkers]], Karl orders the baby to be abandoned in the [[Haunted Forest]] to be seized by the creatures.{{Ref|GOT404}}
+
+After a group of brothers of the Night's Watch [[Raid on Craster's Keep|raid]] Craster's Keep and kill all the mutineers, [[Jon Snow]] offers Craster's wives protection at [[Castle Black]]. Morag refuses, citing how the "crows" led by Karl have treated them just like Craster did. When Jon asks if they want to remain at Craster's Keep, Morag spits and demands the place to be burned. Morag and the rest choose to find their own way.{{Ref|GOT405}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels there is no mention of a wife of Craster by the name of Morag. The fate of Craster's wives after the mutineers abandon Craster's Keep hasn't been mentioned yet.
+
+Although her backstory isn't detailed on-screen, writer [[Bryan Cogman]] explained that he had specific ideas for the character:
+
+:"The original idea behind Morag was that she was the first of the daughters who became Craster's wife. So she's the prime wife, if you will, and the matriarchal figure for these women. She knows she can't fight these mutineers and knows that without them, the White Walkers could destroy the wives. So there's a lot going on."<ref>[http://www.makinggameofthrones.com/production-diary/2014/4/28/interview-with-bryan-cogman MakingGameOfThrones.com]</ref>
+
+==Appearances==
+*{{GOT|Oathkeeper}}
+*{{GOT|First of His Name}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Craster's wives}}
+
+<!--Categories-->
+[[Category:Free Folk]]
+[[Category:Individuals appearing in Game of Thrones]]
+
+<!--Languages-->
+[[de:Morag]]
+[[es:Morag]]
+[[fr:Morag]]
+[[ru:Мораг]]

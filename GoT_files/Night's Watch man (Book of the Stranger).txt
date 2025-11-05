@@ -1,0 +1,55 @@
+{{DISPLAYTITLE:Night's Watch man {{C|Book of the Stranger}}}}
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Heraldry
+| Image = Night's Watch.svg
+| Link  = Night's Watch
+}}
+{{Character
+| Title       = Night's Watch man
+| Type        = Watch
+| Image       = Night's Watch man pink letter.png
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[Night's Watch]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 6|6]]
+| Appearances = 2 episodes {{Below|Appearances}}
+| First       = "[[Book of the Stranger]]"
+| Last        = "[[The Door]]"
+| DeathEp     = 
+| Actor       = [[Michael Hooley]]
+}}
+{{Quote|A letter for you, Lord Commander.|The watchman to [[Jon Snow]]|Book of the Stranger}}
+A '''Night's Watch man''' is a member of the [[Night's Watch]].
+
+==Biography==
+===[[Game of Thrones: Season 6|''Game of Thrones'': Season 6]]===
+This man delivers [[Bastard Letter|Ramsay Bolton's letter]] to [[Jon Snow]],{{Ref|GOT604}} and later watches as he departs [[Castle Black]] with [[Sansa Stark]], [[Davos Seaworth]], [[Melisandre]], [[Brienne of Tarth]], [[Podrick Payne]] and [[Tormund]].{{Ref|GOT605}}
+
+==Appearances==
+*{{GOT|Book of the Stranger}}
+*{{GOT|The Door}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{Night's Watch}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Men of the Night's Watch]]

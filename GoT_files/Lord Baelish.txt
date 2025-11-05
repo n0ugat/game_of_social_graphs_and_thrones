@@ -1,0 +1,66 @@
+{{Canonicity|Canon}}
+{{SameName|father of Petyr Baelish|Game of Thrones character|Petyr Baelish}}
+{{PureConjecture}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Arryn
+| Image       = Baelish (father of Petyr).png
+| Birth       = At a [[Baelish keep|keep]]
+| Death       = 
+| House       = [[House Baelish|Baelish]]
+| Affiliation = [[House Arryn]]
+| Titles      = [[Lordship|Lord]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Vale of Arryn|Valemen]]
+| Religion    = 
+| Father      = {[[Petyr Baelish's grandfather|Father]]}
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = {[[Petyr Baelish]]}
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|During the War of the Ninepenny Kings, a cheap name for a cheap cause, where other men fought for the king, my father fought to befriend Hoster Tully, Lord Paramount of the Trident and head of one of the oldest and greatest houses in Westeros. Thanks to my father's heroic efforts, Lord Hoster agreed to foster me at Riverrun with his own children.|[[Petyr Baelish]]|House Baelish (short)}}
+'''Lord Baelish''' was the father of [[Petyr Baelish]].
+
+==Biography==
+During the [[War of the Ninepenny Kings]], he fought for the favor of [[Lordship|Lord]] [[Hoster Tully]], [[Lord of Riverrun]] and [[Lord Paramount of the Trident]]. He won his friendship and Lord Hoster agreed to [[Ward|foster]] Baelish's son [[Petyr Baelish|Petyr]] at [[Riverrun]] alongside his own children [[Catelyn Stark|Catelyn]], [[Lysa Arryn|Lysa]], and [[Edmure Tully|Edmure]].{{Ref|H&L402}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, little is known about Littlefinger's father. His first name is not mentioned. According to [[Tyrion Lannister|Tyrion]], he was the "smallest of small lords". He died several years before the beginning point of the series and was succeeded by Littlefinger.
+
+In ''A Storm of Swords'', when Littlefinger and [[Sansa Stark|Sansa]] tour the [[Fingers]], Littlefinger tells that when was a boy, his father took him to see a hermit, who supposedly had the gift of prophecy. The hermit said Littlefinger would be a great man, and for that Littlefinger's father gave him a skin of wine. 
+
+According to [[George R.R. Martin]], the story of Littlefinger's father is the same as told in ''[[Histories & Lore]]''.<ref>[http://www.westeros.org/Citadel/SSM/Entry/12432 So Spake Martin, Novmeber 18, 2005]</ref>
+
+==Appearances==
+*{{H&L|House Baelish}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Baelish (father of Petyr)}}
+
+<!--Navboxes-->
+{{House Baelish}}
+
+<!--Categories-->
+{{DEFAULTSORT:Baelish}}
+[[Category:Individuals from Histories & Lore]]
+[[Category:Lords]]
+[[Category:Members of House Baelish]]
+[[Category:Valemen]]
+
+<!--Languages-->
+[[ro:Baelish (tatăl lui Petyr)]]
+[[ru:Бейлиш (отец Петира)]]

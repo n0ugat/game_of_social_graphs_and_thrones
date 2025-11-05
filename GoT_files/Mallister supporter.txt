@@ -1,0 +1,57 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Heraldry
+| Image = Night's Watch.svg
+| Link  = Night's Watch
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = Mallister supporter.png
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[Night's Watch]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 5|5]]
+| Appearances = "[[The House of Black and White]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Derek Lord]]
+}}
+{{Quote|Ser Denys Mallister joined the Watch as a boy and has served it loyally longer than any other ranger. Through ten winters he served. As commander of the Shadow Tower, he kept the [[Free Folk|wildlings]] away. We could do no better.|Mallister supporter|The House of Black and White}}
+A '''Mallister supporter''' is a member of the [[Night's Watch]] from the [[Shadow Tower]].
+
+==Biography==
+===Background===
+He is a brother of the [[Night's Watch]] stationed at the [[Shadow Tower]].{{Ref|GOT502}}
+
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+He nominates Ser [[Denys Mallister]] to be the next [[Lord Commander of the Night's Watch]].{{Ref|GOT502}}
+
+==Appearances==
+*{{GOT|The House of Black and White}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Men of the Night's Watch]]
+[[Category:Westerosi]]
+
+<!--Languages-->
+[[ru:Дозорный (сторонник Маллистера)]]

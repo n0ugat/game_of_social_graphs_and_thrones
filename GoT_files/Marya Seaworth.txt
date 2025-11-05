@@ -1,0 +1,86 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Seaworth.svg
+| Link  = House Seaworth
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Baratheon
+| Image       = Marya seaworth.jpg
+| Birth       = 
+| Death       = 
+| House       = [[House Seaworth|Seaworth]]
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = [[Davos Seaworth]]
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+|Issue={[[Matthos Seaworth]]<nowiki>}</nowiki>}}
+{{Dialogue a-b-a-b-a|Melisandre|Do you love your wife?|Davos Seaworth|I do.|Yet you have known other women.|Don't talk about my wife.|I'm not. I'm talking about other women. Like me, Ser Davos.|[[Melisandre]] questions [[Davos Seaworth]]|Garden of Bones (episode)}}
+Lady '''Marya Seaworth''' is the estranged wife of Lord [[Davos Seaworth]] and mother of [[Matthos Seaworth]].
+
+==Biography==
+===Background===
+Davos saved up enough money through his smuggling to purchase a small plot of land. He then found a woman, Marya, kind enough to overlook his trade.{{Ref|H&L205}} [[Salladhor Saan]] attended their wedding feast.{{Ref|GOT301}} She gave him a son they named Matthos. Marya and Davos hoped that he would eventually save enough riches so he could quit smuggling.{{Ref|H&L205}}
+
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+When Matthos suggests to his father that he learn to read, Davos is reminded of his wife also wanting to teach him how to read.{{Ref|GOT202}} [[Melisandre]] asks Davos if he loves his wife to which he replies he does. She asserts that he answers that way yet he has known other women and Davos tells her not to talk about his wife anymore. Melisandre says that she is speaking of other women like herself and asserts that Davos wants her.{{Ref|GOT204}}
+
+===[[Game of Thrones: Season 3|''Game of Thrones'': Season 3]]===
+After rescuing Davos, Salladhor Saan advises him to return to Marya so he can comfort her following their son's death, but Davos demands to be taken to [[Dragonstone]] to stop Melisandre. Salladhor agrees but jokes that, after Davos is killed, he will gather his bones so that Marya can wear them around her neck.{{Ref|GOT301}}
+
+==Family==
+{{Seaworth tree}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Marya is the daughter of a common carpenter. She has seven sons with Davos: Dale, Allard, [[Matthos Seaworth|Matthos]], Marc, Devan, Stannis (named after [[Stannis Baratheon|the king]]), and Steffon. 
+
+While Davos goes with Stannis's household to Dragonstone, Marya remains at the family keep in Cape Wrath to raise their two youngest sons. Of Marya's other five sons, only Devan survives the [[Battle of the Blackwater]].
+
+While Davos is imprisoned at the [[White Harbor]], uncertain what fate has in store for him, he writes Marya a letter: ''"I was a better smuggler than a knight, a better knight than a King's Hand, a better King's Hand than a husband. I am so sorry. Marya, I have loved you. Please forgive the wrongs I did you. Should Stannis lose his war, our lands will be lost as well. Take the boys across the narrow sea to [[Braavos]] and teach them to think kindly of me, if you would. Should Stannis gain the [[Iron Throne]], [[House Seaworth]] will survive and Devan will remain at court. He will help you place the other boys with noble lords, where they can serve as pages and squires and win their knighthoods"''. Before leaving the cell, he asks [[Robett Glover]] to send the letter, in case he dies. Robett promises Davos he will.
+
+Marya is described as good-natured, plump woman with sagging breasts and a kindly smile.
+
+==Appearances==
+*{{GOT|The Night Lands}} {{Mentioned}}
+*{{GOT|Garden of Bones}} {{Mentioned}}
+*{{H&L|Robert's Rebellion - Davos Seaworth}} {{Illustrated}}
+*{{GOT|Valar Dohaeris}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Seaworth}}
+
+<!--Categories-->
+{{DEFAULTSORT:Seaworth, Marya}}
+[[Category:Individuals from Histories & Lore]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Ladies]]
+[[Category:Members of House Seaworth|Marya Seaworth]]
+[[Category:Stormlanders]]
+
+<!--Languages-->
+[[de:Marya Seewert]]
+[[fr:Marya Mervault]]
+[[pl:Marya Seaworth]]
+[[ru:Мария Сиворт]]

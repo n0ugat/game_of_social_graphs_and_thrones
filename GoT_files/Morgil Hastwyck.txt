@@ -1,0 +1,64 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = House Hastwyck.svg
+| Link  = House Hastwyck
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Tyrell
+| Image       = Morgil.png
+| Birth       = In the [[Reach]]
+| Death       = In [[King's Landing]]<br>Throat slashed by [[Aemon Targaryen (son of Viserys II)|Aemon Targaryen]] in a [[trial by combat]]
+| House       = [[House Hastwyck|Hastwyck]]
+| Affiliation = 
+| Titles      = [[Knighthood|Ser]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Andals|Andal]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|When Prince Daeron objected to his father's foolish plan to invade Dorne, Aegon incited a lickspittle lord to accuse the queen of adultery with Aemon, making Daeron illegitimate. Prince Aemon defended the queen's honor in trial by combat. But while the lord's claim publicly died with him, no sword can kill a rumor.|[[Varys]]|The Blackfyres}}
+Ser '''Morgil Hastwyck'''{{Con|TWOI&F}} was a [[Knighthood|knight]] of [[House Hastwyck]] during the reign of [[Aegon IV Targaryen]].
+
+==Biography==
+Ser Morgil was incited by King Aegon to slander [[Naerys Targaryen|Queen Naerys]], accusing her of adultery with her brother [[Aemon Targaryen (son of Viserys II)|Aemon the Dragonknight]], a famous knight of the [[Kingsguard]]. Prince Aemon defended the queen's honor by defeating and killing Ser Morgil in a [[trial by combat]].{{Ref|H&L803}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Morgil's story is the same.
+
+==Appearances==
+*{{H&L|The Blackfyres}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+{{DEFAULTSORT:Hastwyck, Morgil}}
+[[Category:Individuals from Histories & Lore]]
+[[Category:Individuals from the Reach]]
+[[Category:Knights]]
+[[Category:Members of House Hastwyck|Morgil Hastwyck]]
+
+<!--Languages-->
+[[ru:Моргил Хаствик]]

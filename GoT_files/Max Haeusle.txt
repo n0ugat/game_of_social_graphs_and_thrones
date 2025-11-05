@@ -1,0 +1,32 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Max Häusle.jpg
+| Birth   = 
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = 3 episodes {{Below|Credits}}
+| First   = "[[The Heirs of the Dragon]]"
+| Last    = 
+}}
+'''Max Haeusle''' is a stuntman.
+
+In ''[[House of the Dragon]]'', he was a stunt performer in the [[House of the Dragon: Season 1|first season]] episodes "[[The Heirs of the Dragon]]", "[[King of the Narrow Sea (episode)|King of the Narrow Sea]]" and "[[The Green Council]]".
+
+==Credits==
+===Stunt performer===
+{{House of the Dragon: Season 1|yes|||yes|||||yes}}
+
+==See also==
+*{{IMDb
+|# = 7027837}}
+*{{Instagram
+|# = stuntmax.austria}}
+*{{YouTube
+|# = channel/UCl6xzrZpb1IJYqi_NxCjaPg}}
+*{{Vimeo
+|# = user1596737}}
+{{DEFAULTSORT:Haeusle, Max}}
+[[Category:Stunt performers of House of the Dragon]]

@@ -1,0 +1,45 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Bran Stark.svg
+| Link  = Bran Stark
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Crownlander
+| Image        = Maidenvault.jpg
+| Type         = Prison
+| Status       = Ruined
+| Location     = [[Red Keep]], [[King's Landing]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = 
+| Places       = 
+| Founded      = by {[[Baelor I Targaryen|Baelor the Blessed]]}
+}}
+{{Quote|The simpering Baelor the Blessed created "the Maidenvault" to imprison his own sisters and save himself from carnal thoughts. Disgusting.|King [[Joffrey Baratheon]]|The Red Keep}}
+The '''Maidenvault'''{{Ref|H&L309}} is a structure within the [[Red Keep]]. It was built under orders of King [[Baelor I Targaryen]] to imprison his sisters [[Daena Targaryen|Daena]], [[Elaena Targaryen|Elaena]], and [[Rhaena Targaryen (daughter of Aegon III)|Rhaena]]. While under [[Incest|Targaryen custom]] Baelor was expected to marry one of his sisters, he had them all locked away in the tower due to his extremely zealous piety, claiming this would keep him safe from carnal temptations.<ref>"[[The Red Keep]]"</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the Maidenvault was so-called because of the three maiden princesses imprisoned there. It is a long, slate-roofed building located behind the royal [[sept]] within the Red Keep. Its entry has two tall carved doors. Due to their imprisonment, the three sisters Daena, Elaena, and Rhaena became popularly known as the "Three Maidens in the Tower".
+
+While his father was still alive, Baelor had actually been made to marry his eldest sister, Daena. While the wedding ceremony was held, the marriage was never consummated, and after his father died Baelor had it officially annulled.
+
+After Baelor's death, the Maidenvault became simply another form of apartments for courtiers in the Red Keep. Lord [[Mace Tyrell]] and his retinue were housed there after the [[Battle of the Blackwater]], and Queen [[Margaery Tyrell]] lived in the Maidenvault with her ladies even after she married Tommen.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Crownlands}}
+
+<!--Categories-->
+[[Category:Prisons]]
+[[Category:Red Keep]]
+
+<!--Languages-->
+[[ru:Девичий склеп]]

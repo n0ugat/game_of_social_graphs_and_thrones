@@ -1,0 +1,42 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Bracken.svg
+| Link  = House Bracken
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Tully
+| Image        = 
+| Type         = Settlement
+| Status       = 
+| Location     = [[Riverlands]]
+| Population   = 
+| Rulers       = [[House Bracken]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Mory'''{{Ref|HOTD205}} is a settlement in the [[Riverlands]], part of the demesne of [[House Bracken]].
+
+==History==
+===[[House of the Dragon: Season 2|''House of the Dragon'': Season 2]]===
+Mory is brutally raided by [[House Blackwood]] after [[Amos Bracken]] refuses to surrender to [[Daemon Targaryen|Daemon]].{{Ref|HOTD205}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, nothing is known of Mory except that Pate of Mory hails from there. It is not specified which house the settlement belongs to.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Riverlands}}
+
+<!--Categories-->
+[[Category:House Bracken]]
+[[Category:Riverlands]]
+[[Category:Settlements]]

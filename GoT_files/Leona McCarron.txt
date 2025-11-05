@@ -1,0 +1,41 @@
+{{Person
+| Title = {{PAGENAME}}
+| Type = Dragon
+| Image = Leona McCarron.jpg
+| Birth   = {{WPS|Belfast}}, {{WPS|Northern Ireland}}, {{WPS|United Kingdom}}
+| Death   = 
+| Role    = Stunt Administrator<br>Stunt Assistant<br>Stunt Department Coordinator
+| Series  = ''[[Game of Thrones]]''<br>''[[House of the Dragon]]''
+| Season  = ''Game of Thrones'':<br>[[Game of Thrones: Season 4|4]] {{*}} [[Game of Thrones: Season 5|5]] {{*}} [[Game of Thrones: Season 6|6]] {{*}} [[Game of Thrones: Season 7|7]] {{*}} [[Game of Thrones: Season 8|8]]<br>''House of the Dragon'':<br>[[House of the Dragon: Season 1|1]] {{*}} [[House of the Dragon: Season 2|2]]
+| Credits = 59 episodes {{Below|Credits}}
+| First   = "[[Two Swords]]"
+| Last    = }}
+'''Leona McCarron''' is a Northern Irish stuntwoman.
+
+In ''[[Game of Thrones]]'', she was a stunt administrator in the [[Game of Thrones: Season 4|fourth season]], a stunt assistant in the [[Game of Thrones: Season 5|fifth season]] and a stunt department coordinator in the [[Game of Thrones: Season 6|sixth]], [[Game of Thrones: Season 7|seventh]] and [[Game of Thrones: Season 8|eighth]] seasons.
+
+In ''[[House of the Dragon]]'', she was a stunt department coordinator in the [[House of the Dragon: Season 1|first season]] episodes "[[The Heirs of the Dragon]]", "[[The Rogue Prince]]", "[[Second of His Name]]", "[[King of the Narrow Sea (episode)|King of the Narrow Sea]]", "[[We Light the Way]]", "[[The Princess and the Queen]]", "[[Driftmark (episode)|Driftmark]]", "[[The Lord of the Tides]]", "[[The Green Council]]" and "[[The Black Queen]]" and the [[House of the Dragon: Season 2|second season]] episodes "[[A Son for a Son]]", "[[Rhaenyra the Cruel]]", "[[The Burning Mill]]", "[[The Red Dragon and the Gold]]", "[[The Red Sowing]]" and "[[The Queen Who Ever Was]]".
+
+==Credits==
+===Stunts===
+====''[[Game of Thrones]]''====
+{{Game of Thrones: Season 4|yes|yes|yes|yes|yes|yes|yes|yes|yes|yes}}
+{{Game of Thrones: Season 5|yes|yes|yes|yes|yes|yes|yes|yes|yes|yes}}
+{{Game of Thrones: Season 6|yes|yes|yes|yes|yes|yes|yes|yes|yes|yes}}
+{{Game of Thrones: Season 7|yes|yes|yes|yes|yes|yes|yes}}
+{{Game of Thrones: Season 8|yes|yes|yes|yes|yes}}
+
+====''[[House of the Dragon]]''====
+{{House of the Dragon: Season 1|yes|yes|yes|yes|yes|yes|yes|yes|yes|yes}}
+{{House of the Dragon: Season 2|yes|yes|yes|yes|||yes|yes}}
+
+==See also==
+*{{IMDb
+|# = 4051820}}
+*{{Twitter
+|# = leonamc26}}
+*{{Facebook
+|# = leona.mccarron}}
+{{DEFAULTSORT:McCarron, Leona}}
+[[Category:Stunt performers of Game of Thrones]]
+[[Category:Stunt performers of House of the Dragon]]

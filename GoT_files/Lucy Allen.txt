@@ -1,0 +1,21 @@
+{{Crew
+|Image = Lucy Allen.jpg
+|dateofbirth = 
+|birthplace = 
+|job = Stunt Performer
+|imdb = https://www.imdb.com/name/nm0020788/
+|twitter = }}'''Lucy Allen''' is a stuntwoman and actress.
+
+In ''[[Game of Thrones]]'', she was a stunt performer in the [[Game of Thrones: Season 4|fourth season]] episode "[[The Lion and the Rose]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 4||yes}}
+
+==See also==
+*{{IMDb
+|# = 0020788}}
+*{{Linkedin
+|# = /in/lucy-allen-lucy-allen-83b94355}}
+{{DEFAULTSORT:Allen, Lucy}}
+[[Category:Stunt performers of Game of Thrones]]

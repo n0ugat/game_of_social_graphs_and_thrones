@@ -1,0 +1,22 @@
+{{Crew
+|Image = Liang Yang.jpg
+|dateofbirth = 
+|birthplace = {{WPS|China}}
+|job = Stunt Performer
+|imdb = https://www.imdb.com/name/nm2403982/
+|twitter = }}
+'''Liang Yang''' is a Chinese stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 4|Season 4]] episode "[[The Mountain and the Viper]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 4||||||||yes}}
+
+==See also==
+*{{IMDb
+|# = 2403982}}
+*{{Instagram
+|# = liangstunts/}}
+{{DEFAULTSORT:Yang, Liang}}
+[[Category:Stunt performers of Game of Thrones]]

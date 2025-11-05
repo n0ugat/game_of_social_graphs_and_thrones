@@ -1,0 +1,33 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Martin Gordon.jpg
+| Birth   = 
+| Death   = 
+| Role    = Stunt performer
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]] {{*}} [[House of the Dragon: Season 2|2]]
+| Credits = 11 episodes {{Below|Credits}}
+| First   = "[[The Heirs of the Dragon]]"
+| Last    = 
+}}
+'''Martin Gordon''' is a stuntman and actor.
+
+In ''[[House of the Dragon]]'', he was a stunt performer in the [[House of the Dragon: Season 1|first season]] episodes "[[The Heirs of the Dragon]]", "[[We Light the Way]]" and "[[Driftmark (episode)|Driftmark]]" and the [[House of the Dragon: Season 2|second season]] episodes "[[A Son for a Son]]", "[[Rhaenyra the Cruel]]", "[[The Burning Mill]]", "[[The Red Dragon and the Gold]]", "[[Regent (episode)|Regent]]", "[[Smallfolk (episode)|Smallfolk]]", "[[The Red Sowing]]" and "[[The Queen Who Ever Was]]".
+
+==Credits==
+===Stunts===
+{{House of the Dragon: Season 1|yes||||yes||yes}}
+{{House of the Dragon: Season 2|yes|yes|yes|yes|yes|yes|yes|yes}}
+
+==See also==
+*{{IMDb
+|# = 7456869}}
+*{{Twitter
+|# = mart1ngordon}}
+*{{YouTube
+|# = channel/UClqzTdxEVyhQ6mJz6jKJ2dQ}}
+*{{Linkedin
+|# = /martin-gordon-4a611aab}}
+{{DEFAULTSORT:Gordon, Martin}}
+[[Category:Stunt performers of House of the Dragon]]

@@ -1,0 +1,31 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Thrones
+| Image   = Image.jpeg
+| Birth   = 
+| Death   = 
+| Role    = Young [[Benjen Stark]]
+| Series  = ''[[Game of Thrones]]''
+| Season  = [[Game of Thrones: Season 6|6]]
+| Credits = 2 episodes {{Below|Credits}}
+| First   = "[[Home]]"
+| Last    = "[[The Door]]"
+}}
+'''Matteo Elezi''' is a British child actor.
+
+In ''[[Game of Thrones]]'', he portrayed a young [[Benjen Stark]] in the [[Game of Thrones: Season 6|sixth season]].<ref>[http://watchersonthewall.com/young-actormatteo-elezi-discusses-casting-game-thrones-season-6/ Young actor Matteo Elezi discusses his casting in Game of Thrones season 6]</ref>
+
+==Credits==
+===Guest starring===
+{{Game of Thrones: Season 6||yes|||yes}}
+
+==See also==
+*{{IMDb
+|# = 5502295}}
+
+==References==
+{{reflist}}
+[[de:Matteo Elezi]]
+[[fr:Matteo Elezi]]
+{{DEFAULTSORT:Elezi, Matteo}}
+[[Category:Guest starring cast members of Game of Thrones]]

@@ -1,0 +1,51 @@
+{{Canonicity|Canon}}
+{{Deity
+| Title    = {{PAGENAME}}
+| Theme    = Westeros
+| Image    = 
+| Type     = Sea god<br>Patron of sailors
+| AKA      = 
+| Religion = [[Faceless Men]]
+| Symbol   = 
+| Family   = 
+| Aspects  = 
+| Avatars  = 
+}}
+{{Quote|Tubī Velario Lentro Ābrāzme Laene iēdrarta mōrqittot, māzīlarē tubirri Elēdrion ziry umīsilza luo dāriot, hannagon Embrurliot gierūlti."<br>"We join today at the Seat of the Sea to commit the Lady Laena of House Velaryon to the eternal waters, the dominion of the Merling King, where He will guard her for all days to come.|[[Vaemond Velaryon]]|Driftmark (episode)}}
+[[File:DM Laena funeral.png|thumb|Lady [[Laena Velaryon|Laena]]'s funeral and her body is returned to the sea to be with the Merling King. ]]
+The '''Merling King'''{{Ref|HOTD107}} is a [[Religion|deity]] associated with the sea. As such, he is popular among sailors.{{Ref|H&L512}} [[House Velaryon]], traditionally a family of sailors and admirals, ceremonially commit their dead to the Merling King by funerals at sea.{{Ref|HOTD107}}
+
+The [[spears of the merling king]], a group of rocky islets and seamounts in [[Blackwater Bay]], are named for him.
+
+The [[Faceless Men]] consider the Merling King an aspect of the [[Many-Faced God]].{{Ref|H&L512}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the Merling King is a local deity mentioned in legends of several lands around the [[Narrow Sea]]. He is one of many deities who has a statue in the [[House of Black and White]], along with gods from all other known religions with dominion over death, and is most commonly visited by sailors. [[File:Driftwood Throne 2.png|thumb|[[Driftwood Throne]] supposedly gifted to [[House Velaryon]] by the Merling King.]]''[[The World of Ice & Fire]]'' mentions that [[House Velaryon]] believes they were granted the [[Driftwood Throne]] by the Merling King to conclude a pact.
+
+The legends of the Merling King might be a cultural/folklore remnant of the ancient religion the [[First Men]] followed when they first came to [[Westeros]], before they converted to follow the religion of the [[Old Gods|old gods]]. Several different ancient kingdoms of the First Men have a pairing between two primary deities, one of the sea and one of the sky and winds:
+*The [[ironborn]], who branched off from the First Men in ancient times, follow the religion of the [[Drowned God]], who is opposed by his enemy the [[Storm God]]. 
+*[[Durran Godsgrief]] was the legendary founder of [[House Durrandon]] (and through the female line, ancestor of [[House Baratheon]]) who built the mighty castle [[Storm's End]]. The tales say that he fell in love with and stole away [[Elenei]] to be his wife, the daughter of the sea god and the goddess of the wind.  
+*Another somewhat isolated enclave of the First Men were the inhabitants of the [[Three Sisters]], small islands on the eastern side of Westeros from the Iron Islands (and like a smaller scale version of the Iron Isles, they are also infamous pirate dens). It is said that in ancient times, the Sistermen believed in a Lady of the Waves and a Lord of the Skies (switching the genders from the figures in the legend of Durran).
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Merling King (god)}}
+
+<!--Navboxes-->
+{{Religions}}
+{{Free Cities}}
+
+<!--Categories-->
+[[Category:Deities]]
+[[Category:Free Cities culture]]
+
+<!--Languages-->
+[[de:Meerlingkönig]]
+[[es:Rey Tritón]]
+[[fr:Roi du Triton]]
+[[nl:Meermankoning]]
+[[pt-br:Rei Bacalhau]]
+[[ru:Король Мерлин]]
+[[zh:人鱼王号]]

@@ -1,0 +1,21 @@
+{{Crew
+|Image = Michael Redmond.jpg
+|dateofbirth = 
+|birthplace = {{WPS|Ireland}}
+|job = Stunt Player
+|imdb = http://www.imdb.com/name/nm6045633}}
+'''Michael Redmond''' is an Irish stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt player in the [[Game of Thrones: Season 1|first season]] episode "[[Lord Snow]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 1|||yes}}
+
+==See also==
+*{{IMDb
+|# = 6045633}}
+*{{Instagram
+|# = mikey_redmond}}
+{{DEFAULTSORT:Redmond, Michael}}
+[[Category:Stunt performers of Game of Thrones]]

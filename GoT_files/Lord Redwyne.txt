@@ -1,0 +1,70 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = House Redwyne.svg
+| Link  = House Redwyne
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Tyrell
+| Image       = Lord Redwyne.png
+| Birth       = 
+| Death       = 
+| House       = [[House Redwyne|Redwyne]]{{Ref|HOTD109}}
+| Affiliation = [[House Tyrell]]<br>[[Greens]]{{Ref|HOTD109}}
+| Titles      = 
+| AKA         = 
+| Culture     = [[Reach]]{{Ref|HOTD109}}
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = 
+| Siblings    = 
+| Arms        = 
+| Series      = ''[[House of the Dragon]]''
+| Season      = [[House of the Dragon: Season 1|1]]
+| Appearances = "[[The Green Council]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Lord Redwyne'''{{Con|F&B}} is the head of [[House Redwyne]] during the reign of [[Aegon II Targaryen]].
+
+==Biography==
+===Background===
+Lord Redwyne's relation to Lady [[Joselyn Redwyne]] is unknown.
+
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+The day after the death of King [[Viserys I Targaryen]], Lord Redwyne kneels before [[Otto Hightower]], swearing allegiance to [[Aegon II Targaryen|Aegon II]].{{Ref|HOTD109}}
+
+==In the books==
+In ''[[Fire & Blood]]'', Lord Redwyne was kin to [[House Hightower/House of the Dragon|House Hightower]] and a friend of Lyonel Hightower, the son of [[Ormund Hightower]].
+
+Lord Redwyne declared for Aegon II at the start of the [[Dance of the Dragons]].
+
+==Appearances==
+*{{HOTD|The Green Council}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}} {{Spoilers|HOTD}}
+
+<!--Navboxes-->
+{{House Redwyne/House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Redwyne}}
+[[Category:Bannermen of House Tyrell]]
+[[Category:Greens]]
+[[Category:Individuals appearing in House of the Dragon]]
+[[Category:Individuals from the Reach]]
+[[Category:Lords]]
+[[Category:Members of House Redwyne]]

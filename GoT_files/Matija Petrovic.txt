@@ -1,0 +1,24 @@
+{{Crew
+|Image = Matija Petrovic.jpg
+|dateofbirth = {{WPS|1992}}
+|birthplace = {{WPS|Zagreb}}, {{WPS|Croatia}}
+|job = Stunt Performer
+|imdb = https://www.imdb.com/name/nm5041246/
+|twitter = }}
+'''Matija Petrovic''' (born 1992) is a Croatian stuntman and horse wrangler.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 2|second season]] episode "[[The Old Gods and the New]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 2||||||yes}}
+
+==See also==
+*{{IMDb
+|# = 5041246}}
+*{{Facebook
+|# = mplipik}}
+*{{Linkedin
+|# = /in/matija-petrović-699611127}}
+{{DEFAULTSORT:Petrovic, Matija}}
+[[Category:Stunt performers of Game of Thrones]]

@@ -1,0 +1,62 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Botley.svg
+| Link  = House Botley
+}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Greyjoy
+| Image        =
+<gallery>
+Lordsport.png|Appearance
+Pyke Pin.png|Location
+</gallery>
+| Type         = Town<br>Port
+| Status       = 
+| Location     = [[Pyke (island)|Pyke]], the [[Iron Islands]]
+| Population   = 
+| Rulers       = [[House Botley]]
+| Institutions = 
+| Military     = 
+| Religion     = [[Drowned God]]
+| Places       = 
+| Founded      = 
+}}
+'''Lordsport'''{{Ref|H&L202}} is a port town on the island of [[Pyke (island)|Pyke]], in the [[Iron Islands]], and the seat of [[House Botley]]. It is the largest town in the Iron Islands, and the main port for Pyke island. This also makes it the main port in service to nearby [[Pyke]] castle, the seat of [[House Greyjoy]].<ref name="S2E02">"[[The Night Lands]]"</ref>
+
+==History==
+===Background===
+Lordsport was burned to the ground during the [[Greyjoy Rebellion]] as a prelude to the [[Siege of Pyke]] castle, but was rebuilt in intervening years.<ref>"[[Greyjoy Rebellion - Theon Greyjoy]]"</ref>
+
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+[[Theon Greyjoy]] arrives to Lordsport aboard the ''[[Myraham]]'', sent by [[Robb Stark]] as an envoy to discuss an alliance with [[Balon Greyjoy]].<ref name="S2E02"/>
+
+After choosing to side with his father in his conquest of the [[North]], Theon returns to Lordsport to meet the crew of the ''[[Sea Bitch]]'' and set sail.<ref>"[[The Ghost of Harrenhal]]"</ref>
+
+==Behind the scenes==
+The on-location scenes in Lordsport were filmed at the coastal town of [[Wikipedia:Ballintoy|Ballintoy]], County Antrim, Northern Ireland.
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Lordsport is ruled for the Greyjoys by House Botley. It is the largest town in the Iron Islands, and the main port for Pyke island.
+
+Lordsport is known for its forges and metalworkers, who produce excellent swords, axes, ringmail, and plate.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Iron Islands}}
+
+<!--Categories-->
+[[Category:Harbors]]
+[[Category:House Botley]]
+[[Category:Pyke]]
+[[Category:Towns]]
+
+<!--Languages-->
+[[de:Herrenhort]]
+[[it:Lordsport]]
+[[ru:Лордспорт]]

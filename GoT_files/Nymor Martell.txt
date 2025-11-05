@@ -1,0 +1,70 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = House Martell.svg
+| Link  = House Martell
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Martell
+| Image       = 
+| Birth       = At [[Sunspear]]
+| Death       = 
+| House       = [[House Martell|Martell]]
+| Affiliation = 
+| Titles      = [[Prince of Dorne]]
+| Predecessor = {[[Meria Martell]]}
+| Successor   = 
+| AKA         = 
+| Culture     = [[Dornishmen|Dornish]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = {[[Meria Martell]]}
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|When Meria died in her sleep, her weak and tired son sued for peace, but old Meria had exhausted Aegon as well, and he granted the request.|[[Varys]]|House Martell, Princes of Dorne}}
+Prince '''Nymor Martell'''{{Con|F&B}} was the [[Prince of Dorne]] after the [[First Dornish War]].
+
+==Biography==
+Following the death of his mother [[Meria Martell]], Nymor became the [[Prince of Dorne]] and sued for peace with King [[Aegon I Targaryen]]. Aegon, who had endured a long conflict with Meria, granted the request.{{Ref|C&R09}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Nymor was already old and weak by the time he ascended to the throne of [[Dorne]]. He sent his daughter and heir, Princess Deria Martell, to lead a delegation to [[King's Landing]] to negotiate a peace with King [[Aegon I Targaryen]]. Nymor gave her a letter to deliver to Aegon, who had intended to refuse the treaty. However, upon reading it, the dragon king clenched it so hard that his hands began to bleed, burned it once he had finished, and flew to [[Dragonstone (island)|Dragonstone]] on [[Balerion]] without a word. He returned the next morning, agreed to the peace, and signed the treaty.
+
+The contents of Nymor's letter were never confirmed and were a topic of much speculation among [[Order of Maesters|maesters]]. Some believe that Nymor wrote that Aegon's sister-wife [[Rhaenys Targaryen (sister of Aegon I)|Rhaenys]] had not died at [[Hellholt]] but was alive, crippled and in great pain, and that her suffering would be ended if Aegon signed the treaty. Another theory is that Nymor threatened to hire a [[Faceless Men|Faceless Man]] to kill Aegon's son and heir Prince [[Aenys Targaryen]] if he did not agree to the peace. Regardless of the reason, the peace lasted for the remainder of Aegon's reign.
+
+==Appearances==
+*{{C&R|House Martell, Princes of Dorne}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Martell}}
+{{Kings of Westeros}}
+
+<!--Categories-->
+{{DEFAULTSORT:Martell, Nymor}}
+[[Category:Dornishmen]]
+[[Category:Individuals from Game of Thrones: Conquest & Rebellion: An Animated History of the Seven Kingdoms]]
+[[Category:Members of House Martell|Nymor Martell]]
+[[Category:Princes of Dorne|Nymor Martell]]
+
+<!--Languages-->
+[[ru:Нимор Мартелл]]

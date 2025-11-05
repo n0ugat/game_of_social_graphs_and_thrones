@@ -1,0 +1,67 @@
+{{Canonicity|Canon}}
+{{BookConjecture}}
+{{Heraldry
+| Image = House Hightower.svg
+| Link  = House Hightower
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Hightower
+| Image       = Manfred Hightower.png
+| Birth       = At the [[Hightower]], in [[Oldtown]]
+| Death       = 
+| House       = [[House Hightower|Hightower]]
+| Affiliation = [[House Gardener]]<br>[[House Tyrell]]
+| Titles      = [[Lord of Oldtown]]<br>[[Beacon of the South]]<br>[[Defender of the Citadel]]<br>[[Voice of Oldtown]]
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Andals|Andal]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|When Aegon the Conqueror was earning his name, House Hightower traded its loyalty to the Gardeners for his confirmation of their rights, welcoming him with open arms and open... gates.|[[Qyburn]]|Oldtown (short)}}
+Lord '''Manfred Hightower'''{{Con|TWOI&F}} was the head of [[House Hightower]] during [[Aegon's Conquest]].
+
+==Biography==
+When [[Aegon I Targaryen]] conquered [[Westeros]], Manfred decided to submit to him and abandon [[House Gardener]] in exchange for confirmation of his rights as [[Lord of Oldtown]]. When Aegon marched on [[Oldtown]], the gates were opened to him. It is generally believed that this was done to spare Oldtown from destruction by his [[dragon]]s.{{Ref|H&L612}}
+
+==In the books==
+In ''The World of Ice & Fire'', Manfred Hightower was a cautious and godly man. The [[High Septon (Aegon's Conquest)|High Septon]] submitted to [[Aegon I Targaryen]] during [[Aegon's Conquest|his conquest]] of [[Westeros]] and Manfred followed his example due to his pious nature. Once Aegon reached [[Oldtown]], Manfred offered his new king his youngest daughter's hand in [[marriage]], but Aegon refused so as not to offend his [[King|queens]] [[Rhaenys Targaryen (sister of Aegon I)|Rhaenys]] and [[Visenya Targaryen|Visenya]]. Manfred died during the [[First Dornish War]] and was succeeded by his son, Ser Addam Hightower.
+
+==Appearances==
+*{{H&L|Oldtown}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|Manfred Hightower (Aegon's Conquest)}}
+
+<!--Navboxes-->
+{{House Hightower}}
+
+<!--Categories-->
+{{DEFAULTSORT:Hightower, Manfred}}
+[[Category:Individuals from Histories & Lore]]
+[[Category:Individuals from the Reach]]
+[[Category:Lords of Oldtown|Manfred Hightower]]
+[[Category:Members of House Hightower|Manfred Hightower]]
+
+<!--Languages-->
+[[ru:Манфред Хайтауэр]]

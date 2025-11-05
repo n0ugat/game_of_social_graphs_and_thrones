@@ -1,0 +1,64 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Mallister.svg
+| Link  = House Mallister
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Tully
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = [[House Mallister|Mallister]]{{Ref|HOTD102}}
+| Affiliation = [[House Tully/House of the Dragon|House Tully]]
+| Titles      = 
+| AKA         = 
+| Culture     = [[Riverlands|Rivermen]]{{Ref|HOTD102}}
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Issue       = [[Rymun Mallister]]{{Ref|HOTD102}}
+| Siblings    = 
+| Arms        = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+Lord '''Lymond Mallister''' was the head of [[House Mallister]] and a vassal of [[House Tully]] during the reign of [[Viserys I Targaryen|Viserys I]].
+
+==Biography==
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+Lymond Mallister's son, Ser [[Rymun Mallister]], is presented before Princess [[Rhaenyra Targaryen]] when [[Lord Commander of the Kingsguard|Lord Commander]] [[Ryam Redwyne]] of the [[Kingsguard/House of the Dragon|Kingsguard]] passes away, and a vacancy becomes available. Ser [[Harrold Westerling]] speaks of Ser Rymun's father when he lists his various accomplishments.{{Ref|HOTD102}}
+
+==In the books==
+In ''[[Fire & Blood]]'', Lymond Mallister is the Lord of Seagard during the early reign of King [[Viserys I Targaryen]]. He is notable for having unhorsed Ser [[Criston Cole]] during the [[Tournament|tourney]] at [[Maidenpool]] to celebrate the king's ascension to the [[Iron Throne]].
+
+==Appearances==
+*{{HOTD|The Rogue Prince}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Mallister/House of the Dragon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Mallister, Lymond}}
+[[Category:Bannermen of House Tully]]
+[[Category:Individuals mentioned in House of the Dragon]]
+[[Category:Lords]]
+[[Category:Members of House Mallister|Lymond Mallister]]
+[[Category:Rivermen]]
+
+<!--Languages-->
+[[es:Lymond Mallister/House of the Dragon]]
+[[ru:Лаймонд Маллистер]]

@@ -1,0 +1,92 @@
+{{Canonicity|Canon}}
+{{Quote|Ydra ji Valyre?<br>(You speak Valyrian?)|[[Kraznys mo Nakloz]] to [[Daenerys Targaryen]]|And Now His Watch Is Ended}}
+Several varieties of '''Low Valyrian''',{{Webref|name=Dothraki |author=David J. Peterson |date=May 6, 2014 |url=https://dothraki.com/2014/05/the-state-of-valyrian/ |title=The State of Valyrian |website=Dothraki |access-date=March 14, 2024 }} or simply '''Valyrian''',{{Ref|GOT304}} are spoken in the regions of [[Essos]] where the old [[Valyrian Freehold]] once dominated before its destruction four hundred years ago, such as the [[Free Cities]] and [[Slaver's Bay]]. The dialects of Low Valyrian in different regions are so diverse that they are well on their way to officially becoming separate [[languages]].
+
+Collectively, "Low Valyrian" (including all variants) is arguably one of the most widespread languages in the [[known world]], rivaling the [[Common Tongue]] of Westeros in geographical spread. Low Valyrian might also be spoken by a larger overall number of people than the Common Tongue, given how densely populated and urbanized the Free Cities and Slaver's Bay are.
+
+==History==
+Without the central influence of the Valyrian empire, the speech of their descendants and former colonies mutated into vernacular speech known as "Low Valyrian", or "Bastard Valyrian". Low Valyrian is not one language, so much as a family of diverse dialects well on their way to becoming separate languages - so much so that even those who speak one might not be able to speak another, and without mutual intelligibility, it could be argued that they have truly become separate languages.
+
+Each of the Nine Free Cities has its own dialect/language of Low Valyrian. These include Braavosi, Lorathi, Lysene, Myrish, Norvoshi, Pentoshi, Qohorik, Tyroshi, and Volantene. [[Slaver's Bay]] also has its own dialect/language of Low Valyrian, making for a total of ten different branches.
+
+Low Valyrian is basically organized into three branches: Northern, Southern, and Ghiscari (which might be termed "Eastern"). There is a linguistic divide between the northern and southern Free Cities: the dividing line is roughly the latitude formed by the no-man's land around [[Chroyane|the Sorrows]] and [[Dagger Lake]] - thus Myr is in the southern group and Pentos is in the northern group.<ref>[http://dothraki.com/dl/sdcomicfest.pdf Dothraki.com], David J. Peterson's blog.</ref> Volantis long dominated the other southern Free Cities, so the four Southern dialects are all fairly similar.
+
+[[Image:LowValyrianMap.png|thumb|400px|A map showing the approximate geographical spread of the major language branches of [[Low Valyrian]].  Orange = northern branch, Red = southern branch, yellow = eastern (Ghiscari) branch.  Neighboring non-Valyrian languages are Dothraki (blue), Lhazareen (brown), and the Common Tongue of Westeros (green).]]
+The Low Valyrian language tree is, generally:
+
+*Northern
+**Braavosi
+**Lorathi
+**Pentoshi
+**Norvoshi
+**Qohorik
+*Southern
+**Volantene
+**Lysene
+**Myrish
+**Tyroshi
+*Ghiscari (all three dialects mutually intelligible)
+**Astapori dialect
+**Yunkish dialect
+**Meereenese dialect
+
+:Note: Very little is known about the "Lands of the Long Summer", the northern end of the old [[Valyrian peninsula]]. The only major city appears to be [[Mantarys]], which is reviled and avoided by both the Free Cities and Slaver's Bay. It probably doesn't belong to the Ghiscari language sub-family of the east. Southern Low Valyrian is probably fairly similar to High Valyrian, given that Lys was a direct colony of Valyria (founded from scratch) and Volantis was its first colony. Given that the northern Valyrian peninsula was Old Valyria's original hinterland, its Low Valyrian might also be fairly similar, and thus part of Southern Low Valyrian. It is also possible, however, that due to its isolation Mantari Low Valyrian is actually in its own, fourth subgroup.
+
+==Ghiscari Low Valyrian==
+
+The Low Valyrian of Slaver's Bay is somewhat influenced by the [[Old Ghiscari]] language of the long-fallen [[Ghiscari Empire]], but owes more of its descent to High Valyrian than the old local languages. The Valyrian of Slaver's Bay as a whole might be called "Ghiscari Low Valyrian" or just "Ghiscari Valyrian". Ghiscari Low Valyrian was probably developing as a local creolization for thousands of years before the fall of Valyria (comparable to how local conquered peoples in the peripheral provinces of the real-life Roman Empire spoke a Vulgate Latin, not "proper" Ciceronian Latin). The fall of Valyria allowed this common variant to develop more freely and come into official use.<ref>[http://www.dothraki.com/2014/01/the-treasure-of-the-wastes/#comment-7423 David J. Peterson's blog], Dothraki.com, February 1st, 2014.</ref>
+
+The three great slaver cities of [[Astapor]], [[Yunkai]], and [[Meereen]] each speak a different dialect of Low Valyrian, but they are mutually intelligible. People in Astapor would call their language "Astapori Valyrian" (or just "Valyrian"), to differentiate it from "Meereenese Valyrian" (comparable to the difference between American English and British English dialects).<ref>[http://www.dothraki.com/2013/03/game-of-thrones-season-3-premiere-event/ David J. Peterson's blog], Dothraki.com, March 19, 2013.</ref>
+
+Astapor and Yunkai were located closer to Valyria, and thus were most strongly affected by Valyria's central influence, but Meereen was located furthest from Valyria, and was thus least affected. Combined with its location, Meereen is also the largest of the three slaver cities, more populous than Astapor and Yunkai put together, and much of this population consisted of slaves brought in from around the world, further contributing to its creolization. The Astapor and Yunkai dialects of Ghisari Low Valyrian are basically spelled and pronounced the same way, and are more "accents" not perceptible to non-native speakers. In contrast, while the Meereenese dialect is ''structurally'' the same "Ghiscari Low Valyrian" language, its pronunciation diverged considerably, so much that even someone who has learned Astapori Valyrian would need some time to adapt to Meereenese Valyrian.
+
+An example of how the Ghiscari Low Valyrian dialects diverged is the word for "Unsullied" in each:
+
+*High Valyrian: Dovaogēdy
+*Astapori Low Valyrian: Dovoghedhy
+*Meereenese Low Valyrian: Thowoá
+
+Structurally, "Thowoá" is essentially the same word as "Dovoghedhy", but the pronunciation is slurred (whatever writing system they make use of might even spell them the same way).<ref>[http://www.dothraki.com/2014/05/valar-javaris/Dothraki.com, May 5, 2014.]</ref>
+
+:David J. Peterson explained that while all three dialects of "Ghiscari Low Valyrian" are the same, mutually intelligible language, there had to be an in-universe reason for why Daenerys still needed Missandei as a translator in the Season 4 premiere, despite the fact that Daenerys has previously been seen to be capable of speaking Astapori Valyrian. Peterson developed the explanation that Astapori Valyrian did not diverge very drastically from High Valyrian or the Low Valyrian of the Free Cities (both of which Daenerys can speak), so she adapted to Astapori Valyrian in a week or two, but Meereenese Valyrian diverged enough from the other dialects that it is taking her time to master it. Meereenese is structurally the same language but is pronounced very differently. Meanwhile, "Yunkai'i Valyrian" is "all but identical" to Astapori Valyrian (as opposed to mid-way between Astapori and Meereenese) so he didn't think it was worth providing examples of its differences. The analogy Peterson used is that the three dialects of Ghiscari Low Valyrian are about as different as certain dialects of English: if Astapori Valyrian is "Southern California English" then Yunkai'i Valyrian is about as different from it as a "New York English" accent: native speakers can tell the difference but those who have learned English/Valyrian as a second language cannot really tell them apart. In contrast, Peterson said, Meereenese Valyrian in this analogy would be the equivalent of Scottish English: pronounced so differently from the other dialects that it is more difficult to immediately recognize what is being said, even if the same word forms are being used (as well as with a greater amount of localized vocabulary).<ref name="Dothraki" />
+
+==Pre-Conquest Targaryens on Dragonstone==
+[[House Targaryen]] survived the Doom of Valyria by fleeing a few years before to [[Dragonstone (island)|Dragonstone]] island off the coast of Westeros. A few other Valyrian families followed them to islands in Blackwater Bay: House Velaryon of Driftmark and House Celtigar of Claw Isle. There they remained in isolation for a full century before Aegon I invaded the mainland. Low Valyrian never touched Dragonstone: while it was evolving in the Free Cities to the east it passed them by, while they continued to carefully instruct their children to speak proper High Valyrian. The Targaryens themselves were upper-class Valyrian aristocrats, as were their few followers, not distant traders who spoke a localized argot, so they spoke High Valyrian as well as any in the city of Valyria itself. They did learn the Common Tongue of the Andals spoken by the neighboring kingdoms that they traded with. After two generations or so High Valyrian may have stopped being a cradle-tongue, but as a major tie to their cultural past they always carefully taught their children to speak proper High Valyrian.<ref name="Dothraki" />
+
+Only one, ''very'' slight difference existed between totally pristine High Valyrian and what was spoken on Dragonstone: due to contact with Common Tongue speakers (and eventually, bilingual instruction in both languages) the pre-Conquest Targaryens on Dragonstone pronounced "j" and "v" as they are pronounced in the Common Tongue. In pristine High Valyrian, "v" is pronounced somewhere betwene "v" and "w" (similar to how "v" was pronounced in real-life Classical Latin). Meanwhile, "j" was pronounced as a combination of "j", "y", and "z" (again, similar to how "j"/"i" in Latin was pronounced somewhat like "y": "jam" would be hard to distinguish from "yam"). Thus "Visenya" was pronounced closer to "''W''isenya" in pristine High Valyrian, but [[Visenya Targaryen]] herself grew up on Dragonstone, so she pronounced it with a "v" sound. This was only a slight accent of otherwise surprisingly well preserved High Valyrian, which only another High Valyrian native speaker would easily be able to detect.<ref name="Dothraki" />
+
+==Behind the scenes==
+*Low Valyrian was designed by [[David J. Peterson]], who constructed all of the fictional languages used on ''Game of Thrones''. Peterson created Low Valyrian by writing out the necessary dialogue in High Valyrian, then applied a series of phonological, semantic and grammatical changes (simulating Ghiscari influence) to create the Slaver's Bay dialect.<ref>[http://whatsnext.blogs.cnn.com/2013/03/29/david-peterson-and-the-languages-of-game-of-thrones/ David Peterson and the languages of 'Game of Thrones'], April 4, 2013</ref>
+*Although "[[Winter Is Coming]]" was partially set in Pentos, none of the characters can be heard conversing in Pentoshi, and no Low Valyrian would be heard until [[Valar Dohaeris]]. Even then, the language of Slaver's Bay is identified only as "Valyrian"<ref>"[[And Now His Watch Is Ended]]"</ref> and the term "Low Valyrian" has not appeared on-screen.
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Low Valyrian is also sometimes known as Bastard Valyrian, by those who dismiss it as a debasement of the original [[High Valyrian]].
+
+[[Daenerys Targaryen]] understands at least a few Low Valyrian languages, because she grew up in the Free Cities, but which variants she knows are not clear. When Daenerys responds to a merchant in Vaes Dothrak speaking in "Valyrian", the variant she replies in makes him think she is from Tyrosh, so she seems to be able to speak Tyroshi. Logically, Daenerys would be most familiar with Braavosi and Pentoshi, because those were the Free Cities that she spent the longest time in. She also briefly stayed at various times in Myr, Qohor, Volantis, and Lys, so she may have some familiarity with those variants as well.
+
+There has been some confusion over whether the different dialects of Low Valyrian are actually new "languages" outright. Even within the books, it is remarked that the Free Cities have not so much nine separate dialects, but nine separate dialects well on their way to being separate languages.
+
+Linguist [[David J. Peterson]], who created the Valyrian languages for the TV series, confirmed that "certainly the languages of the free cities are mutually unintelligible (something like Old French vs. Old Spanish)."<ref>[http://www.dothraki.com/2013/03/game-of-thrones-season-3-premiere-event/#comment-955 David J. Peterson's blog], Dothraki.com, March 19, 2013.</ref>
+
+Meanwhile, Slaver's Bay Low Valyrian is very different from any of the dialects in the Free Cities, due to the influence of the local [[Ghiscari|Old Ghiscari]] language (which died out millennia ago). Each of the three major cities in Slaver's Bay has its own dialect, however all three are still mutually intelligible. When Daenerys arrives at Yunkai she asks [[Missandei]] if they speak Valyrian, and Missandei directly states that they speak "a different dialect than Astapor's, yet close enough to understand." Thus "Slaver's Bay Low Valyrian" is one language, with sub-dialects known as "Astapori Low Valyrian" or "Yunkish Low Valyrian" which are nonetheless only about as different as British English versus American English. Volantene Low Valyrian and Braavosi Low Valyrian are, in contrast, separate "languages" both from each other and from Slaver's Bay Low Valyrian.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|High Valyrian#Bastard Valyrian}}
+*{{WP|Valyrian languages}}
+
+<!--Navboxes-->
+{{Free Cities}}
+
+<!--Categories-->
+[[Category:Free Cities culture]]
+[[Category:Ghiscari culture]]
+[[Category:Languages]]
+[[Category:Valyrian culture]]
+
+<!--Languages-->
+[[pt-br:Baixo Valiriano]]
+[[ru:Низкий валирийский язык]]
+[[vi:Tiếng Valyria Hạ đẳng]]

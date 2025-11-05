@@ -1,0 +1,88 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Thrones
+| Image       = Mycah infobox.jpg
+| Birth       = [[286 AC]]{{Dateref|Mycah}}
+| Death       = [[298 AC]]{{Dateref|Game of Thrones: Season 1}} (aged 12)<br>Near the [[Inn at the Crossroads]], the [[Riverlands]]{{Ref|GOT102}}
+| House       = 
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = Butcher
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 1|1]]
+| Appearances = "[[The Kingsroad]]"
+| First       = 
+| Last        = 
+| DeathEp     = "The Kingsroad"
+| Actor       = [[Rhodri Hosking]]
+}}
+{{dialogue a-b|Eddard Stark|The butcher's boy – you rode him down?|Sandor Clegane|He ran. Not very fast.|[[Sandor Clegane|The Hound]] returns with Mycah's corpse.|The Kingsroad}}
+'''Mycah''' was a butcher's son who befriended [[Arya Stark]].
+
+==Biography==
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+He travels the [[Kingsroad]] with his father as part of King [[Robert Baratheon]]'s retinue.{{Ref|GOT102}}
+
+When he is encountered by [[Joffrey Baratheon]] practicing sword-fighting with [[Arya Stark|Arya]], Joffrey bullies him for 'pretending to be a knight'. Despite his protests that the weapon he was using was only a stick, Joffrey sadistically and slowly slashes his cheek with his sword, prompting Arya to attack him, throwing his sword into the stream. Mycah manages to escape, but later is killed by [[Sandor Clegane|the Hound]] at Joffrey's orders, much to [[Eddard Stark|Ned Stark]]'s disdain. When confronted by Ned about the foul deed, the remorseless Hound dryly says that Mycah didn't run fast enough.{{Ref|GOT102}}
+
+===[[Game of Thrones: Season 3|''Game of Thrones'': Season 3]]===
+The [[Brotherhood Without Banners]] sentences the Hound to [[trial by combat]] for Mycah's murder after Arya accuses him.{{Ref|GOT304}} After defeating [[Beric Dondarrion]], the Hound teases Arya by saying that the Lord of the Light apparently likes him more than Mycah.{{Ref|GOT305}}
+
+When the Hound is about to kill the [[hog farmer]], Arya teases him that he kills little boys, referring to Mycah, and old people.{{Ref|GOT309}}
+
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+Arya teases the Hound that he is fine with murdering little boys (obviously referring to Mycah), but thieving is beneath him.{{Ref|GOT401}}
+
+He is mentioned by the Hound when he is trying to convince Arya to kill him. He says that although Mycah "begged for mercy", he killed him anyway, and that his saddle "smelled like butcher boy for weeks".{{Ref|GOT410}}
+
+==Quotes==
+===Spoken about Mycah===
+{{Dialogue a-b|Varys|I was grievously sorry to hear of your troubles on the [[Kingsroad]]. We are all praying for Prince [[Joffrey Baratheon|Joffrey]]'s full recovery.|Eddard Stark|A shame you didn't say a prayer for the butcher's son.|Varys greeting [[Eddard Stark]].|Lord Snow}}
+{{Dialogue a-b-a-b-a|Arya Stark|He's a liar and a coward and he killed my friend.|Sansa Stark|The Hound killed your friend.|The Hound does whatever the prince tells him to do.|You're an idiot.|You're a liar, and if you told the truth, Mycah would be alive.|[[Arya Stark|Arya]] and [[Sansa Stark|Sansa]] fight.|Lord Snow}}
+{{Dialogue a-b|Sandor Clegane|Looks like their god likes me more than your butcher's boy.|Arya Stark|Burn in hell!|Sandor and Arya after he wins the trial by combat.|Kissed by Fire}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Mycah is thirteen years old. He falls in with King [[Robert Baratheon]]'s party as it returns to [[King's Landing]] from [[Winterfell]] and befriends [[Arya Stark]].
+
+After the Hound defeats [[Beric Dondarrion]], he teases Arya by telling her (without the slightest remorse or regret) "I rode him [Mycah] down and cut him in half, and laughed".
+
+Sansa does not care at all about Mycah's death. On the contrary, on one accasion she teases Arya by telling that Mycah attacked Joffrey (contradicting her previous lies that she didn't remember what happened, because the event occurred too fast). 
+
+According to [[Jeyne Poole]], Mycah has been cut up in so many pieces that his body was brought back to his father in a bag; at first the poor man had thought it was a slaughtered pig.
+
+==Appearances==
+*{{GOT|The Kingsroad}}
+*{{GOT|Lord Snow}} {{Mentioned}}
+*{{GOT|And Now His Watch Is Ended}} {{Mentioned}}
+*{{GOT|Kissed by Fire}} {{Mentioned}}
+*{{GOT|Two Swords}} {{Indirect}}
+*{{GOT|The Children}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Smallfolk]]
+
+<!--Languages-->
+[[de:Mycah]]
+[[ru:Мика]]
+[[zh:米凯]]

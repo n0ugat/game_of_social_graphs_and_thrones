@@ -1,0 +1,39 @@
+{{Canonicity|Canon}}
+{{Deity
+| Title    = {{PAGENAME}}
+| Theme    = Westeros
+| Image    = 
+| Type     = Patron of sailors
+| AKA      = 
+| Religion = [[Faceless Men]]
+| Symbol   = 
+| Family   = 
+| Aspects  = 
+| Avatars  = 
+}}
+{{Quote|For sailors, He is the Moon-Pale Maiden and the Merling King.|[[Jaqen H'ghar]]|The Many-Faced God}}
+The '''Moon-Pale Maiden'''{{Ref|H&L512}} is a [[Religion|deity]] worshiped in [[Essos]]. It is popular among sailors.
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the Moon-Pale Maiden has a statue in the [[House of Black and White]], along with statues of gods from all other known religions with dominion over death, and it is most commonly visited by sailors. It is unknown exactly how popular the cult is or where it is most popular.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Religions}}
+{{Free Cities}}
+
+<!--Categories-->
+[[Category:Deities]]
+[[Category:Free Cities culture]]
+
+<!--Languages-->
+[[de:Mondbleiche Jungfrau]]
+[[es:Doncella Clara de Luna]]
+[[nl:Maanbleke Maagd]]
+[[ru:Луноликая Дева]]
+[[zh:淡月处女]]

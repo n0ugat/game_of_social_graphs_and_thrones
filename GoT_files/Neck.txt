@@ -1,0 +1,76 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Reed.svg
+| Link  = House Reed
+}}
+{{Region
+| Title      = {{PAGENAME}}
+| Theme      = Stark
+| Image      =
+<gallery>
+S04E8 - Moat Cailin - distant view.png|Appearance
+The Neck.png|Location
+</gallery>
+| Type       = Geographic region
+| Location   = Southernmost part of the [[North]] bordering the [[Riverlands]], [[Westeros]]
+| Geography  = Rivers, swamps, bogs, humid
+| Population = [[Crannogmen]]
+| Rulers     = [[House Reed]]
+| Culture    = [[First Men]]<br>Crannogmen<br>[[Andals|Andal]]
+| Religion   = [[Old Gods]]
+| Military   = 
+| Capital    = [[Greywater Watch]]
+| Castles    = [[Moat Cailin]]
+| Cities     = 
+| Towns      = 
+| Villages   = 
+| Places     = [[Kingsroad]]
+| Founded    = 
+}}
+{{Quote|Our land protects its own. An outsider will find in the Neck an endless morass of suckholes, quicksands, and green grass that looks solid to the unwary eye but turns to water the instant you tread it.|[[Meera Reed]]|House Reed (short)}}
+The '''Neck'''{{Ref|GOT108}} is a swamp and marsh-filled region of [[Westeros]], located where the waters of the [[Bite]], an inlet of the [[Shivering Sea]], and [[Blazewater Bay]], an inlet of the [[Sunset Sea]], draw relatively close to one another, making it the narrowest part of the continent. The Neck is the southernmost part of the [[North]], on the border with the [[Riverlands]].
+
+==Climate==
+The swamplands of the Neck are by far the largest in all of Westeros, making it a rather unique biome. It is the only place on the continent inhabited by a species of crocodilians, known as "[[lizard-lion]]s" (apparently so-named because they are reptiles the size of [[lion]]s).
+
+==Geography==
+The northern end of the Neck is a strategic choke point controlled by the formidable, but usually empty, ruined castle of [[Moat Cailin]]. At this point the swamps are so overgrown and flooded to the east and west that large armies can only pass north or south by narrowly following the path of the [[Kingsroad]] (which was built over a more ancient road). Moat Cailin's position completely dominates the path of this only route, making any attempt to invade the North from the southern land route futile.
+
+The [[crannogmen]] have a hostile relationship with the inhabitants of the [[Twins]] to the south. The [[House Frey|Freys]] and their servants call the crannogmen '"frog-eaters" and are disparaging of their martial skills.
+
+==History==
+In ancient times, the Neck was ruled by the [[Marsh King]] of the crannogmen. They submitted to [[House Stark]] when [[Rickard Stark (son of Jon)|Rickard Stark]], King in the North, defeated the Marsh King and took his daughter as wife.
+
+The crannogmen maintained their ancient allegiance to House Stark, even when contact between them and the outside world had faded away to almost nothing. However, several years before [[Robert's Rebellion]], [[Howland Reed]] of [[Greywater Watch]] made the acquaintance of [[Eddard Stark]]. They became fast and loyal friends, and Reed stayed at Eddard's side throughout the war. Howland Reed has since become the head of the house and had two children, [[Meera Reed|Meera]] and [[Jojen Reed|Jojen]].
+
+The Neck presents a formidable tactical obstacle to anyone planning to invade the North and was instrumental in holding off the [[Andals]] during the [[coming of the Andals]] six thousand years ago. However, it was not effective against airborne [[dragon]]s, leading King [[Torrhen Stark]], the last [[King in the North]], to his decision to bend the knee to [[Aegon I Targaryen|Aegon the Conqueror]] during [[Aegon's Conquest]].
+
+==Culture==
+The Neck is inhabited by a unique offshoot of the [[First Men]] known as the [[Crannogmen|crannogmen]], whose culture has adapted to their swampy environment. The other modern [[Northmen|Northerners]] are also descended from the First Men, but their crannogmen cousins are distinct in several ways. The crannogmen are short of stature, and survive by hunting the numerous animals who live in the swamps. They build their villages on floating artificial islands made of wood (known as [[Wikipedia:Crannog|crannogs]]). Like the rest of the North, however, the crannogmen worship the [[Old Gods]].
+
+The rulers of the Neck and its crannogmen are [[House Reed]], staunch vassals of House Stark. The seat of House Reed is Greywater Watch, which controls the interior of the swamps. The Neck is bordered to the south by the parts of the northern Riverlands ruled by House Frey from the Twins - which has led to a longstanding feud between the Reeds and Freys over border disputes.
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the Neck was originally a much more pleasant location, but during [[War of the First Men and the Children of the Forest|the war]] between the [[Children of the Forest]] and the [[First Men]] it became a point of no retreat for the Children. When their formidable fortress of [[Moat Cailin]] looked like it might fall, the Children called upon the same sorcery they had used to shatter the Arm of [[Dorne]] centuries earlier, the "[[Hammer of waters|hammer of the waters]]", to destroy the Neck and split Westeros in half. The sorcery was not effective and they merely flooded the Neck from coast to coast, creating bogs and swamps.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{North}}
+{{House Reed}}
+
+<!--Categories-->
+[[Category:House Reed]]
+[[Category:Neck| ]]
+[[Category:North]]
+[[Category:Regions]]
+
+<!--Languages-->
+[[de:Die Eng]]
+[[pl:Przesmyk]]
+[[ru:Перешеек]]
+[[uk:Перешийок]]

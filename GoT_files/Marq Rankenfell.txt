@@ -1,0 +1,68 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Night's Watch.svg
+| Link  = Night's Watch
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = Marq Rakenfell.png
+| Birth       = 
+| Death       = 
+| House       = [[House Rankenfell|Rankenfell]]
+| Affiliation = [[Night's Watch]]
+| Titles      = [[Lord Commander of the Night's Watch]]
+| Predecessor = 
+| Successor   = 
+| AKA         = Mad Marq
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+{{Quote|Tristan Mudd, Mad Marq Rankenfell, Robin Hill. Each nearly destroyed us with their foolishness.|Ser [[Alliser Thorne]]|The Lord Commanders}}
+'''Marq Rankenfell''', known to history as "'''Mad Marq Rankenfell'''," was a [[Lord Commander of the Night's Watch]].
+
+==Biography==
+At some point, Marq Rankenfell joined the [[Night's Watch]], eventually rising to become its [[Lord Commander of the Night's Watch|Lord Commander]]. Although he is not specifically described as having been terrible as a leader, his nickname would suggest either that at some point he literally went insane or that his commands were deemed by the others of the Night's Watch as nonsensical. His name is listed along with other examples of implied poor quality among past Lord Commanders. His name is mentioned in succession with others, such as [[Robin Hill]] and [[Tristan Mudd]].{{Ref|H&L507}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, his story is the same.
+
+==Appearances==
+*{{H&L|The Lord Commanders}} {{Illustrated}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Night's Watch}}
+
+<!--Categories-->
+{{DEFAULTSORT:Rankenfell, Marq}}
+[[Category:Individuals from Histories & Lore]]
+[[Category:Lords Commander of the Night's Watch]]
+[[Category:Members of House Rankenfell|Marq Rankenfell]]
+[[Category:Westerosi]]
+
+<!--Languages-->
+[[de:Marq Rankenfell]]
+[[es:Marq Rankenfell]]
+[[fr:Marq Rankenfell]]
+[[nl:Marq Ranzenfel]]
+[[ru:Марк Ранкенфелл]]
+[[zh:马柯·蓝肯菲尔]]

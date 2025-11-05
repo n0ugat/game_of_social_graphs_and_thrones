@@ -1,0 +1,34 @@
+{{Canonicity|Canon}}
+{{ConjectureInfo}}
+{{References}}
+{{Settlement
+| Title        = {{PAGENAME}}
+| Theme        = Arryn
+| Image        = 
+| Type         = Castle
+| Status       = 
+| Location     = The [[Vale of Arryn]], [[Westeros]]
+| Population   = 
+| Rulers       = 
+| Institutions = 
+| Military     = 
+| Religion     = [[Faith of the Seven]]
+| Places       = 
+| Founded      = 
+}}
+'''Old Anchor'''{{Ref|C&R07}} is a castle in the [[Vale of Arryn]], the region controlled by [[House Arryn]]. 
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Old Anchor is the seat of House Melcolm in the [[Vale of Arryn]]. It is located east of [[Ironoaks]] where a river flows into the [[Narrow Sea]]. [[Longbow Hall]] is to the north and [[Runestone]] to the south across a bay of the Narrow Sea.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Vale of Arryn}}
+
+<!--Categories-->
+[[Category:Castles of the Vale of Arryn]]

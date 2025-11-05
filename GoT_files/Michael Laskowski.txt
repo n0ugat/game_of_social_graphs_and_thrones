@@ -1,0 +1,30 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Bloodmoon
+| Image   = Michael Laskowski.jpg
+| Birth   = 
+| Death   = 
+| Role    = Wedding guest
+| Series  = ''[[Bloodmoon]]'' {{Rejected}}
+| Season  = 
+| Credits = [[Pilot (Bloodmoon)|Pilot]] {{Unreleased}}
+| First   = 
+| Last    = 
+}}
+'''Michael Laskowski''' is an actor.
+
+He portrayed a wedding guest in the [[Pilot (Bloodmoon)|pilot]] of ''[[Bloodmoon]]''.<ref>[https://redanianintelligence.com/2020/07/21/new-tidbits-about-the-cancelled-game-of-thrones-prequel-leaf/ The cancelled Game of Thrones prequel featured a character from the original show and other new tidbits - Redanian Intelligence]</ref>
+
+==See also==
+*{{IMDb|# = 11260765}}
+*{{Facebook|# = michael.laskowski.376}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+{{DEFAULTSORT:Laskowski, Michael}}
+[[Category:Cast members of the pilot of Bloodmoon]]
+
+<!--Languages-->
+[[de:Michael Laskowski]]

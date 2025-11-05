@@ -1,0 +1,33 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Nicola Wright.jpg
+| Birth   = 1960
+| Death   = 
+| Role    = Ratcatcher woman
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 2|2]]
+| Credits = "[[Rhaenyra the Cruel]]"
+| First   = 
+| Last    = 
+}}
+'''Nicola Wright''' is a British actress.
+
+Wright plays a ratcatcher woman in the [[House of the Dragon: Season 2|second season]] of ''[[House of the Dragon]]''.<ref>https://www.spotlight.com/8014-6754-4094</ref>
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 2||yes}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb|#=0942682}}
+*{{Spotlight|#=8014-6754-4094}}
+*{{Twitter|#=_nkwright}}
+*{{Instagram|#=nk_wright}}
+
+<!--Categories-->
+{{DEFAULTSORT:Wright, Nicola}}
+[[Category:Co-starring cast members of House of the Dragon]]

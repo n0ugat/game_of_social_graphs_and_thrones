@@ -1,0 +1,77 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Arryn
+| Image       = Mord.png
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[House Arryn]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Vale of Arryn|Valemen]]
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 1|1]]
+| Appearances = 2 episodes {{Below|Appearances}}
+| First       = "[[The Wolf and the Lion]]"
+| Last        = "[[A Golden Crown]]"
+| DeathEp     = 
+| Actor       = [[Ciaran Bermingham]]
+}}
+{{Quote|No gold!|Mord to [[Tyrion Lannister|Tyrion]]|A Golden Crown}}
+'''Mord''' is the turnkey at the [[Eyrie]].
+
+==Biography==
+===Background===
+Mord is the gaoler in charge of the Sky Cells in the Eyrie. He is in the service of [[House Arryn]]. He is cruel, [[Halfwit|slow-witted]], and follows the orders of his "betters."{{Ref|GOT106}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+[[File:Tyrion and Mord.jpg|thumb|Mord strikes Tyrion.]]
+[[Tyrion Lannister|Tyrion]] is given into Mord's redoubtable care while a prisoner at the Eyrie.{{Ref|GOT105}}
+
+While Tyrion is held in the Sky Cells, he tries to bargain for his freedom. Mord responds by beating him because he has no money to pay with. With great difficulty, Tyrion manages to bargain with Mord to allow him a fair hearing with [[Lysa Arryn]], under the promise "a Lannister always pays his debts". Tyrion is able to manipulate the situation during his audience with Lysa to demand a [[First trial by combat of Tyrion Lannister|trial by combat]], which is won in his favor by [[Bronn]]. Set free, Tyrion asks for his money-purse back from [[Rodrik Cassel]]. As Tyrion turns to leave, true to his word, he tosses the gold-filled purse to Mord, who looks back in delightful astonishment as Tyrion leaves.{{Ref|GOT106}}
+
+==Behind the scenes==
+Mord was played by guest star [[Ciaran Bermingham]]. Fellow actor [[Peter Dinklage]], who portrays Tyrion, was not wearing padding at the scene where Mord beats him with a truncheon; although it was a prop one, and it left him with bruises.
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Mord is a petty, dimwitted, and cruel man who delights in tormenting prisoners and telling them how they are going to fall out of the cells to their deaths on the rocks, six hundred feet below the castle. He took Tyrion's coat when he first got there and the nights are freezing.
+
+Mord is described as a very unattractive person: he has small dark eyes and rotting brown teeth. The left side of his face is scarred where an axe cut off his ear and part of his cheek. He has a large belly and thick, stubby-fingered hands.
+
+After [[Petyr Baelish|Littlefinger]] kills Lysa and puts the blame on [[Marillion#In the novels|Marillion]], Mord tortures Marillion by plucking his eyes and cutting several of his fingers, till he breaks down and falsely confesses that he killed Lysa. When [[Sansa Stark|Sansa]] looks at Mord, she notices that he has gold teeth.
+
+"Mord" means "murder" in Norwegian, Danish, German, Swedish, and Polish, though it is uncertain if [[George R.R. Martin]] had any knowledge of this when he created the name.
+
+==Appearances==
+*{{GOT|The Wolf and the Lion}}
+*{{GOT|A Golden Crown}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Arryn}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Servants and retainers of House Arryn]]
+[[Category:Smallfolk]]
+[[Category:Valemen]]
+
+<!--Languages-->
+[[de:Mord]]
+[[fr:Mord]]
+[[ru:Морд]]

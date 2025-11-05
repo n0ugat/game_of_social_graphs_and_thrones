@@ -1,0 +1,22 @@
+{{Crew
+|Image = Lubomir Misak.png
+|dateofbirth =  {{WPS|May 3}}, {{WPS|1968}}
+|birthplace = {{WPS|Bratislava}}, {{WPS|Slovakia}}
+|job = Stunt Performer
+|imdb = http://www.imdb.com/name/nm0583984
+|twitter = }}
+'''Lubomir Misaka''' (born May 3, 1968) is a Slovakian stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 1|first season]] episodes "[[The Wolf and the Lion]]", "[[The Pointy End]]" and "[[Fire and Blood]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 1|||||yes|||yes||yes}}
+
+==See also==
+*{{IMDb
+|# = 0592652}}
+*{{YouTube
+|# = channel/UCOVK-rYY0UKp4DeaymqNlvw}}
+{{DEFAULTSORT:Misak, Lubomir}}
+[[Category:Stunt performers of Game of Thrones]]

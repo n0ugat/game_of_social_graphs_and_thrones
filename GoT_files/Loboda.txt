@@ -1,0 +1,88 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Wildling
+| Image       = Loboda Hardhome.PNG
+| Birth       = [[Thenn]], [[beyond the Wall]]
+| Death       = [[302 AC]]{{Dateref|Game of Thrones: Season 5}}<br>[[Hardhome]], beyond the Wall{{Ref|GOT508}}
+| House       = 
+| Affiliation = {[[Mance Rayder]]}<br>[[White Walkers]] {{C|in death}}
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Thenns|Thenn]]
+| Religion    = [[Old Gods]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 5|5]]
+| Appearances = "[[Hardhome (episode)|Hardhome]]"
+| First       = 
+| Last        = 
+| DeathEp     = "Hardhome"
+| Actor       = [[Zahary Baharov]]
+}}
+{{Quote|Keep that new life you want to give us. And keep your glass, King Crow. As soon as you get on his ships, they're gonna slit your throats and dump your bodies to the bottom of the Shivering Sea. That's our enemy. That has always been our enemy.|Loboda to [[Jon Snow]]|Hardhome}} 
+'''Loboda''' was an elder of the [[Thenns]], a fierce tribe of [[Free Folk]].
+
+==Biography==
+===Background===
+Loboda is an elder of the [[Thenns]], a fierce tribe of [[Free Folk]].{{Ref|GOT508}}
+
+Loboda is a fierce and highly skilled warrior, and just like [[Styr]] he also fights wielding a huge axe. Loboda seems to show little sign of fear even when he is confronted by a [[White Walker (Hardhome)|White Walker]], and without hesitation engages the Walker in single combat.{{Ref|GOT508}}
+
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+When [[Lord Commander of the Night's Watch|Lord Commander]] [[Jon Snow]] and [[Tormund]] arrive at [[Hardhome]] to offer the Free Folk to retreat to [[Castle Black]] and settle [[Gift|south]] of the [[Wall]], a meeting of the clan chieftains is held, where Loboda represents the Thenns. Loboda doesn't believe the [[Night's Watch]] cares about what happens to them, despite the Lord Commander's appeals and his offer of [[dragonglass]] as a weapon against the [[White Walkers]], which Loboda dismisses as just as unlikely as the mythical ''"ice spiders as big as hounds"''. [[Karsi]] replies that with everything they have seen none of this is unbelievable. Jon argues [[Mance Rayder]] would have supported his suggestion, so Loboda asks what happened to him. When Snow admits he killed him, Loboda prepares to kill him, only to be stopped by Tormund, who reveals it was a mercy kill. Karsi decides to side with the Lord Commander's plan as long as Tormund vouches for him, but Loboda remains stubborn, claiming that all the Free Folk who get on the Crows' boats will be executed, as they have always been enemies and his ancestors would spit on him if he broke bread with a crow. Loboda abandons the hall, and he is followed by many other chieftains, to the dismay of Jon, Tormund, and Karsi, who exclaims she ''"fucking hate[s] Thenns."''{{Ref|GOT508}}
+
+[[File:Loboda-s5e8.jpg|thumb|Loboda witnesses the Army of the Dead approaching.]]
+While the wildlings who accept Jon's request to return with him are rowed to the boats, an avalanche engulfs thousands of wildlings on the other side of the settlement and a white fog consumes the area, so Loboda quickly orders the gates to be shut, leaving many of the Wildlings to their death by the White Walker army.{{Ref|GOT508}}
+
+[[File:Loboda Stabbed (Hardhome).PNG|thumb|Loboda impaled through the gut by a White Walker.]]
+Loboda defends the gate while killing several [[wight]]s. However the massive army of the dead floods the position, breaches some parts of the palisades and scales the defenses. After seeing the White Walkers overseeing the battle on one of the peaks, Loboda escorts Jon to retrieve the dragon glass inside the burning hut, and when a White Walker appears, he tells Jon to find the dragon glass while he fights the Walker. After failing to strike down the White Walker twice, Loboda is quickly disarmed when his axe is shattered by the Walker's icy spear. The Walker then impales Loboda through the gut, killing him instantly. He is likely among the dead resurrected by the [[Night King]] just as Jon Snow, [[Eddison Tollett]], Tormund, [[Wun Weg Wun Dar Wun|Wun Wun]] and a few other men manage to escape to the boats, though it's possible his body was burned inside the flaming hut.{{Ref|GOT508}}
+
+==Quotes==
+===Spoken by Loboda===
+{{Quote|My ancestors would spit on me if I broke bread with a crow.|Loboda|Hardhome (episode)}}
+{{Quote|Get the glass.|Loboda in his final words to [[Jon Snow]] before trying to fight a White Walker in vain.|Hardhome (episode)}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there is no mention of a character named Loboda or of the presence of any Thenns at Hardhome. However, the show character plays a role similar to an unnamed, seasoned Thenn warrior mentioned in the prologue of ''A Dance with Dragons'', who in the aftermath of [[Mance Rayder]]'s defeat convinces a large group of Thenns to go back to their lands in the far north and are never heard of again. A second group of Thenns follow Styr's son Sigorn to the Wall and submit to the rule of King [[Stannis Baratheon]]. As the son of Styr, Sigorn is the new Magnar of Thenn.
+
+Loboda's threat to pluck Jon's eyes out is a nod to another wildling chieftain from the novels who likes to do this to his enemies and is only known among the [[Night's Watch]] by the nickname of "the Weeper" or "the Weeping Man," because he suffers from epiphora. The Weeper leads 300 warriors against the [[Shadow Tower]] in conjunction with Mance's attack on [[Castle Black]], and while he is also defeated, he lives and manages to regroup his forces, remaining a constant annoyance to the Night's Watch.
+
+Nothing from the TV episode or supplementary materials actually said that Loboda succeeded Styr as the new [[Magnar]] of Thenn: he is apparently just a major chieftain/lieutenant of Styr.
+
+==Gallery==
+<gallery>
+Loboda (Hardhome).PNG|Loboda in Hardhome.
+Loboda1 (Hardhome).PNG|Loboda hearing the screams of the Wildlings.
+</gallery>
+
+==Appearances==
+*{{GOT|Hardhome}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|Weeper}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Mance Rayder's army]]
+[[Category:Thenns]]
+[[Category:Wights]]
+
+<!--Languages-->
+[[de:Loboda]]
+[[es:Loboda]]
+[[fr:Loboda]]
+[[ru:Лобода]]

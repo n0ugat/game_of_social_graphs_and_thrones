@@ -1,0 +1,34 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Bloodmoon
+| Image   = Naomi Ackie.jpg
+| Birth   = November 2, 1992 {{Age|1992|11|2}}<br>Walthamstow, London, England
+| Death   = 
+| Role    = 
+| Series  = ''[[Bloodmoon]]'' {{Rejected}}
+| Season  = 
+| Credits = [[Pilot (Bloodmoon)|Pilot]] {{Unreleased}}
+| First   = 
+| Last    = 
+}}
+'''Naomi Ackie''' (born November 2, 1992) is a British actress. She is best known for her roles as Anna in ''{{WPS|Lady Macbeth (film)|Lady Macbeth}}'' and Jannah in ''{{WPS|Star Wars: The Rise of Skywalker}}''.
+
+She portrayed a character in the [[Pilot (Bloodmoon)|pilot]] of ''[[Bloodmoon]]''.<ref>[https://www.thewrap.com/game-of-thrones-prequel-cast-naomi-ackie-jamie-campbell-bower-toby-regbo/ ‘Game of Thrones’ Prequel Adds 8 to Cast]</ref>
+
+==See also==
+*{{WP}}
+*{{IMDb|# = 7609875}}
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{Bloodmoon}}
+
+<!--Categories-->
+{{DEFAULTSORT:Ackie, Naomi}}
+[[Category:Cast members of the pilot of Bloodmoon]]
+
+<!--Languages-->
+[[de:Naomi Ackie]]
+[[ru:Наоми Эки]]

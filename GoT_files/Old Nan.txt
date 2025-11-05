@@ -1,0 +1,110 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Stark
+| Image       = Vieille Nan.jpg
+| Birth       = At [[Winterfell]]
+| Death       = 
+| House       = 
+| Affiliation = [[House Stark]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Northmen|Northern]]
+| Religion    = [[Old Gods]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 1|1]] {{*}} [[Game of Thrones: Season 6|6]]
+| Appearances = 4 episodes {{Below|Appearances}}
+| First       = "[[Lord Snow]]"
+| Last        = "[[The Door]]" {{Vision}}
+| DeathEp     = 
+| Actor       = [[Margaret John]]<br>[[Annette Tierney]] {{C|younger}}
+}}
+{{Dialogue a-b-a|Old Nan|I know a story about a crow.|Bran Stark|I hate your stories.|I know a story about a boy who hated stories.|Old Nan's storytelling|Lord Snow}}
+'''Old Nan''' was an elderly servant at [[Winterfell]], known for her storytelling.
+
+==Biography==
+===Background===
+Old Nan is an elderly woman living in [[Winterfell]]. She is a retired servant of [[House Stark]] known for her tale-telling abilities. She has entertained the children of [[Eddard Stark|Eddard]] and [[Catelyn Stark|Catelyn]] with stories throughout their childhoods.{{Ref|GOT103}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+After [[Catelyn Stark]] leaves for King's Landing, Old Nan sits by [[Bran Stark]]'s bedside to watch him. She suggests the story of [[Duncan the Tall]] and Bran replies that he hates her stories — he prefers the scary ones. She retorts that he is a ''"sweet summer child"'' who knows nothing about fear, and tells him that fear is for the winter and for the Long Night, a winter season thousand of years ago that lasted a generation, in which those who didn't freeze to death had to face the [[White Walkers]], who ventured south for the first time and swept through Westeros.{{Ref|GOT103}} [[Theon Greyjoy]] interrupts another story and says that he would go mad if he was left alone with Old Nan.{{Ref|GOT104}}
+
+===[[Game of Thrones: Season 6|''Game of Thrones'': Season 6]]===
+[[File:Game-of-thrones-young-hodor.jpg|thumb|Bran sees Old Nan and Hodor in a vision.]]
+She is seen in the vision by [[Bran Stark]], preventing [[Hodor]], named Wylis, from practicing with young [[Benjen Stark]], because Wylis is a stableboy and should not play with the nobles. [[Jon Snow]] and [[Sansa Stark]] later reminisce about the kidney pies Old Nan used to make for them as children.{{Ref|GOT604}}
+
+During Bran's frantic warging during the [[Battle at the cave of the Three-Eyed Raven]], Nan is seen trying to help Wylis, in the throes of the seizure that ultimately robs him of his mind and leaves him unable to say anything except "Hodor".{{Ref|GOT605}}
+
+==Behind the scenes==
+Actress Margaret John, who played Old Nan, passed away only two months before Season 1 began to air, though all of her scenes had already been completed. The character does appear during the second book, however, in the TV series canon the showrunners decided to retire the character out of respect.
+
+==In the books==
+[[File:Roman Papsuev - Old Nan.jpg|thumb|300px|right|Old Nan by Roman "Amok" Papsuev.©]]
+In ''[[A Song of Ice and Fire]]'' novels, Old Nan is the oldest person living at Winterfell. She came to Winterfell to act as wetnurse for a Brandon Stark whose mother had died birthing him. This Brandon Stark is believed to be either the brother of Lord Rickard Stark or a brother of his father. She's retired but tells stories and legends to the Stark children. She lost two sons in [[Robert's Rebellion]] and her grandson during the [[Greyjoy Rebellion]], while her daughters moved away and died. Her only surviving family is her great-grandson, the gentle, slow-witted [[Hodor]].
+
+In the books, Bran recalls that his father [[Eddard Stark]] told him that she is so old that she was called "Old" Nan even before Eddard himself was a child.
+
+In the books, it is Old Nan and not [[Osha]] who interprets the arrival of the [[red comet]] to mean the return of [[dragon]]s.
+
+"Nan" might be short for "[[Nymeria]]". When [[Arya Stark]] is on the run after escaping from [[King's Landing]], one of the aliases she uses is "Nymeria", but she says to call her "Nan" for short.
+
+Among the stories she used to tell the Stark boys are:
+*The last hero - who fought the White Walkers in the [[Long Night]]
+*The [[ice dragon]]
+*[[Harrenhal]] and [[Harren Hoare|Harren the Black]]
+*The [[Night's King]]
+*Symeon Star-Eyes
+*How the [[Children of the Forest]] taught the [[First Men]] to send messages by raven
+*The [[Rat Cook]]
+*The Mad Axe
+*The Thing That Came In The Night
+
+Following the [[Sack of Winterfell]], Old Nan is brought to the [[Dreadfort]]. Her fate is unknown.
+
+==Gallery==
+<gallery>
+Bran and Old Nan 1x02.jpg|Old Nan telling [[Bran Stark]] a story.
+Old_Nan.jpg
+</gallery>
+
+==Appearances==
+*{{GOT|Lord Snow}}
+*{{GOT|Cripples, Bastards, and Broken Things}}
+*{{GOT|What Is Dead May Never Die}} {{Mentioned}}
+*{{H&L|Wargs and the Sight}} {{Illustrated}}
+*{{ATGS|The Lost Lords}} {{Ncm}}
+*{{GOT|Home}} {{Vision}}
+*{{GOT|The Door}} {{Vision}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{House Stark}}
+
+<!--Categories-->
+{{DEFAULTSORT:Nan, Old}}
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Individuals from Histories & Lore]]
+[[Category:Individuals mentioned in Game of Thrones: A Telltale Games Series]]
+[[Category:Northmen]]
+[[Category:Servants and retainers of House Stark]]
+[[Category:Smallfolk]]
+
+<!--Languages-->
+[[de:Alte Nan]]
+[[fr:Vieille Nan]]
+[[pl:Stara Niania]]
+[[ru:Старая Нэн]]
+[[zh:老奶妈]]

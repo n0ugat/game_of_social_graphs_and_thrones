@@ -1,0 +1,38 @@
+{{DISPLAYTITLE:''Nekesse Valyrio''}}
+{{Canonicity|Canon}}
+[[File:Nekesse Valyrio.jpg|thumb|350px|right|A letter written in ''nekesse Valyrio''.]]
+'''''Nekesse Valyrio'''''{{Webref|name=Wiki |author=Juelos |date=May 28, 2023 |url=https://wiki.languageinvention.com/index.php?title=Nekesse_Valyrio |title=Nekesse Valyrio |website=The Languages of David J. Peterson |access-date=April 1, 2024 }}{{Note|[[Common Tongue]]: Valyrian glyphs}} is the written form of the [[High Valyrian]] language.
+
+==Glyphs==
+''Nekesse Valyrio'' combines iconic, paradigmatic, and alphabetic elements, which are often used simultaneously.{{Webref|name=DJP |author=David J. Peterson |date=March 20, 2023 |url=https://dedalvs.tumblr.com/post/712335641919225856/the-high-valyrian-writing-system |title=The High Valyrian Writing System |website=Tumblr |access-date=December 16, 2023 }}
+
+*Iconic glyphs usually represent whole words, but can be augmented to form different words or inflections of the same word.<ref name="DJP" />
+*Paradigmatic glyphs generally have other functions, but are used in specific verbal and nominal paradigms to indicate inflections.<ref name="DJP" />
+*Alphabetic glyphs are used purely for their phonetic value. They can indicate single consonants, long vowels, or sequences of sounds.<ref name="DJP" />
+
+To write the phrase ''valar morghūlis'' (all men must die) in the Valyrian script, the iconic glyphs for ''vala'' (man) and ''morghon'' (death) must be used. These are {{HV|Man}} and {{HV|Death}}. For ''vala'' to become ''valar'' (all men), the iconic glyph for ''kāro'' (pile), that is {{HV|Pile}}, can be appended as a paradigmatic glyph to indicate the collective number. For ''morghon'' to become ''morghūlis'' (must die), the iconic glyph for ''ūly'' (hook) {{HV|Hook}} can be used as an alphabetic glyph to simulate the sequence ''-ūli'', the iconic glyph for ''jagon'' (to go) {{HV|Go}} can be used as a paradigmatic glyph to indicate the aorist tense, and finally the alphabetic glyph for ''z'' {{HV|Z}} can be used for third person agreement. This is the end result: {{HV|:}}{{HV|Man}}{{HV|Pile}}{{HV|*}}{{HV|Death}}{{HV|Hook}}{{HV|Go}}{{HV|Z}}{{HV|:}}
+
+==Punctuation==
+Double dots ({{HV|:}}) are always used to separate sentences, whether they are statements, questions, or exclamations. Single dots ({{HV|*}}) separate words rather than sentences.<ref name="DJP" /> Strikes ({{HV|\}} and {{HV|/}}) can be used in place of quotation marks, parentheses, or italics.<ref>''[[Shrubbery, Being a History on the Flora of the Valyrian Freehold]]''</ref>
+
+==Behind the scenes==
+[[File:Talisaletter.jpg|thumb|200px|right|Written High Valyrian in ''Game of Thrones''.]]
+''Nekesse Valyrio'' was created by linguist [[David J. Peterson]] for ''[[House of the Dragon]]''. Although he wished to create a Valyrian script for ''House of the Dragon''<nowiki>'</nowiki>s predecessor ''[[Game of Thrones]]'', he was never allowed to do so, and as such all written Valyrian in that series are in the Latin script. As of 2023, there are over 400 glyphs in the High Valyrian writing system.<ref name="DJP" />
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, there are mentions of the Valyrian languages being written in a hieroglyphic script, though [[George R.R. Martin]] never actually created one.
+
+There are Valyrian glyphs inscribed on Dragonbinder, a dragon horn from Valyria. When the horn is sounded, the glyphs shimmer with white fire.{{Bookref|AFFC|19}} There are also glyphs on [[Euron Greyjoy]]'s [[Valyrian steel]] armor.{{Bookref|TWOW|The Forsaken}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|High Valyrian#Language}}
+
+<!--Categories-->
+[[Category:Languages]]
+[[Category:Valyrian culture]]

@@ -1,0 +1,60 @@
+{{DISPLAYTITLE:Little bird {{C|The Mountain and the Viper}}}}
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Character
+| Title       = Little bird
+| Type        = Targaryen
+| Image       = Little bird.jpg
+| Birth       = In [[Meereen]]
+| Death       = 
+| House       = 
+| Affiliation = {[[Varys]]}
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Ghiscari]] {{C|[[Meereen]]ese}}
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 4|4]]
+| Appearances = "[[The Mountain and the Viper]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Samuel Paul Small]]
+}}
+{{Quote|Ser Barristan.|Little bird|The Mountain and the Viper}}
+A "'''little bird'''" is part of [[Varys]]'s intercontinental network of informants and spies, whom he refers to as "[[little birds]]".
+
+==Biography==
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+He delivers a message to [[Knighthood|Ser]] [[Barristan Selmy]], who discovers it to be a royal pardon addressed to Ser [[Jorah Mormont]] and signed by King [[Robert Baratheon]]. This leads him to the realization that Jorah has been reporting [[Daenerys Targaryen]]'s actions to Varys. When confronted with this revelation, Jorah asks Barristan who brought him the pardon but Barristan doesn't tell him.{{Ref|GOT408}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Varys is known for employing orphans and urchins as his "little birds". However, Jorah's treachery is revealed in a different manner. After saving Daenerys from the [[manticore]], Barristan comes into her service as Arstan Whitebeard in order to observe her and make sure that she has not inherited [[Aerys II Targaryen|her father]]'s [[Targaryen madness|madness]]. After saving Daenerys from [[Mero]], Jorah recognizes him and reveals his true identity. In return, Barristan reveals Jorah's treachery, which he knew about from attending meetings of the [[Small Council]].
+
+In the TV series, Barristan explains to Jorah in "[[Kissed by Fire]]" that Robert never trusted him to do anything more than protect him, hence Barristan was barred from [[Small Council]] meetings, though the Lord Commander is usually the Small Council's military attaché. Hence, he had no knowledge of Jorah's treachery prior to reading the message from the little bird.
+
+==Appearances==
+*{{GOT|The Mountain and the Viper}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Little birds}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Little birds|Mountain and the Viper]]
+[[Category:Meereenese]]
+[[Category:Smallfolk]]
+
+<!--Languages-->
+[[ru:Пташка (Гора и Змей)]]

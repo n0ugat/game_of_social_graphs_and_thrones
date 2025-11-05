@@ -1,0 +1,62 @@
+{{Canonicity|Non}}
+{{Heraldry
+| Leftimage  = House Belmore.svg
+| Leftlink   = House Belmore
+| Rightimage = House Royce.svg
+| Rightlink  = House Royce
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Royce
+| Image       = House Royce lineage.jpeg
+| Birth       = Mavis Belmore<br>At [[Strongsong]]
+| Death       = 
+| House       = [[House Belmore|Belmore]]<br>[[House Royce|Royce]] {{C|by marriage}}
+| Affiliation = 
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Vale of Arryn|Valemen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = {[[Maynard Royce]]}
+| Lovers      = 
+| Issue       = {[[Andar Royce]]}<br>{[[Paxter Royce]]}<br>{[[Junia Royce]]}<br>[[Serena Royce]]
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Mavis Royce''', née '''Belmore''', was a member of [[House Belmore]] and the wife of [[Maynard Royce]], the [[Lord of Runestone]]. She is the grandmother of [[Yohn Royce]].
+
+==Biography==
+Mavis Belmore married [[Maynard Royce]] and bore him two sons: [[Andar Royce|Andar]] and [[Paxter Royce|Paxter]], and two daughters: [[Junia Royce|Junia]] and [[Serena Royce|Serena]].<ref name = "s1prop">''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]'' prop from Season 1</ref>
+
+==Behind the scenes==
+Mavis Royce is mentioned in the section on House Royce in the Season 1 prop for ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]''. The section on House Royce never appears on-screen in the TV series, as its planned appearance, where [[Eddard Stark]] would have read from it, was cut.
+
+==In the books==
+Mavis Royce is referenced only in the TV adaptation of ''[[A Song of Ice and Fire]]'' and has no corresponding counterpart in the books.
+
+==References==
+{{Reflist}}
+
+<!--Navboxes-->
+{{House Royce}}
+
+<!--Categories-->
+{{DEFAULTSORT:Royce, Mavis}}
+[[Category:Individuals from Game of Thrones]]
+[[Category:Ladies]]
+[[Category:Members of House Belmore|Mavis Royce]]
+[[Category:Members of House Royce|Mavis Royce]]
+[[Category:Valemen]]
+
+<!--Languages-->
+[[ru:Мавис Ройс]]

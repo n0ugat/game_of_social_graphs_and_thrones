@@ -1,0 +1,71 @@
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Bolton
+| Image       = 
+| Birth       = In the [[North]]
+| Death       = 
+| House       = 
+| Affiliation = [[House Bolton]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Northmen|Northern]]
+| Religion    = [[Old Gods]]
+| Father      = 
+| Mother      = 
+| Spouse      = {Miller}
+| Lovers      = 
+| Children    = {[[Ramsay Bolton]]}
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+|Issue={[[Ramsay Bolton]]<nowiki>}</nowiki>}}
+{{Quote|She was a peasant girl. Pretty in a common sort of way. She was the miller's wife. Apparently they had married without my knowledge or consent. So I had him hanged and I took her beneath the tree where he was swaying. She fought me the whole time. She was lucky I didn't hang her, too. A year later she came to my gates with a squalling baby in her arms. A baby she claimed was mine. I nearly had her whipped and the child thrown in the river. But then I looked at you and I saw then what I see now. You are my son.|[[Roose Bolton]] to [[Ramsay Bolton]]|Kill the Boy}}
+The '''miller's wife''' was the mother of [[Ramsay Bolton]].
+
+==Biography==
+===Background===
+She was a [[Smallfolk|peasant]] woman [[Marriage|married]] to an old miller. The miller did not obtain permission to marry again from his [[Lordship|lord]], [[Roose Bolton]], so Roose rode out to the mill and hanged her husband off the branch of a nearby tree and violently raped her underneath her husband's swaying corpse. She became pregnant and gave birth to a son she named [[Ramsay Bolton|Ramsay]]. She arrived at the gates of the [[Dreadfort]] with Ramsay wanting Roose to acknowledge him which he did upon noticing Ramsay's resemblance to himself after initially planning on whipping her and throwing the baby into the [[Weeping Water]]. She later died{{Ref|GOT505}} and Roose has her son [[Legitimization|legitimized]] by [[King of the Andals and the Rhoynar and the First Men|King]] [[Tommen Baratheon]].{{Ref|GOT408}}
+
+===[[Game of Thrones: Season 3|''Game of Thrones'': Season 3]]===
+Ramsay tells [[Theon Greyjoy|Theon]] that his mother always told him "not to throw stones at cripples", implying she was a kind person who tried her best to teach him right from wrong, though it was to no avail after he was raised by his father.{{Ref|GOT310}}
+
+===[[Game of Thrones: Season 5|''Game of Thrones'': Season 5]]===
+Roose recounts to Ramsay his origins when Ramsay becomes upset over his stepmother [[Walda Bolton|Fat Walda Frey]]'s pregnancy. Though Ramsay appears not to care at first, he is visibly saddened to hear that he is the product of a violent rape and that Roose nearly killed both him and his mother when he was a baby.{{Ref|GOT505}}
+
+==Family==
+{{Bolton tree}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Ramsay's mother is still alive, though she has not appeared.
+
+Roose describes Ramsay's mother as ''"a girl not half [the old miller]'s age. She was a tall, willowy creature, very healthy-looking. Long legs and small firm breasts, like two ripe plums."'' Roose recounts that he saw her washing clothes in the [[Weeping Water]] while he was out fox hunting and that the moment that he set eyes on her he wanted her, believing such was his due under the custom of the first night, allowing a lord to bed a common man's wife on their wedding night (although that custom was officially outlawed by [[Jaehaerys I Targaryen|King Jaehaerys]], Roose claims that numerous northern lords, including himself, still practice it discreetly).{{Bookref|ADWD|32}} [[Robett Glover]] says about Ramsay's origins, "''The evil is in his blood. He is a bastard born of rape''."{{Bookref|ADWD|29}} Roose admits to [[Catelyn Stark|Catelyn]] that Ramsay's "''blood is tainted, that cannot be denied''."{{Bookref|ASOS|49}}
+
+Ramsay has a different version of the story: he claims that Roose met his mother whilst out riding and were smitten by her beauty. Ramsay tells this to [[Theon Greyjoy|Theon]], who later repeats the story to Roose. Roose laughs to hear that ''"Smitten? Did he use that word? Why, the boy has a singer's soul... though if you believe that song, you may well be dimmer than the first Reek. Even the riding part is wrong"''. Roose then tells Theon the real story, commenting that the wench was hardly worth the rope Roose used to hang her husband.{{Bookref|ADWD|32}}
+
+She raised Ramsay at the mill. A year later, she arrived at the [[Dreadfort]] with the infant Ramsay because her husband's brother had realized who the child's father was, beat and thrown her out; angered by this, Roose gave the mill to her and had the brother-in-law's tongue cut out so he couldn't inform [[Rickard Stark]] of Roose's misdeeds. She often found Ramsay too difficult to manage and repeatedly asked Roose to help her. Each year Roose sent her some piglets and chickens and a bag of stars, on the understanding that she was never to tell the boy who had fathered him, but she disobeyed. Roose laments that Ramsay should have been content to grind corn, but his mother made Ramsay what he is by always "''whispering in his ear about his rights''." Ramsay only moves into the Dreadfort upon the sudden death of Roose's trueborn son and heir, [[Domeric Bolton|Domeric]], whom Roose suspects was killed by Ramsay.{{Bookref|ADWD|32}}
+
+==Appearances==
+*{{GOT|Mhysa}} {{Mentioned}}
+*{{GOT|Kill the Boy}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+<!--Categories-->
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Northmen]]
+[[Category:Servants and retainers of House Bolton]]
+[[Category:Smallfolk]]
+
+<!--Languages-->
+[[pt-br:Esposa do moleiro desconhecida]]
+[[ru:Жена мельника]]

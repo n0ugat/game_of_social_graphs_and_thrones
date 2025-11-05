@@ -1,0 +1,59 @@
+{{DISPLAYTITLE:Little bird {{C|You Win or You Die}}}}
+{{Canonicity|Canon}}
+{{PureConjecture}}
+{{Character
+| Title       = Little bird
+| Type        = Targaryen
+| Image       = Little Bird.jpg
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = {[[Varys]]}
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 1|1]]
+| Appearances = "[[You Win or You Die]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = [[Tristan Mercieca]]
+}}
+{{Quote|The Spider sends his greetings, and his congratulations.|The "little bird" to [[Jorah Mormont]]|You Win or You Die}}
+This "'''little bird'''" is part of [[Varys]]'s intercontinental network of informants and spies, whom he refers to as "[[little birds]]".
+
+==Biography==
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+He delivers a royal pardon to [[Jorah Mormont]] in the markets of [[Vaes Dothrak]]. Jorah realizes that the timing is suspicious and quickly returns to the side of [[Daenerys Targaryen]].{{Ref|GOT107}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, this character does not appear but Jorah does leave Daenerys in the markets outside [[Vaes Dothrak]] enigmatically citing personal business before reappearing. Varys is known for employing orphans and urchins as his "little birds".
+
+==Appearances==
+*{{GOT|You Win or You Die}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF|Little birds}}
+
+<!--Categories-->
+[[Category:Essosi]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Little birds|You Win or You Die]]
+[[Category:Smallfolk]]
+
+<!--Languages-->
+[[de:Kleiner Vogel (Gewinn oder stirb)]]
+[[ru:Пташка (Победа или смерть)]]

@@ -1,0 +1,86 @@
+{{Canonicity|Canon}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = LommyS2.jpg
+| Birth       = [[King's Landing]], the [[Crownlands]]{{Con|AWOIAF}}
+| Death       = [[299 AC]]{{Dateref|Game of Thrones: Season 2}}<br>The [[Riverlands]]{{Ref|GOT203}}
+| House       = 
+| Affiliation = [[Night's Watch]] {{C|recruit}}
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = Lommy Greenhands
+| Culture     = [[Andals|Andal]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 1|1]] {{*}} [[Game of Thrones: Season 2|2]]
+| Appearances = 4 episodes {{Below|Appearances}}
+| First       = "[[Fire and Blood]]"
+| Last        = "[[What Is Dead May Never Die]]"
+| DeathEp     = "What Is Dead May Never Die"
+| Actor       = [[Eros Vlahos]]
+}}
+{{Quote|If they come back, I say we yield. Gendry's the one they want. Don't want to get caught in the middle of a battle.|Lommy Greenhands|The Night Lands}}
+'''Lommy''', called '''Lommy Greenhands''', was an orphan from [[King's Landing]] who joined the [[Night's Watch]] and became a companion to [[Arya Stark]].
+
+==Biography==
+===Background===
+Lommy is an orphan living in [[King's Landing]]. He was formerly apprenticed to a dyer before being arrested for thieving.{{Cite}}
+
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+[[Hot Pie]] and Lommy bully [[Arya Stark|Arya]] when she joins their group. They demand she give up her sword, [[Needle]]. Hot Pie claims that he killed a boy once by kicking him to death, Lommy is quick to back him up. Arya refuses and threatens to kill Hot Pie. Both boys flee after being confronted by [[Gendry Baratheon|Gendry]].{{Ref|GOT110}}
+
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+Lommy is traveling north on the [[Kingsroad]] with [[Yoren]]'s recruits.{{Ref|GOT201}} [[City Watch of King's Landing|Gold Cloaks]] from King's Landing come upon them looking for Gendry. Yoren intimidates them into leaving but they promise to return with more men. Later, Lommy says that they should yield if the gold cloaks return, not wanting to be caught in a battle. Hot Pie claims that he is unafraid of battle and Arya questions his courage. Hot Pie claims to have seen lots of battles, Lommy refutes the assertion, as does Arya, and Hot Pie wonders what a dyer's apprentice would know about battle. As Gendry returns to refill the pail, Arya tells Hot Pie that Gendry is an armorer's apprentice. She instructs Hot Pie to relay his definition of a battle to Gendry. Hot Pie does so, and Gendry asks who told Hot Pie that. Hot Pie claims that he heard it from a knight. Gendry asks how Hot Pie knew he was a knight and Hot Pie again cites armor as deciding the issue. Gendry explains that anyone can buy armor. Hot Pie asks how Gendry knows and Gendry reminds him that he sold armor.{{Ref|GOT202}}
+
+[[File:Lommy Greenhands Death.jpg|thumb|180x180px|Lommy is killed by Polliver.]]
+The group is sleeping in a barn when they are roused to arms by Yoren and told they are being attacked. Lommy grabs Gendry's bull's head helmet and runs outside. The group is [[Fight at the holdfast|attacked]] by [[House Lannister|Lannister]] guardsmen, and Lommy's leg is wounded by a bolt from a crossbow. He points out to [[Polliver]] that he cannot walk and someone must carry him; the Lannister man-at-arms offers his hand to Lommy and pulls him into the point of Needle, which he had taken from Arya, driving the sword into the boy's throat. When [[Amory Lorch]] demands the survivors point out Gendry, Arya tells him that Lommy was Gendry and the bull's head helmet lying next to his lifeless body is proof.{{Ref|GOT203}}
+
+===[[Game of Thrones: Season 4|''Game of Thrones'': Season 4]]===
+Two years later, Arya sees Polliver at a tavern. She explains to [[Sandor Clegane|the Hound]] who Polliver was and that he had killed Lommy, to which the Hound responds in deadpan bemusement, "What the fuck's a Lommy?". Determined to pay Polliver back for Lommy's death, Arya cripples him while reciting the exact words he said to Lommy before killing him; then she stabs him through the neck with Needle, thus avenging Lommy.{{Ref|GOT401}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Lommy is a young recruit for the [[Night's Watch]] that [[Yoren]] meets in King's Landing. His forearms are dyed green from constant work. He does not appear until the second novel, ''A Clash of Kings''. He survives the initial confrontation between the Night's Watch recruits and Ser Amory Lorch's men, escaping with Gendry, Arya and Hot Pie, though with his leg injured. He travels with them until they are captured by Ser Gregor Clegane's men. Lommy yields but is killed in the same way by Raff the Sweetling.
+
+Eventually Arya encounters Raff and avenges Lommy's death, but it happens at [[Braavos]], much later than the scene where she kills [[Polliver]] in the show.{{Bookref|TWOW|Mercy}}
+
+==Gallery==
+<gallery>
+lommy.png|Lommy in "[[Fire and Blood]]".
+Arya-stark-maisie-williams-helen-sloan.jpeg|Lommy sleeps alongside Hot Pie "[[What Is Dead May Never Die]]".
+</gallery>
+
+==Appearances==
+*{{GOT|Fire and Blood}}
+*{{GOT|The North Remembers}}
+*{{GOT|The Night Lands}}
+*{{GOT|What Is Dead May Never Die}}
+*{{GOT|Two Swords}} {{Mentioned}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+[[Category:Crownlanders]]
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Recruits of the Night's Watch]]
+[[Category:Smallfolk]]
+
+<!--Languages-->
+[[de:Lommy Grünhand]]
+[[fr:Lommy]]
+[[ru:Ломми]]
+[[zh:“绿手”罗米]]

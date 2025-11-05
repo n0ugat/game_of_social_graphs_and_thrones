@@ -1,0 +1,66 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = Night's Watch.svg
+| Link  = Night's Watch
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Watch
+| Image       = 
+| Birth       = 
+| Death       = 
+| House       = 
+| Affiliation = [[Night's Watch]]
+| Titles      = 
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = 
+| Religion    = 
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = ''[[Game of Thrones]]''
+| Season      = [[Game of Thrones: Season 1|1]]
+| Appearances = "[[You Win or You Die]]"
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = Unidentified
+}}
+{{Quote|Matthar, to the Rangers.|[[Lord Commander of the Night's Watch|Lord Commander]] [[Jeor Mormont]]|You Win or You Die}}
+'''Matthar''' is a newly made [[Ranger]] of the [[Night's Watch]], of the same group of recruits as [[Jon Snow]].
+
+==Biography==
+===[[Game of Thrones: Season 1|''Game of Thrones'': Season 1]]===
+Matthar is present during the speech [[Lord Commander of the Night's Watch|Lord Commander]] [[Jeor Mormont]] gave to the "graduating" recruits. Matthar is assigned to the Rangers.{{Ref|GOT107}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Matthar is also called Matt. Similarly to the show, he is assigned to the Rangers. 
+
+Like [[Grenn]] and [[Pypar|Pyp]], Matthar becomes friends with Jon. He is one of the friends who stop Jon from abandoning the Watch.
+
+According to the appendices of the novels, Matthar is stationed at Castle Black.
+
+==Appearances==
+*{{GOT|You Win or You Die}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{Night's Watch}}
+
+<!--Categories-->
+[[Category:Individuals appearing in Game of Thrones]]
+[[Category:Rangers of the Night's Watch]]
+[[Category:Smallfolk]]
+
+<!--Languages-->
+[[ru:Маттар]]

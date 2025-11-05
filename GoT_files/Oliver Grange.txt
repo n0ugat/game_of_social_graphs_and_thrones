@@ -1,0 +1,31 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Dragon
+| Image   = Oliver Grange.jpg
+| Birth   = 
+| Death   = 
+| Role    = [[Jon]]
+| Series  = ''[[House of the Dragon]]''
+| Season  = [[House of the Dragon: Season 1|1]]
+| Credits = "[[The Green Council]]"
+| First   = 
+| Last    = 
+}}
+'''Oliver Grange''' is a British child actor and model.
+
+In ''[[House of the Dragon]]'', he portrayed [[Jon]] in the [[House of the Dragon: Season 1|first season]].
+
+==Credits==
+===Co-starring===
+{{House of the Dragon: Season 1|||||||||yes}}
+
+==See also==
+*{{IMDb|# = 13887953}}
+*{{Instagram|# = olivergrange21}}
+
+<!--Categories-->
+{{DEFAULTSORT:Grange, Oliver}}
+[[Category:Co-starring cast members of House of the Dragon]]
+
+<!--InterWiki-Links-->
+[[fr:Oliver Grange]]

@@ -1,0 +1,58 @@
+{{Canonicity|Canon}}
+{{Heraldry
+| Image = House Serrett.svg
+| Link  = House Serrett
+}}
+{{Character
+| Title       = {{PAGENAME}}
+| Type        = Lannister
+| Image       = 
+| Birth       = [[Silverhill]]
+| Death       = 
+| House       = [[House Serrett|Serrett]]
+| Affiliation = [[House Lannister]]
+| Titles      = Lord of Silverhill
+| Predecessor = 
+| Successor   = 
+| AKA         = 
+| Culture     = [[Westerlands|Westermen]]
+| Religion    = [[Faith of the Seven]]
+| Father      = 
+| Mother      = 
+| Spouse      = 
+| Lovers      = 
+| Children    = 
+| Siblings    = 
+| Series      = 
+| Season      = 
+| Appearances = 
+| First       = 
+| Last        = 
+| DeathEp     = 
+| Actor       = 
+}}
+'''Lord Serrett''' is the head of [[House Serrett]] and a bannerman of [[House Lannister]].
+
+==Biography==
+===[[Game of Thrones: Season 2|''Game of Thrones'': Season 2]]===
+Lord Serrett is mentioned in a letter regarding troop movements sent to [[Tywin Lannister|Tywin]] at [[Harrenhal]].{{Ref|GOT206}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Lord Serrett participates in the [[battle on the Green Fork]], riding alongside [[Kevan Lannister|Kevan]] in the center of [[Tywin Lannister|Tywin]]'s army. When Tywin names [[Tyrion Lannister|Tyrion]] acting [[Hand of the King]], Tyrion suggests Lord Serrett instead, among others.
+
+==Appearances==
+*{{GOT|The Old Gods and the New}} {{Text}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+{{DEFAULTSORT:Serrett}}
+[[Category:Bannermen of House Lannister]]
+[[Category:Individuals mentioned in Game of Thrones]]
+[[Category:Lords]]
+[[Category:Members of House Serrett]]
+[[Category:Westermen]]

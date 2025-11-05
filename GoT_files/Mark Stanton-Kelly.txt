@@ -1,0 +1,23 @@
+{{Crew
+|Image = Mark Stanton-Kelly.jpg
+|dateofbirth = 
+|birthplace = 
+|job = Stunt Performer
+|imdb = http://www.imdb.com/name/nm5356734
+|twitter = }}
+'''Mark Stanton-Kelly''' is a stuntman and actor.
+
+In ''[[Game of Thrones]]'', he was a stunt performer in the [[Game of Thrones: Season 8|eighth season]] episode "[[The Bells]]".
+
+==Credits==
+===Stunts===
+{{Game of Thrones: Season 8|||||yes}}
+
+==See also==
+*{{IMDb
+|# = 5356734}}
+
+==References==
+{{reflist}}
+{{DEFAULTSORT:Stanton-Kelly, Mark}}
+[[Category:Stunt performers of Game of Thrones]]

@@ -1,0 +1,30 @@
+{{Person
+| Title   = {{PAGENAME}}
+| Type    = Kingdoms
+| Image   = Lucy Bevan.jpg
+| Birth   = 
+| Death   = 
+| Role    = Casting director
+| Series  = ''[[A Knight of the Seven Kingdoms]]''
+| Season  = [[A Knight of the Seven Kingdoms: Season 1|1]]
+| Credits = 
+| First   = 
+| Last    = 
+}}
+'''Lucy Bevan''' is a casting director on the [[A Knight of the Seven Kingdoms: Season 1|first season]] of ''[[A Knight of the Seven Kingdoms]]''.<ref name="Casting">[https://redanianintelligence.com/2023/10/20/game-of-thrones-dunk-and-egg-prequel-casting-call-suggests-filming-sooner-than-expected/ Redanian Intelligence], "Game of Thrones Dunk and Egg Prequel Casting Call Suggests Filming Sooner Than Expected", October 20, 2023</ref>
+
+==Credits==
+===Casting director===
+*{{AKOTSK|Season 1}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb|#=0079667}}
+*{{Twitter|#=CastingLucy}}
+*{{Instagram|#=lucybevancasting}}
+
+<!--Categories-->
+{{DEFAULTSORT:Bevan, Lucy}}
+[[Category:Production staff members of A Knight of the Seven Kingdoms]]
