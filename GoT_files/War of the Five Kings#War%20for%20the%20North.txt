@@ -1,0 +1,326 @@
+{{Canonicity|Canon}}
+{{War
+| Title      = {{PAGENAME}}
+| Type       = Thrones
+| Part       = 
+| Image      = Soldiers at the mud gate.jpg
+| Previous   = [[Greyjoy Rebellion]]
+| Concurrent = [[Conflict beyond the Wall]]<br>[[Liberation of Slaver's Bay]]<br>[[Ironborn invasion of the North]]
+| Next       = [[Last War]]<br>[[Great War]]
+| Beginning  = [[298 AC]]{{Dateref|Game of Thrones: Season 1}}<br>[[Battle in the hills below the Golden Tooth]]
+| End        = *[[300 AC]],{{Dateref|Game of Thrones: Season 3}} [[Red Wedding]] {{C|southern theater}}
+*[[303 AC]],{{Dateref|Game of Thrones: Season 6}} [[Battle of the Bastards]] {{C|northern theater}}
+*[[304 AC]],{{Dateref|Game of Thrones: Season 7}} [[trial of Petyr Baelish]] {{C|political theater}}
+| Place      = [[Westeros]]
+| Outcome    = Decisive [[Iron Throne]] victory {{C|phase I}}
+*Houses [[House Stark|Stark]] and [[House Tully|Tully]] are stripped of titles and lands and exiled
+*Houses [[House Bolton|Bolton]] and [[House Frey|Frey]] are elevated as the [[Great House]] of the [[North]] and the [[Riverlands]], and named [[Lord Paramount|Lords Paramount]] of their respective regions.
+Pyrrhic [[House Lannister]] victory {{C|phase II}}
+* Re-fragmentation upon [[Cersei Lannister]]'s seizure of the [[Iron Throne]]
+* Tensions from the conflict carry on in the [[Last War]]
+{{Details|
+*Extinction of [[House Baratheon]]
+*Extinction of [[House Bolton]]
+*[[North|Kingdom of the North]]<br>briefly revived by [[King in the North|King]] [[Robb Stark]], later [[Red Wedding|defeated]], and later re-revived
+*[[Balon Greyjoy]] declares himself [[King of the Iron Islands]], later [[Assassination of Balon Greyjoy|assassinated]]
+*[[Stannis Baratheon]] lays claim to the [[Iron Throne]], later defeated and [[Battle in the ice|executed]]
+*[[Renly Baratheon]] lays claim to the [[Iron Throne]], later<br>[[Assassination of Renly Baratheon|assassinated]]
+*[[Joffrey Baratheon]] poisoned at his [[Purple Wedding|own wedding]], succeeded by [[Tommen Baratheon]], shortly thereafter by [[Cersei Lannister]]
+*The decimation of the Great Houses [[House Stark|Stark]], [[House Tully|Tully]], and [[House Tyrell|Tyrell]] and later, [[House Frey]]
+*Subsequent beginning of many localized hostilities throughout several regions in [[Westeros]], including the [[North]], the [[Crownlands]], the [[Riverlands]], and [[Dorne]]
+*Devastation to large areas of Westeros}}
+| Factions1  = Royalists:<br><br>{{COA|House Baratheon of King's Landing|s}}<br>[[Iron Throne]]<br>{{C|[[House Baratheon of King's Landing]]}}<br><br>{{COA|House Lannister|s}}<br>[[House Lannister]]<br><br>{{COA|House Tyrell|s}}<br>[[House Tyrell]]<br>{{C|originally rebel}}<br><br>{{COA|House Bolton|s}}<br>[[House Bolton]]<br>{{C|originally rebel}}<br><br>{{COA|House Frey|s}}<br>[[House Frey]]<br>{{C|originally rebel}}
+| Factions2  = Rebels:<br><br>{{COA|House Stark|s}}<br>[[North|Kingdom of the North]]<br>{{C|[[House Stark]]}}<br><br>{{COA|House Tully|s}}<br>[[House Tully]]
+----
+{{COA|Renly Baratheon|s}}<br>[[Renly Baratheon|House Baratheon of Storm's End]]<br><br>{{COA|House Tyrell|s}}<br>[[House Tyrell]]<br>{{C|changed sides}}
+----
+{{COA|House Baratheon of Dragonstone|s}}<br>[[House Baratheon of Dragonstone]]
+----
+{{COA|House Greyjoy|s}}<br>[[Iron Islands]]<br>{{C|[[House Greyjoy]]}}
+----
+[[Brotherhood Without Banners]]
+| Factions3  = 
+| Factions4  = 
+| Factions5  = 
+| Factions6  = 
+| Leaders1   = {{COA|House Baratheon of King's Landing|i}} King [[Joffrey Baratheon|Joffrey I Baratheon]] [[Purple Wedding|'''X''']]<br>{{COA|House Lannister|i}} Lord [[Tywin Lannister]]<br>{{COA|Kingsguard|i}} Ser [[Jaime Lannister]] {{C|POW}}<br>{{COA|House Lannister|i}} [[Tyrion Lannister]]<br>{{COA|House Lannister|i}} Ser [[Stafford Lannister]] †<br>{{COA|House Lannister|i}} Ser [[Kevan Lannister]]<br>{{COA|House Swyft|i}} Ser [[Harys Swyft]]<br>{{COA|House Clegane|i}} Ser [[Gregor Clegane]]<br>{{COA|House Marbrand|i}} Ser [[Addam Marbrand]]<br>{{COA|House Lefford|i}} Lord [[Leo Lefford]]<br>{{COA|House Lorch|i}} Ser [[Amory Lorch]] †<br>{{COA|House Tyrell|i}} Lord [[Mace Tyrell]]<br>{{C|originally rebel}}<br>{{COA|House Bolton|i}} Lord [[Roose Bolton]]<br>{{C|originally rebel}}<br>{{COA|House Frey|i}} Lord [[Walder Frey]]<br>{{C|originally rebel}}
+| Leaders2   = {{COA|House Stark|i}} King [[Robb Stark]] [[Red Wedding|'''X''']]<br>{{COA|Brynden Tully|i}} Ser [[Brynden Tully]] †<br>{{COA|House Umber|i}} Lord [[Greatjon Umber|Jon Umber]] †<br>{{COA|House Bolton|i}} Lord [[Roose Bolton]]<br>{{C|changed side}}<br>{{COA|House Tully|i}} Lord [[Edmure Tully]] {{Surrender}}<br>{{COA|House Karstark|i}} Lord [[Rickard Karstark]] {{Executed}}<br>{{COA|House Mormont|i}} Lady [[Maege Mormont]] †<br>{{COA|House Manderly|i}} Ser [[Wendel Manderly]] †<br>{{COA|House Mallister|i}} Lord [[Jason Mallister]]<br>{{COA|House Frey|i}} Ser [[Stevron Frey]]<br>{{COA|House Bracken|i}} Lord [[Jonos Bracken]]<br>{{COA|House Glover|i}} Lord [[Galbart Glover]] †<br>{{COA|House Cassel|i}} Ser [[Rodrik Cassel]] {{Executed}}
+----
+{{COA|Renly Baratheon|i}} King [[Renly Baratheon]] [[Assassination of Renly Baratheon|'''X''']]<br>{{COA|House Tyrell|i}} Lord [[Mace Tyrell]]<br>{{COA|House Tarly|i}} Lord [[Randyll Tarly]]<br>{{COA|Kingsguard|i}} Ser [[Loras Tyrell]]
+----
+{{COA|House Baratheon of Dragonstone|i}} King [[Stannis Baratheon]] [[Battle in the ice|'''†''']]<br>{{COA|House Florent|i}} Ser [[Imry Florent]]<br>{{COA|House Florent|i}} Lord [[Axell Florent]] {{Executed}}<br>{{COA|House Seaworth|i}} Ser [[Davos Seaworth]]<br>[[Salladhor Saan]]
+----
+{{COA|House Greyjoy|i}} King [[Balon Greyjoy]] [[Assassination of Balon Greyjoy|'''X''']]<br>{{COA|House Greyjoy|i}} Prince [[Theon Greyjoy]]<br>{{C|changed side/became captive}}<br>{{COA|House Greyjoy|i}} Princess [[Yara Greyjoy]]<br>{{COA|House Kenning|i}} Captain [[Ralf Kenning]] †<br>Captain [[Dagmer]] {{Executed}}
+----
+{{COA|House Dondarrion|i}} Lord [[Beric Dondarrion]]<br>{{COA|Lord of Light|i}} [[Thoros|Thoros of Myr]]
+| Leaders3   = 
+| Leaders4   = 
+| Leaders5   = 
+| Leaders6   = 
+| Events     = [[Battle in the hills below the Golden Tooth|Golden Tooth]] {{*}} [[Siege of Riverrun|Riverrun (I)]] {{*}} [[Battle at the Mummer's Ford|Mummer's Ford]] {{*}} [[Battle on the Green Fork|Green Fork]] {{*}} [[Battle of Whispering Wood|Whispering Wood]] {{*}} [[Battle of the Camps|Riverrun (II)]] {{*}} [[Execution of Eddard Stark|Great Sept of Baelor (I)]] {{*}} [[Liberation of Raventree Hall|Raventree Hall]] {{*}} [[Liberation of Stone Hedge|Stone Hedge]] {{*}} [[Massacre in King's Landing|King's Landing (I)]] {{*}} [[Fight at the holdfast|Gods Eye]] {{*}} [[Battle of Oxcross|Oxcross]] {{*}} [[Taking of Ashemark|Ashemark]] {{*}} [[Assassination of Renly Baratheon|Storm's End]] {{*}} [[Fall of Moat Cailin|Moat Cailin (I)]] {{*}} [[Fight at Torrhen's Square|Torrhen's Square]] {{*}} [[Attack on Deepwood Motte|Deepwood Motte (I)]] {{*}} [[Capture of Winterfell|Winterfell (I)]] {{*}} [[Riots in King's Landing|King's Landing (II)]] {{*}} [[Battle at the Yellow Fork|Yellow Fork]] {{*}} [[Surrender of the Crag|Crag]] {{*}} [[Battle of the Fords|Stone Mill]] {{*}} [[Battle of the Blackwater|Blackwater]] {{*}} [[Sack of Winterfell|Winterfell (II)]] {{*}} [[Fall of Harrenhal|Harrenhal]] {{*}} [[Leech ritual|Dragonstone]] {{*}} [[Red Wedding|Twins (I)]] {{*}} [[Brawl in a tavern in the Riverlands|Tavern]] {{*}} [[Purple Wedding|King's Landing (III)]] {{*}} [[Assault on the Dreadfort|Dreadfort]] {{*}} [[Court trial of Tyrion Lannister|Red Keep (I)]] {{*}} [[Siege of Moat Cailin|Moat Cailin (II)]] {{*}} [[Second trial by combat of Tyrion Lannister|Red Keep (II)]] {{*}} [[Battle for the Wall|Wall]] {{*}} [[Assassinations in the Tower of the Hand|Tower of the Hand]] {{*}} [[Confrontation in the Water Gardens|Water Gardens (I)]] {{*}} [[Battle in the ice|Winterfell (III)]] {{*}} [[Assassination of Myrcella Baratheon|Summer Sea]] {{*}} [[Coup in Dorne|Water Gardens (II) / Blackwater Bay]] {{*}} [[Assassinations at Winterfell|Winterfell (IV)]] {{*}} [[Fight by Deepwood Motte|Deepwood Motte (II)]] {{*}} [[Assassination of Balon Greyjoy|Pyke]] {{*}} [[Kingsmoot on Old Wyk|Old Wyk]] {{*}} [[Taking of Riverrun|Riverrun (III)]] {{*}} [[Standoff at the Great Sept of Baelor|Great Sept of Baelor (II)]] {{*}} [[Second siege of Riverrun|Riverrun (IV)]] {{*}} [[Battle of the Bastards|Winterfell (V)]] {{*}} [[Destruction of the Great Sept of Baelor|Great Sept of Baelor (III)]] {{*}} [[Assassinations at the Twins|Twins (II)]] {{*}} [[Trial of Petyr Baelish|Winterfell (VI)]]
+}}
+{{Quote|The Seven Kingdoms are at war with one another... false kings destroying the country... the Usurper is dead. The Starks fight the Lannisters, the Baratheons fight each other.|Daenerys Targaryen to Ser Jorah Mormont|The Ghost of Harrenhal}}
+The '''War of the Five Kings''',{{Ref|GOT402}} or simply the '''War of Five Kings''',{{Ref|GOT207}} was a major multi-theater civil war in the [[Seven Kingdoms]] of [[Westeros]] that erupted in the wake of the death of [[King of the Andals and the Rhoynar and the First Men|King]] [[Robert Baratheon|Robert I]]. In essence, the war was a three-way battle for the [[Iron Throne]] fought alongside two independence movements. The five kings in question were Robert's heir apparent, [[Joffrey Baratheon]], Robert's younger brothers, [[Stannis Baratheon|Stannis]] and [[Renly Baratheon]], the "[[King in the North]]" [[Robb Stark]], and the "[[King of the Iron Islands]]" [[Balon Greyjoy]]. The conflict was orchestrated by [[Petyr Baelish]], the [[Master of Coin]], with the help of [[Lysa Arryn]], who poisoned her husband [[Jon Arryn]], [[Hand of the King]] to Robert Baratheon, and sent a letter to her sister [[Catelyn Stark]] claiming that it was the [[House Lannister|Lannisters]] who had poisoned her husband. Petyr, from the small [[House Baelish]], ignited the war in order to gain more power for himself.<ref name="E35">"[[First of His Name]]"</ref>
+
+Upon Robert's death, his heir apparent Joffrey takes the Iron Throne. However, the revelation that he, along with his [[Tommen Baratheon|brother]] and [[Myrcella Baratheon|sister]], are [[bastard]]s born of [[incest]] between Queen Consort [[Cersei Lannister|Cersei]] and her twin brother [[Jaime Lannister|Jaime]], leads both Stannis and Renly to claim the throne for themselves. Stannis sees himself as the rightful heir by right of blood, being Robert's heir with the removal of Joffrey, Myrcella, and Tommen from the line of succession, due to them being bastards born of incest. Renly claims the throne on the basis that he would be a better king, despite being second to Stannis in the lawful line of succession.
+
+Meanwhile, Robb Stark, the [[Lord of Winterfell]], is declared the King in the North by his bannermen in the wake of the [[Execution of Eddard Stark|execution of his father]], on false charges of treason by Joffrey.<ref>"[[Fire and Blood]]"</ref> Robb had been in command of a host marching south to free his then-imprisoned father and to relieve a Lannister attack on the [[Riverlands]]. As the King in the North, Robb declares that the [[North]] and the Riverlands, ruled by his maternal grandfather [[Hoster Tully]], are a sovereign [[North|Kingdom of the North]] no longer subject to the rule of the Iron Throne.<ref>[http://viewers-guide.hbo.com/game-of-thrones/season2/#!/map/special/areas-of-control/ HBO viewers guide, season 2 map, special features - Areas of Control]</ref>
+
+With the attention of the North and the Iron Throne diverted, Balon Greyjoy, [[Lord Reaper of Pyke]] and ruler of the [[Iron Islands]], seizes the opportunity to declare the Iron Islands independent once more. He then styles himself King of the Iron Islands and [[Ironborn invasion of the North|launches raids in the North]], while most of the [[Northmen|Northern]] armies are distracted south of the [[Neck]] fighting the Lannisters in the Riverlands and the [[Westerlands]].
+
+By [[303 AC]], all of the original five kings were either assassinated or killed in battle, leading to the total and complete end of the War of the Five Kings. Ironically, many of the same events Littlefinger put in motion to increase his own power and influence were eventually discovered by the remaining members of [[House Stark]], which were ultimately used as evidence against him for [[Trial of Petyr Baelish|his execution]], marking the official end of the War of the Five Kings.
+
+==History==
+===Opening moves===
+====Tyrion Lannister's abduction====
+{{Quote|This man came into my house as a guest, and there conspired to murder my son, a boy of ten. In the name of King Robert and the good lords you serve, I call upon you to seize him and help me return him to Winterfell to await the king's justice.|Catelyn seizes Tyrion|Cripples, Bastards, and Broken Things}}
+[[File:Battle at the Mummer's Ford.png|thumb|198x198px|The royalist force, which would go on to become the Brotherhood Without Banners, attacks the Lannister army in the Riverlands.]]
+The stage for war was set when [[Catelyn Stark]] seized [[Tyrion Lannister]] and accused him of the attempted murder of her son [[Bran Stark|Bran]] based on false information given to her by [[Petyr Baelish]]. Bran had previously been crippled by [[Jaime Lannister]] in an attempted murder after he witnessed Jaime having sex with Queen [[Cersei Lannister|Cersei]], though Bran retained no memory of this.<ref name="E4">"[[Cripples, Bastards, and Broken Things]]"</ref> In response, [[House Lannister]], led by Lord [[Tywin Lannister]], summoned its armies and marched on the [[Riverlands]], ruled by [[House Tully]], Catelyn's [[Noble house|house]], with 60,000 [[Man-at-arms|men]]. Ser [[Gregor Clegane]] led an auxiliary force and began striking at the [[Noble house|vassals]] of Catelyn's father, Lord [[Hoster Tully]].<ref name="E7">"[[You Win or You Die]]"</ref>
+
+====The death of Robert Baratheon====
+Rather than use his authority to defuse the situation, King [[Robert Baratheon|Robert I Baratheon]] left [[King's Landing]] for his entertainments, and soon afterwards [[Assassination of Robert Baratheon|died]] in a hunting accident secretly arranged by Queen Cersei. Upon Robert's death, Lord [[Renly Baratheon]] tried to secure the support of his [[Hand of the King|Hand]], Lord [[Eddard Stark]], but when he refused, Renly fled the capital with Ser [[Loras Tyrell]], the heir to the [[Reach]], and rode for [[Highgarden]]. Prince [[Joffrey Baratheon]] immediately claimed the [[Iron Throne]] upon Robert's death with his mother's backing as [[Regent|Queen Regent]]. However, Eddard had learned from previous research conducted by his predecessor [[Jon Arryn]], who had been secretly [[Assassination of Jon Arryn|assassinated]] by his [[Lysa Arryn|wife]] and Baelish, of the true parentage of Joffrey and his siblings: that they were in fact [[bastard]]s born of incest between Cersei and Jaime.<ref name="E35">"[[First of His Name]]"</ref> Eddard had a proclamation written by Robert which named him regent and [[Protector of the Realm]], but it was ignored by Cersei, whom Eddard had forewarned of his knowledge about her children in an attempt to allow them to flee.<ref name="E7" />
+
+When Eddard tried to take Joffrey into custody as an imposter, Joffrey, who had been forewarned by Baelish, instead had Eddard arrested. Baelish held Eddard with a dagger to his throat while [[Janos Slynt]] led the [[City Watch of King's Landing|City Watch]] [[Massacre in the Red Keep|in turning against Eddard's household guards]]. Joffrey and Cersei were unaware, however, that Eddard had already sent a letter to [[Stannis Baratheon]] informing him that Joffrey was not legitimate, and thus the crown rightfully belonged to him. They were further unaware that Renly knew of this as well, and was gathering his supporters in the [[Stormlands]] and the Reach.<ref name="E7" /> On [[Dragonstone (island)|Dragonstone]], Stannis also claimed the Iron Throne and began gathering his own supporters.<ref name="E10">"[[Fire and Blood]]"</ref>
+
+====War in the Riverlands====
+{{Quote|Ser Gregor will head out with five hundred riders and set the riverlands on fire from Gods Eye to the Red Fork.|Tywin Lannister|Fire and Blood}}
+The Lannister army separated into two hosts of 30,000 men each.<ref name="E7" /> Jaime led one host with the aim of capturing [[Riverrun]], the principal stronghold of House Tully. Jaime smashed the riverlords at a [[battle in the hills below the Golden Tooth]], allowing him to move northwest through the Riverlands unimpeded, and followed through on his victory by [[Siege of Riverrun|laying siege to Riverrun]]. Tywin led the other host himself.<ref name="E8">"[[The Pointy End]]"</ref>
+
+[[File:Green Fork.jpg|200px|thumb|right|Robb's strategic deceit of the Lannisters led to Jaime's capture.]]
+Upon receiving a [[raven]] of his father's arrest, [[Robb Stark]] summoned his father's vassals and mobilized the armies of the [[North]].<ref name="E8" /> He then marched them to the relief of the Riverlands and his mother's house. Tywin moved to the east bank of the [Green Fork]] of the [[Trident]] to intercept the [[House Stark|Stark]] force.<ref name="E8" /> Robb secured the support of Lord [[Walder Frey]], a Tully bannerman, through a marriage pact, giving him an advantage in transportation and local intelligence.<ref name="E9">"[[Baelor]]"</ref> Robb then sent a small force of 2,000 men to attack Tywin's army. As planned, this small force was destroyed at the [[battle on the Green Fork]], but it delayed the Lannisters long enough for Robb's main army to slip past them and into the [[Whispering Wood]] near Riverrun. Robb then inflicted [[Battle of Whispering Wood|a significant defeat upon the Lannisters]], destroying much of Jaime's host and capturing Jaime himself.<ref name="E9" /> After learning of Jaime's capture, Tywin retreated to [[Harrenhal]], intending to fortify it and use it as a base of operations to conduct raids in the Riverlands.<ref name="E10" /> Meanwhile, just as Lord [[Greatjon Umber]] had predicted, the riverlords joined forces with Robb, doubling the size of his army and placing the [[Riverlands]] almost entirely under his control.
+
+===​The rise of kings​===
+{{Quote|That bit of theater will haunt our family for a generation.|Tyrion to Cersei, on Eddard's execution|The North Remembers}}
+By this time, news of Renly and Stannis gathering armies had reached both the Stark and Lannister camps. Both men had claimed the Iron Throne: Stannis as the legitimate heir after his brother's death, and Renly on the claim that he could be a better king than his brother. Meanwhile, in King's Landing, Eddard falsely confessed to [[treason]] and recognized Joffrey as the king in an effort to protect his daughter [[Sansa Stark|Sansa]], who was being held as a [[hostage]] by the Lannisters. However, instead of [[Exile|exiling]] him to the [[Night's Watch]] as Cersei intended, the sadistic Joffrey instead ordered Eddard's [[Execution of Eddard Stark|execution]]. Eddard's death caused the vengeful [[Northmen]] to reject the authority of the Iron Throne. After considering joining forces with one of the Baratheon brothers, the Northmen and the riverlords instead chose the path of independence, declaring their own independent [[North|Kingdom of the North]] and swearing fealty to Robb as the [[King in the North]].<ref name="E10" />
+
+Robb followed up on his success at [[Whispering Wood]] with several minor skirmishes against Lannister forces. Barely days after Joffrey was declared king, the Lannisters in reality only held their own domain, the [[Westerlands]], and most of the [[Crownlands]], as well as a small conquered strip of the southern Riverlands. Meanwhile, the Starks controlled the North and most of the Riverlands. Renly commanded the full might of the Stormlands, as well as the Reach with the backing of [[House Tyrell]] and their vassals. Stannis, on the other hand, only had the backing of the outlying houses along the shores of the [[Narrow Sea]] sworn to Dragonstone. At this time, the other three kingdoms&mdash;the [[Vale of Arryn]], [[Dorne]] and the [[Iron Islands]]&mdash;had not yet declared their support for any side in the conflict.
+
+====Robb Stark invades the Westerlands====
+{{Quote|Stannis two days from the capital, and the wolf at my doorstep.|Tywin Lannister|The Prince of Winterfell}}
+[[File:Battle of Oxcross.jpg|200px|thumb|right|Robb led the Northern armies into the Lannisters' lands in the west.]]
+With Tywin encamped at Harrenhal, Robb launched a limited invasion of the Lannister homelands in the Westerlands, winning several more battles: the [[Battle of Oxcross]],<ref name="E14">"[[Garden of Bones (episode)|Garden of Bones]]"</ref> a [[battle at the Yellow Fork]],<ref name="E17">"[[A Man Without Honor]]"</ref> and the [[surrender of the Crag]].<ref name="E18">"[[The Prince of Winterfell]]"</ref> With the Lannister homelands under attack by the Northmen, and a Baratheon attack on the capital imminent, Tywin decided to quietly march the Lannister forces from Harrenhal to King's Landing to reinforce the capital.<ref name="E18" />
+
+All of the lands between Riverrun and Harrenhal became a warzone, facing constant raids and counter-raids by Stark-Tully and Lannister forces. As a result of [[Edmure Tully]]'s mistake at the [[Battle of the Fords]], Robb failed to lure the Lannisters into a trap; instead, the Lannister forces in the Riverlands regrouped and then rushed to the defense of King's Landing against Stannis.
+
+====The death of Renly Baratheon====
+{{Quote|All my brother's bannermen have come to my side! Except for the Tyrells, who fled like cowards. They won't be able to resist us now. Soon I should be sitting on the Iron Throne.|Stannis, to Davos|The Ghost of Harrenhal}}
+[[File:Renly_Stannis_Parley.jpg|thumb|200px|The Baratheon brothers held a parley in the Stormlands, but both refused to stand down.]]
+The Baratheon brothers Stannis and Renly both claimed the Iron Throne. Stannis had a small army at Dragonstone, and was under the influence of [[Melisandre]], a [[red priest]]ess of the [[Lord of Light]] and a powerful [[Shadowbinder|sorceress]]. Renly, on the other hand, amassed the strength of his bannermen in the Stormlands. He had also secured the backing House Tyrell and their bannermen from the Reach by marrying [[Margaery Tyrell]], daughter of Lord [[Mace Tyrell]].<ref name="E13">"[[What Is Dead May Never Die]]"</ref>
+
+Renly commanded the most powerful army in Westeros by sheer numbers, having gathered all the bannermen of the Stormlands and the Reach, the two most populous kingdoms of Westeros. Looking for allies, Robb sent his mother Catelyn to the Stormlands to negotiate with the southern king, while [[Theon Greyjoy]] was sent to the Iron Islands. Renly was receptive to an alliance with the Starks on the condition that Robb recognized his sovereignty over the North. However, before negotiations could continue, Renly was [[Assassination of Renly Baratheon|murdered]] by a [[shadow]], bearing the face of Stannis, secretly born by Melisandre. The assassination was witnessed only by Catelyn and [[Brienne of Tarth]]; Brienne was accused of Renly's murder, and she and Catelyn subsequently fled his camp together.<ref name="E15">"[[The Ghost of Harrenhal]]"</ref>
+
+Following Renly's death, the stormlords swore fealty to Stannis as the remaining legal head of [[House Baratheon]]. However, the Tyrells and their vassals did not join Stannis, and instead returned to the Reach. With the Baratheon army under his command, and the Dragonstone fleet augmented by pirates led by [[Salladhor Saan]], Stannis began preparations for an invasion of King's Landing.<ref name="E15" />
+
+====Riot in King's Landing====
+{{Quote|They're starving, you fool! All because of a war you started!|Tyrion, to Joffrey|The Old Gods and the New}}
+[[File:Gold cloaks.jpg|thumb|200x200px|Gold Cloaks hold back rioting smallfolk from King Joffrey and his entourage.]]
+During the course of the war, the streets of King's Landing began to overflow with starving refugees looking to escape the war. Joffrey and the royal court left the [[Red Keep]] and gathered in the city's docks to witness Princess [[Myrcella Baratheon|Myrcella]]'s leave to Dorne, as part of their hopes to secure an alliance with [[House Martell]]. On their way back, the [[smallfolk|commoners]] of King's Landing hurled insults at Joffrey. The situation escalated when one threw cow excrement into Joffrey's face, and when the culprit could not be found, the young king ordered his guards to have them all killed. [[Riots in King's Landing|Riots]] then erupted in the chaos; they were eventually put down, but many were killed, including the [[High Septon (Joffrey)|High Septon]].<ref name="E16" />
+
+====Rise of the kraken====
+{{Quote|The North is ripe for the taking.|Balon Greyjoy|What Is Dead May Never Die}}
+As the Lannister and Stark forces fought in the west, Theon Greyjoy arrived at [[Pyke]] as Robb's envoy to forge an alliance with his family, [[House Greyjoy]]. Robb hoped to gain the strength of the [[Iron Fleet]] to use against the Lannisters. Lord [[Balon Greyjoy]], however, instead proclaimed himself [[King of the Iron Islands]] once more, and drew up plans to [[Ironborn invasion of the North|invade]] the defenseless North while Robb's armies were down south.<ref name="E12">"[[The Night Lands]]"</ref><ref name="E13">"[[What Is Dead May Never Die]]"</ref> The Ironborn attacked the coasts of the North: [[Yara Greyjoy]] commanded a sizable fleet to [[Attack on Deepwood Motte|take Deepwood Motte]], while Theon was assigned to raid small fishing villages. Under his first mate [[Dagmer]]'s advice, however, Theon defied his father's orders to instead [[Capture of Winterfell|seize Winterfell]].<ref name="E16">"[[The Old Gods and the New]]"</ref>
+
+[[File:Winterfell_Burning.jpg|thumb|200px|Winterfell was sacked during the Ironborn invasion of the North.]]
+Bran and [[Rickon Stark]] escaped Winterfell with two of their household servants, [[Hodor]] and [[Osha]], and their [[Direwolf|direwolves]]. Theon failed to find them, so to cover up his failure and assert his authority, he had [[Billy|two]] [[Jack|farmboys]] killed, their corpses charred beyond recognition, and hanged atop the walls of Winterfell, posing as the Stark boys.<ref name="E17" /> Yara later rode to Winterfell, where she reprimanded Theon, the self-declared [[Prince of Winterfell]], warning her brother that the entirety of the North wanted him dead for the alleged killing of the Stark boys. She then informed Theon that their father had summoned him to Pyke, and advised him that his position was too far from the sea to resupply or reinforce. In spite of this, Theon decided to hold Winterfell to preserve his victory.<ref name="E18" /> 
+
+Robb and [[Roose Bolton]] had a relief force of five hundred men, led by Roose's bastard [[Ramsay Bolton|Ramsay Snow]], assembled to take back Winterfell. Theon's men betrayed him and handed him over to Ramsay, who promised their return to the Iron Islands.<ref name="E20">"[[Valar Morghulis]]"</ref> Instead, Ramsay betrayed the Ironborn and had them all killed. He then had Winterfell [[Sack of Winterfell|sacked]], putting the castle to the torch.<ref name="E30">"[[Mhysa]]"</ref> Nonetheless, Bran, Rickon, Osha, and Hodor were able to escape.<ref name="E20" />
+
+====The Battle of the Blackwater====
+{{Dialogue a-b|Imry|The fire... their archers... hundreds will die.|Stannis|Thousands.|Imry Florent and Stannis Baratheon|Blackwater}}
+[[File:Wildfire explosion.jpg|thumb|200px|Wildfire destroyed a large portion of Stannis Baratheon's fleet at the Blackwater.]]
+Stannis's army and fleet launched an assault on King's Landing in what came to be known as the [[Battle of the Blackwater]]. The initial attack was blunted when Tyrion sprung a trap, destroying half of Stannis's ships and many of his men with [[wildfire]]. Stannis rallied the surviving troops and launched an assault on the city.<ref name="E19">"[[Blackwater]]"</ref>
+
+Just as the city seemed about to fall, a combined Lannister-Tyrell host charged and broke through Stannis's flank, sending his army into a panic and routing them. Stannis retreated to Dragonstone with only the tattered remnants of his army.<ref name="E19">"[[Blackwater]]"</ref> 
+An alliance between the Tyrells and the Lannisters had secretly been brokered by Baelish and Tywin Lannister following Renly's death. The Tyrells formally declared themselves for King Joffrey in return for a marriage pact between him and Margaery, giving Joffrey a massive numerical advantage over the houses in rebellion.<ref name="E20" />
+
+The decisive Lannister-Tyrell victory also coincided with several political blunders made by Robb. Robb lost the support of [[House Frey]] when he broke his pact with them to instead marry [[Talisa Stark|Talisa Maegyr]].<ref name="E20" /> Not long after, his powerful vassal [[House Karstark]] deserted him after he executed Lord [[Rickard Karstark]] for the murder of Lannister prisoners. Having lost a large number of troops, and his enemies having more than doubled in numbers, Robb's army suddenly found itself in great danger.<ref name="E25">"[[Kissed by Fire]]"</ref>
+
+===The fall of kings===
+====​The Red Wedding====
+{{Quote|The Lannisters send their regards.|Roose Bolton, as he kills Robb|The Rains of Castamere (episode)}}
+Robb subsequently withdrew his forces back to the Riverlands. He [[Fall of Harrenhal|liberated Harrenhal]], but the Lannisters had simply withdrawn and given no battle.<ref>"[[Valar Dohaeris]]"</ref> Robb marched his army back to Riverrun, but faced a bleak situation.<ref name="E22">"[[Dark Wings, Dark Words]]"</ref> The Lannisters, meanwhile, focused on consolidating the south with their new Tyrell allies, content that time and resources were now on their side.<ref name="E23">"[[Walk of Punishment (episode)|Walk of Punishment]]"</ref>
+
+Robb's army was lured into a trap at the [[Twins]] during the wedding of his uncle [[Edmure Tully]] and [[Roslin Tully|Roslin Frey]], which he had arranged to make amends for violating his marriage pact with Walder Frey. That night, the Frey and Bolton forces turned against the drunken Stark and Tully forces and slaughtered them.<ref name="E29">"[[The Rains of Castamere (episode)|The Rains of Castamere]]"</ref>
+
+[[File:Robb_and_Talisa_Red_Wedding.jpg|thumb|200px|Robb and his men were betrayed at the Red Wedding.]]
+Robb, his wife, his mother, and most of his loyal bannermen were murdered in the massacre, which subsequently became known as the [[Red Wedding]].<ref name="E29" /> The few survivors were captured as political hostages, including Edmure, who was held captive by Walder at the Twins. Only a small number of Tully troops, led by Robb's great-uncle, Ser [[Brynden Tully]], managed to escape.<ref name="E30" />
+
+====Aftermath of the Red Wedding====
+{{Quote|Roslin caught a fine fat trout. Her brothers gave her a pair of wolf pelts for her wedding.|Walder Frey's letter to King's Landing|Mhysa}}
+The destruction of Robb's army marked a major turning point in the war, with the allied Houses of Lannister and Tyrell achieving a major victory over their most significant enemy. Joffrey's faction now physically controlled nearly all of the Seven Kingdoms, the only exceptions being the Iron Islands, parts of the North controlled by the Ironborn, and the strongholds of [[Storm's End]], Dragonstone, and Riverrun. The Vale and Dorne remained neutral in the conflict. As a reward for their betrayal of the Starks, [[Roose Bolton]] and Walder Frey were named [[Warden of the North]] and [[Lord Paramount of the Trident]], respectively.<ref name="E30" />
+
+Stannis remained free and determined to continue fighting, his army seriously decreased.<ref name="E36">"[[The Laws of Gods and Men]]"</ref> The Stormlords who had rallied to his side had either died at the Blackwater or were trying to curry favor with the Lannisters for a pardon.<ref>"[[The Stormlands]]"</ref> The Ironborn, who had partially occupied the North, still commanded great sea power and Balon Greyjoy refused to bend the knee to the Iron Throne. Meanwhile, the outlaw band known as the [[Brotherhood Without Banners]] remained active in the Riverlands, as did the Blackfish and his rebel Tully bannermen at Riverrun. Added to this, the majority of the Houses in the North and the Riverlands held nothing but hatred for the Boltons and the Freys, due to their betrayal of their king and the deaths of many of their kinsman at the Red Wedding. 
+
+At the same time, the Iron Throne emerged weakened from the conflict. Its debts to foreign lenders such as the [[Iron Bank of Braavos]] were still far from being repaid and, if the debts should default, the Bank would turn its support to others who could guarantee the repayment of the loans, such as Stannis.<ref name="E32">"[[The Lion and the Rose]]"</ref> The Iron Bank was later convinced to fund Stannis.<ref name="E36" /> 
+
+The Lannisters' position steadily decayed and became worse, as their hold as the 'strongest' House waned. Concerned over the growing power of [[Daenerys Targaryen]] in [[Essos]], Tywin sought to gain the support of the Martells, who hated House Lannister as a result of the death of [[Elia Martell]] and her children during the [[Sack of King's Landing]].<ref name="E35">"[[First of His Name]]"</ref>
+
+====The Purple Wedding====
+{{Quote|You don't think I'd let you marry that beast, do you?|Olenna reveals her involvement in Joffrey's death to Margaery|Oathkeeper}}
+[[File:Purple_Wedding.png|thumb|200px|Joffrey is killed after being poisoned.|200x200px]]
+During his own wedding to Margaery, Joffrey [[Purple Wedding|was assassinated]] by poison.<ref name="E32" /> Cersei accused Tyrion, who was arrested and put on [[Court trial of Tyrion Lannister|trial]] for regicide. Sansa managed to flee King's Landing with help from Baelish,<ref name="E33">"[[Breaker of Chains]]"</ref> who had secretly devised the plot to kill Joffrey with [[Olenna Tyrell]].<ref name="E34">"[[Oathkeeper]]"</ref>
+
+Joffrey was succeede​d as king by his younger brother Prince [[Tommen Baratheon|Tommen]]. Joffrey's death ended up being beneficial for the Lannister-Tyrell alliance: he had been an unpredictable, incompetent and universally hated ruler whose impulsive, sadistic decisions had taken a devastating toll on his kingdom. Tommen, by contrast, was a shy, gentle-natured boy who could be counted on to delegate matters to wiser advisors, such as Tywin and Margaery. After his coronation, Tommen reappointed Tywin (his grandfather) as Hand of the King and also granted him the title of [[Protector of the Realm]], making Tywin the true ruler of the Seven Kingdoms, now in practice as well as name. Tommen was also betrothed to Margaery, in order to keep the loyalty of House Tyrell; his early friendship with Margaery, despite their age differences, helped ease some of the tension between the Lannisters and Tyrells.<ref name="E35" />
+
+===A tenuous rule​===
+====The trial of Tyrion Lannister​====
+During his trial, Tyrion was faced with many accounts of his confrontations with King Joffrey to prove his guilt. Tywin Lannister had brokered to give his son a way out if he would plead guilty and join the [[Night's Watch]] so that Jaime, would leave the [[Kingsguard]] and accept his title as Tywin's heir again. However, the perjury of [[Shae]] led Tyrion to refuse the deal and demand a [[trial by combat]].<ref name="E35" /> Cersei chose ​Ser Gregor "the Mountain" Clegane as her champion, while Tyrion was approached by Oberyn Martell to act as his. Oberyn's sought vengeance against Gregor for the rape and murder of his sister Elia during the Sack of King's Landing. Although Oberyn managed to severely wound and poison the Mountain during the duel, he was himself killed, sealing Tyrion's fate.<ref name="E38">"[[The Mountain and the Viper]]"</ref>
+
+====The death of Tywin Lannister====
+Before his execution could take place, Tyrion was freed from confinement by Jaime in conjunction with [[Varys]]. Before escaping the city, Tyrion strangled Shae, and [[Assassinations in the Tower of the Hand|assassinated]] his father, leaving the rule of King's Landing in an uncertain position.<ref name="E40">"[[The Children]]"</ref>
+
+In the wake of his brother's death, [[Kevan Lannister]] was appointed as the new leader of the Lannister armies. In addition to the nobles, Tywin's death brought new forces to King's Landing: the religious [[Sparrows]] entered the capital.<ref name="E41">"[[The Wars To Come]]"</ref>
+
+Cersei seized control of the small council, appointing her ally [[Qyburn]] as the new Master of Whispers (as Varys is believed to have released Tyrion), and Lord Tyrell as the new [[Master of Coin]]. However, Kevan rebuffed Cersei's offer as the new [[Master of War]] on the basis that the Queen Mother holds no position of authority, and the small council had become nothing more than a chamber of sycophants. After storming off and leaving for Casterly Rock, Cersei's hold on power became all the more tenuous.<ref name="E42">"[[The House of Black and White]]"</ref> [[File:501_Tywin_funeral_Cersei_kiss.jpg|thumb|200x200px|Cersei kisses the corpse of her father Tywin.]]
+
+In order to cement their alliance with the Tyrells, the Lannisters rapidly married King Tommen to Margaery, to Cersei's dismay, who felt her power waning just as Margaery's influence over her son grew.<ref name="E43">"[[High Sparrow (episode)|High Sparrow]]"</ref> In addition, the Iron Bank called in ten percent of the debt owed by the Crown. Cersei sent Lord Tyrell to [[Braavos]] to negotiate directly with the bankers.<ref name="E42" />
+
+====Stannis's campaign in the North====
+{{Dialogue a-b|Roose|Stannis Baratheon has an army at Castle Black, but he won't stay for long. He wants the Iron Throne, and the road to King's Landing comes right through Winterfell. He means to take the North. But the North is ours. It's yours and mine. Will you help me defeat him?|Ramsay|Yes.|Roose and Ramsay|Kill the Boy}}
+After the Red Wedding, Roose Bolton was appointed Warden of the North. Since the Ironborn were in possession of [[Moat Cailin]], Roose instructed Ramsay to retake the fortress.<ref name="E32" /> [[File:Surrender_of_Moat_Cailin.jpg|thumb|200x200px|Moat Cailin is surrendered by the Ironborn to House Bolton, allowing the Bolton armies to march back north.]]
+
+After a [[Assault on the Dreadfort|failed attempt]] by Yara to rescue her brother from the Boltons,<ref name="E36" /> Ramsay [[Siege of Moat Cailin|retook Moat Cailin]]. Roose rewarded Ramsay's actions by [[Legitimization|legitimizing]] him as a Bolton. With the surrender of Moat Cailin, the Bolton army returned north and the Ironborn began evacuating the North. Roose subsequently led his reassembled forces to reclaim the Stark ancestral seat of Winterfell.<ref name="E38" />
+[[File:Stannis attacks.png|thumb|201x201px|Stannis Baratheon's army attacks the wildling camp, aiding the Night's Watch in repulsing the wildling attack on the Wall.]]
+Facing invasion from a [[Free Folk|wildling]] army under the command of [[Mance Rayder]] and with rumours of an [[White Walkers|even greater threat]] coming from beyond the Wall, the Night's Watch sent word to all the high lords of Westeros to send aid.<ref name="E30" /> Only one answered: Stannis. He headed north to the Wall and [[Battle for the Wall|defeated]] the wildling army, taking their leader prisoner and saving the Night's Watch from destruction, and the North from invasion.<ref name="E40">"[[The Children]]"</ref> With this victory, Stannis planned to march south to liberate Winterfell and gain the support of the disgruntled Northern Houses against Lannister-backed Bolton rule.<ref name="E41">"[[The Wars To Come]]"</ref> However, he was rebuffed by most, such as [[House Mormont]].<ref name="E42" />
+
+As Roose Bolton set up his seat of power at Winterfell, he planned a marriage for Ramsay with Sansa, the heir to Winterfell who was hiding from the Lannisters in the Vale under the protection of Littlefinger. Littlefinger proposed an alliance between the North and the Vale, for protection against their enemies and to react against any Lannister retaliation once they learnt that Sansa has wed Ramsay.<ref name="E43" />
+
+Littlefinger returned to King's Landing, where he informed Cersei that the Boltons planned to marry Sansa to Ramsay. He requested permission to lead the Knights of the Vale to the North. Once Stannis and the Boltons had bled each other dry, he planned to destroy the remaining forces and take the North. Cersei approved his plans and promised to appoint him Warden of the North once the battle was won.<ref>"[[Unbowed, Unbent, Unbroken]]"</ref>
+
+As Stannis marched on Winterfell, the the weather worsened, and men started to abandon Stannis. Melisanre, however, believed that it was still possible to move towards Winterfell, and suggested to sacrifice [[Shireen Baratheon|Shireen]]. Stannis initially refused.<ref>"[[The Gift]]"</ref>
+
+Ramsay wreaked havoc on Stannis's camp; his few remaining supplies were destroyed, as well as the few hundred horses he had left. Additionally, all of the sellswords paid for by the Iron Bank deserted.<ref name="E48">"[[Hardhome (episode)|Hardhome]]"</ref> In his desparation, Stannis conceded to sacrificing Shireen so that his army could move once again. After it was done,<ref>"[[The Dance of Dragons (episode)|The Dance of Dragons]]"</ref> Stannis mobilized his few remaining troops towards Winterfell.<ref name="E50">"[[Mother's Mercy]]"</ref> [[File:Melisandre-sacrificing-shireen.png|thumb|201x201px|Melisandre sacrifices Shireen Baratheon to the Lord of Light, believing that such a sacrifice will clear the snows for Stannis to march onto Winterfell.]]
+
+Eventually, Stannis was defeated by the Boltons. After the bulk of his remaining army was slaughtered to a man, Stannis was tracked down and killed by [[Brienne of Tarth|Brienne]].<ref name="E50" /> [[File:Battle_of_Winterfell_6.png|thumb|201x201px|The Bolton forces attack the weakened Baratheon army.]]
+
+With Stannis's defeat, the Boltons claimed a great victory, discouraging further resistance against them. By this time, most of the Northmen had, if ever reluctantly, accepted their rule. Houses [[House Umber|Umber]] and [[House Karstark|Karstark]] declared their allegiance to Boltons, but [[House Manderly]] refused to bend the knee to the Boltons. Meanwhile, the last of the Ironborn had been expelled from the North after [[House Glover]] successfully [[Fight by Deepwood Motte|reclaimed Deepwood Motte]]. House Bolton's rule over the North was now seemingly unopposed; Sansa's escape, however, has weakened their claim.<ref name="E51">"[[The Red Woman]]"</ref><ref name="E52">"[[Home]]"</ref>
+
+====The death of Balon Greyjoy====
+{{Quote|I killed him. Threw him right over a rope bridge, and watched him fall. He was leading us nowhere, and we would still be heading there if it weren't for me. No one loved him, no one wanted to follow him. He led us into two wars we couldn't win. I apologize to you all for not killing him years ago!|Euron confesses to murdering his brother at the Kingsmoot|The Door}}
+[[File:Balon-Euron-Game-of-Thrones-Home.png|thumb|201x201px|Euron Greyjoy confronts his brother Balon on the bridges of Pyke, where he kills him.]]
+Shortly after Yara informed Balon Greyjoy that they had no more holdings on the mainland, he was killed by his brother [[Euron Greyjoy]].<ref name="E52" />
+
+With the passing of Balon, the Ironborn held a [[kingsmoot on Old Wyk]] to elect a new King of the Iron Islands.<ref name="E55">"[[The Door]]"</ref> Euron was ultimately elected as the king over Yara. Yara and Theon subsequently fled the Iron islands with much of the [[Iron Fleet]] and their supporters.<ref name="E55">"[[The Door]]"</ref>
+
+In order to take back the Iron Islands, Yara and Theon decided to beat their uncle to [[Daenerys Targaryen]] and sail for [[Meereen]].<ref name="E57">"[[The Broken Man]]"</ref> Once they arrived in Meereen, they formed an alliance with Daenerys.<ref name="E59">"[[Battle of the Bastards (episode)|Battle of the Bastards]]"</ref>
+
+====Conflict in the Riverlands====
+{{Quote|As long as I'm standing, the war is not over!|Brynden Tully to Jaime Lannister|The Broken Man}}
+[[File:Riverrun.WALLS.png|thumb|200px|Riverrun falls under siege of Houses Frey and Lannister after the Blackfish leads the Tully army into recapturing their ancestral home.]]
+After the Red Wedding, Brynden Tully managed to gather a small Tully army and [[Taking of Riverrun|retake Riverrun]] from the Freys. Tommen sent Jaime at the head of a Lannister detachment to force Riverrun's surrender. Jaime tried to negotiate with Brynden to peacefully surrender, but the Blackfish refused to yield.<ref name="E57" /> Jaime is able to coerce Edmure into yielding Riverrun, however, by threatening his [[Edmure Tully's son|son]]'s life. After the [[Second siege of Riverrun|fall of Riverrun]], Jaime is informed of Brynden's death by Lannister soldiers.<ref name="E58">"[[No One]]"</ref>
+
+After a celebration at the Twins, [[Arya Stark]] [[Assassinations at the Twins|murdered]] Walder Frey.<ref name="E60">"[[The Winds of Winter]]"</ref> While posing as Walder, Arya then had the rest of the Frey men poisoned in revenge for the Red Wedding. In response, Lannister soldiers are sent to the Riverlands to keep the peace.<ref name="E61">"[[Dragonstone (episode)|Dragonstone]]"</ref> However, the army is later recalled to fight in the [[Last War]].<ref name="E68">"[[Winterfell (Game of Thrones)|Winterfell]]"</ref>
+
+==Aftermath==
+The War of the Five Kings officially concluded in a hollow victory for the forces of the Iron Throne, controlled by [[House Baratheon of King's Landing]], a puppet of House Lannister. All five kings died, including Joffrey, who was succeeded by Tommen. Despite the War of the Five Kings ending, the Lannisters' victory ended almost as soon as it began and the tide began to turn in favor of their surviving enemies. Localized hostilities and conflicts continued throughout [[Westeros]] as tensions only heightened throughout the Seven Kingdoms; some of these hostilities ultimately undid the Iron Throne's. These smaller "aftermath conflicts" that grew from the War of the Five Kings and continued to destabilize Westeros are detailed below:
+
+===The Sparrows===
+Although the Lannister-Tyrell alliance formed at the Battle of the Blackwater had allowed the Iron Throne to emerge victorious in the war, the destructive conflict had served to fracture the already fragile coexistence between the nobility and the commoners. Abused and overtaxed by their rulers, the smallfolk began to turn to new masters and new justices. Religious fervor, unseen in Westeros since the [[Faith Militant uprising]], swept over the people as they either clung to their known Gods in hopes of salvation, or turned to other deities new to Westeros.
+
+In this context, a new sect emerged among the followers of the [[Faith of the Seven]]: the Sparrows. They included dispossessed commoners and disillusioned nobles, such as [[Lancel Lannister]]. Following the flood of refugees caused by the war, the Sparrows eventually moved into King's Landing after the death of Tywin. 
+
+Cersei saw opportunity in the newly-formed sect to move against her rivals in House Tyrell, and formed an alliance with the [[High Sparrow]], leader of the sect. Cersei engineered his election as the new High Septon and authorized the Faith Militant, the enforcement branch of the Faith charged with defending the faithful, to rearm for the first time since the [[Faith Militant uprising|wars]] of [[Maegor Targaryen|Maegor the Cruel]] two and a half centuries earlier. 
+
+Putting this new power to use, the High Sparrow sent his armed followers to destroy what he perceived as the vices of King's Landing. This led to the arrest of Loras. This flagrant move against one of the Great Houses was the first sign of a reaction against the abuses committed by the nobility against the common folk.
+
+Though the High Sparrow arrested Loras on charges of homosexuality and Margaery, on charges of lying to the Faith on oath, he also had Cersei imprisoned on the charges of incest and murdering King Robert, crimes which are confessed by Lancel, who joined the Sparrows and conspired with Cersei in these crimes.
+
+The High Sparrow had dug his claws deep into King Tommen, and influenced him into forming a new "holy alliance" between the Crown and the Faith. In response to the [[standoff at the Great Sept of Baelor]], Tommen dismissed Jaime from the Kingsguard and sent him off to the Riverlands to assist House Frey in taking back Riverrun. For her role in the forgery of this alliance, Margaery was forgiven for her crimes, though Loras and Cersei still had to stand trial.
+
+[[File:610 Sept of Baelor Destruction Promo.png|thumb|The Great Sept of Baelor explodes from wildfire, killing all those inside and around it.]]
+At said trial, Cersei did not attend, and instead [[Destruction of the Great Sept of Baelor|destroyed the Great Sept of Baelor]] with [[Aerys II Targaryen|Aerys Targaryen]]'s wildfire, killing most of her enemies in a single stroke. After being informed of Margaery's death, Tommen committed suicide. Cersei then ascended the Iron Throne, proclaimed as the [[King of the Andals and the Rhoynar and the First Men|Queen of the Andals and the First Men]] and [[Protector of the Seven Kingdoms]]. 
+
+===Battle of the Bastards===
+Despite their role in [[Battle in the ice|defeating Stannis]] and the [[Red Wedding]], House Bolton betrays the Iron Throne when Roose weds Sansa to Ramsay. This alliance is forged by Roose and Littlefinger. 
+
+Sansa escapes from Winterfell arrives at Castle Black, where Jon had recently been resurrected by the will of Davos and Melisandre, after facing a [[Mutiny at Castle Black|mutiny]]. Sansa and Jon plot to retake Winterfell from the Boltons, and gather troops of Northmen and wildlings.
+
+Meanwhile, at Winterfell, Ramsay seizes power when he [[Assassinations at Winterfell|murders]] his father Roose, his stepmother [[Walda Bolton|Walda]], and his [[Roose Bolton's son|newborn half-brother]]. Ramsay has the backing of House Karstark through [[Harald Karstark]], as well as House Umber through [[Smalljon Umber]], who hands over Rickon to Ramsay.
+
+After an uneventful parley, the Stark-wildling and Bolton armies clash just outside of Winterfell at the Battle of the Bastards. Though the Stark and Free Folk forces are on the verge of complete annihilation, they are relieved by a cavalry force of the Vale. The Bolton is defeated. At a meeting between the lords of the North and the Vale, Jon is proclaimed the King in the North, thus reviving the Kingdom of the North.
+
+===Coup in Dorne===
+Angered by the deaths of Elia and Oberyn Martell at the hands of House Lannister, [[Ellaria Sand]] demanded justice. She gathered the support of three of the [[Sand Snakes]], Oberyn's bastard daughters: [[Obara Sand|Obara]], [[Tyene Sand|Tyene]], and [[Nymeria Sand|Nymeria]]. They plotted to assassinate Myrcella in retaliation for Elia and Oberyn's deaths. After receiving a threatening message, Cersei sent Jaime and Bronn to rescue Myrcella.
+
+Jaime and Bronn infiltrated the [[Water Gardens]], where they duel against the sand Snakes. However, they were stopped and imprisoned by [[Areo Hotah]], the [[captain of the guard]] for Prince Doran. Jaime was eventually brought before Prince Doran. Knowing that King Tommen insists on Myrcella's return to King's Landing, Doran agreed as long as Trystane could sit at the small council.
+
+Myrcella was [[Assassination of Myrcella Baratheon|poisoned]] by Ellaria. Soon afterwards, Ellaria and the Sand Snakes staged their [[Coup in Dorne|''coup d'etat'']], killing Doran, Areo Hotah, and Trystane. Thus, House Martell went extinct as Ellaria and the Sand Snakes seized power over Dorne.
+
+===Fall of the mockingbird===
+Following the Battle of the Bastards, House Stark retook Winterfell and restored its power in the North. Sansa became the [[Lord of Winterfell|Lady of Winterfell]], while Jon was declared the King in the North by the lords of the North and the Vale.<ref name="E59" /><ref name="E60" />
+
+While Jon was negotiating with Daenerys on Dragonstone, Bran and Arya returned to Winterfell. Gradually losing his influential hold over Sansa, Baelish plotted to turn the Stark sisters against each other. However, his plot was foiled, and Baelish was [[Trial of Petyr Baelish|tried]] and found guilty of conspiring against House Stark. He was then executed by Arya, marking the extinction of [[House Baelish]] and the complete end of the War of the Five Kings.<ref name="E67">"[[The Dragon and the Wolf]]"</ref>
+
+==Legacy==
+[[File:Houndaryarideaway.png|thumb|The Riverlands are among the regions that are left devastated from the War of the Five Kings.]]
+The War of the Five Kings severely weakened the Iron Throne; specifically, the [[House Baratheon of King's Landing|Baratheon dynasty]], which had, after Robert's death, essentially become a Lannister puppet. It was the largest civil war since the [[Dance of the Dragons]], resembling the endless internal conflicts that the Seven Kingdoms used to face before [[Aegon's Conquest]] unified the Seven Kingdoms into one realm under the rule of the [[House Targaryen|Targaryen dynasty]], which had been overthrown less than two decades before the War of the Five Kings in Robert's Rebellion.
+
+The war devastated the countryside of Westeros, leaving villages and towns burnt to the ground. Tens of thousands of smallfolk were killed in the conflict, and the bloody acts of war created great rift between the nobility and the commoners.
+
+Furthermore, for the first time since the Targaryen conquest of Westeros, the lineup of the Great Houses was dramatically shaken and altered. Tensions continued to remain between the great and noble families even after the war came to a formal close.
+
+Ultimately, these continued tensions would go on to impact the Last War, which commenced only a couple years after the War of the Five Kings ended, as well as the [[Great War]] between the living and the [[Wight|army of the dead]], controlled by the [[White Walkers]], an ancient and long forgotten enemy to all that lives in [[Known world|the world]].
+
+== Combatants ==
+=== [[Joffrey Baratheon|The King on the Iron Throne]] ===
+[[File:Joffrey 2x10.jpeg|thumb|181x181px|Joffrey I "Baratheon", the King on the Iron Throne]] <!-- 181x181px; Joff.jpg -->
+Joffrey Baratheon is said to be the eldest son of King Robert. After Robert's death, Joffrey was crowned as the new King, and his mother was named Queen Regent in defiance of Robert's will. As Joffrey actually sat on the Iron Throne, however, he was referred to as "the King on the Iron Throne." Joffrey was primarily backed by House Lannister, the lords of the Westerlands and the ''de facto'' controllers of the Iron Throne. After the Battle of the Blackwater, he was also supported by House Tyrell. He was later assassinated during the Purple Wedding in 301 AC, becoming the third of the five kings to die in the war.
+
+=== [[Stannis Baratheon|The King in the Narrow Sea]] ===
+[[File:Stannis-3x01.jpg|thumb|180px|Stannis I Baratheon, the "King in the Narrow Sea"]] <!-- 180px; StannisNorthRemember.jpg -->
+Stannis claimed the Iron Throne on the basis that he was the rightful heir to his late brother Robert, since Robert's three "children" were in fact fathered by Jaime. Though technically the rightful heir, Stannis found himself with little support due to his blunt nature and lack of charm and charisma. He did, however, have the support of Melisandre, who believed Stannis to be the [[Prince That Was Promised]], as well as his vassals sworn directly to Dragonstone. He was killed in the [[battle in the ice]] in 302 AC, becoming the fourth of the five kings to die in the war.
+
+=== [[Renly Baratheon|The King in Highgarden]] ===
+[[File:Renly-baratheon-gethin-anthony-helen-sloan.jpeg|thumb|Renly I Baratheon, "the King in Highgarden"]] <!-- Renly_promo.jpg -->
+Renly laid claim to the Iron Throne just as his elder brother Stannis did, as well as his alleged nephew Joffrey. Although the youngest Baratheon brother, Renly believed that he would be a better king than Stannis, noting how the line of succession did not matter when Robert usurped the Iron Throne from [[Aerys II Targaryen]] during Robert's Rebellion. Renly also had the backing of the vassals of the Stormlands, plus the wealthy House Tyrell and its vassals in the Reach. Assassinated on the orders of Stannis in 299 AC, he was the first of the five kings to die in the war.
+
+=== [[Robb Stark|The King in the North]] ===
+[[File:Robb Stark after the battle.jpg|thumb|Robb Stark, the King in the North]] <!-- Robb 2x01.jpg -->
+Robb did not lay claim to the Iron Throne; instead, following his father's execution, he was declared the King in the North by his bannermen, and proclaimed independence for the North and the Riverlands, constituting a revived Kingdom of the North. He was later betrayed and killed in the [[Red Wedding]] in 300 AC, becoming the second of the five kings to die in the war.
+
+=== [[Balon Greyjoy|The King of the Iron Islands]] ===
+[[File:Balon.png|thumb|181x181px|Balon Greyjoy, the King of the Iron Islands]]
+Balon Greyjoy did not lay claim to the Iron Throne, but instead re-declared independence for the Iron Islands and proclaimed himself the King of the Iron Islands. As the War of the Five Kings unfolded, Balon launched [[Ironborn invasion of the North|an invasion of the North]], while the majority of its bannermen were in the Riverlands fighting the Lannisters. He was assassinated by his brother [[Euron Greyjoy|Euron]] in 303 AC, becoming the fifth and last of the five kings to die in the war.
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the War of the Five Kings is one of the major storylines which the narrative revolves around.
+
+The name is first mentioned in the third novel: shortly before Joffrey's wedding, Tyrion muses that the struggle that the maesters are calling the War of the Five Kings - is all but at an end. 
+
+In the TV series, it is first named in dialogue in Season 2's episode "[[A Man Without Honor]]", when Tywin Lannister says that people are calling it the "War of Five Kings". Apparently he was just speaking loosely, and the formal name is still the same in the TV continuity, because Joffrey later prominently refers to it as the "War of ''the'' Five Kings" during his wedding in Season 4 episode "[[The Lion and the Rose]]".
+
+While it is popularly known as the War of the "Five" Kings, in the fourth novel an archmaester named Benedict points out that this is somewhat inaccurate, as Balon openly declared himself King of the Iron Islands only slightly after Renly died, so there were never five kings actively fighting each other at one time. Nonetheless the name has stuck, and it does still refer to the fact that five kings were involved. For the TV series, however, it might be somewhat accurate, depending on when Balon Greyjoy's secession of the Iron Islands "officially" began. Renly was killed at the beginning of the [[The Ghost of Harrenhal|fifth episode]] of Season 2. Balon explains to Theon that he intends to make himself a king by force in the [[The Night Lands|second episode]] of Season 2, but this isn't followed by a polite declaration: the ironborn make a surprise attack against the North at the beginning of the [[The Old Gods and the New|sixth episode]] of Season 2, taking [[Torrhen's Square]] and Winterfell. Thus Balon briefly claimed the title of King while Renly was still alive, but the first the other factions knew about this was when [[Iron Fleet|ironborn raiders]] were at their doorsteps, after Renly died.
+
+It is generally a four-sided war, between the Lannisters, Starks, Baratheons, and Greyjoys. Renly's brief time as a claimant, controlling most of the armies of the Stormlands and the Reach, did affect the strategic position of the Lannisters, but he didn't set out to engage them on the battlefield. Instead the Tyrells had cut off the Roseroad, effectively blockading resources and foodstuffs from reaching the capital, and Renly was content to sit back and let the Lannisters exhaust themselves against the Starks while he built up his own strength to overwhelming levels, at which point he intended to march directly on King's Landing. Also while there are four "sides", this does not include political machinations and large territories changing sides, i.e. the Vale of Arryn or Dorne, and particularly House Tyrell, which considerably tipped the balance of the war when they switched their allegiance to the Lannisters. Due to simple geography, of course, any one faction isn't actively fighting three others all the time. Simply due to the fact that they are located on opposite coasts of the continent the Greyjoys (off the west coast) and Stannis (off the east coast) aren't actively fighting each other while he's on Dragonstone. Stannis does nominally consider the North to be in rebellion against him, but in practice doesn't actively fight the North, because he's more concerned with retaking the capital city from the Lannisters. As seen in the TV series, the Starks do send peace overtures to the Baratheons, but Stannis refuses to allow the North to secede and take away vast territories which he feels are rightfully his. While the Greyjoys aren't actively fighting Stannis, they are not on the side of the Starks or the Lannisters, and are truly looking out only for their own interests.
+
+By the point the novels reached, only one of the five titular leaders in the War of the Five Kings is still alive - Stannis.
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Navboxes-->
+{{War of the Five Kings}}
+{{Wars}}
+
+<!--Categories-->
+[[Category:Featured pages]]
+[[Category:War of the Five Kings| ]]
+[[Category:Wars|Five Kings]]
+
+<!--Languages-->
+[[de:Krieg der Fünf Könige]]
+[[es:Guerra de los Cinco Reyes]]
+[[fr:Guerre des Cinq Rois]]
+[[it:Guerra dei Cinque Re]]
+[[pl:Wojna Pięciu Królów]]
+[[pt-br:Guerra dos Cinco Reis]]
+[[ru:Война пяти королей]]
+[[tr:Beş Kralın Savaşı]]
+[[uk:Війна пʼяти королів]]
+[[zh:五王之战]]

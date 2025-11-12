@@ -1,0 +1,362 @@
+{{DISPLAYTITLE:''Game of Thrones'': Season 1}}
+{{Season
+| Season     = 1
+| Type       = Thrones
+| Image      = {{PAGENAME}}.jpg
+| Episodes   = 10{{HBOref|GOT1}}
+| Premiere   = "[[Winter Is Coming]]"{{HBOref|GOT1}}
+| Finale     = "[[Fire and Blood]]"{{HBOref|GOT1}}
+| Network    = [[HBO]]{{HBOref|GOT}}
+| First      = April 17, 2011{{Listref|GOT}}
+| Final      = June 19, 2011{{Listref|GOT}}
+| Runtime    = 561 minutes{{Boxref|GOT1}}
+| Home       = March 6, 2012{{Webref|name=Blu-ray |author=Jacob Klein |date=March 4, 2012 |url=https://hbowatch.com/game-of-thrones-dvd-blu-ray-available-56/ |title=Game of Thrones DVD & Blu-Ray Available 3/6! |website=HBO Watch |access-date=December 15, 2023 }}
+| Starring   = {{Collapse|[[Sean Bean]]{{Ref|GOT101}}<br>[[Mark Addy]]{{Ref|GOT101}}<br>[[Nikolaj Coster-Waldau]]{{Ref|GOT101}}<br>[[Michelle Fairley]]{{Ref|GOT101}}<br>[[Lena Headey]]{{Ref|GOT101}}<br>[[Emilia Clarke]]{{Ref|GOT101}}<br>[[Iain Glen]]{{Ref|GOT101}}<br>[[Aidan Gillen]]{{Ref|GOT103}}<br>[[Harry Lloyd]]{{Ref|GOT101}}<br>[[Kit Harington]]{{Ref|GOT101}}<br>[[Sophie Turner]]{{Ref|GOT101}}<br>[[Maisie Williams]]{{Ref|GOT101}}<br>[[Richard Madden]]{{Ref|GOT101}}<br>[[Alfie Allen]]{{Ref|GOT101}}<br>[[Isaac Hempstead-Wright]]{{Ref|GOT101}}<br>[[Jack Gleeson]]{{Ref|GOT101}}<br>[[Rory McCann]]{{Ref|GOT101}}<br>[[Peter Dinklage]]{{Ref|GOT101}}}}
+| Producers  = [[David Benioff]]{{Ref|GOT101}}<br>[[D.B. Weiss]]{{Ref|GOT101}}<br><br>'''Co-executive producers'''<br>[[Carolyn Strauss]]{{Ref|GOT101}}<br>[[Guymon Casady]]{{Ref|GOT101}}<br>[[Vince Gerardis]]{{Ref|GOT101}}<br>[[Ralph Vicinanza]]{{Ref|GOT101}}<br>[[George R.R. Martin]]{{Ref|GOT101}}
+| Writers    = David Benioff{{HBOref|GOT101}}<br>D.B. Weiss{{HBOref|GOT101}}<br>[[Bryan Cogman]]{{HBOref|GOT104}}<br>[[Jane Espenson]]{{HBOref|GOT106}}<br>George R.R. Martin{{HBOref|GOT108}}
+| Directors  = [[Tim Van Patten]]{{HBOref|GOT101}}<br>[[Brian Kirk]]{{HBOref|GOT103}}<br>[[Daniel Minahan]]{{HBOref|GOT106}}<br>[[Alan Taylor]]{{HBOref|GOT109}}
+| Production = July 23, 2010{{Cite}}
+| Wrapped    = December 18, 2010{{Cite}}
+| Year       = [[298 AC]]{{Dateref|Game of Thrones: Season 1}}
+| Previous   = 
+| Next       = [[Game of Thrones: Season 2|Season 2]]{{HBOref|GOT}}
+}}
+{{Quote|You win or you die|Tagline|:File:Game of Thrones: Season 1.jpg}}
+'''''Game of Thrones'': Season 1'''{{HBOref|GOT1}} is the first season of ''[[Game of Thrones]]''. It consists of ten episodes. It premiered with "[[Winter Is Coming]]" on April 17, 2011 on [[HBO]], and concluded with "[[Fire and Blood]]" on June 19, 2011. It is based on ''[[A Game of Thrones]]'', the first novel of ''[[A Song of Ice and Fire]]'' by [[George R.R. Martin]].
+
+==Premise==
+{{Premise|GOT1}}
+
+==Overview==
+[[Image:Season 1 Locations map.png|thumb|600px|right|A map showing the notable locations of Season 1.]]
+Season 1 spans a period of several months on a world where the seasons last for years at a time. The action begins in the unified [[Seven Kingdoms]] of [[Westeros]] as the long summer ends and winter draws near. Lord [[Eddard Stark]] is asked by his old friend, King [[Robert Baratheon]], to serve as the [[Hand of the King]] following the death of the previous incumbent, Eddard's mentor [[Jon Arryn]]. Eddard is reluctant but receives intelligence suggesting that Jon was murdered. Eddard accepts Robert's offer, planning to use his position and authority to investigate the alleged murder.
+
+Meanwhile, on the eastern continent of [[Essos]], the exiled children of [[House Targaryen]], which Robert destroyed to claim the throne, are plotting to return to Westeros and unseat the 'usurper'. To this end, [[Viserys Targaryen (son of Aerys II)|Viserys Targaryen]] arranges the marriage of his sister [[Daenerys Targaryen|Daenerys]] to [[Khal]] [[Drogo]], the leader of 40,000 [[Dothraki]] warriors, in return for the use of his warriors in invading Westeros. For her part, Daenerys just wants to find a safe refuge far away from King Robert's assassins and her brother's scheming ambition.
+
+Finally, on the northern-most border of the Seven Kingdoms the sworn brothers of the [[Night's Watch]] guard the [[Wall]], a 300-mile-long colossal fortification of ice which has stood for thousands of years. The Watch defends the Wall against the depredations of the lawless [[Free Folk|wildlings]] who live beyond, but rumor speaks of a [[White Walkers|new threat]] arising in the lands of perpetual winter.
+
+==Episodes==
+{| {{Prettytable}}
+! Episode
+! Image
+! Title
+! Air date
+|-
+| style="text-align: center;" | 1{{HBOref|GOT101}}
+| [[File:GOT101.jpg|150px]]
+| "[[Winter Is Coming]]"{{HBOref|GOT101}}
+| April 17, 2011{{Listref|GOT}}
+|-
+| style="text-align: center;" | 2{{HBOref|GOT102}}
+| [[File:GOT102.jpg|150px]]
+| "[[The Kingsroad]]"{{HBOref|GOT102}}
+| April 24, 2011{{Listref|GOT}}
+|-
+| style="text-align: center;" | 3{{HBOref|GOT103}}
+| [[File:GOT103.jpg|150px]]
+| "[[Lord Snow]]"{{HBOref|GOT103}}
+| May 1, 2011{{Listref|GOT}}
+|-
+| style="text-align: center;" | 4{{HBOref|GOT104}}
+| [[File:GOT104.jpg|150px]]
+| "[[Cripples, Bastards, and Broken Things]]"{{HBOref|GOT104}}
+| May 8, 2011{{Listref|GOT}}
+|-
+| style="text-align: center;" | 5{{HBOref|GOT105}}
+| [[File:GOT105.jpg|150px]]
+| "[[The Wolf and the Lion]]"{{HBOref|GOT105}}
+| May 15, 2011{{Listref|GOT}}
+|-
+| style="text-align: center;" | 6{{HBOref|GOT106}}
+| [[File:GOT106.jpg|150px]]
+| "[[A Golden Crown]]"{{HBOref|GOT106}}
+| May 22, 2011{{Listref|GOT}}
+|-
+| style="text-align: center;" | 7{{HBOref|GOT107}}
+| [[File:GOT107.jpg|150px]]
+| "[[You Win or You Die]]"{{HBOref|GOT107}}
+| May 29, 2011{{Listref|GOT}}
+|-
+| style="text-align: center;" | 8{{HBOref|GOT108}}
+| [[File:GOT108.jpg|150px]]
+| "[[The Pointy End]]"{{HBOref|GOT108}}
+| June 5, 2011{{Listref|GOT}}
+|-
+| style="text-align: center;" | 9{{HBOref|GOT109}}
+| [[File:GOT109.jpg|150px]]
+| "[[Baelor]]"{{HBOref|GOT109}}
+| June 12, 2011{{Listref|GOT}}
+|-
+| style="text-align: center;" | 10{{HBOref|GOT110}}
+| [[File:GOT110.jpg|150px]]
+| "[[Fire and Blood]]"{{HBOref|GOT110}}
+| June 19, 2011{{Listref|GOT}}
+|}
+
+==Cast==
+{{Main|Game of Thrones: Season 1/Cast}}
+
+===Starring===
+*[[Sean Bean]] as [[Eddard Stark]] {{C|9 episodes}}
+*[[Mark Addy]] as [[Robert Baratheon]] {{C|7 episodes}}
+*[[Nikolaj Coster-Waldau]] as [[Jaime Lannister]] {{C|8 episodes}}
+*[[Michelle Fairley]] as [[Catelyn Stark]] {{C|9 episodes}}
+*[[Lena Headey]] as [[Cersei Lannister]] {{C|10 episodes}}
+*[[Emilia Clarke]] as [[Daenerys Targaryen]] {{C|9 episodes}}
+*[[Iain Glen]] as [[Jorah Mormont]] {{C|9 episodes}}
+*[[Aidan Gillen]] as [[Petyr Baelish]] {{C|8 episodes}}
+*[[Harry Lloyd]] as [[Viserys Targaryen (son of Aerys II)|Viserys Targaryen]] {{C|5 episodes}}
+*[[Kit Harington]] as [[Jon Snow]] {{C|8 episodes}}
+*[[Sophie Turner]] as [[Sansa Stark]] {{C|9 episodes}}
+*[[Maisie Williams]] as [[Arya Stark]] {{C|9 episodes}}
+*[[Richard Madden]] as [[Robb Stark]] {{C|8 episodes}}
+*[[Alfie Allen]] as [[Theon Greyjoy]] {{C|9 episodes}}
+*[[Isaac Hempstead-Wright]] as [[Bran Stark]] {{C|8 episodes}}
+*[[Jack Gleeson]] as [[Joffrey Baratheon]] {{C|10 episodes}}
+*[[Rory McCann]] as [[Sandor Clegane]] {{C|8 episodes}}
+*and [[Peter Dinklage]] as [[Tyrion Lannister]] {{C|9 episodes}}
+
+===Guest starring===
+* [[Ron Donachie]] as [[Rodrik Cassel]] {{C|9 episodes}}
+* [[Amrita Acharia]] as [[Irri]] {{C|8 episodes}}
+* [[Julian Glover]] as [[Pycelle]] {{C|8 episodes}}
+* [[Conleth Hill]] as [[Varys]] {{C|7 episodes}}
+* [[Donald Sumpter]] as [[Luwin]] {{C|7 episodes}}
+* [[Josef Altin]] as [[Pypar]] {{C|6 episodes}}
+* [[Susan Brown]] as [[Mordane]] {{C|6 episodes}}
+* [[Elyes Gabel]] as [[Rakharo]] {{C|6 episodes}}
+* [[Ian McElhinney]] as [[Barristan Selmy]] {{C|6 episodes}}
+* [[Luke Barnes|Luke McEwan]] as [[Rast]] {{C|6 episodes}}
+* [[Roxanne McKee]] as [[Doreah]] {{C|6 episodes}}
+* [[Dar Salim]] as [[Qotho]] {{C|6 episodes}}
+* [[Mark Stanley]] as [[Grenn]] {{C|6 episodes}}
+* [[Gethin Anthony]] as [[Renly Baratheon]] {{C|5 episodes}}
+* [[Esmé Bianco]] as [[Ros]] {{C|5 episodes}}
+* [[John Bradley]] as [[Samwell Tarly]] {{C|5 episodes}}
+* [[James Cosmo]] as [[Jeor Mormont]] {{C|5 episodes}}
+* [[Jerome Flynn]] as [[Bronn]] {{C|5 episodes}}
+* [[Francis Magee]] as [[Yoren]] {{C|5 episodes}}
+* [[Kristian Nairn]] as [[Hodor]] {{C|5 episodes}}
+* [[Eugene Simon]] as [[Lancel Lannister]] {{C|5 episodes}}
+* [[Jamie Sives]] as [[Jory Cassel]] {{C|5 episodes}}
+* [[Dominic Carter]] as [[Janos Slynt]] {{C|4 episodes}}
+* [[Charles Dance]] as [[Tywin Lannister]] {{C|4 episodes}}
+* [[Emun Elliott]] as [[Marillion]] {{C|4 episodes}}
+* [[Aimee Richardson]] as [[Myrcella Baratheon]] {{C|4 episodes}}
+* [[Robert Sterne]] as [[Royal Steward]] {{C|4 episodes}}
+* [[Owen Teale]] as [[Alliser Thorne]] {{C|4 episodes}}
+* [[Natalia Tena]] as [[Osha]] {{C|4 episodes}}
+* [[Callum Wharry]] as [[Tommen Baratheon]] {{C|4 episodes}}
+* [[Kate Dickie]] as [[Lysa Arryn]] {{C|3 episodes}}
+* [[Lino Facioli]] as [[Robin Arryn]] {{C|3 episodes}}
+* [[Ian Gelder]] as [[Kevan Lannister]] {{C|3 episodes}}
+* [[Wilko Johnson]] as [[Ilyn Payne]] {{C|3 episodes}}
+* [[Clive Mantle]] as [[Greatjon Umber]] {{C|3 episodes}}
+* [[Joseph Mawle]] as [[Benjen Stark]] {{C|3 episodes}}
+* [[Art Parkinson]] as [[Rickon Stark]] {{C|3 episodes}}
+* [[Mia Soteriou]] as [[Mirri Maz Duur]] {{C|3 episodes}}
+* [[Peter Vaughan]] as [[Aemon]] {{C|3 episodes}}
+* [[Miltos Yerolemou]] as [[Syrio Forel]] {{C|3 episodes}}
+* [[Ian Beattie]] as [[Meryn Trant]] {{C|2 episodes}}
+* [[Joe Dempsie]] as [[Gendry Baratheon|Gendry]] {{C|2 episodes}}
+* [[Mark Lewis Jones]] as [[Shagga]] {{C|2 episodes}}
+* [[Sibel Kekilli]] as [[Shae]] {{C|2 episodes}}
+* [[Conan Stevens]] as [[Gregor Clegane]] {{C|2 episodes}}
+* [[Ben Hawkey]] as [[Hot Pie]] {{C|"[[Fire and Blood]]"}}
+* [[Finn Jones]] as [[Loras Tyrell]] {{C|"[[The Wolf and the Lion]]"}}
+* [[Eros Vlahos]] as [[Lommy|Lommy Greenhands]] {{C|"Fire and Blood"}}
+
+===Also starring===
+*[[Jason Momoa]] as [[Drogo]] {{C|9 episodes}}
+
+==Crew==
+===Producers===
+* [[David Benioff]]: co-creator, showrunner, executive producer
+* [[D.B. Weiss]]: co-creator, showrunner, executive producer
+* [[George R.R. Martin]]: executive producer
+* [[Guymon Casady]]: executive producer
+* [[Carolyn Strauss]]: executive producer
+* [[Ralph Vicinanza]]: executive producer
+* [[Vince Gerardis]]: executive producer
+* [[Frank Doelger]]: producer
+* [[Mark Huffam]]: producer
+* [[Sean Bobbitt]]: director of photography
+* [[Sean Guest]]: 1st assistant director
+* [[Tatiana S. Riegel]]: editor
+* [[Gemma Jackson]]: production designer
+* [[Michele Clapton]]: costume designer
+* [[Marisa Clayton]]: digital post-production
+* [[Ramin Djawadi]]: composer
+* [[Buster Reeves]]: stunt work
+* [[Nina Gold]]: London casting director
+* [[Amy Berman]] & [[Carrie Frazier]]: Los Angeles casting directors
+* [[Michelle Taylor Spellman]]: Los Angeles casting associate
+* [[Kerry Barden]] & [[Paul Schnee]]: New York casting directors
+* [[Allison Estrin]]: New York casting associate
+
+===Writers===
+* [[David Benioff]] and [[D.B. Weiss]]: episodes [[Winter Is Coming|1]], [[The Kingsroad|2]], [[Lord Snow|3]], [[The Wolf and the Lion|5]], [[You Win or You Die|7]], [[Baelor|9]], and [[Fire and Blood|10]]
+* [[Bryan Cogman]]: [[Cripples, Bastards, and Broken Things|episode 4]]
+* [[Jane Espenson]]: [[A Golden Crown|episode 6]]
+* [[George R.R. Martin]]: [[The Pointy End|episode 8]]
+
+===Directors===
+* [[Thomas McCarthy]]: [[Pilot (Game of Thrones)|pilot]] {{Unreleased}}
+* [[Tim Van Patten]]: episodes [[Winter Is Coming|1]] and [[The Kingsroad|2]]
+* [[Brian Kirk]]: episodes [[Lord Snow|3]], [[Cripples, Bastards, and Broken Things|4]], and [[The Wolf and the Lion|5]]
+* [[Daniel Minahan]]: episodes [[A Golden Crown|6]], [[You Win or You Die|7]], and [[The Pointy End|8]]
+* [[Alan Taylor]]: episodes [[Baelor|9]] and [[Fire and Blood|10]]
+
+==Production==
+===Filming===
+Season 1 was mainly filmed on location in [[wikipedia:Northern Ireland|Northern Ireland]] and [[wikipedia:Malta|Malta]], with the Paint Hall facility in [[wikipedia:Belfast|Belfast]] being used as the main studio.
+
+===Deleted scenes===
+[[Image:Brandon's execution.jpg|thumb|Brandon Stark is executed by the Mad King.]]
+Due to limitations of filming time, there was very little shot for the season which was not eventually used. However, a notable scene cut was a flashback scene featuring the execution of [[Brandon Stark]] at the hands of the [[Aerys II Targaryen|Mad King]]. Actors were cast for this scene and it was filmed, even appearing in some trailers, but ultimately was not used. The scene did not even appear on DVD or Blu-ray releases of the season.<ref>[http://www.westeros.org/GoT/Gallery/Entry/2124/ Westeros.org report on the scene]</ref>
+
+==Home video==
+[[Image:GoT Season 1 DVD promo.jpg|thumb|The Season 1 Blu-ray set.]]
+Season 1 of ''Game of Thrones'' was released on DVD and Blu-ray on March 6, 2012. In the United States, [[wikipedia:Best Buy|Best Buy]] had exclusive packaging featuring the sigils of House Stark and House Targaryen on the cover, while [[wikipedia:HMV|HMV]] featured the Stark cover in the UK.[[Image:BestBuy S1 DVD.jpg|thumb|The Season 1 Targaryen and Stark packaging exclusive to Best Buy in the United States.]]On release, the DVD and Blu-ray became the fastest-selling release in the history of HBO, outselling in its first week box sets of series such as ''[[wikipedia:The Sopranos|The Sopranos]]'', ''[[wikipedia:Band of Brothers|Band of Brothers]]'' and ''[[wikipedia:True Blood|True Blood]]''. It sold over 350,000 copies in its first week on sale, with 57% of those sales on the Blu-ray format. It has also set new HBO records for digital sales on [[wikipedia:iTunes|iTunes]].<ref>[http://www.westeros.org/GoT/News/Entry/Game_of_Thrones_Registers_Big_DVD_Sales/ Westeros.org article on DVD sales]</ref>
+
+As well as all ten episodes of the first season, the set includes the following extra and special features:
+
+===Blu-ray exclusives===
+* Blu-ray ''Complete Guide to Westeros'': An interactive compendium of the noble houses and lands featured in Season One, PLUS 24 exclusive histories of the Seven Kingdoms as told by the characters themselves.[[Image:Game of Thrones Limited Edition Season 1.jpg|thumb|The limited edition set.]]
+* Anatomy of an Episode: An in-episode experience that explores the creative minds and colossal efforts behind episode six, “A Golden Crown”.
+* In-Episode Guide: In-episode resource that provides background information about on-screen characters, locations, and relevant histories while each episode plays.
+* Hidden Dragon Eggs: Find the hidden dragon eggs to uncover even more never-before-seen content.
+
+===Blu-ray and DVD===
+* Making Game of Thrones: An exclusive 30-minute feature including never-before-seen footage from the set and interview from the cast and crew.
+* Creating the Show Open: An inside look at the creation of the Emmy-winning opening title sequence for Game of Thrones
+* From the Book to the Screen: Executive producers David Benioff & D.B. Weiss, and author George R.R. Martin talk about the challenge of bringing Martin’s epic fantasy novel to life on HBO.
+* Character Profiles: Profiles of 15 major characters as described by the actors portraying them.
+* Audition Tapes: 25 minutes of audition reels and tapes showing how the main actors won their roles.
+* Inside the Night’s Watch: An in-depth look at the unique order of men who patrol and protect the Wall, a 700-foot ice structure that separates the Seven Kingdoms from the darkness beyond.
+* Creating the Dothraki Language: An insightful glance into the comprehensive language created for the Dothraki people in Game of Thrones.
+* Audio Commentaries: Seven audio commentaries with cast and crew.
+** "Winter Is Coming": Commentary by producers/writers David Benioff and D.B. Weiss.
+** "The Kingsroad": Commentary by actors Lena Headey, Mark Addy and Nikolaj Coster-Waldau.
+** "Lord Snow": Commentary by actors Sophie Turner, Maisie Williams and Isaac Hempstead-Wright.
+** "Cripples, Bastards, and Broken Things": Commentary by actor Kit Harington and writer Bryan Cogman.
+** "A Golden Crown": Commentary by actors Peter Dinklage, Harry Lloyd and Emilia Clarke, and director Daniel Minahan.
+** "The Pointy End": Commentary by writer/producer/consultant George R.R. Martin.
+** "Fire and Blood": Commentary by producers/writers David Benioff and D.B. Weiss and director Alan Taylor.
+
+===Special limited edition===
+Season 1 was reissued on 20 November 2012 in a special limited edition box set. This set contains the entirety of Season 1 on Blu-ray and DVD (with the accompanying special features), as well as access to digital downloads of the episodes. The set also included a dragon egg paperweight and a bonus preview disc containing the [[The North Remembers|first episode of Season 2]].
+
+==In the books==
+{{Main|Differences in adaptation/Game of Thrones: Season 1}}
+The season generally follows the first novel ''A Game of Thrones'', and consists of a few scenes based on the second novel ''A Clash of Kings''.
+
+==Gallery==
+===Videos===
+====Trailers====
+<gallery bordersize="none">
+Game Of Thrones "Raven" Preview (HBO)
+Game Of Thrones "Winter Is Coming" (HBO)
+Game Of Thrones: Clip Preview (HBO)
+Game of Thrones: "Iron Throne Preview" (HBO)
+Game of Thrones "Iron Throne" Clip Preview
+Game Of Thrones "The Game Begins" Preview (HBO)
+Game Of Thrones "Fear and Blood" Trailer (HBO)
+Game Of Thrones: "Power" Trailer (HBO)
+Game Of Thrones: "Epic" Promo (HBO)
+Game Of Thrones: "Poison" Trailer (HBO)
+Game of Thrones: Season 1 - Critics Trailer (HBO)
+Game of Thrones: Comic-Con Trailer (HBO)
+Game of Thrones Season 1 DVD/Blu-Ray: Intrigue
+Game of Thrones Season 1 DVD/Blu-Ray: War
+Game of Thrones / Official Season 1 Recap Trailer (HBO)
+</gallery>
+
+====Behind the scenes====
+<gallery bordersize="none">
+Game Of Thrones: In Production (HBO)
+Game of Thrones: Season 1 - Inside Game of Thrones (HBO)
+Game Of Thrones: Invitation To Westeros (HBO)
+About Game Of Thrones (HBO)
+Game of Thrones: Costumes (HBO)
+Game of Thrones: Making Of (HBO)
+</gallery>
+
+====The Artisans====
+<gallery bordersize="none">
+Game Of Thrones: The Artisans - Richard Roberts (HBO)
+Game Of Thrones: The Artisans - Michele Clapton (HBO)
+Game Of Thrones: The Artisans - Gemma Jackson (HBO)
+Game Of Thrones: The Artisans - Gemma Jackson on the Castle Black Lift (HBO)
+Game of Thrones: The Artisans - Buster Reeves (HBO)
+Game Of Thrones: The Artisans - Maisie Williams (HBO)
+Game Of Thrones: The Artisans - Paul Inglis (HBO)
+Game Of Thrones: The Artisans - Tommy Dunne (HBO)
+Game Of Thrones: The Artisans - Simon Brindle (HBO)
+Game Of Thrones: The Artisans - Gordon Fitzgerald (HBO)
+The Artisans: Gemma Jackson on the Iron Throne Room (HBO)
+Game Of Thrones: The Artisans - Jim Stanes (HBO)
+</gallery>
+
+====House features====
+<gallery bordersize="none">
+Game Of Thrones: House Baratheon Feature (HBO)
+Game of Thrones: House Lannister Feature (HBO)
+Game of Thrones: House Stark Feature (HBO)
+Game Of Thrones: House Targaryen Feature (HBO)
+</gallery>
+
+====Character features====
+<gallery bordersize="none">
+Game Of Thrones: Character Feature - Robb Stark (HBO)
+Game Of Thrones: Character Feature - Bran Stark (HBO)
+Game Of Thrones: Character Feature - Viserys Targaryen (HBO)
+</gallery>
+
+====Commentary====
+<gallery bordersize="none">
+Game of Thrones: Season 1 - Stark Kids Sing Show Open (HBO)
+</gallery>
+
+===Images===
+<gallery>
+Got jon poster.jpg
+Got daenerys poster.jpg
+Got robert poster.jpg
+Got-eddard-poster.jpg
+Got cersei poster.jpg
+</gallery>
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|Game of Thrones - Season 1}}
+*{{HBO|game-of-thrones/season-1}}
+*{{WP|Game of Thrones season 1|''Game of Thrones'' season 1}}
+
+<!--Navboxes-->
+{{Game of Thrones}}
+{{World of Westeros}}
+
+<!--Categories-->
+[[Category:Game of Thrones: Season 1| ]]
+[[Category:Seasons of Game of Thrones|1]]
+[[Category:Seasons released in 2011|4.17]]
+
+<!--Languages-->
+[[de:Staffel 1]]
+[[es:Game of Thrones-Temporada 1]]
+[[fr:Saison 1]]
+[[it:Prima Stagione]]
+[[ja:シーズン1]]
+[[pl:Sezon 1]]
+[[pt-br:1ª Temporada]]
+[[ro:Sezonul 1]]
+[[ru:Игра престолов: Сезон 1]]
+[[sv:Säsong 1]]
+[[uk:Гра Престолів: Сезон 1]]
+[[zh:第一季]]

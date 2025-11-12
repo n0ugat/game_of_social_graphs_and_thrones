@@ -1,0 +1,773 @@
+{{Canonicity|Canon}}
+{{Spoiler|AKOTSK}}
+{{References}}
+{{SameName|canonical history of the known world|non-canonical equivalent|History/Non-canon}}
+{{Quote|The past is already written. The ink is dry.|[[Brynden Rivers]]|Oathkeeper (episode)}}
+The recorded '''history'''{{Ref|GOT101}} of [[Westeros]] extends back over 12,000 years, according to tradition, though the accuracy of the legends and myths that recount much of this history is openly questioned by the [[Order of Maesters|maesters]] of the [[Citadel]], amongst others.
+
+The earliest written histories date back to about 6,000 years ago, when the [[Andals]] first introduced writing to Westeros. The [[First Men]] had no writing system more advanced than runes for marking graves, thus all history before 6,000 years ago relies on oral tradition. Many of the events before 6,000 years ago in Westeros, during the [[Age of Heroes]], are half-legendary, and some of the more fanciful tales of these times probably have little basis in reality. Still, all legends and oral histories may have some kernel of truth behind them. Written histories in Essos from the great civilizations of [[Valyrian Freehold|Valyria]] and [[Old Ghis|Ghis]] also date back roughly five to six thousand years.
+
+The dating system is based on [[Aegon's Conquest]], thus all years are followed by either "BC" (Before Conquest) or "AC" (After Conquest).
+
+==The Dawn Age==
+{{Main|Dawn Age}}
+
+===Prehistory===
+[[File:Children of the Forest.png|thumb|The [[Children of the Forest]] inhabited Westeros long before humans came to the continent.]]
+*Westeros is inhabited by non-human races: the [[Children of the Forest]], a diminutive species of greenseers and wood-dancers, and the [[Giants]]. The giants are primitive, wielding only tree logs as clubs; the Children are somewhat more advanced, aboriginal hunter-gatherers who make villages in the woods. The Children work no metals, but have great skill making daggers and arrowheads from razor-sharp [[dragonglass]]. The Children of the Forest worshiped the gods of nature, the [[Old Gods]], and carved the faces into sacred [[weirwood]] trees. The Children also developed great mastery of [[magic]] powers. Here and there the giants quarreled with the Children, but when one group was losing they would simply move to another area: the total combined population of the Children and the giants across all of Westeros wasn't enough to fill even one of the later Seven Kingdoms, and so its vast primeval forests remained sparsely populated for many centuries.<ref name="VG Westeros Through The Ages">[http://viewers-guide.hbo.com/game-of-thrones/season2/#!/guide/appendix/beyond-the-houses/ HBO Viewer's Guide, Season 2 appendices Westeros Through the Ages]</ref><ref>[[The Children of the Forest, the First Men, and the Andals]]</ref>
+
+===c. 11700 BC===
+[[File:H&L610.png|thumb|The [[First Men]] battle with the Children of the Forest.]]
+*A human ethnic group, the [[First Men]], invades Westeros across the Arm of [[Dorne]] from [[Essos]]. The [[war of the First Men and the Children of the Forest]] last for generations: the Children possess strong [[Magic|magic]] powers, but the First Men are stronger, better armed with bronze weapons, and simply more numerous. The Children of the Forest use their magic to call down the [[hammer of waters]], destroying the Arm of Dorne and creating the island chain known as the [[Stepstones]]. Destroying the land bridge prevent more humans from crossing to the continent on foot, but there are already far too many in southern Westeros to stop.<ref name="VG Westeros Through The Ages"/> Eventually the Children of the Forest call down the hammer of waters a second time, to try to split Westeros in two (and retreat to the northern half), but this time they only succeed in flooding the [[Neck]], transforming its fields into swamps and bogs.<ref>"[[House Reed (short)|House Reed]]"</ref>
+
+===c. 11200 BC===
+[[File:ThePact.png|thumb|The First Men and the Children join hands in peace, after the Pact ends their centuries-long wars.]]
+*After years of warfare, the two sides agree to a truce: the Children could not win, but the First Men feared the massive cost in lives if they continued to fight the Children to extinction. Wiser heads prevailed, and so the Children and First Men made the [[Pact]] on the [[Isle of Faces]]: the First Men took control of the open lands and the Children took control of the forested interiors. In time, the First Men adopt the worship of the [[Old Gods]]. The forging of the Pact marked the end of the Dawn Age, and the beginning of the [[Age of Heroes]].<ref name="VG Westeros Through The Ages" />
+**The First Men who settle in the [[Iron Islands]], separated from the mainland, develop their own unique culture based on seafaring and [[raiding]]. They become known as the [[Ironborn]], and unlike their First Men cousins on the mainland, develop their own local religion worshiping a deity known as the [[Drowned God]].
+**The First Men who settle in the Neck branch off to form their own unique culture, known as the [[Crannogmen]]. They still worship the Old Gods like their neighbors, but their society has adapted to the swampy climate of their territory.
+*[[File:Childrenoftheforest.jpg|thumb|The Children of the Forest during the Dawn Age, as seen during a flashback vision in "[[The Door]]".]][[File:Night's-king-creation-605.jpg|thumb|The Children, in desperation, turn captured humans into the first [[White Walkers]].]]At some undetermined point, when the Children of the Forest were clearly losing their wars against the First Men, in desperation the Children secretly created the first [[White Walkers]]. The Children realized they couldn't hope to overcome the sheer numbers of humans - but came upon an idea to turn those very numbers against them. The Children created the White Walkers from captured First Men in dangerous magical rituals, imbuing them with the power to raise dead humans (and other animals) into reanimated [[wight]]s. ''However'', the Children ultimately didn't deploy the first White Walkers against the First Men, for reasons not yet explained (possibly because the First Men ultimately sought the peace of the Pact - the White Walkers may have only been meant as a weapon of last resort, and it never came to that).
+**Through as-of-yet unexplained circumstances, the White Walkers later broke free of the control of the Children of the Forest and turned on them - now determined to destroy ''all'' life, not just the First Men, leading to the Long Night. Exactly when or how this happened is unknown, given that potentially 3,500 years passed between the ''end'' of the wars with the First Men, and the White Walkers' full scale assault in the Long Night.
+
+==The Age of Heroes==
+{{Main|Age of Heroes}}
+
+===c. 7700 BC===
+[[File:TheLongNightRaisingTheDead.jpg|thumb|The dead raised as [[wight]]s.]]
+[[File:H&L104.png|thumb|The First Men drove back the White Walkers to the furthest north.]]
+[[File:The Wall.jpg|thumb|The Wall was constructed to defend against any return of the White Walkers.]]
+*A great winter that lasts a generation descends on the world, followed by a night that goes for years: the [[Long Night]]. Under the cover of darkness, the [[White Walkers]] invade [[Westeros]] from the uttermost north, causing immense suffering and destruction. In the Battle for the Dawn, the [[Children of the Forest]] and the [[First Men]] unite to defeat the Walkers, eventually throwing them back into the north. In the eastern tradition, they are led by a great hero of the east, a warrior named [[Azor Ahai]] wielding a sword of fire named [[Lightbringer]], but Westerosi accounts do not mention him. A great leader named [[Brandon the Builder]] raises the [[Wall]] with artifice and magic to bar against the Walkers' return. He also founds the castle of [[Winterfell]], founds [[House Stark]] and the [[Night's Watch]] and, according to some, is named as the first [[King in the North|King]] in the [[North]]. Despite their victory, the Children of the Forest suffered heavy losses in the war and begin to disappear from Westeros.<ref name="VG Westeros Through The Ages" />
+*The [[Nightfort]] is the first castle built on the Wall, and remains the headquarters of the Night's Watch for almost six thousand years. Eighteen additional castles are later built along the Wall, sometimes centuries apart.
+*Those First Men tribes unlucky enough to be living north of the Wall when it is constructed are trapped in the lands beyond. They become isolated from the developing kingdoms to the south and eventually hostile to them, despite their shared ethnic background. These tribes call themselves the "[[Free Folk]]", though the kingdoms south of the Wall consider them to be barbarians, and derisively call them the "wildlings". Despite their differences, the Free Folk continue to follow the same religion of the Old Gods, just like their cousins to the south of the Wall.
+*[[File:NightsKingQueen.jpg|thumb|Night's King and his corpse queen enslaved the black brothers and performed human sacrifices.]]One of the first Lord Commanders of the Night's Watch is, according to legend, seduced by a [[Corpse queen|white-skinned woman]] from beyond the Wall. He sets himself up as king of the Wall and the Night's Watch, and conducts human sacrifices. The Stark King in the North as well as the wildling [[King-Beyond-the-Wall]], [[Joramun]], [[Fall of Night's King|unite to defeat him]] and restore the Night's Watch. Afterwards, the evil Lord Commander's name is ordered to be purged from history, so the legends remember him only as "[[Night's King]]" (not the same as "the [[Night King]]").
+*At some point in these centuries, according to legend, a king from the south visited the Wall but gave some great offense to the Nightfort's cook. In revenge, the cook killed the king's son and served his flesh to him in a pie. The legend says that the gods cursed the cook by turning him into a giant rat who eats his own offspring, and he is remembered as the [[Rat Cook]]. Later generations would remember this legend as an infamous example of a violation of [[Guest right]], a crime which the gods cannot forgive.
+
+===c. 7700-5700 BC===
+*The First Men form a shifting quilt of small kingdoms across Westeros south of the Wall, gradually coalescing into larger kingdoms. Legendary heroes of this time period are held to be the ancestors of the [[Great House]]s that rule the Seven Kingdoms in later centuries.
+**Bran the Builder may have ruled the North from Winterfell as some sort of high-king, but this unity falls apart after the threat of the Long Night ends, and the North fragments into various petty kingdoms, like the rest of Westeros. Their great rivals are [[House Bolton]], who according to some legends began fighting them as soon as the Long Night ended and the Wall was finished.<ref>"[[House Bolton (short)|House Bolton]]"</ref>
+**[[Garth the Gardener]] builds [[Highgarden]] and settles the fertile fields of the [[Reach]]. His dynasty continues as [[House Gardener]], though Garth's numerous descendants also found many other vassal Houses throughout the Reach.
+**[[Lann the Clever]] swindles [[House Casterly]] out of [[Casterly Rock]] and its rich gold mines using nothing but his wits, and becomes the founder of [[House Lannister]].
+**[[Durran Godsgrief]] builds the impregnable fortress [[Storm's End]], founding [[House Durrandon]] (ancestors of [[House Baratheon]]).
+**The [[Grey King]] unites the [[Iron Islands]], and according to legend kills [[Nagga]] the sea-dragon. His sons begin the tradition of the [[kingsmoot]], raising up non-hereditary high kings of the isles by holding an election among their own lords.
+*[[Oldtown]] grows to become the first and largest city in Westeros, ruled by [[House Hightower]]. A guild of scholars and healers forms in the city, who over the generations eventually organize into the [[Order of Maesters]]. The Maesters spread to every castle and town in Westeros, sent out from their headquarters in Oldtown, the [[Citadel]], which becomes one of the greatest seats of learning in the world.
+*The [[Ironborn]] enter into their first great age of expansion under [[House Hoare]], conquering much of the western coasts of Westeros (as signified in their heraldry). Their possessions range from Bear Island in the far north to the Arbor in the far south, and many lands along the coasts in between. They penetrate as far as Raventree Hall in the northern Riverlands, but their dominion is mostly concentrated near the coasts. Over time, however, as major kingdoms centralized and grew in power on the mainland, such as the Starks of Winterfell and Gardeners of Highgarden, they gradually expelled the Ironborn, until they were pushed back to the Iron Islands themselves (in a long process stretching from c. 8,000 BC to c. 4,000 BC, when the Andals finally reached the isles).
+*[[House Lannister]] unites much of the [[Westerlands]], through a combination of war, wealth, and marriage-alliance. The Lannisters then skillfully lead the Westerlands to fight off the constant raids from the nearby Iron Islands, and forms the [[Westerlands|Kingdom of the Rock]].
+*[[House Gardener]] originally ruled the northern portions of the [[Reach]] around Highgarden, but over time absorbed surrounding petty kingdoms through peaceful marriage-alliance. Finally, it absorbed the last and greatest of its local rivals, the Hightower kingdom around Oldtown, to unite the entire region as the [[Reach|Kingdom of the Reach]].
+*[[File:Bolton-bends-the-knee.jpg|thumb|King [[Rogar Bolton]] bends the knee to the Starks of [[Winterfell]], the culmination of the Starks cementing their rule as kings over the entire North.]][[House Stark]] of [[Winterfell]] gradually [[Unification of the North|establishes more and more control]] over the rest of the [[North]], so that in time they claim the title [[King in the North]]. Some other Northern Houses unite with them voluntarily, such as the warriors of [[House Umber]]. Another Stark won [[Bear Island]] back from the Ironborn in a wrestling match, and gave it to [[House Mormont]] to rule. Another Stark king warred with the [[Marsh King]] of the [[Crannogmen]] to the south, and after their defeat married the last Marsh King's daughter to cement the North's annexation of the [[Neck]]. The Starks' great rivals were the second most powerful House in the North, [[House Bolton]]. The Stark kings and Bolton kings vied with each other for centuries in bloody wars, and the Boltons were only finally forced into submission to the Starks 6,000 years ago - just as the Andals began to invade Westeros from across the Narrow Sea.
+
+==The coming of the Andals==
+{{Main|Coming of the Andals}}
+===c. 5700 BC===
+[[File:AndalsCrossTheNarrowSea.png|thumb|The Andals crossed the Narrow Sea to invade Westeros.]]
+[[File:S04E8 - Moat Cailin - distant view.png|thumb|The ancient fortress [[Moat Cailin]] dominates the only narrow road through the swamps of the Neck - the perfect choke point to block the Andals from the North.]]
+[[Image:AndalsRepulsedFromTheNorth.png|thumb|The Andals are repulsed by the Kings in the North]]
+*A race of men from [[Essos]], the [[Andals]], crossed the [[Narrow Sea]] in numerous ships and made landfall in the [[Vale of Arryn]]. Under the banner of the [[Faith of the Seven]], riding horses and wielding weapons made of iron, they overran and conquered all of Westeros south of the [[Neck]]. In a migration lasting several centuries, they spread out from the Vale to invade the rest of southern Westeros. The Andals killed the few remaining Children of the Forest as they encountered them, and the survivors disappeared.<ref name="VG Westeros Through The Ages" />
+**The Andals introduced the first full [[Writing systems|writing system]] to Westeros, whereas before the First Men had used only simple runes for tasks such as tomb markings. Thus the first full historical records in Westeros began to be produced after the coming of the Andals: legendary oral traditions about kings who lived for centuries and warred with gods fade away, though of course, these later historical accounts can be politically biased and still do not form a totally accurate record.
+*The Andals originated in the land of [[Andalos]], near modern [[Pentos]], east across the Narrow Sea. Thus the coming of the Andals was bloodiest along the eastern coasts of Westeros, in the Vale, the [[Riverlands]], and the [[Stormlands]]. Their overland migration waves only reached the western side of the continent generations later, and by that point they were clearly inevitable. Therefore, the rulers of the [[Westerlands]] and the [[Reach]] peacefully intermarried with chosen Andal groups, inviting them in and uniting with them to fight off the other Andal kingdoms in eastern Westeros.<ref>"[[Casterly Rock (short)|Casterly Rock]]"</ref><ref>"[[Highgarden (short)|Highgarden]]"</ref>
+**The Andal family [[House Arryn]] came to rule in the [[Vale of Arryn|Vale]], to the point that the region came to be known as "The Vale of Arryn". The First Men living in the Vale were nearly exterminated, except for those pushed back into the [[Mountains of the Moon]], where they lived a hardscrabble life as the [[Hill tribes]].
+**In most of southern Westeros, even regions that once bitterly resisted Andal incursions, local elites of the First Men eventually intermarried with Andal invaders as a form of submission, rather than fight them to extinction.
+**Thus, most of the later Great Houses considered "Andal" are actually an Andal/First Men mix, including [[House Lannister]], [[House Gardener]] (ancestors of [[House Tyrell]]), [[House Tully]], and [[House Durrandon]] (ancestors of [[House Baratheon]]).
+*The Andals' attempts to invade the North were frustrated by the North's natural defenses, namely the swamps of the [[Neck]] and the formidable fortress of [[Moat Cailin]] guarding the strategic chokepoint there. The strong leadership of the [[King in the North|Kings in the North]] from [[House Stark]] also enables the northmen to throw back any invasions by sea along their eastern coasts. Wars would continue in later centuries against other kingdoms in Westeros such as the Kingdom of the Vale, but by that point, the Andals had intermingled with the local First Men so much that they stopped being seen as distinct groups, and such conflicts just faded into local politics, no longer considered "invasions".
+*'''c. 4,000 BC '''- The Andals finally conquer the [[Iron Islands]], much later than the mainland of Westeros due to their isolated location. However, the few Andals who invaded the Iron Islands essentially "went native" and acculturated to the distinct Ironborn culture, even abandoning the Faith of the Seven to convert to worship of the Drowned God. Ancient Ironborn families such as House Hoare and [[House Greyjoy]] intermarry with the Andal invaders (just as the Lannisters, Gardeners, and Tullys did on the mainland). The cultural impact of thecoming of the Andals was therefore relatively minor in the Iron Islands. Thus the Ironborn of later centuries are composed of the same First Men/Andal ethnic mix of most of the rest of Westeros, and they took up the language of the Andals, but otherwise, their unique culture was not drastically affected by the coming of the Andals.
+
+==The rise and fall of Valyria==
+[[File:Ghiscari Empire at its height.png|thumb|The ancient [[Ghiscari Empire]] at its height, one of the oldest civilizations in the world, built on the backs of countless slaves.]]
+[[File:Fall of Old Ghis.png|thumb|[[Old Ghis]] was destroyed by dragonfire, as the Valyrians conquered eastern Essos.]]
+[[File:Dragonlord.png|thumb|The [[dragonlord]]s of [[Valyrian Freehold|Valyria]] defeated the [[Rhoynar]] city-states in the [[Rhoynish Wars]], conquering western Essos.]]
+[[File:Valyria.png|thumb|[[Valyrian Freehold|Valyria]] at its height was a city of wonders - the capital of an empire that ruled half the known world, from [[Pentos]] to [[Meereen]].]]
+{{Main|Valyrian Freehold}}
+*'''c. 8,000 BC''': On the eastern continent of [[Essos]], the ancient [[Ghiscari Empire]] flourishes on the eastern coast of [[Slaver's Bay]], one of the oldest - if not ''the'' oldest - great civilizations in the world. The Ghiscari Empire is built on large-scale [[slavery]] of conquered peoples, who toil away to build the great pyramids of [[Old Ghis]] and its colonies.
+
+===c. 4600 BC===
+*On the western side of Slaver's Bay, a race of peaceful shepherds find [[dragon]]s lairing in the [[Fourteen Flames]], an immense chain of volcanoes extending across the neck of the [[Valyrian peninsula]]. The [[Valyrians]] tame the dragons with magic and begin expanding their influence into the rest of Essos.
+
+===Ghiscari and Rhoynish Wars===
+*'''c. 5,000 - 4,000 BC''': The [[Ghiscari wars]]. Inevitably, the expanding [[Valyrian Freehold]] comes into conflict with the Ghiscari Empire over which superpower will dominate the continent. They fight a series of five great wars, ending with the Valyrians throwing down the Ghiscari in defeat. [[Old Ghis]] is burned to ashes with dragonfire and never rebuilt. The Valyrian Freehold absorbs all of the Ghiscari's former territories to their east, including all of the Ghiscari colony-cities in Slaver's Bay (such as [[Astapor]], [[Yunkai]], and [[Meereen]]).<ref name="VG Westeros Through The Ages" />
+*'''c. 700 BC''': The [[Rhoynish Wars]]. The Valyrian Freehold begins settling the region of the modern [[Free Cities]]. Their expansion brings them into conflict with the native inhabitants of the region surrounding the River [[Rhoyne]]. [[Nymeria]], the warrior-queen of the [[Rhoynar]], realizes that they cannot stand against dragons and they flee to Dorne, in southern Westeros. There Nymeria marries Lord Mors Martell and helps [[House Martell]] [[Nymeria's War|conquer the rest of Dorne]], finally unifying the region as one kingdom.<ref name="VG Westeros Through The Ages" />
+*'''c. 500 BC''': Revolting slaves take over the Valyrian fleet they were being transported in, and use the ships to flee from the Valyrian-controlled areas of central Essos to the northwestern corner of the continent. There they find a secretive lagoon protected by mountains and narrow access channels, where they found the Secret City of [[Braavos]].
+*'''c. 200 BC''': The Valyrians annex [[Dragonstone (island)|Dragonstone]], an island in the Narrow Sea just off the eastern coast of Westeros. The [[House Targaryen|Targaryen family]] takes control of the island, which is used as a trading post with the Seven Kingdoms.<ref name="VG Westeros Through The Ages" />
+
+===c. 155 BC===
+*[[Jaehaelor Mataeryon]] is born.{{Dateref|Jaehaelor Mataeryon}}
+
+===114 BC===
+*According to legend, [[Daenys Targaryen]] had a vision of impending catastrophe and [[Aenar Targaryen]] arranged to have his family removed from the Freehold.{{Dateref|Aenar's exile}}
+
+===102 BC===
+[[File:Doom.png|thumb|Massive volcanic eruptions destroyed Valyria in a single day.]][[File:Valyria 5x05 (4).png|thumb|Four centuries after "the Doom", [[Old Valyria]] is still a smoking ruin.]]
+*The [[Doom of Valyria]]. The Fourteen Flames erupt in a titanic explosion that obliterates the heartland of the Valyrian Freehold. Most of the Valyrian dragons, who lair in the volcanoes when not needed, are killed outright. The City of Valyria is partially buried under vast amounts of ash. The Valyrian peninsula fractures and breaks apart. A large part of it is torn away from the mainland, low-lying areas are flooded and many offshore islands are formed. The waters around Valyria remain poisonous until the present day.{{Dateref|Doom of Valyria}}
+
+===102-2 BC===
+[[File:Century of Blood Qohor.png|thumb|With Valyria destroyed, its empire disintegrated in chaotic civil wars: the [[Century of Blood]].]][[File:Battle-of-qohor-animated-history.jpg|thumb|The [[Dothraki]] mounted hordes rampaged across Essos until halted at the [[Battle of Qohor]].]]
+*The [[Century of Blood]]. In the aftermath of the Doom, Valyria's outlying colony-cities began breaking away and asserting their independence, becoming the nine [[Free Cities]]. The following one hundred years are chaotic free-for-all of almost constant warfare between them, also known as the Bleeding Years. Worse, without the Valyrian dragons to keep them in check anymore, the [[Dothraki]] mounted hordes spilled out of the central plains of Essos to sweep across most of the continent, in their first great wave of pillaging. For a time the Dothraki sacked cities at will, until their attacks were finally checked at the [[Battle of Qohor]]. Raids would continue afterwards but never on the same scale. Paralleling the Free Cities to the west, east of Valyria the Ghiscari cities of [[Slaver's Bay]] also reasserted their independence. Towards the end of this period, [[Volantis]] grew enough in strength to try to conquer and unite all of the other Free Cities, but Volantis was ultimately defeated. Afterwards, the Free Cities settled into somewhat more stable political patterns - just as Aegon Targaryen was uniting the Seven Kingdoms in Westeros.
+
+===c. 100 BC===
+*[[Melisandre]] is born.{{Dateref|Melisandre}}
+*[[Jaehaelor Mataeryon]] dies.{{Dateref|Jaehaelor Mataeryon death}}
+
+==Pre-Conquest Westeros==
+{{Main|Westeros}}
+[[File:Regions_of_Westeros.PNG|thumb|Territories and their rulers:<br>
+[[House Stark]], the [[North]] (white);<br>
+[[House Arryn]], the [[Vale of Arryn]] (dark grey);<br>
+[[House Tully]], the [[Riverlands]] (dark blue);<br>
+[[House Greyjoy]], the [[Iron Islands]] (dark yellow);<br>
+[[House Lannister]], the [[Westerlands]] (dark red);<br>
+[[House Tyrell]], the [[Reach]] (green);<br>
+[[House Durrandon]], the [[Stormlands]] (yellow);<br title="Ellaria Sand">
+[[House Martell]], [[Dorne]] (orange)<br title="House Targaryen">
+[[House Targaryen]], the [[Crownlands]] (brown);<br title="Night King">
+[[Night King]] (formerly the [[Free Folk]]), [[Beyond the Wall]] (light blue);<br title="Lord Commander">
+[[Lord Commander of the Night's Watch]], the [[Gift]] and the [[Wall]] (black)
+]]
+[[File:H&L401.png|thumb|Princess [[Nymeria]] leads the [[Rhoynar]] refugee fleet, fleeing the Valyrians, across the Narrow Sea to [[Dorne]].]][[File:Nymeria and Mors Martell.png|thumb|Nymeria and her Rhoynar unite with local ruler [[Mors Martell]] to conquer and unify Dorne for the first time.]][[File:DornishMarches.jpg|thumb|Endemic border wars between the Dornishmen, the Reach, and the Stormlands in the [[Dornish Marches]].]]
+[[File:The-Twins-under-construction.jpg|thumb|[[House Frey]]'s founder oversees construction of the [[Twins]].]]
+[[File:Men-of-House-Mudd.jpg|thumb|The Storm Kings conquered the old River Kings, and held the Riverlands for three centuries.]]
+*'''c. 6,000 - 700 BC '''- Over the centuries following the coming of the Andals, hundreds of petty kingdoms form across Westeros, eventually aggregating into several larger powerful realms, and ultimately, seven large kingdoms. Some of the later Great Houses such as the Starks or Lannisters had previously managed to establish large hegemonies or high-kingships over large regions, but in this time period they turned into large, well-organized, and centrally run "kingdoms".
+*'''c. 2,000 - 700 BC '''- The final "Seven Kingdoms", as they were later known, coagulated from previous smaller kingdoms during this time period as they absorbed their neighboring rivals. This process is roughly said to have finished anywhere from a thousand years before Aegon's Conquest to a thousand years before the War of the Five Kings (varying by region). The fortunes of each kingdom rise and fall then rise again over the centuries as they compete with each other for lands and power, fueling constant and petty border wars throughout the continent.
+**The Stark Kings expel pirates from the mouth of the [[White Knife]] river on the east coast, and to defend against further incursions founded the settlement that will later grow into [[White Harbor]], the North's only major port.
+**Around this time the [[Reach|Kingdom of the Reach]] hit a low point in its power, culminating in a [[Dornish sack of Highgarden]] (apparently prior to the Rhoynar migration, as these were Dornish "kings" and not "princes"). In subsequent generations the Gardener kings of the Reach gradually rebuilt their strength again.
+*'''c. 700 BC''' - The [[Rhoynar]] migrate to [[Dorne]], after being driven from the [[Rhoyne]] River network in Essos by the Valyrians. [[House Martell]] intermarries with the Rhoynar led by Princess [[Nymeria]] and with their extra numbers [[Nymeria's War|conquers the rest of Dorne]], unifying the entire region for the first time. [[House Manderly]] is exiled from the Reach but given safe haven in the North, where House Stark rewards them with rule over White Harbor. [[House Bolton]] is finally subdued by House Stark in the North. The [[Dornish Marches]] in the [[Red Mountains]] remain as they have been for centuries - a contested borderland of endemic warfare between the Reach, the Stormlands, and Dorne.
+*'''c. 400 BC '''- House Bolton rises again in rebellion against House Stark, but is subdued once more. Due to his actions in suppressing the Bolton rebellion the younger son of the King in the North, [[Karlon Stark]], is awarded lands confiscated from the north of the Boltons' former possessions, founding a [[cadet branch]] of House Stark. Over the generations, "Karl's Hold" becomes known as "[[Karhold]]", and the "Karl's Hold Starks" become known as [[House Karstark]].
+* The [[Stormlands]] successfully invades and conquers the [[Riverlands]], under the [[Storm King]]s of [[House Durrandon]]. This reduces the number of kingdoms to seven: the Kingdom of the North, the Kingdom of the Mountain and the Vale, the Iron Islands, the Kingdom of the Rock, the Kingdom of the Reach, the Stormlands, and Dorne.
+*'''c. 200 BC '''- [[House Targaryen]], one of the aristocratic families of the Valyrian Freehold, settles on [[Dragonstone (island)|Dragonstone]] island in [[Blackwater Bay]], to establish a Valyrian trading outpost.
+
+===c. 300 BC===
+*The newly-ennobled [[House Frey]] begins construction of a massive bridge and castle complex across the [[Green Fork]] of the [[Trident]], which when completed is known as the [[Twins]]. The Freys rapidly amass great wealth from bridge tolls and rise to became one of the major noble families of the Riverlands, though they are looked down upon by other more ancient families as upstarts.{{Dateref|Twins}}
+
+===114 BC===
+*[[File:Dragonstone (day).jpg|thumb|The Targaryens relocated to [[Dragonstone]] right before the Doom of Valyria - along with the world's only surviving [[dragon]]s.]]The Targaryens relocate their entire family and household to [[Dragonstone (island)|Dragonstone]] island (just off the east coast of Westeros in [[Blackwater Bay]]), convinced by a prophecy that the destruction of Valyria is imminent. This proves true, as the [[Doom of Valyria]] follows twelve years later - leaving the Targaryens on Dragonstone with the world's only surviving [[dragon]]s. The Targaryens and their vassal Houses on other islands in Blackwater Bay remain uninvolved with outside affairs, slowly building up their strength.
+
+===81 BC===
+*[[Meria Martell]] is born.{{Dateref|Meria Martell}}
+
+===Iron Islands expansion===
+*[[File:Harrenhal-615x339.jpg|thumb|[[Harrenhal]] upon it's completion, mightiest fortress in all of Westeros, meant to secure the Ironborn's control over the Riverlands. ]]'''c. 60 BC '''- Some three generations before Aegon's Landing, the [[Iron Islands]] enter into their second great era of expansion, conquering the territory of the Riverlands from the Stormlands. Unlike their first era of expansion, which conquered coastal territories across Westeros, this push focuses on conquering specifically the Riverlands, penetrating deep inland. The Ironborn hold everything between the Blackwater to the south and the Neck to the north, and from the west coast to the east coast. The Ironborn invasion is led by King Harwyn of [[House Hoare]], and the Iron Islands continue to rule the Riverlands until the time of Harwyn's grandson, [[Harren Hoare]], also called Harren the Black. Wishing to demonstrate his wealth and power, King Harren spends years and vast resources constructing a castle far more massive and formidable than any other in all of Westeros on the north shore of [[Gods Eye]] lake: [[Harrenhal]], a fortress impregnable to ground attack. The enslaved local Rivermen are forced to toil on the castle's construction, to build the tool of their own domination. Ironically, the construction of Harrenhal castle finishes the very same day that the Targaryens and their dragons land on the east coast of Westeros to begin their conquest.
+
+==Aegon's Conquest==
+{{Main|Aegon's Conquest}}
+===2 BC===
+[[File:C&R01.jpg|thumb|Aegon Targaryen and his sisters Rhaenys and Visenya on Dragonstone.]]
+*Despite pleas to intervene in the Free Cities, [[Aegon I Targaryen|Aegon the Conqueror]], the ruler of [[House Targaryen]], decides to invade Westeros, along with his sister-wives [[Rhaenys Targaryen (sister of Aegon I)|Rhaenys]] and [[Visenya Targaryen|Visenya]].
+*With only a small number of soldiers, his forces make landfall at the mouth of the [[Blackwater Rush]]. On a tall hill overlooking the bay, he builds a wooden redoubt on the site of what is now the [[Red Keep]]. He then begins his military campaign using the only three [[dragon]]s known to have survived the Doom of Valyria: [[Balerion]] (ridden by Aegon), [[Meraxes]] (ridden by Rhaenys), and [[Vhagar]] (ridden by Visenya).
+[[File:Burning of Harrenhal.jpg|thumb|The [[Burning of Harrenhal]] by Aegon Targaryen riding his dragon [[Balerion]].]]
+*As Aegon marches west, the rivermen led by [[Edmyn Tully]] of [[Riverrun]] rise up in rebellion against their Ironborn oppressors and march to join his army against them. King Harren the Black is besieged in [[Harrenhal]], but when he refuses to surrender, Aegon simply flies Balerion over the walls and proceeded to burn the entire castle. Harren and all his sons roasted alive in their own tower, making [[House Hoare]] extinct. The remaining Ironborn flee back to the [[Iron Islands]]. Aegon rewards [[House Tully]] by making them overlords of the Riverlands.
+[[File:Orys vs Argilac.png|thumb|[[Orys Baratheon]] duels [[Argilac Durrandon]] to the death in the [[Last Storm]], conquering the Stormlands for the Targaryens.]]
+*Aegon's bastard half-brother, [[Orys Baratheon]], marches south to invade the [[Stormlands]], along with Rhaenys riding Meraxes. During the battle of the [[Last Storm]] Orys faces the last Storm King, [[Argilac Durrandon|Argilac the Arrogant]], and kills him in single combat. After his victory, Orys seizes Argilac's castle of [[Storm's End]], along with his daughter whom he takes to wife. Aegon rewards Orys by naming him overlord of the Stormlands and allowing him to found [[House Baratheon]].
+
+===2-1 BC===
+*[[File:Field of fire.jpg|thumb|The [[Field of Fire]] was the climactic battle of Aegon's Conquest, the only battle at which all three dragons were unleashed at the same time.]][[File:Harlen Tyrell surrender to Aegon the Conqueror.png|thumb|With the line of [[House Gardener]] extinguished, the Targaryens elevated the Gardeners' cousins [[House Tyrell]] as the new rulers of the Reach under them.]]The Targaryen army then recombines and marches south to face the allied forces of King [[Mern IX Gardener]] of the Reach and King [[Loren I Lannister]] of the Rock in the climactic battle of the Conquest, which becomes known as the [[Field of Fire]]. All three dragons are unleashed in the same battle for the first and only time, and more than 4,000 men are burned alive by the dragons. [[House Gardener]] is extinguished, so Aegon names the stewards of [[Highgarden]] as overlords of the [[Reach]]: [[House Tyrell]], a [[cadet branch]] of House Gardener. King Loren surrenders to Aegon, who names him overlord of the [[Westerlands]] and allows [[House Lannister]] to continue its rule.
+*[[File:House_Stark,_The_Kings_of_Winter.png|thumb|King [[Torrhen Stark]] peacefully  bends the knee to the Targaryens.]][[File:Visenya takes the Eyrie.jpg|thumb|Visenya flew her dragon [[Vhagar]] over the mountains to the [[Eyrie]], making the Arryns surrender.]][[File:Dorne resists the Targaryen Conquest.png|thumb|[[Dorne]], ruled by [[House Martell]], was the only one of the Seven Kingdoms to successfully resist the Targaryens - by resorting to guerrilla warfare.]][[File:Iron throne.jpg|thumb|The [[Iron Throne]], made from the swords of Aegon the Conquerer's defeated enemies.]]After finally gathering up his widely scattered bannermen, King [[Torrhen Stark]] of the [[North]] arrives in the south - but seeing the power of the dragons after the Field of Fire, and the Targaryens' now massive army of conscripts, he realizes that all hope of victory is lost. Torrhen chooses to surrender without battle, and in return, Aegon allows the Starks to continue to rule the North under the Targaryens.
+*After the Field of Fire, [[House Arryn]] thought they could hide behind the [[Vale of Arryn|Vale]]'s mountains - but Visenya simply flew Vhagar over the mountains straight to the [[Eyrie]], and accepted their bloodless surrender.
+
+===1 AC===
+*Aegon advances to [[Oldtown]], location of the headquarters of the [[Faith of the Seven]]. Ultimately the [[High Septon]] decides to welcome Aegon into the city, and formally blesses his reign. Aegon chooses to date the years of his reign starting from this day that the High Septon acknowledged him, forming the basis of the new calendar system used throughout Westeros for the next three centuries.
+*Aegon returns to the site of his army's first landing at the mouth of the Blackwater River and begins construction of a grand new capital city for his unified realm: [[King's Landing]]. He carves out territory from surrounding kingdoms to form the [[Crownlands]], ruled directly by the Targaryens to support the city. Aegon has the swords of his defeated enemies gathered up and uses the fires of his dragon Balerion to forge them into the [[Iron Throne]], seat of the rulers of the new unified realm.
+**The naming of the "After Aegon's Landing" dating system is inherently a misnomer, as Aegon I himself counted the years of his reign as starting from the end of his conquest, when he entered Oldtown and was blessed by the High Septon, which occurred two years after Aegon and his army first landed on the mainland at the mouth of the Blackwater Rush.
+**Apparently, the inherent discrepancy in the name of the "After Landing" dating system became something of an annoyance in-universe for the maesters of the Citadel. In later books, such as the prequel novella ''The Princess and the Queen'', George R.R. Martin presents several maesters who have switched to the name "After Conquest", abbreviated "AC". This is not a new dating system, simply updating the name of the existing system to more accurately reflect historical events. The date "130 AC" is the exact same year as "130 AL". That being said, the few written documents seen on-screen during the first seasons of the TV series have used the "AL" notation.
+**In some ways, this reflects modern attempts to update the ''Anno Domini'' system of the Gregorian calendar. The AD/BC dating system was only developed by the medieval monk Dionysius Exiguus some five hundred years after Jesus was crucified, retroactively piecing together previous dates based on the individual reign of rulers or who was consul in Rome at the time, which ultimately produced several errors. Modern scholarship generally agrees that Jesus was probably born closer to the year 6 BC rather than at 1 BC (there was no year zero). Rather than go through the administrative chaos of revising all dated records, attempts have been made to introduce an alternative name for the system: "Common Era" (CE) replaces "Anno domini" (AD), and "Before the Common Era" (BCE) replaces "Before Christ" (BC). The alternative names (apart from being religiously neutral) are more accurate, as the "AD" system did not itself provide an accurate count from the date of Jesus's actual birth.
+**As with the Anno Domini system, the After Landing (or After Conquest) dating system does not have a year zero. It uses as its starting point the crowning of Aegon by the High Septon in Oldtown. The instant that the High Septon set the crown upon his head, the year "1 BC" changed into "1 AC" (the entire first year After Conquest was "1 AC", and the day after the coronation was thus one day into "1 AC" even though a full year had not elapsed).
+*Aegon's attempt to conquer [[Dorne]] is thwarted by the Dornish refusal to give battle openly, preferring guerrilla warfare. Aegon decides to allow Dorne and [[House Martell]] to remain independent for now, to focus on reining in his other recent conquests.<ref name="VG Westeros Through The Ages" />
+
+===2 AC===
+*[[Axel Baratheon]] is born.{{Dateref|Axel Baratheon}}
+
+===2-11 AC===
+*Aegon I has two children: his elder son [[Aenys Targaryen|Aenys]] with his sister-wife Rhaenys, and his younger son [[Maegor Targaryen|Maegor]] with his sister-wife Visenya.
+* While Aegon I dates the years of his reign from when he was crowned by the High Septon in Oldtown, some of the conquest is still unfinished. [[House Hoare]] and its armies were destroyed at the Burning of Harrenhal, but the Iron Islands themselves remained de-powered by unconquered while Aegon focused on his remaining enemies on the mainland. Aegon eventually consolidated his position enough to invade them with his fleets and dragons. The priest-king [[Lodos]] called upon the [[Drowned God]] to send [[kraken]]s to destroy the Targaryen fleet - but when they failed to appear, he and hundreds of his followers walked into the ocean rather than surrender. Their armies already destroyed, the Iron Islands quickly fall. Recognizing the long Ironborn tradition of choosing their own leaders (in a [[kingsmoot]]), he allows their lords to pick one of their own leading families to rule the isles under Targaryen domination: [[House Greyjoy]] of [[Pyke]], led by [[Vickon Greyjoy]].
+* The [[First Dornish War]]. The Targaryens had bypassed [[Dorne]] during the initial conquest due to its isolation and harsh desert climate, but were now determined to complete their unification of the entire continent south of the [[Wall]]. The [[Dornishmen]], however, learned from the Field of Fire and Harrenhal that there was no resisting the Targaryen dragons in open battle or by hiding in their castles. Therefore, the Dornish resorted to guerrilla warfare, fleeing when the dragons approached and then launching ambushes as soon as they flew away. The parched deserts were conducive to an insurgency harassing the supply lines of large occupation armies. The Targaryen armies were badly bled, and even one of the dragons died: [[Meraxes]] was killed when a lucky shot from a scorpion-bolt struck her through the eye in mid-flight, killing her rider Queen Rhaenys in her fall. Enraged, Aegon and Visenya used their dragons to burn out every settlement in Dorne, but still, the Martells would not surrender. Eventually, both sides tired of the unending bloodshed, and the Targaryens agreed to withdraw from Dorne.
+* Aegon I lives out the rest of his reign in peace, knitting the Seven Kingdoms together into one realm. Construction continues on King's Landing. Work also begins on the great new royal castle known as the [[Red Keep]], but Aegon I only lives to see its foundations set.
+
+===7 AC===
+*[[Artys Dormand]] is knighted.{{Dateref|Artys Dormand}}
+
+==The reign of the Targaryen dynasty==
+[[File:Red Keep.png|thumb|Aegon I created the new capital city [[King's Landing]]; he also began construction on the [[Red Keep]], but it was not completed until the reign of his second son, Maegor the Cruel.]]
+===33-42 AC===
+*[[Mellos]],{{Dateref|Mellos}} [[Ryam Redwyne]],{{Dateref|Ryam Redwyne}} and the [[High Septon (Viserys I)|High Septon]]{{Dateref|Viserys High Septon}} are born.
+
+===34 AC===
+*[[Jaehaerys I Targaryen]] is born.{{Dateref|Jaehaerys I Targaryen}}
+
+===36 AC===
+*Maester [[Mikkellion]] writes ''[[Shrubbery, Being a History on the Flora of the Valyrian Freehold]]'' on the fourth day of the fourth moon of 36 AC.<ref>[https://dedalvs.com/work/house-of-the-dragon/misc/shrubbery_v4.pdf ''Shrubbery'' version 4 | dedalvs.com]</ref>
+
+===The sons of the dragon and the Faith Militant uprising===
+*[[File:MaegorTheCruel.jpg|thumb|[[Maegor Targaryen]], who earned the name "Maegor the Cruel", warred against the [[Faith Militant]].]] Upon Aegon I's death, his son [[Aenys Targaryen|Aenys]], born of [[incest]], takes the throne. Aenys is weak and indecisive and cannot adequately deal with many localized rebellions that pop up (such as the [[Vulture Hunt]] along the border with Dorne), leading to him naming his half-brother Maegor as [[Hand of the King]] and giving him authority to deal with the crises.
+* The [[Faith of the Seven]], long disgusted with the Targaryen's incestuous practices, rejects Aenys's legitimacy to rule after he foolishly announces the marriage of his son and daughter to each other. The [[Faith Militant]], armed order of the religion, leads a popular uprising against the Targaryens. Aenys's health fails from the stress and he dies on Dragonstone.
+*Maegor usurps the throne ahead of Aenys's children, and leads a bloody and ferocious counter-attack against the Faith Militant, resulting in the deaths of thousands in battle and by dragonfire. The slaughter of the [[Faith Militant uprising]] lasts throughout Maegor's reign.
+*Maegor proves to be the exact opposite of his weakling older brother - effectively smashing the Faith Militant and restoring Targaryen domination - but so much so that he becomes a brutal tyrant, instituting a reign of terror. He quickly earns the nickname, "Maegor the Cruel".
+*Maegor finishes construction of the [[Red Keep]], and orders construction of the [[Dragonpit]].
+
+====44 AC====
+*[[Axel Baratheon]] dies.{{Dateref|Axel Baratheon death}}
+
+====48 AC====
+*Maegor's brutal tactics alienate all of his allies, leading to a final popular revolt against him - which rallies around his brother's last surviving son, Jaehaerys. The rebellion is brief, and within the year, Maegor is found dead on the Iron Throne, of an apparent suicide so he wouldn't have to face the victorious rebels.{{Dateref|Maegor Targaryen death}}
+*Following Maegor's suicide, Aenys's son, [[Jaehaerys I Targaryen|Jaehaerys I]], becomes king. Jaehaerys and his hand [[Barth]] reach an accord with the [[High Septon (Faith Militant uprising)|High Septon]]; in return for the monarchy becoming the defenders of the Faith, the Faith agrees to cease their condemnation of the practices of the Targaryens and disband their military forces. Jaehaerys thus successfully puts an end to the Faith Militant uprising without the need for further violence.<ref>"[[The Faith Militant]]"</ref>
+
+===The long reign of Jaehaerys I===
+[[File:The Nightfort.png|thumb|The [[Nightfort]], the first castle at the Wall, was abandoned during the reign of Jaehaerys I due to the Watch's declining numbers.]] 
+*During the reign of Jaehaerys I, the Night's Watch had declined to the point that it could no longer fully man a castle as large as the [[Nightfort]], which had fallen into disrepair. The Watch officially abandons the Nightfort, and moves its headquarters to further east along the Wall at Deep Lake, then later further east to [[Castle Black]].
+
+====53-62 AC====
+*[[Harrold Westerling]],{{Dateref|Harrold Westerling}} [[Otto Hightower]],{{Dateref|Otto Hightower}} [[Lyonel Strong]],{{Dateref|Lyonel Strong}} [[Corlys Velaryon]],{{Dateref|Corlys Velaryon}} the [[Master of Revels (The Heirs of the Dragon)|Master of Revels]],{{Dateref|Master of Revels}} and [[Hobert Hightower]]{{Dateref|Hobert Hightower}} are born.
+
+====56 AC====
+*[[Lyman Beesbury]] is born.{{Dateref|Lyman Beesbury}}
+
+====63-72 AC====
+*[[Boremund Baratheon]],{{Dateref|Boremund Baratheon}} [[Rickon Stark (father of Cregan)|Rickon Stark]],{{Dateref|Lord Rickon Stark}} [[Rhaenys Targaryen]],{{Dateref|Rhaenys Targaryen}} and [[Viserys I Targaryen]]{{Dateref|Viserys I Targaryen}} are born.
+
+====73-82 AC====
+*[[Aemma Arryn]]{{Dateref|Aemma Arryn}} and [[Mysaria]]{{Dateref|Mysaria}} are born.
+
+====81 AC====
+*Prince [[Daemon Targaryen]] is born.{{Dateref|Daemon Targaryen}}
+
+====83-92 AC====
+*[[Randyll Barret]],{{Dateref|Randyll Barret}} [[Gwayne Hightower]],{{Dateref|Gwayne Hightower}} and [[Criston Cole]]{{Dateref|Criston Cole}} are born.
+
+====86-95 AC====
+*[[Joffrey Lonmouth]] is born.{{Dateref|Joffrey Lonmouth}}
+
+====89 AC====
+*[[Borros Baratheon]] is born.{{Dateref|Borros Baratheon}}
+
+====97 AC====
+*Princess [[Rhaenyra Targaryen]] is born.{{Dateref|Rhaenyra Targaryen}}
+
+====98 AC====
+*[[Alicent Hightower]]{{Dateref|Alicent Hightower}} and [[Laenor Velaryon]]{{Dateref|Laenor Velaryon}} are born.
+
+====100 AC====
+*[[Laena Velaryon]] is born.{{Dateref|Laena Velaryon}}
+
+====101 AC====
+*[[Baelon Targaryen (son of Jaehaerys I)|Baelon Targaryen]], the [[Prince of Dragonstone]], dies of a burst belly.{{Dateref|Great Council at Harrenhal}}
+*The [[Great Council at Harrenhal]] is held to determine King Jaehaerys's successor. [[Viserys I Targaryen|Viserys Targaryen]] is elected Prince of Dragonstone over his cousin, Princess [[Rhaenys Targaryen]].{{Dateref|Great Council at Harrenhal}}
+
+====103 AC====
+*After nearly 60 years on the Iron Throne, Jaehaerys dies and is succeeded by King Viserys I.{{Dateref|Jaehaerys I Targaryen death}}
+
+===[[House of the Dragon: Season 1|''House of the Dragon'': Season 1]]===
+====112 AC====
+{{Hatnote|References: {{Dateref|The Heirs of the Dragon}} {{Dateref|The Rogue Prince}}}}
+*Spring is in full bloom in the ninth year of Viserys's reign.<ref name="Script">https://deadline.com/wp-content/uploads/2023/06/House-Of-The-Dragon-It-Starts-On-The-Page.pdf</ref>
+*The [[Free Cities]] of [[Lys]], [[Myr]], and [[Tyrosh]] form a political and military union known as the [[Triarchy]] and seize the [[Stepstones]].{{Ref|HOTD101}}
+*Queen [[Aemma Arryn]] dies giving birth to Prince [[Baelon Targaryen]], who also dies soon after.{{Ref|HOTD101}} Over half a year later, King Viserys marries Alicent Hightower.{{Ref|HOTD102}}{{Ref|HOTD103}}
+*After disinheriting his brother, Daemon, King Viserys names his only daughter and only living child, Princess Rhaenyra, [[Prince of Dragonstone|Princess of Dragonstone]] and heir to the [[Iron Throne]].{{Ref|HOTD101}}
+*Ser [[Ryam Redwyne]], the [[Lord Commander of the Kingsguard]], dies in his sleep. Ser [[Criston Cole]] is chosen as his replacement by [[Rhaenyra Targaryen]] and sworn in by King Viserys.{{Ref|HOTD102}}
+*[[Corlys Velaryon]] and Daemon Targaryen start the [[War for the Stepstones]] against the Triarchy.{{Ref|HOTD102}}
+
+====113 AC====
+*Prince Aegon, the future King [[Aegon II Targaryen|Aegon II]], is born.{{Ref|HOTD103}}{{Dateref|Aegon II Targaryen}}
+
+====115 AC====
+{{Hatnote|Reference: {{Dateref|Second of His Name}}}}
+*To celebrate Prince Aegon's second nameday, Viserys and his royal court have a grand hunt in the [[Kingswood]]. Rhaenyra, now 17 years old, has passed the legal age of maturity in Westeros and officially come into her title as Princess of Dragonstone - which means that suitors throughout the realm begin to squabble and vie to marry her.{{Ref|HOTD103}}
+*Prince Daemon and Lord Corlys win a great victory after a [[siege of Bloodstone]].{{Ref|HOTD103}} Sometime thereafter, Daemon is named [[King of the Narrow Sea]] over the conquered Stepstones.{{Ref|HOTD104}}
+*Princess [[Helaena Targaryen]] is born.{{Dateref|Helaena Targaryen}}
+
+====115-116 AC====
+*Prince [[Aemond Targaryen]] is born.{{Dateref|Aemond Targaryen}}
+
+====116 AC====
+{{Hatnote|References: {{Dateref|King of the Narrow Sea}} {{Dateref|We Light the Way}}}}
+*Princess Rhaenyra goes on a progress throughout the Seven Kingdoms to find a suitable marriage candidate, which she cuts short at [[Storm's End]]. King Viserys finally commands her to wed Ser [[Laenor Velaryon]], which she agrees to on the condition that Viserys dismisses Ser [[Otto Hightower]] as [[Hand of the King]].{{Ref|HOTD104}} Otto is subsequently replaced as Hand by Lord [[Lyonel Strong]].{{Ref|HOTD105}}
+*[[Daemon Targaryen]] is exiled for a second time by King Viserys after he scandalously brings Princess Rhaenyra to a brothel.
+*During the wedding feast of Princess Rhaenyra and Ser Laenor, a brawl breaks out between Ser [[Criston Cole]] and Ser [[Joffrey Lonmouth]], resulting in the latter's death. Shortly after, Rhaenyra and Laenor are hastily married.{{Ref|HOTD105}}
+*[[Floris Baratheon]],{{Dateref|Floris Baratheon}} [[Baela Targaryen]],{{Dateref|Baela Targaryen}} Prince [[Daeron Targaryen]],{{Dateref|Daeron Targaryen}} and Prince [[Jacaerys Velaryon]]{{Dateref|Jacaerys Velaryon}} are born.
+
+====118 AC====
+*[[Rhaena Targaryen]] is born.{{Dateref|Rhaena Targaryen}}
+*Prince [[Lucerys Velaryon]] is born.{{Dateref|Lucerys Velaryon}}
+
+====126 AC: The Year of the Red Spring====
+{{Hatnote|References: {{Dateref|The Princess and the Queen}} {{Dateref|Driftmark}}}}
+*Prince [[Joffrey Velaryon]] is born. Princess Rhaenyra and her husband Laenor become estranged from the royal court and move to [[Dragonstone]].{{Ref|HOTD106}}
+*The Triarchy allies itself with [[Dorne]], bringing the War for the Stepstones into a new phase.{{Ref|HOTD106}}
+*[[Larys Strong]] orchestrates a fire at [[Harrenhal]], in which his father Lyonel and brother [[Harwin Strong|Harwin]] are killed.{{Ref|HOTD106}} Larys succeeds his father as [[Lord of Harrenhal]], while sometime after, [[Otto Hightower]] regains his position as [[Hand of the King]].{{Ref|HOTD107}}
+*Laena Velaryon, facing a difficult labor and the prospect of a caesarean section being performed to deliver her and Daemon's third child, commits suicide by dragonfire via her dragon [[Vhagar]].{{Ref|HOTD106}}
+*Aemond Targaryen claims [[Vhagar]], becoming her new rider. Shortly after, he loses his left eye in a brawl with his nephews Jacaerys and Lucerys, and cousins Baela and Rhaena.{{Ref|HOTD107}}
+*Immediately following the funeral of Laena Velaryon, Laenor is believed to have been murdered by his lover [[Qarl Correy]]. In reality, Laenor and Qarl abscond to Essos. Sometime after, Rhaenyra and Daemon are married.{{Ref|HOTD107}}
+
+====128 AC====
+*Prince [[Aegon Targaryen (son of Rhaenyra)|Aegon the Younger]],{{Dateref|Aegon the Younger}} Prince [[Jaehaerys Targaryen (son of Aegon II)|Jaehaerys Targaryen]], and Princess [[Jaehaera Targaryen]] are born.{{Dateref|Jaehaerys and Jaehaera Targaryen}}
+
+====130 AC====
+*Prince [[Viserys Targaryen (son of Rhaenyra)|Viserys Targaryen]] is born.{{Dateref|Viserys the Younger}}
+
+====132 AC: The Dance of the Dragons====
+{{Hatnote|References: {{Dateref|The Lord of the Tides}} {{Dateref|The Green Council}} {{Dateref|The Black Queen}}}}
+*[[Corlys Velaryon]] wins the War for the Stepstones{{Ref|HOTD110}} and returns to Westeros with a near-fatal wound.{{Ref|HOTD108}}
+*[[Vaemond Velaryon]] is executed for treason by [[Daemon Targaryen]] after proclaiming her children to be bastards and Rhaenyra Targaryen a whore.{{Ref|HOTD108}}
+*King Viserys dies after years of suffering from his long illness.{{Ref|HOTD108}} The next morning, the Greens [[Coup in King's Landing|seize control of King's Landing]].{{Ref|HOTD109}}
+*Aegon II is crowned by Criston Cole in the Dragonpit{{Ref|HOTD109}} and Rhaenyra is crowned by Prince Daemon at Dragonstone.{{Ref|HOTD110}}
+*Rhaenyra sends Jacaerys to the [[Eyrie]] and [[Winterfell]] to treat with [[Jeyne Arryn]] and [[Cregan Stark]]. Lucerys is sent to [[Storm's End]] to treat with [[Borros Baratheon]].{{Ref|HOTD110}}
+*Lucerys and his dragon [[Arrax]] are killed by [[Aemond Targaryen|Aemond]] and his dragon [[Vhagar]] in a [[fight above Shipbreaker Bay]].{{Ref|HOTD110}}
+*Prince [[Jaehaerys Targaryen (son of Aegon II)|Jaehaerys Targaryen]] is [[Assassination of Jaehaerys Targaryen|murdered]] by [[Blood]] and [[Cheese]] in retaliation for Lucerys's death.{{Ref|HOTD201}}
+*Princess [[Rhaenys Targaryen]] and her dragon [[Meleys]] are killed by [[Aemond Targaryen|Aemond]] and his dragon [[Vhagar]] in the [[Battle at Rook's Rest]].{{Ref|HOTD204}}
+*King [[Aegon II Targaryen]] is incapacitated in [[Battle at Rook's Rest|battle]].{{Ref|HOTD204}}
+*[[Aemond Targaryen]] becomes the [[Regent|prince regent]].{{Ref|HOTD205}}
+*Rhaenyra starts recruiting [[dragonseed]]s for her own army of [[dragonrider]]s.{{Ref|HOTD207}}
+
+===The Conquest of Dorne===
+*[[File:Daeron's death.png|thumb|King [[Daeron I Targaryen|Daeron I]] led the [[Conquest of Dorne]], but would lose Dorne and his own life in a protracted Dornish insurgency.]] The [[Conquest of Dorne]]. King [[Daeron I Targaryen|Daeron I]], the Young Dragon, takes the throne and almost immediately launches an invasion of [[Dorne]], which had remained defiantly independent since Aegon's landing. Daeron's military genius is notable and he eventually forces the submission of [[Sunspear]]. Unfortunately, while the conquest of Dorne is a success, ''holding'' Dorne proves more difficult, leading to a protracted Dornish insurgency. Daeron I leaves a Tyrell of [[Highgarden]], who have warred with the Martells for a thousand years, as his steward to rule over occupied Dorne. [[Lyonel Tyrell]]'s tyranny triggers an uprising against the [[Iron Throne]]. When Daeron I returns with a fresh army he is ambushed and killed, and his cousin Prince [[Aemon Targaryen (son of Viserys II)|Aemon the Dragonknight]] is captured and his army defeated. Daeron I died childless so the throne passed to his brother Baelor, who forged a peace treaty with Dorne (including the marriage of Viserys II's grandson, Daeron II, to Princess Myriah Martell).
+*[[File:GreatSeptS3.jpg|thumb|King [[Baelor I Targaryen]] built the [[Great Sept of Baelor]], moving the headquarters of the Faith from [[Oldtown]] to [[King's Landing]].]][[File:BlackDragon-S8.png|thumb|[[Daemon Blackfyre]], the Black Dragon. Legitimized bastard son of King [[Aegon IV Targaryen]], he tried to usurp the throne from his trueborn brother [[Daeron II Targaryen|Daeron II]] in the [[Blackfyre Rebellion]].]] The reign of King [[Baelor I Targaryen|Baelor the Blessed]], the Septon King. Baelor is pious and holy, keeping the realm at peace. Baelor negotiates an end to hostilities with Dorne after his brother's death. Baelor commissions the construction of a huge new sept in King's Landing, which (after his death is named the [[Great Sept of Baelor]] in his honor. Baelor is so religiously zealous that he remains celibate: instead of marrying one of his sisters in Targaryen custom, he has all three locked away in a tower of the Red Keep known as the [[Maidenvault]], so that they would not tempt him with carnal thoughts.
+* Baelor also dies childless, and because Aegon III had no other male heirs, the succession passes over his surviving daughters so that his younger brother [[Viserys Targaryen (son of Rhaenyra)|Viserys II Targaryen]] takes the throne - youngest son of Rhaenyra. Viserys II had been [[Hand of the King]] for years under both Daeron and Baelor. He is eventually succeeded in turn by his son Aegon IV.
+
+====159 AC====
+*[[Daeron II Targaryen]] is born.{{Dateref|Daeron II Targaryen}}
+
+====162 AC====
+*[[Hothor Umber]] is born.{{Dateref|Hothor Umber}}
+
+====170 AC====
+*[[Daemon Blackfyre]] is born.{{Dateref|Daemon Blackfyre}}
+
+====172-180s AC====
+*The reign of King [[Aegon IV Targaryen|Aegon IV]], Aegon the Unworthy, held to be the worst king in the history of Westeros. A glutton and a cruel, petty man, Aegon has a total of nine mistresses in succession that he keeps at court, to the dismay of his sister-wife Naerys. He holds his son and heir, [[Daeron II Targaryen|Daeron II]], in disfavor due to his Dornish wife (Princess [[Myriah Martell]]) and peaceful ways - so he decides to give the ancestral [[Valyrian steel]] sword of Aegon the Conqueror, [[Blackfyre]], to his bastard son Daemon, whom he thinks is more martial and worthy of it. His bastard son takes the new name [[Daemon Blackfyre]], after the sword, and founds the [[cadet branch]] of House Targaryen known as [[House Blackfyre]].
+
+====182 AC====
+*[[Daenerys Targaryen (daughter of Aegon IV)|Daenerys Targaryen]] is born.{{Dateref|Daenerys of Sunspear}}
+
+====183 AC====
+*[[Aegon Blackfyre]], [[Aemon Blackfyre]]{{Dateref|Aegon and Aemon Blackfyre}}, and [[Harkon Umber]]{{Dateref|Harkon Umber}} are born.
+
+====184 AC====
+*Upon Aegon IV's death, Daeron II succeeds to the Iron Throne.
+
+====188 AC====
+*The second [[Daemon Blackfyre (son of Daemon)|Daemon Blackfyre]] is born.{{Dateref|Daemon the Younger}}
+
+===The Blackfyre Rebellion===
+====196 AC====
+[[File:Battle of the Redgrass Field.png|thumb|Daemon was killed at the climactic [[Battle of Redgrass Field]], by a volley of arrows from his half-brother [[Brynden Rivers|Bloodraven]] and his archers.]]
+*Claiming that Daeron II is actually the product of an illegitimate relationship between Queen [[Naerys Targaryen|Naerys]] and her other brother, Prince [[Aemon Targaryen (son of Viserys II)|Aemon the Dragonknight]], Daemon Blackfyre claims the Iron Throne. Half the realm declares for him and the resulting civil war is known as the [[Blackfyre Rebellion]]. This is a brutal and bitter conflict that kills many tens of thousands. Eventually, Daemon amasses enough strength to march on King's Landing, allied to the forces of his bastard half-brother [[Aegor Rivers|Aegor "Bittersteel" Rivers]]. Daeron II's sons, [[Baelor Targaryen|Baelor]] and [[Maekar Targaryen|Maekar]], lead an army to stop him, assisted by another of Aegon IV's bastards, [[Brynden Rivers|Brynden "Bloodraven" Rivers]]. The resulting engagement, the [[Battle of Redgrass Field]], is one of the largest battles fought in Westerosi history. Bloodraven slays Daemon Blackfyre with arrows and then fights Bittersteel in single combat. The arrival of a Dornish army in support of the King routs the Blackfyre forces. Bittersteel flees the field with Daemon's surviving sons, taking them to safety in the Free Cities.
+
+====197 AC====
+*[[Harkon Umber]] is killed in a bear hunt at fourteen years old.{{Dateref|Harkon Umber death}}
+
+====199 AC====
+*[[File:Targaryen Martell two marriages.png|thumb|The double marriage-alliance that finally united Dorne with the Iron Throne:  King [[Daeron II Targaryen]] married Prince [[Maron Martell]]'s sister [[Myriah Martell]] (left), and Prince Maron married Daeron II's sister [[Daenerys Targaryen (daughter of Aegon IV)|Daenerys]] (right).]] In thanks for the Dornish assistance on the Redgrass Field, Daeron II marries his younger sister [[Daenerys Targaryen (daughter of Aegon IV)|Daenerys]] to Prince [[Maron Martell]], formally bringing Dorne into the Seven Kingdoms. Due to the peaceable union, Dorne is allowed to maintain a number of its own customs, including allowing women equal inheritance rights and that the ruler of Dorne is allowed to retain the title "Prince".
+
+====201 AC====
+*[[Battle at Long Lake]].{{Dateref|Battle at Long Lake}}
+
+====202 AC====
+*[[Aemon|Aemon Targaryen]] is born.{{Dateref|Aemon Targaryen}}
+*[[Daenerys Targaryen (daughter of Aegon IV)|Daenerys Targaryen]] dies in childbirth.{{Dateref|Daenerys of Sunspear death}}
+
+====208 AC====
+*[[Walder Frey]] is born.{{Dateref|Walder Frey}}
+
+===[[A Knight of the Seven Kingdoms: Season 1|''A Knight of the Seven Kingdoms'': Season 1]]===
+
+====209 AC====
+*A [[tournament at Ashford Meadow]] occurs.{{Dateref|A Knight of the Seven Kingdoms: Season 1}}
+
+====229 AC====
+*[[Steffon Baratheon]] is born.{{Dateref|Steffon Baratheon}}
+
+====231 AC====
+*[[Pycelle]] is born.{{Dateref|Pycelle}}
+
+====233 AC====
+*[[High Septon (Robert's Rebellion)|Maynard]] is born.{{Dateref|Maynard}}
+
+====234 AC====
+*[[Tywin Lannister]], eldest son of [[Tytos Lannister]], is born.{{Dateref|Tywin Lannister}}
+
+====230s-240s AC====
+* The rule of Aegon V. This is generally a period of prosperity for the Seven Kingdoms, but also of conflict: Aegon V tried to enact many populist reforms throughout his reign to improve the lives of the commoners, lowering taxes on the poor and raising taxes on the rich. Politically this was unwise, as it turned many of the great lords of the realm against him - encouraging the worst of these to outright join rebellions against the throne. Aegon V proves an intelligent and capable king, but the reforms he attempted to make were too idealistic and impractical.
+**The heir to [[House Lannister]] dies, leaving his younger brother as next in line: inexperienced third son [[Tytos Lannister]], who succeeds their father upon his death. Tytos's weak rule greatly diminishes Lannister power and reduces them to a laughingstock. The [[Westerlands]] fall into chaos as a result, even meriting several military interventions from King Aegon V, but to no avail. [[House Reyne]] comes to rival House Lannister as the real power in the Westerlands.
+
+====250s AC====
+*King Aegon V plans a series of arranged marriages between his children and several of the Great Houses to strengthen the royal family's political bonds within the realm. All of his children ultimately defy their father and marry for love instead, and because he married for love himself, he feels he cannot refuse them - causing all of his carefully planned political alliances to fall through. The young and beautiful [[Olenna Tyrell|Olenna Redwyne]] was arranged to marry one of Aegon V's sons but due to neither she nor her intended desiring the match, she got out of it and married Lord [[Luthor Tyrell]].
+
+====252 AC====
+*[[Robert Baratheon]] is born.<ref>''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]''</ref>
+
+====257 AC====
+[[File:Ser Barristan Vs Maelys.png|thumb|The Young Ser [[Barristan Selmy]] kills [[Maelys Blackfyre]] at the conclusion of the [[War of the Ninepenny Kings]].]]
+*The [[War of the Ninepenny Kings]] erupts, late in the reign of King Aegon V.<ref name="Selmy">"[[Robert's Rebellion - Barristan Selmy]]"</ref> A group of mercenaries, fortune-seekers, and ne'er do-wells known as the Band of Nine combines their strength to carve out their own territories: among them is [[Maelys Blackfyre|Maelys the Monstrous]], the last of the Blackfyre Pretenders. After taking over the [[Disputed Lands]] and [[Tyrosh]], they conquer the [[Stepstones]] as the opening move of an invasion meant to claim the Seven Kingdoms in the name of House Blackfyre. At the conclusion of the war, Maelys Blackfyre is killed by the promising young knight Ser [[Barristan Selmy]]. Both Ser Barristan and Ser [[Brynden Tully|Brynden "The Blackfish" Tully]] win great fame and glory during the war, and return home as celebrated heroes. In gratitude, King Aegon V appoints Ser Barristan to the [[Kingsguard]], in which he will serve for the next forty years. [[Tywin Lannister]] and his brothers also first blood themselves in combat during the war, serving with distinction. During the war Brynden's older brother [[Hoster Tully]] of Riverrun makes the acquaintance of a Lord [[House Baelish|Baelish]] of the Fingers, later accepting his son [[Petyr Baelish|Petyr]] as a ward at Riverrun.<ref>"[[House Baelish (short)|House Baelish]]"</ref><ref name="Selmy"/>
+
+====258 AC====
+[[File:Castamere.png|thumb|In the [[Reyne-Tarbeck revolt]], young Tywin eradicated [[House Reyne]] down to the last child, restoring Lannister dominance over the Westerlands after a generation of weak rule under his father Tytos.]]
+*King Aegon and his son Prince [[Duncan Targaryen|Duncan]] are killed in the [[fire of Summerhall]], the Targaryen summer palace, apparently during an attempt to hatch the last three dragon eggs left in the west. Aegon's son, [[Aerys II Targaryen]], becomes king. The eggs are assumed destroyed in the fire.
+*King Aerys's reign begins with great promise. He sweeps aside the old men of his father and grandfather's courts and replaces them with young, vigorous replacements.
+*King Aerys's wife Queen Rhaella gives birth to their first son, [[Rhaegar Targaryen]].
+*Emboldened by his recent military experience in the War of the Ninepenny Kings, young [[Tywin Lannister]] puts down the [[Reyne-Tarbeck revolt]] to restore Lannister dominance over the [[Westerlands]], and has any surviving Reynes - man, woman, and child - put to the sword, as an example to any vassal who would dare challenge [[Casterly Rock]] again. The eradication of [[House Reyne]] is the first major step in the return to glory of House Lannister, in which Tywin almost singlehandedly rebuilt the fortunes and strength of his House. Impressed with Tywin's ruthlessness, Aerys II Targaryen appoints him as his new [[Hand of the King]]. Tywin continues to ably serve in this position for nearly twenty years, during which the Seven Kingdoms and the Lannisters, in particular, enjoy peace and prosperity.
+
+===The reign of the Mad King===
+{{Main|Aerys II Targaryen}}
+
+====261 AC====
+*Tywin Lannister's wife [[Joanna Lannister]] gives birth to twins, [[Cersei Lannister|Cersei]] and [[Jaime Lannister|Jaime]].{{Dateref|Cersei and Jaime Lannister}}
+
+====265 AC====
+*Tywin Lannister's wife Joanna dies giving birth to their third and final child, a stunted [[dwarf]] named [[Tyrion Lannister|Tyrion]].{{Dateref|Tyrion Lannister}}
+
+====265-291 AC====
+*According to [[Tyrion Lannister]], Westeros has experienced nine winters during his lifetime, the last ending around 291 AC. Tyrion states that the winter during which he was born was the longest of these, lasting three years.<ref>"[[Lord Snow]]"</ref>
+
+====270s AC====
+[[File:Aerys_yells_burn_all_flashback_s6.jpg|thumb|[[Aerys II Targaryen|Aerys Targaryen]] gradually spiralled into insanity.]]
+*Cracks begin to appear in Aerys's demeanor. He refuses to marry his son [[Rhaegar Targaryen|Rhaegar]] to Tywin's daughter [[Cersei Lannister|Cersei]], instead having Rhaegar marry Princess [[Elia Martell]] of Dorne. Aerys becomes paranoid over talk in the castle that Tywin is the true ruler of the Seven Kingdoms. Aerys has Ser [[Ilyn Payne]]'s tongue ripped out with hot pincers when he was overheard whispering (accurately) that Tywin was the real man holding the realm together at this point.
+*The [[Defiance of Duskendale]]. Lord Darklyn of [[Duskendale]] refuses to pay his taxes, and takes Aerys captive. Tywin and Barristan Selmy rescue Aerys. The Darklyns are burned alive for their treachery. Already suffering from bouts of mental instability, later historians claim that the stress of Aerys's imprisonment shattered what was left of his sanity. He retreated from public view for the next few years and refused to allow blades in his presence anymore (except those of his Kingsguard), developing a deranged appearance with uncut and filthy hair hanging to his waist, and uncut fingernails growing several inches long.
+*Young [[Cersei Lannister]] and her companion [[Melara Hetherspoon]] visit a woods-witch called [[Maggy]] (seen during the opening flashback scene of the Season 5 premiere, "[[The Wars To Come]]").
+
+====274 AC====
+*[[Doreah]] is born.{{Dateref|Doreah}}
+
+====276 AC====
+*King Aerys II Targaryen's wife Queen Rhaella give birth to their second son, [[Viserys Targaryen (son of Aerys II)|Viserys Targaryen]].
+
+====278 AC====
+*Lord [[Steffon Baratheon]] and his wife, Lady [[Cassana Baratheon]] die as their ship, the ''[[Windproud]]'', sinks in [[Shipbreaker Bay]]. Their eldest son, [[Robert Baratheon]], inherits Storm's End.
+*The [[Great Tourney at Harrenhal]]. In the [[Year of the False Spring]], a great [[tournament]] is held by Lord Whent at [[Harrenhal]]. Prince Rhaegar wins the tournament, but names [[Lyanna Stark]] of Winterfell as the Queen of Love and Beauty rather than his own wife Elia. Aerys names [[Jaime Lannister|Jaime]] to the [[Kingsguard]], disinheriting him as Tywin's heir in favor of his misshapen dwarf younger brother, [[Tyrion Lannister|Tyrion]]. Furious, Tywin resigns the Handship and returns to Casterly Rock.
+
+====279 AC====
+*[[Mance Rayder]] begins uniting the [[Free Folk]] clans.{{Ref|GOT508}}{{Dateref|Mance Rayder desertion}}
+
+====280 AC====
+*[[Samwell Tarly]] is born.{{Dateref|Samwell Tarly}}
+
+==Robert's Rebellion==
+{{Main|Robert's Rebellion}}
+
+===281 AC===
+{{Hatnote|Reference: {{Dateref|Robert's Rebellion}}}}
+[[File:Abduction of Lyanna Stark.png|thumb|Crown Prince [[Rhaegar Targaryen]]'s [[Abduction of Lyanna Stark|abduction]] of [[Lyanna Stark]].]]
+[[File:Aerys Rickard Brandon.png|thumb|Aerys laughs hysterically as he has Rickard and Brandon Stark executed in the throne room.]]
+[[File:Robert_and_Rhaegar_on_the_Trident.png|thumb|Robert and Rhaegar engage in an epic duel at the climatic [[Battle of the Trident]], ending in Rhaegar's death and the defeat of the main Targaryen army.]]
+[[File:Slaughter.png|thumb|During the [[Sack of King's Landing]], the brutal Ser [[Gregor Clegane]] kills Rhaegar's two small children, then rapes and kills his wife [[Elia Martell]].]]
+[[File:Jamie_Stabs_Aerys.jpg|thumb|At the height of the Sack, [[Jaime Lannister]] kills the Mad King, who  as a Kingsguard he had sworn to protect, at the very foot of the Iron Throne.]]
+*Rhaegar allegedly [[Abduction of Lyanna Stark|kidnaps Lyanna against her will]] and disappears with her. Lyanna's eldest brother [[Brandon Stark|Brandon]] impulsively rides to King's Landing and demands justice, but instead Aerys has both him and his father [[Rickard Stark|Rickard]] arrested and [[Execution of Rickard and Brandon Stark|brutally executed]].
+*In response to the king's murder of Rickard and Brandon Stark, the new Lord of Winterfell, [[Eddard Stark]], raises the banners of the North. [[Robert Baratheon]], Lord of [[Storm's End]] and betrothed to Lyanna, joins the rebellion, raising the banners of the [[Stormlands]]. Lord [[Jon Arryn]] of the Vale, a mentor to both Robert and Eddard, does the same. The Stark, Tully, and Arryn armies begin gathering north of the [[Trident]], but Robert's forces are cut off far to the south. Leaving his brother [[Stannis Baratheon|Stannis]] to hold Storm's End, Robert marches his army northwest through enemy territory. Lord [[Mace Tyrell]] continues to besiege Storm's End for a full year. Robert is defeated at the [[Battle of Ashford]] by Tyrell forces loyal to the king, but later joins up with the Northern and Vale armies at the [[Battle of the Bells]]. The combined rebel army crosses to the north side of the Trident. Both sides consolidate for a major showdown. Lord [[Hoster Tully]] of Riverrun, who had planned to marry his daughter [[Catelyn Stark|Catelyn]] to Brandon Stark, instead agrees to marry her to Eddard in exchange for his support in war. In addition, Hoster marries his second daughter [[Lysa Arryn|Lysa]] to Jon Arryn to shore up the alliance. All four are wed in a double marriage ceremony at [[Riverrun]] before the rebel armies depart once again.
+*Prince Rhaegar leads a royalist army to directly engage the rebels, but is defeated at the climactic [[Battle of the Trident]], in which he is killed in personal combat by Robert himself.
+*Realizing that rebel victory is imminent, King Aerys sends his remaining young son [[Viserys Targaryen (son of Aerys II)|Viserys]] and his pregnant wife Queen [[Rhaella Targaryen|Rhaella]] to the safety of the ancestral Targaryen fortress, [[Dragonstone]].
+*With Rhaegar dead, lords who had been undecided about which side to join now abandon the Mad King. Lord Tywin's army arrives at King's Landing allegedly to defend the city, but once the gates are opened the Lannisters [[Sack of King's Landing|brutally sack the city]]. Aerys II is killed by Jaime Lannister, his own Kingsguard, for which Jaime becomes known as "the Kingslayer".
+*Robert Baratheon, due to a blood relationship with House Targaryen, is proclaimed King of the Seven Kingdoms. With Lyanna dead, Robert instead marries Cersei Lannister to shore up the alliance that brought down the Targaryens.
+*[[Robb Stark]] is born, first son of [[Eddard Stark]].
+*[[Jon Snow]] is born.
+*[[Theon Greyjoy]] is born, third son of [[Balon Greyjoy]].{{Dateref|Theon Greyjoy}}
+*On Dragonstone, Queen Rhaella dies giving birth to her daughter, [[Daenerys Targaryen|Daenerys]]. During her birth a great storm wrecks what is left of the Targaryen fleet anchored at Dragonstone, for which she is named "Daenerys Stormborn". Realizing the rebels will arrive soon, Targaryen loyalists smuggle the Targaryen heirs Viserys and Daenerys to safety in the Free Cities, where they remain in exile.
+
+==King Robert's reign==
+{{Main|Robert Baratheon}}
+[[File:Jon Arryn Hand.png|thumb|[[Jon Arryn]] ably served as [[Hand of the King]] for 17 years, ensuring stable rule and prosperity while Robert drank, ate, and whored.]]
+===282 AC===
+*When Eddard returns back north from the war, he reunites with Catelyn and sees his newborn son Robb for the first time. Along with him, however, Eddard brings from the south an infant boy, claiming the child is his bastard. Eddard names the boy Jon, and as an acknowledged noble bastard he uses the surname Snow. Unusually, Eddard announces that his bastard son [[Jon Snow]] will be raised in his home castle Winterfell, alongside his lawfully born children with Catelyn. Little did everybody know that Jon Snow was actually the trueborn son of Rhaegar Targaryen and Lyanna Stark. Ned raised Jon as his son to hide his true parentage and to keep him safe from Robert, who had developed a murderous hatred for all Targaryens.
+*Queen Cersei Lannister gives birth to Prince [[Joffrey Baratheon]]. Secretly, the boy is not actually Robert's son, but a bastard of incest fathered by Cersei's own twin brother Jaime. Her next two children will also secretly be fathered by Jaime.
+**While Joffrey was 12 years old in the first novel, the TV series established that he was 16 years old in Season 1, thus he was born roughly a year or so after the war ended 17 years ago. See discussion at the end of this article.
+
+===283 AC===
+*[[Joyeuse Frey|Joyeuse Erenford]] is born.{{Dateref|Joyeuse Erenford}}
+
+===285 AC===
+*[[Sansa Stark]] is born.{{Dateref|Sansa Stark}}
+
+===285-286 AC===
+*[[Janei Lannister]] is born.{{Dateref|Janei Lannister}}
+
+===286 AC===
+*[[Mycah]] is born.{{Dateref|Mycah}}
+
+===287 AC===
+*[[Arya Stark]] is born.{{Dateref|Arya Stark}}
+
+===288 AC===
+*[[Bran Stark]],{{Dateref|Bran Stark}} [[Myrcella Baratheon]],{{Dateref|Myrcella Baratheon}} and [[Alys Karstark]]{{Dateref|Alys Karstark}} are born.
+
+===289 AC===
+[[File:Balon kneels.png|thumb|After the failure of the [[Greyjoy Rebellion]], [[Balon Greyjoy]] surrenders to Robert Baratheon. His son [[Theon Greyjoy|Theon]] is sent to live with Eddard Stark as a political hostage.]]
+*The [[Greyjoy Rebellion]] - Lord [[Balon Greyjoy]] leads a rebellion against King Robert's reign, attempting to secede the [[Iron Islands]] from the rest of the realm. After several months of furious fighting in the Westerlands and Riverlands, King Robert's forces push the Ironborn back to [[Pyke]] and storm the castle. Balon capitulates and surrenders his only surviving son, [[Theon Greyjoy|Theon]], as hostage and [[ward]] for his good behavior. Robert instructs Eddard Stark to take Theon under his wing.{{Dateref|Greyjoy Rebellion}}
+*[[Tommen Baratheon]] is born.{{Dateref|Tommen Baratheon}}
+*Following spring, a long summer officially begins, which will last for another ten years, only ending in 299 AC. It is the longest summer in living memory.
+*[[Robin Arryn]], called Sweetrobin, is born, the only living child of [[Jon Arryn]] and [[Lysa Arryn|Lysa Tully]].{{Dateref|Robin Arryn}}
+
+===292 AC===
+*[[Rickon Stark]],{{Dateref|Rickon Stark}} [[Lyanna Mormont]],{{Dateref|Lyanna Mormont}} and [[Ghita]]{{Dateref|Ghita}} are born.
+
+===294 AC===
+*[[Calla]]{{Dateref|Calla}} and [[Ned Umber]]{{Dateref|Ned Umber}} are born.
+
+===297 AC===
+*Magister [[Illyrio Mopatis]] of [[Pentos]] invites Viserys and Daenerys Targaryen to stay in his manse and offers to help them reclaim their throne.{{Dateref|Illyrio's manse}}
+
+==''Game of Thrones''==
+===Season 1: 298 AC===
+{{Hatnote|Reference: {{Dateref|Game of Thrones: Season 1}}}}
+[[File:Robert at Winterfell.jpg|thumb|King [[Robert Baratheon]] makes a formal visit to [[Winterfell]], to beseech his old friend Eddard to take the late Lord Arryn's place as [[Hand of the King]].]]
+[[File:Robert's last act.jpg|thumb|On the verge of her secret being discovered, Cersei has her husband Robert mortally injured in a hunting "accident", and installs [[Joffrey Baratheon|Joffrey]] as king.]]
+[[File:Ned's execution.jpg|thumb|On a whim, the psychopathic Joffrey foolishly has [[Execution of Eddard Stark|Ned Stark beheaded]] on the very steps of the Great Sept - plunging the Seven Kingdoms into the [[War of the Five Kings]].]]
+[[File:Drogo Dany Wedding Day.png|thumb|[[Daenerys Targaryen]] is married to Khal [[Drogo]] as a political alliance, giving the Targaryens their first chance since fleeing into exile of gaining an army to retake the Iron Throne with.]]
+[[File:Daenerys and dragon.jpg|thumb|Using "fire and blood" magic, Daenerys uses Drogo's funeral pyre to hatch three live [[dragon]]s, bringing the species back from extinction after a century and a half.]]
+*[[Jon Arryn]] is poisoned. [[Eddard Stark]] is appointed to replace him as [[Hand of the King]]. At King's Landing, Stark discovers the secret Jon Arryn learned: none of Queen [[Cersei Lannister]]'s three children are Robert's, but are all [[bastard]] products of [[incest]] with her own twin brother, [[Jaime Lannister]]. King Robert Baratheon is [[Assassination of Robert Baratheon|killed in a boar hunt]], secretly assassinated at the order of Queen Cersei Lannister, so he would not live to learn of Cersei's betrayal from Stark. Cersei's eldest son [[Joffrey Baratheon]] is crowned king as Robert's alleged heir. Eddard Stark attempts a counter-coup in support of Robert's lawful heir [[Stannis Baratheon]], but he is betrayed to the Lannisters by [[Petyr Baelish]] and [[Janos Slynt]]. The Lannisters plan to force Lord Stark into declaring support for Joffrey in exchange for being allowed to leave with his life by joining the [[Night's Watch]], but the crazed King Joffrey instead orders Eddard Stark to be executed.
+*The Seven Kingdoms become engulfed in the massive civil war known as the [[War of the Five Kings]]. [[Robb Stark]] is declared [[King in the North]] by his bannermen, seeking vengeance for his father's murder. He is joined by the lords of Riverlands, sworn to his mother's family, [[House Tully]], and attempts to secede from the Iron Throne. Both of the younger Baratheon brothers, Stannis and Renly declare themselves king, challenging Joffrey's legitimacy. Stannis initially only controls the islands of [[Blackwater Bay]] ruled from [[Dragonstone (island)|Dragonstone]], as well as much of the [[royal fleet]]. Renly enters into a marriage-alliance with [[House Tyrell]], and is supported by the combined might of the [[Stormlands]] and the [[Reach]]. [[House Arryn]] of the [[Vale of Arryn|Vale]] and [[House Martell]] of [[Dorne]] declare their neutrality.
+*[[Daenerys Targaryen]] marries Khal [[Drogo]] in [[Pentos]], securing the Targaryen exiles their first real chance of gaining an army with which to reconquer the Seven Kingdoms. [[Viserys Targaryen (son of Aerys II)|Viserys Targaryen]] is killed by Drogo in [[Vaes Dothrak]]. Drogo succumbs to an infected wound along with betrayal by [[Mirri Maz Duur]]. At the edge of the [[Dothraki Sea]] and [[Lhazar]], at Drogo's funeral pyre, Daenerys uses "fire and blood" to successfully hatch three live [[dragon]]s.
+*Rumors begin to reach the [[Night's Watch]] that demonic forces are stirring [[beyond the Wall]], with [[Free Folk|wildlings]] and even some of their own Rangers giving crazed reports of seeing the [[White Walkers]]. [[Jon Snow]] and [[Samwell Tarly]] join the Night's Watch. A [[wight]] attacks Lord Commander [[Jeor Mormont]] at [[Castle Black]], prompting him to decide to lead an expedition of three hundred men north of the Wall.
+
+===Season 2: 299 AC===
+{{Hatnote|Reference: {{Dateref|Game of Thrones: Season 2}}}}
+[[File:Battle of Oxcross.jpg|thumb|[[Robb Stark]], declared [[King in the North]] by his bannermen, invades the Westerlands.]]
+[[File:King Renly and Queen Margaery 2.jpg|thumb|Robert's youngest brother [[Renly Baratheon]] declares himself king ahead of middle brother [[Stannis Baratheon|Stannis]], and marries [[Margaery Tyrell]] to gain the support of her powerful family.]]
+[[File:RenlysDeathS2Ep5.png|thumb|Renly is [[Assassination of Renly Baratheon|assassinated]] by a magical [[Shadow]]-creature sent by Stannis and [[Melisandre]].]]
+[[File:Fall of Winterfell.png|thumb|[[House Greyjoy]] declares its independence once again, and opportunistically attacks the North while its army is away south.]]
+[[File:Wildfire explosion.jpg|thumb|Most of Stannis's fleet assaulting King's Landing is destroyed in a huge [[wildfire]] explosion at the massive [[Battle of the Blackwater]].]]
+*The [[Conclave]] of the [[Order of Maesters]], based on reports and observations, officially declares that the ten-year-long summer has finally ended, and autumn has begun. There are fears that a long summer will be followed by an equally long winter, but instead of stockpiling food, the Seven Kingdoms are gripped by civil war, devastating the countryside.
+*The War of the Five Kings drags on. King Robb Stark invades the Westerlands to further bleed the Lannisters. The Baratheon brothers parley in the Stormlands but refuse to combine their strength. Heavily outnumbered, Stannis has his ally the red priestess [[Melisandre]] summon a magical [[shadow]]-creature to [[Assassination of Renly Baratheon|assassinate Renly]]. The lords of the Stormlands rally to Stannis as the sole remaining Baratheon heir, but the Tyrells and their vassals withdraw back to the Reach. [[Balon Greyjoy]] decides to opportunistically use the war as a chance to secede the [[Iron Islands]] from the Iron Throne, and [[Ironborn invasion of the North|invades the North]] while Robb's army is in the south. Winterfell is [[Capture of Winterfell|seized]] and later [[Sack of Winterfell|burned]]. Stannis mounts a massive direct assault on King's Landing, but is [[Battle of the Blackwater|defeated]]. Baelish brokers an alliance between House Tyrell and House Lannister, sealed by the betrothal of [[Margaery Tyrell]] to King Joffrey. Further marriage alliances are made of [[Myrcella Baratheon]] with [[Trystane Martell]], and Baelish with [[Lysa Arryn]], which also bring Dorne and the Vale back into the Lannister fold (though they do not send troops to march in battle). Robb Stark breaks his promised marriage-alliance with [[House Frey]] by marrying [[Talisa Stark|Talisa Maegyr]].
+*By the time of the death of King [[Renly Baratheon]], it has been eighteen years since Robert's Rebellion, indicating a year or more has passed since the events of the series began.<ref>"[[The Ghost of Harrenhal]]"</ref>
+*Daenerys Targaryen crosses the [[Red Waste]] and arrives in [[Qarth]]. She later flees the [[Warlocks]] of [[Qarth]] who desire control of her dragons, and takes a ship bound west.
+*Lord Commander Mormont's Great Ranging north of the Wall reaches the [[Fist of the First Men]]. Jon Snow joins [[Qhorin]] in scouting out the main wildling camp of [[King-Beyond-the-Wall]] [[Mance Rayder]] in the [[Frostfangs]]. Jon infiltrates Mance Rayder's army.
+
+===Season 3: 300 AC===
+{{Hatnote|Reference: {{Dateref|Game of Thrones: Season 3}}}}
+[[File:Margjoff.png|thumb|After Renly's death, [[House Tyrell]] shifts its massive support to the Lannisters, in exchange for a royal betrothal.]]
+[[File:Kissed by Fire Robb.png|thumb|Robb Stark realizes that due to his various political blunders, he has functionally lost the war already.]]
+[[File:Catelyn dies.jpg|thumb|The Stark army is massacred at the [[Red Wedding]]. Catelyn and Robb are killed in the main hall by [[House Frey|the Freys]], breaking sacred [[Guest right]].]]  
+[[File:Robb_Wind_MHYSA_new_lightened.jpg|thumb|King Robb is stabbed through the heart by [[Roose Bolton]], then the Freys horrifically mutilate his corpse.]]
+[[File:Winterfell Burning.jpg|thumb|Like his father Roose, [[Ramsay Bolton|Ramsay Snow]] betrayed the Starks by taking [[Winterfell]] under a flag of truce, then [[Sack of Winterfell|burning the castle]].]]
+[[File:UnsulliedSeason3Trailer.jpg|thumb|[[Daenerys Targaryen]] steals and frees an army of 8,000 [[Unsullied]] with her dragons, then [[Fall of Astapor|sacks Astapor]].]]
+[[File:Dragons S3E4.jpg|thumb|With her new Unsullied army and her young dragons, Daenerys begins a [[Liberation of Slaver's Bay|campaign of liberation]] in [[Slaver's Bay]].]]
+*Talisa states in Robb Stark's army camp as he leaves Riverrun for the [[Twins]] that the War of the Five Kings has lasted two years now (reinforcing the general principle that one TV season equals one year within the story continuity).<ref>"[[The Bear and the Maiden Fair (episode)|The Bear and the Maiden Fair]]"</ref>
+*King Robb Stark withdraws from the Westerlands and returns to the Riverlands, his strategic objectives having failed. Robb's grandfather Lord [[Hoster Tully]] dies after a long illness, and Robb returns with much of his army to [[Riverrun]].
+*Lord [[Rickard Karstark]] kills two unarmed Lannister squires held at Riverrun, Tywin's own nephews [[Martyn Lannister|Martyn]] and [[Willem Lannister]], as petty vengeance for the loss of his own sons in the war, and is executed by Robb Stark, resulting in the forces of [[House Karstark]] abandoning his already dwindling and outnumbered army. Robb attempts winning back the support of House Frey after breaking their marriage-alliance pact. The Freys insist that Robb's uncle [[Edmure Tully]] marry Lord Walder's daughter [[Roslin Tully|Roslin Frey]].
+*Robb Stark, Catelyn Stark, and almost the entire Northern army are massacred at the [[Twins]] at the wedding feast of Edmure and Roslin, which becomes known as the [[Red Wedding]]. The Starks are betrayed by [[House Frey]] and [[House Bolton]]. The Lannisters install House Bolton as the new rulers of the North to replace House Stark, while the Freys will displace the Tullys in the Riverlands.
+*Daenerys Targaryen arrives at [[Astapor]] in [[Slaver's Bay]], and seizes control of an army of 8,000 [[Unsullied]] warrior-[[eunuch]]s. After [[Fall of Astapor|sacking Astapor]], the new Targaryen army advances on [[Yunkai]].
+*The Night's Watch faces the White Walkers in combat for the first time in 8,000 years at the disastrous [[fight at the Fist]], where their main base camp is ambushed by White Walkers leading their hordes of undead [[wight]]s. Out of three hundred men, consisting of most of the Watch's high-ranking officers and best fighters, only a few dozen men led by Lord Commander Mormont are able to fight their way out, and retreat back to [[Craster's Keep]]. Deteriorating conditions there lead to the [[Mutiny at Craster's Keep]] in which Mormont himself is killed by his own men, while loyalists and betrayers turn on each other in the confusion. Samwell Tarly escapes the carnage with Craster's daughter-wife [[Gilly]], and attempts to flee with her back to Castle Black. On the way, Sam is confronted by a White Walker, but becomes the first man in thousands of years to kill one of the demonic beings when he stabs it with a [[dragonglass]] dagger he found at the Fist of the First Men, in the process discovering their vital weakness to the substance. Jon Snow meets Mance Rayder and gains his trust. He is sent with a scouting party led by [[Tormund]] to scale the Wall. They successfully pass over to the south side and intend to attack Castle Black from its undefended rear to distract its small garrison while Mance's main army assaults the Wall directly.
+
+===Season 4: 301 AC===
+{{Hatnote|Reference: {{Dateref|Game of Thrones: Season 4}}}}
+[[File:Thelionandtherose3.jpg|thumb|King Joffrey marries Margaery Tyrell to secure the Lannister-Tyrell alliance, and celebrate the Lannister victory ending the war.]]
+[[File:Purple Wedding.png|thumb|Joffrey ends up assassinated, poisoned at his own [[Purple Wedding|wedding feast]] - and the war enters into a new, more chaotic phase.]]
+[[File:Littlefinger reveal.png|thumb|[[Petyr Baelish|Littlefinger]], the secret architect of the entire war, tricking the Starks and Lannisters into fighting each other to exhaust them both.]]
+[[File:Titan of Braavos.jpg|thumb|Despite their victory, the Lannisters are bankrupted by the war, leading to a crippling debt crisis with the [[Iron Bank of Braavos]].]]
+[[File:The Viper vs the Mountain.jpg|thumb|[[Oberyn Martell]] fights [[Gregor Clegane]] in [[Second trial by combat of Tyrion Lannister|a trial by combat]], which leaves Oberyn dead and Gregor fatally poisoned.]]
+[[File:Deadtywin.jpg|thumb|[[Tywin Lannister]] is [[Assassinations in the Tower of the Hand|shot dead with a crossbow while on the privy]] by his own son, Tyrion, who then flees Westeros.]]
+[[File:Siege of Meereen.png|thumb|Daenerys Targaryen captures [[Meereen]], but facing continued resistance from the local slave-masters, decides to stay and rule as the city's queen until she can stabilize it.]]
+[[File:Stannis attacks.png|thumb|[[Stannis Baratheon]]'s surviving army makes a surprise arrival at the [[battle for the Wall]] to save the [[Night's Watch]] and crush the [[Free Folk|wildling]] horde led by [[Mance Rayder]].]]
+*King Joffrey Baratheon is assassinated with poisoned wine at [[Purple Wedding|his own wedding]]. Tyrion Lannister is arrested on the false accusation of involvement in the plot to poison Joffrey. Sansa Stark finally escapes King's Landing, carried away on a ship by Petyr Baelish.
+*Joffrey is succeeded as king by his younger brother [[Tommen Baratheon|Tommen I Baratheon]], a very young boy. Much more mild-mannered and easily controlled than the crazed Joffrey, young Tommen becomes a pliable puppet king for his grandfather Tywin, who as Hand effectively becomes King in all but name.
+*House Bolton begins to consolidate Lannister rule over the North, while House Frey dominates the Riverlands, though much of this major breadbasket region has been reduced to burned-out devastation, roamed by brigands.
+*House Greyjoy and the Iron Islands continue to reject Lannister control, as does Stannis Baratheon on Dragonstone.
+*[[Lysa Arryn]] is killed by [[Petyr Baelish]] soon after marrying him, making Littlefinger the new [[Regent]] for her young son and ruler of the Vale. He is joined by a young black-haired girl named "Alayne" - secretly, a disguised Sansa Stark. It turns out that Littlefinger is the secret architect of the entire War of the Five Kings - tricking the Starks and Lannisters into fighting each other to exhaust them both (and helping Olenna poison Joffrey), while keeping the Vale's armies out of the war and at full strength, to finish off the survivors
+*After [[Sandor Clegane]] is badly injured in a fight with Brienne of Tarth, [[Arya Stark]] leaves him for dead by the highway. She then arrives at the eastern coast, and uses the special coin that [[Jaqen H'ghar]] gave her to obtain passage on a ship to the Free City of [[Braavos]], across the Narrow Sea.
+*Despite the Lannisters' apparent victory, substantial spending on the war has only exacerbated the crown's already massive debts, leading to tensions with the [[Iron Bank of Braavos]].
+*[[Oberyn Martell]] is killed in a [[Second trial by combat of Tyrion Lannister|trial by combat]] with Ser [[Gregor Clegane]], but not before stabbing Gregor multiple times with a blade coated in deadly [[manticore]] venom.
+*[[Tywin Lannister]] is killed by his own son [[Tyrion Lannister]], shot with a crossbow while he sat on the privy. Tyrion and [[Varys]] flee to the Free Cities. Cersei becomes the new head of House Lannister.
+*Daenerys Targaryen's growing army arrives at the last and greatest of the three major cities in Slaver's Bay, [[Meereen]]. Her forces capture the city and she sets herself up as its new ruling Queen. After hearing of Joffrey's assassination, Daenerys and her advisors briefly consider if the time is right to mount an invasion of the Seven Kingdoms. However, after Daenerys's army leaves, the slave-masters retake Yunkai, while a tyrant named Clean overthrows the council she left behind in Astapor to make himself its new emperor. With the population of Slaver's Bay thrown into chaos, and with an invasion of Westeros still a daunting task (given that her dragons are not yet big enough to ride), Daenerys decides to remain in Meereen and consolidate her position. Daenerys exiles [[Jorah Mormont]] when she discovers that he had previously been spying on her for Robert Baratheon (though his loyalty later became genuine).
+*Advanced wildling raiding parties scale over the Wall to pillage the [[Gift]], to distract the Night's Watch as preparation for the attack by Mance Rayder's main wildling army on Castle Black itself.
+*Beyond the Wall, [[Bran Stark]] and his remaining companions finally reach the [[cave of the Three-Eyed Raven]], who actually used to be a man and is the Last [[Greenseer]], attended by the remaining [[Children of the Forest]].
+*The wildling horde numbering in the tens of thousands assaults the Wall in the [[battle for the Wall]]. After a desperate defense, the tide is turned by the surprise appearance of Stannis Baratheon, along with most of his remaining forces, leading to a decisive victory. Many wildlings are killed or flee, and thousands are captured, including Mance Rayder. Stannis's relocation to the Wall begins a new phase in the War of the Five Kings.
+
+===Season 5: 302 AC===
+{{Hatnote|Reference: {{Dateref|Game of Thrones: Season 5}}}}
+[[File:Game of Throne Season 5 03.jpg|thumb|With Tywin dead and Tyrion fleeing into exile, Cersei becomes the new head of [[House Lannister]] - and disastrously mishandles both the war and the debt crisis.]]
+[[File:Margaery-Tommen-Wedding.jpg|thumb|Cersei's younger son [[Tommen Baratheon|Tommen]] is crowned king, and marries [[Margaery Tyrell]] to secure their alliance.]]
+[[File:The High Sparrow promo pic.jpg|thumb|A popular-disgust religious protest movement known as the [[Sparrows]] spreads throughout Westeros.  Cersei tries to win their support by naming the [[High Sparrow]] as the new [[High Septon]].]]
+[[File:Sparrows.png|thumb|Cersei grants the High Sparrow permission to revive the [[Faith Militant]], the armed order of the [[Faith of the Seven]].]]
+[[File:Cersei's-WalkofShame-S05E10.jpg|thumb|The Faith Militant turns against Cersei, arrests her, and forces her to perform a humiliating [[Walk of atonement|walk of atonement]].]]
+[[File:Janos before execution.jpg|thumb|[[Jon Snow]] is [[Elections#Night's Watch|elected]] the new [[Lord Commander of the Night's Watch]], and cements his position by personally executing [[Janos Slynt]] for treason.]]
+[[File:1508 promo stills 12001692731.jpg|thumb|The [[White Walkers]] slaughter thousands of wildlings in the [[Massacre at Hardhome]], and the [[Night King]] revives them as [[wight]]s in their army of the undead.]]
+[[File:Daario-s5e9still.png|thumb|The [[shadow war]] grips Meereen of former slave-masters calling themselves the [[Sons of the Harpy]], who refuse to accept Daenerys's rule.]]
+[[File:Dany climbs on drogon.jpg|thumb|An attack by the Sons of the Harpy at the [[Great Pit of Daznak]] forces Daenerys to flee the city on [[Drogon]] - and the wounded dragon takes her back to the Dothraki Sea.]]
+[[File:5x10 Battle of Winterfell.png|thumb|Stannis Baratheon marches south from the Wall to fight the Boltons, leading to the [[battle in the ice]].]]
+[[File:Jon's death.jpg|thumb|Jon Snow is stabbed and left for dead in the [[Mutiny at Castle Black]].]]
+*After her father's death and her brother's flight, Queen Mother [[Cersei Lannister]] rules through her young son King [[Tommen Baratheon]], essentially becoming Ruling Queen in all but name. She stacks the [[Small Council]] with sycophants who will not stand against her. The debt crisis comes to a head, as the [[Iron Bank of Braavos]] starts calling in its massive loans to the crown - of which the Lannisters only physically possess about one-twentieth of what they owe.
+*King Tommen marries [[Margaery Tyrell]] (and consummates the marriage), securing the Lannisters' badly-needed alliance with [[House Tyrell]] - their only major remaining source of soldiers, food, and above all money to deal with the debt crisis, now that their own armies and resources are half-exhausted from years of fighting. Queen Margaery and Queen Mother Cersei quickly enter into a bitter rivalry for control over Tommen.
+*The [[Sparrows]] arrive in King's Landing, a popular disgust religious movement reacting against the corruption of Westeros's wealthy leaders during the war. They started up in the shattered countryside over the course of the devastating conflict, but were afraid to enter the capital city directly until after Tywin died. They start by directing their anger against the corrupt leadership of the [[Faith of the Seven]], who have grown rich and comfortable while remaining pliant puppets for the Lannisters. Cersei decides to build up a new alliance between the Crown and the Faith as a counterweight to the growing influence of the Tyrells at court. The [[High Septon (Tommen)|High Septon]] is deposed and due to Cersei's influence the leader of the Sparrows, known as "the [[High Sparrow]]", is elected the new High Septon. Cersei subsequently attempts to bribe the High Sparrow and form a new ally against the Tyrells by granting him permission to revive the [[Faith Militant]], the armed order of the Faith which had been abolished by the Targaryens nearly two centuries before.
+*Cersei receives a threatening message from [[Dorne]]: her daughter [[Myrcella Baratheon|Myrcella]]'s Lannister lion pendant stuffed in a wooden model of a viper's mouth. Fearing [[House Martell]] wants to take revenge for Oberyn's death, Jaime volunteers to go to [[Sunspear]] and attempt to steal Myrcella back to the capital before she is harmed. Meanwhile, [[Ellaria Sand]] begs Prince [[Doran Martell]] to raise Dorne's armies in war against the Lannisters to avenge Oberyn's death, but he refuses, and forbids her to harm Myrcella. Nonetheless, Ellaria joins with three of Oberyn's daughters (the [[Sand Snakes]]) in a plot to kill Myrcella to provoke a war with the Lannisters. Both Jaime and the Sand Snakes are caught as they attempt to reach Myrcella. Doran allows Jaime to leave with Myrcella asking only that he take his son [[Trystane Martell|Trystane]] (Myrcella's betrothed) along as well, to fill the seat on the Small Council vacated by Oberyn's death.
+*The Faith Militant arrests [[Loras Tyrell]] and then Margaery Tyrell at Cersei's urging. However, this soon backfires when the Faith Militant turns against Cersei herself, accurately accusing her of extramarital affairs, [[incest]], and causing the entire war which has led to incalculable suffering among the commoners. The High Sparrow eventually releases her back to the custody of her family pending trial, but first forces her to perform a humiliating [[Walk of atonement|walk of atonement]], walking naked through the streets of King's Landing from the Great Sept to the Red Keep.
+*[[Petyr Baelish|Petyr "Littlefinger" Baelish]] plots a new intrigue by offering [[Sansa Stark]] in marriage to [[Ramsay Bolton]], to help secure their hold over the North during Stannis's oncoming attack. Littlefinger hopes this will allow her to undermine the Boltons from within. Later, he tricks Cersei by informing her of the marriage as if it was the Boltons' idea and he never knew where Sansa was - thus gaining permission to lead the Vale's fresh armies to invade the North, and finish off either Stannis or the Boltons, whichever survives the upcoming assault. This will allow Littlefinger to functionally control both the Vale and the North, without provoking a reaction from the Lannisters.
+*Stannis's army becomes snowbound as a late autumn blizzard sets in. Bolton raids destroy his supply train, leaving his army without enough food to slowly march to Winterfell ''or'' retreat back to Castle Black. Their only hope is if the blizzard suddenly lets up, but there appears to be no end in sight. Feeling he is out of options, Stannis reluctantly allows Melisandre to sacrifice his daughter and only child [[Shireen Baratheon|Shireen]] to the Lord of Light by burning her alive.
+*In [[Meereen]], [[Daenerys Targaryen]]'s already precarious hold over the recently liberated city is beset by a protracted insurgency from the ex-slaver masters, called the [[Sons of the Harpy]]. When ex-slaves kill a captured Harpy she had promised a trial, Daenerys tries to uphold the rule of law by executing the ex-slave - but this only loses her the support of many of the former slaves who once hailed her as a liberator. The insurgency by the Sons of the Harpy escalates and in a large-scale ambush in the alleys of the city, [[Barristan Selmy]] is killed defending [[Grey Worm]], who is severely wounded but survives. Daenerys decides that she must marry the head of one of the old slaver families, [[Hizdahr zo Loraq]], to strengthen her political ties in the city, and agrees to lift her ban and reopen the [[Fighting pit|fighting pits]] of Meereen.
+*[[Tyrion Lannister]] flees with [[Varys]] across the [[Narrow Sea]] to the [[Free Cities|Free City]] of [[Pentos]]. Varys explains to Tyrion that he is secretly a [[House Targaryen|Targaryen]] loyalist and has been working to restore them to the throne, urging Tyrion to travel east with him to [[Meereen]] to become an advisor to [[Daenerys Targaryen]]. In [[Volantis]], Tyrion is kidnapped by [[Jorah Mormont]], who hopes to win back Daenerys's favor by presenting her with Tyrion as a gift - ironically, as Tyrion was ''already'' heading to Meereen to meet Daenerys. After passing through the [[Smoking Sea]] they are left shipwrecked after fighting off [[Stone Men]], and then captured by slavers, but Tyrion talks them into selling the pair at Meereen's newly re-opened fighting pits. During an early local match, Jorah and Tyrion manage to get Daenerys's attention. Daenerys agrees to take Tyrion as an advisor, but remains angered at Jorah; Tyrion talks her down from killing him and urges her to simply exile him again.
+*[[Arya Stark]] arrives in the Free City of [[Braavos]] and begins training with the [[Faceless Men]], a mysterious guild of shape-shifting assassins.
+*At the [[Wall]], the victory in the battle for the Wall allows the [[Night's Watch]] enough breathing room to hold an [[Elections#Night's Watch|election]] for a new [[Lord Commander of the Night's Watch|Lord Commander]]. [[Alliser Thorne]] and [[Denys Mallister]] run, but last-minute candidate [[Jon Snow]] manages to edge out both of them, to become the 998th Lord Commander of the Night's Watch. Jon struggles with choices about how to handle the remnants of the [[Free Folk|wildlings]], the growing threat of the [[White Walkers]], and the depredations of [[House Bolton]], the new rulers of the [[North]] under the Lannisters. Shortly before being elected Lord Commander, Stannis offered to legitimize Jon and make him the new Lord of Winterfell if he would rally the North against the Boltons, but Jon declined. [[Mance Rayder]] is sentenced to death for breaking his vows to the Night's Watch years ago - which Stannis carries out by having [[Melisandre]] burn Mance alive as an offering to the [[Lord of Light]]. This fails to frighten the surviving wildlings into submission, so eventually, Stannis departs the Wall to begin an advance on Winterfell with his remaining forces.
+*After [[Tormund]] reveals that most of the surviving wildlings have retreated back to [[Hardhome]] on the east coast, Jon ventures there with Tormund and a few black brothers by ship (Stannis's sellsail fleet, on loan to the Watch). Jon realizes that every wildling that remains beyond the Wall will become one more [[wight]] for the White Walker's growing army of the undead. Several of the wildling elders gathered at Hardhome accept Jon's offer to evacuate them, while the rest will take time to come around, but before that can happen the White Walkers launch a massive attack on the village. The resulting [[Massacre at Hardhome]] is a disaster, and Jon only manages to evacuate about 5,000 wildlings back to Castle Black.
+*In the [[Mutiny at Castle Black]], as a sign of their lack of confidence in the Lord Commander to protect the Night's Watch, the faction of Night's Watchmen assassinate Jon Snow.
+
+===Season 6: 303 AC===
+{{Hatnote|Reference: {{Dateref|Game of Thrones: Season 6}}}}
+[[File:Jon_Snow_Alive.jpg|thumb|Jon Snow is miraculously resurrected by the [[red priest]]ess [[Melisandre]] at the behest of Ser [[Davos Seaworth]].]]
+[[File:Home_15.jpg|thumb|Ramsay Bolton [[Assassinations at Winterfell|murders his father]], Roose Bolton, seizing power in the North.]]
+[[File:Euron_Greyjoy_becomes_king_iron_islands.jpg|thumb|After [[Assassination of Balon Greyjoy|murdering]] his brother Balon, [[Euron Greyjoy]] becomes the new [[King of the Iron Islands]].]]
+[[File:Doran_being_stabbed.jpg|thumb|Ellaria Sand and the Sand Snakes [[Coup in Dorne|overthrow]] House Martell and seize power in Dorne, seeking to go to war against the Lannisters to avenge Elia and Oberyn Martell.]]
+[[File:Game-of-thrones-nights-king1.jpg|thumb|The Night King and the army of the dead [[Battle at the cave of the Three-Eyed Raven|assault]] the [[cave of the Three-Eyed Raven]], though Bran Stark and Meera Reed escape and are saved by Bran's uncle, Benjen Stark.]]
+[[File:The_Winds_of_Winter_22.jpg|thumb|Bran Stark discovers a [[Skirmish at the Tower of Joy|shocking secret]]: Jon Snow is not the bastard son of Eddard Stark, but the son of Ned's sister, Lyanna Stark, and Rhaegar Targaryen.]]
+[[File:AryaKillsWalderFrey.jpg|thumb|After completing her training with the [[Faceless Men]] in Braavos, Arya returns to Westeros and [[Assassinations at the Twins|kills]] [[Walder Frey]], Lothar Frey, and Walder Rivers in retaliation for the Red Wedding.]]
+[[File:610_Sept_of_Baelor_Destruction_Promo.png|thumb|The sept of Baelor is [[Destruction of the Great Sept of Baelor|destroyed with wildfire]], killing most of the Sparrows and the Tyrells.]]
+[[File:The Winds of Winter 30.jpeg|thumb|With King Tommen Baratheon dead, Cersei Lannister becomes Queen of the Seven Kingdoms.]]
+[[File:Daenerys_Targaryen_Sails_to_Westeros,_Season_6_Episode_10_Preview..jpg|thumb|The Targaryen fleet [[Last War|sails to Westeros at last]], having defeated the slave masters, conquering the Dothraki, and forming an alliance with the Reach, the Iron Islands, and Dorne.]]
+[[File:Battle_of_the_Bastards_32.jpg|thumb|The Stark-Free Folk army [[Battle of the Bastards|battles]] Ramsay Bolton's army for control of Winterfell and the North.]]
+[[File:Jon Snow is declared King in The North Season 6 Episode 10 Preview..jpg|thumb|After Ramsay is killed, Jon Snow is declared the King in the North by the lords of the North and the Vale, the latter of which helped defeat the Bolton army and return Stark rule to the North.]]
+*Jon Snow is resurrected.
+*Sansa Stark reaches Castle Black. She and Jon Snow set out to rally the surviving forces of the Northern vassal Houses against Bolton rule.
+*Ramsay [[Assassinations at Winterfell|kills]] [[Roose Bolton|his father]], [[Walda Bolton]] and his trueborn half-brother.
+*[[Brynden Tully|Brynden "the Blackfish" Tully]], who escaped from the [[Red Wedding]],  retakes [[Riverrun]]. The combined Frey-Lannister army defeats Brynden at the [[second siege of Riverrun]].
+*[[Euron Greyjoy]] returns to the [[Iron Islands]], and murders his own brother [[Balon Greyjoy]].
+*Euron Greyjoy wins the [[kingsmoot on Old Wyk]] and is named the new [[King of the Iron Islands]]. Fleeing the Kingsmoot, [[Yara Greyjoy|Yara]] and [[Theon Greyjoy]] steal much of the [[Iron Fleet]].
+*[[Coup in Dorne]]: [[Ellaria Sand]] and the [[Sand Snakes]] kill Prince [[Doran Martell]] and his son [[Trystane Martell]], and seize power in [[Dorne]].
+*[[Arya Stark]] continues her training with the [[Faceless Men]] in [[Braavos]]. Eventually she decides to return to Westeros to avenge her family.
+*In the aftermath of the [[second siege of Riverrun]], the Lannisters and the Freys celebrate their victory at the [[Twins]], the ancestral seat of House Frey. Later, Walder Frey and his sons Lothar and Walder Rivers are killed by Arya in retaliation for the Red Wedding.
+*The [[battle at the cave of the Three-Eyed Raven]] occurs. This event kills the last of the [[Children of the Forest]]. [[Bran Stark]] flees back south to the [[Wall]] with the help of [[Meera Reed]] and his uncle, [[Benjen Stark]]. Bran discovers that Jon Snow is the son of Ned's late sister, [[Lyanna Stark]], and the late [[Rhaegar Targaryen]]. 
+*[[Daenerys Targaryen]] is captured by the [[Dothraki]] and brought back to [[Vaes Dothrak]]. She [[Massacre of the Khalar Vezhven|destroys]] all of the Dothraki ''khals'' alive in their assembly tent, and awes all of the Dothraki into following her alone.
+*The slaver alliance launches a full-scale attack on the city, leading to the [[second siege of Meereen]], and is defeated by Daenerys's horde of 100,000 Dothraki. Theon and Yara Greyjoy ally with Daenerys. 
+*Cersei [[Destruction of the Great Sept of Baelor|destroys her domestic enemies]], destroying also the alliance with the Tyrells. King Tommen commits suicide. Cersei responds by directly declaring herself the new Queen of the Seven Kingdoms.
+*The Tyrells and Martells switch their support to Daenerys as her invasion approaches.
+*Daenerys's combined fleet departs from Meereen, and is joined by the large fleets of the Tyrells and Martells as well. Daenerys's invasion of Westeros is imminent.
+*The maesters at the [[Citadel]] send out white ravens to officially announce that autumn has ended, and winter has finally come.
+*[[Jon Snow]] is hailed as the new [[King in the North]].
+
+===Season 7: 304 AC===
+{{Hatnote|Reference: {{Dateref|Game of Thrones: Season 7}}}}
+[[File:Dragonstone 10.jpg|thumb|Arya Stark, on her quest for vengeance, oversees the extinguishing of the male line of House Frey in retaliation for the Red Wedding before returning to Winterfell.]]
+[[File:Jon meets Dany Queens Justice s7.jpg|thumb|Jon and Daenerys first meet at Dragonstone, with Melisandre crediting herself as bringing ice and fire together to Varys.]]
+[[File:702_Siege_of_the_Targaryen_Fleet.png|thumb|Euron Greyjoy [[Assault on the Targaryen fleet|destroys a large portion of the Targaryen fleet and captures]] his niece Yara, solidifying his alliance with Cersei Lannister.]]
+[[File:704_TSOW.jpg|thumb|Her Unsullied [[Fall of Casterly Rock|trapped]] at [[Casterly Rock]] and [[Highgarden]] [[Sack of Highgarden|sacked with the Tyrells dead]], Daenerys Targaryen leads the Dothraki atop [[Drogon]] against the combined Lannister and [[House Tarly|Tarly]] army and destroys their loot train at the [[Battle of the Goldroad]].]]
+[[File:Game-of-thrones-the-magnificent-seven-jon-snow-tormund-davos-gendry-the-hound-thoros-jorah-baric-eastwatch.jpg|thumb|Jon Snow embarks on a [[wight hunt]] with his allies to [[Captured wight|capture a wight]] as proof for the rest of Westeros. They are rescued by Daenerys, but the Night King kills [[Viserion]] and raises it as an ice dragon.]]
+[[File:707_Jon_Varys_Tyrion_Podrick_Davos.png|thumb|The [[Dragonpit Summit|Parley]] in King's Landing is held at the Dragonpit, where the captured wight is presented and Westeros agrees to come together for the [[Great War]], setting aside their enmities and differences.]]
+[[File:Game-of-thrones-season-finale-stillsjaime.jpg|thumb|After learning that Cersei and Euron plan to betray their promise to help fight the undead, Jaime abandons his sister and rides north as snow falls on King's Landing.]]
+[[File:Game-of-thrones-season-finale-stills-06.jpg|thumb|With his crimes against the realm and its noble families uncovered, [[Petyr Baelish]] is [[Trial of Petyr Baelish|executed]] by the combined efforts of Sansa, Arya, and Bran Stark.]]
+[[File:Theon_fights_s7_finale.jpg|thumb|Theon Greyjoy, forgiven by Jon Snow and overpowering [[Harrag]], wins over Yara's remaining followers and persuades them to join him in his mission to [[Rescue of Yara Greyjoy|rescue his sister from his uncle Euron]].]]
+[[File:Rhaegar and lyanna s7 finale 2.png|thumb|Bran Stark, having returned to Winterfell, witnesses the marriage of Rhaegar Targaryen and Lyanna Stark and learns that Jon Snow, whose true name is Aegon Targaryen, is the rightful heir to the Iron Throne.]]
+[[File:Jon_enters_danys_chambers_s7_ep7.jpg|thumb|En route to [[White Harbor]], Jon Snow and Daenerys Targaryen, unaware of their familial ties, make love. This concerns Tyrion Lannister, Daenerys's Hand.]]
+[[File:Undead_Dragon_707_02.jpg|thumb|The Wall is [[Breaching of the Wall|breached]] where [[Eastwatch-by-the-Sea|Eastwatch]] stands after attacks made by the Night King, nullifying its magic and allowing for the crossing of the White Walkers and wights into the North.]]
+*Winter officially descends upon [[Westeros]] after the [[Order of Maesters|maesters]] of the [[Citadel]] send out white [[raven]]s to the [[noble house]]s of the [[Seven Kingdoms]].
+*[[Daenerys Targaryen]] begins the [[Last War]] as she lands on [[Dragonstone (island)|Dragonstone]] with her combined forces. *[[Euron Greyjoy]] proposes an alliance to Cersei. He [[Assault on the Targaryen fleet|destroys]] [[Yara Greyjoy|Yara]]'s fleet.
+*[[Jaime Lannister]], with the support of [[Randyll Tarly]], [[Sack of Highgarden|sacks Highgarden]], while the Unsullied [[Fall of Casterly Rock|seize Casterly Rock]]. [[Olenna Tyrell]] is coerced into committing suicide. Daenerys defeats the Lannister-Tarly host at the [[Battle of the Goldroad]]. The loot train is destroyed and Randyll and his son [[Dickon Tarly]] are executed.
+*[[Jon Snow]], the [[King in the North]], travels to Dragonstone to form an alliance with Daenerys.
+*Jon and several companions travel [[beyond the Wall]] on a [[wight hunt]]. Jon [[Bending the knee|pledges fealty]] to Daenerys.
+*The [[Dragonpit Summit]] is held in [[King's Landing]]. Cersei pretends to agree to commit her forces against the coming darkness. Jaime abandons his sister and rides north.
+*[[Bran Stark|Bran]] returns to [[Winterfell]], and so is [[Arya Stark]], after [[Assassinations at the Twins|finishing]] off the [[House Frey|Frey]] men. Arya, Sansa, and Bran uncover all of [[Petyr Baelish|Littefinger]]'s lies and treacheries. He is [[Trial of Petyr Baelish|tried]] and executed.
+*[[Samwell Tarly]] arrives at Winterfell, where he reveals to Bran that Jon Snow is the son of [[Rhaegar Targaryen]] and his aunt [[Lyanna Stark]]. Bran notes to Sam that Jon is the rightful heir to the Iron Throne. Jon and Daenerys fall in love,<ref name="EWApril222019">[https://ew.com/tv/2019/04/22/game-of-thrones-emilia-clarke-jon-dany-interview/ Entertainment Weekly, April 22 2019] ''ew.com''</ref><ref>[https://ew.com/tv/2019/04/14/game-of-thrones-kit-harington-reveals-jon-snow-parentage/ Entertainment Weekly, April 14, 2019] ''ew.com''</ref><ref name="VanityFairDec2018">[https://www.vanityfair.com/hollywood/2018/12/game-of-thrones-scripts-secrets-cersei-pregnancy-tyrion-daenerys-snow-on-the-throne/ Game of Thrones: 18 Secrets, Easter Eggs, and Revelations Hiding in 7 Seasons of Scripts]''vanityfair.com''</ref> remain unaware of their familial ties and consummate their relationship.
+*After the passing of 8,000 years, the White Walkers emerge from the [[Haunted Forest]] with their massive army of the dead, invading to Westeros.
+
+===Season 8: 305 AC===
+{{Hatnote|Reference: {{Dateref|Game of Thrones: Season 8}}}}
+[[File:S8 Ep 1 Fire Symbol.jpg|thumb|Beric Dondarrion burns the undead Ned Umber following the fall of the Last Hearth.]]
+[[File:Jaime & Brienne S8 Ep3.jpg|thumb|Brienne of Tarth and Jaime Lannister fight in the Battle of Winterfell.]]
+[[File:Fireinthecapital.jpg|thumb|Daenerys Targaryen burns King's Landing in the final battle of her war.]]
+[[File:Drogon S8 Ep6 01.jpg|thumb|Daenerys is assassinated by Jon Snow in the Great Hall.]]
+[[File:806 Great Council.png|thumb|Brandon Stark is elected Bran the Broken, King of the Andals and the First Men, Lord of the Six Kingdoms, and Protector of the Realm, marking the beginning of the elective monarchy of Westeros.]]
+[[File:ExodusBeyondtheWall.PNG|thumb|Jon leads the wildlings back home.]]
+*The army of the dead marches south, slaughtering any and all living things in their path, among them Lord [[Ned Umber]].
+*[[Jon Snow]] learns of his true parentage.
+*The army of the dead is defeated at the [[Battle of Winterfell]].
+*Daenerys [[Battle of King's Landing|destroys King's Landing]]. Cersei, Jaime, and Euron are killed.
+*Daenerys [[Assassination of Daenerys Targaryen|is killed]] by Jon.
+*At a [[Great Council in the Dragonpit]], [[Bran Stark]] is [[Elections|elected]] King of the Six Kingdoms. He grants the North its independence at [[Sansa Stark]]'s demand. Sansa is later crowned the Queen in the North. 
+*Jon Snow is exiled to the Night's Watch to keep the peace.
+
+== Behind the scenes ==
+=== General ===
+As with real-life medieval cultures, the people who inhabit the [[known world]] in which the continents of Westeros, [[Essos]], and [[Sothoryos]] are located do not possess objective knowledge about how their world was created. This is in contrast with J.R.R. Tolkien's Middle-earth legendarium, in which characters actually did meet their gods or angelic beings and knew the full history of their world. In the fantasy world in which Westeros is set, civilization just gradually coalesced from the hunter-gatherer level, as in real-life. Many different cultures have their own theories about how the world began and how the human race came to be, usually tied to which religion they practice. Different religions offer drastically different theories on how the world was created. Even more simple "cultural traditions" and oral histories have much to say on the subject but no hard evidence. Some of these oral traditions are known to be simply inaccurate: the [[Dothraki]] believe that the first man came into being one thousand years ago, when even the written histories of other continuous civilizations stretch back five to six thousand years. 
+
+A major issue, pointed out by author [[George R.R. Martin]] himself, is that as the saying goes, history tends to be written by the victors. Just as in real life, the inhabitants of Westeros during the time frame of the TV series do not possess an objective record of history. History tends to be more accurate the closer it is to the present, but largely in the sense that fables and half-myths tend no longer to be included. All history books display the biases of their authors to some degree. The oldest written histories in Westeros were made by the Andal invaders, and they depicted themselves in a positive light as they killed or conquered the First Men of the south. The Northerners, descended from the First Men who were never conquered by the Andals, have a decidedly negative view of the coming of the Andals.
+
+=== Year at the start of ''Game of Thrones'' ===
+[[File:Jorah's Pardon.jpg|thumb|The date given on Jorah's letter of pardon from Season 1 is "298 AL", the same as in the books - which has been taken as establishing that both the TV series and first novel begin in the year 298 AC, though time moves more slowly in the TV series.]]The timeline of the TV series broadly follows the timeline of the ''[[A Song of Ice and Fire]]'' novels, with several minor differences. Several younger characters - most notably Jon Snow, all of the Stark children and Daenerys Targaryen - are two to three years older than their book equivalents, which has required the date of Robert's Rebellion to be pushed back from fifteen to seventeen years before the events of the series begin. Other characters are even older (Robert Baratheon is ten years older than his book counterpart, Eddard Stark is likely similarly about ten years older) or younger (Ser Vardis Egen is decades younger than in the book, while Theon is two years younger), though for the most part this has no bearing on the timeline.
+
+In Season 4, Barristan Selmy confronts Jorah Mormont about a letter of pardon he received from Robert Baratheon. Though this takes place in Season 4, the letter was written and sent in Season 1, and it specifies the year as '''298''' after Aegon's Landing, the same year as in the beginning of the book series.
+
+=== Dating Robert's Rebellion ===
+Several characters in Season 1 mention that Robert's Rebellion ended 17 years ago, which would put the year it ended as roughly 281 (298 - 17) AC. The prop for the book ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]'' explicitly states that Robert Baratheon was crowned king in year '''280''' after Aegon's Landing, cementing that the end of the rebellion was in that year. That 280 is actually 18 years before 298 could be taken as a contradiction, but there are examples when the 17 year date is contradicted within the show itself as well, In Season 1 Episode 2 ("[[The Kingsroad]]"), Catelyn says that Eddard Stark rode off with Robert Baratheon "17 years ago", but Eddard rode off with Robert at the beginning of the rebellion, which is said in the same episode to have lasted about a year, which would suggest it ended in 282 AC.
+
+One, albeit unlikely, explanation to account for the discrepancy between "17 years" and "280 after Aegon's Landing" is that 17 years could be referring to the actual end of the rebellion, the [[Assault on Dragonstone]], which is specified to have taken place about a year after the [[Sack of King's Landing]] (after which Robert was crowned). More plausible explanations could be that Season 1 takes place early in 298 AC (not likely since Season 1 covers several months - there is significant travelling and Daenerys carries a child almost to term) or that Robert became king very late in 280 AC and the date of the anniversary simply did not pass yet in Season 1. Regardless, the Wiki of Westeros follows the assumption that the current year is '''298''' AC and that Robert became king in '''280''' AC, as those are the only concrete dates directly given by official (prop) TV continuity material, anything else being fan-made calculations.
+
+=== Dating the Greyjoy Rebellion ===
+The major datable event from King Robert's reign in the TV continuity is that the [[Greyjoy Rebellion]] is, as in the book series, consistently stated to have occurred 9 years before the beginning of the story - it is mentioned several times in Season 1 that there hasn't been a "proper fight" in nine years. In the books, the Greyjoy Rebellion also occurred 9 years before the story begins - to necessitate just how long Theon was functionally raised in the Stark household as Ned's ward. In the book continuity, with a 15-year gap since Robert's Rebellion, the Greyjoy Rebellion occurred 6 years after Robert was crowned. In the TV series, based on the repeated comments regarding "9 years", the Greyjoy Rebellion took place in '''289''' (298 - 9) AC, the same year as it did in the books, but Robert becoming king in 280 AC means that it took place longer into his reign than in the books, 9 years into his reign rather than 6.
+
+=== Passage of time in ''Game of Thrones'' ===
+Beyond the props in Season 1, there is no concrete confirmation of the years events in the rest of the series take place. No later piece of dialogue or prop explicitly gives the current year. The Wiki of Westeros follows the assumption that one season corresponds roughly to one year. Evidence for this, and evidence for the contrary, is presented below.
+
+==== Evidence that one season roughly corresponds to a year ====
+* The most obvious evidence is that cast members of course age one year between seasons, which is most clearly visible for the child actors. The Stark children grow up over the course of the series, turning from children into young adults.
+* In Season 2 Episode 5 ("[[The Ghost of Harrenhal]]"), Renly Baratheon tells Catelyn Stark that in order for there to be peace between him and Robb, Robb needs to swear him the same oath of fealty that Eddard swore Robert "18 years ago", this piece of dialogue places one more year between Robert's Rebellion and the current year than Season 1 dialogue did, suggesting a year has passed in the series.
+* In Season 3 Episode 7 ("[[The Bear and the Maiden Fair (episode)|The Bear and the Maiden Fair]]"), Talisa Stark states that she has tended to the wounded of the War of the Five Kings for "2 years", meaning that the war has lasted for about two years at this point. The war began in late Season 1, suggesting that about 2 years have passed since then.
+* In Season 4 Episode 5 ("[[First of His Name]]"), Barristan Selmy says that Joffrey Baratheon's wars have lasted "for years", meaning years have passed since late Season 1 when the War of the Five Kings began.
+* In Season 4 Episode 8 ("[[The Mountain and the Viper]]"), Petyr Baelish says that the knights of the Vale rode with Eddard Stark and Robert Baratheon in the rebellion "only 20 years ago", a consistent date for Robert’s Rebellion if a season equals a year (17 years + seasons 2 to 4).
+* In Season 5 Episode 7 ("[[The Gift]]"), Stannis Baratheon says he has trusted in Melisandre’s visions and prophecies "for years", meaning years have passed since Season 2. In the same episode, Myrcella Baratheon says that Dorne has been her home "for years", reinforcing the same point as Stannis's quote (Myrcella was shipped to Dorne in Season 2).
+* In Season 6 Episode 8 ("[[No One]]"), Edmure Tully says that he has been kept in a cell "for years", meaning that years have passed since his imprisonment in late Season 3.
+
+==== Evidence that one season does not correspond to a year ====
+
+* Yara Greyjoy states in Season 2 Episode 8 ("[[The Prince of Winterfell]]") that Rickon Stark is six years old, the same age that Robb Stark gave for him in Season 1 Episode 2 ("[[The Kingsroad]]").
+* In Season 2 Episode 2 ("[[The Night Lands]]"), Balon and Theon Greyjoy comment on that Theon was taken from Pyke nine years ago. As established previously, the Greyjoy Rebellion is also mentioned as having ended nine years before Season 1.
+* Jaime Lannister mentions in Season 3 Episode 5 ("[[Kissed by Fire]]") that he has seen the distasteful look of people seeing him as "the Kingslayer" for 17 years, which contradicts Renly's Season 2 statement of "18 years" and suggests Season 3 as taking place in the same year as Season 1.
+* In Season 3 Episode 8 ("[[Second Sons (episode)|Second Sons]]"), Sansa Stark says that she is 14 years old. In Season 1 Episode 1 ("[[Winter Is Coming]]"), she says she is 13 years old, suggesting that only a year has passed between seasons 1 and 3. In the same episode, Daenerys says that she "did not have dragons a year ago", which suggests that the events of late Season 1, when they are born, took place less than a year prior.
+* In Season 4 Episode 5 ("[[First of His Name]]"), Cersei Lannister says that she has been Queen for "19 years". If one season corresponds to roughly a year, Season 4 takes place in 301 AC, 21 years after her marriage to Robert (in 280 AC). Even if one follows the "17 years ago" date from Season 1, Cersei would have had to have been Queen for at least 20 years if one season is one year. In the same episode, Cersei says that she has not seen her daughter in over a year. Myrcella was shipped to Dorne in Season 2, meaning that if one season equals a year, two years should have passed.
+* In Season 5 Episode 8 ("[[Hardhome (episode)|Hardhome]]"), Daenerys Targaryen mentions that Varys has overseen the campaign to assassinate her "for 20 years". As the Assault of Dragonstone took place roughly a year after Robert Baratheon became king, it must have taken place in 281 AC. If one season corresponds to one year, Season 5 takes place in 302 AC, meaning 21 years have actually passed. Daenerys could be rounding down to 20.
+* In Season 5 Episode 2 ("[[The House of Black and White]]"), Stannis Baratheon says that Lyanna Mormont is a "girl of ten". Sansa Stark also says that Lyanna is 10 years old in Season 6 Episode 7 ("[[The Broken Man]]").
+* Cersei Lannister tells her brother Jaime Lannister that she is pregnant in Season 7 Episode 5 ("[[Eastwatch]]"). She is still pregnant in Season 8 Episode 5 ("[[The Bells]]"), but it is not yet visually apparent, which indicates that Seasons 7 and 8 should not cover more than a year together.
+
+==== Discrepancies and conclusions ====
+It is possible to reconcile much of the discrepancies noted above if it assumed that Season 2 and 3 take place in the same year, and that Season 7 and 8 take place in the same year. This would give the timeline of the TV series as 298 AC (Season 1), 299 AC (Seasons 2 and 3), 300 AC (Season 4), 301 AC (Season 5), 302 AC (Season 6) and 303 AC (Seasons 7 and 8). With this timeline, the timeline of Cersei's pregnancy makes more sense, and much of the other evidence holds up as well. Sansa being 14 in Season 3 and 13 in Season 1 works out, as does Cersei being queen for "19 years" in Season 4, and Varys working to assassinate Daenerys for "20 years". It also works with the various comments about events having been "years" ago, Joffrey's wars had lasted for two years in Season 4, when Barristan commented on them lasting for "years" (two is plural), Stannis having trusted in Melisandre for years would also equal two years rather than three, still plausible. This would also go to explaining how Daenerys can claim she "did not have dragons a year ago" in Season 3 (when they were born in Season 1), and Cersei not having seen Myrcella for about a year in Season 4 (when they last saw each other in Season 2). Talisa's statement in Season 3 that indicates that the War of the Five Kings had lasted for about 2 years could be reconciled by imagining it starting early in 298 AC and her making the statement late in 299 AC (i.e. <u>almost</u> 2 years having passed, and imagining her to be rounding up).
+
+The major problem with this version of the timeline is Arya Stark's age. Though Arya's age is never expicitly given within the series itself, HBO officially confirmed her to be 18 years old in Season 8. If Season 8 takes place in 303 AC, five years after Season 1, this would make Arya 13 years old in Season 1, the same age as her older sister Sansa Stark. Though the actress of Arya, Maisie Williams, was 13 when they filmed Season 1, Arya and Sansa cannot be the same age in-universe, and have to be separated by ''at least'' one year. Their ages relative to each other are never confirmed in the TV series. In the book series, Arya is three years younger than Sansa, but Sophie Turner (Sansa's actress) is just a year older than Maisie Williams. Given that they have to be at least a year apart, the timeline would have to look like one of the models below:
+
+* '''A)''' 298 AC (Season 1), 299 AC (Season 2 & 3), 300 AC (Season 4), 301 AC (Season 5), 302 AC (Season 6), 303 AC (Season 7), 304 AC (Season 8) – Sansa is one year older than Arya
+* '''B)''' 298 AC (Season 1), 299 AC (Season 2), 300 AC (Season 3), 301 AC (Season 4), 302 AC (Season 5), 303 AC (Season 6), 304 AC (Season 7 & 8) – Sansa is one year older than Arya 
+* '''C)''' 298 AC (Season 1), 299 AC (Season 2), 300 AC (Season 3), 301 AC (Season 4), 302 AC (Season 5), 303 AC (Season 6), 304 AC (Season 7), 305 AC (Season 8) – Sansa is two years older than Arya
+
+Given that there at most can be only a single case of two seasons taking place in a single year, and which year or seasons this cannot be determined with complete certainty (with there being two most likely candidates - Season 2 & 3 and Season 7 & 8), it is easier to assume that one season roughly corresponds to one year throughout the series, and as such the Wiki of Westeros follows timeline model '''C''' above (though the others are plausible as well), placing the events of Season 8 in 305 AC.
+
+===Removal of King Jaehaerys II Targaryen===
+In the book series, the last few Targaryen kings were [[Maekar Targaryen|Maekar I]] (ruled 221–233 AC), followed by his son [[Aegon Targaryen (son of Maekar)|Aegon V]] (ruled 233–259 AC), followed by his son Jaehaerys II (ruled 259–262 AC), followed by his son [[Aerys II Targaryen|Aerys II]] (ruled 262–283 AC). In Season 1 Episode 9 ("[[Baelor]]"), when Maester Aemon recounts his lineage to Jon Snow, he states that Aegon V (Aemon's brother) was the father and direct predecessor of Aerys II, meaning that Jaehaerys II was cut from the Targaryen lineage in the TV series continuity, a deliberate change presumably done to make Aemon's explanation of his genealogy to Jon Snow more concise and less convoluted.
+
+Though it skips an entire generation (or merges it into the next, depending on the characters involved) in the Targaryen family tree, the timeline implications of skipping Jaehaerys II are not as large as they would be if another king had been skipped as he only ruled for three years in the book series. The TV series maintains that Tywin Lannister served as Aerys II's hand of the king for twenty years before resigning after the [[Lord of Harrenhal|Great Tourney of Harrenhal]], which took place 1 year before Robert's Rebellion (i.e. 278 AC since the rebellion began a year before Robert became king in 280 AC), placing the beginning of Aerys II's reign in 258 AC and meaning that Jaehaerys II's reign in the book series was largely "absorbed" into that of Aerys II for the TV continuity.
+
+The only major event of Jaehaerys II's reign in the books, the [[War of the Ninepenny Kings]], is established by "[[Robert's Rebellion - Barristan Selmy]]" to have taken place late in the reign of Aerys II's father, meaning it happened in Aegon V's reign in the TV series continuity.
+
+==In the books==
+
+=== Measuring time ===
+At the time of the novels, Westeros has been using a calendar system based on the year of Aegon's Landing, which occurred three centuries before. As explained above, calling it "Aegon's Landing" (AL) is somewhat anachronistic given that the "landing" happened at the beginning of the conquest but the calendar system only begins two years later, at the ''end'' of the conquest - more recent in-universe historical texts have been shifting to the alternate name "After Conquest" (AC). The difference is purely one of nomenclature: "the year 298 AL" and "the year 298 AC" are exactly the same.
+
+The known world that Westeros and Essos are set in has variable seasons that can last for years, sometimes a decade each (though such long seasons only come once every century or two). On the average, it seems that one season can last for about two to three years or so (the full four season cycle therefore taking about a decade). There are hints that the seasons may not always have been this way: characters still define "a year" as a twelve month period, not a full cycle of summer to winter. Months are the same as in real-life, roughly a thirty day period. The term "moon-turn" is commonly used for "month".
+
+''Apparently'' Westeros doesn't actually have specific names for each month/moon-turn - given that even after five novels a month name has never been mentioned, and the actual month names stem from real-life history (i.e., July and August were named after Roman Emperors). When the in-universe history text from the novellas about the Dance of the Dragons give specific dates, they are usually just in the format "on the fifth day of the third moon of the year 131 AC" etc. While they seem to just refer to each month by number, keep in mind that this is essentially what the real-life Gregorian calendar does, inherited from the Romans, and their names often just stem from Latin numbers: "Sept-ember" is the seventh month, "Oct-ober" is the eighth month, etc.
+
+Westeros also doesn't use an "o'clock" system of measuring hours in a day (they also don't have mechanical clocks). Not every culture throughout real life history has measured the first hour of a given day starting at midnight (the exact opposite of noon); some start at sunrise, others at sunset. It isn't clear at what hour one day officially becomes the next in Westeros (though given that they are an agrarian society, they probably measure by each sunrise). Each "day" apparently consists of a 24 hour period - simply so that Martin would not confuse readers when he referred to a certain amount of hours in the narrative. People in Westeros apparently just apply colloquial names to each hour of the day, i.e., the "hour of the wolf" is the darkest time in the middle of the night. A few other hour names have been mentioned in passing:
+
+*The hour of the bat - apparently fairly late after sunset, if not the deep night
+*The hour of the eel - immediately follows the hour of the bat
+*The hour of ghosts - immediately follows the hour of the eel
+*The hour of the owl - comes several hours after the hour of the bat, but still before dawn; its exact position is unclear
+*The hour of the wolf - the darkest part of night, coming after the hour of the owl (in real life, "the hour of the wolf" is typically considered to be loosely some point between 3 a.m. and 5 a.m.).
+*The hour of the nightingale - comes after the hour of the wolf
+
+=== Book timeline ===
+The events in the book series are faster paced than in ''Game of Thrones''. The series was adapted from the books broadly based on the following structure:
+
+* Season 1 covers the events of the first book, ''A Game of Thrones''
+* Season 2 covers the events of the second book, ''A Clash of Kings''
+* Seasons 3 and 4 cover the events of the third book, ''A Storm of Swords''
+* Season 5 covers the events from the fourth and fifth books ''A Feast for Crows'' and ''A Dance of Dragons''
+* Season 6 covers events from the outline of the forthcoming sixth book ''The Winds of Winter''
+* Seasons 7 and 8 cover events from the outline of the forthcoming seventh book, ''A Dream of Spring''
+
+In the book series, the date at the end of ''A Dance of Dragons'' is some time late in the year 300 AC, but the events (Stannis soon to battle the Boltons, Cersei recently having had her walk of atonement, Meereen being under siege from the slavers) correspond to Season 5 and 6 in the TV series, calculated to be years 302 and 303 AC (per above). This is partly because one book does not correspond to a year, and partly because of the decision to split the content of the third book, ''A Storm of Swords'', into two TV seasons rather than one (as had been done for previous books).
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist|2}}
+
+==External links==
+*{{AWOIAF|Timeline of major events}} {{Spoilers|HOTDAKOTSK}}
+*{{AWOIAF|Years before Aegon's Conquest}}
+*{{AWOIAF|Years after Aegon's Conquest}} {{Spoilers|HOTDAKOTSK}}
+
+<!--Categories-->
+[[Category:History| ]]
+
+<!--Languages-->
+[[de:Zeitlinie]]
+[[fr:Chronologie]]
+[[it:Cronologia del Mondo Conosciuto]]
+[[pt-br:Linha do tempo]]
+[[ru:Хронология]]

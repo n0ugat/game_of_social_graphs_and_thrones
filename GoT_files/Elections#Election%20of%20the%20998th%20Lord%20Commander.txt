@@ -1,0 +1,88 @@
+{{Canonicity|Canon}}
+{{Quote|You can't be acting Lord Commander forever. There will be a choosing. The [[Aemon|old maester]] will insist on it.|[[Janos Slynt]] to Ser [[Alliser Thorne]]|Oathkeeper (episode)}}
+'''Elections''',{{Ref|GOT510}} sometimes called '''choosings''',{{Ref|GOT404}} are held by various governments and organizations in the [[Known world|known world]] to select individuals to hold an office. There are few formal elections in [[Westeros]], but several organizations, guilds, and military orders do practice them. Elections are somewhat more commonly found in [[Essos]] among various guilds, or even the limited democracy of [[Volantis]], a holdover from the [[Valyrian Freehold]]. True "democracies" in the modern real-world sense are not present.
+
+==Westeros==
+Several organizations in Westeros have historically held internal elections:
+*The ruling council of the [[Faith of the Seven]], the [[Most Devout]], elects new [[High Septon]]s - but only the Most Devout are allowed to vote, and new members of the Most Devout are appointed by High Septons.
+*The [[Order of Maesters]] selects a new [[Grand Maester]] as representative to the [[Iron Throne]], but only the ruling [[Conclave]] of [[Archmaester]]s is allowed to vote.
+
+The exact process that the [[Free Folk|wildlings]] use for selecting a new [[King-Beyond-the-Wall]] is unclear, but it appears to be more of a general acclamation by different tribal chiefs, not an actual voting system.
+
+===Night's Watch===
+The [[Night's Watch]], an all-male military order that controls its own territory along the [[Wall]], holds elections to select their new Lord Commander. ''Every'' member of the Night's Watch has an equal vote, from the [[First Ranger]] and the other high-ranking officers, down to the cooks, and even the lowliest steward who cleans out the chamber pots. Lord Commanders serve for life, so a new election is only held when the current Lord Commander dies. In the interim between his death and the election, one of the other high ranking officers will serve as acting Lord Commander, but it is frowned upon for this to continue for an extended period of time.<ref>"[[Oathkeeper (episode)|Oathkeeper]]"</ref>
+
+====Election of the 998th Lord Commander====
+{{Event
+| Title         = Election of the 998th Lord Commander
+| Type          = Thrones
+| Part          = 
+| Image         = LCJonSnow.png
+| Previous      = 
+| Concurrent    = 
+| Next          = 
+| Date          = [[302 AC]]{{Dateref|Game of Thrones: Season 5}}
+| Place         = 
+| Outcome       = Jon Snow victory
+| Factions1     = Ser [[Alliser Thorne]]
+| Factions2     = Ser [[Denys Mallister]]
+| Factions3     = [[Jon Snow]]
+| Factions4     = 
+| Leaders1      = 
+| Leaders2      = 
+| Leaders3      = 
+| Leaders4      = 
+| Participants1 = 
+| Participants2 = 
+| Participants3 = 
+| Participants4 = 
+| Casualties1   = 
+| Casualties2   = 
+| Casualties3   = 
+| Casualties4   = 
+| Civilian      = 
+}}
+In the year [[302 AC]],{{Dateref|Game of Thrones: Season 5}} following the death of Lord Commander [[Jeor Mormont]] during the [[great ranging]] beyond the Wall, along with many other high-ranking officers, the Watch was left in a precarious position. Ser [[Alliser Thorne]] stepped up to serve as acting Lord Commander during the emergency, until the threat of [[Mance Rayder]]'s wildling horde was surprisingly halted in the [[battle for the Wall]]. The victory left the Watch with enough breathing room to formally hold an election for a new Lord Commander. The major candidates were Ser Alliser and Ser [[Denys Mallister]], commander of the [[Shadow Tower]].<ref>"[[The Wars To Come]]"</ref>
+
+At the election, [[Samwell Tarly]] put [[Jon Snow]]'s name forward as a candidate, after learning that he will not accept [[Stannis Baratheon|Stannis]]'s offer of [[legitimization]]. Sam reminded all of the black brothers present that Jon was Jeor Mormont's personal steward, that he led the force to [[Raid on Craster's Keep|deal with the mutineers]] at [[Craster's Keep]], and took command of Castle Black's garrison during the battle when Thorne was wounded. As a result, Jon was chosen as the new Lord Commander of the Night's Watch.<ref>"[[The House of Black and White]]"</ref>
+
+===Ironborn kingsmoot===
+{{Main|Kingsmoot}}
+The ancient [[Ironborn]] did not follow a man as their new king simply because he was the son of the previous king. Instead, in past centuries the [[Iron Islands]] practiced a form of [[Wikipedia:Elective monarchy|elective monarchy]] known as a '''"kingsmoot"'''. Every Ironborn ship captain had the right to vote as well as to put himself forward as a candidate. The "voting" process was informal, usually concluded when the [[Drowned Men]] priests officiating decided that one candidate had achieved a clear majority. There was technically no rule against female ship captains participating, but few women are ship captains among the Ironborn in the first place, so they never had a ruling queen.
+
+Centuries ago the kingsmoots ended and the kingship became hereditary, such as during the time of [[House Hoare]]'s invasion of the mainland. After [[Aegon's Conquest]] the new dragon-kings made the Ironborn choose a new family from among themselves to rule, and they chose [[House Greyjoy]]. 
+
+During the [[War of the Five Kings]], the Iron Islands declared their independence again, and revived the tradition of the kingsmoot.
+
+==Essos==
+Elections are slightly more common in [[Essos]], due to their greater urbanization and larger number of trade guilds, etc., but also due to the influence of the [[Valyrian Freehold]] before its collapse. Since then most of the [[Free Cities]] are ruled by wealthy merchant-princes known as [[Magister]]s in various configurations. Only [[Volantis]], eldest of the Free Cities and closest to Valyria, still uses the "Freehold" election system, voting for one of the "Triarchs" who serve set terms.
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the election of a new Lord Commander of the Night's Watch actually requires a '''two-thirds majority''' to win. The TV series apparently simplified this to a ''simple'' majority: in Season 5 it is only referred to as "a majority", and visually just two equal stacks of vote-tokens are displayed (so Aemon can dramatically cast the final vote which breaks the tie). This allowed the TV version to quickly condense the somewhat more convoluted political wrangling which enabled Jon Snow to achieve a two-thirds majority in the book version.
+
+If a two-thirds majority is not reached, voting will continue the next day, with no time limit. In the many centuries that the Night's Watch has existed, there was once a choosing that lasted for nearly two years, including seven hundred votes - though the voting process typically only lasts several days, sometimes just a few hours. This may be loosely inspired by real-life [[Wikipedia:Papal conclave|papal conclaves]], in which voting goes on as long as it has to until a majority is reached: typically papal elections only last a few days, sometimes only hours, but once in the thirteenth century a papal election indeed lasted over two years (1268-1271) (though unlike a papal conclave, ''everyone'' in the organization of the Night's Watch gets a vote).
+
+The Night's Watch only had about 10,000 members during [[Aegon's Conquest]] (though it may have had even more in past millennia), but the Targaryen unification of the Seven Kingdoms caused the Night's Watch to drastically decline. With the number of internal wars drastically reduced, the number of new recruits from the losing sides in those wars dried up. By the start of the [[War of the Five Kings]], the Watch had less than 1,000 men - thus the Watch never experienced great difficulties in counting votes from each man in the Watch. Actual voting takes place at the headquarters of the Watch - which for many millennia was the [[Nightfort]], but over two hundred years ago it was abandoned and the headquarters was moved to [[Castle Black]]. Not all men can be physically present for voting, because they have to guard their posts at other castles on the [[Wall]]. Instead, the commander of each castle on the Wall travels to Castle Black, and is trusted to accurately report the tally of votes from his castle.
+
+Any man of the Night's Watch may nominate himself or one of his sworn brothers to stand in the election, though usually the number of candidates will quickly be reduced as the election focuses on a few men who have a large number of supporters. Major candidates tend to be major officers or commanders of castles on the Wall, with leadership experience, but even black brothers who held no major offices have been elected Lord Commander, usually if they had performed exemplary service. Lord Commanders usually tend to be elected from the Rangers, though this is not always the case. Sometimes if the officers see that a new recruit has leadership potential, they will make him a Steward - so he can serve as a personal Steward to one of the officers or the Lord Commander himself, to actively groom him for command. This is perceived as fast-tracking a recruit for command or even to stand for election as Lord Commander some day.
+
+Given that [[Jeor Mormont]] was the 997th Lord Commander, there have in theory been 997 choosings - though within the narrative [[Samwell Tarly|Samwell]] points out that they don't know if there have ''actually'' been 997 Lord Commanders, stretching back a full eight thousand years, as the early millennia of the Watch are shrouded in legends. Nonetheless reliably recorded choosings stretch back for many centuries before the Targaryen conquest three hundred years ago.
+
+In the fifth novel, during an argument about Jon's decision to send Val (Mance Rayder's sister-in-law) on a mission, he tells his subordinates that if Val does not return "then you may have a chance to choose a lord commander more to your liking". It is unclear if by this he meant to imply that there is a process for removing a Lord Commander, or if he was alluding that he didn't expect to live very long if his plan failed.
+
+In the books, the [[Faith Militant]] is split into an upper order called the "Warrior's Sons" for knights and a lower order call the "Poor Fellows" for commoners. As a military order, the Warrior's Sons elected their leadership similarly to how the Night's Watch did, except that instead of a "Lord Commander", their leader held the title "Grand Captain".
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF}}
+
+<!--Categories-->
+[[Category:Laws]]
+
+<!--Languages-->
+[[fr:Élection]]

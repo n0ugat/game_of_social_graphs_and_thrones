@@ -12,6 +12,23 @@ def load_text_files(file: str, path: str = 'GoT_files', newLine: bool = False) -
 
     return text
 
+def load_all_files(path: str = 'GoT_files') -> dict:
+    pages = os.listdir(path)
+
+    page_titles = [f for f in pages if not f.startswith('fetched_pages_')]
+    page_titles = [f for f in page_titles if not f.startswith('redirects_')]
+    page_titles = [f for f in page_titles if not f.startswith('failed_pages_')]
+
+    page_texts = {}
+
+    for file in pages:
+        page_name =  file.replace(".txt", "")
+        text = load_text_files(file,path)
+        page_texts[page_name] = text
+    
+    return page_texts
+
+
 def tokenize_text(text: str) -> list:
     tokens = nltk.word_tokenize(text)
 

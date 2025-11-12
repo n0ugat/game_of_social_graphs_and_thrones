@@ -1,0 +1,445 @@
+{{DISPLAYTITLE:''Game of Thrones'': Season 6}}
+{{Season
+| Season     = 6
+| Type       = Thrones
+| Image      = {{PAGENAME}}.jpg
+| Episodes   = 10{{HBOref|GOT6}}
+| Premiere   = "[[The Red Woman]]"{{HBOref|GOT6}}
+| Finale     = "[[The Winds of Winter]]"{{HBOref|GOT6}}
+| Network    = [[HBO]]{{HBOref|GOT}}
+| First      = April 24, 2016{{Listref|GOT}}
+| Final      = June 26, 2016{{Listref|GOT}}
+| Runtime    = 558 minutes{{Boxref|GOT6}}
+| Home       = November 15, 2016{{Webref|name=Blu-ray |author=Dan Selcke |date=July 18, 2016 |url=https://winteriscoming.net/2016/07/18/complete-details-on-the-game-of-thrones-season-6-dvdblu-ray-boxset/ |title=Complete details on the Game of Thrones Season 6 DVD/Blu-ray boxset |website=Winter is Coming |access-date=December 15, 2023 }}
+| Starring   = {{Collapse|[[Peter Dinklage]]{{Ref|GOT601}}<br>[[Nikolaj Coster-Waldau]]{{Ref|GOT601}}<br>[[Lena Headey]]{{Ref|GOT601}}<br>[[Kit Harington]]{{Ref|GOT601}}<br>[[Emilia Clarke]]{{Ref|GOT601}}<br>[[Natalie Dormer]]{{Ref|GOT601}}<br>[[Liam Cunningham]]{{Ref|GOT601}}<br>[[Sophie Turner]]{{Ref|GOT601}}<br>[[Aidan Gillen]]{{Ref|GOT604}}<br>[[Carice van Houten]]{{Ref|GOT601}}<br>[[Nathalie Emmanuel]]{{Ref|GOT602}}<br>[[Indira Varma]]{{Ref|GOT601}}<br>[[Rory McCann]]{{Ref|GOT607}}<br>[[Maisie Williams]]{{Ref|GOT601}}<br>[[Jonathan Pryce]]{{Ref|GOT601}}<br>[[Alfie Allen]]{{Ref|GOT601}}<br>[[John Bradley]]{{Ref|GOT603}}<br>[[Dean-Charles Chapman]]{{Ref|GOT602}}<br>[[Gwendoline Christie]]{{Ref|GOT601}}<br>[[Jerome Flynn]]{{Ref|GOT607}}<br>[[Isaac Hempstead-Wright]]{{Ref|GOT602}}<br>[[Conleth Hill]]{{Ref|GOT601}}<br>[[Kristofer Hivju]]{{Ref|GOT602}}<br>[[Michiel Huisman]]{{Ref|GOT601}}<br>[[Michael McElhatton]]{{Ref|GOT601}}<br>[[Hannah Murray]]{{Ref|GOT603}}<br>[[Iwan Rheon]]{{Ref|GOT601}}<br>[[Tom Wlaschiha]]{{Ref|GOT602}}<br>[[Iain Glen]]{{Ref|GOT601}}}}
+| Producers  = [[David Benioff]]{{Ref|GOT601}}<br>[[D.B. Weiss]]{{Ref|GOT601}}<br>[[Carolyn Strauss]]{{Ref|GOT601}}<br>[[Frank Doelger]]{{Ref|GOT601}}<br>[[Bernadette Caulfield]]{{Ref|GOT601}}<br><br>'''Co-executive producers'''<br>[[Vince Gerardis]]{{Ref|GOT601}}<br>[[Guymon Casady]]{{Ref|GOT601}}<br>[[George R.R. Martin]]{{Ref|GOT601}}
+| Writers    = David Benioff{{HBOref|GOT601}}<br>D.B. Weiss{{HBOref|GOT601}}<br>[[Dave Hill]]{{HBOref|GOT602}}<br>[[Bryan Cogman]]{{HBOref|GOT606}}
+| Directors  = [[Jeremy Podeswa]]{{HBOref|GOT601}}<br>[[Daniel Sackheim]]{{HBOref|GOT603}}<br>[[Jack Bender]]{{HBOref|GOT605}}<br>[[Mark Mylod]]{{HBOref|GOT607}}<br>[[Miguel Sapochnik]]{{HBOref|GOT609}}
+| Production = Late July 2015{{Cite}}
+| Wrapped    = December 17, 2015{{Cite}}
+| Year       = [[303 AC]]{{Dateref|Game of Thrones: Season 6}}<br>[[281 AC]]{{Dateref|Robert's Rebellion}} {{C|[[Bran Stark|Bran]]'s visions}}{{Ref|GOT603}}
+| Previous   = [[Game of Thrones: Season 5|Season 5]]{{HBOref|GOT}}
+| Next       = [[Game of Thrones: Season 7|Season 7]]{{HBOref|GOT}}
+}}
+'''''Game of Thrones'': Season 6'''{{HBOref|GOT6}} is the sixth season of ''[[Game of Thrones]]''. It consists of ten episodes. It premiered with "[[The Red Woman]]" on April 24, 2016 on [[HBO]], and concluded with "[[The Winds of Winter]]" on June 26, 2016. It is based on ''[[A Feast for Crows]]'', ''[[A Dance with Dragons]]'', and ''[[The Winds of Winter (novel)|The Winds of Winter]]'', the fourth, fifth, and forthcoming sixth novels of ''[[A Song of Ice and Fire]]'' by [[George R.R. Martin]].
+
+==Premise==
+{{Premise|GOT6}}
+
+==Overview==
+[[File:Game of Thrones Season 6 13.jpg|thumb|Though Cersei has been shamed and humbled by the Faith of the Seven, she is not ready to give up just yet.]]
+[[File:Game of Thrones Season 6 10.jpg|thumb|Sansa Stark and Theon Greyjoy escape from Winterfell.]]
+[[File:Game of Thrones Season 6 16.jpg|thumb|Despite their victory over Stannis Baratheon, Roose and Ramsay's hold on the North is weakened by Sansa's escape.]]
+[[File:Brynden Blackfish.jpg|thumb|[[Brynden Tully|Brynden "The Blackfish" Tully]] continues to hold [[Riverrun]] against the Lannisters in [[Robb Stark]]'s name.]]
+[[File:Game of Thrones Season 6 04.jpg|thumb|[[Ellaria Sand]]'s poisoning of [[Myrcella Baratheon]] will have consequences.]]
+[[File:Game of Thrones Season 6 03.jpg|thumb|Arya Stark is blinded for the unsanctioned killing of Meryn Trant using a Faceless Men disguise.]]
+[[File:Game of Thrones Season 6 23.jpg|thumb|Despite escaping Meereen alive, Daenerys is captured by a Dothraki ''khalasar''.]]
+[[File:GOT S6 38.png|thumb|Despite his efforts to counter the coming White Walkers, Lord Commander Jon Snow has been betrayed and stabbed to death by his own men.]]
+[[File:Game of Thrones Season 6 08.jpg|thumb|Samwell Tarly is sent by Jon Snow on a journey to the Citadel in [[Oldtown]] (accompanied by Gilly), to become a maester and find a way to defeat the White Walkers.]]
+[[File:Game of Thrones Season 6 05.jpg|thumb|With Theon considered dead and the rest of Westeros locked in a power struggle, the Greyjoys plan their next move.]]
+[[File:Game of Thrones Season 6 06.jpg|thumb|Bran Stark continues to hone his powers in the Sight, under the tutelage of the Three-Eyed Raven.]]
+Winter has come. 
+
+[[Westeros]] braces for a winter which may become a new [[Long Night]], as the [[White Walkers]] and their [[Wight|army of the dead]] are poised to strike against the [[Wall]] and the realms of men.
+
+In [[King's Landing]], Queen [[Cersei Lannister]] has been publicly shamed by the [[Faith of the Seven]] and awaits her trial for [[regicide]] and [[incest]]. Even [[Grand Maester]] [[Pycelle]] has abandoned her, and called her uncle, Ser [[Kevan Lannister]], to rule as the new [[Hand of the King]]. Even though Cersei has been released to their custody, her inept leadership nearly destroyed [[House Lannister]]'s hold on the throne and they have no intention of ever letting her wield power again. Kevan and Pycelle must attempt to mend the damage Cersei did to the Lannister-[[House Tyrell|Tyrell]] alliance. The Lannisters and Tyrells on Kevan's [[Small Council]] maintain a shaky truce as they attempt to deal with the ongoing debt crisis to the [[Iron Bank of Braavos]], as well as the rise of the fanatical [[Faith Militant]] due to Cersei's blunders. Cersei meanwhile, though seemingly humbled, [[Qyburn|still has]] [[Gregor Clegane|a few schemes]] she will attempt to play to regain control.
+
+In the [[North]], the [[House Bolton|Boltons]] have [[Battle in the ice|triumphed]] over King [[Stannis Baratheon|Stannis]] — but in the distraction, [[Sansa Stark]] and [[Theon Greyjoy]] have escaped, desperately jumping off [[Winterfell]]'s castle walls. [[Brienne of Tarth]], who executed Stannis, must now deal with the consequences of putting her vow to avenge King [[Renly Baratheon|Renly]] before her oath to protect Sansa.
+
+In the [[Riverlands]], after the [[Red Wedding]] the remaining [[House Tully|Tully]] forces (who were not present at the massacre of their Northern allies) pulled back to [[Riverrun]] castle - where they have been hopelessly besieged by [[House Frey]]'s army ever since.  The garrison is under the command of [[Robb Stark]]'s great-uncle [[Brynden Tully |Brynden "The Blackfish" Tully]], and is the last bastion of Robb's short-lived independent kingdom that remains unconquered.  Riverrun's garrison may be surrounded and alone, fighting for a dead king, but their defenses are formidable, they have enough food supplies to last for years, and their commander is one of the most experienced and skilled generals in Westeros.  The Lannisters and their Frey allies cannot let the siege of Riverrun continue to drag on if they are ever to claim real control over central Westeros.  
+
+In [[Dorne]], [[Ellaria Sand]]'s poisoning of Cersei's daughter, the Princess [[Myrcella Baratheon|Myrcella]], may now force [[Doran Martell]] into the war against the [[Iron Throne]] he has been fervently trying to avoid.
+
+Across the [[Narrow Sea]], in the [[Free Cities|Free City]] of [[Braavos]], [[Arya Stark]] killed [[Meryn Trant]] without the [[Faceless Men]]'s permission — but without the proper training, the use of one of [[House of Black and White#The Hall of Faces|their masks]] has poisoned her and rendered her blind. Her training continues, as now the blind little girl must learn to rely on her other senses to survive.
+
+In [[Slaver's Bay]], [[Daenerys Targaryen]]'s attempt to liberate [[Meereen]] has resulted in massive bloodshed, with the former slave masters [[Sons of the Harpy|conspiring]] to retake the city. In a large scale ambush on the opening day of the [[Fighting pit#Great Games|games]] in the [[Great Pit of Daznak]] however, Daenerys climbed onto [[Drogon]]'s back to try to escape the danger — but she could not make him return to the city. Instead, the young [[dragon]] flew north to the southern border of the [[Dothraki Sea]], the lands of his birth, where the stranded Daenerys has been surrounded by a hostile [[Dothraki]] ''[[khalasar]]'' numbering in the thousands. [[Jorah Mormont]] and [[Daario Naharis]] have set out to search for her. Meanwhile, back in the city Daenerys's advisors [[Tyrion Lannister]], [[Missandei]], and [[Grey Worm]] are joined by [[Varys]] in attempting to hold together rule over the city wracked by the ongoing insurgency until Daenerys returns — if she returns at all.
+
+At the Wall, [[Lord Commander of the Night's Watch|Lord Commander]] [[Jon Snow]] attempted to prepare for the coming of the White Walkers by letting as many [[Free Folk|wildlings]] through to the south as he could — but tens of thousands more were [[Massacre at Hardhome|killed]] and resurrected as undead [[wight]]s at [[Hardhome]]. The leading [[Night's Watch]] officers, increasingly upset at Jon's proposed alliance with the wildlings, have staged a [[Mutiny at Castle Black|mutiny]] ''"for the Watch"'' and stabbed Jon multiple times until he fell.
+
+Just before the mutiny against Jon Snow, he sent away [[Samwell Tarly]] to go to the [[Citadel]] in [[Oldtown]] in order to train to be a new [[Order of Maesters|maester]] to replace Maester [[Aemon]] after his passing.  Samwell takes [[Gilly]] and her young son with him, rather than leave them in the path of the White Walkers.  Oldtown, Westeros's second largest city, is located in the southwest of the [[Reach]], not far away from Sam's former home, the [[House Tarly]] castle-seat at [[Horn Hill]].  Samwell and Gilly, however, face a long and difficult sea voyage before they get to the Citadel.  
+
+Distracted by the political intrigues in King's Landing, the exhausted lords of Westeros must now brace for the rise of the [[kraken]] — the [[Ironborn]] led by [[House Greyjoy]]. Early in the [[War of the Five Kings]], [[Balon Greyjoy]] declared the [[Iron Islands]]' independence and raided the North while the [[House Stark|Stark]]'s army was fighting in the south. Having remained relatively uninvolved ever since, the Ironborn's [[Iron Fleet|massive fleet]] remains at full strength, a fact lost on the major powers of the mainland, who have been nearly exhausted fighting each other. 
+
+All of this changes with the sudden return of Balon's exiled younger brother [[Euron Greyjoy]] — cunning, ruthless, manipulative, and more than a little insane, he strikes fear even into the other Ironborn. He pushes for the Ironborn to launch massive new offensives against the other kingdoms, not simply to raid, but to hold and conquer territory, as Euron's ultimate ambition is nothing less than to conquer all of the [[Seven Kingdoms]]. He is opposed by Balon's daughter [[Yara Greyjoy]], who urges that the Iron Islands must preserve their strength and engage in diplomacy with the mainland if they are to survive.
+
+And as the winds of winter begin to sweep through the south, far [[Beyond the Wall]] the young [[Bran Stark]] has been staying with the last of the [[Children of the Forest]] and his new mentor, the [[Brynden Rivers|Three-Eyed Raven]], in order to [[Warg|hone]] his [[Sight|abilities]].  Bran will not walk again, but he has learned to ''fly''.
+
+==Episodes==
+{| {{Prettytable}}
+! Episode
+! Image
+! Title
+! Air date
+|-
+| style="text-align: center;" | 1{{HBOref|GOT601}}
+| [[File:GOT601.jpg|150px]]
+| "[[The Red Woman]]"{{HBOref|GOT601}}
+| April 24, 2016{{Listref|GOT}}
+|-
+| style="text-align: center;" | 2{{HBOref|GOT602}}
+| [[File:GOT602.jpg|150px]]
+| "[[Home]]"{{HBOref|GOT602}}
+| May 1, 2016{{Listref|GOT}}
+|-
+| style="text-align: center;" | 3{{HBOref|GOT603}}
+| [[File:GOT603.jpg|150px]]
+| "[[Oathbreaker]]"{{HBOref|GOT603}}
+| May 8, 2016{{Listref|GOT}}
+|-
+| style="text-align: center;" | 4{{HBOref|GOT604}}
+| [[File:GOT604.jpg|150px]]
+| "[[Book of the Stranger]]"{{HBOref|GOT604}}
+| May 15, 2016{{Listref|GOT}}
+|-
+| style="text-align: center;" | 5{{HBOref|GOT605}}
+| [[File:GOT605.jpg|150px]]
+| "[[The Door]]"{{HBOref|GOT605}}
+| May 22, 2016{{Listref|GOT}}
+|-
+| style="text-align: center;" | 6{{HBOref|GOT606}}
+| [[File:GOT606.jpg|150px]]
+| "[[Blood of My Blood]]"{{HBOref|GOT606}}
+| May 29, 2016{{Listref|GOT}}
+|-
+| style="text-align: center;" | 7{{HBOref|GOT607}}
+| [[File:GOT607.jpg|150px]]
+| "[[The Broken Man]]"{{HBOref|GOT607}}
+| June 5, 2016{{Listref|GOT}}
+|-
+| style="text-align: center;" | 8{{HBOref|GOT608}}
+| [[File:GOT608.jpg|150px]]
+| "[[No One]]"{{HBOref|GOT608}}
+| June 12, 2016{{Listref|GOT}}
+|-
+| style="text-align: center;" | 9{{HBOref|GOT609}}
+| [[File:GOT609.jpg|150px]]
+| "[[Battle of the Bastards (episode)|Battle of the Bastards]]"{{HBOref|GOT609}}
+| June 19, 2016{{Listref|GOT}}
+|-
+| style="text-align: center;" | 10{{HBOref|GOT610}}
+| [[File:GOT610.jpg|150px]]
+| "[[The Winds of Winter]]"{{HBOref|GOT610}}
+| June 26, 2016{{Listref|GOT}}
+|}
+
+==Cast==
+{{Main|Game of Thrones: Season 6/Cast}}
+
+===Starring===
+* [[Peter Dinklage]] as [[Tyrion Lannister]] {{C|8 episodes}}
+* [[Nikolaj Coster-Waldau]] as [[Jaime Lannister]] {{C|8 episodes}}
+* [[Lena Headey]] as [[Cersei Lannister]] {{C|8 episodes}}
+* [[Emilia Clarke]] as [[Daenerys Targaryen]] {{C|8 episodes}}
+* [[Kit Harington]] as [[Jon Snow]] {{C|8 episodes}}
+* [[Aidan Gillen]] as [[Petyr Baelish]] {{C|4 episodes}}
+* [[Natalie Dormer]] as [[Margaery Tyrell]] {{C|5 episodes}}
+* [[Liam Cunningham]] as [[Davos Seaworth]] {{C|8 episodes}}
+* [[Carice van Houten]] as [[Melisandre]] {{C|7 episodes}}
+* [[Indira Varma]] as [[Ellaria Sand]] {{C|2 episodes}}
+* [[Sophie Turner]] as [[Sansa Stark]] {{C|7 episodes}}
+* [[Maisie Williams]] as [[Arya Stark]] {{C|8 episodes}}
+* [[Conleth Hill]] as [[Varys]] {{C|7 episodes}}
+* [[Nathalie Emmanuel]] as [[Missandei]] {{C|7 episodes}}
+* [[Alfie Allen]] as [[Theon Greyjoy]] {{C|7 episodes}}
+* [[John Bradley]] as [[Samwell Tarly]] {{C|3 episodes}}
+* [[Rory McCann]] as [[Sandor Clegane]] {{C|2 episodes}}
+* [[Dean-Charles Chapman]] as [[Tommen Baratheon]] {{C|6 episodes}}
+* [[Gwendoline Christie]] as [[Brienne of Tarth]] {{C|5 episodes}}
+* [[Isaac Hempstead-Wright]] as [[Bran Stark]] {{C|5 episodes}}
+* [[Kristofer Hivju]] as [[Tormund]] {{C|7 episodes}}
+* [[Michiel Huisman]] as [[Daario Naharis]] {{C|6 episodes}}
+* [[Jonathan Pryce]] as the [[High Sparrow]] {{C|7 episodes}}
+* [[Iwan Rheon]] as [[Ramsay Bolton]] {{C|5 episodes}}
+* [[Michael McElhatton]] as [[Roose Bolton]] {{C|2 episodes}}
+* [[Jerome Flynn]] as [[Bronn]] {{C|3 episodes}}
+* [[Hannah Murray]] as [[Gilly]] {{C|3 episodes}}
+* [[Tom Wlaschiha]] as [[Jaqen H'ghar]] {{C|5 episodes}}
+* with [[Iain Glen]] as [[Jorah Mormont]] {{C|3 episodes}}
+
+===Guest starring===
+* [[Jacob Anderson]] as [[Grey Worm]] {{C|7 episodes}}
+* [[Faye Marsay]] as the [[Waif]] {{C|7 episodes}}
+* [[Hafþór Júlíus Björnsson]] as [[Gregor Clegane]] {{C|6 episodes}}
+* [[Gemma Whelan]] as [[Yara Greyjoy]] {{C|6 episodes}}
+* [[Ben Crompton]] as [[Eddison Tollett]] {{C|5 episodes}}
+* [[Ian Gelder]] as [[Kevan Lannister]] {{C|5 episodes}}
+* [[Daniel Portman]] as [[Podrick Payne]] {{C|5 episodes}}
+* [[Diana Rigg]] as [[Olenna Tyrell]] {{C|5 episodes}}
+* [[Hannah Waddingham]] as [[Unella]] {{C|5 episodes}}
+* [[Roger Ashton-Griffiths]] as [[Mace Tyrell]] {{C|4 episodes}}
+* [[Julian Glover]] as [[Pycelle]] {{C|4 episodes}}
+* [[Ellie Kendrick]] as [[Meera Reed]] {{C|4 episodes}}
+* [[Tim Plester]] as [[Walder Rivers]] {{C|4 episodes}}
+* [[Kae Alexander]] as [[Leaf]] {{C|3 episodes}}
+* [[Robert Aramayo]] as [[Eddard Stark]] {{C|young}} {{C|3 episodes}}
+* [[Essie Davis]] as [[Lady Crane]] {{C|3 episodes}}
+* [[Richard E. Grant]] as [[Izembaro]] {{C|3 episodes}}
+* [[Anton Lesser]] as [[Qyburn]] {{C|3 episodes}}
+* [[Tobias Menzies]] as [[Edmure Tully]] {{C|3 episodes}}
+* [[Joe Naufahu]] as [[Moro]] {{C|3 episodes}}
+* [[Brenock O'Connor]] as [[Olly]] {{C|3 episodes}}
+* [[Bella Ramsey]] as [[Lyanna Mormont]] {{C|3 episodes}}
+* [[Eugene Simon]] as [[Lancel Lannister|Lancel]] {{C|3 episodes}}
+* [[Max von Sydow]] as [[Brynden Rivers]] {{C|3 episodes}}
+* [[Owen Teale]] as [[Alliser Thorne]] {{C|3 episodes}}
+* [[Pilou Asbæk]] as [[Euron Greyjoy]] {{C|2 episodes}}
+* [[David Bradley]] as [[Walder Frey]] {{C|2 episodes}}
+* [[Keisha Castle-Hughes]] as [[Obara Sand]] {{C|2 episodes}}
+* [[Michael Feast]] as [[Aeron Greyjoy]] {{C|2 episodes}}
+* [[Vladimír Furdík]] as [[Night King]] {{C|2 episodes}}
+* [[Jessica Henwick]] as [[Nymeria Sand]] {{C|2 episodes}}
+* [[Finn Jones]] as [[Loras Tyrell]] {{C|2 episodes}}
+* [[Joseph Mawle]] as [[Benjen Stark]] {{C|2 episodes}}
+* [[Tim McInnerny]] as [[Robett Glover]] {{C|2 episodes}}
+* [[Kristian Nairn]] as [[Hodor]] {{C|2 episodes}}
+* [[Art Parkinson]] as [[Rickon Stark]] {{C|2 episodes}}
+* [[Clive Russell]] as [[Brynden Tully]] {{C|2 episodes}}
+* [[Rosabell Laurenti Sellers]] as [[Tyene Sand]] {{C|2 episodes}}
+* [[Natalia Tena]] as [[Osha]] {{C|2 episodes}}
+* [[Rupert Vansittart]] as [[Yohn Royce]] {{C|2 episodes}}
+* [[Richard Dormer]] as [[Beric Dondarrion]] {{C|"[[No One]]"}}
+* [[Lino Facioli]] as [[Robin Arryn]] {{C|"[[Book of the Stranger]]"}}
+* [[James Faulkner]] as [[Randyll Tarly]] {{C|"[[Blood of My Blood]]"}}
+* [[Paul Kaye]] as [[Thoros]] of [[Myr]] {{C|"No One"}}
+* [[Patrick Malahide]] as [[Balon Greyjoy]] {{C|"[[Home]]"}}
+* [[Ian McShane]] as [[Ray]] {{C|"[[The Broken Man]]"}}
+* [[DeObia Oparei]] as [[Areo Hotah]] {{C|"[[The Red Woman]]"}}
+* [[Toby Sebastian]] as [[Trystane Martell]] {{C|"The Red Woman"}}
+* [[Alexander Siddig]] as [[Doran Martell]] {{C|"The Red Woman"}}
+
+==Crew==
+On March 27 2015, author [[George R.R. Martin]] said he would again not write a script for Season 6, as he wished to concentrate on finishing ''The Winds of Winter'' as soon as possible.<ref>[http://grrm.livejournal.com/415405.html George R. R. Martin Livejournal — Conventions and Cancellations]</ref> On June 4, [[Miguel Sapochnik]] indicated he was already preparing to direct next season.<ref>[https://twitter.com/MigSapochnik/status/606566838328123392 Miguel Sapochnik June 4 Tweet]</ref> [[Jeremy Podeswa]] made similar statements in June 12.<ref>[http://www.cbc.ca/news/arts/game-of-thrones-shines-with-canadian-talent-1.3111167 CBCNews — Game of Thrones shines with Canadian talent]</ref> On June 19, the showrunners confirmed that [[April Ferry]] would be the new costume designer for Season 6, replacing [[Michele Clapton]], who decided to leave after five seasons.<ref>[http://www.hollywoodreporter.com/live-feed/game-thrones-costume-designer-april-803895 Hollywood Reporter — 'Game of Thrones' Season 6 Adds New Costume Designer]</ref> On June 22, newcomer Jack Bender announced he would direct two episodes for season six.<ref>[http://www.hollywoodreporter.com/live-feed/game-thrones-season-6-spoilers-804187 Hollywood Reporter — 'Game of Thrones' Director Previews "Complex" and "Enormous" Season 6]</ref> The full list of directors and which episodes they would oversee was released in ''Entertainment Weekly'' on June 25. There are five directors, each doing two back to back episodes, as in Season 5. Jack Bender and Daniel Sackheim are working on the TV series for the first time, while the other three directors previously worked on the series in Season 5; none worked on the first four seasons.<ref>[http://www.ew.com/article/2015/06/23/game-thrones-season-6-directors Entertainment Weekly — Game of Thrones directors revealed for mysterious season 6]</ref>
+
+===Producers===
+* [[David Benioff]]: co-creator, showrunner, executive producer
+* [[D.B. Weiss]]: co-creator, showrunner, executive producer
+* [[Bernadette Caulfield]]: executive producer
+* [[Frank Doelger]]: executive producer
+* [[Carolyn Strauss]]: executive producer
+* [[George R.R. Martin]]: co-executive producer
+* [[Vince Gerardis]]: co-executive producer
+* [[Guymon Casady]]: co-executive producer
+* [[Greg Spence]]: producer
+* [[Christopher Newman|Chris Newman]]: producer
+* [[Lisa McAtackney]]: producer
+* [[Bryan Cogman]]: supervising producer
+* [[April Ferry]]: costume designer
+* [[Michele Clapton]]: costume designer
+* [[Deborah Riley]]: production designer
+* [[Ramin Djawadi]]: composer
+* [[Nina Gold]]: casting director
+* [[Robert Sterne]]: casting director
+
+===Writers===
+* [[David Benioff]] and [[D.B. Weiss]]: episodes [[The Red Woman|1]], [[Oathbreaker|3]], [[Book of the Stranger|4]], [[The Door|5]], [[No One|8]], [[Battle of the Bastards|9]], and [[The Winds of Winter|10]]
+* [[Dave Hill]]: [[Home|episode 2]]
+* [[Bryan Cogman]]: episodes [[Blood of My Blood|6]] and [[The Broken Man|7]]
+
+===Directors===
+*[[Jeremy Podeswa]]: episodes [[The Red Woman|1]] and [[Home|2]]
+*[[Daniel Sackheim]]: episodes [[Oathbreaker|3]] and [[Book of the Stranger|4]]
+*[[Jack Bender]]: episodes [[The Door|5]] and [[Blood of My Blood|6]]
+*[[Mark Mylod]]: episodes [[The Broken Man|7]] and [[No One|8]]
+*[[Miguel Sapochnik]]: episodes [[Battle of the Bastards|9]] and [[The Winds of Winter|10]]
+
+==Production==
+===Adaptation===
+While prior seasons followed a format of adapting roughly one book's worth of material per year (or one large book across two seasons, in the case of [[Game of Thrones: Season 3|Season 3]] and most of [[Game of Thrones: Season 4|Season 4]]), [[Game of Thrones: Season 5|Season 5]] heavily condensed together most of the fourth and fifth novels in the ''[[A Song of Ice and Fire]]'' series, ''A Feast for Crows'' and ''A Dance with Dragons''. The fourth and fifth novels did occur simultaneously, and were originally intended to be one massive novel (the fourth novel focuses on events in the Seven Kingdoms and the Free Cities, and the fifth on events at the Wall, in the North and in Slaver's Bay, with the last third outpacing the fourth novel). The result is that by the end of Season 5 most - though not all - storylines in the TV series caught up with the current novels, including:
+
+*[[Jon Snow]] and the [[Night's Watch]]
+*[[Daenerys Targaryen]] and [[Meereen]], including [[Tyrion Lannister]]
+*[[King's Landing]], including [[Cersei Lannister]] and [[Margaery Tyrell]] (except for one additional Small Council chapter)
+*[[Petyr Baelish|Petyr "Littlefinger" Baelish]] and the [[Vale of Arryn|Vale]]
+**[[Sansa Stark]]'s storyline in the Vale was merged with [[Jeyne Poole]]'s from the fifth novel, who is forced to marry Ramsay; Sansa's Vale storylines have now been diverted while she has reached the end of Jeyne Poole's material from the most recent novel.
+*[[Stannis Baratheon]] and [[Melisandre]]
+**[[Davos Seaworth]] was involved in other subplots in the North which were cut, but with Stannis's defeat now it is unknown if these will be drawn on later.
+*[[Roose Bolton]] and [[Ramsay Bolton]]
+*[[Bran Stark]], [[Hodor]], and [[Meera Reed]] - already caught up at the end of Season 4, except for one chapter.
+*[[Theon Greyjoy]], except for his experiences after escaping Winterfell.
+
+Season 5 was heavily condensed, however, and two entire books worth of storylines simply could not fit into a single season. Therefore, several subplots were pushed back until Season 6, including:
+
+*Almost the entire [[House Greyjoy]] subplot since the second novel. The Greyjoys barely appear in the third novel (corresponding to Seasons 3 and 4), but then the narrative shifts to put a major focus on them in the fourth and fifth novels. [[Yara Greyjoy]] (called Asha Greyjoy in the books) even becomes a POV narrator. In contrast, the Greyjoys (as a faction, not including Theon) did not appear at all in Season 5.
+*Though the [[Dorne]] subplot was introduced in Season 5, it was ''extremely'' condensed, to the point that [[Doran Martell]] only briefly appeared in Season 5, and many other members of [[House Martell]] didn't appear at all. Two of Doran's children were omitted from the TV series and may not appear at all in the TV continuity - particularly including Doran's eldest child and heir, Arianne Martell, who is actually the POV narrator for much of the Dorne subplot. Similar to the Greyjoys, the narrative widens to give focus on the Martells in the fourth and fifth novels, but ultimately very little of the Martell storyline appeared in Season 5.
+*[[Arya Stark]] in [[Braavos]] - two more chapters after she goes blind at the end of the fourth novel. Another Arya chapter from the upcoming sixth novel was released as a preview before Season 5: the second half of it involved Arya killing a Lannister guard on her kill list who came to Braavos, and this was already adapted in Season 5; the first half of the chapter involved a lengthy scene at a stage play in Braavos, and screenshots confirm this will appear in Season 6.
+*[[Samwell Tarly]] and [[Gilly]]'s long sea voyage to [[Oldtown]], on the exact opposite side of Westeros, which takes them through Braavos and the Free Cities, and having to face the Ironborn who are now ravaging the southwestern coasts.
+*The subplots in the [[Riverlands]], centering around the Frey siege of the Tullys at [[Riverrun]], the garrison commanded by Catelyn's uncle [[Brynden Tully]]. The Riverrun subplot involved [[Jaime Lannister]] in the novels, as he tries to negotiate with Brynden.
+**Also, [[Brienne of Tarth]]'s wanderings in the Riverlands were omitted from Season 5. Much of this material wasn't directly relevant to overall plot threads, and several characters who were important to other plotlines now appear to have been reshuffled into other subplots in Season 6. Given how much Jaime and Brienne's subplots were changed in Season 5, it is unclear how these will play out in Season 6.
+*Bran Stark has only one more chapter, in the [[cave of the Three-Eyed Raven]], but as it plays out in live action it may stretch across a significant amount of time: training in his [[Sight|magical powers]], Bran experiences several visions of the past. When Bran returns in Season 6, the TV show would use this as a framing device to show various flashbacks from the novels, such as actually showing Bran's father Ned during [[Robert's Rebellion]], and certain other key events, such as the Raid on the Tower of Joy. Some of these flashbacks appeared in one form or another in prior novels, when other characters recounted them through vivid narration, but the TV series only started depicting flashback scenes in Season 5 (the Prologue scene when Cersei has a flashback to her youth when she was given a prophecy about her downfall).
+*Tyrion's storyline as he was heading east to Meereen introduced a major new subplot involving a major political shakeup in the [[Free Cities]]. This was cut completely from Tyrion's storyline in Season 5, but after he leaves for Meereen it subsequently intersects with several other subplots (not Arya's). This was entirely from the TV series continuity.
+
+Some of these subplots were not omitted entirely but pushed back to Season 6, however this will inevitably lead to some changes compared to the novels, because they were originally interlinked with events happening in the other storylines. Particularly, Cersei's decisions as regent directly affected the Greyjoy, Martell, and Riverrun storylines, and to an extent the Braavos subplot (due to the banking crisis). Given that Cersei has already been arrested in the TV series, some of these choices may be shifted to her uncle [[Kevan Lannister]], the new Hand of the King, loosely drawing on the long Small Council chapter from late in the fifth novel which hasn't been adapted yet. It also isn't clear why Jaime would leave King's Landing again to deal with Riverrun now that Cersei is arrested.
+
+Therefore, Season 6 isn't really "entirely new material" because many subplots were adapted at an uneven pace - though the TV series has always been speeding up or slowing down the rate of different storylines: Jaime's storyline from the third novel was moved up to the end of Season 2 (because he had little material in the second novel), and Bran Stark's storyline from the fifth novel was actually moved up to Season 4, when other characters were still on their material from the late third novel. Jon Snow's subplot was actually delayed for some time - in the third novel, the Battle of Castle Black occurred immediately after Jon returned to Castle Black, which was quickly followed by Jon's election as Lord Commander: due to the mechanics of splitting the third novel in half, Jon returned to Castle Black in the Season 3 finale but the battle didn't occur until the climax of the Season 4 finale, which necessitated pushing the Night's Watch election to the beginning of Season 5 (had this occurred at the pace it did in the novels, Jon's election would actually have happened in the middle of Season 4).
+
+Nonetheless, Season 6 drew upon the as-yet-unpublished sixth novel, ''The Winds of Winter'' - certainly for Jon Snow and Daenerys Targaryen's storylines, as the final chapters of the fifth novel were the cliffhangers of Jon being stabbed by his own officers and Daenerys being surrounded by the Dothraki ''khalasar''. [[George R.R. Martin]] did give the TV producers an outline of events that will happen in the final two unpublished novels - though at the same time, they don't have access to hundreds of pages of source material anymore (for pulling specific lines of dialogue, etc.)
+
+Though Martin has released about half a dozen preview chapters from the sixth novel, it isn't clear how much of a basis they can be for any material in the TV series, due to existing differences between the book series and the adaptation. Also, until the book is released, there is no way of analyzing the adaptation process fully (e.g., if the actions of one character in Season 6 are actually a condensation of the actions of two different characters in the sixth novel).
+
+===Filming===
+In [[Wikipedia:Northern Ireland|Northern Ireland]], production ran from late July to late December 2015.<ref>[http://watchersonthewall.com/more-game-of-thrones-cast-arrive-in-northern-ireland-for-season-6/ Watchers on the Wall — More Cast Arrive in Northern Ireland for Season 6]</ref> Interior shooting returned to the show's headquarters, the [[Paint Hall]] Studios in [[Wikipedia:Belfast|Belfast]]. Meanwhile, location shooting took place at the following locations: Garron Point (previously [[Runestone]])<ref>[http://watchersonthewall.com/kit-harington-spotted-again-filming-begins-at-garron-point/ Watchers on the Wall — Filming begins at Garron Point]</ref>, the [[Winterfell]] set in [[Wikipedia:Moneyglass|Moneyglass]]<ref>[http://watchersonthewall.com/filming-begins-in-magilligan-and-moneyglass-northern-lord-still-not-cast/ Watchers on the Wall — Filming begins in Magilligan and Moneyglass]</ref>, [[Wikipedia:Magilligan|Magilligan]] (reprising its part as the [[Dothraki Sea]])<ref>[http://watchersonthewall.com/location-filming-in-northern-ireland-begins-for-game-of-thrones-season-6/ Watchers on the Wall — Location filming in Northern Ireland begins for Game of Thrones season 6!]</ref>, the [[Castle Black]] set at the [[Wikipedia:Magheramorne|Magheramorne]] [[Wikipedia:Magheramorne#Game of Thrones|quarry]]<ref>[http://watchersonthewall.com/game-of-thrones-filming-at-castle-black-set-in-magheramorne/ Watchers on the Wall — Game of Thrones Filming at Castle Black set in Magheramorne]</ref>, [[Wikipedia:Ballintoy|Ballintoy]] (returning as [[Pyke (island)|Pyke]])<ref>[http://watchersonthewall.com/new-images-of-game-of-thrones-filming-in-northern-ireland-plus-huge-spoilers-for-season-6/ Watchers on the Wall — New images of Game of Thrones filming in Northern Ireland, plus huge spoilers for season 6!]</ref>, a rural [[sept]] set in [[Wikipedia:Larne|Larne]]<ref>[http://watchersonthewall.com/game-of-thrones-larne-set-revealed-more-set-updates-from-girona-and-almeria/ Watchers on the Wall — Game of Thrones Larne set revealed; more set updates from Girona and Almeria]</ref>, [[Wikipedia:Glenarm|Glenarm]] (previously the [[Vale of Arryn|Vale]])<ref>[http://watchersonthewall.com/game-of-thrones-returning-to-croatia-for-a-limited-time-only-filming-this-week-in-glenarm/ Filming this week in Glenarm]</ref>, [[Wikipedia:Carnlough|Carnlough Harbour]] (as a Braavosi canal)<ref>[http://www.belfastlive.co.uk/news/belfast-news/pictured-game-thrones-star-maisie-9875063 BelfastLive — Game of Thrones star Maisie Williams snapped filming scenes in Carnlough Harbour]</ref>, [[Wikipedia:Shane's Castle|Shane's Castle]] (once more as the foundations of the [[Great Sept of Baelor]])<ref>[http://watchersonthewall.com/game-of-thrones-returns-to-shanes-castle-for-season-6 Watchers on the Wall — Game of Thrones returns to Shane’s Castle for season 6]</ref>, [[Wikipedia:Carncastle|Carncastle]] (previously the fields around Winterfell)<ref>[http://watchersonthewall.com/game-of-thrones-filmed-a-season-6-scene-recently-with-400-extras-podeswa-talks-the-new-season-and-that-fight-scene-in-dorne/ Watchers on the Wall — Game of Thrones filmed a season 6 scene recently with 400 extras]</ref>, Aghanloo Wood, [[Wikipedia:Saintfield|Saintfield]] (as the site for "The Battle of the Bastards"<ref>[http://watchersonthewall.com/exclusive-exciting-news-about-northern-ireland-filming Watchers on the Wall — Exclusive! Exciting news about Northern Ireland filming]</ref>, a climactic [[North]]ern battle<ref name="WOTWSept8">[http://watchersonthewall.com/major-new-spoilers-about-mcshane-and-more-in-season-6-game-of-thrones-plans-a-premiere-and-a-battle/ Watchers on the Wall — Major new spoilers about McShane and more in season 6; Game of Thrones plans a premiere and a battle]</ref><ref name="WOTWSept10">[http://watchersonthewall.com/game-of-thrones-gets-theatrical-plus-massive-spoilers-for-season-six/ Watchers on the Wall — Game of Thrones gets theatrical; plus massive spoilers for season six!]</ref>, which demanded the show's lengthiest shoot for a battle scene)<ref>[http://watchersonthewall.com/game-of-thrones-prepares-to-film-the-tower-of-joy-plus-updated-saintfield-spoilers/ Watchers on the Wall — Game of Thrones prepares to film the Tower of Joy; plus updated Saintfield spoilers!]</ref>, the [[Riverrun]] set in [[Wikipedia:Corbet|Corbet]]<ref name="WOTWSept24">[http://watchersonthewall.com/game-of-thrones-building-riverside-castle-for-season-6/ Watchers on the Wall — Game of Thrones building riverside castle for season 6]</ref> (newly built, since in the [[Game of Thrones: Season 3|third season]] the castle was realized only with [[Wikipedia:Gosford Castle|Gosford Castle]]'s gardens, an interior hall set and a distant [http://vignette2.wikia.nocookie.net/gameofthrones/images/0/0c/Riverrun.png/revision/latest?cb=20150407004747 matte painting]), the Knocklayd Mountain quarry, [[Wikipedia:Ballycastle, County Antrim|Ballycastle]] in [[Wikipedia:County Antrim|County Antrim]], and [[Wikipedia:Murlough Bay|Murlough Bay]].<ref name="WOTWOct19">[http://watchersonthewall.com/new-northern-ireland-locations-spoilers-for-season-6-and-an-update-on-mesa-roldan/ Watchers on the Wall — New Northern Ireland locations spoilers for season 6 and an update on Mesa Roldán]</ref>
+
+Ever since [[Wikipedia:Croatia|Croatia]] was introduced into the production for the [[Game of Thrones: Season 2|second season]], it has been the main source of locations outside of Northern Ireland, yet this season only returned to the country for a brief shoot in [[Wikipedia:Dubrovnik|Dubrovnik]], which reappears as [[King's Landing]].<ref name="WOTWOct8">[http://watchersonthewall.com/lena-headey-on-the-set-of-game-of-thrones-in-dubrovnik/ Watchers on the Wall — Lena Headey on the set of Game of Thrones in Dubrovnik!]</ref> Previously, Dubrovnik had been both King's Landing and [[Qarth]], while [[Wikipedia:Klis|Klis]], [[Wikipedia:Split, Croatia|Split]] and [[Wikipedia:Šibenik|Šibenik]] depicted [[Meereen]] and [[Braavos]]. This season turned to new Spanish locations instead.<ref name="WOTWAug12Joy"/>
+
+In [[Wikipedia:Spain|Spain]], filming took place between late August and late October.<ref>[http://watchersonthewall.com/thats-a-wrap-for-game-of-thrones-in-spain/ Watchers on the Wall — That’s a wrap for Game of Thrones in Spain!]</ref> In [[Wikipedia:Girona|Girona]]<ref>[http://watchersonthewall.com/girona-locations-for-game-of-thrones-season-6-announced/ Watchers on the Wall — Girona locations for Game of Thrones season 6 announced]</ref>, the locations were the [[Wikipedia:Sant Pere de Galligants|Sant Pere de Galligants]] abbey's exterior (as a Braavosi bridge)<ref>[https://twitter.com/qkruth/status/641654879023403008/photo/1 Twitter — Galligants Street is a Braavosi bridge]</ref>, the Plaça dels Jurats (as a Braavosi theater stage)<ref name="WOTWSept10"/>, the streets of Ferran el Catòlic, Sant Martí and l’Escola Pia (as Braavosi street markets)<ref>[http://watchersonthewall.com/new-photos-of-game-of-thrones-preparations-in-girona/ Watchers on the Wall — New photos of Game of Thrones preparations in Girona!]</ref><ref>[http://watchersonthewall.com/maisie-williams-and-faye-marsay-film-action-sequence-in-girona/ Watchers on the Wall — Maisie Williams and Faye Marsay Film Action Sequence in Girona]</ref>, another local street (as an alley in [[Oldtown]])<ref name="GironaOldtownConfirmed">[http://watchersonthewall.com/oldtown-filming-today-confirmed-plus-nikolaj-coster-waldau-in-girona-and-more/ Watchers on the Wall — Oldtown filming today confirmed; plus Nikolaj Coster-Waldau in Girona and more!]</ref>, and the [[Wikipedia:Girona Cathedral|Girona Cathedral]]'s exterior (as the Great Sept in King's Landing)<ref>[http://watchersonthewall.com/major-kings-landing-season-6-spoilers-jeremy-podeswa-and-pilou-asbaek-interviewed/ Watchers on the Wall — Major King’s Landing season 6 spoilers]</ref>. Still in [[Wikipedia:Catalonia|Catalonia]], they filmed in the [[Wikipedia:Castell de Santa Florentina|Santa Florentina Castle]] (as [[Horn Hill]])<ref name="WOTWSept6">[http://watchersonthewall.com/castell-de-santa-florentina-confirmed-as-horn-hill-plus-new-season-6-spoilers/ Watchers on the Wall — Castell de Santa Florentina confirmed as Horn Hill]</ref>, [[Wikipedia:Montgrí Castle|Montgrí Castle]] and [[Wikipedia:Besalú|Besalú]].<ref>[http://watchersonthewall.com/possible-publication-news-for-the-winds-of-winter/ Watchers on the Wall — New Costa Bravan Locations]</ref> Later locations where the [[Wikipedia:Bardenas Reales|Bardenas]] natural park in [[Wikipedia:Navarre|Navarre]]<ref>[http://watchersonthewall.com/extras-casting-under-way-with-navarre-confirmed-for-game-of-thrones-season-6/ Watchers on the Wall — Extras casting under way with Navarre confirmed for Game of Thrones season 6]</ref> (as the Dothraki Sea) and the [[Wikipedia:Castle of Zafra (Guadalajara)|Zafra Castle]] in [[Wikipedia:Province of Guadalajara|Guadalajara]] (as the Tower of Joy)<ref name="WOTWAug12Joy">[http://watchersonthewall.com/the-tower-of-joy-confirmed-and-more-new-details-about-a-key-role-involved/ Watchers on the Wall — The Tower of Joy confirmed! And more new details about a key role involved]</ref>. In [[Wikipedia:Peñíscola|Peñíscola]]<ref>[http://watchersonthewall.com/game-of-thrones-filming-locations-in-peniscola-announced/ Watchers on the Wall — Game of Thrones filming locations in Peñíscola announced]</ref>, all filming spots posed as Meereen: the Portal Fosc (as a dilapidated street), the Plaza de Santa María (as a granary)<ref name="WOTWSept24"/>, the Parque de la Artillería (as a garden)<ref>[http://watchersonthewall.com/game-of-thrones-shooting-in-peniscola-begins-as-saintfield-filming-heads-toward-the-finish/ Watchers on the Wall — Game of Thrones shooting in Peñíscola begins]</ref> and the Plaza de Armas. In [[Wikipedia:Province of Almería|Almería]]<ref>[http://watchersonthewall.com/almeria-in-spain-unofficially-confirmed-for-game-of-thrones-season-6-extras-casting-on-july-9-10/ Watchers on the Wall — Almería in Spain (unofficially) confirmed for Game of Thrones Season 6]</ref>, filming took place at a new [[Vaes Dothrak]] set in [[Wikipedia:Pechina|Pechina]]<ref>[http://watchersonthewall.com/new-photos-of-girona-and-almeria-game-of-thrones-sets-in-progress/ Watchers on the Wall — New photos of Girona and Almería Game of Thrones sets in progress!]</ref>, on the [[Wikipedia:Tabernas Desert|Tabernas Desert]] (as the Dothraki Sea)<ref name="MeltyOct15"/>, on the Gypsum Karst of [[Wikipedia:Sorbas|Sorbas]]<ref name="MeltyOct15">[http://www.melty.es/juego-de-tronos-temporada-6-alerta-una-avalancha-de-spoilers-sacude-almeria-a163434.html Melty — A Spoiler Avalanche Shocks Almería!]</ref>, at the Mesa Roldán Tower<ref>[http://watchersonthewall.com/mesa-roldan-confirmed-as-a-game-of-thrones-season-6-location/ Watchers on the Wall — Mesa Roldán confirmed as a Game of Thrones season 6 location]</ref> (as Meereen), and at the [[Wikipedia:Alcazaba of Almería|Alcazaba]]<ref>[http://watchersonthewall.com/2-new-castles-added-for-game-of-thrones-season-6/ Watchers on the Wall — 2 new castles added for Game of Thrones season 6!]</ref> (as [[Sunspear]])<ref>[http://watchersonthewall.com/dornish-filming-at-the-alcazaba-of-almeria/ Watchers on the Wall — Dornish filming at the Alcazaba of Almería]</ref>. Finally, filming without any of the cast briefly took place at the [[Wikipedia:Alcázar of Seville|Alcázar]] of [[Wikipedia:Seville|Seville]] (returning as the [[Water Gardens]]) and at the [[Wikipedia:Roman bridge of Córdoba|Roman bridge]] of [[Wikipedia:Córdoba|Córdoba]] (once more as the [[Long Bridge]] of [[Volantis]]).<ref>[http://watchersonthewall.com/game-of-thrones-returns-to-the-alcazar-and-the-roman-bridge-of-cordoba/ Watchers on the Wall — Game of Thrones returns to the Alcázar and the Roman bridge of Córdoba]</ref>
+
+When the TV series began in Season 1, there were two simultaneous filming units - which is unusual for most TV shows, which have only one filming unit - called Wolf Unit and Dragon Unit. In Season 3, production expanded to include three filming units, with the new third one called Raven Unit. Season 4, however, switched back to using only two filming units, and Raven Unit was disbanded. Wolf Unit and Dragon Unit continued to film through Seasons 4 and 5. For Season 6, however, the TV series once again expanded to employ three simultaneous filming units: the new third filming unit was now called "White Walker Unit".<ref>[http://watchersonthewall.com/game-of-thrones-offers-up-inside-got-behind-the-vfx-after-the-premiere/]</ref>
+
+According to David Benioff, speaking at the red carpet advanced screening of the Season 6 premiere two weeks before its broadcast:
+
+:"This season was a beast to make. We shot 680 hours of dailies, which translates to 3.7 million feet of film. We shot in five different countries – Northern Ireland, Spain, Croatia, Iceland, and Canada. We employed 900 crewmembers in Belfast; 400 in Spain. We issued 140 script revisions. We two shot units a day for 22 weeks straight, three units a day for 10 weeks straight, four units for two weeks straight. And none of that would be possible without the greatest producing team on the planet.<ref>[http://www.ew.com/article/2016/04/11/game-thrones-season-6-premiere-screening Game of Thrones premiere screening reveals season 6 surprises]</ref>
+
+Thus they briefly switched to using four filming units for two weeks (it isn't clear if the fourth unit had a name), and apparently returned to film some scenes in Canada (possibly on a sound stage again as in Season 5, due to working with the actor-wolves).
+
+In the ending credits for Season 6 episodes as they aired, the filming units were listed as "Wolf Unit", "Dragon Unit", "White Walker Unit", and the fourth one named simply "Spain Unit". It is unclear whether White Walker Unit or Spain Unit was the fourth one, which briefly filmed for two weeks - though it was ''probably'' White Walker Unit, if the name implies that it dealt with [[Bran Stark]]'s scenes in the frozen north, while filming in Spain was drastically expanded in Season 6 to take over most of the southern-unit filming that used to be done in Croatia (for King's Landing, Braavos, Oldtown, and more).
+
+The budget for the TV series was drastically increased yet again for Season 6, to about $10 million per episode (ten episodes, for a total of $100 million). Back in [[Game of Thrones: Season 2|Season 2]], the show averaged only about $6 million per episode. Benioff and Weiss even infamously had to beg HBO in an "awkward" conversation for an additional $2 million to film the climactic [[Battle of the Blackwater]] at the end of Season 2 (and thus episode 2.9 "[[Blackwater]]" totaled $8 million).<ref>[http://www.techinsider.io/game-of-thrones-season-6-cost-10-million-per-episode-2016-3 Each episode of 'Game of Thrones' season 6 costs a crazy amount], ''TechInsider'', April 2016</ref>
+
+==Home video==
+Prior seasons of the TV series released their Blu-ray sets around February to March, to build promotion up for the new season's premiere a month or two after that. Season 7, however, pushed back the filming schedule - given that winter has finally come to Westeros, they need to film later in the colder months of the year for on-location shoots. With Season 7 delayed and set for a mid-to-late summer 2017 release, HBO apparently decided that it was better not to make viewers wait that long for ''any'' new material, and it also no longer justified missing the Christmas 2016 shopping season. Thus, the Season 6 Blu-ray set was released early, on November 15, 2016 (in time for Black Friday shopping).<ref>[http://watchersonthewall.com/take-look-game-thrones-season-6-blu-ray-features-flooding-net/]</ref>
+[[File:Season 6 Blu-ray set.jpg|thumb|350px|Season 6 Blu-ray set contents on display.]]
+In prior seasons, each episode was followed by an "Inside the Episode" video featurette also posted on HBO's website, in which the showrunners discuss story elements and the filming crew discusses the practical challenges of actually filming it. In Season 6 this was split into two separate featurette series: the "Inside the Episode" featurettes are now much shorter, primarily consisting of the parts with the showrunners discussing the story; meanwhile, the much longer sections focusing on set production, stuntwork, and on-location filming are now a separate featurette series called "The Game Revealed" - a five-part docuseries. "The Game Revealed" is split up into five installments, each covering two episodes of Season 6 in order. The new slimmed-down "Inside the Episode" featurettes only featuring the showrunners (and some cast members) discussing the story are now integrated into the HBO Now online player, so they play immediately after the main episode's credits end. Meanwhile, "The Game Revealed" featuretttes are also on the HBO Now player but as separate video files. Taken together, both featurette series give as much information as the old "Inside the Episode" featurettes, the new version simply splits up the content: the first focuses on story ideas, the second on how the filming crew realized it.
+
+Three other Blu-ray/DVD exclusive featurettes were also included in the home video release:
+
+*"18 Hours At The [[Paint Hall]]": Following all three shooting units as they converge in a behind-the-scenes snapshot of a day in the life of the largest show on television.
+*"The [[Battle of the Bastards]]: An In-Depth Look" – Behind-the-scenes piece examining the production challenges of creating this epic event, including explorations of VFX, stunts, and interviews with key cast and crew.
+*"Recreating The Dothraki World": Behind-the-scenes piece looking at the creation of [[Vaes Dothrak]] and its importance to Daenerys's evolution.
+
+The release also includes 13 commentary tracks by the cast and crew, and (exclusive to the Blu-ray version) the next set of 18 ''[[Histories & Lore]]'' videos, and "In-Episode Guide" on-screen notes feature.
+
+===Deleted scenes===
+The Season 6 Blu-ray set included three deleted scenes. The first two are not particularly new or substantive, but the third one includes large new sections of the play that Arya sees in Braavos which were cut for time.
+
+*1 - Still at night, a longer section of Davos and Edd standing stunned around Jon's dead body. A knock comes at the door and they draw their swords, but it is Melisandre. She looks on Jon's body with concern as well.
+*2 - Following on from the first deleted scene: some time later, when it is bright out, Edd lets [[Ghost]] out of the kennel (the CGI for the direwolf is half-finished). As he's in the courtyard, Alliser and his men walk up; Alisser asks where Tollard is going. Both hover around the fact that Jon is dead. Edd says the wolf needs feeding, Alliser says to just bring him food, not let him out; Edd angrily says they can't just cage him up forever, and Alliser says he should probably just take him out through the tunnel and set him loose on the north side of the Wall. Ghost snarls at Alliser. Alliser says that when Edd is done, they're all having a meeting in the mess hall, then leaves. About 1 minute long.
+*3 - Olenna and Mace are being carried inside a palanquin through King's Landing. Olenna condescendingly asks if Mace honestly thought Cersei sent him to Braavos to treat with the Iron Bank for innocent reasons, when she really sent him there to keep him out of the way while she arrested his children; and she sent a Kingsguard with him to make sure he stayed there. Mace says he thought it made sense given that he is the Master of Coin. Olenna continues that he just stayed there out of the way, eating, drinking, and singing, while his own children were being arrested; Mace can't look her in the eye and say there was no singing. But Olenna says it won't happen again; now that the Faith has also arrested Cersei herself, Kevan Lannister has returned and he invited Olenna to come to the Small Council meeting to try to figure out what to do. Mace asks if Kevan is making her Master of Coin now (he's already Master of Ships and was pulling double-duty), but Olenna says she is just the "mistress of getting my grandchildren out of bloody prison". Mace firmly says that they're his children too and he fears for them as well. Olenna assures him that they will get them back, then all leave this dreadful city, and let the Lannisters and Sparrows tear each other to pieces. 1 minute 20 seconds long.
+*4 - A much longer opening section of ''[[The Bloody Hand]]'', the play Arya sees in [[Braavos]]. About 2 minutes of new material, before "King Robert" gets gored in the boar hunt. Robert sits on the Iron Throne drinking wine excessively. Cersei pleads with him that he will dull his wits for the Small Council meeting. Robert slaps Cersei across the face, and admonishes her that the Small Council meetings are boring, and he will let Ned Stark deal with them - rather than attend to affairs of the realm, he would rather go on a boar hunt. Then "Robert" loadly farts (by lifting his leg and the sound effects man squeezing a prop bladder). Tyrion brings Robert more wine, and encourages him to drink far more than he should, so he will be too inebriated to defend himself from the boar. "Tyrion" then gives a soliloquy that this plays right into his hands, soon Ned Stark will be dead too, and he will be the new Hand of the King. Cersei introduces Joffrey, and says that Robert should bring his son to sit in on the council meeting to learn how to rule. Instead, Robert backhands Joffrey across the face (much to Arya and the crowd's amusement). Robert then goes on the boar hunt. Two well-to-do women next to Arya, however, are insulted by the extremely crass language and low-brow humor inserted into the play, which they think is being used as a substitute for good writing, sarcastically saying, "violence and profanity? ''How original''!" Arya then turns to them and sneers, "why don't you just leave then?"
+**In the DVD commentary, the TV writers explain that their version of the play (from the books) was meant to mock reviewers who complain about invented scenes of violence and profanity that aren't in the novels. However, even the director of the episodes the play scenes appear in ([[Jack Bender]]) grew uncomfortable and told them he thought the complaints were entirely accurate, and he thought this was them giving candid self-criticism. The writers insisted to him that it was obviously mocking unjustified criticisms and to go further with it; this disagreement may be why this part of the scene was deleted.
+
+==In the books==
+{{Main|Differences in adaptation/Game of Thrones: Season 6}}
+Although several plotlines of this season are ahead of the point the novels reached, large parts of it are based on the fourth and fifth novels ''A Feast for Crows'' and ''A Dance with Dragons''; it also consists of a few scenes based on the first and third novels ''A Game of Thrones'' and ''A Storm of Swords'', and scenes based on sample chapters of the upcoming sixth novel ''The Winds of Winter''.
+
+==Gallery==
+===Videos===
+====Trailers====
+<gallery bordersize="none">
+“The Past is Already Written. The Ink is Dry:" Game of Thrones Season 6: Official Tease (HBO)
+Game of Thrones Season 6: Targaryen Battle Banner Tease (HBO)
+Game of Thrones Season 6: Stark Battle Banner Tease (HBO)
+Game of Thrones Season 6: Lannister Battle Banner Tease (HBO)
+Game of Thrones Season 6: Hall of Faces Tease (HBO)
+Game of Thrones Season 6: March Madness Promo (HBO)
+Game of Thrones: Power Play Marathon (HBO)
+“The Real War is Between the Living and The Dead:" Game of Thrones Season 6: Official Trailer (HBO)
+Game of Thrones Season 6: Event Promo (HBO)
+Game of Thrones / Official Season 6 Recap Trailer (HBO)
+</gallery>
+
+====Inside GoT====
+<gallery bordersize="none">
+Game of Thrones Season 6: Inside GoT - The Best Seat in the House (HBO)
+Game of Thrones Season 6: Inside GoT - Prosthetics (HBO)
+Game of Thrones Season 6: Inside GoT - Visual Effects (HBO)
+</gallery>
+
+====Omaze====
+<gallery bordersize="none">
+Game of Thrones Season 6: Swords or Metal Band (HBO)
+Game of Thrones Season 6: Last Chance (HBO)
+</gallery>
+
+====Behind the scenes====
+<gallery bordersize="none">
+Game of Thrones Season 6: Journey To Spain (HBO)
+Game of Thrones Season 6: Life & Death at Castle Black (HBO)
+Game of Thrones Season 6: Blooper Reel (HBO)
+</gallery>
+
+====Art the Throne====
+<gallery bordersize="none">
+Game of Thrones Season 6: Art the Throne: The Artists - Jeff Nishinaka (HBO)
+Game of Thrones Season 6: Art the Throne: The Artists- Pop Chart Lab (HBO)
+Game of Thrones Season 6: Art the Throne: The Artists - CYRCLE (HBO)
+Game of Thrones Season 6: Art the Throne: The Artists - Marcos Chin (HBO)
+Game of Thrones Season 6: Art the Throne: The Artists - Tristan Eaton (HBO)
+</gallery>
+
+====Beginner's Guide====
+<gallery bordersize="none">
+Game of Thrones Beginner’s Guide: Uncensored (HBO)
+</gallery>
+
+====Deleted scene====
+<gallery bordersize="none">
+“Eating, Drinking, Singing” - Game of Thrones Season 6: Deleted Scene (HBO)
+</gallery>
+
+===Images===
+<gallery>
+GOT S6 EW 01.jpg
+GOT S6 EW 02.jpg
+GOT S6 EW 03.jpg
+GOT S6 EW 04.jpg
+GOT S6 EW 05.jpg
+GOT S6 EW 06.jpg
+EW Margaery.jpg
+EW Daenerys.jpg
+EW Arya.jpg
+EW Cersei.jpg
+EW Sansa.jpg
+EW Brienne.jpg
+EW Sansa Arya Brienne.jpg
+EW Sansa Arya Brienne 2.jpg
+EW Cersei Margaery Daenerys.jpg
+Daenerys Targaryen Poster.jpg|"I will do what queens do. I will rule." - Daenerys Targaryen
+Jon Snow Promo S6.jpg|"The long night is coming...and the dead come with it." - Jon Snow
+Rob Promo S6.jpg|"I've won every battle, but I'm losing this war." - Robb Stark
+Melisandre Promo S6.jpg|“There's only one war: life against death.” - Melisandre
+Daario Naharis Promo S6.jpg|"I have only two talents in this world: war and women." - Daario Naharis
+Jaime Lannister Promo S6.jpg|"We don't get to choose whom we love." - Jaime Lannister
+Tyrion Lannister Promo S6.jpg|"If you want justice, you've come to the wrong place." - Tyrion Lannister
+Sansa Stark Promo S6.jpg|"If I'm going to die, let it happen while there's still some of me left." - Sansa Stark
+Cersei Lannister Promo S6.jpg|"When you play the game of thrones, you win or you die. There is no middle ground." - Cersei Lannister
+Arya Stark Promo S6.jpg|"Anyone can be killed." - Arya Stark
+Tormund Giantsbane Promo S6.jpg|"If you lie to me, I'll pull your guts out through your throat." - Tormund Giantsbane
+Nymeria Promo S6.jpg|"I'm better than you, I've always been better than you." - Nymeria Sand
+Catelyn Promo S6.jpg|"Show them how it feels to lose what they love." - Catelyn Stark
+Joffrey Promo S6.jpg|"Everyone is mine to torment." - Joffrey Baratheon
+Oberyn Promo S6.jpg|"I will be your champion." - Oberyn Martell
+Robert Promo S6.jpg|"I was never meant to rule." - Robert Baratheon
+GOT Hall of Faces S6 Poster 02.jpg
+</gallery>
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+==External links==
+*{{AWOIAF|Game of Thrones - Season 6}}
+*{{HBO|game-of-thrones/season-6}}
+*{{WP|Game of Thrones season 6|''Game of Thrones'' season 6}}
+
+<!--Navboxes-->
+{{Game of Thrones}}
+{{World of Westeros}}
+
+<!--Categories-->
+[[Category:Game of Thrones: Season 6| ]]
+[[Category:Seasons of Game of Thrones|6]]
+[[Category:Seasons released in 2016|4.24]]
+
+<!--Languages-->
+[[de:Staffel 6]]
+[[es:Game of Thrones-Temporada 6]]
+[[fr:Saison 6]]
+[[it:Sesta Stagione]]
+[[lt:6 sezonas]]
+[[pl:Sezon 6]]
+[[pt-br:6ª Temporada]]
+[[ro:Sezonul 6]]
+[[ru:Сезон 6]]
+[[uk:Сезон 6]]

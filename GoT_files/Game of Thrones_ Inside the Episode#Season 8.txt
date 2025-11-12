@@ -1,0 +1,730 @@
+{{DISPLAYTITLE:''Game of Thrones: Inside the Episode''}}
+{{Micro-series
+| Title     = ''Game of Thrones:<br><small>Inside the Episode</small>''
+| Type      = Thrones
+| Image     = Game of Thrones: Inside the Episode: Season 8.jpg
+| Format    = 
+| Seasons   = [[#Season 1|1]] {{*}} [[#Season 2|2]] {{*}} [[#Season 3|3]] {{*}} [[#Season 4|4]] {{*}} [[#Season 5|5]] {{*}} [[#Season 6|6]] {{*}} [[#Season 7|7]] {{*}} [[#Season 8|8]]{{Videoref|GOTITE801}}
+| Shorts    = 72{{Videoref|GOTITE805}}
+| Premiere  = "[[Winter Is Coming (short)|Winter Is Coming]]"{{Videoref|GOTITE101}}
+| Finale    = "[[The Bells (short)|The Bells]]"{{Videoref|GOTITE805}}
+| First     = April 27, 2011{{Videoref|GOTITE101}}
+| Final     = May 12, 2019{{Videoref|GOTITE805}}
+| Runtime   = 4{{Videoref|GOTITE405}}-11 minutes{{Videoref|GOTITE803}} {{C|per short}}
+| Featuring = {{Collapse|[[David Benioff]]{{Videoref|GOTITE101}}<br>[[D.B. Weiss]]{{Videoref|GOTITE101}}<br>[[Tim Van Patten]]{{Videoref|GOTITE101}}<br>[[Brian Kirk]]{{Videoref|GOTITE105}}<br>[[Daniel Minahan]]{{Videoref|GOTITE106}}<br>[[Alan Taylor]]{{Videoref|GOTITE109}}<br>[[David Petrarca]]{{Videoref|GOTITE204}}<br>[[David Nutter]]{{Videoref|GOTITE206}}<br>[[Neil Marshall]]{{Videoref|GOTITE209}}<br>[[Alex Graves]]{{Videoref|GOTITE402}}<br>[[Alik Sakharov]]{{Videoref|GOTITE406}}}}
+| Writers   = 
+| Director  = 
+}}
+'''''Game of Thrones: Inside the Episode'''''{{Videoref|GOTITE101}} is a web documentary micro-series released on YouTube after the airing of ''[[Game of Thrones]]''. Showrunners [[David Benioff]] and [[D.B. Weiss]] provide insight into each episode of the series. "[[The Iron Throne]]" is the only episode of the series to not have a supplementary short, though a featurette from ''[[Game of Thrones: The Complete Eighth Season]]'' titled "Duty Is the Death of Love" serves as a substitute.
+
+==Seasons==
+{| {{Prettytable}}
+! Season
+! Shorts
+! Premiere date
+! Finale date
+|-
+| style="text-align: center;" | [[#Season 1|1]]{{Videoref|GOTITE101}}
+| style="text-align: center;" | 10{{Videoref|GOTITE110}}
+| style="text-align: center;" | April 27, 2011{{Videoref|GOTITE101}}
+| style="text-align: center;" | June 21, 2011{{Videoref|GOTITE110}}
+|-
+| style="text-align: center;" | [[#Season 2|2]]{{Videoref|GOTITE201}}
+| style="text-align: center;" | 10{{Videoref|GOTITE210}}
+| style="text-align: center;" | April 2, 2012{{Videoref|GOTITE201}}
+| style="text-align: center;" | June 4, 2012{{Videoref|GOTITE210}}
+|-
+| style="text-align: center;" | [[#Season 3|3]]{{Videoref|GOTITE301}}
+| style="text-align: center;" | 10{{Videoref|GOTITE310}}
+| style="text-align: center;" | April 1, 2013{{Videoref|GOTITE301}}
+| style="text-align: center;" | June 10, 2013{{Videoref|GOTITE310}}
+|-
+| style="text-align: center;" | [[#Season 4|4]]{{Videoref|GOTITE401}}
+| style="text-align: center;" | 10{{Videoref|GOTITE410}}
+| style="text-align: center;" | April 6, 2014{{Videoref|GOTITE401}}
+| style="text-align: center;" | June 15, 2014{{Videoref|GOTITE410}}
+|-
+| style="text-align: center;" | [[#Season 5|5]]{{Videoref|GOTITE501}}
+| style="text-align: center;" | 10{{Videoref|GOTITE510}}
+| style="text-align: center;" | April 12, 2015{{Videoref|GOTITE501}}
+| style="text-align: center;" | June 14, 2015{{Videoref|GOTITE510}}
+|-
+| style="text-align: center;" | [[#Season 6|6]]{{Videoref|GOTITE601}}
+| style="text-align: center;" | 10{{Videoref|GOTITE610}}
+| style="text-align: center;" | April 24, 2016{{Videoref|GOTITE601}}
+| style="text-align: center;" | June 26, 2016{{Videoref|GOTITE610}}
+|-
+| style="text-align: center;" | [[#Season 7|7]]{{Videoref|GOTITE701}}
+| style="text-align: center;" | 7{{Videoref|GOTITE707}}
+| style="text-align: center;" | July 27, 2017{{Videoref|GOTITE701}}
+| style="text-align: center;" | August 27, 2017{{Videoref|GOTITE707}}
+|-
+| style="text-align: center;" | [[#Season 8|8]]{{Videoref|GOTITE801}}
+| style="text-align: center;" | 5{{Videoref|GOTITE805}}
+| style="text-align: center;" | April 14, 2019{{Videoref|GOTITE801}}
+| style="text-align: center;" | May 12, 2019{{Videoref|GOTITE805}}
+|}
+
+===Season 1===
+{{Micro-season
+| Season    = 1
+| Type      = Thrones
+| Image     = Game of Thrones: Inside the Episode: Season 1.jpg
+| Shorts    = 10{{Videoref|GOTITE110}}
+| Premiere  = "[[Winter Is Coming (short)|Winter Is Coming]]"{{Videoref|GOTITE101}}
+| Finale    = "[[Fire and Blood (short)|Fire and Blood]]"{{Videoref|GOTITE110}}
+| First     = April 27, 2011{{Videoref|GOTITE101}}
+| Final     = June 21, 2011{{Videoref|GOTITE110}}
+| Runtime   = 5{{Videoref|GOTITE101}}-6 minutes{{Videoref|GOTITE107}} {{C|per short}}
+| Featuring = [[David Benioff]]{{Videoref|GOTITE101}}<br>[[D.B. Weiss]]{{Videoref|GOTITE101}}<br>[[Tim Van Patten]]{{Videoref|GOTITE101}}<br>[[Brian Kirk]]{{Videoref|GOTITE105}}<br>[[Daniel Minahan]]{{Videoref|GOTITE106}}<br>[[Alan Taylor]]{{Videoref|GOTITE109}}
+| Writer    = 
+| Director  = 
+| Previous  = 
+| Next      = [[#Season 2|Season 2]]{{HBOref|GOT2}}
+}}
+'''''Game of Thrones: Inside the Episode'': Season 1''' is the first season of ''Game of Thrones: Inside the Episode''. It consists of ten shorts. It premiered with "[[Winter Is Coming (short)|Winter Is Coming]]" on April 27, 2011, and concluded with "[[Fire and Blood (short)|Fire and Blood]]" on June 21, 2011.
+
+====Description====
+{{Description|GOTITE1}}
+
+====Shorts====
+{| {{Prettytable}}
+! Short
+! Image
+! Title
+! Release date
+|-
+| style="text-align: center;" | 1{{Videoref|GOTITE101}}
+| [[File:GOTITE101.jpg|150px]]
+| "[[Winter Is Coming (short)|Winter Is Coming]]"{{Videoref|GOTITE101}}
+| April 27, 2011{{Videoref|GOTITE101}}
+|-
+| style="text-align: center;" | 2{{Videoref|GOTITE102}}
+| [[File:GOTITE102.jpg|150px]]
+| "[[The Kingsroad (short)|The Kingsroad]]"{{Videoref|GOTITE102}}
+| April 27, 2011{{Videoref|GOTITE102}}
+|-
+| style="text-align: center;" | 3{{Videoref|GOTITE103}}
+| [[File:GOTITE103.jpg|150px]]
+| "[[Lord Snow (short)|Lord Snow]]"{{Videoref|GOTITE103}}
+| May 2, 2011{{Videoref|GOTITE103}}
+|-
+| style="text-align: center;" | 4{{Videoref|GOTITE104}}
+| [[File:Game of Thrones: Inside the Episode: Season 1.jpg|150px]]
+| "[[Cripples, Bastards, and Broken Things (short)|Cripples, Bastards, and Broken Things]]"{{Videoref|GOTITE104}}
+| May 8-9, 2011{{Notes|Window}}
+|-
+| style="text-align: center;" | 5{{Videoref|GOTITE105}}
+| [[File:GOTITE105.jpg|150px]]
+| "[[The Wolf and the Lion (short)|The Wolf and the Lion]]"{{Videoref|GOTITE105}}
+| May 17, 2011{{Videoref|GOTITE105}}
+|-
+| style="text-align: center;" | 6{{Videoref|GOTITE106}}
+| [[File:GOTITE106.jpg|150px]]
+| "[[A Golden Crown (short)|A Golden Crown]]"{{Videoref|GOTITE106}}
+| May 24, 2011{{Videoref|GOTITE106}}
+|-
+| style="text-align: center;" | 7{{Videoref|GOTITE107}}
+| [[File:GOTITE107.jpg|150px]]
+| "[[You Win or You Die (short)|You Win or You Die]]"{{Videoref|GOTITE107}}
+| May 31, 2011{{Videoref|GOTITE107}}
+|-
+| style="text-align: center;" | 8{{Videoref|GOTITE108}}
+| [[File:GOTITE108.jpg|150px]]
+| "[[The Pointy End (short)|The Pointy End]]"{{Videoref|GOTITE108}}
+| June 7, 2011{{Videoref|GOTITE108}}
+|-
+| style="text-align: center;" | 9{{Videoref|GOTITE109}}
+| [[File:GOTITE109.jpg|150px]]
+| "[[Baelor (short)|Baelor]]"{{Videoref|GOTITE109}}
+| June 14, 2011{{Videoref|GOTITE109}}
+|-
+| style="text-align: center;" | 10{{Videoref|GOTITE110}}
+| [[File:GOTITE110.jpg|150px]]
+| "[[Fire and Blood (short)|Fire and Blood]]"{{Videoref|GOTITE110}}
+| June 21, 2011{{Videoref|GOTITE110}}
+|}
+
+====Commentators====
+*[[David Benioff]] {{C|Executive Producer/Writer}}
+*[[D.B. Weiss]] {{C|Executive Producer/Writer}}
+*[[Tim Van Patten]] {{C|Director}}
+*[[Brian Kirk]] {{C|Director}}
+*[[Daniel Minahan]] {{C|Director}}
+*[[Alan Taylor]] {{C|Director}}
+
+===Season 2===
+{{Micro-season
+| Season    = 2
+| Type      = Thrones
+| Image     = Game of Thrones: Inside the Episode: Season 2.jpg
+| Shorts    = 10{{Videoref|GOTITE210}}
+| Premiere  = "[[The North Remembers (short)|The North Remembers]]"{{Videoref|GOTITE201}}
+| Finale    = "[[Valar Morghulis (short)|Valar Morghulis]]"{{Videoref|GOTITE210}}
+| First     = April 2, 2012{{Videoref|GOTITE201}}
+| Final     = June 4, 2012{{Videoref|GOTITE210}}
+| Runtime   = 5{{Videoref|GOTITE201}}-6 minutes{{Videoref|GOTITE203}} {{C|per short}}
+| Featuring = [[David Benioff]]{{Videoref|GOTITE201}}<br>[[D.B. Weiss]]{{Videoref|GOTITE201}}<br>[[Alan Taylor]]{{Videoref|GOTITE201}}<br>[[David Petrarca]]{{Videoref|GOTITE204}}<br>[[David Nutter]]{{Videoref|GOTITE206}}<br>[[Neil Marshall]]{{Videoref|GOTITE209}}
+| Writer    = 
+| Director  = 
+| Previous  = [[#Season 1|Season 1]]{{HBOref|GOT1}}
+| Next      = [[#Season 3|Season 3]]{{HBOref|GOT3}}
+}}
+'''''Game of Thrones: Inside the Episode'': Season 2''' is the second season of ''Game of Thrones: Inside the Episode''. It consists of ten shorts. It premiered with "[[The North Remembers (short)|The North Remembers]]" on April 2, 2012, and concluded with "[[Valar Morghulis (short)|Valar Morghulis]]" on June 4, 2012.
+
+====Description====
+{{Description|GOTITE2}}
+
+====Shorts====
+{| {{Prettytable}}
+! Short
+! Image
+! Title
+! Release date
+|-
+| style="text-align: center;" | 1{{Videoref|GOTITE201}}
+| [[File:GOTITE201.jpg|150px]]
+| "[[The North Remembers (short)|The North Remembers]]"{{Videoref|GOTITE201}}
+| April 2, 2012{{Videoref|GOTITE201}}
+|-
+| style="text-align: center;" | 2{{Videoref|GOTITE202}}
+| [[File:GOTITE202.jpg|150px]]
+| "[[The Night Lands (short)|The Night Lands]]"{{Videoref|GOTITE202}}
+| April 9, 2012{{Videoref|GOTITE202}}
+|-
+| style="text-align: center;" | 3{{Videoref|GOTITE203}}
+| [[File:GOTITE203.jpg|150px]]
+| "[[What Is Dead May Never Die (short)|What Is Dead May Never Die]]"{{Videoref|GOTITE203}}
+| April 16, 2012{{Videoref|GOTITE203}}
+|-
+| style="text-align: center;" | 4{{Videoref|GOTITE204}}
+| [[File:GOTITE204.jpg|150px]]
+| "[[Garden of Bones (short)|Garden of Bones]]"{{Videoref|GOTITE204}}
+| April 24, 2012{{Videoref|GOTITE204}}
+|-
+| style="text-align: center;" | 5{{Videoref|GOTITE205}}
+| [[File:GOTITE205.jpg|150px]]
+| "[[The Ghost of Harrenhal (short)|The Ghost of Harrenhal]]"{{Videoref|GOTITE205}}
+| April 30, 2012{{Videoref|GOTITE205}}
+|-
+| style="text-align: center;" | 6{{Videoref|GOTITE206}}
+| [[File:GOTITE206.jpg|150px]]
+| "[[The Old Gods and the New (Game of Thrones: Inside the Episode)|The Old Gods and the New]]"{{Videoref|GOTITE206}}
+| May 7, 2012{{Videoref|GOTITE206}}
+|-
+| style="text-align: center;" | 7{{Videoref|GOTITE207}}
+| [[File:GOTITE207.jpg|150px]]
+| "[[A Man Without Honor (short)|A Man Without Honor]]"{{Videoref|GOTITE207}}
+| May 14, 2012{{Videoref|GOTITE207}}
+|-
+| style="text-align: center;" | 8{{Videoref|GOTITE208}}
+| [[File:GOTITE208.jpg|150px]]
+| "[[The Prince of Winterfell (short)|The Prince of Winterfell]]"{{Videoref|GOTITE208}}
+| May 21, 2012{{Videoref|GOTITE208}}
+|-
+| style="text-align: center;" | 9{{Videoref|GOTITE209}}
+| [[File:GOTITE209.jpg|150px]]
+| "[[Blackwater (short)|Blackwater]]"{{Videoref|GOTITE209}}
+| May 29, 2012{{Videoref|GOTITE209}}
+|-
+| style="text-align: center;" | 10{{Videoref|GOTITE210}}
+| [[File:GOTITE210.jpg|150px]]
+| "[[Valar Morghulis (short)|Valar Morghulis]]"{{Videoref|GOTITE210}}
+| June 4, 2012{{Videoref|GOTITE210}}
+|}
+
+====Commentators====
+*[[David Benioff]] {{C|Executive Producer/Writer}}
+*[[D.B. Weiss]] {{C|Executive Producer/Writer}}
+*[[Alan Taylor]] {{C|Director, Episodes [[The North Remembers|1]],[[The Night Lands|2]],[[The Prince of Winterfell|8]] & [[Valar Morghulis|10]]<br>Co-Executive Producer}}
+*[[David Petrarca]] {{C|Director}}
+*[[David Nutter]] {{C|Director}}
+*[[Neil Marshall]] {{C|Director}}
+
+===Season 3===
+{{Micro-season
+| Season    = 3
+| Type      = Thrones
+| Image     = Game of Thrones: Inside the Episode: Season 3.jpg
+| Shorts    = 10{{Videoref|GOTITE310}}
+| Premiere  = "[[Valar Dohaeris (short)|Valar Dohaeris]]"{{Videoref|GOTITE301}}
+| Finale    = "[[Mhysa (short)|Mhysa]]"{{Videoref|GOTITE310}}
+| First     = April 1, 2013{{Videoref|GOTITE301}}
+| Final     = June 10, 2013{{Videoref|GOTITE310}}
+| Runtime   = 5{{Videoref|GOTITE302}}-7 minutes{{Videoref|GOTITE309}} {{C|per short}}
+| Featuring = [[David Benioff]]{{Videoref|GOTITE301}}<br>[[D.B. Weiss]]{{Videoref|GOTITE301}}<br>[[Daniel Minahan]]{{Videoref|GOTITE301}}
+| Writer    = 
+| Director  = 
+| Previous  = [[#Season 2|Season 2]]{{HBOref|GOT2}}
+| Next      = [[#Season 4|Season 4]]{{HBOref|GOT4}}
+}}
+'''''Game of Thrones: Inside the Episode'': Season 3''' is the third season of ''Game of Thrones: Inside the Episode''. It consists of ten shorts. It premiered with "[[Valar Dohaeris (short)|Valar Dohaeris]]" on April 1, 2013, and concluded with "[[Mhysa (short)|Mhysa]]" on June 10, 2013.
+
+====Description====
+{{Description|GOTITE3}}
+
+====Shorts====
+{| {{Prettytable}}
+! Short
+! Image
+! Title
+! Release date
+|-
+| style="text-align: center;" | 1{{Videoref|GOTITE301}}
+| [[File:GOTITE301.jpg|150px]]
+| "[[Valar Dohaeris (short)|Valar Dohaeris]]"{{Videoref|GOTITE301}}
+| April 1, 2013{{Videoref|GOTITE301}}
+|-
+| style="text-align: center;" | 2{{Videoref|GOTITE302}}
+| [[File:GOTITE302.jpg|150px]]
+| "[[Dark Wings, Dark Words (short)|Dark Wings, Dark Words]]"{{Videoref|GOTITE302}}
+| April 10, 2013{{Videoref|GOTITE302}}
+|-
+| style="text-align: center;" | 3{{HBOref|GOT3}}
+| [[File:GOTITE303.jpg|150px]]
+| "[[Walk of Punishment (short)|Walk of Punishment]]"{{Videoref|GOTITE303}}
+| April 14-22, 2013{{Notes|Window}}
+|-
+| style="text-align: center;" | 4{{Videoref|GOTITE304}}
+| [[File:GOTITE304.jpg|150px]]
+| "[[And Now His Watch Is Ended (short)|And Now His Watch Is Ended]]"{{Videoref|GOTITE304}}
+| April 22, 2013{{Videoref|GOTITE304}}
+|-
+| style="text-align: center;" | 5{{Videoref|GOTITE305}}
+| [[File:GOTITE305.jpg|150px]]
+| "[[Kissed by Fire (short)|Kissed by Fire]]"{{Videoref|GOTITE305}}
+| April 29, 2013{{Videoref|GOTITE305}}
+|-
+| style="text-align: center;" | 6{{Videoref|GOTITE306}}
+| [[File:GOTITE306.jpg|150px]]
+| "[[The Climb (short)|The Climb]]"{{Videoref|GOTITE306}}
+| May 7, 2013{{Videoref|GOTITE306}}
+|-
+| style="text-align: center;" | 7{{Videoref|GOTITE307}}
+| [[File:GOTITE307.jpg|150px]]
+| "[[The Bear and the Maiden Fair (short)|The Bear and the Maiden Fair]]"{{Videoref|GOTITE307}}
+| May 13, 2013{{Videoref|GOTITE307}}
+|-
+| style="text-align: center;" | 8{{Videoref|GOTITE308}}
+| [[File:GOTITE308.jpg|150px]]
+| "[[Second Sons (short)|Second Sons]]"{{Videoref|GOTITE308}}
+| May 20, 2013{{Videoref|GOTITE308}}
+|-
+| style="text-align: center;" | 9{{Videoref|GOTITE309}}
+| [[File:GOTITE309.jpg|150px]]
+| "[[The Rains of Castamere (Game of Thrones: Inside the Episode)|The Rains of Castamere]]"{{Videoref|GOTITE309}}
+| June 4, 2013{{Videoref|GOTITE309}}
+|-
+| style="text-align: center;" | 10{{Videoref|GOTITE310}}
+| [[File:GOTITE310.jpg|150px]]
+| "[[Mhysa (short)|Mhysa]]"{{Videoref|GOTITE310}}
+| June 10, 2013{{Videoref|GOTITE310}}
+|}
+
+====Commentators====
+*[[David Benioff]] {{C|Exec. Producer/Writer/Director [[Walk of Punishment (episode)|epi. 3]]}}
+*[[D.B. Weiss]] {{C|Exec. Producer/Writer/Director epi. 3}}
+*[[Daniel Minahan]] {{C|Director, [[Valar Dohaeris|Episode 1]]}}
+
+===Season 4===
+{{Micro-season
+| Season    = 4
+| Type      = Thrones
+| Image     = Game of Thrones: Inside the Episode: Season 4.jpg
+| Shorts    = 10{{Videoref|GOTITE410}}
+| Premiere  = "[[Two Swords (short)|Two Swords]]"{{Videoref|GOTITE401}}
+| Finale    = "[[The Children (short)|The Children]]"{{Videoref|GOTITE410}}
+| First     = April 6, 2014{{Videoref|GOTITE401}}
+| Final     = June 15, 2014{{Videoref|GOTITE410}}
+| Runtime   = 4{{Videoref|GOTITE405}}-10 minutes{{Videoref|GOTITE402}} {{C|per short}}
+| Featuring = [[David Benioff]]{{Videoref|GOTITE401}}<br>[[D.B. Weiss]]{{Videoref|GOTITE401}}<br>[[Alex Graves]]{{Videoref|GOTITE402}}<br>[[Alik Sakharov]]{{Videoref|GOTITE406}}<br>[[Neil Marshall]]{{Videoref|GOTITE409}}
+| Writer    = 
+| Director  = 
+| Previous  = [[#Season 3|Season 3]]{{HBOref|GOT3}}
+| Next      = [[#Season 5|Season 5]]{{HBOref|GOT5}}
+}}
+'''''Game of Thrones: Inside the Episode'': Season 4''' is the fourth season of ''Game of Thrones: Inside the Episode''. It consists of ten shorts. It premiered with "[[Two Swords (short)|Two Swords]]" on April 6, 2014, and concluded with "[[The Children (short)|The Children]]" on June 15, 2014.
+
+====Description====
+{{Description|GOTITE4}}
+
+====Shorts====
+{| {{Prettytable}}
+! Short
+! Image
+! Title
+! Release date
+|-
+| style="text-align: center;" | 1{{Videoref|GOTITE401}}
+| [[File:GOTITE401.jpg|150px]]
+| "[[Two Swords (short)|Two Swords]]"{{Videoref|GOTITE401}}
+| April 6, 2014{{Videoref|GOTITE401}}
+|-
+| style="text-align: center;" | 2{{Videoref|GOTITE402}}
+| [[File:GOTITE402.jpg|150px]]
+| "[[The Lion and the Rose (short)|The Lion and the Rose]]"{{Videoref|GOTITE402}}
+| April 16, 2014{{Videoref|GOTITE402}}
+|-
+| style="text-align: center;" | 3{{HBOref|GOT4}}
+| [[File:GOTITE403.jpg|150px]]
+| "[[Breaker of Chains (short)|Breaker of Chains]]"{{Videoref|GOTITE403}}
+| April 20-27, 2014{{Notes|Window}}
+|-
+| style="text-align: center;" | 4{{Videoref|GOTITE404}}
+| [[File:GOTITE404.jpg|150px]]
+| "[[Oathkeeper (short)|Oathkeeper]]"{{Videoref|GOTITE404}}
+| April 27, 2014{{Videoref|GOTITE404}}
+|-
+| style="text-align: center;" | 5{{Videoref|GOTITE405}}
+| [[File:GOTITE405.jpg|150px]]
+| "[[First of His Name (short)|First of His Name]]"{{Videoref|GOTITE405}}
+| May 4, 2014{{Videoref|GOTITE405}}
+|-
+| style="text-align: center;" | 6{{Videoref|GOTITE406}}
+| [[File:GOTITE406.jpg|150px]]
+| "[[The Laws of Gods and Men (short)|The Laws of Gods and Men]]"{{Videoref|GOTITE406}}
+| May 11, 2014{{Videoref|GOTITE406}}
+|-
+| style="text-align: center;" | 7{{Videoref|GOTITE407}}
+| [[File:GOTITE407.jpg|150px]]
+| "[[Mockingbird (short)|Mockingbird]]"{{Videoref|GOTITE407}}
+| May 18, 2014{{Videoref|GOTITE407}}
+|-
+| style="text-align: center;" | 8{{Videoref|GOTITE408}}
+| [[File:GOTITE408.jpg|150px]]
+| "[[The Mountain and the Viper (short)|The Mountain and the Viper]]"{{Videoref|GOTITE408}}
+| June 1, 2014{{Videoref|GOTITE408}}
+|-
+| style="text-align: center;" | 9{{Videoref|GOTITE409}}
+| [[File:GOTITE409.jpg|150px]]
+| "[[The Watchers on the Wall (short)|The Watchers on the Wall]]"{{Videoref|GOTITE409}}
+| June 8, 2014{{Videoref|GOTITE409}}
+|-
+| style="text-align: center;" | 10{{Videoref|GOTITE410}}
+| [[File:GOTITE410.jpg|150px]]
+| "[[The Children (short)|The Children]]"{{Videoref|GOTITE410}}
+| June 15, 2014{{Videoref|GOTITE410}}
+|}
+
+====Commentators====
+*[[David Benioff]] {{C|Exec. Producer/Writer/Director}}
+*[[D.B. Weiss]] {{C|Exec. Producer/Writer/Director}}
+*[[Alex Graves]] {{C|Director}}
+*[[Alik Sakharov]] {{C|Director}}
+*[[Neil Marshall]] {{C|Director}}
+
+===Season 5===
+{{Micro-season
+| Season    = 5
+| Type      = Thrones
+| Image     = Game of Thrones: Inside the Episode: Season 5.jpg
+| Shorts    = 10{{Videoref|GOTITE510}}
+| Premiere  = "[[The Wars To Come (short)|The Wars To Come]]"{{Videoref|GOTITE501}}
+| Finale    = "[[Mother's Mercy (short)|Mother's Mercy]]"{{Videoref|GOTITE510}}
+| First     = April 12, 2015{{Videoref|GOTITE501}}
+| Final     = June 14, 2015{{Videoref|GOTITE510}}
+| Runtime   = 4{{Videoref|GOTITE501}}-10 minutes{{Videoref|GOTITE510}} {{C|per short}}
+| Featuring = [[D.B. Weiss]]{{Videoref|GOTITE501}}<br>[[David Benioff]]{{Videoref|GOTITE501}}
+| Writer    = 
+| Director  = 
+| Previous  = [[#Season 4|Season 4]]{{HBOref|GOT4}}
+| Next      = [[#Season 6|Season 6]]{{HBOref|GOT6}}
+}}
+'''''Game of Thrones: Inside the Episode'': Season 5''' is the fifth season of ''Game of Thrones: Inside the Episode''. It consists of ten shorts. It premiered with "[[The Wars To Come (short)|The Wars To Come]]" on April 12, 2015, and concluded with "[[Mother's Mercy (short)|Mother's Mercy]]" on June 14, 2015.
+
+====Description====
+{{Description|GOTITE5}}
+
+====Shorts====
+{| {{Prettytable}}
+! Short
+! Image
+! Title
+! Release date
+|-
+| style="text-align: center;" | 1{{Videoref|GOTITE501}}
+| [[File:GOTITE501.jpg|150px]]
+| "[[The Wars To Come (short)|The Wars To Come]]"{{Videoref|GOTITE501}}
+| April 12, 2015{{Videoref|GOTITE501}}
+|-
+| style="text-align: center;" | 2{{Videoref|GOTITE502}}
+| [[File:GOTITE502.jpg|150px]]
+| "[[The House of Black and White (short)|The House of Black and White]]"{{Videoref|GOTITE502}}
+| April 19, 2015{{Videoref|GOTITE502}}
+|-
+| style="text-align: center;" | 3{{Videoref|GOTITE503}}
+| [[File:GOTITE503.jpg|150px]]
+| "[[High Sparrow (short)|High Sparrow]]"{{Videoref|GOTITE503}}
+| April 26, 2015{{Videoref|GOTITE503}}
+|-
+| style="text-align: center;" | 4{{Videoref|GOTITE504}}
+| [[File:GOTITE504.jpg|150px]]
+| "[[Sons of the Harpy (short)|Sons of the Harpy]]"{{Videoref|GOTITE504}}
+| May 3, 2015{{Videoref|GOTITE504}}
+|-
+| style="text-align: center;" | 5{{Videoref|GOTITE505}}
+| [[File:GOTITE505.jpg|150px]]
+| "[[Kill the Boy (short)|Kill the Boy]]"{{Videoref|GOTITE505}}
+| May 10, 2015{{Videoref|GOTITE505}}
+|-
+| style="text-align: center;" | 6{{Videoref|GOTITE506}}
+| [[File:GOTITE506.jpg|150px]]
+| "[[Unbowed, Unbent, Unbroken (short)|Unbowed, Unbent, Unbroken]]"{{Videoref|GOTITE506}}
+| May 17, 2015{{Videoref|GOTITE506}}
+|-
+| style="text-align: center;" | 7{{Videoref|GOTITE507}}
+| [[File:GOTITE507.jpg|150px]]
+| "[[The Gift (short)|The Gift]]"{{Videoref|GOTITE507}}
+| May 24, 2015{{Videoref|GOTITE507}}
+|-
+| style="text-align: center;" | 8{{Videoref|GOTITE508}}
+| [[File:GOTITE508.jpg|150px]]
+| "[[Hardhome (short)|Hardhome]]"{{Videoref|GOTITE508}}
+| May 31, 2015{{Videoref|GOTITE508}}
+|-
+| style="text-align: center;" | 9{{Videoref|GOTITE509}}
+| [[File:GOTITE509.jpg|150px]]
+| "[[The Dance of Dragons (short)|The Dance of Dragons]]"{{Videoref|GOTITE509}}
+| June 7, 2015{{Videoref|GOTITE509}}
+|-
+| style="text-align: center;" | 10{{Videoref|GOTITE510}}
+| [[File:GOTITE510.jpg|150px]]
+| "[[Mother's Mercy (short)|Mother's Mercy]]"{{Videoref|GOTITE510}}
+| June 14, 2015{{Videoref|GOTITE510}}
+|}
+
+====Commentators====
+*[[D.B. Weiss]] {{C|Executive Producer & Writer}}
+*[[David Benioff]] {{C|Executive Producer & Writer}}
+
+===Season 6===
+{{Micro-season
+| Season    = 6
+| Type      = Thrones
+| Image     = Game of Thrones: Inside the Episode: Season 6.jpg
+| Shorts    = 10{{Videoref|GOTITE610}}
+| Premiere  = "[[The Red Woman (short)|The Red Woman]]"{{Videoref|GOTITE601}}
+| Finale    = "[[The Winds of Winter (short)|The Winds of Winter]]"{{Videoref|GOTITE610}}
+| First     = April 24, 2016{{Videoref|GOTITE601}}
+| Final     = June 26, 2016{{Videoref|GOTITE610}}
+| Runtime   = 4{{Videoref|GOTITE601}}-10 minutes{{Videoref|GOTITE610}} {{C|per short}}
+| Featuring = [[David Benioff]]{{Videoref|GOTITE601}}<br>[[D.B. Weiss]]{{Videoref|GOTITE601}}
+| Writer    = 
+| Director  = 
+| Previous  = [[#Season 5|Season 5]]{{HBOref|GOT5}}
+| Next      = [[#Season 7|Season 7]]{{HBOref|GOT7}}
+}}
+'''''Game of Thrones: Inside the Episode'': Season 6''' is the sixth season of ''Game of Thrones: Inside the Episode''. It consists of ten shorts. It premiered with "[[The Red Woman (short)|The Red Woman]]" on April 24, 2016, and concluded with "[[The Winds of Winter (short)|The Winds of Winter]]" on June 26, 2016.
+
+====Description====
+{{Description|GOTITE6}}
+
+====Shorts====
+{| {{Prettytable}}
+! Short
+! Image
+! Title
+! Release date
+|-
+| style="text-align: center;" | 1{{Videoref|GOTITE601}}
+| [[File:GOTITE601.jpg|150px]]
+| "[[The Red Woman (short)|The Red Woman]]"{{Videoref|GOTITE601}}
+| April 24, 2016{{Videoref|GOTITE601}}
+|-
+| style="text-align: center;" | 2{{Videoref|GOTITE602}}
+| [[File:GOTITE602.jpg|150px]]
+| "[[Home (short)|Home]]"{{Videoref|GOTITE602}}
+| May 1, 2016{{Videoref|GOTITE602}}
+|-
+| style="text-align: center;" | 3{{Videoref|GOTITE603}}
+| [[File:GOTITE603.jpg|150px]]
+| "[[Oathbreaker (short)|Oathbreaker]]"{{Videoref|GOTITE603}}
+| May 8, 2016{{Videoref|GOTITE603}}
+|-
+| style="text-align: center;" | 4{{Videoref|GOTITE604}}
+| [[File:GOTITE604.jpg|150px]]
+| "[[Book of the Stranger (short)|Book of the Stranger]]"{{Videoref|GOTITE604}}
+| May 15, 2016{{Videoref|GOTITE604}}
+|-
+| style="text-align: center;" | 5{{Videoref|GOTITE605}}
+| [[File:GOTITE605.jpg|150px]]
+| "[[The Door (short)|The Door]]"{{Videoref|GOTITE605}}
+| May 22, 2016{{Videoref|GOTITE605}}
+|-
+| style="text-align: center;" | 6{{Videoref|GOTITE606}}
+| [[File:GOTITE606.jpg|150px]]
+| "[[Blood of My Blood (short)|Blood of My Blood]]"{{Videoref|GOTITE606}}
+| May 29, 2016{{Videoref|GOTITE606}}
+|-
+| style="text-align: center;" | 7{{Videoref|GOTITE607}}
+| [[File:GOTITE607.jpg|150px]]
+| "[[The Broken Man (short)|The Broken Man]]"{{Videoref|GOTITE607}}
+| June 5, 2016{{Videoref|GOTITE607}}
+|-
+| style="text-align: center;" | 8{{Videoref|GOTITE608}}
+| [[File:GOTITE608.jpg|150px]]
+| "[[No One (short)|No One]]"{{Videoref|GOTITE608}}
+| June 12, 2016{{Videoref|GOTITE608}}
+|-
+| style="text-align: center;" | 9{{Videoref|GOTITE609}}
+| [[File:GOTITE609.jpg|150px]]
+| "[[Battle of the Bastards (short)|Battle of the Bastards]]"{{Videoref|GOTITE609}}
+| June 19, 2016{{Videoref|GOTITE609}}
+|-
+| style="text-align: center;" | 10{{Videoref|GOTITE610}}
+| [[File:GOTITE610.jpg|150px]]
+| "[[The Winds of Winter (short)|The Winds of Winter]]"{{Videoref|GOTITE610}}
+| June 26, 2016{{Videoref|GOTITE610}}
+|}
+
+====Commentators====
+*[[David Benioff]] {{C|Executive Producer & Writer}}
+*[[D.B. Weiss]] {{C|Executive Producer & Writer}}
+
+===Season 7===
+{{Micro-season
+| Season    = 7
+| Type      = Thrones
+| Image     = Game of Thrones: Inside the Episode: Season 7.jpg
+| Shorts    = 7{{Videoref|GOTITE707}}
+| Premiere  = "[[Dragonstone (Game of Thrones: Inside the Episode)|Dragonstone]]"{{Videoref|GOTITE701}}
+| Finale    = "[[The Dragon and the Wolf (short)|The Dragon and the Wolf]]"{{Videoref|GOTITE707}}
+| First     = July 27, 2017{{Videoref|GOTITE701}}
+| Final     = August 27, 2017{{Videoref|GOTITE707}}
+| Runtime   = 5{{Videoref|GOTITE702}}-9 minutes{{Videoref|GOTITE707}} {{C|per short}}
+| Featuring = [[D.B. Weiss]]{{Videoref|GOTITE701}}<br>[[David Benioff]]{{Videoref|GOTITE701}}
+| Writer    = 
+| Director  = 
+| Previous  = [[#Season 6|Season 6]]{{HBOref|GOT6}}
+| Next      = [[#Season 8|Season 8]]{{HBOref|GOT8}}
+}}
+'''''Game of Thrones: Inside the Episode'': Season 7''' is the seventh season of ''Game of Thrones: Inside the Episode''. It consists of seven shorts. It premiered with "[[Dragonstone (Game of Thrones: Inside the Episode)|Dragonstone]]" on July 27, 2017, and concluded with "[[The Dragon and the Wolf (short)|The Dragon and the Wolf]]" on August 27, 2017.
+
+====Description====
+{{Description|GOTITE7}}
+
+====Shorts====
+{| {{Prettytable}}
+! Short
+! Image
+! Title
+! Release date
+|-
+| style="text-align: center;" | 1{{Videoref|GOTITE701}}
+| [[File:GOTITE701.jpg|150px]]
+| "[[Dragonstone (Game of Thrones: Inside the Episode)|Dragonstone]]"{{Videoref|GOTITE701}}
+| July 27, 2017{{Videoref|GOTITE701}}
+|-
+| style="text-align: center;" | 2{{Videoref|GOTITE702}}
+| [[File:GOTITE702.jpg|150px]]
+| "[[Stormborn (short)|Stormborn]]"{{Videoref|GOTITE702}}
+| August 1, 2017{{Videoref|GOTITE702}}
+|-
+| style="text-align: center;" | 3{{Videoref|GOTITE703}}
+| [[File:GOTITE703.jpg|150px]]
+| "[[The Queen's Justice (short)|The Queen's Justice]]"{{Videoref|GOTITE703}}
+| August 1, 2017{{Videoref|GOTITE703}}
+|-
+| style="text-align: center;" | 4{{Videoref|GOTITE704}}
+| [[File:GOTITE704.jpg|150px]]
+| "[[The Spoils of War (short)|The Spoils of War]]"{{Videoref|GOTITE704}}
+| August 6, 2017{{Videoref|GOTITE704}}
+|-
+| style="text-align: center;" | 5{{Videoref|GOTITE705}}
+| [[File:GOTITE705.jpg|150px]]
+| "[[Eastwatch (short)|Eastwatch]]"{{Videoref|GOTITE705}}
+| August 13, 2017{{Videoref|GOTITE705}}
+|-
+| style="text-align: center;" | 6{{Videoref|GOTITE706}}
+| [[File:GOTITE706.jpg|150px]]
+| "[[Beyond the Wall (short)|Beyond the Wall]]"{{Videoref|GOTITE706}}
+| August 20, 2017{{Videoref|GOTITE706}}
+|-
+| style="text-align: center;" | 7{{Videoref|GOTITE707}}
+| [[File:GOTITE707.jpg|150px]]
+| "[[The Dragon and the Wolf (short)|The Dragon and the Wolf]]"{{Videoref|GOTITE707}}
+| August 27, 2017{{Videoref|GOTITE707}}
+|}
+
+====Commentators====
+*[[D.B. Weiss]] {{C|Executive Producer & Writer}}
+*[[David Benioff]] {{C|Executive Producer & Writer}}
+
+===Season 8===
+{{Micro-season
+| Season    = 8
+| Type      = Thrones
+| Image     = Game of Thrones: Inside the Episode: Season 8.jpg
+| Shorts    = 5{{Videoref|GOTITE805}}
+| Premiere  = "[[Winterfell (Game of Thrones: Inside the Episode)|Winterfell]]"{{Videoref|GOTITE801}}
+| Finale    = "[[The Bells (short)|The Bells]]"{{Videoref|GOTITE805}}
+| First     = April 14, 2019{{Videoref|GOTITE801}}
+| Final     = May 12, 2019{{Videoref|GOTITE805}}
+| Runtime   = 7{{Videoref|GOTITE801}}-11 minutes{{Videoref|GOTITE803}}
+| Featuring = [[David Benioff]]{{Videoref|GOTITE801}}<br>[[D.B. Weiss]]{{Videoref|GOTITE801}}
+| Writer    = 
+| Director  = 
+| Previous  = [[#Season 7|Season 7]]{{HBOref|GOT7}}
+| Next      = 
+}}
+'''''Game of Thrones: Inside the Episode'': Season 8''' is the eighth and final season of ''Game of Thrones: Inside the Episode''. It consists of five shorts. It premiered with "[[Winterfell (Game of Thrones: Inside the Episode)|Winterfell]]" on April 14, 2019, and concluded with "[[The Bells (short)|The Bells]]" on May 12, 2019.
+
+====Description====
+{{Description|GOTITE8}}
+
+====Shorts====
+{| {{Prettytable}}
+! Short
+! Image
+! Title
+! Release date
+|-
+| style="text-align: center;" | 1{{Videoref|GOTITE801}}
+| [[File:GOTITE801.jpg|150px]]
+| "[[Winterfell (Game of Thrones: Inside the Episode)|Winterfell]]"{{Videoref|GOTITE801}}
+| April 14, 2019{{Videoref|GOTITE801}}
+|-
+| style="text-align: center;" | 2{{Videoref|GOTITE802}}
+| [[File:GOTITE802.jpg|150px]]
+| "[[A Knight of the Seven Kingdoms (short)|A Knight of the Seven Kingdoms]]"{{Videoref|GOTITE802}}
+| April 21, 2019{{Videoref|GOTITE802}}
+|-
+| style="text-align: center;" | 3{{Videoref|GOTITE803}}
+| [[File:GOTITE803.jpg|150px]]
+| "[[The Long Night (short)|The Long Night]]"{{Videoref|GOTITE803}}
+| April 28, 2019{{Videoref|GOTITE803}}
+|-
+| style="text-align: center;" | 4{{Videoref|GOTITE804}}
+| [[File:GOTITE804.jpg|150px]]
+| "[[The Last of the Starks (short)|The Last of the Starks]]"{{Videoref|GOTITE804}}
+| May 5, 2019{{Videoref|GOTITE804}}
+|-
+| style="text-align: center;" | 5{{Videoref|GOTITE805}}
+| [[File:GOTITE805.jpg|150px]]
+| "[[The Bells (short)|The Bells]]"{{Videoref|GOTITE805}}
+| May 12, 2019{{Videoref|GOTITE805}}
+|}
+
+====Commentators====
+*[[David Benioff]] {{C|Executive Producer, Writer}}
+*[[D.B. Weiss]] {{C|Executive Producer, Writer}}
+
+==References==
+{{Reflist}}
+
+===Notes===
+{{Notelist}}
+
+<!--Navboxes-->
+{{Game of Thrones: Inside the Episode}}
+{{Game of Thrones}}
+
+<!--Categories-->
+[[Category:Documentaries of Game of Thrones|Inside the Episode]]
+[[Category:Documentaries released in 2011|4.27]]
+[[Category:Game of Thrones: Inside the Episode| ]]
+[[Category:Micro-series of Game of Thrones|Inside the Episode]]
+[[Category:Micro-series released in 2011|4.27]]
+[[Category:Web documentary micro-series]]
+[[Category:Web series of Game of Thrones|Inside the Episode]]
+[[Category:Web series released in 2011|4.27]]
