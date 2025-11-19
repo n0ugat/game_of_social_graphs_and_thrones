@@ -1,0 +1,74 @@
+episode;Name;rating
+1;Winter Is Coming;8.9
+2;The Kingsroad;8.6
+3;Lord Snow;8.5
+4;Cripples, Bastards, and Broken Things;8.6
+5;The Wolf and the Lion;9.0
+6;A Golden Crown;9.1
+7;You Win or You Die;9.1
+8;The Pointy End;8.9
+9;Baelor;9.6
+10;Fire and Blood;9.4
+11;The North Remembers;8.6
+12;The Night Lands;8.3
+13;What Is Dead May Never Die;8.7
+14;Garden of Bones;8.6
+15;The Ghost of Harrenhal;8.6
+16;The Old Gods and the New;8.9
+17;A Man Without Honor;8.8
+18;The Prince of Winterfell;8.6
+19;Blackwater;9.7
+20;Valar Morghulis;9.3
+21;Valar Dohaeris;8.6
+22;Dark Wings, Dark Words;8.4
+23;Walk of Punishment;8.7
+24;And Now His Watch Is Ended;9.5
+25;Kissed by Fire;8.9
+26;The Climb;8.7
+27;The Bear and the Maiden Fair;8.6
+28;Second Sons;8.9
+29;The Rains of Castamere;9.9
+30;Mhysa;9.1
+31;Two Swords;9.0
+32;The Lion and the Rose;9.7
+33;Breaker of Chains;8.7
+34;Oathkeeper;8.7
+35;First of His Name;8.6
+36;The Laws of Gods and Men;9.7
+37;Mockingbird;9.0
+38;The Mountain and the Viper;9.7
+39;The Watchers on the Wall;9.6
+40;The Children;9.7
+41;The Wars to Come;8.3
+42;The House of Black and White;8.3
+43;High Sparrow;8.3
+44;Sons of the Harpy;8.5
+45;Kill the Boy;8.5
+46;Unbowed, Unbent, Unbroken;7.9
+47;The Gift;8.8
+48;Hardhome;9.8
+49;The Dance of Dragons;9.4
+50;Mother's Mercy;9.1
+51;The Red Woman;8.4
+52;Home;9.2
+53;Oathbreaker;8.6
+54;Book of the Stranger;9.0
+55;The Door;9.7
+56;Blood of My Blood;8.3
+57;The Broken Man;8.5
+58;No One;8.3
+59;Battle of the Bastards;9.9
+60;The Winds of Winter;9.9
+61;Dragonstone;8.5
+62;Stormborn;8.8
+63;The Queen's Justice;9.1
+64;The Spoils of War;9.7
+65;Eastwatch;8.7
+66;Beyond the Wall;9.0
+67;The Dragon and the Wolf;9.4
+68;Winterfell;7.6
+69;A Knight of the Seven Kingdoms;7.9
+70;The Long Night;7.5
+71;The Last of the Starks;5.5
+72;The Bells;5.9
+73;The Iron Throne;4.0
