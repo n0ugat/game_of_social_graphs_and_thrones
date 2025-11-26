@@ -1,0 +1,12 @@
+Netværk fra karakterer sider
+-	Hvem er linket til mest?
+o	Vægtet 
+-	Hvem virker vigtigst?
+-	Hvilke communities får vi?
+Netværk af karakterer fra episode sider
+-	Hvem virker vigtigst her?
+o	Er det den samme?
+o	Hvordan er scores anderledes fra det andet netværk?
+Kan man se en udvikling af karakterers relationer over tid?
+-	Per afsnit? Per sæson?
+
