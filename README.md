@@ -3,7 +3,7 @@ Final project about Game of Thrones for the DTU course Social Graphs and Interac
 
 ## Central Idea:
 ### Idea
-Our main idea is analyzing the many connections in the *Game of Thrones* universe.
+Our main idea is analyzing ethe many connections in the *Game of Thrones* series.
 
 ### Why is it interesting?
 Game of Thrones features a vast universe, rich in characters, cast, episodes, books, lore, etc. The universe was really popularized by the HBO series Game of Thrones, which was adopted by the original book series *A Song of Ice and Fire* by George R. R. Martin. 
@@ -16,13 +16,15 @@ To download the needed pages, we used the skills we've learned in the course abo
 
 ## Preliminary Data Analysis
 ### Data size
-* MB:
-* Number of rows:
-* Number of variables:
+* MB: 48.3
+* Number of rows: 5709 Pages
+* Number of variables: 
 
 ### Network description
+The network has 5709 nodes and 201180 links.
 
 ### Analysis text
+We will draw character connections from episode descriptions
 
 ### Tie between networks and text
-
+Our network will connect characters across seasons.
