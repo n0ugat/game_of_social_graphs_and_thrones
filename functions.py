@@ -2,6 +2,7 @@ import os
 import nltk
 import re
 import json
+import pickle
 
 def load_text_files(file: str, path: str = 'GoT_files', newLine: bool = False) -> str:
     with open(os.path.join(path, file), 'r', encoding='utf-8', errors='ignore') as f:
@@ -11,6 +12,12 @@ def load_text_files(file: str, path: str = 'GoT_files', newLine: bool = False) -
             text = f.read()
 
     return text
+
+def load_graphs(graph: str, path: str = 'graphs'):
+    with open(os.path.join(path,graph), 'rb') as f:
+        loaded_graph = pickle.load(f)
+    
+    return loaded_graph
 
 def load_all_files(path: str = 'GoT_files') -> dict:
     pages = os.listdir(path)
@@ -22,6 +29,10 @@ def load_all_files(path: str = 'GoT_files') -> dict:
     page_texts = {}
 
     for file in pages:
+        # Skip files in Doubles subfolder and skip directories
+        if file == 'Doubles' or os.path.isdir(os.path.join(path, file)):
+            continue
+            
         page_name =  file.replace(".txt", "")
         text = load_text_files(file,path)
         page_texts[page_name] = text
