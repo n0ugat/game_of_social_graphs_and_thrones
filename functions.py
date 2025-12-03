@@ -121,3 +121,110 @@ def get_links(text: str, path: str = 'GoT_files', no_files: bool = True, no_tran
         links = re.findall(r"\[{2}(?!\w{2,5}(?:-\w{2})?:).+?\]{2}", f.read())
     
     return links
+
+def get_links_by_section(file: str, path: str = 'GoT_files', no_files: bool = True, no_translations: bool = True) -> dict:
+    """Extract links from a wiki page, organized by section.
+    
+    Args:
+        file: Filename to read (e.g., 'Page Name.txt')
+        path: Directory containing the file
+        no_files: If True, exclude File: and Image: links
+        no_translations: If True, exclude translation links (e.g., [[de:...]])
+    
+    Returns:
+        Dictionary with structure:
+        {
+            'sections': {
+                'Section Name': {
+                    'subsections': {
+                        'Subsection Name': ['link1', 'link2', ...],
+                        ...
+                    },
+                    'links': ['link1', 'link2', ...]  # Links directly under this section
+                },
+                ...
+            },
+            'header': ['link1', 'link2', ...],  # Links before first section
+            'categories': ['category1', 'category2', ...]  # Links after <!--Categories-->
+        }
+    """
+    
+    with open(os.path.join(path, file), 'r', encoding='utf-8') as f:
+        text = f.read()
+    
+    # Build regex pattern for links
+    if no_files and no_translations:
+        link_pattern = r"\[\[(?!\w{2,5}(?:-\w{2})?:)(?!File:)(?!Image:)(.+?)\]\]"
+    elif no_files:
+        link_pattern = r"\[\[(?!File:)(?!Image:)(.+?)\]\]"
+    elif no_translations:
+        link_pattern = r"\[\[(?!\w{2,5}(?:-\w{2})?:)(.+?)\]\]"
+    else:
+        link_pattern = r"\[\[(.+?)\]\]"
+    
+    result = {
+        'sections': {},
+        'header': [],
+        'categories': []
+    }
+    
+    # Split text into parts
+    lines = text.split('\n')
+    
+    current_section = None
+    current_subsection = None
+    in_categories = False
+    
+    for i, line in enumerate(lines):
+        # Check if we've reached categories
+        if '<!--Categories-->' in line:
+            in_categories = True
+            continue
+        
+        # Check for section headers
+        section_match = re.match(r'^==(.*?)==\s*$', line)
+        subsection_match = re.match(r'^===(.*?)===\s*$', line)
+        
+        if section_match and not subsection_match:
+            # Main section (== Section ==)
+            current_section = section_match.group(1).strip()
+            current_subsection = None
+            if current_section not in result['sections']:
+                result['sections'][current_section] = {
+                    'subsections': {},
+                    'links': []
+                }
+        elif subsection_match:
+            # Subsection (=== Subsection ===)
+            current_subsection = subsection_match.group(1).strip()
+            if current_section:
+                if current_subsection not in result['sections'][current_section]['subsections']:
+                    result['sections'][current_section]['subsections'][current_subsection] = []
+        
+        # Extract links from this line
+        matches = re.findall(link_pattern, line)
+        
+        for match in matches:
+            # Clean the link (remove pipe syntax)
+            if '|' in match:
+                link = match.split('|')[0]
+            else:
+                link = match
+            
+            # Skip category links in normal sections
+            if link.startswith('Category:') or link.startswith('category:'):
+                if in_categories:
+                    result['categories'].append(link.replace('Category:', '').replace('category:', ''))
+                continue
+            
+            # Add to appropriate location
+            if in_categories:
+                continue  # Skip non-category links after <!--Categories-->
+            elif current_subsection and current_section:
+                result['sections'][current_section]['subsections'][current_subsection].append(link)
+            elif current_section:
+                result['sections'][current_section]['links'].append(link)
+            else:
+                result['header'].append(link)
+    
+    return result
