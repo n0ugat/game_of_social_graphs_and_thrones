@@ -3,6 +3,8 @@ import nltk
 import re
 import json
 import pickle
+import networkx as nx
+import matplotlib.pyplot as plt
 
 def load_text_files(file: str, path: str = 'GoT_files', newLine: bool = False) -> str:
     with open(os.path.join(path, file), 'r', encoding='utf-8', errors='ignore') as f:
@@ -228,3 +230,89 @@ def get_links_by_section(file: str, path: str = 'GoT_files', no_files: bool = Tr
                 result['header'].append(link)
     
     return result
+
+
+def plot_character_network(G, weighted=False, top_n=10):
+    """
+    Plot the largest weakly-connected component of a directed character network.
+
+    - Background: light grey
+    - Nodes: size ~ degree, color ~ in-degree
+    - Edges: grey; width scaled if weighted=True
+    - Labels: top_n nodes by degree, white, fontsize=15
+    - Layout: forceatlas2_layout
+    """
+
+    # Extract largest weakly connected component
+    largest_cc = max(nx.weakly_connected_components(G), key=len)
+    G_main = G.subgraph(largest_cc).copy()
+
+    # Compute layout
+    pos = nx.forceatlas2_layout(G_main)
+
+    # Degree and in-degree
+    degrees = dict(G_main.degree())
+    in_degrees = dict(G_main.in_degree())
+
+    # Node sizes
+    node_sizes = [degrees[n] * 20 for n in G_main.nodes()]
+
+    # Node colors (in-degree)
+    node_color_values = [in_degrees[n] for n in G_main.nodes()]
+
+    # Figure
+    fig, ax = plt.subplots(figsize=(15, 12))
+    fig.patch.set_facecolor("lightgrey")
+    ax.set_facecolor("lightgrey")
+
+    # Edge widths
+    if weighted:
+        weights = [G_main[u][v].get('weight', 1) for u, v in G_main.edges()]
+        max_w = max(weights)
+        min_w = min(weights)
+        edge_widths = [
+            0.5 + 4.5 * (w - min_w) / (max_w - min_w)
+            if max_w > min_w else 2
+            for w in weights
+        ]
+    else:
+        edge_widths = 1
+
+    # Draw edges
+    nx.draw_networkx_edges(
+        G_main,
+        pos,
+        width=edge_widths,
+        edge_color="gray",
+        alpha=0.5,
+        arrows=True if G_main.is_directed() else False,
+        arrowsize=10,
+        ax=ax
+    )
+
+    # Draw nodes
+    nx.draw_networkx_nodes(
+        G_main,
+        pos,
+        node_size=node_sizes,
+        node_color=node_color_values,
+        cmap=plt.cm.viridis,
+        alpha=0.85,
+        ax=ax
+    )
+
+    # Labels for top nodes
+    top_nodes = sorted(degrees.items(), key=lambda x: x[1], reverse=True)[:top_n]
+    labels = {node: node for node, _ in top_nodes}
+    nx.draw_networkx_labels(
+        G_main,
+        pos,
+        labels=labels,
+        font_color='white',
+        font_size=15,
+        ax=ax
+    )
+
+    ax.axis('off')
+    plt.tight_layout()
+    plt.show()
