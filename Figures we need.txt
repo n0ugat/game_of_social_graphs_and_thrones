@@ -1,0 +1,7 @@
+Figure 1: Weighted and unweighted graph
+
+Figure 2: Word cloud for k=4 clique communities
+
+Figure 3: Subgraphs of networks throughout seasons (larger version in appendix)
+
+Figure 4: Semantic score of relations over seasons from one character to ?? others (more in appendix)
