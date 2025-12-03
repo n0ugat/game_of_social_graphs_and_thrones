@@ -3,6 +3,8 @@ import nltk
 import re
 import json
 import pickle
+from sklearn.feature_extraction.text import ENGLISH_STOP_WORDS
+import pandas as pd
 
 def load_text_files(file: str, path: str = 'GoT_files', newLine: bool = False) -> str:
     with open(os.path.join(path, file), 'r', encoding='utf-8', errors='ignore') as f:
@@ -39,14 +41,34 @@ def load_all_files(path: str = 'GoT_files') -> dict:
     
     return page_texts
 
-
-def tokenize_text(text: str) -> list:
-    tokens = nltk.word_tokenize(text)
-
+def tokenize_text(text: str, rm_stopwords: bool = False) -> list:
+    """
+    Tokenize text into lowercase alphabetic words and remove stopwords.
+    """
+    # tokens = nltk.word_tokenize(text)
     # Filter out punctuation and convert to lowercase in one pass
-    tokens = [token.lower() for token in tokens]
+    # tokens = [token.lower() for token in tokens]
+    tokens = re.findall(r"\b[a-zA-Z]+\b", text.lower())
+    if rm_stopwords:
+        STOPWORDS = set(ENGLISH_STOP_WORDS)
+        tokens = [token for token in tokens if token not in STOPWORDS]
     return tokens
 
+
+def load_labmit_s1(path: str = "data/Data_Set_S1.txt"):
+    """
+    Load S1 wordlist as {word: happiness_average}.
+    Assumes a tab-separated file with columns:
+    word, happiness_rank, happiness_average, ...
+    """
+    df = pd.read_csv(path, sep="\t")  # header is in the file
+
+    # Normalize words to lowercase
+    df["word"] = df["word"].astype(str).str.lower()
+
+    # Build dict: word -> happiness_average
+    lexicon = dict(zip(df["word"], df["happiness_average"].astype(float)))
+    return lexicon
 
 def check_categories(text: str, unique_categories: list = []) -> list:
     """Extract wiki [[Category:...]] values from raw text and append to unique_categories.
@@ -108,6 +130,17 @@ def get_catgories(text: str, raw_categories: list = [], category_map: list = [])
     cleaned_categories = clean_categories(raw_categories, category_map)
 
     return cleaned_categories
+
+def compute_sentiment(tokens, lexicon):
+    """
+    Compute sentiment score for a list of tokens using a word→score lexicon.
+    Here: arithmetic mean of scores for tokens that are in the lexicon.
+    Returns: float or None if no tokens are in the lexicon.
+    """
+    scores = [lexicon[t] for t in tokens if t in lexicon]
+    if not scores:
+        return None
+    return sum(scores) / len(scores)
     
 def get_links(text: str, path: str = 'GoT_files', no_files: bool = True, no_translations: bool = True) -> list:
 
