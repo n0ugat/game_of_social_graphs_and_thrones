@@ -19,7 +19,6 @@ The full network has:
 * 5672 nodes
 * 198768 edges
 * Average degree of 35.04
-of which there are
 * 847 character pages
 * 91 episode pages from Game of Thrones and House of the Dragon
 
