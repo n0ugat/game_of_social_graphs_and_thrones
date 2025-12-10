@@ -1,7 +1,9 @@
 # game_of_social_graphs_and_thrones
 Final project about Game of Thrones for the DTU course Social Graphs and Interactions (02805).
 
-The full code for the project is assembled in final_code.py, from where the entire analysis can also be run. 
+The full code for the project is assembled in ```final_code.py```, from where the entire analysis can also be run. 
+
+To run the code, the necessary libraries need to be installed. An environment with the needed libraries can be created with ```conda env create -f environment.yaml```.
 
 ## Central Idea:
 ### Idea
@@ -23,3 +25,4 @@ of which there are
 
 ### Download process
 To download the needed pages, we used the skills we've learned in the course about APIs.
+
